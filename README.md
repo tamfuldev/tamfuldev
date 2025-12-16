@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10: California Done and Social Realizations](https://dev.to/casperday11/day-10-california-done-and-social-realizations-3g81)
-- [Graphics Programming 101 in Node.js &lpar;Yes, It’s Actually Possible&rpar;.](https://dev.to/sfundomhlungu/graphics-programming-101-in-nodejs-yes-its-actually-possible-1kbm)
-- [I moved my portfolio website from Next.js to Astro. Best decision ever.](https://dev.to/alexcloudstar/-i-moved-my-portfolio-website-from-nextjs-to-astro-best-decision-ever-40fe)
-- [A Production-Ready QR Code API for Real-World Apps](https://dev.to/marquismark/a-production-ready-qr-code-api-for-real-world-apps-30i5)
-- [Beating “Requests Restricted”: A Practical Guide to Using Residential Proxies in Sneaker Automation](https://dev.to/anna_6c67c00f5c3f53660978/beating-requests-restricted-a-practical-guide-to-using-residential-proxies-in-sneaker-automation-5a0)
+- [Advent of Cyber 2025: Day 6 Writeup - War with Malware | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-6-writeup-war-with-malware-tryhackme-30h8)
+- [How to Stop AI From Ruining Your Architecture](https://dev.to/ttoss/how-to-stop-ai-from-ruining-your-architecture-403h)
+- [Bastillion: A Web-Based SSH Console and Key Management Tool](https://dev.to/stelixx-insider/bastillion-a-web-based-ssh-console-and-key-management-tool-4jdb)
+- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
+- [Java is Back on Lambda: Building a Sub-Second GenAI API with Spring Boot 3, SnapStart, and Bedrock](https://dev.to/jmontagne/java-is-back-on-lambda-building-a-sub-second-genai-api-with-spring-boot-3-snapstart-and-bedrock-ebo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
