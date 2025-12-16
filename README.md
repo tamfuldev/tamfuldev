@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 316 - Nitpicking](https://dev.to/mcsee/code-smell-316-nitpicking-pee)
-- [Chirps AI - Build smart AI chatbots](https://dev.to/medjul06/chirps-ai-build-smart-ai-chatbots-2h8h)
-- [Rebuilding a web text editor](https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o)
-- [Our SEO Journey: From SPA to Next.js &lpar;The Complete Playbook&rpar;](https://dev.to/bishoy_semsem/our-seo-journey-from-spa-to-nextjs-the-complete-playbook-3mna)
-- [Building Global-Ready Applications: Why Payments Can’t Be an Afterthought](https://dev.to/rejoice_shalomagtagma_1c/building-global-ready-applications-why-payments-cant-be-an-afterthought-2dcd)
+- [Day 10: California Done and Social Realizations](https://dev.to/casperday11/day-10-california-done-and-social-realizations-3g81)
+- [Graphics Programming 101 in Node.js &lpar;Yes, It’s Actually Possible&rpar;.](https://dev.to/sfundomhlungu/graphics-programming-101-in-nodejs-yes-its-actually-possible-1kbm)
+- [I moved my portfolio website from Next.js to Astro. Best decision ever.](https://dev.to/alexcloudstar/-i-moved-my-portfolio-website-from-nextjs-to-astro-best-decision-ever-40fe)
+- [A Production-Ready QR Code API for Real-World Apps](https://dev.to/marquismark/a-production-ready-qr-code-api-for-real-world-apps-30i5)
+- [Beating “Requests Restricted”: A Practical Guide to Using Residential Proxies in Sneaker Automation](https://dev.to/anna_6c67c00f5c3f53660978/beating-requests-restricted-a-practical-guide-to-using-residential-proxies-in-sneaker-automation-5a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
