@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f)
-- [The Magic of Linux Text Editors](https://dev.to/agentic-jj/the-magic-of-linux-text-editors-4ic6)
-- [Why Tiny Daily Tasks Are Killing Your Productivity — And One Hub Solves It](https://dev.to/muhammad_haris_7828c7aeda/why-tiny-daily-tasks-are-killing-your-productivity-and-one-hub-solves-it-5od)
-- [Text Processing in Linux: grep, awk, and Pipes That Actually Get Work Done](https://dev.to/agentic-jj/text-processing-in-linux-grep-awk-and-pipes-that-actually-get-work-done-1c10)
-- [Coding Challenge Practice - Question 79](https://dev.to/tomivan/coding-challenge-practice-question-79-24dd)
+- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m)
+- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb)
+- [Beyond the Wire: Encrypting Messages Where the Message Never Exists](https://dev.to/suign/beyond-the-wire-encrypting-messages-where-the-message-never-exists-4fcb)
+- [Edge ML Has a Size Obsession](https://dev.to/aronchick/edge-ml-has-a-size-obsession-34fb)
+- [Vibe Coding: From Hell to Heaven in One Insight](https://dev.to/rex_zhen_a9a8400ee9f22e98/vibe-coding-from-hell-to-heaven-in-one-insight-4fjk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
