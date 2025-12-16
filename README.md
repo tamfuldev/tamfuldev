@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity for Developers: Lifting the Burden with Gemini 3 Agents](https://dev.to/gioboa/antigravity-for-developers-lifting-the-burden-with-gemini-3-agents-3o9c)
-- [Proxy market forecast 2026: How regulation &lpar;GDPR, CCPA&rpar; is reshaping the landscape](https://dev.to/astro-official/proxy-market-forecast-2026-how-regulation-gdpr-ccpa-is-reshaping-the-landscape-3mbc)
-- [Some SaaS Products Are Bigger Than They Look](https://dev.to/sonu_goswami/some-saas-products-are-bigger-than-they-look-ke)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-3cf2)
-- [Mini project to demonstrate VPC peering in AWS using Terraform](https://dev.to/nandan_007/demonstrate-vpc-peering-in-aws-using-terraform-3nde)
+- [Checkout this article on Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/checkout-this-article-on-unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-2ce6)
+- [Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-4oeb)
+- [I Built a Fun Functional ATM in Python &lpar;And It Taught Me More Than I Expected 💳🐍&rpar;](https://dev.to/halakabir234hub/i-built-a-fun-functional-atm-in-python-and-it-taught-me-more-than-i-expected--4922)
+- [Discover Marudhamalai: Coimbatore&#39;s Premier Lifestyle Destination](https://dev.to/66centscbe/discover-marudhamalai-coimbatores-premier-lifestyle-destination-49j5)
+- [Our Third Tiny Tool: A Simple JPG to PNG Converter We Built as an Experiment](https://dev.to/lynn123456/our-third-tiny-tool-a-simple-jpg-to-png-converter-we-built-as-an-experiment-5a72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
