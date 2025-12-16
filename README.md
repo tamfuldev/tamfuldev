@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced C Preprocessor Macros for a Type-Safe Varargs Substitute](https://dev.to/pauljlucas/advanced-c-preprocessor-macros-for-a-type-safe-varargs-substitute-2aog)
-- [Docker Internals Deep Dive: What Really Happens When You Run docker run &lpar;2025 Edition&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/docker-internals-deep-dive-what-really-happens-when-you-run-docker-run-2025-edition-2k97)
-- [About the issue of keyboard crash when popping up](https://dev.to/harmonyos/about-the-issue-of-keyboard-crash-when-popping-up-37pg)
-- [Add custom image markers to the map component with digital subscripts](https://dev.to/harmonyos/add-custom-image-markers-to-the-map-component-with-digital-subscripts-2c53)
-- [Low-Code LLM Evaluation Framework with n8n: Automated Testing Guide](https://dev.to/omer_dahan_6305e5f4900a75/low-code-llm-evaluation-framework-with-n8n-automated-testing-guide-280f)
+- [I built a Resume Killer using Next.js, Neo4j, and Gemini](https://dev.to/harsha_vardhanreddy_15a5/i-built-a-resume-killer-using-nextjs-neo4j-and-gemini-2abf)
+- [I built a free JSON Viewer, Formatter &amp; Converter for developers](https://dev.to/avinash_verma_dc226a5d270/i-built-a-free-json-viewer-formatter-converter-for-developers-20gf)
+- [Digital Identity Verification for Banks &amp; NBFCs](https://dev.to/verify_ekyc_cb7c756bbe01/digital-identity-verification-for-banks-nbfcs-2b7d)
+- [Transform LLM Apps with Monetzly&#39;s API Monetization Strategies](https://dev.to/monetzly/transform-llm-apps-with-monetzlys-api-monetization-strategies-2o7b)
+- [Tutorial: How to Detect VPNs and Tor Users in Node.js Express](https://dev.to/stoney_epling_da267a9f72a/tutorial-how-to-detect-vpns-and-tor-users-in-nodejs-express-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
