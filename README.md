@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Access Tauri Documentation Directly in Your Editor with tauri-docs MCP](https://dev.to/dev_michael/access-tauri-documentation-directly-in-your-editor-with-tauri-docs-mcp-3a7g)
-- [Building vtracer: Day 1 – My First Java Agent Adventure with Java 21](https://dev.to/porus09/building-vtracer-day-1-my-first-java-agent-adventure-with-java-21-4fjp)
-- [Diff-XYZ: A Benchmark for Evaluating Diff Understanding](https://dev.to/paperium/diff-xyz-a-benchmark-for-evaluating-diff-understanding-1h5o)
-- [How to Create a Perfect AWS Security Group &lpar;Without Breaking Your App&rpar;](https://dev.to/msbala007/how-to-create-a-perfect-aws-security-group-without-breaking-your-app-50bm)
-- [Automate Your API Documentation with sveltekit-api-gen](https://dev.to/dev_michael/automate-your-api-documentation-with-sveltekit-api-gen-2lgb)
+- [[Boost]](https://dev.to/david_bussell14/-543b)
+- [I Wasted 6 Months Building Products Nobody Wanted. Then I Discovered the Real Problem.](https://dev.to/lukehanner/i-wasted-6-months-building-products-nobody-wanted-then-i-discovered-the-real-problem-4704)
+- [How to integrate Lemon Squeezy Payments into a chrome extension with webhooks](https://dev.to/notearthian/how-to-integrate-lemon-squeezy-payments-into-a-chrome-extension-with-webhooks-3ib9)
+- [Escaping Dependency Hell: How I Migrated a Legacy CRA App to React 19 &amp; Vite](https://dev.to/imamifti056/escaping-dependency-hell-how-i-migrated-a-legacy-cra-app-to-react-19-vite-2pnf)
+- [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
