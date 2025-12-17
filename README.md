@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Novel Contributions of the Independent Variation Principle](https://dev.to/yannick555/novel-contributions-of-the-independent-variation-principle-lmd)
-- [Sveltekit Custom Remote Form Factory](https://dev.to/sillvva/sveltekit-custom-remote-form-factory-nmo)
-- [Canonical JSON Model](https://dev.to/rokoss21/canonical-json-model-2p8o)
-- [**Essential Docker Patterns for Modern Web Development: Multi-Stage, Compose, and Production-Ready Containers**](https://dev.to/nithinbharathwaj/essential-docker-patterns-for-modern-web-development-multi-stage-compose-and-production-ready-poe)
-- [Day 1287 : Could Be Wrong](https://dev.to/dwane/day-1287-could-be-wrong-3pep)
+- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d)
+- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92)
+- [How to Create a React App Using Vite &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/ahmad_mahboob/how-to-create-a-react-app-using-vite-step-by-step-guide-for-beginners-5eif)
+- [Comparativa de preprocesadores de textos CSS](https://dev.to/erickvasm/comparativa-de-preprocesadores-de-textos-css-3ini)
+- [Rate my website](https://dev.to/sami9889/rate-my-website-3a18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
