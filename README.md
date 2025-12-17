@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My project 4 : Building a REST API &lpar;with Flask + SQLite&rpar;](https://dev.to/sabin_sim/my-project-4-building-a-rest-api-with-flask-sqlite-3l6p)
-- [A Formal Verification of the XRP Ledger](https://dev.to/ripplexdev/a-formal-verification-of-the-xrp-ledger-51e4)
-- [Beyond Simple Prompts: Architecting an AI Agent](https://dev.to/pyalwin/beyond-simple-prompts-architecting-an-ai-agent-1i8c)
-- [Building a Daily Productivity App with Pieces - Part 2: Adding AI Intelligence with Gemini](https://dev.to/get_pieces/building-a-daily-productivity-app-with-pieces-part-2-adding-ai-intelligence-with-gemini-2nc4)
-- [Building a Midnight App with ViteJS](https://dev.to/giovanni_c7781d55fcf2362c/building-a-private-split-app-1bna)
+- [Stop letting bloated web tools slow down your workflow &lpar;and RAM&rpar; 🛑](https://dev.to/sehgalspandan/stop-letting-bloated-web-tools-slow-down-your-workflow-and-ram-1d58)
+- [New to a Large Project? This Is How I Decode Complex Databases](https://dev.to/br-lovanshi/new-to-a-large-project-this-is-how-i-decode-complex-databases-422j)
+- [Day 27 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-27-of-improving-my-data-science-skills-2pa1)
+- [Lessons Learned Deploying LLMs in Regulated Enterprise Environments](https://dev.to/dextralabs/lessons-learned-deploying-llms-in-regulated-enterprise-environments-1d7i)
+- [Top AI &amp; ML App Ideas for Innovators in 2026](https://dev.to/startup-consultant/top-ai-ml-app-ideas-for-innovators-in-2026-1p11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
