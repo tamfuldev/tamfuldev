@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Blocking Web Scrapers with Fail2Ban + Nginx &lpar;Production Guide&rpar;](https://dev.to/ajitkumar/blocking-web-scrapers-with-fail2ban-nginx-production-guide-e67)
-- [IVFFlat Indexing in pgvector](https://dev.to/azayshrestha/ivfflat-indexing-in-pgvector-2cj0)
-- [Decoding Bitwise’s 2026 Crypto Forecast: Three Key Infrastructure Trends Every Developer Should Watch](https://dev.to/apnews/decoding-bitwises-2026-crypto-forecast-three-key-infrastructure-trends-every-developer-should-i26)
-- [How Do You Cache Partial Responses or Specific Elements in Apigee X?](https://dev.to/realnamehidden1_61/how-do-you-cache-partial-responses-or-specific-elements-in-apigee-x-4m2m)
-- [Backpropagation in Deep Learning: A Complete, Intuitive, and Practical Guide](https://dev.to/nishanthan-k/backpropagation-in-deep-learning-a-complete-intuitive-and-practical-guide-3dm4)
+- [Vibe Coded a Hardware Tester in a Weekend. &lpar;Spoiler: The UI took 10 mins, the Physics took 2 days&rpar;](https://dev.to/jackwind/vibe-coded-a-hardware-tester-in-a-weekend-spoiler-the-ui-took-10-mins-the-physics-took-2-days-1f3j)
+- [Wake up, Neo ...](https://dev.to/badbuilders/wake-up-neo--15da)
+- [I made a calculator for Roblox Fisch because the wiki was driving me crazy](https://dev.to/_cf61e28288c83ce5ba5f82/i-made-a-calculator-for-roblox-fisch-because-the-wiki-was-driving-me-crazy-33k8)
+- [Automatic Speech Recognition in a Noisy world!](https://dev.to/awesomeaudioai/automatic-speech-recognition-in-a-noisy-world-14g4)
+- [RAG-Augmented Agile Story Generation: An Architectural Framework for LLM-Powered Backlog Automation](https://dev.to/manasa_nandelli_707b6d6f2/rag-augmented-agile-story-generation-an-architectural-framework-for-llm-powered-backlog-automation-2md0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
