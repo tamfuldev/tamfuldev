@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d)
-- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92)
-- [How to Create a React App Using Vite &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/ahmad_mahboob/how-to-create-a-react-app-using-vite-step-by-step-guide-for-beginners-5eif)
-- [Comparativa de preprocesadores de textos CSS](https://dev.to/erickvasm/comparativa-de-preprocesadores-de-textos-css-3ini)
-- [Rate my website](https://dev.to/sami9889/rate-my-website-3a18)
+- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
+- [Seeking Feedback on Custom Blogger Templates - What Do You Need?](https://dev.to/yzg/seeking-feedback-on-custom-blogger-templates-what-do-you-need-40em)
+- [dreamlog](https://dev.to/queelius/dreamlog-1m0n)
+- [maph](https://dev.to/queelius/maph-1hc6)
+- [btk](https://dev.to/queelius/btk-31hg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
