@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Port Numbers Quiz -- Ports Every Security Engineer Should Know](https://dev.to/fosres/port-numbers-quiz-ports-every-security-engineer-should-know-5784)
-- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-2iof)
-- [Try My game Tower Tim](https://dev.to/keaton_ee30ab1d5668fd76bb/try-my-game-tower-tim-a9c)
-- [Exploring Logging in Caddy](https://dev.to/danielcristho/exploring-logging-in-caddy-adb)
-- [**Concepto clave: Sujetos obligados y actividades vulnerable](https://dev.to/drcarlosruizviquez/concepto-clave-sujetos-obligados-y-actividades-vulnerable-mac)
+- [Cobra in Go: How to Create Easy-to-Use Command-Line Tools](https://dev.to/rijultp/cobra-in-go-how-to-create-easy-to-use-command-line-tools-4dhb)
+- [Testing AI Systems: Handling the Test Oracle Problem](https://dev.to/qa-leaders/testing-ai-systems-handling-the-test-oracle-problem-3038)
+- [Turning Small Python Scripts into Real, Usable Tools](https://dev.to/silent_f76b5c97a44c15a4d1/turning-small-python-scripts-into-real-usable-tools-2cob)
+- [From Chaos to Perfect Flow: My Experience Automating a Massive Real GitLab Migration &lpar;4,000 Repos&rpar;](https://dev.to/claudiodevops/from-chaos-to-perfect-flow-my-experience-automating-a-massive-real-gitlab-migration-4000-repos-2p2f)
+- [🛡️ Building a CASB‑Like Threat Monitoring Lab in AWS &lpar;Beginner Friendly&rpar;](https://dev.to/ldwit/building-a-casb-like-threat-monitoring-lab-in-aws-beginner-friendly-4m80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
