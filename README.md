@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop letting bloated web tools slow down your workflow &lpar;and RAM&rpar; 🛑](https://dev.to/sehgalspandan/stop-letting-bloated-web-tools-slow-down-your-workflow-and-ram-1d58)
-- [New to a Large Project? This Is How I Decode Complex Databases](https://dev.to/br-lovanshi/new-to-a-large-project-this-is-how-i-decode-complex-databases-422j)
-- [Day 27 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-27-of-improving-my-data-science-skills-2pa1)
-- [Lessons Learned Deploying LLMs in Regulated Enterprise Environments](https://dev.to/dextralabs/lessons-learned-deploying-llms-in-regulated-enterprise-environments-1d7i)
-- [Top AI &amp; ML App Ideas for Innovators in 2026](https://dev.to/startup-consultant/top-ai-ml-app-ideas-for-innovators-in-2026-1p11)
+- [🛡️ Building a Mini Cloud Security Posture Management &lpar;CSPM&rpar; Lab Using AWS Security Hub + AWS Config](https://dev.to/ldwit/building-a-mini-cloud-security-posture-management-cspm-lab-using-aws-security-hub-aws-config-3c8o)
+- [[Boost]](https://dev.to/david_bussell14/-3o35)
+- [How to Manage Side Projects When You Have ADHD](https://dev.to/fedtti/how-to-manage-side-projects-when-you-have-adhd-imb)
+- [[Boost]](https://dev.to/anthonymax/-1m5e)
+- [SVG Optimizer: Clean &amp; Compress SVG Files Without Breaking Them](https://dev.to/frontendtoolstech/svg-optimizer-clean-compress-svg-files-without-breaking-them-1bc4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
