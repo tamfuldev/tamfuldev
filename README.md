@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
-- [Seeking Feedback on Custom Blogger Templates - What Do You Need?](https://dev.to/yzg/seeking-feedback-on-custom-blogger-templates-what-do-you-need-40em)
-- [dreamlog](https://dev.to/queelius/dreamlog-1m0n)
-- [maph](https://dev.to/queelius/maph-1hc6)
-- [btk](https://dev.to/queelius/btk-31hg)
+- [Blocking Web Scrapers with Fail2Ban + Nginx &lpar;Production Guide&rpar;](https://dev.to/ajitkumar/blocking-web-scrapers-with-fail2ban-nginx-production-guide-e67)
+- [IVFFlat Indexing in pgvector](https://dev.to/azayshrestha/ivfflat-indexing-in-pgvector-2cj0)
+- [Decoding Bitwise’s 2026 Crypto Forecast: Three Key Infrastructure Trends Every Developer Should Watch](https://dev.to/apnews/decoding-bitwises-2026-crypto-forecast-three-key-infrastructure-trends-every-developer-should-i26)
+- [How Do You Cache Partial Responses or Specific Elements in Apigee X?](https://dev.to/realnamehidden1_61/how-do-you-cache-partial-responses-or-specific-elements-in-apigee-x-4m2m)
+- [Backpropagation in Deep Learning: A Complete, Intuitive, and Practical Guide](https://dev.to/nishanthan-k/backpropagation-in-deep-learning-a-complete-intuitive-and-practical-guide-3dm4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
