@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Under Pressure: Crisis Detection Without UI Lag](https://dev.to/crisiscoresystems/performance-under-pressure-ensuring-crisis-detection-doesnt-degrade-user-experience-h4m)
-- [AWS Service: Amazon DynamoDB](https://dev.to/divya__sundarasekaran_459/aws-service-amazon-dynamodb-3kpe)
-- [Words and Letters: Take your side](https://dev.to/obrutus/words-and-letters-take-your-side-2lfk)
-- [AWS Service – Amazon S3 Glacier](https://dev.to/ganges07/aws-service-amazon-s3-glacier-8e5)
-- [Microsoft Purview no Ignite 2025: segurança de dados integrada para a era de IA e agentes](https://dev.to/angelo_matias/microsoft-purview-no-ignite-2025-seguranca-de-dados-integrada-para-a-era-de-ia-e-agentes-1c49)
+- [Agent Development in Hours, Not Weeks: Accelerating with Gemini 3 and Google ADK](https://dev.to/gioboa/agent-development-in-hours-not-weeks-accelerating-with-gemini-3-and-google-adk-4h0l)
+- [What’s New in WordPress 6.8: Performance, Style Updates &amp; Site Enhancements](https://dev.to/averly_tech_quinn/whats-new-in-wordpress-68-performance-style-updates-site-enhancements-3ole)
+- [Harmonizing Chemical Identity Data for Environmental Monitoring &lpar;Python Solution&rpar;](https://dev.to/phenixzain/harmonizing-chemical-identity-data-for-environmental-monitoringa-python-solution-402a)
+- [Otimizando imagens Docker com multi-stage builds](https://dev.to/laporeon/otimizando-imagens-docker-com-multi-stage-builds-2hol)
+- [Guide to Creating Side Hustles Using Fiverr](https://dev.to/rachanasamarth/guide-to-creating-side-hustles-using-fiverr-58gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
