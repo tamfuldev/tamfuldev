@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Alors, ça prompte ?](https://dev.to/onepoint/alors-ca-prompte--3e4l)
-- [A Simple Project That Turned Into Something Much More!](https://dev.to/techgeniuskaran/a-simple-project-that-turned-into-something-much-more-59mp)
-- [Understanding Amazon EC2: The Foundation of Compute on AWS](https://dev.to/jeyy/understanding-amazon-ec2-the-foundation-of-compute-on-aws-22lp)
-- [Praktikum Keamanan Web: Mass Assignment Vulnerability 😱🔓](https://dev.to/ahmadasroni38/praktikum-keamanan-web-mass-assignment-vulnerability-fmh)
-- [The Printed Circuit Board &lpar;PCB&rpar;: Engineering the Foundation of Modern Electronics](https://dev.to/qlhv_wwno_87da67d24608ea9/the-printed-circuit-board-pcb-engineering-the-foundation-of-modern-electronics-20p8)
+- [YOW! 2025](https://dev.to/nfrankel/yow-2025-pic)
+- [Running TeamCity with a Docker-Capable Agent Using Docker Compose](https://dev.to/giveitatry/running-teamcity-with-a-docker-capable-agent-using-docker-compose-1g76)
+- [Do You Make These 10 Angular Performance Mistakes That Keep Your App Slow?](https://dev.to/karol_modelski/do-you-make-these-10-angular-performance-mistakes-that-keep-your-app-slow-35j8)
+- [How We Actually Ship Complex Systems with AI Agents](https://dev.to/alibaqbani/how-we-actually-ship-complex-systems-with-ai-agents-3i2a)
+- [How Data Tokenization Platforms Enable Privacy, Security, and Tradable Data Assets](https://dev.to/suzie_iris_65ce8070067366/how-data-tokenization-platforms-enable-privacy-security-and-tradable-data-assets-3l40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
