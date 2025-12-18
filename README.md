@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Have you seen your DEV Wrapped 2025 yet? 🎁](https://dev.to/dev_kiran/have-you-seen-your-dev-wrapped-2025-yet-embed-ljk)
-- [You&#39;re Not Bad at Side Projects. You&#39;re Just Building the Wrong Thing.](https://dev.to/lewisnewman24/youre-not-bad-at-side-projects-youre-just-building-the-wrong-thing-2h58)
-- [7 Best Resources to Learn Flutter: My Way to Confident Developer](https://dev.to/stack_overflowed/7-best-resources-to-learn-flutter-my-way-to-confident-developer-1c49)
-- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;3&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-3-1lk1)
-- [智力题——高空抛鸡蛋](https://dev.to/liuxiaoguan/zhi-li-ti-gao-kong-pao-ji-dan-kk1)
+- [Rare Finch Sightings in Colorado: Stories from Birders You’ll Love](https://dev.to/birdiegeeks/rare-finch-sightings-in-colorado-stories-from-birders-youll-love-46hp)
+- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g)
+- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987)
+- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh)
+- [Alternatives to GitHub Actions for self-hosted runners](https://dev.to/r0bbie/alternatives-to-github-actions-for-self-hosted-runners-5eaj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
