@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LUMOS vs Codama: Understanding Solana&#39;s Schema Generation Tools](https://dev.to/getlumos/lumos-vs-codama-understanding-solanas-schema-generation-tools-15i7)
-- [7 Essential Libraries for Modern Node.js Backend Development](https://dev.to/james_miller_8dc58a89cb9e/7-essential-libraries-for-modern-nodejs-backend-development-1l22)
-- [Memory Game – LiveHTML | Okan Kaplan](https://dev.to/okan_kaplan_livehtml/memory-game-livehtml-okan-kaplan-24pa)
-- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v4.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v40-48kd)
+- [Building a Thinking Photo Editor: Migrate to Gemini 3 Pro Image with Angular and Firebase](https://dev.to/railsstudent/building-a-thinking-photo-editor-migrate-to-gemini-3-pro-image-with-angular-and-firebase-1pdk)
+- [Funções de Conversão e Expressões Condicionais em SQL Oracle](https://dev.to/ikauedev/funcoes-de-conversao-e-expressoes-condicionais-em-sql-oracle-5fpj)
+- [SQL Interview Prep: Last-Minute Brushup for Experienced Professionals](https://dev.to/datatechbridge/sql-interview-prep-last-minute-brushup-for-experienced-professionals-1d55)
+- [C# Loops — From `for` and `foreach` to CPU Pipelines and LLM‑Ready Code](https://dev.to/cristiansifuentes/c-loops-from-for-and-foreach-to-cpu-pipelines-and-llm-ready-code-4g31)
+- [The Liskov Substitution Principle, A Model for Parenting](https://dev.to/camiloederson/the-liskov-substitution-principle-explained-through-parenting-4ime)
 <!-- BLOG-POST-LIST:END -->
 
 ---
