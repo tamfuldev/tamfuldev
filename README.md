@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lazyssh: A Terminal-Based SSH Manager for Efficient Server Navigation](https://dev.to/stelixx-insider/lazyssh-a-terminal-based-ssh-manager-for-efficient-server-navigation-3hba)
-- [I Tested 7 Python PDF Extractors So You Don’t Have To &lpar;2025 Edition&rpar;](https://dev.to/onlyoneaman/i-tested-7-python-pdf-extractors-so-you-dont-have-to-2025-edition-akm)
-- [Key Technologies Used in Money Remittance Software Development](https://dev.to/techremit/key-technologies-used-in-money-remittance-software-development-58eh)
-- [Best Protractor Alternatives in 2026](https://dev.to/jamescantor38/best-protractor-alternatives-in-2026-4h0d)
-- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
+- [AWS open source newsletter, #217](https://dev.to/aws/aws-open-source-newsletter-217-o44)
+- [Secure Linux Server Setup &amp; Application Deployment](https://dev.to/yousufbasir/secure-linux-server-setup-application-deployment-i91)
+- [Beyond AI Why Data Center Stability Is the Competitive Advantage of 2026](https://dev.to/medone_israel_f84a80ed12e/beyond-ai-why-data-center-stability-is-the-competitive-advantage-of-2026-36a1)
+- [Mastering Prompt Engineering Patterns for Production Apps | Ash](https://dev.to/ash_dubai/mastering-prompt-engineering-patterns-for-production-apps-ash-43i9)
+- [Unlock Better Code: Simple Code Review Practices That Actually Work](https://dev.to/ash_dubai/unlock-better-code-simple-code-review-practices-that-actually-work-360p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
