@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rare Finch Sightings in Colorado: Stories from Birders You’ll Love](https://dev.to/birdiegeeks/rare-finch-sightings-in-colorado-stories-from-birders-youll-love-46hp)
-- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g)
-- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987)
-- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh)
-- [Alternatives to GitHub Actions for self-hosted runners](https://dev.to/r0bbie/alternatives-to-github-actions-for-self-hosted-runners-5eaj)
+- [IAP-FIN: Building AI Audit Trails That Actually Satisfy Financial Regulators](https://dev.to/veritaschain/iap-fin-building-ai-audit-trails-that-actually-satisfy-financial-regulators-3il0)
+- [Taiwan’s Stablecoin Dilemma: The Geopolitical and Technological Strategy Behind Currency Peg Choice](https://dev.to/apnews/taiwans-stablecoin-dilemma-the-geopolitical-and-technological-strategy-behind-currency-peg-choice-1nof)
+- [Mentorship vs. Micromanagement in Engineering](https://dev.to/aartijangid23/mentorship-vs-micromanagement-in-engineering-92k)
+- [DNS Failures in EKS? The Real Bottleneck Was AWS Network Limits](https://dev.to/ahmedshendy/dns-failures-in-eks-the-real-bottleneck-was-aws-network-limits-fi)
+- [Smart Contract Development Services: From Concept to Secure Blockchain Deployment](https://dev.to/oodlesplatform/smart-contract-development-services-from-concept-to-secure-blockchain-deployment-3jhj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
