@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps Pipelines](https://dev.to/atheeba_parveenja24cb0/azure-devops-pipelines-190d)
-- [DEV Track Spotlight: Spec-driven development with Kiro &lpar;DEV314&rpar;](https://dev.to/aws/dev-track-spotlight-spec-driven-development-with-kiro-dev314-45e8)
-- [I built a website security scanner &lpar;because I kept shipping insecure projects&rpar;](https://dev.to/bennidev/i-built-a-website-security-scanner-because-i-kept-shipping-insecure-projects-1d67)
-- [Build in Public: Week 6. Trying to Add More Social Platforms](https://dev.to/olgabraginskaya/build-in-public-week-6-trying-to-add-more-social-platforms-2ga0)
-- [VeriBiota v0.2.1: Deterministic Verification with Proven Guarantees](https://dev.to/omniscoder/veribiota-v021-deterministic-verification-with-proven-guarantees-3aaf)
+- [Kibana – DevSecOps Tool Overview](https://dev.to/kani-l/kibana-devsecops-tool-overview-hj8)
+- [Amazon Athena in the AWS Periodic Table](https://dev.to/jai_surya_m/amazon-athena-in-the-aws-periodic-table-5g4m)
+- [Thinking, Planning, Executing: Gemini 3&#39;s Agentic Core in the Antigravity Sandbox](https://dev.to/gioboa/thinking-planning-executing-gemini-3s-agentic-core-in-the-antigravity-sandbox-1g9p)
+- [FINTECH 101 — HOW TRANSACTIONS REALLY WORK](https://dev.to/hexstories/fintech-101-how-transactions-really-work-lj4)
+- [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
