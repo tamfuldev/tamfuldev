@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Visitfolio vs Vercel: Which One Should You Actually Use?](https://dev.to/imtaslim/visitfolio-vs-vercel-which-one-should-you-actually-use-n4e)
-- [I built an open-source Chrome Extension to stop my YouTube Shorts addiction &lpar;Manifest V3&rpar;](https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp)
-- [16 hands-on exercises to prepare for the AWS Certified CloudOps Engineer - Associate certification exam](https://dev.to/aws-builders/16-hands-on-exercises-to-prepare-for-the-aws-certified-cloudops-engineer-associate-certification-4c7)
-- [npm audit Won&#39;t Save You: Why We moved to TEEs &lpar;Trusted Execution Environments&rpar;](https://dev.to/gideoncohen/npm-audit-wont-save-you-why-we-moved-to-tees-trusted-execution-environments-3mim)
-- [OpenDMI: Cross-platform DMI/SMBIOS framework](https://dev.to/sdnvx/opendmi-cross-platform-dmismbios-framework-4p6n)
+- [Lazyssh: A Terminal-Based SSH Manager for Efficient Server Navigation](https://dev.to/stelixx-insider/lazyssh-a-terminal-based-ssh-manager-for-efficient-server-navigation-3hba)
+- [I Tested 7 Python PDF Extractors So You Don’t Have To &lpar;2025 Edition&rpar;](https://dev.to/onlyoneaman/i-tested-7-python-pdf-extractors-so-you-dont-have-to-2025-edition-akm)
+- [Key Technologies Used in Money Remittance Software Development](https://dev.to/techremit/key-technologies-used-in-money-remittance-software-development-58eh)
+- [Best Protractor Alternatives in 2026](https://dev.to/jamescantor38/best-protractor-alternatives-in-2026-4h0d)
+- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
