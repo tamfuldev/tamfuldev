@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Security-First SaaS Boilerplate with 100% Test Coverage](https://dev.to/hasan_kemaldemirci_7e7b7/how-i-built-a-security-first-saas-boilerplate-with-100-test-coverage-30dl)
-- [How to use competency &amp; skills matrix in 1on1 and performance reviews](https://dev.to/ridd0/how-to-use-competency-skills-matrix-in-1on1-and-performance-reviews-ji4)
-- [The &quot;GitHub Graveyard&quot; Ends Here: Why Your Next Side Project Should Be a Chrome Extension](https://dev.to/lewisnewman24/the-github-graveyard-ends-here-why-your-next-side-project-should-be-a-chrome-extension-3061)
-- [Shift in the Software Development Paradigm: From Imperative Coding to Solution Architecture and the Economics of AI](https://dev.to/fedor_s_44305e5b02c47b773/shift-in-the-software-development-paradigm-from-imperative-coding-to-solution-architecture-and-the-5g8g)
-- [Is this the End of Agile as we know it ??](https://dev.to/cleberdelima/is-this-the-end-of-agile-as-we-know-it--kmp)
+- [Visitfolio vs Vercel: Which One Should You Actually Use?](https://dev.to/imtaslim/visitfolio-vs-vercel-which-one-should-you-actually-use-n4e)
+- [I built an open-source Chrome Extension to stop my YouTube Shorts addiction &lpar;Manifest V3&rpar;](https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp)
+- [16 hands-on exercises to prepare for the AWS Certified CloudOps Engineer - Associate certification exam](https://dev.to/aws-builders/16-hands-on-exercises-to-prepare-for-the-aws-certified-cloudops-engineer-associate-certification-4c7)
+- [npm audit Won&#39;t Save You: Why We moved to TEEs &lpar;Trusted Execution Environments&rpar;](https://dev.to/gideoncohen/npm-audit-wont-save-you-why-we-moved-to-tees-trusted-execution-environments-3mim)
+- [OpenDMI: Cross-platform DMI/SMBIOS framework](https://dev.to/sdnvx/opendmi-cross-platform-dmismbios-framework-4p6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
