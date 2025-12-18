@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TailAdmin Laravel: Laravel Admin Dashboard Built with Tailwind and Blade](https://dev.to/tailadmin/tailadmin-laravel-laravel-admin-dashboard-built-with-tailwind-and-blade-a84)
-- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
-- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
-- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
-- [The Circuit Breaker Pattern: Building Resilient Applications](https://dev.to/fernanda_nadhiftya/the-circuit-breaker-pattern-building-resilient-applications-4pj7)
+- [Have you seen your DEV Wrapped 2025 yet? 🎁](https://dev.to/dev_kiran/have-you-seen-your-dev-wrapped-2025-yet-embed-ljk)
+- [You&#39;re Not Bad at Side Projects. You&#39;re Just Building the Wrong Thing.](https://dev.to/lewisnewman24/youre-not-bad-at-side-projects-youre-just-building-the-wrong-thing-2h58)
+- [7 Best Resources to Learn Flutter: My Way to Confident Developer](https://dev.to/stack_overflowed/7-best-resources-to-learn-flutter-my-way-to-confident-developer-1c49)
+- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;3&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-3-1lk1)
+- [智力题——高空抛鸡蛋](https://dev.to/liuxiaoguan/zhi-li-ti-gao-kong-pao-ji-dan-kk1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
