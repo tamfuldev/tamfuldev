@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #217](https://dev.to/aws/aws-open-source-newsletter-217-o44)
-- [Secure Linux Server Setup &amp; Application Deployment](https://dev.to/yousufbasir/secure-linux-server-setup-application-deployment-i91)
-- [Beyond AI Why Data Center Stability Is the Competitive Advantage of 2026](https://dev.to/medone_israel_f84a80ed12e/beyond-ai-why-data-center-stability-is-the-competitive-advantage-of-2026-36a1)
-- [Mastering Prompt Engineering Patterns for Production Apps | Ash](https://dev.to/ash_dubai/mastering-prompt-engineering-patterns-for-production-apps-ash-43i9)
-- [Unlock Better Code: Simple Code Review Practices That Actually Work](https://dev.to/ash_dubai/unlock-better-code-simple-code-review-practices-that-actually-work-360p)
+- [Azure DevOps Pipelines](https://dev.to/atheeba_parveenja24cb0/azure-devops-pipelines-190d)
+- [DEV Track Spotlight: Spec-driven development with Kiro &lpar;DEV314&rpar;](https://dev.to/aws/dev-track-spotlight-spec-driven-development-with-kiro-dev314-45e8)
+- [I built a website security scanner &lpar;because I kept shipping insecure projects&rpar;](https://dev.to/bennidev/i-built-a-website-security-scanner-because-i-kept-shipping-insecure-projects-1d67)
+- [Build in Public: Week 6. Trying to Add More Social Platforms](https://dev.to/olgabraginskaya/build-in-public-week-6-trying-to-add-more-social-platforms-2ga0)
+- [VeriBiota v0.2.1: Deterministic Verification with Proven Guarantees](https://dev.to/omniscoder/veribiota-v021-deterministic-verification-with-proven-guarantees-3aaf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
