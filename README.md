@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)
-- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
-- [How to Add Extended Fields to Entities Without Modifying Tables](https://dev.to/canonical/how-to-add-extended-fields-to-entities-without-modifying-tables-5k)
-- [Collecting Real Tourism Listings and Prices at Scale: A Developer’s Guide to Geo-Accurate Data Aggregation](https://dev.to/anna_6c67c00f5c3f53660978/collecting-real-tourism-listings-and-prices-at-scale-a-developers-guide-to-geo-accurate-data-1icl)
-- [Simple Steps to Deploy Smart Contract](https://dev.to/janithdisanayake/simple-steps-to-deploy-smart-contract-30dd)
+- [Designing Cost-Aware AI Inference on AWS: Scaling Models Without Burning Your Cloud Budget](https://dev.to/btanisha11/designing-cost-aware-ai-inference-on-aws-scaling-models-without-burning-your-cloud-budget-5609)
+- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
+- [How to implement true Picture-in-Picture &lpar;PiP&rpar; on iOS in React Native &lpar;outside app, like WhatsApp&rpar;?](https://dev.to/priyanshi_patel_384d5b718/how-to-implement-true-picture-in-picture-pip-on-ios-in-react-native-outside-app-like-whatsapp-29a8)
+- [Release everything with JReleaser](https://dev.to/onepoint/release-everything-with-jreleaser-5a97)
+- [**8 Python Database Optimization Techniques to 10x Your Application Performance**](https://dev.to/nithinbharathwaj/8-python-database-optimization-techniques-to-10x-your-application-performance-8bf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
