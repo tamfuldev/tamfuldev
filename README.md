@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [bool in C23](https://dev.to/pauljlucas/bool-in-c23-4kj4)
-- [How Guillermo Rauch &lpar;the Creator of Next.JS&rpar; Evolves in the Age of AI](https://dev.to/cathylai/how-guillermo-rauch-the-creator-of-nextjs-evolves-in-the-age-of-ai-4245)
-- [Microsoft Teams: A Simple Collaboration Tool for DevOps Teams](https://dev.to/madhumitha_ganesan_/microsoft-teams-a-simple-collaboration-tool-for-devops-teams-44go)
-- [How I Convert HEIC Photos to PNG Without Installing Anything](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-convert-heic-photos-to-png-without-installing-anything-3ed5)
-- [AWS &lpar;Amazon Web Services&rpar; Course](https://dev.to/harshitha_s_c436fb6552a2a/aws-amazon-web-services-course-457c)
+- [Systemd Explained: Units, Targets, and Why systemctl Is More Than Start and Stop](https://dev.to/rijultp/systemd-explained-units-targets-and-why-systemctl-is-more-than-start-and-stop-3l75)
+- [[Sports Watch] [API 6] Sports Watch Installation Reports Error 34_ Internal Error](https://dev.to/harmonyos/sports-watch-api-6-sports-watch-installation-reports-error-34-internal-error-1247)
+- [📌 DevOps GitHub PR Reviewer using n8n and OpenAI📌](https://dev.to/lakhera2015/devops-github-pr-reviewer-using-n8n-and-openai-282l)
+- [Vibecoding in Between Meetings: Learning MCP Servers and Building a PoC &lpar; with AWS Kiro&rpar;](https://dev.to/aws-builders/vibecoding-in-between-meetings-learning-mcp-servers-and-building-a-poc-with-aws-kiro-dkm)
+- [Commercn: A UI Component library that speeds up eCommerce Development](https://dev.to/jqueryscript/commercn-a-ui-component-library-that-speeds-up-ecommerce-development-26h5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
