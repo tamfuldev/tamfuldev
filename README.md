@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I was tired of wiring the same AI SaaS stack over and over — so I broke the cycle](https://dev.to/smh_trn_284011f14b3758356/i-was-tired-of-wiring-the-same-ai-saas-stack-over-and-over-so-i-broke-the-cycle-4o7p)
-- [I Built a Feature in 1 Hour, Not a Day](https://dev.to/careerbytecode/i-built-a-feature-in-1-hour-not-a-day-51n)
-- [Entity Framework Core Raw SQL — From FromSql&lpar;&rpar; to Production‑Grade Safety](https://dev.to/cristiansifuentes/entity-framework-core-raw-sql-from-fromsql-to-production-grade-safety-3168)
-- [# `@xchainjs/xchain-ethereum`](https://dev.to/xchainviskor/-xchainjsxchain-ethereum-2b12)
-- [2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde](https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd)
+- [What is OCR Pre-fill?](https://dev.to/viktorle1294/what-is-ocr-pre-fill-4h0f)
+- [Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6)
+- [Ringer Movies: ‘Avatar: Fire and Ash’ Burns Bright Before Flaming Out. Plus: Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-avatar-fire-and-ash-burns-bright-before-flaming-out-plus-best-picture-power-18ch)
+- [AI-Driven SPFx 1.22 Upgrade: A Reproducible Process Flow](https://dev.to/stfbauer/ai-driven-spfx-122-upgrade-a-reproducible-process-flow-4m7)
+- [C# Minimal API: Output Caching](https://dev.to/gramli/c-minimal-api-output-caching-2iij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
