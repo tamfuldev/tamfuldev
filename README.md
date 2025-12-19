@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GXD: Rethinking File Compression for Modern Computing](https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig)
-- [Automated AWS Receipt Processing System using Textract, Lambda &amp; MySQL](https://dev.to/akashabish/automated-aws-receipt-processing-system-using-textract-lambda-mysql-idg)
-- [DEV Track Spotlight: Building .NET AI Applications with Semantic Kernel and Amazon Bedrock &lpar;DEV302&rpar;](https://dev.to/aws/dev-track-spotlight-building-net-ai-applications-with-semantic-kernel-and-amazon-bedrock-dev302-dj2)
-- [How to convert PDF to SVG in C# &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-convert-pdf-to-svg-in-c-tutorial-1o5b)
-- [Building Grahiq AI: Turning Raw Data into Infographics with AI](https://dev.to/dharunsiva333/building-grahiq-ai-turning-raw-data-into-infographics-with-ai-5al1)
+- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
+- [On Freelancing: My lessons and learnings](https://dev.to/zhravan/on-freelancing-my-lessons-and-learnings-21lk)
+- [Your Morning AI News: ChatGPT&#39;s $3B Milestone, GPT-5.2 Launch, and the Rise of AI Scams in December 2025](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-news-chatgpts-3b-milestone-gpt-52-launch-and-the-rise-of-ai-scams-in-december-iog)
+- [# Social Media Marketing Mastery: Building a Powerful Brand Presence in 2025](https://dev.to/abdulla_a_0ae0233ce47ec5c/-social-media-marketing-mastery-building-a-powerful-brand-presence-in-2025-498k)
+- [API integration tutorial - Master API Connection Tutorial: A Guide...](https://dev.to/ash_dubai/api-integration-tutorial-master-api-connection-tutorial-a-guide-2pje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
