@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Day in the Life of a Marketing Manager Using Microsoft Planner](https://dev.to/alexrodovit/a-day-in-the-life-of-a-marketing-manager-using-microsoft-planner-1cka)
-- [The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production](https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij)
-- [Supercapacitor Innovation with Graphene Aerogel &amp; Carbon Fiber](https://dev.to/andrfp/supercapacitor-innovation-with-graphene-aerogel-carbon-fiber-24lg)
-- [Building a Real-Time Data Pipeline from Shopify to Meta&#39;s Marketing API](https://dev.to/alex_toska_tsk/building-a-real-time-data-pipeline-from-shopify-to-metas-marketing-api-236f)
-- [Thank You for the Love ❤️](https://dev.to/sami9889/thank-you-for-the-love-47ih)
+- [bool in C23](https://dev.to/pauljlucas/bool-in-c23-4kj4)
+- [How Guillermo Rauch &lpar;the Creator of Next.JS&rpar; Evolves in the Age of AI](https://dev.to/cathylai/how-guillermo-rauch-the-creator-of-nextjs-evolves-in-the-age-of-ai-4245)
+- [Microsoft Teams: A Simple Collaboration Tool for DevOps Teams](https://dev.to/madhumitha_ganesan_/microsoft-teams-a-simple-collaboration-tool-for-devops-teams-44go)
+- [How I Convert HEIC Photos to PNG Without Installing Anything](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-convert-heic-photos-to-png-without-installing-anything-3ed5)
+- [AWS &lpar;Amazon Web Services&rpar; Course](https://dev.to/harshitha_s_c436fb6552a2a/aws-amazon-web-services-course-457c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
