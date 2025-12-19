@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas Search score details &lpar;the BM25 calculation&rpar;](https://dev.to/franckpachot/atlas-search-score-details-the-bm25-calculation-2g55)
-- [Zombie State in Pinia: A Silent Bug You Might Already Have](https://dev.to/hichembenchaabene/zombie-state-in-pinia-a-silent-bug-you-might-already-have-2acm)
-- [Flutter: Armazenamento de dados](https://dev.to/wps13/flutter-armazenamento-de-dados-a91)
-- [NAT Gateways Killing Your Container Costs? Amazon ECR VPC endpoints to the Rescue](https://dev.to/hstiwana/nat-gateways-killing-your-container-costs-amazon-ecr-vpc-endpoints-to-the-rescue-21k5)
-- [A Simple Overview of Passwords, 2FA, and Passkeys &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-simple-overview-of-passwords-2fa-and-passkeys-bite-size-article-1nhf)
+- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero](https://dev.to/aws-builders/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-2990)
+- [Brevity](https://dev.to/bagelbomb/brevity-1g4)
+- [Difficult Choices: Angular, React or Vue?](https://dev.to/cheetah100/difficult-choices-angular-react-or-vue-2443)
+- [On Facing Extinction &lpar;Again&rpar;](https://dev.to/annaspies/on-facing-extinction-again-23o5)
+- [Clarifying Zero Knowledge Proof Concepts](https://dev.to/marycynthia_ihemebiwo_1c4/clarifying-zero-knowledge-proof-concepts-lpj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
