@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest as a First-Time Maintainer](https://dev.to/cloudinary/hacktoberfest-as-a-first-time-maintainer-2pkn)
-- [Engineering a Multi-Capability MCP Server in Python](https://dev.to/onlineproxyio/engineering-a-multi-capability-mcp-server-in-python-4gfk)
-- [Key Breakthroughs in AI Engineering that Every AI Engineer Must Know](https://dev.to/imaginex/key-breakthroughs-in-ai-engineering-that-every-ai-engineer-must-know-3ibh)
-- [Cybersecurity Weekly#12: What Developers Should Care About This Week](https://dev.to/cyber8080/cybersecurity-weekly-what-developers-should-care-about-this-week-2che)
-- [Agent Factory Recap: Can you do my shopping?](https://dev.to/googleai/agent-factory-recap-can-you-do-my-shopping-5f8k)
+- [Security news weekly round-up - 19th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-19th-december-2025-31hd)
+- [Day 28 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-28-of-improving-my-data-science-skills-15dg)
+- [Generating Sequences With Recurrent Neural Networks](https://dev.to/paperium/generating-sequences-with-recurrent-neural-networks-4j0d)
+- [Building Bulletproof AI Apps: Multi-Provider Failover with Bifrost](https://dev.to/debmckinney/building-bulletproof-ai-apps-multi-provider-failover-with-bifrost-3p6j)
+- [Lessons from 500+ GitHub Migrations](https://dev.to/htekdev/lessons-from-500-github-migrations-4fjd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
