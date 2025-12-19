@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
-- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
-- [terraform certificate #6](https://dev.to/jumptotech/terraform-certificate-6-1hh2)
-- [Advanced Responsive: A Complete Material Design 3-Based Responsive System for Flutter](https://dev.to/sayedmoataz/advanced-responsive-a-complete-material-design-3-based-responsive-system-for-flutter-3e93)
-- [Obter dados de monitoramento e configuração MongoDB ReplicaSet](https://dev.to/magno_rodolfodossantos_/obter-dados-de-monitoramento-e-configuracao-mongodb-replicaset-53mj)
+- [A Day in the Life of a Marketing Manager Using Microsoft Planner](https://dev.to/alexrodovit/a-day-in-the-life-of-a-marketing-manager-using-microsoft-planner-1cka)
+- [The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production](https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij)
+- [Supercapacitor Innovation with Graphene Aerogel &amp; Carbon Fiber](https://dev.to/andrfp/supercapacitor-innovation-with-graphene-aerogel-carbon-fiber-24lg)
+- [Building a Real-Time Data Pipeline from Shopify to Meta&#39;s Marketing API](https://dev.to/alex_toska_tsk/building-a-real-time-data-pipeline-from-shopify-to-metas-marketing-api-236f)
+- [Thank You for the Love ❤️](https://dev.to/sami9889/thank-you-for-the-love-47ih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
