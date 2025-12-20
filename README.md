@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)
-- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)
-- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo)
-- [Google Cloud Platform &lpar;GCP&rpar; Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6)
-- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300)
+- [Service Levels in Angular](https://dev.to/vspatil87/service-levels-in-angular-5f1g)
+- [Why Most Organizations Fail at Cybersecurity — Even After Heavy Investment](https://dev.to/ankitraiinfosec/why-most-organizations-fail-at-cybersecurity-even-after-heavy-investment-2pla)
+- [The Code is Open: How Free &amp; Open Source Software Became the Backbone of Modern Business and the Internet](https://dev.to/gandolfslayer/the-code-is-open-how-free-open-source-software-became-the-backbone-of-modern-business-and-the-5122)
+- [Cinematic ANSI Banners for Rust](https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo)
+- [EIOC for Engineers, PMs, and AI Safety Practitioners](https://dev.to/narnaiezzsshaa/eioc-for-engineers-pms-and-ai-safety-practitioners-23a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
