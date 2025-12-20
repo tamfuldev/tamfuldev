@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo)
-- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
-- [Bayan Flow 0.2.0: finishing the foundations &lpar;i18n, RTL, tests, and small UX wins&rpar;](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7)
-- [Day 34 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-34-of-documenting-my-learning-journey-2o79)
-- [Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program](https://dev.to/thebitcoiner/marshall-islands-launches-the-worlds-first-cryptocurrency-based-universal-basic-income-program-52df)
+- [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
+- [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
+- [Vector AI Agent: The Desktop Automation Tool That Controls Real Browsers](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-desktop-automation-tool-that-controls-real-browsers-58p1)
+- [Using CuCollections Nvidia Data Structures Library](https://dev.to/murage_kibicho_b1d9cc21/using-cucollections-nvidia-data-structures-library-44mn)
+- [What could be the best Micro Achievement at the beginning of a Micro Business??](https://dev.to/johnnysturat/what-could-be-the-best-micro-achievement-at-the-beginning-of-a-micro-business-3431)
 <!-- BLOG-POST-LIST:END -->
 
 ---
