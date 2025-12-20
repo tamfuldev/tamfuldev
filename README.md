@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
-- [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
-- [Vector AI Agent: The Desktop Automation Tool That Controls Real Browsers](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-desktop-automation-tool-that-controls-real-browsers-58p1)
-- [Using CuCollections Nvidia Data Structures Library](https://dev.to/murage_kibicho_b1d9cc21/using-cucollections-nvidia-data-structures-library-44mn)
-- [What could be the best Micro Achievement at the beginning of a Micro Business??](https://dev.to/johnnysturat/what-could-be-the-best-micro-achievement-at-the-beginning-of-a-micro-business-3431)
+- [Best Practices for VFX Pipeline Automation with Python](https://dev.to/teevirta/best-practices-for-vfx-pipeline-automation-with-python-39m2)
+- [Langjam Gamejam](https://dev.to/__masashi__/langjam-gamejam-489d)
+- [Building a Real-World Kubernetes Disaster Recovery &amp; Backup Automation System](https://dev.to/psjcoder0717/building-a-real-world-kubernetes-disaster-recovery-backup-automation-system-en)
+- [Deploy Node.js on Linux with Nginx and PM2 — a practical beginner’s guide](https://dev.to/prateekshaweb/deploy-nodejs-on-linux-with-nginx-and-pm2-a-practical-beginners-guide-3gdm)
+- [Next.js + TailwindCSS v4: How to Add Dark/Light Theme with Next-Themes](https://dev.to/khanrabiul/nextjs-tailwindcss-v4-how-to-add-darklight-theme-with-next-themes-3c6l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
