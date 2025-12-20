@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
-- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
-- [[Boost]](https://dev.to/fernandosilvot/-30k4)
-- [Build Agentic Video Analysis with TwelveLabs Pegasus and Strands Agents SDK](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
-- [The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities](https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764)
+- [My Writeup &lpar;0day in Zsh &lpar;RCE&rpar;&rpar;](https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245)
+- [PDF Merger: Combine Multiple PDFs Instantly in Your Browser](https://dev.to/frontendtoolstech/pdf-merger-combine-multiple-pdfs-instantly-in-your-browser-4dn3)
+- [How a Single Client Request Turned Into My New Monetized WordPress Plugin](https://dev.to/affectionate_code/how-a-single-client-request-turned-into-my-new-monetized-wordpress-plugin-1eje)
+- [Improved Baselines with Momentum Contrastive Learning](https://dev.to/paperium/improved-baselines-with-momentum-contrastive-learning-4hk6)
+- [Dockerizing a React Task: A Hands-On DevOps Implementation](https://dev.to/hormogbolahan20/dockerizing-a-react-task-a-hands-on-devops-implementation-3kp7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
