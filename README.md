@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures Series: A Structured Roadmap with JavaScript](https://dev.to/mqshaikh8/data-structures-series-a-structured-roadmap-with-javascript-407f)
-- [Trees Fundamentals: Structure, Terminology, and Use Cases](https://dev.to/mqshaikh8/trees-fundamentals-structure-terminology-and-use-cases-2nl4)
-- [Define AI Usage by “Principles” — Not Tips, but Design to Preserve Responsibility —](https://dev.to/synthaicode_commander/define-ai-usage-by-principles-not-tips-but-design-to-preserve-responsibility--2531)
-- [A quick human interruption to your usual dev content](https://dev.to/philipjohnbasile/a-quick-human-interruption-to-your-usual-dev-content-2mna)
-- [Preparing for GCP Security Certification? Here&#39;s What Actually Worked for Me](https://dev.to/ankurlibra/preparing-for-gcp-security-certification-heres-what-actually-worked-for-me-2pmc)
+- [AI News Roundup December 2025: OpenAI, Sam Altman, and What&#39;s Coming in 2026](https://dev.to/ethan_zhang_e501fea89c25b/ai-news-roundup-december-2025-openai-sam-altman-and-whats-coming-in-2026-54pf)
+- [OpenSkills, adding Claude Skills and Superpowers for any agent or IDE](https://dev.to/wakeupmh/openskills-adding-claude-skills-and-superpowers-for-any-agent-or-ide-3j35)
+- [20 Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-linux-commands-every-developer-should-know-4b0o)
+- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
+- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
 <!-- BLOG-POST-LIST:END -->
 
 ---
