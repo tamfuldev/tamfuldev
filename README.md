@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for VFX Pipeline Automation with Python](https://dev.to/teevirta/best-practices-for-vfx-pipeline-automation-with-python-39m2)
-- [Langjam Gamejam](https://dev.to/__masashi__/langjam-gamejam-489d)
-- [Building a Real-World Kubernetes Disaster Recovery &amp; Backup Automation System](https://dev.to/psjcoder0717/building-a-real-world-kubernetes-disaster-recovery-backup-automation-system-en)
-- [Deploy Node.js on Linux with Nginx and PM2 — a practical beginner’s guide](https://dev.to/prateekshaweb/deploy-nodejs-on-linux-with-nginx-and-pm2-a-practical-beginners-guide-3gdm)
-- [Next.js + TailwindCSS v4: How to Add Dark/Light Theme with Next-Themes](https://dev.to/khanrabiul/nextjs-tailwindcss-v4-how-to-add-darklight-theme-with-next-themes-3c6l)
+- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
+- [What I Learned at the CNCF Montreal KubeCon NA 2025 Recap](https://dev.to/soniv/what-i-learned-at-the-cncf-montreal-kubecon-na-2025-recap-13l9)
+- [The Hidden Threat in Every Image: Why Your Upload Validation is Broken](https://dev.to/ra_vi_51d9667e07aa0984631/the-hidden-threat-in-every-image-why-your-upload-validation-is-broken-36d1)
+- [Fractal Monsters Evolution](https://dev.to/xcontcom/fractal-monsters-evolution-4ee8)
+- [Engineering Context for Local and Cloud AI: Personas, Content Intelligence, and Zero-Prompt UX](https://dev.to/ialijr/engineering-context-for-local-and-cloud-ai-personas-content-intelligence-and-zero-prompt-ux-11h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
