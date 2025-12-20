@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Service Levels in Angular](https://dev.to/vspatil87/service-levels-in-angular-5f1g)
-- [Why Most Organizations Fail at Cybersecurity — Even After Heavy Investment](https://dev.to/ankitraiinfosec/why-most-organizations-fail-at-cybersecurity-even-after-heavy-investment-2pla)
-- [The Code is Open: How Free &amp; Open Source Software Became the Backbone of Modern Business and the Internet](https://dev.to/gandolfslayer/the-code-is-open-how-free-open-source-software-became-the-backbone-of-modern-business-and-the-5122)
-- [Cinematic ANSI Banners for Rust](https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo)
-- [EIOC for Engineers, PMs, and AI Safety Practitioners](https://dev.to/narnaiezzsshaa/eioc-for-engineers-pms-and-ai-safety-practitioners-23a2)
+- [Day 13: When Login Fails and Isolation Stays](https://dev.to/casperday11/day-13-when-login-fails-and-isolation-stays-1l5m)
+- [Accroche philosophique dans le monde informatique.](https://dev.to/onepoint/accroche-philosophique-dans-le-monde-informatique-52c8)
+- [PSX: The Project Structure Checker](https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j)
+- [Anthropic Unveils ‘Agent Skills,’ Raising the Stakes in Enterprise AI](https://dev.to/logicverse_2025/anthropic-unveils-agent-skills-raising-the-stakes-in-enterprise-ai-30m9)
+- [Key Skills You Must Master to Succeed in LLM Interviews](https://dev.to/jackm_345442a09fb53b/key-skills-you-must-master-to-succeed-in-llm-interviews-3c78)
 <!-- BLOG-POST-LIST:END -->
 
 ---
