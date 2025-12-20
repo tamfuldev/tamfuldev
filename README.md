@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: When Login Fails and Isolation Stays](https://dev.to/casperday11/day-13-when-login-fails-and-isolation-stays-1l5m)
-- [Accroche philosophique dans le monde informatique.](https://dev.to/onepoint/accroche-philosophique-dans-le-monde-informatique-52c8)
-- [PSX: The Project Structure Checker](https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j)
-- [Anthropic Unveils ‘Agent Skills,’ Raising the Stakes in Enterprise AI](https://dev.to/logicverse_2025/anthropic-unveils-agent-skills-raising-the-stakes-in-enterprise-ai-30m9)
-- [Key Skills You Must Master to Succeed in LLM Interviews](https://dev.to/jackm_345442a09fb53b/key-skills-you-must-master-to-succeed-in-llm-interviews-3c78)
+- [You&#39;re Fixing the Wrong Bugs](https://dev.to/chrisquinnr/youre-fixing-the-wrong-bugs-2mnh)
+- [Automate Content Quality with VectorLint GitHub Action](https://dev.to/ayomideonibokun/automate-content-quality-with-vectorlint-github-action-5d4g)
+- [CPU Limits in Kubernetes: Mostly Harmful, Occasionally Essential](https://dev.to/peter_dyakov_06f3c69a46b7/cpu-limits-in-kubernetes-mostly-harmful-occasionally-essential-3i56)
+- [Why Localization Accuracy Matters More Than Ever](https://dev.to/gerry_criner/why-localization-accuracy-matters-more-than-ever-ch6)
+- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-4-2pij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
