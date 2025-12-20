@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
-- [Do Caos à Clareza Reduzindo Dependências em Rails](https://dev.to/brandaoplaster/do-caos-a-clareza-reduzindo-dependencias-em-rails-9hl)
-- [CI/CD for Dummies](https://dev.to/copubah/cicd-for-dummies-29n0)
-- [Building a Real-time VPN Monitoring System from Tokyo with Google Apps Script](https://dev.to/blstweb/building-a-real-time-vpn-monitoring-system-from-tokyo-with-google-apps-script-2mo0)
-- [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
+- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8)
+- [Building a Page-Level PDF Processing Pipeline for Smarter RAG Systems](https://dev.to/steravy/building-a-page-level-pdf-processing-pipeline-for-smarter-rag-systems-3bgm)
+- [Phishing-Resistant Sign-In: What Developers Can Do Now &lpar;Without Turning UX Into a Nightmare&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/phishing-resistant-sign-in-what-developers-can-do-now-without-turning-ux-into-a-nightmare-3di6)
+- [SaaS Trends That Are Reshaping Cloud Software and Modern Development](https://dev.to/techgenius/saas-trends-that-are-reshaping-cloud-software-and-modern-development-2fgk)
+- [I Built an AI Tool That Redesigns Any Website in Seconds &lpar;Here’s Why&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/i-built-an-ai-tool-that-redesigns-any-website-in-seconds-heres-why-4e8p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
