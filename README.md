@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI News Roundup December 2025: OpenAI, Sam Altman, and What&#39;s Coming in 2026](https://dev.to/ethan_zhang_e501fea89c25b/ai-news-roundup-december-2025-openai-sam-altman-and-whats-coming-in-2026-54pf)
-- [OpenSkills, adding Claude Skills and Superpowers for any agent or IDE](https://dev.to/wakeupmh/openskills-adding-claude-skills-and-superpowers-for-any-agent-or-ide-3j35)
-- [20 Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-linux-commands-every-developer-should-know-4b0o)
-- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
-- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
+- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
+- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
+- [[Boost]](https://dev.to/fernandosilvot/-30k4)
+- [Build Agentic Video Analysis with TwelveLabs Pegasus and Strands Agents SDK](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
+- [The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities](https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
