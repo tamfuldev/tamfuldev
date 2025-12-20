@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8)
-- [Building a Page-Level PDF Processing Pipeline for Smarter RAG Systems](https://dev.to/steravy/building-a-page-level-pdf-processing-pipeline-for-smarter-rag-systems-3bgm)
-- [Phishing-Resistant Sign-In: What Developers Can Do Now &lpar;Without Turning UX Into a Nightmare&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/phishing-resistant-sign-in-what-developers-can-do-now-without-turning-ux-into-a-nightmare-3di6)
-- [SaaS Trends That Are Reshaping Cloud Software and Modern Development](https://dev.to/techgenius/saas-trends-that-are-reshaping-cloud-software-and-modern-development-2fgk)
-- [I Built an AI Tool That Redesigns Any Website in Seconds &lpar;Here’s Why&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/i-built-an-ai-tool-that-redesigns-any-website-in-seconds-heres-why-4e8p)
+- [Shallow Agents vs Deep Agents: How Deep Research Actually Works Inside GPT-Like Systems](https://dev.to/naresh_007/shallow-agents-vs-deep-agents-how-deep-research-actually-works-inside-gpt-like-systems-4n73)
+- [**Garantiza un cumplimiento normativo sostenible con la plat](https://dev.to/drcarlosruizviquez/garantiza-un-cumplimiento-normativo-sostenible-con-la-plat-2f62)
+- [Day 36 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-36-of-documenting-my-learning-journey-54ac)
+- [Exploring AWS Generative AI &amp; AI Services: A Practical Guide for Builders](https://dev.to/shubhamkcloud/exploring-aws-generative-ai-ai-services-a-practical-guide-for-builders-1mfm)
+- [Christmas thoughts: Why Senior Engineers hate &quot;cool&quot; new frameworks &lpar;and why you should too&rpar;.](https://dev.to/the_nortern_dev/christmas-thoughts-why-senior-engineers-hate-cool-new-frameworks-and-why-you-should-too-1a28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
