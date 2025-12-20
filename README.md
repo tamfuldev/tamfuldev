@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero](https://dev.to/aws-builders/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-2990)
-- [Brevity](https://dev.to/bagelbomb/brevity-1g4)
-- [Difficult Choices: Angular, React or Vue?](https://dev.to/cheetah100/difficult-choices-angular-react-or-vue-2443)
-- [On Facing Extinction &lpar;Again&rpar;](https://dev.to/annaspies/on-facing-extinction-again-23o5)
-- [Clarifying Zero Knowledge Proof Concepts](https://dev.to/marycynthia_ihemebiwo_1c4/clarifying-zero-knowledge-proof-concepts-lpj)
+- [Automating Go App Deployment to Google Cloud Run with GitHub Actions&lpar;Free Tier&rpar;](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995)
+- [A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9)
+- [**Title:** Chinese Hacking Campaign Targets Vulnerable Cisco Customers: Understanding the Risks and Implications](https://dev.to/yagyaraj_sharma_6cd410179/title-chinese-hacking-campaign-targets-vulnerable-cisco-customers-understanding-the-risks-and-2113)
+- [What Is Gemini 3 Flash vs Alternatives: Which Is Best?](https://dev.to/ai_toolslist_ce7f6cc554a/what-is-gemini-3-flash-vs-alternatives-which-is-best-5ge)
+- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
