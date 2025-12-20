@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
-- [What I Learned at the CNCF Montreal KubeCon NA 2025 Recap](https://dev.to/soniv/what-i-learned-at-the-cncf-montreal-kubecon-na-2025-recap-13l9)
-- [The Hidden Threat in Every Image: Why Your Upload Validation is Broken](https://dev.to/ra_vi_51d9667e07aa0984631/the-hidden-threat-in-every-image-why-your-upload-validation-is-broken-36d1)
-- [Fractal Monsters Evolution](https://dev.to/xcontcom/fractal-monsters-evolution-4ee8)
-- [Engineering Context for Local and Cloud AI: Personas, Content Intelligence, and Zero-Prompt UX](https://dev.to/ialijr/engineering-context-for-local-and-cloud-ai-personas-content-intelligence-and-zero-prompt-ux-11h2)
+- [How Creators Can Convert Followers into Subscribers Using VisitFolio](https://dev.to/imtaslim/how-creators-can-convert-followers-into-subscribers-using-visitfolio-pge)
+- [The Missing Step in RAG: Why Your Vector DB is Bloated &lpar;and how to fix it locally&rpar;](https://dev.to/damiansiuta/the-missing-step-in-rag-why-your-vector-db-is-bloated-and-how-to-fix-it-locally-2fjg)
+- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗗𝗶𝗮𝗹𝗼𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 - 𝗧𝗵𝗲 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗼𝗿](https://dev.to/wanjohichristopher/--5bjc)
+- [Day 77 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-77-of-100-days-dsa-coding-challenge-1g3b)
+- [Dave - Debt Tracking CLI](https://dev.to/tryonlinux/dave-debt-tracking-cli-1i74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
