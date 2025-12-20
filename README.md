@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Writeup &lpar;0day in Zsh &lpar;RCE&rpar;&rpar;](https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245)
-- [PDF Merger: Combine Multiple PDFs Instantly in Your Browser](https://dev.to/frontendtoolstech/pdf-merger-combine-multiple-pdfs-instantly-in-your-browser-4dn3)
-- [How a Single Client Request Turned Into My New Monetized WordPress Plugin](https://dev.to/affectionate_code/how-a-single-client-request-turned-into-my-new-monetized-wordpress-plugin-1eje)
-- [Improved Baselines with Momentum Contrastive Learning](https://dev.to/paperium/improved-baselines-with-momentum-contrastive-learning-4hk6)
-- [Dockerizing a React Task: A Hands-On DevOps Implementation](https://dev.to/hormogbolahan20/dockerizing-a-react-task-a-hands-on-devops-implementation-3kp7)
+- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)
+- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)
+- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo)
+- [Google Cloud Platform &lpar;GCP&rpar; Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6)
+- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
