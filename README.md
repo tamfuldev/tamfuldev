@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Install Steam in a Distrobox Container With x86-64-v3 Power Boost!](https://dev.to/archerallstars/install-steam-in-a-distrobox-container-with-x86-64-v3-power-boost-2am0)
-- [How Do You Handle Exceptions Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-exceptions-globally-in-spring-boot-40k3)
-- [Git Stash Made Simple: Save Your Work Without Committing](https://dev.to/thecodeliner/git-stash-made-simple-save-your-work-without-committing-3bbb)
-- [Uniface 10.4 and Informix: Simple Guide to Transaction Control 💾](https://dev.to/f345345dfg/uniface-104-and-informix-simple-guide-to-transaction-control-4gf2)
-- [AWS Tool Starting With J: Amazon Java Corretto](https://dev.to/jerlin_vanessavincentpa/aws-tool-starting-with-j-amazon-java-corretto-1h0c)
+- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
+- [Branch Protection Rules vs Rulesets: The Right Way to Protect Your Git Repos](https://dev.to/piyush_gaikwad_2fadecf5f4/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
+- [Why Quiet Days Can Feel More Draining Than Busy Ones](https://dev.to/jamesmiller25/why-quiet-days-can-feel-more-draining-than-busy-ones-1a7c)
+- [How I Used Codex with ChatGPT 5.1 to Smash a Major Migration in 2 Days](https://dev.to/khurram_alikhan_716deca7/how-i-used-codex-with-chatgpt-51-to-smash-a-major-migration-in-2-days-45i4)
+- [AWS Lambda &amp; S3 Express One Zone: A 2025 Deep Dive into re:Invent 2023&#39;s Impact](https://dev.to/dataformathub/aws-lambda-s3-express-one-zone-a-2025-deep-dive-into-reinvent-2023s-impact-29b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
