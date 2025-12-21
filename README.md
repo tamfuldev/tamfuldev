@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Upskilling &amp; Workforce Transformation in the UK](https://dev.to/salfi_studio_fe0cbe33e0e8/ai-upskilling-workforce-transformation-in-the-uk-chl)
-- [Things Junior QA Engineers Don’t Expect in Their First QA Role](https://dev.to/mochammmad_alie/things-junior-qa-engineers-dont-expect-in-their-first-qa-role-527k)
-- [The Influencer’s Secret: Track Engagement with Analytics](https://dev.to/imtaslim/the-influencers-secret-track-engagement-with-analytics-5g06)
-- [How I Automated YouTube Metadata Generation Using Google’s New TypeScript ADK](https://dev.to/railsstudent/how-i-automated-youtube-metadata-generation-using-googles-new-typescript-adk-2ab4)
-- [Shipping a Professional Blog with One Line of Java](https://dev.to/tomerbendavid/shipping-a-professional-blog-with-one-line-of-java-2f5g)
+- [PearPass Desktop — Open-Source Peer-to-Peer Password Manager Built on Pear Runtime](https://dev.to/bitwiserokos/pearpass-desktop-open-source-peer-to-peer-password-manager-built-on-pear-runtime-1kop)
+- [From Zero to RWA: My 14-Day Journey Building on Mantle](https://dev.to/azharpratama/from-zero-to-rwa-my-14-day-journey-building-on-mantle-1043)
+- [Access AWS RDS without Password - use IAM](https://dev.to/ashraf-minhaj/access-aws-rds-without-password-use-iam-1baf)
+- [DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data](https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0)
+- [The Power of Gemini inside Trello: Building an LLM Assistant with Firebase Genkit](https://dev.to/denisvalasek/the-power-of-gemini-inside-trello-building-an-llm-assistant-with-firebase-genkit-3dh2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
