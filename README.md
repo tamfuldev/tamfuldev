@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖.](https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o)
-- [Your Job Search is a Legacy System. Here’s How to Refactor It &lpar;2026 Edition&rpar;](https://dev.to/careerswift/your-job-search-is-a-legacy-system-heres-how-to-refactor-it-2026-edition-2hm6)
-- [EKS Disaster Recovery, Simplified: Native Backups with AWS Backup](https://dev.to/sadebare/eks-disaster-recovery-simplified-native-backups-with-aws-backup-15g4)
-- [ECR can create automaticaly when image pushed](https://dev.to/shiruta/ecr-can-create-automaticaly-when-image-pushed-38f)
-- [Functional testing: the boring basics that catch real bugs](https://dev.to/kelina_cowell_qa/functional-testing-the-boring-basics-that-catch-real-bugs-1ion)
+- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
+- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
+- [Part 3: AMQP Setup and Calls - Ktor Native Worker Tutorial](https://dev.to/nathanfallet/part-3-amqp-setup-and-calls-ktor-native-worker-tutorial-2o6d)
+- [https://hmpl-lang.dev - new website](https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib)
+- [ASP .NET Core IDisplayMetadataProvider](https://dev.to/karenpayneoregon/asp-net-core-idisplaymetadataprovider-46al)
 <!-- BLOG-POST-LIST:END -->
 
 ---
