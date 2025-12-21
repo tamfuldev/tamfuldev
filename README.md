@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a lightweight Changelog Widget because I hate heavy scripts](https://dev.to/fliqz/i-built-a-lightweight-changelog-widget-because-i-hate-heavy-scripts-292l)
-- [Meet Xenoglaux-AI: The Next-Gen Text Generator AI 🦉✨](https://dev.to/puneetkumar2010/meet-xenoglaux-ai-the-next-gen-text-generator-ai-4b3)
-- [Openinary: The Self-Hosted Cloudinary Alternative Nobody Built Before](https://dev.to/florianheysen/openinary-the-self-hosted-cloudinary-alternative-nobody-built-before-25po)
-- [Building my first Claude Code Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/building-my-first-claude-code-plugin-26ka)
-- [The Algorithm, The New Year&#39;s Resolution: Your 2026 Coding Interview Manifesto](https://dev.to/nirajkvinit1/the-algorithm-the-new-years-resolution-your-2026-coding-interview-manifesto-2mbi)
+- [My project 6 : Top 10 News App&lpar;with Flask + Hacker News API&rpar;](https://dev.to/sabin_sim/my-project-5-top-10-news-appwith-flask-hacker-news-api-2dc1)
+- [How to Speed Up Your Next js App with Caching](https://dev.to/gouranga-das-khulna/how-to-speed-up-your-next-js-app-with-caching-2l4i)
+- [Building a Full-Stack App with Turborepo, React, and Hono &lpar;Part 2: Developing the API&rpar;](https://dev.to/parthiv_saikia_/building-a-full-stack-app-with-turborepo-react-and-hono-part-2-developing-the-api-4ca0)
+- [Shadow mobile](https://dev.to/preetha_vaishnavi_2b82358/shadow-mobile-2fng)
+- [ZOHRAN FOR NYC](https://dev.to/preetha_vaishnavi_2b82358/zohran-for-nyc-31ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
