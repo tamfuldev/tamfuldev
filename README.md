@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My project 6 : Top 10 News App&lpar;with Flask + Hacker News API&rpar;](https://dev.to/sabin_sim/my-project-5-top-10-news-appwith-flask-hacker-news-api-2dc1)
-- [How to Speed Up Your Next js App with Caching](https://dev.to/gouranga-das-khulna/how-to-speed-up-your-next-js-app-with-caching-2l4i)
-- [Building a Full-Stack App with Turborepo, React, and Hono &lpar;Part 2: Developing the API&rpar;](https://dev.to/parthiv_saikia_/building-a-full-stack-app-with-turborepo-react-and-hono-part-2-developing-the-api-4ca0)
-- [Shadow mobile](https://dev.to/preetha_vaishnavi_2b82358/shadow-mobile-2fng)
-- [ZOHRAN FOR NYC](https://dev.to/preetha_vaishnavi_2b82358/zohran-for-nyc-31ga)
+- [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
+- [Writing AI-Friendly Specs: A Developer&#39;s Practical Guide](https://dev.to/_jeongyuhyeon_03de1/writing-ai-friendly-specs-a-developers-practical-guide-3334)
+- [Launch: Interactive 3D Product Configurator](https://dev.to/rajatdatta099/launch-interactive-3d-product-configurator-n3d)
+- [Leafwiki v0.5.2 - is out - dark mode and Markdown improvements](https://dev.to/perber/leafwiki-v052-is-out-dark-mode-and-markdown-improvements-2l87)
+- [From Idea to Launch: How Developers Can Build Successful Startups](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
