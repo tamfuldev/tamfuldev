@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Strapi v4 v5 Overview: What Changed and Why It Matters](https://dev.to/tuner9696_len/strapi-v4-v5-overview-what-changed-and-why-it-matters-58k1)
-- [Custom Claude Code Skill: Auto-Generating / Updating Architecture Diagrams with Excalidraw](https://dev.to/yooi/custom-claude-code-skill-auto-generating-updating-architecture-diagrams-with-excalidraw-227k)
-- [A Low code web development platform](https://dev.to/giuseppesaponaro/a-low-code-web-development-platform-4l4n)
-- [Link Prediction in Complex Networks: A Survey](https://dev.to/paperium/link-prediction-in-complex-networks-a-survey-2lmc)
-- [Blink HTML Tag: How to Make Text Blink in HTML](https://dev.to/web_dev-usman/blink-html-tag-how-to-make-text-blink-in-html-5bjc)
+- [Bringing Rockbox&#39;s Legendary Audio Engine to the Modern Desktop: A Native Port for Linux and macOS](https://dev.to/tsirysndr/bringing-rockboxs-legendary-audio-engine-to-the-modern-desktop-a-native-port-for-linux-and-macos-4hih)
+- [Why Static Credit Scoring Fails in Modern FinTech Platforms](https://dev.to/turalmu95150474/why-static-credit-scoring-fails-in-modern-fintech-platforms-57ni)
+- [Soft Actor-Critic Algorithms and Applications](https://dev.to/paperium/soft-actor-critic-algorithms-and-applications-49)
+- [Vector AI Agent: The Future of Browser Automation](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-future-of-browser-automation-dfd)
+- [Launching a Simple SVG JPG Converter](https://dev.to/lynn123456/launching-a-simple-svg-jpg-converter-1egd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
