@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discord community engagement for thriving Web3 communities](https://dev.to/wevolv3_c2aea5159adf3b85f/discord-community-engagement-for-thriving-web3-communities-3ljo)
-- [The Open Source Myth: Why &quot;Free&quot; Doesn&#39;t Always Mean Free](https://dev.to/clifford_otieno/the-open-source-myth-why-free-doesnt-always-mean-free-g8m)
-- [Agent Flows At Scale with Google’s ADK for TypeScript](https://dev.to/gioboa/agent-flows-at-scale-with-googles-adk-for-typescript-b8k)
-- [Building Your First Marketing Attribution Model Without Breaking Your Budget &lpar;Or Your Brain&rpar;](https://dev.to/synergistdigitalmedia/building-your-first-marketing-attribution-model-without-breaking-your-budget-or-your-brain-19lb)
-- [Building a Fully Interactive LEGO® Website Concept with Image-Based HTML Elements](https://dev.to/laszlobarath/building-a-fully-interactive-legor-website-concept-with-image-based-html-elements-10fc)
+- [🎉 Announcing mkarchi v0.1.6 - Now Ready to Use! 🚀](https://dev.to/soufyanrachdi/announcing-mkarchi-v016-now-ready-to-use-4ifj)
+- [Your opinion on OTPShield API on RapidAPI? How can test it quickly?](https://dev.to/abdallh_hamami_e7d4b0f829/your-opinion-on-otpshield-api-on-rapidapi-how-can-test-it-quickly-31fb)
+- [🔐 OTP Is Not Authentication — It’s a Costly Side Effect: explore OTPshield](https://dev.to/abdallh_hamami_e7d4b0f829/otp-is-not-authentication-its-a-costly-side-effect-explore-otpshield-1hig)
+- [The Effectiveness of Data Augmentation in Image Classification using DeepLearning](https://dev.to/paperium/the-effectiveness-of-data-augmentation-in-image-classification-using-deeplearning-4aec)
+- [🛑 Stopping SMS OTP Abuse Before It Starts: An Upstream Security Approach](https://dev.to/abdallh_hamami_e7d4b0f829/stopping-sms-otp-abuse-before-it-starts-an-upstream-security-approach-f4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
