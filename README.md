@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Conversational AI Case Study: How a Simple Psychological Shift Drove 92% Completion Rates](https://dev.to/faraz_farhan_83ed23a154a2/conversational-ai-case-study-how-a-simple-psychological-shift-drove-92-completion-rates-2dok)
-- [Cómo usar la API de Hashnode con Astro y desplegarlo en Vercel](https://dev.to/joaquin_sez_6de09e190ca1/como-usar-la-api-de-hashnode-con-astro-y-desplegarlo-en-vercel-1d56)
-- [Building Modern Java Pipelines: From Code to Production Using Automated CI/CD](https://dev.to/nithinbharathwaj/building-modern-java-pipelines-from-code-to-production-using-automated-cicd-4ed2)
-- [Signals vs Proxy vs Virtual DOM — What Actually Makes Them Different?](https://dev.to/luciano0322/signals-vs-proxy-vs-virtual-dom-what-actually-makes-them-different-4b1o)
-- [I Built &#39;firex&#39; - A CLI Tool for Firestore Operations with AI Agent Integration](https://dev.to/yamamoto_yuji_c3064a0e502/i-built-firex-a-cli-tool-for-firestore-operations-with-ai-agent-integration-2cfm)
+- [HashiCorp Packer: Automating Machine Images for DevOps and DevSecOps](https://dev.to/hareesh_e8fcfb0dd54290b4d/hashicorp-packer-automating-machine-images-for-devops-and-devsecops-37ep)
+- [Bybit’s Return to the UK Market: A Technical Architecture Blueprint for Compliance in Crypto Trading PlatformsCryptoExchange](https://dev.to/apnews/bybits-return-to-the-uk-market-a-technical-architecture-blueprint-for-compliance-in-crypto-5e9d)
+- [GitLab CI/CD for Next.js — Part 1: Validate Job Lint &amp; Check Types](https://dev.to/kelvynthai/gitlab-cicd-for-nextjs-part-1-validate-job-lint-check-types-5dp8)
+- [The North Star of Agentic AI: Beyond the Hype to Human-Centric Implementation](https://dev.to/balagmadhu/the-north-star-of-agentic-ai-beyond-the-hype-to-human-centric-implementation-h99)
+- [Building Observable, Secure, and Resilient AI Agents with Oracle MCP, OpenTelemetry, and LangGraph](https://dev.to/harishkotra/building-observable-secure-and-resilient-ai-agents-with-oracle-mcp-opentelemetry-and-langgraph-4bpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
