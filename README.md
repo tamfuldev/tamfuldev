@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
-- [C# Minimal API: A Practical Way to Keep Endpoints Clean](https://dev.to/gramli/c-minimal-api-a-practical-way-to-keep-endpoints-clean-18aa)
-- [Introducing Supabase ETL](https://dev.to/supabase/introducing-supabase-etl-ohl)
-- [AI Deleted My Code: How to Recover](https://dev.to/ivandotcodes/ai-deleted-my-code-how-to-recover-18da)
-- [How to Ramp Up Fast on a New Team and a New System](https://dev.to/chanmoro/how-to-ramp-up-fast-on-a-new-team-and-a-new-system-39jg)
+- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
+- [We Replaced Message Buses with Telemetry for AI Agent Coordination](https://dev.to/fubumaki/we-replaced-message-buses-with-telemetry-for-ai-agent-coordination-39e8)
+- [Linked Lists Joins the Fray! &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/linked-lists-joins-the-fray-javascript-3e9d)
+- [WBS + AI: How to Cut Development Time by 6x](https://dev.to/_jeongyuhyeon_03de1/wbs-ai-how-to-cut-development-time-by-6x-n1p)
+- [Building a Scalable Rate Limiting System: Token Bucket vs Leaky Bucket](https://dev.to/benyusouf/building-a-scalable-rate-limiting-system-token-bucket-vs-leaky-bucket-4nnp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
