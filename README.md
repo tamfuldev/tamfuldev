@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Way to Produce YouTube Videos in Foreign Languages](https://dev.to/elenahartmann/best-way-to-produce-youtube-videos-in-foreign-languages-h1o)
-- [Modern Java Evolution: Part 1 - From Java 22 to 25](https://dev.to/hyperskill_academy/modern-java-evolution-part-1-from-java-22-to-25-37j7)
-- [Confusion &lpar;part of&rpar; : Learning journey](https://dev.to/lovely1608/confusion-part-of-learning-journey-kkc)
-- [New AI Tool: Influencer Outreach Cost Estimator](https://dev.to/rajatdatta099/new-ai-tool-influencer-outreach-cost-estimator-3681)
-- [Hello](https://dev.to/shawmeer22/hello-lai)
+- [現役エンジニアが選ぶ2025年必須開発ツール&lpar;IDEからAIまで&rpar;](https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d)
+- [Adding Cryptographic Audit Trails to FIX Without Touching Your Trading Engine](https://dev.to/veritaschain/adding-cryptographic-audit-trails-to-fix-without-touching-your-trading-engine-551p)
+- [How to Send Emails in Ruby - Complete Guide with Code Examples](https://dev.to/sendlayer/how-to-send-emails-in-ruby-complete-guide-with-code-examples-24f7)
+- [I build things because silence is suspicious.](https://dev.to/trojanmocx/i-build-things-because-silence-is-suspicious-1852)
+- [Etika dan Tantangan Evaluasi Sistem](https://dev.to/ahmadasroni38/etika-dan-tantangan-evaluasi-sistem-1l71)
 <!-- BLOG-POST-LIST:END -->
 
 ---
