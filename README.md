@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
-- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
-- [Part 3: AMQP Setup and Calls - Ktor Native Worker Tutorial](https://dev.to/nathanfallet/part-3-amqp-setup-and-calls-ktor-native-worker-tutorial-2o6d)
-- [https://hmpl-lang.dev - new website](https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib)
-- [ASP .NET Core IDisplayMetadataProvider](https://dev.to/karenpayneoregon/asp-net-core-idisplaymetadataprovider-46al)
+- [Conversational AI Case Study: How a Simple Psychological Shift Drove 92% Completion Rates](https://dev.to/faraz_farhan_83ed23a154a2/conversational-ai-case-study-how-a-simple-psychological-shift-drove-92-completion-rates-2dok)
+- [Cómo usar la API de Hashnode con Astro y desplegarlo en Vercel](https://dev.to/joaquin_sez_6de09e190ca1/como-usar-la-api-de-hashnode-con-astro-y-desplegarlo-en-vercel-1d56)
+- [Building Modern Java Pipelines: From Code to Production Using Automated CI/CD](https://dev.to/nithinbharathwaj/building-modern-java-pipelines-from-code-to-production-using-automated-cicd-4ed2)
+- [Signals vs Proxy vs Virtual DOM — What Actually Makes Them Different?](https://dev.to/luciano0322/signals-vs-proxy-vs-virtual-dom-what-actually-makes-them-different-4b1o)
+- [I Built &#39;firex&#39; - A CLI Tool for Firestore Operations with AI Agent Integration](https://dev.to/yamamoto_yuji_c3064a0e502/i-built-firex-a-cli-tool-for-firestore-operations-with-ai-agent-integration-2cfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
