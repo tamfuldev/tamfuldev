@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
-- [Hashicorp Vault: Authentication Provider Almanac](https://dev.to/admantium/hashicorp-vault-authentication-provider-almanac-47g9)
-- [A Clean WordPress Website Checklist &lpar;What We Fix Before We Touch Design&rpar;](https://dev.to/digillexsols/a-clean-wordpress-website-checklist-what-we-fix-before-we-touch-design-56j2)
-- [Cracking the Code of GEO: How a 5-Year-Old Clinic Battles to the Top with 25 Reviews](https://dev.to/serral_9d642e22a7c4a0f87b/cracking-the-code-of-geo-how-a-5-year-old-clinic-battles-to-the-top-with-25-reviews-7k2)
-- [Release Apache APISIX Ingress Controller 2.0](https://dev.to/apisix/release-apache-apisix-ingress-controller-20-346n)
+- [Amazon Bedrock AgentCore Gateway - Part 5 Add API Gateway REST API as a target for Amazon Bedrock AgentCore Gateway](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-5-add-api-gateway-rest-api-as-a-target-for-amazon-bedrock-5fic)
+- [The two most important tools for HTML developers](https://dev.to/cfried/the-two-most-important-tools-for-html-developers-24nb)
+- [Measuring ROI of a Software Rewrite](https://dev.to/atumcode_seo_c7a99eeb2b98/measuring-roi-of-a-software-rewrite-46b3)
+- [Building a Kubernetes HomeLab - The Hard Way - DNS first, or everything else lies to you 🔥🌐](https://dev.to/hkhelil/building-a-kubernetes-homelab-the-hard-way-dns-first-or-everything-else-lies-to-you-3ng1)
+- [Day 01 - One Key, One Coordinator](https://dev.to/pillin/day-01-one-key-one-coordinator-3e69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
