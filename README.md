@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [現役エンジニアが選ぶ2025年必須開発ツール&lpar;IDEからAIまで&rpar;](https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d)
-- [Adding Cryptographic Audit Trails to FIX Without Touching Your Trading Engine](https://dev.to/veritaschain/adding-cryptographic-audit-trails-to-fix-without-touching-your-trading-engine-551p)
-- [How to Send Emails in Ruby - Complete Guide with Code Examples](https://dev.to/sendlayer/how-to-send-emails-in-ruby-complete-guide-with-code-examples-24f7)
-- [I build things because silence is suspicious.](https://dev.to/trojanmocx/i-build-things-because-silence-is-suspicious-1852)
-- [Etika dan Tantangan Evaluasi Sistem](https://dev.to/ahmadasroni38/etika-dan-tantangan-evaluasi-sistem-1l71)
+- [Advent of Code: Perform a yestruC](https://dev.to/rkeeves/advent-of-code-perform-a-yestruc-2201)
+- [Real-World System Design: Authentication, RBAC, and Multi-Tenant Architecture &lpar;Part 1&rpar;](https://dev.to/shailesh_singh_d23390342e/real-world-system-design-authentication-rbac-and-multi-tenant-architecture-part-1-3n8p)
+- [🪄 Underwind — The Starter Theme That Let the Wind Change Direction](https://dev.to/melasistema/underwind-the-starter-theme-that-let-the-wind-change-direction-24ei)
+- [Localhost is a Lie: The Happy Path Fallacy](https://dev.to/doogal/localhost-is-a-lie-the-happy-path-fallacy-16gn)
+- [Mobile Supply Chain Security: SBOM and Dependency Risk for App Teams](https://dev.to/m_sikandar/mobile-supply-chain-security-sbom-and-dependency-risk-for-app-teams-3285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
