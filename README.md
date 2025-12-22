@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Errors Are Not Annoying They’re Helpful](https://dev.to/talal_qasim_a28641c40c9a6/typescript-errors-are-not-annoying-theyre-helpful-5coo)
-- [Indirect Prompt Injection: The Complete Guide](https://dev.to/alessandro_pignati/indirect-prompt-injection-the-complete-guide-1m9h)
-- [Stop Uploading Your Personal Data: The Case for Browser-Based Micro-Tools](https://dev.to/techno_kraft_in/stop-uploading-your-personal-data-the-case-for-browser-based-micro-tools-5828)
-- [About Me - An Outreachy Blog](https://dev.to/giftcup/about-me-an-outreachy-blog-1k75)
-- [A Practical Guide to Prompt Engineering: 6 Essential Patterns Every Beginner Should Master](https://dev.to/zetao_qin_906c7471abc999c/a-practical-guide-to-prompt-engineering-6-essential-patterns-every-beginner-should-master-1g0h)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
+- [C# Minimal API: A Practical Way to Keep Endpoints Clean](https://dev.to/gramli/c-minimal-api-a-practical-way-to-keep-endpoints-clean-18aa)
+- [Introducing Supabase ETL](https://dev.to/supabase/introducing-supabase-etl-ohl)
+- [AI Deleted My Code: How to Recover](https://dev.to/ivandotcodes/ai-deleted-my-code-how-to-recover-18da)
+- [How to Ramp Up Fast on a New Team and a New System](https://dev.to/chanmoro/how-to-ramp-up-fast-on-a-new-team-and-a-new-system-39jg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
