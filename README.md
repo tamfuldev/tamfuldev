@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Accelerate Release Cycles Without Hiring More Engineers](https://dev.to/aspire-softserv/how-to-accelerate-release-cycles-without-hiring-more-engineers-3n50)
-- [Weekly Tech Recap: AI Breakthroughs Shine &lpar;Dec 15 - Dec 21, 2025&rpar;](https://dev.to/hkj13/weekly-tech-recap-ai-breakthroughs-shine-dec-15-dec-21-2025-5ecj)
-- [Microsoft Dataverse Explained](https://dev.to/smartnet_8dafe5747e99946b/microsoft-dataverse-explained-18le)
-- [CSS Counters: Automatic Numbering Tutorial with Real Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/css-counters-automatic-numbering-tutorial-with-real-examples-33a0)
-- [How to Easily Call Smart Contracts Using Ethers.js and Next.js &lpar;BSC Testnet&rpar;](https://dev.to/truussbeuseqyo/how-to-easily-call-smart-contracts-using-ethersjs-and-nextjs-bsc-testnet-44n8)
+- [TypeScript Errors Are Not Annoying They’re Helpful](https://dev.to/talal_qasim_a28641c40c9a6/typescript-errors-are-not-annoying-theyre-helpful-5coo)
+- [Indirect Prompt Injection: The Complete Guide](https://dev.to/alessandro_pignati/indirect-prompt-injection-the-complete-guide-1m9h)
+- [Stop Uploading Your Personal Data: The Case for Browser-Based Micro-Tools](https://dev.to/techno_kraft_in/stop-uploading-your-personal-data-the-case-for-browser-based-micro-tools-5828)
+- [About Me - An Outreachy Blog](https://dev.to/giftcup/about-me-an-outreachy-blog-1k75)
+- [A Practical Guide to Prompt Engineering: 6 Essential Patterns Every Beginner Should Master](https://dev.to/zetao_qin_906c7471abc999c/a-practical-guide-to-prompt-engineering-6-essential-patterns-every-beginner-should-master-1g0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
