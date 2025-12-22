@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
-- [We Replaced Message Buses with Telemetry for AI Agent Coordination](https://dev.to/fubumaki/we-replaced-message-buses-with-telemetry-for-ai-agent-coordination-39e8)
-- [Linked Lists Joins the Fray! &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/linked-lists-joins-the-fray-javascript-3e9d)
-- [WBS + AI: How to Cut Development Time by 6x](https://dev.to/_jeongyuhyeon_03de1/wbs-ai-how-to-cut-development-time-by-6x-n1p)
-- [Building a Scalable Rate Limiting System: Token Bucket vs Leaky Bucket](https://dev.to/benyusouf/building-a-scalable-rate-limiting-system-token-bucket-vs-leaky-bucket-4nnp)
+- [PardoX: Processing 640M Rows on a Standard Laptop — The High-Performance Rust ETL Engine](https://dev.to/betoalien/pardox-processing-640m-rows-on-a-standard-laptop-the-high-performance-rust-etl-engine-528h)
+- [Rails and Ruby Support Ends: Critical Deadlines Every Developer Must Know](https://dev.to/raisa_kanagaraj/rails-and-ruby-support-ends-critical-deadlines-every-developer-must-know-2d9g)
+- [🐍 A Visual Guide to Python’s print&lpar;&rpar; Function](https://dev.to/zakkhassan97/a-visual-guide-to-pythons-print-function-520)
+- [AI Generated Article](https://dev.to/techblogs/ai-generated-article-d6l)
+- [The Modern Web Is a Superpower: Why Browser APIs Matter in 2026](https://dev.to/luckynkosi/the-modern-web-is-a-superpower-why-browser-apis-matter-in-2026-1ioi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
