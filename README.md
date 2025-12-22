@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)
-- [Why AI Code Suggestions Fail in Multi-File Projects](https://dev.to/leena_malhotra/why-ai-code-suggestions-fail-in-multi-file-projects-49j9)
-- [How to Use AI Software Development: Practical Enterprise Use Cases](https://dev.to/emmawilson01/how-to-use-ai-software-development-practical-enterprise-use-cases-5dp5)
-- [Código Limpio: 5 principios para dejar de escribir &quot;código espagueti&quot;](https://dev.to/oscarolg/codigo-limpio-5-principios-para-dejar-de-escribir-codigo-espagueti-4k4b)
-- [Top 10 Web Development Companies in Noida](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-noida-3o7b)
+- [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
+- [Hashicorp Vault: Authentication Provider Almanac](https://dev.to/admantium/hashicorp-vault-authentication-provider-almanac-47g9)
+- [A Clean WordPress Website Checklist &lpar;What We Fix Before We Touch Design&rpar;](https://dev.to/digillexsols/a-clean-wordpress-website-checklist-what-we-fix-before-we-touch-design-56j2)
+- [Cracking the Code of GEO: How a 5-Year-Old Clinic Battles to the Top with 25 Reviews](https://dev.to/serral_9d642e22a7c4a0f87b/cracking-the-code-of-geo-how-a-5-year-old-clinic-battles-to-the-top-with-25-reviews-7k2)
+- [Release Apache APISIX Ingress Controller 2.0](https://dev.to/apisix/release-apache-apisix-ingress-controller-20-346n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
