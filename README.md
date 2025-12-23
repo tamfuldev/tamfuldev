@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://dev.to/gounthar/adding-risc-v-support-to-armbian-imager-a-tale-of-qemu-tauri-and-deja-vu-18nl)
-- [Ethereum-Solidity Quiz Q2: What is a proxy in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q2-what-is-a-proxy-in-solidity-4cg6)
-- [Testing shadcn/ui components with TWD](https://dev.to/kevinccbsg/testing-shadcnui-components-with-twd-259a)
-- [Day 24.Setting Up an Application Load Balancer for an EC2 Instance](https://dev.to/thukhakyawe_cloud/day-24setting-up-an-application-load-balancer-for-an-ec2-instance-1n2f)
-- [Building Synapse: A Full-Featured Social Media App with React Native &amp; Supabase &lpar;Launching Soon!&rpar;](https://dev.to/alexrosrgz/building-synapse-a-full-featured-social-media-app-with-react-native-supabase-launching-soon-1f4f)
+- [I built FAF using Zig on Bun for Claude](https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i)
+- [🌱 I Built an Open‑Source Adaptive Learning Framework &lpar;ALF&rpar; — Modular, Bilingual, and JSON‑Driven](https://dev.to/palman22hue/i-built-an-open-source-adaptive-learning-framework-alf-modular-bilingual-and-json-driven-8of)
+- [I Built a Free Lightweight Ad Blocker Chrome Extension &lpar;Looking for Feedback&rpar;](https://dev.to/sahil_kalia_d35a3aa341b31/i-built-a-free-lightweight-ad-blocker-chrome-extension-looking-for-feedback-463e)
+- [The Future of AI in Software Development: 2026 and Beyond](https://dev.to/mahdi_benrhouma_fe1c6005/the-future-of-ai-in-software-development-2026-and-beyond-5018)
+- [Day 26.Configuring an EC2 Instance as a Web Server with Nginx](https://dev.to/thukhakyawe_cloud/day-26configuring-an-ec2-instance-as-a-web-server-with-nginx-3j0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
