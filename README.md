@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Prevent Ads from Interrupting Critical User Workflows](https://dev.to/pradeep_kumar_fc55a4d876b/how-we-prevent-ads-from-interrupting-critical-user-workflows-30d7)
-- [CI/CD Is Not Only for the Cloud: Building a CI/CD Pipeline for Shared Hosting Using GitHub Actions](https://dev.to/snnajieze/cicd-is-not-only-for-the-cloud-building-a-cicd-pipeline-for-shared-hosting-using-github-actions-4c4h)
-- [Creating EC2 Instance](https://dev.to/daniel_shaibu/creating-ec2-instance-10g1)
-- [What I Learned Building with GitHub Copilot as a Java Developer](https://dev.to/eddybenchek/what-i-learned-building-with-github-copilot-as-a-java-developer-9bk)
-- [Software engineering culture: mindset, teams, and action](https://dev.to/vburckhardt/software-engineering-culture-mindset-teams-and-action-33e3)
+- [Autocomplete/Typeahead System Design [Frontend Focused]](https://dev.to/arghya_majumder_54190fb59/autocompletetypeahead-system-1cfh)
+- [Filio’s Backstory](https://dev.to/max-rooz/filios-backstory-4h55)
+- [Research on Software Documentation Challenges](https://dev.to/alyson_rodrigo_dd8519e3eb/research-on-software-documentation-challenges-43aj)
+- [**Title:** NFL Week 16 Recap: Unpacking the Shocking Upsets and Implications for the Playoffs](https://dev.to/yagyaraj_sharma_6cd410179/title-nfl-week-16-recap-unpacking-the-shocking-upsets-and-implications-for-the-playoffs-22b3)
+- [SwiftUI Transactions &amp; Update Propagation](https://dev.to/sebastienlato/swiftui-transactions-update-propagation-31kg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
