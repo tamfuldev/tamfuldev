@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Across the Stack: UI Storage Encryption Offline Resilience](https://dev.to/crisiscoresystems/testing-across-the-stack-from-frontend-ui-to-local-database-resilience-4c5i)
-- [Modern Java Features: Part 2 - From Java 22 to 25](https://dev.to/hyperskill_academy/modern-java-features-part-2-from-java-22-to-25-20gk)
-- [Hot and Cold Publishers in Swift Combine](https://dev.to/arshtechpro/hot-and-cold-publishers-in-swift-combine-2c71)
-- [Kotlin vs Flutter in 2026: The Choice That Can Make or Break Your App](https://dev.to/chillicode/kotlin-vs-flutter-in-2026-the-choice-that-can-make-or-break-your-app-1k2n)
-- [DEV Track Spotlight: Build modern applications with Amazon Aurora DSQL &lpar;DEV308&rpar;](https://dev.to/aws/dev-track-spotlight-build-modern-applications-with-amazon-aurora-dsql-dev308-4g5o)
+- [I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3)
+- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6)
+- [CinemaSins: Everything Wrong With Silent Night, Deadly Night In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-silent-night-deadly-night-in-16-minutes-or-less-hbk)
+- [How Independent Vendor Shops Operate on the Dark Web](https://dev.to/tor_bbb/how-independent-vendor-shops-operate-on-the-dark-web-12aj)
+- [Deploying Your AI/ML Models: A Practical Guide from Training to Production](https://dev.to/ajor-saha/deploying-your-aiml-models-a-practical-guide-from-training-to-production-2fg3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
