@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pseudo-localization for Automated i18n Testing](https://dev.to/anton_antonov/pseudo-localization-for-automated-i18n-testing-31)
-- [Install KVM on Ubuntu 24.04](https://dev.to/rosgluk/install-kvm-on-ubuntu-2404-n06)
-- [Mr Sunday Movies: Red One &lpar;a bad movie&rpar; Christmas Commentary](https://dev.to/popcorn_movies/mr-sunday-movies-red-one-a-bad-movie-christmas-commentary-506g)
-- [How Designers and Developers Integrate Z-Image.ai into Creative Workflows](https://dev.to/aivideotool/how-designers-and-developers-integrate-z-imageai-into-creative-workflows-5hfe)
-- [checkout this article on Joins and Data Blending in Tableau: Concepts, Origins, Use Cases, and Real-World Case Studies](https://dev.to/dipti26810/checkout-this-article-on-joins-and-data-blending-in-tableau-concepts-origins-use-cases-and-3477)
+- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
+- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
+- [I stopped using Excel: How I built an Enterprise-Grade Job Tracker with Spring Boot 3 &amp; Angular 17](https://dev.to/thughari/i-stopped-using-excel-how-i-built-an-enterprise-grade-job-tracker-with-spring-boot-3-angular-17-2085)
+- [Security isn’t just about code](https://dev.to/vardan_matevosian_tech/security-isnt-just-about-code-30ae)
+- [How to Apply Expiration Date for eSignature Requests Through API](https://dev.to/boldsign/how-to-apply-expiration-date-for-esignature-requests-through-api-h5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
