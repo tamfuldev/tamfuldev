@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Volumes and Data Persistence: Managing State in Containers 💾](https://dev.to/techwithhari/docker-volumes-and-data-persistence-managing-state-in-containers-21ge)
-- [AWS ML / GenAI Trifecta: Part 1 – AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-1-aws-certified-ai-practitioner-aif-c01-463n)
-- [Building the Control Plane for Cognition: Scaling Google’s MCP Support with a Universal Registry](https://dev.to/mcpmessenger/building-the-control-plane-for-cognition-scaling-googles-mcp-support-with-a-universal-registry-17lb)
-- [Quelle est la taille idéale d&#39;une classe ?](https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg)
-- [Using AI as beginner in Dev.](https://dev.to/precious_francismsongole/using-ai-as-beginner-in-dev-16nh)
+- [Pseudo-localization for Automated i18n Testing](https://dev.to/anton_antonov/pseudo-localization-for-automated-i18n-testing-31)
+- [Install KVM on Ubuntu 24.04](https://dev.to/rosgluk/install-kvm-on-ubuntu-2404-n06)
+- [Mr Sunday Movies: Red One &lpar;a bad movie&rpar; Christmas Commentary](https://dev.to/popcorn_movies/mr-sunday-movies-red-one-a-bad-movie-christmas-commentary-506g)
+- [How Designers and Developers Integrate Z-Image.ai into Creative Workflows](https://dev.to/aivideotool/how-designers-and-developers-integrate-z-imageai-into-creative-workflows-5hfe)
+- [checkout this article on Joins and Data Blending in Tableau: Concepts, Origins, Use Cases, and Real-World Case Studies](https://dev.to/dipti26810/checkout-this-article-on-joins-and-data-blending-in-tableau-concepts-origins-use-cases-and-3477)
 <!-- BLOG-POST-LIST:END -->
 
 ---
