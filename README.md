@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Autocomplete/Typeahead System Design [Frontend Focused]](https://dev.to/arghya_majumder_54190fb59/autocompletetypeahead-system-1cfh)
-- [Filio’s Backstory](https://dev.to/max-rooz/filios-backstory-4h55)
-- [Research on Software Documentation Challenges](https://dev.to/alyson_rodrigo_dd8519e3eb/research-on-software-documentation-challenges-43aj)
-- [**Title:** NFL Week 16 Recap: Unpacking the Shocking Upsets and Implications for the Playoffs](https://dev.to/yagyaraj_sharma_6cd410179/title-nfl-week-16-recap-unpacking-the-shocking-upsets-and-implications-for-the-playoffs-22b3)
-- [SwiftUI Transactions &amp; Update Propagation](https://dev.to/sebastienlato/swiftui-transactions-update-propagation-31kg)
+- [Chatbot API Versioning: Best Practices for Production](https://dev.to/chatboqai/chatbot-api-versioning-best-practices-for-production-21gl)
+- [Automate Your Terminal Setup with PowerShell: Installing Starship Prompt](https://dev.to/krlz/automate-your-terminal-setup-with-powershell-installing-starship-prompt-52n)
+- [Mangools SEO Suite: The Content Creator&#39;s Secret Weapon for 2025 &lpar;And Why Everyone Else Is Doing It Wrong&rpar;](https://dev.to/alan_luu/mangools-seo-suite-the-content-creators-secret-weapon-for-2025-and-why-everyone-else-is-doing-it-579c)
+- [5 Major AI Developments You Need to Know About Over Your Morning Coffee](https://dev.to/ethan_zhang_e501fea89c25b/5-major-ai-developments-you-need-to-know-about-over-your-morning-coffee-bhb)
+- [Stop Flattening Your Images: How Qwen2-VL Unlocks &quot;Layered&quot; Vision](https://dev.to/juddiy/stop-flattening-your-images-how-qwen2-vl-unlocks-layered-vision-1430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
