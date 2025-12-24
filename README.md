@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
-- [Beyond the Imitation Game: Quantifying and extrapolating the capabilities oflanguage models](https://dev.to/paperium/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-oflanguage-models-3371)
-- [Welcome Thread - v357](https://dev.to/devteam/welcome-thread-v357-39k7)
-- [Python by Structure: List Comprehensions and the &quot;Single Action&quot;](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-the-single-action-hlf)
-- [Local AI is a pipe dream](https://dev.to/suryakasturi/local-ai-is-a-pipe-dream-30jh)
+- [Building VibeVault](https://dev.to/thiyagu26v/building-vibevault-4p6f)
+- [Vectorization in Neural Networks: A Beginner’s Guide](https://dev.to/codeneuron/vectorization-in-neural-networks-a-beginners-guide-e34)
+- [A Tutorial on Bayesian Optimization](https://dev.to/paperium/a-tutorial-on-bayesian-optimization-45lg)
+- [VPN for Stability AI: Securing Open-Source AI Generation](https://dev.to/dev-vpn/vpn-for-stability-ai-securing-open-source-ai-generation-3a6h)
+- [Getting Started with 2D Games Using Tkinter &lpar;Part 9&rpar;: Display a Counter](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-tkinter-part-9-display-a-counter-4oil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
