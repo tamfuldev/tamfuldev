@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built FAF using Zig on Bun for Claude](https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i)
-- [🌱 I Built an Open‑Source Adaptive Learning Framework &lpar;ALF&rpar; — Modular, Bilingual, and JSON‑Driven](https://dev.to/palman22hue/i-built-an-open-source-adaptive-learning-framework-alf-modular-bilingual-and-json-driven-8of)
-- [I Built a Free Lightweight Ad Blocker Chrome Extension &lpar;Looking for Feedback&rpar;](https://dev.to/sahil_kalia_d35a3aa341b31/i-built-a-free-lightweight-ad-blocker-chrome-extension-looking-for-feedback-463e)
-- [The Future of AI in Software Development: 2026 and Beyond](https://dev.to/mahdi_benrhouma_fe1c6005/the-future-of-ai-in-software-development-2026-and-beyond-5018)
-- [Day 26.Configuring an EC2 Instance as a Web Server with Nginx](https://dev.to/thukhakyawe_cloud/day-26configuring-an-ec2-instance-as-a-web-server-with-nginx-3j0j)
+- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi)
+- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m)
+- [Ugly Sweater CSS: Jawa&#39;s Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg)
+- [AI-Native UX Design: A Quiet Shift in How We Design Interfaces](https://dev.to/priya_sajja_c336921bbda87/ai-native-ux-design-a-quiet-shift-in-how-we-design-interfaces-c41)
+- [🏆 **GRADUATION CERTIFICATE:**](https://dev.to/softicode/graduation-certificate-2hnb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
