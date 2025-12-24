@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 11&rpar;: Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34)
-- [Don&#39;t Build Just Another Chatbot: Architecting a &quot;Duolingo-Style&quot; AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5)
-- [Top 10 WordPress Security Mistakes You&#39;re Probably Making in 2025](https://dev.to/mhaque88cs/top-10-wordpress-security-mistakes-youre-probably-making-in-2025-1g8g)
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 10&rpar;: Playing Sound Effects](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-10-playing-sound-effects-500d)
-- [Gesture-Controlled Gadgets Shaping the Future of Interaction](https://dev.to/rapidcellphone/gesture-controlled-gadgets-shaping-the-future-of-interaction-o2l)
+- [Drupal Canvas, creación de páginas I](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-canvas-creacion-de-paginas-i-c3b)
+- [Handy: Công cụ ghi âm giọng nói sang văn bản cục bộ, bảo mật](https://dev.to/stelixx-insider/handy-cong-cu-ghi-am-giong-noi-sang-van-ban-cuc-bo-bao-mat-4p1m)
+- [Jasa Backlink AC.ID Murah dan Berkualitas untuk SEO](https://dev.to/egy_panama_6fdbd6a624cac4/jasa-backlink-acid-murah-dan-berkualitas-untuk-seo-2jgi)
+- [Crypto Exchange Development That Helps Users Trade Across Multiple Assets](https://dev.to/gabrielmateo/crypto-exchange-development-that-helps-users-trade-across-multiple-assets-4lgj)
+- [Top 10 noteworthy Java errors in 2025](https://dev.to/pvsdev/top-10-noteworthy-java-errors-in-2025-1jcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
