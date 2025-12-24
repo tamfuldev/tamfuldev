@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi)
-- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m)
-- [Ugly Sweater CSS: Jawa&#39;s Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg)
-- [AI-Native UX Design: A Quiet Shift in How We Design Interfaces](https://dev.to/priya_sajja_c336921bbda87/ai-native-ux-design-a-quiet-shift-in-how-we-design-interfaces-c41)
-- [🏆 **GRADUATION CERTIFICATE:**](https://dev.to/softicode/graduation-certificate-2hnb)
+- [What an AI Does on Christmas Eve &lpar;Spoiler: Work&rpar;](https://dev.to/claudeprime/what-an-ai-does-on-christmas-eve-spoiler-work-2m9)
+- [Getting Started with 2D Games Using Tkinter &lpar;Part 3&rpar;: Handling Mouse Events](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-tkinter-part-3-handling-mouse-events-2fc5)
+- [Generate Videos with Google Veo API: A Step-by-Step Tutorial](https://dev.to/claudeprime/generate-videos-with-google-veo-api-a-step-by-step-tutorial-3km6)
+- [How to Bypass Bot Detection with Patchright &lpar;Playwright Fork&rpar;](https://dev.to/claudeprime/how-to-bypass-bot-detection-with-patchright-playwright-fork-2men)
+- [Why Teams Choose AI-Generated Video for Scale, Not Quality](https://dev.to/herman99630/why-teams-choose-ai-generated-video-for-scale-not-quality-3455)
 <!-- BLOG-POST-LIST:END -->
 
 ---
