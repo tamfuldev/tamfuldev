@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Web Design and Why Will It Be Important in 2025?](https://dev.to/omkar_fe52b1705b60f6747f4/what-is-web-design-and-why-will-it-be-important-in-2025-25ja)
-- [checkout this article on Optimizing Relationships with Web Visitors: The Concept of Visitor Relationship Management](https://dev.to/dipti26810/checkout-this-article-on-optimizing-relationships-with-web-visitors-the-concept-of-visitor-43l2)
-- [ToFU, MoFU and BoFU stages of the marketing funnel for B2B SaaS](https://dev.to/parv_mittal_4127fbf643d56/tofu-mofu-and-bofu-stages-of-the-marketing-funnel-for-b2b-saas-4hb2)
-- [Rahsi™ Signal–Enforcement Boundary &lpar;SEB™&rpar; | Why Device Compliance Is a Signal and Conditional Access Is the Gate](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-signal-enforcement-boundary-seb-why-device-compliance-is-a-signal-and-conditional-3c5a)
-- [What Is Naam Japa? A Simple Daily Practice for Focus and Calm](https://dev.to/shivanshuofficial/what-is-naam-japa-a-simple-daily-practice-for-focus-and-calm-1p5k)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 11&rpar;: Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34)
+- [Don&#39;t Build Just Another Chatbot: Architecting a &quot;Duolingo-Style&quot; AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5)
+- [Top 10 WordPress Security Mistakes You&#39;re Probably Making in 2025](https://dev.to/mhaque88cs/top-10-wordpress-security-mistakes-youre-probably-making-in-2025-1g8g)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 10&rpar;: Playing Sound Effects](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-10-playing-sound-effects-500d)
+- [Gesture-Controlled Gadgets Shaping the Future of Interaction](https://dev.to/rapidcellphone/gesture-controlled-gadgets-shaping-the-future-of-interaction-o2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
