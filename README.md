@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Databases Give Structure to Data](https://dev.to/lovestaco/how-databases-give-structure-to-data-5fab)
-- [Infrastructure Workforce Development in India: A Roadmap to 2030](https://dev.to/incobaninsights/infrastructure-workforce-development-in-india-a-roadmap-to-2030-1dkh)
-- [Beyond the Lens: Creative Portrait Layouts and Styles in Nano Banana Pro](https://dev.to/zenja/beyond-the-lens-creative-portrait-layouts-and-styles-in-nano-banana-pro-338e)
-- [Top 10 Web Development Companies in Gurgaon](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-gurgaon-d6c)
-- [Top 10 Open-Source Robotic Arm Projects for Beginners](https://dev.to/david_thomas/top-10-open-source-robotic-arm-projects-for-beginners-38n4)
+- [Stock up on quality games—for free!](https://dev.to/aibuddyinc/stock-up-on-quality-games-for-free-2p9k)
+- [LinkMedic-Finds broken image and file links in HTML, PHP as well as in MERN stack.](https://dev.to/jawaan_santh_5fff7e7f2382/linkmedic-finds-broken-image-and-file-links-in-html-php-as-well-as-in-mern-stack-10km)
+- [Build a TikTok Creator Analyzer to Find Your Next Brand Deal](https://dev.to/olams/build-a-tiktok-creator-analyzer-to-find-your-next-brand-deal-433n)
+- [Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility](https://dev.to/techblogs/micro-frontends-decomposing-the-monolithic-frontend-for-scalability-and-agility-1jm4)
+- [WTF is MLOps?](https://dev.to/dailybugle33/wtf-is-mlops-4oj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
