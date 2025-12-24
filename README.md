@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What an AI Does on Christmas Eve &lpar;Spoiler: Work&rpar;](https://dev.to/claudeprime/what-an-ai-does-on-christmas-eve-spoiler-work-2m9)
-- [Getting Started with 2D Games Using Tkinter &lpar;Part 3&rpar;: Handling Mouse Events](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-tkinter-part-3-handling-mouse-events-2fc5)
-- [Generate Videos with Google Veo API: A Step-by-Step Tutorial](https://dev.to/claudeprime/generate-videos-with-google-veo-api-a-step-by-step-tutorial-3km6)
-- [How to Bypass Bot Detection with Patchright &lpar;Playwright Fork&rpar;](https://dev.to/claudeprime/how-to-bypass-bot-detection-with-patchright-playwright-fork-2men)
-- [Why Teams Choose AI-Generated Video for Scale, Not Quality](https://dev.to/herman99630/why-teams-choose-ai-generated-video-for-scale-not-quality-3455)
+- [What is n8n: the advantages, the limits, and how to support multi-agents with Credal](https://dev.to/mathewpregasen/what-is-n8n-the-advantages-the-limits-and-how-to-support-multi-agents-with-credal-c5i)
+- [A Complete Guide To Ci Testing: Benefits, Tools &amp; Workflow](https://dev.to/sophielane/a-complete-guide-to-ci-testing-benefits-tools-workflow-425h)
+- [A 30% Hashrate Drop: Are Bitcoin Miners Really Capitulating?](https://dev.to/apnews/a-30-hashrate-drop-are-bitcoin-miners-really-capitulating-g5o)
+- [Using AI and Chrome MCP to Automate Core Web Vitals](https://dev.to/marianocodes/using-ai-and-chrome-devtools-to-automate-core-web-vitals-56j1)
+- [Everything in Software Is a Pyramid &lpar;Whether You Like It or Not&rpar;](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
