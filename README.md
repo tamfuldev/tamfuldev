@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stock up on quality games—for free!](https://dev.to/aibuddyinc/stock-up-on-quality-games-for-free-2p9k)
-- [LinkMedic-Finds broken image and file links in HTML, PHP as well as in MERN stack.](https://dev.to/jawaan_santh_5fff7e7f2382/linkmedic-finds-broken-image-and-file-links-in-html-php-as-well-as-in-mern-stack-10km)
-- [Build a TikTok Creator Analyzer to Find Your Next Brand Deal](https://dev.to/olams/build-a-tiktok-creator-analyzer-to-find-your-next-brand-deal-433n)
-- [Micro Frontends: Decomposing the Monolithic Frontend for Scalability and Agility](https://dev.to/techblogs/micro-frontends-decomposing-the-monolithic-frontend-for-scalability-and-agility-1jm4)
-- [WTF is MLOps?](https://dev.to/dailybugle33/wtf-is-mlops-4oj3)
+- [Harnessing React in the Era of Serverless Deployment: A Modern Approach](https://dev.to/vjnvisakh/harnessing-react-in-the-era-of-serverless-deployment-a-modern-approach-5d16)
+- [Optimizing Complex Planning Inside Modern ERP Systems with Timefol](https://dev.to/richa_singh_11bd098df12c8/-optimizing-complex-planning-inside-modern-erp-systems-with-timefold-2m30)
+- [Can You Add Music from YouTube to Canva? A Practical, No-Confusion Guide](https://dev.to/sariga_divakaran_6962d1b9/can-you-add-music-from-youtube-to-canva-a-practical-no-confusion-guide-55jc)
+- [Property Registration: Why It Matters for Legal Security and Insurance Compliance](https://dev.to/mark_james_88c5e4f90301be/property-registration-why-it-matters-for-legal-security-and-insurance-compliance-3jll)
+- [Getting Started with 2D Games Using Arcade &lpar;Part 1&rpar;: What Are We Going to Build?](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-part-1-what-are-we-going-to-build-4bpi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
