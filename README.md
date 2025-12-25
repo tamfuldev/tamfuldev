@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From SDK to CLI: Making Sense of Bedrock Namespaces and Avoiding Cloud Shell Pitfalls](https://dev.to/srinivasan-aws/from-sdk-to-cli-making-sense-of-bedrock-namespaces-and-avoiding-cloud-shell-pitfalls-iam)
-- [Lessons from Building Business-Critical Software Without Offline Mode](https://dev.to/billboox/lessons-from-building-business-critical-software-without-offline-mode-3kj1)
-- [SEO Lessons From Building an IQ Test Website](https://dev.to/whats_youriq_e1c071d8262/seo-lessons-from-building-an-iq-test-website-1mab)
-- [Homelabing interesting enough to say but why](https://dev.to/priyanshuverma/homelabing-interesting-enough-to-say-but-why-2fhh)
-- [Server-based vs Serverless Compute Services on AWS: My Notes for Beginners.](https://dev.to/rohanan07/server-based-vs-serverless-compute-services-on-aws-my-notes-for-beginners-1c12)
+- [AWS ML / GenAI Trifecta: Part 2 – AWS Certified Machine Learning Engineer Associate](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-2-aws-certified-machine-learning-engineer-associate-7mi)
+- [Routing with Controllers, Schemas &amp; Auto Docs | Build APIs with Litestar #2.](https://dev.to/jod35/routing-with-controllers-schemas-auto-docs-build-apis-with-litestar-2-51a5)
+- [Tech Magazine: Where the Next Decade of Innovation Is Being Imagined](https://dev.to/solutionsitetoto/tech-magazine-where-the-next-decade-of-innovation-is-being-imagined-5a6l)
+- [Building a Write-Once Publishing Pipeline](https://dev.to/12ww1160/building-a-write-once-publishing-pipeline-f60)
+- [Power Automate Trigger Condition Formulas Cheat Sheet: Ready-to-Use Examples for Business Hours &amp; Email Filtering](https://dev.to/ippu_ito_870812/power-automate-trigger-condition-formulas-cheat-sheet-ready-to-use-examples-for-business-hours--28nc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
