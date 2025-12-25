@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Electron Framework and modern apps](https://dev.to/gabrieljemail/the-electron-framework-and-modern-apps-286h)
-- [How to sharing TypeScript codes Across Frontend and Backend in a Monorepo](https://dev.to/aoda-zhang/making-a-typescript-shared-package-work-across-frontend-and-backend-in-a-monorepo-1k23)
-- [Machine Learning Ecosystem in PHP](https://dev.to/samuel_akopyan_e902195a96/the-ml-ecosystem-in-php-3200)
-- [Using a Raspberry Pi as a Home Router](https://dev.to/faaizz/using-a-raspberry-pi-as-a-home-router-51l2)
-- [Why Oasis Is Backing Custody-Native Credit Infrastructure](https://dev.to/caerlower/why-oasis-is-backing-custody-native-credit-infrastructure-2mfm)
+- [Goodbye Hidden Fields: Modern CSRF Protection Without Tokens](https://dev.to/jsgurujobs/goodbye-hidden-fields-modern-csrf-protection-without-tokens-4pam)
+- [CinemaSins: Everything Wrong With Red One In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-red-one-in-18-minutes-or-less-3229)
+- [Ingesting 100M Heartbeats: Scaling Wearable Tech Without Going Broke](https://dev.to/beck_moulton/ingesting-100m-heartbeats-scaling-wearable-tech-without-going-broke-2jf9)
+- [AI Writes Code — But It Couldn&#39;t Have Invented Expo Router](https://dev.to/cathylai/ai-writes-code-but-it-couldnt-have-invented-expo-router-hpb)
+- [Verifiable Compute for Onchain Prop Trading: How Carrotfunding Uses ROFL](https://dev.to/caerlower/verifiable-compute-for-onchain-prop-trading-how-carrotfunding-uses-rofl-38j2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
