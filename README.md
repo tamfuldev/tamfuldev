@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Our AI Hiring Platform Gets Smarter Without Code Changes](https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3)
-- [Render Alternatives: What to Use When Render Starts to Limit You](https://dev.to/kuberns_cloud/render-alternatives-what-to-use-when-render-starts-to-limit-you-17em)
-- [What I Learned in My First Week of Linux &lpar;DevOps Journey&rpar;](https://dev.to/sneha_tomar_23/what-i-learned-in-my-first-week-of-linux-devops-journey-3fhb)
-- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
-- [My Takeaways from AWS re:Invent 2025: Bringing the Vegas Energy Home to Hong Kong 🇭🇰✨](https://dev.to/karen_tam_3e10b93a14f058a/my-takeaways-from-aws-reinvent-2025-bringing-the-vegas-energy-home-to-hong-kong-5egp)
+- [SQHWYD CTO Dr. Anya Volkov: Engineering Active Defense Against AI-Powered Exploits](https://dev.to/anyavolkov/sqhwyd-cto-dr-anya-volkov-engineering-active-defense-against-ai-powered-exploits-599d)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-59k)
+- [Why 92% of Content Creators Fail at SEO &lpar;And How Mangools Is the Only Tool That Fixes It&rpar;](https://dev.to/alan_luu/why-92-of-content-creators-fail-at-seo-and-how-mangools-is-the-only-tool-that-fixes-it-2o3a)
+- [Deploying Scalable LLM Tools via Remote MCP on Kubernetes](https://dev.to/pratik_12b3f8bf3b50e48bae/deploying-scalable-llm-tools-via-remote-mcp-on-kubernetes-23h6)
+- [AutoAugment: Learning Augmentation Policies from Data](https://dev.to/paperium/autoaugment-learning-augmentation-policies-from-data-5go8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
