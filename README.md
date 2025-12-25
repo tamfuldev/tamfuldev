@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Christmas Videos with AI: Complete Holiday Content Guide](https://dev.to/_fde76ff2d01974642930b/how-to-create-christmas-videos-with-ai-complete-holiday-content-guide-48hl)
-- [How to Use Node-RED as a Modbus TCP Server &lpar;Without Writing Custom Code&rpar;](https://dev.to/zediot/how-to-use-node-red-as-a-modbus-tcp-server-without-writing-custom-code-37hg)
-- [Why Q&amp;A platforms decay &lpar;and the simplest fix&rpar;](https://dev.to/mobin_poursalami_f30352a2/why-qa-platforms-decay-and-the-simplest-fix-527h)
-- [Blockchain Development Services: Building Trustless Systems for Real-World Business](https://dev.to/oodlesplatform/blockchain-development-services-building-trustless-systems-for-real-world-business-39ca)
-- [Walmart Connect vs Amazon Ads: Where to Start and How to Scale](https://dev.to/akash_yadav_74a8282d80e25/walmart-connect-vs-amazon-ads-where-to-start-and-how-to-scale-jpg)
+- [9 Architecture Mistakes That Quietly Kill Large Angular Codebases &lpar;And How DDD Fixes Them&rpar;](https://dev.to/karol_modelski/9-architecture-mistakes-that-quietly-kill-large-angular-codebases-and-how-ddd-fixes-them-1j4b)
+- [WTF is Remote Browser Isolation?](https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-5c6l)
+- [🔐 Digital Privacy and Ethics: Why Trust Is the New Currency of the Internet](https://dev.to/okoye_ndidiamaka_5e3b7d30/digital-privacy-and-ethics-why-trust-is-the-new-currency-of-the-internet-ddd)
+- [Support is the weakest link in authentication &lpar;unless you design it not to be&rpar;](https://dev.to/antonmb/support-is-the-weakest-link-in-authentication-unless-you-design-it-not-to-be-58md)
+- [HTTP payments without logins, subscriptions, or checkout pages &lpar;x402 idea&rpar;](https://dev.to/adityasingh2824/http-payments-without-logins-subscriptions-or-checkout-pages-x402-idea-55jg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
