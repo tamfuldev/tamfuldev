@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ML / GenAI Trifecta: Part 2 – AWS Certified Machine Learning Engineer Associate](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-2-aws-certified-machine-learning-engineer-associate-7mi)
-- [Routing with Controllers, Schemas &amp; Auto Docs | Build APIs with Litestar #2.](https://dev.to/jod35/routing-with-controllers-schemas-auto-docs-build-apis-with-litestar-2-51a5)
-- [Tech Magazine: Where the Next Decade of Innovation Is Being Imagined](https://dev.to/solutionsitetoto/tech-magazine-where-the-next-decade-of-innovation-is-being-imagined-5a6l)
-- [Building a Write-Once Publishing Pipeline](https://dev.to/12ww1160/building-a-write-once-publishing-pipeline-f60)
-- [Power Automate Trigger Condition Formulas Cheat Sheet: Ready-to-Use Examples for Business Hours &amp; Email Filtering](https://dev.to/ippu_ito_870812/power-automate-trigger-condition-formulas-cheat-sheet-ready-to-use-examples-for-business-hours--28nc)
+- [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
+- [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
+- [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
+- [Modern Networking in iOS with URLSession and async/await – Part 2](https://dev.to/markkazakov/modern-networking-in-ios-with-urlsession-and-asyncawait-part-2-1d3i)
+- [Stop Building Drawing Tools From Scratch: Meet js-draw, The Library That Handles Infinite Zoom and Stylus Input](https://dev.to/githubopensource/stop-building-drawing-tools-from-scratch-meet-js-draw-the-library-that-handles-infinite-zoom-and-52eo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
