@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FREE Access To Code To Image Generator Production App Source Code with Payment Gateway Integration Worth $99](https://dev.to/myogeshchavan97/free-access-to-code-to-image-generator-production-app-source-code-with-payment-gateway-integration-366d)
-- [Stop Sending Boring Texts! Try This Secret &quot;Locked Message&quot; Generator](https://dev.to/techno_kraft_in/stop-sending-boring-texts-try-this-secret-locked-message-generator-pjl)
-- [Leaflet Address Autocomplete with Geoapify &lpar;Companion to MapLibre Example&rpar;](https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2)
-- [I’m building a deterministic policy firewall for AI systems — looking for technical feedback](https://dev.to/lola0786/im-building-a-deterministic-policy-firewall-for-ai-systems-looking-for-technical-feedback-2n71)
-- [Startup App Development Costs in Minnesota: What Founders Pay in 2026](https://dev.to/devin-rosario/startup-app-development-costs-in-minnesota-what-founders-pay-in-2026-hn7)
+- [Houston App Development Costs 2026](https://dev.to/devin-rosario/houston-app-development-costs-2026-3875)
+- [How to Build a Social Media App Using React Native + Firebase &lpar;Step-by-Step Guide&rpar;](https://dev.to/jackdavis32/how-to-build-a-social-media-app-using-react-native-firebase-step-by-step-guide-lde)
+- [Why Psychological Safety Matters in Dev Workplaces](https://dev.to/aartijangid23/why-psychological-safety-matters-in-dev-workplaces-5fo6)
+- [I Built a 3D Gesture-Controlled Instagram Christmas Tree in a Day 🎄](https://dev.to/gracetyy/i-built-a-3d-gesture-controlled-instagram-christmas-tree-in-a-day-3d3)
+- [The Quiet Truth Every Software Engineer Learns](https://dev.to/msnmongare/the-quiet-truth-every-software-engineer-learns-4n04)
 <!-- BLOG-POST-LIST:END -->
 
 ---
