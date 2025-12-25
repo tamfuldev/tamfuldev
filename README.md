@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
-- [Event-Driven Architecture Explained: A Deep Dive](https://dev.to/techblogs/event-driven-architecture-explained-a-deep-dive-35ja)
-- [Navigating the Labyrinth: Effective Database Indexing Strategies](https://dev.to/techblogs/navigating-the-labyrinth-effective-database-indexing-strategies-2oam)
-- [Improving a Section That Caused Repeated Questions](https://dev.to/wang_wei_7bca82af800c6f68/improving-a-section-that-caused-repeated-questions-589a)
-- [Apple&#39;s New Mini App Rules: Comply or Face App Store Removal](https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90)
+- [High-Throughput IoT Log Aggregator](https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg)
+- [Do anyone know about any tool which can help me cross post between few tech platforms like dev.to, medium, hashnode etc without distorting the formatting?
+
+maybe from google docs to medium/hashnode/dev.to? or is anyone creating one?](https://dev.to/waqartabish/do-anyone-know-about-any-tool-which-can-help-me-cross-post-between-few-tech-platforms-like-devto-n0c)
+- [Build a Twitter-Style Microblog with Feeds &lpar;React Native&rpar;](https://dev.to/waqartabish/build-a-twitter-style-microblog-with-feeds-react-native-3dnc)
+- [AI Look-Alike Search for OF Creators — Need Advice on Better Face Models](https://dev.to/__678da4d0/ai-look-alike-search-for-of-creators-need-advice-on-better-face-models-58dc)
+- [Understandable AI](https://dev.to/janklein/understandable-ai-4kgo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
