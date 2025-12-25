@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Security Simplified: Building Your HIPAA-Compliant Data Lake on AWS](https://dev.to/wellallytech/data-security-simplified-building-your-hipaa-compliant-data-lake-on-aws-377l)
-- [UX Fixes That Lift Signup Conversion &lpar;Before/After with Data&rpar;](https://dev.to/atumcode_seo_c7a99eeb2b98/ux-fixes-that-lift-signup-conversion-beforeafter-with-data-5ha7)
-- [linux day #3](https://dev.to/jumptotech/linux-day-3-2dmc)
-- [**Navigating the Financial Crossroads: Balancing Retirement and Education Savings in Your 40s**](https://dev.to/yagyaraj_sharma_6cd410179/navigating-the-financial-crossroads-balancing-retirement-and-education-savings-in-your-40s-2al9)
-- [The EU AI Act Doesn&#39;t Mandate Cryptographic Logs—But You&#39;ll Want Them Anyway](https://dev.to/veritaschain/the-eu-ai-act-doesnt-mandate-cryptographic-logs-but-youll-want-them-anyway-97f)
+- [`Ractor::Port` - Revamping the Ractor API](https://dev.to/ko1/ractorport-revamping-the-ractor-api-98)
+- [Coffee Break AI Update: 5 Game-Changing AI Developments You Need to Know About Today](https://dev.to/ethan_zhang_e501fea89c25b/coffee-break-ai-update-5-game-changing-ai-developments-you-need-to-know-about-today-27a4)
+- [AI Photo Enhancer for Developers: APIs, Automation, and Modern Workflows](https://dev.to/aienhancer/ai-photo-enhancer-for-developers-apis-automation-and-modern-workflows-1cg9)
+- [TOP 20 BEST Wedding Dance Songs of All Time ❤️‍🔥 First Dance ONLINE](https://dev.to/placecard/top-20-best-wedding-dance-songs-of-all-time-first-dance-online-1ggh)
+- [Exporting DataTable to Excel from Database in .NET: A Practical Guide](https://dev.to/yahey/exporting-datatable-to-excel-from-database-in-net-a-practical-guide-3m7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
