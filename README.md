@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Software Programming as a Skill](https://dev.to/qurioskill/software-programming-as-a-skill-4dn2)
-- [Master Rust Parallelism: Write Safe, Fast Concurrent Code with Rayon and Zero Race Conditions](https://dev.to/nithinbharathwaj/master-rust-parallelism-write-safe-fast-concurrent-code-with-rayon-and-zero-race-conditions-4ghi)
-- [When Time Became a Variable — Notes From My Journey With Numba ⚡](https://dev.to/zenoguy/when-time-became-a-variable-notes-from-my-journey-with-numba-57oj)
-- [We Killed the Monster: WebForms Core 2.0 Released and the End of the Front-end Era of Terror](https://dev.to/elanatframework/we-killed-the-monster-webforms-core-20-released-and-the-end-of-the-front-end-era-of-terror-c0)
-- [ReAct vs Tool Calling: Why Your LLM Should Decide — But Never Execute](https://dev.to/parth_sarthisharma_105e7/react-vs-tool-calling-why-your-llm-should-decide-but-never-execute-cp3)
+- [Data Security Simplified: Building Your HIPAA-Compliant Data Lake on AWS](https://dev.to/wellallytech/data-security-simplified-building-your-hipaa-compliant-data-lake-on-aws-377l)
+- [UX Fixes That Lift Signup Conversion &lpar;Before/After with Data&rpar;](https://dev.to/atumcode_seo_c7a99eeb2b98/ux-fixes-that-lift-signup-conversion-beforeafter-with-data-5ha7)
+- [linux day #3](https://dev.to/jumptotech/linux-day-3-2dmc)
+- [**Navigating the Financial Crossroads: Balancing Retirement and Education Savings in Your 40s**](https://dev.to/yagyaraj_sharma_6cd410179/navigating-the-financial-crossroads-balancing-retirement-and-education-savings-in-your-40s-2al9)
+- [The EU AI Act Doesn&#39;t Mandate Cryptographic Logs—But You&#39;ll Want Them Anyway](https://dev.to/veritaschain/the-eu-ai-act-doesnt-mandate-cryptographic-logs-but-youll-want-them-anyway-97f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
