@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Own Block Cipher: Part 3 - AES](https://dev.to/dmytro_huz/building-own-block-cipher-part-3-aes-5fd8)
-- [Why Every Developer Should Deploy on a VPS at Least Once](https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg)
-- [[2025 Guide] AI-Driven Advertising Solutions for Marketing Automation](https://dev.to/getkoro_app/2025-guide-ai-driven-advertising-solutions-for-marketing-automation-4cb0)
-- [How I built my first AI Uptime Tracker as a &quot;coding newbie&quot;](https://dev.to/vicky_tsin_4aa76206a36899/how-i-built-my-first-ai-uptime-tracker-as-a-coding-newbie-2phc)
-- [Fast-track your tech career vs a traditional degree](https://dev.to/ajia_ali_fb5a7b00f0318020/fast-track-your-tech-career-vs-a-traditional-degree-4aan)
+- [From SDK to CLI: Making Sense of Bedrock Namespaces and Avoiding Cloud Shell Pitfalls](https://dev.to/srinivasan-aws/from-sdk-to-cli-making-sense-of-bedrock-namespaces-and-avoiding-cloud-shell-pitfalls-iam)
+- [Lessons from Building Business-Critical Software Without Offline Mode](https://dev.to/billboox/lessons-from-building-business-critical-software-without-offline-mode-3kj1)
+- [SEO Lessons From Building an IQ Test Website](https://dev.to/whats_youriq_e1c071d8262/seo-lessons-from-building-an-iq-test-website-1mab)
+- [Homelabing interesting enough to say but why](https://dev.to/priyanshuverma/homelabing-interesting-enough-to-say-but-why-2fhh)
+- [Server-based vs Serverless Compute Services on AWS: My Notes for Beginners.](https://dev.to/rohanan07/server-based-vs-serverless-compute-services-on-aws-my-notes-for-beginners-1c12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
