@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [High-Throughput IoT Log Aggregator](https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg)
-- [Do anyone know about any tool which can help me cross post between few tech platforms like dev.to, medium, hashnode etc without distorting the formatting?
-
-maybe from google docs to medium/hashnode/dev.to? or is anyone creating one?](https://dev.to/waqartabish/do-anyone-know-about-any-tool-which-can-help-me-cross-post-between-few-tech-platforms-like-devto-n0c)
-- [Build a Twitter-Style Microblog with Feeds &lpar;React Native&rpar;](https://dev.to/waqartabish/build-a-twitter-style-microblog-with-feeds-react-native-3dnc)
-- [AI Look-Alike Search for OF Creators — Need Advice on Better Face Models](https://dev.to/__678da4d0/ai-look-alike-search-for-of-creators-need-advice-on-better-face-models-58dc)
-- [Understandable AI](https://dev.to/janklein/understandable-ai-4kgo)
+- [Merry Christmas… in Your Linux Terminal 🎄](https://dev.to/igorgbr/merry-christmas-in-your-linux-terminal-5ei2)
+- [Week 2 Scripting Challenge: Caesarian Cipher](https://dev.to/fosres/week-2-scripting-challenge-caesarian-cipher-5916)
+- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
+- [Building a Blazing Fast CI Engine in Rust &lpar;That Dogfoods Itself!&rpar; 🦀⚡](https://dev.to/copyleftdev/building-a-blazing-fast-ci-engine-in-rust-that-dogfoods-itself-458l)
+- [Oracle AI Database 26ai — Dictionary Protection](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-dictionary-protection-3m91)
 <!-- BLOG-POST-LIST:END -->
 
 ---
