@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GPU Compute Shaders in Pure Go: gogpu/gg v0.15.0](https://dev.to/kolkov/gpu-compute-shaders-in-pure-go-gogpugg-v0150-1cjk)
-- [React and Angular: Common Patterns Comparison](https://dev.to/totoledao/react-and-angular-common-patterns-comparison-b15)
-- [Beyond the Basics: Advanced Prompt Engineering Techniques](https://dev.to/joao_victorsouza_ef8ff8a/beyond-the-basics-advanced-prompt-engineering-techniques-3oh)
-- [PPanel 完整安装指南：从零开始部署代理面板](https://dev.to/jimquote/ppanel-122-wan-zheng-an-zhuang-zhi-nan-cong-ling-kai-shi-bu-shu-dai-li-mian-ban-ip6)
-- [Day 25 / 365 - Full Stack journey](https://dev.to/munin_borah/day-25-365-full-stack-journey-95i)
+- [I built a quiz game to tell Pokémon from prescription drugs](https://dev.to/favstats/i-built-a-quiz-game-to-tell-pokemon-from-prescription-drugs-5gj6)
+- [How ADHD Adult Coach Methods Address Everyday Challenges](https://dev.to/coaching_withbrooke_1a5e/how-adhd-adult-coach-methods-address-everyday-challenges-4977)
+- [Keywords are not enough: Why Your Next.js App Needs Vector Search](https://dev.to/ubcodes/keywords-are-not-enough-why-your-nextjs-app-needs-vector-search-3p5h)
+- [Why Coding Agents Fail After Multiple Debugging Attempts](https://dev.to/morethananai/why-coding-agents-fail-after-multiple-debugging-attempts-6e4)
+- [Solving Latency and Pagination in Image and Keyword Based Property Search](https://dev.to/creativesuraj/reducing-latency-and-pagination-in-image-and-keyword-based-property-search-3ed7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
