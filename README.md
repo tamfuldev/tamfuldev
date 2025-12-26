@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Secure Container Introduction for the Minimally Security-Aware Developer](https://dev.to/rafael-italiano/a-secure-container-introduction-for-the-minimally-security-aware-developer-1159)
-- [I automated data breach response - changing 50 passwords in 30 minutes instead of 8 hours](https://dev.to/thepasswordapp/i-automated-data-breach-response-changing-50-passwords-in-30-minutes-instead-of-8-hours-21o5)
-- [My 1st solo project](https://dev.to/sleepy_ahmed_dbad3fbe96bc/my-1st-solo-project-c4)
-- [AWS AI Agent Core Implementation](https://dev.to/vimal_venugopal_70b861503/aws-ai-agent-core-implementation-4d75)
-- [Is Your AI Agent a Compliance Risk? How to Find Violations Hidden in Traces](https://dev.to/imshashank/is-your-ai-agent-a-compliance-risk-how-to-find-violations-hidden-in-traces-3g0e)
+- [GPU Compute Shaders in Pure Go: gogpu/gg v0.15.0](https://dev.to/kolkov/gpu-compute-shaders-in-pure-go-gogpugg-v0150-1cjk)
+- [React and Angular: Common Patterns Comparison](https://dev.to/totoledao/react-and-angular-common-patterns-comparison-b15)
+- [Beyond the Basics: Advanced Prompt Engineering Techniques](https://dev.to/joao_victorsouza_ef8ff8a/beyond-the-basics-advanced-prompt-engineering-techniques-3oh)
+- [PPanel 完整安装指南：从零开始部署代理面板](https://dev.to/jimquote/ppanel-122-wan-zheng-an-zhuang-zhi-nan-cong-ling-kai-shi-bu-shu-dai-li-mian-ban-ip6)
+- [Day 25 / 365 - Full Stack journey](https://dev.to/munin_borah/day-25-365-full-stack-journey-95i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
