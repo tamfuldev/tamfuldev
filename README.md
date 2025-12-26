@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
-- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
-- [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
-- [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
-- [Building Agent Skills from Scratch](https://dev.to/onlyoneaman/building-agent-skills-from-scratch-lbl)
+- [Remote Development Explained: Building PHP Teams Without Borders](https://dev.to/ryanxwilson/remote-development-explained-building-php-teams-without-borders-353o)
+- [Convert TXT Files to Word in Java: Single, Batch, and Formatted Conversion](https://dev.to/leondavis1991/convert-txt-files-to-word-in-java-single-batch-and-formatted-conversion-3h2)
+- [&quot;Netflix Effect&quot;: How Banks are Rewiring Money with AWS &amp; NVIDIA](https://dev.to/karentam_1225/netflix-effect-how-banks-are-rewiring-money-with-aws-nvidia-3fep)
+- [Stop Alt-Tabbing to Check Metrics: Meet Vitals for VS Code 🚀](https://dev.to/theaniketraj/stop-alt-tabbing-to-check-metrics-meet-vitals-for-vs-code-16d7)
+- [Sector HQ Weekly Digest - December 26, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-26-2025-2cbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
