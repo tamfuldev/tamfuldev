@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Development Explained: Building PHP Teams Without Borders](https://dev.to/ryanxwilson/remote-development-explained-building-php-teams-without-borders-353o)
-- [Convert TXT Files to Word in Java: Single, Batch, and Formatted Conversion](https://dev.to/leondavis1991/convert-txt-files-to-word-in-java-single-batch-and-formatted-conversion-3h2)
-- [&quot;Netflix Effect&quot;: How Banks are Rewiring Money with AWS &amp; NVIDIA](https://dev.to/karentam_1225/netflix-effect-how-banks-are-rewiring-money-with-aws-nvidia-3fep)
-- [Stop Alt-Tabbing to Check Metrics: Meet Vitals for VS Code 🚀](https://dev.to/theaniketraj/stop-alt-tabbing-to-check-metrics-meet-vitals-for-vs-code-16d7)
-- [Sector HQ Weekly Digest - December 26, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-26-2025-2cbe)
+- [JavaScript Scope &amp; Closure: Stop Memorizing, Start Understanding](https://dev.to/saiful__bashar/javascript-scope-closure-stop-memorizing-start-understanding-2ok7)
+- [I Built &lpar;Yet Another&rpar; AI-Powered Chrome Extension to Organize My Tabs - This One Actually Works](https://dev.to/__ed54c20bf54812eb/i-built-yet-another-ai-powered-chrome-extension-to-organize-my-tabs-this-one-actually-works-2i82)
+- [Zero Trust in 2025 Is Less About Vision, More About Friction](https://dev.to/technology-radius/zero-trust-in-2025-is-less-about-vision-more-about-friction-52mj)
+- [How to Use a Digital Multimeter Safely: CAT Ratings, Probes, and Common Mistakes](https://dev.to/revinetech/how-to-use-a-digital-multimeter-safely-cat-ratings-probes-and-common-mistakes-3e3p)
+- [Your &quot;Passive Income&quot; Dream Is a Lie &lpar;And the People Selling It Know It&rpar;](https://dev.to/yasin_mukthar_e569d2e11af/your-passive-income-dream-is-a-lie-and-the-people-selling-it-know-it-69e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
