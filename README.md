@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
-- [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
-- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
-- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
-- [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
+- [A Secure Container Introduction for the Minimally Security-Aware Developer](https://dev.to/rafael-italiano/a-secure-container-introduction-for-the-minimally-security-aware-developer-1159)
+- [I automated data breach response - changing 50 passwords in 30 minutes instead of 8 hours](https://dev.to/thepasswordapp/i-automated-data-breach-response-changing-50-passwords-in-30-minutes-instead-of-8-hours-21o5)
+- [My 1st solo project](https://dev.to/sleepy_ahmed_dbad3fbe96bc/my-1st-solo-project-c4)
+- [AWS AI Agent Core Implementation](https://dev.to/vimal_venugopal_70b861503/aws-ai-agent-core-implementation-4d75)
+- [Is Your AI Agent a Compliance Risk? How to Find Violations Hidden in Traces](https://dev.to/imshashank/is-your-ai-agent-a-compliance-risk-how-to-find-violations-hidden-in-traces-3g0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
