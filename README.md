@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OmNi: The Self-Hosted File Sharer for Simplicity and Privacy](https://dev.to/lagging/omni-the-self-hosted-file-sharer-for-simplicity-and-privacy-3lda)
-- [Surviving the HL7 Nightmare: Strategies for Decoupling Modern SaaS from Legacy Hospital Systems](https://dev.to/beck_moulton/surviving-the-hl7-nightmare-strategies-for-decoupling-modern-saas-from-legacy-hospital-systems-5bn0)
-- [Implementing Adaptive Backpressure in Rust with FlowGuard](https://dev.to/cleiton_augusto_/implementing-adaptive-backpressure-in-rust-with-flowguard-1iof)
-- [TOON for LLMs: A Benchmark Performance Analysis](https://dev.to/shudiptotrafder/toon-for-llms-a-comparative-performance-analysis-against-json-52am)
-- [Simplifying Service Selection in Laravel Using Resolvers](https://dev.to/naveen_dev/simplifying-service-selection-in-laravel-using-resolvers-39jf)
+- [Feature and Maintenance Release 0.56.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-and-maintenance-release-0560-of-the-github-action-for-checking-spelling-224)
+- [++ antes y ++ después en Java: Operador de incremento](https://dev.to/jordy_4sd/-antes-y-despues-en-java-operador-de-incremento-19h7)
+- [Separa números largo en Java con guiones bajos](https://dev.to/jordy_4sd/separa-numeros-largo-en-java-con-guiones-bajos-5aip)
+- [How OCR Impacts the Accuracy of Document Translation](https://dev.to/shruti_saraswat_c258d5934/how-ocr-impacts-the-accuracy-of-document-translation-5gm3)
+- [Want To Be a Hacker? Getting Started with Ethical Hacking &lpar;TryHackMe Journey&rpar;](https://dev.to/payamhn/want-to-be-a-hacker-getting-started-with-ethical-hacking-tryhackme-journey-5eg9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
