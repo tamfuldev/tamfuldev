@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: The engineering problem, or what to do if you don’t know how to talk to people?](https://dev.to/techresolve/solved-the-engineering-problem-or-what-to-do-if-you-dont-know-how-to-talk-to-people-23ai)
-- [Fixing Android Emulator Lag on Windows &lpar;AVD Config Tweaks That Actually Work&rpar;](https://dev.to/zain_mhesn/fixing-android-emulator-lag-on-windows-avd-config-tweaks-that-actually-work-2bl1)
-- [AI আপনাকে কোড বানিয়ে দেবে।](https://dev.to/mehedidevops/ai-aapnaake-kodd-baaniyye-debe--54p6)
-- [SwiftUI Focus System &amp; Keyboard Internals](https://dev.to/sebastienlato/swiftui-focus-system-keyboard-internals-25i5)
-- [I Built a Free Alternative to Kahoot for Live Quizzes &lpar;No Signups Required&rpar;](https://dev.to/kouroshmohajeri/i-built-a-free-alternative-to-kahoot-for-live-quizzes-no-signups-required-3o9o)
+- [My Opinionated Fedora Silverblue Setup](https://dev.to/archerallstars/my-opinionated-fedora-silverblue-setup-4o9p)
+- [JavaScript vs TypeScript - I built the same crypto tracker with both](https://dev.to/fabianfrankwerner/javascript-vs-typescript-i-built-the-same-crypto-tracker-with-both-3p84)
+- [🌟 O que é o eslint-plugin-jsx-a11y?](https://dev.to/nathdev/o-que-e-o-eslint-plugin-jsx-a11y-31le)
+- [🔑 O que é useId no React?](https://dev.to/nathdev/o-que-e-useid-no-react-26p0)
+- [🚀 O Poder da Teoria dos Conjuntos na Programação: Lodash como Aliado na União e Diferença de Dados](https://dev.to/nathdev/o-poder-da-teoria-dos-conjuntos-na-programacao-lodash-como-aliado-na-uniao-e-diferenca-de-dados-3cie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
