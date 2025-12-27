@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
-- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
-- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
-- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
-- [Decoding Exception Entry &amp; Exit on ARM Cortex-Mx](https://dev.to/amanprasad/decoding-exception-entry-exit-on-arm-cortex-mx-5fmc)
+- [OmNi: The Self-Hosted File Sharer for Simplicity and Privacy](https://dev.to/lagging/omni-the-self-hosted-file-sharer-for-simplicity-and-privacy-3lda)
+- [Surviving the HL7 Nightmare: Strategies for Decoupling Modern SaaS from Legacy Hospital Systems](https://dev.to/beck_moulton/surviving-the-hl7-nightmare-strategies-for-decoupling-modern-saas-from-legacy-hospital-systems-5bn0)
+- [Implementing Adaptive Backpressure in Rust with FlowGuard](https://dev.to/cleiton_augusto_/implementing-adaptive-backpressure-in-rust-with-flowguard-1iof)
+- [TOON for LLMs: A Benchmark Performance Analysis](https://dev.to/shudiptotrafder/toon-for-llms-a-comparative-performance-analysis-against-json-52am)
+- [Simplifying Service Selection in Laravel Using Resolvers](https://dev.to/naveen_dev/simplifying-service-selection-in-laravel-using-resolvers-39jf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
