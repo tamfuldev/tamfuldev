@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Struggle With Social Media Data &lpar;And How I’m Fixing It&rpar;](https://dev.to/imbuedata/why-developers-struggle-with-social-media-data-and-how-im-fixing-it-32cc)
-- [My Simple Docker Project](https://dev.to/reggiejohnson86/my-simple-docker-project-4l2c)
-- [Combine #6: Operadores de Manipulación de Tiempo](https://dev.to/david_goyes_a488f58a17a53/combine-6-operadores-de-manipulacion-de-tiempo-2mal)
-- [Getting Started with Spring Boot: A Beginner’s Guide](https://dev.to/tejas_agravat_1a781f196b0/getting-started-with-spring-boot-a-beginners-guide-257j)
-- [The Great Frontend Shift: React to Angular by 2026](https://dev.to/satnam_singh_7e9044f30dd2/the-great-frontend-shift-react-to-angular-by-2026-hka)
+- [The Transformer Architecture: A Deep Dive into How LLMs Actually Work](https://dev.to/pranaybathini/the-transformer-architecture-a-deep-dive-into-how-llms-actually-work-4c46)
+- [Google A2UI: The Future of Agentic AI for DevOps &amp; SRE &lpar;Goodbye Text-Only ChatOps&rpar;](https://dev.to/deneesh_narayanasamy/google-a2ui-the-future-of-agentic-ai-for-devops-sre-goodbye-text-only-chatops-2i4g)
+- [Modern Frontend Frameworks Are Failing at Testing](https://dev.to/kevinccbsg/modern-frontend-frameworks-are-failing-at-testing-4jn4)
+- [The Empty Promise of Agile Simplicity](https://dev.to/ghostinit0x/the-empty-promise-of-agile-simplicity-1oei)
+- [I Built an Open Source Health AI Agent Without a Vector DB &lpar;Laravel 12, React, Typescript + InteriaJS + Gemini&rpar;](https://dev.to/tuvshaw/i-built-an-open-source-health-ai-agent-without-a-vector-db-laravel-12-react-typescript--4kh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
