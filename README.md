@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
-- [Step-by-step Guide: Creating a PASETO &lpar;Platform-Agnostic Security Token&rpar; in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)
-- [Modern Web Development Build Tools: Transform Your Workflow From Slow to Lightning Fast](https://dev.to/nithinbharathwaj/modern-web-development-build-tools-transform-your-workflow-from-slow-to-lightning-fast-j32)
-- [Building a Student Portfolio That Stands Out in Scholarship Applications](https://dev.to/imtaslim/building-a-student-portfolio-that-stands-out-in-scholarship-applications-1k85)
-- [OllamaFX the Native &amp; Hardware-Smart Client for Local LLMs](https://dev.to/fredericksalazar/ollamafx-the-native-hardware-smart-client-for-local-llms-4802)
+- [Why Developers Struggle With Social Media Data &lpar;And How I’m Fixing It&rpar;](https://dev.to/imbuedata/why-developers-struggle-with-social-media-data-and-how-im-fixing-it-32cc)
+- [My Simple Docker Project](https://dev.to/reggiejohnson86/my-simple-docker-project-4l2c)
+- [Combine #6: Operadores de Manipulación de Tiempo](https://dev.to/david_goyes_a488f58a17a53/combine-6-operadores-de-manipulacion-de-tiempo-2mal)
+- [Getting Started with Spring Boot: A Beginner’s Guide](https://dev.to/tejas_agravat_1a781f196b0/getting-started-with-spring-boot-a-beginners-guide-257j)
+- [The Great Frontend Shift: React to Angular by 2026](https://dev.to/satnam_singh_7e9044f30dd2/the-great-frontend-shift-react-to-angular-by-2026-hka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
