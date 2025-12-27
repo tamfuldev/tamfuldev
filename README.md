@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Feature and Maintenance Release 0.56.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-and-maintenance-release-0560-of-the-github-action-for-checking-spelling-224)
-- [++ antes y ++ después en Java: Operador de incremento](https://dev.to/jordy_4sd/-antes-y-despues-en-java-operador-de-incremento-19h7)
-- [Separa números largo en Java con guiones bajos](https://dev.to/jordy_4sd/separa-numeros-largo-en-java-con-guiones-bajos-5aip)
-- [How OCR Impacts the Accuracy of Document Translation](https://dev.to/shruti_saraswat_c258d5934/how-ocr-impacts-the-accuracy-of-document-translation-5gm3)
-- [Want To Be a Hacker? Getting Started with Ethical Hacking &lpar;TryHackMe Journey&rpar;](https://dev.to/payamhn/want-to-be-a-hacker-getting-started-with-ethical-hacking-tryhackme-journey-5eg9)
+- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
+- [Step-by-step Guide: Creating a PASETO &lpar;Platform-Agnostic Security Token&rpar; in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)
+- [Modern Web Development Build Tools: Transform Your Workflow From Slow to Lightning Fast](https://dev.to/nithinbharathwaj/modern-web-development-build-tools-transform-your-workflow-from-slow-to-lightning-fast-j32)
+- [Building a Student Portfolio That Stands Out in Scholarship Applications](https://dev.to/imtaslim/building-a-student-portfolio-that-stands-out-in-scholarship-applications-1k85)
+- [OllamaFX the Native &amp; Hardware-Smart Client for Local LLMs](https://dev.to/fredericksalazar/ollamafx-the-native-hardware-smart-client-for-local-llms-4802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
