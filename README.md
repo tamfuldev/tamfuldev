@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m)
-- [📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo)
-- [Lessons from the Coursera–Udemy Merger Deal](https://dev.to/rubansi/lessons-from-the-coursera-udemy-merger-deal-g7e)
-- [I built my Portfolio as a Computer Engineer. Roast my design! 🚀](https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36)
-- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0)
+- [Ethereum-Solidity Quiz Q6: What is the max bytecode size for smart contract deployment on Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q6-what-is-the-max-bytecode-size-for-smart-contract-deployment-on-4h3o)
+- [9 Mobile App Features Built Entirely with APIs](https://dev.to/dev_resources/9-mobile-app-features-built-entirely-with-apis-4hfi)
+- [The #1 Skill Most Developers Miss When Using AI Coding Agents](https://dev.to/sachinchaurasiya/the-1-skill-most-developers-miss-when-using-ai-coding-agents-37h0)
+- [Vim](https://dev.to/omar_ahmed/vim-39p4)
+- [🚀 How to Escape “Tutorial Hell” — A Practical Guide for Self-Taught Developers](https://dev.to/rajguru_yadav_56d13a7b8fc/how-to-escape-tutorial-hell-a-practical-guide-for-self-taught-developers-16fp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
