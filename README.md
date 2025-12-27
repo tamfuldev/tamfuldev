@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Life One Cell at a Time: A Journey Through Single-Cell RNA Sequencing](https://dev.to/jhhornn/decoding-life-one-cell-at-a-time-a-journey-through-single-cell-rna-sequencing-f5a)
-- [Stop Fragmenting Information](https://dev.to/synthaicode_commander/stop-fragmenting-information-3h8f)
-- [Chat With Your Database for Free: Build a Private AI Agent in Python](https://dev.to/fabiothiroki/chat-with-your-database-for-free-build-a-private-ai-agent-in-python-j80)
-- [Open Source: A Friendly Guide for New Developers](https://dev.to/prakashm88/open-source-a-friendly-guide-for-new-developers-4mn5)
-- [Coding is Now a Commodity](https://dev.to/ttoss/coding-is-now-a-commodity-19j6)
+- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
+- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
+- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
+- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
+- [Decoding Exception Entry &amp; Exit on ARM Cortex-Mx](https://dev.to/amanprasad/decoding-exception-entry-exit-on-arm-cortex-mx-5fmc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
