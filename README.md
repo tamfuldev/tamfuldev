@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PippaQuiz: Building the First Step Toward Smarter Education](https://dev.to/shaidozzaman_araf_42d0c98/pippaquiz-building-the-first-step-toward-smarter-education-3bn0)
-- [What is CI/CD? Continuous Integration &amp; Delivery Explained](https://dev.to/serveravatar/what-is-cicd-continuous-integration-delivery-explained-2kgg)
-- [Fiberglass Pickleball Paddles offer a softer feel, better touch, and reliable spin for outdoor play. Players who value control and comfort during long matches often choose them. Pickleball NVZ offers quality options suited for hard courts.](https://dev.to/jeenifer_beezer/fiberglass-pickleball-paddles-offer-a-softer-feel-better-touch-and-reliable-spin-for-outdoor-54hh)
-- [How Automated Cycles Can Misfire: Lessons from HVAC Control Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-automated-cycles-can-misfire-lessons-from-hvac-control-systems-4a49)
-- [ISO 27001 Manual for Handling Confidential Information](https://dev.to/joy1/iso-27001-manual-for-handling-confidential-information-5fc3)
+- [Prompts are becoming Code, but we still treat them like Strings](https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j)
+- [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
+- [Neon Postgres Deep Dive: Why the 2025 Updates Change Serverless SQL](https://dev.to/dataformathub/neon-postgres-deep-dive-why-the-2025-updates-change-serverless-sql-5o0)
+- [Is This the Most Private Way to Track Your Life? Dashboard of Life.](https://dev.to/techno_kraft_in/is-this-the-most-private-way-to-track-your-life-dashboard-of-life-170b)
+- [Claude&#39;s take on AI power usage](https://dev.to/goatpug/claudes-take-on-ai-power-usage-5069)
 <!-- BLOG-POST-LIST:END -->
 
 ---
