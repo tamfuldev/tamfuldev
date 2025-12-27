@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Transformer Architecture: A Deep Dive into How LLMs Actually Work](https://dev.to/pranaybathini/the-transformer-architecture-a-deep-dive-into-how-llms-actually-work-4c46)
-- [Google A2UI: The Future of Agentic AI for DevOps &amp; SRE &lpar;Goodbye Text-Only ChatOps&rpar;](https://dev.to/deneesh_narayanasamy/google-a2ui-the-future-of-agentic-ai-for-devops-sre-goodbye-text-only-chatops-2i4g)
-- [Modern Frontend Frameworks Are Failing at Testing](https://dev.to/kevinccbsg/modern-frontend-frameworks-are-failing-at-testing-4jn4)
-- [The Empty Promise of Agile Simplicity](https://dev.to/ghostinit0x/the-empty-promise-of-agile-simplicity-1oei)
-- [I Built an Open Source Health AI Agent Without a Vector DB &lpar;Laravel 12, React, Typescript + InteriaJS + Gemini&rpar;](https://dev.to/tuvshaw/i-built-an-open-source-health-ai-agent-without-a-vector-db-laravel-12-react-typescript--4kh4)
+- [How to fix problem: Can&#39;t extend partition C:?](https://dev.to/justplegend/how-to-fix-problem-cant-extend-partition-c-4n9c)
+- [Chaos Proxy: JavaScript Shenanigans](https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e)
+- [How a Solo Dev at a Dealership Runs the Entire IT Department with Claude Code](https://dev.to/aj3/how-a-solo-dev-at-a-dealership-runs-the-entire-it-department-with-claude-code-2nn6)
+- [[Boost]](https://dev.to/barbara_gaspar/-588k)
+- [Todo lo nuevo de FinOps en AWS re:Invent 2025](https://dev.to/barbara_gaspar/todo-lo-nuevo-de-finops-en-aws-reinvent-2025-4pn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
