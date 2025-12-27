@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
-- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
-- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
-- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
-- [PEM vs. PKCS#12 &lpar;P12/PFX&rpar;: Understanding the Difference Between Certificate Formats](https://dev.to/pascalre/pem-vs-pkcs12-p12pfx-understanding-the-difference-between-certificate-formats-1b9d)
+- [End-to-End Microservices Deployment on AWS EKS: CI/CD with Jenkins, Docker, Kubernetes &amp; Argo CD](https://dev.to/srinivasamcjf/end-to-end-microservices-deployment-on-aws-eks-cicd-with-jenkins-docker-kubernetes-argo-cd-35pp)
+- [STEP 3: SETTING UP AKS STEP-BY-STEP](https://dev.to/shakol/step-3-setting-up-aks-step-by-step-pk1)
+- [Vulnerabilities and its implications](https://dev.to/vishthakkar/vulnerabilities-and-its-implications-445k)
+- [Building a Security Test Lab with QEMU: From Zero to Network Monitoring](https://dev.to/zrouga/building-a-security-test-lab-with-qemu-from-zero-to-network-monitoring-4onm)
+- [Linux Globbing — FULL Exercise Set](https://dev.to/jumptotech/linux-globbing-full-exercise-set-38ap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
