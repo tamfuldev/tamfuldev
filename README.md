@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS VPC PROJECT](https://dev.to/amandaigwe/aws-vpc-project-e4)
-- [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1)
-- [Repository Pattern in Laravel: Clean Up Your Messy Code](https://dev.to/laravel_mastery_ffd9d10ec/repository-pattern-in-laravel-clean-up-your-messy-code-10ed)
-- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Deep Dive into Hash Chains and Merkle Trees](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6)
-- [Happy Birthday Linus Torvalds: The Father Of Modern Computers](https://dev.to/agunechemba/happy-birthday-linus-torvalds-the-father-of-modern-computers-41be)
+- [[Boost]](https://dev.to/anthonymax/-46ia)
+- [Finding where users get stuck or loop using only session logs](https://dev.to/erkan_alaca_0934c578871d0/finding-where-users-get-stuck-or-loop-using-only-session-logs-57k4)
+- [Let&#39;s talk about service discovery, service registry, and service mesh.](https://dev.to/gokul_gk/lets-talk-about-service-discovery-service-registry-and-service-mesh-1ebi)
+- [Dense vs Sparse Vector Stores: Which One Should You Use — and When?](https://dev.to/parth_sarthisharma_105e7/dense-vs-sparse-vector-stores-which-one-should-you-use-and-when-15hd)
+- [2025 결산](https://dev.to/algoorgoal/2025-gyeolsan-16gp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
