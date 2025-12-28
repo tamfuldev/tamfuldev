@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
-- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
-- [Testing MCP Servers Made Easy with agent-benchmark](https://dev.to/dmytro_mykhalievioioio/testing-mcp-servers-made-easy-with-agent-benchmark-41dg)
-- [Skills They Don&#39;t Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
-- [Data Leakage pada Machine Learning](https://dev.to/hafidnrzs/data-leakage-pada-machine-learning-3c2p)
+- [How We Reduced Payment API Latency by 60% Using ExecutorService in Spring Boot](https://dev.to/realnamehidden1_61/spring-boot-executorservice-parallel-payment-validation-using-executorservice-1ie2)
+- [Unauthenticated APIs Report](https://dev.to/prashantgupta123/unauthenticated-apis-report-177f)
+- [Solved: Understanding PPC Management — What Are the Most Important Factors Today?](https://dev.to/techresolve/solved-understanding-ppc-management-what-are-the-most-important-factors-today-1hpo)
+- [Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power](https://dev.to/member_8659c28a/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-3dng)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_6331818c/that-real-time-headache-its-not-the-websockets-its-your-framework-3lj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
