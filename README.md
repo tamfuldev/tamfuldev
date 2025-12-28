@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Why Transformers Still Forget](https://dev.to/harvesh_kumar/part-2-why-transformers-still-forget-17od)
-- [Funky: 806,893 Lines in 24 Days: What Happens When a Hackathon Swerves Into Madness](https://dev.to/lnation/funky-806893-lines-in-24-days-what-happens-when-a-hackathon-swerves-into-madness-2adh)
-- [Handling multiple branches in AI projects with git worktree](https://dev.to/konstantin/handling-multiple-branches-in-ai-projects-with-git-worktree-40pn)
-- [Stop Paying for OpenAI: Build Your Own Local RAG Pipeline in Python- a PDF Chatbot](https://dev.to/niyati_gupta_e8b4735838d0/stop-paying-for-openai-build-your-own-local-rag-pipeline-in-python-a-pdf-chatbot-1g84)
-- [How to Monitor Any URL for Dead Links &lpar;Including Tricky Soft 404s&rpar;](https://dev.to/jsmanifest/how-to-monitor-any-url-for-dead-links-including-tricky-soft-404s-58m2)
+- [DevRealityOps Manifesto](https://dev.to/yuji_marutani/devrealityops-manifesto-30lk)
+- [68. Text Justification | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/68-text-justification-leetcode-top-interview-150-coding-questions-aad)
+- [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
+- [I built my own Shader Language](https://dev.to/jbrozy/i-built-my-own-shader-language-53n2)
+- [The Standup Tax: Why Your Daily Meeting Is a Hidden Financial Liability](https://dev.to/ghostinit0x/the-standup-tax-why-your-daily-meeting-is-a-hidden-financial-liability-252g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
