@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-46ia)
-- [Finding where users get stuck or loop using only session logs](https://dev.to/erkan_alaca_0934c578871d0/finding-where-users-get-stuck-or-loop-using-only-session-logs-57k4)
-- [Let&#39;s talk about service discovery, service registry, and service mesh.](https://dev.to/gokul_gk/lets-talk-about-service-discovery-service-registry-and-service-mesh-1ebi)
-- [Dense vs Sparse Vector Stores: Which One Should You Use — and When?](https://dev.to/parth_sarthisharma_105e7/dense-vs-sparse-vector-stores-which-one-should-you-use-and-when-15hd)
-- [2025 결산](https://dev.to/algoorgoal/2025-gyeolsan-16gp)
+- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
+- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
+- [Testing MCP Servers Made Easy with agent-benchmark](https://dev.to/dmytro_mykhalievioioio/testing-mcp-servers-made-easy-with-agent-benchmark-41dg)
+- [Skills They Don&#39;t Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
+- [Data Leakage pada Machine Learning](https://dev.to/hafidnrzs/data-leakage-pada-machine-learning-3c2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
