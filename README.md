@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Red Pills, Just Hygiene – A Dating Guide for Single Male Engineers](https://dev.to/ian_carlson_0c77f977f7790/no-red-pills-just-hygiene-a-dating-guide-for-single-male-engineers-4e3p)
-- [Interactive LED Chaser with 555 Timer &amp; CD4017 DIY Guide](https://dev.to/messin_tom/interactive-led-chaser-with-555-timer-cd4017-diy-guide-18e2)
-- [Why Blogging Still Matters in the Age of AI](https://dev.to/lovelacecoding/why-blogging-still-matters-in-the-age-of-ai-438b)
-- [The First 5 Concepts Every Beginner Data Analyst Should Learn](https://dev.to/ademola_9980/the-first-5-concepts-every-beginner-data-analyst-should-learn-43hj)
-- [Middleware-Perfect-Symphony](https://dev.to/member_8659c28a/middleware-perfect-symphony-18i)
+- [Part 2: Why Transformers Still Forget](https://dev.to/harvesh_kumar/part-2-why-transformers-still-forget-17od)
+- [Funky: 806,893 Lines in 24 Days: What Happens When a Hackathon Swerves Into Madness](https://dev.to/lnation/funky-806893-lines-in-24-days-what-happens-when-a-hackathon-swerves-into-madness-2adh)
+- [Handling multiple branches in AI projects with git worktree](https://dev.to/konstantin/handling-multiple-branches-in-ai-projects-with-git-worktree-40pn)
+- [Stop Paying for OpenAI: Build Your Own Local RAG Pipeline in Python- a PDF Chatbot](https://dev.to/niyati_gupta_e8b4735838d0/stop-paying-for-openai-build-your-own-local-rag-pipeline-in-python-a-pdf-chatbot-1g84)
+- [How to Monitor Any URL for Dead Links &lpar;Including Tricky Soft 404s&rpar;](https://dev.to/jsmanifest/how-to-monitor-any-url-for-dead-links-including-tricky-soft-404s-58m2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
