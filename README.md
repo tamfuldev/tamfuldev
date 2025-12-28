@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Peanut Butter and the Jif That Keeps on Giving](https://dev.to/alvaromontoro/peanut-butter-and-the-jif-that-keeps-on-giving-2k1i)
-- [AI, Open Source, Pay Gaps, and the Future of Software Power](https://dev.to/weekly/ai-open-source-pay-gaps-and-the-future-of-software-power-39e0)
-- [Federated Learning or Bust: Architecting Privacy-First Health AI](https://dev.to/beck_moulton/federated-learning-or-bust-architecting-privacy-first-health-ai-23kg)
-- [My YT Recap 2025](https://dev.to/captainfulminyx/my-yt-recap-2025-15n8)
-- [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
+- [Hi everyone, checkout my first article.](https://dev.to/danny_odii/hi-everyone-checkout-my-first-article-hlb)
+- [Building a Real-Time Conversational AI Agent with LiveKit, Gemini &amp; Express](https://dev.to/danny_odii/building-a-real-time-conversational-ai-agent-with-livekit-gemini-express-3ho4)
+- [Remember Micro-Soft?](https://dev.to/johnnyallen/remember-micro-soft-1ih3)
+- [That Dreaded Alembic NotNullViolation Error &lpar;and How to Survive It&rpar;](https://dev.to/cuddi/that-dreaded-alembic-notnullviolation-error-and-how-to-survive-it-33a1)
+- [A Practical Guide to the Dashboard User Journey: From Discovery to Decision-Making](https://dev.to/jemmalinesanalytics/a-practical-guide-to-the-dashboard-user-journey-from-discovery-to-decision-making-2dok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
