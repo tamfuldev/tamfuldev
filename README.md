@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Reduced Payment API Latency by 60% Using ExecutorService in Spring Boot](https://dev.to/realnamehidden1_61/spring-boot-executorservice-parallel-payment-validation-using-executorservice-1ie2)
-- [Unauthenticated APIs Report](https://dev.to/prashantgupta123/unauthenticated-apis-report-177f)
-- [Solved: Understanding PPC Management — What Are the Most Important Factors Today?](https://dev.to/techresolve/solved-understanding-ppc-management-what-are-the-most-important-factors-today-1hpo)
-- [Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power](https://dev.to/member_8659c28a/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-3dng)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_6331818c/that-real-time-headache-its-not-the-websockets-its-your-framework-3lj1)
+- [Peanut Butter and the Jif That Keeps on Giving](https://dev.to/alvaromontoro/peanut-butter-and-the-jif-that-keeps-on-giving-2k1i)
+- [AI, Open Source, Pay Gaps, and the Future of Software Power](https://dev.to/weekly/ai-open-source-pay-gaps-and-the-future-of-software-power-39e0)
+- [Federated Learning or Bust: Architecting Privacy-First Health AI](https://dev.to/beck_moulton/federated-learning-or-bust-architecting-privacy-first-health-ai-23kg)
+- [My YT Recap 2025](https://dev.to/captainfulminyx/my-yt-recap-2025-15n8)
+- [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
