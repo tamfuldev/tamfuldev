@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Client Request to 24 .NET Microservices: My Solo Migration Journey](https://dev.to/__2131e9e/from-client-request-to-24-net-microservices-my-solo-migration-journey-7ah)
-- [Becoming a Senior Full-Stack Developer: What Actually Changed for Me](https://dev.to/gerald_9594/becoming-a-senior-full-stack-developer-what-actually-changed-for-me-59k0)
-- [MiniMax M2.1 is live in Kilo](https://dev.to/kilocode/minimax-m21-is-live-in-kilo-3iaa)
-- [Advanced Laravel Eloquent: Polymorphic Relationships Explained](https://dev.to/manojsharma/advanced-laravel-eloquent-polymorphic-relationships-explained-4lp2)
-- [Documenting the Journey: Preparing for a Senior UI Engineer Role at ServiceNow](https://dev.to/sunny7899/documenting-the-journey-preparing-for-a-senior-ui-engineer-role-at-servicenow-81a)
+- [Building a Realistic Banking Dummy Data Generator with Bad-Data Simulation](https://dev.to/menai993/building-a-realistic-banking-dummy-data-generator-with-bad-data-simulation-11pd)
+- [Bold BI Introduces AI-Powered Embedded Analytics Assistant!](https://dev.to/boldbi/bold-bi-introduces-ai-powered-embedded-analytics-assistant-3ohi)
+- [UI Tectonic Plates on the Move?](https://dev.to/bastarrd/ui-tectonic-plates-on-the-move-432f)
+- [Mastering Tokio Semaphores in Rust](https://dev.to/amritsingh183/mastering-tokio-semaphores-in-rust-4776)
+- [Why Custom VPN Infrastructure Becomes a Silent Bottleneck for Dev Teams](https://dev.to/world_cyclopedia_3ee2df42/why-custom-vpn-infrastructure-becomes-a-silent-bottleneck-for-dev-teams-1gok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
