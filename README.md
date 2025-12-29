@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS :has&lpar;&rpar; Selector Deep Dive: The Parent Selector That Changes Everything](https://dev.to/pockit_tools/css-has-selector-deep-dive-the-parent-selector-that-changes-everything-p77)
-- [WebP in 2025: reduce image size by 60–80% &lpar;client-side&rpar;](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2025-reduce-image-size-by-60-80-client-side-23ek)
-- [A rare case of recursive looping without loops or stack overflow](https://dev.to/nikolaymakhonin/a-rare-case-of-recursive-looping-without-loops-or-stack-overflow-481p)
-- [Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms](https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi)
-- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
+- [EP 13: SQL Injection Isn&#39;t Dead - It Just Evolved](https://dev.to/hrishikesh_dalal_ced8f95e/ep-13-sql-injection-isnt-dead-it-just-evolved-2fb)
+- [I Built a Tool to Stop Wasting Time on Toxic Open Source Projects](https://dev.to/elsad_humbetli_0971c995ce/i-built-a-tool-to-stop-wasting-time-on-toxic-open-source-projects-5h12)
+- [EP 10: Git Hooks - The &quot;Pre-Flight&quot; Check for Your Code](https://dev.to/hrishikesh_dalal_ced8f95e/ep-10-git-hooks-the-pre-flight-check-for-your-code-5d)
+- [The Low-Grade Burnout That Doesn’t Look Like Burnout at All](https://dev.to/jamesmiller25/the-low-grade-burnout-that-doesnt-look-like-burnout-at-all-2l3k)
+- [Un pequeño script para el códec, un gran paso para el Dev Learning Branch](https://dev.to/lostcodec/un-pequeno-script-para-el-codec-un-gran-paso-para-el-dev-learning-branch-4bhn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
