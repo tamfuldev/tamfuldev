@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Systems, Stories, and Skills: A 2025 Year in Review](https://dev.to/prince_of_pasta/systems-stories-and-skills-a-2025-year-in-review-3jln)
-- [Why push and pop Feel Natural and shift Does Not](https://dev.to/intelgreatnez/why-push-and-pop-feel-natural-and-shift-does-not-8d3)
-- [🚀 Production-Ready NestJS + Angular Starter Template &lpar;Open Source&rpar;](https://dev.to/bd_00/production-ready-nestjs-angular-starter-template-open-source-5fb)
-- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero – Otro camino para llegar a Roma](https://dev.to/dcastrocordero22/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-otro-camino-para-llegar-2iek)
-- [392. Is Subsequence | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/392-is-subsequence-leetcode-top-interview-150-coding-questions-2ddb)
+- [Minimalism isn&#39;t a style. It&#39;s a growth strategy](https://dev.to/paywallpro/minimalism-isnt-a-style-its-a-growth-strategy-5f3i)
+- [Read Excel in C# with Simple Code](https://dev.to/codingco/read-excel-in-c-with-simple-code-3ek)
+- [When Your API Documentation Lies: Building an AI-Powered Validator to Catch the Drift](https://dev.to/exploredataaiml/when-your-api-documentation-lies-building-an-ai-powered-validator-to-catch-the-drift-2ajh)
+- [Habit Tracking Without Accounts, Cloud Sync, or Data Collection](https://dev.to/techno_kraft_in/habit-tracking-without-accounts-cloud-sync-or-data-collection-3h0a)
+- [SafeLine: The Open-Source WAF That Holds the Line Until Your Code is Ready](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-holds-the-line-until-your-code-is-ready-l26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
