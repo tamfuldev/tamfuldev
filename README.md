@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Shared a short post on CI/CD feeling heavy even when it works.
-Moved from GitHub Actions Ansible + Jenkins
-Curious how others here navigated this phase.](https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off)
-- [Understanding Proxy Patterns: The Why and How of Static and Dynamic Proxies in Java](https://dev.to/rajatarora/understanding-proxy-patterns-the-why-and-how-of-static-and-dynamic-proxies-in-java-h1g)
-- [The Role of AI in Crypto Exchanges: Benefits and Challenges for Developers](https://dev.to/riley_quinn_8e58a0a96d107/the-role-of-ai-in-crypto-exchanges-benefits-and-challenges-for-developers-311f)
-- [Net Fabric Dresses: Effortless Grace in Layered Design](https://dev.to/houseofsiyaab/net-fabric-dresses-effortless-grace-in-layered-design-1kpe)
-- [How to Transfer Calls in AI Voice Agents Using SIP Telephony](https://dev.to/chaitrali_kakde/how-to-transfer-calls-in-ai-voice-agents-using-sip-telephony-533a)
+- [From Client Request to 24 .NET Microservices: My Solo Migration Journey](https://dev.to/__2131e9e/from-client-request-to-24-net-microservices-my-solo-migration-journey-7ah)
+- [Becoming a Senior Full-Stack Developer: What Actually Changed for Me](https://dev.to/gerald_9594/becoming-a-senior-full-stack-developer-what-actually-changed-for-me-59k0)
+- [MiniMax M2.1 is live in Kilo](https://dev.to/kilocode/minimax-m21-is-live-in-kilo-3iaa)
+- [Advanced Laravel Eloquent: Polymorphic Relationships Explained](https://dev.to/manojsharma/advanced-laravel-eloquent-polymorphic-relationships-explained-4lp2)
+- [Documenting the Journey: Preparing for a Senior UI Engineer Role at ServiceNow](https://dev.to/sunny7899/documenting-the-journey-preparing-for-a-senior-ui-engineer-role-at-servicenow-81a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
