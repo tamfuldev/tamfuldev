@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Create your own ChatGPT using SageMaker Python SDK V3](https://dev.to/rgurung_sr/create-your-own-chatgpt-using-sagemaker-python-sdk-v3-3fnd)
-- [Stay ahead in web development: latest news, tools, and insights #117](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-117-6of)
-- [Day 29: Building a Production-Grade Real-Time ETL Pipeline with Spark &amp; Delta](https://dev.to/sandeepk27/day-29-building-a-production-grade-real-time-etl-pipeline-with-spark-delta-4blc)
-- [Day 28: Spark Streaming Performance Tuning](https://dev.to/sandeepk27/day-28-spark-streaming-performance-tuning-37ig)
-- [Day 27: Building Exactly-Once Streaming Pipelines with Spark &amp; Delta Lake](https://dev.to/sandeepk27/day-27-building-exactly-once-streaming-pipelines-with-spark-delta-lake-243c)
+- [The Ultimate LLM Inference Battle: vLLM vs. Ollama vs. ZML](https://dev.to/worldlinetech/the-ultimate-llm-inference-battle-vllm-vs-ollama-vs-zml-m97)
+- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
+- [Regression testing workflow: the risk first checks that keep releases stable](https://dev.to/kelina_cowell_qa/regression-testing-workflow-the-risk-first-checks-that-keep-releases-stable-3ed1)
+- [Building an AI-Powered &lpar;SaaS, App, etc&rpar; Idea Validation System](https://dev.to/kzeitar/building-an-ai-powered-saas-app-etc-idea-validation-system-bpg)
+- [LLM Deep Dive 2025: Why Claude 4 and GPT-5.1 Change Everything](https://dev.to/dataformathub/llm-deep-dive-2025-why-claude-4-and-gpt-51-change-everything-4c26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
