@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Glamsterdam, Bitcoin in MetaMask, EIL &amp; 7702 Alignment, PillarX Universal Gas Tank](https://dev.to/etherspot/glamsterdam-bitcoin-in-metamask-eil-7702-alignment-pillarx-universal-gas-tank-5869)
-- [Hybrid MLOps Pipeline: Implementation Guide](https://dev.to/mgonzalezo/hybrid-mlops-pipeline-implementation-guide-4odc)
-- [Speed Up Your Worker with Cache API &lpar;5 Lines of Code&rpar;](https://dev.to/aserrano/speed-up-your-worker-with-cache-api-5-lines-of-code-3d96)
-- [Perl 🐪 Weekly #753 - Happy New Year!](https://dev.to/szabgab/perl-weekly-753-happy-new-year-1mpd)
-- [Function Calling With Google Gemini 3 - Google ADK &amp; Google Genai](https://dev.to/composiodev/function-calling-with-google-gemini-3-google-adk-google-genai-55l5)
+- [Shared a short post on CI/CD feeling heavy even when it works.
+Moved from GitHub Actions Ansible + Jenkins
+Curious how others here navigated this phase.](https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off)
+- [Understanding Proxy Patterns: The Why and How of Static and Dynamic Proxies in Java](https://dev.to/rajatarora/understanding-proxy-patterns-the-why-and-how-of-static-and-dynamic-proxies-in-java-h1g)
+- [The Role of AI in Crypto Exchanges: Benefits and Challenges for Developers](https://dev.to/riley_quinn_8e58a0a96d107/the-role-of-ai-in-crypto-exchanges-benefits-and-challenges-for-developers-311f)
+- [Net Fabric Dresses: Effortless Grace in Layered Design](https://dev.to/houseofsiyaab/net-fabric-dresses-effortless-grace-in-layered-design-1kpe)
+- [How to Transfer Calls in AI Voice Agents Using SIP Telephony](https://dev.to/chaitrali_kakde/how-to-transfer-calls-in-ai-voice-agents-using-sip-telephony-533a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
