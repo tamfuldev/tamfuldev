@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing AWS Lambda Performance: Balancing Power and Cost](https://dev.to/morekiranp/optimizing-aws-lambda-performance-balancing-power-and-cost-57k2)
-- [Compounding Engineering: Turn Your Repo into a Self-Improving DSPy Agent](https://dev.to/dan-startegicauto/compounding-engineering-turn-your-repo-into-a-self-improving-dspy-agent-1e99)
-- [2025 Tech news in nutshell](https://dev.to/vishthakkar/2025-tech-news-in-nutshell-3gp9)
-- [Optimizing .NET 8 API Consumption at Scale: A Technical Deep Dive into Concurrency, Batching, and Resilient Retry Mechanisms](https://dev.to/kumarakkiy/optimizing-net-8-api-consumption-at-scale-a-technical-deep-dive-into-concurrency-batching-and-8ne)
-- [Comparing API Architecture Choices: A Technical Evaluation of Six Setups Tested in Personal Development](https://dev.to/bysontech_8dd1313811a8895/comparing-api-architecture-choices-a-technical-evaluation-of-six-setups-tested-in-personal-4o63)
+- [Systems, Stories, and Skills: A 2025 Year in Review](https://dev.to/prince_of_pasta/systems-stories-and-skills-a-2025-year-in-review-3jln)
+- [Why push and pop Feel Natural and shift Does Not](https://dev.to/intelgreatnez/why-push-and-pop-feel-natural-and-shift-does-not-8d3)
+- [🚀 Production-Ready NestJS + Angular Starter Template &lpar;Open Source&rpar;](https://dev.to/bd_00/production-ready-nestjs-angular-starter-template-open-source-5fb)
+- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero – Otro camino para llegar a Roma](https://dev.to/dcastrocordero22/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-otro-camino-para-llegar-2iek)
+- [392. Is Subsequence | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/392-is-subsequence-leetcode-top-interview-150-coding-questions-2ddb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
