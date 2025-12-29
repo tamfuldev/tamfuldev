@@ -4,11 +4,12 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EP 13: SQL Injection Isn&#39;t Dead - It Just Evolved](https://dev.to/hrishikesh_dalal_ced8f95e/ep-13-sql-injection-isnt-dead-it-just-evolved-2fb)
-- [I Built a Tool to Stop Wasting Time on Toxic Open Source Projects](https://dev.to/elsad_humbetli_0971c995ce/i-built-a-tool-to-stop-wasting-time-on-toxic-open-source-projects-5h12)
-- [EP 10: Git Hooks - The &quot;Pre-Flight&quot; Check for Your Code](https://dev.to/hrishikesh_dalal_ced8f95e/ep-10-git-hooks-the-pre-flight-check-for-your-code-5d)
-- [The Low-Grade Burnout That Doesn’t Look Like Burnout at All](https://dev.to/jamesmiller25/the-low-grade-burnout-that-doesnt-look-like-burnout-at-all-2l3k)
-- [Un pequeño script para el códec, un gran paso para el Dev Learning Branch](https://dev.to/lostcodec/un-pequeno-script-para-el-codec-un-gran-paso-para-el-dev-learning-branch-4bhn)
+- [Accidental Research at 15: How It Started](https://dev.to/devamanali/accidental-research-at-15-how-it-started-2iii)
+- [A Paper-Style Online Reader: No App, No Login, No Cloud](https://dev.to/techno_kraft_in/a-paper-style-online-reader-no-app-no-login-no-cloud-dkd)
+- [The LeetCode Amnesia Problem &lpar;And How I Fixed It&rpar;](https://dev.to/neelbansal/the-leetcode-amnesia-problem-and-how-i-fixed-it-4i7n)
+- [Stay ahead with level up mag articles — packed with insights on tech, startups, digital branding, and innovation. If you’re building, shipping, or scaling, Level Up Magazine brings ideas that help you think smarter and grow faster.
+https://levelupmag.com/](https://dev.to/levelup_magzine_abd2554b8/stay-ahead-with-level-up-mag-articles-packed-with-insights-on-tech-startups-digital-branding-41ea)
+- [Jukebox: A Generative Model for Music](https://dev.to/paperium/jukebox-a-generative-model-for-music-4cop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
