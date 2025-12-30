@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Add a repository health badge to your GitHub README in 10 seconds](https://dev.to/adam_gitscope/add-a-repository-health-badge-to-your-github-readme-in-10-seconds-oj6)
-- [SerenityOS: A Modern Operating System Built to Be Understood](https://dev.to/viz-x/serenityos-a-modern-operating-system-built-to-be-understood-2376)
-- [Stop Gatekeeping Your Docs: Moving Your Workflow from Engineering to Technical Writing](https://dev.to/therealmrmumba/stop-gatekeeping-your-docs-moving-your-workflow-from-engineering-to-technical-writing-26mb)
-- [Builder Pattern in Java: Clear Examples and Real Application](https://dev.to/eduesqui/builder-pattern-in-java-clear-examples-and-real-application-2jmj)
-- [When Crises Stack: Testing Co-Occurrence Without Cascading Failures](https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4)
+- [Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph NeuralNetworks](https://dev.to/paperium/deep-graph-library-a-graph-centric-highly-performant-package-for-graph-neuralnetworks-lfa)
+- [Simple Blind SQL Injection](https://dev.to/travondatrack/simple-blind-sql-injection-3moe)
+- [The Only Time I Used Math at Work - and It wasn t What You Think](https://dev.to/sghaier/the-only-time-i-used-math-at-work-and-it-wasn-t-what-you-think-13am)
+- [DEV Track Spotlight: How Amazon Teams Use AI Assistants to Accelerate Development &lpar;DEV403&rpar;](https://dev.to/aws/dev-track-spotlight-how-amazon-teams-use-ai-assistants-to-accelerate-development-dev403-1bh4)
+- [Spring Cloud Gateway: Basic Example](https://dev.to/eduesqui/spring-cloud-gateway-basic-example-5dhm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
