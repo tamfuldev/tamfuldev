@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 318 - Refactoring Dirty Code](https://dev.to/mcsee/code-smell-318-refactoring-dirty-code-437)
-- [2026 GOAL PLANNING GUIDE](https://dev.to/msnmongare/2026-goal-planning-guide-lk0)
-- [How We Migrated an AWS Amplify GraphQL Backend to CDK &lpar;Without a Rewrite&rpar;](https://dev.to/stackops_ai_b57b69edea711/how-we-migrated-an-aws-amplify-graphql-backend-to-cdk-without-a-rewrite-2888)
-- [Ensure Manufacturing Compliance with Odoo ERP Software Development](https://dev.to/aspire-softserv/ensure-manufacturing-compliance-with-odoo-erp-software-development-42oh)
-- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Developer&#39;s Guide](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-developers-guide-4ie2)
+- [MarteoCLI: Democratizing the C++ Journey for Beginners](https://dev.to/jhonesyure/marteocli-democratizing-the-c-journey-for-beginners-2i8m)
+- [Firebase + Svelte 5: The Definitive Guide](https://dev.to/ebeloded/firebase-svelte-5-the-definitive-guide-4638)
+- [Go Hackers Cloud for Real-World Security Skills](https://dev.to/gohackers12/go-hackers-cloud-for-real-world-security-skills-4adc)
+- [The Heart of Healing — A Reflection on Nursing](https://dev.to/nishar94/the-heart-of-healing-a-reflection-on-nursing-43o9)
+- [[Boost]](https://dev.to/hadi_mirza/-39e6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
