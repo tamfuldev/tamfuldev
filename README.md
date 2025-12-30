@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Sora vs Other AI Video Tools: Which One Fits Your Needs?](https://dev.to/engagecoders/openai-sora-vs-other-ai-video-tools-which-one-fits-your-needs-52hf)
-- [WTF is Synthetic Data Generation?](https://dev.to/dailybugle33/wtf-is-synthetic-data-generation-3cd1)
-- [Right-Sized Microservices: Balancing Agility and Manageability](https://dev.to/eknath_shinde_758b45829e2/right-sized-microservices-balancing-agility-and-manageability-1ol2)
-- [Why Traditional Bookmark Managers Are Dead &lpar;And What&#39;s Replacing Them&rpar;](https://dev.to/cheng_yong_1479d26621a894/why-traditional-bookmark-managers-are-dead-and-whats-replacing-them-49f7)
-- [Top IT Staff Augmentation Companies: Got the opportunity to interview a veteran CTO](https://dev.to/maame-codes/top-it-staff-augmentation-companies-got-the-opportunity-to-interview-a-veteran-cto-bp6)
+- [Terraform: creating an AWS OpenSearch Service cluster and users](https://dev.to/aws-heroes/terraform-creating-an-aws-opensearch-service-cluster-and-users-4786)
+- [After the Victory of Transparency: The DeFi Transformation of Financial Crime and the Next Regulatory Battlefield](https://dev.to/apnews/after-the-victory-of-transparency-the-defi-transformation-of-financial-crime-and-the-next-2iio)
+- [Powerful and High-Performance: VTable Practice Sharing — The Ultimate Tool for Table Data Visualization](https://dev.to/xuanhun/powerful-and-high-performance-vtable-practice-sharing-the-ultimate-tool-for-table-data-2ikc)
+- [When long chats change the code: context drift and hidden errors](https://dev.to/jamesdev4123/when-long-chats-change-the-code-context-drift-and-hidden-errors-1l7a)
+- [Stop Using Magic: Building a Kubernetes Operator from Scratch](https://dev.to/mlajkim/stop-using-magic-building-a-kubernetes-operator-from-scratch-mo2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
