@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MarteoCLI: Democratizing the C++ Journey for Beginners](https://dev.to/jhonesyure/marteocli-democratizing-the-c-journey-for-beginners-2i8m)
-- [Firebase + Svelte 5: The Definitive Guide](https://dev.to/ebeloded/firebase-svelte-5-the-definitive-guide-4638)
-- [Go Hackers Cloud for Real-World Security Skills](https://dev.to/gohackers12/go-hackers-cloud-for-real-world-security-skills-4adc)
-- [The Heart of Healing — A Reflection on Nursing](https://dev.to/nishar94/the-heart-of-healing-a-reflection-on-nursing-43o9)
-- [[Boost]](https://dev.to/hadi_mirza/-39e6)
+- [From Code to Content: How Codedraft automates Technical Writing](https://dev.to/timadey/from-code-to-content-how-codedraft-automates-technical-writing-3f63)
+- [Cursor Deep Dive: How I Built 100+ Web Tools in 24 Hours with One .cursorrules File](https://dev.to/_a798bd50d6d2b3762a7511/cursor-deep-dive-how-i-built-100-web-tools-in-24-hours-with-one-cursorrules-file-249p)
+- [I made a CLI tool to search &quot;TODO&quot;s and distributed on Homebrew](https://dev.to/idieod/i-made-a-cli-tool-to-search-todos-and-distributed-on-homebrew-4a87)
+- [OpenMeter: Giải pháp Open-Source cho Metering và Billing](https://dev.to/stelixx-insider/openmeter-giai-phap-open-source-cho-metering-va-billing-ooc)
+- [The Role of a Corporate LMS in Workforce Transformation](https://dev.to/unlock_learn/the-role-of-a-corporate-lms-in-workforce-transformation-59kp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
