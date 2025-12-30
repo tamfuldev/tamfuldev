@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Export Real Excel Workbooks in JavaScript Using Connected Workbooks](https://dev.to/meni_kroizer_16e2b4506a7e/how-to-export-real-excel-workbooks-in-javascript-using-connected-workbooks-2fkg)
-- [How to Give AI Agents Access to Runtime Traces](https://dev.to/samko/how-to-give-ai-agents-access-to-runtime-traces-1cle)
-- [Building Shared Memory with AI](https://dev.to/synthaicode_commander/building-shared-memory-with-ai-1e5e)
-- [[Boost]](https://dev.to/saurav_khatri/-1ad5)
-- [PlatformIO on GitHub Actions with cache accelerate](https://dev.to/akuad/platformio-on-github-actions-with-cache-accelerate-4cm9)
+- [Descriptive Analysis](https://dev.to/datalaria/descriptive-analysis-39a)
+- [Android Session Tracking — A Senior Engineer’s Perspective: When the OS Promises You Nothing](https://dev.to/vio_di_code/android-session-tracking-a-senior-engineers-perspective-when-the-os-promises-you-nothing-43g8)
+- [Top 7 HubSpot Alternatives for 2025 &lpar;Including AI-Powered Options&rpar;](https://dev.to/shabe_ai/top-7-hubspot-alternatives-for-2025-including-ai-powered-options-2bh3)
+- [What I Learned Trying to Write Better GitHub Issues for Open-Source Contributors](https://dev.to/georgetoloraia/what-i-learned-trying-to-write-better-github-issues-for-open-source-contributors-47d8)
+- [Estadística Descriptiva](https://dev.to/datalaria/estadistica-descriptiva-3k7k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
