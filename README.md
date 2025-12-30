@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New Version of Financial Calculator Released 🎉](https://dev.to/bdshahab/new-version-of-financial-calculator-released-1ec8)
-- [Fortifying the Pipeline: A Comprehensive Guide to CI/CD Security](https://dev.to/techblogs/fortifying-the-pipeline-a-comprehensive-guide-to-cicd-security-3a0d)
-- [From 1 Hour to 90 Seconds: High-Performance Data Migration with Appwrite &amp; Go](https://dev.to/ubcodes/from-1-hour-to-90-seconds-high-performance-data-migration-with-appwrite-go-4k8h)
-- [Turn Any REST API into an MCP Server with Azure API Management](https://dev.to/florianlenz/turn-any-rest-api-into-an-mcp-server-with-azure-api-management-1in5)
-- [How I Improved RAG Accuracy from 73% to 100% - A Chunking Strategy Comparison](https://dev.to/oharu121/how-i-improved-rag-accuracy-from-73-to-100-a-chunking-strategy-comparison-3nao)
+- [Add a repository health badge to your GitHub README in 10 seconds](https://dev.to/adam_gitscope/add-a-repository-health-badge-to-your-github-readme-in-10-seconds-oj6)
+- [SerenityOS: A Modern Operating System Built to Be Understood](https://dev.to/viz-x/serenityos-a-modern-operating-system-built-to-be-understood-2376)
+- [Stop Gatekeeping Your Docs: Moving Your Workflow from Engineering to Technical Writing](https://dev.to/therealmrmumba/stop-gatekeeping-your-docs-moving-your-workflow-from-engineering-to-technical-writing-26mb)
+- [Builder Pattern in Java: Clear Examples and Real Application](https://dev.to/eduesqui/builder-pattern-in-java-clear-examples-and-real-application-2jmj)
+- [When Crises Stack: Testing Co-Occurrence Without Cascading Failures](https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
