@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MariaDB &amp; MindsDB Turns WooCommerce Data to Insights with Real-Time AI Analytics for eCommerce Teams](https://dev.to/mindsdb/mariadb-mindsdb-turns-woocommerce-data-to-insights-with-real-time-ai-analytics-for-ecommerce-teams-3a9j)
-- [zustand-mmkv-storage: Blazing Fast Persistence for Zustand in React Native](https://dev.to/mehdifaraji/zustand-mmkv-storage-blazing-fast-persistence-for-zustand-in-react-native-3ef1)
-- [The $0 Localization Stack for Solo .NET Developers](https://dev.to/nikolaos_protopapas_d3bd6/the-0-localization-stack-for-solo-net-developers-3i62)
-- [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
-- [Translating internal domain events into HTTP webhooks using Symfony. Noticed there were no docs, posts about sending webhooks with Symfony, so I wrote this. The pattern otherwise is language/framework agnostic.](https://dev.to/faizan/translating-internal-domain-events-into-http-webhooks-using-symfony-noticed-there-were-no-docs-3i7b)
+- [first image post from postiz :&rpar;](https://dev.to/paperbenni/first-image-post-from-postiz--3n6m)
+- [QA for AI Systems vs Traditional Software: Key Differences and Practices](https://dev.to/serhii_romanov_88/qa-for-ai-systems-vs-traditional-software-key-differences-and-practices-1o4n)
+- [A Picture Is Worth Ten Thousand Tokens](https://dev.to/aronchick/a-picture-is-worth-ten-thousand-tokens-11ng)
+- [CI/CD Explained for Beginners &lpar;Using GitHub Actions Terms&rpar;](https://dev.to/raji_sherifdeenayinla_a3/cicd-explained-for-beginners-using-github-actions-terms-2dn0)
+- [MindsDB in 2025: From SQL to the Universal AI Data Hub](https://dev.to/mindsdb/mindsdb-in-2025-from-sql-to-the-universal-ai-data-hub-40k8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
