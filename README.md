@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [first image post from postiz :&rpar;](https://dev.to/paperbenni/first-image-post-from-postiz--3n6m)
-- [QA for AI Systems vs Traditional Software: Key Differences and Practices](https://dev.to/serhii_romanov_88/qa-for-ai-systems-vs-traditional-software-key-differences-and-practices-1o4n)
-- [A Picture Is Worth Ten Thousand Tokens](https://dev.to/aronchick/a-picture-is-worth-ten-thousand-tokens-11ng)
-- [CI/CD Explained for Beginners &lpar;Using GitHub Actions Terms&rpar;](https://dev.to/raji_sherifdeenayinla_a3/cicd-explained-for-beginners-using-github-actions-terms-2dn0)
-- [MindsDB in 2025: From SQL to the Universal AI Data Hub](https://dev.to/mindsdb/mindsdb-in-2025-from-sql-to-the-universal-ai-data-hub-40k8)
+- [Do you need a free-tier to learn Kubernetes?](https://dev.to/sergelogvinov/do-you-need-a-free-tier-to-learn-kubernetes-54pg)
+- [What Software Engineers Can Learn from Industrial Inkjet Printing Systems](https://dev.to/cecelia_qiu_8506172e9d84f/what-software-engineers-can-learn-from-industrial-inkjet-printing-systems-4i00)
+- [Why Your Next.js Cache Isn&#39;t Working &lpar;And How to Fix It in 2026&rpar;](https://dev.to/pockit_tools/why-your-nextjs-cache-isnt-working-and-how-to-fix-it-in-2026-10pp)
+- [The Secret Life of JavaScript: Inheritance](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-inheritance-2k09)
+- [Supercharge Your Web Dev Game with MCP - Part 2: Chrome DevTools MCP + AI-Driven Web Performance](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-dev-game-with-mcp-part-2-chrome-devtools-mcp-ai-driven-web-performance-1ili)
 <!-- BLOG-POST-LIST:END -->
 
 ---
