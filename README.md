@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert EPUB to PDF Using Node.js &lpar;Free &amp; Open Source&rpar;](https://dev.to/suraj_sutar_925fe601ea366/how-to-convert-epub-to-pdf-using-nodejs-free-open-source-20id)
-- [AWS Cloud Migration: A Comprehensive Guide for Businesses](https://dev.to/khushi_jitani_ca127abdedd/aws-cloud-migration-a-comprehensive-guide-for-businesses-5dpc)
-- [Ethereum-Solidity Quiz Q9: What is a flashloan?](https://dev.to/mihaihng/ethereum-solidity-quiz-q9-what-is-a-flashloan-35f8)
-- [Why I Ditched Sanity CMS for MDX &lpar;And Never Looked Back&rpar;](https://dev.to/akshay_gupta/why-i-ditched-sanity-cms-for-mdx-and-never-looked-back-3jhm)
-- [Scrapy Item Loaders: Stop Writing Messy Data Cleaning Code](https://dev.to/ikram_khan/scrapy-item-loaders-stop-writing-messy-data-cleaning-code-280c)
+- [AWS: Monitoring AWS OpenSearch Service Cluster with CloudWatch](https://dev.to/setevoy/aws-monitoring-aws-opensearch-service-cluster-with-cloudwatch-385o)
+- [[Boost]](https://dev.to/anthonymax/-3cae)
+- [On-Chain Identity — ENS, Soulbound Tokens &amp; Your Web3 Resume](https://dev.to/ribhavmodi/on-chain-identity-ens-soulbound-tokens-your-web3-resume-4f2h)
+- [🎮 Learning Game Development – Day 5 Basics of Color Theory](https://dev.to/dinesh_04/learning-game-development-day-5-basics-of-color-theory-1aa2)
+- [Data Engineering Isn’t About Tools — It’s About Thinking Like This](https://dev.to/browsejobs/data-engineering-isnt-about-tools-its-about-thinking-like-this-59k8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
