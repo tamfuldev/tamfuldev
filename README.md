@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide](https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c)
-- [AI-Powered Testing: Writing Smarter, Faster Unit Tests with GitHub Copilot](https://dev.to/jessica_patel_472897dd43c/ai-powered-testing-writing-smarter-faster-unit-tests-with-github-copilot-2fkk)
-- [Angular vs React vs Vue: Which Should You Learn in 2026?](https://dev.to/_kafeel_ahmad/angular-vs-react-vs-vue-which-should-you-learn-in-2026-1ocg)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251231184608]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20251231184608-5hfk)
-- [Getting Started with eslint-plugin-pg](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-pg-43pj)
+- [Refatoração e Otimização com IA: Entre a Automação e o Julgamento Arquitetural](https://dev.to/vinicius3w/refatoracao-e-otimizacao-com-ia-entre-a-automacao-e-o-julgamento-arquitetural-38im)
+- [Regular Expressions in Python: The Complete Guide to Finally Understanding Regex](https://dev.to/codewithmpia/regular-expressions-in-python-the-complete-guide-to-finally-understanding-regex-53p9)
+- [🚀_Ultimate_Web_Framework_Speed_Showdown[20251231195712]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20251231195712-50f0)
+- [I&#39;ve built a Chrome Extension for API requests which is running in DevTools | Request Runner](https://dev.to/cneyt_akar_54a3ab960c0d/ive-built-a-chrome-extension-for-api-requests-which-is-running-in-devtools-request-runner-5fmk)
+- [Dopamine Loop - stuck in the couch](https://dev.to/vrajparikh/dopamine-loop-2m87)
 <!-- BLOG-POST-LIST:END -->
 
 ---
