@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
-- [Crafting a “Soul Cocktail” with Kiro in a Tipsy Moment](https://dev.to/zhitong_liu_3f125b6549d4a/crafting-a-soul-cocktail-with-kiro-in-a-tipsy-moment-34dn)
-- [Why We Migrated from Next.js to Vite and Hono](https://dev.to/jj811208/why-we-migrated-from-nextjs-to-vite-and-hono-4j8f)
-- [I Built My Own Mailchimp Alternative in 200 Lines of Code](https://dev.to/restdbjones/i-built-my-own-mailchimp-alternative-in-200-lines-of-code-56k0)
-- [Rebuilding an Old Website Using Kiro &lpar;and What Went Wrong&rpar;](https://dev.to/rizasaputra/rebuilding-an-old-website-using-kiro-and-what-went-wrong-3p92)
+- [Building Single-Executable Node.js Apps &lpar;Without the Pain&rpar;](https://dev.to/sfundomhlungu/building-single-executable-nodejs-apps-without-the-pain-1m3d)
+- [Refactor Anytime](https://dev.to/synthaicode_commander/refactor-anytime-34k2)
+- [Welcome to 2025 Wrapped 🚀](https://dev.to/pjdeveloper896/welcome-to-2025-wrapped-35f)
+- [Fitness Equation 12/31/2025](https://dev.to/bibimbop123/fitness-equation-12312025-njo)
+- [Hashicorp Vault: Fine-Grained Access Control with Policies](https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-2oan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
