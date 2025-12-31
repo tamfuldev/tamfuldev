@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Bootstrapr.io](https://dev.to/randal_sean/announcing-bootstraprio-29gl)
-- [Free Tool for Creating Shorts Videos](https://dev.to/levskiy/free-tool-for-creating-shorts-videos-44na)
-- [React Server and Client Components in Next.js: Understanding the Difference](https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml)
-- [My Portfolio](https://dev.to/raylledev/my-portfolio-72o)
-- [Exposing Homelab through Cloudflare Tunnel](https://dev.to/ebourgess/exposing-homelab-through-cloudflare-tunnel-38nb)
+- [How to Fetch Real-Time News in Python &lpar;3 Practical Examples&rpar;](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id)
+- [🧠_Deep_Dive_Memory_Management_Performance[20251231003157]](https://dev.to/member_6331818c/deepdivememorymanagementperformance20251231003157-13hp)
+- [Why Single-Threaded Servers &lpar;Like Node.js&rpar; Even Work](https://dev.to/now_raj/why-single-threaded-servers-like-nodejs-even-work-22ce)
+- [FitnessEquation 12/30/2025](https://dev.to/bibimbop123/fitnessequation-12302025-1281)
+- [Monitoring vs. Evaluation: The Critical Distinction Most AI Devs Miss](https://dev.to/imshashank/monitoring-vs-evaluation-the-critical-distinction-most-ai-devs-miss-1a3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
