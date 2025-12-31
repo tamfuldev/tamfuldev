@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fetch Real-Time News in Python &lpar;3 Practical Examples&rpar;](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id)
-- [🧠_Deep_Dive_Memory_Management_Performance[20251231003157]](https://dev.to/member_6331818c/deepdivememorymanagementperformance20251231003157-13hp)
-- [Why Single-Threaded Servers &lpar;Like Node.js&rpar; Even Work](https://dev.to/now_raj/why-single-threaded-servers-like-nodejs-even-work-22ce)
-- [FitnessEquation 12/30/2025](https://dev.to/bibimbop123/fitnessequation-12302025-1281)
-- [Monitoring vs. Evaluation: The Critical Distinction Most AI Devs Miss](https://dev.to/imshashank/monitoring-vs-evaluation-the-critical-distinction-most-ai-devs-miss-1a3d)
+- [Rating on Hover](https://dev.to/mohammad_alimasum_b303a3/rating-on-hover-47o7)
+- [Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses](https://dev.to/jubinsoni/mastering-the-aws-well-architected-ai-stack-a-deep-dive-into-ml-genai-and-sustainability-lenses-4n84)
+- [The Subscription Economy Shift: Why Retention, Not Growth, Wins in 2026](https://dev.to/paywallpro/the-subscription-economy-shift-why-retention-not-growth-wins-in-2026-2f21)
+- [Building Secure Session-Based Authentication in NestJS - Part 3](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-part-3-36dj)
+- [&lpar;Part 5&rpar; Sealing Secrets: How to Survive a Reboot &lpar;And Why It&#39;s Dangerous&rpar; 💾](https://dev.to/max_jiang/part-5-sealing-secrets-how-to-survive-a-reboot-and-why-its-dangerous-19io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
