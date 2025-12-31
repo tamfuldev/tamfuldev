@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8)
-- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc)
-- [Timefold Planning Optimization in Modern ERP Systems](https://dev.to/richa_singh_11bd098df12c8/timefold-planning-optimization-in-modern-erp-systems-g8f)
-- [Protecting a document is not the same as proving it exists](https://dev.to/jeason/protecting-a-document-is-not-the-same-as-proving-it-exists-549k)
-- [ManageMyHealth investigates breach of New Zealand patient portal](https://dev.to/beyondmachines/managemyhealth-investigates-breach-of-new-zealand-patient-portal-5f5d)
+- [S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide](https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c)
+- [AI-Powered Testing: Writing Smarter, Faster Unit Tests with GitHub Copilot](https://dev.to/jessica_patel_472897dd43c/ai-powered-testing-writing-smarter-faster-unit-tests-with-github-copilot-2fkk)
+- [Angular vs React vs Vue: Which Should You Learn in 2026?](https://dev.to/_kafeel_ahmad/angular-vs-react-vs-vue-which-should-you-learn-in-2026-1ocg)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251231184608]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20251231184608-5hfk)
+- [Getting Started with eslint-plugin-pg](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-pg-43pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
