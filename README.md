@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rating on Hover](https://dev.to/mohammad_alimasum_b303a3/rating-on-hover-47o7)
-- [Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses](https://dev.to/jubinsoni/mastering-the-aws-well-architected-ai-stack-a-deep-dive-into-ml-genai-and-sustainability-lenses-4n84)
-- [The Subscription Economy Shift: Why Retention, Not Growth, Wins in 2026](https://dev.to/paywallpro/the-subscription-economy-shift-why-retention-not-growth-wins-in-2026-2f21)
-- [Building Secure Session-Based Authentication in NestJS - Part 3](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-part-3-36dj)
-- [&lpar;Part 5&rpar; Sealing Secrets: How to Survive a Reboot &lpar;And Why It&#39;s Dangerous&rpar; 💾](https://dev.to/max_jiang/part-5-sealing-secrets-how-to-survive-a-reboot-and-why-its-dangerous-19io)
+- [Android 권한 &lpar;Permission&rpar; 완벽 가이드](https://dev.to/dss99911/android-gweonhan-permission-wanbyeog-gaideu-280k)
+- [Spring Security 시작하기 - 기본 설정과 인증](https://dev.to/dss99911/spring-security-sijaghagi-gibon-seoljeonggwa-injeung-4751)
+- [Hibernate 쿼리 완벽 가이드 - HQL과 Criteria API](https://dev.to/dss99911/hibernate-kweori-wanbyeog-gaideu-hqlgwa-criteria-api-h5m)
+- [Spring Boot 로깅 설정 가이드 - Logback 설정과 활용](https://dev.to/dss99911/spring-boot-roging-seoljeong-gaideu-logback-seoljeonggwa-hwalyong-5ana)
+- [Hibernate XML 설정 가이드 - 매핑, 캐시, 트랜잭션](https://dev.to/dss99911/hibernate-xml-seoljeong-gaideu-maeping-kaesi-teuraenjaegsyeon-48pe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
