@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Splunk Investigator Agent with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-a-splunk-investigator-agent-with-strands-agents-and-amazon-bedrock-agentcore-53dc)
-- [MCP Security 101: Protecting Your AI Agents from &quot;God-Mode&quot; Risks](https://dev.to/alessandro_pignati/mcp-security-101-protecting-your-ai-agents-from-god-mode-risks-h0b)
-- [Entre o Backlog Caótico e o Algoritmo: Priorização e Cenários com IA](https://dev.to/vinicius3w/entre-o-backlog-caotico-e-o-algoritmo-priorizacao-e-cenarios-com-ia-27be)
-- [A solid explanation to SOLID Principle](https://dev.to/_a_m_a_n_pandey/a-solid-explanation-to-solid-principle-42j8)
-- [When AI Remembers Everything](https://dev.to/rawveg/when-ai-remembers-everything-4pkl)
+- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
+- [Crafting a “Soul Cocktail” with Kiro in a Tipsy Moment](https://dev.to/zhitong_liu_3f125b6549d4a/crafting-a-soul-cocktail-with-kiro-in-a-tipsy-moment-34dn)
+- [Why We Migrated from Next.js to Vite and Hono](https://dev.to/jj811208/why-we-migrated-from-nextjs-to-vite-and-hono-4j8f)
+- [I Built My Own Mailchimp Alternative in 200 Lines of Code](https://dev.to/restdbjones/i-built-my-own-mailchimp-alternative-in-200-lines-of-code-56k0)
+- [Rebuilding an Old Website Using Kiro &lpar;and What Went Wrong&rpar;](https://dev.to/rizasaputra/rebuilding-an-old-website-using-kiro-and-what-went-wrong-3p92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
