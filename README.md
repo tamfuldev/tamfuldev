@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi)
-- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal)
-- [Why PDF Translation Often Breaks Formatting](https://dev.to/shruti_saraswat_c258d5934/why-pdf-translation-often-breaks-formatting-4374)
-- [Skip 4 years on campus - start your cloud career now](https://dev.to/muhammad_yaqoob_c672b1cd2/skip-4-years-on-campus-start-your-cloud-career-now-332a)
-- [The Security Engineer Interview Cheat Sheet for JavaScript Developers](https://dev.to/ofri-peretz/the-security-engineer-interview-cheat-sheet-for-javascript-developers-pgn)
+- [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
+- [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
+- [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
+- [Conversational AI for Complex Industries: Healthcare, IT, and Enterprise Software](https://dev.to/kokni_manus_4ba34ad6eddbc/conversational-ai-for-complex-industries-healthcare-it-and-enterprise-software-26hf)
+- [The Future of 3D City Modeling: How GISBox Automates Building Generation from Map Data](https://dev.to/kketria/the-future-of-3d-city-modeling-how-gisbox-automates-building-generation-from-map-data-58i7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
