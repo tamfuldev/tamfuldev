@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Isn’t Unsafe — It’s Unstoppable &lpar;And That’s the Problem&rpar;](https://dev.to/yuer/your-ai-agent-isnt-unsafe-its-unstoppable-and-thats-the-problem-1e82)
-- [5 Flutter Decisions I’d Make Differently If I Started Today](https://dev.to/abdul_wahab_fe886de9acd8a/5-flutter-decisions-id-make-differently-if-i-started-today-3m5p)
-- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
-- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
-- [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
+- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi)
+- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal)
+- [Why PDF Translation Often Breaks Formatting](https://dev.to/shruti_saraswat_c258d5934/why-pdf-translation-often-breaks-formatting-4374)
+- [Skip 4 years on campus - start your cloud career now](https://dev.to/muhammad_yaqoob_c672b1cd2/skip-4-years-on-campus-start-your-cloud-career-now-332a)
+- [The Security Engineer Interview Cheat Sheet for JavaScript Developers](https://dev.to/ofri-peretz/the-security-engineer-interview-cheat-sheet-for-javascript-developers-pgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
