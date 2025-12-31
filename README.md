@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Single-Executable Node.js Apps &lpar;Without the Pain&rpar;](https://dev.to/sfundomhlungu/building-single-executable-nodejs-apps-without-the-pain-1m3d)
-- [Refactor Anytime](https://dev.to/synthaicode_commander/refactor-anytime-34k2)
-- [Welcome to 2025 Wrapped 🚀](https://dev.to/pjdeveloper896/welcome-to-2025-wrapped-35f)
-- [Fitness Equation 12/31/2025](https://dev.to/bibimbop123/fitness-equation-12312025-njo)
-- [Hashicorp Vault: Fine-Grained Access Control with Policies](https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-2oan)
+- [Deployment Types in Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/deployment-types-in-amazon-ecs-elastic-container-service-4c1c)
+- [🌐_Network_IO_Performance_Optimization[20251231145813]](https://dev.to/member_8659c28a/networkioperformanceoptimization20251231145813-5825)
+- [End-to-End Email Tracking Simplified](https://dev.to/ibbus/end-to-end-email-tracking-simplified-313i)
+- [A temporary demo that implements a multi-building LOD mechanism.](https://dev.to/openworldzone/a-temporary-demo-that-implements-a-multi-building-lod-mechanism-30kc)
+- [Building a Better Future for Dogs Through Rescue and Care](https://dev.to/thelittlereddog/building-a-better-future-for-dogs-through-rescue-and-care-31e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
