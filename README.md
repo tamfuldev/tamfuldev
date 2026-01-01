@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Local AI Coding in 2026](https://dev.to/murat_aslan_fa44b545aaa2c/the-complete-guide-to-local-ai-coding-in-2026-205l)
-- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 2](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-2-47e1)
-- [🧠 The React Bug That Only Appears When Your Code Is Too Fast](https://dev.to/coderxrohan/the-react-bug-that-only-appears-when-your-code-is-too-fast-371g)
-- [My 2025](https://dev.to/divyanshulohani/my-2025-ljj)
-- [🚀 How I Built an AI Agent to Automate High-Converting Upwork Proposals &lpar;n8n + OpenAI&rpar;](https://dev.to/iloven8n/how-i-built-an-ai-agent-to-automate-high-converting-upwork-proposals-n8n-openai-397k)
+- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
+- [Git for Beginners: Basics and Essential Commands 🚀](https://dev.to/dark-lord-harsh/git-for-beginners-basics-and-essential-commands-4b49)
+- [How to Make Any CSS Element Resizable 🔧 &lpar;Without JavaScript&rpar;:](https://dev.to/walidchahmi/how-to-make-any-css-element-resizable-without-javascript-2fn1)
+- [SwiftUI Design Tokens &amp; Theming System &lpar;Production-Scale&rpar;](https://dev.to/sebastienlato/swiftui-design-tokens-theming-system-production-scale-b16)
+- [The AWS AI/ML Landscape in 2026 — Simplified](https://dev.to/aws-builders/the-aws-aiml-landscape-in-2026-simplified-17i3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
