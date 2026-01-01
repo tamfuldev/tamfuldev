@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [⚡_Latency_Optimization_Practical_Guide[20251231224938]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc)
-- [is there to use types in different screens](https://dev.to/pierrot10/is-there-to-use-types-in-different-screens-47aj)
-- [Teaching Machines the Art of Nuance with Google Cloud Natural Language API](https://dev.to/taiwofamaks/teaching-machines-the-art-of-nuance-with-google-cloud-natural-language-api-5cmn)
-- [Stop Trading Like It&#39;s 1999: I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13 🚀](https://dev.to/qrak/stop-trading-like-its-1999-i-built-an-autonomous-vision-capable-crypto-bot-with-python-313-3110)
-- [Elevating Crypto Communities: How I Combined Discord and AI for Real-Time Market Intelligence 📊🤖](https://dev.to/qrak/elevating-crypto-communities-how-i-combined-discord-and-ai-for-real-time-market-intelligence-5h36)
+- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4)
+- [**Revolutionizing Energy: The Rise of Fusion Startups**](https://dev.to/yagyaraj_sharma_6cd410179/revolutionizing-energy-the-rise-of-fusion-startups-3m95)
+- [I Built a Mental Health SaaS for Entrepreneurs - Here&#39;s the Tech Stack](https://dev.to/ben_stone_5608b8e2d9f8973/i-built-a-mental-health-saas-for-entrepreneurs-heres-the-tech-stack-214o)
+- [Debugging “Where to spend my time?” in the job search 🌲](https://dev.to/miffens/debugging-where-to-spend-my-time-in-the-job-search-3b8a)
+- [Gemma: Open Models Based on Gemini Research and Technology](https://dev.to/paperium/gemma-open-models-based-on-gemini-research-and-technology-2pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
