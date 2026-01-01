@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/drazenbebic/-1fjg)
-- [What Is Customer Identity and Access Management &lpar;CIAM&rpar;? Why It Matters in 2026](https://dev.to/blaise-liu/what-is-customer-identity-and-access-management-ciam-why-it-matters-in-2026-17l6)
-- [Magic in the Wild: How Java Giants like Spring, Hibernate, and Mockito use Dynamic Proxies](https://dev.to/rajatarora/magic-in-the-wild-how-java-giants-like-spring-hibernate-and-mockito-use-dynamic-proxies-3khc)
-- [Logging in Node.js &lpar;or Deno or Bun or edge functions&rpar; in 2026](https://dev.to/hongminhee/logging-in-nodejs-or-deno-or-bun-or-edge-functions-in-2026-36l2)
-- [PostgreSQL vs MySQL vs MongoDB in 2026: The Honest Comparison Nobody Asked For](https://dev.to/pockit_tools/postgresql-vs-mysql-vs-mongodb-in-2026-the-honest-comparison-nobody-asked-for-5fkc)
+- [Ever wondered how Cheat Engine works?](https://dev.to/guardingpearsoftware/ever-wondered-how-cheat-engine-works-l95)
+- [Conversion Is a Property of System Design, Not Marketing](https://dev.to/antonmb/conversion-is-a-property-of-system-design-not-marketing-4hgn)
+- [Advanced Project Planning with Microsoft Planner: How Dependencies and Critical Path Keep Projects on Track?](https://dev.to/alexrodovit/advanced-project-planning-with-microsoft-planner-how-dependencies-and-critical-path-keep-projects-bf1)
+- [Understand the AWS Shared Responsibility Model](https://dev.to/aws-builders/understand-the-aws-shared-responsibility-model-4o9c)
+- [First Rehabilitation Resources reports email data breach](https://dev.to/beyondmachines/first-rehabilitation-resources-reports-email-data-breach-kpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
