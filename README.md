@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Micromanaging AI Doesn&#39;t Scale](https://dev.to/synthaicode_commander/micromanaging-ai-doesnt-scale-4dli)
-- [Raku 2025 Review](https://dev.to/lizmat/raku-2025-review-4m0l)
-- [Docker Fundamentals on Amazon EC2: A Practical Introduction](https://dev.to/aws-builders/docker-fundamentals-on-amazon-ec2-a-practical-introduction-2l60)
-- [HUNT0 is live — Ship Early, Hunt Early](https://dev.to/justin3go/hunt0-is-live-ship-early-hunt-early-1h4f)
-- [The Automated Time Tracking Showdown: Which Tool Actually Works in 2025?](https://dev.to/theairabbit/the-automated-time-tracking-showdown-which-tool-actually-works-in-2025-3pln)
+- [[Boost]](https://dev.to/drazenbebic/-1fjg)
+- [What Is Customer Identity and Access Management &lpar;CIAM&rpar;? Why It Matters in 2026](https://dev.to/blaise-liu/what-is-customer-identity-and-access-management-ciam-why-it-matters-in-2026-17l6)
+- [Magic in the Wild: How Java Giants like Spring, Hibernate, and Mockito use Dynamic Proxies](https://dev.to/rajatarora/magic-in-the-wild-how-java-giants-like-spring-hibernate-and-mockito-use-dynamic-proxies-3khc)
+- [Logging in Node.js &lpar;or Deno or Bun or edge functions&rpar; in 2026](https://dev.to/hongminhee/logging-in-nodejs-or-deno-or-bun-or-edge-functions-in-2026-36l2)
+- [PostgreSQL vs MySQL vs MongoDB in 2026: The Honest Comparison Nobody Asked For](https://dev.to/pockit_tools/postgresql-vs-mysql-vs-mongodb-in-2026-the-honest-comparison-nobody-asked-for-5fkc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
