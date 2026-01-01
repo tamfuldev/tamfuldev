@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4)
-- [**Revolutionizing Energy: The Rise of Fusion Startups**](https://dev.to/yagyaraj_sharma_6cd410179/revolutionizing-energy-the-rise-of-fusion-startups-3m95)
-- [I Built a Mental Health SaaS for Entrepreneurs - Here&#39;s the Tech Stack](https://dev.to/ben_stone_5608b8e2d9f8973/i-built-a-mental-health-saas-for-entrepreneurs-heres-the-tech-stack-214o)
-- [Debugging “Where to spend my time?” in the job search 🌲](https://dev.to/miffens/debugging-where-to-spend-my-time-in-the-job-search-3b8a)
-- [Gemma: Open Models Based on Gemini Research and Technology](https://dev.to/paperium/gemma-open-models-based-on-gemini-research-and-technology-2pj)
+- [🚀 AI Interactive Quiz Generator | Engaging Browser-Based Quiz App](https://dev.to/reactjsguru/ai-interactive-quiz-generator-engaging-browser-based-quiz-app-o3l)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101032811]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101032811-27j6)
+- [Vue vs Svelte: Top Differences](https://dev.to/kevinwalker/vue-vs-svelte-top-differences-400a)
+- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-58fg)
+- [My Simple Tic-Tac-Toe Game](https://dev.to/shea31j/my-simple-tic-tac-toe-game-p83)
 <!-- BLOG-POST-LIST:END -->
 
 ---
