@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
-- [Git for Beginners: Basics and Essential Commands 🚀](https://dev.to/dark-lord-harsh/git-for-beginners-basics-and-essential-commands-4b49)
-- [How to Make Any CSS Element Resizable 🔧 &lpar;Without JavaScript&rpar;:](https://dev.to/walidchahmi/how-to-make-any-css-element-resizable-without-javascript-2fn1)
-- [SwiftUI Design Tokens &amp; Theming System &lpar;Production-Scale&rpar;](https://dev.to/sebastienlato/swiftui-design-tokens-theming-system-production-scale-b16)
-- [The AWS AI/ML Landscape in 2026 — Simplified](https://dev.to/aws-builders/the-aws-aiml-landscape-in-2026-simplified-17i3)
+- [Discover Realtime Location Tracker: An Open-Source PWA for Real-Time Device Monitoring and Communication](https://dev.to/mahmud-r-farhan/discover-realtime-location-tracker-an-open-source-pwa-for-real-time-device-monitoring-and-4nll)
+- [Finally, an Object-Oriented Framework for Bun That Isn&#39;t a Monster](https://dev.to/crispr/finally-an-object-oriented-framework-for-bun-that-isnt-a-monster-6ff)
+- [𝗚𝗼𝗼𝗴𝗹𝗲&#39;𝘀 𝟮𝟱 𝗬𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵 𝗠𝗼𝗻𝗼𝗽𝗼𝗹𝘆 𝗝𝘂𝘀𝘁 𝗖𝗿𝗮𝗰𝗸𝗲𝗱](https://dev.to/yakhilesh/-605)
+- [Week 3 Firewall Challenge](https://dev.to/fosres/week-3-firewall-challenge-1399)
+- [Your AI SRE needs better observability, not bigger models.](https://dev.to/manveer_chawla_64a7283d5a/your-ai-sre-needs-better-observability-not-bigger-models-23e4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
