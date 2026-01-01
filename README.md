@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flight Status Card ✦ turbokit.io](https://dev.to/preetha_vaishnavi_2b82358/flight-status-card-turbokitio-48fm)
-- [A Guide to Web3 Infrastructure &amp; Concepts](https://dev.to/inushathathsara/a-guide-to-web3-infrastructure-concepts-73k)
-- [The Database Query That Could Cost a Company Millions&lpar;And Why Data Engineers Exist&rpar;](https://dev.to/thanh_truong_a99577c6b879/the-database-query-that-could-cost-a-company-millionsand-why-data-engineers-exist-4i8e)
-- [Automating Serverless Data Ingestion: How to Connect External APIs to BigQuery using Python and Cloud Functions](https://dev.to/aminelaatfa/automating-serverless-data-ingestion-how-to-connect-external-apis-to-bigquery-using-python-and-1opk)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101130723]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101130723-3fpi)
+- [Micromanaging AI Doesn&#39;t Scale](https://dev.to/synthaicode_commander/micromanaging-ai-doesnt-scale-4dli)
+- [Raku 2025 Review](https://dev.to/lizmat/raku-2025-review-4m0l)
+- [Docker Fundamentals on Amazon EC2: A Practical Introduction](https://dev.to/aws-builders/docker-fundamentals-on-amazon-ec2-a-practical-introduction-2l60)
+- [HUNT0 is live — Ship Early, Hunt Early](https://dev.to/justin3go/hunt0-is-live-ship-early-hunt-early-1h4f)
+- [The Automated Time Tracking Showdown: Which Tool Actually Works in 2025?](https://dev.to/theairabbit/the-automated-time-tracking-showdown-which-tool-actually-works-in-2025-3pln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
