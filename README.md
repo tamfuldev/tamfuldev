@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Discover Realtime Location Tracker: An Open-Source PWA for Real-Time Device Monitoring and Communication](https://dev.to/mahmud-r-farhan/discover-realtime-location-tracker-an-open-source-pwa-for-real-time-device-monitoring-and-4nll)
-- [Finally, an Object-Oriented Framework for Bun That Isn&#39;t a Monster](https://dev.to/crispr/finally-an-object-oriented-framework-for-bun-that-isnt-a-monster-6ff)
-- [𝗚𝗼𝗼𝗴𝗹𝗲&#39;𝘀 𝟮𝟱 𝗬𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵 𝗠𝗼𝗻𝗼𝗽𝗼𝗹𝘆 𝗝𝘂𝘀𝘁 𝗖𝗿𝗮𝗰𝗸𝗲𝗱](https://dev.to/yakhilesh/-605)
-- [Week 3 Firewall Challenge](https://dev.to/fosres/week-3-firewall-challenge-1399)
-- [Your AI SRE needs better observability, not bigger models.](https://dev.to/manveer_chawla_64a7283d5a/your-ai-sre-needs-better-observability-not-bigger-models-23e4)
+- [The strange comfort of vibe coding &lpar;and when it backfires&rpar;](https://dev.to/dominik_niewiadomski/the-strange-comfort-of-vibe-coding-and-when-it-backfires-c38)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
+- [Meet Orion-Belt, Go ZeroTrust Bastion](https://dev.to/zrouga/meet-orion-belt-go-zerotrust-bastion-clp)
+- [I built a macOS Teleprompter with Electron &lpar;Don&#39;t kill me 😅&rpar;](https://dev.to/dnyantra_bfc24bcb3d259ee0/i-built-a-macos-teleprompter-with-electron-dont-kill-me--302f)
+- [Automating Git Workflow in VS Code: AI Commit &amp; Sync with One Shortcut](https://dev.to/jankoweb/automating-git-workflow-in-vs-code-ai-commit-sync-with-one-shortcut-5d3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
