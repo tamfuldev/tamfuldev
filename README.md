@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The strange comfort of vibe coding &lpar;and when it backfires&rpar;](https://dev.to/dominik_niewiadomski/the-strange-comfort-of-vibe-coding-and-when-it-backfires-c38)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Meet Orion-Belt, Go ZeroTrust Bastion](https://dev.to/zrouga/meet-orion-belt-go-zerotrust-bastion-clp)
-- [I built a macOS Teleprompter with Electron &lpar;Don&#39;t kill me 😅&rpar;](https://dev.to/dnyantra_bfc24bcb3d259ee0/i-built-a-macos-teleprompter-with-electron-dont-kill-me--302f)
-- [Automating Git Workflow in VS Code: AI Commit &amp; Sync with One Shortcut](https://dev.to/jankoweb/automating-git-workflow-in-vs-code-ai-commit-sync-with-one-shortcut-5d3b)
+- [How to Find and Use Resume Keywords from Tech Job Descriptions to Beat ATS and Get More Interviews](https://dev.to/saber-amani/how-to-find-and-use-resume-keywords-from-tech-job-descriptions-to-beat-ats-and-get-more-interviews-13p9)
+- [Solved: Any Connectwise MSP’s out there that recently &lpar;in the past year&rpar; implemented REWST?](https://dev.to/techresolve/solved-any-connectwise-msps-out-there-that-recently-in-the-past-year-implemented-rewst-2g99)
+- [Debugging StyleX + Vite: The Mystery of &quot;Invalid Empty Selector&quot;](https://dev.to/sal_lancaster/debugging-stylex-vite-the-mystery-of-invalid-empty-selector-158k)
+- [Building a Data-Driven Astrology Platform: Inside Love Horoscope Daily](https://dev.to/romulusjustinianus/building-a-data-driven-astrology-platform-inside-love-horoscope-daily-379c)
+- [Building a Football Formation Component for React Native ⚽](https://dev.to/arbab-io/building-a-football-formation-component-for-react-native-4jib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
