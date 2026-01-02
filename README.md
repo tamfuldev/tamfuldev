@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Intelligence Automation with AI/ML](https://dev.to/cyberpath/threat-intelligence-automation-with-aiml-1i81)
-- [Building an MCP Server: How We Connected DiskCleanKit to AI Assistants](https://dev.to/diskcleankit/building-an-mcp-server-how-we-connected-diskcleankit-to-ai-assistants-222e)
-- [What Every Programmer Should Know About Memory Part 3](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-3-2i6k)
-- [I Built a Free EMI Calculator Focused on Clarity &lpar;Not Ads&rpar;](https://dev.to/roman_singh_a88e2bb48696a/i-built-a-free-emi-calculator-focused-on-clarity-not-ads-4dei)
-- [Solved: Real world testimonies on Palo Alto/Check Point/Fortinet?](https://dev.to/techresolve/solved-real-world-testimonies-on-palo-altocheck-pointfortinet-21en)
+- [PIC shellcode: The Rust Way](https://dev.to/cyberpath/pic-shellcode-the-rust-way-4cl7)
+- [DevOps Tooling Masterclass — Complete Practical Guide for Engineers](https://dev.to/javadinteger/devops-tooling-masterclass-complete-practical-guide-for-engineers-ak7)
+- [Understanding Red Team Operations: A Technical Deep Dive](https://dev.to/cyberpath/understanding-red-team-operations-a-technical-deep-dive-2ggb)
+- [Building a Chrome Extension to Make LeetCode Prep More Practical](https://dev.to/vikrantkadam13/building-a-chrome-extension-to-make-leetcode-prep-more-practical-48h4)
+- [Remove Background From Multiple Images for E-commerce Teams](https://dev.to/freepixel11/remove-background-from-multiple-images-for-e-commerce-teams-519a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
