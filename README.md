@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Regulation 101 — SEC, MiCA &amp; What Builders Should Actually Care About](https://dev.to/ribhavmodi/crypto-regulation-101-sec-mica-what-builders-should-actually-care-about-4bg2)
-- [CleanCloud v0.4.0: How We Made Cloud Hygiene Scanning 10x Faster &lpar;With Benchmarks&rpar; published: true](https://dev.to/sureshmandalapu/cleancloud-v040-how-we-made-cloud-hygiene-scanning-10x-faster-with-benchmarkspublished-true-4png)
-- [Part 5 — Cost, Latency, and Failure Are the Design](https://dev.to/muzammiltalha/part-5-cost-latency-and-failure-are-the-design-9lm)
-- [The Retail Advantage No One Sees: Product Information Done Right](https://dev.to/olivia_20dbd2aa062e456ef8/the-retail-advantage-no-one-sees-product-information-done-right-220i)
-- [From Advanced Tech to Real Impact: Why Technology Must Matter](https://dev.to/yaseen_tech/from-advanced-tech-to-real-impact-why-technology-must-matter-p17)
+- [🎯_Microservices_Performance_Tuning_Practical[20260102070004]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102070004-5f3d)
+- [The Loop Changes Everything: Why Embodied AI Breaks Current Alignment Approaches](https://dev.to/evoleinik/the-loop-changes-everything-why-embodied-ai-breaks-current-alignment-approaches-4c96)
+- [Agentic AI: Schema-Validated Tool Execution and Deterministic Caching](https://dev.to/sudarshangouda/agentic-ai-schema-validated-tool-execution-and-deterministic-caching-2d14)
+- [From Reset to Control: Disabling Interrupts on ARM Bare Metal](https://dev.to/ripan030/bare-metal-arm-bootstrapping-disabling-interrupts-and-reading-cpsr-2ojd)
+- [Web Accessibility: Designing Digital Experiences Everyone Can Use](https://dev.to/pranav_bharti/web-accessibility-designing-digital-experiences-everyone-can-use-5148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
