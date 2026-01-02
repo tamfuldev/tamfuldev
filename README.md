@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pixel-Powered Encryption: Turning an Image into a Key with Python](https://dev.to/urshayan/pixel-powered-encryption-turning-an-image-into-a-key-with-python-107j)
-- [Gixy-Next: NGINX Configuration Misconfiguration Scanner](https://dev.to/gixy/gixy-next-nginx-configuration-misconfiguration-scanner-143b)
-- [Building a Real-Time Collaborative Notepad with Socket.IO and MongoDB](https://dev.to/shiey/building-a-real-time-collaborative-notepad-with-socketio-and-mongodb-1d7c)
-- [Happy New Year! What was your win this week?!](https://dev.to/devteam/happy-new-year-what-was-your-win-this-week-4h5l)
-- [Create Reliable Unit Tests with Claude Code](https://dev.to/alfredoperez/create-reliable-unit-tests-with-claude-code-4e8p)
+- [Surviving Breaking Changes in Evolving C# APIs, Hard Lessons and Practical Strategies for .NET Devs](https://dev.to/saber-amani/surviving-breaking-changes-in-evolving-c-apis-hard-lessons-and-practical-strategies-for-net-devs-2g5p)
+- [Side Projects and AI](https://dev.to/shubhambattoo/side-projects-and-ai-3njg)
+- [building ai chat saas, multi-llm chat app development, chatfaster -...](https://dev.to/ash_dubai/building-ai-chat-saas-multi-llm-chat-app-development-chatfaster--e9g)
+- [Understanding LLM vs generative AI for Your 2026 Tech Stack](https://dev.to/ash_dubai/understanding-llm-vs-generative-ai-for-your-2026-tech-stack-1agh)
+- [What Is a Realistic Frontend Engineer Berlin Salary in 2026?](https://dev.to/ash_dubai/what-is-a-realistic-frontend-engineer-berlin-salary-in-2026-9ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
