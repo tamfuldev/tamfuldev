@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Heroku: How I Built My Own PaaS on Linode for $5](https://dev.to/zayanmohamed/goodbye-heroku-how-i-built-my-own-paas-on-linode-for-5-2ila)
-- [VPN Log Analyzer: Detect Brute Force, Session Hijacking &amp; Credential Stuffing &lpar;100 Tests&rpar; 🔐](https://dev.to/fosres/vpn-log-analyzer-detect-brute-force-session-hijacking-credential-stuffing-100100-tests-328n)
-- [JSON is Not Enough: The Engineering Headache of Flattening FHIR for Analytics](https://dev.to/beck_moulton/json-is-not-enough-the-engineering-headache-of-flattening-fhir-for-analytics-2717)
-- [Combine #13: Manejo de Recursos](https://dev.to/david_goyes_a488f58a17a53/combine-13-manejo-de-recursos-edg)
-- [Introduction :&rpar;](https://dev.to/m4ir0n/introduction--42em)
+- [Advanced Threat Hunting Techniques: Part 1](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-1-14b4)
+- [Advanced Threat Hunting Techniques: Part 2](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-2-3eil)
+- [APTs: Defense Strategies and Mitigation Techniques](https://dev.to/cyberpath/apts-defense-strategies-and-mitigation-techniques-1ega)
+- [Building a Secure Home Lab: A Complete Guide](https://dev.to/cyberpath/building-a-secure-home-lab-a-complete-guide-3jfn)
+- [How to Reduce AI Dependency While Still Using It Daily](https://dev.to/jamespatterson25/how-to-reduce-ai-dependency-while-still-using-it-daily-29e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
