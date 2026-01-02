@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up Stash as a Windows service](https://dev.to/jdrch/how-to-set-up-stash-as-a-windows-service-ifd)
-- [SupplyChainAI: Building an Intelligent Vendor Recommendation Engine &lpar;PoC&rpar;](https://dev.to/exploredataaiml/supplychainai-building-an-intelligent-vendor-recommendation-engine-poc-1888)
-- [GC Isn’t Slow — Your frontend Is Just Hoarding Memory](https://dev.to/abhinavshinoy90/gc-isnt-slow-your-frontend-is-just-hoarding-memory-27al)
-- [5 Best Practices for Securing Amazon Bedrock Agents from Prompt Injections.](https://dev.to/aws-builders/5-best-practices-for-securing-amazon-bedrock-agents-from-prompt-injections-30eg)
-- [Type-Safe Collections in C#: How NonEmptyList Eliminates Runtime Exceptions](https://dev.to/a7mdfre7at/type-safe-collections-in-c-how-nonemptylist-eliminates-runtime-exceptions-3k4h)
+- [Why I’m Betting on React Native in 2026 After 13 Years of Mobile Development](https://dev.to/kazutoyo/why-im-betting-on-react-native-in-2026-after-13-years-of-mobile-development-1l87)
+- [CVE-2025-64500: Incorrect parsing of PATH_INFO can lead to limited authorization bypass - Laravel 11.47.0](https://dev.to/aspsptyd/cve-2025-64500-incorrect-parsing-of-pathinfo-can-lead-to-limited-authorization-bypass-laravel-287c)
+- [Time as the material of social life in Giddens&#39;s theory](https://dev.to/fundacjadobrepanstwo/time-as-the-material-of-social-life-in-giddenss-theory-28jn)
+- [Dev Snippet — A Local-First Markdown Editor That Thinks With You](https://dev.to/saboorhamedi/dev-snippet-a-local-first-markdown-editor-that-thinks-with-you-4m23)
+- [How I Built a Client-Side Image Resizer &lpar;Lightning Fast&rpar; using Vanilla JS](https://dev.to/nikhil_kumar_d086f4d60774/how-i-built-a-client-side-image-resizer-lightning-fast-using-vanilla-js-4a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
