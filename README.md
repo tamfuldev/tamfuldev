@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Walker for Improved Mobility and Safety at Home](https://dev.to/amir_redone_9191ea41279d1/choosing-the-right-walker-for-improved-mobility-and-safety-at-home-4d4m)
-- [Arkansas Transfer Deed: A Simple Guide for Property Owners](https://dev.to/waqas_khan_6332a2962d5312/arkansas-transfer-deed-a-simple-guide-for-property-owners-k4f)
-- [Getting Restarted With Software Testing: Part 3](https://dev.to/software_testing_blog/getting-restarted-with-software-testing-part-3-1d49)
-- [Difference Between UI and UX — Simple Explanation](https://dev.to/pixel_mosaic/difference-between-ui-and-ux-simple-explanation-4169)
-- [I built wordle for desktop but using my own GUI library!](https://dev.to/scriptor/i-built-wordle-for-desktop-but-using-my-own-gui-library-17e7)
+- [Sustainable AI Benchmarks Developers Will Be Asked About In 2026](https://dev.to/arbisoftcompany/sustainable-ai-benchmarks-developers-will-be-asked-about-in-2026-3a29)
+- [Scope Management Is Not Micromanagement](https://dev.to/synthaicode_commander/scope-management-is-not-micromanagement-2kd5)
+- [🚀 From One Server to Millions of Users: A Practical Guide to Load Balancing ⚖️](https://dev.to/usman_awan/from-one-server-to-millions-of-users-a-practical-guide-to-load-balancing-2mgd)
+- [Instructions Are Not Control](https://dev.to/saisrinivas/instructions-are-not-control-15l8)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260102134534]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260102134534-41p9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
