@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Betting on React Native in 2026 After 13 Years of Mobile Development](https://dev.to/kazutoyo/why-im-betting-on-react-native-in-2026-after-13-years-of-mobile-development-1l87)
-- [CVE-2025-64500: Incorrect parsing of PATH_INFO can lead to limited authorization bypass - Laravel 11.47.0](https://dev.to/aspsptyd/cve-2025-64500-incorrect-parsing-of-pathinfo-can-lead-to-limited-authorization-bypass-laravel-287c)
-- [Time as the material of social life in Giddens&#39;s theory](https://dev.to/fundacjadobrepanstwo/time-as-the-material-of-social-life-in-giddenss-theory-28jn)
-- [Dev Snippet — A Local-First Markdown Editor That Thinks With You](https://dev.to/saboorhamedi/dev-snippet-a-local-first-markdown-editor-that-thinks-with-you-4m23)
-- [How I Built a Client-Side Image Resizer &lpar;Lightning Fast&rpar; using Vanilla JS](https://dev.to/nikhil_kumar_d086f4d60774/how-i-built-a-client-side-image-resizer-lightning-fast-using-vanilla-js-4a7)
+- [Proteus: The AI-native editor for multimodal creation](https://dev.to/gezilinll/proteus-the-ai-native-editor-for-multimodal-creation-29h3)
+- [Coding Practice Roadmap for College Students: Learn Programming](https://dev.to/codepractice/coding-practice-roadmap-for-college-students-learn-programming-1ic4)
+- [🚀 From Software &amp; DevOps Engineer to Generative AI Engineer — A 4-Month Hands-On Journey 🚀](https://dev.to/lakhera2015/from-software-devops-engineer-to-generative-ai-engineer-a-4-month-hands-on-journey-3i21)
+- [webhooks end to end testing for NextJS applications - Mastering...](https://dev.to/ash_dubai/webhooks-end-to-end-testing-for-nextjs-applications-mastering-5a2k)
+- [Boost Developer Revenue with Monetzly’s API for AI Conversations](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-for-ai-conversations-1612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
