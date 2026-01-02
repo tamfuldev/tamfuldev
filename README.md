@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Threat Hunting Techniques: Part 1](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-1-14b4)
-- [Advanced Threat Hunting Techniques: Part 2](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-2-3eil)
-- [APTs: Defense Strategies and Mitigation Techniques](https://dev.to/cyberpath/apts-defense-strategies-and-mitigation-techniques-1ega)
-- [Building a Secure Home Lab: A Complete Guide](https://dev.to/cyberpath/building-a-secure-home-lab-a-complete-guide-3jfn)
-- [How to Reduce AI Dependency While Still Using It Daily](https://dev.to/jamespatterson25/how-to-reduce-ai-dependency-while-still-using-it-daily-29e2)
+- [Pixel-Powered Encryption: Turning an Image into a Key with Python](https://dev.to/urshayan/pixel-powered-encryption-turning-an-image-into-a-key-with-python-107j)
+- [Gixy-Next: NGINX Configuration Misconfiguration Scanner](https://dev.to/gixy/gixy-next-nginx-configuration-misconfiguration-scanner-143b)
+- [Building a Real-Time Collaborative Notepad with Socket.IO and MongoDB](https://dev.to/shiey/building-a-real-time-collaborative-notepad-with-socketio-and-mongodb-1d7c)
+- [Happy New Year! What was your win this week?!](https://dev.to/devteam/happy-new-year-what-was-your-win-this-week-4h5l)
+- [Create Reliable Unit Tests with Claude Code](https://dev.to/alfredoperez/create-reliable-unit-tests-with-claude-code-4e8p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
