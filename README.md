@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PIC shellcode: The Rust Way](https://dev.to/cyberpath/pic-shellcode-the-rust-way-4cl7)
-- [DevOps Tooling Masterclass — Complete Practical Guide for Engineers](https://dev.to/javadinteger/devops-tooling-masterclass-complete-practical-guide-for-engineers-ak7)
-- [Understanding Red Team Operations: A Technical Deep Dive](https://dev.to/cyberpath/understanding-red-team-operations-a-technical-deep-dive-2ggb)
-- [Building a Chrome Extension to Make LeetCode Prep More Practical](https://dev.to/vikrantkadam13/building-a-chrome-extension-to-make-leetcode-prep-more-practical-48h4)
-- [Remove Background From Multiple Images for E-commerce Teams](https://dev.to/freepixel11/remove-background-from-multiple-images-for-e-commerce-teams-519a)
+- [Best Way to Translate an InDesign File](https://dev.to/liamcorwin/best-way-to-translate-an-indesign-file-4k10)
+- [From 0 to 500 Free Pages Scraped with Firecrawl MCP Server and Claude Code](https://dev.to/fracabu/from-0-to-500-free-pages-scraped-with-firecrawl-mcp-server-and-claude-code-29in)
+- [Part 8: Databricks Pipeline &amp; Dashboard](https://dev.to/ktnl/part-8-databricks-pipeline-dashboard-b3h)
+- [Session Tokens vs JWTs: The False Dichotomy](https://dev.to/digitaldrreamer/session-tokens-vs-jwts-the-false-dichotomy-4ba5)
+- [Part 7: Gold Layer – Metrics, Watermarks, and Aggregations](https://dev.to/ktnl/part-7-gold-layer-metrics-watermarks-and-aggregations-1jcm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
