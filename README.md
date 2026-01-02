@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Tested Me and Prepared Me for a Stronger in 2026](https://dev.to/viperthapa/2025-tested-me-and-prepared-me-for-a-stronger-in-2026-4ea4)
-- [Statistics - Correlation in Data Science :](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-correlation-in-data-science--56o5)
-- [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
-- [Do You Need to Understand AI-Generated Code?](https://dev.to/sathishvk/do-you-need-to-understand-ai-generated-code-1man)
-- [Accelerating DX in Dubai: Top 10 App Dev Firms to Watch](https://dev.to/mabualzait/accelerating-dx-in-dubai-top-10-app-dev-firms-to-watch-33c2)
+- [Crypto Regulation 101 — SEC, MiCA &amp; What Builders Should Actually Care About](https://dev.to/ribhavmodi/crypto-regulation-101-sec-mica-what-builders-should-actually-care-about-4bg2)
+- [CleanCloud v0.4.0: How We Made Cloud Hygiene Scanning 10x Faster &lpar;With Benchmarks&rpar; published: true](https://dev.to/sureshmandalapu/cleancloud-v040-how-we-made-cloud-hygiene-scanning-10x-faster-with-benchmarkspublished-true-4png)
+- [Part 5 — Cost, Latency, and Failure Are the Design](https://dev.to/muzammiltalha/part-5-cost-latency-and-failure-are-the-design-9lm)
+- [The Retail Advantage No One Sees: Product Information Done Right](https://dev.to/olivia_20dbd2aa062e456ef8/the-retail-advantage-no-one-sees-product-information-done-right-220i)
+- [From Advanced Tech to Real Impact: Why Technology Must Matter](https://dev.to/yaseen_tech/from-advanced-tech-to-real-impact-why-technology-must-matter-p17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
