@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FileMate Pro – Next-Gen File Explorer in Python 🗂️✨](https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a)
-- [The AI Filmmaking Pipeline: Directing Without a Camera](https://dev.to/inushathathsara/the-ai-filmmaking-pipeline-directing-without-a-camera-lop)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/kunal__35bd2a194c4e65840/inside-git-how-it-works-and-the-role-of-the-git-folder-1ki1)
-- [The 5 DevOps Skills That Actually Matter in 2026](https://dev.to/inboryn_99399f96579fcd705/the-5-devops-skills-that-actually-matter-in-2026-5415)
-- [How to Extract Text From Screenshots: The AI Method That Changes Everything &lpar;2025&rpar;](https://dev.to/theairabbit/how-to-extract-text-from-screenshots-the-ai-method-that-changes-everything-2025-4eb5)
+- [Local AI Tools: Introducing LocalAI &lpar;Tool 3&rpar;](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67)
+- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b)
+- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj)
+- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26)
+- [RAG &amp; Vector Databases - Efficient Retrieval Explained](https://dev.to/hkj13/rag-vector-databases-efficient-retrieval-explained-2ik9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
