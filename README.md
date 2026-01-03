@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
-- [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
-- [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
-- [How To Install Kimai on Debian 13](https://dev.to/ramankumar/how-to-install-kimai-on-debian-13-5bl3)
-- [AI Search Optimization Needs a Knowledge Layer — Not Just Answer Monitoring](https://dev.to/seng_weelim_c87d55e12cec/ai-search-optimization-needs-a-knowledge-layer-not-just-answer-monitoring-283n)
+- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
+- [🧠Impostor Syndrome Workflow.](https://dev.to/marcosomma/impostor-syndrome-workflow-3n2f)
+- [I Built a Color Wheel for React published](https://dev.to/usapopopooon/i-built-a-color-wheel-for-react-published-141)
+- [🎯 My Spring Boot Controllers Looked Fine… Until I Understood the Presentation Layer](https://dev.to/shashwathsh/my-spring-boot-controllers-looked-fine-until-i-understood-the-presentation-layer-59m2)
+- [The 2 minute Inner Loop: Revolutionizing Local Development in 2026](https://dev.to/meena_nukala/the-2-minute-inner-loop-revolutionizing-local-development-in-2026-570f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
