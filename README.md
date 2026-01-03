@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
-- [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
-- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
-- [How to Install Umami Analytics on AlmaLinux 10](https://dev.to/ramankumar/how-to-install-umami-analytics-on-almalinux-10-1hn9)
-- [Install and Secure MongoDB on Rocky Linux 10](https://dev.to/ramankumar/install-and-secure-mongodb-on-rocky-linux-10-50bb)
+- [KG-BERT: BERT for Knowledge Graph Completion](https://dev.to/paperium/kg-bert-bert-for-knowledge-graph-completion-34nn)
+- [C23 Miscellany](https://dev.to/pauljlucas/c23-miscellany-flc)
+- [Why I Chose Custom Code Over CMS — As a Freelance Dev Starting from Scratch](https://dev.to/hugo_calmels_cadf5da60d26/why-i-chose-custom-code-over-cms-as-a-freelance-dev-starting-from-scratch-1d34)
+- [JDP Floorplans Explained: The Layout Decision That Saves You Hours](https://dev.to/mohantammineni/jdp-floorplans-explained-the-layout-decision-that-saves-you-hours-51ah)
+- [How to Fix Common JSON Errors: A Developer’s Survival Guide](https://dev.to/codeitbro/how-to-fix-common-json-errors-a-developers-survival-guide-3nmm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
