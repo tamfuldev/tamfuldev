@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g)
-- [The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo)
-- [Why Figma SVGs Break Your React App &lpar;and How to Fix It Locally&rpar;](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63)
-- [Growth Strategy &amp; Scaling: Key Trends &amp; Insights](https://dev.to/hkj13/growth-strategy-scaling-key-trends-insights-lfm)
-- [IMMUNE: Building an EDR/XDR/MDR Security Platform in Pure C — Solo Dev Progress](https://dev.to/dmitry_labintcev_9e611e04/immune-building-an-edrxdrmdr-security-platform-in-pure-c-solo-dev-progress-49o4)
+- [From Reading to Writing: My Dev.to Journey Through 2025](https://dev.to/konark_13/from-reading-to-writing-my-devto-journey-through-2025-1f97)
+- [Digital Invitations &amp; AI: A Small Effort to Make Wedding Planning a Bit Easier](https://dev.to/titasmallick/digital-invitations-ai-a-small-effort-to-make-wedding-planning-a-bit-easier-5d28)
+- [ISO 45001 Documents: Purpose, Outcomes, and Core Components](https://dev.to/joy1/iso-45001-documents-purpose-outcomes-and-core-components-4gd)
+- [Amazon Bedrock: The AI Foundation That’s Powering NatWest Bank’s Digital Transformation](https://dev.to/suyogkumawat/amazon-bedrock-the-ai-foundation-thats-powering-natwest-banks-digital-transformation-54k)
+- [Shipping AI-Generated Code: What Happens After &quot;It Works&quot;](https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625)
 <!-- BLOG-POST-LIST:END -->
 
 ---
