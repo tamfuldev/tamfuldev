@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Cybersecurity Industry&#39;s Insider Threat Problem Isn&#39;t About Background Checks](https://dev.to/zeroblind25/the-cybersecurity-industrys-insider-threat-problem-isnt-about-background-checks-14i4)
-- [From $47 to $1200/Month: What I Learned Starting Businesses in My Dorm](https://dev.to/short_playskits_ab152535/from-47-to-1200month-what-i-learned-starting-businesses-in-my-dorm-5cg4)
-- [Systems, Leadership, and the Power of &#39;We&#39;](https://dev.to/sigje/systems-leadership-and-the-power-of-we-11pm)
-- [The Ultimate Claude Code Tips Collection &lpar;Advent of Claude 2025&rpar;](https://dev.to/damogallagher/the-ultimate-claude-code-tips-collection-advent-of-claude-2025-5b73)
-- [TCJSgame Movement Utility: The Complete Guide &lpar;Correcting Previous Tutorial Mistakes&rpar;](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-movement-utility-the-complete-guide-correcting-previous-tutorial-mistakes-3i00)
+- [🎬 Best Movies for Programmers: Films Every Developer Should Watch](https://dev.to/farhadrahimiklie/best-movies-for-programmers-films-every-developer-should-watch-56n7)
+- [🔥 PHPS WORST DEBUG NIGHTMARE… DETHRONED! 🔥](https://dev.to/jeffsynister/phps-worst-debug-nightmare-dethroned-2pd9)
+- [We kept breaking cache invalidation in TanStack Query — so we stopped managing it manually](https://dev.to/ignasave/we-kept-breaking-cache-invalidation-in-tanstack-query-so-we-stopped-managing-it-manually-47k2)
+- [From Azure AI to AIOps—Without Knowing DevOps First](https://dev.to/ibne_sabidsaikat_1443282/from-azure-ai-to-aiops-without-knowing-devops-first-1of3)
+- [🎨 Beginner-Friendly Guide &#39;Number of Ways to Paint N 3 Grid&#39; – LeetCode 1411 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-number-of-ways-to-paint-n-x-3-grid-leetcode-1411-c-python-2879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
