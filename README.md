@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Anonymous Chat App Without Login — Here’s What I Learned](https://dev.to/vibetalk_51a1a0b171d67095/i-built-an-anonymous-chat-app-without-login-heres-what-i-learned-39bj)
-- [How Files Are Organized — Understanding File Systems and Paths published](https://dev.to/cristiansifuentes/how-files-are-organized-understanding-file-systems-and-paths-published-5b1k)
-- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
-- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
-- [Turning the Page &lpar;Without Resetting the System&rpar;](https://dev.to/mzghosty/turning-the-page-without-resetting-the-system-4i2l)
+- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80)
+- [La gobernanza de la IA no es binaria: evoluciona por niveles de madurez](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-no-es-binaria-evoluciona-por-niveles-de-madurez-2i55)
+- [AI Governance Is an Operational Discipline, Not a Compliance Artifact](https://dev.to/antonio_socorro_95e3ff086/ai-governance-is-an-operational-discipline-not-a-compliance-artifact-24gg)
+- [La gobernanza de la IA es una disciplina operativa, no un artefacto de cumplimiento](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-es-una-disciplina-operativa-no-un-artefacto-de-cumplimiento-1id4)
+- [The AI Slop Invasion on YouTube: How Algorithm-Driven Content Is Reshaping User Experience](https://dev.to/damad1988/the-ai-slop-invasion-on-youtube-how-algorithm-driven-content-is-reshaping-user-experience-i70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
