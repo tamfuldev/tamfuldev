@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Local AI Tools: Introducing LocalAI &lpar;Tool 3&rpar;](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67)
-- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b)
-- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj)
-- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26)
-- [RAG &amp; Vector Databases - Efficient Retrieval Explained](https://dev.to/hkj13/rag-vector-databases-efficient-retrieval-explained-2ik9)
+- [CoordConversions Demo](https://dev.to/smatthew/coordconversions-demo-2pl7)
+- [Introducing Tagnovate: Link-in-Bio with AI, Bookings &amp; NFC](https://dev.to/mayu2008/introducing-tagnovate-link-in-bio-with-ai-bookings-nfc-3l40)
+- [Kube-Proxy and CNI: The Backbone of Kubernetes Networking](https://dev.to/bharadwajshivam/kube-proxy-and-cni-the-backbone-of-kubernetes-networking-1pbk)
+- [I’ve systematized the Big Tech interview process into 4 phases and a single-page scorecard](https://dev.to/dmitrevnik/ive-systematized-the-big-tech-interview-process-into-4-phases-and-a-single-page-scorecard-1g0e)
+- [Rork vs Lovable: where beginners actually get stuck](https://dev.to/gonenccelik/rork-vs-lovable-where-beginners-actually-get-stuck-2i62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
