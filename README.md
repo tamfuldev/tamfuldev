@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CoordConversions Demo](https://dev.to/smatthew/coordconversions-demo-2pl7)
-- [Introducing Tagnovate: Link-in-Bio with AI, Bookings &amp; NFC](https://dev.to/mayu2008/introducing-tagnovate-link-in-bio-with-ai-bookings-nfc-3l40)
-- [Kube-Proxy and CNI: The Backbone of Kubernetes Networking](https://dev.to/bharadwajshivam/kube-proxy-and-cni-the-backbone-of-kubernetes-networking-1pbk)
-- [I’ve systematized the Big Tech interview process into 4 phases and a single-page scorecard](https://dev.to/dmitrevnik/ive-systematized-the-big-tech-interview-process-into-4-phases-and-a-single-page-scorecard-1g0e)
-- [Rork vs Lovable: where beginners actually get stuck](https://dev.to/gonenccelik/rork-vs-lovable-where-beginners-actually-get-stuck-2i62)
+- [Why Goroutines Scale: Stack Growth, Compiler Tricks, and Context Switching](https://dev.to/ayush-k-anand/why-goroutines-scale-stack-growth-compiler-tricks-and-context-switching-k54)
+- [REST vs GraphQL in Practice, Trade-offs for Backend and Frontend Teams](https://dev.to/saber-amani/rest-vs-graphql-in-practice-trade-offs-for-backend-and-frontend-teams-2no9)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-4h0k)
+- [Working Hours, Overtime, and Severance Calculations in Brazil: A Practical, Developer-Friendly Guide](https://dev.to/fawad_khan_58ef17f70efbe6/working-hours-overtime-and-severance-calculations-in-brazil-a-practical-developer-friendly-guide-n26)
+- [Getting started with gitlab](https://dev.to/bala_murugan_/getting-started-with-gitlab-g8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
