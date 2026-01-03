@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80)
-- [La gobernanza de la IA no es binaria: evoluciona por niveles de madurez](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-no-es-binaria-evoluciona-por-niveles-de-madurez-2i55)
-- [AI Governance Is an Operational Discipline, Not a Compliance Artifact](https://dev.to/antonio_socorro_95e3ff086/ai-governance-is-an-operational-discipline-not-a-compliance-artifact-24gg)
-- [La gobernanza de la IA es una disciplina operativa, no un artefacto de cumplimiento](https://dev.to/antonio_socorro_95e3ff086/la-gobernanza-de-la-ia-es-una-disciplina-operativa-no-un-artefacto-de-cumplimiento-1id4)
-- [The AI Slop Invasion on YouTube: How Algorithm-Driven Content Is Reshaping User Experience](https://dev.to/damad1988/the-ai-slop-invasion-on-youtube-how-algorithm-driven-content-is-reshaping-user-experience-i70)
+- [The Cybersecurity Industry&#39;s Insider Threat Problem Isn&#39;t About Background Checks](https://dev.to/zeroblind25/the-cybersecurity-industrys-insider-threat-problem-isnt-about-background-checks-14i4)
+- [From $47 to $1200/Month: What I Learned Starting Businesses in My Dorm](https://dev.to/short_playskits_ab152535/from-47-to-1200month-what-i-learned-starting-businesses-in-my-dorm-5cg4)
+- [Systems, Leadership, and the Power of &#39;We&#39;](https://dev.to/sigje/systems-leadership-and-the-power-of-we-11pm)
+- [The Ultimate Claude Code Tips Collection &lpar;Advent of Claude 2025&rpar;](https://dev.to/damogallagher/the-ultimate-claude-code-tips-collection-advent-of-claude-2025-5b73)
+- [TCJSgame Movement Utility: The Complete Guide &lpar;Correcting Previous Tutorial Mistakes&rpar;](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-movement-utility-the-complete-guide-correcting-previous-tutorial-mistakes-3i00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
