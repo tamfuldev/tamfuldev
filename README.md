@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Reading to Writing: My Dev.to Journey Through 2025](https://dev.to/konark_13/from-reading-to-writing-my-devto-journey-through-2025-1f97)
-- [Digital Invitations &amp; AI: A Small Effort to Make Wedding Planning a Bit Easier](https://dev.to/titasmallick/digital-invitations-ai-a-small-effort-to-make-wedding-planning-a-bit-easier-5d28)
-- [ISO 45001 Documents: Purpose, Outcomes, and Core Components](https://dev.to/joy1/iso-45001-documents-purpose-outcomes-and-core-components-4gd)
-- [Amazon Bedrock: The AI Foundation That’s Powering NatWest Bank’s Digital Transformation](https://dev.to/suyogkumawat/amazon-bedrock-the-ai-foundation-thats-powering-natwest-banks-digital-transformation-54k)
-- [Shipping AI-Generated Code: What Happens After &quot;It Works&quot;](https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625)
+- [سواعد احترافية](https://dev.to/adham_awad_3cbeaa747f9e21/swd-htrfy-5aao)
+- [Pixelcut Promo Code : &lpar;ARCH30&rpar; Get 10% Discount On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/pixelcut-promo-code-arch30-get-10-discount-on-subscription-plan-27kk)
+- [Top MySQL and MariaDB backup tools in 2026](https://dev.to/dmetrovich/top-mysql-and-mariadb-backup-tools-in-2026-32ak)
+- [Ideamap AI Promo Code &lpar;ARCHA20&rpar; Unlock 15% Discount On All Plans](https://dev.to/referral_code_ee61ef9548a/ideamap-ai-promo-code-archa20-unlock-15-discount-on-all-plans-1ell)
+- [Lets Enhance Promo Code : &lpar;ARCH10&rpar; Get 10% Off On Subscription Plans](https://dev.to/referral_code_ee61ef9548a/lets-enhance-promo-code-arch10-get-10-off-on-subscription-plans-61a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
