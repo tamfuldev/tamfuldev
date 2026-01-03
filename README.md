@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
-- [🧠Impostor Syndrome Workflow.](https://dev.to/marcosomma/impostor-syndrome-workflow-3n2f)
-- [I Built a Color Wheel for React published](https://dev.to/usapopopooon/i-built-a-color-wheel-for-react-published-141)
-- [🎯 My Spring Boot Controllers Looked Fine… Until I Understood the Presentation Layer](https://dev.to/shashwathsh/my-spring-boot-controllers-looked-fine-until-i-understood-the-presentation-layer-59m2)
-- [The 2 minute Inner Loop: Revolutionizing Local Development in 2026](https://dev.to/meena_nukala/the-2-minute-inner-loop-revolutionizing-local-development-in-2026-570f)
+- [Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724)
+- [Quark&#39;s Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm)
+- [How to Prevent AI Agents from Draining Crypto Wallets](https://dev.to/l_x_1/how-to-prevent-ai-agents-from-draining-crypto-wallets-3cci)
+- [Most Security Teams Can’t Scale Access Management Beyond 50 Employees - Here’s how to fix it](https://dev.to/mfakbar127/most-security-teams-cant-scale-access-management-beyond-50-employees-heres-how-to-fix-it-132d)
+- [The Invisible Hand](https://dev.to/rawveg/the-invisible-hand-4pdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
