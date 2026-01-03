@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KG-BERT: BERT for Knowledge Graph Completion](https://dev.to/paperium/kg-bert-bert-for-knowledge-graph-completion-34nn)
-- [C23 Miscellany](https://dev.to/pauljlucas/c23-miscellany-flc)
-- [Why I Chose Custom Code Over CMS — As a Freelance Dev Starting from Scratch](https://dev.to/hugo_calmels_cadf5da60d26/why-i-chose-custom-code-over-cms-as-a-freelance-dev-starting-from-scratch-1d34)
-- [JDP Floorplans Explained: The Layout Decision That Saves You Hours](https://dev.to/mohantammineni/jdp-floorplans-explained-the-layout-decision-that-saves-you-hours-51ah)
-- [How to Fix Common JSON Errors: A Developer’s Survival Guide](https://dev.to/codeitbro/how-to-fix-common-json-errors-a-developers-survival-guide-3nmm)
+- [FileMate Pro – Next-Gen File Explorer in Python 🗂️✨](https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a)
+- [The AI Filmmaking Pipeline: Directing Without a Camera](https://dev.to/inushathathsara/the-ai-filmmaking-pipeline-directing-without-a-camera-lop)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/kunal__35bd2a194c4e65840/inside-git-how-it-works-and-the-role-of-the-git-folder-1ki1)
+- [The 5 DevOps Skills That Actually Matter in 2026](https://dev.to/inboryn_99399f96579fcd705/the-5-devops-skills-that-actually-matter-in-2026-5415)
+- [How to Extract Text From Screenshots: The AI Method That Changes Everything &lpar;2025&rpar;](https://dev.to/theairabbit/how-to-extract-text-from-screenshots-the-ai-method-that-changes-everything-2025-4eb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
