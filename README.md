@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Nested PHP Arrays Using DataBlock](https://dev.to/robertobutti/handling-nested-php-arrays-using-datablock-26d7)
-- [Healthcare analytics brief summary.](https://dev.to/wangare_/healthcare-analytics-brief-summary-2ji7)
-- [Kiro: Instant Finance &amp; Expense Tracking](https://dev.to/shreya111111/kiro-instant-finance-expense-tracking-1ldf)
-- [Create Natural Voiceovers &amp; Audiobooks in Minutes: AI Text-to-Speech Made Easy, No Setup Needed](https://dev.to/satendra_kaushik_74304936/convert-text-to-speech-instantly-free-ai-text-to-audio-converter-tool-5c85)
-- [A Practical Guide to AWS CloudWatch That Most Engineers Skip](https://dev.to/muhammad_yawar_malik/a-practical-guide-to-aws-cloudwatch-that-most-engineers-skip-cc)
+- [I&#39;ll Serve Anything](https://dev.to/mikesol/ill-serve-anything-13kp)
+- [UPDATE...RETURNING in MongoDB: ACID and idempotency with findOneAndUpdate&lpar;&rpar;](https://dev.to/franckpachot/acid-and-idempotent-update-returning-in-mongodb-with-findoneandupdate-955)
+- [How I Translated 277 Strings in 5 Minutes &lpar;Real-World Case Study&rpar;](https://dev.to/nikolaos_protopapas_d3bd6/how-i-translated-277-strings-in-5-minutes-real-world-case-study-4j47)
+- [Why I Created lazymake: Solving Make&#39;s UX Problem](https://dev.to/rshelekhov/why-i-created-lazymake-solving-makes-ux-problem-38pp)
+- [How to Prepare for a Certification in any Tech Career](https://dev.to/walteralleyz/how-to-prepare-for-a-certification-in-any-tech-career-5g74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
