@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
-- [BinaryNet: Training Deep Neural Networks with Weights and ActivationsConstrained to +1 or -1](https://dev.to/paperium/binarynet-training-deep-neural-networks-with-weights-and-activationsconstrained-to-1-or-1-1d03)
-- [The Fe Experiment](https://dev.to/frank_vega_987689489099bf/the-fe-experiment-41i9)
-- [How to automatically add bookmarks to a PDF?](https://dev.to/anig1scur/how-to-automatically-add-bookmarks-to-a-pdf-49d2)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260103223209]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260103223209-cc3)
+- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g)
+- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0)
+- [Static portfolios are dead!](https://dev.to/reklamof/static-portfolios-are-dead-hdd)
+- [How I Found 47 B2B Customers on Reddit Using Python and Zero Ad Spend](https://dev.to/short_playskits_ab152535/how-i-found-47-b2b-customers-on-reddit-using-python-and-zero-ad-spend-232c)
+- [I Built a File Tree for Vim](https://dev.to/m__mdy__m/i-built-a-file-tree-for-vim-f21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
