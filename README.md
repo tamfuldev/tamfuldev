@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BEST PRACTICES FOR CREATING A CONCURRENT API IN GOLANG](https://dev.to/nayy/best-practices-for-creating-a-concurrent-api-in-golang-c3k)
-- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/aws-builders/the-myth-of-just-connect-lambda-to-rds-493n)
-- [Basic Logging in Fastapi using Logger module](https://dev.to/chengetanai_mukanhairi_5e/basic-logging-in-fastapi-using-logger-module-212h)
-- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/stevenwleung/the-myth-of-just-connect-lambda-to-rds-4n82)
-- [🌐_Network_IO_Performance_Optimization[20260104120412]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260104120412-1nn8)
+- [Building a High-Performance Link Shortener with Next.js 16, Supabase, and Edge Functions](https://dev.to/mariusme/building-a-high-performance-link-shortener-with-nextjs-16-supabase-and-edge-functions-4fjn)
+- [How My Client Hit Linux Kernel Network Limits on AWS EKS](https://dev.to/datton94/how-my-client-hit-linux-kernel-network-limits-on-aws-eks-3am5)
+- [1390. Four Divisors](https://dev.to/mdarifulhaque/1390-four-divisors-525l)
+- [The basics of managing the database schema changes](https://dev.to/tanin47/managing-the-database-schema-changes-for-your-app-14dn)
+- [Lightsaber Dueling Safety: My Ultimate Guide for Fans and Fighters](https://dev.to/lucasvaren/lightsaber-dueling-safety-my-ultimate-guide-for-fans-and-fighters-143k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
