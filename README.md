@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Interpreter vs Compiler: What’s the Difference?](https://dev.to/himanshudevgupta/interpreter-vs-compiler-whats-the-difference-5180)
-- [How to Build Bulletproof Node.js APIs: 8 Essential Patterns for Production-Ready Development](https://dev.to/nithinbharathwaj/how-to-build-bulletproof-nodejs-apis-8-essential-patterns-for-production-ready-development-28h3)
-- [Beyond the Plastic: Why Network Tokenization Is the Future of Merchant Payments](https://dev.to/realnamehidden1_61/beyond-the-plastic-why-network-tokenization-is-the-future-of-merchant-payments-719)
-- [$20 Billion Christmas Present: Why NVIDIA Acquired Groq to Crush the &quot;Inference&quot; Rebellion](https://dev.to/karentam_1225/20-billion-christmas-present-why-nvidia-acquired-groq-to-crush-the-inference-rebellion-24pj)
-- [From 3+ Days to 3.8 Hours: Scaling a .NET CSV Importer for SQL Server](https://dev.to/__2131e9e/from-3-days-to-38-hours-scaling-a-net-csv-importer-for-sql-server-ge1)
+- [Hello 2026: This Will Only Take Two Weeks](https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj)
+- [echo3D Integrates Support for Niantic’s SPZ Format, Streamlining 3D Gaussian Splat Workflows](https://dev.to/_echo3d_/echo3d-integrates-support-for-niantics-spz-format-streamlining-3d-gaussian-splat-workflows-40j2)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260104170344]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260104170344-2f6b)
+- [New Year, New You Portfolio Challenge by Simpled1](https://dev.to/simpled1/new-year-new-you-portfolio-challenge-by-simpled1-4mo4)
+- [I Created Claude Skills for Convenient Pull Request Review Operations from Claude Code](https://dev.to/shibayu36/i-created-claude-skills-for-convenient-pull-request-review-operations-from-claude-code-d7p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
