@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Passing the AWS Machine Learning Engineer – Associate Exam &lpar;My Experience &amp; Tips&rpar;](https://dev.to/thukhakyawe_cloud/passing-the-aws-machine-learning-engineer-associate-exam-my-experience-tips-410l)
-- [The SaaS Billing Nightmare: Why Integration Is More Than Just a &#39;Pay&#39; Button](https://dev.to/thekarlesi/the-saas-billing-nightmare-why-integration-is-more-than-just-a-pay-button-1mjp)
-- [Designing a Secure AWS Landing Zone with Control Tower &lpar;What Most Blogs Don’t Tell You&rpar;](https://dev.to/amaan-igs/designing-a-secure-aws-landing-zone-with-control-tower-what-most-blogs-dont-tell-you-20oh)
-- [Beyond the Linear CV](https://dev.to/pascal_cescato_692b7a8a20/beyond-the-linear-cv-3fik)
-- [10,000 Applicants. 28 Positions. The Brutal Math of Web3 Hiring in 2026.](https://dev.to/kniraj/10000-applicants-28-positions-the-brutal-math-of-web3-hiring-in-2026-58po)
+- [BEST PRACTICES FOR CREATING A CONCURRENT API IN GOLANG](https://dev.to/nayy/best-practices-for-creating-a-concurrent-api-in-golang-c3k)
+- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/aws-builders/the-myth-of-just-connect-lambda-to-rds-493n)
+- [Basic Logging in Fastapi using Logger module](https://dev.to/chengetanai_mukanhairi_5e/basic-logging-in-fastapi-using-logger-module-212h)
+- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/stevenwleung/the-myth-of-just-connect-lambda-to-rds-4n82)
+- [🌐_Network_IO_Performance_Optimization[20260104120412]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260104120412-1nn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
