@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Entity Framework Core is slow or Blind Engineers](https://dev.to/vyavorskyi/entity-framework-core-is-slow-or-blind-engineers-338b)
-- [The Operator&#39;s Manual: Navigating Angular Signals from v17.3 to v21](https://dev.to/leolanese/the-operators-manual-navigating-angular-signals-from-v173-to-v21-25hj)
-- [Ben Webb - Sydney - project Management](https://dev.to/ben_webb_projectmanager/ben-webb-sydney-project-management-1061)
-- [DevOps Unleashed: Your Thrilling Journey from Code Chaos to Deployment Nirvana](https://dev.to/meena_nukala/devops-unleashed-your-thrilling-journey-from-code-chaos-to-deployment-nirvana-144h)
-- [Mastering Text Manipulation: A Developer&#39;s Guide to Regex, Grep, Sed, and Awk](https://dev.to/kurdistan_linux_lab/mastering-text-manipulation-a-developers-guide-to-regex-grep-sed-and-awk-135g)
+- [AI Agents: Mastering 3 Essential Patterns &lpar;ReAct&rpar;. Part 2 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-react-part-2-of-3-1b1d)
+- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;ReAct&rpar;. Parte 2 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-react-parte-2-de-3-1mdb)
+- [📈_Scalability_Architecture_Design[20260104212955]](https://dev.to/member_8659c28a/scalabilityarchitecturedesign20260104212955-2e7e)
+- [Building a Kafka Event-Driven Spring Boot Application with Avro, Schema Registry and PostgreSQL](https://dev.to/mathias82/building-a-kafka-event-driven-spring-boot-application-with-avro-schema-registry-and-postgresql-3i0)
+- [Crunching Numbers: World Cup 2026 Predictions and Trends](https://dev.to/mabualzait/crunching-numbers-world-cup-2026-predictions-and-trends-4kap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
