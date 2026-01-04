@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g)
-- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0)
-- [Static portfolios are dead!](https://dev.to/reklamof/static-portfolios-are-dead-hdd)
-- [How I Found 47 B2B Customers on Reddit Using Python and Zero Ad Spend](https://dev.to/short_playskits_ab152535/how-i-found-47-b2b-customers-on-reddit-using-python-and-zero-ad-spend-232c)
-- [I Built a File Tree for Vim](https://dev.to/m__mdy__m/i-built-a-file-tree-for-vim-f21)
+- [I analyzed 6,000+ n8n Workflows. Here are the top 3 mistakes that break automations.](https://dev.to/iloven8n/i-analyzed-6000-n8n-workflows-here-are-the-top-3-mistakes-that-break-automations-1leo)
+- [🍀 Beginner-Friendly Guide &#39;Four Divisors&#39; – LeetCode 1390 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-four-divisors-leetcode-1390-c-python-javascript-56cf)
+- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-c9c)
+- [Making Traditional Strategies Smarter: Practical Applications of Workflow + AI](https://dev.to/chronosquant/making-traditional-strategies-smarter-practical-applications-of-workflow-ai-1pne)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/abhimanyu_kumar_b94e042e9/git-for-beginners-basics-and-essential-commands-1cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
