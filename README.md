@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Beginner-Friendly Guide &#39;Maximum Matrix Sum&#39; – LeetCode 1975 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39)
-- [🧩My Spring Boot App Became Unmaintainable Until I Understood the Service Layer](https://dev.to/shashwathsh/my-spring-boot-app-became-unmaintainable-until-i-understood-the-service-layer-3lbl)
-- [I Built a Road Safety Snakes &amp; Ladders Game in Class 11… and Then Let It Rot for 2 Years 💀🐍🎲](https://dev.to/swagking/i-built-a-road-safety-snakes-ladders-game-in-class-11-and-then-let-it-rot-for-2-years-f8n)
-- [Part 7 — What GenAI Engineering Actually Is](https://dev.to/muzammiltalha/part-7-what-genai-engineering-actually-is-4eck)
-- [Building a Social Deduction Game with a State Machine &lpar;7 Games in 7 Weeks – Week 4&rpar;](https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8)
+- [Identify AWS Database Services](https://dev.to/aws-builders/identify-aws-database-services-2gg0)
+- [The Total Cost of Running Agentic AI on AWS: A Financial Breakdown](https://dev.to/dineshelumalai/the-total-cost-of-running-agentic-ai-on-aws-a-financial-breakdown-1ofc)
+- [FSMS and HACCP: Systems, Principles, and Performance](https://dev.to/joy1/fsms-and-haccp-systems-principles-and-performance-27pc)
+- [Lightning-Fast In-App Debugging with React Native BugBubble](https://dev.to/ajmal_hasan/lightning-fast-in-app-debugging-with-react-native-bugbubble-5bao)
+- [Build the tool. We’ll run the business.](https://dev.to/codeatoms/build-the-tool-well-run-the-business-pl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
