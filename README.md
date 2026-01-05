@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Identify AWS Database Services](https://dev.to/aws-builders/identify-aws-database-services-2gg0)
-- [The Total Cost of Running Agentic AI on AWS: A Financial Breakdown](https://dev.to/dineshelumalai/the-total-cost-of-running-agentic-ai-on-aws-a-financial-breakdown-1ofc)
-- [FSMS and HACCP: Systems, Principles, and Performance](https://dev.to/joy1/fsms-and-haccp-systems-principles-and-performance-27pc)
-- [Lightning-Fast In-App Debugging with React Native BugBubble](https://dev.to/ajmal_hasan/lightning-fast-in-app-debugging-with-react-native-bugbubble-5bao)
-- [Build the tool. We’ll run the business.](https://dev.to/codeatoms/build-the-tool-well-run-the-business-pl2)
+- [On‑Premises Kubernetes Networking Architecture: A Comprehensive Architectural Synthesis](https://dev.to/korakrit/on-premises-kubernetes-networking-architecture-a-comprehensive-architectural-synthesis-529o)
+- [I&#39;ll Serve Anything - 24 Hours After Launch](https://dev.to/mikesol/ill-serve-anything-24-hours-after-launch-16dk)
+- [Building Infrastructure for Handling Millions of Bitcoin UTXOs at Scale](https://dev.to/kniraj/building-infrastructure-for-handling-millions-of-bitcoin-utxos-at-scale-4i4g)
+- [Day 0: Starting My DSA Journey](https://dev.to/yash_a989d3c80fefb4c31c8e/day-0-starting-my-dsa-journey-1l0n)
+- [Database Designer - Never Code A Database Again](https://dev.to/walker_dev_1aeb4e99981997/database-designer-never-code-a-database-again-28f5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
