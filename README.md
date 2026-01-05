@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mixture of Experts &lpar;MoE&rpar;](https://dev.to/gdn/mixture-of-experts-moe-1183)
-- [Understanding Soffit Repair: What Homeowners Should Know](https://dev.to/torry_silver_ef6733b9861a/understanding-soffit-repair-what-homeowners-should-know-569i)
-- [😱 I Lost Hours of Code That Git Never Tracked — Here’s How VS Code Saved My Life](https://dev.to/wishot_cipher/i-lost-hours-of-code-that-git-never-tracked-heres-how-vs-code-saved-my-life-200k)
-- [TypeGraphQL Evaluation Report](https://dev.to/xcfox/typegraphql-evaluation-report-1lil)
-- [OpenAI boosts audio AI development as it prepares to launch an audio-basedpersonal device](https://dev.to/ytosko/openai-boosts-audio-ai-development-as-it-prepares-to-launch-an-audio-basedpersonal-device-4n5c)
+- [Beyond Basic Prompts: Elevating Your LLM Game](https://dev.to/ben-santora/beyond-basic-prompts-elevating-your-llm-game-1kli)
+- [Sanity Checks](https://dev.to/lardcanoe/sanity-checks-ci0)
+- [Supercharge Your Node.js Application with Hedge-Fetch: Eliminating Tail Latency with Speculative Execution](https://dev.to/silentwatcher_95/supercharge-your-nodejs-application-with-hedge-fetch-eliminating-tail-latency-with-speculative-37d5)
+- [Translating a Complex Object Detection Model for Sales Teams: An AI Documentation Case Study](https://dev.to/spiff/translating-a-complex-object-detection-model-for-sales-teams-an-ai-documentation-case-study-46ao)
+- [Stop trying `typeof x === Fish`: A practical guide to TypeScript type verification &lpar;Narrowing + Type Predicates&rpar;](https://dev.to/kelvynthai/stop-trying-typeof-x-fish-a-practical-guide-to-typescript-type-verification-narrowing--4g9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
