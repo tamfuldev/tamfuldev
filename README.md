@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [IDLE -&gt; THINKING -&gt; ACTING: Agents as State Machines](https://dev.to/gantz/idle-thinking-acting-agents-as-state-machines-427n)
-- [Does this solve a real pain? Client updates timeline + automatic invoice nudges](https://dev.to/ph_mrks/does-this-solve-a-real-pain-client-updates-timeline-automatic-invoice-nudges-5323)
-- [How to Improve Productivity Without Burning Out](https://dev.to/market_expert_2abefa6f035/how-to-improve-productivity-without-burning-out-6c7)
-- [🎯_Microservices_Performance_Tuning_Practical[20260105004926]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260105004926-53jo)
-- [Briefen.me - AI-Powered URL Shortener That Actually Makes Sense](https://dev.to/ifihan/briefenme-ai-powered-url-shortener-that-actually-makes-sense-1pgm)
+- [A beginner&#39;s guide to the Llasa-3b-Long model by Kjjk10 on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-llasa-3b-long-model-by-kjjk10-on-replicate-3k78)
+- [A beginner&#39;s guide to the Granite-8b-Code-Instruct-128k model by Ibm-Granite on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-granite-8b-code-instruct-128k-model-by-ibm-granite-on-replicate-4p0a)
+- [A beginner&#39;s guide to the Qwen2.5-Omni-7b model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen25-omni-7b-model-by-lucataco-on-replicate-435l)
+- [A beginner&#39;s guide to the Yue model by Fofr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-yue-model-by-fofr-on-replicate-183f)
+- [A beginner&#39;s guide to the Mirage-Ghibli model by Aaronaftab on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-mirage-ghibli-model-by-aaronaftab-on-replicate-5hc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
