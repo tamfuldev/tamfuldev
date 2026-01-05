@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Memory Management &amp; Retain Cycle Pitfalls &lpar;Production Guide&rpar;](https://dev.to/sebastienlato/swiftui-memory-management-retain-cycle-pitfalls-production-guide-2kii)
-- [Linux Kernel Basics: User Space vs. Kernel Space, System Calls, strace &lpar;debugging processes&rpar;.](https://dev.to/sbkumbar024/linux-kernel-basics-user-space-vs-kernel-space-system-calls-strace-debugging-processes-39f1)
-- [I Built an AI Boardroom App in 8 Hours with Flutter &amp; AI 🚀 &lpar;Open Source&rpar;](https://dev.to/sayed_ali_alkamel/i-built-an-ai-boardroom-app-in-8-hours-with-flutter-ai-open-source-1fjm)
-- [What do you think, LinkedIn?](https://dev.to/im_bhandari_2f6612fe6118/what-do-you-think-linkedin-7cm)
-- [What I Learned Building an AI Learning Platform Without Hype](https://dev.to/john_haworth_a503e7ff8249/what-i-learned-building-an-ai-learning-platform-without-hype-2n1m)
+- [The Ralph Wiggum Approach: Running AI Coding Agents for Hours &lpar;Not Minutes&rpar;](https://dev.to/sivarampg/the-ralph-wiggum-approach-running-ai-coding-agents-for-hours-not-minutes-57c1)
+- [Just released my first open-source workbench to learn DSA, make sure to check it out and share your thoughts!](https://dev.to/joachimzeelmaekers/just-released-my-first-open-source-workbench-to-learn-dsa-make-sure-to-check-it-out-and-share-your-2l7k)
+- [Bedrock &amp; SageMaker in Focus: Finding Your Best Fit for GenAI](https://dev.to/farrukhkhalid/bedrock-sagemaker-in-focus-finding-your-best-fit-for-genai-3i60)
+- [A More Practical Way for Developers to Learn Algorithms](https://dev.to/joachimzeelmaekers/a-more-practical-way-for-developers-to-learn-algorithms-2pd7)
+- [Ethereum-Solidity Quiz Q14: Why constructors can&#39;t be used in upgradeable contracts?](https://dev.to/mihaihng/ethereum-solidity-quiz-q14-why-constructors-cant-be-used-in-upgradeable-contracts-1f94)
 <!-- BLOG-POST-LIST:END -->
 
 ---
