@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Video Generation Is Making Video Games More Realistic](https://dev.to/damad1988/how-ai-video-generation-is-making-video-games-more-realistic-3nh6)
-- [Building a Roboflow Universe Search Agent: Automating ML Model Discovery](https://dev.to/sumit_sapkota_ba51d1ae503/building-a-roboflow-universe-search-agent-automating-ml-model-discovery-2hj1)
-- [A non-decision protocol for human–AI systems with explicit stop conditions](https://dev.to/deltax/a-non-decision-protocol-for-human-ai-systems-with-explicit-stop-conditions-29cf)
-- [Turning Team Growth into a Strategic Advantage](https://dev.to/ridd0/turning-team-growth-into-a-strategic-advantage-13jg)
-- [Advanced GPU Optimization: Tensor Core Programming &lpar;NVIDIA&rpar;](https://dev.to/javadinteger/advanced-gpu-optimization-tensor-core-programming-nvidia-3708)
+- [The Event Loop, Part III: The Unstoppable Train 🚂](https://dev.to/elina_web_magic/the-event-loop-part-iii-the-unstoppable-train-2bld)
+- [How To Become DevOps Engineer](https://dev.to/aws-builders/how-to-become-devops-engineer-3o72)
+- [I Built Production AI Systems Through Karpathy&#39;s &#39;Magnitude 9 Earthquake.&#39; Here&#39;s What Actually Works.](https://dev.to/dannwaneri/i-built-production-ai-systems-through-karpathys-magnitude-9-earthquake-heres-what-actually-19h3)
+- [maintaining stable row identifiers during page maintenance](https://dev.to/tudor96stani/maintaining-stable-row-identifiers-during-page-maintenance-m9o)
+- [WebP in 2026: Why Frontend Devs Should Care Again](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2026-why-frontend-devs-should-care-again-1l44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
