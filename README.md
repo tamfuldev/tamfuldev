@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AutoReadme: Revolutionizing Developer Documentation with AI](https://dev.to/divyasinghdev/autoreadme-revolutionizing-developer-documentation-with-ai-3ein)
-- [An Honest Review of Google Antigravity](https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f)
-- [pg-status - a lightweight microservice for checking PostgreSQL host status](https://dev.to/krylosov-aa/pg-status-a-lightweight-microservice-for-checking-postgresql-host-status-32jd)
-- [kubernetes project #1](https://dev.to/jumptotech/kubernetes-project-1-1hg7)
-- [🔒_Security_Performance_Balance[20260104223626]](https://dev.to/member_8659c28a/securityperformancebalance20260104223626-6ne)
+- [IDLE -&gt; THINKING -&gt; ACTING: Agents as State Machines](https://dev.to/gantz/idle-thinking-acting-agents-as-state-machines-427n)
+- [Does this solve a real pain? Client updates timeline + automatic invoice nudges](https://dev.to/ph_mrks/does-this-solve-a-real-pain-client-updates-timeline-automatic-invoice-nudges-5323)
+- [How to Improve Productivity Without Burning Out](https://dev.to/market_expert_2abefa6f035/how-to-improve-productivity-without-burning-out-6c7)
+- [🎯_Microservices_Performance_Tuning_Practical[20260105004926]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260105004926-53jo)
+- [Briefen.me - AI-Powered URL Shortener That Actually Makes Sense](https://dev.to/ifihan/briefenme-ai-powered-url-shortener-that-actually-makes-sense-1pgm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
