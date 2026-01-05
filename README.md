@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [On‑Premises Kubernetes Networking Architecture: A Comprehensive Architectural Synthesis](https://dev.to/korakrit/on-premises-kubernetes-networking-architecture-a-comprehensive-architectural-synthesis-529o)
-- [I&#39;ll Serve Anything - 24 Hours After Launch](https://dev.to/mikesol/ill-serve-anything-24-hours-after-launch-16dk)
-- [Building Infrastructure for Handling Millions of Bitcoin UTXOs at Scale](https://dev.to/kniraj/building-infrastructure-for-handling-millions-of-bitcoin-utxos-at-scale-4i4g)
-- [Day 0: Starting My DSA Journey](https://dev.to/yash_a989d3c80fefb4c31c8e/day-0-starting-my-dsa-journey-1l0n)
-- [Database Designer - Never Code A Database Again](https://dev.to/walker_dev_1aeb4e99981997/database-designer-never-code-a-database-again-28f5)
+- [Memory Leaks Are Architecture Problems](https://dev.to/vnayak_hejib/memory-leaks-are-architecture-problems-emh)
+- [How I Built My Own Python Full Stack Interview Prep Resources &lpar;And You Can Use Them FREE!&rpar;](https://dev.to/thiyagu26v/how-i-built-my-own-python-full-stack-interview-prep-resources-and-you-can-use-them-free-412a)
+- [Kun-Kay Discount Code : &lpar;AKV&rpar; Get 10% Off On Your Purchase](https://dev.to/referralcode90/kun-kay-discount-code-akv-get-10-off-on-your-purchase-31mb)
+- [Pilate Studio for Modern Strength: Where Precision Meets Mindful Movement](https://dev.to/eternal_wellness_4cb60539/pilate-studio-for-modern-strength-where-precision-meets-mindful-movement-59bc)
+- [Chrome DevTools MCP](https://dev.to/ismailpe/chrome-devtools-mcp-3a5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
