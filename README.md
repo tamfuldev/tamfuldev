@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [-&gt;&gt; Day-15 AWS VPC Peering Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-15-aws-vpc-peering-4ocn)
-- [Building a safer way to manage .env in Laravel — and I’ve just released the public roadmap](https://dev.to/vanni7544/building-a-safer-way-to-manage-env-in-laravel-and-ive-just-released-the-public-roadmap-2hha)
-- [AI Coding Tip 001 - Commit Before Prompt](https://dev.to/mcsee/ai-coding-tip-001-commit-before-prompt-5bd9)
-- [Credit Card Payment Form](https://dev.to/emon_hosen_376f3bcb3a8a54/credit-card-payment-form-2f8g)
-- [BYDFi Invitation Code &#39;&#39;BHRNtVZP&#39;&#39; Get 20% Off On Trading Fees &amp; $4000 Bonus](https://dev.to/referralcode24/bydfi-invitation-code-bhrntvzp-get-20-off-on-trading-fees-4000-bonus-dhb)
+- [Kubernetes Tutorial for Beginners: Basic to Advance](https://dev.to/taniaduggal60/kubernetes-tutorial-for-beginners-basic-to-advance-1a8l)
+- [Building a Local RAG for Agentic Coding: From Fixed Chunks to Semantic Search with Keyword Boost](https://dev.to/shinpr/building-a-local-rag-for-agentic-coding-from-fixed-chunks-to-semantic-search-with-keyword-boost-15m8)
+- [Tutorial: Rethinking dApp Onboarding with Account Abstraction](https://dev.to/freepierce/tutorial-rethinking-dapp-onboarding-with-account-abstraction-5d3)
+- [Free ATS Keyword Extractor &lpar;No Signup&rpar;](https://dev.to/creatoros/free-ats-keyword-extractor-no-signup-41l3)
+- [The Vision Barrier: The Great Filter of the AI Age By Adel Abdel-Dayem Filmmaker | Founder of Sovereign Cinema](https://dev.to/adel_dayem/the-vision-barrier-the-great-filter-of-the-ai-age-by-adel-abdel-dayem-filmmaker-founder-of-55jb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
