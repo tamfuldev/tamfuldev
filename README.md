@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Advice to Junior–Mid Level Engineers: Reality of the Job Market Today](https://dev.to/walosha/advice-to-junior-mid-level-engineers-reality-of-the-job-market-today-437h)
-- [Voice Tech Trends: Beyond Alexa and Siri – Part 1](https://dev.to/adnan_arif_14ae4bc014267f/voice-tech-trends-beyond-alexa-and-siri-part-1-28dl)
-- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
-- [What is Redis and Why to Use Redis?](https://dev.to/joypalumbo/what-is-redis-and-why-to-use-redis-4193)
-- [Why .dev, .app, .page &lpar;and 40+ Other TLDs&rpar; Don&#39;t Respond to WHOIS](https://dev.to/p12se/why-dev-app-page-and-40-other-tlds-dont-respond-to-whois-53n8)
+- [Building a Secure Demo Banking App [Part 1]](https://dev.to/blad90/building-a-secure-demo-banking-app-part-1-1amj)
+- [Bifrost: The fastest way to build AI applications that never go down](https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9)
+- [Message Schema Evolution in RabbitMQ: Using Virtual Hosts as Deployment Boundaries](https://dev.to/ibrahimgunduz34/message-schema-evolution-in-rabbitmq-using-virtual-hosts-as-deployment-boundaries-3fic)
+- [How Exactly  Are AI Models Deployed?](https://dev.to/cyberlord/how-exactly-are-ai-models-deployed-23an)
+- [An open-source, HIPAA-eligible Twilio alternative](https://dev.to/alxwlcx/an-open-source-hipaa-eligible-twilio-alternative-33mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
