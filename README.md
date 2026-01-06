@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Purview em 2026: do “compliance portal” para o control plane de dados na era de IA e agentes](https://dev.to/angelo_matias/purview-em-2026-do-compliance-portal-para-o-control-plane-de-dados-na-era-de-ia-e-agentes-3o5a)
-- [Exploring Runtime Request Inspection in Laravel &lpar;Guards, Contexts, and Tradeoffs&rpar;](https://dev.to/m9nx/exploring-runtime-request-inspection-in-laravel-guards-contexts-and-tradeoffs-4pg9)
-- [Videos: Containers, Codecs, and Protocols — How Motion Becomes Streamable](https://dev.to/cristiansifuentes/videos-containers-codecs-and-protocols-3aeg)
-- [How the .JPG Format Works *Understanding Image Compression Through Human Perception*](https://dev.to/cristiansifuentes/how-the-jpg-format-works-understanding-image-compression-through-human-perception-3032)
-- [Secure and Convenient Keychain Access with Touch ID](https://dev.to/dss99911/secure-and-convenient-keychain-access-with-touch-id-3ffk)
+- [Organizing Architecture Patterns for Triggering AWS Glue Python Shell with S3 Events](https://dev.to/aws-builders/organizing-architecture-patterns-for-triggering-aws-glue-python-shell-with-s3-events-2fll)
+- [What Is a Neural Network? &lpar;From Math to Modern AI&rpar;](https://dev.to/cristiansifuentes/what-is-a-neural-network-from-math-to-modern-ai-87d)
+- [Should I build the same project in multiple web frameworks?](https://dev.to/vulcanwm/should-i-build-the-same-project-in-multiple-web-frameworks-5c55)
+- [Stop re-running the same Ubuntu setup commands: I made a GUI for it](https://dev.to/shakhawat_hossain_068317d/stop-re-running-the-same-ubuntu-setup-commands-i-made-a-gui-for-it-4a5m)
+- [Top 10 Developer Skills Needed in 2026: Staying Ahead in the AI-Driven Era](https://dev.to/niotechone/top-10-developer-skills-needed-in-2026-staying-ahead-in-the-ai-driven-era-32d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
