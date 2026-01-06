@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Tutorial for Beginners: Basic to Advance](https://dev.to/taniaduggal60/kubernetes-tutorial-for-beginners-basic-to-advance-1a8l)
-- [Building a Local RAG for Agentic Coding: From Fixed Chunks to Semantic Search with Keyword Boost](https://dev.to/shinpr/building-a-local-rag-for-agentic-coding-from-fixed-chunks-to-semantic-search-with-keyword-boost-15m8)
-- [Tutorial: Rethinking dApp Onboarding with Account Abstraction](https://dev.to/freepierce/tutorial-rethinking-dapp-onboarding-with-account-abstraction-5d3)
-- [Free ATS Keyword Extractor &lpar;No Signup&rpar;](https://dev.to/creatoros/free-ats-keyword-extractor-no-signup-41l3)
-- [The Vision Barrier: The Great Filter of the AI Age By Adel Abdel-Dayem Filmmaker | Founder of Sovereign Cinema](https://dev.to/adel_dayem/the-vision-barrier-the-great-filter-of-the-ai-age-by-adel-abdel-dayem-filmmaker-founder-of-55jb)
+- [Purview em 2026: do “compliance portal” para o control plane de dados na era de IA e agentes](https://dev.to/angelo_matias/purview-em-2026-do-compliance-portal-para-o-control-plane-de-dados-na-era-de-ia-e-agentes-3o5a)
+- [Exploring Runtime Request Inspection in Laravel &lpar;Guards, Contexts, and Tradeoffs&rpar;](https://dev.to/m9nx/exploring-runtime-request-inspection-in-laravel-guards-contexts-and-tradeoffs-4pg9)
+- [Videos: Containers, Codecs, and Protocols — How Motion Becomes Streamable](https://dev.to/cristiansifuentes/videos-containers-codecs-and-protocols-3aeg)
+- [How the .JPG Format Works *Understanding Image Compression Through Human Perception*](https://dev.to/cristiansifuentes/how-the-jpg-format-works-understanding-image-compression-through-human-perception-3032)
+- [Secure and Convenient Keychain Access with Touch ID](https://dev.to/dss99911/secure-and-convenient-keychain-access-with-touch-id-3ffk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
