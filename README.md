@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a residential management system to fix manual estate management in Nigeria](https://dev.to/naijasolutions/i-built-a-residential-management-system-to-fix-manual-estate-management-in-nigeria-2334)
-- [5 Classic Cars From The 1970s With Sky High Resale Values](https://dev.to/aibuddyinc/5-classic-cars-from-the-1970s-with-sky-high-resale-values-nod)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-lin)
-- [How to Successfully Remove a Password from a PST File Without Data Loss?](https://dev.to/brant_anson_108b6068c996d/how-to-successfully-remove-a-password-from-a-pst-file-without-data-loss-4kb6)
-- [From Messy HTML to AI-Ready News Apps with Firecrawl + Lovable](https://dev.to/ubcodes/from-messy-html-to-ai-ready-news-apps-with-firecrawl-lovable-287f)
+- [Sector HQ Weekly Digest - January 6, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-6-2026-e23)
+- [Boosting Frontend Development Efficiency with Vite and Webpack](https://dev.to/vjnvisakh/boosting-frontend-development-efficiency-with-vite-and-webpack-5ehn)
+- [Recognizing and Diagnosing Complications in Early Pregnancy with Ultrasound](https://dev.to/anjali_kashyap_2838415e05/recognizing-and-diagnosing-complications-in-early-pregnancy-with-ultrasound-1ik9)
+- [11+ Best Open Source Shadcn Dashboard Templates for 2026](https://dev.to/tailwindadmin/best-open-source-shadcn-dashboard-templates-29fb)
+- [Why You Need a WAF with an Intelligent Semantic Analysis Engine](https://dev.to/arina_cholee/why-you-need-a-waf-with-an-intelligent-semantic-analysis-engine-47mk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
