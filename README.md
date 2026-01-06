@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The RGB LED Sidequest 💡](https://dev.to/sigje/the-rgb-led-sidequest-4519)
-- [AI Engineering and Building Systems: Reflections on a Month of AI Engineering with goose by Block](https://dev.to/eriperspective/ai-engineering-and-building-systems-reflections-on-a-month-of-ai-engineering-with-goose-by-block-45jj)
-- [Copy-Paste is Not a Workflow: Building dbt-core-mcp](https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o)
-- [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
-- [Deployment strategies](https://dev.to/jumptotech/deployment-strategies-2oep)
+- [Python Comprehensions Are Declarative &lpar;And Why That Matters&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-comprehensions-are-declarative-and-why-that-matters-17ba)
+- [Kubernetes Rolling Update &amp; Downtime](https://dev.to/jumptotech/kubernetes-rolling-update-downtime-319e)
+- [The Python Matrix Gotcha That Silently Corrupts Your Data](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-matrix-gotcha-that-silently-corrupts-your-data-1h7b)
+- [Why sum&lpar;x**2 for x in range&lpar;1000000&rpar;&rpar; Uses 4000x Less Memory](https://dev.to/samuel_ochaba_eb9c875fa89/why-sumx2-for-x-in-range1000000-uses-4000x-less-memory-4a9p)
+- [Launching a Multilingual, Multi-Currency Classifieds Platform: What We Learned Building Livben](https://dev.to/zkan_yalman_5885b6a14ad4/launching-a-multilingual-multi-currency-classifieds-platform-what-we-learned-building-livben-24kk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
