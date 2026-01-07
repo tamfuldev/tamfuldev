@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop forgetting your work: I built an AI Career Tracker &lpar;GitHub + Jira + Voice&rpar;](https://dev.to/winlanem/stop-forgetting-your-work-i-built-an-ai-career-tracker-github-jira-voice-325b)
-- [Angular: Custom Multi-File Translation Loader for ngx-translate](https://dev.to/gramli/angular-custom-multi-file-translation-loader-for-ngx-translate-2lcd)
-- [HTMX in 2026: Why Hypermedia is Dominating the Modern Web](https://dev.to/del_rosario/htmx-in-2026-why-hypermedia-is-dominating-the-modern-web-41id)
-- [Introducing the Custom Prime-Based Encryption Proof of Concept](https://dev.to/hejhdiss/introducing-the-custom-prime-based-encryption-proof-of-concept-4gni)
-- [I Stopped Fearing Legacy Code Once I Could See Its Dead Parts](https://dev.to/thelivingalgorithms/i-stopped-fearing-legacy-code-once-i-could-see-its-dead-parts-3dba)
+- [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3)
+- [DevRel na prática: meu artigo acadêmico ainda faz sentido em 2026?](https://dev.to/awdren/devrel-na-pratica-meu-artigo-academico-ainda-faz-sentido-em-2026-1j13)
+- [The Service Object Graveyard: Why Your POROs Failed and Handlers Won](https://dev.to/andriybaran/the-service-object-graveyard-why-your-poros-failed-and-handlers-won-2a8j)
+- [Vercel AI SDK Complete Guide: Building Production-Ready AI Chat Apps with Next.js](https://dev.to/pockit_tools/vercel-ai-sdk-complete-guide-building-production-ready-ai-chat-apps-with-nextjs-4cp6)
+- [Pulp Fiction, Star Wars, and Feedback](https://dev.to/mikkergimenez/pulp-fiction-star-wars-and-feedback-5b25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
