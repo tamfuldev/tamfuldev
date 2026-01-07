@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj)
-- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo)
-- [Day 1: The Array Lie &lpar;Arrays vs Pointers in C&rpar;](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89)
-- [The Senior QA’s Manifesto: How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc)
-- [Tmux - less windows, more ⚒](https://dev.to/sushantkulkarni/tmux-less-windows-more-5bhf)
+- [Design Patterns You’ll Actually Use: A No-Nonsense Guide](https://dev.to/thechisomchima/design-patterns-youll-actually-use-a-no-nonsense-guide-4l3l)
+- [My Interview Experience &amp; Questions Faced &lpar;Frontend + JavaScript + SQL&rpar;](https://dev.to/lakshmi_g_74c225d5ca0b272/my-interview-experience-questions-faced-frontend-javascript-sql-1jb4)
+- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-1l6i)
+- [Desmontando RAG, del protocolo rígido a la abstracción flexible](https://dev.to/jjdelcerro/desmontando-rag-del-protocolo-rigido-a-la-abstraccion-flexible-3if8)
+- [How to Find the Symmetric Difference Between Two Arrays in JavaScript](https://dev.to/catherineisonline/how-to-find-the-symmetric-difference-between-two-arrays-in-javascript-gf5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
