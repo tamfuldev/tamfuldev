@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy-First AI Development: Federated Learning and Beyond](https://dev.to/venkatofficial/privacy-first-ai-development-federated-learning-and-beyond-a4j)
-- [Paul E. Yeager, Engineer](https://dev.to/violinkhuba/paul-e-yeager-engineer-2oj5)
-- [2026 New Year Challenge - 5 Projects United Hackathon](https://dev.to/yijun_xu_b7fe5eb3f0427f0a/2026-new-year-challenge-5-projects-united-hackathon-2c97)
-- [Review Coursera Course - Programming with Google Go](https://dev.to/akkaraponph/review-coursera-course-programming-with-google-go-2k37)
-- [Okay, so AI is getting weirdly good now.](https://dev.to/iamibrahimwali/okay-so-ai-is-getting-weirdly-good-now-kpg)
+- [# How APIs Work: A Friendly Dive into Real-Time Magic](https://dev.to/vasughanta09/-how-apis-work-a-friendly-dive-into-real-time-magic-3d2n)
+- [The Conformity Gate Phenomenon: Exploration of Fan Theories Following the Stranger Things Season 5 Finale](https://dev.to/om_shree_0709/the-conformity-gate-phenomenon-exploration-of-fan-theories-following-the-stranger-things-season-5-fia)
+- [Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination](https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g)
+- [Accelerating Large Language Model Decoding with Speculative Sampling](https://dev.to/paperium/accelerating-large-language-model-decoding-with-speculative-sampling-1p)
+- [🎮 Why Simple Web Games Still Work &lpar;and What I Learned Building One&rpar;](https://dev.to/chiragx309/why-simple-web-games-still-work-and-what-i-learned-building-one-64f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
