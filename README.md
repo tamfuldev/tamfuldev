@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Go for Backend Engineering &lpar;Pros, Cons, and Honest Trade-offs&rpar;](https://dev.to/kushalsai/why-i-chose-go-for-backend-engineering-pros-cons-and-honest-trade-offs-jk6)
-- [System Architecture for Startups: Build Fast Without Painting Yourself Into a Corner](https://dev.to/wmdn9116/system-architecture-for-startups-build-fast-without-painting-yourself-into-a-corner-2991)
-- [How I Think About Backend Engineering as a Student](https://dev.to/kushalsai/how-i-think-about-backend-engineering-as-a-student-al8)
-- [🌳 Beginner-Friendly Guide &#39;Maximum Product of Splitted Binary Tree&#39; – LeetCode 1339 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-product-of-splitted-binary-tree-leetcode-1339-c-python-2mo1)
-- [The Skill That Took My Coding Career Further Than Anything Else](https://dev.to/canro91/the-skill-that-took-my-coding-career-further-than-anything-else-2c3n)
+- [Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj)
+- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo)
+- [Day 1: The Array Lie &lpar;Arrays vs Pointers in C&rpar;](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89)
+- [The Senior QA’s Manifesto: How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc)
+- [Tmux - less windows, more ⚒](https://dev.to/sushantkulkarni/tmux-less-windows-more-5bhf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
