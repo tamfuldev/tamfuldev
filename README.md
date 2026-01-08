@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs training on themselves: a quality-degredation loop for code](https://dev.to/intercepted16/llms-training-on-themselves-a-self-inbreeding-loop-for-code-5gaf)
-- [When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8)
-- [Optimizing JSON for LLMs](https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf)
-- [🚀 My DevOps Journey: From Learning to Building on AWS with Containers](https://dev.to/devopsexpertlearning/my-devops-journey-from-learning-to-building-on-aws-with-containers-1lnm)
-- [The Ultimate Guide to Terraform Drift Detection: How to Detect, Prevent, and Remediate Infrastructure Drift](https://dev.to/env0/the-ultimate-guide-to-terraform-drift-detection-how-to-detect-prevent-and-remediate-5hji)
+- [Commit Message Format](https://dev.to/akkaraponph/commit-message-format-5fl5)
+- [CES 2026: Why the &quot;Smart Home&quot; is Becoming a Cyber Security Dumpster Fire](https://dev.to/zerotrustzeroenergy/ces-2026-why-the-smart-home-is-becoming-a-cyber-security-dumpster-fire-29aa)
+- [A Practical Roadmap to Becoming an AI Engineer](https://dev.to/blessing_njoku/a-practical-roadmap-to-becoming-an-ai-engineer-1chi)
+- [Lessons from building a Solana project using iPhone](https://dev.to/mukesh-ranjan-dev/lessons-from-building-a-solana-project-using-iphone-2ck3)
+- [My Exam Experience: AWS Certified Generative AI Developer - Professional](https://dev.to/xmabry/my-exam-experience-aws-certified-generative-ai-developer-professional-5h18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
