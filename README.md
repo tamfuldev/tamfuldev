@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Offline License Activation with QR Codes: Serving Air-Gapped Environments in C#](https://dev.to/olivier_moussalli_e3492f5/offline-license-activation-with-qr-codes-serving-air-gapped-environments-in-c-1c5k)
-- [Building a Production-Ready Prediction Market Smart Contract in Solidity: Complete Guide with Foundry](https://dev.to/sivarampg/building-a-production-ready-prediction-market-smart-contract-in-solidity-complete-guide-with-2iio)
-- [Building a Prediction Market on Solana with Anchor: Complete Rust Smart Contract Guide](https://dev.to/sivarampg/building-a-prediction-market-on-solana-with-anchor-complete-rust-smart-contract-guide-3pbo)
-- [Reading Contract State at a Past Block Using Wagmi](https://dev.to/obiwale_ayomide_cdcf8b961/reading-contract-state-at-a-past-block-using-wagmi-chainlink-price-feeds-4k7m)
-- [Understanding useRef in React &lpar;Without the Confusion&rpar;](https://dev.to/nahidulislam/understanding-useref-in-react-without-the-confusion-1d1o)
+- [Memoization in React: Or How I Thought I Optimized My App &lpar;But Mostly Just Felt Productive&rpar;](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72)
+- [Building domharvest-playwright: Why I Chose Simplicity Over Complexity](https://dev.to/domharvest/building-domharvest-playwright-why-i-chose-simplicity-over-complexity-5f3g)
+- [Congrats to the AI Agents Intensive Course Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-ai-agents-intensive-course-writing-challenge-winners-1969)
+- [Building a performative React Native app](https://dev.to/ponikar/building-a-performative-react-native-app-3klh)
+- [Beyond RAG: Building Intelligent Memory Systems for AI Agents](https://dev.to/matteo_tuzi_db01db7df0671/beyond-rag-building-intelligent-memory-systems-for-ai-agents-3kah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
