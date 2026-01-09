@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Agile Estimation Is Theater &lpar;And What To Do Instead&rpar;](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7)
-- [Zoneless Angular Explained — How Change Detection Works Without Zone.js](https://dev.to/mridudixit15/zoneless-angular-explained-how-change-detection-works-without-zonejs-1ahp)
-- [I&#39;m in 3rd Year - Here&#39;s My Complete OS Guide for Campus Placements 📚](https://dev.to/rajat128/im-in-3rd-year-heres-my-complete-os-guide-for-campus-placements-2kp2)
-- [Vectra — The Unified Vector Database Client for Ruby](https://dev.to/stokry/vectra-the-unified-vector-database-client-for-ruby-3mj6)
-- [Volunteering at FOSDEM: my best way to experience the conference](https://dev.to/edithturn/volunteering-at-fosdem-my-best-way-to-experience-the-conference-2ph3)
+- [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
+- [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
+- [The FAANG is dead! 💀](https://dev.to/alexr/faang-is-dead-2e1i)
+- [Mitigating Human-Driven AI Misuse in Generative Systems](https://dev.to/shravani_86c94d4b283541f3/mitigating-human-driven-ai-misuse-in-generative-systems-2j1o)
+- [Building an Autonomous Template Business, kind of.](https://dev.to/ssong/building-an-autonomous-template-business-kind-of-11el)
 <!-- BLOG-POST-LIST:END -->
 
 ---
