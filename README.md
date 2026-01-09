@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code](https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb)
-- [Learnings from 2026 January 3-9](https://dev.to/geewey/learnings-from-2026-january-3-9-1be6)
-- [AI Assistants and the Drift Into Dependency](https://dev.to/korovamode/ai-assistants-and-the-drift-into-dependency-4dn)
-- [Getting Started with Amazon CloudWatch for Beginners](https://dev.to/gayatri_sonawane_003/getting-started-with-amazon-cloudwatch-for-beginners-2if0)
-- [A Practical Guide to Building Your First Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
+- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
+- [Angular Signal Forms: How to Structure Large Forms Without Losing Your Mind](https://dev.to/brianmtreese/angular-signal-forms-how-to-structure-large-forms-without-losing-your-mind-5af)
+- [Creating Materials in Unreal Engine 5 and Understanding ORM Textures &lpar;Day 14&rpar;](https://dev.to/dinesh_04/creating-materials-in-unreal-engine-5-and-understanding-orm-textures-day-14-11mb)
+- [EventBus](https://dev.to/zawhtutwin/eventbus-2n81)
+- [🚀 Introducing LoongFlow — A Cognitive Evolutionary AI Framework &lpar;Open Source&rpar;](https://dev.to/freshmand/introducing-loongflow-a-cognitive-evolutionary-ai-framework-open-source-2dp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
