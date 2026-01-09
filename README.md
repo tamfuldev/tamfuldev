@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why most businesses don’t actually need a “unique” backend](https://dev.to/oneentry/why-most-businesses-dont-actually-need-a-unique-backend-4j4m)
-- [I Built a GitHub Action That Uses AI to Explain Why Your CI Failed](https://dev.to/filip_galic_ea8cda420d800/i-built-a-github-action-that-uses-ai-to-explain-why-your-ci-failed-1ln)
-- [Outside of Learning](https://dev.to/richardpascoe/outside-of-learning-32ph)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 6&rpar;: Moving Characters](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-6-moving-characters-1kla)
-- [HA K8s cluster using Keepalived and HAProxy](https://dev.to/achu1612/ha-k8s-cluster-using-keepalived-and-haproxy-439)
+- [Building a SCSS Dependency Analyzer in Rust](https://dev.to/emiliodominguez/building-a-scss-dependency-analyzer-in-rust-learnings-log-1lin)
+- [How I build Rikta: a Zero-Config TypeScript Backend Framework](https://dev.to/argonauta/how-i-build-rikta-a-zero-config-typescript-backend-framework-1ek8)
+- [How to Deploy Alpaca’s MCP Server Remotely On Claude Mobile App](https://dev.to/alpaca/how-to-deploy-alpacas-mcp-server-remotely-on-claude-mobile-app-4im0)
+- [Built a Netflix Clone](https://dev.to/bibashmanjusubedi/built-a-netflix-clone-4k3o)
+- [🧠 I No Longer See Software as “Just Software”](https://dev.to/fadydesokysaeedabdelaziz/i-no-longer-see-software-as-just-software-2765)
 <!-- BLOG-POST-LIST:END -->
 
 ---
