@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The only python GUI library you will need in 2026...](https://dev.to/scriptor/the-only-python-gui-library-you-will-need-in-2026-14d1)
-- [Tech Stack Lessons from scaling 20x in a year](https://dev.to/code42cate/tech-stack-lessons-from-scaling-20x-in-a-year-1ekh)
-- [Build an Influencer Fake Follower Detector with Node.js](https://dev.to/olams/build-an-influencer-fake-follower-detector-with-nodejs-344p)
-- [When client-side entity normalization actually becomes necessary in large React Native apps](https://dev.to/vasyl_kostin_477da9586e09/when-client-side-entity-normalization-actually-becomes-necessary-in-large-react-native-apps-50dg)
-- [Stop Writing Srcset Manually: The Ultimate Image Solution for Symfony](https://dev.to/jozef_mstka_2e5c025a9378/stop-writing-srcset-manually-the-ultimate-image-solution-for-symfony-59cn)
+- [How to Review AI‑Generated Solidity Like an Auditor &lpar;For Beginners&rpar;](https://dev.to/ribhavmodi/how-to-review-ai-generated-solidity-like-an-auditor-for-beginners-o30)
+- [I Reviewed 50 Junior Developer Resumes — Here’s What Actually Works](https://dev.to/resumemind/i-reviewed-50-junior-developer-resumes-heres-what-actually-works-4njf)
+- [JAVA INTERNALS: JDK, JRE, JVM, and JIT!](https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp)
+- [Italian Pasta in Brampton](https://dev.to/fanzorellis/italian-pasta-in-brampton-4olp)
+- [Free Resume Bullet Rewriter &lpar;Impact-Focused&rpar;](https://dev.to/creatoros/free-resume-bullet-rewriter-impact-focused-3b35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
