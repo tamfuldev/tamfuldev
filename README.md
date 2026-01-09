@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [December 2025 VS Code Update &lpar;Version 1.108&rpar; – What’s New and Why It Matters](https://dev.to/hamidrazadev/december-2025-vs-code-update-version-1108-whats-new-and-why-it-matters-2o7f)
-- [🚀 My Journey into Data Science as a Student](https://dev.to/rc18/my-journey-into-data-science-as-a-student-6e)
-- [digital marketing](https://dev.to/junaid_rana_8d7c910ac89b7/digital-marketing-260j)
-- [Two Pointers &lpar;Opposite Ends&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-opposite-ends-40na)
-- [Go&#39;s Defer: Simple Rules, Deep Runtime Truths with intuitions.](https://dev.to/saifulire/gos-defer-complex-thing-in-simple-manner-with-low-level-intuitions-43gj)
+- [The only python GUI library you will need in 2026...](https://dev.to/scriptor/the-only-python-gui-library-you-will-need-in-2026-14d1)
+- [Tech Stack Lessons from scaling 20x in a year](https://dev.to/code42cate/tech-stack-lessons-from-scaling-20x-in-a-year-1ekh)
+- [Build an Influencer Fake Follower Detector with Node.js](https://dev.to/olams/build-an-influencer-fake-follower-detector-with-nodejs-344p)
+- [When client-side entity normalization actually becomes necessary in large React Native apps](https://dev.to/vasyl_kostin_477da9586e09/when-client-side-entity-normalization-actually-becomes-necessary-in-large-react-native-apps-50dg)
+- [Stop Writing Srcset Manually: The Ultimate Image Solution for Symfony](https://dev.to/jozef_mstka_2e5c025a9378/stop-writing-srcset-manually-the-ultimate-image-solution-for-symfony-59cn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
