@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 7&rpar;: Control the Character](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-7-control-the-character-3kdj)
-- [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
-- [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
-- [This will be your last resume template](https://dev.to/beingwizard/this-will-be-your-last-resume-template-3ola)
+- [Why I built an open-source benchmark reference UI - and what I refused to add](https://dev.to/albert_albert_b9d1ab0fa5a/why-i-built-an-open-source-benchmark-reference-ui-and-what-i-refused-to-add-3f19)
+- [How Code-Executing AI Agents are Making 128K Context Windows Obsolete](https://dev.to/deviprasadshetty/how-code-executing-ai-agents-are-making-128k-context-windows-obsolete-5dk)
+- [Dynamic Color Palette Generator](https://dev.to/liton_ali/dynamic-color-palette-generator-39e9)
+- [Story of T-Apex: Zero Ideas, 24 Hours, and One Crazy Pivot to the Top 10.](https://dev.to/ankit_rattan/story-of-t-apex-zero-ideas-24-hours-and-one-crazy-pivot-to-the-top-10-25bo)
+- [🚀 **Minimalist &amp; Fast: My Developer Portfolio on Google Cloud Run**](https://dev.to/donghun_leedavidlee_0/minimalist-fast-my-developer-portfolio-on-google-cloud-run-1k63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
