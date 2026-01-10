@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging LLMs and Design Systems via MCP: Implementing a Community Figma MCP Server for Generative Design](https://dev.to/om_shree_0709/bridging-llms-and-design-systems-via-mcp-implementing-a-community-figma-mcp-server-for-generative-2ig2)
-- [Introducing Neon Protocol: The Cyberpunk Theme Your VS Code Needs](https://dev.to/fytroy/introducing-neon-protocol-the-cyberpunk-theme-your-vs-code-needs-4h8p)
-- [Local networks are fragile. Personal networks are not.](https://dev.to/mrmatt/local-networks-are-fragile-personal-networks-are-not-4c70)
-- [Cyclic Sort Made Simple: Learn the Basics and How It Works](https://dev.to/saptarshisarkar/cyclic-sort-made-simple-learn-the-basics-and-how-it-works-2ikp)
-- [Designing APIs That Are Hard to Misuse](https://dev.to/speaklouder/designing-apis-that-are-hard-to-misuse-5d6b)
+- [DevLog 20260110: Motivations for Methodox Threads - A Conversation Management Tool](https://dev.to/methodox/devlog-20260110-motivations-for-methodox-threads-a-conversation-management-tool-45c2)
+- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 3/7: Add the Clerk API Key](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-37-add-clerk-api-key-584b)
+- [The Most Important Decision You&#39;ll Make as an Engineer This Year](https://dev.to/ttoss/the-most-important-decision-youll-make-as-an-engineer-this-year-4fob)
+- [Under-presentation of Swahili in AI tasks](https://dev.to/eddiegulay/underpresentation-of-swahili-in-ai-tasks-4d44)
+- [Skin In The Game](https://dev.to/jakepage91/skin-in-the-game-4686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
