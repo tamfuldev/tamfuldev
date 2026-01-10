@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running on our backup wifi. Sky Fiber sucks](https://dev.to/highcenburg/running-on-our-backup-wifi-sky-fiber-sucks-4d1d)
-- [🌈 Looking for Guidance: I’m Building an HRT Journey Tracker Suite, but I’m Stuck](https://dev.to/codebunny20/looking-for-guidance-im-building-an-hrt-journey-tracker-suite-but-im-stuck-3em1)
-- [🧶 Beginner-Friendly Guide &#39;Minimum ASCII Delete Sum for Two Strings&#39; – LeetCode 712 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-ascii-delete-sum-for-two-strings-leetcode-712-c-python-4eeh)
-- [🚨 AWS 130: Routing the Private Way - Implementing a NAT Instance](https://dev.to/hritikraj8804/aws-130-routing-the-private-way-implementing-a-nat-instance-1c9j)
-- [Page Tables: A Love Story &lpar;It&#39;s Not&rpar;](https://dev.to/florent_herisson_691b0bac/page-tables-a-love-story-its-not-4286)
+- [How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5)
+- [KRACK Attack - When WPA2 Was Not as Safe as We Thought](https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g)
+- [Rust Series01 - Ownership is what you need to know](https://dev.to/kevinsheeranxyj/rust-series01-ownership-is-what-you-need-to-know-2ikm)
+- [Can AI Really Build Your App From Just a Vibe?](https://dev.to/aiwithapex/can-ai-really-build-your-app-from-just-a-vibe-5640)
+- [How to Cut Your AI Costs in Half While Doubling Performance](https://dev.to/debmckinney/how-to-cut-your-ai-costs-in-half-while-doubling-performance-59f9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
