@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.](https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1)
-- [I got tired of memorizing swaggo comment order, so I made this](https://dev.to/narubrown/i-got-tired-of-memorizing-swaggo-comment-order-so-i-made-this-2gd0)
-- [Release Week From Hell: Clean code + automation for shipping Flutter apps](https://dev.to/dowhatmatters/release-week-from-hell-clean-code-automation-for-shipping-flutter-apps-525l)
-- [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi/building-an-ai-matching-engine-without-big-tech-resources-4490)
-- [Kubernetes Networking — Broken Labs &amp; Incident Response](https://dev.to/jumptotech/kubernetes-networking-devops-production-guide-44k6)
+- [Essential DevOps Tools for macOS](https://dev.to/joachim8675309/essential-devops-tools-for-macos-53m2)
+- [What Happens When a Classic Game Meets Modern Multiplayer and Web3 Utility?](https://dev.to/mxr_token_93ef3fc4aba5559/what-happens-when-a-classic-game-meets-modern-multiplayer-and-web3-utility-5db1)
+- [I Built a Reddit Keyword Monitoring System. Here&#39;s What Actually Works.](https://dev.to/short_playskits_ab152535/i-built-a-reddit-keyword-monitoring-system-heres-what-actually-works-58b7)
+- [Stop Manually Booking Doctors: Build an Autonomous Health Agent with LangGraph &amp; Playwright](https://dev.to/beck_moulton/stop-manually-booking-doctors-build-an-autonomous-health-agent-with-langgraph-playwright-jgb)
+- [Vibecoding as a Legitimate Way to Bring Ideas to Life](https://dev.to/neuralmethod/vibecoding-as-a-legitimate-way-to-bring-ideas-to-life-1j70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
