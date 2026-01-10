@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20260110: Motivations for Methodox Threads - A Conversation Management Tool](https://dev.to/methodox/devlog-20260110-motivations-for-methodox-threads-a-conversation-management-tool-45c2)
-- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 3/7: Add the Clerk API Key](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-37-add-clerk-api-key-584b)
-- [The Most Important Decision You&#39;ll Make as an Engineer This Year](https://dev.to/ttoss/the-most-important-decision-youll-make-as-an-engineer-this-year-4fob)
-- [Under-presentation of Swahili in AI tasks](https://dev.to/eddiegulay/underpresentation-of-swahili-in-ai-tasks-4d44)
-- [Skin In The Game](https://dev.to/jakepage91/skin-in-the-game-4686)
+- [Complete Guide to Setting Up Claude Code Router with Qwen on macOS](https://dev.to/hamza_khan_d2f1854314be1f/complete-guide-to-setting-up-claude-code-router-with-qwen-on-macos-a89)
+- [Kanban vs Scrum: Why Flow Beats Theater for Real Delivery](https://dev.to/ghostinit0x/kanban-vs-scrum-why-flow-beats-theater-for-real-delivery-56oa)
+- [Built My Portfolio with Google&#39;s AI Code Agent &amp; Cloud Run - What Took Me Days Now Takes an Hour ⚡](https://dev.to/hongming_wang_bdb8eb8d379/built-my-portfolio-with-googles-ai-code-agent-cloud-run-what-took-me-days-now-takes-an-hour-5d89)
+- [Setting Up Obsidian on Ubuntu and Syncing with Git &amp; Android &lpar;Step-by-Step&rpar;](https://dev.to/dassa_das/setting-up-obsidian-on-ubuntu-and-syncing-with-git-android-step-by-step-3ca7)
+- [Connecting LLMs to my debugging flow to fix a memory crash](https://dev.to/dejavo/connecting-llms-to-my-debugging-flow-to-fix-a-memory-crash-3nac)
 <!-- BLOG-POST-LIST:END -->
 
 ---
