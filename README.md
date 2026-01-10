@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Essential DevOps Tools for macOS](https://dev.to/joachim8675309/essential-devops-tools-for-macos-53m2)
-- [What Happens When a Classic Game Meets Modern Multiplayer and Web3 Utility?](https://dev.to/mxr_token_93ef3fc4aba5559/what-happens-when-a-classic-game-meets-modern-multiplayer-and-web3-utility-5db1)
-- [I Built a Reddit Keyword Monitoring System. Here&#39;s What Actually Works.](https://dev.to/short_playskits_ab152535/i-built-a-reddit-keyword-monitoring-system-heres-what-actually-works-58b7)
-- [Stop Manually Booking Doctors: Build an Autonomous Health Agent with LangGraph &amp; Playwright](https://dev.to/beck_moulton/stop-manually-booking-doctors-build-an-autonomous-health-agent-with-langgraph-playwright-jgb)
-- [Vibecoding as a Legitimate Way to Bring Ideas to Life](https://dev.to/neuralmethod/vibecoding-as-a-legitimate-way-to-bring-ideas-to-life-1j70)
+- [Unraveling the Node.js Event Loop: The Asynchronous Heartbeat That Powers Your Code](https://dev.to/patdev/unraveling-the-nodejs-event-loop-the-asynchronous-heartbeat-that-powers-your-code-42jk)
+- [A beginner&#39;s guide to the Animagine-Xl-V4-Opt model by Aisha-Ai-Official on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-animagine-xl-v4-opt-model-by-aisha-ai-official-on-replicate-1077)
+- [I thought Vercel&#39;s backend was just like another backend...](https://dev.to/softwarejutsu/i-thought-vercels-backend-was-just-like-another-backend-328f)
+- [VMware&#39;s Market Dominance Has Created a Catastrophic Single Point of Failure](https://dev.to/zeroblind25/vmwares-market-dominance-has-created-a-catastrophic-single-point-of-failure-86o)
+- [stangri&#39;s OpenWrt packages updates](https://dev.to/stangri/stangris-openwrt-packages-updates-4icf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
