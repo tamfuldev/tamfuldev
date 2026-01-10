@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built an open-source benchmark reference UI - and what I refused to add](https://dev.to/albert_albert_b9d1ab0fa5a/why-i-built-an-open-source-benchmark-reference-ui-and-what-i-refused-to-add-3f19)
-- [How Code-Executing AI Agents are Making 128K Context Windows Obsolete](https://dev.to/deviprasadshetty/how-code-executing-ai-agents-are-making-128k-context-windows-obsolete-5dk)
-- [Dynamic Color Palette Generator](https://dev.to/liton_ali/dynamic-color-palette-generator-39e9)
-- [Story of T-Apex: Zero Ideas, 24 Hours, and One Crazy Pivot to the Top 10.](https://dev.to/ankit_rattan/story-of-t-apex-zero-ideas-24-hours-and-one-crazy-pivot-to-the-top-10-25bo)
-- [🚀 **Minimalist &amp; Fast: My Developer Portfolio on Google Cloud Run**](https://dev.to/donghun_leedavidlee_0/minimalist-fast-my-developer-portfolio-on-google-cloud-run-1k63)
+- [How I Built an Orchestrator-Worker System for Claude Code](https://dev.to/mohamed9974/how-i-built-an-orchestrator-worker-system-for-claude-code-2i37)
+- [VitaGuard: My First Real-Time Linux System Health Monitor in Bash](https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm)
+- [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
+- [AWS Cheat Sheet](https://dev.to/varalakshmi/aws-cheat-sheet-l81)
+- [EP 8: The Legend of &quot;ShopStream&quot;: A Tale of Two Architectures](https://dev.to/hrishikesh_dalal_ced8f95e/ep-8-the-legend-of-shopstream-a-tale-of-two-architectures-phn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
