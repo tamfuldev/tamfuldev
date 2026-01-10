@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linux File System Architecture: A Deep Dive into VFS, Inodes, and Storage](https://dev.to/kanywst/linux-file-system-architecture-a-deep-dive-into-vfs-inodes-and-storage-1n9)
-- [The “AI operator” mindset for small teams](https://dev.to/jaideepparashar/the-ai-operator-mindset-for-small-teams-oo7)
-- [The Axiology of War and Peace: A Modern Lesson from Sun Wu](https://dev.to/fundacjadobrepanstwo/the-axiology-of-war-and-peace-a-modern-lesson-from-sun-wu-4db9)
-- [7 AI Companion App Secrets to Build a Deeper Connection in 2026](https://dev.to/anas_kayssi/7-ai-companion-app-secrets-to-build-a-deeper-connection-in-2026-59cj)
-- [Unraveling the Node.js Event Loop: The Asynchronous Heartbeat That Powers Your Code](https://dev.to/patdev/unraveling-the-nodejs-event-loop-the-asynchronous-heartbeat-that-powers-your-code-42jk)
+- [Bit Fields in C Explained: How They Work and Why They Matter](https://dev.to/amanprasad/bit-fields-in-c-explained-how-they-work-and-why-they-matter-34i9)
+- [Setting Up Jenkins SSH Build Agents: A Complete Troubleshooting Guide](https://dev.to/faruq2991/setting-up-jenkins-ssh-build-agents-a-complete-troubleshooting-guide-3pl)
+- [What Business Owners Thought AI Would Be, Why It Didn’t Work, And Why the Canonical Intelligence Layer &lpar;CIL&rpar; Changes Everything](https://dev.to/michal_harcej/what-business-owners-thought-ai-would-be-why-it-didnt-work-and-why-the-canonical-intelligence-2lfn)
+- [vLLM Quickstart: High-Performance LLM Serving](https://dev.to/rosgluk/vllm-quickstart-high-performance-llm-serving-9l)
+- [The Mute Agent: Why Your AI Needs to Shut Up and Listen to the Graph](https://dev.to/mosiddi/the-mute-agent-why-your-ai-needs-to-shut-up-and-listen-to-the-graph-1j60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
