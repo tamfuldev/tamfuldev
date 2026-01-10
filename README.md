@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5)
-- [KRACK Attack - When WPA2 Was Not as Safe as We Thought](https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g)
-- [Rust Series01 - Ownership is what you need to know](https://dev.to/kevinsheeranxyj/rust-series01-ownership-is-what-you-need-to-know-2ikm)
-- [Can AI Really Build Your App From Just a Vibe?](https://dev.to/aiwithapex/can-ai-really-build-your-app-from-just-a-vibe-5640)
-- [How to Cut Your AI Costs in Half While Doubling Performance](https://dev.to/debmckinney/how-to-cut-your-ai-costs-in-half-while-doubling-performance-59f9)
+- [[Boost]](https://dev.to/itsugo/-2n2g)
+- [Kubernetes Gateway API on AKS Exposed via Azure Application Gateway](https://dev.to/shanaka_jayasundera_b4071/kubernetes-gateway-api-on-aks-exposed-via-azure-application-gateway-50bo)
+- [5 Ways a Standup Bot with Task Tracker Integration Crushes Traditional Standups](https://dev.to/standupify/5-ways-a-standup-bot-with-task-tracker-integration-crushes-traditional-standups-2dpk)
+- [The Quiet Shift: From Chrome&#39;s Noise to Thorium&#39;s Silence](https://dev.to/linfinitydev/the-quiet-shift-from-chromes-noise-to-thoriums-silence-31cl)
+- [🔐 TLS Termination Models - SSL Passthrough vs SSL Termination &lpar;Offloading&rpar; vs SSL Bridging &lpar;Re-Encryption&rpar;](https://dev.to/sharonkynu/tls-termination-models-ssl-passthrough-vs-ssl-termination-offloading-vs-ssl-bridging-39ck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
