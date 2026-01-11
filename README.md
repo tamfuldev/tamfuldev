@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
-- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
-- [Coding Challenge Practice - Question 99](https://dev.to/tomivan/coding-challenge-practice-question-99-2il6)
-- [Das Coder Labor Ihre zentrale Anlaufstelle für PHP Entwicklung und Community](https://dev.to/phppower/das-coder-labor-ihre-zentrale-anlaufstelle-fur-php-entwicklung-und-community-21l2)
-- [Build a Robust Offline-First Flutter App with BLoC, Dio, and Sqflite](https://dev.to/ghamdandev/build-a-robust-offline-first-flutter-app-with-bloc-dio-and-sqflite-51f5)
+- [Building PathCraft: An Open-Source Routing Engine in Go](https://dev.to/danielscoffee/building-pathcraft-an-open-source-routing-engine-in-go-4had)
+- [Kubernetes Persistence Series Part 3: Controllers &amp; Resilience — Why Kubernetes Self-Heals](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-3-controllers-resilience-why-kubernetes-self-heals-392b)
+- [Upskilling in AI: Unconventional Prompt Use](https://dev.to/mentalquill/upskilling-in-ai-unconventional-prompt-use-4p79)
+- [Kubernetes Persistence Series Part 2: The Foundation — From systemd to Control Plane](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-2-the-foundation-from-systemd-to-control-plane-2464)
+- [Kubernetes Persistence Series Part 1: When Our Ingress Vanished After a Node Upgrade](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-1-when-our-ingress-vanished-after-a-node-upgrade-17li)
 <!-- BLOG-POST-LIST:END -->
 
 ---
