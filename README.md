@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building PathCraft: An Open-Source Routing Engine in Go](https://dev.to/danielscoffee/building-pathcraft-an-open-source-routing-engine-in-go-4had)
-- [Kubernetes Persistence Series Part 3: Controllers &amp; Resilience — Why Kubernetes Self-Heals](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-3-controllers-resilience-why-kubernetes-self-heals-392b)
-- [Upskilling in AI: Unconventional Prompt Use](https://dev.to/mentalquill/upskilling-in-ai-unconventional-prompt-use-4p79)
-- [Kubernetes Persistence Series Part 2: The Foundation — From systemd to Control Plane](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-2-the-foundation-from-systemd-to-control-plane-2464)
-- [Kubernetes Persistence Series Part 1: When Our Ingress Vanished After a Node Upgrade](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-1-when-our-ingress-vanished-after-a-node-upgrade-17li)
+- [Devs &amp; Small businesses don’t lose trust because they lack AI. They lose trust when they use AI carelessly.](https://dev.to/jaideepparashar/devs-small-businesses-dont-lose-trust-because-they-lack-ai-they-lose-trust-when-they-use-ai-1nfn)
+- [The minimum ethics checklist for Devs &amp; Small Businesses](https://dev.to/jaideepparashar/the-minimum-ethics-checklist-for-small-businesses-12gm)
+- [Qué es CAI-EXPERT-LAB — y qué no es](https://dev.to/antonio_socorro_95e3ff086/que-es-cai-expert-lab-y-que-no-es-ba0)
+- [All you need to know and to get started building your first MCP 🤖](https://dev.to/wildanzr/all-you-need-to-know-and-to-get-started-building-your-first-mcp-5766)
+- [Real-Time is an SLA, Not an Architecture: When You Actually Need Kafka &lpar;And When You Don&#39;t&rpar;](https://dev.to/qvfagundes/real-time-is-an-sla-not-an-architecture-when-you-actually-need-kafka-and-when-you-dont-4ecb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
