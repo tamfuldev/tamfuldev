@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
-- [Why Your AI Agents Need a Shell &lpar;And How to Give Them One Safely&rpar;](https://dev.to/salahpichen/why-your-ai-agents-need-a-shell-and-how-to-give-them-one-safely-3jj8)
-- [50+ Common Web Application Vulnerabilities Explained](https://dev.to/morrismoses149/50-common-web-application-vulnerabilities-explained-2mmn)
-- [The Invisible Hand That Fed Us](https://dev.to/adamthedeveloper/the-invisible-hand-that-fed-us-2pd2)
-- [Level 1 - Foundations #1. Client-Server Model](https://dev.to/himanshu_bhatt/level-1-foundations-1-client-server-model-f19)
+- [Introduction to DevOps #1. What is DevOps](https://dev.to/himanshu_bhatt/introduction-to-devops-1-what-is-devops-5h6l)
+- [Your Proxy Should Only Allow Requests with a Custom Header — How Do You Do It in Apigee X?](https://dev.to/realnamehidden1_61/your-proxy-should-only-allow-requests-with-a-custom-header-how-do-you-do-it-in-apigee-x-58b2)
+- [How to Create a Next.js Blog - Part 2: Table of Contents, Search, and Categories](https://dev.to/rait_761f9a208b66707c899/how-to-create-a-nextjs-blog-part-2-table-of-contents-search-and-categories-1j8l)
+- [JSON vs. XML for APIs: Key Differences Explained for Beginners](https://dev.to/codeitbro/json-vs-xml-for-apis-key-differences-explained-for-beginners-4mhj)
+- [Why Fast Page Loads Don’t Always Mean Fast User Experience](https://dev.to/ar_abid_641aa302d5c68b2ae/why-fast-page-loads-dont-always-mean-fast-user-experience-55eb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
