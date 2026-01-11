@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nightbird07/-176c)
-- [Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance](https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an)
-- [O&lpar;1&rpar; Country Selection on a 3D Globe with GPU Picking and Hemisphere Detection](https://dev.to/emmanueln07/o1-country-selection-on-a-3d-globe-with-gpu-picking-and-hemisphere-detection-21ib)
-- [The Complete Guide to Prometheus Metric Types](https://dev.to/sunnynazar/the-complete-guide-to-prometheus-metric-types-promql-alerting-and-troubleshooting-5a69)
-- [Beyond &#39;Correct Horse Battery Staple&#39;: Passphrases in Inflected Languages](https://dev.to/tlipinski/beyond-correct-horse-battery-staple-passphrases-in-inflected-languages-1og4)
+- [AI is changing how we build software: here&#39;s how to do it safely](https://dev.to/colosl/ai-is-changing-how-we-build-software-heres-how-to-do-it-safely-3cf4)
+- [My Phone, Claude Code, and Me](https://dev.to/sijiaoh/my-phone-claude-code-and-me-373g)
+- [We Didn’t “Align” — We Argued &lpar;and Shipped a Better System&rpar;](https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818)
+- [I Built a Mock API Platform in 2.5 Months &lpar;Django + React + Redis + PostgreSQL&rpar;](https://dev.to/marcuscodes/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql-4n43)
+- [Turning a 2013 Dell E6540 into a Dedicated TV Media Controller](https://dev.to/anand_rathnas_d5b608cc3de/turning-a-2013-dell-e6540-into-a-dedicated-tv-media-controller-4pmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
