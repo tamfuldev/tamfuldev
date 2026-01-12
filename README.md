@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Video Platforms Show Instant Hover Previews Using Sprite Sheets in Node.js](https://dev.to/speaklouder/how-video-platforms-show-instant-hover-previews-using-sprite-sheets-in-nodejs-2l0l)
-- [Custom Language Architecture for Low-End NeuroShellOS: A Design Proposal](https://dev.to/hejhdiss/custom-language-architecture-for-low-end-neuroshellos-a-design-proposal-2op)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 9&rpar;: Shooting Bullets](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-9-shooting-bullets-1eof)
-- [What are your goals for the week? #161](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-161-3jfn)
-- [Java Variables](https://dev.to/kesavarthini/java-variables-2iod)
+- [I Let an AI Agent Rebuild My Portfolio: Here’s How Antigravity + Gemini Did It](https://dev.to/nhi_ng/i-let-an-ai-agent-rebuild-my-portfolio-heres-how-antigravity-gemini-did-it-4fep)
+- [From Writing Code to Teaching AI: The Rise of the AI-Assisted Developer](https://dev.to/amitshri05/from-writing-code-to-teaching-ai-the-rise-of-the-ai-assisted-developer-4llg)
+- [Claude-Gemini Integration Tool &quot;CGMB&quot; v1.1.0: Implementing Windows Support](https://dev.to/ryoto_miyake/claude-gemini-integration-tool-cgmb-v110-implementing-windows-support-kcj)
+- [Network Support Chatbot](https://dev.to/enmedina/network-support-chatbot-m1l)
+- [Building EmbedQA: An Open Source API Testing Tool with Spring Boot 🚀](https://dev.to/akash_bhuiyan_95c5dbf3b53/building-embedqa-an-open-source-api-testing-tool-with-spring-boot-cbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
