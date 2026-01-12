@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built an agent that turns customer calls into Linear tickets](https://dev.to/toriseidenstein/i-built-an-agent-that-turns-customer-calls-into-linear-tickets-39mc)
-- [Seeking Peer Connections for CodeChat P2P Testing](https://dev.to/bingkahu/seeking-peer-connections-for-codechat-p2p-testing-4inh)
-- [Find All Duplicate Elements in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/find-all-duplicate-elements-in-an-array-c-p19)
-- [AI in Assistive Technologies for People with Visual Impairments](https://dev.to/tatyanabayramova/ai-in-assistive-technologies-for-people-with-visual-impairments-3peh)
-- [User flows are the new apps](https://dev.to/bd_perez/user-flows-are-the-new-apps-2cpj)
+- [`XmlFluentValidator`: Code-First XML Validation That Stays Close to Your Rules](https://dev.to/iamrzr/xmlfluentvalidator-code-first-xml-validation-that-stays-close-to-your-rules-3mj6)
+- [I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i)
+- [[Boost]](https://dev.to/elizabethfuentes12/-4gd8)
+- [A Procedural Terrain Adventure in Unity pt.1](https://dev.to/dbarrass/a-procedural-terrain-adventure-in-unity-pt1-3gmm)
+- [No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor](https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
