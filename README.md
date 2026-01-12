@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Rollercoaster: Navigating the NPM Theme Park](https://dev.to/mandy8055/dependency-rollercoaster-navigating-the-npm-theme-park-18g8)
-- [The Quiet Shift: Why My Browser Tab Now Stays on Gemini](https://dev.to/rgbos/the-quiet-shift-why-my-browser-tab-now-stays-on-gemini-32pe)
-- [7 Reasons Why I&#39;ll Keep Writing—Even If AI Writes Faster and Better](https://dev.to/canro91/7-reasons-why-ill-keep-writing-even-if-ai-writes-faster-and-better-148e)
-- [Shared vs VPS Hosting: Which One is Better in 2026?](https://dev.to/arauly_tech_pvt_ltd/shared-vs-vps-hosting-which-one-is-better-in-2026-419m)
-- [Things I Wish I Knew as a Junior Developer](https://dev.to/arauly_tech_pvt_ltd/things-i-wish-i-knew-as-a-junior-developer-5b11)
+- [Why Version Control Exists: The Pen Drive Problem](https://dev.to/anoop-rajoriya/why-version-control-exists-the-pen-drive-problem-327c)
+- [Discovering n8n — Wish I Found It Sooner &lpar;Part 1 &rpar;](https://dev.to/timleunghk/discovering-n8n-wish-i-found-it-sooner-part-1--171j)
+- [Multi-dimensional Arrays &amp; Row-major Order: A Deep Dive](https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e)
+- [Stop telling me Python is &quot;too slow&quot; for the 2026 backend.](https://dev.to/naved_shaikh/stop-telling-me-python-is-too-slow-for-the-2026-backend-5am4)
+- [Backend Security for Express.js &lpar;With Nginx + VPS&rpar;](https://dev.to/kmsaifullah/backend-security-for-expressjs-with-nginx-vps-4afm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
