@@ -4,13 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing in the Age of AI Agents: How I Kept QA from Collapsing](https://dev.to/wintrover/testing-in-the-age-of-ai-agents-how-i-kept-qa-from-collapsing-3agg)
-- [Power Apps- Moving Away From Inline Code](https://dev.to/wyattdave/power-apps-moving-away-from-inline-code-11ma)
-- [The Hidden Cost of Global Stores in Vue &lpar;and When They’re Still Worth It&rpar;](https://dev.to/jacobandrewsky/the-hidden-cost-of-global-stores-in-vue-and-when-theyre-still-worth-it-4c2p)
-- [An array is a row of boxes.
-Each box holds a value.
-Each box has a number.](https://dev.to/highcenburg/an-array-is-a-row-of-boxeseach-box-holds-a-valueeach-box-has-a-number-53n0)
-- [Proyecto Weather Service &lpar;Parte 1&rpar;: Construyendo el Recolector de Datos con Python y GitHub Actions o Netlify](https://dev.to/datalaria/proyecto-weather-service-parte-1-construyendo-el-recolector-de-datos-con-python-y-github-actions-5ekm)
+- [MCP Connect](https://dev.to/lminuti/mcp-connect-566p)
+- [Why I’m Telling Junior Developers to Stop Learning Frameworks in 2026](https://dev.to/sandipyadav/why-im-telling-junior-developers-to-stop-learning-frameworks-in-2026-1c8d)
+- [Maintaining and Cleaning High Quality Premium Wallpapers](https://dev.to/wallpapermural/maintaining-and-cleaning-high-quality-premium-wallpapers-1gf2)
+- [Perl 🐪 Weekly #755 - Does TIOBE help Perl?](https://dev.to/szabgab/perl-weekly-755-does-tiobe-help-perl-a4b)
+- [A Simple Guide to a Faster Site](https://dev.to/roman_musin_1914fd4e7636f/a-simple-guide-to-a-faster-site-a6p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
