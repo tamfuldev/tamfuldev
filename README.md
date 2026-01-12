@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Agent Rebuild My Portfolio: Here’s How Antigravity + Gemini Did It](https://dev.to/nhi_ng/i-let-an-ai-agent-rebuild-my-portfolio-heres-how-antigravity-gemini-did-it-4fep)
-- [From Writing Code to Teaching AI: The Rise of the AI-Assisted Developer](https://dev.to/amitshri05/from-writing-code-to-teaching-ai-the-rise-of-the-ai-assisted-developer-4llg)
-- [Claude-Gemini Integration Tool &quot;CGMB&quot; v1.1.0: Implementing Windows Support](https://dev.to/ryoto_miyake/claude-gemini-integration-tool-cgmb-v110-implementing-windows-support-kcj)
-- [Network Support Chatbot](https://dev.to/enmedina/network-support-chatbot-m1l)
-- [Building EmbedQA: An Open Source API Testing Tool with Spring Boot 🚀](https://dev.to/akash_bhuiyan_95c5dbf3b53/building-embedqa-an-open-source-api-testing-tool-with-spring-boot-cbm)
+- [I built an agent that turns customer calls into Linear tickets](https://dev.to/toriseidenstein/i-built-an-agent-that-turns-customer-calls-into-linear-tickets-39mc)
+- [Seeking Peer Connections for CodeChat P2P Testing](https://dev.to/bingkahu/seeking-peer-connections-for-codechat-p2p-testing-4inh)
+- [Find All Duplicate Elements in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/find-all-duplicate-elements-in-an-array-c-p19)
+- [AI in Assistive Technologies for People with Visual Impairments](https://dev.to/tatyanabayramova/ai-in-assistive-technologies-for-people-with-visual-impairments-3peh)
+- [User flows are the new apps](https://dev.to/bd_perez/user-flows-are-the-new-apps-2cpj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
