@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Connect](https://dev.to/lminuti/mcp-connect-566p)
-- [Why I’m Telling Junior Developers to Stop Learning Frameworks in 2026](https://dev.to/sandipyadav/why-im-telling-junior-developers-to-stop-learning-frameworks-in-2026-1c8d)
-- [Maintaining and Cleaning High Quality Premium Wallpapers](https://dev.to/wallpapermural/maintaining-and-cleaning-high-quality-premium-wallpapers-1gf2)
-- [Perl 🐪 Weekly #755 - Does TIOBE help Perl?](https://dev.to/szabgab/perl-weekly-755-does-tiobe-help-perl-a4b)
-- [A Simple Guide to a Faster Site](https://dev.to/roman_musin_1914fd4e7636f/a-simple-guide-to-a-faster-site-a6p)
+- [How to Build SEO-Friendly Ecommerce Product Pages](https://dev.to/ar_abid_641aa302d5c68b2ae/how-to-build-seo-friendly-ecommerce-product-pages-1h0e)
+- [I Built 97 Free Online Tools &lpar;and Games&rpar; While Learning to Ship Consistently](https://dev.to/axonixtools/i-built-97-free-online-tools-and-games-while-learning-to-ship-consistently-2g7d)
+- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
+- [Learning through building: SurrealDB University&#39;s newest tutorial](https://dev.to/surrealdb/learning-through-building-surrealdb-universitys-newest-tutorial-55gk)
+- [Build a Travel Agency Page](https://dev.to/richardpascoe/build-a-travel-agency-page-47d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
