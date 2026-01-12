@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🙀How to Create a CRAZY Roller Coaster Builder &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-a-crazy-roller-coaster-builder-rollercoasterjs-react-three-fiber-ai-5c5e)
-- [Flutter Is Becoming the Industrial UI Standard](https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4)
-- [Queue System](https://dev.to/preetha_vaishnavi_2b82358/queue-system-37eo)
-- [Guide to get started with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/sunny7899/guide-to-get-started-with-retrieval-augmented-generation-rag-16m8)
-- [Contextual Inference with Generative AI: Turning Messy Notes into Professional Meeting Minutes](https://dev.to/faraz_farhan_83ed23a154a2/contextual-inference-with-generative-ai-turning-messy-notes-into-professional-meeting-minutes-599o)
+- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1)
+- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84)
+- [The Workslop Deluge](https://dev.to/rawveg/the-workslop-deluge-2i3k)
+- [Human–AI Collaboration in Project Teams — Redefining Leadership and Decision-Making](https://dev.to/aaryan_gupta/human-ai-collaboration-in-project-teams-redefining-leadership-and-decision-making-1iho)
+- [How I Built a Manual Resume Review System with Spring Boot &amp; Angular](https://dev.to/resumemind/how-i-built-a-manual-resume-review-system-with-spring-boot-angular-5h66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
