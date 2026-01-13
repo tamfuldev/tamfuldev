@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Sort in Javascript](https://dev.to/thecoollearner/quick-sort-in-javascript-33da)
-- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
-- [CUE Does It All, But Can It Literate?](https://dev.to/exlee/cue-does-it-all-but-can-it-literate-5gmj)
-- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-3aif)
-- [Vibe coding method that actually works](https://dev.to/singhdevhub/vibe-coding-method-that-actually-works-2pbb)
+- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
+- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
+- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
+- [How not to use Static classes in C#](https://dev.to/rahul1994jh/how-not-to-use-static-classes-in-c--53p2)
+- [Cảm ơn cuộc đời vì mỗi sáng vẫn còn một hơi thở](https://dev.to/kelvynthai/cam-on-cuoc-doi-vi-moi-sang-van-con-mot-hoi-tho-fih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
