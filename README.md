@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
-- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
-- [[Boost]](https://dev.to/anthonymax/-22j8)
-- [Hybrid Async-Native Engine for Python: A Design Concept for Review](https://dev.to/hejhdiss/hybrid-async-native-engine-for-python-a-design-concept-for-review-1446)
-- [We Built AI Governance That Stops Cost Explosions &lpar;Here&#39;s How&rpar;](https://dev.to/pranay_batta/we-built-ai-governance-that-stops-cost-explosions-heres-how-51gj)
+- [Potential Use Cases for the Hybrid Async-Native Engine](https://dev.to/hejhdiss/potential-use-cases-for-the-hybrid-async-native-engine-54ca)
+- [🚀 Starting My Terraform Journey – HashiCorp Terraform Associate Exam &lpar;003&rpar;](https://dev.to/smit2036/starting-my-terraform-journey-hashicorp-terraform-associate-exam-003-1kde)
+- [Dopamine Detox: The Chrome Extension That Exposed My 2h15m YouTube Addiction](https://dev.to/tonylab_net/dopamine-detox-the-chrome-extension-that-exposed-my-2h15m-youtube-addiction-1aj5)
+- [Update &lpar;2026/01/13&rpar;: Added CRAZY Roller Coaster Builder Rainbow Version🌈](https://dev.to/webdeveloperhyper/update-20260113-added-crazy-roller-coaster-builder-rainbow-version-30fm)
+- [CanxJS: Framework Backend Super Cepat Berbasis Bun untuk Aplikasi Produksi](https://dev.to/chandafa/canxjs-framework-backend-super-cepat-berbasis-bun-untuk-aplikasi-produksi-4999)
 <!-- BLOG-POST-LIST:END -->
 
 ---
