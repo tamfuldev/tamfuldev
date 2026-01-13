@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Tab-Switching: Push Claude Code Updates to Your Phone with ntfy](https://dev.to/israelsaba/stop-tab-switching-push-claude-code-updates-to-your-phone-with-ntfy-e6e)
-- [Build an Influencer Outreach CRM with Auto-Enrichment](https://dev.to/olams/build-an-influencer-outreach-crm-with-auto-enrichment-4b01)
-- [Coding Challenge Practice - Question 101](https://dev.to/tomivan/coding-challenge-practice-question-101-1m94)
-- [Zig vs Go: init and run](https://dev.to/pix303/zig-vs-go-init-and-run-pd9)
-- [From Zero to SQS Lambda in 15 Minutes](https://dev.to/konfydev/i-just-learnt-how-to-use-sqs-trigger-a-lambda-in-15-minutes-13oc)
+- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
+- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
+- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
+- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
+- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
