@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TWD Tip: Stub Auth0 Hooks and Mock React Modules](https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1)
-- [Smart Coding vs Vibe Coding: Engineering Discipline in the Age of AI](https://dev.to/kolkov/smart-coding-vs-vibe-coding-engineering-discipline-in-the-age-of-ai-5b20)
-- [PART 1 — StatefulSet + Headless Service + Persistent Storage](https://dev.to/jumptotech/part-1-statefulset-headless-service-persistent-storage-2hfh)
-- [The Agent Control Plane: Why Intelligence Without Governance Is a Bug](https://dev.to/mosiddi/the-agent-control-plane-why-intelligence-without-governance-is-a-bug-5fij)
-- [Your &quot;Atomic&quot; Deploys Probably Aren&#39;t Atomic](https://dev.to/mojoatomic/your-atomic-deploys-probably-arent-atomic-3p7a)
+- [Stop Tab-Switching: Push Claude Code Updates to Your Phone with ntfy](https://dev.to/israelsaba/stop-tab-switching-push-claude-code-updates-to-your-phone-with-ntfy-e6e)
+- [Build an Influencer Outreach CRM with Auto-Enrichment](https://dev.to/olams/build-an-influencer-outreach-crm-with-auto-enrichment-4b01)
+- [Coding Challenge Practice - Question 101](https://dev.to/tomivan/coding-challenge-practice-question-101-1m94)
+- [Zig vs Go: init and run](https://dev.to/pix303/zig-vs-go-init-and-run-pd9)
+- [From Zero to SQS Lambda in 15 Minutes](https://dev.to/konfydev/i-just-learnt-how-to-use-sqs-trigger-a-lambda-in-15-minutes-13oc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
