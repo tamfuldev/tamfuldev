@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
-- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
-- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
-- [How not to use Static classes in C#](https://dev.to/rahul1994jh/how-not-to-use-static-classes-in-c--53p2)
-- [Cảm ơn cuộc đời vì mỗi sáng vẫn còn một hơi thở](https://dev.to/kelvynthai/cam-on-cuoc-doi-vi-moi-sang-van-con-mot-hoi-tho-fih)
+- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
+- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
+- [[Boost]](https://dev.to/anthonymax/-22j8)
+- [Hybrid Async-Native Engine for Python: A Design Concept for Review](https://dev.to/hejhdiss/hybrid-async-native-engine-for-python-a-design-concept-for-review-1446)
+- [We Built AI Governance That Stops Cost Explosions &lpar;Here&#39;s How&rpar;](https://dev.to/pranay_batta/we-built-ai-governance-that-stops-cost-explosions-heres-how-51gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
