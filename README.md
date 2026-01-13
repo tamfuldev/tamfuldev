@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Frak.js: Simple, Scriptable Code Deployments](https://dev.to/fstrube/introducing-frakjs-simple-scriptable-code-deployments-1g6l)
-- [How I Built a Production AI Chatbot &lpar;That Actually Handles Complexity&rpar;](https://dev.to/rizwanul_islam_afraim/how-i-built-a-production-ai-chatbot-that-actually-handles-complexity-55l6)
-- [Stop Random Pod Scheduling: Master Kubernetes Affinity &amp; Anti-Affinity with NGINX &lpar;Practical Guide for DevOps &amp; SRE&rpar;](https://dev.to/srinivasamcjf/stop-random-pod-scheduling-master-kubernetes-affinity-anti-affinity-with-nginx-practical-guide-5bd4)
-- [Lessons learned integrating Paddle &lpar;Sandbox to Live&rpar; &amp; fixing DMARC as a solo dev](https://dev.to/yongsheng_he_90cf10863cf5/lessons-learned-integrating-paddle-sandbox-to-live-fixing-dmarc-as-a-solo-dev-29l1)
-- [DoraHacks Start-up Ideas 2026: Pt.1 Digital Finance in the Circle/Arc ecosystem](https://dev.to/dorahacks/dorahacks-start-up-ideas-2026-pt1-digital-finance-in-the-circlearc-ecosystem-98m)
+- [Advancing with React: Hooks Deep Dive! &lpar;React Day 5&rpar;](https://dev.to/vasughanta09/advancing-with-react-hooks-deep-dive-react-day-5-39fi)
+- [You See Increased Latency in API Response — What Are the Possible Causes in Apigee X?](https://dev.to/realnamehidden1_61/you-see-increased-latency-in-api-response-what-are-the-possible-causes-in-apigee-x-3nne)
+- [I Fired the &quot;One-Click&quot; AI Builders: How I Built a React Portfolio with Gemini &lpar;Without Knowing React&rpar;](https://dev.to/aaditya_thakur_d9f786176d/i-fired-the-one-click-ai-builders-how-i-built-a-react-portfolio-with-gemini-without-knowing-4imi)
+- [Conversation Memory Collapse: Why Excessive Context Weakens AI](https://dev.to/faraz_farhan_83ed23a154a2/conversation-memory-collapse-why-excessive-context-weakens-ai-5377)
+- [Document Automation with Precision: The Challenge of Formatting Without Touching Content](https://dev.to/faraz_farhan_83ed23a154a2/document-automation-with-precision-the-challenge-of-formatting-without-touching-content-bb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
