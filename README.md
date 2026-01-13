@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your PHP Apps with FrankenPHP Classic Mode](https://dev.to/indunilperamuna/supercharge-your-php-apps-with-frankenphp-classic-mode-5gb5)
-- [Why We Built Cloud Agents: From Hotel Wifi to Production](https://dev.to/kilocode/why-we-built-cloud-agents-from-hotel-wifi-to-production-1jdf)
-- [Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems &lpar;40x Faster Than LiteLLM&rpar;](https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51)
-- [I Built a Prompt Framework Explorer With AI. Then the AI Created Its Own Frameworks.](https://dev.to/fracabu/i-built-a-prompt-framework-explorer-with-ai-then-the-ai-created-its-own-frameworks-li4)
-- [.NET: Vertical Slice Architecture vs Clean Architecture — A Practical Comparison Using Real APIs](https://dev.to/gramli/net-vertical-slice-architecture-vs-clean-architecture-a-practical-comparison-using-real-apis-4mck)
+- [Weekly #02-2026: New Emails, Angry Coders, and the Editor-Engineer Era](https://dev.to/weekly/weekly-02-2026-new-emails-angry-coders-and-the-editor-engineer-era-4nnf)
+- [Under-60ms End-to-End RealTime Remote Desktop on Windows — NVENC/CUDA/FEC](https://dev.to/yukiohira0416/under-60ms-end-to-end-realtime-remote-desktop-on-windows-nvenccudafec-de7)
+- [Backing Up GitHub Repositories to Amazon S3 &lpar;What Nobody Warns You About&rpar;](https://dev.to/karaniph/backing-up-github-repositories-to-amazon-s3-what-nobody-warns-you-about-5bmh)
+- [KEXP: Sextile - Soggy Newports &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sextile-soggy-newports-live-on-kexp-4f21)
+- [Building Enterprise Vector Search in Rails &lpar;Part 2/3&rpar;: Production Resilience &amp; Monitoring](https://dev.to/stokry/building-enterprise-vector-search-in-rails-part-23-production-resilience-monitoring-3fpj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
