@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
-- [AI-startup&#39;s concepts are all same with our MIT-licensed OSS projects. Is this convergent evolution? or OSS etiquette violation?](https://dev.to/samchon/ai-startups-concepts-are-all-same-with-our-mit-licensed-oss-projects-is-this-convergent-2478)
-- [Building Your First REST API with FastAPI: A Practical Guide](https://dev.to/vix_dev_ssh/building-your-first-rest-api-with-fastapi-a-practical-guide-1kcm)
-- [If I Had to Learn DevOps Again in 2026, This Is the Path I’d Follow](https://dev.to/devopspath/if-i-had-to-learn-devops-again-in-2026-this-is-the-path-id-follow-4lj7)
-- [CinemaSins: Everything Wrong With 28 Years Later In 13 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-28-years-later-in-13-minutes-or-less-425e)
+- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
+- [First Repeating Element in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/first-repeating-element-in-an-array-c-4ljp)
+- [Linux Is Not User-Friendly — And That’s Exactly Why I Use It](https://dev.to/azrael654/linux-is-not-user-friendly-and-thats-exactly-why-i-use-it-f64)
+- [Why Building Small Projects Matters More Than Certifications &lpar;At First&rpar;](https://dev.to/pwnjoshi/why-building-small-projects-matters-more-than-certifications-at-first-40i7)
+- [Understanding React Class Components: Why Old Codebases No Longer Scare Me 🤫](https://dev.to/usama_dev/understanding-react-class-components-why-old-codebases-no-longer-scare-me-37il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
