@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
-- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
-- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
-- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
-- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
+- [Introducing Frak.js: Simple, Scriptable Code Deployments](https://dev.to/fstrube/introducing-frakjs-simple-scriptable-code-deployments-1g6l)
+- [How I Built a Production AI Chatbot &lpar;That Actually Handles Complexity&rpar;](https://dev.to/rizwanul_islam_afraim/how-i-built-a-production-ai-chatbot-that-actually-handles-complexity-55l6)
+- [Stop Random Pod Scheduling: Master Kubernetes Affinity &amp; Anti-Affinity with NGINX &lpar;Practical Guide for DevOps &amp; SRE&rpar;](https://dev.to/srinivasamcjf/stop-random-pod-scheduling-master-kubernetes-affinity-anti-affinity-with-nginx-practical-guide-5bd4)
+- [Lessons learned integrating Paddle &lpar;Sandbox to Live&rpar; &amp; fixing DMARC as a solo dev](https://dev.to/yongsheng_he_90cf10863cf5/lessons-learned-integrating-paddle-sandbox-to-live-fixing-dmarc-as-a-solo-dev-29l1)
+- [DoraHacks Start-up Ideas 2026: Pt.1 Digital Finance in the Circle/Arc ecosystem](https://dev.to/dorahacks/dorahacks-start-up-ideas-2026-pt1-digital-finance-in-the-circlearc-ecosystem-98m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
