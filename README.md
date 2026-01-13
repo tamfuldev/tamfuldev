@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #02-2026: New Emails, Angry Coders, and the Editor-Engineer Era](https://dev.to/weekly/weekly-02-2026-new-emails-angry-coders-and-the-editor-engineer-era-4nnf)
-- [Under-60ms End-to-End RealTime Remote Desktop on Windows — NVENC/CUDA/FEC](https://dev.to/yukiohira0416/under-60ms-end-to-end-realtime-remote-desktop-on-windows-nvenccudafec-de7)
-- [Backing Up GitHub Repositories to Amazon S3 &lpar;What Nobody Warns You About&rpar;](https://dev.to/karaniph/backing-up-github-repositories-to-amazon-s3-what-nobody-warns-you-about-5bmh)
-- [KEXP: Sextile - Soggy Newports &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sextile-soggy-newports-live-on-kexp-4f21)
-- [Building Enterprise Vector Search in Rails &lpar;Part 2/3&rpar;: Production Resilience &amp; Monitoring](https://dev.to/stokry/building-enterprise-vector-search-in-rails-part-23-production-resilience-monitoring-3fpj)
+- [Build an HTML Media Player](https://dev.to/richardpascoe/build-an-html-media-player-3p5k)
+- [The Silent Revolution of Workflow Automation: How n8n Broke the Market](https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 10&rpar;: Implement Collision Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-10-implement-collision-detection-3d2o)
+- [Why AI backend code breaks when specs are vague &lpar;and what I’m building to fix it&rpar;](https://dev.to/hasnaat-iftikhar/why-ai-backend-code-breaks-when-specs-are-vague-and-what-im-building-to-fix-it-gp7)
+- [How One Game Made Me a Gamer Again](https://dev.to/shaq_attack/how-one-game-made-me-a-gamer-again-kgj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
