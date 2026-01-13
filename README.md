@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Potential Use Cases for the Hybrid Async-Native Engine](https://dev.to/hejhdiss/potential-use-cases-for-the-hybrid-async-native-engine-54ca)
-- [🚀 Starting My Terraform Journey – HashiCorp Terraform Associate Exam &lpar;003&rpar;](https://dev.to/smit2036/starting-my-terraform-journey-hashicorp-terraform-associate-exam-003-1kde)
-- [Dopamine Detox: The Chrome Extension That Exposed My 2h15m YouTube Addiction](https://dev.to/tonylab_net/dopamine-detox-the-chrome-extension-that-exposed-my-2h15m-youtube-addiction-1aj5)
-- [Update &lpar;2026/01/13&rpar;: Added CRAZY Roller Coaster Builder Rainbow Version🌈](https://dev.to/webdeveloperhyper/update-20260113-added-crazy-roller-coaster-builder-rainbow-version-30fm)
-- [CanxJS: Framework Backend Super Cepat Berbasis Bun untuk Aplikasi Produksi](https://dev.to/chandafa/canxjs-framework-backend-super-cepat-berbasis-bun-untuk-aplikasi-produksi-4999)
+- [Supercharge Your PHP Apps with FrankenPHP Classic Mode](https://dev.to/indunilperamuna/supercharge-your-php-apps-with-frankenphp-classic-mode-5gb5)
+- [Why We Built Cloud Agents: From Hotel Wifi to Production](https://dev.to/kilocode/why-we-built-cloud-agents-from-hotel-wifi-to-production-1jdf)
+- [Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems &lpar;40x Faster Than LiteLLM&rpar;](https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51)
+- [I Built a Prompt Framework Explorer With AI. Then the AI Created Its Own Frameworks.](https://dev.to/fracabu/i-built-a-prompt-framework-explorer-with-ai-then-the-ai-created-its-own-frameworks-li4)
+- [.NET: Vertical Slice Architecture vs Clean Architecture — A Practical Comparison Using Real APIs](https://dev.to/gramli/net-vertical-slice-architecture-vs-clean-architecture-a-practical-comparison-using-real-apis-4mck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
