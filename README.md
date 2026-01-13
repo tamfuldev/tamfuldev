@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build an HTML Media Player](https://dev.to/richardpascoe/build-an-html-media-player-3p5k)
-- [The Silent Revolution of Workflow Automation: How n8n Broke the Market](https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 10&rpar;: Implement Collision Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-10-implement-collision-detection-3d2o)
-- [Why AI backend code breaks when specs are vague &lpar;and what I’m building to fix it&rpar;](https://dev.to/hasnaat-iftikhar/why-ai-backend-code-breaks-when-specs-are-vague-and-what-im-building-to-fix-it-gp7)
-- [How One Game Made Me a Gamer Again](https://dev.to/shaq_attack/how-one-game-made-me-a-gamer-again-kgj)
+- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
+- [AI-startup&#39;s concepts are all same with our MIT-licensed OSS projects. Is this convergent evolution? or OSS etiquette violation?](https://dev.to/samchon/ai-startups-concepts-are-all-same-with-our-mit-licensed-oss-projects-is-this-convergent-2478)
+- [Building Your First REST API with FastAPI: A Practical Guide](https://dev.to/vix_dev_ssh/building-your-first-rest-api-with-fastapi-a-practical-guide-1kcm)
+- [If I Had to Learn DevOps Again in 2026, This Is the Path I’d Follow](https://dev.to/devopspath/if-i-had-to-learn-devops-again-in-2026-this-is-the-path-id-follow-4lj7)
+- [CinemaSins: Everything Wrong With 28 Years Later In 13 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-28-years-later-in-13-minutes-or-less-425e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
