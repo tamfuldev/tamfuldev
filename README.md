@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Writing Your Own Algorithm: A Fresher&#39;s Design Guide &lpar; Final Part &rpar;](https://dev.to/charles_kumar_30654e10958/writing-your-own-algorithm-a-freshers-design-guide-final-part--4214)
-- [🎨 Writing Your Own Algorithm: A Fresher&#39;s Design Guide &lpar; Part 2 &rpar;](https://dev.to/charles_kumar_30654e10958/writing-your-own-algorithm-a-first-design-guide-1iib)
-- [📜 AWS 134: CLI Command Center - Deploying Lambda via Zipped Packages](https://dev.to/hritikraj8804/aws-134-cli-command-center-deploying-lambda-via-zipped-packages-4204)
-- [🎨 Writing Your Own Algorithm: A Fresher&#39;s Design Guide](https://dev.to/charles_kumar_30654e10958/writing-your-own-algorithm-a-freshers-design-guide-2fak)
-- [How can we trigger toast for 8 seconds using car-ui-lib](https://dev.to/arushi_agarwal_b3d6ad72ed/how-can-we-trigger-toast-for-8-seconds-using-car-ui-lib-2b0j)
+- [The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! &lpar;React Day 6&rpar;](https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko)
+- [Markdown Weaver v1.2.0: Write Smarter with Magic AI Intelligence](https://dev.to/vasughanta09/markdown-weaver-v120-write-smarter-with-magic-ai-intelligence-6g4)
+- [Lab: Accidental exposure of private GraphQL fields](https://dev.to/travondatrack/lab-accidental-exposure-of-private-graphql-fields-24k6)
+- [How I Built a WooCommerce Payment Gateway for Vietnamese Banks](https://dev.to/quochuydev/how-i-built-a-woocommerce-payment-gateway-for-vietnamese-banks-241k)
+- [🤖 CodeMentor AI — An AI-Powered Code Review Tool](https://dev.to/akanksha_soni_fef78545fe7/codementor-ai-an-ai-powered-code-review-tool-2j75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
