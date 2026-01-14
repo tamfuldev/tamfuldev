@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Manually Testing Forms - Here&#39;s A Simpler Solution](https://dev.to/nickunjchopra/stop-manually-testing-forms-heres-a-simpler-solution-248o)
-- [7 Tips on How to Implement SEO as a Technical Writer](https://dev.to/ewacreate/7-tips-on-how-to-implement-seo-as-a-technical-writer-42i7)
-- [WEEK 1 ASSIGNMENT.](https://dev.to/murimikelvin/week-1-assignment-2lid)
-- [8 Hidden Linux CLI Gems](https://dev.to/benji377/8-hidden-linux-cli-gems-4g1e)
-- [Azure DevOps as a Lightweight Ticketing System for SMEs](https://dev.to/devced/azure-devops-as-a-lightweight-ticketing-system-for-smes-105h)
+- [Why Execution Boundaries Matter More Than AI Guardrails](https://dev.to/ziling-failcore/why-execution-boundaries-matter-more-than-ai-guardrails-2421)
+- [Trait Views: exposing behavior in JavaScript without inheritance](https://dev.to/lsarrazi/trait-views-exposing-behavior-in-javascript-without-inheritance-d6l)
+- [Why I Switched from LiteLLM to Bifrost for Production LLM Systems](https://dev.to/therealmrmumba/why-i-switched-from-litellm-to-bifrost-for-production-llm-systems-45kf)
+- [Puppet with Foreman - Pilot](https://dev.to/12ww1160/puppet-with-foreman-pilot-1ln3)
+- [Groupsor](https://dev.to/groupsor_2ac5847ea312a55f/groupsor-4hn6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
