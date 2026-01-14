@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [INSTALL GIT BASH ON WINDOWS AND LINK IT TO YOUR GITHUB ACCOUNT.](https://dev.to/njagiii/install-git-bash-on-windows-and-link-it-to-your-github-account-34o7)
-- [withInMemoryScrolling in Angular: Modern Scroll Restoration and Anchor Scrolling Explained](https://dev.to/codewithrajat/withinmemoryscrolling-in-angular-modern-scroll-restoration-and-anchor-scrolling-explained-1hl9)
-- [The world of AWS Cloud](https://dev.to/amankrsharma/the-world-of-aws-cloud-4b15)
-- [Integration vs. E2E &amp; System Testing — A Practical Testing Pyramid Playbook &lpar;with Real CI Pipelines&rpar;](https://dev.to/michael_burry_00/integration-vs-e2e-system-testing-a-practical-testing-pyramid-playbook-with-real-ci-pipelines-1del)
-- [🚀 Introduction: Why Infrastructure as a Service &lpar;IAAS&rpar; Matters?](https://dev.to/devopsdynamicshub/introduction-why-infrastructure-as-a-service-iaas-matters-16j8)
+- [KEXP: Rocket - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rocket-full-performance-live-on-kexp-47do)
+- [🧭 Dominando el OWASP Top 10 &lpar;Edición 2025&rpar;: El Plano de Seguridad para la Próxima Generación](https://dev.to/xnoruz/dominando-el-owasp-top-10-edicion-2025-el-plano-de-seguridad-para-la-proxima-generacion-15jm)
+- [My Coding Attention Span Is Gone. Is AI to Blame?](https://dev.to/isah_alamin_93d4e4d2ab01f/my-coding-attention-span-is-gone-is-ai-to-blame-1pm7)
+- [Welcome Thread - v360](https://dev.to/devteam/welcome-thread-v360-2op5)
+- [The Hidden Trust Problem in AI-Generated Documentation](https://dev.to/synthaicode_commander/source-attribution-tags-how-ai-should-mark-its-own-uncertainty-4k9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
