@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Data Type and Data Structure in JavaScript](https://dev.to/catherineisonline/difference-between-data-type-and-data-structure-in-javascript-54f2)
-- [AI as a Game Changer: Business Model Stress Testing](https://dev.to/dd8888/ai-as-a-game-changer-business-model-stress-testing-27k1)
-- [Waiting, With Intent: Designing AI Systems for the Long Game 🧭](https://dev.to/anchildress1/waiting-with-intent-designing-ai-systems-for-the-long-game-1abg)
-- [BootStrapping Aurora RDS Databases using Lambda and Terraform &lpar;Part 3&rpar;](https://dev.to/santanu_das/bootstrapping-aurora-rds-databases-using-lambda-and-terraform-part-3-bif)
-- [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
+- [INSTALL GIT BASH ON WINDOWS AND LINK IT TO YOUR GITHUB ACCOUNT.](https://dev.to/njagiii/install-git-bash-on-windows-and-link-it-to-your-github-account-34o7)
+- [withInMemoryScrolling in Angular: Modern Scroll Restoration and Anchor Scrolling Explained](https://dev.to/codewithrajat/withinmemoryscrolling-in-angular-modern-scroll-restoration-and-anchor-scrolling-explained-1hl9)
+- [The world of AWS Cloud](https://dev.to/amankrsharma/the-world-of-aws-cloud-4b15)
+- [Integration vs. E2E &amp; System Testing — A Practical Testing Pyramid Playbook &lpar;with Real CI Pipelines&rpar;](https://dev.to/michael_burry_00/integration-vs-e2e-system-testing-a-practical-testing-pyramid-playbook-with-real-ci-pipelines-1del)
+- [🚀 Introduction: Why Infrastructure as a Service &lpar;IAAS&rpar; Matters?](https://dev.to/devopsdynamicshub/introduction-why-infrastructure-as-a-service-iaas-matters-16j8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
