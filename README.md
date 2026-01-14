@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
-- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
-- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
-- [From Maker to Systems Architect: Designing Software That Ships, Scales, and Survives](https://dev.to/kawano_aiyuki/from-maker-to-systems-architect-designing-software-that-ships-scales-and-survives-46h8)
-- [As we continue to push the boundaries of AI advancements, I](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-ai-advancements-i-1h86)
+- [Why useSession&lpar;&rpar; Is undefined on First Load in Next.js When Deployed to Production &lpar;and how i fixed it&rpar;](https://dev.to/athashri_keny/why-usesession-is-undefined-on-first-load-in-nextjs-when-deployed-to-production-and-how-i-fixed-53n1)
+- [Everything you want to know about Ethereum Stateless](https://dev.to/dymchenkko/everything-you-want-to-know-about-ethereum-stateless-3ok8)
+- [Introducing Community Benchmarks on Kaggle](https://dev.to/googleai/introducing-community-benchmarks-on-kaggle-35nc)
+- [QPI v2: Evolving QR Codes into Trustworthy Physical Data Containers](https://dev.to/colten_jacob_10ec3150930b/qpi-v2-evolving-qr-codes-into-trustworthy-physical-data-containers-7fh)
+- [Move Over, Struct: Meet Ruby&#39;s New Data.define](https://dev.to/zilton7/move-over-struct-meet-rubys-new-datadefine-37pb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
