@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
-- [SQL Aggregations Finally Made Sense: GROUP BY, HAVING, MIN, MAX, AVG](https://dev.to/mazinocodes/sql-aggregations-finally-made-sense-group-by-having-min-max-avg-2n44)
-- [ReactJS Hook Pattern ~Latest Ref Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-latest-ref-pattern-1f3a)
-- [Why most aerodynamic tools fail beyond stall – and what flight simulators need instead](https://dev.to/simisoad/why-most-aerodynamic-tools-fail-beyond-stall-and-what-simulators-need-instead-3p9)
-- [Did I Make Money with AI?](https://dev.to/gudong/did-i-make-money-with-ai-1039)
+- [Troubleshooting EFS Mount Failures in EKS: The IAM Mount Option Mystery](https://dev.to/oyiz-michael/troubleshooting-efs-mount-failures-in-eks-the-iam-mount-option-mystery-4e6h)
+- [Starting From Zero: My First Real Win Learning Cloud &amp; DevOps on Windows](https://dev.to/cybercodeng/starting-from-zero-my-first-real-win-learning-cloud-devops-on-windows-1f0o)
+- [From Raw DNA to Deep Insights: Building a Personal Genomics RAG with LangChain and PubMed](https://dev.to/beck_moulton/from-raw-dna-to-deep-insights-building-a-personal-genomics-rag-with-langchain-and-pubmed-9nm)
+- [Rise of the Agentic &quot;Strangler Fig&quot; Strategy](https://dev.to/webmethodman/rise-of-the-agentic-strangler-fig-strategy-8b8)
+- [Building a Forensic Image Analyser: Bridging the Gap in OSINT Investigations](https://dev.to/shynsec/building-a-forensic-image-analyser-bridging-the-gap-in-osint-investigations-8cc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
