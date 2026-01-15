@@ -4,11 +4,13 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation](https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp)
-- [How To Solve LeetCode 586](https://dev.to/cmalaga/how-to-solve-leetcode-586-2k8i)
-- [How to Secure Docusaurus for Internal Documentation using Vercel Middleware](https://dev.to/ahikmah/how-to-secure-docusaurus-for-internal-documentation-using-vercel-middleware-5lk)
-- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
-- [[AWS] 6. AWS Fundamentals: RDS &lpar;Relational Database Service&rpar; + Amazon Aurora + ElastiCache](https://dev.to/sangwoo_rhie/aws-6-aws-fundamentals-rds-relational-database-service-amazon-aurora-elasticache-4bg3)
+- [🧱 Beginner-Friendly Guide &#39;Maximize Area of Square Hole in Grid&#39; – LeetCode 2943 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9)
+- [LLM Showstoppers: What Fails in Prod and How to Fix it with Agent Core](https://dev.to/mabualzait/llm-showstoppers-what-fails-in-prod-and-how-to-fix-it-with-agent-core-4nb1)
+- [Hice mi primer script en rust-script para hacer backups de solr/lucene con barra de progreso usando gemini. 
+Es realmente increíble 
+https://gist.github.com/horaciod/858fdeb5632abe806ef2707c03bbf5cd](https://dev.to/horaciodegiorgi/hice-mi-primer-script-en-rust-script-para-hacer-backups-de-solrlucene-con-barra-de-progreso-39j7)
+- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
+- [[Boost]](https://dev.to/thebitforge/-9kb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
