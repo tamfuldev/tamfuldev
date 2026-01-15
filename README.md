@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
-- [I hate Github Actions with Passion](https://dev.to/exlee/i-hate-github-actions-with-passion-1ppg)
-- [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
-- [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
-- [¿Por qué hacer scraping hoy es más complejo de lo que parece?](https://dev.to/criszcova/por-que-hacer-scraping-hoy-es-mas-complejo-de-lo-que-parece-265g)
+- [Book Review: Akechi Mitsuhide and the Honno-ji Incident - The Moment That Decided Japanese History in 1582](https://dev.to/evanlin/book-review-akechi-mitsuhide-and-the-honno-ji-incident-the-moment-that-decided-japanese-history-5g5l)
+- [Book Review: The Most Popular Negotiation Course at Wharton - Get the World to Listen](https://dev.to/evanlin/book-review-the-most-popular-negotiation-course-at-wharton-get-the-world-to-listen-4pdd)
+- [Book Review: Hit Refresh](https://dev.to/evanlin/book-review-hit-refresh-3ik2)
+- [Wild Ride: Uber&#39;s Rise and Fall](https://dev.to/evanlin/wild-ride-ubers-rise-and-fall-4j33)
+- [[TIL][Golang] How to Get YouTube Video Information and Download YouTube Videos with Go &lpar;Updated June 3, 2020&rpar;](https://dev.to/evanlin/tilgolang-how-to-get-youtube-video-information-and-download-youtube-videos-with-go-updated-45pk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
