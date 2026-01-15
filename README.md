@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚇 I Accidentally Built a Full 3D Endless Runner Game in the Browser &lpar;It’s in KBs btw&rpar;](https://dev.to/swagking/i-accidentally-built-a-full-3d-endless-runner-game-in-the-browser-its-in-kbs-btw-fh)
-- [CVE-2023-22345: The Unchecked Canvas: Smashing the Stack in JTEKT HMI Designer](https://dev.to/cverports/cve-2023-22345-the-unchecked-canvas-smashing-the-stack-in-jtekt-hmi-designer-k37)
-- [Diagnostics 101: The Art of Systematic Troubleshooting](https://dev.to/aungkoko/diagnostics-101-the-art-of-systematic-troubleshooting-594e)
-- [Why “AI Engineer” Sounded Like a Dead End to Me &lpar;Until It Didn’t&rpar;](https://dev.to/dev-in-progress/why-ai-engineer-sounded-like-a-dead-end-to-me-until-it-didnt-20k5)
-- [xAI Software Engineer Interview &lpar;2026&rpar; — Full Recap, Pitfalls &amp; Real Prep Tips](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
+- [The Magic of .sock: Why Modern Infrastructure Relies on Unix Domain Sockets](https://dev.to/kanywst/the-magic-of-sock-why-modern-infrastructure-relies-on-unix-domain-sockets-4ohl)
+- [Ringer Movies: ‘Avengers: Doomsday’ Teaser Reactions](https://dev.to/popcorn_movies/ringer-movies-avengers-doomsday-teaser-reactions-3341)
+- [Designing an AI-Operable Release Workflow](https://dev.to/synthaicode_commander/designing-an-ai-operable-release-workflow-1ja5)
+- [How to create telegram bots in Ruby](https://dev.to/slick_phantom/how-to-create-telegram-bots-4ej4)
+- [Your AI Agent Has Too Much Power: Understanding and Taming Excessive Agency](https://dev.to/alessandro_pignati/your-ai-agent-has-too-much-power-understanding-and-taming-excessive-agency-4kbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
