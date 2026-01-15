@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Axios](https://dev.to/disha_gupta_f258e3cc18dc6/axios-2eio)
-- [Rack-style middleware for vector databases in Ruby: vectra-client 1.1.0](https://dev.to/stokry/rack-style-middleware-for-vector-databases-in-ruby-vectra-client-110-2jh3)
-- [From Cloudflare Zero-trust to Tailscale](https://dev.to/nfrankel/from-cloudflare-zero-trust-to-tailscale-450i)
-- [Importing a Custom EC2 Key Pair in AWS: A Step-by-Step Guide](https://dev.to/mayurbhatti/importing-a-custom-ec2-key-pair-in-aws-a-step-by-step-guide-5h3n)
-- [Build a Video Compilation Page](https://dev.to/richardpascoe/build-a-video-compilation-page-2oi9)
+- [9 Best Claude Prompt Templates for Developers &lpar;Token-Saving Daily Pack&rpar;](https://dev.to/theamasoud/9-best-claude-prompt-templates-for-developers-token-saving-daily-pack-4ofh)
+- [Deploying an AWS EKS Cluster Using Terraform: A Step-by-Step Guide](https://dev.to/blacorpheus/deploying-an-aws-eks-cluster-using-terraform-a-step-by-step-guide-3a2h)
+- [Laptops Without Power Adapters From 2026](https://dev.to/thomasdelfing_de/laptops-without-power-adapters-from-2026-what-will-change-and-what-genese-customers-should-5bf7)
+- [Why Ruby Shines in the Age of AI-Powered Development: A Token Efficiency Story](https://dev.to/daviducolo/why-ruby-shines-in-the-age-of-ai-powered-development-a-token-efficiency-story-25kh)
+- [Unlocking the Power of Tuples: The Future of Immutable Data in Python](https://dev.to/vjnvisakh/unlocking-the-power-of-tuples-the-future-of-immutable-data-in-python-540b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
