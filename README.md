@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review: Akechi Mitsuhide and the Honno-ji Incident - The Moment That Decided Japanese History in 1582](https://dev.to/evanlin/book-review-akechi-mitsuhide-and-the-honno-ji-incident-the-moment-that-decided-japanese-history-5g5l)
-- [Book Review: The Most Popular Negotiation Course at Wharton - Get the World to Listen](https://dev.to/evanlin/book-review-the-most-popular-negotiation-course-at-wharton-get-the-world-to-listen-4pdd)
-- [Book Review: Hit Refresh](https://dev.to/evanlin/book-review-hit-refresh-3ik2)
-- [Wild Ride: Uber&#39;s Rise and Fall](https://dev.to/evanlin/wild-ride-ubers-rise-and-fall-4j33)
-- [[TIL][Golang] How to Get YouTube Video Information and Download YouTube Videos with Go &lpar;Updated June 3, 2020&rpar;](https://dev.to/evanlin/tilgolang-how-to-get-youtube-video-information-and-download-youtube-videos-with-go-updated-45pk)
+- [JSONL is a seriously weird format!](https://dev.to/david_kershaw_b6916404da6/jsonl-is-a-seriously-weird-format-5flp)
+- [From Header Bidding Chaos to Control: How One Publisher Secured Their Ad Stack with SafeLine WAF](https://dev.to/arina_cholee/from-header-bidding-chaos-to-control-how-one-publisher-secured-their-ad-stack-with-safeline-waf-552n)
+- [Performance isn&#39;t a luxury](https://dev.to/ashgkwd/performance-isnt-a-luxury-4fih)
+- [I built an industrial-style Next.js 16 boilerplate for SaaS projects](https://dev.to/money_3cf88997d27cd9c5150/i-built-an-industrial-style-nextjs-16-boilerplate-for-saas-projects-3ci2)
+- [How to Create a Chatbot That Generates Legal Documents](https://dev.to/chatboqai/how-to-create-a-chatbot-that-generates-legal-documents-3m72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
