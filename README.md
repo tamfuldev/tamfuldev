@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Come il borrow checker determina la durata dei `&amp;mut`](https://dev.to/mirkodonnarumma-rs/come-il-borrow-checker-determina-la-durata-dei-mut-27pf)
-- [Mi Setup para el 2026](https://dev.to/_mrlucky/mi-setup-para-el-2026-5m5)
-- [I Asked Copilot: &quot;How Did They Think To Write Such Awful Code?&quot;](https://dev.to/roysh_29efdbf53b7da/i-asked-copilot-how-did-they-think-to-write-such-awful-code-68c)
-- [Detecting Objects in Images from Any Text Prompt &lpar;Not Fixed Classes&rpar;](https://dev.to/eyasu_asnake_848226099eab/detecting-objects-in-images-from-any-text-prompt-not-fixed-classes-5eda)
-- [Journals Beyond the Basics in SQLite](https://dev.to/lovestaco/journals-beyond-the-basics-4g6o)
+- [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
+- [&quot;Air Gap&quot; for the Cloud: Why the AWS European Sovereign Cloud Changes Everything](https://dev.to/alifunk/air-gap-for-the-cloud-why-the-aws-european-sovereign-cloud-changes-everything-3gfp)
+- [How To Solve LeetCode 1193](https://dev.to/cmalaga/how-to-solve-leetcode-1193-3ekp)
+- [How I Made My First $1,300 from a SaaS While Finishing High School](https://dev.to/arjun_8ce91bf21cd035a5a00/how-i-made-my-first-1300-from-a-saas-while-finishing-high-school-37p9)
+- [5 GA4 Custom Reports That Actually Matter &lpar;Plus Templates You Can Steal&rpar;](https://dev.to/synergistdigitalmedia/5-ga4-custom-reports-that-actually-matter-plus-templates-you-can-steal-22cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
