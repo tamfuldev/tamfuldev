@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How many addresses fit into a Cell?](https://dev.to/a08778/how-many-addresses-fit-into-a-cell-2fga)
-- [Claude Code: সম্পূর্ণ বাংলা গাইড](https://dev.to/ashadulmridha/claude-code-smpuurnn-baanlaa-gaaidd-2b8m)
-- [Sharing my hands-on Enterprise Cloud Platform project](https://dev.to/bernymack90/sharing-my-hands-on-enterprise-cloud-platform-project-45i1)
-- [Flutter Firebase Tutorial 2026: Complete Auth + Firestore Integration &lpar;Simple Notes App&rpar; 🔥](https://dev.to/techwithsam/flutter-firebase-tutorial-2026-complete-auth-firestore-integration-simple-notes-app-1ane)
-- [Why Memory Architecture Matters More Than Your Model](https://dev.to/narnaiezzsshaa/why-memory-architecture-matters-more-than-your-model-1556)
+- [Post-Agile Development: Why Smart Teams Are Looking Backward to Move Forward](https://dev.to/ghostinit0x/post-agile-development-why-smart-teams-are-looking-backward-to-move-forward-2o5m)
+- [The 5 Levels of Humanoid Autonomy](https://dev.to/ankk98/the-5-levels-of-humanoid-autonomy-1n54)
+- [Configure Local LLM with OpenCode](https://dev.to/tobrun_vannuland_70632c7/configure-local-llm-with-opencode-1gdb)
+- [Self-hosting Flowise on a Hetzner Ubuntu Server](https://dev.to/yulei-chen/self-hosting-flowise-on-a-hetzner-ubuntu-server-4hg2)
+- [Web Interface Guidelines Checklist for LLMs &amp; vibe coders!](https://dev.to/sivarampg/web-interface-guidelines-checklist-for-llms-vibe-coders-19j9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
