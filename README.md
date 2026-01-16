@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
-- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
-- [Explain The Basic Concepts of Generative AI](https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb)
-- [Cloud-Based CAD Tools for Education: Empowering Students and Instructors](https://dev.to/julia970/cloud-based-cad-tools-for-education-empowering-students-and-instructors-n0i)
-- [Building GigFlow: A Real-Time Freelance Marketplace with Secure Hiring Logic](https://dev.to/sufalthakre/building-gigflow-a-real-time-freelance-marketplace-with-secure-hiring-logic-1be7)
+- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
+- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
+- [Jan 16, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-16-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-46d9)
+- [Lambda Durable Functions: Finally, Stateful Serverless Without Step Functions](https://dev.to/dineshelumalai/lambda-durable-functions-finally-stateful-serverless-without-step-functions-49m2)
+- [How I Built an AI Suggestion Textbox with Angular Signal Forms](https://dev.to/brianmtreese/how-i-built-an-ai-suggestion-textbox-with-angular-signal-forms-5637)
 <!-- BLOG-POST-LIST:END -->
 
 ---
