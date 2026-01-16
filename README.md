@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
-- [Open Source Licensing: What Mid-Level Developers Must Know to Avoid Legal Trouble](https://dev.to/piotr-get-talent/open-source-licensing-what-mid-level-developers-must-know-to-avoid-legal-trouble-1pn7)
-- [Why hiding IDs wasn’t enough for secure share links](https://dev.to/siddhesh_shirdhankar_902f/why-hiding-ids-wasnt-enough-for-secure-share-links-5egj)
-- [Vector Embeddings &lpar;with OpenAI and Supabase&rpar; - Part 3 &lpar;storing &amp; searching&rpar;](https://dev.to/shlokaguptaa/vector-embeddings-with-openai-and-supabase-part-3-1171)
-- [From Figma to Production Code in Minutes: A Professional Engineer&#39;s Guide to Visual Copilot](https://dev.to/xit_vali_8353fbdb3474555c/from-figma-to-production-code-in-minutes-a-professional-engineers-guide-to-visual-copilot-5bh1)
+- [From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka &lpar;KRaft&rpar; and ELK](https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb)
+- [Level 0 of my DevOps journey](https://dev.to/alok38/level-0-of-my-devops-journey-1em3)
+- [❌ Stop Using Singleton. You Don’t Need It &lpar;And It’s Quietly Hurting Your Code&rpar;](https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck)
+- [The Ultimate Python Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3)
+- [🧱 Building QRForge PRO with PySide6 &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/matetechnologie/building-qrforge-pro-with-pyside6-beginner-friendly-guide-53kb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
