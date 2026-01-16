@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Local RAG AI Agent for Airline Reviews with Ollama](https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5)
+- [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
 - [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
+- [System Design - EP 13: Content Delivery Networks &lpar;CDNs&rpar;](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-13-content-delivery-networks-cdns-14ke)
 - [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
-- [Beyond the Vercel Tax: A Software Engineer&#39;s Guide to Managed Cloud Costs](https://dev.to/kenansafi/beyond-the-vercel-tax-a-software-engineers-guide-to-managed-cloud-costs-po8)
-- [Hot Restart for iOS is not included in Visual Studio 2026: What .NET MAUI Developers Need to Know](https://dev.to/biozal/hot-restart-for-ios-is-not-included-in-visual-studio-2026-what-net-maui-developers-need-to-know-28n8)
-- [Day 20: Sending HTML Emails from AWS Lambda using Python &amp; SES.](https://dev.to/ericrodriguez10/day-20-sending-html-emails-from-aws-lambda-using-python-ses-2i2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
