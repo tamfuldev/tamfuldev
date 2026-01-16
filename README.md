@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
-- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
-- [Jan 16, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-16-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-46d9)
-- [Lambda Durable Functions: Finally, Stateful Serverless Without Step Functions](https://dev.to/dineshelumalai/lambda-durable-functions-finally-stateful-serverless-without-step-functions-49m2)
-- [How I Built an AI Suggestion Textbox with Angular Signal Forms](https://dev.to/brianmtreese/how-i-built-an-ai-suggestion-textbox-with-angular-signal-forms-5637)
+- [Pilot vs. Engineer: How Flying a UAV Changes the Way I Write Code](https://dev.to/asikarastallion/pilot-vs-engineer-how-flying-a-uav-changes-the-way-i-write-code-408g)
+- [I Built the Product. Marketing Is the Part That’s Breaking Me.](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-the-product-marketing-is-the-part-thats-breaking-me-jol)
+- [ReactJS Hook Pattern ~Use Hook with Context~](https://dev.to/kkr0423/reactjs-hook-pattern-use-hook-with-context-595k)
+- [WTF is Distributed Chaos Engineering?](https://dev.to/dailybugle33/wtf-is-distributed-chaos-engineering-28fh)
+- [From Pixel Smudges to HD: My Battle with Legacy Assets and AI Restoration](https://dev.to/kaushik_pandav_aiml/from-pixel-smudges-to-hd-my-battle-with-legacy-assets-and-ai-restoration-1a2h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
