@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to find &quot;Remote-from-anywhere&quot; jobs](https://dev.to/stetsenko_me/how-to-find-remote-from-anywhere-jobs-2lbo)
-- [LeetCode DSA Series #10: 83. Remove Duplicates from Sorted List](https://dev.to/daveson217/leetcode-dsa-series-10-83-remove-duplicates-from-sorted-list-1a0n)
-- [“Adeus ‘funciona na minha máquina’: Spring Boot com PostgreSQL usando Docker”](https://dev.to/franolv/adeus-funciona-na-minha-maquina-spring-boot-com-postgresql-usando-docker-4koj)
-- [NPR Music: John Fogerty: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-john-fogerty-tiny-desk-concert-4ohf)
-- [What happened to ambition in QA?](https://dev.to/liudasjan/what-happened-to-ambition-in-qa-4l4m)
+- [Comms Under Fire - Update 01](https://dev.to/shaq_attack/comms-under-fire-update-01-n8b)
+- [What I Learned from Steve Yegge&#39;s Gas Town — And a Small Tool for Solo Developers](https://dev.to/kiwibreaksme/what-i-learned-from-steve-yegges-gas-town-and-a-small-tool-for-solo-developers-2me2)
+- [Steve Yegge의 Gas Town을 보고 배운 것들 — 그리고 개인 개발자를 위한 작은 도구](https://dev.to/kiwibreaksme/steve-yeggeyi-gas-towneul-bogo-baeun-geosdeul-geurigo-gaein-gaebaljareul-wihan-jageun-dogu-196d)
+- [Secure file upload validation in .NET: A layered approach](https://dev.to/detilium/secure-file-upload-validation-in-net-a-layered-approach-3j17)
+- [A Biologically Inspired Programming Language](https://dev.to/david_lamar_d40d58ec2c7bc/a-biologically-inspired-programming-language-beh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
