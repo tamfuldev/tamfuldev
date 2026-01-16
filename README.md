@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Guessing if Your AI Works: A Complete Guide to Evaluating and Monitoring on Bedrock](https://dev.to/datatechbridge/stop-guessing-if-your-ai-works-a-complete-guide-to-evaluating-and-monitoring-on-bedrock-20b0)
-- [My 2026 Portfolio: Powered by Next.js, Google Cloud Run and Gemini AI](https://dev.to/dennis_chomba/my-2026-portfolio-powered-by-nextjs-google-cloud-run-and-gemini-ai-4e71)
-- [🚀 Jetty Project Generator &lpar;Java&rpar; – Live](https://dev.to/esteban_guenul_a8b43f3f31/jetty-project-generator-java-live-khp)
-- [I Built OrderSafe: A Tool to Help You Order Healthier at Fast Food Restaurants](https://dev.to/z_k_e74730/i-built-ordersafe-a-tool-to-help-you-order-healthier-at-fast-food-restaurants-9hh)
-- [🚀 Generador de proyectos Jetty &lpar;Java&rpar; – en vivo](https://dev.to/esteban_guenul_a8b43f3f31/generador-de-proyectos-jetty-java-en-vivo-l63)
+- [I Built a Real-Time HackerNews Trend Radar With AI &lpar;And It Runs Itself&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-trend-radar-with-ai-and-it-runs-itself-1apm)
+- [Building A Multi-Account Walkthrough System That Supports MyLanguage and Pine Strategy Language Based on FMZ](https://dev.to/chronosquant/building-a-multi-account-walkthrough-system-that-supports-mylanguage-and-pine-strategy-language-1oo5)
+- [Building an AI Chatbot That Answers Questions Using Private Data &lpar;RAG Overview&rpar;](https://dev.to/zina_nyarko/building-an-ai-chatbot-that-answers-questions-using-private-data-rag-overview-4oae)
+- [Handling Tech Debt while Shipping Features](https://dev.to/eugenioenko/handling-tech-debt-while-delivering-features-1g6k)
+- [Solving Azure Authentication for Crossplane: Three Real-World Scenarios](https://dev.to/piyushjajoo/solving-azure-authentication-for-crossplane-three-real-world-scenarios-30ig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
