@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FlyEnv: The All-in-One Tool That Could Replace Your Docker Workflow](https://dev.to/yongdev/flyenv-the-all-in-one-tool-that-could-replace-your-docker-workflow-4ija)
-- [Escaping the Dumbzone, Part 1: Why Your AI Gets Stupider the More You Talk to It](https://dev.to/diggidydale/escaping-the-dumbzone-part-1-why-your-ai-gets-stupider-the-more-you-talk-to-it-4d8k)
-- [[Boost]](https://dev.to/heytechomaima/-2e74)
-- [how we built the most advanced ai product planner](https://dev.to/singhdevhub/how-we-built-the-most-advanced-ai-product-planner-31lc)
-- [10 Things I Learned from Vibe Coding &lpar;or: How I Let an AI Agent Write My Audio Library&rpar;](https://dev.to/ik5/10-things-i-learned-from-vibe-coding-or-how-i-let-an-ai-agent-write-my-audio-library-2940)
+- [How to structure technical planning for engineering](https://dev.to/kodus/how-to-structure-technical-planning-for-engineering-1h1n)
+- [YAML to JSON in CI Pipelines: Why It Breaks More Often Than You Expect](https://dev.to/jsonviewertool/yaml-to-json-in-ci-pipelines-why-it-breaks-more-often-than-you-expect-3in2)
+- [Docker &amp; Containers Explained: A Beginner-Friendly Guide to How Docker Works](https://dev.to/nikhilmhatre4757/docker-containers-explained-a-beginner-friendly-guide-to-how-docker-works-5041)
+- [Git Made Simple](https://dev.to/makwaka/git-made-simple-548a)
+- [Learning Backend #1](https://dev.to/gruprttt/learning-backend-1-2lbf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
