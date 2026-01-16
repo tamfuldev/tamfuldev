@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React JSON Schema Forms in Practice — Why They Break Down and How SurveyJS Fixes the Architecture](https://dev.to/surveyjs/react-json-schema-forms-in-practice-why-they-break-down-and-how-surveyjs-fixes-the-architecture-17ik)
-- [Your AI Context Now Works Everywhere: faf-cli Google Gemini Edition](https://dev.to/wolfejam/your-ai-context-now-works-everywhere-faf-cli-google-gemini-edition-19bc)
-- [Day 9 of 30 Days of Python – Building a Nigerian Electricity Bill Analyzer⚡](https://dev.to/kinspirecyber/day-9-of-30-days-of-python-building-a-nigerian-electricity-bill-analyzer-467p)
-- [Top Offshore Software Development Companies: Reviews &amp; Rates 3/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-offshore-software-development-companies-reviews-rates-33-got-the-opportunity-to-interview-9c1)
-- [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
+- [Stop Guessing if Your AI Works: A Complete Guide to Evaluating and Monitoring on Bedrock](https://dev.to/datatechbridge/stop-guessing-if-your-ai-works-a-complete-guide-to-evaluating-and-monitoring-on-bedrock-20b0)
+- [My 2026 Portfolio: Powered by Next.js, Google Cloud Run and Gemini AI](https://dev.to/dennis_chomba/my-2026-portfolio-powered-by-nextjs-google-cloud-run-and-gemini-ai-4e71)
+- [🚀 Jetty Project Generator &lpar;Java&rpar; – Live](https://dev.to/esteban_guenul_a8b43f3f31/jetty-project-generator-java-live-khp)
+- [I Built OrderSafe: A Tool to Help You Order Healthier at Fast Food Restaurants](https://dev.to/z_k_e74730/i-built-ordersafe-a-tool-to-help-you-order-healthier-at-fast-food-restaurants-9hh)
+- [🚀 Generador de proyectos Jetty &lpar;Java&rpar; – en vivo](https://dev.to/esteban_guenul_a8b43f3f31/generador-de-proyectos-jetty-java-en-vivo-l63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
