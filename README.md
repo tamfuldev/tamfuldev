@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to structure technical planning for engineering](https://dev.to/kodus/how-to-structure-technical-planning-for-engineering-1h1n)
-- [YAML to JSON in CI Pipelines: Why It Breaks More Often Than You Expect](https://dev.to/jsonviewertool/yaml-to-json-in-ci-pipelines-why-it-breaks-more-often-than-you-expect-3in2)
-- [Docker &amp; Containers Explained: A Beginner-Friendly Guide to How Docker Works](https://dev.to/nikhilmhatre4757/docker-containers-explained-a-beginner-friendly-guide-to-how-docker-works-5041)
-- [Git Made Simple](https://dev.to/makwaka/git-made-simple-548a)
-- [Learning Backend #1](https://dev.to/gruprttt/learning-backend-1-2lbf)
+- [How to find &quot;Remote-from-anywhere&quot; jobs](https://dev.to/stetsenko_me/how-to-find-remote-from-anywhere-jobs-2lbo)
+- [LeetCode DSA Series #10: 83. Remove Duplicates from Sorted List](https://dev.to/daveson217/leetcode-dsa-series-10-83-remove-duplicates-from-sorted-list-1a0n)
+- [“Adeus ‘funciona na minha máquina’: Spring Boot com PostgreSQL usando Docker”](https://dev.to/franolv/adeus-funciona-na-minha-maquina-spring-boot-com-postgresql-usando-docker-4koj)
+- [NPR Music: John Fogerty: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-john-fogerty-tiny-desk-concert-4ohf)
+- [What happened to ambition in QA?](https://dev.to/liudasjan/what-happened-to-ambition-in-qa-4l4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
