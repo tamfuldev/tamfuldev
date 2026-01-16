@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
-- [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
-- [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
-- [Discovering Connections: How Claude Code Analyzed 100 Books](https://dev.to/dd8888/discovering-connections-how-claude-code-analyzed-100-books-41li)
-- [I procrastinated on My Portfolio for years. AI Built It in 2 Hours.](https://dev.to/sakshay_arora/i-procrastinated-on-my-portfolio-for-years-ai-built-it-in-2-hours-1hnh)
+- [How to Find Your Real Origin IP Behind Cloudflare, Safely &lpar;and How to Fix Leaks&rpar;](https://dev.to/georgebsys/how-to-find-your-real-origin-ip-behind-cloudflare-safely-and-how-to-fix-leaks-2bg2)
+- [From Burnout to Breakthrough: How Community Saved My Tech Career](https://dev.to/ariyoaresa/from-burnout-to-breakthrough-how-community-saved-my-tech-career-398f)
+- [The Great Decoupling: The Data Sovereignty Correction](https://dev.to/gd-tech-guru/the-great-decoupling-the-data-sovereignty-correction-4m7o)
+- [Solved: Highest value marketing skill in 2026?](https://dev.to/techresolve/solved-highest-value-marketing-skill-in-2026-hp)
+- [&quot;New Year, New You&quot; Portfolio Challenge with Google AI](https://dev.to/shreya_maheshwar_71d11876/new-year-new-you-portfolio-challenge-with-google-ai-3b15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
