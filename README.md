@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of Hyper-Casual: Why &#39;Mid-Core&#39; is the New Gold Mine for Browser Games in 2026](https://dev.to/jasonguo/the-death-of-hyper-casual-why-mid-core-is-the-new-gold-mine-for-browser-games-in-2026-3l8)
-- [Physical Proof of Proximity &lpar;PoPI&rpar;: Making Sybil Attacks Physically Expensive](https://dev.to/chronocoders/physical-proof-of-proximity-popi-making-sybil-attacks-physically-expensive-5dje)
-- [Your Java Regex Can Be Weaponized &lpar;And How To Stop It&rpar;](https://dev.to/xoifail/your-java-regex-can-be-weaponized-and-how-to-stop-it-ke4)
-- [Your Java Regex Can Be Weaponized &lpar;And How To Stop It&rpar;](https://dev.to/xoifail/your-java-regex-can-be-weaponized-and-how-to-stop-it-cp9)
-- [Saga Pattern: Ensuring Consistency in Microservices Architectures](https://dev.to/dionatan_melo_d0c126b0216/saga-pattern-ensuring-consistency-in-microservices-architectures-433d)
+- [Setup MonoRepo in Nest.js](https://dev.to/asibul_hasan_5fe57cd945b8/setup-monorepo-in-nestjs-dj4)
+- [From Dust to Dev Tool: &lpar;Part 2&rpar;](https://dev.to/ranganath_reddy_a430259d3/from-dust-to-dev-tool-part-2-20m4)
+- [DevOps Solves the Problems of the Waterfall Model](https://dev.to/itsmecharan7/devops-solves-the-problems-of-the-waterfall-model-1aba)
+- [DevOps Prerequisites: The “Boring” Fundamentals You Must Understand](https://dev.to/alok38/devops-prerequisites-the-boring-fundamentals-you-must-understand-c9e)
+- [The Secret Life of Python: The Loophole](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-loophole-2ob5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
