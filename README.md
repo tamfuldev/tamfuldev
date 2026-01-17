@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Detect Memory Drift In Production Agents](https://dev.to/narnaiezzsshaa/how-to-detect-memory-drift-in-production-agents-51cf)
-- [Why “Equal Split” Is Often the Most Unfair Way to Share Expenses](https://dev.to/pratyus92592602/why-equal-split-is-often-the-most-unfair-way-to-share-expenses-4kpj)
-- [Prompt Engineering Is a Symptom &lpar;And That’s Okay&rpar;](https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l)
-- [Day 21: Fetching Bank Transactions with Python &lpar;Plaid &amp; Wise&rpar;.](https://dev.to/ericrodriguez10/day-21-fetching-bank-transactions-with-python-plaid-wise-jo8)
-- [Frontend Performance Optimization Techniques Used in Enterprise React Applications](https://dev.to/aniket_yeole_8c0339c365be/frontend-performance-optimization-techniques-used-in-enterprise-react-applications-hig)
+- [⚠️ Don&#39;t try this at home: Add Brainf**k support to your JS app today!](https://dev.to/thormeier/dont-try-this-at-home-add-brainfk-support-to-your-js-app-today-o0h)
+- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
+- [Leafwiki Devlog #7: v0.6.1 - Introducing Backlinks + Better Search &lpar;SQLite FTS5&rpar; 🌿](https://dev.to/perber/leafwiki-devlog-7-v061-introducing-backlinks-better-search-sqlite-fts5-1llo)
+- [I Let AI Write Most of My Code for a Month. Here’s What Happened.](https://dev.to/kzeitar/i-let-ai-write-most-of-my-code-for-a-month-heres-what-happened-3b30)
+- [Teaching an Old Dog New Tricks.](https://dev.to/mary_kariuki_944435052aa9/teaching-an-old-dog-new-tricks-9pn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
