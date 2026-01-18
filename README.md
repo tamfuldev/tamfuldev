@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
-- [Solving Erdos 281 with ChatGPT 5.2 Pro: A New Era for AI in Mathematics](https://dev.to/dd8888/solving-erdos-281-with-chatgpt-52-pro-a-new-era-for-ai-in-mathematics-538k)
-- [The Untouchable Hacker God: Deciphering Finland&#39;s Biggest Cybercrime](https://dev.to/dd8888/the-untouchable-hacker-god-deciphering-finlands-biggest-cybercrime-3apc)
-- [Getting Started: Building Your First Interactive JavaScript Diagram](https://dev.to/iva_pan/getting-started-building-your-first-interactive-javascript-diagram-5bhi)
-- [Understanding Git Version Control: Track Changes, Commit, Push &amp; Pull &lpar;Beginner Guide&rpar;](https://dev.to/mwangi_sharon/understanding-git-version-control-track-changes-commit-push-pull-beginner-guide-48jp)
+- [Back Up Multiple Drives to Backblaze with Deduplication – Introducing b2-dedup](https://dev.to/n0nag0n/back-up-multiple-drives-to-backblaze-with-deduplication-introducing-b2-dedup-1c2f)
+- [A guide to Incremental Static Regeneration &lpar;ISR&rpar; in Next.js using CMS data](https://dev.to/jaybarls/a-guide-to-incremental-static-regeneration-isr-in-nextjs-using-cms-data-26i8)
+- [Structural Amplification: Why AI Fails Even When It “Means Well”](https://dev.to/alan_tsai_00dbd905e668f74/structural-amplification-why-ai-fails-even-when-it-means-well-355b)
+- [Story of The First Linked List](https://dev.to/priyabratapaul/story-of-the-first-linked-list-2f95)
+- [Understanding Nuanced Semantic Elements](https://dev.to/richardpascoe/understanding-nuanced-semantic-elements-227e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
