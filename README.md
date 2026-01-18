@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
-- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
-- [Vibe coding as a love language](https://dev.to/amandamartindev/vibe-coding-as-a-love-language-4321)
-- [Restarting My DSA Journey in Java — Solving Kunal Kushwaha’s Assignments + LeetCode Daily!](https://dev.to/herclarity_space/restarting-my-dsa-journey-in-java-solving-kunal-kushwahas-assignments-leetcode-daily-gbo)
-- [Why You Can’t Skip a Custom Backend—Even With AI-Powered Frontends](https://dev.to/dangote/why-you-cant-skip-a-custom-backend-even-with-ai-powered-frontends-2ibf)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
+- [Solving Erdos 281 with ChatGPT 5.2 Pro: A New Era for AI in Mathematics](https://dev.to/dd8888/solving-erdos-281-with-chatgpt-52-pro-a-new-era-for-ai-in-mathematics-538k)
+- [The Untouchable Hacker God: Deciphering Finland&#39;s Biggest Cybercrime](https://dev.to/dd8888/the-untouchable-hacker-god-deciphering-finlands-biggest-cybercrime-3apc)
+- [Getting Started: Building Your First Interactive JavaScript Diagram](https://dev.to/iva_pan/getting-started-building-your-first-interactive-javascript-diagram-5bhi)
+- [Understanding Git Version Control: Track Changes, Commit, Push &amp; Pull &lpar;Beginner Guide&rpar;](https://dev.to/mwangi_sharon/understanding-git-version-control-track-changes-commit-push-pull-beginner-guide-48jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
