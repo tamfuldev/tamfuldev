@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [L&#39;IA nella Programmazione: Strumento o Stampella?](https://dev.to/marco_bollero_ba3c38ddd27/lia-nella-programmazione-strumento-o-stampella-ho2)
-- [🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique](https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63)
-- [Getting started with Git and GitHub.](https://dev.to/victor_ochieng_e9/getting-started-with-git-and-github-98o)
-- [Engineering Adaptation: Solana&#39;s Roadmap and LPKWJ Tech Perspectives](https://dev.to/lpkwj/engineering-adaptation-solanas-roadmap-and-lpkwj-tech-perspectives-20k4)
-- [My AI-Powered Portfolio: A Birthday Gift to Myself](https://dev.to/khongorzulmunkhbat/my-ai-powered-portfolio-a-birthday-gift-to-myself-k7k)
+- [License to Bill🍸💸 : MCP Agents and the Bedrock Budget Protocol](https://dev.to/aws-builders/license-to-bill-mcp-agents-and-the-bedrock-budget-protocol-4fnj)
+- [GIT &amp; GITHUB AS A BEGINNER](https://dev.to/kiarieamos/git-github-as-a-beginner-3k1k)
+- [My Journey at LuxDevHQ: Version Control &lpar;The Basics&rpar;](https://dev.to/victormungai97/my-journey-at-luxdevhq-version-control-the-basics-19aj)
+- [Bash As Agent: Testing SLMs on Linux](https://dev.to/ben-santora/bash-as-agent-testing-slms-on-linux-4mg0)
+- [Beginner friendly article on Git bash and Git hub.](https://dev.to/steve_andrew_089e2bdcbc14/beginner-friendly-article-on-git-bash-and-git-hub-40k4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
