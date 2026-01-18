@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Donation Website in 8 Hours &lpar;And Why&rpar;](https://dev.to/masem/how-i-built-a-donation-website-in-8-hours-and-why-1ka9)
-- [**Title:** LA Clippers Owner Steve Ballmer Faces Fraud Allegations Over Kawhi Leonard&#39;s Compensation](https://dev.to/yagyaraj_sharma_6cd410179/title-la-clippers-owner-steve-ballmer-faces-fraud-allegations-over-kawhi-leonards-compensation-2opp)
-- [当 AI 变成我的&quot;超强员工](https://dev.to/gudong/dang-ai-bian-cheng-wo-de-chao-qiang-yuan-gong-9of)
-- [Redacting Sensitive Data in Go&#39;s slog: A Practical Guide with masq](https://dev.to/mizutani/redacting-sensitive-data-in-gos-slog-a-practical-guide-with-masq-158o)
-- [The Simple Trick That Makes a List of 50,000 Render Smoothly](https://dev.to/muradhaneya/the-simple-trick-that-makes-a-list-of-50000-render-smoothly-38ch)
+- [El Sesgo Tech del &#39;NewDev&#39;: Cuando la Novedad Nubla la Eficiencia](https://dev.to/tremolgraterol/el-sesgo-tech-del-newdev-cuando-la-novedad-nubla-la-eficiencia-19fh)
+- [We don’t need machines that can do everything. We need systems that help humans do the right thing more often. With the development of AGI, we will have better calculation, ideas, processing, but the ultimate challenge is the distribution.](https://dev.to/jaideepparashar/we-dont-need-machines-that-can-do-everything-we-need-systems-that-help-humans-do-the-right-thing-3amh)
+- [AGI Isn’t the Goal. Intelligence Distribution Is.](https://dev.to/jaideepparashar/agi-isnt-the-goal-intelligence-distribution-is-1hoo)
+- [Willard’s First Flight &lpar;and Unplanned Disassembly&rpar;](https://dev.to/sigje/willards-first-flight-and-unplanned-disassembly-1ohd)
+- [Api Doc Portfolio](https://dev.to/geraq/api-doc-portfolio-3lk2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
