@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
-- [Building an Automated AWS Billing Report System with SAM and Microsoft Teams](https://dev.to/abhishekvasisht/building-an-automated-aws-billing-report-system-with-sam-and-microsoft-teams-4578)
-- [Introduction to Gitbash and Github](https://dev.to/lilian_gathoni_4a18a896d3/introduction-to-gitbash-and-github-5gck)
-- [Beyond Chatbots: Building Autonomous Multi-Agent Workflows with Amazon Bedrock and Step Functions](https://dev.to/aws-builders/beyond-chatbots-building-autonomous-multi-agent-workflows-with-amazon-bedrock-and-step-functions-472d)
-- [Deploying the AWS re:Invent Map with AWS Amplify Hosting](https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em)
+- [L&#39;IA nella Programmazione: Strumento o Stampella?](https://dev.to/marco_bollero_ba3c38ddd27/lia-nella-programmazione-strumento-o-stampella-ho2)
+- [🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique](https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63)
+- [Getting started with Git and GitHub.](https://dev.to/victor_ochieng_e9/getting-started-with-git-and-github-98o)
+- [Engineering Adaptation: Solana&#39;s Roadmap and LPKWJ Tech Perspectives](https://dev.to/lpkwj/engineering-adaptation-solanas-roadmap-and-lpkwj-tech-perspectives-20k4)
+- [My AI-Powered Portfolio: A Birthday Gift to Myself](https://dev.to/khongorzulmunkhbat/my-ai-powered-portfolio-a-birthday-gift-to-myself-k7k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
