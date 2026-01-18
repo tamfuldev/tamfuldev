@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Session-Based Authentication VS Token-Based Authentication](https://dev.to/tamjid_ahmed_e9bea176abee/session-based-authentication-vs-token-based-authentication-10e7)
-- [Digital Agent Frameworks](https://dev.to/rawveg/digital-agent-frameworks-c7m)
-- [Hexagonal architecture - Another way to the hexagone](https://dev.to/marabesi/hexagonal-architecture-another-way-to-the-hexagone-25g0)
-- [The Shocking Truth About ‘Dumb’ Mean Imputation](https://dev.to/aiwithapex/the-shocking-truth-about-dumb-mean-imputation-4onk)
-- [How to Set Up GPG Keys for an Existing GitHub Account &lpar;Step-by-Step&rpar;](https://dev.to/rose1845/how-to-set-up-gpg-keys-for-an-existing-github-account-step-by-step-2fj7)
+- [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
+- [Project BookMyShow: Day 7](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-7-boe)
+- [Quantam: A Lightweight Async Workflow Engine for Node.js](https://dev.to/byron_kennedy_4fb928d39ef/quantam-a-lightweight-async-workflow-engine-for-nodejs-3gc4)
+- [Want to Learn Git and GitHub? A Step-by-Step Guide to Version Control](https://dev.to/gathurum/want-to-learn-git-and-github-a-step-by-step-guide-to-version-control-dko)
+- [Linux Learning Journey – Day 7: SSH Practice, Firewall, IP Awareness &amp; Troubleshooting 🐧🔧](https://dev.to/avinashwagh/linux-learning-journey-day-7-ssh-practice-firewall-ip-awareness-troubleshooting-nd3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
