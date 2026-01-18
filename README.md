@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e)
-- [Understanding Git and GitHub: A Biginners Guide](https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho)
-- [Java Multithreading/Concurrency](https://dev.to/achavan/java-multithreadingconcurrency-f4a)
-- [SEO + RAO + Access = Lead](https://dev.to/antonmb/seo-rao-access-lead-49p9)
-- [🚀 Getting Started with Git and GitHub: A Beginner’s Guide](https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93)
+- [Git BEGINNER’S MANUAL](https://dev.to/cynthia_jelimo_3f427f1110/git-beginners-manual-1f78)
+- [The “Too Smart” Knowledge Base Problem: When Your AI Knows Too Much for Its Own Good](https://dev.to/faraz_farhan_83ed23a154a2/the-too-smart-knowledge-base-problem-when-your-ai-knows-too-much-for-its-own-good-44gm)
+- [Tech Pulse – Weekly Tech Digest January 11-17, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digest-january-11-17-2026-2l4d)
+- [Describe AWS Infrastructure And Technologies For Building Generative AI Applications](https://dev.to/aws-builders/describe-aws-infrastructure-and-technologies-for-building-generative-ai-applications-26mp)
+- [Installing Git Bash on Windows: A Beginner’s Guide](https://dev.to/mwangi_sharon/installing-git-bash-on-windows-a-beginners-guide-2k9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
