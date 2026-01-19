@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Autonomous AI Nutritionist: From Blood Sugar Prediction to Instacart Checkout](https://dev.to/beck_moulton/build-an-autonomous-ai-nutritionist-from-blood-sugar-prediction-to-instacart-checkout-544n)
-- [Validating Native Python: A Practical Approach with baredtype](https://dev.to/veer66/validating-native-python-a-practical-approach-with-baredtype-44g1)
-- [Fix OBS Studio Microphone Permission Issues on macOS Hackintosh](https://dev.to/jervi/fix-obs-studio-microphone-permission-issues-on-macos-hackintosh-2mn)
-- [Mi primera migración a la nube: Cómo moví mi portafolio de GitHub Pages a AWS Amplify](https://dev.to/anyelodev/mi-primera-migracion-a-la-nube-como-movi-mi-portafolio-de-github-pages-a-aws-amplify-2na5)
-- [How I Reduced My Test Suite by 72% Using TestIQ](https://dev.to/kirankotari/how-i-reduced-my-test-suite-by-72-using-testiq-3ff2)
+- [Kalibr: If You&#39;re Debugging Agents Manually, You&#39;re Behind](https://dev.to/devon__kelley/kalibr-if-youre-debugging-agents-manually-youre-behind-551i)
+- [Hello World, PardoX: Why I Built a Data Engine in Rust &lpar;and Why I Need You to Break It&rpar;](https://dev.to/betoalien/hello-world-pardox-why-i-built-a-data-engine-in-rust-and-why-i-need-you-to-break-it-1pik)
+- [Benchmark Report: Analyzing the Time-Space Trade-off in Memory Allocators &lpar;hakozuna vs tcmalloc&rpar;](https://dev.to/charmpic/benchmark-report-analyzing-the-time-space-trade-off-in-memory-allocators-hakozuna-vs-tcmalloc-5om)
+- [Event Driven Design &amp; Message Driven Design](https://dev.to/rachelsarchive/event-driven-design-message-driven-design-1afe)
+- [Turning Your Living Room into a Couch Co-op Arena with TouchCoop](https://dev.to/remojansen/turning-your-living-room-into-a-couch-co-op-arena-with-touchcoop-249j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
