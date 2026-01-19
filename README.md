@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Putting Everything in AGENTS.md](https://dev.to/shinpr/stop-putting-everything-in-agentsmd-22bl)
-- [AI Finally Lets Startups Sweat the Small Stuff](https://dev.to/traviticus/ai-finally-lets-startups-sweat-the-small-stuff-15di)
-- [eSIM Routing Explained: Where Your Traffic Actually Goes](https://dev.to/julianh/esim-routing-explained-where-your-traffic-actually-goes-3b65)
-- [From Manual Fallout to Agentic Recovery: Modernizing OSS Failure Handling](https://dev.to/santiagogonzalez/from-manual-fallout-to-agentic-recovery-modernizing-oss-failure-handling-2551)
-- [Pain &amp; suffering. Filenames on PocketBook](https://dev.to/axkira/pain-suffering-filenames-on-pocketbook-3cpa)
+- [ROS2 SYSTEMS ANALYSIS: Bringing Nodes To Life](https://dev.to/eyetengu/ros2-systems-analysis-bringing-nodes-to-life-450f)
+- [I RAN A STATIC LINTER ON 3.2 BILLION LINES OF LEGACY CODE &lpar;THE HUMAN GENOME&rpar;](https://dev.to/sirfederick/i-ran-a-static-linter-on-32-billion-lines-of-legacy-code-the-human-genome-2oeh)
+- [From Spreadsheets to Insights The Data Mart Journey for Associations](https://dev.to/ravi_shivdas/from-spreadsheets-to-insights-the-data-mart-journey-for-associations-53n0)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 16&rpar;: Vampire Shooting Game &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-16-vampire-shooting-game-sample-42h7)
+- [How to Work Remotely: Simple Tips for Productivity and Success](https://dev.to/edriso/how-to-work-remotely-simple-tips-for-productivity-and-success-m8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
