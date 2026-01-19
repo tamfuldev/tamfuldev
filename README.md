@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Our Roots: The All-New locize.com](https://dev.to/adrai/back-to-our-roots-the-all-new-locizecom-11bg)
-- [PodcastAIStudio: Now with VoxCPM Text-to-Speech - Professional Voice AI Made Accessible](https://dev.to/hannesegi_65f6f1d62f5faea/introducing-podcastaistudio-ai-powered-podcast-creation-made-simple-khh)
-- [API vs MCP: Understanding the Shift From Developer Tools to AI Agents](https://dev.to/haseeb1009/api-vs-mcp-understanding-the-shift-from-developer-tools-to-ai-agents-5dcn)
-- [Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts](https://dev.to/mindsdb/building-ai-powered-data-analytics-with-mindsdb-enterprise-from-natural-language-to-charts-49o3)
-- [My Coding Rules for Bash Scripts](https://dev.to/mcgivrer/my-coding-rules-for-bash-scripts-4n3j)
+- [Combine #16: Manejo de errores](https://dev.to/david_goyes_a488f58a17a53/combine-16-manejo-de-errores-208k)
+- [How to Set Up Zomato&#39;s MCP Server with ChatGPT &lpar;Complete Guide - No Whitelisting Issues&rpar;](https://dev.to/apoorvaventra/how-to-set-up-zomatos-mcp-server-with-chatgpt-complete-guide-no-whitelisting-issues-4iij)
+- [Ringer Movies: The Matt Damon and Ben Affleck Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-matt-damon-and-ben-affleck-movie-draft-4eec)
+- [Understanding the RegexEntityExtractor in RASA](https://dev.to/aniket_kuyate_15acc4e6587/understanding-the-regexentityextractor-in-rasa-4903)
+- [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
