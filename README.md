@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Combine #16: Manejo de errores](https://dev.to/david_goyes_a488f58a17a53/combine-16-manejo-de-errores-208k)
-- [How to Set Up Zomato&#39;s MCP Server with ChatGPT &lpar;Complete Guide - No Whitelisting Issues&rpar;](https://dev.to/apoorvaventra/how-to-set-up-zomatos-mcp-server-with-chatgpt-complete-guide-no-whitelisting-issues-4iij)
-- [Ringer Movies: The Matt Damon and Ben Affleck Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-matt-damon-and-ben-affleck-movie-draft-4eec)
-- [Understanding the RegexEntityExtractor in RASA](https://dev.to/aniket_kuyate_15acc4e6587/understanding-the-regexentityextractor-in-rasa-4903)
-- [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
+- [EF Core Change Tracking: The Bug Factory You Accidentally Built](https://dev.to/paulafahmy/ef-core-change-tracking-the-bug-factory-you-accidentally-built-3e2o)
+- [Building a Google Places Extraction Tool That Actually Scales](https://dev.to/domharvest/building-a-google-places-extraction-tool-that-actually-scales-1i1j)
+- [When You Need Unique Users but Can’t Force Login](https://dev.to/junaidul_islamjarif_f892/when-you-need-unique-users-but-cant-force-login-2jk2)
+- [Copilot Control vs. SharePoint Control | Who Really Owns the Document State?](https://dev.to/aakash_rahsi/copilot-control-vs-sharepoint-control-who-really-owns-the-document-state-4klh)
+- [Understanding Application Performance from a User Perspective](https://dev.to/alice_weber_3110/understanding-application-performance-from-a-user-perspective-m01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
