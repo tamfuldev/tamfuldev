@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EF Core Change Tracking: The Bug Factory You Accidentally Built](https://dev.to/paulafahmy/ef-core-change-tracking-the-bug-factory-you-accidentally-built-3e2o)
-- [Building a Google Places Extraction Tool That Actually Scales](https://dev.to/domharvest/building-a-google-places-extraction-tool-that-actually-scales-1i1j)
-- [When You Need Unique Users but Can’t Force Login](https://dev.to/junaidul_islamjarif_f892/when-you-need-unique-users-but-cant-force-login-2jk2)
-- [Copilot Control vs. SharePoint Control | Who Really Owns the Document State?](https://dev.to/aakash_rahsi/copilot-control-vs-sharepoint-control-who-really-owns-the-document-state-4klh)
-- [Understanding Application Performance from a User Perspective](https://dev.to/alice_weber_3110/understanding-application-performance-from-a-user-perspective-m01)
+- [Stop Putting Everything in AGENTS.md](https://dev.to/shinpr/stop-putting-everything-in-agentsmd-22bl)
+- [AI Finally Lets Startups Sweat the Small Stuff](https://dev.to/traviticus/ai-finally-lets-startups-sweat-the-small-stuff-15di)
+- [eSIM Routing Explained: Where Your Traffic Actually Goes](https://dev.to/julianh/esim-routing-explained-where-your-traffic-actually-goes-3b65)
+- [From Manual Fallout to Agentic Recovery: Modernizing OSS Failure Handling](https://dev.to/santiagogonzalez/from-manual-fallout-to-agentic-recovery-modernizing-oss-failure-handling-2551)
+- [Pain &amp; suffering. Filenames on PocketBook](https://dev.to/axkira/pain-suffering-filenames-on-pocketbook-3cpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
