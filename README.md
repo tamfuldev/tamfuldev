@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ROS2 SYSTEMS ANALYSIS: Bringing Nodes To Life](https://dev.to/eyetengu/ros2-systems-analysis-bringing-nodes-to-life-450f)
-- [I RAN A STATIC LINTER ON 3.2 BILLION LINES OF LEGACY CODE &lpar;THE HUMAN GENOME&rpar;](https://dev.to/sirfederick/i-ran-a-static-linter-on-32-billion-lines-of-legacy-code-the-human-genome-2oeh)
-- [From Spreadsheets to Insights The Data Mart Journey for Associations](https://dev.to/ravi_shivdas/from-spreadsheets-to-insights-the-data-mart-journey-for-associations-53n0)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 16&rpar;: Vampire Shooting Game &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-16-vampire-shooting-game-sample-42h7)
-- [How to Work Remotely: Simple Tips for Productivity and Success](https://dev.to/edriso/how-to-work-remotely-simple-tips-for-productivity-and-success-m8h)
+- [How React works?](https://dev.to/vijayaragavan_nandhagopal/how-react-works-lhk)
+- [I&#39;m Building My Own Coding Agent Harness &lpar;And It&#39;s Pretty Cool&rpar;](https://dev.to/composiodev/im-building-my-own-coding-agent-harness-and-its-pretty-cool-1lpf)
+- [Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 2 Create and store text and image embeddings](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-2-create-and-27d8)
+- [I Deployed My AI Portfolio on Google Cloud Run with Gemini API dev-tutorial: devnewyear2026](https://dev.to/mohamed_coulibaly/i-deployed-my-ai-portfolio-on-google-cloud-run-with-gemini-api-dev-tutorial-devnewyear2026-1116)
+- [Benchmarking Socket.IO Servers](https://dev.to/sahaj-b/benchmarking-socketio-servers-4n9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
