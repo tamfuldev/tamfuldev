@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tran Ngoc Tam</h1>
+# 👋 Hello, I'm Tam
+
+Welcome to my GitHub profile! I'm a passionate developer committed to building meaningful software and contributing to the open-source community. 
 
 ---
 
