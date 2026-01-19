@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Trade-off: Clean Testing vs. Code Brevity in Modern JS](https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0)
-- [PageSpeed 70 vs 95: the true reality](https://dev.to/rmarsigli/pagespeed-70-vs-95-the-true-reality-3kb0)
-- [Caching Strategies for LLM Systems &lpar;Part 2&rpar;: KV Cache and the Mathematics of Fast Transformer Inference](https://dev.to/vaibhav_ahluwalia_b39a1b3/caching-strategies-for-llm-systems-part-2-kv-cache-and-the-mathematics-of-fast-transformer-4pfe)
-- [Building Collapsible Content with react-collapse in React](https://dev.to/devchainkit/building-collapsible-content-with-react-collapse-in-react-4ibl)
-- [The Devil’s Clean Code: Lessons from Migrating a 20-Year-Old Legacy Project](https://dev.to/bebetos92/the-devils-clean-code-lessons-from-migrating-a-20-year-old-legacy-project-2nhh)
+- [What a Tiny Raspberry Pi Taught Me About DNS, Privacy, and Control at Home](https://dev.to/sidbathi/what-a-tiny-raspberry-pi-taught-me-about-dns-privacy-and-control-at-home-501p)
+- [Lock N&#39; Key : The Developer&#39;s Vault](https://dev.to/ratik_krishna_a93df020997/lock-n-key-the-developers-vault-40co)
+- [MongoDB backup best practices — Essential strategies for MongoDB backup and recovery](https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l)
+- [Building Smooth Scrolling with react-scroll in React](https://dev.to/blockpathdev/building-smooth-scrolling-with-react-scroll-in-react-3l2)
+- [Building Drag-and-Drop Tree Views with he-tree-react in React](https://dev.to/blockpathdev/building-drag-and-drop-tree-views-with-he-tree-react-in-react-293d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
