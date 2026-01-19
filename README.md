@@ -4,11 +4,11 @@
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub + Azure DevOps: The Better Together Story &lpar;And Why GitHub Should Be Your Future](https://dev.to/vevarunsharma/github-azure-devops-the-better-together-story-and-why-github-should-be-your-future-1bb6)
-- [human-time-2026: Convert Timestamps to Human Time with JavaScript](https://dev.to/jqueryscript/human-time-2026-convert-timestamps-to-human-time-with-javascript-1b5a)
-- [Daily Tech News Roundup - 2026-01-19](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-19-44b6)
-- [Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕](https://dev.to/_90182f41aa96ab0f245ab/introducing-weddingcrosswordcom-custom-crossword-puzzles-for-your-special-day-k7k)
-- [10 Ways to Stand Out at Work—Other than Work Hard](https://dev.to/canro91/10-ways-to-stand-out-at-work-other-than-work-hard-1gpa)
+- [Why do I come back to the same songs during hard moments?](https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji)
+- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)
+- [I&#39;m making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l)
+- [Razer AIKit: Open-Source, Local-First AI Workflows for Developers](https://dev.to/mishmanners/razer-aikit-open-source-local-first-ai-workflows-for-developers-4nig)
+- [If ChatGPT Writes Your Code, What Are You Getting Paid For?](https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
