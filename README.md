@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Two Pointer for Beginners — Reverse an Array &lpar;In-Place&rpar;](https://dev.to/nithya_dharshiniofficial/two-pointer-for-beginners-reverse-an-array-in-place-5aca)
-- [Control-Flow Statement Programs in java](https://dev.to/kavitha_krish/control-flow-statement-programs-in-java-54ad)
-- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
-- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
-- [🎯 SLI, SLO, SLA Explained 🎯](https://dev.to/itsmecharan7/sli-slo-sla-explained-53g1)
+- [Can we build a messenger with zero servers? My attempt at a truly serverless P2P tool.](https://dev.to/lordtao/can-we-build-a-messenger-with-zero-servers-my-attempt-at-a-truly-serverless-p2p-tool-oi1)
+- [C# String Operations](https://dev.to/allcoderthings/c-string-operations-3eo6)
+- [From Learning in Silence to Leading a Community](https://dev.to/mohanapriya_s_1808/from-learning-in-silence-to-leading-a-community-4cc1)
+- [Exception Handling in Java](https://dev.to/vidya_varshini/exception-handling-in-java-4kpi)
+- [AI Productivity Gains?](https://dev.to/richardpascoe/ai-productivity-gains-3m3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
