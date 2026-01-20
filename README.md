@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
-- [Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)
-- [Adding Attachments to PDF Documents Using C#](https://dev.to/allen_yang_f905170c5a197b/adding-attachments-to-pdf-documents-using-c-4hb)
-- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
-- [Building a minimal Go framework in public &lpar;v0.1.3&rpar;](https://dev.to/jackprescott/building-a-minimal-go-framework-in-public-v013-3c5o)
+- [Escape the Backrooms](https://dev.to/grant_macleod_fa25635a596/escape-the-backrooms-2o16)
+- [Proyecto Autopilot: Por qué me despedí como Community Manager para construir un Ejército de agentes de IA](https://dev.to/datalaria/proyecto-autopilot-por-que-me-despedi-como-community-manager-para-construir-un-ejercito-de-agentes-402b)
+- [NEW CSS Scroll Features Will Replace JavaScript](https://dev.to/zainmuhammad/new-css-scroll-features-will-replace-javascript-4g11)
+- [Getting started with the REST API in Spring Boot.](https://dev.to/gokul_gk/getting-started-with-the-rest-api-in-spring-boot-2cek)
+- [Problem 10: Duplicate Removal](https://dev.to/highcenburg/problem-10-duplicate-removal-4884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
