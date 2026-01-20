@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Named Query Filters in .NET 10](https://dev.to/hamza_darouzi_dotnet/named-query-filters-in-net-10-47hp)
-- [Architectural Drift: The Reason For JavaScript/Typescript Codebases To Break Down Over Time](https://dev.to/fixcik/architectural-drift-the-reason-for-javascripttypescript-codebases-to-break-down-over-time-471g)
-- [Building an API in Go to Manage Files on Amazon S3](https://dev.to/joaooliveiratech/building-an-api-in-go-to-manage-files-on-amazon-s3-4olc)
-- [LLMs - What are they good for, anyway?](https://dev.to/jballanc/llms-what-are-they-good-for-anyway-3p12)
-- [A Linux Desktop in Jupyter Lab](https://dev.to/spara_50/a-linux-desktop-in-jupyter-lab-4khg)
+- [Modern Power App development takes a lot of... SPACE.](https://dev.to/_neronotte/modern-power-app-development-takes-a-lot-of-space-3f3j)
+- [From branches to trunk &lpar;a journey&rpar;](https://dev.to/mrksdck/from-branches-to-trunk-a-journey-2kc8)
+- [🚀 Angular y el laberinto tech: con IA todo es mejor!](https://dev.to/laumontironi/angular-y-el-laberinto-tech-con-ia-todo-es-mejor-1foi)
+- [Turbocharging Flask: High-Performance Serialization with orjson](https://dev.to/deepak_mishra_35863517037/turbocharging-flask-high-performance-serialization-with-orjson-4an3)
+- [Building ClipSearch: AI-Powered Product Sourcing for Interior Designers](https://dev.to/ben_stone_5608b8e2d9f8973/building-clipsearch-ai-powered-product-sourcing-for-interior-designers-1bj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
