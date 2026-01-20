@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can we build a messenger with zero servers? My attempt at a truly serverless P2P tool.](https://dev.to/lordtao/can-we-build-a-messenger-with-zero-servers-my-attempt-at-a-truly-serverless-p2p-tool-oi1)
-- [C# String Operations](https://dev.to/allcoderthings/c-string-operations-3eo6)
-- [From Learning in Silence to Leading a Community](https://dev.to/mohanapriya_s_1808/from-learning-in-silence-to-leading-a-community-4cc1)
-- [Exception Handling in Java](https://dev.to/vidya_varshini/exception-handling-in-java-4kpi)
-- [AI Productivity Gains?](https://dev.to/richardpascoe/ai-productivity-gains-3m3)
+- [Multi-Agent Architectures: Patterns Every AI Engineer Should Know](https://dev.to/sateesh2020/multi-agent-architectures-patterns-every-ai-engineer-should-know-jij)
+- [Using Proxies with Scrapy: The Beginner&#39;s Guide](https://dev.to/ikram_khan/using-proxies-with-scrapy-the-beginners-guide-dbj)
+- [Svetlina’s Quest: A Gamified Portfolio](https://dev.to/svet_62385e9/svetlinas-quest-a-gamified-portfolio-14bh)
+- [Why Let Users Choose Between Being Nice and Being Paranoid? 🔄](https://dev.to/rolan_r_n_r/why-let-users-choose-between-being-nice-and-being-paranoid-5c8n)
+- [How to make GPUs on Kubernetes Observable](https://dev.to/coroot/making-gpus-on-kubernetes-observable-d2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
