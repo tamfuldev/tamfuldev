@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [k8s debug pod](https://dev.to/aws-builders/k8s-debug-pod-57m4)
-- [LOGOS v1.4.1: Building Multi-Engine AI Reasoning You Can Actually Trust](https://dev.to/flamehaven01/logos-v141-building-multi-engine-ai-reasoning-you-can-actually-trust-4b2f)
-- [From Chaos to signal: Taming high-frequency OS events in Go](https://dev.to/asoseil/from-chaos-to-signal-taming-high-frequency-os-events-in-go-4p8k)
-- [An interesting article to read.](https://dev.to/anthonymax/an-interesting-article-to-read-317b)
-- [Vibe Coding Trap: Why AI Shortcuts Sabotage Junior Dev Careers](https://dev.to/dr_hernani_costa/vibe-coding-trap-why-ai-shortcuts-sabotage-junior-dev-careers-3hk4)
+- [Two Pointer for Beginners — Reverse an Array &lpar;In-Place&rpar;](https://dev.to/nithya_dharshiniofficial/two-pointer-for-beginners-reverse-an-array-in-place-5aca)
+- [Control-Flow Statement Programs in java](https://dev.to/kavitha_krish/control-flow-statement-programs-in-java-54ad)
+- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
+- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
+- [🎯 SLI, SLO, SLA Explained 🎯](https://dev.to/itsmecharan7/sli-slo-sla-explained-53g1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
