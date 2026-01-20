@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deterministic Physics in TS: Why I Wrote a Fixed-Point Engine](https://dev.to/shaisrc/deterministic-physics-in-ts-why-i-wrote-a-fixed-point-engine-4b0l)
-- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
-- [The Accidental Reviewer Part 1: How I Learnt to Review Code Across 5 Stacks](https://dev.to/snowleo208/the-accidental-reviewer-part-1-how-i-learnt-to-review-code-across-5-stacks-1214)
-- [What to Review Before Merging to `main`: A Practical Code Review Checklist](https://dev.to/samuel_ruiz_64604c4d0ba22/what-to-review-before-merging-to-main-a-practical-code-review-checklist-2b8l)
-- [Building an AI-Enhanced API Validator: A Weekend Developer&#39;s Journey](https://dev.to/itsprakash84/building-an-ai-enhanced-api-validator-a-weekend-developers-journey-386a)
+- [Named Query Filters in .NET 10](https://dev.to/hamza_darouzi_dotnet/named-query-filters-in-net-10-47hp)
+- [Architectural Drift: The Reason For JavaScript/Typescript Codebases To Break Down Over Time](https://dev.to/fixcik/architectural-drift-the-reason-for-javascripttypescript-codebases-to-break-down-over-time-471g)
+- [Building an API in Go to Manage Files on Amazon S3](https://dev.to/joaooliveiratech/building-an-api-in-go-to-manage-files-on-amazon-s3-4olc)
+- [LLMs - What are they good for, anyway?](https://dev.to/jballanc/llms-what-are-they-good-for-anyway-3p12)
+- [A Linux Desktop in Jupyter Lab](https://dev.to/spara_50/a-linux-desktop-in-jupyter-lab-4khg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
