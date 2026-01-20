@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [700 views vs 8% conversion: Why I redesigned my Next.js site to a Bento Grid &lpar;Day 3&rpar;](https://dev.to/velox-web/700-views-vs-8-conversion-why-i-redesigned-my-nextjs-site-to-a-bento-grid-day-3-45o6)
-- [Data Engineering vs Data Science: What’s the Difference? &lpar;And Which Career Should You Choose?&rpar;](https://dev.to/maina_murage/data-engineering-vs-data-science-whats-the-difference-and-which-career-should-you-choose-4c1e)
-- [4 causes of table bloat in PostgreSQL and how to address them](https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9)
-- [I Analyzed 3,000 Developer Job Postings Overnight &lpar;Here&#39;s What I Found&rpar;](https://dev.to/katsura/i-analyzed-3000-developer-job-postings-overnight-heres-what-i-found-572l)
-- [Top 5 CLI Coding Agents in 2026](https://dev.to/lightningdev123/top-5-cli-coding-agents-in-2026-3pia)
+- [Compiling JavaScript](https://dev.to/selvaraj_ganesan_03/compiling-javascript-43nm)
+- [Industry Survey: Faster Coding, Slower Debugging](https://dev.to/morethananai/industry-survey-faster-coding-slower-debugging-5cma)
+- [unior Devs Write Code. Senior Devs Delete It.](https://dev.to/freerave/unior-devs-write-code-senior-devs-delete-it-5d)
+- [Building WSL-UI: The Microsoft Store Journey](https://dev.to/octasoft-ltd/building-wsl-ui-the-microsoft-store-journey-2428)
+- [Stepping into agentic coding](https://dev.to/ms_74/stepping-into-agentic-coding-58ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
