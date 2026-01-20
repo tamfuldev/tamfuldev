@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Viral Content Predictor Using Early Engagement Signals](https://dev.to/olams/build-a-viral-content-predictor-using-early-engagement-signals-1f2c)
-- [Rapg: TUI-based Secret Manager](https://dev.to/kanywst/rapg-tui-based-secret-manager-4d7p)
-- [You Don&#39;t Need a CLAUDE.md](https://dev.to/byme8/you-dont-need-a-claudemd-jgf)
-- [Excel isn’t the problem. The way it’s treated is.](https://dev.to/christsimplifiedloader/excel-isnt-the-problem-the-way-its-treated-is-2pg4)
-- [HackPrix Season 1 Recap](https://dev.to/hackprixcommunity/hackprix-season-1-recap-1f9j)
+- [I&#39;m 17 and built my first SaaS. Here&#39;s the tech stack and what I&#39;d do differently.](https://dev.to/animiso_ce2f2f2e181032b7b/-the-i-wish-i-knew-this-before-i-started-thread-40ea)
+- [Make Your Technical Tutorials Interactive with SQLize Embed](https://dev.to/rozhnev/make-your-technical-tutorials-interactive-with-sqlize-embed-1eo3)
+- [Terraform S3 Native State Locking - Ditch DynamoDB Forever](https://dev.to/megha_shivhare_5038dc1047/terraform-s3-native-state-locking-ditch-dynamodb-forever-4dpa)
+- [Hands-On Practice: Amazon Personalize](https://dev.to/khaibq/hands-on-practice-amazon-personalize-3kol)
+- [Beyond Just Code: Crafting a Portfolio That Stands Out in 2026](https://dev.to/dpeluola/beyond-just-code-crafting-a-portfolio-that-stands-out-in-2026-4ck0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
