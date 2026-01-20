@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Power App development takes a lot of... SPACE.](https://dev.to/_neronotte/modern-power-app-development-takes-a-lot-of-space-3f3j)
-- [From branches to trunk &lpar;a journey&rpar;](https://dev.to/mrksdck/from-branches-to-trunk-a-journey-2kc8)
-- [🚀 Angular y el laberinto tech: con IA todo es mejor!](https://dev.to/laumontironi/angular-y-el-laberinto-tech-con-ia-todo-es-mejor-1foi)
-- [Turbocharging Flask: High-Performance Serialization with orjson](https://dev.to/deepak_mishra_35863517037/turbocharging-flask-high-performance-serialization-with-orjson-4an3)
-- [Building ClipSearch: AI-Powered Product Sourcing for Interior Designers](https://dev.to/ben_stone_5608b8e2d9f8973/building-clipsearch-ai-powered-product-sourcing-for-interior-designers-1bj7)
+- [A Developer&#39;s Map to Shopify UCP](https://dev.to/julesk/a-developers-map-to-shopify-ucp-1c55)
+- [The Google Cloud CLI Installation Saga: How I Conquered Python Path Hell on macOS](https://dev.to/eunice-js/the-google-cloud-cli-installation-saga-how-i-conquered-python-path-hell-on-macos-3605)
+- [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
+- [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
+- [New NPM package: ralph-task](https://dev.to/stevenmhunt/new-npm-package-ralph-taskhttpswwwnpmjscompackageralph-task-3c0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
