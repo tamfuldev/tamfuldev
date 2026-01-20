@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Data Recovery using Snapshots - Amazon FSx for NetApp ONTAP](https://dev.to/iseecodepeople/quick-data-recovery-using-snapshots-amazon-fsx-for-netapp-ontap-2f10)
-- [PostgreSQL vs. MySQL: Which is the King of 2026?](https://dev.to/sandipyadav/postgresql-vs-mysql-which-is-the-king-of-2026-4m83)
-- [🔥 5 Best React UI Libraries for 2026 &lpar;And When to Use Each&rpar; 🚀](https://dev.to/ansonch/5-best-react-ui-libraries-for-2026-and-when-to-use-each-1p4j)
-- [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
-- [AI Coding Tip 003 - Force Read-Only Planning](https://dev.to/mcsee/ai-coding-tip-003-force-read-only-planning-1d1m)
+- [Build a Viral Content Predictor Using Early Engagement Signals](https://dev.to/olams/build-a-viral-content-predictor-using-early-engagement-signals-1f2c)
+- [Rapg: TUI-based Secret Manager](https://dev.to/kanywst/rapg-tui-based-secret-manager-4d7p)
+- [You Don&#39;t Need a CLAUDE.md](https://dev.to/byme8/you-dont-need-a-claudemd-jgf)
+- [Excel isn’t the problem. The way it’s treated is.](https://dev.to/christsimplifiedloader/excel-isnt-the-problem-the-way-its-treated-is-2pg4)
+- [HackPrix Season 1 Recap](https://dev.to/hackprixcommunity/hackprix-season-1-recap-1f9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
