@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent Architectures: Patterns Every AI Engineer Should Know](https://dev.to/sateesh2020/multi-agent-architectures-patterns-every-ai-engineer-should-know-jij)
-- [Using Proxies with Scrapy: The Beginner&#39;s Guide](https://dev.to/ikram_khan/using-proxies-with-scrapy-the-beginners-guide-dbj)
-- [Svetlina’s Quest: A Gamified Portfolio](https://dev.to/svet_62385e9/svetlinas-quest-a-gamified-portfolio-14bh)
-- [Why Let Users Choose Between Being Nice and Being Paranoid? 🔄](https://dev.to/rolan_r_n_r/why-let-users-choose-between-being-nice-and-being-paranoid-5c8n)
-- [How to make GPUs on Kubernetes Observable](https://dev.to/coroot/making-gpus-on-kubernetes-observable-d2d)
+- [Deterministic Physics in TS: Why I Wrote a Fixed-Point Engine](https://dev.to/shaisrc/deterministic-physics-in-ts-why-i-wrote-a-fixed-point-engine-4b0l)
+- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
+- [The Accidental Reviewer Part 1: How I Learnt to Review Code Across 5 Stacks](https://dev.to/snowleo208/the-accidental-reviewer-part-1-how-i-learnt-to-review-code-across-5-stacks-1214)
+- [What to Review Before Merging to `main`: A Practical Code Review Checklist](https://dev.to/samuel_ruiz_64604c4d0ba22/what-to-review-before-merging-to-main-a-practical-code-review-checklist-2b8l)
+- [Building an AI-Enhanced API Validator: A Weekend Developer&#39;s Journey](https://dev.to/itsprakash84/building-an-ai-enhanced-api-validator-a-weekend-developers-journey-386a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
