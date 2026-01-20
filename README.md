@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stanikmas, Lynn. &lpar;2025&rpar;. CodeChallenge. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2025-codechallenge-github-33je)
-- [Step-by-Step Guide: Build a CRUD Blazor App with Entity Framework and PostgreSQL](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-build-a-crud-blazor-app-with-entity-framework-and-postgresql-3ccj)
-- [Deployed Profile to Google Cloud via AI Interface in Antigravity](https://dev.to/annavi11arrea1/deployed-profile-to-google-cloud-via-ai-interface-in-antigravity-2c83)
-- [Production-Ready Rust Project Setup: From Zero to CI/CD](https://dev.to/ajitkumar/production-ready-rust-project-setup-from-zero-to-cicd-jp4)
-- [Building llama.cpp in an Environment Without curl Headers](https://dev.to/vast-cow/building-llamacpp-in-an-environment-without-curl-headers-2ahn)
+- [Get Started With Image Classification in Kaggle using Python](https://dev.to/ddebajyati/get-started-with-image-classification-in-kaggle-using-python-4nam)
+- [AI Tools Race Heats Up: Week of January 13-19, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-january-13-19-2026-2a87)
+- [Google api](https://dev.to/0345361887/google-api-ce0)
+- [ReactJS Hook Pattern ~Deriving State~](https://dev.to/kkr0423/reactjs-hook-pattern-deriving-state-3og6)
+- [3 Mistakes Most Beginner Developers Make](https://dev.to/pritish_academy/3-mistakes-most-beginner-developers-make-48l7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
