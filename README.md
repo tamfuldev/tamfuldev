@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Finance Project: When Diversification Doesn&#39;t Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp)
-- [The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26)
-- [Deploying a Real React App on an Ubuntu VM with AWS and Serving It with Nginx](https://dev.to/theodora_e6f61d02577a5f06/deploying-a-real-react-app-on-an-ubuntu-vm-with-aws-and-serving-it-with-nginx-13o)
-- [Implementing Copy-to-Clipboard in Rails 8: The Modern Way](https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c)
-- [🐛 QA is Dead &lpar;Long Live the Agent&rpar;: How Cursor&#39;s &quot;Bug Bot&quot; Fixes Code While You Sleep](https://dev.to/siddhesh_surve/qa-is-dead-long-live-the-agent-how-cursors-bug-bot-fixes-code-while-you-sleep-35la)
+- [Stanikmas, Lynn. &lpar;2025&rpar;. CodeChallenge. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2025-codechallenge-github-33je)
+- [Step-by-Step Guide: Build a CRUD Blazor App with Entity Framework and PostgreSQL](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-build-a-crud-blazor-app-with-entity-framework-and-postgresql-3ccj)
+- [Deployed Profile to Google Cloud via AI Interface in Antigravity](https://dev.to/annavi11arrea1/deployed-profile-to-google-cloud-via-ai-interface-in-antigravity-2c83)
+- [Production-Ready Rust Project Setup: From Zero to CI/CD](https://dev.to/ajitkumar/production-ready-rust-project-setup-from-zero-to-cicd-jp4)
+- [Building llama.cpp in an Environment Without curl Headers](https://dev.to/vast-cow/building-llamacpp-in-an-environment-without-curl-headers-2ahn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
