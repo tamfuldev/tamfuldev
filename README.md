@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling JavaScript](https://dev.to/selvaraj_ganesan_03/compiling-javascript-43nm)
-- [Industry Survey: Faster Coding, Slower Debugging](https://dev.to/morethananai/industry-survey-faster-coding-slower-debugging-5cma)
-- [unior Devs Write Code. Senior Devs Delete It.](https://dev.to/freerave/unior-devs-write-code-senior-devs-delete-it-5d)
-- [Building WSL-UI: The Microsoft Store Journey](https://dev.to/octasoft-ltd/building-wsl-ui-the-microsoft-store-journey-2428)
-- [Stepping into agentic coding](https://dev.to/ms_74/stepping-into-agentic-coding-58ip)
+- [Quick Data Recovery using Snapshots - Amazon FSx for NetApp ONTAP](https://dev.to/iseecodepeople/quick-data-recovery-using-snapshots-amazon-fsx-for-netapp-ontap-2f10)
+- [PostgreSQL vs. MySQL: Which is the King of 2026?](https://dev.to/sandipyadav/postgresql-vs-mysql-which-is-the-king-of-2026-4m83)
+- [🔥 5 Best React UI Libraries for 2026 &lpar;And When to Use Each&rpar; 🚀](https://dev.to/ansonch/5-best-react-ui-libraries-for-2026-and-when-to-use-each-1p4j)
+- [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
+- [AI Coding Tip 003 - Force Read-Only Planning](https://dev.to/mcsee/ai-coding-tip-003-force-read-only-planning-1d1m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
