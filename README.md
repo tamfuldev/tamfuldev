@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-348n)
-- [I built a niche gaming tool in 3 days: My journey building an interactive Blue Hive Guide 🐝](https://dev.to/_8cf38bbd4754d55996b08/i-built-a-niche-gaming-tool-in-3-days-my-journey-building-an-interactive-blue-hive-guide-koo)
-- [We Just Shipped Responses API Support in Bifrost &lpar;And It&#39;s Cleaner Than Chat Completions&rpar;](https://dev.to/pranay_batta/we-just-shipped-responses-api-support-in-bifrost-and-its-cleaner-than-chat-completions-3pih)
-- [How Java is Used in Selenium Automation Testing &lpar;Complete Guide&rpar;](https://dev.to/scientecheasy/how-java-is-used-in-selenium-automation-testing-complete-guide-g9g)
-- [OpenAI Responses API in an LLM Gateway: What Changed and Why It Matters](https://dev.to/debmckinney/openai-responses-api-in-an-llm-gateway-what-changed-and-why-it-matters-j9h)
+- [Using Clustering to Group Songs by Tempo, Energy, and Vocals](https://dev.to/dilan_bosire/using-clustering-to-group-songs-by-tempo-energy-and-vocals-1505)
+- [When I Stopped Just Building Things](https://dev.to/jjsam/when-i-stopped-just-building-things-o2i)
+- [Preums, reminds me that coding without AI is magical](https://dev.to/amiceli/preums-reminds-me-that-coding-without-ai-is-magical-443a)
+- [Understanding the &lt;Activity&gt; Component in React 19](https://dev.to/shantih_palani/understanding-the-component-in-react-19-2k01)
+- [The Notification System That Sent 12,000 Messages at 3 AM](https://dev.to/faraz_farhan_83ed23a154a2/the-notification-system-that-sent-12000-messages-at-3-am-3hgb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
