@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Helpful Adversary](https://dev.to/conroywhitney/the-helpful-adversary-37le)
-- [REST Não Basta Mais: Por que suas APIs precisam de &quot;Contexto&quot; na era da IA](https://dev.to/espigah/rest-nao-basta-mais-por-que-suas-apis-precisam-de-contexto-na-era-da-ia-2md2)
-- [project: StatefulSet with replica&#39;s](https://dev.to/jumptotech/project-statefulset-with-replicas-4hhd)
-- [Two JavaScript Fundamentals You Need Before Implementing Signals](https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn)
-- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 7/7: Logout](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-77-logout-2p8)
+- [Why You Forget Code You Learned Last Week](https://dev.to/mr_elvis/why-you-forget-code-you-learned-last-week-16ga)
+- [YAKMESH™ v2.5.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v250-post-quantum-p2p-mesh-network-18id)
+- [Istio Service Mesh Troubleshooting Guide](https://dev.to/aicontentlab/istio-service-mesh-troubleshooting-guide-3d52)
+- [How to Ingest Your Legacy Database to Snowflake](https://dev.to/reza_brianca/how-to-ingest-your-legacy-database-to-snowflake-3ega)
+- [Why FPGA Programmes Fail Late and Why Tool Choice Is Rarely the Real Issue](https://dev.to/alpinumblogs/why-fpga-programmes-fail-late-and-why-tool-choice-is-rarely-the-real-issue-1l16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
