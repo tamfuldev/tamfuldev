@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
-- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
-- [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
-- [O Protocolo de Aquecimento de Whatsapp: Engenharia Social para não ser bloqueado](https://dev.to/icoda/o-protocolo-de-aquecimento-de-whatsapp-engenharia-social-para-nao-ser-bloqueado-2nil)
-- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
+- [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
+- [Contenido vs Interactividad: Como elegir tu siguiente Framework Web](https://dev.to/jusepemu/contenido-vs-interactividad-como-elegir-tu-siguiente-framework-web-211d)
+- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
+- [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
+- [How to Set Up a Robust E-commerce Platform with Nginx, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/how-to-set-up-a-robust-e-commerce-platform-with-nginx-grafana-and-prometheus-59om)
 <!-- BLOG-POST-LIST:END -->
 
 ---
