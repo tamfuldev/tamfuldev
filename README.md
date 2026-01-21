@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Migrate WordPress Posts to Ghost CMS: A Content Export Script](https://dev.to/techresolve/solved-migrate-wordpress-posts-to-ghost-cms-a-content-export-script-mgj)
-- [From Splicing Fibers to Scaling Clouds: My Journey to the AWS Community](https://dev.to/maureen_chepkirui_03c48a2/from-splicing-fibers-to-scaling-clouds-my-journey-to-the-aws-community-799)
-- [The Day I Let AI Write the Code — and the Day I Took the Keyboard Back](https://dev.to/isocyanideisgood/the-day-i-let-ai-write-the-code-and-the-day-i-took-the-keyboard-back-5l0)
-- [Why 80% of AI Code Reviews Are Just Noise](https://dev.to/synthaicode_commander/why-80-of-ai-code-reviews-are-just-noise-4i0o)
-- [Simple Ranking with SQLAlchemy](https://dev.to/sdkfz181tiger/simple-ranking-with-sqlalchemy-56bo)
+- [I Investigated the Top 3 AI-Generated Artists Going Viral on Spotify. Here’s Who They Are Imitating.](https://dev.to/prithwish_nath/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-heres-who-they-are-imitating-1c95)
+- [Adding the AWS WAF CAPTCHA to an Angular application](https://dev.to/rodrigokamada/adding-the-aws-waf-captcha-to-an-angular-application-571j)
+- [🚀 From an Idea to a Thriving AWS Cloud Community](https://dev.to/captain_rishabh_tanwar/from-an-idea-to-a-thriving-aws-cloud-community-2j51)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/anoop-rajoriya/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-3ooh)
+- [Data Analyst &lpar;ML track&rpar; - Portfolio.](https://dev.to/subdragon34/data-analyst-ml-track-portfolio-pg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
