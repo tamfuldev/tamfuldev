@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Create My 2026 Portfolio With Antigravity](https://dev.to/blaise_idi_5af2b56a7a026a/i-create-my-2026-portfolio-with-antigravity-3nji)
-- [Building in Public: CV Analyzer - Act 3 · Scene 1 : Before The AuthPage](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-3-scene-1-before-the-authpage-2g18)
-- [Are We All Just Copying Code and Pretending We Know What We&#39;re Doing?](https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk)
-- [Cypress.Promise.all&lpar;&rpar; and cy.mapChain&lpar;&rpar;: Two Hidden Gems for Cypress You Won’t Let Go Once You Try Them](https://dev.to/sebastianclavijo/cypresspromiseall-and-cymapchain-two-hidden-gems-for-cypress-you-wont-let-go-once-you-try-20mj)
-- [Docker, Beyond “It Works on My Machine”: A Senior Engineer’s Playbook](https://dev.to/antobenilofficial/docker-beyond-it-works-on-my-machine-a-senior-engineers-playbook-2fao)
+- [I Finally Updated My 2-Year-Old Portfolio &lpar;Thanks to Antigravity&rpar;](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
+- [Glossary in Python &lpar;1&rpar;](https://dev.to/hyperkai/glossary-in-python-1-58e1)
+- [I Stopped Guessing HTML &amp; CSS and Followed This Simple Plan &lpar;It Actually Worked&rpar;](https://dev.to/atharvparit/i-stopped-guessing-html-css-and-followed-this-simple-plan-it-actually-worked-mag)
+- [The OS of the Future: Will It Be Chat Based?](https://dev.to/jaideepparashar/the-os-of-the-future-will-it-be-chat-based-3jmo)
+- [How DNS Resolution Works](https://dev.to/abhimanyu_kumar_b94e042e9/how-dns-resolution-works-4m0n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
