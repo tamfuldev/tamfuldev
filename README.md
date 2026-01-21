@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SFTP con AWS Transfer Family y Amazon Cognito](https://dev.to/juan_gonzalez_6bc63085f7a/aws-sftp-con-aws-transfer-family-y-amazon-cognito-31o6)
-- [[Open Source] yt-dlp GUI with a beautiful interface and full features, support 1800+ websites.](https://dev.to/vanloctech1/open-source-download-high-quality-videos-without-ads-or-paywalls-base-on-yt-dlp-1kh2)
-- [MongoDB Data Sync for Offline-First Apps: Keep Data in Sync With ObjectBox and MongoDB Atlas](https://dev.to/mongodb/mongodb-data-sync-for-offline-first-apps-keep-data-in-sync-with-objectbox-and-mongodb-atlas-34k8)
-- [I shipped an 800-star Markdown editor without knowing Rust](https://dev.to/olaproeis/i-shipped-an-800-star-markdown-editor-without-knowing-rust-28g6)
-- [How to Connect a React App to an AWS Lambda Function URL.](https://dev.to/ericrodriguez10/how-to-connect-a-react-app-to-an-aws-lambda-function-url-1o92)
+- [The Context Window Paradox: Why Bigger Isn&#39;t Always Better in AI](https://dev.to/suryadeepsinh_gohil/the-context-window-paradox-why-bigger-isnt-always-better-in-ai-1clj)
+- [React এবং Vite: মডার্ন ওয়েব](https://dev.to/rasheddevx/react-ebn-vite-mddaarn-oyyeb-46e1)
+- [What is CodeMash?](https://dev.to/rfornal/what-is-codemash-1g0f)
+- [AdminJS v7 in classic NestJS without tears](https://dev.to/arab0v/adminjs-v7-in-classic-nestjs-without-tears-23en)
+- [MariaDB doesn&#39;t depend on MySQL](https://dev.to/alejandro_du/mariadb-doesnt-depend-on-mysql-4ok3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
