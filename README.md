@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer](https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb)
-- [RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search](https://dev.to/derrickryangiggs/rag-pipeline-deep-dive-ingestion-chunking-embedding-and-vector-search-2877)
-- [Kubernetes Networking Evolution: From Pods to Gateway API](https://dev.to/keneojiteli/kubernetes-networking-evolution-from-pods-to-gateway-api-127l)
-- [Moving from GitHub to Codeberg&lpar;Forgejo&rpar;](https://dev.to/janderssonse/moving-from-github-to-codebergforgejo-b3)
-- [Optimizing Crystal Build time in Woodpecker CI: 415s to 196s with Caching](https://dev.to/miry/optimizing-crystal-build-time-in-woodpecker-ci-415s-to-196s-with-caching-1o5k)
+- [AI-assisted coding: what worked for me and what didn’t &lpar;after 6 months&rpar;](https://dev.to/aws-builders/ai-assisted-coding-what-worked-for-me-and-what-didnt-after-6-months-ilk)
+- [Building Interview OS: A Privacy-First Job Search Tracker with Next.js](https://dev.to/iammhador/building-interview-os-a-privacy-first-job-search-tracker-with-nextjs-6c9)
+- [Designing Compliant Cloud Analytics on AWS: Why Enterprises Must Rethink Data Governance](https://dev.to/sudoconsultants/designing-compliant-cloud-analytics-on-aws-why-enterprises-must-rethink-data-governance-1k66)
+- [Understanding Network Devices: What Every IT Student Should Know 👨‍🎓](https://dev.to/kunal_dev/understanding-network-devices-what-every-it-student-should-know-31nj)
+- [Scaling to 70 Modules: Building a Web, Mobile, and API backend on one Convex deployment](https://dev.to/convexchampions/scaling-to-70-modules-building-a-web-mobile-and-api-backend-on-one-convex-deployment-3pcg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
