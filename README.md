@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Investigated the Top 3 AI-Generated Artists Going Viral on Spotify. Here’s Who They Are Imitating.](https://dev.to/prithwish_nath/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-heres-who-they-are-imitating-1c95)
-- [Adding the AWS WAF CAPTCHA to an Angular application](https://dev.to/rodrigokamada/adding-the-aws-waf-captcha-to-an-angular-application-571j)
-- [🚀 From an Idea to a Thriving AWS Cloud Community](https://dev.to/captain_rishabh_tanwar/from-an-idea-to-a-thriving-aws-cloud-community-2j51)
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/anoop-rajoriya/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-3ooh)
-- [Data Analyst &lpar;ML track&rpar; - Portfolio.](https://dev.to/subdragon34/data-analyst-ml-track-portfolio-pg0)
+- [AWS SFTP con AWS Transfer Family y Amazon Cognito](https://dev.to/juan_gonzalez_6bc63085f7a/aws-sftp-con-aws-transfer-family-y-amazon-cognito-31o6)
+- [[Open Source] yt-dlp GUI with a beautiful interface and full features, support 1800+ websites.](https://dev.to/vanloctech1/open-source-download-high-quality-videos-without-ads-or-paywalls-base-on-yt-dlp-1kh2)
+- [MongoDB Data Sync for Offline-First Apps: Keep Data in Sync With ObjectBox and MongoDB Atlas](https://dev.to/mongodb/mongodb-data-sync-for-offline-first-apps-keep-data-in-sync-with-objectbox-and-mongodb-atlas-34k8)
+- [I shipped an 800-star Markdown editor without knowing Rust](https://dev.to/olaproeis/i-shipped-an-800-star-markdown-editor-without-knowing-rust-28g6)
+- [How to Connect a React App to an AWS Lambda Function URL.](https://dev.to/ericrodriguez10/how-to-connect-a-react-app-to-an-aws-lambda-function-url-1o92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
