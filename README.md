@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Spring Boot and Angular](https://dev.to/salaheddine_kacmi_b5573f4/my-experience-with-spring-boot-and-angular-5ake)
-- [ImmutableList vs. List in Jetpack Compose: Rethinking “Best Practice” After Strong Skipping Mode](https://dev.to/sutaek_oh_26f1373d84e87a4/immutablelist-vs-list-in-jetpack-compose-rethinking-best-practice-after-strong-skipping-mode-55p0)
-- [Ethereum Node Is Not Enough for Backend Work](https://dev.to/itprolab_team/ethereum-node-is-not-enough-for-backend-work-5kd)
-- [Design Decision for Role-Based Access Control &lpar;RBAC&rpar;](https://dev.to/thecodersden/design-decision-for-role-based-access-control-rbac-1b28)
-- [How Linear Regression Works: The Lazy Architect Who Drew One Line and Called It a Floor Plan](https://dev.to/sachin_krrajput/how-linear-regression-works-the-lazy-architect-who-drew-one-line-and-called-it-a-floor-plan-2h1l)
+- [Solved: Migrate WordPress Posts to Ghost CMS: A Content Export Script](https://dev.to/techresolve/solved-migrate-wordpress-posts-to-ghost-cms-a-content-export-script-mgj)
+- [From Splicing Fibers to Scaling Clouds: My Journey to the AWS Community](https://dev.to/maureen_chepkirui_03c48a2/from-splicing-fibers-to-scaling-clouds-my-journey-to-the-aws-community-799)
+- [The Day I Let AI Write the Code — and the Day I Took the Keyboard Back](https://dev.to/isocyanideisgood/the-day-i-let-ai-write-the-code-and-the-day-i-took-the-keyboard-back-5l0)
+- [Why 80% of AI Code Reviews Are Just Noise](https://dev.to/synthaicode_commander/why-80-of-ai-code-reviews-are-just-noise-4i0o)
+- [Simple Ranking with SQLAlchemy](https://dev.to/sdkfz181tiger/simple-ranking-with-sqlalchemy-56bo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
