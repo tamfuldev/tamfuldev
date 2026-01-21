@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Clustering to Group Songs by Tempo, Energy, and Vocals](https://dev.to/dilan_bosire/using-clustering-to-group-songs-by-tempo-energy-and-vocals-1505)
-- [When I Stopped Just Building Things](https://dev.to/jjsam/when-i-stopped-just-building-things-o2i)
-- [Preums, reminds me that coding without AI is magical](https://dev.to/amiceli/preums-reminds-me-that-coding-without-ai-is-magical-443a)
-- [Understanding the &lt;Activity&gt; Component in React 19](https://dev.to/shantih_palani/understanding-the-component-in-react-19-2k01)
-- [The Notification System That Sent 12,000 Messages at 3 AM](https://dev.to/faraz_farhan_83ed23a154a2/the-notification-system-that-sent-12000-messages-at-3-am-3hgb)
+- [How to Vibe Code Your MVP in Weeks Using AI-Assisted Development](https://dev.to/ojsholly/how-to-vibe-code-your-mvp-in-weeks-using-ai-assisted-development-1b1l)
+- [Small LLMs: Why Businesses Will Choose Lean Over Large](https://dev.to/alona_instandart/small-llms-why-businesses-will-choose-lean-over-large-nik)
+- [Patterns and Folder Structure for iOS Development](https://dev.to/stevenselcuk/patterns-and-folder-structure-for-ios-development-4pa8)
+- [The Ultimate Prompt Strategy: How to Vibe Code Production-Ready Websites](https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9)
+- [BodySnatcher: How a Hardcoded Secret Led to Full ServiceNow Takeover &lpar;CVE-2025-12420&rpar;](https://dev.to/alessandro_pignati/bodysnatcher-how-a-hardcoded-secret-led-to-full-servicenow-takeover-cve-2025-12420-181h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
