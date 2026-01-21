@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Updated My 2-Year-Old Portfolio &lpar;Thanks to Antigravity&rpar;](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
-- [Glossary in Python &lpar;1&rpar;](https://dev.to/hyperkai/glossary-in-python-1-58e1)
-- [I Stopped Guessing HTML &amp; CSS and Followed This Simple Plan &lpar;It Actually Worked&rpar;](https://dev.to/atharvparit/i-stopped-guessing-html-css-and-followed-this-simple-plan-it-actually-worked-mag)
-- [The OS of the Future: Will It Be Chat Based?](https://dev.to/jaideepparashar/the-os-of-the-future-will-it-be-chat-based-3jmo)
-- [How DNS Resolution Works](https://dev.to/abhimanyu_kumar_b94e042e9/how-dns-resolution-works-4m0n)
+- [Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer](https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb)
+- [RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search](https://dev.to/derrickryangiggs/rag-pipeline-deep-dive-ingestion-chunking-embedding-and-vector-search-2877)
+- [Kubernetes Networking Evolution: From Pods to Gateway API](https://dev.to/keneojiteli/kubernetes-networking-evolution-from-pods-to-gateway-api-127l)
+- [Moving from GitHub to Codeberg&lpar;Forgejo&rpar;](https://dev.to/janderssonse/moving-from-github-to-codebergforgejo-b3)
+- [Optimizing Crystal Build time in Woodpecker CI: 415s to 196s with Caching](https://dev.to/miry/optimizing-crystal-build-time-in-woodpecker-ci-415s-to-196s-with-caching-1o5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
