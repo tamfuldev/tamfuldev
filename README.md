@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Exporting Intercom User Data to PostgreSQL for Custom Analytics](https://dev.to/techresolve/solved-exporting-intercom-user-data-to-postgresql-for-custom-analytics-8b8)
-- [Solved: Migrate Jira Issues to GitLab Issues: Mapping Fields via API](https://dev.to/techresolve/solved-migrate-jira-issues-to-gitlab-issues-mapping-fields-via-api-3n01)
-- [AWS AWS Security Groups vs NACLs: &lpar;Stateful vs Stateless explicado fácil para proteger tus cargas de trabajo&rpar;](https://dev.to/oscar_gaviria_2b862594738/aws-aws-security-groups-vs-nacls-stateful-vs-stateless-explicado-facil-para-proteger-tus-cargas-2jhf)
-- [Brief Introduction to CNNs](https://dev.to/alvbarros/brief-introduction-to-cnns-1g57)
-- [“How I Fell in Love With Coding… and Almost Lost It”](https://dev.to/prakash_tiwari_/how-i-fell-in-love-with-coding-and-almost-lost-it-52p9)
+- [My Experience with Spring Boot and Angular](https://dev.to/salaheddine_kacmi_b5573f4/my-experience-with-spring-boot-and-angular-5ake)
+- [ImmutableList vs. List in Jetpack Compose: Rethinking “Best Practice” After Strong Skipping Mode](https://dev.to/sutaek_oh_26f1373d84e87a4/immutablelist-vs-list-in-jetpack-compose-rethinking-best-practice-after-strong-skipping-mode-55p0)
+- [Ethereum Node Is Not Enough for Backend Work](https://dev.to/itprolab_team/ethereum-node-is-not-enough-for-backend-work-5kd)
+- [Design Decision for Role-Based Access Control &lpar;RBAC&rpar;](https://dev.to/thecodersden/design-decision-for-role-based-access-control-rbac-1b28)
+- [How Linear Regression Works: The Lazy Architect Who Drew One Line and Called It a Floor Plan](https://dev.to/sachin_krrajput/how-linear-regression-works-the-lazy-architect-who-drew-one-line-and-called-it-a-floor-plan-2h1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
