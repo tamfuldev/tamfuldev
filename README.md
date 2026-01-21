@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Accuracy, Precision, Recall, F1: The Four Judges Who Disagree on What Makes a Good Wolf Detector](https://dev.to/sachin_krrajput/accuracy-precision-recall-f1-the-four-judges-who-disagree-on-what-makes-a-good-wolf-detector-5921)
-- [Technical Writers Are Not Junior Developers](https://dev.to/therealmrmumba/technical-writers-are-not-junior-developers-58hj)
-- [Cases of UPPER](https://dev.to/lizmat/cases-of-upper-imn)
-- [Semantic Tags](https://dev.to/karthick_karthick_bf8338d/semantic-tags-3d92)
-- [How Clean Is Famous Open Source Code? I Measured Flask and FastAPI.](https://dev.to/daisukeyoda/how-clean-is-famous-open-source-code-i-measured-flask-and-fastapi-2k09)
+- [Solved: Exporting Intercom User Data to PostgreSQL for Custom Analytics](https://dev.to/techresolve/solved-exporting-intercom-user-data-to-postgresql-for-custom-analytics-8b8)
+- [Solved: Migrate Jira Issues to GitLab Issues: Mapping Fields via API](https://dev.to/techresolve/solved-migrate-jira-issues-to-gitlab-issues-mapping-fields-via-api-3n01)
+- [AWS AWS Security Groups vs NACLs: &lpar;Stateful vs Stateless explicado fácil para proteger tus cargas de trabajo&rpar;](https://dev.to/oscar_gaviria_2b862594738/aws-aws-security-groups-vs-nacls-stateful-vs-stateless-explicado-facil-para-proteger-tus-cargas-2jhf)
+- [Brief Introduction to CNNs](https://dev.to/alvbarros/brief-introduction-to-cnns-1g57)
+- [“How I Fell in Love With Coding… and Almost Lost It”](https://dev.to/prakash_tiwari_/how-i-fell-in-love-with-coding-and-almost-lost-it-52p9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
