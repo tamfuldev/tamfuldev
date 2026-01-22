@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
-- [🚀 sqltool: A Lightweight Local MySQL/MariaDB Instance Manager &lpar;No Containers Needed&rpar;](https://dev.to/lucianofedericopereira/sqltool-a-lightweight-local-mysqlmariadb-instance-manager-no-containers-needed-203i)
-- [Go touch grass!](https://dev.to/builditn0w/go-touch-grass-38f6)
-- [A “Junior Engineer” AI Agent for Deterministic Engineering Workflows](https://dev.to/ajiferuke_tomiwa_6d18f131/a-junior-engineer-ai-agent-for-deterministic-engineering-workflows-3l2e)
-- [Automate Your Tasks in 5 Minutes: Apps Script + Gemini for Beginners](https://dev.to/googleworkspace/automate-your-tasks-in-5-minutes-apps-script-gemini-for-beginners-4k66)
+- [Writing Terraform Resources with Write-Only Parameters](https://dev.to/drewmullen/writing-terraform-resources-with-write-only-parameters-570j)
+- [Frontend – Temporal, APIs, and DateTimePickers That Don&#39;t Lie](https://dev.to/bwi/frontend-temporal-apis-and-datetimepickers-that-dont-lie-6dn)
+- [Rick Beato: The Secret History of the 90&#39;s Greatest Ballad](https://dev.to/music_youtube/rick-beato-the-secret-history-of-the-90s-greatest-ballad-k8p)
+- [PostgreSQL – Storing Time Without Lying to Yourself](https://dev.to/bwi/postgresql-storing-time-without-lying-to-yourself-jb1)
+- [.NET in Practice – Modeling Time with NodaTime](https://dev.to/bwi/net-in-practice-modeling-time-with-nodatime-o6d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
