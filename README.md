@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Surprise challenge!!](https://dev.to/jess/surprise-challenge-5d85)
-- [Micronaut vs Quarkus: Why I Switched After Two Years](https://dev.to/anand_jaisy_2f7644a12001b/micronaut-vs-quarkus-why-i-switched-after-two-years-5e94)
-- [What End-to-End Web App Development Really Means &lpar;And Why It Reduces Risk&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/what-end-to-end-web-app-development-really-means-and-why-it-reduces-risk-36ga)
-- [Inside Kilo Speed: How One Engineer Shipped an AI Adoption Dashboard in Two Days](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-ai-adoption-dashboard-in-two-days-3odn)
-- [Coding Assistido por IA: Atalho ou Nova Alfabetização?](https://dev.to/vinicius3w/coding-assistido-por-ia-atalho-ou-nova-alfabetizacao-3d5i)
+- [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
+- [SwiftUIFlow: Type-Safe Coordinator Navigation for SwiftUI](https://dev.to/ioannis_platsis_b07339508/swiftuiflow-type-safe-coordinator-navigation-for-swiftui-1a8f)
+- [Building a PTA Tax Calculator with Next.js 16 &amp; React 19](https://dev.to/_75729aa6b13e505e279f7/building-a-pta-tax-calculator-with-nextjs-16-react-19-59lj)
+- [From Photography to Cinema, From AI to Synthia the 11th Major Art Form by Adel Abdel-Dayem](https://dev.to/adel_dayem/from-photography-to-cinema-from-ai-to-synthia-the-11th-art-by-adel-abdel-dayem-d8j)
+- [Software engineering is an interwoven part of the loop](https://dev.to/shaman-apprentice/software-engineering-is-an-interwoven-part-of-the-loop-2hge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
