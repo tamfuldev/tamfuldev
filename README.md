@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/link2twenty/-23b8)
-- [AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/narottamb/aws-elastic-kubernetes-service-eks-1d9e)
-- [[SUI] @StateObject vs @ObservedObject](https://dev.to/david_goyes_a488f58a17a53/sui-stateobject-vs-observedobject-4cgj)
-- [The First Time a Trace Answered a Question I Didn’t Know How to Ask](https://dev.to/alexandr_bandurchin/the-first-time-a-trace-answered-a-question-i-didnt-know-how-to-ask-17m4)
-- [Interview in an Hour? Read This Fullstack Pocket Guide.](https://dev.to/st0ik/interview-in-an-hour-read-this-fullstack-pocket-guide-45j6)
+- [Build in public day 1 - Dealing With “Magic” in Frameworks](https://dev.to/linediconsine/build-in-public-day-1-dealing-with-magic-in-frameworks-3jli)
+- [C# Type Conversions](https://dev.to/allcoderthings/c-type-conversions-42h5)
+- [Bagging: The Jury System That Taught Machine Learning the Wisdom of Crowds](https://dev.to/sachin_krrajput/bagging-the-jury-system-that-taught-machine-learning-the-wisdom-of-crowds-2755)
+- [Building a Login Panel with PostgreSQL Authentication in Rust &lpar;egui + sqlx&rpar;](https://dev.to/manjushaps/building-a-login-panel-with-postgresql-authentication-in-rust-egui-sqlx-19jo)
+- [Your .cursorrules Are Just Suggestions – Here&#39;s What Actually Gets Enforced](https://dev.to/er_li_92a27f8612f9f070e18/your-cursorrules-are-just-suggestions-heres-what-actually-gets-enforced-2mbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
