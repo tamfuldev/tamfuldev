@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
-- [Contenido vs Interactividad: Como elegir tu siguiente Framework Web](https://dev.to/jusepemu/contenido-vs-interactividad-como-elegir-tu-siguiente-framework-web-211d)
-- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
-- [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
-- [How to Set Up a Robust E-commerce Platform with Nginx, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/how-to-set-up-a-robust-e-commerce-platform-with-nginx-grafana-and-prometheus-59om)
+- [flashQ + Elysia &amp; Hono.js: Background Jobs for Modern Bun Apps](https://dev.to/egeominotti/flashq-elysia-honojs-background-jobs-for-modern-bun-apps-42na)
+- [Java 25 LTS: The Game-Changer You&#39;ve Been Waiting For](https://dev.to/ashish_sharda_a540db2e50e/java-25-lts-the-game-changer-youve-been-waiting-for-jkf)
+- [Arquitectura Serverless en GCP con Terraform: Cómo ahorré costos y sobreviví al &quot;State Drift&quot;](https://dev.to/alex_g_aeeb05ba69eee8a4fd/arquitectura-serverless-en-gcp-con-terraform-como-ahorre-costos-y-sobrevivi-al-state-drift-2b88)
+- [production-style, fully working MySQL StatefulSet &lpar;primary + replicas&rpar; with headless + ClusterIP](https://dev.to/jumptotech/production-style-fully-working-mysql-statefulset-primary-replicas-with-headless-clusterip-1a8o)
+- [Privacy-First Mental Health AI: Building a Zero-Backend Sentiment Tracker with WebLLM and Transformers.js](https://dev.to/beck_moulton/privacy-first-mental-health-ai-building-a-zero-backend-sentiment-tracker-with-webllm-and-32lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
