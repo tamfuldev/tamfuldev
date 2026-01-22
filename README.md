@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing for Agents: The End of the Ten Blue Links](https://dev.to/ninadpathak/optimizing-for-agents-the-end-of-the-ten-blue-links-eae)
-- [Storytelling is a Lossless Compression Algorithm for Sales](https://dev.to/ninadpathak/storytelling-is-a-lossless-compression-algorithm-for-sales-2pg1)
-- [What Actually Happens When You Run ping](https://dev.to/thompka/what-actually-happens-when-you-run-ping-5h7c)
-- [Laptop Sleeves vs. Laptop Tote Bags: When to Use Which](https://dev.to/the_blackboxco_bb8b12d/laptop-sleeves-vs-laptop-tote-bags-when-to-use-which-da5)
-- [How to Use React Native Best Practices Agent Skills](https://dev.to/ajmal_hasan/how-to-use-react-native-best-practices-agent-skills-121k)
+- [Monitoring Linux servers without Grafana, Docker, or agents](https://dev.to/nurulislamrimon/monitoring-linux-servers-without-grafana-docker-or-agents-37l5)
+- [Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes](https://dev.to/gabrielewayner/rotating-residential-proxy-evaluation-mini-lab-you-can-run-in-90-minutes-207d)
+- [DOM IN JAVASCRIPT](https://dev.to/keerthigap/dom-in-javascript-3nll)
+- [Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb)
+- [DOM in JS](https://dev.to/sasirekaarumugam/dom-in-js-8gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
