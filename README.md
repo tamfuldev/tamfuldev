@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI — From Workflows to Goal-Driven Systems](https://dev.to/sandeepsinghhub/agentic-ai-from-workflows-to-goal-driven-systems-423b)
-- [Autonomous DevOps AI Agent &lpar;FastAPI + Ollama&rpar;](https://dev.to/shailendra_khade_df763b45/autonomous-devops-ai-agent-fastapi-ollama-9ji)
-- [Sequelize ORM with MySQL Setup: Complete Guide to Production-Ready Database Management](https://dev.to/md_marufrahman_3552855e/sequelize-orm-with-mysql-setup-complete-guide-to-production-ready-database-management-4ok3)
-- [🌱 NLP for Beginners: Understanding the Basics of Natural Language Processing](https://dev.to/zeroshotanu/nlp-for-beginners-understanding-the-basics-of-natural-language-processing-4784)
-- [Serverless applications with Java and Aurora DSQL - Part 4 Understand DPUs in Explain Analyze Verbose](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-4-understand-dpus-in-explain-analyze-4a5b)
+- [filter3](https://dev.to/query_filter_591122b53770/filter3-1ige)
+- [Operation Quantum Leap: Mastering Git History and Log Management for the Time-Traveling Developer](https://dev.to/labex/operation-quantum-leap-mastering-git-history-and-log-management-for-the-time-traveling-developer-j2a)
+- [Understanding AWS EC2: Workflow, Terminologies, and Cloud Computing Basics](https://dev.to/khadija_sajid_e6b71719ff7/understanding-aws-ec2-workflow-terminologies-and-cloud-computing-basics-5b2d)
+- [I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong](https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi)
+- [PyLadies Dublin x Go Ireland - Cat from Scratch](https://dev.to/pyladiesdub/pyladies-dublin-x-go-ireland-cat-from-scratch-2n6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
