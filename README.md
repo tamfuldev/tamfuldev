@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build in public day 1 - Dealing With “Magic” in Frameworks](https://dev.to/linediconsine/build-in-public-day-1-dealing-with-magic-in-frameworks-3jli)
-- [C# Type Conversions](https://dev.to/allcoderthings/c-type-conversions-42h5)
-- [Bagging: The Jury System That Taught Machine Learning the Wisdom of Crowds](https://dev.to/sachin_krrajput/bagging-the-jury-system-that-taught-machine-learning-the-wisdom-of-crowds-2755)
-- [Building a Login Panel with PostgreSQL Authentication in Rust &lpar;egui + sqlx&rpar;](https://dev.to/manjushaps/building-a-login-panel-with-postgresql-authentication-in-rust-egui-sqlx-19jo)
-- [Your .cursorrules Are Just Suggestions – Here&#39;s What Actually Gets Enforced](https://dev.to/er_li_92a27f8612f9f070e18/your-cursorrules-are-just-suggestions-heres-what-actually-gets-enforced-2mbo)
+- [Surprise challenge!!](https://dev.to/jess/surprise-challenge-5d85)
+- [Micronaut vs Quarkus: Why I Switched After Two Years](https://dev.to/anand_jaisy_2f7644a12001b/micronaut-vs-quarkus-why-i-switched-after-two-years-5e94)
+- [What End-to-End Web App Development Really Means &lpar;And Why It Reduces Risk&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/what-end-to-end-web-app-development-really-means-and-why-it-reduces-risk-36ga)
+- [Inside Kilo Speed: How One Engineer Shipped an AI Adoption Dashboard in Two Days](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-ai-adoption-dashboard-in-two-days-3odn)
+- [Coding Assistido por IA: Atalho ou Nova Alfabetização?](https://dev.to/vinicius3w/coding-assistido-por-ia-atalho-ou-nova-alfabetizacao-3d5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
