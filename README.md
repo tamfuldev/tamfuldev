@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [flashQ + Elysia &amp; Hono.js: Background Jobs for Modern Bun Apps](https://dev.to/egeominotti/flashq-elysia-honojs-background-jobs-for-modern-bun-apps-42na)
-- [Java 25 LTS: The Game-Changer You&#39;ve Been Waiting For](https://dev.to/ashish_sharda_a540db2e50e/java-25-lts-the-game-changer-youve-been-waiting-for-jkf)
-- [Arquitectura Serverless en GCP con Terraform: Cómo ahorré costos y sobreviví al &quot;State Drift&quot;](https://dev.to/alex_g_aeeb05ba69eee8a4fd/arquitectura-serverless-en-gcp-con-terraform-como-ahorre-costos-y-sobrevivi-al-state-drift-2b88)
-- [production-style, fully working MySQL StatefulSet &lpar;primary + replicas&rpar; with headless + ClusterIP](https://dev.to/jumptotech/production-style-fully-working-mysql-statefulset-primary-replicas-with-headless-clusterip-1a8o)
-- [Privacy-First Mental Health AI: Building a Zero-Backend Sentiment Tracker with WebLLM and Transformers.js](https://dev.to/beck_moulton/privacy-first-mental-health-ai-building-a-zero-backend-sentiment-tracker-with-webllm-and-32lm)
+- [Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python](https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci)
+- [🎡Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array I&#39; - Problem 3507 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-i-problem-3507-c-python-47g)
+- [Manjaro: How to Reinstall GRUB on a BTRFS and UEFI System](https://dev.to/letstalkoss/manjaro-how-to-reinstall-grub-on-a-btrfs-and-uefi-system-52nm)
+- [## The Baseline Power: Performance Without Optimizations](https://dev.to/charmpic/-the-baseline-power-performance-without-optimizations-11n3)
+- [Shipping a Portfolio That Actually Represents Me](https://dev.to/denyherianto/shipping-a-portfolio-that-actually-represents-me-clh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
