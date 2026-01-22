@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Deep Agent Architecture for AI Coding Assistants](https://dev.to/apssouza22/a-deep-dive-into-deep-agent-architecture-for-ai-coding-assistants-3c8b)
-- [The Senior Partner: Why I built a software factory to manage my AI, rather than letting it manage me](https://dev.to/mlinside/the-senior-partner-why-i-built-a-software-factory-to-manage-my-ai-rather-than-letting-it-manage-me-7hd)
-- [COLORS: Jordan Ward - Stranger | A COLORS SHOW](https://dev.to/music_youtube/colors-jordan-ward-stranger-a-colors-show-237i)
-- [Marketing Tips and Tricks to Be Successful in 2026](https://dev.to/billahdotdev/marketing-tips-and-tricks-to-be-successful-in-2026-29m8)
-- [Why I Built an AI Coding Platform with BYOK &lpar;Bring Your Own Key&rpar; that uses Claude skills directly](https://dev.to/vandana_5cca941ab74e21680/why-i-built-an-ai-coding-platform-with-byok-bring-your-own-key-1j2g)
+- [Responsive Web Design: A Complete Guide](https://dev.to/souldee/responsive-web-design-a-complete-guide-3mpd)
+- [3 Prompt Injection Attacks You Can Test Right Now](https://dev.to/jgracie52/3-prompt-injection-attacks-you-can-test-right-now-3lfj)
+- [Ambiguity Scales Worse Than Verbosity](https://dev.to/lucaasd3v/ambiguity-scales-worse-than-verbosity-35i4)
+- [From Black-Box to Observable AI — A Google AI Challenge](https://dev.to/natashanewbold/from-black-box-to-observable-ai-a-google-ai-challenge-2mb8)
+- [How SQL JOINs Finally Clicked for Me &lpar;and How They Can for You Too&rpar;](https://dev.to/mazinocodes/how-sql-joins-finally-clicked-for-me-and-how-they-can-for-you-too-4502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
