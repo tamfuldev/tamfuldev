@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
-- [SwiftUIFlow: Type-Safe Coordinator Navigation for SwiftUI](https://dev.to/ioannis_platsis_b07339508/swiftuiflow-type-safe-coordinator-navigation-for-swiftui-1a8f)
-- [Building a PTA Tax Calculator with Next.js 16 &amp; React 19](https://dev.to/_75729aa6b13e505e279f7/building-a-pta-tax-calculator-with-nextjs-16-react-19-59lj)
-- [From Photography to Cinema, From AI to Synthia the 11th Major Art Form by Adel Abdel-Dayem](https://dev.to/adel_dayem/from-photography-to-cinema-from-ai-to-synthia-the-11th-art-by-adel-abdel-dayem-d8j)
-- [Software engineering is an interwoven part of the loop](https://dev.to/shaman-apprentice/software-engineering-is-an-interwoven-part-of-the-loop-2hge)
+- [Agentic AI — From Workflows to Goal-Driven Systems](https://dev.to/sandeepsinghhub/agentic-ai-from-workflows-to-goal-driven-systems-423b)
+- [Autonomous DevOps AI Agent &lpar;FastAPI + Ollama&rpar;](https://dev.to/shailendra_khade_df763b45/autonomous-devops-ai-agent-fastapi-ollama-9ji)
+- [Sequelize ORM with MySQL Setup: Complete Guide to Production-Ready Database Management](https://dev.to/md_marufrahman_3552855e/sequelize-orm-with-mysql-setup-complete-guide-to-production-ready-database-management-4ok3)
+- [🌱 NLP for Beginners: Understanding the Basics of Natural Language Processing](https://dev.to/zeroshotanu/nlp-for-beginners-understanding-the-basics-of-natural-language-processing-4784)
+- [Serverless applications with Java and Aurora DSQL - Part 4 Understand DPUs in Explain Analyze Verbose](https://dev.to/aws-heroes/serverless-applications-with-java-and-aurora-dsql-part-4-understand-dpus-in-explain-analyze-4a5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
