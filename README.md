@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [94% of CEOs Are All-In on AI — What That Really Signals](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-what-that-really-signals-4bic)
-- [🚀 I built a Free, Open World Time API &lpar;No API Keys, CORS Enabled&rpar;](https://dev.to/time-now-api/i-built-a-free-open-world-time-api-no-api-keys-cors-enabled-5en)
-- [Do AI assistants reduce cognitive load — or accumulate cognitive debt?](https://dev.to/deltax/do-ai-assistants-reduce-cognitive-load-or-accumulate-cognitive-debt-1odg)
-- [Ollama + FastAPI API, Building My Own AI API Using Ollama and FastAPI on a Linux VM](https://dev.to/shailendra_khade_df763b45/ollama-fastapi-api-building-my-own-ai-api-using-ollama-and-fastapi-on-a-linux-vm-5a40)
-- [Beyond Surrogate Pairs: Hidden Pitfalls in JS Character Counting with PHP/MySQL](https://dev.to/usapopopooon/beyond-surrogate-pairs-hidden-pitfalls-in-js-character-counting-with-phpmysql-1pj7)
+- [[Boost]](https://dev.to/link2twenty/-23b8)
+- [AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/narottamb/aws-elastic-kubernetes-service-eks-1d9e)
+- [[SUI] @StateObject vs @ObservedObject](https://dev.to/david_goyes_a488f58a17a53/sui-stateobject-vs-observedobject-4cgj)
+- [The First Time a Trace Answered a Question I Didn’t Know How to Ask](https://dev.to/alexandr_bandurchin/the-first-time-a-trace-answered-a-question-i-didnt-know-how-to-ask-17m4)
+- [Interview in an Hour? Read This Fullstack Pocket Guide.](https://dev.to/st0ik/interview-in-an-hour-read-this-fullstack-pocket-guide-45j6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
