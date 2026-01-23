@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Prompt Engineering Breaks in Production Systems](https://dev.to/zywrap/why-prompt-engineering-breaks-in-production-systems-1f2d)
-- [I am building a fiction novel writer that already helps me personally to make +€1000 MRR on Amazon&#39;s KDP](https://dev.to/kai_libicher_2b8a3de7e6e8/i-am-building-a-fiction-novel-writer-that-already-helps-me-personally-to-make-eu1000-mrr-on-56c3)
-- [Week 6 Scripting Challenge: Building a Security Log Correlator](https://dev.to/fosres/building-a-security-log-correlator-fast-incident-detection-2ed8)
-- [The Product Hunt effect - Mastra just hit 20k stars on GitHub](https://dev.to/fmerian/the-product-hunt-effect-mastra-just-hit-20k-stars-on-github-2km3)
-- [Best Practices for Creating a Consistent UX in Asterisk-Based Systems &lpar;Without Heavy Customization&rpar;](https://dev.to/jackmorris10/best-practices-for-creating-a-consistent-ux-in-asterisk-based-systems-without-heavy-customization-1bp0)
+- [Getting serious about FastAPI? Here&#39;s what I&#39;ve learned.](https://dev.to/frank-895/getting-serious-about-fastapi-heres-what-ive-learned-1l4o)
+- [🚀 How Uber, Swiggy &amp; Zomato Find the Nearest Delivery Agent in Real Time](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-swiggy-zomato-find-the-nearest-delivery-agent-in-real-time-2jgi)
+- [CNPJ Alfanumérico: Implemente a validação do novo CNPJ em seu projeto](https://dev.to/valdeirpsr/cnpj-alfanumerico-implemente-a-validacao-do-novo-cnpj-em-seu-projeto-25hg)
+- [Stacking up Graphite in the World of Code Review Tools](https://dev.to/heraldofsolace/stacking-up-graphite-in-the-world-of-code-review-tools-5fbn)
+- [Your node_modules Folder Is a Security Nightmare](https://dev.to/polliog/your-nodemodules-folder-is-a-security-nightmare-2okb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
