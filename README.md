@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2026-01-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-22-daily-ai-news-3b54)
-- [Don’t Pass GO Without Crossview: A Monopoly Guide to Crossplane’s Control Plane](https://dev.to/wvanheemstra/dont-pass-go-without-crossview-a-monopoly-guide-to-crossplanes-control-plane-35i5)
-- [Hacking Agents Bay Area Meetup - Feb 10, 2026](https://dev.to/techbec/hacking-agents-bay-area-meetup-feb-10-2026-5gj6)
-- [Agent Factory Recap: AI Agents for Data Engineering and Data Science](https://dev.to/googleai/agent-factory-recap-ai-agents-for-data-engineering-and-data-science-1b9m)
-- [Stop Using Math.random&lpar;&rpar;: The Art of Deterministic Chaos](https://dev.to/ev17/stop-using-mathrandom-the-art-of-deterministic-chaos-4bcm)
+- [Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
+- [Predicting the Spike: Building a CGM Warning System with Transformers and PyTorch Forecasting](https://dev.to/beck_moulton/predicting-the-spike-building-a-cgm-warning-system-with-transformers-and-pytorch-forecasting-4mbe)
+- [My Profile Adapts to the User](https://dev.to/daniel_illenberger_e1087b/my-profile-adapts-to-the-user-4nc6)
+- [GitHub Skills: Your Complete Learning Path to AI-Powered Development](https://dev.to/pwd9000/github-skills-your-complete-learning-path-to-ai-powered-development-ieo)
+- [5 Ways to Find High-Impact Ruby and Rails Projects to Contribute to Today](https://dev.to/zilton7/5-ways-to-find-high-impact-ruby-and-rails-projects-to-contribute-to-today-fg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
