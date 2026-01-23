@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Affly: Why We’re Rethinking Affiliate Discovery](https://dev.to/altafpasha/building-affly-why-were-rethinking-affiliate-discovery-1087)
-- [What I Didn&#39;t Know About Icon Library Licenses &lpar;And You Might Not Either&rpar;](https://dev.to/usapopopooon/what-i-didnt-know-about-icon-library-licenses-and-you-might-not-either-30of)
-- [A Clean and Practical Arch Linux Installation Approach &lpar;UEFI&rpar;](https://dev.to/retro-1o1/a-clean-and-practical-arch-linux-installation-approach-uefi-fnm)
-- [🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence](https://dev.to/datadr1ven/web3-verifier-agent-fight-rug-pulls-with-ai-powered-due-diligence-2c0n)
-- [Why I Stopped Using html-to-docx &lpar;And Why You Should Too&rpar;](https://dev.to/resumemind/why-i-stopped-using-html-to-docx-and-why-you-should-too-5h4f)
+- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
+- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
+- [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
+- [Building a Lightweight Kubernetes Desktop Client GUI with Tauri and Rust](https://dev.to/atilladeniz/building-a-lightweight-kubernetes-desktop-client-with-tauri-and-rust-3bbj)
+- [Acessando e protegendo sua VM: SSH, snapshots e boas práticas iniciais](https://dev.to/magalucloud/acessando-e-protegendo-sua-vm-ssh-snapshots-e-boas-praticas-iniciais-1iph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
