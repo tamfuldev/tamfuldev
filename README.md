@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Local Text-to-Speech is finally practical on CPU-only machines](https://dev.to/laustke/local-text-to-speech-is-finally-practical-on-cpu-only-machines-gal)
-- [Complexity Can&#39;t Be Eliminated. It Can Only Be Moved.](https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7)
-- [Upgrading to Serverless Framework v4: The Why and the How](https://dev.to/saltyshiomix/upgrading-to-serverless-framework-v4-the-why-and-the-how-17lm)
-- [Building in Public: CV Analyzer -Act 4 · Scene 1: The Analysis Component](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-4-scene-1-the-analysis-component-4e4d)
-- [No Laying Up Podcast: The Booth Vol. 24 | Trap Draw, Ep 379](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol-24-trap-draw-ep-379-oic)
+- [The Secret Life of Python: The Trap of Parallel Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-trap-of-parallel-lists-4270)
+- [Time-Travel Debugging for Python: A Complete Tutorial](https://dev.to/ujwal240/-time-travel-debugging-for-python-a-complete-tutorial-1dip)
+- [Simplify GIF Handling in iOS with SwiftyGIF](https://dev.to/hazel-daniel/simplify-gif-handling-in-ios-with-swiftygif-58n3)
+- [GoReplay vs. Softprobe: Why Regression Testing Needs Service Virtualization](https://dev.to/dev0ps_love/goreplay-vs-softprobe-why-regression-testing-needs-service-virtualization-3gdo)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
