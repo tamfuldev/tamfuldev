@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
-- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
-- [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
-- [Building a Lightweight Kubernetes Desktop Client GUI with Tauri and Rust](https://dev.to/atilladeniz/building-a-lightweight-kubernetes-desktop-client-with-tauri-and-rust-3bbj)
-- [Acessando e protegendo sua VM: SSH, snapshots e boas práticas iniciais](https://dev.to/magalucloud/acessando-e-protegendo-sua-vm-ssh-snapshots-e-boas-praticas-iniciais-1iph)
+- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-4j5e)
+- [Why Server Components Are the Secret Weapon for Generative UI](https://dev.to/programmingcentral/why-server-components-are-the-secret-weapon-for-generative-ui-5bj1)
+- [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
+- [This Open-Source Pipeline Transforms Any Podcast into AI-Ready Transcripts with Speaker Diarization &lpar;MIT License&rpar;](https://dev.to/badmonster0/this-open-source-pipeline-transforms-any-podcast-into-ai-ready-transcripts-with-speaker-diarization-3n1n)
+- [PostgreSQL Didn’t Fail at Scale -My Architecture Assumptions Did](https://dev.to/gaurav_talesara/postgresql-didnt-fail-at-scale-my-architecture-assumptions-did-25n0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
