@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
-- [Predicting the Spike: Building a CGM Warning System with Transformers and PyTorch Forecasting](https://dev.to/beck_moulton/predicting-the-spike-building-a-cgm-warning-system-with-transformers-and-pytorch-forecasting-4mbe)
-- [My Profile Adapts to the User](https://dev.to/daniel_illenberger_e1087b/my-profile-adapts-to-the-user-4nc6)
-- [GitHub Skills: Your Complete Learning Path to AI-Powered Development](https://dev.to/pwd9000/github-skills-your-complete-learning-path-to-ai-powered-development-ieo)
-- [5 Ways to Find High-Impact Ruby and Rails Projects to Contribute to Today](https://dev.to/zilton7/5-ways-to-find-high-impact-ruby-and-rails-projects-to-contribute-to-today-fg0)
+- [Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026](https://dev.to/gary_yan_86eb77d35e0070f5/qwen3-tts-the-open-source-text-to-speech-revolution-in-2026-3466)
+- [Calculating A Percent vs. A Goal With SFMC&#39;s AMPscript](https://dev.to/ampscript-ninja/calculating-a-percent-vs-a-goal-with-sfmcs-ampscript-3j4n)
+- [Elasticsearch Cluster Health Troubleshooting Guide](https://dev.to/aicontentlab/elasticsearch-cluster-health-troubleshooting-guide-3cgj)
+- [Git Rebase vs Merge: Mastering Branching Best Practices](https://dev.to/aicontentlab/git-rebase-vs-merge-mastering-branching-best-practices-1e7g)
+- [How Developers Can Validate SaaS Ideas Using Reddit and GitHub](https://dev.to/iamvs2002/how-developers-can-validate-saas-ideas-using-reddit-and-github-3b0l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
