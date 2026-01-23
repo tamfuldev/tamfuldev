@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026](https://dev.to/gary_yan_86eb77d35e0070f5/qwen3-tts-the-open-source-text-to-speech-revolution-in-2026-3466)
-- [Calculating A Percent vs. A Goal With SFMC&#39;s AMPscript](https://dev.to/ampscript-ninja/calculating-a-percent-vs-a-goal-with-sfmcs-ampscript-3j4n)
-- [Elasticsearch Cluster Health Troubleshooting Guide](https://dev.to/aicontentlab/elasticsearch-cluster-health-troubleshooting-guide-3cgj)
-- [Git Rebase vs Merge: Mastering Branching Best Practices](https://dev.to/aicontentlab/git-rebase-vs-merge-mastering-branching-best-practices-1e7g)
-- [How Developers Can Validate SaaS Ideas Using Reddit and GitHub](https://dev.to/iamvs2002/how-developers-can-validate-saas-ideas-using-reddit-and-github-3b0l)
+- [Local Text-to-Speech is finally practical on CPU-only machines](https://dev.to/laustke/local-text-to-speech-is-finally-practical-on-cpu-only-machines-gal)
+- [Complexity Can&#39;t Be Eliminated. It Can Only Be Moved.](https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7)
+- [Upgrading to Serverless Framework v4: The Why and the How](https://dev.to/saltyshiomix/upgrading-to-serverless-framework-v4-the-why-and-the-how-17lm)
+- [Building in Public: CV Analyzer -Act 4 · Scene 1: The Analysis Component](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-4-scene-1-the-analysis-component-4e4d)
+- [No Laying Up Podcast: The Booth Vol. 24 | Trap Draw, Ep 379](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol-24-trap-draw-ep-379-oic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
