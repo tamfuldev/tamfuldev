@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Macbook Pro M5 Setup](https://dev.to/konabuta/macbook-pro-m5-setup-4ogg)
-- [Setting Up Environment Variables in Vite React Project - and - Important Things to Know About Using Environment Variables](https://dev.to/edriso/setting-up-environment-variables-in-vite-react-project-and-important-things-to-know-about-using-57c)
-- [Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-3-longest-substring-without-repeating-characters-my-first-5766)
-- [Mahdi Shamlou | Solving LeetCode #2: Add Two Numbers — The Classic Linked List Addition](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-2-add-two-numbers-the-classic-linked-list-addition-5g7c)
-- [Construí um Agentic CLI Tool com IA usando o Copilot SDK — Conheça o Repo Doctor!](https://dev.to/glaucia86/github-copilot-sdk-construindo-aplicacoes-agenticas-com-ia-na-pratica-com-repo-doctor-25a6)
+- [Building Affly: Why We’re Rethinking Affiliate Discovery](https://dev.to/altafpasha/building-affly-why-were-rethinking-affiliate-discovery-1087)
+- [What I Didn&#39;t Know About Icon Library Licenses &lpar;And You Might Not Either&rpar;](https://dev.to/usapopopooon/what-i-didnt-know-about-icon-library-licenses-and-you-might-not-either-30of)
+- [A Clean and Practical Arch Linux Installation Approach &lpar;UEFI&rpar;](https://dev.to/retro-1o1/a-clean-and-practical-arch-linux-installation-approach-uefi-fnm)
+- [🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence](https://dev.to/datadr1ven/web3-verifier-agent-fight-rug-pulls-with-ai-powered-due-diligence-2c0n)
+- [Why I Stopped Using html-to-docx &lpar;And Why You Should Too&rpar;](https://dev.to/resumemind/why-i-stopped-using-html-to-docx-and-why-you-should-too-5h4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
