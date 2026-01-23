@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Giving my droid a personality with ESP32 and Arduino Modulino sensors](https://dev.to/sigje/giving-my-droid-a-personality-with-esp32-and-arduino-modulinos-5c0p)
-- [Google Antigravity vs GitHub Copilot: Why I&#39;m Team Antigravity Now 💡](https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco)
-- [A dev-first approach to managing multilingual content without rebuilding backends](https://dev.to/fabrice_grenouillet_c10f1/a-dev-first-approach-to-managing-multilingual-content-without-rebuilding-backends-1eof)
-- [MariaDB backup 10 best practices — Essential strategies for MariaDB backup and recovery](https://dev.to/piteradyson/mariadb-backup-10-best-practices-essential-strategies-for-mariadb-backup-and-recovery-dpo)
-- [Basic Asynchronous JavaScript](https://dev.to/pckalyan/basic-asynchronous-javascript-4i92)
+- [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
+- [Building OpponentIQ: Automating Esports Scouting with GRID API](https://dev.to/dhani_dzulkarnain/building-opponentiq-automating-esports-scouting-with-grid-api-kp3)
+- [Top 5 GIS Tools for Spatial Data Processing and Digital Twins](https://dev.to/kketria/top-5-gis-tools-for-spatial-data-processing-and-digital-twins-300c)
+- [The $5 VPS SaaS Playbook: A Practical Next.js 15 Setup &lpar;No Vercel, No Supabase, No Clerk&rpar;](https://dev.to/the_nortern_dev/the-5-vps-saas-playbook-a-practical-nextjs-15-setup-no-vercel-no-supabase-no-clerk-1kg8)
+- [The Finalizer Problem: A Deeper Look into OutOfMemoryError Due to Unclosed Resources](https://dev.to/jillthornhill/the-finalizer-problem-a-deeper-look-into-outofmemoryerror-due-to-unclosed-resources-3dn1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
