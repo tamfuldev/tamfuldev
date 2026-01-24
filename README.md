@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🌲 Finding the Longest Aligned Chain in a Binary Tree](https://dev.to/josephakayesi/finding-the-longest-aligned-chain-in-a-binary-tree-h28)
-- [What Broke During Our AWS DMS Migration &lpar;And How We Fixed It&rpar;](https://dev.to/amaan-igs/what-broke-during-our-aws-dms-migration-and-how-we-fixed-it-198p)
-- [Our CI Doesn&#39;t Do Weekends](https://dev.to/kaeruct/our-ci-doesnt-do-weekends-4og1)
-- [A Conceptual Framework for Layered Programming Languages and an Operating System Built on Hardware Abstraction &lpar;Draft&rpar;](https://dev.to/powerwordtree/a-conceptual-framework-for-layered-programming-languages-and-an-operating-system-built-on-hardware-3o1n)
-- [Converting an Unencrypted EBS Volume to an Encrypted One in AWS: A Step-by-Step Guide](https://dev.to/shashank-2310/converting-an-unencrypted-ebs-volume-to-an-encrypted-one-in-aws-a-step-by-step-guide-4b1h)
+- [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
+- [Protecting Your Prize-Winning Cyber-Carrots: A Defense-in-Depth Guide to Azure AKS with Crossplane v2](https://dev.to/the-software-s-journey/protecting-your-prize-winning-cyber-carrots-a-defense-in-depth-guide-to-azure-aks-with-crossplane-43f0)
+- [FastAPI Architecture: Clean, Scalable &amp; Self-Documenting](https://dev.to/naved_shaikh/fastapi-architecture-clean-scalable-self-documenting-22n8)
+- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/tusharsharma099/dont-learn-devops-before-understanding-web-development-fb)
+- [Understanding Git and GitHub as a Beginner](https://dev.to/adithyan_g_6f3e606905eed7/understanding-git-and-github-as-a-345j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
