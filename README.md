@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MS Excel for Data Analytics](https://dev.to/wesley_clark_9ed86994e7a7/introduction-to-ms-excel-for-data-analytics-39ei)
-- [Bring AI into your Jakarta EE apps with LangChain4J-CDI](https://dev.to/theelitegentleman/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-ib6)
-- [NiceHaus, a household-managing AI-powered web app](https://dev.to/oscarmarulanda/nicehaus-a-household-managing-ai-powered-web-app-5ge0)
-- [Happy coding](https://dev.to/mbugua70/happy-coding-4l8)
-- [[Boost]](https://dev.to/dd8888/-55oc)
+- [I built a data grid with web components – here&#39;s what I learned](https://dev.to/oysteinamundsen/i-built-a-data-grid-with-web-components-heres-what-i-learned-5bfc)
+- [WiFi Not Working On The Train? Docker Might Be To Blame](https://dev.to/schaerfo/wifi-not-working-on-the-train-docker-might-be-to-blame-2k8l)
+- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-5e7k)
+- [[Boost]](https://dev.to/marabesi/-edh)
+- [Clean Architecture vs Vertical Slice: Pragmatism Over Dogma in Modern Software Design](https://dev.to/harrykhlo/clean-architecture-vs-vertical-slice-pragmatism-over-dogma-in-modern-software-design-2co5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
