@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Voice Live vs Real-Time API : Quelle solution choisir sur Azure AI Foundry ?](https://dev.to/galaxy_ai/-voice-live-vs-real-time-api-quelle-solution-choisir-sur-azure-ai-foundry--54m0)
-- [Typesafe application configuration in TypeScript](https://dev.to/jonthanfielding/typesafe-application-configuration-in-typescript-ngh)
-- [Docker: The Magic Box That Saved DevOps](https://dev.to/sbkumbar024/docker-the-magic-box-that-saved-devops-1469)
-- [What Is AI Inference Governance? The new definition.](https://dev.to/neuralmethod/what-is-ai-inference-governance-the-new-definition-1j52)
-- [REST vs GraphQL: Which Should You Use?](https://dev.to/apiverve/rest-vs-graphql-which-should-you-use-4ak1)
+- [CVE-2026-21227 | Azure Logic Apps Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-21227-azure-logic-apps-elevation-of-privilege-vulnerability-8jb)
+- [pytest-html-plus VS Code — A Must-Have Extension If You Run Pytests](https://dev.to/kevi019/pytest-html-plus-vs-code-a-must-have-extension-if-you-run-pytests-e3h)
+- [Solved: Syncing Zoom Recordings to DropBox for Long-term Storage](https://dev.to/techresolve/solved-syncing-zoom-recordings-to-dropbox-for-long-term-storage-28h3)
+- [I Rewrote Google&#39;s Gemini CLI in Go - 68x Faster Startup](https://dev.to/owada_tomohiro_28ec22f5ee/i-rewrote-googles-gemini-cli-in-go-68x-faster-startup-30em)
+- [Between Delegation and Hands-On Leadership](https://dev.to/manager_log/between-delegation-and-hands-on-leadership-1p4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
