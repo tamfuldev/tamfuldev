@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-21227 | Azure Logic Apps Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-21227-azure-logic-apps-elevation-of-privilege-vulnerability-8jb)
-- [pytest-html-plus VS Code — A Must-Have Extension If You Run Pytests](https://dev.to/kevi019/pytest-html-plus-vs-code-a-must-have-extension-if-you-run-pytests-e3h)
-- [Solved: Syncing Zoom Recordings to DropBox for Long-term Storage](https://dev.to/techresolve/solved-syncing-zoom-recordings-to-dropbox-for-long-term-storage-28h3)
-- [I Rewrote Google&#39;s Gemini CLI in Go - 68x Faster Startup](https://dev.to/owada_tomohiro_28ec22f5ee/i-rewrote-googles-gemini-cli-in-go-68x-faster-startup-30em)
-- [Between Delegation and Hands-On Leadership](https://dev.to/manager_log/between-delegation-and-hands-on-leadership-1p4i)
+- [🌲 Finding the Longest Aligned Chain in a Binary Tree](https://dev.to/josephakayesi/finding-the-longest-aligned-chain-in-a-binary-tree-h28)
+- [What Broke During Our AWS DMS Migration &lpar;And How We Fixed It&rpar;](https://dev.to/amaan-igs/what-broke-during-our-aws-dms-migration-and-how-we-fixed-it-198p)
+- [Our CI Doesn&#39;t Do Weekends](https://dev.to/kaeruct/our-ci-doesnt-do-weekends-4og1)
+- [A Conceptual Framework for Layered Programming Languages and an Operating System Built on Hardware Abstraction &lpar;Draft&rpar;](https://dev.to/powerwordtree/a-conceptual-framework-for-layered-programming-languages-and-an-operating-system-built-on-hardware-3o1n)
+- [Converting an Unencrypted EBS Volume to an Encrypted One in AWS: A Step-by-Step Guide](https://dev.to/shashank-2310/converting-an-unencrypted-ebs-volume-to-an-encrypted-one-in-aws-a-step-by-step-guide-4b1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
