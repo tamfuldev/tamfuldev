@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
+- [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
+- [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
 - [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
 - [Synaptic OS: A Maker Portfolio](https://dev.to/ruchika_dezoysa_4ed357dc/synaptic-os-a-maker-portfolio-3fj0)
-- [[Feedback needed] Does anyone else waste time setting up new projects, or is it just me?](https://dev.to/yassin_shaabanhassan_9fa/feedback-needed-does-anyone-else-waste-time-setting-up-new-projects-or-is-it-just-me-5a6i)
-- [🐱 貓臉生物辨識](https://dev.to/stklen/mao-lian-sheng-wu-bian-shi-ofn)
-- [Props in React](https://dev.to/kirubagaran_k_438a86c991/props-in-react-5979)
 <!-- BLOG-POST-LIST:END -->
 
 ---
