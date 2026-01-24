@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
-- [Protecting Your Prize-Winning Cyber-Carrots: A Defense-in-Depth Guide to Azure AKS with Crossplane v2](https://dev.to/the-software-s-journey/protecting-your-prize-winning-cyber-carrots-a-defense-in-depth-guide-to-azure-aks-with-crossplane-43f0)
-- [FastAPI Architecture: Clean, Scalable &amp; Self-Documenting](https://dev.to/naved_shaikh/fastapi-architecture-clean-scalable-self-documenting-22n8)
-- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/tusharsharma099/dont-learn-devops-before-understanding-web-development-fb)
-- [Understanding Git and GitHub as a Beginner](https://dev.to/adithyan_g_6f3e606905eed7/understanding-git-and-github-as-a-345j)
+- [Quark&#39;s Outlines: Python Built-in Functions](https://dev.to/mike-vincent/quarks-outlines-python-built-in-functions-35e7)
+- [Scalable Image upload and storage system - HLD](https://dev.to/zeeshanali0704/scalable-image-upload-and-storage-system-hld-52i2)
+- [AI Agents Are Getting Smarter, But Individual Builders Are Taking the Risk](https://dev.to/sela_network/ai-agents-are-getting-smarter-but-individual-builders-are-taking-the-risk-278m)
+- [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
+- [GitHub Copilot CLI + MCP: Talk to Your Database in Plain English](https://dev.to/abhirockzz/github-copilot-cli-mcp-talk-to-your-database-in-plain-english-3go4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
