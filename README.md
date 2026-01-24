@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChameleonBio: Adaptive Professional Portfolio](https://dev.to/kheai/chameleonbio-adaptive-professional-portfolio-3l23)
-- [Swift Shenanigans- a series I&#39;m gonna make](https://dev.to/ryan_bae_5bd7d40241e52c14/swift-shenanigans-a-series-im-gonna-make-3hg0)
-- [CVE-2026-24420: CVE-2026-24420: When `isset&lpar;&rpar;` Becomes a Backdoor in phpMyFAQ](https://dev.to/cverports/cve-2026-24420-cve-2026-24420-when-isset-becomes-a-backdoor-in-phpmyfaq-149b)
-- [Why I Abandoned My npm Package After Finding 75M Competitors](https://dev.to/agent-tools-dev/why-i-abandoned-my-npm-package-after-finding-75m-competitors-2i80)
-- [Build Your Private &quot;Health Brain&quot;: Local Llama-3 on MacBook with MLX &amp; HealthKit](https://dev.to/beck_moulton/build-your-private-health-brain-local-llama-3-on-macbook-with-mlx-healthkit-3e55)
+- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
+- [Why I Built an Open Source SEO Plugin in 2026](https://dev.to/juandenis/why-i-built-an-open-source-seo-plugin-in-2026-3i1p)
+- [Most developers don&#39;t understand that end users want a better experience and not AI layers everywhere. AI integration is good, but the final priority should be the user&#39;s experience.](https://dev.to/jaideepparashar/most-developers-dont-understand-that-end-users-want-a-better-experience-and-not-ai-layers-2409)
+- [Building Products with Invisible AI: A UX Blueprint](https://dev.to/jaideepparashar/building-products-with-invisible-ai-a-ux-blueprint-4aic)
+- [I&#39;m a Drummer, and I built a Stage SFX Simulator with AI &lpar;No Coding Knowledge Needed!&rpar;](https://dev.to/show_dr/im-a-drummer-and-i-built-a-stage-sfx-simulator-with-ai-no-coding-knowledge-needed-4cd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
