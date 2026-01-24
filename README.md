@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Mental Model That Made AWS Networking Finally Click](https://dev.to/emanuelegurini/the-mental-model-that-made-aws-networking-finally-click-1fc9)
-- [Building Maintainable AI Pipelines with the Task Context Observer Pattern](https://dev.to/matthew_hou_e8ab76d6be07b/building-maintainable-ai-pipelines-with-the-task-context-observer-pattern-1e26)
-- [The AI Development Workflow I Actually Use](https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i)
-- [[SUI] Inyectando objeto observable al ambiente](https://dev.to/david_goyes_a488f58a17a53/sui-17ke)
-- [So, You Want to Get into AI? &lpar;Without the Robot Uprising&rpar;](https://dev.to/shubham030/so-you-want-to-get-into-ai-without-the-robot-uprising-lgm)
+- [ChameleonBio: Adaptive Professional Portfolio](https://dev.to/kheai/chameleonbio-adaptive-professional-portfolio-3l23)
+- [Swift Shenanigans- a series I&#39;m gonna make](https://dev.to/ryan_bae_5bd7d40241e52c14/swift-shenanigans-a-series-im-gonna-make-3hg0)
+- [CVE-2026-24420: CVE-2026-24420: When `isset&lpar;&rpar;` Becomes a Backdoor in phpMyFAQ](https://dev.to/cverports/cve-2026-24420-cve-2026-24420-when-isset-becomes-a-backdoor-in-phpmyfaq-149b)
+- [Why I Abandoned My npm Package After Finding 75M Competitors](https://dev.to/agent-tools-dev/why-i-abandoned-my-npm-package-after-finding-75m-competitors-2i80)
+- [Build Your Private &quot;Health Brain&quot;: Local Llama-3 on MacBook with MLX &amp; HealthKit](https://dev.to/beck_moulton/build-your-private-health-brain-local-llama-3-on-macbook-with-mlx-healthkit-3e55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
