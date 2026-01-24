@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://dev.to/rosgluk/gpu-and-ram-prices-surge-in-australia-rtx-5090-up-15-ram-up-38-january-2026-kkb)
-- [CSA XCON 2026: India’s Premier Cybersecurity Conference Bringing Global Experts to Dehradun](https://dev.to/sagar_sajwan_a91beb41c861/csa-xcon-2026-indias-premier-cybersecurity-conference-bringing-global-experts-to-dehradun-3011)
-- [CVE-2026-20805 | Desktop Window Manager Information Disclosure Vulnerability](https://dev.to/aakash_rahsi/cve-2026-20805-desktop-window-manager-information-disclosure-vulnerability-1aj7)
-- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
-- [🌱 Bloom Roadmap — What’s Coming Next](https://dev.to/codebunny20/bloom-roadmap-whats-coming-next-335a)
+- [Voice Live vs Real-Time API : Quelle solution choisir sur Azure AI Foundry ?](https://dev.to/galaxy_ai/-voice-live-vs-real-time-api-quelle-solution-choisir-sur-azure-ai-foundry--54m0)
+- [Typesafe application configuration in TypeScript](https://dev.to/jonthanfielding/typesafe-application-configuration-in-typescript-ngh)
+- [Docker: The Magic Box That Saved DevOps](https://dev.to/sbkumbar024/docker-the-magic-box-that-saved-devops-1469)
+- [What Is AI Inference Governance? The new definition.](https://dev.to/neuralmethod/what-is-ai-inference-governance-the-new-definition-1j52)
+- [REST vs GraphQL: Which Should You Use?](https://dev.to/apiverve/rest-vs-graphql-which-should-you-use-4ak1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
