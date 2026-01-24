@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the ArgMax Function in Neural Networks: A Handy Simplification for Prediction](https://dev.to/rijultp/understanding-the-argmax-function-in-neural-networks-a-handy-simplification-for-prediction-5809)
-- [How I built a timeline of universal events](https://dev.to/bingkahu/how-i-built-a-timeline-of-universal-events-1179)
-- [Vibe Coding one Slice at a Time](https://dev.to/worldlinetech/vibe-coding-one-slice-at-a-time-4n3p)
-- [How Tokenization, Embeddings &amp; Attention Work in LLMs &lpar;Part 2&rpar;](https://dev.to/prabhasg56/how-tokenization-embeddings-attention-work-in-llms-part-2-3i0c)
-- [Agent Skills: Teach Claude Once, Use Everywhere](https://dev.to/rajeshroyal/agent-skills-teach-claude-once-use-everywhere-14cc)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/wesley_clark_9ed86994e7a7/introduction-to-ms-excel-for-data-analytics-39ei)
+- [Bring AI into your Jakarta EE apps with LangChain4J-CDI](https://dev.to/theelitegentleman/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-ib6)
+- [NiceHaus, a household-managing AI-powered web app](https://dev.to/oscarmarulanda/nicehaus-a-household-managing-ai-powered-web-app-5ge0)
+- [Happy coding](https://dev.to/mbugua70/happy-coding-4l8)
+- [[Boost]](https://dev.to/dd8888/-55oc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
