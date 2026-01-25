@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
-- [New Year New Portfolio](https://dev.to/discovered12345/new-year-new-portfolio-2o0k)
-- [Understanding Intelligent Agents Starting with Claude Agent SDK](https://dev.to/_8d31359a797ee088ecde8/understanding-intelligent-agents-starting-with-claude-agent-sdk-2omb)
-- [What Is Agentic Analytics?](https://dev.to/alexmercedcoder/what-is-agentic-analytics-5g35)
-- [DevOpsMind v1.1.1: New CI/CD, Cloud, and AIOps Labs Are Here](https://dev.to/infraforgelabs/devopsmind-v111-new-cicd-cloud-and-aiops-labs-are-here-2g03)
+- [How I Explained LLMs, SLMs &amp; VLMs at Microsoft](https://dev.to/jaskirat_singh/how-i-explained-llms-slms-vlms-at-microsoft-3d5h)
+- [Poll UI / User Vote](https://dev.to/preetha_vaishnavi_2b82358/poll-ui-user-vote-2gb3)
+- [&quot;Cast your vote&quot; component](https://dev.to/preetha_vaishnavi_2b82358/cast-your-vote-component-5g17)
+- [Pingora Guide - How To Make A Programmable API Gateway](https://dev.to/warren_jitsing_dd1c1d6fc6/pingora-guide-how-to-make-a-programmable-api-gateway-1oim)
+- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
