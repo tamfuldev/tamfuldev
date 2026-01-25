@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to develop modern Shopify Custom Apps with Brush](https://dev.to/herveguetin/how-to-architect-modern-shopify-custom-apps-with-brush-4a1b)
-- [[Boost]](https://dev.to/anthonymax/-3ne4)
-- [Getting Started with cURL](https://dev.to/hiral/getting-started-with-curl-4176)
-- [Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I&#39;ve done](https://dev.to/highcenburg/getting-brutal-a-brutalist-portfolio-of-who-i-am-what-i-do-and-the-accomplishments-ive-done-114h)
-- [Mastering TypeScript Utility Types: Part 2 — The Transformers &amp; Type Thieves](https://dev.to/mandy8055/mastering-typescript-utility-types-part-2-the-transformers-type-thieves-2ll0)
+- [DSA Pattern Recognition](https://dev.to/bibimbop123/dsa-pattern-recognition-545m)
+- [Intersection observer](https://dev.to/chhavikohli/intersection-observer-5807)
+- [修改 SSH 默认端口导致密钥登录失败的排查与解决](https://dev.to/amoorzheyu/xiu-gai-ssh-mo-ren-duan-kou-dao-zhi-mi-yao-deng-lu-shi-bai-de-pai-cha-yu-jie-jue-1aac)
+- [📊 Two Weeks In: How My First Flutter Chart Package Is Performing on pub.dev 🚀](https://dev.to/rahul-cse-25/two-weeks-in-how-my-first-flutter-chart-package-is-performing-on-pubdev-2om0)
+- [Clean, Transform, and Load Data in Power BI: A Beginner-Friendly Guide](https://dev.to/ibrahimabdulrasaq/clean-transform-and-load-data-in-power-bi-a-beginner-friendly-guide-41ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
