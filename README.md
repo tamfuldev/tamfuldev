@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [code is a &quot;translation&quot; | after 1.5 years of &quot;vibe-coding&quot; adventures thoughts](https://dev.to/arenukvern/code-is-a-translation-after-15-years-of-vibe-coding-adventures-thoughts-2hbn)
-- [Understanding Promises in JavaScript](https://dev.to/pckalyan/understanding-promises-in-javascript-253m)
-- [I stopped analysing matches and started building a tool to decide whether to go](https://dev.to/ezeeyeyo/i-stopped-analysing-matches-and-started-building-a-tool-to-decide-whether-to-go-46oj)
-- [Implementing the MVI Design Pattern in Flutter: A Journey toward Scalable State Management](https://dev.to/emmanuel_code/implementing-the-mvi-design-pattern-in-flutter-a-journey-toward-scalable-state-management-250e)
-- [Building PriorityPilot: A CLI Project Manager That Learns From Your Decisions](https://dev.to/usero0/building-prioritypilot-a-cli-project-manager-that-learns-from-your-decisions-17kg)
+- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-3kcl)
+- [My Excel &amp; Power Query Journey](https://dev.to/jaleny97/my-excel-power-query-journey-39k5)
+- [Synapse 0.2: REPL, S-Expressions &amp; Working Loops](https://dev.to/xzdes/synapse-02-repl-s-expressions-working-loops-4i8j)
+- [Engineering Log: LL-277: Iron Condor Optimization Researc &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-277-iron-condor-optimization-researc-2-more-2fpo)
+- [Ethereum-Solidity Quiz Q25: What is gas in Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q25-what-is-gas-in-ethereum-5cae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
