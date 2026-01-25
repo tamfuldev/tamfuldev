@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I made a game using Copilot CLI - was it a total failure or not so bad?](https://dev.to/embernoglow/i-made-a-game-using-copilot-cli-was-it-a-total-failure-or-not-so-bad-1k4m)
-- [Using Constants and Enums in C#](https://dev.to/allcoderthings/using-constants-and-enums-in-c-2h0c)
-- [SkillFade: A Skill Tracking App That Tells You the Truth &lpar;Not What You Want to Hear&rpar;](https://dev.to/ruhidibadli/skillfade-a-skill-tracking-app-that-tells-you-the-truth-not-what-you-want-to-hear-3m10)
-- [I Tested 6 Copilot Alternatives in VS Code and Here’s What Actually Worked](https://dev.to/primaryobjects/i-tested-6-copilot-alternatives-in-vs-code-and-heres-what-actually-worked-4n1o)
-- [Built, Not Born: A Digital Quiet Luxury Portfolio](https://dev.to/jacksonkasi/built-not-born-a-digital-quiet-luxury-portfolio-11md)
+- [Why Portable AI Memory Needs Confidential Compute?](https://dev.to/caerlower/why-portable-ai-memory-needs-confidential-compute-3b73)
+- [How to Automate ADR Reviews and Keep Your Architectural Decisions in Sync with Your Codebase](https://dev.to/tosin2013/how-to-automate-adr-reviews-and-keep-your-architectural-decisions-in-sync-with-your-codebase-kdn)
+- [Have you ever faced the LazyInitializationException-JPA Architecture](https://dev.to/vigneshwaralingam/have-you-ever-faced-the-lazyinitializationexception-jpa-architecture-f9d)
+- [Bluetooth SDP: Quick Overview](https://dev.to/duracellrabbid/bluetooth-sdp-quick-overview-464c)
+- [Kiro did it: Building a Credit Card Account Status Check Lambda Using the Kiro IDE!](https://dev.to/bhatiagirish/kiro-did-it-building-a-credit-card-account-status-check-lambda-using-the-kiro-ide-1cjg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
