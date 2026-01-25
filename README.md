@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DSA Pattern Recognition](https://dev.to/bibimbop123/dsa-pattern-recognition-545m)
-- [Intersection observer](https://dev.to/chhavikohli/intersection-observer-5807)
-- [修改 SSH 默认端口导致密钥登录失败的排查与解决](https://dev.to/amoorzheyu/xiu-gai-ssh-mo-ren-duan-kou-dao-zhi-mi-yao-deng-lu-shi-bai-de-pai-cha-yu-jie-jue-1aac)
-- [📊 Two Weeks In: How My First Flutter Chart Package Is Performing on pub.dev 🚀](https://dev.to/rahul-cse-25/two-weeks-in-how-my-first-flutter-chart-package-is-performing-on-pubdev-2om0)
-- [Clean, Transform, and Load Data in Power BI: A Beginner-Friendly Guide](https://dev.to/ibrahimabdulrasaq/clean-transform-and-load-data-in-power-bi-a-beginner-friendly-guide-41ej)
+- [Android ADB 무선 디버깅 완전 정리 - 보안 모델과 현실적인 대응 전략](https://dev.to/dss99911/android-adb-museon-dibeoging-wanjeon-jeongri-boan-modelgwa-hyeonsiljeogin-daeeung-jeonryag-454d)
+- [Why the Junior Ghost Town is our biggest threat](https://dev.to/jeanphilippe_ulpiano_46b/why-the-junior-ghost-town-is-our-biggest-threat-1apb)
+- [How I Started Doing Data Analysis with MS Excel](https://dev.to/sirphilip/how-i-started-doing-data-analysis-with-ms-excel-i4g)
+- [💰 Build a Salary Prediction System in Python with a GUI](https://dev.to/matetechnologie/build-a-salary-prediction-system-in-python-with-a-gui-bdo)
+- [show your projects](https://dev.to/haris18/show-your-projects-2ad0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
