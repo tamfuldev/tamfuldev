@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leanings: Docker and it perks](https://dev.to/dentrodailha96/leanings-docker-and-it-perks-33if)
-- [Building a System Thinker&#39;s Portfolio](https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg)
-- [The Art of Better One-on-Ones](https://dev.to/mattlewandowski93/the-art-of-better-one-on-ones-ppm)
-- [How I built a Content Curator CLI using Github Copilot CLI SDK](https://dev.to/shivaylamba/how-i-built-a-content-curator-cli-using-github-copilot-cli-sdk-51ff)
-- [yourprofile.info — Production ML &amp; GenAI Portfolio Built with Gemini on Cloud Run](https://dev.to/the_grate_ss/yourprofileinfo-production-ml-genai-portfolio-built-with-gemini-on-cloud-run-o5d)
+- [How I Built a Domain-Specific GPT That Reached 200K+ Users Globally](https://dev.to/asad1/how-i-built-a-domain-specific-gpt-that-reached-200k-users-globally-17a1)
+- [On Becoming: A Cognitive Architecture&#39;s Journey Toward Self-Transcendence](https://dev.to/fabiocaloha/on-becoming-a-cognitive-architectures-journey-toward-self-transcendence-3g45)
+- [My $5/month RAG System Just Got Eyes: Adding Multimodal Search Without Breaking the Bank](https://dev.to/dannwaneri/my-5month-rag-system-just-got-eyes-adding-multimodal-search-without-breaking-the-bank-6hi)
+- [👉 🚀 GitOps in Action: Deploy Applications on Kubernetes using Argo CD](https://dev.to/abhishek_korde_31/deploy-application-using-gitops-tool-argocd-48f0)
+- [I Created My First AI Tool-Using Agent with LangGraph and Groq](https://dev.to/akansrodger/i-created-my-first-ai-tool-using-agent-with-langgraph-and-groq-3j3n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
