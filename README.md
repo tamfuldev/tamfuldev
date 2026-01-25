@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
-- [The Excel Evolution: Navigating from Data Entry to Data Artistry without stress](https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-data-entry-to-data-artistry-without-stress-45mh)
-- [The Beginner’s Guide to React Native for Mobile Devlopment](https://dev.to/swyom_sanjog_4908464907cc/the-beginners-guide-to-react-native-for-mobile-development-58kl)
-- [My Journey at LuxDevHQ: MS Excel For Analytics](https://dev.to/victormungai97/my-journey-at-luxdevhq-ms-excel-for-analytics-5067)
-- [How SQLite Turns Hardware Chaos into Correctness](https://dev.to/lovestaco/how-sqlite-turns-hardware-chaos-into-correctness-40ba)
+- [code is a &quot;translation&quot; | after 1.5 years of &quot;vibe-coding&quot; adventures thoughts](https://dev.to/arenukvern/code-is-a-translation-after-15-years-of-vibe-coding-adventures-thoughts-2hbn)
+- [Understanding Promises in JavaScript](https://dev.to/pckalyan/understanding-promises-in-javascript-253m)
+- [I stopped analysing matches and started building a tool to decide whether to go](https://dev.to/ezeeyeyo/i-stopped-analysing-matches-and-started-building-a-tool-to-decide-whether-to-go-46oj)
+- [Implementing the MVI Design Pattern in Flutter: A Journey toward Scalable State Management](https://dev.to/emmanuel_code/implementing-the-mvi-design-pattern-in-flutter-a-journey-toward-scalable-state-management-250e)
+- [Building PriorityPilot: A CLI Project Manager That Learns From Your Decisions](https://dev.to/usero0/building-prioritypilot-a-cli-project-manager-that-learns-from-your-decisions-17kg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
