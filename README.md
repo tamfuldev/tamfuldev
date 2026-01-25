@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Mastery Part 3: Project Configuration](https://dev.to/jestersimpps/claude-code-mastery-part-3-project-configuration-4n8h)
-- [Amazing Github Visualizer](https://dev.to/aaditya_thakur_d9f786176d/amazing-github-visualizer-82l)
-- [I got tired of GitHub looking dead — so I built this.](https://dev.to/aaditya_thakur_d9f786176d/i-got-tired-of-github-looking-dead-so-i-built-this-740)
-- [传统交易者](https://dev.to/elianalamhost/chuan-tong-jiao-yi-zhe-f5c)
-- [WTF is Distributed Database Systems?](https://dev.to/dailybugle33/wtf-is-distributed-database-systems-dhn)
+- [How to develop modern Shopify Custom Apps with Brush](https://dev.to/herveguetin/how-to-architect-modern-shopify-custom-apps-with-brush-4a1b)
+- [[Boost]](https://dev.to/anthonymax/-3ne4)
+- [Getting Started with cURL](https://dev.to/hiral/getting-started-with-curl-4176)
+- [Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I&#39;ve done](https://dev.to/highcenburg/getting-brutal-a-brutalist-portfolio-of-who-i-am-what-i-do-and-the-accomplishments-ive-done-114h)
+- [Mastering TypeScript Utility Types: Part 2 — The Transformers &amp; Type Thieves](https://dev.to/mandy8055/mastering-typescript-utility-types-part-2-the-transformers-type-thieves-2ll0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
