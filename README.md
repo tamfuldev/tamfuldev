@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
+- [New Year New Portfolio](https://dev.to/discovered12345/new-year-new-portfolio-2o0k)
+- [Understanding Intelligent Agents Starting with Claude Agent SDK](https://dev.to/_8d31359a797ee088ecde8/understanding-intelligent-agents-starting-with-claude-agent-sdk-2omb)
+- [What Is Agentic Analytics?](https://dev.to/alexmercedcoder/what-is-agentic-analytics-5g35)
 - [DevOpsMind v1.1.1: New CI/CD, Cloud, and AIOps Labs Are Here](https://dev.to/infraforgelabs/devopsmind-v111-new-cicd-cloud-and-aiops-labs-are-here-2g03)
-- [[Boost]](https://dev.to/sugatoray/-1j7)
-- [I was mistaken for an AI. What should I do?](https://dev.to/eduardogade/i-was-mistaken-for-an-ai-what-should-i-do-5fni)
-- [Sessão e identidade: por que o “contexto” decide a segurança de uma ação](https://dev.to/gideoncohen/sessao-e-identidade-por-que-o-contexto-decide-a-seguranca-de-uma-acao-529n)
-- [Why I prefer my own &#39;new Map&lpar;&rpar;&#39; based createObjects&lpar;&rpar; function over &#39;new Map&lpar;&rpar;&#39; *.set&lpar;&rpar;.](https://dev.to/aadswebdesign/why-i-prefer-my-own-new-map-based-createobjects-function-over-new-map-set-224b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
