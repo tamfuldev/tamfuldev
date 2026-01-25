@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Explicit by Default: Designing a Boring Mediator for .NET](https://dev.to/alexs_falcon/explicit-by-default-designing-a-boring-mediator-for-net-3h6p)
-- [I Got Tired of PDF Tools Uploading My Files, So I Built One That Runs Entirely in the Browser](https://dev.to/pranav_mailarpawar_7039f2/i-got-tired-of-pdf-tools-uploading-my-files-so-i-built-one-that-runs-entirely-in-the-browser-56ei)
-- [Introducing @constela/ui - Copy-Paste UI Components for Constela JSON DSL](https://dev.to/yuu1ch13/introducing-constelaui-copy-paste-ui-components-for-constela-json-dsl-1i39)
-- [Setting up data pipelines from S3 to Kafka with Flink as an ETL layer](https://dev.to/aws-builders/setting-up-data-pipelines-from-s3-to-kafka-with-flink-as-an-etl-layer-2cdk)
-- [Spring Boot 4 入門教學 - Part 4 &lpar;@Bean 與 IoC 容器&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-4-mi2)
+- [Crayons and the Wall](https://dev.to/suckup_de/crayons-and-the-wall-2ia7)
+- [Why Can You Right-Click Save a WebGL Canvas? A 20-Year History of Browser Graphics](https://dev.to/usapopopooon/why-can-you-right-click-save-a-webgl-canvas-a-20-year-history-of-browser-graphics-4kb3)
+- [Metaprogramming and the Limits of Static Analysis](https://dev.to/aghastygd/metaprogramming-and-the-limits-of-static-analysis-4dbk)
+- [Task Management UI](https://dev.to/preetha_vaishnavi_2b82358/task-management-ui-o64)
+- [Home Task Manager with angular js and firebase](https://dev.to/preetha_vaishnavi_2b82358/home-task-manager-with-angular-js-and-firebase-2db0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
