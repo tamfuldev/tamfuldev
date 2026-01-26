@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Useful Linux Commands For Data Engineers](https://dev.to/valgrace/useful-linux-commands-for-data-engineers-3082)
-- [npm vs npx: whats the difference?](https://dev.to/juansev/npm-vs-npx-whats-the-difference-44oi)
-- [📏 Beginner-Friendly Guide &#39;Minimum Absolute Difference&#39; - Problem 1200 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-absolute-difference-problem-1200-c-python-javascript-51md)
-- [Java Is Modern—So Why Does It Still Feel Verbose?](https://dev.to/anand_jaisy_2f7644a12001b/java-is-modern-so-why-does-it-still-feel-verbose-460a)
-- [How to Implement Webhooks](https://dev.to/asouza/how-to-implement-webhooks-157d)
+- [I Built a Faster PWA Icon Generator in a Weekend](https://dev.to/sivarampg/i-built-a-faster-pwa-icon-generator-in-a-weekend-li8)
+- [Teaching Clawdbot About Docker](https://dev.to/ajeetraina/teaching-clawdbot-about-docker-165g)
+- [How I use Claude Code to accelerate my software engineering job and improve my life](https://dev.to/juandj/how-i-use-claude-code-to-accelerate-my-software-engineering-job-and-improve-my-life-8o7)
+- [I saw Antigravity, I prompted, I conquered!](https://dev.to/usersam7/i-saw-antigravity-i-prompted-i-conquered-4102)
+- [Turbocharge Your Go Network Apps: Practical Optimization Tips](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-network-apps-practical-optimization-tips-1c9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
