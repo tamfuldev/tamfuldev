@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Controlling Software on the Corporate Linux Desktop](https://dev.to/sebos/controlling-software-on-the-corporate-linux-desktop-1bfg)
-- [Off-Main-Thread Architecture: Let the Main thread Breath](https://dev.to/imajeet5/off-main-thread-architecture-a-complete-guide-to-keeping-the-browser-responsive-nc1)
-- [[SUI] Calculando número de página del ScrollView](https://dev.to/david_goyes_a488f58a17a53/sui-calculando-numero-de-pagina-del-scrollview-2153)
-- [Efficient Client-Side Background Removal with WebAssembly and JavaScript](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-background-removal-with-webassembly-and-javascript-555e)
-- [Build a Book Catalog Table](https://dev.to/richardpascoe/build-a-book-catalog-table-1g7i)
+- [Planning Is the Real Superpower of Agentic Coding](https://dev.to/shinpr/planning-is-the-real-superpower-of-agentic-coding-1imm)
+- [[SUI] List](https://dev.to/david_goyes_a488f58a17a53/sui-list-3n1p)
+- [“Arquitecturas Resilientes en AWS: Todo Empieza Entendiendo Su Infraestructura”](https://dev.to/oscar_gaviria_2b862594738/arquitecturas-resilientes-en-aws-todo-empieza-entendiendo-su-infraestructura-eh3)
+- [A Developer’s Guide to Optimizing Beauty &amp; Luxury WordPress Themes for 2026](https://dev.to/designtocodes/a-developers-guide-to-optimizing-beauty-luxury-wordpress-themes-for-2026-20j1)
+- [Building a Content-Heavy Website for Long-Form Articles: Lessons Learned](https://dev.to/zile_lukic_0dfc1555abd33a/building-a-content-heavy-website-for-long-form-articles-lessons-learned-5bcj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
