@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Planning Is the Real Superpower of Agentic Coding](https://dev.to/shinpr/planning-is-the-real-superpower-of-agentic-coding-1imm)
-- [[SUI] List](https://dev.to/david_goyes_a488f58a17a53/sui-list-3n1p)
-- [“Arquitecturas Resilientes en AWS: Todo Empieza Entendiendo Su Infraestructura”](https://dev.to/oscar_gaviria_2b862594738/arquitecturas-resilientes-en-aws-todo-empieza-entendiendo-su-infraestructura-eh3)
-- [A Developer’s Guide to Optimizing Beauty &amp; Luxury WordPress Themes for 2026](https://dev.to/designtocodes/a-developers-guide-to-optimizing-beauty-luxury-wordpress-themes-for-2026-20j1)
-- [Building a Content-Heavy Website for Long-Form Articles: Lessons Learned](https://dev.to/zile_lukic_0dfc1555abd33a/building-a-content-heavy-website-for-long-form-articles-lessons-learned-5bcj)
+- [How to Run Clawdbot on WSL with Your Claude Code Subscription](https://dev.to/nunc/how-to-run-clawdbot-on-wsl-with-your-claude-code-subscription-13i4)
+- [Why Developers Love Loosely Typed Languages… But Trust Strict Ones](https://dev.to/karanunix/why-developers-love-loosely-typed-languages-but-trust-strict-ones-2k40)
+- [Mounting and Unmounting Filesystems in Linux](https://dev.to/ben-santora/mounting-and-unmounting-filesystems-in-linux-441l)
+- [Testing Stripe Webhooks Locally Without Deploying Your App](https://dev.to/pahatrop/testing-stripe-webhooks-locally-without-deploying-your-app-2imh)
+- [Just completed the 2nd module](https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
