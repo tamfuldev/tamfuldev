@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a schema-aware RAG agent with DuckDB and LangChain Go](https://dev.to/davidmontoyago/building-a-schema-aware-rag-agent-with-duckdb-and-langchain-go-574a)
-- [AI Governance is Just Good DevOps: A Developer&#39;s Perspective](https://dev.to/rpsan/ai-governance-is-just-good-devops-a-developers-perspective-2do8)
-- [Testing Telegram Bots in CI/CD: Zero Tokens Required](https://dev.to/stepan_romankov/testing-telegram-bots-in-cicd-zero-tokens-required-4io3)
-- [Understanding Memory Graph Debugger in Xcode](https://dev.to/arshtechpro/understanding-memory-graph-debugger-in-xcode-your-guide-to-catching-memory-leaks-274)
-- [Introducing Home Screen Widgets in PhoneCleanKit](https://dev.to/diskcleankit/introducing-home-screen-widgets-in-phonecleankit-1im0)
+- [🚀 New Year, New You: Shipping an AI App with Google AI Studio](https://dev.to/amisha_aggarwal_1104bf04f/new-year-new-you-shipping-an-ai-app-with-google-ai-studio-39c2)
+- [🚨 Saga EVM Exploit – $7M Minted from Thin Air 🚨](https://dev.to/mazechain/saga-evm-exploit-7m-minted-from-thin-air-57f9)
+- [From Slow Aggregations to Instant Queries: Optimizing Push Notification History with Summary Tables](https://dev.to/sangwoo_rhie/from-slow-aggregations-to-instant-queries-optimizing-push-notification-history-with-summary-tables-5c8n)
+- [Dokumentasi Database MariaDB &lpar;Updated&rpar;](https://dev.to/mrkoala1001/dokumentasi-database-mariadb-updated-5c60)
+- [The Pager: Where SQLite Transactions Touch Disk Reality](https://dev.to/lovestaco/the-pager-where-sqlite-transactions-touch-disk-reality-44cg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
