@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DRY January: Demotivational Posters with the TANStack or Next.js](https://dev.to/cloudinary/dry-january-demotivational-posters-with-the-tanstack-or-nextjs-5164)
-- [Refatoração de Legados sem parar o negócio](https://dev.to/danielcamucatto/refatoracao-de-legados-sem-parar-o-negocio-3d3a)
-- [Ask Ellie : Getting Engineering Visibility Without Adding More Dashboards](https://dev.to/entelligenceai/ask-ellie-getting-engineering-visibility-without-adding-more-dashboards-14m6)
-- [Engineering Log: Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ralph-proactive-scan-findings-2-more-1h7)
-- [Things Tutorials Don’t Teach You About Building Real Applications](https://dev.to/sai_khairnar_1392791fe9b5/things-tutorials-dont-teach-you-about-building-real-applications-11go)
+- [Personal Branding for Introverted Developers &lpar;Yes, It&#39;s Possible&rpar; 🚀](https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp)
+- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
+- [Ridge vs. Lasso Regression: A Clear Guide to Regularization Techniques](https://dev.to/kenyansa/ridge-vs-lasso-regression-a-clear-guide-to-regularization-techniques-14nn)
+- [Debugging Dynamic Cookie Validation in Express.js](https://dev.to/jsdevrobin/debugging-dynamic-cookie-validation-in-expressjs-14dl)
+- [The Agentic Developer: Orchestrating My 2026 Portfolio with Google Antigravity &amp; Gemini 3](https://dev.to/dhruva_wani_17/the-agentic-developer-orchestrating-my-2026-portfolio-with-google-antigravity-gemini-3-48o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
