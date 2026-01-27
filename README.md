@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [𝗢𝗔𝘂𝘁𝗵𝟮.𝟬 — 𝗦𝗶𝗺𝗽𝗹𝗲, 𝗳𝘂𝗻𝗻𝘆 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆𝗯𝗼𝗱𝘆](https://dev.to/milan_karajovic_45443e6d6/--497h)
-- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
-- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
-- [MCP vs CLI Tools: Which is best for production applications?](https://dev.to/mathewpregasen/mcp-vs-cli-tools-which-is-best-for-production-applications-bd8)
-- [How I Built &quot;The Sentinel&quot;: My AI Supply Chain Agent](https://dev.to/pearlicia/how-i-built-the-sentinel-my-ai-supply-chain-agent-k1n)
+- [CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61)
+- [Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp)
+- [Você não é especial: Uma IA te superou](https://dev.to/misterioso013/voce-nao-e-especial-uma-ia-te-superou-f1g)
+- [Engineering Log: Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ralph-proactive-scan-findings-2-more-1148)
+- [Has anyone actually shipped a free offline mobile LLM?](https://dev.to/ujja/has-anyone-actually-shipped-a-free-offline-mobile-llm-3h51)
 <!-- BLOG-POST-LIST:END -->
 
 ---
