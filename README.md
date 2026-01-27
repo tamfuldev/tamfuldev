@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61)
-- [Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp)
-- [Você não é especial: Uma IA te superou](https://dev.to/misterioso013/voce-nao-e-especial-uma-ia-te-superou-f1g)
-- [Engineering Log: Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ralph-proactive-scan-findings-2-more-1148)
-- [Has anyone actually shipped a free offline mobile LLM?](https://dev.to/ujja/has-anyone-actually-shipped-a-free-offline-mobile-llm-3h51)
+- [🛤️ Beginner-Friendly Guide &#39;Minimum Cost Path with Edge Reversals&#39; - LeetCode 3650 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-edge-reversals-leetcode-3650-c-python-3ebl)
+- [RAG desde cero con Ruby](https://dev.to/danielpenaloza/rag-desde-cero-con-ruby-42jb)
+- [I built a rate limiter that&#39;s 9x faster than rate-limiter-flexible - benchmarks included](https://dev.to/shayanhussainsb/i-built-a-rate-limiter-thats-9x-faster-than-rate-limiter-flexible-benchmarks-included-3409)
+- [Contact Forms Were Overkill, So I Built a Simple Floating Contact Button](https://dev.to/lewisushindi/contact-forms-were-overkill-so-i-built-a-simple-floating-contact-button-317d)
+- [EVENT-DRIVEN ARCHITECTURE &lpar;EDA&rpar;](https://dev.to/aman04/event-driven-architecture-eda-1d98)
 <!-- BLOG-POST-LIST:END -->
 
 ---
