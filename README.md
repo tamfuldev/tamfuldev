@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DEV.to Quick Actions &lpar;DEV+_+&rpar; — Browse Faster, React Smarter, Stay in Flow](https://dev.to/mebularts/devto-quick-actions-dev-browse-faster-react-smarter-stay-in-flow-4p3l)
-- [Question of the Day #4 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-4-talkoverflow-5c1p)
-- [Live Coding with AI](https://dev.to/tkarwatka/live-coding-with-ai-4h4m)
-- [[PostGIS/PgRouting] With french routable data](https://dev.to/julsbreakdown/postgispgrouting-with-french-routable-data-5dpb)
-- [I was tired of database tools — so I started building my own](https://dev.to/debba/i-was-tired-of-database-tools-so-i-started-building-my-own-3kia)
+- [The Integration Tax: Why Distributed Systems Hide the Truth Until It’s Too Late](https://dev.to/leonpennings/the-integration-tax-why-distributed-systems-hide-the-truth-until-its-too-late-3h1n)
+- [My RAG System: How I Built a RAG for My Business Card Website in 8 Days](https://dev.to/endykaufman/my-rag-system-how-i-built-a-rag-for-my-business-card-website-in-8-days-2c8l)
+- [Why Junior Developers Must Understand the Code—Not Just AI and Vibe Coding](https://dev.to/iamsaadmehmood/why-junior-developers-must-understand-the-code-not-just-ai-and-vibe-coding-26f2)
+- [Building Real-Time Log Streaming with PostgreSQL LISTEN/NOTIFY](https://dev.to/polliog/building-real-time-log-streaming-with-postgresql-listennotify-4cbj)
+- [Our CI pipelines went from 3 minutes to 15 after moving to Kubernetes. Here&#39;s how we fixed it.](https://dev.to/roee_hershko_bc6f44186f8e/our-ci-pipelines-went-from-3-minutes-to-15-after-moving-to-kubernetes-heres-how-we-fixed-it-48bj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
