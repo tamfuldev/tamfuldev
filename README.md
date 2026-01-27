@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Principles: From Chaos to Clean Code](https://dev.to/aishwarya_br/solid-principles-from-chaos-to-clean-code-475c)
-- [WTH is Clawdbot? Building Your Own Cross-Platform AI Assistant with Clawdbot in 2026](https://dev.to/asad1/wth-is-clawdbot-building-your-own-cross-platform-ai-assistant-with-clawdbot-in-2026-4non)
-- [How to Build Production AI Agents with an MCP Gateway](https://dev.to/debmckinney/how-to-build-production-ai-agents-with-an-mcp-gateway-2b82)
-- [[SUI] Table](https://dev.to/david_goyes_a488f58a17a53/sui-244m)
-- [The Features I Refused to Build in SkillFade](https://dev.to/ruhidibadli/the-features-i-refused-to-build-in-skillfade-3c2f)
+- [Forged in Westeros : A Developer Portfolio](https://dev.to/ak_deepankar/forged-in-westeros-a-developer-portfolio-3e28)
+- [Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator &lpar;version update + stability improvements&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff)
+- [I Built a PDF Tool Because I Didn’t Trust PDF Tools](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-tool-because-i-didnt-trust-pdf-tools-43gm)
+- [Pourquoi j&#39;ai créé un projet pour apprendre GitLab CI/CD &lpar;et pourquoi la doc ne suffit pas&rpar;](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)
+- [GitHub Copilot CLI: A DevOps Engineer&#39;s Practical Guide to AI-Powered Terminal Automation](https://dev.to/pwd9000/github-copilot-cli-a-devops-engineers-practical-guide-to-ai-powered-terminal-automation-1jh0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
