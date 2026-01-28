@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0)
-- [Building a Minimal Signal API](https://dev.to/luciano0322/building-a-minimal-signal-api-aoj)
-- [Your Tests Pass. But Would They Catch This Bug?](https://dev.to/mikelane/your-tests-pass-but-would-they-catch-this-bug-mhd)
-- [Moltbot: The Ultimate Personal AI Assistant Guide for 2026](https://dev.to/czmilo/moltbot-the-ultimate-personal-ai-assistant-guide-for-2026-d4e)
-- [Github Copilot Best Practices: From Good to Great](https://dev.to/anjith/github-copilot-best-practices-from-good-to-great-5gnf)
+- [Building Offline-First AI Agents: Why &quot;Always-Online&quot; Architectures Fail in the Real World](https://dev.to/tflux2011/building-offline-first-ai-agents-why-always-online-architectures-fail-in-the-real-world-2o87)
+- [Tackling the cloud portfolio challenge -- Cloud Resume](https://dev.to/alok38/tackling-the-cloud-portfolio-challenge-cloud-resume-k4p)
+- [How to Set Project Milestones That Actually Signal Progress](https://dev.to/taskford/how-to-set-project-milestones-that-actually-signal-progress-457b)
+- [Designing Cache Invalidation at Scale with Spring Boot, Redis, and AWS ElastiCache](https://dev.to/jessica_patel_472897dd43c/designing-cache-invalidation-at-scale-with-spring-boot-redis-and-aws-elasticache-36cp)
+- [🎬 行為辨識](https://dev.to/stklen/xing-wei-bian-shi-34dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
