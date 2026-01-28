@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda: Deactivate Inactive IAM Keys](https://dev.to/anil_kumar_noolu/aws-lambda-deactivate-inactive-iam-keys-26gh)
-- [CVE-2024-4990: Magic Methods, Tragic Endings: RCE in Yii2 via Unsafe Reflection](https://dev.to/cverports/cve-2024-4990-magic-methods-tragic-endings-rce-in-yii2-via-unsafe-reflection-40d2)
-- [HTML Tables and Forms Review](https://dev.to/richardpascoe/html-tables-and-forms-review-5146)
-- [GA4 101: ทำไม Developer ถึงต้องเข้าใจ Google Analytics 4 &lpar;Data Model ที่เปลี่ยนไป?&rpar;](https://dev.to/sonnavigator/ga4-101-thamaim-developer-thuengtngekhaaaicch-google-analytics-4-data-model-thiiepliiynaip-3kn3)
-- [Anaconda vs Miniconda vs Mamba Guide](https://dev.to/rosgluk/anaconda-vs-miniconda-vs-mamba-guide-4pae)
+- [Configure Wake on LAN](https://dev.to/janith19/configure-wake-on-lan-24ff)
+- [Standup-CLI: The Daily Standup Auto-Generator](https://dev.to/prayagtushar/standup-cli-the-daily-standup-auto-generator-194f)
+- [ReactJS Hook Pattern ~ImperativeHandle with useImperativeHandle~](https://dev.to/kkr0423/reactjs-hook-pattern-imperativehandle-with-useimperativehandle-42ac)
+- [From Animation to Game Feel: My RPG Battle System Development Log](https://dev.to/kenjidev9662/from-animation-to-game-feel-my-rpg-battle-system-development-log-1n7h)
+- [XML Tag Counter: A PowerShell Script That Saved Me Hours &lpar;And Can Save You Too!&rpar;](https://dev.to/spirosendgr/xml-tag-counter-a-powershell-script-that-saved-me-hours-and-can-save-you-too-119k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
