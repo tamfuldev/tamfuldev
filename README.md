@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New Year, New You: The Void Alchemist Portfolio &lpar;Powered by Gemini&rpar;](https://dev.to/grandkojo/new-year-new-you-the-void-alchemist-portfolio-powered-by-gemini-3351)
-- [10 Real-World Side Projects That Actually Impress Recruiters](https://dev.to/codingpanel/10-real-world-side-projects-that-actually-impress-recruiters-1cin)
-- [Why My Blender Scene Looked Flat Until Lighting Clicked](https://dev.to/dinesh_04/why-my-blender-scene-looked-flat-until-lighting-clicked-412l)
-- [Getting to know Git and Github](https://dev.to/shacherock/getting-to-know-git-and-github-3jbh)
-- [A Proactive Strategy for Building Reliable Software Systems](https://dev.to/subham_jha_7b468f2de09618/a-proactive-strategy-for-building-reliable-software-systems-23bj)
+- [How I Fell in Love with Claude Code &lpar;And Why You Might Too&rpar;](https://dev.to/adrianjiga/how-i-fell-in-love-with-claude-code-and-why-you-might-too-5c8a)
+- [Inside My AI/ML Engineer Portfolio](https://dev.to/kareemblessed/inside-my-aiml-engineer-portfolio-315o)
+- [Runtime Environment Variables in Frontend Applications](https://dev.to/bo/runtime-environment-variables-in-frontend-applications-4gf9)
+- [VPWC Attribute Display Settings: управление выводом атрибутов WooCommerce из админки](https://dev.to/_vproger_/vpwc-attribute-display-settings-upravlieniie-vyvodom-atributov-woocommerce-iz-adminki-27k1)
+- [Migrations Plugin: управление миграциями базы данных WordPress](https://dev.to/_vproger_/migrations-plugin-upravlieniie-mighratsiiami-bazy-dannykh-wordpress-14np)
 <!-- BLOG-POST-LIST:END -->
 
 ---
