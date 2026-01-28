@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dapper Micro-ORM Explained](https://dev.to/scorpio69/dapper-micro-orm-explained-1le3)
-- [Bundle size badges are just numbers](https://dev.to/effnd/bundle-size-badges-are-just-numbers-ghn)
-- [Build a Website Using S3 and CloudFront with Terraform](https://dev.to/shreya111111/build-a-website-using-s3-and-cloudfront-with-terraform-5f61)
-- [Deploy and Invoke AI Agent to AgentCore Runtime with Github Actions](https://dev.to/budionosan/deploy-and-invoke-ai-agent-to-agentcore-runtime-with-github-actions-j6f)
-- [Docker Compose Is Documentation That Actually Runs](https://dev.to/p12se/docker-compose-is-documentation-that-actually-runs-5b4o)
+- [My Top 5 Self-Hosted Tools Running on My Home Server &lpar;via Docker&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-52c5)
+- [Driving Through My World of Code — A Playable Portfolio with Waterfalls, Wildlife, and Working Tech](https://dev.to/harsh_kumar_0904/driving-through-my-world-of-code-a-playable-portfolio-with-waterfalls-wildlife-and-working-tech-57o7)
+- [QA Agent in Your CI/CD Pipeline](https://dev.to/octomind_dev/qa-agent-in-your-cicd-pipeline-11j)
+- [From Virtual Machines to Virtual Machine Scale Sets](https://dev.to/adebayo_ganiyatoladunjoy/from-virtual-machines-to-virtual-machine-scale-sets-2i2i)
+- [KEXP: Margaret Tchatcheuse - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-margaret-tchatcheuse-full-performance-live-on-kexp-5ac5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
