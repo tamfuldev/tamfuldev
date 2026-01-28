@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How We Reduced API Response Time by 60% in Node.js Using Caching, Query Optimization &amp; Performance Profiling](https://dev.to/darshanraval/how-we-reduced-api-response-time-by-60-in-nodejs-using-caching-query-optimization--4cla)
-- [Beyond Chatbots: Why 2026 is the Year of Agentic AI for Enterprise](https://dev.to/esoft_cloudtechsoltuion/beyond-chatbots-why-2026-is-the-year-of-agentic-ai-for-enterprise-2hjd)
-- [pam - a minimal SQL client for the CLI &lpar;dbeaver terminalized!&rpar;](https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib)
-- [Why I refused to learn React for my first project &lpar;And used Vanilla JS instead&rpar;](https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0)
-- [A Procedurally Generated GitHub CLI Roguelike Where Every Dungeon Is Built from Your Code](https://dev.to/leereilly/a-procedurally-generated-github-cli-roguelike-where-every-dungeon-is-built-from-your-code-1ef)
+- [Indeterminate Is Not a Value](https://dev.to/bwi/indeterminate-is-not-a-value-1omd)
+- [Why Checkboxes Are Not as Simple as They Seem](https://dev.to/bwi/why-checkboxes-are-not-as-simple-as-they-seem-3jhf)
+- [Meta Mosaic: A Lightweight, Interactive Mosaic Layout for React](https://dev.to/arbaj_ansari_120ccadf7f67/meta-mosaic-a-lightweight-interactive-mosaic-layout-for-react-3471)
+- [Contributing to RubyGems &lpar;.org&rpar;](https://dev.to/cseeman/contributing-to-rubygems-org-5dpi)
+- [GitHub Actions Has a Cleanup Problem — So I Built a Tool](https://dev.to/aakashio/github-actions-has-a-cleanup-problem-so-i-built-a-tool-46hh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
