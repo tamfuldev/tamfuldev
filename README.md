@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Offline-First Mobile Sync: Lessons from the Trenches](https://dev.to/omaranajar/building-offline-first-mobile-sync-lessons-from-the-trenches-3m21)
-- [Why Your React App Feels Slow: Fixing Performance with Web Workers](https://dev.to/pockit_tools/why-your-react-app-feels-slow-fixing-performance-with-web-workers-439h)
-- [Understanding Recursion using the Fibonacci Sequence with Ruby](https://dev.to/ben1010/understanding-recursion-using-the-fibonacci-sequence-with-ruby-56m3)
-- [[CS series]Computer Structure](https://dev.to/jonghwayoo03_dev/computer-structure-f4f)
-- [Linux CLI for extracting archives inside a bubblewrap sandbox &lpar;alpha&rpar;](https://dev.to/chechelpo/linux-cli-for-extracting-archives-inside-a-bubblewrap-sandbox-alpha-20gp)
+- [Dapper Micro-ORM Explained](https://dev.to/scorpio69/dapper-micro-orm-explained-1le3)
+- [Bundle size badges are just numbers](https://dev.to/effnd/bundle-size-badges-are-just-numbers-ghn)
+- [Build a Website Using S3 and CloudFront with Terraform](https://dev.to/shreya111111/build-a-website-using-s3-and-cloudfront-with-terraform-5f61)
+- [Deploy and Invoke AI Agent to AgentCore Runtime with Github Actions](https://dev.to/budionosan/deploy-and-invoke-ai-agent-to-agentcore-runtime-with-github-actions-j6f)
+- [Docker Compose Is Documentation That Actually Runs](https://dev.to/p12se/docker-compose-is-documentation-that-actually-runs-5b4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
