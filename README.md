@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Time Series Analysis with Python: Forecasting Made Simple](https://dev.to/adnan_arif_14ae4bc014267f/time-series-analysis-with-python-forecasting-made-simple-5gk2)
-- [Agentic AI and Human-in-the-Loop: A Practical Implementation with Java](https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de)
-- [CVE-2026-24765: The CI/CD Trojan Horse: Inside PHPUnit&#39;s Unsafe Deserialization](https://dev.to/cverports/cve-2026-24765-the-cicd-trojan-horse-inside-phpunits-unsafe-deserialization-pl0)
-- [Brutalist / Industrial: Creative Developer Portfolio](https://dev.to/quodline/brutalist-industrial-creative-developer-portfolio-2fbl)
-- [Optimizing GPU Workload Placement in Kubernetes with NVLink-Aware Scheduling](https://dev.to/lalitlouis/optimizing-gpu-workload-placement-in-kubernetes-with-nvlink-aware-scheduling-20n7)
+- [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0)
+- [Building a Minimal Signal API](https://dev.to/luciano0322/building-a-minimal-signal-api-aoj)
+- [Your Tests Pass. But Would They Catch This Bug?](https://dev.to/mikelane/your-tests-pass-but-would-they-catch-this-bug-mhd)
+- [Moltbot: The Ultimate Personal AI Assistant Guide for 2026](https://dev.to/czmilo/moltbot-the-ultimate-personal-ai-assistant-guide-for-2026-d4e)
+- [Github Copilot Best Practices: From Good to Great](https://dev.to/anjith/github-copilot-best-practices-from-good-to-great-5gnf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
