@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Top 5 Self-Hosted Tools Running on My Home Server &lpar;via Docker&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-52c5)
-- [Driving Through My World of Code — A Playable Portfolio with Waterfalls, Wildlife, and Working Tech](https://dev.to/harsh_kumar_0904/driving-through-my-world-of-code-a-playable-portfolio-with-waterfalls-wildlife-and-working-tech-57o7)
-- [QA Agent in Your CI/CD Pipeline](https://dev.to/octomind_dev/qa-agent-in-your-cicd-pipeline-11j)
-- [From Virtual Machines to Virtual Machine Scale Sets](https://dev.to/adebayo_ganiyatoladunjoy/from-virtual-machines-to-virtual-machine-scale-sets-2i2i)
-- [KEXP: Margaret Tchatcheuse - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-margaret-tchatcheuse-full-performance-live-on-kexp-5ac5)
+- [Networking devices 000](https://dev.to/ppc/networking-devices-000-3jb)
+- [Codebase Guide: AI Mentor for Multi-Repo Onboarding](https://dev.to/keerthana_696356/codebase-guide-ai-mentor-for-multi-repo-onboarding-jp8)
+- [The Modernization Imperative](https://dev.to/sanal_sukamo/the-modernization-imperative-g11)
+- [The humans.txt file: showing there&#39;s real people behind your website](https://dev.to/elyvora_us/the-humanstxt-file-showing-theres-real-people-behind-your-website-p35)
+- [svg-sdf-art](https://dev.to/spacesnottabs/svg-sdf-art-56in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
