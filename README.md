@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Offline-First AI Agents: Why &quot;Always-Online&quot; Architectures Fail in the Real World](https://dev.to/tflux2011/building-offline-first-ai-agents-why-always-online-architectures-fail-in-the-real-world-2o87)
-- [Tackling the cloud portfolio challenge -- Cloud Resume](https://dev.to/alok38/tackling-the-cloud-portfolio-challenge-cloud-resume-k4p)
-- [How to Set Project Milestones That Actually Signal Progress](https://dev.to/taskford/how-to-set-project-milestones-that-actually-signal-progress-457b)
-- [Designing Cache Invalidation at Scale with Spring Boot, Redis, and AWS ElastiCache](https://dev.to/jessica_patel_472897dd43c/designing-cache-invalidation-at-scale-with-spring-boot-redis-and-aws-elasticache-36cp)
-- [🎬 行為辨識](https://dev.to/stklen/xing-wei-bian-shi-34dj)
+- [Building a macOS Menu Bar App for the Khmer Lunisolar Calendar with SwiftUI](https://dev.to/rithytep/building-a-macos-menu-bar-app-for-the-khmer-lunisolar-calendar-with-swiftui-5hk2)
+- [🚀 Angular Goes Zoneless: A Deep Dive into the Future of Change Detection](https://dev.to/amirsuh/angular-goes-zoneless-a-deep-dive-into-the-future-of-change-detection-568n)
+- [A Time Tracking App Wanted $28,800, So I Replaced It With a Homelab](https://dev.to/torrin/a-time-tracking-app-wanted-28800-so-i-replaced-it-with-a-homelab-l7d)
+- [The Architect’s Blueprint: REST API Best Practices in Apigee X](https://dev.to/realnamehidden1_61/the-architects-blueprint-rest-api-best-practices-in-apigee-x-5gp7)
+- [Python String Manipulation: Every Way to Delete Specific Characters](https://dev.to/lifeportal20002010/python-string-manipulation-every-way-to-delete-specific-characters-1913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
