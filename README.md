@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Networking devices 000](https://dev.to/ppc/networking-devices-000-3jb)
-- [Codebase Guide: AI Mentor for Multi-Repo Onboarding](https://dev.to/keerthana_696356/codebase-guide-ai-mentor-for-multi-repo-onboarding-jp8)
-- [The Modernization Imperative](https://dev.to/sanal_sukamo/the-modernization-imperative-g11)
-- [The humans.txt file: showing there&#39;s real people behind your website](https://dev.to/elyvora_us/the-humanstxt-file-showing-theres-real-people-behind-your-website-p35)
-- [svg-sdf-art](https://dev.to/spacesnottabs/svg-sdf-art-56in)
+- [🚀 How We Reduced API Response Time by 60% in Node.js Using Caching, Query Optimization &amp; Performance Profiling](https://dev.to/darshanraval/how-we-reduced-api-response-time-by-60-in-nodejs-using-caching-query-optimization--4cla)
+- [Beyond Chatbots: Why 2026 is the Year of Agentic AI for Enterprise](https://dev.to/esoft_cloudtechsoltuion/beyond-chatbots-why-2026-is-the-year-of-agentic-ai-for-enterprise-2hjd)
+- [pam - a minimal SQL client for the CLI &lpar;dbeaver terminalized!&rpar;](https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib)
+- [Why I refused to learn React for my first project &lpar;And used Vanilla JS instead&rpar;](https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0)
+- [A Procedurally Generated GitHub CLI Roguelike Where Every Dungeon Is Built from Your Code](https://dev.to/leereilly/a-procedurally-generated-github-cli-roguelike-where-every-dungeon-is-built-from-your-code-1ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
