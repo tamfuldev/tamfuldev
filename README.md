@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
-- [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
-- [Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations](https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44)
-- [Angular Component Communication: Complete Guide | @Input @Output EventEmitter &amp; ViewChild](https://dev.to/marufrahmanlive/angular-component-communication-complete-guide-input-output-eventemitter-viewchild-1395)
-- [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
+- [Captain Hook: When Your AI Copilot Gets Promoted to Captain!](https://dev.to/thec0dewriter/captain-hook-when-your-ai-copilot-gets-promoted-to-captain-3amc)
+- [The Engineer’s Legal Handbook: 2026 Update](https://dev.to/deepak_mishra_35863517037/the-engineers-legal-handbook-2026-update-3inb)
+- [Your Team Deserves Better Than a Shared Dev Environment - Ephemeral Environments with Coolify](https://dev.to/amirraouf/your-team-deserves-better-than-a-shared-dev-environment-ephemeral-environments-with-coolify-54gk)
+- [AICtrlNet: Visual AI Orchestration with Native Human-in-the-Loop &lpar;MIT Licensed&rpar;](https://dev.to/srirajasekhar_koritala_4c/aictrlnet-visual-ai-orchestration-with-native-human-in-the-loop-mit-licensed-49i3)
+- [Solved: Sync HubSpot Deals to a Google Sheet for Sales Visualization](https://dev.to/techresolve/solved-sync-hubspot-deals-to-a-google-sheet-for-sales-visualization-2b91)
 <!-- BLOG-POST-LIST:END -->
 
 ---
