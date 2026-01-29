@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Kaggle-Winning Data Analysis Project](https://dev.to/adnan_arif_14ae4bc014267f/creating-a-kaggle-winning-data-analysis-project-3ahi)
-- [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
-- [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
-- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
-- [Bomb the Silo From Inside: Why Mission Teams Work](https://dev.to/asvid/bomb-the-silo-from-inside-why-mission-teams-work-o1p)
+- [Why Version Control Exists: The Pendrive Problem](https://dev.to/vicky_gupta_e97f7752abc47/why-version-control-exists-the-pendrive-problem-4boj)
+- [Building a Serverless Geofencing Engine with Go &amp; PostGIS &lpar;to replace expensive APIs&rpar;](https://dev.to/alex_g_aeeb05ba69eee8a4fd/building-a-serverless-geofencing-engine-with-go-postgis-to-replace-expensive-apis-78i)
+- [Why You Need a ChatGPT App Framework](https://dev.to/abewheeler/why-you-need-a-chatgpt-app-framework-1bmc)
+- [[BlindSpot] Log 04. Let&#39;s follow the SOLID principles : DIP](https://dev.to/ryujm1828/blindspot-log-04-lets-follow-the-solid-principles-dip-1b3i)
+- [Efficient GAN-Based Anomaly Detection](https://dev.to/paperium/efficient-gan-based-anomaly-detection-2j05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
