@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Row Management and Layout Control](https://dev.to/lenormor/row-management-and-layout-control-4jfi)
-- [XLTable: Bringing the OLAP Experience Back to Excel on Modern Data Warehouses](https://dev.to/xltable/xltable-bringing-the-olap-experience-back-to-excel-on-modern-data-warehouses-14i3)
-- [Why AI Output Fails Before Generation Ever Begins](https://dev.to/leigh_k_valentine/why-ai-output-fails-before-generation-ever-begins-2pj7)
-- [Datadog + AWS: Observability Maturity Model 2026](https://dev.to/aws-builders/datadog-aws-observability-maturity-model-2026-210m)
-- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/kunal_dev/css-selectors-101-targeting-elements-with-precision-4oj8)
+- [FreePascal/Lazarus and Rust Integration P.II](https://dev.to/davidedelpapa/freepascallazarus-and-rust-integration-pii-5dh1)
+- [Bring your VPC to 2026, with no downtime: how we added HA, IPv6 and more to our legacy VPC, using an IaC-first approach](https://dev.to/sebacaccaro/bring-your-vpc-to-2026-with-no-downtime-how-we-added-ha-ipv6-and-more-to-our-legacy-vpc-using-4d20)
+- [Re-reading Blockchain &quot;Classics&quot; in 2026: Implementing the Future in the Era of AI &amp; Quantum Computing](https://dev.to/doraking/re-reading-blockchain-classics-in-2026-implementing-the-future-in-the-era-of-ai-quantum-d56)
+- [From Local VM to AWS: My Journey Mastering Git and Nginx](https://dev.to/danyang007/from-local-vm-to-aws-my-journey-mastering-git-and-nginx-132e)
+- [Stop Writing Validation Code. Start Writing JSON](https://dev.to/jeanduppont/stop-writing-validation-code-start-writing-json-3dd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
