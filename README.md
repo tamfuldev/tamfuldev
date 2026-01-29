@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MySQL backup to cloud — Backing up MySQL databases to AWS S3 and Google Cloud](https://dev.to/piteradyson/mysql-backup-to-cloud-backing-up-mysql-databases-to-aws-s3-and-google-cloud-4fhc)
-- [You Think Being Replaced by AI is Scary? I Think Developer Irrelevance is the Real Horror](https://dev.to/ryo_suwito/you-think-being-replaced-by-ai-is-scary-i-think-developer-irrelevance-is-the-real-horror-1513)
-- [Why Real-Time Communications and Web Applications Need Different Boundaries — A Comparison of SBC and WAF](https://dev.to/arina_cholee/why-real-time-communications-and-web-applications-need-different-boundaries-a-comparison-of-sbc-331b)
-- [I Turned My Resume into a Spotify Playlist](https://dev.to/fatiyaey/i-turned-my-resume-into-a-spotify-playlist-281k)
-- [Brave Search MCP Server Token Optimization](https://dev.to/hasmcp/brave-search-mcp-server-token-optimization-2mnk)
+- [Unlocking Peak Performance in Magento Frontend: A Technical Deep Dive into Hyvä Themes](https://dev.to/lifeisverygood/unlocking-peak-performance-in-magento-frontend-a-technical-deep-dive-into-hyva-themes-15jg)
+- [Adding Voice Input to Web Forms with Whisper](https://dev.to/ryancwynar/adding-voice-input-to-web-forms-with-whisper-360j)
+- [Roblox DevEx Explained &lpar;and Why I Built a Simple DevEx Calculator&rpar;](https://dev.to/nabeel_saleem_c2b8bc60839/roblox-devex-explained-and-why-i-built-a-simple-devex-calculator-1c24)
+- [Reverse engineering River Raid with Claude, Ghidra, and MCP](https://dev.to/teamquesma/reverse-engineering-river-raid-with-claude-ghidra-and-mcp-3oio)
+- [How to Draw a Route Preview on a Static Map Image with Geoapify](https://dev.to/geoapify-maps-api/how-to-draw-a-route-preview-on-a-static-map-image-with-geoapify-26pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
