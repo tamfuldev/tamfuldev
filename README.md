@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Peak Performance in Magento Frontend: A Technical Deep Dive into Hyvä Themes](https://dev.to/lifeisverygood/unlocking-peak-performance-in-magento-frontend-a-technical-deep-dive-into-hyva-themes-15jg)
-- [Adding Voice Input to Web Forms with Whisper](https://dev.to/ryancwynar/adding-voice-input-to-web-forms-with-whisper-360j)
-- [Roblox DevEx Explained &lpar;and Why I Built a Simple DevEx Calculator&rpar;](https://dev.to/nabeel_saleem_c2b8bc60839/roblox-devex-explained-and-why-i-built-a-simple-devex-calculator-1c24)
-- [Reverse engineering River Raid with Claude, Ghidra, and MCP](https://dev.to/teamquesma/reverse-engineering-river-raid-with-claude-ghidra-and-mcp-3oio)
-- [How to Draw a Route Preview on a Static Map Image with Geoapify](https://dev.to/geoapify-maps-api/how-to-draw-a-route-preview-on-a-static-map-image-with-geoapify-26pj)
+- [5 Ways to Handle Test Data in Playwright | TestDino Insights](https://dev.to/testdino01/5-ways-to-handle-test-data-in-playwright-1l32)
+- [Why Messy Discovery Matters](https://dev.to/mesmoiron/why-messy-discovery-matters-8a5)
+- [🎯 From 50+ Lines to 1 Line: Zero Boilerplate ASP.NET APIs](https://dev.to/reslava/from-50-lines-to-1-line-zero-boilerplate-aspnet-apis-4hb)
+- [Announcing Meteroid OSS v1 RC and Cloud 🦀](https://dev.to/gaspardb/announcing-meteroid-oss-v1-rc-and-cloud-1gmo)
+- [SanjayOS: I Built an AI-Powered Operating System for My Portfolio 🚀](https://dev.to/sanjaysah/sanjayos-i-built-an-ai-powered-operating-system-for-my-portfolio-3bih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
