@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Allow “www.” in the Website Field in Gravity Forms](https://dev.to/faisalahammad/how-to-allow-www-in-the-website-field-in-gravity-forms-1b31)
-- [The Secret Life of Go: Consumer-Defined Interfaces](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn)
-- [Building an AI-Powered Job Matcher with Nuxt 4 &lpar;That Doesn&#39;t Auto-Apply&rpar;](https://dev.to/pravin_tripathi_9b6c7b266/building-an-ai-powered-job-matcher-with-nuxt-4-that-doesnt-auto-apply-31pb)
-- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/satyasootar/emmet-for-html-a-beginners-guide-to-writing-faster-markup-4ood)
-- [✨ Beginner-Friendly Guide &#39;Minimum Cost to Convert String I&#39; - LeetCode 2976 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-to-convert-string-i-leetcode-2976-c-python-29h6)
+- [CPU Work](https://dev.to/ikhwanal/cpu-work-fpm)
+- [I beat the 6-month Global Entry wait time with 50 lines of Python](https://dev.to/hypertools/i-beat-the-6-month-global-entry-wait-time-with-50-lines-of-python-2kn)
+- [Supercheck: Open Source AI-Powered Test Automation &amp; Monitoring Platform](https://dev.to/krishna_kant_b768440cb5a3/supercheck-open-source-ai-powered-test-automation-monitoring-platform-3929)
+- [Forge your experience Without the Chat: Building Proactive D&amp;D Tools with Algolia](https://dev.to/austin_amento_860aebb9f55/forge-your-experience-without-the-chat-building-proactive-dd-tools-with-algolia-5013)
+- [The Oracle: A Conversational D&amp;D Character Discovery Experience](https://dev.to/austin_amento_860aebb9f55/the-oracle-a-conversational-dd-character-discovery-experience-5bjp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
