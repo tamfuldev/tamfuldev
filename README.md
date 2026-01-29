@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Boost: Making AI Actually Useful for Laravel Developers](https://dev.to/vertex_invo_0005b24675db4/laravel-boost-making-ai-actually-useful-for-laravel-developers-3kmh)
-- [Understanding HTML Tags and Elements](https://dev.to/anoop-rajoriya/understanding-html-tags-and-elements-1p)
-- [Announcing SuperQode and SuperQE: Redefining Quality Engineering for Agentic Software](https://dev.to/shashikant86/announcing-superqode-and-superqe-redefining-quality-engineering-for-agentic-software-4ek9)
-- [Building in Public: How I Pivoted from Features to Validation 🚀](https://dev.to/lujandev/building-in-public-how-i-pivoted-from-features-to-validation-2150)
-- [.NET File‑Based Apps for API Prototyping: What Bit Me on First Run](https://dev.to/eelcolos/net-file-based-apps-for-api-prototyping-what-bit-me-on-first-run-na2)
+- [Rust Quiz 3 &amp; 4 – Mini Challenges, Ownership, and Real-World Rust](https://dev.to/manjushaps/rust-quiz-3-4-mini-challenges-ownership-and-real-world-rust-4ddo)
+- [The Dangers of Treating Product Documentation as an Afterthought](https://dev.to/ewacreate/the-dangers-of-treating-product-documentation-as-an-afterthought-5e7j)
+- [Foal version 5.2 is here 🎉](https://dev.to/loicpoullain/foal-version-52-is-here-7de)
+- [Ethereum Blockchain Development: Powering the Future of Decentralized Apps](https://dev.to/jenny_gupta_e7411d536a07a/ethereum-blockchain-development-powering-the-future-of-decentralized-apps-362b)
+- [I thought I knew JavaScript.](https://dev.to/amirhossein_ln/i-thought-i-knew-javascript-4kpb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
