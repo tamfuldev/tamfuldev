@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CPU Work](https://dev.to/ikhwanal/cpu-work-fpm)
-- [I beat the 6-month Global Entry wait time with 50 lines of Python](https://dev.to/hypertools/i-beat-the-6-month-global-entry-wait-time-with-50-lines-of-python-2kn)
-- [Supercheck: Open Source AI-Powered Test Automation &amp; Monitoring Platform](https://dev.to/krishna_kant_b768440cb5a3/supercheck-open-source-ai-powered-test-automation-monitoring-platform-3929)
-- [Forge your experience Without the Chat: Building Proactive D&amp;D Tools with Algolia](https://dev.to/austin_amento_860aebb9f55/forge-your-experience-without-the-chat-building-proactive-dd-tools-with-algolia-5013)
-- [The Oracle: A Conversational D&amp;D Character Discovery Experience](https://dev.to/austin_amento_860aebb9f55/the-oracle-a-conversational-dd-character-discovery-experience-5bjp)
+- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)
+- [Hoisting in JavaScript: A Complete Guide](https://dev.to/rahul1994jh/hoisting-in-javascript-a-complete-guide-1276)
+- [Prompt engineering: sun’iy intellekt natijani optimallashtirish usullari](https://dev.to/s_hoxrux_921856f2645/prompt-engineering-suniy-intellekt-modellarida-natijani-optimallashtirish-usullari-4k2j)
+- [llm-tldr: Answering &quot;Where is the authentication?&quot; with 100ms - Accuracy and Limitations of Semantic Search](https://dev.to/tumf/llm-tldr-answering-where-is-the-authentication-with-100ms-accuracy-and-limitations-of-3n9i)
+- [Robin: Investigating the Dark Web with AI - A New Companion for Security Researchers](https://dev.to/tumf/robin-investigating-the-dark-web-with-ai-a-new-companion-for-security-researchers-53kj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
