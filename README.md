@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
-- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
-- [Test Your Use Case with Postman](https://dev.to/tabapay/test-your-use-case-with-postman-lci)
-- [A Practical JSON “Fix-It” Workflow &lpar;and the browser tools I keep open all day&rpar;](https://dev.to/wesley_zhang_22e9a53ad025/a-practical-json-fix-it-workflow-and-the-browser-tools-i-keep-open-all-day-58fe)
-- [CKS SecurityContext Patterns You Must Memorize &lpar;Pod vs Container + Fast Verification&rpar;](https://dev.to/devops_dynamo_ae449a82026/cks-securitycontext-patterns-you-must-memorize-pod-vs-container-fast-verification-39ac)
+- [Stop Leaking Your Vitals: Training Private AI Models with PyTorch and Opacus](https://dev.to/beck_moulton/stop-leaking-your-vitals-training-private-ai-models-with-pytorch-and-opacus-2k0)
+- [De “Estudante de Educação Física” à desenvolvedora: minha migração de carreira para a tecnologia](https://dev.to/francielefernandes06/de-estudante-de-educacao-fisica-a-desenvolvedora-minha-migracao-de-carreira-para-a-tecnologia-262p)
+- [ℹ️ INFO LL-318: Claude Code Async Hooks for &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-318-claude-code-async-hooks-for-2-more-1ng2)
+- [React.js Forms The Coffee Shop Principle: Why Your Are Losing Users &lpar;And How to Fix Them&rpar;](https://dev.to/igornosatov_15/the-coffee-shop-principle-why-your-react-forms-are-losing-users-and-how-to-fix-them-23de)
+- [Building Scalable Data Pipelines with Airflow, Docker, and Python: A SightSearch Case Study](https://dev.to/oliver_samuel_028c6f65ad6/building-scalable-data-pipelines-with-airflow-docker-and-python-a-sightsearch-case-study-e9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
