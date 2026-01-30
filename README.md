@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Job Queue That&#39;s 32x Faster Than BullMQ &lpar;No Redis Required&rpar;](https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g)
-- [Focus Controls the Signal Forms Way](https://dev.to/brianmtreese/focus-controls-the-signal-forms-way-579d)
-- [The Engineering Behind 40kW GPU Racks: A Technical Deep Dive](https://dev.to/sujay_namburi_7b1df3eb386/the-engineering-behind-40kw-gpu-racks-a-technical-deep-dive-1afo)
-- [This is a solid reminder that remote hiring has matured and the risks have matured with it, something Ashkan Rajaee has been consistently warning founders about.](https://dev.to/edensaur/this-is-a-solid-reminder-that-remote-hiring-has-matured-and-the-risks-have-matured-with-it-m7p)
-- [Asaaju Peter Set to Release a New Book, WordPress Common Error and Smart Solution](https://dev.to/phemight_technologies_281/asaaju-peter-set-to-release-a-new-book-wordpress-common-error-and-smart-solution-1e6n)
+- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/kunal_dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup-1kka)
+- [Wow - just wow! I woke up this morning to see such a positive response to my post. I truly appreciate each and every one of you. Thank you!](https://dev.to/richardpascoe/wow-just-wow-i-woke-up-this-morning-to-see-such-a-positive-response-to-my-post-i-truly-54c4)
+- [jwt-encde 1.1: npm packages for cross-platform published](https://dev.to/nabbisen/jwt-encde-11-npm-packages-for-cross-platform-published-504l)
+- [Pipfolio: Pip-Boy Inspired Web Portfolio](https://dev.to/ansellmaximilian/pipfolio-pip-boy-inspired-web-portfolio-4hpm)
+- [How Do You Mentor Someone?](https://dev.to/msnmongare/how-do-you-mentor-someone-3gh7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
