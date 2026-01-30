@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day-4 Data Types](https://dev.to/karthick_m22/day-4-data-types-lh)
-- [JavaScript Concept](https://dev.to/olayemi_elsie/javascript-concept-5dld)
-- [Understanding Backprogation In Hindi With शायरी](https://dev.to/jenil_sheth_3eb6f86dc4900/understanding-backprogation-in-hindi-with-shaayrii-44d4)
-- [Introducing BoldKit: A Neubrutalism React Component Library](https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1)
-- [We Ported Game-Dev Logic to Telegram: Building a Tactile LifeOS with React and RxJS](https://dev.to/dmitriyspirihin/we-ported-game-dev-logic-to-telegram-building-a-tactile-lifeos-with-react-and-rxjs-2l2k)
+- [Building a Smart PC Component Builder with Algolia](https://dev.to/srijan-xi/building-a-smart-pc-component-builder-with-algolia-9g9)
+- [Securing MCP Servers with OAuth2: Ory Hydra + Claude Code + ChatGPT](https://dev.to/this-is-learning/securing-mcp-servers-with-oauth2-ory-hydra-claude-code-chatgpt-58hm)
+- [A Complete Guide to hire from Canada as US based organisation: Its simpler than you think](https://dev.to/aasawari_sahasrabuddhe_3c/a-complete-guide-to-hire-from-canada-as-us-based-organisation-its-simpler-than-you-think-41df)
+- [CVE-2025-66649: The Phantom Menace: Anatomy of the Rejected CVE-2025-66649](https://dev.to/cverports/cve-2025-66649-the-phantom-menace-anatomy-of-the-rejected-cve-2025-66649-4lda)
+- [LMAD MCP FOR LARAVEL](https://dev.to/0xmergen/lmad-mcp-for-laravel-3ao6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
