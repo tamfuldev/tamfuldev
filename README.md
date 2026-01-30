@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Movie Planner — планировщик фильмов и сериалов / Movie Planner: movie &amp; TV series planning tool](https://dev.to/zapnikita95/movie-planner-planirovshchik-filmov-i-sierialov-movie-planner-movie-tv-series-planning-tool-23io)
-- [Security news weekly round-up - 30th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8)
-- [Expo SDK 55: The Day React Native Grew Up](https://dev.to/thegdsks/expo-sdk-55-just-dropped-heres-why-react-native-will-never-be-the-same-141k)
-- [Securing Legacy Test Environments: A Lead QA Engineer’s SQL Approach to Prevent PII Leakage](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-a-lead-qa-engineers-sql-approach-to-prevent-pii-leakage-8h3)
-- [Implementing a JSON Schema Validator from Scratch - Week 2](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-2-497i)
+- [The problem I keep seeing with “knowledge work”](https://dev.to/marcus_cunningham_f5ed60b/the-problem-i-keep-seeing-with-knowledge-work-1ohe)
+- [Scaling Load Testing with Docker during Peak Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-with-docker-during-peak-traffic-events-pgl)
+- [[SUI] LabeledContent](https://dev.to/david_goyes_a488f58a17a53/sui-labeledcontent-44m4)
+- [Safeguarding Gated Content During High Traffic Events: A Cybersecurity Approach for Senior Architects](https://dev.to/mohammad_waseem_c31f3a26f/safeguarding-gated-content-during-high-traffic-events-a-cybersecurity-approach-for-senior-lk6)
+- [[SUI] Formularios &lpar;Form&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-formularios-form-5gco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
