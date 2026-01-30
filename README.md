@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Making Users Wait: The Ultimate Guide to Streaming AI Responses](https://dev.to/programmingcentral/stop-making-users-wait-the-ultimate-guide-to-streaming-ai-responses-22m3)
-- [Running llama-cli on Linux](https://dev.to/ben-santora/running-llama-cli-on-linux-28h6)
-- [Building in Public: How I Think About DSA &lpar;and Why I’m Sharing It&rpar;](https://dev.to/rasoolk16/building-in-public-how-i-think-about-dsa-and-why-im-sharing-it-53dh)
-- [Efficient Management of Test Accounts in Microservices with Python](https://dev.to/mohammad_waseem_c31f3a26f/efficient-management-of-test-accounts-in-microservices-with-python-45f2)
-- [Securing Data Integrity During High Traffic Peaks with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/securing-data-integrity-during-high-traffic-peaks-with-cybersecurity-strategies-ia6)
+- [Movie Planner — планировщик фильмов и сериалов / Movie Planner: movie &amp; TV series planning tool](https://dev.to/zapnikita95/movie-planner-planirovshchik-filmov-i-sierialov-movie-planner-movie-tv-series-planning-tool-23io)
+- [Security news weekly round-up - 30th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8)
+- [Expo SDK 55: The Day React Native Grew Up](https://dev.to/thegdsks/expo-sdk-55-just-dropped-heres-why-react-native-will-never-be-the-same-141k)
+- [Securing Legacy Test Environments: A Lead QA Engineer’s SQL Approach to Prevent PII Leakage](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-a-lead-qa-engineers-sql-approach-to-prevent-pii-leakage-8h3)
+- [Implementing a JSON Schema Validator from Scratch - Week 2](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-2-497i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
