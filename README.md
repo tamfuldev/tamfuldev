@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Hook Pattern ~Prop Render Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-prop-render-pattern-1f7)
-- [Production Intelligence: Why AI-Generated Code Needs Runtime Visibility](https://dev.to/aniruddhaadak/production-intelligence-why-ai-generated-code-needs-runtime-visibility-4d)
-- [How AI Is Quietly Changing Software Development in 2026 &lpar;Real Examples&rpar;](https://dev.to/shreekansha97/how-ai-is-quietly-changing-software-development-in-2026-real-examples-1kej)
-- [Dinesh Somaraju | Portfolio](https://dev.to/dinesh_somaraju/dinesh-somaraju-portfolio-4g2k)
-- [How to Choose the Right Model for Your AI Application&lpar;A Practical Engineering Guide&rpar;](https://dev.to/yaruyng/how-to-choose-the-right-model-for-your-ai-applicationa-practical-engineering-guide-28al)
+- [I Built a Job Queue That&#39;s 32x Faster Than BullMQ &lpar;No Redis Required&rpar;](https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g)
+- [Focus Controls the Signal Forms Way](https://dev.to/brianmtreese/focus-controls-the-signal-forms-way-579d)
+- [The Engineering Behind 40kW GPU Racks: A Technical Deep Dive](https://dev.to/sujay_namburi_7b1df3eb386/the-engineering-behind-40kw-gpu-racks-a-technical-deep-dive-1afo)
+- [This is a solid reminder that remote hiring has matured and the risks have matured with it, something Ashkan Rajaee has been consistently warning founders about.](https://dev.to/edensaur/this-is-a-solid-reminder-that-remote-hiring-has-matured-and-the-risks-have-matured-with-it-m7p)
+- [Asaaju Peter Set to Release a New Book, WordPress Common Error and Smart Solution](https://dev.to/phemight_technologies_281/asaaju-peter-set-to-release-a-new-book-wordpress-common-error-and-smart-solution-1e6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
