@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking Your Vitals: Training Private AI Models with PyTorch and Opacus](https://dev.to/beck_moulton/stop-leaking-your-vitals-training-private-ai-models-with-pytorch-and-opacus-2k0)
-- [De “Estudante de Educação Física” à desenvolvedora: minha migração de carreira para a tecnologia](https://dev.to/francielefernandes06/de-estudante-de-educacao-fisica-a-desenvolvedora-minha-migracao-de-carreira-para-a-tecnologia-262p)
-- [ℹ️ INFO LL-318: Claude Code Async Hooks for &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-318-claude-code-async-hooks-for-2-more-1ng2)
-- [React.js Forms The Coffee Shop Principle: Why Your Are Losing Users &lpar;And How to Fix Them&rpar;](https://dev.to/igornosatov_15/the-coffee-shop-principle-why-your-react-forms-are-losing-users-and-how-to-fix-them-23de)
-- [Building Scalable Data Pipelines with Airflow, Docker, and Python: A SightSearch Case Study](https://dev.to/oliver_samuel_028c6f65ad6/building-scalable-data-pipelines-with-airflow-docker-and-python-a-sightsearch-case-study-e9)
+- [CloudStack as Private Cloud](https://dev.to/mohamed_affian_2ca93e2bd5/cloudstack-as-private-cloud-4n4k)
+- [What&#39;s your experience of learning software development in the age of AI?](https://dev.to/mcondon/whats-your-experience-of-learning-software-development-in-the-age-of-ai-1j5p)
+- [How a Custom GitHub Copilot Agent Transformed My Development Workflow &lpar;and Helped Me Ship Faster Than Expected&rpar;](https://dev.to/amit_tyagi_b6bb9dd185178e/how-a-custom-github-copilot-agent-transformed-my-development-workflow-and-helped-me-ship-faster-occ)
+- [Your app looks like sh*t when users don’t upload avatars](https://dev.to/anthonyriera/your-app-looks-like-sht-when-users-dont-upload-avatars-1o5p)
+- [AAoM-04: A Python 3.12 Interpreter](https://dev.to/milky2018/aaom-04-a-python-312-interpreter-24fl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
