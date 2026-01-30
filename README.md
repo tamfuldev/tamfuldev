@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop P-Hacking Your Own Projects: The rigorous &#39;Pre-Registration&#39; Protocol for Data Scientists](https://dev.to/huizhudev/stop-p-hacking-your-own-projects-the-rigorous-pre-registration-protocol-for-data-scientists-1af3)
-- [Escaping the Dumbzone, Part 3: Knowledge Management &amp; Configuration](https://dev.to/diggidydale/escaping-the-dumbzone-part-3-knowledge-management-configuration-1n6p)
-- [AI tools will keep changing. Your workflow must evolve faster than your tools](https://dev.to/pablos4nt0s/ai-tools-will-keep-changing-your-workflow-must-evolve-faster-than-your-tools-26pa)
-- [Deploying Amazon MSK Serverless Across Multiple Environments with Terraform](https://dev.to/pratik_26/deploying-amazon-msk-serverless-across-multiple-environments-with-terraform-2i8c)
-- [8 Ways Businesses Can Stay Competitive With Remote Talent](https://dev.to/jugal_joshi_b0c2c253e5374/8-ways-businesses-can-stay-competitive-with-remote-talent-n79)
+- [Clawdbot: The Local AI Agent That Turns Chats Into Real-World Automations](https://dev.to/aiwithapex/clawdbot-the-local-ai-agent-that-turns-chats-into-real-world-automations-3kbh)
+- [Gambler&#39;s Fallacy: The Dangerous Search for Patterns in the Noise](https://dev.to/ninadpathak/gamblers-fallacy-the-dangerous-search-for-patterns-in-the-noise-422f)
+- [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
+- [How API Gateway Works](https://dev.to/shafqat_awan_79b9dbd88cda/how-api-gateway-works-4k8f)
+- [The Day I Realized We Were Bleeding $12,000 a Month](https://dev.to/tracksimple/the-day-i-realized-we-were-bleeding-12000-a-month-1akn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
