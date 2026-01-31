@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Desktop Music Player Using QT for Python - Built with Github Copilot CLI](https://dev.to/charlottetowell/desktop-music-player-using-qt-for-python-built-with-github-copilot-cli-45mk)
-- [What makes you instantly bookmark a tool instead of just using it once ?](https://dev.to/bhavin-allinonetools/what-makes-you-instantly-bookmark-a-tool-instead-of-just-using-it-once--4j8a)
-- [To Make My Workflow More Effective, I Tried a Lot](https://dev.to/vilo-time/to-make-my-workflow-more-effective-i-tried-a-lot-3hgd)
-- [How to Turn Raw Product Photos Into Studio-Quality Images with AI](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-turn-raw-product-photos-into-studio-quality-images-with-ai-4l2l)
-- [THE SWARM IS HERE: Why Kimi K2.5 Could Be the Death Knell for Wall Street’s AI Gold Rush](https://dev.to/pithycyborg/the-swarm-is-here-why-kimi-k25-could-be-the-death-knell-for-wall-streets-ai-gold-rush-hpo)
+- [Overcoming Geolocation Restrictions in Microservices with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geolocation-restrictions-in-microservices-with-cybersecurity-strategies-654)
+- [Common Manual Testing Techniques](https://dev.to/ramya_ganesh_2b310339b4d6/common-manual-testing-techniques-7hg)
+- [Coding is not disappearing. It’s being demoted from the core value to a supporting skill.
+
+And that’s not the end of the developer profession. It’s the moment it grows up.](https://dev.to/jaideepparashar/coding-is-not-disappearing-its-being-demoted-from-the-core-value-to-a-supporting-skill-and-4jdl)
+- [Will AI Replace Developers?](https://dev.to/jaideepparashar/will-ai-replace-developers-lha)
+- [The Secret Life of JavaScript: The Proxy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-proxy-1en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
