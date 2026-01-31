@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Logging Strategies for Real-Time Applications: Session Tracking at Scale](https://dev.to/alfchee/logging-strategies-for-real-time-applications-session-tracking-at-scale-276i)
-- [Amazon Bedrock Guardrails - Step-by-step implementation with Serverless](https://dev.to/wfernandezs/amazon-bedrock-guardrails-step-by-step-implementation-with-serverless-3ji2)
-- [DAY3 -Monitoring &amp; Scaling](https://dev.to/maso_eb42159b65f6592/day3-monitoring-scaling-3jn6)
-- [Serving SSE-KMS Encrypted Content from S3 Using CloudFront](https://dev.to/abdulrasheed_abdulazeez_7/serving-sse-kms-encrypted-content-from-s3-using-cloudfront-5c2b)
-- [VM CLI](https://dev.to/jaidevbot/vm-cli-13ab)
+- [Desktop Music Player Using QT for Python - Built with Github Copilot CLI](https://dev.to/charlottetowell/desktop-music-player-using-qt-for-python-built-with-github-copilot-cli-45mk)
+- [What makes you instantly bookmark a tool instead of just using it once ?](https://dev.to/bhavin-allinonetools/what-makes-you-instantly-bookmark-a-tool-instead-of-just-using-it-once--4j8a)
+- [To Make My Workflow More Effective, I Tried a Lot](https://dev.to/vilo-time/to-make-my-workflow-more-effective-i-tried-a-lot-3hgd)
+- [How to Turn Raw Product Photos Into Studio-Quality Images with AI](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-turn-raw-product-photos-into-studio-quality-images-with-ai-4l2l)
+- [THE SWARM IS HERE: Why Kimi K2.5 Could Be the Death Knell for Wall Street’s AI Gold Rush](https://dev.to/pithycyborg/the-swarm-is-here-why-kimi-k25-could-be-the-death-knell-for-wall-streets-ai-gold-rush-hpo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
