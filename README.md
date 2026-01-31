@@ -6,15 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New Blog Live: JavaScript Data Types Explained!
-
-If you&#39;re learning JavaScript — or working with React, Node.js, or any modern framework — understanding data types is a game changer.
-
-👉 Check it out and let me know your thoughts!](https://dev.to/chetandevx/new-blog-live-javascript-data-types-explained-if-youre-learning-javascript-or-working-47p6)
-- [JavaScript Data Types Explained &lpar;String, Number, Boolean, etc.&rpar;](https://dev.to/chetandevx/javascript-data-types-explained-string-number-boolean-etc-246c)
-- [Switch on RUST](https://dev.to/igor_martynkin_1e64dabaca/switch-on-rust-ed9)
-- [Sector HQ Weekly Digest - January 31, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-31-2026-a0a)
-- [HTTP Push Mechanism](https://dev.to/azmy/http-push-mechanism-3c3j)
+- [The Underrated Role of Human and Organizational Process in AI Safety](https://dev.to/shravani_8_8/the-underrated-role-of-human-and-organizational-process-in-ai-safety-2hdb)
+- [For JS devs: LightRec/lr-ibcf - Open-Source Item-Based Collaborative Filtering in JavaScript](https://dev.to/muktadirul675/for-js-devs-lightreclr-ibcf-open-source-item-based-collaborative-filtering-in-javascript-1jed)
+- [Why I Built a Multi-LLM Development Framework &lpar;And Why You Might Need One Too&rpar;](https://dev.to/thomasjamet/why-i-built-a-multi-llm-development-framework-and-why-you-might-need-one-too-1na8)
+- [How Real Databases Work Internally ?](https://dev.to/farhadrahimiklie/how-real-databases-work-internally--3904)
+- [How to Build Your Own Shadcn UI Registry](https://dev.to/naud/how-to-build-your-own-shadcn-ui-registry-21j5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
