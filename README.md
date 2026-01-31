@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Geolocation Restrictions in Microservices with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geolocation-restrictions-in-microservices-with-cybersecurity-strategies-654)
-- [Common Manual Testing Techniques](https://dev.to/ramya_ganesh_2b310339b4d6/common-manual-testing-techniques-7hg)
-- [Coding is not disappearing. It’s being demoted from the core value to a supporting skill.
-
-And that’s not the end of the developer profession. It’s the moment it grows up.](https://dev.to/jaideepparashar/coding-is-not-disappearing-its-being-demoted-from-the-core-value-to-a-supporting-skill-and-4jdl)
-- [Will AI Replace Developers?](https://dev.to/jaideepparashar/will-ai-replace-developers-lha)
-- [The Secret Life of JavaScript: The Proxy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-proxy-1en)
+- [29.Delete Backup from S3 Using Terraform](https://dev.to/thukhakyawe_cloud/29delete-backup-from-s3-using-terraform-4ha2)
+- [Battling Spam Traps in Email Campaigns with JavaScript on a Zero-Budget](https://dev.to/mohammad_waseem_c31f3a26f/battling-spam-traps-in-email-campaigns-with-javascript-on-a-zero-budget-b85)
+- [Automating Authentication Flows with JavaScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-with-javascript-and-open-source-tools-ade)
+- [Self-hosted Plagiarism Detection with OpenSearch](https://dev.to/cobel1024/self-hosted-plagiarism-detection-with-opensearch-33gj)
+- [Ensuring Reliable Email Flow Validation for Enterprise Clients with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/ensuring-reliable-email-flow-validation-for-enterprise-clients-with-javascript-3be8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
