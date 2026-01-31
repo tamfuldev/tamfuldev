@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SSH Like a Pro: Creating an Isolated User on an EC2 Instance &lpar;Without Breaking Anything&rpar;](https://dev.to/c_6b7a8e65d067ddc62/ssh-like-a-pro-creating-an-isolated-user-on-an-ec2-instance-without-breaking-anything-3576)
-- [Testnet to Mainnet: The Checklist Every Developer Needs Before Deploying Real Money](https://dev.to/ribhavmodi/testnet-to-mainnet-the-checklist-every-developer-needs-before-deploying-real-money-1ipl)
-- [MARKDOWN - kirish](https://dev.to/nooon/markdown-kirish-fob)
-- [CSS Selectors 101 - Targeting Elements with Precision](https://dev.to/souvik_blog_b790df30e8dea/css-selectors-101-targeting-elements-with-precision-3g41)
-- [Emmet for HTML - A Beginner’s Guide to Writing Faster Markup](https://dev.to/souvik_blog_b790df30e8dea/emmet-for-html-a-beginners-guide-to-writing-faster-markup-39fk)
+- [Mastering Email Flow Validation with SQL: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/mastering-email-flow-validation-with-sql-a-senior-architects-approach-54pf)
+- [Thamotharan Gopal - Cloud &amp; DevOps Architect Portfolio](https://dev.to/thamotharan_g_4f83b1f4b72/thamotharan-gopal-cloud-devops-architect-portfolio-2p0l)
+- [How a Browser Works A Beginner-Friendly Guide to Browser Internals](https://dev.to/souvik_blog_b790df30e8dea/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-56kh)
+- [Securing and Automating Authentication Flows in Enterprise Environments with DevOps and Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/securing-and-automating-authentication-flows-in-enterprise-environments-with-devops-and-51c7)
+- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4j88)
 <!-- BLOG-POST-LIST:END -->
 
 ---
