@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why have a flat Resume when you can have an OS? 🚀 Dive into BDK-OS](https://dev.to/bdhamithkumara/why-have-a-flat-resume-when-you-can-have-an-os-dive-into-bdk-os-2dm2)
-- [Zero-Budget Email Flow Validation: How a Security Researcher Leveraged Docker for Efficient Testing](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-email-flow-validation-how-a-security-researcher-leveraged-docker-for-efficient-testing-4fab)
-- [Leveraging Linux for Bypassing Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-bypassing-gated-content-during-high-traffic-events-9im)
-- [Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard](https://dev.to/mechcloud/top-5-devops-platforms-of-2026-why-stateless-iac-is-the-new-standard-27ae)
-- [Streamlining Legacy Databases with React: A Lead QA Engineer&#39;s Approach to Clutter Control](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9)
+- [SSH Like a Pro: Creating an Isolated User on an EC2 Instance &lpar;Without Breaking Anything&rpar;](https://dev.to/c_6b7a8e65d067ddc62/ssh-like-a-pro-creating-an-isolated-user-on-an-ec2-instance-without-breaking-anything-3576)
+- [Testnet to Mainnet: The Checklist Every Developer Needs Before Deploying Real Money](https://dev.to/ribhavmodi/testnet-to-mainnet-the-checklist-every-developer-needs-before-deploying-real-money-1ipl)
+- [MARKDOWN - kirish](https://dev.to/nooon/markdown-kirish-fob)
+- [CSS Selectors 101 - Targeting Elements with Precision](https://dev.to/souvik_blog_b790df30e8dea/css-selectors-101-targeting-elements-with-precision-3g41)
+- [Emmet for HTML - A Beginner’s Guide to Writing Faster Markup](https://dev.to/souvik_blog_b790df30e8dea/emmet-for-html-a-beginners-guide-to-writing-faster-markup-39fk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
