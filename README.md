@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Underrated Role of Human and Organizational Process in AI Safety](https://dev.to/shravani_8_8/the-underrated-role-of-human-and-organizational-process-in-ai-safety-2hdb)
-- [For JS devs: LightRec/lr-ibcf - Open-Source Item-Based Collaborative Filtering in JavaScript](https://dev.to/muktadirul675/for-js-devs-lightreclr-ibcf-open-source-item-based-collaborative-filtering-in-javascript-1jed)
-- [Why I Built a Multi-LLM Development Framework &lpar;And Why You Might Need One Too&rpar;](https://dev.to/thomasjamet/why-i-built-a-multi-llm-development-framework-and-why-you-might-need-one-too-1na8)
-- [How Real Databases Work Internally ?](https://dev.to/farhadrahimiklie/how-real-databases-work-internally--3904)
-- [How to Build Your Own Shadcn UI Registry](https://dev.to/naud/how-to-build-your-own-shadcn-ui-registry-21j5)
+- [Quark&#39;s Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7)
+- [re:Cap 2025 by AWS User Group Jakarta](https://dev.to/aws-builders/recap-2025-by-aws-user-group-jakarta-f8c)
+- [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016)
+- [Mahdi Shamlou | Solving LeetCode #7: Reverse Integer — My Math-Based Reversal with Overflow Safety](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-7-reverse-integer-my-math-based-reversal-with-overflow-safety-p95)
+- [IDE styled with scrapbook preview](https://dev.to/vamshi_duvva_da4bd62f622c/ide-styled-with-scrapbook-preview-49nd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
