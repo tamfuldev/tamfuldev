@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WarriorOS: Building a Modern Terminal Portfolio with React, Gemini, and Cloud Run](https://dev.to/ankushsinghgandhi/warrioros-building-a-modern-terminal-portfolio-with-react-gemini-and-cloud-run-ehj)
-- [AI Won&#39;t Replace Developers — But We Are Already Outsourcing Our Thinking](https://dev.to/danieldare/ai-wont-replace-developers-but-we-are-already-outsourcing-our-thinking-3el7)
-- [Mastering TypeScript Utility Types: Part 3 — Building Custom Utilities](https://dev.to/mandy8055/mastering-typescript-utility-types-part-3-building-custom-utilities-1c2c)
-- [Automated Code Quality: Using SonarQube Quality Gates to Enforce Cleaner Codebases](https://dev.to/actocodes/automated-code-quality-using-sonarqube-quality-gates-to-enforce-cleaner-codebases-53c0)
-- [Schemas and Data modelling in Power BI.](https://dev.to/murimikelvin/schemas-and-data-modelling-in-power-bi-4184)
+- [A Portfolio For Fun!](https://dev.to/mohessaid/a-portfolio-for-fun-305e)
+- [Building a Fluid, Minimalist Portfolio](https://dev.to/nadinev/building-a-fluid-minimalist-portfolio-2col)
+- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/ritam369/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-1f7c)
+- [AI Agent That Brews Marketing Copy From the Web](https://dev.to/chintandiwakar/ai-agent-that-brews-marketing-copy-from-the-web-5b2f)
+- [ℹ️ INFO LL-318: Claude Code Async Hooks for &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-318-claude-code-async-hooks-for-2-more-3a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
