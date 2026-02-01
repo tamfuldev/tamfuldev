@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stardust: The dashboard that transforms GitHub trends from &quot;search&quot; to &quot;monitoring&quot;](https://dev.to/kanywst/stardust-the-dashboard-that-transforms-github-trends-from-search-to-monitoring-5732)
-- [SCHEMAS AND MODELLING IN POWER BI.](https://dev.to/maggy_njuguna/schemas-and-modelling-in-power-bi-5c3)
-- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
-- [Taming the Chaos: How a DevOps Specialist Cleaned Dirty Data with Web Scraping Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/taming-the-chaos-how-a-devops-specialist-cleaned-dirty-data-with-web-scraping-without-documentation-4h7i)
-- [Securing Test Environments: How SQL Scripts Eliminated PII Leakage Under Pressure](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-sql-scripts-eliminated-pii-leakage-under-pressure-26mk)
+- [🛡️ Ethics Guardian: Proactive AI Governance powered by Algolia Agent Studio](https://dev.to/tahiryamin/ethics-guardian-proactive-ai-governance-powered-by-algolia-agent-studio-5dh4)
+- [Debug a Coding Journey Blog Page](https://dev.to/richardpascoe/debug-a-coding-journey-blog-page-i87)
+- [Mastering java 8 &lpar;Lambda expression &amp; functional interface&rpar; - day 2](https://dev.to/sona_08/mastering-java-8-day-1-27k7)
+- [A beginners guide to Git and Github](https://dev.to/joyting-gif/a-beginners-guide-to-git-and-github-465l)
+- [Autopilot - Ctrl: Auditoría de Contenido IA con GitHub Copilot CLI](https://dev.to/datalaria/autopilot-ctrl-auditoria-de-contenido-ia-con-github-copilot-cli-191b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
