@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Time Blocking System in Appointment Booking](https://dev.to/priyam_jain_f127ddf8c4d8d/time-blocking-system-in-appointment-booking-5een)
-- [Cellular automata that mimics reality](https://dev.to/no_arms_studio/cellular-automata-that-mimics-reality-1l87)
-- [Ignacia Portfolio engine V!](https://dev.to/ignaciah/ignacia-portfolio-engine-v-2hom)
-- [Anaconda Distribution in Development](https://dev.to/kalana250/anaconda-distribution-in-development-3lk2)
-- [The inflexion point in software building is moving from coding to context engineering. Developers should upskill and learn context engineering.](https://dev.to/jaideepparashar/the-inflexion-point-in-software-building-is-moving-from-coding-to-context-engineering-developers-95k)
+- [Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl)
+- [[Opinion]Today&#39;s frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-17n4)
+- [I built a civic engagement platform because contacting your representatives shouldn&#39;t be this hard](https://dev.to/ashmortar/i-built-a-civic-engagement-platform-because-contacting-your-representatives-shouldnt-be-this-hard-1jjb)
+- [Design Secure Access To AWS Resources](https://dev.to/aws-builders/design-secure-access-to-aws-resources-4l8g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
