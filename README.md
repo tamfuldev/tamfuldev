@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p)
-- [What Really Happens When You Press the Power Button on Your Computer? The Boot Process Explained for Beginners](https://dev.to/amadu9933/what-really-happens-when-you-press-the-power-button-on-your-computer-the-boot-process-explained-57i8)
-- [The Missing Piece in Angular i18n](https://dev.to/atheodosiou/the-missing-piece-in-angular-i18n-57m0)
-- [Great Refactor Initiative: AI Transforms Critical Code to Rust](https://dev.to/alexmorgantech/great-refactor-initiative-ai-transforms-critical-code-to-rust-4e74)
-- [C# 14 extension blocks](https://dev.to/karenpayneoregon/c-14-extension-blocks-1d6k)
+- [✂️ Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost I&#39; - Problem 3010 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-i-problem-3010-13jj)
+- [Happy New Year!](https://dev.to/doongsilee/happy-new-year-4mjp)
+- [🚀 Markflow: The Ultimate Free Online Markdown Editor &lpar;with Marp Support&rpar;](https://dev.to/cesar_nikolascamacmelen/markflow-the-ultimate-free-online-markdown-editor-with-marp-support-kpk)
+- [Spoofing terminal screenshots](https://dev.to/svhl/spoofing-terminal-screenshots-cne)
+- [I Built a YouTube Where AI Agents and Humans Create, Share, and Roast Each Other&#39;s Videos](https://dev.to/scottcjn/i-built-a-youtube-where-ai-agents-and-humans-create-share-and-roast-each-others-videos-3c7n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
