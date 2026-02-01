@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Qt6 CI on GitHub Actions with a Docker-Based CMake Build Environment](https://dev.to/accvcc/simplifying-qt6-ci-on-github-actions-with-a-docker-based-cmake-build-environment-33bp)
-- [The Essence of Google-Style Code Review: A Culture of &#39;Improvement&#39; Over &#39;Perfection&#39;](https://dev.to/kanywst/the-essence-of-google-style-code-review-a-culture-of-improvement-over-perfection-566f)
-- [I Can See My Success in My Mind’s Eye](https://dev.to/art_light/i-can-see-my-success-in-my-minds-eye-3m8f)
-- [The Jungle Protocol: Turning my Professional Journey into an Adaptive Quest](https://dev.to/hrishikesh_dalal_ced8f95e/the-jungle-protocol-turning-my-professional-journey-into-an-adaptive-quest-3p4m)
-- [Migrating a Lambda to a Durable Lambda Function](https://dev.to/iamsherif/migrating-a-lambda-to-a-durable-lambda-function-1ki2)
+- [Stardust: The dashboard that transforms GitHub trends from &quot;search&quot; to &quot;monitoring&quot;](https://dev.to/kanywst/stardust-the-dashboard-that-transforms-github-trends-from-search-to-monitoring-5732)
+- [SCHEMAS AND MODELLING IN POWER BI.](https://dev.to/maggy_njuguna/schemas-and-modelling-in-power-bi-5c3)
+- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
+- [Taming the Chaos: How a DevOps Specialist Cleaned Dirty Data with Web Scraping Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/taming-the-chaos-how-a-devops-specialist-cleaned-dirty-data-with-web-scraping-without-documentation-4h7i)
+- [Securing Test Environments: How SQL Scripts Eliminated PII Leakage Under Pressure](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-sql-scripts-eliminated-pii-leakage-under-pressure-26mk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
