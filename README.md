@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Portfolio For Fun!](https://dev.to/mohessaid/a-portfolio-for-fun-305e)
-- [Building a Fluid, Minimalist Portfolio](https://dev.to/nadinev/building-a-fluid-minimalist-portfolio-2col)
-- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/ritam369/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-1f7c)
-- [AI Agent That Brews Marketing Copy From the Web](https://dev.to/chintandiwakar/ai-agent-that-brews-marketing-copy-from-the-web-5b2f)
-- [ℹ️ INFO LL-318: Claude Code Async Hooks for &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-318-claude-code-async-hooks-for-2-more-3a0)
+- [Master Your Laravel Queues: Introducing Laravel Job Monitor](https://dev.to/jsandaruwan/master-your-laravel-queues-introducing-laravel-job-monitor-505m)
+- [Excel For Data Analytics: Beginner Friendly Overview.](https://dev.to/seme_clive_4242bd50f332cb/excel-for-data-analytics-beginner-friendly-overview-3m8)
+- [How does Tab Order work in the DOM?](https://dev.to/thesnehamk/how-does-tab-order-work-in-the-dom-1k37)
+- [[System Design] Scaling for User Growth](https://dev.to/jonghwayoo3_dev/system-design-scaling-for-user-growth-ljg)
+- [Complete Java Tutorial: From Zero to Building Real Applications](https://dev.to/deividas-strole/complete-java-tutorial-from-zero-to-building-real-applications-5o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
