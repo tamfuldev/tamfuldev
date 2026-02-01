@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Through IP Bans in Web Scraping with Kubernetes: A DevOps Approach Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/breaking-through-ip-bans-in-web-scraping-with-kubernetes-a-devops-approach-under-tight-deadlines-32n7)
-- [Implementing Login in a Next.js App with Passport, JWT, and DDD](https://dev.to/digitalrisedorset/implementing-login-in-a-nextjs-app-with-passport-jwt-and-ddd-2loe)
-- [Sector HQ Weekly Digest - February 1, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-1-2026-53og)
-- [FluxRPC Quickstart: Query Solana in 5 Minutes](https://dev.to/shivamsspirit/fluxrpc-quickstart-query-solana-in-5-minutes-mgk)
-- [Stop using JWT libraries: How to build your own Lightweight Tokens with node:crypto](https://dev.to/itsmefminsaf/stop-using-jwt-libraries-how-to-build-your-own-lightweight-tokens-with-nodecrypto-1dk3)
+- [One Portfolio, Infinite Versions: The Power of Agentic Personalization](https://dev.to/vishwajeet_singh_be18eefb/one-portfolio-infinite-versions-the-power-of-agentic-personalization-5gg0)
+- [From Local SQLite Scripts to a Cloud Platform with GitHub Copilot CLI](https://dev.to/pascal_cescato_692b7a8a20/from-local-sqlite-scripts-to-a-cloud-platform-with-github-copilot-cli-5a5h)
+- [Devise to Custom Auth: It’s Not Just `has_secure_password](https://dev.to/zilton7/devise-to-custom-auth-its-not-just-hassecurepassword-3pjm)
+- [How I Built a Privacy-First vCard QR Code Generator &lpar;No Backend Required&rpar;](https://dev.to/abhikb2005/how-i-built-a-privacy-first-vcard-qr-code-generator-no-backend-required-5c79)
+- [I Built a Native RTL Python GUI with Tkinter &lpar;and it actually looks good&rpar;](https://dev.to/freerave/i-built-a-native-rtl-python-gui-with-tkinter-and-it-actually-looks-good-4og5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
