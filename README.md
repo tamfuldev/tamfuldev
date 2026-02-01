@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Failing Tests to Fix PRs in One Command &lpar;GitHub Copilot CLI Challenge&rpar;](https://dev.to/keerthana_696356/from-failing-tests-to-fix-prs-in-one-command-github-copilot-cli-challenge-3bfb)
-- [Tackling Memory Leaks in High-Traffic JavaScript Applications: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/tackling-memory-leaks-in-high-traffic-javascript-applications-a-devops-approach-3ikk)
-- [Retrieval Augmented Generation: Architectures, Patterns, and Production Reality](https://dev.to/neurondb_support_d73fa7ba/retrieval-augmented-generation-architectures-patterns-and-production-reality-49g1)
-- [LeafWiki Devlog #8: v0.7.3 - Secure by Default: Authentication, Roles &amp; Safer Self-Hosting](https://dev.to/perber/leafwiki-devlog-8-v073-secure-by-default-authentication-roles-safer-self-hosting-154e)
-- [Perl Weekly Challenge - 358: When Strings Become Numbers and Letters Start Shifting](https://dev.to/vinodk89/perl-weekly-challenge-358-when-strings-become-numbers-and-letters-start-shifting-j84)
+- [Simplifying Qt6 CI on GitHub Actions with a Docker-Based CMake Build Environment](https://dev.to/accvcc/simplifying-qt6-ci-on-github-actions-with-a-docker-based-cmake-build-environment-33bp)
+- [The Essence of Google-Style Code Review: A Culture of &#39;Improvement&#39; Over &#39;Perfection&#39;](https://dev.to/kanywst/the-essence-of-google-style-code-review-a-culture-of-improvement-over-perfection-566f)
+- [I Can See My Success in My Mind’s Eye](https://dev.to/art_light/i-can-see-my-success-in-my-minds-eye-3m8f)
+- [The Jungle Protocol: Turning my Professional Journey into an Adaptive Quest](https://dev.to/hrishikesh_dalal_ced8f95e/the-jungle-protocol-turning-my-professional-journey-into-an-adaptive-quest-3p4m)
+- [Migrating a Lambda to a Durable Lambda Function](https://dev.to/iamsherif/migrating-a-lambda-to-a-durable-lambda-function-1ki2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
