@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [✂️ Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost I&#39; - Problem 3010 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-i-problem-3010-13jj)
-- [Happy New Year!](https://dev.to/doongsilee/happy-new-year-4mjp)
-- [🚀 Markflow: The Ultimate Free Online Markdown Editor &lpar;with Marp Support&rpar;](https://dev.to/cesar_nikolascamacmelen/markflow-the-ultimate-free-online-markdown-editor-with-marp-support-kpk)
-- [Spoofing terminal screenshots](https://dev.to/svhl/spoofing-terminal-screenshots-cne)
-- [I Built a YouTube Where AI Agents and Humans Create, Share, and Roast Each Other&#39;s Videos](https://dev.to/scottcjn/i-built-a-youtube-where-ai-agents-and-humans-create-share-and-roast-each-others-videos-3c7n)
+- [Time Blocking System in Appointment Booking](https://dev.to/priyam_jain_f127ddf8c4d8d/time-blocking-system-in-appointment-booking-5een)
+- [Cellular automata that mimics reality](https://dev.to/no_arms_studio/cellular-automata-that-mimics-reality-1l87)
+- [Ignacia Portfolio engine V!](https://dev.to/ignaciah/ignacia-portfolio-engine-v-2hom)
+- [Anaconda Distribution in Development](https://dev.to/kalana250/anaconda-distribution-in-development-3lk2)
+- [The inflexion point in software building is moving from coding to context engineering. Developers should upskill and learn context engineering.](https://dev.to/jaideepparashar/the-inflexion-point-in-software-building-is-moving-from-coding-to-context-engineering-developers-95k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
