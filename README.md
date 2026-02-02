@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making an ANN Like Faiss Is Not Everyone’s Cup of Tea](https://dev.to/jashwanth_thatipamula_8ee/making-an-ann-like-faiss-is-not-everyones-cup-of-tea-297e)
-- [State Management in React &lpar;A Beginner-Friendly Guide&rpar;](https://dev.to/msnmongare/state-management-in-react-js-p8)
-- [Music Sharity: Your Universal Music Link Converter](https://dev.to/sikelio/music-sharity-your-universal-music-link-converter-1500)
-- [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
-- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
+- [How STRV Transformed Their Cloud Architecture and Sparked a Culture of Innovation](https://dev.to/aws-builders/how-strv-transformed-their-cloud-architecture-and-sparked-a-culture-of-innovation-3hph)
+- [Mystery Resolved: Switching Repeatedly from WSL to PS - Issues](https://dev.to/annavi11arrea1/mystery-resolved-switching-repeatedly-from-wsl-to-ps-issues-nnm)
+- [Welcome!](https://dev.to/nicolasgomezaragon/welcome-260o)
+- [How STRV Transformed Their Cloud Architecture and Sparked a Culture of Innovation](https://dev.to/michalsimon/how-strv-transformed-their-cloud-architecture-and-sparked-a-culture-of-innovation-1nhh)
+- [Optimizing Your GitHub Site](https://dev.to/ben-santora/optimizing-your-github-site-149m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
