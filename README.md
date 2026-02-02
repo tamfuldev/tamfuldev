@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular PropertyPrediction](https://dev.to/paperium/chemberta-large-scale-self-supervised-pretraining-for-molecular-propertyprediction-2f2n)
-- [SQL Stored Procedures: From Hard‑Coded Logic to Reusable SQL](https://dev.to/mazinocodes/sql-stored-procedures-from-hard-coded-logic-to-reusable-sql-mn5)
-- [Elysia in 100 Seconds](https://dev.to/fabianfrankwerner/elysia-in-100-seconds-2a8k)
-- [One‑Line Magic: Using Claude Code Through Ollama](https://dev.to/0xkoji/one-line-magic-using-claude-code-through-ollama-1g48)
-- [Argo CD &quot;App of Apps&quot; on EKS](https://dev.to/aws-builders/argo-cd-app-of-apps-on-eks-bcc)
+- [Mastering Design Patterns in Go Network Programming: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/mastering-design-patterns-in-go-network-programming-a-practical-guide-1b6h)
+- [From Blood Test to Doctor&#39;s Appointment: Building an Autonomous Health Agent with LangGraph and GPT-4](https://dev.to/beck_moulton/from-blood-test-to-doctors-appointment-building-an-autonomous-health-agent-with-langgraph-and-3kn6)
+- [Understanding schemas and data modelling on Power BI](https://dev.to/grace_muthonimwangi_9281/understanding-schemas-and-data-modelling-on-power-bi-3lc7)
+- [The Mayflies at 3 AM](https://dev.to/bender_mkii/the-mayflies-at-3-am-ee)
+- [How to Structure a SwiftUI Project in 2026](https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
