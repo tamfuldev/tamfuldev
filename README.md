@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevFlow - Build Anywhere with GitHub Copilot CLI](https://dev.to/miracleio/devflow-build-anywhere-with-github-copilot-cli-2apc)
-- [Power BI Data Modeling Made Simple: Your Complete Beginner&#39;s Guide](https://dev.to/mariam_turnesh/power-bi-data-modeling-made-simple-your-complete-beginners-guide-17il)
-- [Beyond Kafka and Redis: A Practical Guide to NATS as Your Unified Cloud-Native Backbone](https://dev.to/thedonmon/beyond-kafka-and-redis-a-practical-guide-to-nats-as-your-unified-cloud-native-backbone-4g86)
-- [Shield Every Transaction](https://dev.to/moiz_ali_d0b9834932357ad2/shield-every-transaction-2bg)
-- [Vibe or AI Coding: Are We Gaining Speed Only to Lose the Art?](https://dev.to/balagmadhu/vibe-or-ai-coding-are-we-gaining-speed-only-to-lose-the-art-3cna)
+- [How to Save Terminal Commands in Windows Using PowerShell Transcript](https://dev.to/chabbasaad/how-to-save-terminal-commands-in-windows-using-powershell-transcript-2m6j)
+- [38.User Variable Setup Using Terraform](https://dev.to/thukhakyawe_cloud/38user-variable-setup-using-terraform-1l2g)
+- [Design Secure Workloads And Applications](https://dev.to/aws-builders/design-secure-workloads-and-applications-4flh)
+- [Problem 12: Find Pairs with Target Sum](https://dev.to/highcenburg/problem-12-find-pairs-with-target-sum-43n3)
+- [Mastering Multi-Tier Caching: Solving the &quot;Invisible Cache&quot; Problem in Next.js + Django + Redis Architecture](https://dev.to/ajitkumar/the-invisible-cache-troubleshooting-nextjs-django-redis-mismatches-46cn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
