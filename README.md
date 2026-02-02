@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [POWER BI - SCHEMAS &amp; MODELLING GUIDE.](https://dev.to/juliet_kiplimo_b9a825c95a/power-bi-schemas-modelling-guide-8kf)
-- [Repository Pattern in a Data Analytics / ML Pipeline](https://dev.to/peter_ongwae_78d1c9273164/repository-pattern-in-a-data-analytics-ml-pipeline-1aa6)
-- [DevOps Automation Guide: Setup Ansible and Build Custom Docker Images with Network Playground](https://dev.to/labex/devops-automation-guide-setup-ansible-and-build-custom-docker-images-with-network-playground-5214)
-- [The Thinking Machines: How AI Learned to Reason Step-by-Step](https://dev.to/ruchika_bhat_876f8530fa3b/the-thinking-machines-how-ai-learned-to-reason-step-by-step-7eg)
-- [Schemas and Data Modelling in Power B.I](https://dev.to/davi__mungai/schemas-and-data-modelling-in-power-bi-36h1)
+- [Plan Mode: Think Twice, Execute Once](https://dev.to/rajeshroyal/plan-mode-think-twice-execute-once-1bmp)
+- [Eliminating the GC Tax: Rust&#39;s Deterministic Memory for AI Inference at Scale](https://dev.to/syrius_contact_24f6f1d273/eliminating-the-gc-tax-rusts-deterministic-memory-for-ai-inference-at-scale-1d5)
+- [My FOSDEM 2026 watchlist](https://dev.to/floord/my-fosdem-2026-watchlist-4pkg)
+- [Building Indx.sh - Automating Content Discovery: How We Crawl GitHub for AI Resources](https://dev.to/micronink/building-indxsh-automating-content-discovery-how-we-crawl-github-for-ai-resources-fj3)
+- [Balagan Agent 🌪️ Chaos Engineering for AI Agents](https://dev.to/ariel_sh_badacdbc56554713/ive-launched-balagan-agent-on-product-hunt-chaos-engineering-for-ai-agents-1ofc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
