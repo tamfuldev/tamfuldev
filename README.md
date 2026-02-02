@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Officially Google Cloud Certified: Associate Cloud Engineer Path](https://dev.to/urielalonso/officially-google-cloud-certified-associate-cloud-engineer-path-5dh6)
-- [I created small mcp server for Jupyter Notebook.](https://dev.to/cshara/i-created-small-mcp-server-for-jupyter-notebook-14l6)
-- [Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity](https://dev.to/avsecdongol/scaling-vue-3-forms-a-pattern-for-handling-heavy-data-reactivity-nnk)
-- [A Portfolio That Grows From Nothing — AI Generates Everything in Real-Time](https://dev.to/pecoglhf/a-portfolio-that-grows-from-nothing-ai-generates-everything-in-real-time-2kc1)
-- [[AutoBe] Hardcore function calling benchmark in backend coding agent.](https://dev.to/samchon/autobe-hardcore-function-calling-benchmark-in-backend-coding-agent-42ko)
+- [really cool portfolio 🔥](https://dev.to/rds_agi/really-cool-portfolio-4o8d)
+- [Security Risks of OTP Fallback Strategies Triggered by Modified WhatsApp Clients](https://dev.to/lunarecho/security-risks-of-otp-fallback-strategies-triggered-by-modified-whatsapp-clients-1e25)
+- [Streamlining Test Account Management in Legacy JavaScript Codebases](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-legacy-javascript-codebases-2m5c)
+- [I Tried to Build a Local-First LeetCode with Rust and Failed](https://dev.to/whitekotan/i-tried-to-build-a-local-first-leetcode-with-rust-and-failed-5d18)
+- [How We Rebuilt the ChatGPT &amp; YouTube Summary Extensions](https://dev.to/glasp/how-we-rebuilt-the-chatgpt-youtube-summary-extensions-1010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
