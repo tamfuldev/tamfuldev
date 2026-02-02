@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java devs: build something awesome with Copilot CLI and win big prizes](https://dev.to/brunoborges/java-devs-build-something-awesome-with-copilot-cli-and-win-big-prizes-gl)
-- [AI-first note taking app](https://dev.to/kimmyxpow/ai-first-note-taking-app-37nd)
-- [Networking 101: The Concepts Explained Simply 🌐](https://dev.to/daguayza12/networking-101-the-concepts-explained-simply-1aja)
-- [Top 6 JavaScript Gantt &amp; Task Scheduling Libraries in 2026](https://dev.to/lenormor/top-6-javascript-gantt-task-scheduling-libraries-in-2026-30mj)
-- [Visual UIs Are Now Possible in MCP Servers](https://dev.to/jason_peterson_607e54abf5/visual-uis-are-now-possible-in-mcp-servers-369a)
+- [Localhost WebRTC Demos are Lying to You.](https://dev.to/abhiram_karanth/localhost-webrtc-demos-are-lying-to-you-5hde)
+- [Introduction to Redis: What It Is and Why It’s Fast](https://dev.to/muhammmad_nawaz_d8ba895e1/introduction-to-redis-what-it-is-and-why-its-fast-5j8)
+- [git commit -m &quot;Initial Commit&quot;](https://dev.to/likhit/git-commit-m-initial-commit-2dgb)
+- [The 10-Line Semantic Firewall That Stopped 60% of Our RAG Hallucinations](https://dev.to/mossforge/the-10-line-semantic-firewall-that-stopped-60-of-our-rag-hallucinations-51k0)
+- [Authentication vs Object Authorization: The API Security Mistake Everyone Makes](https://dev.to/yogsec/authentication-vs-object-authorization-the-api-security-mistake-everyone-makes-4aa4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
