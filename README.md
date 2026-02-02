@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Design Patterns in Go Network Programming: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/mastering-design-patterns-in-go-network-programming-a-practical-guide-1b6h)
-- [From Blood Test to Doctor&#39;s Appointment: Building an Autonomous Health Agent with LangGraph and GPT-4](https://dev.to/beck_moulton/from-blood-test-to-doctors-appointment-building-an-autonomous-health-agent-with-langgraph-and-3kn6)
-- [Understanding schemas and data modelling on Power BI](https://dev.to/grace_muthonimwangi_9281/understanding-schemas-and-data-modelling-on-power-bi-3lc7)
-- [The Mayflies at 3 AM](https://dev.to/bender_mkii/the-mayflies-at-3-am-ee)
-- [How to Structure a SwiftUI Project in 2026](https://dev.to/__be2942592/how-to-structure-a-swiftui-project-in-2026-41m8)
+- [I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model](https://dev.to/juandenis/i-built-my-own-deepsite-alternative-that-works-with-kimi-k25-gemini-or-any-model-5gfo)
+- [We won a Hackathon at Brown University 🏆](https://dev.to/poetryofcode/we-won-a-hackathon-at-brown-university-5f3o)
+- [I Lost 2 Hours to an AI Search Answer — Here’s What I Learned About Context Engineering](https://dev.to/cathylai/i-lost-2-hours-to-an-ai-search-answer-heres-what-i-learned-about-context-engineering-5787)
+- [Schemas and Data Modelling in Power BI](https://dev.to/petermriya/schemas-and-data-modelling-in-power-bi-3go8)
+- [Building a Smart Storage Facility Prototype with BMAD](https://dev.to/juhapellotsalo/building-a-smart-storage-facility-prototype-with-bmad-5155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
