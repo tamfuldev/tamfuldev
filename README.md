@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save Terminal Commands in Windows Using PowerShell Transcript](https://dev.to/chabbasaad/how-to-save-terminal-commands-in-windows-using-powershell-transcript-2m6j)
-- [38.User Variable Setup Using Terraform](https://dev.to/thukhakyawe_cloud/38user-variable-setup-using-terraform-1l2g)
-- [Design Secure Workloads And Applications](https://dev.to/aws-builders/design-secure-workloads-and-applications-4flh)
-- [Problem 12: Find Pairs with Target Sum](https://dev.to/highcenburg/problem-12-find-pairs-with-target-sum-43n3)
-- [Mastering Multi-Tier Caching: Solving the &quot;Invisible Cache&quot; Problem in Next.js + Django + Redis Architecture](https://dev.to/ajitkumar/the-invisible-cache-troubleshooting-nextjs-django-redis-mismatches-46cn)
+- [Revisiting DSA Through Mini Projects #1: Optimizing a Phonebook with HashMap](https://dev.to/amelia2802/revisiting-dsa-through-mini-projects-1-optimizing-a-phonebook-with-hashmap-370l)
+- [🧇 Mes recettes de gaufres](https://dev.to/davidscanu/les-gaufres-sante-4-recettes-proteinees-sans-sucre-ajoute-6hi)
+- [Why Your AI Gateway Needs MCP Integration in 2026](https://dev.to/varshithvhegde/why-your-ai-gateway-needs-mcp-integration-in-2026-3dcf)
+- [Got First 500 Users for your AI product as an Indie-（To be continued&rpar;](https://dev.to/simba_ji/how-we-got-our-first-500-userto-be-continued-7e5)
+- [I Built a Full-Stack E-Commerce App with Admin Dashboard Using Next.js](https://dev.to/rajaabbas2002/i-built-a-full-stack-e-commerce-app-with-admin-dashboard-using-nextjs-1j3l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
