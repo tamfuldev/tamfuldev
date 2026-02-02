@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[D]0S - High-Fidelity Engineering: Next.js 16 + Gemini 3 + Vibe Coding with Antigravity](https://dev.to/damenor/d0s-ingenieria-de-alta-fidelidad-nextjs-16-gemini-3-vibe-coding-con-antigravity-4eje)
-- [The best teams don&#39;t need agreement. They need commitment. But what else do great teams understand?](https://dev.to/joachimzeelmaekers/the-best-teams-dont-need-agreement-they-need-commitment-but-what-else-do-great-teams-understand-4adf)
-- [The best teams don&#39;t need agreement. They need commitment. But what else do great teams understand? 
-
-In this weeks blogpost, I break down what I believe makes great teams 👇](https://dev.to/joachimzeelmaekers/the-best-teams-dont-need-agreement-they-need-commitment-but-what-else-do-great-teams-268l)
-- [[AutoBe] built full-level backend applications with &quot;qwen-next-80b-a3b&quot; model.](https://dev.to/samchon/autobe-built-full-level-backend-applications-with-qwen-next-80b-a3b-model-2alm)
-- [Streamlining Production Databases with JavaScript: A Security Researcher’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-javascript-a-security-researchers-approach-43oa)
+- [Officially Google Cloud Certified: Associate Cloud Engineer Path](https://dev.to/urielalonso/officially-google-cloud-certified-associate-cloud-engineer-path-5dh6)
+- [I created small mcp server for Jupyter Notebook.](https://dev.to/cshara/i-created-small-mcp-server-for-jupyter-notebook-14l6)
+- [Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity](https://dev.to/avsecdongol/scaling-vue-3-forms-a-pattern-for-handling-heavy-data-reactivity-nnk)
+- [A Portfolio That Grows From Nothing — AI Generates Everything in Real-Time](https://dev.to/pecoglhf/a-portfolio-that-grows-from-nothing-ai-generates-everything-in-real-time-2kc1)
+- [[AutoBe] Hardcore function calling benchmark in backend coding agent.](https://dev.to/samchon/autobe-hardcore-function-calling-benchmark-in-backend-coding-agent-42ko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
