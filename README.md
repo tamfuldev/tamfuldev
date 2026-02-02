@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Plan Mode: Think Twice, Execute Once](https://dev.to/rajeshroyal/plan-mode-think-twice-execute-once-1bmp)
-- [Eliminating the GC Tax: Rust&#39;s Deterministic Memory for AI Inference at Scale](https://dev.to/syrius_contact_24f6f1d273/eliminating-the-gc-tax-rusts-deterministic-memory-for-ai-inference-at-scale-1d5)
-- [My FOSDEM 2026 watchlist](https://dev.to/floord/my-fosdem-2026-watchlist-4pkg)
-- [Building Indx.sh - Automating Content Discovery: How We Crawl GitHub for AI Resources](https://dev.to/micronink/building-indxsh-automating-content-discovery-how-we-crawl-github-for-ai-resources-fj3)
-- [Balagan Agent 🌪️ Chaos Engineering for AI Agents](https://dev.to/ariel_sh_badacdbc56554713/ive-launched-balagan-agent-on-product-hunt-chaos-engineering-for-ai-agents-1ofc)
+- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-5gag)
+- [JDK](https://dev.to/jegadeshwaran_b_b86e7dd1a/jdk-3f5e)
+- [I just spent an hour restarting GitHub Actions over and over before checking GitHub status to see they&#39;re down 😭
+
+I just wasn&#39;t thinking that hard about the situation. As soon as I clicked my brain on I thought to check.](https://dev.to/ben/i-just-spent-an-hour-restarting-github-actions-over-and-over-before-checking-github-status-to-see-2nap)
+- [Switch Claude Code providers in seconds with claude-provider &lpar;Plugin + CLI&rpar;](https://dev.to/rashed_iqbal/switch-claude-code-providers-in-seconds-with-claude-provider-plugin-cli-3719)
+- [I built a PC game library that unifies Steam, Epic, Xbox &amp; more and i am looking for feedback](https://dev.to/olmzgamer/i-built-a-pc-game-library-that-unifies-steam-epic-xbox-more-and-i-am-looking-for-feedback-436g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
