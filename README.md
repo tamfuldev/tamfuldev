@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek vs. OpenAI &lpar;Jan 2026&rpar;: How the Free Model War is Changing](https://dev.to/nima_moosarezaie/deepseek-vs-openai-jan-2026-how-the-free-model-war-is-changing-4095)
-- [Linux Fundamentals - Part 6: Bash Scripting &lpar;Data Types &amp; Operators&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-6-bash-scripting-data-types-operators-4bkn)
-- [How I earned first $500 from my AI product &lpar;continued&rpar;](https://dev.to/simba_ji/how-i-earned-first-500-from-my-ai-product-continued-4h8m)
-- [Day 4 - When Branch Rot Steals Momentum](https://dev.to/shailaputri/when-branch-rot-steals-momentum-3m6)
-- [Building a Spring Boot Microservices Project: Architecture, Workflow, and Learnings](https://dev.to/nirmalravidas/building-a-spring-boot-microservices-project-architecture-workflow-and-learnings-14bc)
+- [Ethereum-Solidity Quiz Q27: How are Layer 2 networks making transactions fees cheaper?](https://dev.to/mihaihng/ethereum-solidity-quiz-q27-how-are-layer-2-networks-making-transactions-fees-cheaper-1llc)
+- [The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder](https://dev.to/btarbox/the-compiler-never-used-sarcasm-why-ai-feels-unsafe-to-the-neurodivergent-coder-30i3)
+- [SCHEMAS AND DATA MODELLING IN POWER BI.](https://dev.to/njokijoan003commits/schemas-and-data-modelling-in-power-bi-13il)
+- [LLM Prompt Injection Attacks: The Complete Security Guide for Developers Building AI Applications](https://dev.to/pockit_tools/llm-prompt-injection-attacks-the-complete-security-guide-for-developers-building-ai-applications-bg9)
+- [POWER BI- Schema and Data Modelling.](https://dev.to/tonny-o/power-bi-schema-and-data-modelling-289d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
