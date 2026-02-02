@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [really cool portfolio 🔥](https://dev.to/rds_agi/really-cool-portfolio-4o8d)
-- [Security Risks of OTP Fallback Strategies Triggered by Modified WhatsApp Clients](https://dev.to/lunarecho/security-risks-of-otp-fallback-strategies-triggered-by-modified-whatsapp-clients-1e25)
-- [Streamlining Test Account Management in Legacy JavaScript Codebases](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-legacy-javascript-codebases-2m5c)
-- [I Tried to Build a Local-First LeetCode with Rust and Failed](https://dev.to/whitekotan/i-tried-to-build-a-local-first-leetcode-with-rust-and-failed-5d18)
-- [How We Rebuilt the ChatGPT &amp; YouTube Summary Extensions](https://dev.to/glasp/how-we-rebuilt-the-chatgpt-youtube-summary-extensions-1010)
+- [DevFlow - Build Anywhere with GitHub Copilot CLI](https://dev.to/miracleio/devflow-build-anywhere-with-github-copilot-cli-2apc)
+- [Power BI Data Modeling Made Simple: Your Complete Beginner&#39;s Guide](https://dev.to/mariam_turnesh/power-bi-data-modeling-made-simple-your-complete-beginners-guide-17il)
+- [Beyond Kafka and Redis: A Practical Guide to NATS as Your Unified Cloud-Native Backbone](https://dev.to/thedonmon/beyond-kafka-and-redis-a-practical-guide-to-nats-as-your-unified-cloud-native-backbone-4g86)
+- [Shield Every Transaction](https://dev.to/moiz_ali_d0b9834932357ad2/shield-every-transaction-2bg)
+- [Vibe or AI Coding: Are We Gaining Speed Only to Lose the Art?](https://dev.to/balagmadhu/vibe-or-ai-coding-are-we-gaining-speed-only-to-lose-the-art-3cna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
