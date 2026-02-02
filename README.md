@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How STRV Transformed Their Cloud Architecture and Sparked a Culture of Innovation](https://dev.to/aws-builders/how-strv-transformed-their-cloud-architecture-and-sparked-a-culture-of-innovation-3hph)
-- [Mystery Resolved: Switching Repeatedly from WSL to PS - Issues](https://dev.to/annavi11arrea1/mystery-resolved-switching-repeatedly-from-wsl-to-ps-issues-nnm)
-- [Welcome!](https://dev.to/nicolasgomezaragon/welcome-260o)
-- [How STRV Transformed Their Cloud Architecture and Sparked a Culture of Innovation](https://dev.to/michalsimon/how-strv-transformed-their-cloud-architecture-and-sparked-a-culture-of-innovation-1nhh)
-- [Optimizing Your GitHub Site](https://dev.to/ben-santora/optimizing-your-github-site-149m)
+- [DeepSeek vs. OpenAI &lpar;Jan 2026&rpar;: How the Free Model War is Changing](https://dev.to/nima_moosarezaie/deepseek-vs-openai-jan-2026-how-the-free-model-war-is-changing-4095)
+- [Linux Fundamentals - Part 6: Bash Scripting &lpar;Data Types &amp; Operators&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-6-bash-scripting-data-types-operators-4bkn)
+- [How I earned first $500 from my AI product &lpar;continued&rpar;](https://dev.to/simba_ji/how-i-earned-first-500-from-my-ai-product-continued-4h8m)
+- [Day 4 - When Branch Rot Steals Momentum](https://dev.to/shailaputri/when-branch-rot-steals-momentum-3m6)
+- [Building a Spring Boot Microservices Project: Architecture, Workflow, and Learnings](https://dev.to/nirmalravidas/building-a-spring-boot-microservices-project-architecture-workflow-and-learnings-14bc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
