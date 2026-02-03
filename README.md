@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack Finance Tracker: My MERN Journey &lpar;Real Problems &amp; Fixes&rpar; 💰](https://dev.to/its_dev_/building-a-full-stack-finance-tracker-my-mern-journey-real-problems-fixes-24pb)
-- [NPR Music: Miguel: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-miguel-tiny-desk-concert-4nme)
-- [Sapienza University of Rome Crippled by Network-Wide Ransomware Attack](https://dev.to/beyondmachines/sapienza-university-of-rome-crippled-by-network-wide-ransomware-attack-2b1j)
-- [MCPfying Tools Securely at Scale with Bedrock AgentCore Gateway](https://dev.to/aws-builders/mcpfying-tools-securely-at-scale-with-bedrock-agentcore-gateway-e3d)
-- [Conditional Statement - if-else Statement](https://dev.to/nanthini_ammu_ac02ad32802/conditional-statement-if-else-statement-698)
+- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
+- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
+- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
+- [How to decode any polymarket trading bot strategy ?](https://dev.to/voren_tai_24467d3051ef996/how-to-decode-any-polymarket-trading-bot-strategy--1k7b)
+- [A Simple Way to Debug SwiftUI Layout Issues](https://dev.to/arshtechpro/a-simple-way-to-debug-swiftui-layout-issues-1gn9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
