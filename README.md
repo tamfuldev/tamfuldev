@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
-- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
-- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
-- [How to decode any polymarket trading bot strategy ?](https://dev.to/voren_tai_24467d3051ef996/how-to-decode-any-polymarket-trading-bot-strategy--1k7b)
-- [A Simple Way to Debug SwiftUI Layout Issues](https://dev.to/arshtechpro/a-simple-way-to-debug-swiftui-layout-issues-1gn9)
+- [Visual map of LeetCode problems by patterns &amp; sub-patterns](https://dev.to/dr-o-ne/visual-map-of-leetcode-problems-by-patterns-sub-patterns-1mob)
+- [Linux Fundamentals - Part 7: Bash Scripting &lpar;If Statements&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-7-bash-scripting-if-statements-bfh)
+- [CLAUDE.md best practices - From Basic to Adaptive](https://dev.to/cleverhoods/claudemd-best-practices-from-basic-to-adaptive-9lm)
+- [Show DEV: UtilityForge - 250+ Dev Tools Bundled into One Privacy-Focused App](https://dev.to/day2day_life_90ff21e1b7d2/show-dev-utilityforge-250-dev-tools-bundled-into-one-privacy-focused-app-4o4f)
+- [Building GDPR-Compliant AI Systems with Automatic Redaction](https://dev.to/rom_questaai_599bb894049/building-gdpr-compliant-ai-systems-with-automatic-redaction-194n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
