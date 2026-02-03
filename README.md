@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent a Year Building a Complete Scrapy Handbook. Here&#39;s Why.](https://dev.to/ikram_khan/i-spent-a-year-building-a-complete-scrapy-handbook-heres-why-4gcc)
-- [Realtime Multimodal AI on Ray-Ban Meta Glasses with Gemini Live &amp; LiveKit](https://dev.to/googleai/realtime-multimodal-ai-on-ray-ban-meta-glasses-with-gemini-live-livekit-45mn)
-- [NgSysV2-5.4: Browser Cookies](https://dev.to/mjoycemilburn/ngsysv2-54-browser-cookies-532i)
-- [Beyond cd and ls: A Developer’s Survival Kit for the Terminal](https://dev.to/daniel_possiblekwabi_b57/beyond-cd-and-ls-a-developers-survival-kit-for-the-terminal-5637)
-- [Why We Built an Open-Source Industrial BLE Protocol &lpar;AltessaBeacon](https://dev.to/anton_dobkin_23ed26097ad2/why-we-built-an-open-source-industrial-ble-protocol-altessabeacon-jj4)
+- [How I Built an AI Agent That Handled 90% of Customer Requests Without Human Intervention](https://dev.to/santifer/how-i-built-an-ai-agent-that-handled-90-of-customer-requests-without-human-intervention-4pci)
+- [Service workers that don’t surprise you: deterministic caching for offline-first PWAs](https://dev.to/crisiscoresystems/service-workers-that-dont-surprise-you-deterministic-caching-for-offline-first-pwas-5480)
+- [How to Measure Authentication: Metrics, Funnels, and Conversion Tracking](https://dev.to/corbado/how-to-measure-authentication-metrics-funnels-and-conversion-tracking-628)
+- [Caffeinate your Mac to prevent it from sleeping](https://dev.to/nikola/caffeinate-your-mac-to-prevent-it-from-sleeping-4o7a)
+- [Incident response &amp; blameless post-mortems: writing better runbooks and SLO/SLI definitions](https://dev.to/sepehr/incident-response-blameless-post-mortems-writing-better-runbooks-and-slosli-definitions-2bbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
