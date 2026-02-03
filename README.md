@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [From Discord Voice to Meeting Minutes: Local Transcription + Telegram/Slack Delivery](https://dev.to/tox3d/from-discord-voice-to-meeting-minutes-local-transcription-telegramslack-delivery-15dj)
+- [Streamlining Test Account Management in Enterprises with Kubernetes Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-enterprises-with-kubernetes-automation-9k6)
+- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
+- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
 - [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
-- [Intent and Spec](https://dev.to/intoinside/intent-and-spec-ljm)
-- [The React Timer Trap: Refactoring a &quot;Simple&quot; Countdown from Buggy to Bulletproof](https://dev.to/orhalim/the-react-timer-trap-refactoring-a-simple-countdown-from-buggy-to-bulletproof-3ogj)
-- [Perspectives On Software Quality](https://dev.to/janvanryswyck/perspectives-on-software-quality-mm7)
-- [Ridge Regression vs Lasso Regression](https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
