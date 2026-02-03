@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Get started with Vertex AI in Apps Script](https://dev.to/googleworkspace/get-started-with-vertex-ai-in-apps-script-1eac)
-- [Deployed a Fully Microservices Stack on Kubernetes, AWS EKS](https://dev.to/awais_684/deployed-a-fully-microservices-stack-on-kubernetes-aws-eks-2cfm)
-- [AWS CodeBuild-powered GitHub Actions self-hosted runners — without webhooks](https://dev.to/aws-builders/aws-codebuild-powered-github-actions-self-hosted-runners-without-webhooks-je4)
-- [Build an Internal API Status Dashboard for Your Team in 10 Minutes](https://dev.to/shibley/build-an-internal-api-status-dashboard-for-your-team-in-10-minutes-300e)
-- [How DevOps Teams Use Status Aggregators to Cut Incident Response Time in Half](https://dev.to/shibley/how-devops-teams-use-status-aggregators-to-cut-incident-response-time-in-half-33di)
+- [Ona &lpar;formerly Gitpod&rpar; is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
+- [Building an AI Drone System for Real-Time Crowd Risk Detection &lpar;Edge AI + IoT&rpar;](https://dev.to/prithwis_das_46cb0fb6dde8/building-an-ai-drone-system-for-real-time-crowd-risk-detection-edge-ai-iot-1b8k)
+- [Learning Terms in Java](https://dev.to/shelner/learning-terms-in-java-2gg1)
+- [Testing Geo-Blocked Features with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/testing-geo-blocked-features-with-docker-on-a-zero-budget-setup-4og3)
+- [Such a great tool
+
+https://github.com/kamranahmedse/git-standup](https://dev.to/ben/such-a-great-toolhttpsgithubcomkamranahmedsegit-standup-577c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
