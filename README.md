@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Agent That Handled 90% of Customer Requests Without Human Intervention](https://dev.to/santifer/how-i-built-an-ai-agent-that-handled-90-of-customer-requests-without-human-intervention-4pci)
-- [Service workers that don’t surprise you: deterministic caching for offline-first PWAs](https://dev.to/crisiscoresystems/service-workers-that-dont-surprise-you-deterministic-caching-for-offline-first-pwas-5480)
-- [How to Measure Authentication: Metrics, Funnels, and Conversion Tracking](https://dev.to/corbado/how-to-measure-authentication-metrics-funnels-and-conversion-tracking-628)
-- [Caffeinate your Mac to prevent it from sleeping](https://dev.to/nikola/caffeinate-your-mac-to-prevent-it-from-sleeping-4o7a)
-- [Incident response &amp; blameless post-mortems: writing better runbooks and SLO/SLI definitions](https://dev.to/sepehr/incident-response-blameless-post-mortems-writing-better-runbooks-and-slosli-definitions-2bbm)
+- [Build a &quot;Military-Grade&quot; Network Scanner in Python &lpar;Scapy Tutorial&rpar;](https://dev.to/it_solutions_pro/build-a-military-grade-network-scanner-in-python-scapy-tutorial-1a4a)
+- [The Bridge Problem: Why Agents Can&#39;t Talk to Each Other &lpar;And How We Fixed It&rpar;](https://dev.to/seakai/the-bridge-problem-why-agents-cant-talk-to-each-other-and-how-we-fixed-it-1i08)
+- [LSP: IDE-Level Code Intelligence for Claude](https://dev.to/rajeshroyal/lsp-ide-level-code-intelligence-for-claude-4kp5)
+- [Building Intelligent Retail Signage with BrightSign&#39;s NPU: A Deep Dive into Real-Time Gaze Detection](https://dev.to/lherlein/building-intelligent-retail-signage-with-brightsigns-npu-a-deep-dive-into-real-time-gaze-detection-4g61)
+- [I uploaded MY CV and boom its done](https://dev.to/mukhar/i-uploaded-my-cv-and-boom-its-done-1le3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
