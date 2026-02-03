@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Data Hygiene During High Traffic Events with Python in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b)
-- [I have 8 users and Google Gemini is my Marketing Manager. Week 1 Reality.](https://dev.to/donald_wono_2494bee04aa88/i-have-8-users-and-google-gemini-is-my-marketing-manager-week-1-reality-kp5)
-- [The Startup Studio Engine: Why Agile is the Secret Sauce at Frugal Scientific](https://dev.to/shinto_peter_38a3dc9fcdab/the-startup-studio-engine-why-agile-is-the-secret-sauce-at-frugal-scientific-37o5)
-- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-38aa)
-- [De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento](https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g)
+- [Why faking real browser events doesn&#39;t work](https://dev.to/ms_74/why-faking-real-browser-events-doesnt-work-4pp1)
+- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis — Part 2: The Data Layer](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis-35kn)
+- [Implementing Secure Authentication in Next.js with External APIs: A BFF Pattern Approach](https://dev.to/favour_okpara_9dc22591b2f/implementing-secure-authentication-in-nextjs-with-external-apis-a-bff-pattern-approach-hmg)
+- [How I Used Algolia to Build a &#39;Mind-Reading&#39; Support Portal](https://dev.to/briian365/how-i-used-algolia-to-build-a-mind-reading-support-portal-25ei)
+- [Was the recent silver crash manipulated?](https://dev.to/koomato_peanut_15614ac490/was-the-recent-silver-crash-manipulated-3pib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
