@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inside AMD SEV: How memory encryption works today&lpar;and where it is lacking&rpar;](https://dev.to/oluwaseun_olajide_828e75d/inside-amd-sev-how-memory-encryption-works-todayand-where-it-is-lacking-1oin)
-- [[Boost]](https://dev.to/jcmartinezdev/-5dee)
-- [Monitoring and Observing My First Linux Server: A Beginner’s Guide to Prometheus &amp; Grafana.](https://dev.to/jaywon/monitoring-and-observing-my-first-linux-server-a-beginners-guide-to-prometheus-grafana-c6j)
-- [Planning vs Fast Mode in Google Antigravity: When and How to Use Each ⚡](https://dev.to/this-is-learning/planning-vs-fast-mode-in-google-antigravity-when-and-how-to-use-each-36n5)
-- [The Best Golang Books in 2026](https://dev.to/goeric/the-best-golang-books-in-2026-507e)
+- [Building a Full-Stack Finance Tracker: My MERN Journey &lpar;Real Problems &amp; Fixes&rpar; 💰](https://dev.to/its_dev_/building-a-full-stack-finance-tracker-my-mern-journey-real-problems-fixes-24pb)
+- [NPR Music: Miguel: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-miguel-tiny-desk-concert-4nme)
+- [Sapienza University of Rome Crippled by Network-Wide Ransomware Attack](https://dev.to/beyondmachines/sapienza-university-of-rome-crippled-by-network-wide-ransomware-attack-2b1j)
+- [MCPfying Tools Securely at Scale with Bedrock AgentCore Gateway](https://dev.to/aws-builders/mcpfying-tools-securely-at-scale-with-bedrock-agentcore-gateway-e3d)
+- [Conditional Statement - if-else Statement](https://dev.to/nanthini_ammu_ac02ad32802/conditional-statement-if-else-statement-698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
