@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Visual map of LeetCode problems by patterns &amp; sub-patterns](https://dev.to/dr-o-ne/visual-map-of-leetcode-problems-by-patterns-sub-patterns-1mob)
-- [Linux Fundamentals - Part 7: Bash Scripting &lpar;If Statements&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-7-bash-scripting-if-statements-bfh)
-- [CLAUDE.md best practices - From Basic to Adaptive](https://dev.to/cleverhoods/claudemd-best-practices-from-basic-to-adaptive-9lm)
-- [Show DEV: UtilityForge - 250+ Dev Tools Bundled into One Privacy-Focused App](https://dev.to/day2day_life_90ff21e1b7d2/show-dev-utilityforge-250-dev-tools-bundled-into-one-privacy-focused-app-4o4f)
-- [Building GDPR-Compliant AI Systems with Automatic Redaction](https://dev.to/rom_questaai_599bb894049/building-gdpr-compliant-ai-systems-with-automatic-redaction-194n)
+- [Get started with Vertex AI in Apps Script](https://dev.to/googleworkspace/get-started-with-vertex-ai-in-apps-script-1eac)
+- [Deployed a Fully Microservices Stack on Kubernetes, AWS EKS](https://dev.to/awais_684/deployed-a-fully-microservices-stack-on-kubernetes-aws-eks-2cfm)
+- [AWS CodeBuild-powered GitHub Actions self-hosted runners — without webhooks](https://dev.to/aws-builders/aws-codebuild-powered-github-actions-self-hosted-runners-without-webhooks-je4)
+- [Build an Internal API Status Dashboard for Your Team in 10 Minutes](https://dev.to/shibley/build-an-internal-api-status-dashboard-for-your-team-in-10-minutes-300e)
+- [How DevOps Teams Use Status Aggregators to Cut Incident Response Time in Half](https://dev.to/shibley/how-devops-teams-use-status-aggregators-to-cut-incident-response-time-in-half-33di)
 <!-- BLOG-POST-LIST:END -->
 
 ---
