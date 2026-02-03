@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Test-Driven Development in the Age of AI Code Generation](https://dev.to/africandeveloper/rethinking-test-driven-development-in-the-age-of-ai-code-generation-5bei)
-- [Unveiling the MEMORY-NATIVE-NEURAL-NETWORK &lpar;MNNN&rpar; Family: Rewriting AI&#39;s Approach to Memory](https://dev.to/hejhdiss/unveiling-the-memory-native-neural-network-mnnn-family-rewriting-ais-approach-to-memory-e0m)
-- [Build an Agentic Blog Generator with Pieces in Flutter](https://dev.to/getpieces/build-an-agentic-blog-generator-with-pieces-in-flutter-h3b)
-- [Overcoming IP Bans in Web Scraping with Rust: A DevOps Approach for Enterprise Scalability](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-rust-a-devops-approach-for-enterprise-scalability-ehh)
-- [Schemas and Data Modelling in Power BI](https://dev.to/lawrence_murithi/schemas-and-data-modelling-in-power-bi-2ja6)
+- [I Spent a Year Building a Complete Scrapy Handbook. Here&#39;s Why.](https://dev.to/ikram_khan/i-spent-a-year-building-a-complete-scrapy-handbook-heres-why-4gcc)
+- [Realtime Multimodal AI on Ray-Ban Meta Glasses with Gemini Live &amp; LiveKit](https://dev.to/googleai/realtime-multimodal-ai-on-ray-ban-meta-glasses-with-gemini-live-livekit-45mn)
+- [NgSysV2-5.4: Browser Cookies](https://dev.to/mjoycemilburn/ngsysv2-54-browser-cookies-532i)
+- [Beyond cd and ls: A Developer’s Survival Kit for the Terminal](https://dev.to/daniel_possiblekwabi_b57/beyond-cd-and-ls-a-developers-survival-kit-for-the-terminal-5637)
+- [Why We Built an Open-Source Industrial BLE Protocol &lpar;AltessaBeacon](https://dev.to/anton_dobkin_23ed26097ad2/why-we-built-an-open-source-industrial-ble-protocol-altessabeacon-jj4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
