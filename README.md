@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Discord Voice to Meeting Minutes: Local Transcription + Telegram/Slack Delivery](https://dev.to/tox3d/from-discord-voice-to-meeting-minutes-local-transcription-telegramslack-delivery-15dj)
-- [Streamlining Test Account Management in Enterprises with Kubernetes Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-enterprises-with-kubernetes-automation-9k6)
-- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
-- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
-- [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
+- [Rapid Deployment of Phishing Detection Pipelines in a DevOps Environment Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-detection-pipelines-in-a-devops-environment-under-tight-deadlines-2hd9)
+- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
+- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
+- [Cut LLM API costs with a decentralized inference network](https://dev.to/gonkagate_team/cut-llm-api-costs-with-a-decentralized-inference-network-5e15)
+- [React Compiler: Stop Manually Optimizing Your React Apps](https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
