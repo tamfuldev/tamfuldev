@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ona &lpar;formerly Gitpod&rpar; is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
-- [Building an AI Drone System for Real-Time Crowd Risk Detection &lpar;Edge AI + IoT&rpar;](https://dev.to/prithwis_das_46cb0fb6dde8/building-an-ai-drone-system-for-real-time-crowd-risk-detection-edge-ai-iot-1b8k)
-- [Learning Terms in Java](https://dev.to/shelner/learning-terms-in-java-2gg1)
-- [Testing Geo-Blocked Features with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/testing-geo-blocked-features-with-docker-on-a-zero-budget-setup-4og3)
-- [Such a great tool
-
-https://github.com/kamranahmedse/git-standup](https://dev.to/ben/such-a-great-toolhttpsgithubcomkamranahmedsegit-standup-577c)
+- [Rethinking Test-Driven Development in the Age of AI Code Generation](https://dev.to/africandeveloper/rethinking-test-driven-development-in-the-age-of-ai-code-generation-5bei)
+- [Unveiling the MEMORY-NATIVE-NEURAL-NETWORK &lpar;MNNN&rpar; Family: Rewriting AI&#39;s Approach to Memory](https://dev.to/hejhdiss/unveiling-the-memory-native-neural-network-mnnn-family-rewriting-ais-approach-to-memory-e0m)
+- [Build an Agentic Blog Generator with Pieces in Flutter](https://dev.to/getpieces/build-an-agentic-blog-generator-with-pieces-in-flutter-h3b)
+- [Overcoming IP Bans in Web Scraping with Rust: A DevOps Approach for Enterprise Scalability](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-rust-a-devops-approach-for-enterprise-scalability-ehh)
+- [Schemas and Data Modelling in Power BI](https://dev.to/lawrence_murithi/schemas-and-data-modelling-in-power-bi-2ja6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
