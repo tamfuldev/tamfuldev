@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why faking real browser events doesn&#39;t work](https://dev.to/ms_74/why-faking-real-browser-events-doesnt-work-4pp1)
-- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis — Part 2: The Data Layer](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis-35kn)
-- [Implementing Secure Authentication in Next.js with External APIs: A BFF Pattern Approach](https://dev.to/favour_okpara_9dc22591b2f/implementing-secure-authentication-in-nextjs-with-external-apis-a-bff-pattern-approach-hmg)
-- [How I Used Algolia to Build a &#39;Mind-Reading&#39; Support Portal](https://dev.to/briian365/how-i-used-algolia-to-build-a-mind-reading-support-portal-25ei)
-- [Was the recent silver crash manipulated?](https://dev.to/koomato_peanut_15614ac490/was-the-recent-silver-crash-manipulated-3pib)
+- [How to use API based providers for sending OTP in Node.js](https://dev.to/jahongir2007/how-to-use-api-based-providers-for-sending-otp-in-nodejs-5h3j)
+- [When Your Next.js App Just... Dies: The Sneaky Stack Overflow Bug That&#39;s Been Crashing Servers](https://dev.to/vasughanta09/when-your-nextjs-app-just-dies-the-sneaky-stack-overflow-bug-thats-been-crashing-servers-2moc)
+- [Determine Appropriate Data Security Controls](https://dev.to/aws-builders/determine-appropriate-data-security-controls-3e45)
+- [Why Your Browser Benchmark is Lying to You About AI Performance](https://dev.to/hoshiwarpsjs/why-your-browser-benchmark-is-lying-to-you-about-ai-performance-5gn2)
+- [Understanding Schemas and Data Modelling in Power BI](https://dev.to/nganga_njongo/understanding-schemas-and-data-modelling-in-power-bi-3odb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
