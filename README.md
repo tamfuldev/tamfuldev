@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free 17,500 LLM Requests a Day](https://dev.to/alexey_leshchenko_fc0ec66/free-17500-llm-requests-a-day-2an5)
-- [7 Day Async Developer Challenge Recap](https://dev.to/keyshade/7-day-async-developer-challenge-recap-5gd)
-- [Beyond Momentum: The Future of Neural Differential Manifolds in Robotics](https://dev.to/hejhdiss/beyond-momentum-the-future-of-neural-differential-manifolds-in-robotics-3k4j)
-- [Enter Ant Man!](https://dev.to/evanlausier/enter-ant-man-51n7)
-- [Epic Battle: ChatGPT vs Akinator](https://dev.to/cloutboi/chatgpt-vs-akinator-4ie1)
+- [I Built an AI-Powered &#39;Social Gardener&#39; to Stop Neglecting My Friends 🌱](https://dev.to/rolands_aulmanis_102f90af/i-built-an-ai-powered-social-gardener-to-stop-neglecting-my-friends-54i3)
+- [I just released: laravel-model-media 🎉](https://dev.to/ibrahima_diallo_7451d84f0/i-just-released-laravel-model-media-3d5j)
+- [Day 5&amp;6 - When You Refuse to Inherit Silent Technical Debt](https://dev.to/shailaputri/day-56-when-you-refuse-to-inherit-silent-technical-debt-c76)
+- [I built a browser-based document diff tool — here&#39;s how and why](https://dev.to/_6722922626cdce84110d8/i-built-a-browser-based-document-diff-tool-heres-how-and-why-4cjp)
+- [Rapid product development framework with AI agents](https://dev.to/rahuldhole/rapid-product-development-framework-with-ai-agents-5c2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
