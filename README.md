@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/karuppasamy_pandian_7f423/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4)
-- [The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o)
-- [From dataset to deployment: An end-to-end QA checklist for data scientists](https://dev.to/qa-leaders/from-dataset-to-deployment-an-end-to-end-qa-checklist-for-data-scientists-a17)
-- [My First Steps in a Tough World &lpar;SRE/DevOps&rpar;](https://dev.to/iriome2512/my-first-steps-in-a-tough-world-sredevops-5abi)
-- [Building OmniSave: A Lightweight Social Media Utility Hub for 2026 🚀](https://dev.to/anointed_6b54581b93b80677/building-omnisave-a-lightweight-social-media-utility-hub-for-2026-4be2)
+- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1np4)
+- [Building an Open Source Android Voice Assistant with Kotlin](https://dev.to/y_h_3450b0df12444f6ab7cde/building-an-open-source-android-voice-assistant-with-kotlin-7lg)
+- [Let&#39;s Build, Share and Deploy Agents: The Docker cagent Workshop](https://dev.to/ajeetraina/lets-build-share-and-deploy-agents-the-docker-cagent-workshop-14ni)
+- [Uncontrolled vs Controlled React Components](https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli)
+- [Tokenizers The Building Blocks of Generative AI](https://dev.to/ekaone/tokenizers-the-building-blocks-of-generative-ai-4c9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
