@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Eyes Have It: Closing the Agentic Design Loop](https://dev.to/ashmortar/the-eyes-have-it-closing-the-agentic-design-loop-3819)
-- [Untitled](https://dev.to/jorge_marcos_8da42826e787/untitled-29km)
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1do6)
-- [DAY4 -Storage Configuration](https://dev.to/maso_eb42159b65f6592/day4-storage-configuration-4mm6)
-- [Simple Node.js Project Structure for Beginners](https://dev.to/luciano_brito_289ca39d287/simple-nodejs-project-structure-for-beginners-3bg7)
+- [FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/karuppasamy_pandian_7f423/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4)
+- [The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o)
+- [From dataset to deployment: An end-to-end QA checklist for data scientists](https://dev.to/qa-leaders/from-dataset-to-deployment-an-end-to-end-qa-checklist-for-data-scientists-a17)
+- [My First Steps in a Tough World &lpar;SRE/DevOps&rpar;](https://dev.to/iriome2512/my-first-steps-in-a-tough-world-sredevops-5abi)
+- [Building OmniSave: A Lightweight Social Media Utility Hub for 2026 🚀](https://dev.to/anointed_6b54581b93b80677/building-omnisave-a-lightweight-social-media-utility-hub-for-2026-4be2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
