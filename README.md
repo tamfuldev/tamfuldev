@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI-Powered &#39;Social Gardener&#39; to Stop Neglecting My Friends 🌱](https://dev.to/rolands_aulmanis_102f90af/i-built-an-ai-powered-social-gardener-to-stop-neglecting-my-friends-54i3)
-- [I just released: laravel-model-media 🎉](https://dev.to/ibrahima_diallo_7451d84f0/i-just-released-laravel-model-media-3d5j)
-- [Day 5&amp;6 - When You Refuse to Inherit Silent Technical Debt](https://dev.to/shailaputri/day-56-when-you-refuse-to-inherit-silent-technical-debt-c76)
-- [I built a browser-based document diff tool — here&#39;s how and why](https://dev.to/_6722922626cdce84110d8/i-built-a-browser-based-document-diff-tool-heres-how-and-why-4cjp)
-- [Rapid product development framework with AI agents](https://dev.to/rahuldhole/rapid-product-development-framework-with-ai-agents-5c2p)
+- [Building the First TypeScript LTI 1.3 Library &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/jamesjoplin/building-the-first-typescript-lti-13-library-so-you-dont-have-to-4h09)
+- [Wrote a blog that explains ReAct &lpar;Reasoning + Action&rpar; through the analogy of the game &quot;Pass the story&quot; 
+
+https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20](https://dev.to/shlokaguptaa/wrote-a-blog-that-explains-react-reasoning-action-through-the-analogy-of-the-game-pass-the-2opf)
+- [Ona is launching its Open Source program to help maintainers fight AI slop](https://dev.to/siddhantkcode/ona-is-launching-its-open-source-program-to-help-maintainers-fight-ai-slop-3pm5)
+- [Bun 1.2 Deep Dive: Built-in SQLite, S3, and Why It Might Actually Replace Node.js](https://dev.to/pockit_tools/bun-12-deep-dive-built-in-sqlite-s3-and-why-it-might-actually-replace-nodejs-4738)
+- [Bypassing the Great Firewall in 2026: Active Filtering &amp; Protocol Obfuscation](https://dev.to/mint_tea_592935ca2745ae07/bypassing-the-great-firewall-in-2026-active-filtering-protocol-obfuscation-37oj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
