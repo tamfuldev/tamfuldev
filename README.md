@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode #1458.Max Dot Product of Two Subsequences](https://dev.to/hectorw_tt/leetcode-1458max-dot-product-of-two-subsequences-56lb)
-- [Move Zeroes — Understanding the Read &amp; Write Pointer Pattern &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/move-zeroes-understanding-the-read-write-pointer-pattern-c-45o1)
-- [gsap-lenis_scrolltrigger-dissolve-effect-animation](https://dev.to/delafuentej/gsap-lenisscrolltrigger-dissolve-effect-animation-1mi2)
-- [Why &#39;Localhost&#39; is a Myth: Your Clipboard is a Public API](https://dev.to/raviteja_nekkalapu_/why-localhost-is-a-myth-your-clipboard-is-a-public-api-52jp)
-- [How to Handle Growing AI Context Without Endless Scripts](https://dev.to/acontext_4dc5ced58dc515fd/new-features-in-acontext-context-engineering-in-a-few-lines-of-code-8n5)
+- [The Forbidden Fruit Has Already Been Bitten](https://dev.to/olegchir/the-forbidden-fruit-has-already-been-bitten-1p9p)
+- [Defer vs Immediate Reactive Flow Creation &lpar;and why your Circuit Breaker can “decide too early”&rpar;](https://dev.to/jairo-dev-jr/defer-vs-immediate-reactive-flow-creation-and-why-your-circuit-breaker-can-decide-too-early-3bll)
+- [Meu Homelab](https://dev.to/ferradas/meu-homelab-11e1)
+- [Rebuilding My Static Blog with Build-Time Data and Instant Search](https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db)
+- [Building a Production-Grade AWS 3-Tier Java Application &lpar;Hands-On&rpar;](https://dev.to/dipakprasad22/building-a-production-grade-aws-3-tier-java-application-hands-on-19o1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
