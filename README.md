@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building the First TypeScript LTI 1.3 Library &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/jamesjoplin/building-the-first-typescript-lti-13-library-so-you-dont-have-to-4h09)
-- [Wrote a blog that explains ReAct &lpar;Reasoning + Action&rpar; through the analogy of the game &quot;Pass the story&quot; 
-
-https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20](https://dev.to/shlokaguptaa/wrote-a-blog-that-explains-react-reasoning-action-through-the-analogy-of-the-game-pass-the-2opf)
-- [Ona is launching its Open Source program to help maintainers fight AI slop](https://dev.to/siddhantkcode/ona-is-launching-its-open-source-program-to-help-maintainers-fight-ai-slop-3pm5)
-- [Bun 1.2 Deep Dive: Built-in SQLite, S3, and Why It Might Actually Replace Node.js](https://dev.to/pockit_tools/bun-12-deep-dive-built-in-sqlite-s3-and-why-it-might-actually-replace-nodejs-4738)
-- [Bypassing the Great Firewall in 2026: Active Filtering &amp; Protocol Obfuscation](https://dev.to/mint_tea_592935ca2745ae07/bypassing-the-great-firewall-in-2026-active-filtering-protocol-obfuscation-37oj)
+- [The Great Compression: Why AI Isn&#39;t Replacing Developers, It’s Refining Them](https://dev.to/leolanese/the-great-compression-why-ai-isnt-replacing-developers-its-refining-them-3j0n)
+- [Build Your Own App](https://dev.to/akshay_avak/build-your-own-app-1449)
+- [Tailwind Alchemist: find all tailwind colors in your codebase](https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o)
+- [Real-time, open source, AI video generation is here and here&#39;s what you can build with it](https://dev.to/viborc/real-time-open-source-ai-video-generation-is-here-and-heres-what-you-can-build-with-it-41d5)
+- [CLI tool for pulling historical Binance OHLCV data for backtesting](https://dev.to/ksi/cli-tool-for-pulling-historical-binance-ohlcv-data-for-backtesting-4oi5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
