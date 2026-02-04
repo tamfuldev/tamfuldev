@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sparse-Stream Memory Networks: The Next Evolution in Efficient AI](https://dev.to/hejhdiss/sparse-stream-memory-networks-the-next-evolution-in-efficient-ai-12hi)
-- [Speed vs Control: The Structural Conflict Inside Enterprise Application Development](https://dev.to/nigel_t/speed-vs-control-the-structural-conflict-inside-enterprise-application-development-304b)
-- [AI-Powered Website Features in 2026: 5 Things You Can Implement Today Without Frustrating Users](https://dev.to/budventure_technologies_5/ai-powered-website-features-in-2026-5-things-you-can-implement-today-without-frustrating-users-24cl)
-- [LLMs Aren’t What I Thought They Were](https://dev.to/dev-in-progress/what-i-got-wrong-about-llms-theyre-simpler-than-i-thought-27pe)
-- [JavaScript on the Backend: Why It’s More Than Just Node.js Hype](https://dev.to/hadi_mirza/javascript-on-the-backend-why-its-more-than-just-nodejs-hype-5c0d)
+- [712 Problems Later: What 500+ Days of DSA Really Taught Me](https://dev.to/armanphaugat/712-problems-later-what-500-days-of-dsa-really-taught-me-8ib)
+- [ASP.NET Core JWT Authentication: Setup, Validation, and Best Practices](https://dev.to/boldsign/aspnet-core-jwt-authentication-setup-validation-and-best-practices-og)
+- [Why Your Competitive Intelligence Scrapers Fail: A Deep Dive into Browser Fingerprinting](https://dev.to/withatte/why-your-competitive-intelligence-scrapers-fail-a-deep-dive-into-browser-fingerprinting-45hb)
+- [How AWS Vector Databases Empower Semantic Search and AI Applications](https://dev.to/ursarahim/how-aws-vector-databases-empower-semantic-search-and-ai-applications-bdo)
+- [Using Redis to Optimize Backend Queries](https://dev.to/armanphaugat/using-redis-to-optimize-backend-queries-n11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
