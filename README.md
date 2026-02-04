@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Forbidden Fruit Has Already Been Bitten](https://dev.to/olegchir/the-forbidden-fruit-has-already-been-bitten-1p9p)
-- [Defer vs Immediate Reactive Flow Creation &lpar;and why your Circuit Breaker can “decide too early”&rpar;](https://dev.to/jairo-dev-jr/defer-vs-immediate-reactive-flow-creation-and-why-your-circuit-breaker-can-decide-too-early-3bll)
-- [Meu Homelab](https://dev.to/ferradas/meu-homelab-11e1)
-- [Rebuilding My Static Blog with Build-Time Data and Instant Search](https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db)
-- [Building a Production-Grade AWS 3-Tier Java Application &lpar;Hands-On&rpar;](https://dev.to/dipakprasad22/building-a-production-grade-aws-3-tier-java-application-hands-on-19o1)
+- [What the heck is OpenClaw/Clawbot/MoltBot?](https://dev.to/ponikar/what-the-heck-is-openclawclawbotmoltbot-1icd)
+- [Visual Debugging for AI Agents &lpar;ANY Framework&rpar;](https://dev.to/seakai/visual-debugging-for-ai-agents-any-framework-4npf)
+- [How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It](https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2)
+- [Designing an Authentication System: OAuth and SSO](https://dev.to/matt_frank_usa/designing-an-authentication-system-oauth-and-sso-gf7)
+- [Launch of my devlog](https://dev.to/freeboardtortoise/launch-of-my-devlog-3jmj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
