@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Game-Changer Breaking Data Lake&#39;s Impossible Triangle](https://dev.to/esproc_spl/the-game-changer-breaking-data-lakes-impossible-triangle-c1c)
-- [Schemas and Data Modelling in Power BI](https://dev.to/igunza_george_37c8fef5b54/schemas-and-data-modelling-in-power-bi-1e55)
-- [What is WCAG for PDF](https://dev.to/katash/what-is-wcag-for-pdf-49hd)
-- [Generate SM2 Key Pair Using Key Parameters for Encryption and Decryption](https://dev.to/harmonyos/generate-sm2-key-pair-using-key-parameters-for-encryption-and-decryption-4519)
-- [How I Found $300,000 Worth of Secrets in a Download Button](https://dev.to/copyleftdev/how-i-found-300000-worth-of-secrets-in-a-download-button-1j13)
+- [RD-Agent 教程 - 第三章：进阶使用技巧](https://dev.to/henry_lin_3ac6363747f45b4/rd-agent-jiao-cheng-di-san-zhang-jin-jie-shi-yong-ji-qiao-4pd4)
+- [How We Reduced Dependabot Noise in Our Monorepo](https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06)
+- [RD-Agent 教程 - 第一章：基础入门（本教程未经全部验证，仅供参考）](https://dev.to/henry_lin_3ac6363747f45b4/rd-agent-jiao-cheng-di-zhang-ji-chu-ru-men-ben-jiao-cheng-wei-jing-quan-bu-yan-zheng-jin-gong-can-kao--30kd)
+- [JuiceFS Enterprise 5.3: 500B+ Files per File System &amp; RDMA Support](https://dev.to/daswu/juicefs-enterprise-53-500b-files-per-file-system-rdma-support-51g9)
+- [AI News Roundup: Xcode 26.3 Agentic Coding, Sora Feed Philosophy, and Qwen3‑Coder‑Next](https://dev.to/damogallagher/ai-news-roundup-xcode-263-agentic-coding-sora-feed-philosophy-and-qwen3-coder-next-1h8a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
