@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL для веб-разработчика: миграция с MySQL, JSON, оптимизация](https://dev.to/_vproger_/postgresql-dlia-vieb-razrabotchika-mighratsiia-s-mysql-json-optimizatsiia-18eo)
+- [Why CSA STAR Can&#39;t Govern AI Agents &lpar;And What Comes Next&rpar;](https://dev.to/narnaiezzsshaa/why-csa-star-cant-govern-ai-agents-and-what-comes-next-5chm)
+- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
 - [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
-- [How Many Jira Tickets Does a &quot;Good&quot; Engineer Close Per Week?](https://dev.to/mtzanida/how-many-jira-tickets-does-a-good-engineer-close-per-week-1aii)
-- [I Built a Trend Radar for Developers — Here&#39;s How the Scoring Engine Works](https://dev.to/trendstackdev/i-built-a-trend-radar-for-developers-heres-how-the-scoring-engine-works-3fba)
-- [Ensuring Software Quality at Scale: Automated Testing and QA in Large Teams](https://dev.to/kodus/ensuring-software-quality-at-scale-automated-testing-and-qa-in-large-teams-4ng3)
-- [NotebookLM Enhancer](https://dev.to/cgcm070/notebooklm-enhancer-2j6p)
+- [MindsEye Algolia Agent Studio: Turning Search Into a Structured, Ledger-First Shopping Journey](https://dev.to/peacebinflow/mindseye-x-algolia-agent-studio-turning-search-into-a-structured-ledger-first-shopping-journey-g8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
