@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL для веб-разработчика: миграция с MySQL, JSON, оптимизация](https://dev.to/_vproger_/postgresql-dlia-vieb-razrabotchika-mighratsiia-s-mysql-json-optimizatsiia-18eo)
-- [Why CSA STAR Can&#39;t Govern AI Agents &lpar;And What Comes Next&rpar;](https://dev.to/narnaiezzsshaa/why-csa-star-cant-govern-ai-agents-and-what-comes-next-5chm)
-- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
-- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
-- [MindsEye Algolia Agent Studio: Turning Search Into a Structured, Ledger-First Shopping Journey](https://dev.to/peacebinflow/mindseye-x-algolia-agent-studio-turning-search-into-a-structured-ledger-first-shopping-journey-g8o)
+- [Are you stuck in the weeds of mechanics or lost in the clouds of &#39;player experience&#39;? Learn how to bridge the gap using my Design Tiers framework.](https://dev.to/gamedesignbites/are-you-stuck-in-the-weeds-of-mechanics-or-lost-in-the-clouds-of-player-experience-learn-how-to-4bbo)
+- [Docker como blindaje: estrategias para contener y desplegar sistemas legacy sin riesgos](https://dev.to/draexx/docker-como-blindaje-estrategias-para-contener-y-desplegar-sistemas-legacy-sin-riesgos-3jpb)
+- [Seamless Dev Environment Isolation During High Traffic Events with React and DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/seamless-dev-environment-isolation-during-high-traffic-events-with-react-and-devops-strategies-7b9)
+- [From 400-Line Import Controllers to 20-Line Configs in Laravel](https://dev.to/zappzerapp/from-400-line-import-controllers-to-20-line-configs-in-laravel-p99)
+- [DPDPA will kick our asses, We need this checklist](https://dev.to/0x0elliot/dpdpa-will-kick-your-ass-you-need-this-checklist-2am8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
