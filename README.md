@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wild Ride from Raw Syscalls to Figuring Out NSS and libc](https://dev.to/bhushitha_hashan/wild-ride-from-raw-syscalls-to-figuring-out-nss-and-libc-14li)
-- [Getting Started With Verilog](https://dev.to/silicon_monks/getting-started-with-verilog-e4c)
-- [Memory Is Not a Vector Database: Why AI Agents Need Beliefs, Not Storage](https://dev.to/harshitk/memory-is-not-a-vector-database-why-ai-agents-need-beliefs-not-storage-2baj)
-- [I Burned $500 on GPU Cloud Credits: A Developer&#39;s Pivot to Multi-Model APIs](https://dev.to/jamesdev4123/i-burned-500-on-gpu-cloud-credits-a-developers-pivot-to-multi-model-apis-21e1)
-- [The Typography Stress Test: Why We Finally Ditched Single-Model Workflows](https://dev.to/gabrieal845/the-typography-stress-test-why-we-finally-ditched-single-model-workflows-476e)
+- [The Game-Changer Breaking Data Lake&#39;s Impossible Triangle](https://dev.to/esproc_spl/the-game-changer-breaking-data-lakes-impossible-triangle-c1c)
+- [Schemas and Data Modelling in Power BI](https://dev.to/igunza_george_37c8fef5b54/schemas-and-data-modelling-in-power-bi-1e55)
+- [What is WCAG for PDF](https://dev.to/katash/what-is-wcag-for-pdf-49hd)
+- [Generate SM2 Key Pair Using Key Parameters for Encryption and Decryption](https://dev.to/harmonyos/generate-sm2-key-pair-using-key-parameters-for-encryption-and-decryption-4519)
+- [How I Found $300,000 Worth of Secrets in a Download Button](https://dev.to/copyleftdev/how-i-found-300000-worth-of-secrets-in-a-download-button-1j13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
