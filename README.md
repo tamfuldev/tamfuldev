@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [712 Problems Later: What 500+ Days of DSA Really Taught Me](https://dev.to/armanphaugat/712-problems-later-what-500-days-of-dsa-really-taught-me-8ib)
-- [ASP.NET Core JWT Authentication: Setup, Validation, and Best Practices](https://dev.to/boldsign/aspnet-core-jwt-authentication-setup-validation-and-best-practices-og)
-- [Why Your Competitive Intelligence Scrapers Fail: A Deep Dive into Browser Fingerprinting](https://dev.to/withatte/why-your-competitive-intelligence-scrapers-fail-a-deep-dive-into-browser-fingerprinting-45hb)
-- [How AWS Vector Databases Empower Semantic Search and AI Applications](https://dev.to/ursarahim/how-aws-vector-databases-empower-semantic-search-and-ai-applications-bdo)
-- [Using Redis to Optimize Backend Queries](https://dev.to/armanphaugat/using-redis-to-optimize-backend-queries-n11)
+- [Wild Ride from Raw Syscalls to Figuring Out NSS and libc](https://dev.to/bhushitha_hashan/wild-ride-from-raw-syscalls-to-figuring-out-nss-and-libc-14li)
+- [Getting Started With Verilog](https://dev.to/silicon_monks/getting-started-with-verilog-e4c)
+- [Memory Is Not a Vector Database: Why AI Agents Need Beliefs, Not Storage](https://dev.to/harshitk/memory-is-not-a-vector-database-why-ai-agents-need-beliefs-not-storage-2baj)
+- [I Burned $500 on GPU Cloud Credits: A Developer&#39;s Pivot to Multi-Model APIs](https://dev.to/jamesdev4123/i-burned-500-on-gpu-cloud-credits-a-developers-pivot-to-multi-model-apis-21e1)
+- [The Typography Stress Test: Why We Finally Ditched Single-Model Workflows](https://dev.to/gabrieal845/the-typography-stress-test-why-we-finally-ditched-single-model-workflows-476e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
