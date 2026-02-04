@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RD-Agent 教程 - 第三章：进阶使用技巧](https://dev.to/henry_lin_3ac6363747f45b4/rd-agent-jiao-cheng-di-san-zhang-jin-jie-shi-yong-ji-qiao-4pd4)
-- [How We Reduced Dependabot Noise in Our Monorepo](https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06)
-- [RD-Agent 教程 - 第一章：基础入门（本教程未经全部验证，仅供参考）](https://dev.to/henry_lin_3ac6363747f45b4/rd-agent-jiao-cheng-di-zhang-ji-chu-ru-men-ben-jiao-cheng-wei-jing-quan-bu-yan-zheng-jin-gong-can-kao--30kd)
-- [JuiceFS Enterprise 5.3: 500B+ Files per File System &amp; RDMA Support](https://dev.to/daswu/juicefs-enterprise-53-500b-files-per-file-system-rdma-support-51g9)
-- [AI News Roundup: Xcode 26.3 Agentic Coding, Sora Feed Philosophy, and Qwen3‑Coder‑Next](https://dev.to/damogallagher/ai-news-roundup-xcode-263-agentic-coding-sora-feed-philosophy-and-qwen3-coder-next-1h8a)
+- [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
+- [Stop Using the Old Bubble API Plugin: Use the New Editor-Based API Connector](https://dev.to/ebereplenty/stop-using-the-old-bubble-api-plugin-use-the-new-editor-based-api-connector-2012)
+- [OS for Intelligence: How GitHub Is Fixing the AI Fragmentation](https://dev.to/poornee/os-for-intelligence-how-github-is-fixing-the-ai-fragmentation-52fj)
+- [Schemas in Power BI: Designing Models That Perform](https://dev.to/suzanne_orido_445096444b2/schemas-in-power-bi-designing-models-that-perform-4jhe)
+- [How to Turn Slow Queries into Actionable Reliability Metrics with OpenTelemetry](https://dev.to/causely/how-to-turn-slow-queries-into-actionable-reliability-metrics-with-opentelemetry-4blj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
