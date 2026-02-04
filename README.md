@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer&#39;s Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
-- [Hello Everyone!](https://dev.to/joan_ifezue_90fa2ed6fed55/hello-everyone-p5d)
-- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
-- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
-- [YourGPT Just Open-Sourced a Copilot SDK for Building Context-Aware AI Inside SaaS Products](https://dev.to/ruixiao/yourgpt-just-open-sourced-a-copilot-sdk-for-building-context-aware-ai-inside-saas-products-485l)
+- [Free 17,500 LLM Requests a Day](https://dev.to/alexey_leshchenko_fc0ec66/free-17500-llm-requests-a-day-2an5)
+- [7 Day Async Developer Challenge Recap](https://dev.to/keyshade/7-day-async-developer-challenge-recap-5gd)
+- [Beyond Momentum: The Future of Neural Differential Manifolds in Robotics](https://dev.to/hejhdiss/beyond-momentum-the-future-of-neural-differential-manifolds-in-robotics-3k4j)
+- [Enter Ant Man!](https://dev.to/evanlausier/enter-ant-man-51n7)
+- [Epic Battle: ChatGPT vs Akinator](https://dev.to/cloutboi/chatgpt-vs-akinator-4ie1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
