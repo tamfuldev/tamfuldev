@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
-- [Coordination Is the Substrate: What NVIDIA&#39;s Groq Acquisition Really Signals About AI Governance](https://dev.to/narnaiezzsshaa/coordination-is-the-substrate-what-nvidias-groq-acquisition-really-signals-about-ai-governance-2d14)
-- [Why WebSockets Are Overkill for Most Real-Time Apps](https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga)
-- [Why We Built 9 Agent Kits in 1 Day](https://dev.to/seakai/why-we-built-9-agent-kits-in-1-day-4408)
-- [The Best Ways to Build a Blog in Rails 8: From Markdown to Action Text](https://dev.to/zilton7/the-best-ways-to-build-a-blog-in-rails-8-from-markdown-to-action-text-4e0b)
+- [In an AI-driven workflow, the highest leverage isn’t in how much work the system does for developers. It&#39;s how well it works for developers.](https://dev.to/jaideepparashar/in-an-ai-driven-workflow-the-highest-leverage-isnt-in-how-much-work-the-system-does-for-51im)
+- [How I Automate Repetitive Coding Tasks Without Losing Control](https://dev.to/jaideepparashar/how-i-automate-repetitive-coding-tasks-without-losing-control-50hl)
+- [How Docker Actually Works: A Deep Dive into the Internals](https://dev.to/piyushjajoo/how-docker-actually-works-a-deep-dive-into-the-internals-501d)
+- [Apple Had a $500 Billion Idea and Let Open Source Build It Instead](https://dev.to/kirill_tolmachev/apple-had-a-500-billion-idea-and-let-open-source-build-it-instead-1d53)
+- [Resize PDF Page Sizes in C#](https://dev.to/codingco/resize-pdf-page-sizes-in-c-3pak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
