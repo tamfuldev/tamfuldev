@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handle data set pagination with `PagedListResult`](https://dev.to/iamrzr/handle-data-set-pagination-with-pagedlistresult-4hc2)
-- [useReducer vs useState](https://dev.to/joma_3b2f21917842d7461716/usereducer-vs-usestate-2n88)
-- [Azure Storage 101: A Step-By-Step Guide to Provisioning Your Storage Account](https://dev.to/rahimah_dev/azure-storage-101-a-step-by-step-guide-to-provisioning-your-storage-account-16ep)
-- [New Year, New Me: UI/UX Design with Stitch](https://dev.to/gde/new-year-new-me-uiux-design-with-stitch-4af3)
-- [Do we still need DTO ?](https://dev.to/konfydev/do-we-need-dto-with-graphql-53i5)
+- [I built a pytest-like tool for AI agents because &quot;it passed once&quot; isn&#39;t good enough](https://dev.to/alepot55/i-built-a-pytest-like-tool-for-ai-agents-because-it-passed-once-isnt-good-enough-2j30)
+- [dupl8](https://dev.to/query_filter_591122b53770/dupl8-bkg)
+- [FlutterJS: I Built a Flutter Compiler That Outputs Real HTML &lpar;Not Canvas&rpar;](https://dev.to/flutterjs/flutterjs-i-built-a-flutter-compiler-that-outputs-real-html-not-canvas-1kc4)
+- [I built an Open-Source CLI that stops your AI terminal from leaking secrets](https://dev.to/dsjacobsen/i-built-an-open-source-cli-that-stops-your-ai-terminal-from-leaking-secrets-4ocb)
+- [TableCraft: From 5 Hours to 5 Minutes for Production-Ready Table APIs](https://dev.to/jacksonkasi/building-tablecraft-from-5-hours-to-5-minutes-for-production-ready-table-apis-am0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
