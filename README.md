@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start a Forex Brokerage Firm](https://dev.to/devexperts/how-to-start-a-forex-brokerage-firm-3lm9)
-- [Designing Systems That Can Change &lpar;Before They Scale&rpar;](https://dev.to/farzandev13/designing-systems-that-can-change-before-they-scale-154g)
-- [Astro in 2026: Why It&#39;s Beating Next.js for Content Sites &lpar;And What Cloudflare&#39;s Acquisition Means&rpar;](https://dev.to/polliog/astro-in-2026-why-its-beating-nextjs-for-content-sites-and-what-cloudflares-acquisition-means-6kl)
-- [Linux Learning Journey – Day 17: Advanced Networking &amp; Diagnostic Commands 🔍🌐](https://dev.to/avinashwagh/linux-learning-journey-day-17-advanced-networking-diagnostic-commands-3p06)
-- [The Hard Parts of Software Localization](https://dev.to/nadiakacem/the-hard-parts-of-software-localization-50ad)
+- [Nyx Development Tools and Info!](https://dev.to/skyhighjinksdev/nyx-development-tools-and-info-2cn1)
+- [Human Factors in Computer Security](https://dev.to/jatorres-zxc/human-factors-in-computer-security-2hk7)
+- [OpenAI Frontier: The Enterprise Platform for Governed AI Agents](https://dev.to/alifar/openai-frontier-the-enterprise-platform-for-governed-ai-agents-52he)
+- [Automating the design system setup &lpar;50+ screens, code, docs&rpar; in &amp;10 hours](https://dev.to/thesss_ai/automating-the-design-system-setup-50-screens-code-docs-in-10-hours-f38)
+- [Tired of over-bloated developer tool sites?](https://dev.to/daniel_castaosanchez_a8/tired-of-over-bloated-developer-tool-sites-2g91)
 <!-- BLOG-POST-LIST:END -->
 
 ---
