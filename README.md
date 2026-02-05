@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nyx Development Tools and Info!](https://dev.to/skyhighjinksdev/nyx-development-tools-and-info-2cn1)
-- [Human Factors in Computer Security](https://dev.to/jatorres-zxc/human-factors-in-computer-security-2hk7)
-- [OpenAI Frontier: The Enterprise Platform for Governed AI Agents](https://dev.to/alifar/openai-frontier-the-enterprise-platform-for-governed-ai-agents-52he)
-- [Automating the design system setup &lpar;50+ screens, code, docs&rpar; in &amp;10 hours](https://dev.to/thesss_ai/automating-the-design-system-setup-50-screens-code-docs-in-10-hours-f38)
-- [Tired of over-bloated developer tool sites?](https://dev.to/daniel_castaosanchez_a8/tired-of-over-bloated-developer-tool-sites-2g91)
+- [I built a cloud media server because I couldn’t tell my friends to buy a NAS](https://dev.to/overflow3933/i-built-a-cloud-media-server-because-i-couldnt-tell-my-friends-to-buy-a-nas-1mjm)
+- [What I Now Pause Before Accepting From AI](https://dev.to/jamespatterson25/what-i-now-pause-before-accepting-from-ai-3687)
+- [Java Features::](https://dev.to/naga_arjun_1347cf386667c7/java-features-1lpd)
+- [I Didn’t Notice AI Setting My Priorities Until Too Late](https://dev.to/jamespatterson25/i-didnt-notice-ai-setting-my-priorities-until-too-late-55a1)
+- [When “Clean Architecture” Isn’t So Clean: Rethinking Validation in the Domain](https://dev.to/sympol/when-clean-architecture-isnt-so-clean-rethinking-validation-in-the-domain-49on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
