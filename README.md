@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [@sandagent/sdk — Run Claude in a Sandbox with Vercel AI SDK Streams](https://dev.to/shue_zheng_a1d2e9cc33f6fd/sandagentsdk-run-claude-in-a-sandbox-with-vercel-ai-sdk-streams-1ed3)
-- [Why Folder Structure Matters During Development &lpar;With `app/` Directory Example&rpar;](https://dev.to/hamidrazadev/why-folder-structure-matters-during-development-with-app-directory-example-4ldb)
-- [Java em Containers: Estratégias Modernas para Build](https://dev.to/denisarruda/java-em-containers-estrategias-modernas-para-build-1bpa)
-- [Ghibli moment for 3D Printing](https://dev.to/ankk98/ghibli-moment-for-3d-printing-1lh1)
-- [AI-Powered Data Retrieval: A Smart Solution or Hidden Cost Trap?](https://dev.to/psgtechnautsnl/ai-powered-data-retrieval-a-smart-solution-or-hidden-cost-trap-532p)
+- [How to Start a Forex Brokerage Firm](https://dev.to/devexperts/how-to-start-a-forex-brokerage-firm-3lm9)
+- [Designing Systems That Can Change &lpar;Before They Scale&rpar;](https://dev.to/farzandev13/designing-systems-that-can-change-before-they-scale-154g)
+- [Astro in 2026: Why It&#39;s Beating Next.js for Content Sites &lpar;And What Cloudflare&#39;s Acquisition Means&rpar;](https://dev.to/polliog/astro-in-2026-why-its-beating-nextjs-for-content-sites-and-what-cloudflares-acquisition-means-6kl)
+- [Linux Learning Journey – Day 17: Advanced Networking &amp; Diagnostic Commands 🔍🌐](https://dev.to/avinashwagh/linux-learning-journey-day-17-advanced-networking-diagnostic-commands-3p06)
+- [The Hard Parts of Software Localization](https://dev.to/nadiakacem/the-hard-parts-of-software-localization-50ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
