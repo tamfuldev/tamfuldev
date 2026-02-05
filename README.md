@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging and Stopping Infinite Render Loops in React](https://dev.to/ravgeetdhillon/debugging-and-stopping-infinite-render-loops-in-react-fm9)
-- [Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works](https://dev.to/blogz7/shipping-a-location-based-app-in-nyc-subway-dead-zones-urban-canyons-and-what-actually-works-2mb7)
-- [Currying in JavaScript](https://dev.to/pratik098/currying-in-javascript-jhd)
-- [Why Automated Image Cleanup Breaks Resolution &lpar;And the &quot;Clean &amp; Clarify&quot; Workflow&rpar;](https://dev.to/sofiabennett84/why-automated-image-cleanup-breaks-resolution-and-the-clean-clarify-workflow-4d1h)
-- [Reducing LLM API Costs by 43%: A Technical Deep-Dive into Intelligent Prompt Routing](https://dev.to/dwelvin_morgan_38be4ff3ba/reducing-llm-api-costs-by-43-a-technical-deep-dive-into-intelligent-prompt-routing-17o8)
+- [@sandagent/sdk — Run Claude in a Sandbox with Vercel AI SDK Streams](https://dev.to/shue_zheng_a1d2e9cc33f6fd/sandagentsdk-run-claude-in-a-sandbox-with-vercel-ai-sdk-streams-1ed3)
+- [Why Folder Structure Matters During Development &lpar;With `app/` Directory Example&rpar;](https://dev.to/hamidrazadev/why-folder-structure-matters-during-development-with-app-directory-example-4ldb)
+- [Java em Containers: Estratégias Modernas para Build](https://dev.to/denisarruda/java-em-containers-estrategias-modernas-para-build-1bpa)
+- [Ghibli moment for 3D Printing](https://dev.to/ankk98/ghibli-moment-for-3d-printing-1lh1)
+- [AI-Powered Data Retrieval: A Smart Solution or Hidden Cost Trap?](https://dev.to/psgtechnautsnl/ai-powered-data-retrieval-a-smart-solution-or-hidden-cost-trap-532p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
