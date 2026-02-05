@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When NOT to Use `@EnvironmentObject` in SwiftUI](https://dev.to/arshtechpro/when-not-to-use-environmentobject-in-swiftui-56l0)
-- [AWS Zero to Hero: Learn AWS with Practical, Real-World Examples](https://dev.to/awsandevops/aws-zero-to-hero-learn-aws-with-practical-real-world-examples-158h)
-- [Control/Lopping Statement : For loop and While loop](https://dev.to/nanthini_ammu_ac02ad32802/controllopping-statement-for-loop-and-while-loop-9e1)
-- [Build a Real-World CI/CD Pipeline for Node.js using Docker, GitHub Actions, and AWS EC2](https://dev.to/awsandevops/build-a-real-world-cicd-pipeline-for-nodejs-using-docker-github-actions-and-aws-ec2-1j9a)
-- [Why Multi-Agent Deployment Might Slow Down Your Redshift DDL Deployments](https://dev.to/hantedyou_0106/why-multi-agent-deployment-might-slow-down-your-redshift-ddl-deployments-hkp)
+- [Pare de Brincar com LLMs Locais: Leve a IAG Open Source para a Produção na Magalu Cloud](https://dev.to/magalucloud/pare-de-brincar-com-llms-locais-leve-a-iag-open-source-para-a-producao-na-magalu-cloud-4p6c)
+- [n8n AI Agent vs LLM Chain: When to Use LangChain Code?](https://dev.to/ciphernutz/n8n-ai-agent-vs-llm-chain-when-to-use-langchain-code-48h4)
+- [How I Built a Claude Code Skill That Scaffolds Complete Arbitrum dApps](https://dev.to/bengreenberg/how-i-built-a-claude-code-skill-that-scaffolds-complete-arbitrum-dapps-2njl)
+- [SEO Is a Marathon: How AI Agents Can Help You Stay the Course](https://dev.to/stikhonchuk/seo-is-a-marathon-how-ai-agents-can-help-you-stay-the-course-3i2d)
+- [87% Compromised in 4 Hours: The Memory Poisoning Stat That Should Terrify AI Developers](https://dev.to/mkdelta221/87-compromised-in-4-hours-the-memory-poisoning-stat-that-should-terrify-ai-developers-58oc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
