@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a cloud media server because I couldn’t tell my friends to buy a NAS](https://dev.to/overflow3933/i-built-a-cloud-media-server-because-i-couldnt-tell-my-friends-to-buy-a-nas-1mjm)
-- [What I Now Pause Before Accepting From AI](https://dev.to/jamespatterson25/what-i-now-pause-before-accepting-from-ai-3687)
-- [Java Features::](https://dev.to/naga_arjun_1347cf386667c7/java-features-1lpd)
-- [I Didn’t Notice AI Setting My Priorities Until Too Late](https://dev.to/jamespatterson25/i-didnt-notice-ai-setting-my-priorities-until-too-late-55a1)
-- [When “Clean Architecture” Isn’t So Clean: Rethinking Validation in the Domain](https://dev.to/sympol/when-clean-architecture-isnt-so-clean-rethinking-validation-in-the-domain-49on)
+- [The Guardrails Coding Agents Needs.](https://dev.to/stefanve/the-guardrails-coding-agents-needs-3f0b)
+- [Two &quot;Medium&quot; Findings That Chain Into Full Infrastructure Compromise](https://dev.to/praetorian_guard/two-medium-findings-that-chain-into-full-infrastructure-compromise-2amg)
+- [Building a Simple REST API with Express.js — The Right Way](https://dev.to/kafeel-ahmad/building-a-simple-rest-api-with-expressjs-the-right-way-5809)
+- [Detecting DOM Injections at Runtime: Why Static Defenses Fail](https://dev.to/juicyscore/detecting-dom-injections-at-runtime-why-static-defenses-fail-3g3m)
+- [🎫Beginner-Friendly Guide &#39;Transformed Array&#39; - Problem 3379 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-transformed-array-problem-3379-c-python-javascript-1na1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
