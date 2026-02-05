@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Guardrails Coding Agents Needs.](https://dev.to/stefanve/the-guardrails-coding-agents-needs-3f0b)
-- [Two &quot;Medium&quot; Findings That Chain Into Full Infrastructure Compromise](https://dev.to/praetorian_guard/two-medium-findings-that-chain-into-full-infrastructure-compromise-2amg)
-- [Building a Simple REST API with Express.js — The Right Way](https://dev.to/kafeel-ahmad/building-a-simple-rest-api-with-expressjs-the-right-way-5809)
-- [Detecting DOM Injections at Runtime: Why Static Defenses Fail](https://dev.to/juicyscore/detecting-dom-injections-at-runtime-why-static-defenses-fail-3g3m)
-- [🎫Beginner-Friendly Guide &#39;Transformed Array&#39; - Problem 3379 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-transformed-array-problem-3379-c-python-javascript-1na1)
+- [As AI Sports Coaches continue to revolutionize the world of](https://dev.to/drcarlosruizviquez/as-ai-sports-coaches-continue-to-revolutionize-the-world-of-54ej)
+- [Getting Started with Laravel: A Complete Beginner&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/getting-started-with-laravel-a-complete-beginners-guide-2iok)
+- [The &lpar;In&rpar;visible Shield: Inside Arpad Kish’s C++ Implementation of Nightshade for GreenEyes.AI](https://dev.to/rpi1337/the-invisible-shield-inside-arpad-kishs-c-implementation-of-nightshade-for-greeneyesai-58ag)
+- [My Money Felt Easier When I Lowered the Bar](https://dev.to/luketaylor25/my-money-felt-easier-when-i-lowered-the-bar-335m)
+- [Linux Health Sentinel Phase 2: From Metrics to Meanings with Grafana Loki](https://dev.to/jaywon/linux-health-sentinel-phase-2-from-metrics-to-meanings-with-grafana-loki-407d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
