@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel &amp; Storyblok: Enabling the Real-Time Visual Editor](https://dev.to/robertobutti/laravel-storyblok-enabling-the-real-time-visual-editor-2e0g)
-- [📅 HyperDrift Content Roadmap Coming up on hyperd...](https://dev.to/hyperdrift/hyperdrift-content-roadmapcoming-up-on-hyperd-451b)
-- [🚀 Introducing HyperDrift A space for rapid exper...](https://dev.to/hyperdrift/introducing-hyperdrifta-space-for-rapid-exper-4c4b)
-- [The Art of the Negative Prompt &lpar;and its Textual Equivalent&rpar;: Defining What You Don&#39;t Want as Critically as What You Do](https://dev.to/velocityai/the-art-of-the-negative-prompt-and-its-textual-equivalent-defining-what-you-dont-want-as-1m2h)
-- [&quot;key Cloud Computing Concepts Every Beginner Should Know&quot;](https://dev.to/nnamdi_nmarah_99864892d19/key-cloud-computing-concepts-every-beginner-should-know-170l)
+- [SendGate — self-hosted open-source alternative to ZeroBounce / MillionVerifier](https://dev.to/igorfilippov3/sendgate-self-hosted-open-source-alternative-to-zerobounce-millionverifier-340n)
+- [Implementing gRPC.](https://dev.to/gokul_gk/implementing-grpc-4llc)
+- [Binary Search Trees: Why They’re Great in Memory but Terrible on Disk](https://dev.to/quame_jnr1/binary-search-trees-why-theyre-great-in-memory-but-terrible-on-disk-1fjb)
+- [Linux Kernel Deep Dive: Zombie Processes and Modern Process Management](https://dev.to/kanywst/linux-kernel-deep-dive-zombie-processes-and-modern-process-management-1p1g)
+- [Stop Leaking API Keys in your AI Agent Logs: A Go Sidecar Approach](https://dev.to/aragossa/stop-leaking-api-keys-in-your-ai-agent-logs-a-go-sidecar-approach-d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
