@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Postman Ends Free Team Plans in March 2026. Here Is The Free Alternative I Switched To](https://dev.to/auden/postman-ends-free-team-plans-in-march-2026-here-is-the-free-alternative-i-switched-to-118p)
-- [Visualizing eBay Competitor Pricing: From Raw JSONL to Price Trend Dashboard](https://dev.to/sommic/visualizing-ebay-competitor-pricing-from-raw-jsonl-to-price-trend-dashboard-42d9)
-- [I Implemented Every Sorting Algorithm in Python — And Python&#39;s Built-in Sort Crushed Them All](https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25)
-- [Firestore vs Realtime Database: Which Is Best and Why?](https://dev.to/iamsaadmehmood/firestore-vs-realtime-database-which-is-best-and-why-1h2c)
-- [Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works](https://dev.to/zain_bhhh_a724a3531cee8c5/shipping-a-location-based-app-in-nycsubway-dead-zones-urban-canyonsand-what-actually-works-3ajh)
+- [The Future of Web Hosting: Emerging AI Trends You Can’t Ignore](https://dev.to/serveravatar/the-future-of-web-hosting-emerging-ai-trends-you-cant-ignore-gn7)
+- [Stop Writing Manual Validation: Pydantic + FastAPI](https://dev.to/naved_shaikh/stop-writing-manual-validation-pydantic-fastapi-2296)
+- [Postman Killed Free Team Collaboration — Here Are the Best Postman Alternatives](https://dev.to/therealmrmumba/postman-just-killed-the-free-plan-for-teams-here-are-real-alternatives-developers-are-using-lg7)
+- [Part 1 | A Scheduler Is More Than Just a “Timer”](https://dev.to/chen_debra_3060b21d12b1b0/part-1-a-scheduler-is-more-than-just-a-timer-lk8)
+- [Bridging the Gap: A Deep Dive into the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/razvan_dim/bridging-the-gap-a-deep-dive-into-the-model-context-protocol-mcp-4e0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
