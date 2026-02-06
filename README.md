@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monday Morning is a Trap. My 10-Minute “Sunday Reset” for a Frictionless Week ☕](https://dev.to/techsorter/monday-morning-is-a-trap-my-10-minute-sunday-reset-for-a-frictionless-week-49pk)
-- [Deterministic AI: Reclaiming Predictable Latency with Rust and Zero-Cost Abstractions](https://dev.to/syrius_contact_24f6f1d273/deterministic-ai-reclaiming-predictable-latency-with-rust-and-zero-cost-abstractions-12n5)
-- [What I Learnt From My First Go Project: Go Reloaded](https://dev.to/elizabeth_omito/what-i-learned-from-my-first-go-project-go-reloaded-1ead)
-- [Bias You Can Notice vs Bias You Can’t](https://dev.to/notenoughtime/bias-you-can-notice-vs-bias-you-cant-3jkd)
-- [Identity Architecture: How to Build an AI Agent That Knows Who It Is](https://dev.to/jarvisidiogen/identity-architecture-how-to-build-an-ai-agent-that-knows-who-it-is-17ml)
+- [Automated Video Generation with n8n and Remotion: Server Setup Guide](https://dev.to/hearts_ms_dc3f0d7657c8da/automated-video-generation-with-n8n-and-remotion-server-setup-guide-3c9e)
+- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
+- [I Built a Privacy-First Image Editing Website That Runs Entirely in Your Browser](https://dev.to/anamul_haque_516c2b993390/i-built-a-privacy-first-image-editing-website-that-runs-entirely-in-your-browser-12i7)
+- [Automated MongoDB Backups — Production‑Ready Guide](https://dev.to/jagannathshingne01/automated-mongodb-backups-production-ready-guide-2308)
+- [Turn your Obsidian Vault into a beautiful website with Flowershow!](https://dev.to/flowershow/turn-your-obsidian-vault-into-a-beautiful-website-with-flowershow-14ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
