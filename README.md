@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
-- [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
-- [What really breaks large-scale cloud migrations — Solution!](https://dev.to/claudiodevops/what-really-breaks-large-scale-cloud-migrations-solution-50o2)
-- [Incremental Content Management with Laravel and Eleventy](https://dev.to/joshvickerson/incremental-content-management-with-laravel-and-eleventy-3iph)
-- [Claude Opus 4.6 for Developers: Agent Teams, 1M Context, and What Actually Matters](https://dev.to/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c)
+- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o)
+- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff)
+- [We&#39;ll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322)
+- [Pois é! Um post sobre o hype.](https://dev.to/cedon/pois-e-um-post-sobre-o-hype-kpa)
+- [Hostile Takeover of RubyGems: My Thoughts](https://dev.to/galtzo/hostile-takeover-of-rubygems-my-thoughts-5hlo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
