@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An AI Employee&#39;s First Week: 9 Days in Numbers](https://dev.to/mjmuin/an-ai-employees-first-week-9-days-in-numbers-f56)
-- [HTTP Explained: How the Web Communicates Behind the Scenes](https://dev.to/devbigeazi1/http-explained-how-the-web-communicates-behind-the-scenes-n7d)
-- [How I Built an AI Barista using Square, Supabase, and ElevenLabs](https://dev.to/brewhubphl/how-i-built-an-ai-barista-using-square-supabase-and-elevenlabs-3hbb)
-- [Setting Up Kiro for Your AI-Native SDLC](https://dev.to/dvddpl/setting-up-kiro-for-your-ai-native-sdlc-578c)
-- [How to Build Context-Aware Chatbots with Memory using Mem0](https://dev.to/mem0/how-to-build-context-aware-chatbots-with-memory-using-mem0-io)
+- [Monday Morning is a Trap. My 10-Minute “Sunday Reset” for a Frictionless Week ☕](https://dev.to/techsorter/monday-morning-is-a-trap-my-10-minute-sunday-reset-for-a-frictionless-week-49pk)
+- [Deterministic AI: Reclaiming Predictable Latency with Rust and Zero-Cost Abstractions](https://dev.to/syrius_contact_24f6f1d273/deterministic-ai-reclaiming-predictable-latency-with-rust-and-zero-cost-abstractions-12n5)
+- [What I Learnt From My First Go Project: Go Reloaded](https://dev.to/elizabeth_omito/what-i-learned-from-my-first-go-project-go-reloaded-1ead)
+- [Bias You Can Notice vs Bias You Can’t](https://dev.to/notenoughtime/bias-you-can-notice-vs-bias-you-cant-3jkd)
+- [Identity Architecture: How to Build an AI Agent That Knows Who It Is](https://dev.to/jarvisidiogen/identity-architecture-how-to-build-an-ai-agent-that-knows-who-it-is-17ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
