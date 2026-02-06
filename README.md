@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Phantom Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en)
-- [🗂️ Designing a Scalable Category System for an E-Commerce App](https://dev.to/ayon_ssp/designing-a-scalable-category-system-for-an-e-commerce-app-4hkj)
-- [How to Connect CopilotKit to a Python Backend Using Direct-to-LLM &lpar;FastAPI Guide&rpar;](https://dev.to/kailasvs_94/how-to-connect-copilotkit-to-a-python-backend-using-direct-to-llm-fastapi-guide-5ben)
-- [Jeff Su: The 5 AI Tools You Need After ChatGPT &lpar;that do real work&rpar;](https://dev.to/future_ai/jeff-su-the-5-ai-tools-you-need-after-chatgpt-that-do-real-work-1l67)
-- [6 Workato Alternatives to Consider in 2026 ✅🚀](https://dev.to/composiodev/6-workato-alternatives-to-consider-in-2026-33bg)
+- [Docker Compose for AI Agents: From Local Prototype to Production in One Workflow](https://dev.to/jasdeepsinghbhalla/docker-compose-for-ai-agents-from-local-prototype-to-production-in-one-workflow-3a4m)
+- [Making Your Website Talk &lpar;Without Scaring Your Users&rpar;](https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299)
+- [Day 5: The Guidance arrives... Finally!](https://dev.to/geniusmind9999/day-5-the-guidance-arrives-finally-2bbf)
+- [The Illusion of My Own Efficiency: How Claude Exposed My Arrogance and Lack of Planning at Night](https://dev.to/sho7650/the-illusion-of-my-own-efficiency-how-claude-exposed-my-arrogance-and-lack-of-planning-at-night-43lg)
+- [Stop High-Traffic App Failures: The Essential Guide to Load Management](https://dev.to/sannidhya_sharma/stop-high-traffic-app-failures-the-essential-guide-to-load-management-4cle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
