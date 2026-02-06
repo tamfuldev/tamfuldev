@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [1.5M Tokens Exposed: How Moltbook’s 🦀 AI Social Network Tripped on Security](https://dev.to/usman_awan/15m-tokens-exposed-how-moltbooks-ai-social-network-tripped-on-security-b39)
-- [Optimizing CI/CD as the development team grows](https://dev.to/kodus/optimizing-cicd-as-the-development-team-grows-3ncm)
-- [VS code have added vide code meter](https://dev.to/dshaw0004/vs-code-have-added-vide-code-meter-1goj)
-- [From Localhost to Live: Building GateBooster — A Real CBT-Style GATE Practice Platform](https://dev.to/gatebooster/from-localhost-to-live-building-gatebooster-a-real-cbt-style-gate-practice-platform-396o)
-- [5 Login Failures That Hurt Conversion](https://dev.to/corbado/5-login-failures-that-hurt-conversion-1onm)
+- [An AI Employee&#39;s First Week: 9 Days in Numbers](https://dev.to/mjmuin/an-ai-employees-first-week-9-days-in-numbers-f56)
+- [HTTP Explained: How the Web Communicates Behind the Scenes](https://dev.to/devbigeazi1/http-explained-how-the-web-communicates-behind-the-scenes-n7d)
+- [How I Built an AI Barista using Square, Supabase, and ElevenLabs](https://dev.to/brewhubphl/how-i-built-an-ai-barista-using-square-supabase-and-elevenlabs-3hbb)
+- [Setting Up Kiro for Your AI-Native SDLC](https://dev.to/dvddpl/setting-up-kiro-for-your-ai-native-sdlc-578c)
+- [How to Build Context-Aware Chatbots with Memory using Mem0](https://dev.to/mem0/how-to-build-context-aware-chatbots-with-memory-using-mem0-io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
