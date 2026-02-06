@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection in ASP.NET Core Why it exists? and what problem it actually solves?](https://dev.to/sahith_kumar_singari/dependency-injection-in-aspnet-core-why-it-exists-and-what-problem-it-actually-solves-5gc0)
-- [What if AI takes over? What&#39;s left for us as coders?](https://dev.to/canro91/what-if-ai-takes-over-whats-left-for-us-as-coders-4epb)
-- [Custom Healthcare CRM Software Development: Key Features and Benefits](https://dev.to/yuliyamelnik/custom-healthcare-crm-software-development-key-features-and-benefits-18n6)
-- [AI Is Stress-Testing Software Engineering as a Profession](https://dev.to/shrsv/ai-is-stress-testing-software-engineering-as-a-profession-21b6)
-- [Trigger.new vs Trigger.old — Understanding Apex Triggers the Right Way](https://dev.to/rubasri_srikanthan/triggernew-vs-triggerold-understanding-apex-triggers-the-right-way-58b8)
+- [How SVG Is Transforming Sewing Pattern Design](https://dev.to/sivakumarireddy/how-svg-is-transforming-sewing-pattern-design-2c23)
+- [5 skills you need to develop as a recent Computer Science Graduate](https://dev.to/prodevel/5-skills-you-need-to-develop-as-a-recent-computer-science-graduate-3om1)
+- [I Built a Free OG Image API - Here&#39;s How It Works](https://dev.to/abhishek_kundalia/i-built-a-free-og-image-api-heres-how-it-works-49cl)
+- [Implementing a JSON Schema Validator from Scratch - Week 3](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-3-1oa9)
+- [Building Intelligent PHP Applications: Best Practices for the Symfony AI Agent Component](https://dev.to/mattleads/building-intelligent-php-applications-best-practices-for-the-symfony-ai-agent-component-3b76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
