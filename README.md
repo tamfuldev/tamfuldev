@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Determine High Performing And / Or Scalable Storage Solutions](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-storage-solutions-4757)
-- [Build Buddy - AI PC Building Assistant Powered by Algolia Agent Studio](https://dev.to/venkattraining/build-buddy-ai-pc-building-assistant-powered-by-algolia-agent-studio-52m4)
-- [Mastering Efficiency: Best Practices for Embracing the DRY Principle](https://dev.to/vjnvisakh/mastering-efficiency-best-practices-for-embracing-the-dry-principle-hh1)
-- [When Enterprises Vibe Code On A Grand Scale and Its a Rare W!](https://dev.to/theonemohitsharma/when-enterprises-vibe-code-on-a-grand-scale-and-its-a-rare-w-4gjo)
-- [What is Potpie.ai and why it matters for developers](https://dev.to/harshal_rembhotkar/what-is-potpieai-and-why-it-matters-for-developers-199j)
+- [1.5M Tokens Exposed: How Moltbook’s 🦀 AI Social Network Tripped on Security](https://dev.to/usman_awan/15m-tokens-exposed-how-moltbooks-ai-social-network-tripped-on-security-b39)
+- [Optimizing CI/CD as the development team grows](https://dev.to/kodus/optimizing-cicd-as-the-development-team-grows-3ncm)
+- [VS code have added vide code meter](https://dev.to/dshaw0004/vs-code-have-added-vide-code-meter-1goj)
+- [From Localhost to Live: Building GateBooster — A Real CBT-Style GATE Practice Platform](https://dev.to/gatebooster/from-localhost-to-live-building-gatebooster-a-real-cbt-style-gate-practice-platform-396o)
+- [5 Login Failures That Hurt Conversion](https://dev.to/corbado/5-login-failures-that-hurt-conversion-1onm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
