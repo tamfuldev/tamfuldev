@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o)
-- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff)
-- [We&#39;ll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322)
-- [Pois é! Um post sobre o hype.](https://dev.to/cedon/pois-e-um-post-sobre-o-hype-kpa)
-- [Hostile Takeover of RubyGems: My Thoughts](https://dev.to/galtzo/hostile-takeover-of-rubygems-my-thoughts-5hlo)
+- [I shipped 706 commits in 5 days with Taskwarrior + Claude Code](https://dev.to/birdmanmandbir/i-shipped-706-commits-in-5-days-with-taskwarrior-claude-code-3b81)
+- [From DevOps Learner to Your Next Freelancer 🚀](https://dev.to/yash_sonawane25/from-devops-learner-to-your-next-freelancer-k7f)
+- [MCPSDK vs Smithery](https://dev.to/seey_dev/mcpsdk-vs-smithery-5h85)
+- [MCPSDK vs Official MCP SDK](https://dev.to/seey_dev/mcpsdk-vs-official-mcp-sdk-m1n)
+- [A 10 developer workflow is not about writing code ten times faster.
+
+It’s about: making better decisions earlier, automating execution safely, preserving intent, and designing for reversibility and trust.](https://dev.to/jaideepparashar/a-10x-developer-workflow-is-not-about-writing-code-ten-times-faster-its-about-making-better-3c2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
