@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How SVG Is Transforming Sewing Pattern Design](https://dev.to/sivakumarireddy/how-svg-is-transforming-sewing-pattern-design-2c23)
-- [5 skills you need to develop as a recent Computer Science Graduate](https://dev.to/prodevel/5-skills-you-need-to-develop-as-a-recent-computer-science-graduate-3om1)
-- [I Built a Free OG Image API - Here&#39;s How It Works](https://dev.to/abhishek_kundalia/i-built-a-free-og-image-api-heres-how-it-works-49cl)
-- [Implementing a JSON Schema Validator from Scratch - Week 3](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-3-1oa9)
-- [Building Intelligent PHP Applications: Best Practices for the Symfony AI Agent Component](https://dev.to/mattleads/building-intelligent-php-applications-best-practices-for-the-symfony-ai-agent-component-3b76)
+- [The Science of LLM Evaluation: Beyond Accuracy to True Intelligence](https://dev.to/ruchika_bhat_876f8530fa3b/the-science-of-llm-evaluation-beyond-accuracy-to-true-intelligence-1hb3)
+- [Intersection of Two Linked Lists — My First Working Approach](https://dev.to/nithya_dharshiniofficial/intersection-of-two-linked-lists-my-first-working-approach-4p60)
+- [How Statistics Can Be Used to Drive Business Decisions](https://dev.to/maureenmuthonihue/how-statistics-can-be-used-to-drive-business-decisions-631)
+- [Why ACF Relationship Fields Struggle at Scale &lpar;And What to Use Instead&rpar;](https://dev.to/chetan_upare_fe7108db049e/why-acf-relationship-fields-struggle-at-scale-and-what-to-use-instead-2p81)
+- [The Missing Infrastructure for AI Agents: Unified Context](https://dev.to/acontext_4dc5ced58dc515fd/the-missing-infrastructure-for-ai-agents-unified-context-5905)
 <!-- BLOG-POST-LIST:END -->
 
 ---
