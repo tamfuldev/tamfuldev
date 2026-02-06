@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Burnout is just &quot;Thermal Throttling&quot;: A Debugging Guide for Engineers](https://dev.to/archietechofficial/burnout-is-just-thermal-throttling-a-debugging-guide-for-engineers-13df)
-- [I used to hate Laravel. Now it’s my 2026 primary stack](https://dev.to/espfra95/i-used-to-hate-laravel-now-its-my-2026-primary-stack-47ff)
-- [This Week In React #267 : Bun, Next-Intl, Grab, Aria | Worklets, Teleport, Voltra, AI SDK, Screens | State of JS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-267-bun-next-intl-grab-aria-worklets-teleport-voltra-ai-sdk-screens-23gb)
-- [I Made My Claude AI Agents Invent Their Own Language. It Cut Token Costs by 63%.](https://dev.to/suede/i-made-my-claude-ai-agents-invent-their-own-language-it-cut-token-costs-by-63-1lag)
-- [UI ‘Isms’ Explained by Me Poking Buttons](https://dev.to/ehsanpo/ui-isms-explained-by-me-poking-buttons-5db0)
+- [Determine High Performing And / Or Scalable Storage Solutions](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-storage-solutions-4757)
+- [Build Buddy - AI PC Building Assistant Powered by Algolia Agent Studio](https://dev.to/venkattraining/build-buddy-ai-pc-building-assistant-powered-by-algolia-agent-studio-52m4)
+- [Mastering Efficiency: Best Practices for Embracing the DRY Principle](https://dev.to/vjnvisakh/mastering-efficiency-best-practices-for-embracing-the-dry-principle-hh1)
+- [When Enterprises Vibe Code On A Grand Scale and Its a Rare W!](https://dev.to/theonemohitsharma/when-enterprises-vibe-code-on-a-grand-scale-and-its-a-rare-w-4gjo)
+- [What is Potpie.ai and why it matters for developers](https://dev.to/harshal_rembhotkar/what-is-potpieai-and-why-it-matters-for-developers-199j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
