@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Science of LLM Evaluation: Beyond Accuracy to True Intelligence](https://dev.to/ruchika_bhat_876f8530fa3b/the-science-of-llm-evaluation-beyond-accuracy-to-true-intelligence-1hb3)
-- [Intersection of Two Linked Lists — My First Working Approach](https://dev.to/nithya_dharshiniofficial/intersection-of-two-linked-lists-my-first-working-approach-4p60)
-- [How Statistics Can Be Used to Drive Business Decisions](https://dev.to/maureenmuthonihue/how-statistics-can-be-used-to-drive-business-decisions-631)
-- [Why ACF Relationship Fields Struggle at Scale &lpar;And What to Use Instead&rpar;](https://dev.to/chetan_upare_fe7108db049e/why-acf-relationship-fields-struggle-at-scale-and-what-to-use-instead-2p81)
-- [The Missing Infrastructure for AI Agents: Unified Context](https://dev.to/acontext_4dc5ced58dc515fd/the-missing-infrastructure-for-ai-agents-unified-context-5905)
+- [Quest: Epic CLI tool &lpar;Learn Code by Actually Building&rpar;](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0)
+- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3)
+- [Class, Object, Property and Methods in C#](https://dev.to/allcoderthings/class-object-property-and-methods-in-c-l66)
+- [Basic Logic Behind AI – Simple Explanation 🤖](https://dev.to/smitranpariya_29b776/basic-logic-behind-ai-simple-explanation-1abl)
+- [Playwright BrowserContext: What It Is, Why It Matters, and How to Configure It](https://dev.to/johnnyv5g/playwright-browsercontext-what-it-is-why-it-matters-and-how-to-configure-it-3gi8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
