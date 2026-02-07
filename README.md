@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Data Lake Runs on MongoDB and PostgreSQL and I’m Not Sorry](https://dev.to/srsandrade/my-data-lake-runs-on-mongodb-and-postgresql-and-im-not-sorry-1g2j)
-- [IAM Security Audit](https://dev.to/aws-builders/iam-security-audit-3lp1)
-- [🧵 Why Solana tx_hash &amp; address take more storage than EVM](https://dev.to/decoder_man/why-solana-txhash-address-take-more-storage-than-evm-5302)
-- [Git is Not Magic- Part 2: Where Are You in the Timeline?](https://dev.to/hunt092/git-is-not-magic-part-2-where-are-you-in-the-timeline-4ifn)
-- [Like LEGO? Love Python! 🧱🐍](https://dev.to/the-software-s-journey/like-lego-love-python-2104)
+- [Z.AI LARAVEL 12 SDK](https://dev.to/0xmergen/zai-laravel-12-sdk-2g3n)
+- [Beyond OOP: Rethinking What a Programming Language Should Guarantee](https://dev.to/programmerkr/beyond-oop-rethinking-what-a-programming-language-should-guarantee-36i4)
+- [Day 1 – 100 Days of Coding Challenge | Commitment Before Code](https://dev.to/aiwithragini/day-1-100-days-of-coding-challenge-commitment-before-code-4ao4)
+- [What is the diff between `Date` vs `new Date&lpar;&rpar;`](https://dev.to/kelvynthai/what-is-the-diff-between-date-vs-new-date-1ep0)
+- [7 Git Commands That Make You Look Like a Wizard](https://dev.to/kirill_tolmachev/7-git-commands-that-make-you-look-like-a-wizard-30h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
