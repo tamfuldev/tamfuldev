@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Measure Passkey Adoption: Funnels, Activation, and Device Insights](https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9)
-- [I stopped trying to make HTML paginate for printing &lpar;and it finally worked&rpar;](https://dev.to/victoduss/i-stopped-trying-to-make-html-paginate-for-printing-and-it-finally-worked-5flp)
-- [Your AI Coding Agents Are Slow Because Your Tools Talk Too Much](https://dev.to/teppana88/your-ai-coding-agents-are-slow-because-your-tools-talk-too-much-24h6)
-- [I stopped building apps with Claude Code. Now, Claude Code IS the app.](https://dev.to/chadbyte/i-stopped-building-apps-with-claude-code-now-claude-code-is-the-app-h1f)
-- [Automatic versioning for GitHub Actions authors](https://dev.to/jessehouwing/automatic-versioning-for-github-actions-authors-2e19)
+- [How I accidentally start SDD by failing at prompts for six months](https://dev.to/marcosomma/how-i-accidentally-start-sdd-by-failing-at-prompts-for-six-months-477l)
+- [I wrote my first article here @dev.to, sharing my solution for deploying a Laravel app in a limited shared hosting environment without SSH access. I hope someone will find it useful, enjoy it, and leave a comment](https://dev.to/houdaifa360/i-wrote-my-first-article-here-devto-sharing-my-solution-for-deploying-a-laravel-app-in-a-limited-133a)
+- [Deploying Laravel on Shared Hosting &lpar;No SSH Required&rpar;](https://dev.to/houdaifa360/deploying-laravel-on-shared-hosting-no-ssh-required-1kbg)
+- [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
+- [Building an Ultra-Low Latency Live Streaming Server: A Developer&#39;s Guide to OvenMediaEngine](https://dev.to/mayu2008/building-an-ultra-low-latency-live-streaming-server-a-developers-guide-to-ovenmediaengine-jco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
