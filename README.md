@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [snakension - a browser extension for playing snake when you&#39;re offline](https://dev.to/iamovi/snakension-a-browser-extension-for-playing-snake-when-youre-offline-1kfk)
-- [Q - Glossary &lpar;Python&rpar;](https://dev.to/hyperkai/q-glossary-python-3k01)
-- [Demystifying the Cloud: A Guide to the Core Pillars of Modern Infrastructure](https://dev.to/precious_nwafor/demystifying-the-cloud-a-guide-to-the-core-pillars-of-modern-infrastructure-ec1)
-- [Introduction to ARIA](https://dev.to/richardpascoe/introduction-to-aria-1lih)
-- [The Unseen Threat: Securing Network Time Protocol &lpar;NTP&rpar; and the Rise of Time-Sensitive Networking &lpar;TSN&rpar;](https://dev.to/gagreatprogrammer/the-unseen-threat-securing-network-time-protocol-ntp-and-the-rise-of-time-sensitive-networking-5d3a)
+- [Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:](https://dev.to/richardpascoe/quincy-larsons-freecodecamp-updates-are-invaluable-this-week-harvard-cs50-2026-a-free-cs-4ca0)
+- [Switch case](https://dev.to/karthick_m22/switch-case-22f)
+- [A Framework for System Design Interviews](https://dev.to/josephakayesi/a-framework-for-system-design-interviews-gde)
+- [I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer](https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli)
+- [Why Velnora Exists — The Silence Before the Obsession](https://dev.to/mdreal32/why-velnora-exists-the-silence-before-the-obsession-3297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
