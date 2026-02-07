@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I accidentally start SDD by failing at prompts for six months](https://dev.to/marcosomma/how-i-accidentally-start-sdd-by-failing-at-prompts-for-six-months-477l)
-- [I wrote my first article here @dev.to, sharing my solution for deploying a Laravel app in a limited shared hosting environment without SSH access. I hope someone will find it useful, enjoy it, and leave a comment](https://dev.to/houdaifa360/i-wrote-my-first-article-here-devto-sharing-my-solution-for-deploying-a-laravel-app-in-a-limited-133a)
-- [Deploying Laravel on Shared Hosting &lpar;No SSH Required&rpar;](https://dev.to/houdaifa360/deploying-laravel-on-shared-hosting-no-ssh-required-1kbg)
-- [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
-- [Building an Ultra-Low Latency Live Streaming Server: A Developer&#39;s Guide to OvenMediaEngine](https://dev.to/mayu2008/building-an-ultra-low-latency-live-streaming-server-a-developers-guide-to-ovenmediaengine-jco)
+- [My Data Lake Runs on MongoDB and PostgreSQL and I’m Not Sorry](https://dev.to/srsandrade/my-data-lake-runs-on-mongodb-and-postgresql-and-im-not-sorry-1g2j)
+- [IAM Security Audit](https://dev.to/aws-builders/iam-security-audit-3lp1)
+- [🧵 Why Solana tx_hash &amp; address take more storage than EVM](https://dev.to/decoder_man/why-solana-txhash-address-take-more-storage-than-evm-5302)
+- [Git is Not Magic- Part 2: Where Are You in the Timeline?](https://dev.to/hunt092/git-is-not-magic-part-2-where-are-you-in-the-timeline-4ifn)
+- [Like LEGO? Love Python! 🧱🐍](https://dev.to/the-software-s-journey/like-lego-love-python-2104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
