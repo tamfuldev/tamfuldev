@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw](https://dev.to/jb_wagoner_9397749548b10c/your-ai-agent-has-no-armor-a-technical-security-analysis-of-openclaw-86l)
-- [Only For Coders.](https://dev.to/adarsh_dubey_cfa0a06a780e/only-for-coders-233g)
-- [Dr Vignesh Narayan R&#39;s Skin AI Assistant: A Safety-First Dermatology Agent &lpar;Built with React + Algolia&rpar;](https://dev.to/dr_vigneshnarayanr_c4d/dr-vignesh-narayan-rs-skin-ai-assistant-a-safety-first-dermatology-agent-built-with-react--1p87)
-- [Beyond the Chatbox: Engineering Your Prompts with the Trinity Framework](https://dev.to/the_binary_moat/beyond-the-chatbox-engineering-your-prompts-with-the-trinity-framework-1eh6)
-- [How I built an RAG engine for Singapore Laws](https://dev.to/aditya_prasad_c670b9e01c4/how-i-built-an-rag-engine-for-singapore-laws-413b)
+- [🚀 How I’d Learn Go &lpar;Golang&rpar; Fast in 2026 — If I Were Starting Today](https://dev.to/yash_sonawane25/how-id-learn-go-golang-fast-in-2026-if-i-were-starting-today-1pk0)
+- [BoldKit Now Supports Vue 3: 45+ Neubrutalism Components for Vue Developers](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-now-supports-vue-3-45-neubrutalism-components-for-vue-developers-4l1o)
+- [Web APIs That Replace Entire Libraries](https://dev.to/web_dev-usman/web-apis-that-replace-entire-libraries-2ia8)
+- [9.Prevent S3 Bucket Deletion via Terraform](https://dev.to/thukhakyawe_cloud/9prevent-s3-bucket-deletion-via-terraform-1gfc)
+- [8.Sync Data to S3 Bucket with Terraform](https://dev.to/thukhakyawe_cloud/8sync-data-to-s3-bucket-with-terraform-2h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
