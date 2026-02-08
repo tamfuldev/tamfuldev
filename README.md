@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using AllowAnyOrigin&lpar;&rpar;](https://dev.to/shreyans_padmani/stop-using-allowanyorigin-3dpn)
-- [Why 80% of Dev Teams Will Use AI Code Tools by 2025 &lpar;And Why Most Will Be Disappointed&rpar;](https://dev.to/glue_admin_3465093919ac6b/why-80-of-dev-teams-will-use-ai-code-tools-by-2025-and-why-most-will-be-disappointed-3jl2)
-- [I checked the WordPress sites I built years ago. Here&#39;s what I found.](https://dev.to/y1uda/i-checked-the-wordpress-sites-i-built-years-ago-heres-what-i-found-m9k)
-- [What is Anonymous Budget Matching? &lpar;And Why Freelancers Love It&rpar;](https://dev.to/fairpricework/what-is-anonymous-budget-matching-and-why-freelancers-love-it-h0m)
-- [Building a Simple Fidget Spinner Taught Me More Than I Expected](https://dev.to/dinesh_04/building-a-simple-fidget-spinner-taught-me-more-than-i-expected-1da9)
+- [Deep Learning Without Backpropagation](https://dev.to/cheetah100/deep-learning-without-backpropagation-21n6)
+- [How to Give Claude Code Full Project Context](https://dev.to/glue_admin_3465093919ac6b/how-to-give-claude-code-full-project-context-1m34)
+- [Concurrency Design Patterns: From Fundamental Theory to Architecture](https://dev.to/kanywst/concurrency-design-patterns-from-fundamental-theory-to-architecture-35j7)
+- [x402 V2 Security Deep Dive: New Attack Vectors in AI Agent Payments](https://dev.to/mkmkkkkk/x402-v2-security-deep-dive-new-attack-vectors-in-ai-agent-payments-2cp2)
+- [15.Attach IAM Policy for DynamoDB Access Using Terraform](https://dev.to/thukhakyawe_cloud/15attach-iam-policy-for-dynamodb-access-using-terraform-2aek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
