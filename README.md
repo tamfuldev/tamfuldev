@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring Technical Debt: Beyond SonarQube](https://dev.to/glue_admin_3465093919ac6b/measuring-technical-debt-beyond-sonarqube-16hd)
-- [Step by Step Guide to Elasticsearch](https://dev.to/md_monowarulamin200042/step-by-step-guide-to-elasticsearch-24p9)
-- [Building MoniBot: Why We Ditched OpenClaw and Built Our Own Autonomous Agent in 48 Hours](https://dev.to/samuel_chimmy_b5ebdd841e2/building-monibot-why-we-ditched-openclaw-and-built-our-own-autonomous-agent-in-48-hours-1paj)
-- [Build an Accessible Audio Controller](https://dev.to/richardpascoe/build-an-accessible-audio-controller-4me7)
-- [Sector HQ Weekly Digest - February 8, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-8-2026-42k1)
+- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
+- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
+- [A simple load balancer from scratch written in Golang](https://dev.to/realebi/a-simple-load-balancer-from-scratch-written-in-golang-30h6)
+- [I Built an Open-Source AI Assistant with 19 Tools That Actually Controls Your Computer](https://dev.to/jaseph/i-built-an-open-source-ai-assistant-with-19-tools-that-actually-controls-your-computer-38ep)
+- [I built an iOS Simulator toolkit for macOS — here&#39;s what it does](https://dev.to/ealtaca/i-built-an-ios-simulator-toolkit-for-macos-heres-what-it-does-2g36)
 <!-- BLOG-POST-LIST:END -->
 
 ---
