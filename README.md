@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
-- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
-- [A simple load balancer from scratch written in Golang](https://dev.to/realebi/a-simple-load-balancer-from-scratch-written-in-golang-30h6)
-- [I Built an Open-Source AI Assistant with 19 Tools That Actually Controls Your Computer](https://dev.to/jaseph/i-built-an-open-source-ai-assistant-with-19-tools-that-actually-controls-your-computer-38ep)
-- [I built an iOS Simulator toolkit for macOS — here&#39;s what it does](https://dev.to/ealtaca/i-built-an-ios-simulator-toolkit-for-macos-heres-what-it-does-2g36)
+- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
+- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e)
+- [We Searched the Agent Skills Ecosystem for SEO](https://dev.to/theskillsteam/we-searched-the-agent-skills-ecosystem-for-seo-1960)
+- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-3-3ilm)
+- [Almost Ready to Write](https://dev.to/imomaliev/almost-ready-to-write-1lfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
