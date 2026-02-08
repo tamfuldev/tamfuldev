@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fastfood: Approximate Kernel Expansions in Loglinear Time](https://dev.to/paperium/fastfood-approximate-kernel-expansions-in-loglinear-time-5bg4)
-- [The first real AI platform war is about ads &lpar;and that should worry builders&rpar;](https://dev.to/damogallagher/the-first-real-ai-platform-war-is-about-ads-and-that-should-worry-builders-4kdm)
-- [Measuring Model Hallucinations: When AI Invents Facts](https://dev.to/eriperspective/measuring-model-hallucinations-when-ai-invents-facts-3ae7)
-- [What is the DIETClassifier?](https://dev.to/aniket_kuyate_15acc4e6587/what-is-the-dietclassifier-1n4j)
-- [My First Week With OpenClaw: An AI That Actually Runs Your PC](https://dev.to/primaryobjects/my-first-week-with-openclaw-an-ai-that-actually-runs-your-pc-42ih)
+- [리스트 주요 메서드](https://dev.to/koareum/riseuteu-juyo-meseodeu-50f4)
+- [🎮 Building an Animated Hangman Game in Python &lpar;Tkinter&rpar; — Step by Step](https://dev.to/matetechnologie/building-an-animated-hangman-game-in-python-tkinter-step-by-step-1hbg)
+- [React-quiz-app](https://dev.to/lajpatgautam/react-quiz-app-5eag)
+- [What OpenClaw Teaches Us About Personal AI Security](https://dev.to/koustubh/why-your-ai-assistant-should-run-at-home-lessons-from-openclaw-2o1n)
+- [Running an LLM on 6GB RAM — Model Selection for Edge AI](https://dev.to/koustubh/running-an-llm-on-6gb-ram-model-selection-for-edge-ai-3chi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
