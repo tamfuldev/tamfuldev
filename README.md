@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified](https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl)
-- [Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins](https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j)
-- [I Built a YouTube Dislike Viewer with Next.js 16 — Here&#39;s How](https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b)
-- [Copilot vs Cursor vs Cody 2026: AI Coding Compared](https://dev.to/aristoaistack/copilot-vs-cursor-vs-cody-2026-ai-coding-compared-12jh)
-- [How to Host a Website on an Ubuntu VM Using VMware and Nginx and get unstuck if it doesn&#39;t load &lpar;Step-by-Step Guide&rpar;](https://dev.to/alok38/how-to-host-a-website-on-an-ubuntu-vm-using-vmware-and-nginx-step-by-step-guide-21io)
+- [Chauffeur Knowledge in Software Development: When Developers Sound Smart Without Deep Understanding](https://dev.to/korirmoze/chauffeur-knowledge-in-software-development-when-developers-sound-smart-without-deep-understanding-2hkb)
+- [Linux Learning Journey – Day 19: Text Processing &amp; Data Manipulation with grep, awk &amp; sed 📝🔍](https://dev.to/avinashwagh/linux-learning-journey-day-19-text-processing-data-manipulation-with-grep-awk-sed-56jk)
+- [The Solo Founder&#39;s Guide to API Monitoring &lpar;Without Enterprise Pricing&rpar;](https://dev.to/shibley/the-solo-founders-guide-to-api-monitoring-without-enterprise-pricing-1edn)
+- [Getting Started with RBAC in Kubernetes: A Practical Guide](https://dev.to/bkrajendra/getting-started-with-rbac-authorization-in-kubernetes-a-practical-guide-3ln4)
+- [CReact: JSX meta-execution engine v0.3.0](https://dev.to/dcoutinho96/creact-jsx-meta-execution-engine-v030-3g6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
