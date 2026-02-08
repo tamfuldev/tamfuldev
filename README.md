@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every AI agent framework focuses on making agents smarter. None of them ask what happens when agents screw up.](https://dev.to/yaron_torjeman_5288cbab83/every-ai-agent-framework-focuses-on-making-agents-smarter-none-of-them-ask-what-happens-when-1da1)
-- [[Boost]](https://dev.to/beleke_ian/-3i0o)
-- [How to Use ImportKit: Add CSV/Excel Import to Your React App in 10 Minutes](https://dev.to/gthorr/how-to-use-importkit-add-csvexcel-import-to-your-react-app-in-10-minutes-3l1i)
-- [How I Built an AI Product Photography Pipeline with 30+ Models &lpar;Next.js + Express + Replicate/FAL&rpar;](https://dev.to/tylerilunga/how-i-built-an-ai-product-photography-pipeline-with-30-models-nextjs-express-replicatefal-bp8)
-- [HackerStack.dev - 49 Curated AI Tools for Indie Hackers](https://dev.to/mr_anderson_f95ed20920d6a/hackerstackdev-49-curated-ai-tools-for-indie-hackers-569p)
+- [🚀 OLSRT v1.2: A Powerful Runtime for All Programming Languages!](https://dev.to/javadinteger/-olsrt-v12-a-powerful-runtime-for-all-programming-languages-3jbh)
+- [IntentRefiner: AI-Powered Issue Refinement for Faster Support Automation](https://dev.to/sideeqbn/intentrefiner-ai-powered-issue-refinement-for-faster-support-automation-5g38)
+- [I Built a Vercel for Landing Pages — With a CLI and an MCP Server](https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a)
+- [Why Windows Crashes and How To Build Stable PCs](https://dev.to/gw-jeni-systems/why-windows-crashes-and-how-to-build-stable-pcs-4fib)
+- [Skill Seekers v3.0.0: The Universal Data Preprocessor for AI Systems](https://dev.to/yusufkaraaslan/skill-seekers-v300-the-universal-data-preprocessor-for-ai-systems-5fao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
