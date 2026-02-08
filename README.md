@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [리스트 주요 메서드](https://dev.to/koareum/riseuteu-juyo-meseodeu-50f4)
-- [🎮 Building an Animated Hangman Game in Python &lpar;Tkinter&rpar; — Step by Step](https://dev.to/matetechnologie/building-an-animated-hangman-game-in-python-tkinter-step-by-step-1hbg)
-- [React-quiz-app](https://dev.to/lajpatgautam/react-quiz-app-5eag)
-- [What OpenClaw Teaches Us About Personal AI Security](https://dev.to/koustubh/why-your-ai-assistant-should-run-at-home-lessons-from-openclaw-2o1n)
-- [Running an LLM on 6GB RAM — Model Selection for Edge AI](https://dev.to/koustubh/running-an-llm-on-6gb-ram-model-selection-for-edge-ai-3chi)
+- [Determine High-Performing Database Solutions](https://dev.to/aws-builders/determine-high-performing-database-solutions-1iaf)
+- [Lupine.js - The Lightweight Frontend &amp; Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
+- [pdftk is GOAT](https://dev.to/youssefadly237/pdftk-is-goat-3eo1)
+- [3 cool things about the `create-vite` CLI you might not have known](https://dev.to/bhuynhdev/3-cool-things-about-the-create-vite-cli-you-might-not-have-known-13ij)
+- [Wired Django, Nextcloud, Grafana, Loki &amp; Prometheus into a secure observability mesh over Tailnet &lpar;metrics &amp; logs, dashboards&rpar;.](https://dev.to/rahim8050/wired-django-nextcloud-grafana-loki-prometheus-into-a-secure-observability-mesh-over-tailnet-357k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
