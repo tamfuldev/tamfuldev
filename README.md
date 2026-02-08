@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chauffeur Knowledge in Software Development: When Developers Sound Smart Without Deep Understanding](https://dev.to/korirmoze/chauffeur-knowledge-in-software-development-when-developers-sound-smart-without-deep-understanding-2hkb)
-- [Linux Learning Journey – Day 19: Text Processing &amp; Data Manipulation with grep, awk &amp; sed 📝🔍](https://dev.to/avinashwagh/linux-learning-journey-day-19-text-processing-data-manipulation-with-grep-awk-sed-56jk)
-- [The Solo Founder&#39;s Guide to API Monitoring &lpar;Without Enterprise Pricing&rpar;](https://dev.to/shibley/the-solo-founders-guide-to-api-monitoring-without-enterprise-pricing-1edn)
-- [Getting Started with RBAC in Kubernetes: A Practical Guide](https://dev.to/bkrajendra/getting-started-with-rbac-authorization-in-kubernetes-a-practical-guide-3ln4)
-- [CReact: JSX meta-execution engine v0.3.0](https://dev.to/dcoutinho96/creact-jsx-meta-execution-engine-v030-3g6j)
+- [Stop Using AllowAnyOrigin&lpar;&rpar;](https://dev.to/shreyans_padmani/stop-using-allowanyorigin-3dpn)
+- [Why 80% of Dev Teams Will Use AI Code Tools by 2025 &lpar;And Why Most Will Be Disappointed&rpar;](https://dev.to/glue_admin_3465093919ac6b/why-80-of-dev-teams-will-use-ai-code-tools-by-2025-and-why-most-will-be-disappointed-3jl2)
+- [I checked the WordPress sites I built years ago. Here&#39;s what I found.](https://dev.to/y1uda/i-checked-the-wordpress-sites-i-built-years-ago-heres-what-i-found-m9k)
+- [What is Anonymous Budget Matching? &lpar;And Why Freelancers Love It&rpar;](https://dev.to/fairpricework/what-is-anonymous-budget-matching-and-why-freelancers-love-it-h0m)
+- [Building a Simple Fidget Spinner Taught Me More Than I Expected](https://dev.to/dinesh_04/building-a-simple-fidget-spinner-taught-me-more-than-i-expected-1da9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
