@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
-- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e)
-- [We Searched the Agent Skills Ecosystem for SEO](https://dev.to/theskillsteam/we-searched-the-agent-skills-ecosystem-for-seo-1960)
-- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-3-3ilm)
-- [Almost Ready to Write](https://dev.to/imomaliev/almost-ready-to-write-1lfi)
+- [Figma + VS Code MCP servers](https://dev.to/saloniagrawal/figma-vs-code-mcp-servers-29ke)
+- [Actually Static: When WordPress Stops Being the Enemy](https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5)
+- [Function Calling &amp; Tool Schemas](https://dev.to/seahjs/function-calling-tool-schemas-265a)
+- [A Normalized Gaussian Wasserstein Distance for Tiny Object Detection](https://dev.to/paperium/a-normalized-gaussian-wasserstein-distance-for-tiny-object-detection-3egh)
+- [I built a “Steam Workshop” for system architecture + product roadmaps + org blueprints &lpar;runs in your browser&rpar;&quot;](https://dev.to/khanmjk/i-built-a-steam-workshop-for-system-architecture-product-roadmaps-org-blueprints-runs-in-5af9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
