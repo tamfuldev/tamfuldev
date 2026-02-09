@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Friday Effect: Why Fridays Feel Lighter &lpar;and Mondays Don’t Deserve the Hate&rpar;](https://dev.to/alexrodovit/the-friday-effect-why-fridays-feel-lighter-and-mondays-dont-deserve-the-hate-250k)
-- [I Open-Sourced Claude Code Skills for Reddit and DEV.to Automation &lpar;AppleScript + Chrome&rpar;](https://dev.to/haoyang_pang_a9f08cdb0b6c/i-open-sourced-claude-code-skills-for-reddit-and-devto-automation-applescript-chrome-1k56)
-- [I Built an Adaptive AI Feedback Platform with Gemini 3 in a Weekend](https://dev.to/adamp78/i-built-an-adaptive-ai-feedback-platform-with-gemini-3-in-a-weekend-3nee)
-- [I Audited MoltX&#39;s Skill File. It&#39;s an AI Agent Trojan Horse.](https://dev.to/sebayaki/i-audited-moltxs-skill-file-its-an-ai-agent-trojan-horse-539k)
-- [Vite Internals Deep Dive: How Modern Build Tools Actually Work](https://dev.to/munna_thakur_2019444f0351/vite-internals-deep-dive-how-modern-build-tools-actually-work-202n)
+- [Image Classification with Convolutional Neural Networks – Part 1: Why We Need CNNs](https://dev.to/rijultp/image-classification-with-convolutional-neural-networks-part-1-why-we-need-cnns-19k9)
+- [Artificial Intelligence Coding: From Vibe Coding to a Shippable MVP](https://dev.to/sashido/artificial-intelligence-coding-from-vibe-coding-to-a-shippable-mvp-1g75)
+- [Simplifying State Management in Flutter with Command and Result](https://dev.to/cuscuzcomcodigo/simplifying-state-management-in-flutter-with-command-and-result-1j9i)
+- [Forge Stack: A Full Ecosystem for Modern Web Applications](https://dev.to/john_yaghobieh_8f294091f6/forge-stack-a-full-ecosystem-for-modern-web-applications-381a)
+- [An Easy Recap of Supabase Essentials](https://dev.to/rubenoalvarado/an-easy-recap-of-supabase-essentials-f37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
