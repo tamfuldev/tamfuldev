@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Hybrid &lpar;Browser‑First&rpar; File Converter — Fast, Private, and Framework‑Free](https://dev.to/charles_snow_fastly/how-i-built-a-hybrid-browser-first-file-converter-fast-private-and-framework-free-5cd4)
-- [Let’s Get Back to Real Human Thought with dwrite.me](https://dev.to/ketutdana/lets-get-back-to-real-human-thought-with-dwriteme-jmp)
-- [Please check my new article , on my demo project.](https://dev.to/sagar_saini/please-check-my-new-article-on-my-demo-project-1fb7)
-- [Introducing Agent VCR: Record, Replay, and Diff MCP Server Interactions](https://dev.to/pramodvoola/introducing-agent-vcr-record-replay-and-diff-mcp-server-interactions-2np0)
-- [Top Vibe Coding Platforms You Should Try This Year🫵](https://dev.to/dev_kiran/top-vibe-coding-platforms-you-should-try-this-year-92n)
+- [BigQuery Sharing: An Underrated Data Exchange Platform You Should Know](https://dev.to/sijmatz/bigquery-sharing-an-underrated-data-exchange-platform-you-should-know-1dcf)
+- [How I build my virtual fashion stylist app using algolia studio agent](https://dev.to/ezeh_chidinma_bd31710dc88/how-i-build-my-virtual-fashion-stylist-app-using-algolia-studio-agent-jen)
+- [Stay ahead in web development: latest news, tools, and insights #123](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-123-4jkj)
+- [Algolia v5 + Algolia Agent Studio + Next.js 16: Building a Startup Validator](https://dev.to/khi_nguynv_2568b868bc/algolia-v5-algolia-agent-studio-nextjs-16-building-a-startup-validator-2362)
+- [Stop Silent Failures: Using LLMs to Validate Web Scraper Output](https://dev.to/anderecit/stop-silent-failures-using-llms-to-validate-web-scraper-output-24gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
