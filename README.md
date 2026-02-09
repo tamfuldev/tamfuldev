@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Libraries for React Developers in 2026](https://dev.to/puckeditor/top-ai-libraries-for-react-developers-in-2026-nmb)
-- [Build a Checkout Page](https://dev.to/richardpascoe/build-a-checkout-page-43nj)
-- [Junior Developers Should Stop Asking for Help](https://dev.to/kirill_tolmachev/junior-developers-should-stop-asking-for-help-cle)
-- [Vibe Coding in 2026: The $81B Revolution That&#39;s Rewriting How We Build Software](https://dev.to/smeusebot/vibe-coding-in-2026-the-81b-revolution-thats-rewriting-how-we-build-software-40d8)
-- [PostgreSQL indexing explained — 5 index types and when to use each](https://dev.to/piteradyson/postgresql-indexing-explained-5-index-types-and-when-to-use-each-45ae)
+- [[POG-Task-02] From Governance to Execution: POG Task Design and MVP](https://dev.to/enjtorian/pog-task-02-from-governance-to-execution-pog-task-design-and-mvp-4lh8)
+- [Crypto Needs Clarity, Not Another Hype Cycle](https://dev.to/alexnav/crypto-needs-clarity-not-another-hype-cycle-9kh)
+- [How to Turn Messy Data, DAX Headaches, and Ugly Dashboards into Decisions Using Power BI](https://dev.to/jim_kinyua_3f7d191b865bed/how-to-turn-messy-data-dax-headaches-and-ugly-dashboards-into-decisions-using-power-bi-1fgd)
+- [Special Allowance and the 50% Wage Rule in Code on Wages 2019 | Payroll, PF Contribution &amp; Wages Impact](https://dev.to/praans_consultech_7ccd815/special-allowance-and-the-50-wage-rule-in-code-on-wages-2019-payroll-pf-contribution-wages-16b5)
+- [Hello again, here&#39;s a LangChain Ollama helper sheet :&rpar;](https://dev.to/ramoyald/hello-again-heres-a-langchain-ollama-helper-sheet--1h45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
