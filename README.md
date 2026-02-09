@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Image Classification with Convolutional Neural Networks – Part 1: Why We Need CNNs](https://dev.to/rijultp/image-classification-with-convolutional-neural-networks-part-1-why-we-need-cnns-19k9)
-- [Artificial Intelligence Coding: From Vibe Coding to a Shippable MVP](https://dev.to/sashido/artificial-intelligence-coding-from-vibe-coding-to-a-shippable-mvp-1g75)
-- [Simplifying State Management in Flutter with Command and Result](https://dev.to/cuscuzcomcodigo/simplifying-state-management-in-flutter-with-command-and-result-1j9i)
-- [Forge Stack: A Full Ecosystem for Modern Web Applications](https://dev.to/john_yaghobieh_8f294091f6/forge-stack-a-full-ecosystem-for-modern-web-applications-381a)
-- [An Easy Recap of Supabase Essentials](https://dev.to/rubenoalvarado/an-easy-recap-of-supabase-essentials-f37)
+- [Event Loop in JavaScript: How Async Really Works](https://dev.to/0xrazumovsky/event-loop-in-javascript-how-async-really-works-1j21)
+- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-1j0m)
+- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-17em)
+- [Batch Transaction - Testcases](https://dev.to/ripplexdev/batch-transaction-testcases-273j)
+- [11. C# &lpar;Parsing&rpar;](https://dev.to/sabin_sim/11-c-parsing-3hai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
