@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Modules in Java](https://dev.to/vinod_satpute_888d980bd0a/modules-in-java-3o5d)
-- [5 Ancient Lists of Data That Changed the World](https://dev.to/nevpetda/5-ancient-lists-of-data-that-changed-the-world-22ci)
-- [I built a free cron expression translator with visual builder](https://dev.to/vito_saulle_016ec1ce26825/i-built-a-free-cron-expression-translator-with-visual-builder-1c43)
-- [OpenClaw is infrastructure, not intelligence](https://dev.to/pvgomes/openclaw-is-infrastructure-not-intelligence-3d5o)
-- [Masa Depan Programmer, Pendidikan, dan Keberlanjutan Open Source di Era AI](https://dev.to/zahwa_davina/masa-depan-programmer-pendidikan-dan-keberlanjutan-open-source-di-era-ai-2h0g)
+- [JS Tips — A JavaScript Tip a Day](https://dev.to/ml318097/js-tips-a-javascript-tip-a-day-5dbe)
+- [Why C++ Never Ran the Web: The $0.00 Secret of JavaScript’s Success](https://dev.to/aabiskar/why-c-never-ran-the-web-the-000-secret-of-javascripts-success-1l4m)
+- [The Microservices Hangover: Why 2026 Is the Year of the Sovereign Module](https://dev.to/invincible/the-microservices-hangover-why-2026-is-the-year-of-the-sovereign-module-4288)
+- [Architecting Hyper-Efficient AI: Rust&#39;s Zero-Copy Paradigm for 45% Cost Reduction](https://dev.to/syrius_contact_24f6f1d273/architecting-hyper-efficient-ai-rusts-zero-copy-paradigm-for-45-cost-reduction-5k1)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/maureen_waithaka/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-5484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
