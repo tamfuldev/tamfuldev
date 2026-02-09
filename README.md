@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 OLSRT v1.2: A Powerful Runtime for All Programming Languages!](https://dev.to/javadinteger/-olsrt-v12-a-powerful-runtime-for-all-programming-languages-3jbh)
-- [IntentRefiner: AI-Powered Issue Refinement for Faster Support Automation](https://dev.to/sideeqbn/intentrefiner-ai-powered-issue-refinement-for-faster-support-automation-5g38)
-- [I Built a Vercel for Landing Pages — With a CLI and an MCP Server](https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a)
-- [Why Windows Crashes and How To Build Stable PCs](https://dev.to/gw-jeni-systems/why-windows-crashes-and-how-to-build-stable-pcs-4fib)
-- [Skill Seekers v3.0.0: The Universal Data Preprocessor for AI Systems](https://dev.to/yusufkaraaslan/skill-seekers-v300-the-universal-data-preprocessor-for-ai-systems-5fao)
+- [How Attackers Use Extension Spoofing and How I Built a Tool to Stop Them](https://dev.to/anasrm01/how-attackers-use-extension-spoofing-and-how-i-built-a-tool-to-stop-them-34g3)
+- [IA, carreira e ansiedade](https://dev.to/gabizaor/ia-carreira-e-ansiedade-ibb)
+- [I Built a Production RAG System on Azure AKS for $40/Month — Here&#39;s Every Decision I Made and Why](https://dev.to/siva2krish/i-built-a-production-rag-system-on-azure-aks-for-40month-heres-every-decision-i-made-and-why-2d22)
+- [TimeSlipSearch: A Conversational Time Machine for Pop Culture](https://dev.to/liztacular/timeslipsearch-a-conversational-time-machine-for-pop-culture-51e7)
+- [Git&#39;s Line-Based Merge is Broken for the AI Agent Era](https://dev.to/rohan_sharma_2003/why-gits-merge-algorithm-fails-on-52-of-concurrent-edits-and-how-to-fix-it-2oaj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
