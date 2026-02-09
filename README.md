@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JS Tips — A JavaScript Tip a Day](https://dev.to/ml318097/js-tips-a-javascript-tip-a-day-5dbe)
-- [Why C++ Never Ran the Web: The $0.00 Secret of JavaScript’s Success](https://dev.to/aabiskar/why-c-never-ran-the-web-the-000-secret-of-javascripts-success-1l4m)
-- [The Microservices Hangover: Why 2026 Is the Year of the Sovereign Module](https://dev.to/invincible/the-microservices-hangover-why-2026-is-the-year-of-the-sovereign-module-4288)
-- [Architecting Hyper-Efficient AI: Rust&#39;s Zero-Copy Paradigm for 45% Cost Reduction](https://dev.to/syrius_contact_24f6f1d273/architecting-hyper-efficient-ai-rusts-zero-copy-paradigm-for-45-cost-reduction-5k1)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/maureen_waithaka/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-5484)
+- [Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k)
+- [Claude Code Hooks: Complete Guide with 20+ Ready-to-Use Examples &lpar;2026&rpar;](https://dev.to/lukaszfryc/claude-code-hooks-complete-guide-with-20-ready-to-use-examples-2026-dcg)
+- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-2e69)
+- [Xcode 26.3 : Apple AI vs External Agentic AI: Balancing Productivity and Security](https://dev.to/aleem_razzaq_b56f9050c99b/xcode-263-apple-ai-vs-external-agentic-ai-balancing-productivity-and-security-34oh)
+- [Finding My Spark Again: A Month With Codex](https://dev.to/jandragsbaek/finding-my-spark-again-a-month-with-codex-2le0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
