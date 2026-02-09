@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k)
-- [Claude Code Hooks: Complete Guide with 20+ Ready-to-Use Examples &lpar;2026&rpar;](https://dev.to/lukaszfryc/claude-code-hooks-complete-guide-with-20-ready-to-use-examples-2026-dcg)
-- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-2e69)
-- [Xcode 26.3 : Apple AI vs External Agentic AI: Balancing Productivity and Security](https://dev.to/aleem_razzaq_b56f9050c99b/xcode-263-apple-ai-vs-external-agentic-ai-balancing-productivity-and-security-34oh)
-- [Finding My Spark Again: A Month With Codex](https://dev.to/jandragsbaek/finding-my-spark-again-a-month-with-codex-2le0)
+- [Top AI Libraries for React Developers in 2026](https://dev.to/puckeditor/top-ai-libraries-for-react-developers-in-2026-nmb)
+- [Build a Checkout Page](https://dev.to/richardpascoe/build-a-checkout-page-43nj)
+- [Junior Developers Should Stop Asking for Help](https://dev.to/kirill_tolmachev/junior-developers-should-stop-asking-for-help-cle)
+- [Vibe Coding in 2026: The $81B Revolution That&#39;s Rewriting How We Build Software](https://dev.to/smeusebot/vibe-coding-in-2026-the-81b-revolution-thats-rewriting-how-we-build-software-40d8)
+- [PostgreSQL indexing explained — 5 index types and when to use each](https://dev.to/piteradyson/postgresql-indexing-explained-5-index-types-and-when-to-use-each-45ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
