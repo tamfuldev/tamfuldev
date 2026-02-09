@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Event Loop in JavaScript: How Async Really Works](https://dev.to/0xrazumovsky/event-loop-in-javascript-how-async-really-works-1j21)
-- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-1j0m)
-- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-17em)
-- [Batch Transaction - Testcases](https://dev.to/ripplexdev/batch-transaction-testcases-273j)
-- [11. C# &lpar;Parsing&rpar;](https://dev.to/sabin_sim/11-c-parsing-3hai)
+- [AI for PHP Developers. Practical Use of TransformersPHP](https://dev.to/samuel_akopyan_e902195a96/ai-for-php-developers-practical-use-of-transformersphp-5043)
+- [Stop smashing your keyboard to pass &quot;IBAN Validation&quot; in tests 😅](https://dev.to/ucar/stop-smashing-your-keyboard-to-pass-iban-validation-in-tests-3ii1)
+- [Building a Jedi-Style Hand Gesture Interface with TensorFlow.js: Control Your Browser Without Touching Anything](https://dev.to/salarizadi/building-a-jedi-style-hand-gesture-interface-with-tensorflowjs-control-your-browser-without-3jm2)
+- [How to Sync AI Skills Across Claude Code, OpenClaw, and Codex in 2 Minutes](https://dev.to/runkids/how-to-sync-ai-skills-across-claude-code-openclaw-and-codex-in-2-minutes-226e)
+- [API Gateway vs Gateway API](https://dev.to/vijaykodam/api-gateway-vs-gateway-api-36bh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
