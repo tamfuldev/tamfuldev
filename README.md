@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Showing a Date Needs Three Decisions](https://dev.to/bwi/showing-a-date-needs-three-decisions-1j8d)
-- [What Existed Before Transformers and Why Responses Are Generated Step by Step](https://dev.to/jps27cse/what-existed-before-transformers-and-why-responses-are-generated-step-by-step-l02)
-- [Real world scenario of refactoring legacy code to strategy &amp; chain of responsibility patterns](https://dev.to/ahmed_hesham_bc018e8c2860/real-world-scenario-of-refactoring-legacy-code-to-strategy-chain-of-responsibility-patterns-474)
-- [Why No Single AI Should Ever Decide Alone](https://dev.to/mkraft-berlin/why-no-single-ai-should-ever-decide-alone-53mm)
-- [Rajasthan Helper CLI – Real Weather, Festivals &amp; Travel Tips Built on Free GitHub Copilot CLI](https://dev.to/chetancodelrca/rajasthan-helper-cli-real-weather-festivals-travel-tips-built-on-free-github-copilot-cli-2k4g)
+- [The Friday Effect: Why Fridays Feel Lighter &lpar;and Mondays Don’t Deserve the Hate&rpar;](https://dev.to/alexrodovit/the-friday-effect-why-fridays-feel-lighter-and-mondays-dont-deserve-the-hate-250k)
+- [I Open-Sourced Claude Code Skills for Reddit and DEV.to Automation &lpar;AppleScript + Chrome&rpar;](https://dev.to/haoyang_pang_a9f08cdb0b6c/i-open-sourced-claude-code-skills-for-reddit-and-devto-automation-applescript-chrome-1k56)
+- [I Built an Adaptive AI Feedback Platform with Gemini 3 in a Weekend](https://dev.to/adamp78/i-built-an-adaptive-ai-feedback-platform-with-gemini-3-in-a-weekend-3nee)
+- [I Audited MoltX&#39;s Skill File. It&#39;s an AI Agent Trojan Horse.](https://dev.to/sebayaki/i-audited-moltxs-skill-file-its-an-ai-agent-trojan-horse-539k)
+- [Vite Internals Deep Dive: How Modern Build Tools Actually Work](https://dev.to/munna_thakur_2019444f0351/vite-internals-deep-dive-how-modern-build-tools-actually-work-202n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
