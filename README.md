@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Heavy to Lightweight: Compressing Images in Expo for Better Performance](https://dev.to/angojay/from-heavy-to-lightweight-compressing-images-in-expo-for-better-performance-50fa)
-- [Agents That Build Agents — Building Autonomous Browsing with Claude Code](https://dev.to/viniciusdallacqua/agents-that-build-agents-building-autonomous-browsing-with-claude-code-pn5)
-- [The Computer Finally Learned to Listen](https://dev.to/choutos/the-computer-finally-learned-to-listen-5gc)
-- [155. Min Stack | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/155-min-stack-leetcode-top-interview-150-coding-questions-128b)
-- [Stop Rewriting Backend Foundations: Introducing RapidKit](https://dev.to/rapidkit/stop-rewriting-backend-foundations-introducing-rapidkit-48fg)
+- [I built a tool to stop clients from texting &#39;any update?&#39; at 11 PM - Here&#39;s the tech stack and what I learned](https://dev.to/animiso_ce2f2f2e181032b7b/i-built-a-tool-to-stop-clients-from-texting-any-update-at-11-pm-heres-the-tech-stack-and-what-2pm)
+- [Compressing PDFs to 200KB using a simple client-side approach](https://dev.to/himanshu_sharma_8ae32731f/compressing-pdfs-to-200kb-using-a-simple-client-side-approach-2e7g)
+- [How to Choose Tools for Smart Contract Dev](https://dev.to/chainbreaker/how-to-choose-tools-for-smart-contract-dev-1fl2)
+- [Python Typing vs. TypeScript](https://dev.to/idodav/python-typing-vs-typescript-5bhp)
+- [Edge-to-Cloud Swarm Coordination for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-bio-inspired-soft-robotics-maintenance-across-multilingual-34im)
 <!-- BLOG-POST-LIST:END -->
 
 ---
