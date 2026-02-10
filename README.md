@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ClawHosters Is Live: The First Managed OpenClaw Hosting Provider](https://dev.to/yixn_io/clawhosters-is-live-the-first-managed-openclaw-hosting-provider-169d)
-- [How I Accidentally Built a Managed OpenClaw Hosting Business](https://dev.to/yixn_io/how-i-accidentally-built-a-managed-openclaw-hosting-business-16dd)
-- [Deploy .NET 8 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/subair09/deploy-net-8-app-to-azure-kubernetes-service-aks-5d99)
-- [Bora falar do padrão Strategy?](https://dev.to/devxbr/bora-falar-do-padrao-strategy-21c5)
-- [The Recording Engine: FFmpeg vs. GStreamer for Server-Side Media Processing](https://dev.to/deepak_mishra_35863517037/the-recording-engine-ffmpeg-vs-gstreamer-for-server-side-media-processing-325o)
+- [AI Models for Agentic Coding: When to Use Claude, Mistral, GPT, Gemini, or LLaMA](https://dev.to/soumia_g_9dc322fc4404cecd/ai-models-for-agentic-coding-when-to-use-claude-mistral-gpt-gemini-or-llama-3jen)
+- [The Next &quot;Programming Language&quot; Is a Team of Agents: A 1-Hour Crash Course](https://dev.to/soumia_g_9dc322fc4404cecd/the-next-programming-language-is-a-team-of-agents-a-1-hour-crash-course-2e2k)
+- [I’m in a Room Full of People Smarter Than Me — Here’s What They Actually Talk About](https://dev.to/camb/im-in-a-room-full-of-people-smarter-than-me-heres-what-they-actually-talk-about-3flh)
+- [Claude Prompt Leaks via Tool Abuse: Expert Blueprint to Secure AI Tooling in 2026](https://dev.to/delafosse_olivier_f47ff53/claude-prompt-leaks-via-tool-abuse-expert-blueprint-to-secure-ai-tooling-in-2026-3fia)
+- [Silent Degradation in LLM Systems: Detecting When Your AI Quietly Gets Worse](https://dev.to/delafosse_olivier_f47ff53/silent-degradation-in-llm-systems-detecting-when-your-ai-quietly-gets-worse-4gdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
