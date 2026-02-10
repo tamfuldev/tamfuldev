@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Yu Darvish&#39;s Pitching Evolution &lpar;2021-2025&rpar;: A Statcast Data Analysis&quot;](https://dev.to/yasumorishima/yu-darvishs-pitching-evolution-2021-2025-a-statcast-data-analysis-31i)
-- [Implementación de alarmas CloudWatch para EC2](https://dev.to/danna_devops/implementacion-de-alarmas-cloudwatch-para-ec2-31ak)
-- [Building a Semantic Search Engine with Hugging Face Transformers and MongoDB Atlas Vector Search](https://dev.to/mongodb/building-a-semantic-search-engine-with-hugging-face-transformers-and-mongodb-atlas-vector-search-4d2j)
-- [Hoisting in JavaScript](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-javascript-4nkh)
-- [OpenClaw Setup Guide: From Zero to AI Assistant in 10 Minutes](https://dev.to/yankoaleksandrov/openclaw-setup-guide-from-zero-to-ai-assistant-in-10-minutes-1md)
+- [Part 2: The 5 Types of Memory Every AI Agent Needs &lpar;And Why LLMs Can Only Do 2&rpar;](https://dev.to/arulnidhi_karunanidhi_7ff/part-2-the-5-types-of-memory-every-ai-agent-needs-and-why-llms-can-only-do-2-73c)
+- [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf)
+- [🚀 Building My First Web3 App on Monad Using AI + Simple Prompts](https://dev.to/nickthelegend/building-my-first-web3-app-on-monad-using-ai-simple-prompts-49f0)
+- [Midjourney Alternative for Professionals](https://dev.to/kristjan_retter_9f19b3176/midjourney-alternative-for-professionals-3c4n)
+- [I built an agent discovery tool : Agentxplorer](https://dev.to/zeherros_6afef25551/i-built-an-agent-discovery-tool-agentxplorer-20f1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
