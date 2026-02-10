@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Can Earn $5,000 Writing a Practical Technical Article](https://dev.to/mhamzap10/how-developers-can-earn-5000-writing-a-practical-technical-article-53a0)
-- [Copilot Ralph. Built a Desktop UI for GitHub Copilot.](https://dev.to/ashiqsultan/copilot-ralph-built-a-desktop-ui-for-github-copilot-59h7)
-- [This is worth the read. Check it out](https://dev.to/joe_orion/this-is-worth-the-read-check-it-out-4hjc)
-- [When LiteLLM Becomes a Bottleneck: Exploring Gateway Alternatives](https://dev.to/therealmrmumba/when-litellm-becomes-a-bottleneck-exploring-gateway-alternatives-3a4h)
-- [Building the Yamaokaya Map &lpar;Unofficial&rpar;](https://dev.to/mierune/building-the-yamaokaya-map-unofficial-n9g)
+- [How i Create a dashboard](https://dev.to/naviny0/how-i-create-a-dashboard-1ed4)
+- [🎙️ I built a voice chat app because I wanted to talk to my son while we play online](https://dev.to/steven_hans_b26a962c69563/i-built-a-voice-chat-app-because-i-wanted-to-talk-to-my-son-while-we-play-online-188h)
+- [Spring CRUD Generator v1.1.0: Field Validation, Better Redis Caching &amp; Spring Boot 3/4 Compatibility](https://dev.to/mzivkovicdev/spring-crud-generator-v110-field-validation-better-redis-caching-spring-boot-34-compatibility-2f5)
+- [How to Create a Virtual Background Using the Red5 WebRTC SDK](https://dev.to/red5/how-to-create-a-virtual-background-using-the-red5-webrtc-sdk-26ci)
+- [Bounce Rate, &lpar;and Why It Can Quietly Wreck a Site&rpar;](https://dev.to/elsayed_zewayed_91621702f/bounce-rate-and-why-it-can-quietly-wreck-a-site-4606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
