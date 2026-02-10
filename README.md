@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: The 5 Types of Memory Every AI Agent Needs &lpar;And Why LLMs Can Only Do 2&rpar;](https://dev.to/arulnidhi_karunanidhi_7ff/part-2-the-5-types-of-memory-every-ai-agent-needs-and-why-llms-can-only-do-2-73c)
-- [How I Used GitHub Copilot CLI to Make Git 10x Less Scary](https://dev.to/simandebvu/how-i-used-github-copilot-cli-to-make-git-10x-less-scary-5apf)
-- [🚀 Building My First Web3 App on Monad Using AI + Simple Prompts](https://dev.to/nickthelegend/building-my-first-web3-app-on-monad-using-ai-simple-prompts-49f0)
-- [Midjourney Alternative for Professionals](https://dev.to/kristjan_retter_9f19b3176/midjourney-alternative-for-professionals-3c4n)
-- [I built an agent discovery tool : Agentxplorer](https://dev.to/zeherros_6afef25551/i-built-an-agent-discovery-tool-agentxplorer-20f1)
+- [When One AI Designs Communication Protocols for Another](https://dev.to/mkraft-berlin/when-one-ai-designs-communication-protocols-for-another-4fmf)
+- [AWS CSI - Investigating Cloud Conundrums &lpar;CloudTrail&rpar;](https://dev.to/yaddah/aws-csi-investigating-cloud-conundrums-cloudtrail-ed0)
+- [Building a Robust Classifier with Stacked Generalization](https://dev.to/ddebajyati/building-a-robust-classifier-with-stacked-generalization-5flk)
+- [#2 - Going to second base: know your boundaries](https://dev.to/benjaminsavoy/2-going-to-second-base-know-your-boundaries-4ea7)
+- [Hi developers👋 I’m the founder of Creativity Coder](https://dev.to/creativity_coder_2a6c5d6f/hi-developers-im-the-founder-of-creativity-coder-4bo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
