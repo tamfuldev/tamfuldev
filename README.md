@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How i Create a dashboard](https://dev.to/naviny0/how-i-create-a-dashboard-1ed4)
-- [🎙️ I built a voice chat app because I wanted to talk to my son while we play online](https://dev.to/steven_hans_b26a962c69563/i-built-a-voice-chat-app-because-i-wanted-to-talk-to-my-son-while-we-play-online-188h)
-- [Spring CRUD Generator v1.1.0: Field Validation, Better Redis Caching &amp; Spring Boot 3/4 Compatibility](https://dev.to/mzivkovicdev/spring-crud-generator-v110-field-validation-better-redis-caching-spring-boot-34-compatibility-2f5)
-- [How to Create a Virtual Background Using the Red5 WebRTC SDK](https://dev.to/red5/how-to-create-a-virtual-background-using-the-red5-webrtc-sdk-26ci)
-- [Bounce Rate, &lpar;and Why It Can Quietly Wreck a Site&rpar;](https://dev.to/elsayed_zewayed_91621702f/bounce-rate-and-why-it-can-quietly-wreck-a-site-4606)
+- [&quot;Yu Darvish&#39;s Pitching Evolution &lpar;2021-2025&rpar;: A Statcast Data Analysis&quot;](https://dev.to/yasumorishima/yu-darvishs-pitching-evolution-2021-2025-a-statcast-data-analysis-31i)
+- [Implementación de alarmas CloudWatch para EC2](https://dev.to/danna_devops/implementacion-de-alarmas-cloudwatch-para-ec2-31ak)
+- [Building a Semantic Search Engine with Hugging Face Transformers and MongoDB Atlas Vector Search](https://dev.to/mongodb/building-a-semantic-search-engine-with-hugging-face-transformers-and-mongodb-atlas-vector-search-4d2j)
+- [Hoisting in JavaScript](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-javascript-4nkh)
+- [OpenClaw Setup Guide: From Zero to AI Assistant in 10 Minutes](https://dev.to/yankoaleksandrov/openclaw-setup-guide-from-zero-to-ai-assistant-in-10-minutes-1md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
