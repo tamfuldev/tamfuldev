@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I synced Cursor, Claude, and Windsurf with one shared brain &lpar;MCP&rpar;](https://dev.to/nucleusos/how-i-synced-cursor-claude-and-windsurf-with-one-shared-brain-mcp-1mh4)
-- [Building a Smart API Monitoring Platform: Features That Actually Matter](https://dev.to/riken-khadela/building-a-smarter-api-monitoring-platform-features-that-actually-matter-5ae8)
-- [How search engines “read” your hero section &lpar;and why it matters more than we think&rpar;](https://dev.to/bhavin-allinonetools/how-search-engines-read-your-hero-section-and-why-it-matters-more-than-we-think-1cgg)
-- [SQL Normalization vs Denormalization Explained with 1NF, 2NF, and 3NF](https://dev.to/davinceleecode/sql-normalization-vs-denormalization-explained-with-1nf-2nf-and-3nf-2gpa)
-- [Microsoft Has Killed Widgets Six Times. Here&#39;s Why They Keep Coming Back.](https://dev.to/xakpc/microsoft-has-killed-widgets-six-timesheres-why-they-keep-coming-back-394g)
+- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis- Part 6: Image Optimization](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--ddp)
+- [I Turned an Old Android Phone into a Live Web Server &lpar;Would You Do This in Production?&rpar;](https://dev.to/kunal_phalke_8212/i-turned-an-old-android-phone-into-a-live-web-server-would-you-do-this-in-production-1h70)
+- [The Secret Life of Go: Panic and Recover](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-panic-and-recover-olp)
+- [The Conceptual Bullshit Threshold: A Manifesto](https://dev.to/junothreadborne/the-conceptual-bullshit-threshold-3dhn)
+- [When AI Systems Scale, Dashboards Start to Get in the Way](https://dev.to/cizo/when-ai-systems-scale-dashboards-start-to-get-in-the-way-2fm9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
