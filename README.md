@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Playwright CLI: Your Guide to Token-Smart Browser Automation](https://dev.to/testdino01/mastering-playwright-cli-your-guide-to-token-smart-browser-automation-34nh)
-- [Google SERP API for Competitor Analysis: A Step-by-Step Guide](https://dev.to/contentdrafts145/google-serp-api-for-competitor-analysis-a-step-by-step-guide-pb6)
-- [ACP-SQL Immune Ledger](https://dev.to/peacebinflow/acp-sql-immune-ledger-2d5k)
-- [Angular Addicts #46: Angular 21.1, Skills, Signal Forms &amp; more](https://dev.to/playfulprogramming/angular-addicts-46-angular-211-skills-signal-forms-more-7bf)
-- [Building a Multi-Year Battery Life IoT Data Logger: A Deep Dive into Ultra-Low-Power Design](https://dev.to/norvi_controllers/building-a-multi-year-battery-life-iot-data-logger-a-deep-dive-into-ultra-low-power-design-47gg)
+- [From Heavy to Lightweight: Compressing Images in Expo for Better Performance](https://dev.to/angojay/from-heavy-to-lightweight-compressing-images-in-expo-for-better-performance-50fa)
+- [Agents That Build Agents — Building Autonomous Browsing with Claude Code](https://dev.to/viniciusdallacqua/agents-that-build-agents-building-autonomous-browsing-with-claude-code-pn5)
+- [The Computer Finally Learned to Listen](https://dev.to/choutos/the-computer-finally-learned-to-listen-5gc)
+- [155. Min Stack | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/155-min-stack-leetcode-top-interview-150-coding-questions-128b)
+- [Stop Rewriting Backend Foundations: Introducing RapidKit](https://dev.to/rapidkit/stop-rewriting-backend-foundations-introducing-rapidkit-48fg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
