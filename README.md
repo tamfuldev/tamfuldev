@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tool to stop clients from texting &#39;any update?&#39; at 11 PM - Here&#39;s the tech stack and what I learned](https://dev.to/animiso_ce2f2f2e181032b7b/i-built-a-tool-to-stop-clients-from-texting-any-update-at-11-pm-heres-the-tech-stack-and-what-2pm)
-- [Compressing PDFs to 200KB using a simple client-side approach](https://dev.to/himanshu_sharma_8ae32731f/compressing-pdfs-to-200kb-using-a-simple-client-side-approach-2e7g)
-- [How to Choose Tools for Smart Contract Dev](https://dev.to/chainbreaker/how-to-choose-tools-for-smart-contract-dev-1fl2)
-- [Python Typing vs. TypeScript](https://dev.to/idodav/python-typing-vs-typescript-5bhp)
-- [Edge-to-Cloud Swarm Coordination for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-bio-inspired-soft-robotics-maintenance-across-multilingual-34im)
+- [Cleaning Up Complexity: Preprocessing Attribution Maps for Better Evaluation](https://dev.to/tova501/cleaning-up-complexity-preprocessing-attribution-maps-for-better-evaluation-6oi)
+- [Turning Any Model into an XAI-Ready Model: Formats and Gradient Flow](https://dev.to/tova501/turning-any-model-into-an-xai-ready-model-formats-and-gradient-flow-4a9j)
+- [{ w: 1 } Asynchronous Writes and Conflict Resolution in MongoDB](https://dev.to/franckpachot/w1-asynchronous-write-and-conflict-resolution-in-mongodb-non-default-5677)
+- [No Habits to Break](https://dev.to/itay-maman/no-habits-to-break-2g80)
+- [Como integrei testes de carga com K6, GitHub Actions e OpenTelemetry](https://dev.to/marcos_vile/como-integrei-testes-de-carga-com-k6-github-actions-e-opentelemetry-23eh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
