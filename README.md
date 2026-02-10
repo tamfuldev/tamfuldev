@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis- Part 6: Image Optimization](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--ddp)
-- [I Turned an Old Android Phone into a Live Web Server &lpar;Would You Do This in Production?&rpar;](https://dev.to/kunal_phalke_8212/i-turned-an-old-android-phone-into-a-live-web-server-would-you-do-this-in-production-1h70)
-- [The Secret Life of Go: Panic and Recover](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-panic-and-recover-olp)
-- [The Conceptual Bullshit Threshold: A Manifesto](https://dev.to/junothreadborne/the-conceptual-bullshit-threshold-3dhn)
-- [When AI Systems Scale, Dashboards Start to Get in the Way](https://dev.to/cizo/when-ai-systems-scale-dashboards-start-to-get-in-the-way-2fm9)
+- [...](https://dev.to/gustavohenriques/-33l7)
+- [Why I Spent 5 Hours Finding a 20-Minute Fix: A Case for Structured Logging](https://dev.to/nandishdave/why-i-spent-5-hours-finding-a-20-minute-fix-a-case-for-structured-logging-2fdk)
+- [Self-Hosted Deployment Tools Compared: Coolify, Dokploy, Kamal, Dokku, and Haloy](https://dev.to/ameistad/self-hosted-deployment-tools-compared-coolify-dokploy-kamal-dokku-and-haloy-2npd)
+- [Data Types in Java](https://dev.to/arun_kumar_98/data-types-in-java-5b41)
+- [From git pull to GitOps: How I Built a Production CI/CD Pipeline on a $12 DigitalOcean Droplet](https://dev.to/lfariaus/from-git-pull-to-gitops-how-i-built-a-production-cicd-pipeline-on-a-12-digitalocean-droplet-34gn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
