@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [...](https://dev.to/gustavohenriques/-33l7)
-- [Why I Spent 5 Hours Finding a 20-Minute Fix: A Case for Structured Logging](https://dev.to/nandishdave/why-i-spent-5-hours-finding-a-20-minute-fix-a-case-for-structured-logging-2fdk)
-- [Self-Hosted Deployment Tools Compared: Coolify, Dokploy, Kamal, Dokku, and Haloy](https://dev.to/ameistad/self-hosted-deployment-tools-compared-coolify-dokploy-kamal-dokku-and-haloy-2npd)
-- [Data Types in Java](https://dev.to/arun_kumar_98/data-types-in-java-5b41)
-- [From git pull to GitOps: How I Built a Production CI/CD Pipeline on a $12 DigitalOcean Droplet](https://dev.to/lfariaus/from-git-pull-to-gitops-how-i-built-a-production-cicd-pipeline-on-a-12-digitalocean-droplet-34gn)
+- [Mastering Playwright CLI: Your Guide to Token-Smart Browser Automation](https://dev.to/testdino01/mastering-playwright-cli-your-guide-to-token-smart-browser-automation-34nh)
+- [Google SERP API for Competitor Analysis: A Step-by-Step Guide](https://dev.to/contentdrafts145/google-serp-api-for-competitor-analysis-a-step-by-step-guide-pb6)
+- [ACP-SQL Immune Ledger](https://dev.to/peacebinflow/acp-sql-immune-ledger-2d5k)
+- [Angular Addicts #46: Angular 21.1, Skills, Signal Forms &amp; more](https://dev.to/playfulprogramming/angular-addicts-46-angular-211-skills-signal-forms-more-7bf)
+- [Building a Multi-Year Battery Life IoT Data Logger: A Deep Dive into Ultra-Low-Power Design](https://dev.to/norvi_controllers/building-a-multi-year-battery-life-iot-data-logger-a-deep-dive-into-ultra-low-power-design-47gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
