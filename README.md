@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://dev.to/sukammoore/hello-world-f48)
-- [Gods of Forgotten World](https://dev.to/bibimbop123/gods-of-forgotten-world-42jm)
-- [Entity-Attribute-Value &lpar;EAV&rpar; Model](https://dev.to/dedawit/entity-attribute-value-eav-model-2ghg)
-- [Contract-First Integration: A Practical Guide for Developers](https://dev.to/wallaceespindola/contract-first-integration-a-practical-guide-for-developers-49nf)
-- [WordPress Theme from Lovable HTML in One Day](https://dev.to/vojtabiberle/wordpress-theme-from-lovable-html-in-one-day-576p)
+- [Good rule for Expo Vs RN](https://dev.to/khaledmsalem/good-rule-for-expo-vs-rn-lpf)
+- [How to Convert Telegram Chat Export JSON into CSV](https://dev.to/momentumguard/how-to-convert-telegram-chat-export-json-into-csv-ogh)
+- [How to Set Up Free Uptime Monitoring in 5 Minutes &lpar;No Credit Card&rpar;](https://dev.to/daviddaadams/how-to-set-up-free-uptime-monitoring-in-5-minutes-no-credit-card-4pan)
+- [I have got a lot of great feedback from the community. Although my portfolio is still in development, I would love to received some feedback on my Portfolio so far! Check out the post!](https://dev.to/francistrdev/i-have-got-a-lot-of-great-feedback-from-the-community-although-my-portfolio-is-still-in-2i7i)
+- [OwlPulse vs StatusCake vs Pingdom: Uptime Monitoring Comparison 2025](https://dev.to/daviddaadams/owlpulse-vs-statuscake-vs-pingdom-uptime-monitoring-comparison-2025-1n78)
 <!-- BLOG-POST-LIST:END -->
 
 ---
