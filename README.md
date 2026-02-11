@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lets Setup K8s Cluster](https://dev.to/iamzahid/lets-setup-k8s-cluster-24nd)
-- [Scalable SaaS Blueprints: Build Once, Grow Forever &lpar;No Regrets&rpar;](https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41)
-- [For : DOLL](https://dev.to/rahul_naik_b8278022c15b27/untitled-1gac)
-- [The AWS Badge-Dex: An Almost Complete Guide for 2026](https://dev.to/davidshaek/the-aws-badge-dex-an-almost-complete-guide-for-2026-47dk)
-- [DevLaunch](https://dev.to/haseeb_mernstack/devlaunch-2723)
+- [Structure Beats Prose: Specs for Coding Agents That Actually Work](https://dev.to/stefanve/structure-beats-prose-specs-for-coding-agents-that-actually-work-eln)
+- [How a subtle MCP server bug almost cost me $230 a month](https://dev.to/aws/how-a-subtle-mcp-server-bug-almost-cost-me-230-a-month-22ij)
+- [Building an AI Code Analyzer with Google AI Studio &lpar;And Finishing It in Cursor&rpar;](https://dev.to/olaproeis/building-an-ai-code-analyzer-with-google-ai-studio-and-finishing-it-in-cursor-388g)
+- [Deploying a Production Ready Website in Minutes &lpar;No Lock-In&rpar;](https://dev.to/belalibrahim/deploying-a-production-ready-website-in-minutes-no-lock-in-282f)
+- [C++ code Comments - kodlarga komentariya &lpar;izoh&rpar; yozish.](https://dev.to/shavkatovbexzod1987crypto/c-code-comments-kodlarga-komentariya-izoh-yozish-2lb7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
