@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Mapbox Agent Skills](https://dev.to/mapbox/introducing-mapbox-agent-skills-1k19)
-- [Moltbook proved AI agents can talk. But can they agree?](https://dev.to/onemindlife/moltbook-proved-ai-agents-can-talk-but-can-they-agree-3co9)
-- [What Makes a Caesar Salad…and a Sustainable AI Product?](https://dev.to/yasini/what-makes-a-caesar-saladand-a-sustainable-ai-product-3kh7)
-- [Building a Congressional Satire Site with Astro 5, Tailwind CSS v4, and Cloudflare Pages](https://dev.to/absurdityindex/building-a-congressional-satire-site-with-astro-5-tailwind-css-v4-and-cloudflare-pages-3hoe)
-- [Building My First AI Agent](https://dev.to/lexingdailylife/building-my-first-ai-agent-lca)
+- [CVE-2026-25935: Vikunja XSS: When &#39;Just Looking&#39; Gets You Pwned](https://dev.to/cverports/cve-2026-25935-vikunja-xss-when-just-looking-gets-you-pwned-afj)
+- [How to Build a Telegram Bot That Feels Like a Real Friend &lpar;Not a Chatbot&rpar;](https://dev.to/reeddev42/how-to-build-a-telegram-bot-that-feels-like-a-real-friend-not-a-chatbot-33k8)
+- [Burnout, Rust, and the Feruchemy Problem](https://dev.to/fern_d3v/burnout-rust-and-the-feruchemy-problem-52f4)
+- [DeepSeek R1 on Localhost: Building a Private Coding Assistant for $0](https://dev.to/james_miller_8dc58a89cb9e/deepseek-r1-on-localhost-building-a-private-coding-assistant-for-0-ch4)
+- [Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning &lpar;Meet **@architect**&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
