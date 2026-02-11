@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When `venv` Lies: Debugging a Ghost Python 3.4 on Ubuntu](https://dev.to/ajitkumar/when-venv-lies-debugging-a-ghost-python-34-on-ubuntu-45g7)
-- [curl, wget, rsync, dig и nslookup: практическое руководство для Linux-администраторов](https://dev.to/_vproger_/curl-wget-rsync-dig-i-nslookup-praktichieskoie-rukovodstvo-dlia-linux-administratorov-jn0)
-- [5 Simple Routines That Saved My Sanity as a Developer](https://dev.to/narayanabk24/5-simple-routines-that-saved-my-sanity-as-a-developer-2gic)
-- [Understanding OpenTelemetry - Trace ID vs. Span ID](https://dev.to/signoz/understanding-opentelemetry-trace-id-vs-span-id-54dh)
-- [Bringing Observability to Claude Code: OpenTelemetry in Action](https://dev.to/signoz/bringing-observability-to-claude-code-opentelemetry-in-action-2ei2)
+- [I Built a Native macOS Authenticator App Because I Was Tired of Reaching for My Phone](https://dev.to/dalirnet/i-built-a-native-macos-authenticator-app-because-i-was-tired-of-reaching-for-my-phone-5899)
+- [I Replaced My REST API with GraphQL — Here’s What Broke](https://dev.to/andrewjames/i-replaced-my-rest-api-with-graphql-heres-what-broke-4n38)
+- [Boring Is the New Brilliant: Why Stable Tech Stacks Win](https://dev.to/bingkahu/boring-is-the-new-brilliant-why-stable-tech-stacks-win-2mj8)
+- [DevOps From Scratch: Entry #03](https://dev.to/maame-codes/devops-from-scratch-entry-03-cie)
+- [Mastering Reactive Programming in Modern Mobile Development](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-reactive-programming-in-modern-mobile-development-56bm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
