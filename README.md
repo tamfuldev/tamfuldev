@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building SEO Automation in .NET with SERankingSharp](https://dev.to/ranjancse/building-seo-automation-in-net-with-serankingsharp-4f5i)
-- [Python REST API Guide: Converting PDF Files to JPG Images](https://dev.to/shahzad_ashraf_5ea18e2b2d/python-rest-api-guide-converting-pdf-files-to-jpg-images-28hm)
-- [🧠 Programming Idioms — Common Code Patterns Across Languages](https://dev.to/ml318097/programming-idioms-common-code-patterns-across-languages-27ho)
-- [Demystifying Redux Toolkit: A Peek Under the Hood with Plain JavaScript](https://dev.to/krish_kakadiya_5f0eaf6342/demystifying-redux-toolkit-a-peek-under-the-hood-with-plain-javascript-378b)
-- [How to Inspect All Cron Jobs on a Linux System: A Sysadmin&#39;s Guide](https://dev.to/geeksta/how-to-inspect-all-cron-jobs-on-a-linux-system-a-sysadmins-guide-k9f)
+- [Wazuh Kurulumu için gerekli olanlar](https://dev.to/ramazantufekci/wazuh-kurulumu-icin-gerekli-olanlar-1e98)
+- [Prototyping for Agent-First Apps](https://dev.to/fl4tlin3/prototyping-for-agent-first-apps-54j7)
+- [Your &#39;Clean Code&#39; Is Unreadable &lpar;And Your Team Hates It&rpar;](https://dev.to/kirill_tolmachev/your-clean-code-is-unreadable-and-your-team-hates-it-20jm)
+- [The Ultimate Guide to Spaced Repetition: How to Remember Anything Forever](https://dev.to/brainrash_edu/the-ultimate-guide-to-spaced-repetition-how-to-remember-anything-forever-3do)
+- [A Hands-On Introduction to Restricted Boltzmann Machines with a Minimal NumPy Implementation](https://dev.to/kaityo256/a-hands-on-introduction-to-restricted-boltzmann-machines-with-a-minimal-numpy-implementation-1inp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
