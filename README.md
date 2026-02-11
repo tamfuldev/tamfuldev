@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FOSDEM and me: OSM, Translation, decentralization and art](https://dev.to/bogomil/fosdem-and-me-osm-translation-decentralization-and-art-egl)
-- [Python by Example — Learn Python the Practical Way](https://dev.to/dariubs/python-by-example-learn-python-the-practical-way-1inf)
-- [Microcontroller-Based Cybersecurity Tools: Flipper Zero and Similar Devices](https://dev.to/thilak_kumar/microcontroller-based-cybersecurity-tools-flipper-zero-and-similar-devices-m7)
-- [How Gatling uses AI to support performance tests](https://dev.to/gatling/how-gatling-uses-ai-to-support-performance-tests-7dm)
-- [Solved: Hosting in the GCC Region – What Matters Most to You?](https://dev.to/techresolve/solved-hosting-in-the-gcc-region-what-matters-most-to-you-26m3)
+- [From Sociology Scholar to Independent Developer: My One-Year Transformation Journey](https://dev.to/zoeycodefun/from-sociology-scholar-to-independent-developer-my-one-year-transformation-journey-ffh)
+- [Love it!](https://dev.to/evanlausier/love-it-19j1)
+- [From Seen to Responded: A Small Guide to Respectful Replies in Tech](https://dev.to/mtzanida/from-seen-to-responded-a-small-guide-to-respectful-replies-in-tech-37gl)
+- [Guia de Sobrevivência JVM: Tuning de Performance para 16GB de RAM &lpar;Sem Swap&rpar;](https://dev.to/matheuscamarques/guia-de-sobrevivencia-jvm-tuning-de-performance-para-16gb-de-ram-sem-swap-1an)
+- [What is wrong with LinkedIn in the age of AI](https://dev.to/omiossec/what-is-wrong-with-linkedin-in-the-age-of-ai-1pid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
