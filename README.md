@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Native macOS Authenticator App Because I Was Tired of Reaching for My Phone](https://dev.to/dalirnet/i-built-a-native-macos-authenticator-app-because-i-was-tired-of-reaching-for-my-phone-5899)
-- [I Replaced My REST API with GraphQL — Here’s What Broke](https://dev.to/andrewjames/i-replaced-my-rest-api-with-graphql-heres-what-broke-4n38)
-- [Boring Is the New Brilliant: Why Stable Tech Stacks Win](https://dev.to/bingkahu/boring-is-the-new-brilliant-why-stable-tech-stacks-win-2mj8)
-- [DevOps From Scratch: Entry #03](https://dev.to/maame-codes/devops-from-scratch-entry-03-cie)
-- [Mastering Reactive Programming in Modern Mobile Development](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-reactive-programming-in-modern-mobile-development-56bm)
+- [Calendar Feeds: Where It All Started](https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2)
+- [From Sourdough to Source Code: My Journey into Web Development 🥐💻](https://dev.to/sanseverino/from-sourdough-to-source-code-my-journey-into-web-development-28k0)
+- [Conflict-free Replicated Data Types &lpar;CRDTs&rpar;](https://dev.to/learnwithvikzzy/conflict-free-replicated-data-types-crdts-ij6)
+- [Sandboxing AI Coding Agents with Devcontainers](https://dev.to/klaus82/sandboxing-ai-coding-agents-with-devcontainers-4ja3)
+- [Communication is the new Code](https://dev.to/roderick_rutledge_21f9abd/communication-is-the-new-code-dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
