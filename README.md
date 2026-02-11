@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 The Hidden Problem Most Developers Face When Building Projects](https://dev.to/totylabs1/the-hidden-problem-most-developers-face-when-building-projects-29jc)
-- [Stop Configuring Nginx: The Easiest Way to Deploy Go &amp; React with HTTPS](https://dev.to/alex_g_aeeb05ba69eee8a4fd/stop-configuring-nginx-the-easiest-way-to-deploy-go-react-with-https-51ma)
-- [Built a Python Dependency Audit Tool Because Vulnerability Lists Weren’t Enough](https://dev.to/zerogru/built-a-python-dependency-audit-tool-because-vulnerability-lists-werent-enough-495h)
-- [Internal Design Choices for Effects: Implementing Effects &lpar;II&rpar;](https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6)
-- [From Gut Feel to Backtest: 5 Iterations of an AI Trading System](https://dev.to/xqliu/from-gut-feel-to-backtest-5-iterations-of-an-ai-trading-system-2em6)
+- [BETWEEN SHADOW AND LIGHT](https://dev.to/preetha_vaishnavi_2b82358/between-shadow-and-light-3de5)
+- [The Flight Simulator for Business: Why Simulations are the Definitive Future of Employee Development](https://dev.to/simulationexpert23/the-flight-simulator-for-business-why-simulations-are-the-definitive-future-of-employee-development-2a9p)
+- [Три практичных решения для системного администратора: автоматизация, бэкапы и удобство работы](https://dev.to/super_mega_dude/tri-praktichnykh-rieshieniia-dlia-sistiemnogho-administratora-avtomatizatsiia-bekapy-i-udobstvo-raboty-3k40)
+- [The AI Coding Revolution Is Here, But Not How You Expected](https://dev.to/agentq/the-ai-coding-revolution-is-here-but-not-how-you-expected-4e13)
+- [🌌Beginner-Friendly Guide &#39;Longest Balanced Subarray II&#39; - Leetcode 3721 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
