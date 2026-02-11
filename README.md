@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Calendar Feeds: Where It All Started](https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2)
-- [From Sourdough to Source Code: My Journey into Web Development 🥐💻](https://dev.to/sanseverino/from-sourdough-to-source-code-my-journey-into-web-development-28k0)
-- [Conflict-free Replicated Data Types &lpar;CRDTs&rpar;](https://dev.to/learnwithvikzzy/conflict-free-replicated-data-types-crdts-ij6)
-- [Sandboxing AI Coding Agents with Devcontainers](https://dev.to/klaus82/sandboxing-ai-coding-agents-with-devcontainers-4ja3)
-- [Communication is the new Code](https://dev.to/roderick_rutledge_21f9abd/communication-is-the-new-code-dl)
+- [I Almost Ran rm -rf / on Production — And It Changed How I Deploy Forever](https://dev.to/frozenblood/i-almost-ran-rm-rf-on-production-and-it-changed-how-i-deploy-forever-njk)
+- [Knowledge-Based &amp; Rational Agents: The Brain Behind AI Decision-Making](https://dev.to/tricon_infotech/knowledge-based-rational-agents-the-brain-behind-ai-decision-making-fmb)
+- [Blockchain in Supply Chains: The Practical Truth](https://dev.to/kevie_patterson_64b02ecfd/blockchain-in-supply-chains-the-practical-truth-3ab3)
+- [The Part of CMS Migration Nobody Warns You About: Post-Launch Metadata Chaos](https://dev.to/pavan_d/the-part-of-cms-migration-nobody-warns-you-about-post-launch-metadata-chaos-17em)
+- [&quot;Yu Darvish&#39;s Pitching Evolution &lpar;2021-2025&rpar;: A Statcast Data Analysis&quot;](https://dev.to/yasumorishima/yu-darvishs-pitching-evolution-2021-2025-a-statcast-data-analysis-53d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
