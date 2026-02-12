@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [YAGNI: The Principle That Protects You From Building the Future Too Early](https://dev.to/walternascimentobarroso/yagni-the-principle-that-protects-you-from-building-the-future-too-early-2o7d)
-- [Coding Challenges in the Modern Time](https://dev.to/trickell/coding-challenges-in-the-modern-time-1mi9)
-- [Exploring The Lens as a Free Alternative for Prior Art](https://dev.to/patentscanai/exploring-the-lens-as-a-free-alternative-for-prior-art-2hg2)
-- [How to Build an AI Slack Bot with Claude, GPT, Grok, &amp; Gemini Using Hot Dev](https://dev.to/curtissummers/how-to-build-an-ai-slack-bot-with-claude-gpt-grok-gemini-using-hot-dev-91k)
-- [I Launched a SaaS, Forgot About It, Then Discovered People Were Paying for a Broken Product](https://dev.to/lyrictime/i-launched-a-saas-forgot-about-it-then-discovered-people-were-paying-for-a-broken-product-43ne)
+- [Geolocalização Performática com Postgres e PostGIS: Uma abordagem prática no projeto Photofy](https://dev.to/aristoteles_linsdasilva/geolocalizacao-performatica-com-postgres-e-postgis-uma-abordagem-pratica-no-projeto-photofy-4360)
+- [Swift: The Complete Guide to Error Handling in the Network Layer](https://dev.to/pavel_andreev_ios/swift-the-complete-guide-to-error-handling-in-the-network-layer-1n64)
+- [Associative Methods](https://dev.to/lizmat/associative-methods-2mcl)
+- [Why your company&#39;s JSP app isn&#39;t dead - it just needs Spring Boot](https://dev.to/therobustroast/why-your-companys-jsp-app-isnt-dead-it-just-needs-spring-boot-2fje)
+- [Unlocking the Hidden Power of Your Laptop’s GPU](https://dev.to/nisam/unlocking-the-hidden-power-of-your-laptops-gpu-20kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
