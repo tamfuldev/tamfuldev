@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-2391: Death by a Thousand Commas: Deep Dive into CVE-2026-2391](https://dev.to/cverports/cve-2026-2391-death-by-a-thousand-commas-deep-dive-into-cve-2026-2391-1e42)
-- [🚀 Automating Email Image Requests with Asana + Zapier + BannerBear](https://dev.to/uribejr/automating-email-image-requests-with-asana-zapier-bannerbear-89d)
-- [From Browser Tab to Terminal Agent](https://dev.to/pratikthorat/from-browser-tab-to-terminal-agent-m62)
-- [SmartOrder: A Modern Microservices Reference Platform](https://dev.to/portus84/smartorder-a-modern-microservices-reference-platform-ng8)
-- [How to Validate Email Addresses in Node.js &lpar;2026 Guide&rpar;](https://dev.to/mnotr/how-to-validate-email-addresses-in-nodejs-2026-guide-5b72)
+- [YAGNI: The Principle That Protects You From Building the Future Too Early](https://dev.to/walternascimentobarroso/yagni-the-principle-that-protects-you-from-building-the-future-too-early-2o7d)
+- [Coding Challenges in the Modern Time](https://dev.to/trickell/coding-challenges-in-the-modern-time-1mi9)
+- [Exploring The Lens as a Free Alternative for Prior Art](https://dev.to/patentscanai/exploring-the-lens-as-a-free-alternative-for-prior-art-2hg2)
+- [How to Build an AI Slack Bot with Claude, GPT, Grok, &amp; Gemini Using Hot Dev](https://dev.to/curtissummers/how-to-build-an-ai-slack-bot-with-claude-gpt-grok-gemini-using-hot-dev-91k)
+- [I Launched a SaaS, Forgot About It, Then Discovered People Were Paying for a Broken Product](https://dev.to/lyrictime/i-launched-a-saas-forgot-about-it-then-discovered-people-were-paying-for-a-broken-product-43ne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
