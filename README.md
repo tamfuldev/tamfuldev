@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Geolocalização Performática com Postgres e PostGIS: Uma abordagem prática no projeto Photofy](https://dev.to/aristoteles_linsdasilva/geolocalizacao-performatica-com-postgres-e-postgis-uma-abordagem-pratica-no-projeto-photofy-4360)
-- [Swift: The Complete Guide to Error Handling in the Network Layer](https://dev.to/pavel_andreev_ios/swift-the-complete-guide-to-error-handling-in-the-network-layer-1n64)
-- [Associative Methods](https://dev.to/lizmat/associative-methods-2mcl)
-- [Why your company&#39;s JSP app isn&#39;t dead - it just needs Spring Boot](https://dev.to/therobustroast/why-your-companys-jsp-app-isnt-dead-it-just-needs-spring-boot-2fje)
-- [Unlocking the Hidden Power of Your Laptop’s GPU](https://dev.to/nisam/unlocking-the-hidden-power-of-your-laptops-gpu-20kc)
+- [CVE-2026-25949: Traefik&#39;s Eternal Wait: Bypassing TCP Timeouts with Postgres Magic Bytes](https://dev.to/cverports/cve-2026-25949-traefiks-eternal-wait-bypassing-tcp-timeouts-with-postgres-magic-bytes-1cdo)
+- [Iterate on your SDKs locally with the Stainless Language Server](https://dev.to/stainlessapi/iterate-on-your-sdks-locally-with-the-stainless-language-server-10m0)
+- [Luhn Algorithm Explained: Credit Card Validation in JavaScript](https://dev.to/mnotr/luhn-algorithm-explained-credit-card-validation-in-javascript-4ggd)
+- [How to Validate International Phone Numbers in JavaScript &lpar;2026&rpar;](https://dev.to/mnotr/how-to-validate-international-phone-numbers-in-javascript-2026-51j0)
+- [Linux &amp; Windows dualboot report](https://dev.to/murilobispo/linux-windows-dualboot-report-38jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
