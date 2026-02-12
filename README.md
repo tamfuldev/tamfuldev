@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ReviewPilot: The AI-Native Code Reviewer for Your Terminal](https://dev.to/lebaxiom/reviewpilot-the-ai-native-code-reviewer-for-your-terminal-20fm)
-- [Orq.ai Explained: Operating LLM Systems in Production Without Losing Control](https://dev.to/alifar/orqai-explained-operating-llm-systems-in-production-without-losing-control-4lfi)
-- [Vibe Coding is a Last Resort Mistake!!](https://dev.to/its_ryann/vibe-coding-is-a-last-resort-mistake-4ndp)
-- [Post-Quantum AA on Ethereum, ERC-4337 Security, EIP-7702 Wallets, Chain Abstraction on TRIA](https://dev.to/etherspot/post-quantum-aa-on-ethereum-erc-4337-security-eip-7702-wallets-chain-abstraction-on-tria-35kf)
-- [From WordPress Fatigue to Astro: Building a Scalable Static Site Builder](https://dev.to/mr4rahimi/from-wordpress-fatigue-to-astro-building-a-scalable-static-site-builder-3695)
+- [J&#39;ai créé mon premier chatbot IA en 3 jours : retour d&#39;expérience](https://dev.to/abenali/jai-cree-mon-premier-chatbot-ia-en-3-jours-retour-dexperience-3jcg)
+- [Built a Hybrid RAG API with FastAPI &amp; Ollama – Sparse + Dense retrieval in action.](https://dev.to/ashwani_garg_8070e0d05964/built-a-hybrid-rag-api-with-fastapi-ollama-sparse-dense-retrieval-in-action-21d2)
+- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
+- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
+- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
