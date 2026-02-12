@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Plus Ultra: How Antigravity Helped Me Bring Material Design to Bulma CSS 🎨](https://dev.to/playfulprogramming/building-plus-ultra-how-antigravity-helped-me-bring-material-design-to-bulma-css-30m6)
-- [Deploy Your Phoenix Workspace to a Remote Server Using Railgun](https://dev.to/matrixswarm/deploy-your-phoenix-workspace-to-a-remote-server-using-railgun-38nh)
-- [Copilot Fun Mode — Play Games While Your AI Codes 🎮](https://dev.to/sirluky/copilot-fun-mode-play-games-while-your-ai-codes-2i0m)
-- [I Glued 2 of the Best AI Dev Frameworks Together](https://dev.to/lacow/i-glued-2-of-the-best-ai-dev-frameworks-together-2m0j)
-- [Future City Simulator](https://dev.to/0xbhoomi_vashishtha/future-city-simulator-2o1d)
+- [The New Manager&#39;s Playbook](https://dev.to/linkbenjamin/the-new-managers-playbook-2c9c)
+- [Let&#39;s build a Local Mail Server from Scratch with Postfix and Dovecot](https://dev.to/khripkooleg/lets-build-a-local-mail-server-from-scratch-with-postfix-and-dovecot-3gje)
+- [🚀 A Modern Flutter Permission Plugin That Works Across ALL Platforms &lpar;Android, iOS, Web, Desktop&rpar;](https://dev.to/flutter_developer/a-modern-flutter-permission-plugin-that-works-across-all-platforms-android-ios-web-desktop-4cdm)
+- [ConfDroid Puppet Modules - confdroid_resources](https://dev.to/12ww1160/confdroid-puppet-modules-confdroidresources-na6)
+- [Why I stopped trusting my own backup scripts &lpar;and built a SaaS instead&rpar;](https://dev.to/ivan_kovac_1800b4fe01b1b7/why-i-stopped-trusting-my-own-backup-scripts-and-built-a-saas-instead-5gdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
