@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Many IoT Projects Fail at Scale and How Modern Architecture Solves It](https://dev.to/esoftwaresolutions1/why-many-iot-projects-fail-at-scale-and-how-modern-architecture-solves-it-3eji)
-- [Real-World IoT Challenges and Practical Solutions: Lessons from Scaling Connected Systems](https://dev.to/esoftwaresolutions1/real-world-iot-challenges-and-practical-solutions-lessons-from-scaling-connected-systems-187a)
-- [Copilot: Secret Tip to Troubleshooting Your GitHub Actions](https://dev.to/gioboa/copilot-secret-tip-to-troubleshooting-your-github-actions-30cd)
-- [Art of Computer programming.](https://dev.to/codekuti/art-of-computer-programming-jmm)
-- [Recovery codes… Or just one recovery code?](https://dev.to/antonmb/recovery-codes-or-just-one-recovery-code-50dk)
+- [ReviewPilot: The AI-Native Code Reviewer for Your Terminal](https://dev.to/lebaxiom/reviewpilot-the-ai-native-code-reviewer-for-your-terminal-20fm)
+- [Orq.ai Explained: Operating LLM Systems in Production Without Losing Control](https://dev.to/alifar/orqai-explained-operating-llm-systems-in-production-without-losing-control-4lfi)
+- [Vibe Coding is a Last Resort Mistake!!](https://dev.to/its_ryann/vibe-coding-is-a-last-resort-mistake-4ndp)
+- [Post-Quantum AA on Ethereum, ERC-4337 Security, EIP-7702 Wallets, Chain Abstraction on TRIA](https://dev.to/etherspot/post-quantum-aa-on-ethereum-erc-4337-security-eip-7702-wallets-chain-abstraction-on-tria-35kf)
+- [From WordPress Fatigue to Astro: Building a Scalable Static Site Builder](https://dev.to/mr4rahimi/from-wordpress-fatigue-to-astro-building-a-scalable-static-site-builder-3695)
 <!-- BLOG-POST-LIST:END -->
 
 ---
