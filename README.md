@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-25935: Vikunja XSS: When &#39;Just Looking&#39; Gets You Pwned](https://dev.to/cverports/cve-2026-25935-vikunja-xss-when-just-looking-gets-you-pwned-afj)
-- [How to Build a Telegram Bot That Feels Like a Real Friend &lpar;Not a Chatbot&rpar;](https://dev.to/reeddev42/how-to-build-a-telegram-bot-that-feels-like-a-real-friend-not-a-chatbot-33k8)
-- [Burnout, Rust, and the Feruchemy Problem](https://dev.to/fern_d3v/burnout-rust-and-the-feruchemy-problem-52f4)
-- [DeepSeek R1 on Localhost: Building a Private Coding Assistant for $0](https://dev.to/james_miller_8dc58a89cb9e/deepseek-r1-on-localhost-building-a-private-coding-assistant-for-0-ch4)
-- [Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning &lpar;Meet **@architect**&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk)
+- [What is the Crypto Architecture Kit?](https://dev.to/harmonyos/what-is-the-crypto-architecture-kit-47e)
+- [[GDE] Building a Digital Docent: Master Agentic Vision with Gemini 3](https://dev.to/railsstudent/building-a-digital-docent-master-agentic-vision-with-gemini-3-3n77)
+- [Go Database Fundamentals: SQL or NoSQL for Your Next Project?](https://dev.to/jones_charles_ad50858dbc0/go-database-fundamentals-sql-or-nosql-for-your-next-project-ma5)
+- [Your AI Agent Configs Are Probably Broken &lpar;and You Don&#39;t Know It&rpar;](https://dev.to/avifenesh/your-ai-agent-configs-are-probably-broken-and-you-dont-know-it-16n1)
+- [Infrastructure Archaeology: Diagnosing Multi-Layer CI/CD Failures](https://dev.to/lbcristaldo/infrastructure-archaeology-diagnosing-multi-layer-cicd-failures-3ahi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
