@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The New Manager&#39;s Playbook](https://dev.to/linkbenjamin/the-new-managers-playbook-2c9c)
-- [Let&#39;s build a Local Mail Server from Scratch with Postfix and Dovecot](https://dev.to/khripkooleg/lets-build-a-local-mail-server-from-scratch-with-postfix-and-dovecot-3gje)
-- [🚀 A Modern Flutter Permission Plugin That Works Across ALL Platforms &lpar;Android, iOS, Web, Desktop&rpar;](https://dev.to/flutter_developer/a-modern-flutter-permission-plugin-that-works-across-all-platforms-android-ios-web-desktop-4cdm)
-- [ConfDroid Puppet Modules - confdroid_resources](https://dev.to/12ww1160/confdroid-puppet-modules-confdroidresources-na6)
-- [Why I stopped trusting my own backup scripts &lpar;and built a SaaS instead&rpar;](https://dev.to/ivan_kovac_1800b4fe01b1b7/why-i-stopped-trusting-my-own-backup-scripts-and-built-a-saas-instead-5gdm)
+- [Understanding Endianness: Little-Endian vs Big-Endian](https://dev.to/amanprasad/understanding-endianness-little-endian-vs-big-endian-31e)
+- [Business Acceptance Testing Guide: Process Flow, Benefits, and Scenarios](https://dev.to/irniaqa/business-acceptance-testing-guide-process-flow-benefits-and-scenarios-3cl9)
+- [Free Breach Alerts in Microsoft Sentinel: One-Click Setup with XposedOrNot](https://dev.to/devaonbreaches/free-breach-alerts-in-microsoft-sentinel-one-click-setup-with-xposedornot-4gb0)
+- [Building My Personal AI Operating System: From Chatbot to Digital Soul](https://dev.to/behruamm/building-my-personal-ai-operating-system-from-chatbot-to-digital-soul-4d8d)
+- [Stop &quot;Hope-Based&quot; Security: Why Your CI/CD Needs a Deterministic Gate](https://dev.to/eldor_zufarov_1966/stop-hope-based-security-why-your-cicd-needs-a-deterministic-gate-2i07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
