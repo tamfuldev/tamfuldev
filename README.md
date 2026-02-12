@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the First Utility Library for GenLayer — Here&#39;s What&#39;s Inside](https://dev.to/gaymused/i-built-the-first-utility-library-for-genlayer-heres-whats-inside-l5g)
-- [Building My LinkedIn Automation Web Application &lpar;From OAuth to Live Posting&rpar;](https://dev.to/bharath_kumar_30_vog/building-my-linkedin-automation-web-application-from-oauth-to-live-posting-4cic)
-- [The Secret Life of Go: Concurrency Patterns](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-concurrency-patterns-2hdp)
-- [How Enterprise Software Improves Business Efficiency in Modern Organizations](https://dev.to/niotechone/how-enterprise-software-improves-business-efficiency-in-modern-organizations-4a56)
-- [💡 LSA Dumps: The EDR Blind Spot](https://dev.to/harsh_hak/lsa-dumps-the-edr-blind-spot-lgb)
+- [Why Many IoT Projects Fail at Scale and How Modern Architecture Solves It](https://dev.to/esoftwaresolutions1/why-many-iot-projects-fail-at-scale-and-how-modern-architecture-solves-it-3eji)
+- [Real-World IoT Challenges and Practical Solutions: Lessons from Scaling Connected Systems](https://dev.to/esoftwaresolutions1/real-world-iot-challenges-and-practical-solutions-lessons-from-scaling-connected-systems-187a)
+- [Copilot: Secret Tip to Troubleshooting Your GitHub Actions](https://dev.to/gioboa/copilot-secret-tip-to-troubleshooting-your-github-actions-30cd)
+- [Art of Computer programming.](https://dev.to/codekuti/art-of-computer-programming-jmm)
+- [Recovery codes… Or just one recovery code?](https://dev.to/antonmb/recovery-codes-or-just-one-recovery-code-50dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
