@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Crypto Architecture Kit?](https://dev.to/harmonyos/what-is-the-crypto-architecture-kit-47e)
-- [[GDE] Building a Digital Docent: Master Agentic Vision with Gemini 3](https://dev.to/railsstudent/building-a-digital-docent-master-agentic-vision-with-gemini-3-3n77)
-- [Go Database Fundamentals: SQL or NoSQL for Your Next Project?](https://dev.to/jones_charles_ad50858dbc0/go-database-fundamentals-sql-or-nosql-for-your-next-project-ma5)
-- [Your AI Agent Configs Are Probably Broken &lpar;and You Don&#39;t Know It&rpar;](https://dev.to/avifenesh/your-ai-agent-configs-are-probably-broken-and-you-dont-know-it-16n1)
-- [Infrastructure Archaeology: Diagnosing Multi-Layer CI/CD Failures](https://dev.to/lbcristaldo/infrastructure-archaeology-diagnosing-multi-layer-cicd-failures-3ahi)
+- [I Built an AI Game Dev Toolkit &lpar;and Cut My Asset Creation Time by 70%&rpar;](https://dev.to/devdude_gamemaker_dba949b/i-built-an-ai-game-dev-toolkit-and-cut-my-asset-creation-time-by-70-2nci)
+- [Turned my Next.js blog SEO process into a simple publish checklist](https://dev.to/andresz74/turned-my-nextjs-blog-seo-process-into-a-simple-publish-checklist-493g)
+- [How diffChangelog and Snapshots Work Together](https://dev.to/sonichigo/how-diffchangelog-and-snapshots-work-together-2l0i)
+- [Building Your First RAG System](https://dev.to/googleai/building-your-first-rag-system-f0n)
+- [🛌 Beginner-Friendly Guide &#39;Longest Balanced Substring I&#39; - Leetcode Problem 3713 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
