@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Repo Optimizer: I Let a KISS AI Agent Optimize Itself Overnight. It Cut Its Own Cost by 98%.](https://dev.to/koushik_sen_d549bf321e6fb/repo-optimizer-i-let-a-kiss-ai-agent-optimize-itself-overnight-it-cut-its-own-cost-by-98-1ddi)
-- [My f...second game](https://dev.to/depoco/my-fsecond-game-935)
-- [Ramp’s Inspect shows closed-loop AI agents are software’s future](https://dev.to/signadot/ramps-inspect-shows-closed-loop-ai-agents-are-softwares-future-4ic1)
-- [Azure Integration Services – Complete Guide](https://dev.to/davinceleecode/azure-integration-services-complete-guide-5c64)
-- [How I Built an End-to-End Integration System Using Dell Boomi](https://dev.to/kancherla_venkatadileep/how-i-built-an-end-to-end-integration-system-using-dell-boomi-440p)
+- [Desenvolvedora Front End e experiência com IA](https://dev.to/pamelaotero/desenvolvedor-front-end-e-experiencia-com-ia-1dn5)
+- [From 97% Model Accuracy to 74% Clinical Reliability: Building RSN-NNSL-GATE-001](https://dev.to/flamehaven01/from-97-model-accuracy-to-74-clinical-reliability-building-rsn-nnsl-gate-001-1531)
+- [Writing for humans is no longer enough. Writing for AI is now part of the job](https://dev.to/siddhartha_mani_03/writing-for-humans-is-no-longer-enough-writing-for-ai-is-now-part-of-the-job-14h9)
+- [Alpine-Like Container Security, Debian-Like Compatibility: Why I Picked Chiseled for .NET](https://dev.to/daan_acohen/alpine-like-container-security-debian-like-compatibility-why-i-picked-chiseled-for-net-4aap)
+- [How to use match-case in Python &lpar;hint: not for if statements&rpar;](https://dev.to/guzmanojero/how-to-use-match-case-in-python-hint-not-for-if-statements-491e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
