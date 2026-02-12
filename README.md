@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Game Dev Toolkit &lpar;and Cut My Asset Creation Time by 70%&rpar;](https://dev.to/devdude_gamemaker_dba949b/i-built-an-ai-game-dev-toolkit-and-cut-my-asset-creation-time-by-70-2nci)
-- [Turned my Next.js blog SEO process into a simple publish checklist](https://dev.to/andresz74/turned-my-nextjs-blog-seo-process-into-a-simple-publish-checklist-493g)
-- [How diffChangelog and Snapshots Work Together](https://dev.to/sonichigo/how-diffchangelog-and-snapshots-work-together-2l0i)
-- [Building Your First RAG System](https://dev.to/googleai/building-your-first-rag-system-f0n)
-- [🛌 Beginner-Friendly Guide &#39;Longest Balanced Substring I&#39; - Leetcode Problem 3713 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn)
+- [Why Your AI Doesn&#39;t Remember You — And Why That Matters](https://dev.to/zealchou/why-your-ai-doesnt-remember-you-and-why-that-matters-1450)
+- [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m)
+- [Apache httpd и PHP-FPM: модули и расширения для продакшена &lpar;с учётом Bitrix&rpar;](https://dev.to/_vproger_/apache-httpd-i-php-fpm-moduli-i-rasshirieniia-dlia-prodakshiena-s-uchiotom-bitrix-1c6)
+- [Why I Built nevr-env — And Why process.env Deserves Better](https://dev.to/yalelet_dessalegn_b87ed18/why-i-built-nevr-env-and-why-processenv-deserves-better-4iod)
+- [The Future of Networking: Neural Differential Manifolds and the Rise of NDM-TCP](https://dev.to/hejhdiss/the-future-of-networking-neural-differential-manifolds-and-the-rise-of-ndm-tcp-3hb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
