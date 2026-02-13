@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GDPR-Compliant Screen Recording: What You Actually Need to Know](https://dev.to/alexneamtu/gdpr-compliant-screen-recording-what-you-actually-need-to-know-33np)
-- [How to Detect Prompt Injection Attacks in Your AI Agent &lpar;3 Layers, 5 Minutes&rpar;](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd)
-- [Building Reliable Software: Planning for Things to Break](https://dev.to/saleor/building-reliable-software-planning-for-things-to-break-19nh)
-- [I built a scripting language that compiles to self-contained binaries](https://dev.to/oakulikov/i-built-a-scripting-language-that-compiles-to-self-contained-binaries-21k)
-- [Taming SwiftSuite: Solving the Productivity Bottleneck on macOS](https://dev.to/sopro/taming-swiftsuite-solving-the-productivity-bottleneck-on-macos-21fi)
+- [Building Responsive Canvas Apps: A Container-First Approach](https://dev.to/neeta_jadhav/building-responsive-canvas-apps-a-container-first-approach-5g4j)
+- [Φόρτωση Δεδομένων στο Entity Framework Core](https://dev.to/__b63657/phortose-dedomenon-sto-entity-framework-core-7dd)
+- [We Replaced Our Bash Scripts and Hydra With a Single Go Binary for Credential Testing](https://dev.to/praetorian_guard/we-replaced-our-bash-scripts-and-hydra-with-a-single-go-binary-for-credential-testing-3p5c)
+- [Building a Terminal-Based AI PR Reviewer with GitHub Copilot CLI](https://dev.to/rhythm_dubey_92c43317b6b3/building-a-terminal-based-ai-pr-reviewer-with-github-copilot-cli-36fe)
+- [AI Infra HPC — CPU](https://dev.to/bokai_gu/ai-infra-hpc-cpu-38h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
