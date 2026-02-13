@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with GORM: Your Go-To ORM for Go](https://dev.to/jones_charles_ad50858dbc0/getting-started-with-gorm-your-go-to-orm-for-go-h7i)
-- [A Pre-Recording Privacy Checklist for SaaS Demos &lpar;That Actually Works&rpar;](https://dev.to/gong_junhao_db22d984253d7/a-pre-recording-privacy-checklist-for-saas-demos-that-actually-works-3p8k)
-- [Stop Writing Strapi Types by Hand — Auto-Generate a Fully Typed Client in Seconds](https://dev.to/dearonski/stop-writing-strapi-types-by-hand-auto-generate-a-fully-typed-client-in-seconds-536m)
-- [The Math Behind VM Right-Sizing &lpar;Stop guessing your Azure SKU&rpar;](https://dev.to/abhijeet_h_ea7533c94/the-math-behind-vm-right-sizing-stop-guessing-your-azure-sku-130n)
-- [Cross-Cloud Authentication in Kubernetes: A Comprehensive Guide to IRSA, Workload Identity, and Federated Identity](https://dev.to/piyushjajoo/cross-cloud-authentication-in-kubernetes-a-comprehensive-guide-to-irsa-workload-identity-and-40en)
+- [The clarity around income versus leverage is important. Ashkan Rajaee makes a compelling case for building long term assets through your work.](https://dev.to/kavilon/the-clarity-around-income-versus-leverage-is-important-ashkan-rajaee-makes-a-compelling-case-for-40ih)
+- [[AMA] StepFun Team here &lpar;Step 3.5 Flash&rpar; on reddit. Ask us anything!](https://dev.to/john_engineer_stepfun/ama-stepfun-team-here-step-35-flash-on-reddit-ask-us-anything-3h8g)
+- [Hot Air Balloon Map](https://dev.to/fgulec/hot-air-balloon-map-5fid)
+- [Navigating the ACA Deadline: Why WCAG 2.2 and EN 301 549 are Crucial for Federally Regulated Organizations](https://dev.to/proga100/navigating-the-aca-deadline-why-wcag-22-and-en-301-549-are-crucial-for-federally-regulated-dl1)
+- [How to install and deploy Dify and obtain the free API Key](https://dev.to/tyennsiiweeisthebest/how-to-install-and-deploy-dify-and-obtain-the-free-api-key-4oge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
