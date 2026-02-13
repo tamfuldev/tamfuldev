@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unity Physics Body Types](https://dev.to/prasanth_sivakumar/unity-physics-body-types-3l8p)
-- [The Ultimate Node.js Backend Mastery Guide: Zero to Production Hero](https://dev.to/yakhilesh/the-ultimate-nodejs-backend-mastery-guide-zero-to-production-hero-174a)
-- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/yuridevat/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
-- [Understanding APIs Through Errors JSON and Status Codes](https://dev.to/charity254/understanding-apis-through-errors-json-and-status-codes-4441)
-- [Automating TLS Certificate Lifecycle with Let&#39;s Encrypt and ACME](https://dev.to/tim_derzhavets/automating-tls-certificate-lifecycle-with-lets-encrypt-and-acme-3ef1)
+- [New article](https://dev.to/anthonymax/new-article-2pf9)
+- [Your Documentation is Lying to Your Users](https://dev.to/bipin_rimal314/your-documentation-is-lying-to-your-users-41o6)
+- [The Review of GUI LVM Tools](https://dev.to/google_welees_5803cb71900/the-review-of-gui-lvm-tools-413i)
+- [Build a Serverless RAG Engine for $0](https://dev.to/ayka_code/build-a-serverless-rag-engine-for-0-3jop)
+- [Set up Ollama, NGROK, and LangChain](https://dev.to/brenoav/set-up-ollama-ngrok-and-langchain-4nkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
