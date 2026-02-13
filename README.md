@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Command Center for AI Coding Agents &lpar;Claude Code + Codex&rpar;](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g)
-- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
-- [What other map APIs are good for integration into a logistics website](https://dev.to/method_ncarlson_ddf/what-other-map-apis-are-good-for-integration-into-a-logistics-website-2p75)
-- [Native Auditing Architecture: Embedding Traceability Intelligence within the Database Core.](https://dev.to/isabellyarrudaa/native-auditing-architecture-embedding-traceability-intelligence-within-the-database-core-1c2p)
-- [I replaced Stripe&#39;s dunning emails with SMS — here&#39;s the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3)
+- [cfix: Architecting a seamless diagnostic bridge between Linux runtime errors and GitHub Copilot’s LLM-powered intelligence](https://dev.to/stefan_donosa/cfix-architecting-a-seamless-diagnostic-bridge-between-linux-runtime-errors-and-github-copilots-2bd0)
+- [I built a browser-based OS for managing my self-hosted server](https://dev.to/roqueribeiro/i-built-a-browser-based-os-for-managing-my-self-hosted-server-iip)
+- [Using AI to Build a Tool That Stops Me From Blindly Using AI](https://dev.to/javz/using-ai-to-build-a-tool-that-stops-me-from-blindly-using-ai-2dh7)
+- [The 47‑Day SSL/TLS Certificate Era Is Coming](https://dev.to/techthatworks/the-47-day-ssltls-certificate-era-is-coming-370)
+- [Mobile UI Design for Complex Games: Lessons from RuneScape Mobile](https://dev.to/oceanviewgames/mobile-ui-design-for-complex-games-lessons-from-runescape-mobile-2928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
