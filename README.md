@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [New article](https://dev.to/anthonymax/new-article-2pf9)
-- [Your Documentation is Lying to Your Users](https://dev.to/bipin_rimal314/your-documentation-is-lying-to-your-users-41o6)
-- [The Review of GUI LVM Tools](https://dev.to/google_welees_5803cb71900/the-review-of-gui-lvm-tools-413i)
-- [Build a Serverless RAG Engine for $0](https://dev.to/ayka_code/build-a-serverless-rag-engine-for-0-3jop)
-- [Set up Ollama, NGROK, and LangChain](https://dev.to/brenoav/set-up-ollama-ngrok-and-langchain-4nkf)
+- [👨‍🍳 Cuisiner ta première API REST : Le Secret de la Sauce Express, Prisma et Postgres](https://dev.to/tacite243/cuisiner-ta-premiere-api-rest-le-secret-de-la-sauce-express-prisma-et-postgres-4hif)
+- [A Comprehensive Guide to Nginx for Developers](https://dev.to/stringzwb/nginx-summary-english-nk1)
+- [How GiLab Duo Agent Platform &amp; Antigravity can collaborate to improve the quality of our applications](https://dev.to/zenika/how-gilab-duo-agent-platform-antigravity-can-collaborate-to-improve-the-quality-of-our-38bm)
+- [Automatic TypeScript Type Generation in Next.js + Apollo GraphQL + Strapi](https://dev.to/ozelinskyi/automatic-typescript-type-generation-in-nextjs-apollo-graphql-strapi-106h)
+- [Does Moissanite Pass a Diamond Tester? The Truth Behind the Viral Videos](https://dev.to/adamans_jewelry_8b9fce5eb/does-moissanite-pass-a-diamond-tester-the-truth-behind-the-viral-videos-55jm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
