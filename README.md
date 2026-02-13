@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/fernandoandrade/-ml8)
-- [Alembic: Versionamento de Banco de Dados](https://dev.to/carineneris/alembic-versionamento-de-banco-de-dados-40di)
-- [AI Agent for Moltbook in Java: From Zero to Hero](https://dev.to/vishalmysore/ai-agent-for-moltbook-in-java-from-zero-to-hero-27pg)
-- [Heroku&#39;s Changing Direction](https://dev.to/sai_praneeth_bhattu/herokus-changing-direction-375b)
-- [lru_cache vs singleton in Python — they&#39;re not the same thing.](https://dev.to/frank-895/lrucache-vs-singleton-in-python-theyre-not-the-same-thing-1bmc)
+- [Getting Started with GORM: Your Go-To ORM for Go](https://dev.to/jones_charles_ad50858dbc0/getting-started-with-gorm-your-go-to-orm-for-go-h7i)
+- [A Pre-Recording Privacy Checklist for SaaS Demos &lpar;That Actually Works&rpar;](https://dev.to/gong_junhao_db22d984253d7/a-pre-recording-privacy-checklist-for-saas-demos-that-actually-works-3p8k)
+- [Stop Writing Strapi Types by Hand — Auto-Generate a Fully Typed Client in Seconds](https://dev.to/dearonski/stop-writing-strapi-types-by-hand-auto-generate-a-fully-typed-client-in-seconds-536m)
+- [The Math Behind VM Right-Sizing &lpar;Stop guessing your Azure SKU&rpar;](https://dev.to/abhijeet_h_ea7533c94/the-math-behind-vm-right-sizing-stop-guessing-your-azure-sku-130n)
+- [Cross-Cloud Authentication in Kubernetes: A Comprehensive Guide to IRSA, Workload Identity, and Federated Identity](https://dev.to/piyushjajoo/cross-cloud-authentication-in-kubernetes-a-comprehensive-guide-to-irsa-workload-identity-and-40en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
