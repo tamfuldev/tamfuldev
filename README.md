@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping the &quot;AI Spaghetti Code&quot; Trap: How I Refactored My Next.js App with spec-kit](https://dev.to/wanxinvc/escaping-the-ai-spaghetti-code-trap-how-i-refactored-my-nextjs-app-with-spec-kit-3e5l)
-- [TIL: Template Strict Locals &lpar;TSL&rpar;](https://dev.to/epigene/til-template-strict-locals-tsl-31eb)
-- [OpenClaw Ecosystem Deep Dive: Personal AI Assistant to Open Source](https://dev.to/chx381/openclaw-ecosystem-deep-dive-personal-ai-assistant-to-open-source-30nm)
-- [&quot;Please Clear Your Cache&quot; — How I Finally Fixed Flutter Web Caching for Good](https://dev.to/adriengras/please-clear-your-cache-how-i-finally-fixed-flutter-web-caching-for-good-5dlj)
-- [Sentiment Analysis in C# - Without Python or External APIs](https://dev.to/olafur_aron/sentiment-analysis-in-c-without-python-or-external-apis-3jpm)
+- [Unity Physics Body Types](https://dev.to/prasanth_sivakumar/unity-physics-body-types-3l8p)
+- [The Ultimate Node.js Backend Mastery Guide: Zero to Production Hero](https://dev.to/yakhilesh/the-ultimate-nodejs-backend-mastery-guide-zero-to-production-hero-174a)
+- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/yuridevat/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
+- [Understanding APIs Through Errors JSON and Status Codes](https://dev.to/charity254/understanding-apis-through-errors-json-and-status-codes-4441)
+- [Automating TLS Certificate Lifecycle with Let&#39;s Encrypt and ACME](https://dev.to/tim_derzhavets/automating-tls-certificate-lifecycle-with-lets-encrypt-and-acme-3ef1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
