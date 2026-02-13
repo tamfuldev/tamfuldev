@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [👨‍🍳 Cuisiner ta première API REST : Le Secret de la Sauce Express, Prisma et Postgres](https://dev.to/tacite243/cuisiner-ta-premiere-api-rest-le-secret-de-la-sauce-express-prisma-et-postgres-4hif)
-- [A Comprehensive Guide to Nginx for Developers](https://dev.to/stringzwb/nginx-summary-english-nk1)
-- [How GiLab Duo Agent Platform &amp; Antigravity can collaborate to improve the quality of our applications](https://dev.to/zenika/how-gilab-duo-agent-platform-antigravity-can-collaborate-to-improve-the-quality-of-our-38bm)
-- [Automatic TypeScript Type Generation in Next.js + Apollo GraphQL + Strapi](https://dev.to/ozelinskyi/automatic-typescript-type-generation-in-nextjs-apollo-graphql-strapi-106h)
-- [Does Moissanite Pass a Diamond Tester? The Truth Behind the Viral Videos](https://dev.to/adamans_jewelry_8b9fce5eb/does-moissanite-pass-a-diamond-tester-the-truth-behind-the-viral-videos-55jm)
+- [I Built a Notion-like Editor for Vue 3 with AI, 5 Themes, and Real-time Collaboration — It&#39;s 100% Free](https://dev.to/benngaihk/i-built-a-notion-like-editor-for-vue-3-with-ai-5-themes-and-real-time-collaboration-its-100-2pn6)
+- [Stress: Linux Stress Testing Tool](https://dev.to/stringzwb/stress-linux-stress-testing-tool-7ho)
+- [OpenClaw Ruined My Project &lpar;And I&#39;m Grateful It Did&rpar;](https://dev.to/kokogo100/openclaw-ruined-my-project-and-im-grateful-it-did-1bah)
+- [8 Self-hosted Projects You Can Run at home](https://dev.to/globalping/8-self-hosted-projects-you-can-run-at-home-424l)
+- [Deploying a 24/7 AI Personal Assistant on Fly.io: The Manual Guide &lpar;and the 30-second Shortcut&rpar;](https://dev.to/oclauncherai/deploying-a-247-ai-personal-assistant-on-flyio-the-manual-guide-and-the-30-second-shortcut-52lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
