@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity: Beyond the Basics of AI Coding](https://dev.to/thecoder93/antigravity-beyond-the-basics-of-ai-coding-4kfp)
-- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
-- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
-- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml)
-- [5 Battle-Tested Strategies to Survive 12-Hour Nursing Shifts &lpar;Without Burning Out&rpar;](https://dev.to/mullair_jeudi_e8259c5c82d/5-battle-tested-strategies-to-survive-12-hour-nursing-shifts-without-burning-out-llk)
+- [Escaping the &quot;AI Spaghetti Code&quot; Trap: How I Refactored My Next.js App with spec-kit](https://dev.to/wanxinvc/escaping-the-ai-spaghetti-code-trap-how-i-refactored-my-nextjs-app-with-spec-kit-3e5l)
+- [TIL: Template Strict Locals &lpar;TSL&rpar;](https://dev.to/epigene/til-template-strict-locals-tsl-31eb)
+- [OpenClaw Ecosystem Deep Dive: Personal AI Assistant to Open Source](https://dev.to/chx381/openclaw-ecosystem-deep-dive-personal-ai-assistant-to-open-source-30nm)
+- [&quot;Please Clear Your Cache&quot; — How I Finally Fixed Flutter Web Caching for Good](https://dev.to/adriengras/please-clear-your-cache-how-i-finally-fixed-flutter-web-caching-for-good-5dlj)
+- [Sentiment Analysis in C# - Without Python or External APIs](https://dev.to/olafur_aron/sentiment-analysis-in-c-without-python-or-external-apis-3jpm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
