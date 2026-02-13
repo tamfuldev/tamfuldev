@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Notion-like Editor for Vue 3 with AI, 5 Themes, and Real-time Collaboration — It&#39;s 100% Free](https://dev.to/benngaihk/i-built-a-notion-like-editor-for-vue-3-with-ai-5-themes-and-real-time-collaboration-its-100-2pn6)
-- [Stress: Linux Stress Testing Tool](https://dev.to/stringzwb/stress-linux-stress-testing-tool-7ho)
-- [OpenClaw Ruined My Project &lpar;And I&#39;m Grateful It Did&rpar;](https://dev.to/kokogo100/openclaw-ruined-my-project-and-im-grateful-it-did-1bah)
-- [8 Self-hosted Projects You Can Run at home](https://dev.to/globalping/8-self-hosted-projects-you-can-run-at-home-424l)
-- [Deploying a 24/7 AI Personal Assistant on Fly.io: The Manual Guide &lpar;and the 30-second Shortcut&rpar;](https://dev.to/oclauncherai/deploying-a-247-ai-personal-assistant-on-flyio-the-manual-guide-and-the-30-second-shortcut-52lp)
+- [GDPR-Compliant Screen Recording: What You Actually Need to Know](https://dev.to/alexneamtu/gdpr-compliant-screen-recording-what-you-actually-need-to-know-33np)
+- [How to Detect Prompt Injection Attacks in Your AI Agent &lpar;3 Layers, 5 Minutes&rpar;](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd)
+- [Building Reliable Software: Planning for Things to Break](https://dev.to/saleor/building-reliable-software-planning-for-things-to-break-19nh)
+- [I built a scripting language that compiles to self-contained binaries](https://dev.to/oakulikov/i-built-a-scripting-language-that-compiles-to-self-contained-binaries-21k)
+- [Taming SwiftSuite: Solving the Productivity Bottleneck on macOS](https://dev.to/sopro/taming-swiftsuite-solving-the-productivity-bottleneck-on-macos-21fi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
