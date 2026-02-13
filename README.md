@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Runtime Authorization? A Guide to Dynamic Access Control and the Best Runtime Authorization Tools](https://dev.to/anna_p_s/what-is-runtime-authorization-a-guide-to-dynamic-access-control-and-the-best-runtime-authorization-1849)
-- [The Ultimate Guide to Kotlin Concurrency for Building a Super Android App 🚀](https://dev.to/mrkivan820/the-ultimate-guide-to-kotlin-concurrency-for-building-a-super-android-app-4pko)
-- [The 1:1 Myth: Why Your CPU Can Handle 400 Threads on 4 Cores](https://dev.to/nunosilva/the-11-myth-why-your-cpu-can-handle-400-threads-on-4-cores-57il)
-- [The .cursorrules I&#39;d Actually Use for a Next.js E-Commerce Project](https://dev.to/nedcodes/the-cursorrules-id-actually-use-for-a-nextjs-e-commerce-project-198i)
-- [MultiLLM interface, Smartest way to use AI!](https://dev.to/fastestmk/multillm-interface-2c25)
+- [A 2026 Introduction to Apache Iceberg](https://dev.to/alexmercedcoder/a-2026-introduction-to-apache-iceberg-4nd8)
+- [Why Practicing Without Time Pressure Is a Silent Mistake](https://dev.to/rs029/why-practicing-without-time-pressure-is-a-silent-mistake-396g)
+- [Building a SOC Assistant CLI with GitHub Copilot to Detect Real Attack Patterns](https://dev.to/krishna_dangi_8e0d4e9eb50/building-a-soc-assistant-cli-with-github-copilot-to-detect-real-attack-patterns-254b)
+- [Why Most SaaS Boilerplates Become Technical Debt Within 6 Months](https://dev.to/getdevits/why-most-saas-boilerplates-become-technical-debt-within-6-months-2a3i)
+- [Declarative Partitioning Strategies: Managing Audit Big Data without Performance Loss](https://dev.to/izes_stella/declarative-partitioning-strategies-managing-audit-big-data-without-performance-loss-4khj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
