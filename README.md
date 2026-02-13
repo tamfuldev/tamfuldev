@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Research Papers into Executable Code](https://dev.to/chiho5/turning-research-papers-into-executable-code-5898)
-- [A Practical Guide to Multi-Model AI Workflows](https://dev.to/salvatore_zetina_afcf8b44/a-practical-guide-to-multi-model-ai-workflows-12ln)
-- [Programming in the Age of AI: From Code to Intent](https://dev.to/robertobutti/programming-in-the-age-of-ai-from-code-to-intent-46eo)
-- [AI Agent Architecture Patterns: Engineering for Autonomy, Resilience, and Control](https://dev.to/topuzas/ai-agent-architecture-patterns-engineering-for-autonomy-resilience-and-control-134m)
-- [The Great AI Agent Showdown of 2026: OpenAI, AutoGen, CrewAI, or LangGraph?](https://dev.to/topuzas/the-great-ai-agent-showdown-of-2026-openai-autogen-crewai-or-langgraph-1ea8)
+- [CVE-2026-26273: The Over-Helpful Doorman: Full Account Takeover in &#39;Known&#39; CMS](https://dev.to/cverports/cve-2026-26273-the-over-helpful-doorman-full-account-takeover-in-known-cms-4gj8)
+- [Cache-Control: the silent hero in communication between services](https://dev.to/jairo-dev-jr/cache-control-the-silent-hero-in-communication-between-services-7lf)
+- [Build a simple RAG workflow to chat with your docs in n8n](https://dev.to/jennapederson/build-a-simple-rag-workflow-to-chat-with-your-docs-in-n8n-1e5)
+- [Day 12 of #100DaysOfCode — Understanding Zustand](https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f)
+- [Staying Market Volatility Resilient as a Dev in the AI Era](https://dev.to/lawrencedcodes/staying-market-volatility-resilient-as-a-dev-in-the-ai-era-52gc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
