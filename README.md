@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Responsive Canvas Apps: A Container-First Approach](https://dev.to/neeta_jadhav/building-responsive-canvas-apps-a-container-first-approach-5g4j)
-- [Φόρτωση Δεδομένων στο Entity Framework Core](https://dev.to/__b63657/phortose-dedomenon-sto-entity-framework-core-7dd)
-- [We Replaced Our Bash Scripts and Hydra With a Single Go Binary for Credential Testing](https://dev.to/praetorian_guard/we-replaced-our-bash-scripts-and-hydra-with-a-single-go-binary-for-credential-testing-3p5c)
-- [Building a Terminal-Based AI PR Reviewer with GitHub Copilot CLI](https://dev.to/rhythm_dubey_92c43317b6b3/building-a-terminal-based-ai-pr-reviewer-with-github-copilot-cli-36fe)
-- [AI Infra HPC — CPU](https://dev.to/bokai_gu/ai-infra-hpc-cpu-38h4)
+- [Benchmarking Vercel AI Gateway against the native Anthropic SDK](https://dev.to/cliftonz/benchmarking-vercel-ai-gateway-against-the-native-anthropic-sdk-21g5)
+- [Shell Tutor: I Built a Terminal Teacher Where Copilot CLI Is the Instructor](https://dev.to/zeshama/shell-tutor-i-built-a-terminal-teacher-where-copilot-cli-is-the-instructor-2577)
+- [What&#39;s easier, Learning LaTeX Tables or Asking Copilot CLI for a table code generating tool?](https://dev.to/raemih/whats-easier-learning-latex-tables-or-asking-copilot-cli-for-a-table-code-generating-tool-437p)
+- [Understanding Key Cloud and Infrastructure Concepts](https://dev.to/zainab_oladimeji/understanding-key-cloud-and-infrastructure-concepts-4b3b)
+- [The 24/7 Job Search: A View from Both Sides of the Interview Table](https://dev.to/neel_neelakantan/the-247-job-search-a-view-from-both-sides-of-the-interview-table-9d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
