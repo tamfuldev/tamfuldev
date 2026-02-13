@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A 2026 Introduction to Apache Iceberg](https://dev.to/alexmercedcoder/a-2026-introduction-to-apache-iceberg-4nd8)
-- [Why Practicing Without Time Pressure Is a Silent Mistake](https://dev.to/rs029/why-practicing-without-time-pressure-is-a-silent-mistake-396g)
-- [Building a SOC Assistant CLI with GitHub Copilot to Detect Real Attack Patterns](https://dev.to/krishna_dangi_8e0d4e9eb50/building-a-soc-assistant-cli-with-github-copilot-to-detect-real-attack-patterns-254b)
-- [Why Most SaaS Boilerplates Become Technical Debt Within 6 Months](https://dev.to/getdevits/why-most-saas-boilerplates-become-technical-debt-within-6-months-2a3i)
-- [Declarative Partitioning Strategies: Managing Audit Big Data without Performance Loss](https://dev.to/izes_stella/declarative-partitioning-strategies-managing-audit-big-data-without-performance-loss-4khj)
+- [Command Center for AI Coding Agents &lpar;Claude Code + Codex&rpar;](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g)
+- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
+- [What other map APIs are good for integration into a logistics website](https://dev.to/method_ncarlson_ddf/what-other-map-apis-are-good-for-integration-into-a-logistics-website-2p75)
+- [Native Auditing Architecture: Embedding Traceability Intelligence within the Database Core.](https://dev.to/isabellyarrudaa/native-auditing-architecture-embedding-traceability-intelligence-within-the-database-core-1c2p)
+- [I replaced Stripe&#39;s dunning emails with SMS — here&#39;s the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
