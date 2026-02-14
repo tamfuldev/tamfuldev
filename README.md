@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-1721: CVE-2026-1721: When JSON.stringify&lpar;&rpar; Betrays You in Cloudflare Agents](https://dev.to/cverports/cve-2026-1721-cve-2026-1721-when-jsonstringify-betrays-you-in-cloudflare-agents-2m9g)
-- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
-- [From Zero to Production API in 5 Minutes](https://dev.to/rapidkit/from-zero-to-production-api-in-5-minutes-2ehl)
-- [Document Localization Studio](https://dev.to/swatigoyal911/document-localization-studio-5gl8)
-- [Rock ✊ Paper ✋ Scissors ✌️](https://dev.to/elanatframework/rock-paper-scissors-3adb)
+- [Stop Your Coding Agent From Stealing Production Secrets](https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi)
+- [From Frontend to Full-Stack: Building a Real Estate Marketplace and Learning Backend Development](https://dev.to/maxixo/from-frontend-to-full-stack-building-a-real-estate-marketplace-and-learning-backend-development-2258)
+- [Beyond Encryption: Designing a Tamper-Evident State Engine](https://dev.to/laphilosophia/beyond-encryption-designing-a-tamper-evident-state-engine-1c19)
+- [CIberus: A Three-Headed ASCII Guardian for Your CI Pipeline](https://dev.to/simandebvu/ciberus-a-three-headed-ascii-guardian-for-your-ci-pipeline-52m8)
+- [OpenCode: Tu Agente de lA Potenciado para la Terminal](https://dev.to/kevinl/opencode-your-empowered-agent-for-the-terminal-10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
