@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Czkawka/Krokiet 11.0 - fighting with GTK, EXIF cleaning, video optimizer, black bar cropping and new logo](https://dev.to/qarmin/czkawkakrokiet-110-fighting-with-gtk-exif-cleaning-video-optimizer-black-bar-cropping-and-1fbd)
-- [Hey I&#39;m new here. This is Masih Ahmed, officially Mr Ahmed, but you can call me just Masih. Whatever, As ya know I&#39;m new here and I&#39;m looking for friends to develop new things togerther. I&#39;m a student, College 1st year and I&#39;d like to share my learnings](https://dev.to/masih_ahmed/hey-im-new-here-this-is-masih-ahmed-officially-mr-ahmed-but-you-can-call-me-just-masih-4n9p)
-- [Opik: Your Agent&#39;s Black Box Flight Recorder](https://dev.to/ruchika_bhat_876f8530fa3b/opik-your-agents-black-box-flight-recorder-5235)
-- [The End of APIs: Why Vision Agents Are the Future of Scraping](https://dev.to/behruamm/the-end-of-apis-why-vision-agents-are-the-future-of-scraping-4hfj)
-- [Understanding HTML Tags and Elements](https://dev.to/6116hayat/understanding-html-tags-and-elements-3b07)
+- [How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7)
+- [Slides Narration Video Best Practices &lpar;2Slides + Remotion&rpar; — From One Prompt to a Ready-to-Share MP4](https://dev.to/2slide_zhou_d21a141aa59f6/slides-narration-video-best-practices-2slides-remotion-from-one-prompt-to-a-ready-to-share-mp4-44gb)
+- [What the Cloudflare, AWS, and Azure Outages Reveal About a Fragile, Centralised Internet](https://dev.to/flintx/what-the-cloudflare-aws-and-azure-outages-reveal-about-a-fragile-centralised-internet-377m)
+- [Structure of the Storage Area in Tree Page of SQLite](https://dev.to/lovestaco/structure-of-the-storage-area-in-tree-page-of-sqlite-2ko4)
+- [Prompt2Code](https://dev.to/amitmanna99/prompt2code-5c8l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
