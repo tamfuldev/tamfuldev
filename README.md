@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-26273: The Over-Helpful Doorman: Full Account Takeover in &#39;Known&#39; CMS](https://dev.to/cverports/cve-2026-26273-the-over-helpful-doorman-full-account-takeover-in-known-cms-4gj8)
-- [Cache-Control: the silent hero in communication between services](https://dev.to/jairo-dev-jr/cache-control-the-silent-hero-in-communication-between-services-7lf)
-- [Build a simple RAG workflow to chat with your docs in n8n](https://dev.to/jennapederson/build-a-simple-rag-workflow-to-chat-with-your-docs-in-n8n-1e5)
-- [Day 12 of #100DaysOfCode — Understanding Zustand](https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f)
-- [Staying Market Volatility Resilient as a Dev in the AI Era](https://dev.to/lawrencedcodes/staying-market-volatility-resilient-as-a-dev-in-the-ai-era-52gc)
+- [c++ kodda kament yozish va maxsus belgilar](https://dev.to/ahmadzonodilmurod55sudo/c-kodda-kament-yozish-va-maxsus-belgilar-25i5)
+- [Automating Client Onboarding with Supabase Edge Functions and Webhooks](https://dev.to/syntora/automating-client-onboarding-with-supabase-edge-functions-and-webhooks-1g3j)
+- [Building a Prompt Engineering Feedback Loop: The System That Made My AI Prompts 3x More Effective](https://dev.to/syntora/building-a-prompt-engineering-feedback-loop-the-system-that-made-my-ai-prompts-3x-more-effective-2a4p)
+- [Track Your GitHub Copilot Pro from the Terminal ✨](https://dev.to/cgcm070/track-your-github-copilot-pro-from-the-terminal-91n)
+- [Designing a CLAUDE.md Context System: How I Give AI Full Project Context Without Re-explaining Anything](https://dev.to/syntora/designing-a-claudemd-context-system-how-i-give-ai-full-project-context-without-re-explaining-3p2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
