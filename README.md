@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI removes access to sycophancy-prone GPT-4o model](https://dev.to/minimal-architect/openai-removes-access-to-sycophancy-prone-gpt-4o-model-1n4p)
-- [React Concepts Explained: Part 2 - Advanced Patterns](https://dev.to/dehemi_fabio/react-concepts-explained-part-2-advanced-patterns-5560)
-- [Tired of API Rate Limits? Run Mistral 7B Locally with Ollama &lpar;No More Monthly API Bills&rpar;](https://dev.to/micheal_angelo_41cea4e81a/tired-of-api-rate-limits-run-mistral-7b-locally-with-ollama-no-more-monthly-api-bills-3kf2)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-315h)
-- [Seedance 2.0: The Complete 2026 Guide to ByteDance&#39;s Revolutionary AI Video Generator](https://dev.to/czmilo/seedance-20-the-complete-2026-guide-to-bytedances-revolutionary-ai-video-generator-286i)
+- [Spec Is Not the Cure — Unless It’s Discovered Through Discussion](https://dev.to/wingtao/spec-is-not-the-cure-unless-its-discovered-through-discussion-ebm)
+- [Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI](https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi)
+- [Mastering QueryClient — The Brain Behind React Query &lpar;Complete Guide&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-queryclient-the-brain-behind-react-query-complete-guide-46aa)
+- [Arifmetic Operators | C++](https://dev.to/whysoempty/arifmetic-operators-c-559b)
+- [Stop Switching Repos: The Hidden Efficiency Ceiling in Multi-Repo Debugging — Broken by One Feature](https://dev.to/wingtao/stop-switching-repos-the-hidden-efficiency-ceiling-in-multi-repo-debugging-broken-by-one-feature-74a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
