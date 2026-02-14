@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [c++ kodda kament yozish va maxsus belgilar](https://dev.to/ahmadzonodilmurod55sudo/c-kodda-kament-yozish-va-maxsus-belgilar-25i5)
-- [Automating Client Onboarding with Supabase Edge Functions and Webhooks](https://dev.to/syntora/automating-client-onboarding-with-supabase-edge-functions-and-webhooks-1g3j)
-- [Building a Prompt Engineering Feedback Loop: The System That Made My AI Prompts 3x More Effective](https://dev.to/syntora/building-a-prompt-engineering-feedback-loop-the-system-that-made-my-ai-prompts-3x-more-effective-2a4p)
-- [Track Your GitHub Copilot Pro from the Terminal ✨](https://dev.to/cgcm070/track-your-github-copilot-pro-from-the-terminal-91n)
-- [Designing a CLAUDE.md Context System: How I Give AI Full Project Context Without Re-explaining Anything](https://dev.to/syntora/designing-a-claudemd-context-system-how-i-give-ai-full-project-context-without-re-explaining-3p2p)
+- [MeshChat — A Zero-Install Terminal Chat Room Built with GitHub Copilot CLI](https://dev.to/crubio/meshchat-a-zero-install-terminal-chat-room-built-with-github-copilot-cli-3072)
+- [🦆Built a duckdb community extension for brew](https://dev.to/adriens/built-a-duckdb-community-extension-for-brew-4k6f)
+- [MongoDB Advanced Aggregations With Spring Boot and Amazon Corretto](https://dev.to/aasawari_sahasrabuddhe_3c/mongodb-advanced-aggregations-with-spring-boot-and-amazon-corretto-4hba)
+- [RAG Chunking Strategies](https://dev.to/sreeni5018/rag-chunking-strategies-4i3a)
+- [We Built an Open Agent Mesh Where Grok, Claude, and Gemini Can All Heartbeat — Here&#39;s How](https://dev.to/scottcjn/we-built-an-open-agent-mesh-where-grok-claude-and-gemini-can-all-heartbeat-heres-how-4l8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
