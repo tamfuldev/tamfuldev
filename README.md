@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Garmin&#39;s AI Bet: From Wearables to Autonomous Flight](https://dev.to/dr_hernani_costa/garmins-ai-bet-from-wearables-to-autonomous-flight-4ojj)
-- [Running Retrospectives with AI: Treating Your Model Like a Teammate](https://dev.to/gjergji_make/running-retrospectives-with-ai-treating-your-model-like-a-teammate-3e09)
-- [How I Built an AI-Driven Job Automation Engine: My Hardest Engineering Lessons](https://dev.to/drbenzene/how-i-built-an-ai-driven-job-automation-engine-my-hardest-engineering-lessons-gdb)
-- [Stop Repeating Yourself: How to Automate Architectural Context in GitHub PRs](https://dev.to/ali_abbas_d8086e0f96d8173/stop-repeating-yourself-how-to-automate-architectural-context-in-github-prs-4cgd)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1ejf)
+- [Czkawka/Krokiet 11.0 - fighting with GTK, EXIF cleaning, video optimizer, black bar cropping and new logo](https://dev.to/qarmin/czkawkakrokiet-110-fighting-with-gtk-exif-cleaning-video-optimizer-black-bar-cropping-and-1fbd)
+- [Hey I&#39;m new here. This is Masih Ahmed, officially Mr Ahmed, but you can call me just Masih. Whatever, As ya know I&#39;m new here and I&#39;m looking for friends to develop new things togerther. I&#39;m a student, College 1st year and I&#39;d like to share my learnings](https://dev.to/masih_ahmed/hey-im-new-here-this-is-masih-ahmed-officially-mr-ahmed-but-you-can-call-me-just-masih-4n9p)
+- [Opik: Your Agent&#39;s Black Box Flight Recorder](https://dev.to/ruchika_bhat_876f8530fa3b/opik-your-agents-black-box-flight-recorder-5235)
+- [The End of APIs: Why Vision Agents Are the Future of Scraping](https://dev.to/behruamm/the-end-of-apis-why-vision-agents-are-the-future-of-scraping-4hfj)
+- [Understanding HTML Tags and Elements](https://dev.to/6116hayat/understanding-html-tags-and-elements-3b07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
