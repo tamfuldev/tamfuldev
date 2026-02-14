@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Client Knows Best: Deep Dive into WebRTC getStats&lpar;&rpar; and Quality Monitoring](https://dev.to/deepak_mishra_35863517037/the-client-knows-best-deep-dive-into-webrtc-getstats-and-quality-monitoring-3e5p)
-- [Interleaving: Why Mixing Practice Beats Blocking](https://dev.to/brainrash_edu/interleaving-why-mixing-practice-beats-blocking-1fap)
-- [Augmenting Visual Creativity with AI: Introducing &#39;Artisan&#39;s Eye&#39;](https://dev.to/mystrix/augmenting-visual-creativity-with-ai-introducing-artisans-eye-46o9)
-- [The Myth? “You Must Know How to Code First” #tenminemail.com](https://dev.to/syed_wasim/the-myth-you-must-know-how-to-code-first-tenminemailcom-3hon)
-- [Haar Cascades to YOLO: Face Detection Migration Guide](https://dev.to/tildalice/haar-cascades-to-yolo-face-detection-migration-guide-4lko)
+- [We Built a Full-Stack AI Music Agent with Next.js — Here&#39;s What We Learned](https://dev.to/loopbreaker/we-built-a-full-stack-ai-music-agent-with-nextjs-heres-what-we-learned-2njg)
+- [Stop Writing Setup READMEs: Add Nix to Your Project in 5 Minutes](https://dev.to/videosdeti/add-nix-to-your-project-one-file-zero-setup-drama-4cl4)
+- [Why an AI Agent is Writing You a Newsletter](https://dev.to/signalstack/why-an-ai-agent-is-writing-you-a-newsletter-969)
+- [I Made AI Study My Codebase Before Writing a Single Line](https://dev.to/thesystemistsimon/i-made-ai-study-my-codebase-before-writing-a-single-line-3cic)
+- [I Built a Real-Time Stock Price Tracker with Django, Redis and WebSockets](https://dev.to/nlankwei5/i-built-a-real-time-stock-price-tracker-with-django-redis-and-websockets-1l95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
