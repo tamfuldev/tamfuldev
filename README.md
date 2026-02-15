@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
-- [Your JSON Schema Is a Prompt - Tips for AWS Bedrock Structured Output](https://dev.to/aws-builders/your-json-schema-is-a-prompt-tips-for-aws-bedrock-structured-output-5aie)
-- [Why I Built GenosDB: The P2P Database That Works Out of the Box](https://dev.to/estebanrfp/why-i-built-genosdb-the-p2p-database-that-works-out-of-the-box-d5i)
-- [Hambugsy: The CLI That Tells You WHO Is Wrong—Your Test or Your Code](https://dev.to/aporkolab/hambugsy-the-cli-that-tells-you-who-is-wrong-your-test-or-your-code-2ncd)
-- [TableCraft - How I Built a Production-Ready Data Table Engine](https://dev.to/jacksonkasi/tablecraft-how-i-built-a-production-ready-data-table-engine-1g59)
+- [I gave my terminal an AI agent named Nura. She diagnoses my broken Ethiopian internet.](https://dev.to/zeshama/i-gave-my-terminal-an-ai-agent-named-nura-she-diagnoses-my-broken-ethiopian-internet-4fcg)
+- [Stop Writing Python Scripts Just to Convert JSON to CSV 🛑](https://dev.to/papiv-tools/stop-writing-python-scripts-just-to-convert-json-to-csv-2k5o)
+- [Copilot CLI as a Creative Engine: Building My TUI Trilogy](https://dev.to/vukhoi_gvm/copilot-cli-as-a-creative-engine-building-my-tui-trilogy-2l85)
+- [I Spent 3 Months Compressing AI Models So You Don&#39;t Have To – Here&#39;s What I Learned](https://dev.to/darshitp091/i-spent-3-months-compressing-ai-models-so-you-dont-have-to-heres-what-i-learned-d12)
+- [Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern](https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
