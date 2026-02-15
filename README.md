@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot CLI Challenge | Solving Lunch Indecision | Building a Restaurant Slot Picker with GitHub Copilot CLI](https://dev.to/liam_chiu_20df42e754f8cd6/github-copilot-cli-challenge-solving-lunch-indecision-building-a-restaurant-slot-picker-with-mmf)
-- [My AI Broke Out of Its Container — And I Let It](https://dev.to/yujisuzuki/my-ai-broke-out-of-its-container-and-i-let-it-4dkh)
-- [What If Your A11y Linter Could Actually Fix the Bugs It Found?](https://dev.to/safvantsy/what-if-your-a11y-linter-could-actually-fix-the-bugs-it-found-4coe)
-- [Flaky Tests Are Not a Testing Problem. They&#39;re a Feedback Loop You Broke.](https://dev.to/microseyuyu/flaky-tests-are-not-a-testing-problem-theyre-a-feedback-loop-you-broke-8j5)
-- [🤖 code-stream: A Smart CLI for Secure &amp; Healthy Code](https://dev.to/vrkforever/code-stream-a-smart-cli-for-secure-healthy-code-2jgi)
+- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
+- [Your JSON Schema Is a Prompt - Tips for AWS Bedrock Structured Output](https://dev.to/aws-builders/your-json-schema-is-a-prompt-tips-for-aws-bedrock-structured-output-5aie)
+- [Why I Built GenosDB: The P2P Database That Works Out of the Box](https://dev.to/estebanrfp/why-i-built-genosdb-the-p2p-database-that-works-out-of-the-box-d5i)
+- [Hambugsy: The CLI That Tells You WHO Is Wrong—Your Test or Your Code](https://dev.to/aporkolab/hambugsy-the-cli-that-tells-you-who-is-wrong-your-test-or-your-code-2ncd)
+- [TableCraft - How I Built a Production-Ready Data Table Engine](https://dev.to/jacksonkasi/tablecraft-how-i-built-a-production-ready-data-table-engine-1g59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
