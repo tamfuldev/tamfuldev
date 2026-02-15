@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Full-Stack AI Music Agent with Next.js — Here&#39;s What We Learned](https://dev.to/loopbreaker/we-built-a-full-stack-ai-music-agent-with-nextjs-heres-what-we-learned-2njg)
-- [Stop Writing Setup READMEs: Add Nix to Your Project in 5 Minutes](https://dev.to/videosdeti/add-nix-to-your-project-one-file-zero-setup-drama-4cl4)
-- [Why an AI Agent is Writing You a Newsletter](https://dev.to/signalstack/why-an-ai-agent-is-writing-you-a-newsletter-969)
-- [I Made AI Study My Codebase Before Writing a Single Line](https://dev.to/thesystemistsimon/i-made-ai-study-my-codebase-before-writing-a-single-line-3cic)
-- [I Built a Real-Time Stock Price Tracker with Django, Redis and WebSockets](https://dev.to/nlankwei5/i-built-a-real-time-stock-price-tracker-with-django-redis-and-websockets-1l95)
+- [We Built Voice Chat That Lives Entirely in Your Terminal &lpar;Yes, Really&rpar;](https://dev.to/_boweii/we-built-voice-chat-that-lives-entirely-in-your-terminal-yes-really-3i9k)
+- [CodePoet: Transform Your Git History Into Epic Poetry with GitHub Copilot CLI 🎭](https://dev.to/codecrinkly/codepoet-transform-your-git-history-into-epic-poetry-with-github-copilot-cli-5f6m)
+- [NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles](https://dev.to/paperium/nuplan-a-closed-loop-ml-based-planning-benchmark-for-autonomous-vehicles-38f6)
+- [Happy Valentine&#39;s Day ❤](https://dev.to/aaron_rose_0787cc8b4775a0/happy-valentines-day-4la4)
+- [Traduje “la guía” de Elm al español](https://dev.to/agj/traduje-la-guia-de-elm-al-espanol-1mkj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
