@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Bug Finder CLI to explore your application bugs](https://dev.to/iambpn/a-bug-finder-cli-to-explore-your-application-bugs-6p6)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/srp1z_/git-for-beginners-basics-and-essential-commands-3162)
-- [Building a Live Bus Tracker: AI Crowd Analysis &amp; Real-Time Sync &lpar;Part 2&rpar;](https://dev.to/anhaj0/building-a-live-bus-tracker-ai-crowd-analysis-real-time-sync-part-2-46pk)
-- [nn](https://dev.to/jvuj_uvjh_e5b0c946c71e856/nn-59ip)
-- [SpecPilot.dev: A Spec-Driven Approach to AI-Assisted Development](https://dev.to/girish_r/specpilotdev-a-spec-driven-approach-to-ai-assisted-development-5d4h)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5dfj)
+- [Building a Terminal User Interface &lpar;TUI&rpar; for Stellar RPC with Rust and Ratatui](https://dev.to/padparadscho/building-a-terminal-user-interface-tui-for-stellar-rpc-with-rust-and-ratatui-1529)
+- [Made A DSA Quiz Platform hope it helps.](https://dev.to/purujeet_kumar_875911a549/made-a-dsa-quiz-platform-hope-it-helps-530j)
+- [Separation of Powers: Mastering Staging and Production Environments for Robust Software Deployment](https://dev.to/vjnvisakh/separation-of-powers-mastering-staging-and-production-environments-for-robust-software-deployment-3627)
+- [I Built an AST-Based Tool to Migrate CSS to Tailwind for React &lpar;like frameworks&rpar;](https://dev.to/vyeos/i-built-an-ast-based-tool-to-migrate-css-to-tailwind-for-react-like-frameworks-he2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
