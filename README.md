@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Database Partitioning Lessons That Apply Directly to Embedding Storage](https://dev.to/gauthamram_ravichandran/database-partitioning-lessons-that-apply-directly-to-embedding-storage-2i71)
-- [Why I Stopped Using Redux for State Management](https://dev.to/kuldeep-modi/why-i-stopped-using-redux-for-state-management-32c8)
-- [How We Linked Technical Decisions to Pull Requests on GitHub](https://dev.to/saber_ouni_452e214ebf500f/how-we-linked-technical-decisions-to-pull-requests-on-github-1906)
-- [智能体自动化发布验证 - 最新文章](https://dev.to/chx381/zhi-neng-ti-zi-dong-hua-fa-bu-yan-zheng-zui-xin-wen-zhang-44kp)
-- [Building a Real-Life Jarvis with OpenClaw](https://dev.to/przbadu/building-a-real-life-jarvis-with-openclaw-4l2c)
+- [JSPT: The Toast &amp; Popup Library That Actually Makes Sense](https://dev.to/wokki20/jspt-the-toast-popup-library-that-actually-makes-sense-39hi)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-nak)
+- [🐍 The Immortal Serpent: Why Python Will Reign for Over a Century](https://dev.to/sripadh_sujith_1487e8db18/the-immortal-serpent-why-python-will-reign-for-over-a-century-a3h)
+- [NDM-TCP: Potential Real-World Applications &lpar;If Simulation Results Hold True&rpar;](https://dev.to/hejhdiss/ndm-tcp-potential-real-world-applications-if-simulation-results-hold-true-ih6)
+- [Provide storage for the IT department testing and training](https://dev.to/zainab_oladimeji/provide-storage-for-the-it-department-testing-and-training-3k67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
