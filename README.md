@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
-- [Call by sharing: Understanding why JavaScript does NOT pass objects By Reference](https://dev.to/della_codes/call-by-sharing-understanding-why-javascript-does-not-pass-objects-by-reference-1npk)
-- [Aurora OS.js : I built a web-tech OS. It’s kinda an OS. Fine... it’s a hacking game.](https://dev.to/mental05/aurora-osjs-i-built-a-web-tech-os-its-kinda-an-os-fine-its-a-hacking-game-4352)
-- [DevFlow : AI-Powered Development Workflow Automation](https://dev.to/ritika_srivastava_b3ba9d2/devflow-ai-powered-development-workflow-automation-36ji)
-- [Ubuntu Wi‑Fi Issue Resolution – Reference Guide &lpar;QCA9377&rpar;](https://dev.to/akshaykurhekar/ubuntu-wi-fi-issue-resolution-reference-guide-qca9377-kjf)
+- [Database Partitioning Lessons That Apply Directly to Embedding Storage](https://dev.to/gauthamram_ravichandran/database-partitioning-lessons-that-apply-directly-to-embedding-storage-2i71)
+- [Why I Stopped Using Redux for State Management](https://dev.to/kuldeep-modi/why-i-stopped-using-redux-for-state-management-32c8)
+- [How We Linked Technical Decisions to Pull Requests on GitHub](https://dev.to/saber_ouni_452e214ebf500f/how-we-linked-technical-decisions-to-pull-requests-on-github-1906)
+- [智能体自动化发布验证 - 最新文章](https://dev.to/chx381/zhi-neng-ti-zi-dong-hua-fa-bu-yan-zheng-zui-xin-wen-zhang-44kp)
+- [Building a Real-Life Jarvis with OpenClaw](https://dev.to/przbadu/building-a-real-life-jarvis-with-openclaw-4l2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
