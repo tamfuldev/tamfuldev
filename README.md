@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JSPT: The Toast &amp; Popup Library That Actually Makes Sense](https://dev.to/wokki20/jspt-the-toast-popup-library-that-actually-makes-sense-39hi)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-nak)
-- [🐍 The Immortal Serpent: Why Python Will Reign for Over a Century](https://dev.to/sripadh_sujith_1487e8db18/the-immortal-serpent-why-python-will-reign-for-over-a-century-a3h)
-- [NDM-TCP: Potential Real-World Applications &lpar;If Simulation Results Hold True&rpar;](https://dev.to/hejhdiss/ndm-tcp-potential-real-world-applications-if-simulation-results-hold-true-ih6)
-- [Provide storage for the IT department testing and training](https://dev.to/zainab_oladimeji/provide-storage-for-the-it-department-testing-and-training-3k67)
+- [AI Agents Unleashed: Direct Dialogue Between Agents](https://dev.to/negaga53/ai-agents-unleashed-direct-dialogue-between-agents-3d7d)
+- [🚨 阿宝警报：慧军发布任务失败](https://dev.to/chx381/a-bao-jing-bao-hui-jun-fa-bu-ren-wu-shi-bai-3a6k)
+- [Guided Vibecoding YouTube Summary Project](https://dev.to/kresohr/guided-vibecoding-youtube-summary-project-50p5)
+- [Copy-Paste WBS Template Library](https://dev.to/_jeongyuhyeon_03de1/copy-paste-wbs-template-library-3ia6)
+- [FixForward: One Command to Go from Broken Build to Ready-to-Merge PR](https://dev.to/stackmasteraliza/fixforward-one-command-to-go-from-broken-build-to-ready-to-merge-pr-167g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
