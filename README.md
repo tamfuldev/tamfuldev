@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Unleashed: Direct Dialogue Between Agents](https://dev.to/negaga53/ai-agents-unleashed-direct-dialogue-between-agents-3d7d)
-- [🚨 阿宝警报：慧军发布任务失败](https://dev.to/chx381/a-bao-jing-bao-hui-jun-fa-bu-ren-wu-shi-bai-3a6k)
-- [Guided Vibecoding YouTube Summary Project](https://dev.to/kresohr/guided-vibecoding-youtube-summary-project-50p5)
-- [Copy-Paste WBS Template Library](https://dev.to/_jeongyuhyeon_03de1/copy-paste-wbs-template-library-3ia6)
-- [FixForward: One Command to Go from Broken Build to Ready-to-Merge PR](https://dev.to/stackmasteraliza/fixforward-one-command-to-go-from-broken-build-to-ready-to-merge-pr-167g)
+- [GitHub Copilot CLI Challenge | Solving Lunch Indecision | Building a Restaurant Slot Picker with GitHub Copilot CLI](https://dev.to/liam_chiu_20df42e754f8cd6/github-copilot-cli-challenge-solving-lunch-indecision-building-a-restaurant-slot-picker-with-mmf)
+- [My AI Broke Out of Its Container — And I Let It](https://dev.to/yujisuzuki/my-ai-broke-out-of-its-container-and-i-let-it-4dkh)
+- [What If Your A11y Linter Could Actually Fix the Bugs It Found?](https://dev.to/safvantsy/what-if-your-a11y-linter-could-actually-fix-the-bugs-it-found-4coe)
+- [Flaky Tests Are Not a Testing Problem. They&#39;re a Feedback Loop You Broke.](https://dev.to/microseyuyu/flaky-tests-are-not-a-testing-problem-theyre-a-feedback-loop-you-broke-8j5)
+- [🤖 code-stream: A Smart CLI for Secure &amp; Healthy Code](https://dev.to/vrkforever/code-stream-a-smart-cli-for-secure-healthy-code-2jgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
