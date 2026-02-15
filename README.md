@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [The Symbol for All of Us is Null](https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-55p6)
+- [Rustroke - WASM mini draw](https://dev.to/pengeszikra/rustroke-wasm-mini-draw-3oih)
 - [I Built a Tamagotchi That Judges Your GitHub Activity 🐾 &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1)
 - [How to Auto-Label your Segmentation Dataset with SAM3](https://dev.to/artzabarov/how-to-auto-label-your-segmentation-dataset-with-sam3-3p8)
-- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-1kdc)
-- [Generate Your CLAUDE.md in 30 Seconds &lpar;Interactive Script&rpar;](https://dev.to/yurukusa/generate-your-claudemd-in-30-seconds-interactive-script-54n4)
-- [NocoBase 2.0 Officially Released](https://dev.to/nocobase/nocobase-20-officially-released-24ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
