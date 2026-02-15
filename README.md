@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Built Voice Chat That Lives Entirely in Your Terminal &lpar;Yes, Really&rpar;](https://dev.to/_boweii/we-built-voice-chat-that-lives-entirely-in-your-terminal-yes-really-3i9k)
-- [CodePoet: Transform Your Git History Into Epic Poetry with GitHub Copilot CLI 🎭](https://dev.to/codecrinkly/codepoet-transform-your-git-history-into-epic-poetry-with-github-copilot-cli-5f6m)
-- [NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles](https://dev.to/paperium/nuplan-a-closed-loop-ml-based-planning-benchmark-for-autonomous-vehicles-38f6)
-- [Happy Valentine&#39;s Day ❤](https://dev.to/aaron_rose_0787cc8b4775a0/happy-valentines-day-4la4)
-- [Traduje “la guía” de Elm al español](https://dev.to/agj/traduje-la-guia-de-elm-al-espanol-1mkj)
+- [The Soul of an Agent: Why You Should Stop Worrying and Start Building](https://dev.to/murthyug/the-soul-of-an-agent-why-you-should-stop-worrying-and-start-building-521k)
+- [The Secret Life of Python: Manual List Iteration with While and Reverse Loops](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-manual-list-iteration-with-while-and-reverse-loops-3nip)
+- [playwright-repl: Browser Automation From Your Terminal, No Code Required](https://dev.to/stevez/playwright-repl-browser-automation-from-your-terminal-no-code-required-43n7)
+- [Get yo A$$ Outside!](https://dev.to/ota/get-yo-a-outside-2p42)
+- [I built an open-source workflow kit that turns AI agents into structured data analysis partners](https://dev.to/with_geun/i-built-an-open-source-workflow-kit-that-turns-ai-agents-into-structured-data-analysis-partners-1kk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
