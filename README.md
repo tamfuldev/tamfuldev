@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Special Valentine love cards for secret messaging](https://dev.to/vasilisskourtisdev/special-valentine-love-cards-for-secret-messaging-1073)
-- [Dev Process Tracker: Local Service Management with a CLI + TUI](https://dev.to/tawe/dev-process-tracker-local-service-management-with-a-cli-tui-9dm)
-- [{best_title}&quot;&rpar;](https://dev.to/flatratemechanic1glitch/besttitle-56mi)
-- [How to Build and Test iOS Apps on a Physical Phone: Expo EAS and Apple TestFlight &lpar;Part 2/3&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-expo-eas-and-apple-testflight-part-23-4ff8)
-- [From Messy Med-Reports to Smart Insights: Building a FHIR-Powered Medical RAG with Milvus](https://dev.to/beck_moulton/from-messy-med-reports-to-smart-insights-building-a-fhir-powered-medical-rag-with-milvus-36ii)
+- [Perl 🐪 Weekly #760 - Async Perl](https://dev.to/szabgab/perl-weekly-760-async-perl-pfi)
+- [Why Your Diff Tool is Failing on JSONL Files](https://dev.to/lechlabs/why-your-diff-tool-is-failing-on-jsonl-files-19k0)
+- [Built a Beginner-Friendly GitHub Copilot CLI Learning Website &lpar;GitHub Copilot CLI Challenge&rpar;](https://dev.to/atul812/built-a-beginner-friendly-github-copilot-cli-learning-website-github-copilot-cli-challenge-42j6)
+- [Leveling Up: My Daily Tech Learning Journey!](https://dev.to/chethankumar/leveling-up-my-daily-tech-learning-journey-1jn6)
+- [Die KI kann mehr als Sie denken: Warum Power User mehrfach produktiver sind — und wie Sie aufholen](https://dev.to/janealesi/die-ki-kann-mehr-als-sie-denken-warum-power-user-mehrfach-produktiver-sind-und-wie-sie-aufholen-3m3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
