@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #166](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-166-51nc)
-- [🚀 Day 28 – Three-Tier Highly Available AWS Architecture with Terraform](https://dev.to/jeeva_5c84a254e90842940dd/day-28-three-tier-highly-available-aws-architecture-with-terraform-2o3n)
-- [I Built a Grail Finder That Searches Vinted, eBay, Depop and More at Once](https://dev.to/mackmoneymaker/i-built-a-grail-finder-that-searches-vinted-ebay-depop-and-more-at-once-16n0)
-- [How Claude Code’s creator ships 50–100 PR’s per week](https://dev.to/lassiecoder/how-claude-codes-creator-ships-50-100-prs-per-week-4oeo)
-- [Why Agent Skills Aren&#39;t Called automatically: An Anti-Pattern in Agent Skill](https://dev.to/taki4416/why-agent-skills-arent-called-automatically-an-anti-pattern-in-agent-skill-88g)
+- [Building a Containerized Parent Registration Portal with Docker A Hands-On Guide to Dockerizing a Full-Stack Application](https://dev.to/joe_seun/building-a-containerized-parent-registration-portal-with-docker-a-hands-on-guide-to-dockerizing-a-2io8)
+- [How to Install GCC on Windows with w64devkit](https://dev.to/lautarolobo/how-to-install-gcc-on-windows-with-w64devkit-m14)
+- [Your AI Agent Knows Your Passwords — Here&#39;s How I Fixed It](https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd)
+- [Why I Rewrote My Email Editor from Scratch: From Blocks to Atoms Rewrite](https://dev.to/antonreshetov/why-i-rewrote-my-email-editor-from-scratch-from-blocks-to-atoms-rewrite-11n8)
+- [Building Failure Intelligence for AI Agents](https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
