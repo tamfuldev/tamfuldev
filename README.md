@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [anilogin: a reactive authentication ui with anime character gaze tracking](https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9)
-- [Designing agentic workflows: the core loop](https://dev.to/danielbutlerirl/designing-agentic-workflows-the-core-loop-166d)
-- [How to find a branch parent in Git](https://dev.to/nikola/how-to-find-a-branch-parent-in-git-4iil)
-- [An Interactive Guide to Firebase Cloud Messaging⌨️🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/an-interactive-guide-to-firebase-cloud-messaging-4oe0)
-- [Something BIG is coming to Firechat 🔥](https://dev.to/bug-free-dev/something-big-is-coming-to-firechat-53l7)
+- [What are your goals for the week? #166](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-166-51nc)
+- [🚀 Day 28 – Three-Tier Highly Available AWS Architecture with Terraform](https://dev.to/jeeva_5c84a254e90842940dd/day-28-three-tier-highly-available-aws-architecture-with-terraform-2o3n)
+- [I Built a Grail Finder That Searches Vinted, eBay, Depop and More at Once](https://dev.to/mackmoneymaker/i-built-a-grail-finder-that-searches-vinted-ebay-depop-and-more-at-once-16n0)
+- [How Claude Code’s creator ships 50–100 PR’s per week](https://dev.to/lassiecoder/how-claude-codes-creator-ships-50-100-prs-per-week-4oeo)
+- [Why Agent Skills Aren&#39;t Called automatically: An Anti-Pattern in Agent Skill](https://dev.to/taki4416/why-agent-skills-arent-called-automatically-an-anti-pattern-in-agent-skill-88g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
