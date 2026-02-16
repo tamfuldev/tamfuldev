@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Agent Orchestration System with AG2 &lpar;Agentic framework&rpar; and Local LLMs](https://dev.to/chung_duy_51a346946b27a3d/building-a-multi-agent-orchestration-system-with-ag2-agentic-framework-and-local-llms-4d3g)
-- [3270Web: A Web-Based 3270 Terminal](https://dev.to/jnnngs/3270web-a-web-based-3270-terminal-n95)
-- [The split personality of the + operator](https://dev.to/della_codes/the-split-personality-of-the-operator-1hlb)
-- [Building WhatsApp Integrations for Indian Businesses: A Developer&#39;s Notes](https://dev.to/botsense_seo/building-whatsapp-integrations-for-indian-businesses-a-developers-notes-8d9)
-- [Pourquoi j’ai arrêté d’utiliser VS Code pour mes projets C++](https://dev.to/twisterrl/pourquoi-jai-arrete-dutiliser-vs-code-pour-mes-projets-c-3467)
+- [Why I built yet another PDF API &lpar;and priced it 95% cheaper&rpar;](https://dev.to/tech_spyder_229578506f35a/why-i-built-yet-another-pdf-api-and-priced-it-95-cheaper-2bg3)
+- [How to solve header `position: sticky; left: 0` not working](https://dev.to/maxcore/how-to-solve-header-position-sticky-left-0-not-working-3mj)
+- [Automatically Generate ER Diagrams from SharePoint ERD Generator](https://dev.to/reire_shake/automatically-generate-er-diagrams-from-sharepoint-erd-generator-439)
+- [JavaScript’s Weirdest Comparison](https://dev.to/twisterrl/javascripts-weirdest-comparison-i29)
+- [Business Advantages of Using Nuxt](https://dev.to/jacobandrewsky/business-advantages-of-using-nuxt-51j2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
