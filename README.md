@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Small Observation About UI, UX, and 2026 Apps](https://dev.to/codebunny20/a-small-observation-about-ui-ux-and-2026-apps-1ge8)
-- [This Chrome Extension is a must-have for Developers, Designers &amp; SEO Professionals](https://dev.to/itzbidyut/this-chrome-extension-is-a-must-have-for-developers-designers-seo-professionals-nej)
-- [🌍 JSWORLD Conference 2026 — JavaScript’s Global Gathering](https://dev.to/ml318097/jsworld-conference-2026-javascripts-global-gathering-2ane)
-- [Problem 14: Check if a Number is Prime](https://dev.to/highcenburg/problem-14-check-if-a-number-is-prime-17c5)
-- [How Do IoT Healthcare Devices Work? Architecture, Tech Stack, and Security Explained](https://dev.to/rank_alchemy_5ad282cec75d/how-do-iot-healthcare-devices-work-architecture-tech-stack-and-security-explained-36lg)
+- [anilogin: a reactive authentication ui with anime character gaze tracking](https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9)
+- [Designing agentic workflows: the core loop](https://dev.to/danielbutlerirl/designing-agentic-workflows-the-core-loop-166d)
+- [How to find a branch parent in Git](https://dev.to/nikola/how-to-find-a-branch-parent-in-git-4iil)
+- [An Interactive Guide to Firebase Cloud Messaging⌨️🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/an-interactive-guide-to-firebase-cloud-messaging-4oe0)
+- [Something BIG is coming to Firechat 🔥](https://dev.to/bug-free-dev/something-big-is-coming-to-firechat-53l7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
