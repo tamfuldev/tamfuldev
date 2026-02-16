@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Как включить CPT в REST API WordPress: /wp/v2 отдаёт 404](https://dev.to/_vproger_/kak-vkliuchit-cpt-v-rest-api-wordpress-wpv2-otdaiot-404-5gac)
-- [Bitrix — проблема или просто инструмент?](https://dev.to/_vproger_/bitrix-probliema-ili-prosto-instrumient-5aa8)
-- [Redefining Event-Driven Architecture on Google Cloud](https://dev.to/gde/redefining-event-driven-architecture-on-google-cloud-5abj)
-- [Agent First, Human Simple](https://dev.to/kasrazunnaiyyer/agent-first-human-simple-a-new-product-design-framework-for-the-autonomous-agent-era-1m30)
-- [Speech-to-Text on any Field in 70 Lines of Stimulus &lpar;Zero Backend!&rpar;](https://dev.to/seryllns_/speech-to-text-on-any-field-in-70-lines-of-stimulus-zero-backend-38ao)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-28ca)
+- [2. Add Two Numbers | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/2-add-two-numbers-leetcode-top-interview-150-coding-questions-3i84)
+- [Why Your AI Tools Are Failing &lpar;And How Zod Fixes Them&rpar;](https://dev.to/programmingcentral/why-your-ai-tools-are-failing-and-how-zod-fixes-them-4i7a)
+- [How to Use Markdown Files to Orchestrate Multi-File Changes in GitHub Copilot](https://dev.to/supreet_pradhan/how-to-use-markdown-files-to-orchestrate-multi-file-changes-in-github-copilot-5him)
+- [How I Use Obsidian for Everything &lpar;Almost&rpar;](https://dev.to/mvaldes/how-i-use-obsidian-for-everything-almost-2paf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
