@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
-- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
-- [React Compound Components: The &quot;Build Your Own Adventure&quot; Pattern](https://dev.to/masudursourav/react-compound-components-the-build-your-own-adventure-pattern-2dff)
-- [Culture Trap: Why Your DevOps Transformation is Failing](https://dev.to/sebs/culture-trap-why-your-devops-transformation-is-failing-22l6)
-- [AI Wrote 1000 Lines of Code. I Found the Bug in 3 Lines.](https://dev.to/harsh2644/ai-wrote-1000-lines-of-code-i-found-the-bug-in-3-lines-2c49)
+- [Leetcode Sunday #3](https://dev.to/rezzcode/leetcode-sunday-3-3hje)
+- [The Rise of Small AI: Why Edge AI and Specialized Models are Outpacing LLMs for Real-World Impact in 2026](https://dev.to/rgbos/the-rise-of-small-ai-why-edge-ai-and-specialized-models-are-outpacing-llms-for-real-world-impact-iok)
+- [TimescaleDB Outperforms MongoDB for JSON Logs &lpar;100M Document Benchmark&rpar;](https://dev.to/polliog/timescaledb-outperforms-mongodb-for-json-logs-100m-document-benchmark-5gij)
+- [Is WordPress Dying in 2026?](https://dev.to/mike_adex_ac28e898bf07316/is-wordpress-dying-in-2026-46p9)
+- [How to Land a Tech Job in the USA in 90 Days: Your 2026 Action Plan](https://dev.to/fastapplyai/how-to-land-a-tech-job-in-the-usa-in-90-days-your-2026-action-plan-4mkh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
