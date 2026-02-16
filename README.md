@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Sunday #3](https://dev.to/rezzcode/leetcode-sunday-3-3hje)
-- [The Rise of Small AI: Why Edge AI and Specialized Models are Outpacing LLMs for Real-World Impact in 2026](https://dev.to/rgbos/the-rise-of-small-ai-why-edge-ai-and-specialized-models-are-outpacing-llms-for-real-world-impact-iok)
-- [TimescaleDB Outperforms MongoDB for JSON Logs &lpar;100M Document Benchmark&rpar;](https://dev.to/polliog/timescaledb-outperforms-mongodb-for-json-logs-100m-document-benchmark-5gij)
-- [Is WordPress Dying in 2026?](https://dev.to/mike_adex_ac28e898bf07316/is-wordpress-dying-in-2026-46p9)
-- [How to Land a Tech Job in the USA in 90 Days: Your 2026 Action Plan](https://dev.to/fastapplyai/how-to-land-a-tech-job-in-the-usa-in-90-days-your-2026-action-plan-4mkh)
+- [A Small Observation About UI, UX, and 2026 Apps](https://dev.to/codebunny20/a-small-observation-about-ui-ux-and-2026-apps-1ge8)
+- [This Chrome Extension is a must-have for Developers, Designers &amp; SEO Professionals](https://dev.to/itzbidyut/this-chrome-extension-is-a-must-have-for-developers-designers-seo-professionals-nej)
+- [🌍 JSWORLD Conference 2026 — JavaScript’s Global Gathering](https://dev.to/ml318097/jsworld-conference-2026-javascripts-global-gathering-2ane)
+- [Problem 14: Check if a Number is Prime](https://dev.to/highcenburg/problem-14-check-if-a-number-is-prime-17c5)
+- [How Do IoT Healthcare Devices Work? Architecture, Tech Stack, and Security Explained](https://dev.to/rank_alchemy_5ad282cec75d/how-do-iot-healthcare-devices-work-architecture-tech-stack-and-security-explained-36lg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
