@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Containerized Parent Registration Portal with Docker A Hands-On Guide to Dockerizing a Full-Stack Application](https://dev.to/joe_seun/building-a-containerized-parent-registration-portal-with-docker-a-hands-on-guide-to-dockerizing-a-2io8)
-- [How to Install GCC on Windows with w64devkit](https://dev.to/lautarolobo/how-to-install-gcc-on-windows-with-w64devkit-m14)
-- [Your AI Agent Knows Your Passwords — Here&#39;s How I Fixed It](https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd)
-- [Why I Rewrote My Email Editor from Scratch: From Blocks to Atoms Rewrite](https://dev.to/antonreshetov/why-i-rewrote-my-email-editor-from-scratch-from-blocks-to-atoms-rewrite-11n8)
-- [Building Failure Intelligence for AI Agents](https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d)
+- [Welcome to dev.to](https://dev.to/tobias_lante/welcome-to-devto-292e)
+- [From Frustration to Automation: My Facebook Auto-Posting Journey](https://dev.to/bharath_kumar_30_vog/from-frustration-to-automation-my-facebook-auto-posting-journey-1en3)
+- [From Portfolio Widget to npm Package: Building a Spotify Now Playing Card](https://dev.to/basskibo/from-portfolio-widget-to-npm-package-building-a-spotify-now-playing-card-13p2)
+- [Solving MSSQL&#39;s 2100 Parameter Limit: From IN Clause to Cursor-Based Pagination](https://dev.to/sangwoo_rhie/solving-mssqls-2100-parameter-limit-from-in-clause-to-cursor-based-pagination-3b02)
+- [AI Periodic Table: el mapa minimalista para diseñar soluciones de IA sin perderte](https://dev.to/_ferpaz/ai-periodic-table-el-mapa-minimalista-para-disenar-soluciones-de-ia-sin-perderte-16c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
