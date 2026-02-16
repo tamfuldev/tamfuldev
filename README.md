@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built yet another PDF API &lpar;and priced it 95% cheaper&rpar;](https://dev.to/tech_spyder_229578506f35a/why-i-built-yet-another-pdf-api-and-priced-it-95-cheaper-2bg3)
-- [How to solve header `position: sticky; left: 0` not working](https://dev.to/maxcore/how-to-solve-header-position-sticky-left-0-not-working-3mj)
-- [Automatically Generate ER Diagrams from SharePoint ERD Generator](https://dev.to/reire_shake/automatically-generate-er-diagrams-from-sharepoint-erd-generator-439)
-- [JavaScript’s Weirdest Comparison](https://dev.to/twisterrl/javascripts-weirdest-comparison-i29)
-- [Business Advantages of Using Nuxt](https://dev.to/jacobandrewsky/business-advantages-of-using-nuxt-51j2)
+- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
+- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
+- [React Compound Components: The &quot;Build Your Own Adventure&quot; Pattern](https://dev.to/masudursourav/react-compound-components-the-build-your-own-adventure-pattern-2dff)
+- [Culture Trap: Why Your DevOps Transformation is Failing](https://dev.to/sebs/culture-trap-why-your-devops-transformation-is-failing-22l6)
+- [AI Wrote 1000 Lines of Code. I Found the Bug in 3 Lines.](https://dev.to/harsh2644/ai-wrote-1000-lines-of-code-i-found-the-bug-in-3-lines-2c49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
