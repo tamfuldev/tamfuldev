@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Redacta: Elevating Video Content with GitHub Copilot CLI](https://dev.to/julcasans/redacta-elevating-video-content-with-github-copilot-cli-kc9)
-- [Building env-doctor with GitHub Copilot CLI](https://dev.to/lewisawe/building-env-doctor-with-github-copilot-cli-55m7)
-- [Drift CLI - Terminal-Native AI Assistant for Safe Command Execution](https://dev.to/a_elhaag/drift-cli-terminal-native-ai-assistant-for-safe-command-execution-4m4n)
-- [O que é Kurbenetes](https://dev.to/ikauedev/o-que-e-kurbenetes-1nge)
-- [DevFlow - Developer Workflow Intelligence Built with GitHub Copilot CLI](https://dev.to/mr-ahtashamulhaq/devflow-developer-workflow-intelligence-built-with-github-copilot-cli-1g4k)
+- [Special Valentine love cards for secret messaging](https://dev.to/vasilisskourtisdev/special-valentine-love-cards-for-secret-messaging-1073)
+- [Dev Process Tracker: Local Service Management with a CLI + TUI](https://dev.to/tawe/dev-process-tracker-local-service-management-with-a-cli-tui-9dm)
+- [{best_title}&quot;&rpar;](https://dev.to/flatratemechanic1glitch/besttitle-56mi)
+- [How to Build and Test iOS Apps on a Physical Phone: Expo EAS and Apple TestFlight &lpar;Part 2/3&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-expo-eas-and-apple-testflight-part-23-4ff8)
+- [From Messy Med-Reports to Smart Insights: Building a FHIR-Powered Medical RAG with Milvus](https://dev.to/beck_moulton/from-messy-med-reports-to-smart-insights-building-a-fhir-powered-medical-rag-with-milvus-36ii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
