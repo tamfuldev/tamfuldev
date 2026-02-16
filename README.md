@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming AI Agent with FastAPI &amp; LangGraph &lpar;2025‑26 Guide&rpar;](https://dev.to/kasi_viswanath/streaming-ai-agent-with-fastapi-langgraph-2025-26-guide-1nkn)
-- [Getting Started with Ollama: From Installation to Testing](https://dev.to/raziq_din_bd0274cc2ac748b/getting-started-with-ollama-from-installation-to-testing-281o)
-- [Fine-Tuning LLMs - The Complete Practical Guide 🎯](https://dev.to/soumia_g_9dc322fc4404cecd/fine-tuning-llms-the-complete-practical-guide-aa7)
-- [TypeScript: Stop Writing JavaScript With Extra Steps](https://dev.to/aishwarya_br/typescript-stop-writing-javascript-with-extra-steps-3eja)
-- [Leadership Through Technical Crisis Management: A Systems-Based Framework for Engineering Leaders](https://dev.to/topuzas/leadership-through-technical-crisis-management-a-systems-based-framework-for-engineering-leaders-5agk)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2g1h)
+- [Why My React App Showed a White Screen After Deploying to GitHub Pages](https://dev.to/james_proneir/why-my-react-app-showed-a-white-screen-after-deploying-to-github-pages-3c13)
+- [Trust No One: Implementing True End-to-End Encryption with Insertable Streams](https://dev.to/deepak_mishra_35863517037/trust-no-one-implementing-true-end-to-end-encryption-with-insertable-streams-2ndk)
+- [“Own the Stack So You Deliver True Added-Value for Your Clients”](https://dev.to/formever_corin/own-the-stack-so-you-deliver-true-added-value-for-your-clients-22p5)
+- [Character in the Rust](https://dev.to/izzyfuller/character-in-the-rust-9oc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
