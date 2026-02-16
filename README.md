@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #760 - Async Perl](https://dev.to/szabgab/perl-weekly-760-async-perl-pfi)
-- [Why Your Diff Tool is Failing on JSONL Files](https://dev.to/lechlabs/why-your-diff-tool-is-failing-on-jsonl-files-19k0)
-- [Built a Beginner-Friendly GitHub Copilot CLI Learning Website &lpar;GitHub Copilot CLI Challenge&rpar;](https://dev.to/atul812/built-a-beginner-friendly-github-copilot-cli-learning-website-github-copilot-cli-challenge-42j6)
-- [Leveling Up: My Daily Tech Learning Journey!](https://dev.to/chethankumar/leveling-up-my-daily-tech-learning-journey-1jn6)
-- [Die KI kann mehr als Sie denken: Warum Power User mehrfach produktiver sind — und wie Sie aufholen](https://dev.to/janealesi/die-ki-kann-mehr-als-sie-denken-warum-power-user-mehrfach-produktiver-sind-und-wie-sie-aufholen-3m3f)
+- [Diabetes log cli](https://dev.to/code-qtzl/diabetes-log-cli-22pl)
+- [Laravel Dev using Claude](https://dev.to/agussudarmanto/laravel-dev-using-ai-3g16)
+- [But what exactly is an agentic assistant?](https://dev.to/herrkris/but-what-exactly-is-an-agentic-assistant-2cma)
+- [When One Line of Code Works Everywhere - Except Behind CloudFront](https://dev.to/muhammadahsanmirza/when-one-line-of-code-works-everywhere-except-behind-cloudfront-4hek)
+- [Secure Access to Private IP AlloyDB with Identity-Aware Proxy &lpar;IAP&rpar; and Auth Proxy🔒](https://dev.to/saurabhkr/secure-access-to-private-ip-alloydb-with-identity-aware-proxy-iap-and-auth-proxy-21o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
