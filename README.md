@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying $99/month for Amazon Product Research — Free Scraper Alternative](https://dev.to/vhub_systems_ed5641f65d59/stop-paying-99month-for-amazon-product-research-free-scraper-alternative-15hp)
-- [I Built 23 Free Web Scrapers on Apify — Here is What I Learned](https://dev.to/vhub_systems_ed5641f65d59/i-built-23-free-web-scrapers-on-apify-here-is-what-i-learned-4bej)
-- [Stop building &#39;Ghost Town&#39; apps: Why your recipe project is failing &lpar;and how to fix it&rpar;](https://dev.to/donaj/stop-building-ghost-town-apps-why-your-recipe-project-is-failing-and-how-to-fix-it-3i06)
-- [Best Screenshot-to-Code Alternatives: Replay vs. Lovable.dev vs. Builder.io](https://dev.to/ma1orek/best-screenshot-to-code-alternatives-replay-vs-lovabledev-vs-builderio-3jp2)
-- [How I Built an &quot;Agentic&quot; AWS Cost Optimizer &lpar;That Doesn&#39;t Break Production&rpar;](https://dev.to/cloudwiseteam/how-i-built-an-agentic-aws-cost-optimizer-that-doesnt-break-production-d77)
+- [Check Again. The World Changed While You Were Working.](https://dev.to/turtleand/check-again-the-world-changed-while-you-were-working-1ppi)
+- [Can you order a pizza on this site? ❌ 99% Can&#39;t](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd)
+- [Happy Lunar New Year! 恭喜發財🐴🏮🧧🧨](https://dev.to/jess/happy-lunar-new-year-gong-xi-fa-cai-3ble)
+- [The Tree Module Functionalities in SQLite](https://dev.to/lovestaco/the-tree-module-functionalities-in-sqlite-7n2)
+- [Building a Privacy-First File Converter That Runs 100% in Your Browser](https://dev.to/ansonchan/building-a-privacy-first-file-converter-that-runs-100-in-your-browser-5g8a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
