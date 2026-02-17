@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Delegates and Events in C#](https://dev.to/allcoderthings/delegates-and-events-in-c-446d)
-- [Different AI Models and Their Functionality: Training Data, Epochs, and How They Learn](https://dev.to/ayan_banerjee/different-ai-models-and-their-functionality-training-data-epochs-and-how-they-learn-2cbb)
-- [cognitive-debt: Measure Code Readability Before It Becomes a Problem](https://dev.to/motiramshinde/cognitive-debt-measure-code-readability-before-it-becomes-a-problem-1nbi)
-- [3-Dimensional Validation Protocol &lpar;DAM&rpar; for Interplanetary Validation — Elara Project](https://dev.to/navigatorbuilds/3-dimensional-validation-protocol-dam-for-interplanetary-validation-elara-project-4ki7)
-- [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1)
+- [Who Are We Still Writing Technical Articles For?](https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64)
+- [TypeScript Utility Types: A Complete Guide](https://dev.to/umesh_malik/typescript-utility-types-a-complete-guide-3hop)
+- [Python for Beginners: Installation, Basics, Logic, Files &amp; Mini Project](https://dev.to/shajibul_alam_shihab/python-for-beginners-installation-basics-logic-files-mini-project-c8a)
+- [I asked iOS developers how they monitor App Store Connect. Here&#39;s what I found.](https://dev.to/roni_ffer454334f/i-asked-ios-developers-how-they-monitor-app-store-connect-heres-what-i-found-1bmj)
+- [Deep Dive into AWS Lambda &lpar;2&rpar;: Lambda Bootstrap Exception Handling: Failure, Timeout Behavior Analysis, and Proper Handling](https://dev.to/wonderfulsoap/deep-dive-into-aws-lambda-2-lambda-bootstrap-exception-handling-failure-timeout-behavior-2h0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
