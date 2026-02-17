@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Conditional Statements: Ternary, Truthy/Falsy, and Switch Explained](https://dev.to/vinayagam_6a170db9281d526/javascript-conditional-statements-ternary-truthyfalsy-and-switch-explained-3335)
-- [Story points vs Horas](https://dev.to/david_goyes_a488f58a17a53/story-points-vs-horas-55n5)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 3 Create Lambda function with LMI compute type](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-3-create-lambda-function-with-lmi-1d9g)
-- [Solved: Notion not working!!!](https://dev.to/techresolve/solved-notion-not-working-4388)
-- [How I stopped my team from breaking CI with missing .env variables](https://dev.to/xserhio/how-to-stop-your-team-from-breaking-ci-with-missing-env-variables-2lbf)
+- [Building with AI: What I Know, What I Built, and Where I Stand](https://dev.to/hejhdiss/building-with-ai-what-i-know-what-i-built-and-where-i-stand-3l23)
+- [Why I Built My Own AWS Deployment Tool](https://dev.to/alex_dev_523ee1a46fb36a13/why-i-built-my-own-aws-deployment-tool-og7)
+- [The Gravity of the Default Path: When the “Interface” Makes Choices for Us](https://dev.to/zhenthinks/the-gravity-of-the-default-path-when-the-interface-makes-choices-for-us-4dn8)
+- [TestRigor vs Selenium: A Complete Comparison for Modern Testers](https://dev.to/irniaqa/testrigor-vs-selenium-a-complete-comparison-for-modern-testers-2n6e)
+- [Graphing CLT-Central Limit Theorem- by using Pandas and Matplotlib](https://dev.to/mosharaqi/graphing-clt-central-limit-theorem-by-using-pandas-and-matplotlib-585e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
