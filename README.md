@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Check Again. The World Changed While You Were Working.](https://dev.to/turtleand/check-again-the-world-changed-while-you-were-working-1ppi)
-- [Can you order a pizza on this site? ❌ 99% Can&#39;t](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd)
-- [Happy Lunar New Year! 恭喜發財🐴🏮🧧🧨](https://dev.to/jess/happy-lunar-new-year-gong-xi-fa-cai-3ble)
-- [The Tree Module Functionalities in SQLite](https://dev.to/lovestaco/the-tree-module-functionalities-in-sqlite-7n2)
-- [Building a Privacy-First File Converter That Runs 100% in Your Browser](https://dev.to/ansonchan/building-a-privacy-first-file-converter-that-runs-100-in-your-browser-5g8a)
+- [95% of AI Pilots Fail. The Ones That Succeed All Do This One Thing.](https://dev.to/utibe_okodi_339fb47a13ef5/95-of-ai-pilots-fail-the-ones-that-succeed-all-do-this-one-thing-37if)
+- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
+- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
+- [Stepping outside your role - how to gain an edge at work](https://dev.to/adaxelx/stepping-outside-your-role-how-to-gain-an-edge-at-work-58n5)
+- [The Vonage Dev Discussion](https://dev.to/vonagedev/the-vonage-dev-discussion-4h52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
