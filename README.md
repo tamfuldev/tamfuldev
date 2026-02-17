@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding `__slots__` in Python: Memory Optimization and Design Trade-offs](https://dev.to/lead_with_data/understanding-slots-in-python-memory-optimization-and-design-trade-offs-4p87)
-- [Hoisting in let and const : Understanding the Temporal Dead Zone](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-let-and-const-understanding-the-temporal-dead-zone-2a90)
-- [How do you actually get people to notice your side projects?](https://dev.to/ben_thomison_42031c7bd6e9/how-do-you-actually-get-people-to-notice-your-side-projects-3gpe)
-- [Top 5 LiteLLM Alternatives in 2026](https://dev.to/therealmrmumba/top-5-litellm-alternatives-in-2026-1nm)
-- [My AI Escaped Its Container and Did Everything — Except Review Its Own Code](https://dev.to/yujisuzuki/my-ai-escaped-its-container-and-did-everything-except-review-its-own-code-388o)
+- [JavaScript Conditional Statements: Ternary, Truthy/Falsy, and Switch Explained](https://dev.to/vinayagam_6a170db9281d526/javascript-conditional-statements-ternary-truthyfalsy-and-switch-explained-3335)
+- [Story points vs Horas](https://dev.to/david_goyes_a488f58a17a53/story-points-vs-horas-55n5)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 3 Create Lambda function with LMI compute type](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-3-create-lambda-function-with-lmi-1d9g)
+- [Solved: Notion not working!!!](https://dev.to/techresolve/solved-notion-not-working-4388)
+- [How I stopped my team from breaking CI with missing .env variables](https://dev.to/xserhio/how-to-stop-your-team-from-breaking-ci-with-missing-env-variables-2lbf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
