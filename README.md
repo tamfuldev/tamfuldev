@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Magic: Running Wasm Modules in Python](https://dev.to/grindmachine/no-magic-running-wasm-modules-in-python-11pf)
-- [X.509 Beyond Trust: Weaponizing Certificate Extensibility Without Breaking TLS](https://dev.to/michael_s_errington/x509-beyond-trust-weaponizing-certificate-extensibility-without-breaking-tls-2knj)
-- [The Secret Life of JavaScript: The Async Generator](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-async-generator-7hn)
-- [⌚ Beginner-Friendly Guide &#39;Binary Watch&#39; - Problem 401 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-watch-problem-401-c-python-javascript-11l3)
-- [Building a Desktop AI Chat App for ChatGPT, Claude, Gemini &amp; Ollama](https://dev.to/nguyen_phuchai_b01cae130/building-a-desktop-ai-chat-app-for-chatgpt-claude-gemini-ollama-1abh)
+- [Building a Simple BMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-bmi-calculator-with-html-css-and-javascript-4031)
+- [I kept hitting the &quot;quota wall&quot; with AI coding tools. So I built a router.](https://dev.to/dor_amir_dbb52baafff7ca5b/i-kept-hitting-the-quota-wall-with-ai-coding-tools-so-i-built-a-router-5lj)
+- [Earlier, becoming a thought leader was really hard; it involved lots of challenges. Now, contributing to AI Open Source Projects can make anyone a thought leader.](https://dev.to/jaideepparashar/earlier-becoming-a-thought-leader-was-really-hard-it-involved-lots-of-challenges-now-gg7)
+- [How search engines “judge” your homepage after the hero section](https://dev.to/bhavin-allinonetools/how-search-engines-judge-your-homepage-after-the-hero-section-1ih5)
+- [How Contributing to AI Open Source Projects Can Make You a Thought Leader](https://dev.to/jaideepparashar/how-contributing-to-ai-open-source-projects-can-make-you-a-thought-leader-3lp5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
