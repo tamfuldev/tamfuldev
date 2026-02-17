@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Mobile Design Systems That Actually Scale &lpar;with Storybook&rpar;](https://dev.to/waseem_kurne_7/building-mobile-design-systems-that-actually-scale-with-storybook-5044)
-- [OWASP Agentic AI Top 10 — A Practical Interpretation for Engineers](https://dev.to/nagasatish_chilakamarti_2/owasp-agentic-ai-top-10-a-practical-interpretation-for-engineers-46n3)
-- [OpenClaw another AI agent 😅](https://dev.to/mrhamster888/openclaw-another-ai-agent-24am)
-- [Building 10q10k.net: A Financial Visualization Platform Running Entirely on Cloudflare&#39;s Edge](https://dev.to/kyles_light_275be0175609f/building-10q10knet-a-financial-visualization-platform-running-entirely-on-cloudflares-edge-2p31)
-- [The Perfect &quot;Side Project&quot; for Programmers - Cooking](https://dev.to/manishpodiyal/the-perfect-side-project-for-programmers-cooking-1607)
+- [Dashboards: A Study into the nexus between KPI&#39;s, Metrics and Data points in Microsoft Excel](https://dev.to/kahindikv/dashboards-a-study-into-the-nexus-between-kpis-metrics-and-data-points-in-microsoft-excel-4nod)
+- [Access Modifiers in Java](https://dev.to/nanthini_ammu_ac02ad32802/access-modifiers-in-java-14kj)
+- [How I Build an AI-Powered Virtual Try-On For Men’s Clothing Brand](https://dev.to/usama_d14e7149bf47b1/how-i-build-an-ai-powered-virtual-try-on-for-mens-clothing-brand-264f)
+- [10 top Claude Code plugins to use in 2026](https://dev.to/composiodev/10-top-claude-code-plugins-to-use-in-2026-4gn6)
+- [Welcome to Me!](https://dev.to/svilupp0/welcome-to-me-21an)
 <!-- BLOG-POST-LIST:END -->
 
 ---
