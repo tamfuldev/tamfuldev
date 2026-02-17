@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Compared the True Cost of Freelancing on Every Developer Platform in 2026 — With Actual Code to Calculate Your Real Rate](https://dev.to/jobbers_io_8a6f201f0be4fb/i-compared-the-true-cost-of-freelancing-on-every-developer-platform-in-2026-with-actual-code-to-5baj)
-- [GenosDB: A Solution for Trust in Distributed Systems](https://dev.to/estebanrfp/genosdb-a-solution-for-trust-in-distributed-systems-5dl4)
-- [Part 3: Testing, Documentation &amp; Deployment 🚀](https://dev.to/abdelrahman_adnan/part-3-testing-documentation-deployment-1bek)
-- [The Invisible Layer: Mastering HTTP Caching &lpar;Part 2&rpar;](https://dev.to/peterintech/the-invisible-layer-mastering-http-caching-part-2-31gn)
-- [Part 2: dbt Project Structure &amp; Building Models 📁](https://dev.to/abdelrahman_adnan/part-2-dbt-project-structure-building-models-5g3g)
+- [No Magic: Running Wasm Modules in Python](https://dev.to/grindmachine/no-magic-running-wasm-modules-in-python-11pf)
+- [X.509 Beyond Trust: Weaponizing Certificate Extensibility Without Breaking TLS](https://dev.to/michael_s_errington/x509-beyond-trust-weaponizing-certificate-extensibility-without-breaking-tls-2knj)
+- [The Secret Life of JavaScript: The Async Generator](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-async-generator-7hn)
+- [⌚ Beginner-Friendly Guide &#39;Binary Watch&#39; - Problem 401 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-watch-problem-401-c-python-javascript-11l3)
+- [Building a Desktop AI Chat App for ChatGPT, Claude, Gemini &amp; Ollama](https://dev.to/nguyen_phuchai_b01cae130/building-a-desktop-ai-chat-app-for-chatgpt-claude-gemini-ollama-1abh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
