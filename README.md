@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dashboards: A Study into the nexus between KPI&#39;s, Metrics and Data points in Microsoft Excel](https://dev.to/kahindikv/dashboards-a-study-into-the-nexus-between-kpis-metrics-and-data-points-in-microsoft-excel-4nod)
-- [Access Modifiers in Java](https://dev.to/nanthini_ammu_ac02ad32802/access-modifiers-in-java-14kj)
-- [How I Build an AI-Powered Virtual Try-On For Men’s Clothing Brand](https://dev.to/usama_d14e7149bf47b1/how-i-build-an-ai-powered-virtual-try-on-for-mens-clothing-brand-264f)
-- [10 top Claude Code plugins to use in 2026](https://dev.to/composiodev/10-top-claude-code-plugins-to-use-in-2026-4gn6)
-- [Welcome to Me!](https://dev.to/svilupp0/welcome-to-me-21an)
+- [Delegates and Events in C#](https://dev.to/allcoderthings/delegates-and-events-in-c-446d)
+- [Different AI Models and Their Functionality: Training Data, Epochs, and How They Learn](https://dev.to/ayan_banerjee/different-ai-models-and-their-functionality-training-data-epochs-and-how-they-learn-2cbb)
+- [cognitive-debt: Measure Code Readability Before It Becomes a Problem](https://dev.to/motiramshinde/cognitive-debt-measure-code-readability-before-it-becomes-a-problem-1nbi)
+- [3-Dimensional Validation Protocol &lpar;DAM&rpar; for Interplanetary Validation — Elara Project](https://dev.to/navigatorbuilds/3-dimensional-validation-protocol-dam-for-interplanetary-validation-elara-project-4ki7)
+- [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
