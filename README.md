@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [95% of AI Pilots Fail. The Ones That Succeed All Do This One Thing.](https://dev.to/utibe_okodi_339fb47a13ef5/95-of-ai-pilots-fail-the-ones-that-succeed-all-do-this-one-thing-37if)
-- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
-- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
-- [Stepping outside your role - how to gain an edge at work](https://dev.to/adaxelx/stepping-outside-your-role-how-to-gain-an-edge-at-work-58n5)
-- [The Vonage Dev Discussion](https://dev.to/vonagedev/the-vonage-dev-discussion-4h52)
+- [Surprise: You Can &quot;Intercept&quot; the C# lock Statement](https://dev.to/dimonsmart/surprise-you-can-intercept-the-c-lock-statement-14n)
+- [Azure AI Agent Service: Your First Production-Ready AI Agent in C#](https://dev.to/bspann/azure-ai-agent-service-your-first-production-ready-ai-agent-in-c-4pg4)
+- [GitHub Copilot SDK - Build AI-Powered DevOps Agents for Your Own Apps](https://dev.to/pwd9000/github-copilot-sdk-build-ai-powered-devops-agents-for-your-own-apps-3d05)
+- [I’ve Seen This Architecture Before. It Ends in Tears.](https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld)
+- [API Testing Tools in 2026: Why I Built My Own &lpar;After Comparing All the Popular Ones&rpar;](https://dev.to/mbadyl/api-testing-tools-in-2026-why-i-built-my-own-after-comparing-all-the-popular-ones-3jhn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
