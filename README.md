@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who Are We Still Writing Technical Articles For?](https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64)
-- [TypeScript Utility Types: A Complete Guide](https://dev.to/umesh_malik/typescript-utility-types-a-complete-guide-3hop)
-- [Python for Beginners: Installation, Basics, Logic, Files &amp; Mini Project](https://dev.to/shajibul_alam_shihab/python-for-beginners-installation-basics-logic-files-mini-project-c8a)
-- [I asked iOS developers how they monitor App Store Connect. Here&#39;s what I found.](https://dev.to/roni_ffer454334f/i-asked-ios-developers-how-they-monitor-app-store-connect-heres-what-i-found-1bmj)
-- [Deep Dive into AWS Lambda &lpar;2&rpar;: Lambda Bootstrap Exception Handling: Failure, Timeout Behavior Analysis, and Proper Handling](https://dev.to/wonderfulsoap/deep-dive-into-aws-lambda-2-lambda-bootstrap-exception-handling-failure-timeout-behavior-2h0h)
+- [Can Copilot CLI handle production-level work? Here’s the breakdown.](https://dev.to/amit_mehta_dc63e11483813d/can-copilot-cli-handle-production-level-work-heres-the-breakdown-3e90)
+- [SvelteKit vs Next.js 16: 2026 Performance Benchmarks](https://dev.to/saqibshahdev/sveltekit-vs-nextjs-16-2026-performance-benchmarks-21pj)
+- [FunDI — Lightweight Dependency Injection for Functional Python](https://dev.to/kuyugama/fundi-lightweight-dependency-injection-for-functional-python-2dkm)
+- [Building 99.7% Reliable n8n Workflows: The Validation Guide](https://dev.to/amansuryavanshi-ai/building-997-reliable-n8n-workflows-the-validation-guide-59cn)
+- [DuckDB: O Motor Analítico da Sua Stack — SQL de Alta Performance Integrado ao Python](https://dev.to/franciscojdsjr/guia-duckdb-polars-5c19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
