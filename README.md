@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub added Anthropic Claude and OpenAI Codex inside Agent HQ](https://dev.to/meisterit_systems_/github-added-anthropic-claude-and-openai-codex-inside-agent-hq-2b9n)
-- [Enterprise Jenkins Pipeline: Deploy WAR to DEV, QA, UAT, and PROD with Approval Gates, Rollback, and SCP](https://dev.to/srinivasamcjf/enterprise-jenkins-pipeline-deploy-war-to-dev-qa-uat-and-prod-with-approval-gates-rollback-3l5e)
-- [I Built a Pre-commit Security Scanner with Claude Code](https://dev.to/camof1ow/i-built-a-pre-commit-security-scanner-with-claude-code-2lk)
-- [How to Track AI Citation Traffic in GA4 &lpar;And Why It&#39;s Replacing Google Organic&rpar;](https://dev.to/msmyaqoob25/how-to-track-ai-citation-traffic-in-ga4-and-why-its-replacing-google-organic-559k)
-- [Low-Rank Matrix Factorization: Shrinking LLMs Without Breaking Their Brain](https://dev.to/madesh_v_00772d0bb44df29/low-rank-matrix-factorization-shrinking-llms-without-breaking-their-brain-fod)
+- [Printable Route Directions with Geoapify: Complete Demo Walkthrough](https://dev.to/geoapify-maps-api/printable-route-directions-with-geoapify-complete-demo-walkthrough-2keh)
+- [Daily Challenge #5 : The &quot;Checkbox&quot; Logic Gate 🎛️](https://dev.to/bingkahu/daily-challenge-5-the-checkbox-logic-gate-1a62)
+- [Building a Support Knowledge Base That Actually Helps Users Self-Serve](https://dev.to/therealmrmumba/building-a-support-knowledge-base-that-actually-helps-users-self-serve-d45)
+- [Build AI Videos with Code: Seedance 2.0 API Integration Guide](https://dev.to/singho/build-ai-videos-with-code-seedance-20-api-integration-guide-3957)
+- [Design System Is All You Need](https://dev.to/pnal/design-system-is-all-you-need-17b2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
