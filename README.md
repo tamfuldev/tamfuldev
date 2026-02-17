@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MQTT Explained in Simple Terms: The Lightweight Protocol That Powers the Entire IoT World](https://dev.to/amanprasad/mqtt-explained-in-simple-terms-the-lightweight-protocol-that-powers-the-entire-iot-world-142p)
-- [What&#39;s the most useful micro tool you&#39;ve built for yourself?](https://dev.to/maxxmini/whats-the-most-useful-micro-tool-youve-built-for-yourself-4jff)
-- [I Built Digg X: A Chrome Extension That Turns X Bookmarks into a Searchable AI Research Inbox](https://dev.to/infz/i-built-digg-x-a-chrome-extension-that-turns-x-bookmarks-into-a-searchable-ai-research-inbox-71i)
-- [I Built a Privacy-First Collection of Browser-Based Dev Tools](https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn)
-- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5)
+- [GitHub added Anthropic Claude and OpenAI Codex inside Agent HQ](https://dev.to/meisterit_systems_/github-added-anthropic-claude-and-openai-codex-inside-agent-hq-2b9n)
+- [Enterprise Jenkins Pipeline: Deploy WAR to DEV, QA, UAT, and PROD with Approval Gates, Rollback, and SCP](https://dev.to/srinivasamcjf/enterprise-jenkins-pipeline-deploy-war-to-dev-qa-uat-and-prod-with-approval-gates-rollback-3l5e)
+- [I Built a Pre-commit Security Scanner with Claude Code](https://dev.to/camof1ow/i-built-a-pre-commit-security-scanner-with-claude-code-2lk)
+- [How to Track AI Citation Traffic in GA4 &lpar;And Why It&#39;s Replacing Google Organic&rpar;](https://dev.to/msmyaqoob25/how-to-track-ai-citation-traffic-in-ga4-and-why-its-replacing-google-organic-559k)
+- [Low-Rank Matrix Factorization: Shrinking LLMs Without Breaking Their Brain](https://dev.to/madesh_v_00772d0bb44df29/low-rank-matrix-factorization-shrinking-llms-without-breaking-their-brain-fod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
