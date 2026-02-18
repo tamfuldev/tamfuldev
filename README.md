@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Linux Basics to Remote Deployment: A 6 Day DevOps Foundation Project](https://dev.to/oyawole_damilola_e3821568/from-linux-basics-to-remote-deployment-a-6-day-devops-foundation-project-jo1)
-- [Warehouse Vs Lakehouse : What to choose in Fabric ?](https://dev.to/anshul_02/warehouse-vs-lakehouse-what-to-choose-in-fabric--dll)
-- [Building a Simple EMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-emi-calculator-with-html-css-and-javascript-4dnf)
-- [Schema-First Prompt Engineering: The Gemini Lesson That Will Save Your Production App](https://dev.to/prasadt1/schema-first-prompt-engineering-the-gemini-lesson-that-will-save-your-production-app-1pea)
-- [What Are the Best Evaluation Metrics for LLM Fine-Tuning in Business?](https://dev.to/joywinter90/what-are-the-best-evaluation-metrics-for-llm-fine-tuning-in-business-1b8l)
+- [Streamlining Dependency Injection in TypeScript: A Look at `singleton-factory-ts`](https://dev.to/rpi1337/streamlining-dependency-injection-in-typescript-a-look-at-singleton-factory-ts-2imk)
+- [Databasus released full backups portability: backups recoverable without Databasus itself](https://dev.to/finny_collins/databasus-released-full-backups-portability-backups-recoverable-without-databasus-itself-e56)
+- [I built a HFT crypto aggregator in Go 1.24 &lpar;and why &quot;vibe coding&quot; wouldn&#39;t survive it&rpar;](https://dev.to/stankevicz/i-built-a-hft-crypto-aggregator-in-go-124-and-why-vibe-coding-wouldnt-survive-it-4b93)
+- [CSS Flexbox for Beginners: Build Responsive Layouts the Easy Way](https://dev.to/szokker_8e4b90d9e4e1/css-flexbox-for-beginners-build-responsive-layouts-the-easy-way-3hfo)
+- [Building an Inclusive Web: A Beginner’s Guide to WordPress Accessibility &lpar;Part 2&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-guide-to-wordpress-accessibility-part-2-4eck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
