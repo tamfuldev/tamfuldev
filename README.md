@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Dependency Injection in TypeScript: A Look at `singleton-factory-ts`](https://dev.to/rpi1337/streamlining-dependency-injection-in-typescript-a-look-at-singleton-factory-ts-2imk)
-- [Databasus released full backups portability: backups recoverable without Databasus itself](https://dev.to/finny_collins/databasus-released-full-backups-portability-backups-recoverable-without-databasus-itself-e56)
-- [I built a HFT crypto aggregator in Go 1.24 &lpar;and why &quot;vibe coding&quot; wouldn&#39;t survive it&rpar;](https://dev.to/stankevicz/i-built-a-hft-crypto-aggregator-in-go-124-and-why-vibe-coding-wouldnt-survive-it-4b93)
-- [CSS Flexbox for Beginners: Build Responsive Layouts the Easy Way](https://dev.to/szokker_8e4b90d9e4e1/css-flexbox-for-beginners-build-responsive-layouts-the-easy-way-3hfo)
-- [Building an Inclusive Web: A Beginner’s Guide to WordPress Accessibility &lpar;Part 2&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-guide-to-wordpress-accessibility-part-2-4eck)
+- [The Foundation Update: From Theory to Working Federation](https://dev.to/the-foundation/the-foundation-update-from-theory-to-working-federation-2ejm)
+- [Understanding @Transactional in Spring Boot](https://dev.to/md_monowarulamin200042/understanding-transactional-in-spring-boot-1inh)
+- [EP 15: Pub/Sub - Stop Chaining Your Services](https://dev.to/hrishikesh_dalal_ced8f95e/ep-15-pubsub-stop-chaining-your-services-53ng)
+- [Dashboard Born: From Static Page to Flask API](https://dev.to/linou518/dashboard-born-from-static-page-to-flask-api-nga)
+- [Hello everyone, how are you? What advice would you give to stay energetic and healthy?](https://dev.to/viktoriya_wlasenko_b6e783/hello-everyone-how-are-you-what-advice-would-you-give-to-stay-energetic-and-healthy-3lcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
