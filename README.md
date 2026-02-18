@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/willzmu/-3j8n)
-- [Simplifying Localization in React: An Inside Look at `translation-service-react`](https://dev.to/rpi1337/simplifying-localization-in-react-an-inside-look-at-translation-service-react-adp)
-- [GhostTrace: Capture &quot;Phantom Branches&quot; to Debug Rejected Decisions in AI Agents](https://dev.to/ahmedallam222/ghosttrace-capture-phantom-branches-to-debug-rejected-decisions-in-ai-agents-2pf)
-- [Why Prompts Are More Than Just Messages](https://dev.to/dev-in-progress/why-prompts-are-more-than-just-messages-1eeg)
-- [The Real AI Revolution Isn’t Models — It’s Infrastructure](https://dev.to/ritesham/the-real-ai-revolution-isnt-models-its-infrastructure-1oe2)
+- [How I Tricked AWS Elastic Beanstalk Into Using pnpm](https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4)
+- [Finding the Sequence of Strings Appeared on the Screen](https://dev.to/iammastercraft/finding-the-sequence-of-strings-appeared-on-the-screen-145c)
+- [DevOps for Gamers: Deploying a CS2 Dedicated Server on Ubuntu](https://dev.to/shannon_dias_927e8f0d0d18/devops-for-gamers-deploying-a-cs2-dedicated-server-on-ubuntu-24hi)
+- [Static Serving, H3, and the Last Piece of v0.1](https://dev.to/mdreal32/static-serving-h3-and-the-last-piece-of-v01-3iea)
+- [How Content Pipelines Break When Writers Meet Model Limits &lpar;A Systems Deconstruction&rpar;](https://dev.to/olivia_perell_/how-content-pipelines-break-when-writers-meet-model-limits-a-systems-deconstruction-18f6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
