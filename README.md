@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trabajo remoto y registro del tiempo: equilibrio entre confianza y transparencia](https://dev.to/martinezalejandro_de/trabajo-remoto-y-registro-del-tiempo-equilibrio-entre-confianza-y-transparencia-23n4)
-- [Bremen inicia un proyecto piloto: registro digital del tiempo de trabajo para docentes](https://dev.to/martinezalejandro_de/bremen-inicia-un-proyecto-piloto-registro-digital-del-tiempo-de-trabajo-para-docentes-ep1)
-- [Nuevas tendencias en el trabajo diario: herramientas de medición del tiempo en la práctica](https://dev.to/martinezalejandro_de/nuevas-tendencias-en-el-trabajo-diario-herramientas-de-medicion-del-tiempo-en-la-practica-4cjb)
-- [Provide private storage for internal company documents](https://dev.to/rahimah_dev/provide-private-storage-for-internal-company-documents-4idd)
-- [The Spanish ZX Spectrum + 128K by Investrónica](https://dev.to/baltasarq/the-spanish-zx-spectrum-128k-by-investronica-1c7k)
+- [Alerta para Desarrolladores: Trae IDE y el Riesgo Real con el Código de tus Clientes](https://dev.to/leuzga/alerta-para-desarrolladores-trae-ide-y-el-riesgo-real-con-el-codigo-de-tus-clientes-1cgg)
+- [Building FridgeChef: What I Learned Training a Custom Computer Vision Model with Roboflow](https://dev.to/jnastaskin/building-fridgechef-what-i-learned-training-a-custom-computer-vision-model-with-roboflow-kp7)
+- [Introducing the Voxtral Test: Breaking the Speed Barrier in Real-Time Speech AI](https://dev.to/aairom/introducing-the-voxtral-test-breaking-the-speed-barrier-in-real-time-speech-ai-74p)
+- [What It Means to Be a Developer in the AI Era](https://dev.to/emiroberti/what-it-means-to-be-a-developer-in-the-ai-era-3dc2)
+- [I Built a REST API That Lets AI Agents Find Freelance Work and Earn Crypto](https://dev.to/doncaarbon/i-built-a-rest-api-that-lets-ai-agents-find-freelance-work-and-earn-crypto-13e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
