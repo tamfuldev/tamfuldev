@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16 of #100DaysOfCode — Routing in React](https://dev.to/m_saad_ahmad/day-16-of-100daysofcode-routing-in-react-4ngp)
-- [Exciting New Features and Enhancements in Our Latest Update](https://dev.to/donnieblt/exciting-new-features-and-enhancements-in-our-latest-update-34kh)
-- [Accelerating Multimodal Vector DB with Hugging Face + LanceDB](https://dev.to/yohei1126/accelerating-multimodal-vector-db-with-hugging-face-lancedb-def)
-- [Day 5 — Intentionally Building and Breaking an SSTI Vulnerability &lpar;Flask + Jinja2&rpar;](https://dev.to/hafiz_shamnad/day-5-intentionally-building-and-breaking-an-ssti-vulnerability-flask-jinja2-1a2g)
-- [&quot;Own the Stack&quot; - The Right Platform is Key](https://dev.to/formever_corin/own-the-stack-the-right-platform-is-key-2kga)
+- [Manticore Search on Microsoft Azure: DX1&#39;s Story](https://dev.to/sanikolaev/manticore-search-on-microsoft-azure-dx1s-story-5335)
+- [Technical Deep Dive: Veo 3.1 JSON Prompt Engineering](https://dev.to/solo_dev_0101/technical-deep-dive-veo-31-json-prompt-engineering-1p0h)
+- [GHSA-PG2V-8XWH-QHCC: The Call Is Coming From Inside the House: OpenClaw SSRF Analysis](https://dev.to/cverports/ghsa-pg2v-8xwh-qhcc-the-call-is-coming-from-inside-the-house-openclaw-ssrf-analysis-1pni)
+- [How to persistently store object-type data on a hard drive using PersistentStorage](https://dev.to/harmonyos/how-to-persistently-store-object-type-data-on-a-hard-drive-using-persistentstorage-472f)
+- [Building an Open-Source Dip-Buying Strategy for Altcoins &lpar;Pine Script&rpar;](https://dev.to/s_morozov/building-an-open-source-dip-buying-strategy-for-altcoins-pine-script-1k8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
