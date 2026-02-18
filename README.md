@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Get in the Habit of Learning Daily](https://dev.to/nikola/get-in-the-habit-of-learning-daily-370a)
-- [How I Built a Full-Stack AI App in Under a Week — As an Email Developer](https://dev.to/yaninatrekhleb/how-i-built-a-full-stack-ai-app-in-under-a-week-as-an-email-developer-3afa)
-- [FREE Wordpress Custom Fields Plugin for 2026 &lpar; ACF Alternative &rpar;](https://dev.to/soroushpng/free-wordpress-custom-fields-plugin-for-2026-acf-alternative--1iep)
-- [Remote Connections in Windows](https://dev.to/khadijah/remote-connections-in-windows-1ffk)
-- [An AI Agent Built a Full-Stack Stock Analysis App - Here&#39;s What Happened](https://dev.to/agbythos/an-ai-agent-built-a-full-stack-stock-analysis-app-heres-what-happened-nd7)
+- [The Complete Guide to Deploying Next.js Apps in 2026: Vercel, Self-Hosted, and Everything In Between](https://dev.to/zahg_81752b307f5df5d56035/the-complete-guide-to-deploying-nextjs-apps-in-2026-vercel-self-hosted-and-everything-in-between-48ia)
+- [Docker Unlocked: What I Wish I Knew earlier.](https://dev.to/juma_evans_34e389ef539266/docker-unlocked-what-i-wish-i-knew-earlier-143f)
+- [The Ghost in the CLI: Why Claude Code Kills Local Inference](https://dev.to/mfolsom/the-ghost-in-the-cli-why-claude-code-kills-local-inference-dfc)
+- [Finding my Frontier: Cloud free coding on GLM-5](https://dev.to/mfolsom/finding-my-frontier-cloud-free-coding-on-glm-5-47o4)
+- [Your Team&#39;s Icebreakers Shouldn&#39;t Make People Cringe 😬](https://dev.to/mattlewandowski93/your-teams-icebreakers-shouldnt-make-people-cringe-2dk0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
