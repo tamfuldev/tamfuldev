@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw for Developers: Building Solo-Dev Companies](https://dev.to/shehzan/openclaw-for-developers-building-solo-dev-companies-2o6g)
-- [How to Build a Smart Call Agent Using Twilio + ElevenLabs + n8n](https://dev.to/ciphernutz/how-to-build-a-smart-call-agent-using-twilio-elevenlabs-n8n-296a)
-- [Why I Built a File Converter That Doesn&#39;t Upload Your Files](https://dev.to/ansonchan/why-i-built-a-file-converter-that-doesnt-upload-your-files-3jkc)
-- [How to Create a Resource Group on Azure Portal](https://dev.to/adegbola_adeniyi_841e65f3/how-to-create-a-resource-group-on-azure-portal-4mdd)
-- [Slitherlink Corner Patterns: The First Thing Every Solver Should Learn](https://dev.to/ansonchan/slitherlink-corner-patterns-the-first-thing-every-solver-should-learn-5bnh)
+- [Daily Challenge #6 : The &quot;CSS-Only&quot; Tooltip System 🗨️](https://dev.to/bingkahu/daily-challenge-6-the-css-only-tooltip-system-39d5)
+- [How to Use AI Without Ruining Your Programming Skills](https://dev.to/arafatweb/how-to-use-ai-without-ruining-your-programming-skills-2538)
+- [AWS Won&#39;t Stop Charging You. Ever. Deploy Budget Alerts as Code with Terraform Before It&#39;s Too Late 🔥](https://dev.to/suhas_mallesh/aws-wont-stop-charging-you-ever-deploy-budget-alerts-as-code-with-terraform-before-its-too-late-3mac)
+- [MCP for .NET: AI Agents That Can Actually Do Things](https://dev.to/hamedhajiloo/mcp-for-net-ai-agents-that-can-actually-do-things-50in)
+- [Codebase Intelligence](https://dev.to/nancy_kataria/codebase-intelligence-c7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
