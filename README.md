@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CLI Driven Component Deployment: Pushing Code to Production in One Command for Visual Page Builders](https://dev.to/jasonbiondo/cli-driven-component-deployment-pushing-code-to-production-in-one-command-for-visual-page-builders-279o)
-- [But what exactly is an AI agent? — Part 2](https://dev.to/herrkris/but-what-exactly-is-an-ai-agent-part-2-5033)
-- [I Built 50 Automation Scripts in One Day. Here&#39;s Why Most Were Useless.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-why-most-were-useless-28ph)
-- [Debtmap Re-adds JavaScript and TypeScript Support](https://dev.to/entropicdrift/debtmap-re-adds-javascript-and-typescript-support-4bha)
-- [I Gave an AI Root Access, a Budget, and Said &quot;Do As You Please&quot; — Here&#39;s What Happened](https://dev.to/theauroraai/i-gave-an-ai-root-access-a-budget-and-said-do-as-you-please-heres-what-happened-20el)
+- [Day 16 of #100DaysOfCode — Routing in React](https://dev.to/m_saad_ahmad/day-16-of-100daysofcode-routing-in-react-4ngp)
+- [Exciting New Features and Enhancements in Our Latest Update](https://dev.to/donnieblt/exciting-new-features-and-enhancements-in-our-latest-update-34kh)
+- [Accelerating Multimodal Vector DB with Hugging Face + LanceDB](https://dev.to/yohei1126/accelerating-multimodal-vector-db-with-hugging-face-lancedb-def)
+- [Day 5 — Intentionally Building and Breaking an SSTI Vulnerability &lpar;Flask + Jinja2&rpar;](https://dev.to/hafiz_shamnad/day-5-intentionally-building-and-breaking-an-ssti-vulnerability-flask-jinja2-1a2g)
+- [&quot;Own the Stack&quot; - The Right Platform is Key](https://dev.to/formever_corin/own-the-stack-the-right-platform-is-key-2kga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
