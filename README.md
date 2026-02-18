@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Foundation Update: From Theory to Working Federation](https://dev.to/the-foundation/the-foundation-update-from-theory-to-working-federation-2ejm)
-- [Understanding @Transactional in Spring Boot](https://dev.to/md_monowarulamin200042/understanding-transactional-in-spring-boot-1inh)
-- [EP 15: Pub/Sub - Stop Chaining Your Services](https://dev.to/hrishikesh_dalal_ced8f95e/ep-15-pubsub-stop-chaining-your-services-53ng)
-- [Dashboard Born: From Static Page to Flask API](https://dev.to/linou518/dashboard-born-from-static-page-to-flask-api-nga)
-- [Hello everyone, how are you? What advice would you give to stay energetic and healthy?](https://dev.to/viktoriya_wlasenko_b6e783/hello-everyone-how-are-you-what-advice-would-you-give-to-stay-energetic-and-healthy-3lcd)
+- [GStreamer](https://dev.to/sagar_saini/gstreamer-5bo8)
+- [The packaging bugs I kept shipping &lpar;and the tool I built to stop&rpar;](https://dev.to/girigirianish/the-packaging-bugs-i-kept-shipping-and-the-tool-i-built-to-stop-lkh)
+- [Architecting the Internet of Agents: A Deep Dive into Coral Protocol Security](https://dev.to/alessandro_pignati/architecting-the-internet-of-agents-a-deep-dive-into-coral-protocol-security-53b2)
+- [SoundBoardio: Github-driven soundboards](https://dev.to/bartholomej/soundboardio-github-driven-soundboards-k6f)
+- [Why Mixing Up Test Plan and Test Strategy Costs You Time &lpar;And How to Fix It&rpar;](https://dev.to/matt_calder_e620d84cf0c14/why-mixing-up-test-plan-and-test-strategy-costs-you-time-and-how-to-fix-it-4cnm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
