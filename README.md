@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build AI-Powered Vue.js Apps: Integrate OpenAI API with Composition API and Pinia](https://dev.to/paul_robertson_e844997d2b/build-ai-powered-vuejs-apps-integrate-openai-api-with-composition-api-and-pinia-1946)
-- [How Shopify Silently Kills Your Webhook Subscriptions &lpar;And How to Prevent It&rpar;](https://dev.to/shophooks_031476411ce890d/how-shopify-silently-kills-your-webhook-subscriptions-and-how-to-prevent-it-1d3f)
-- [Replacing Static AWS Credentials in CI/CD with GitHub OIDC &lpar;A Practical DevOps Lab&rpar;](https://dev.to/iuri_covaliov/replacing-static-aws-credentials-in-cicd-with-github-oidc-a-practical-devops-lab-2222)
-- [Kubernetes Advanced Scheduling: How we fixed Real Production Incidents](https://dev.to/suresh_devops_ffa0728a190/kubernetes-advanced-scheduling-we-fixed-real-production-incidents-43de)
-- [Components structure in Twenty codebase - Part 1.2](https://dev.to/ramunarasinga-11/components-structure-in-twenty-codebase-part-12-d3g)
+- [I built a RAG system where hallucinations aren&#39;t acceptable. Here&#39;s what actually worked.](https://dev.to/buildsyncinc/i-built-a-rag-system-where-hallucinations-arent-acceptable-heres-what-actually-worked-b2e)
+- [Making It Two Locations: A Routed WireGuard Tunnel Between My Labs](https://dev.to/n20amaral/making-it-two-locations-a-routed-wireguard-tunnel-between-my-labs-4o3m)
+- [[Boost]](https://dev.to/ezeobi_oliaa_7601ff7c6477/-3d00)
+- [What developers don&#39;t get about Idempotency](https://dev.to/manuelarte/what-developers-dont-get-about-idempotency-1hgm)
+- [Coding agents for production iOS: a senior engineer&#39;s setup for 2x the output](https://dev.to/vova_ignatov/coding-agents-for-production-ios-a-senior-engineers-setup-for-2x-the-output-8m0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
