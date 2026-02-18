@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Manticore Search on Microsoft Azure: DX1&#39;s Story](https://dev.to/sanikolaev/manticore-search-on-microsoft-azure-dx1s-story-5335)
-- [Technical Deep Dive: Veo 3.1 JSON Prompt Engineering](https://dev.to/solo_dev_0101/technical-deep-dive-veo-31-json-prompt-engineering-1p0h)
-- [GHSA-PG2V-8XWH-QHCC: The Call Is Coming From Inside the House: OpenClaw SSRF Analysis](https://dev.to/cverports/ghsa-pg2v-8xwh-qhcc-the-call-is-coming-from-inside-the-house-openclaw-ssrf-analysis-1pni)
-- [How to persistently store object-type data on a hard drive using PersistentStorage](https://dev.to/harmonyos/how-to-persistently-store-object-type-data-on-a-hard-drive-using-persistentstorage-472f)
-- [Building an Open-Source Dip-Buying Strategy for Altcoins &lpar;Pine Script&rpar;](https://dev.to/s_morozov/building-an-open-source-dip-buying-strategy-for-altcoins-pine-script-1k8)
+- [[Boost]](https://dev.to/willzmu/-3j8n)
+- [Simplifying Localization in React: An Inside Look at `translation-service-react`](https://dev.to/rpi1337/simplifying-localization-in-react-an-inside-look-at-translation-service-react-adp)
+- [GhostTrace: Capture &quot;Phantom Branches&quot; to Debug Rejected Decisions in AI Agents](https://dev.to/ahmedallam222/ghosttrace-capture-phantom-branches-to-debug-rejected-decisions-in-ai-agents-2pf)
+- [Why Prompts Are More Than Just Messages](https://dev.to/dev-in-progress/why-prompts-are-more-than-just-messages-1eeg)
+- [The Real AI Revolution Isn’t Models — It’s Infrastructure](https://dev.to/ritesham/the-real-ai-revolution-isnt-models-its-infrastructure-1oe2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
