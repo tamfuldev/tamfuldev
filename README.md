@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Tricked AWS Elastic Beanstalk Into Using pnpm](https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4)
-- [Finding the Sequence of Strings Appeared on the Screen](https://dev.to/iammastercraft/finding-the-sequence-of-strings-appeared-on-the-screen-145c)
-- [DevOps for Gamers: Deploying a CS2 Dedicated Server on Ubuntu](https://dev.to/shannon_dias_927e8f0d0d18/devops-for-gamers-deploying-a-cs2-dedicated-server-on-ubuntu-24hi)
-- [Static Serving, H3, and the Last Piece of v0.1](https://dev.to/mdreal32/static-serving-h3-and-the-last-piece-of-v01-3iea)
-- [How Content Pipelines Break When Writers Meet Model Limits &lpar;A Systems Deconstruction&rpar;](https://dev.to/olivia_perell_/how-content-pipelines-break-when-writers-meet-model-limits-a-systems-deconstruction-18f6)
+- [OpenClaw for Developers: Building Solo-Dev Companies](https://dev.to/shehzan/openclaw-for-developers-building-solo-dev-companies-2o6g)
+- [How to Build a Smart Call Agent Using Twilio + ElevenLabs + n8n](https://dev.to/ciphernutz/how-to-build-a-smart-call-agent-using-twilio-elevenlabs-n8n-296a)
+- [Why I Built a File Converter That Doesn&#39;t Upload Your Files](https://dev.to/ansonchan/why-i-built-a-file-converter-that-doesnt-upload-your-files-3jkc)
+- [How to Create a Resource Group on Azure Portal](https://dev.to/adegbola_adeniyi_841e65f3/how-to-create-a-resource-group-on-azure-portal-4mdd)
+- [Slitherlink Corner Patterns: The First Thing Every Solver Should Learn](https://dev.to/ansonchan/slitherlink-corner-patterns-the-first-thing-every-solver-should-learn-5bnh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
