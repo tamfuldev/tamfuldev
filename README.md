@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GStreamer](https://dev.to/sagar_saini/gstreamer-5bo8)
-- [The packaging bugs I kept shipping &lpar;and the tool I built to stop&rpar;](https://dev.to/girigirianish/the-packaging-bugs-i-kept-shipping-and-the-tool-i-built-to-stop-lkh)
-- [Architecting the Internet of Agents: A Deep Dive into Coral Protocol Security](https://dev.to/alessandro_pignati/architecting-the-internet-of-agents-a-deep-dive-into-coral-protocol-security-53b2)
-- [SoundBoardio: Github-driven soundboards](https://dev.to/bartholomej/soundboardio-github-driven-soundboards-k6f)
-- [Why Mixing Up Test Plan and Test Strategy Costs You Time &lpar;And How to Fix It&rpar;](https://dev.to/matt_calder_e620d84cf0c14/why-mixing-up-test-plan-and-test-strategy-costs-you-time-and-how-to-fix-it-4cnm)
+- [From Chat App to AI Powerhouse: Telegram + OpenClaw](https://dev.to/techlatestnet/from-chat-app-to-ai-powerhouse-telegram-openclaw-5fae)
+- [Spring CRUD Generator now has a full Demo Project &lpar;generated from a real spec&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-now-has-a-full-demo-project-generated-from-a-real-spec-1j1d)
+- [Using encrypted fields with mongodb community](https://dev.to/fablec/using-encrypted-fields-with-mongodb-community-5d1o)
+- [Legacy Container Reference Cleanup — Deep System Cleaning](https://dev.to/linou518/legacy-container-reference-cleanup-deep-system-cleaning-7e5)
+- [n8n: Line Messaging - Send a message](https://dev.to/codebangkok/n8n-line-messaging-send-a-message-lmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
