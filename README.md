@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Challenge #6 : The &quot;CSS-Only&quot; Tooltip System 🗨️](https://dev.to/bingkahu/daily-challenge-6-the-css-only-tooltip-system-39d5)
-- [How to Use AI Without Ruining Your Programming Skills](https://dev.to/arafatweb/how-to-use-ai-without-ruining-your-programming-skills-2538)
-- [AWS Won&#39;t Stop Charging You. Ever. Deploy Budget Alerts as Code with Terraform Before It&#39;s Too Late 🔥](https://dev.to/suhas_mallesh/aws-wont-stop-charging-you-ever-deploy-budget-alerts-as-code-with-terraform-before-its-too-late-3mac)
-- [MCP for .NET: AI Agents That Can Actually Do Things](https://dev.to/hamedhajiloo/mcp-for-net-ai-agents-that-can-actually-do-things-50in)
-- [Codebase Intelligence](https://dev.to/nancy_kataria/codebase-intelligence-c7m)
+- [From Linux Basics to Remote Deployment: A 6 Day DevOps Foundation Project](https://dev.to/oyawole_damilola_e3821568/from-linux-basics-to-remote-deployment-a-6-day-devops-foundation-project-jo1)
+- [Warehouse Vs Lakehouse : What to choose in Fabric ?](https://dev.to/anshul_02/warehouse-vs-lakehouse-what-to-choose-in-fabric--dll)
+- [Building a Simple EMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-emi-calculator-with-html-css-and-javascript-4dnf)
+- [Schema-First Prompt Engineering: The Gemini Lesson That Will Save Your Production App](https://dev.to/prasadt1/schema-first-prompt-engineering-the-gemini-lesson-that-will-save-your-production-app-1pea)
+- [What Are the Best Evaluation Metrics for LLM Fine-Tuning in Business?](https://dev.to/joywinter90/what-are-the-best-evaluation-metrics-for-llm-fine-tuning-in-business-1b8l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
