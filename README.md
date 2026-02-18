@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chat App to AI Powerhouse: Telegram + OpenClaw](https://dev.to/techlatestnet/from-chat-app-to-ai-powerhouse-telegram-openclaw-5fae)
-- [Spring CRUD Generator now has a full Demo Project &lpar;generated from a real spec&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-now-has-a-full-demo-project-generated-from-a-real-spec-1j1d)
-- [Using encrypted fields with mongodb community](https://dev.to/fablec/using-encrypted-fields-with-mongodb-community-5d1o)
-- [Legacy Container Reference Cleanup — Deep System Cleaning](https://dev.to/linou518/legacy-container-reference-cleanup-deep-system-cleaning-7e5)
-- [n8n: Line Messaging - Send a message](https://dev.to/codebangkok/n8n-line-messaging-send-a-message-lmi)
+- [Build AI-Powered Vue.js Apps: Integrate OpenAI API with Composition API and Pinia](https://dev.to/paul_robertson_e844997d2b/build-ai-powered-vuejs-apps-integrate-openai-api-with-composition-api-and-pinia-1946)
+- [How Shopify Silently Kills Your Webhook Subscriptions &lpar;And How to Prevent It&rpar;](https://dev.to/shophooks_031476411ce890d/how-shopify-silently-kills-your-webhook-subscriptions-and-how-to-prevent-it-1d3f)
+- [Replacing Static AWS Credentials in CI/CD with GitHub OIDC &lpar;A Practical DevOps Lab&rpar;](https://dev.to/iuri_covaliov/replacing-static-aws-credentials-in-cicd-with-github-oidc-a-practical-devops-lab-2222)
+- [Kubernetes Advanced Scheduling: How we fixed Real Production Incidents](https://dev.to/suresh_devops_ffa0728a190/kubernetes-advanced-scheduling-we-fixed-real-production-incidents-43de)
+- [Components structure in Twenty codebase - Part 1.2](https://dev.to/ramunarasinga-11/components-structure-in-twenty-codebase-part-12-d3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
