@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a RAG system where hallucinations aren&#39;t acceptable. Here&#39;s what actually worked.](https://dev.to/buildsyncinc/i-built-a-rag-system-where-hallucinations-arent-acceptable-heres-what-actually-worked-b2e)
-- [Making It Two Locations: A Routed WireGuard Tunnel Between My Labs](https://dev.to/n20amaral/making-it-two-locations-a-routed-wireguard-tunnel-between-my-labs-4o3m)
-- [[Boost]](https://dev.to/ezeobi_oliaa_7601ff7c6477/-3d00)
-- [What developers don&#39;t get about Idempotency](https://dev.to/manuelarte/what-developers-dont-get-about-idempotency-1hgm)
-- [Coding agents for production iOS: a senior engineer&#39;s setup for 2x the output](https://dev.to/vova_ignatov/coding-agents-for-production-ios-a-senior-engineers-setup-for-2x-the-output-8m0)
+- [Trabajo remoto y registro del tiempo: equilibrio entre confianza y transparencia](https://dev.to/martinezalejandro_de/trabajo-remoto-y-registro-del-tiempo-equilibrio-entre-confianza-y-transparencia-23n4)
+- [Bremen inicia un proyecto piloto: registro digital del tiempo de trabajo para docentes](https://dev.to/martinezalejandro_de/bremen-inicia-un-proyecto-piloto-registro-digital-del-tiempo-de-trabajo-para-docentes-ep1)
+- [Nuevas tendencias en el trabajo diario: herramientas de medición del tiempo en la práctica](https://dev.to/martinezalejandro_de/nuevas-tendencias-en-el-trabajo-diario-herramientas-de-medicion-del-tiempo-en-la-practica-4cjb)
+- [Provide private storage for internal company documents](https://dev.to/rahimah_dev/provide-private-storage-for-internal-company-documents-4idd)
+- [The Spanish ZX Spectrum + 128K by Investrónica](https://dev.to/baltasarq/the-spanish-zx-spectrum-128k-by-investronica-1c7k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
