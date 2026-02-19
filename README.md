@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Side-by-Side Font Comparison Tool &lpar;And Accidentally Learned Way Too Much About Browser APIs&rpar;](https://dev.to/afsar_khan/how-i-built-a-side-by-side-font-comparison-tool-and-accidentally-learned-way-too-much-about-1l12)
-- [5 DataFrame Operations LLMs Handle Better Than Code](https://dev.to/hnykda/5-dataframe-operations-llms-handle-better-than-code-436a)
-- [Building Voice Agents That Adapt to Context: Personality Layers for AI Assistants](https://dev.to/developer_100x_42fe0ea544/building-voice-agents-that-adapt-to-context-personality-layers-for-ai-assistants-36fk)
-- [Secure Your AWS Environment with GuardDuty and Inspector](https://dev.to/sudoconsultants/secure-your-aws-environment-with-guardduty-and-inspector-574j)
-- [Migrating from Jekyll to Hugo... or not](https://dev.to/nfrankel/migrating-from-jekyll-to-hugo-or-not-57k4)
+- [I analyzed 153,000 Tech Layoffs to see if AI is actually stealing our jobs.](https://dev.to/donald_wono_2494bee04aa88/i-analyzed-153000-tech-layoffs-to-see-if-ai-is-actually-stealing-our-jobs-4a03)
+- [AI Isn’t Just Biased. It’s Fragmented — And You’re Paying for It.](https://dev.to/andreip/ai-isnt-just-biased-its-fragmented-and-youre-paying-for-it-3065)
+- [Showdev: An AI-assisted skill to batch messy changes into Conventional Commits](https://dev.to/cnkang/showdev-an-ai-assisted-skill-to-batch-messy-changes-into-conventional-commits-4965)
+- [I Built a Programmatic Video Pipeline with Remotion &lpar;And You Should Too&rpar;](https://dev.to/ryancwynar/i-built-a-programmatic-video-pipeline-with-remotion-and-you-should-too-jaa)
+- [CVE-2021-22175: GitLab Server-Side Request Forgery &lpar;SSRF&rpar; Vulnerability](https://dev.to/freedom-coder/cve-2021-22175-gitlab-server-side-request-forgery-ssrf-vulnerability-44cp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
