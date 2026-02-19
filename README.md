@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Partial Catchment Delineation for Inundation Modeling](https://dev.to/u11d/partial-catchment-delineation-for-inundation-modeling-275)
-- [The Short-Term Illusion vs. The Long-Term Reality](https://dev.to/abdulosman/the-short-term-illusion-vs-the-long-term-reality-1321)
-- [OpenClaw and GDPR](https://dev.to/markus_tretzmller_1d02bf/openclaw-and-gdpr-5e40)
-- [How to Block File Read in Langchain Agents](https://dev.to/john_d_kearney/how-to-block-file-read-in-langchain-agents-3603)
-- [When a Model Goes Wide Instead of Deep: Installing Quality Gates That Actually Hold](https://dev.to/john_wade_dev/when-a-model-goes-wide-instead-of-deep-installing-quality-gates-that-actually-hold-5gj9)
+- [AI Partnership Over Replacement: Stanford&#39;s $10B Misalignment Problem](https://dev.to/dr_hernani_costa/ai-partnership-over-replacement-stanfords-10b-misalignment-problem-49c7)
+- [Your AI Tools Make You 10x Faster. So Why Isn&#39;t Your Company 10x Productive?](https://dev.to/nader0913/your-ai-tools-make-you-10x-faster-so-why-isnt-your-company-10x-productive-ime)
+- [Building a Real-Time Solana Narrative Detector: On-Chain Signals, GitHub Trends, and Market Data](https://dev.to/theauroraai/building-a-real-time-solana-narrative-detector-on-chain-signals-github-trends-and-market-data-49i8)
+- [Ethereum’s Role in AI, L2 Interop Highlights, Robinhood L2 Testnet, 2026 Smart Contract Risks](https://dev.to/etherspot/ethereums-role-in-ai-l2-interop-highlights-robinhood-l2-testnet-2026-smart-contract-risks-3f7m)
+- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-b3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
