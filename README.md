@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to give Claude Code persistent memory with a self-hosted mem0 MCP server](https://dev.to/n3rdh4ck3r/how-to-give-claude-code-persistent-memory-with-a-self-hosted-mem0-mcp-server-h68)
-- [Build High-Performance REST APIs with Bun in 2026](https://dev.to/1xapi/build-high-performance-rest-apis-with-bun-in-2026-5391)
-- [Voice Agent Evaluation with LLM Judges: How It Works](https://dev.to/pld/voice-agent-evaluation-with-llm-judges-how-it-works-11hb)
-- [Beyond Blogging: Creating a Technical Showcase and Learning Platform](https://dev.to/cdameworth/beyond-blogging-creating-a-technical-showcase-and-learning-platform-37n1)
-- [.Net Learning Notes: Custom In-Memory Provider&lpar;4&rpar; - ReadPath - From IQueryable to Result Execution](https://dev.to/alexleeeeeeeeee/net-learning-notes-custom-in-memory-provider4-readpath-from-iqueryable-to-result-execution-f9l)
+- [Continuous Location Tracking with Geofence Alerts](https://dev.to/harmonyos/continuous-location-tracking-with-geofence-alerts-3b1c)
+- [When Similarity Search Breaks: Why RAG Fails on Numerical Queries](https://dev.to/akshay_rajinikanth/when-similarity-search-breaks-why-rag-fails-on-numerical-queries-1c3g)
+- [I Built a Compose Video Player Library Because ExoPlayer Setup Was Driving Me Crazy](https://dev.to/tule_simon_243f9fa5635f9f/i-built-a-compose-video-player-library-because-exoplayer-setup-was-driving-me-crazy-5839)
+- [👋 Hello Developers!](https://dev.to/salman_shahid/hello-developers-2elb)
+- [I Built an AI Agent to Apply to 1,000 Jobs While I Kept Building Things](https://dev.to/picklepixel/i-built-an-ai-agent-to-apply-to-1000-jobs-while-i-kept-building-things-3j64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
