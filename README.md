@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Privacy-First Image Resizer That Runs Entirely in Your Browser](https://dev.to/resizer/i-built-a-privacy-first-image-resizer-that-runs-entirely-in-your-browser-5dnp)
-- [Moving WSL Distributions to Another Drive](https://dev.to/octasoft-ltd/moving-wsl-distributions-to-another-drive-3id4)
-- [Edge Rendering vs Server Side Rendering: Performance Trade Offs Explained](https://dev.to/jasonbiondo/edge-rendering-vs-server-side-rendering-performance-trade-offs-explained-lmg)
-- [Managing WSL Disk Space](https://dev.to/octasoft-ltd/managing-wsl-disk-space-fm9)
-- [CVE-2026-1669: Model Poisoning: Turning Keras Weights into Weaponized File Readers](https://dev.to/cverports/cve-2026-1669-model-poisoning-turning-keras-weights-into-weaponized-file-readers-14kn)
+- [How to give Claude Code persistent memory with a self-hosted mem0 MCP server](https://dev.to/n3rdh4ck3r/how-to-give-claude-code-persistent-memory-with-a-self-hosted-mem0-mcp-server-h68)
+- [Build High-Performance REST APIs with Bun in 2026](https://dev.to/1xapi/build-high-performance-rest-apis-with-bun-in-2026-5391)
+- [Voice Agent Evaluation with LLM Judges: How It Works](https://dev.to/pld/voice-agent-evaluation-with-llm-judges-how-it-works-11hb)
+- [Beyond Blogging: Creating a Technical Showcase and Learning Platform](https://dev.to/cdameworth/beyond-blogging-creating-a-technical-showcase-and-learning-platform-37n1)
+- [.Net Learning Notes: Custom In-Memory Provider&lpar;4&rpar; - ReadPath - From IQueryable to Result Execution](https://dev.to/alexleeeeeeeeee/net-learning-notes-custom-in-memory-provider4-readpath-from-iqueryable-to-result-execution-f9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
