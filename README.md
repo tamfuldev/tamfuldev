@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Partnership Over Replacement: Stanford&#39;s $10B Misalignment Problem](https://dev.to/dr_hernani_costa/ai-partnership-over-replacement-stanfords-10b-misalignment-problem-49c7)
-- [Your AI Tools Make You 10x Faster. So Why Isn&#39;t Your Company 10x Productive?](https://dev.to/nader0913/your-ai-tools-make-you-10x-faster-so-why-isnt-your-company-10x-productive-ime)
-- [Building a Real-Time Solana Narrative Detector: On-Chain Signals, GitHub Trends, and Market Data](https://dev.to/theauroraai/building-a-real-time-solana-narrative-detector-on-chain-signals-github-trends-and-market-data-49i8)
-- [Ethereum’s Role in AI, L2 Interop Highlights, Robinhood L2 Testnet, 2026 Smart Contract Risks](https://dev.to/etherspot/ethereums-role-in-ai-l2-interop-highlights-robinhood-l2-testnet-2026-smart-contract-risks-3f7m)
-- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-b3i)
+- [How I Built a Side-by-Side Font Comparison Tool &lpar;And Accidentally Learned Way Too Much About Browser APIs&rpar;](https://dev.to/afsar_khan/how-i-built-a-side-by-side-font-comparison-tool-and-accidentally-learned-way-too-much-about-1l12)
+- [5 DataFrame Operations LLMs Handle Better Than Code](https://dev.to/hnykda/5-dataframe-operations-llms-handle-better-than-code-436a)
+- [Building Voice Agents That Adapt to Context: Personality Layers for AI Assistants](https://dev.to/developer_100x_42fe0ea544/building-voice-agents-that-adapt-to-context-personality-layers-for-ai-assistants-36fk)
+- [Secure Your AWS Environment with GuardDuty and Inspector](https://dev.to/sudoconsultants/secure-your-aws-environment-with-guardduty-and-inspector-574j)
+- [Migrating from Jekyll to Hugo... or not](https://dev.to/nfrankel/migrating-from-jekyll-to-hugo-or-not-57k4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
