@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Want to Learn About Our Lord and Savior SOLID?](https://dev.to/asvid/do-you-want-to-learn-about-our-lord-and-savior-solid-15ka)
-- [Open Source vs Proprietary LLMs: The Real Cost Breakdown](https://dev.to/lightwheel10/open-source-vs-proprietary-llms-the-real-cost-breakdown-21pg)
-- [LLM Pricing in February 2026: What Every Model Actually Costs](https://dev.to/lightwheel10/llm-pricing-in-february-2026-what-every-model-actually-costs-4kng)
-- [I built Saloon PHP for Dart — because build_runner shouldn&#39;t be the price of clean API calls](https://dev.to/adriengras/i-built-saloon-php-for-dart-because-buildrunner-shouldnt-be-the-price-of-clean-api-calls-3471)
-- [2026: My Most Valuable Skill Isn’t Writing Code — It’s Deleting It.](https://dev.to/harsh2644/2026-my-most-valuable-skill-isnt-writing-code-its-deleting-it-11a2)
+- [From Chaos to Clarity: Turning Temple Operations into a Structured Digital System](https://dev.to/neelima_dhingra_9ca91ba7e/from-chaos-to-clarity-turning-temple-operations-into-a-structured-digital-system-30fn)
+- [Finite State Machines: The Most Underused Design Pattern in Frontend Development](https://dev.to/osama_alghanmi_3a45d72c33/finite-state-machines-the-most-underused-design-pattern-in-frontend-development-4dfp)
+- [Voice AI APIs and the Next Wave of Developer-Built Audio Applications](https://dev.to/ben_blog/voice-ai-apis-and-the-next-wave-of-developer-built-audio-applications-4cal)
+- [What Building a Temple Pooja Booking System Teaches Us About Real-World Digital Transformation](https://dev.to/neelima_dhingra_9ca91ba7e/what-building-a-temple-pooja-booking-system-teaches-us-about-real-world-digital-transformation-2llj)
+- [“Build in Public” Posts](https://dev.to/vasu_sharma_44aab47557610/build-in-public-posts-11h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
