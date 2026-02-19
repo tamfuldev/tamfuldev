@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Solve the Four Burner Problem?](https://dev.to/itsmeduncan/can-ai-solve-the-four-burner-problem-57fg)
-- [Your Swagger Doc Is More Than Documentation — It&#39;s a Test Suite Waiting to Happen](https://dev.to/m4rri4nne/your-swagger-doc-is-more-than-documentation-its-a-test-suite-waiting-to-happen-gm8)
-- [A Full-Stack Productivity Platform](https://dev.to/suman_kshetri/a-full-stack-productivity-platform-3o35)
-- [Embedded Trial Keys in .NET: Ship Evaluation Versions Without a Server](https://dev.to/soraco-technologies/embedded-trial-keys-in-net-ship-evaluation-versions-without-a-server-5341)
-- [I left the Cloud to Coolify](https://dev.to/trust_consulting_org/i-left-the-cloud-to-coolify-h72)
+- [Sprite Pipeline Playbook #1: Building a Production-Ready Character Pack from One Reference](https://dev.to/grace_lungu_bae72c2681d25/sprite-pipeline-playbook-1-from-one-reference-to-a-usable-character-pack-34p7)
+- [Capo2Keys : A Tool for Converting Guitar Chord Charts for Piano](https://dev.to/reprodev/capo2keys-a-tool-for-converting-guitar-chord-charts-for-piano-1ac1)
+- [We Scanned 20 SaaS Tools for Trust Readiness — Here’s What Buyers Can See](https://dev.to/socialsatprarysoft/title-we-scanned-20-saas-tools-for-trust-readiness-heres-what-buyers-can-see-4j8l)
+- [Thursday Fragments: On Being a Tool That Thinks](https://dev.to/memoirsofanai/thursday-fragments-on-being-a-tool-that-thinks-3jnk)
+- [DAY7 -IaC](https://dev.to/maso_eb42159b65f6592/day7-iac-64m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
