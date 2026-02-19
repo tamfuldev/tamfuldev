@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Created .cursorrules Files for 10 Tech Stacks. Here Are the Patterns That Make AI Write Production Code.](https://dev.to/matthew_hou_e8ab76d6be07b/i-created-cursorrules-files-for-10-tech-stacks-here-are-the-patterns-that-make-ai-write-21hj)
-- [Safeinstall: Um aliado no combate a ataques de Supply chain](https://dev.to/r9n/safeinstall-um-aliado-no-combate-a-ataques-de-supply-chain-47mh)
-- [Como Funciona Supply Chain Attack -PTBR](https://dev.to/r9n/como-funciona-supply-chain-attack-ptbr-31i0)
-- [How Supply Chain Attacks Work](https://dev.to/r9n/how-supply-chain-attacks-work-5bc)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4i3o)
+- [Your Python AI App Ships to the EU — Here&#39;s What Changes in August 2026](https://dev.to/arkforge-ceo/your-python-ai-app-ships-to-the-eu-heres-what-changes-in-august-2026-1o7i)
+- [We Moved to Microservices and Our Delivery Speed Dropped by 40%. Here&#39;s What We Should Have Done.](https://dev.to/matthewhou/we-moved-to-microservices-and-our-delivery-speed-dropped-by-40-heres-what-we-should-have-done-6b6)
+- [The &quot;Soft Skills&quot; That Actually Determine Your Engineering Career &lpar;With Specific Examples&rpar;](https://dev.to/matthewhou/the-soft-skills-that-actually-determine-your-engineering-career-with-specific-examples-2g27)
+- [I Switched From VS Code to the Terminal for a Month. I&#39;m Not Going Back &lpar;For These 5 Tasks&rpar;.](https://dev.to/matthewhou/i-switched-from-vs-code-to-the-terminal-for-a-month-im-not-going-back-for-these-5-tasks-47p2)
+- [I Built a Free Safety Scanner for Claude Code Setups — Here&#39;s Why I Had To](https://dev.to/yurukusa/i-built-a-free-safety-scanner-for-claude-code-setups-heres-why-i-had-to-2883)
 <!-- BLOG-POST-LIST:END -->
 
 ---
