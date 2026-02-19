@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Continuous Location Tracking with Geofence Alerts](https://dev.to/harmonyos/continuous-location-tracking-with-geofence-alerts-3b1c)
-- [When Similarity Search Breaks: Why RAG Fails on Numerical Queries](https://dev.to/akshay_rajinikanth/when-similarity-search-breaks-why-rag-fails-on-numerical-queries-1c3g)
-- [I Built a Compose Video Player Library Because ExoPlayer Setup Was Driving Me Crazy](https://dev.to/tule_simon_243f9fa5635f9f/i-built-a-compose-video-player-library-because-exoplayer-setup-was-driving-me-crazy-5839)
-- [👋 Hello Developers!](https://dev.to/salman_shahid/hello-developers-2elb)
-- [I Built an AI Agent to Apply to 1,000 Jobs While I Kept Building Things](https://dev.to/picklepixel/i-built-an-ai-agent-to-apply-to-1000-jobs-while-i-kept-building-things-3j64)
+- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
+- [Vollständiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im Darknet](https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4)
+- [Common problems in Windows](https://dev.to/khadijah/common-problems-in-windows-23f9)
+- [Keen Electronics Key Fob](https://dev.to/a3xt/keen-electronics-key-fob-48kk)
+- [Your PostgreSQL Backups Are Probably Broken &lpar;Here&#39;s How to Know for Sure&rpar;](https://dev.to/kjudeh/your-postgresql-backups-are-probably-broken-heres-how-to-know-for-sure-2ihb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
