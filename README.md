@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: Turning Temple Operations into a Structured Digital System](https://dev.to/neelima_dhingra_9ca91ba7e/from-chaos-to-clarity-turning-temple-operations-into-a-structured-digital-system-30fn)
-- [Finite State Machines: The Most Underused Design Pattern in Frontend Development](https://dev.to/osama_alghanmi_3a45d72c33/finite-state-machines-the-most-underused-design-pattern-in-frontend-development-4dfp)
-- [Voice AI APIs and the Next Wave of Developer-Built Audio Applications](https://dev.to/ben_blog/voice-ai-apis-and-the-next-wave-of-developer-built-audio-applications-4cal)
-- [What Building a Temple Pooja Booking System Teaches Us About Real-World Digital Transformation](https://dev.to/neelima_dhingra_9ca91ba7e/what-building-a-temple-pooja-booking-system-teaches-us-about-real-world-digital-transformation-2llj)
-- [“Build in Public” Posts](https://dev.to/vasu_sharma_44aab47557610/build-in-public-posts-11h4)
+- [Can AI Solve the Four Burner Problem?](https://dev.to/itsmeduncan/can-ai-solve-the-four-burner-problem-57fg)
+- [Your Swagger Doc Is More Than Documentation — It&#39;s a Test Suite Waiting to Happen](https://dev.to/m4rri4nne/your-swagger-doc-is-more-than-documentation-its-a-test-suite-waiting-to-happen-gm8)
+- [A Full-Stack Productivity Platform](https://dev.to/suman_kshetri/a-full-stack-productivity-platform-3o35)
+- [Embedded Trial Keys in .NET: Ship Evaluation Versions Without a Server](https://dev.to/soraco-technologies/embedded-trial-keys-in-net-ship-evaluation-versions-without-a-server-5341)
+- [I left the Cloud to Coolify](https://dev.to/trust_consulting_org/i-left-the-cloud-to-coolify-h72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
