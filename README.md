@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Surrealism](https://dev.to/surrealdb/introducing-surrealism-4b5p)
-- [Protecting Language Models Against Unauthorized Distillation through Trace Rewriting](https://dev.to/jgnoncelogic/protecting-language-models-against-unauthorized-distillation-through-trace-rewriting-1n67)
-- [n8n is pure awesomeness](https://dev.to/mvaldes/n8n-is-pure-awesomeness-50h7)
-- [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk)
-- [Why Are You Still Using AI to Generate Table Code? 😤](https://dev.to/jacksonkasi/why-are-you-still-using-ai-to-generate-table-code-5dp4)
+- [AI Trading Daily Report: February 19, 2026 | $-29.60](https://dev.to/igorganapolsky/ai-trading-daily-report-february-19-2026-2960-j0)
+- [O que GTA 5 me ensinou sobre Lógica de Programação &lpar;e variáveis&rpar;](https://dev.to/thnocard36/o-que-gta-5-me-ensinou-sobre-logica-de-programacao-e-variaveis-1bie)
+- [Instalando o NVM sem privilégios administrativos no Windows &lpar;10/11&rpar;](https://dev.to/mvilasboas/instalando-o-nvm-sem-privilegios-administrativos-no-windows-1011-jg9)
+- [Hand the mic to your users and testers](https://dev.to/davidisaac/hand-the-mic-to-your-users-and-testers-308i)
+- [I Got Tired of Guessing My Claude Quota, So I Made a Robot Read It For Me](https://dev.to/tommy_leonhardsen_81d1f4e/i-got-tired-of-guessing-my-claude-quota-so-i-made-a-robot-read-it-for-me-3513)
 <!-- BLOG-POST-LIST:END -->
 
 ---
