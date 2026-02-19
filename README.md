@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Technical Blog Localization with Gemini CLI Agent Skills [GDE]](https://dev.to/gde/automating-technical-blog-localization-with-gemini-cli-agent-skills-gde-5fm2)
-- [Enterprise Integration Patterns Every Architect Should Know](https://dev.to/kancherla_venkatadileep/enterprise-integration-patterns-every-architect-should-know-1h5p)
-- [The Secret Life of JavaScript: The Catch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0)
-- [Process, Threads and Goroutines](https://dev.to/pshycodr/process-threads-and-goroutines-95l)
-- [What I&#39;d Build Next &lpar;And Actually Start Building&rpar;](https://dev.to/ribhavmodi/what-id-build-next-and-actually-start-building-11l6)
+- [Partial Catchment Delineation for Inundation Modeling](https://dev.to/u11d/partial-catchment-delineation-for-inundation-modeling-275)
+- [The Short-Term Illusion vs. The Long-Term Reality](https://dev.to/abdulosman/the-short-term-illusion-vs-the-long-term-reality-1321)
+- [OpenClaw and GDPR](https://dev.to/markus_tretzmller_1d02bf/openclaw-and-gdpr-5e40)
+- [How to Block File Read in Langchain Agents](https://dev.to/john_d_kearney/how-to-block-file-read-in-langchain-agents-3603)
+- [When a Model Goes Wide Instead of Deep: Installing Quality Gates That Actually Hold](https://dev.to/john_wade_dev/when-a-model-goes-wide-instead-of-deep-installing-quality-gates-that-actually-hold-5gj9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
