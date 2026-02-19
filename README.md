@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🦊 GitLab CI: Achieving 3-Second Jobs on Million-Line Codebases](https://dev.to/zenika/gitlab-ci-achieving-3-second-jobs-on-million-line-codebases-3nlm)
-- [Using aws-vault to manage access to your AWS resources from Kiro CLI](https://dev.to/aws/using-aws-vault-to-manage-access-to-your-aws-resources-from-kiro-cli-29ab)
-- [Storage for a public website](https://dev.to/precious_nwafor/storage-for-a-public-website-4f77)
-- [Run Cross-Platform Commands in Flutter](https://dev.to/dylanscottmickelson/run-cross-platform-commands-in-flutter-5g7f)
-- [Solved: Duplicator auto-renewed $400 without clear notice — refused full refund even after immediate cancellation](https://dev.to/techresolve/solved-duplicator-auto-renewed-400-without-clear-notice-refused-full-refund-even-after-16bk)
+- [I Created .cursorrules Files for 10 Tech Stacks. Here Are the Patterns That Make AI Write Production Code.](https://dev.to/matthew_hou_e8ab76d6be07b/i-created-cursorrules-files-for-10-tech-stacks-here-are-the-patterns-that-make-ai-write-21hj)
+- [Safeinstall: Um aliado no combate a ataques de Supply chain](https://dev.to/r9n/safeinstall-um-aliado-no-combate-a-ataques-de-supply-chain-47mh)
+- [Como Funciona Supply Chain Attack -PTBR](https://dev.to/r9n/como-funciona-supply-chain-attack-ptbr-31i0)
+- [How Supply Chain Attacks Work](https://dev.to/r9n/how-supply-chain-attacks-work-5bc)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4i3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
