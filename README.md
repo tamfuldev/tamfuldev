@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
-- [Vollständiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im Darknet](https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4)
-- [Common problems in Windows](https://dev.to/khadijah/common-problems-in-windows-23f9)
-- [Keen Electronics Key Fob](https://dev.to/a3xt/keen-electronics-key-fob-48kk)
-- [Your PostgreSQL Backups Are Probably Broken &lpar;Here&#39;s How to Know for Sure&rpar;](https://dev.to/kjudeh/your-postgresql-backups-are-probably-broken-heres-how-to-know-for-sure-2ihb)
+- [Automating Technical Blog Localization with Gemini CLI Agent Skills [GDE]](https://dev.to/gde/automating-technical-blog-localization-with-gemini-cli-agent-skills-gde-5fm2)
+- [Enterprise Integration Patterns Every Architect Should Know](https://dev.to/kancherla_venkatadileep/enterprise-integration-patterns-every-architect-should-know-1h5p)
+- [The Secret Life of JavaScript: The Catch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0)
+- [Process, Threads and Goroutines](https://dev.to/pshycodr/process-threads-and-goroutines-95l)
+- [What I&#39;d Build Next &lpar;And Actually Start Building&rpar;](https://dev.to/ribhavmodi/what-id-build-next-and-actually-start-building-11l6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
