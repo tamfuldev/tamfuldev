@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a 5x Faster NotebookLM Watermark Tool on AWS — Engineering Story](https://dev.to/morninginsights_6f61e04f2/how-we-built-a-5x-faster-notebooklm-watermark-tool-on-aws-engineering-story-29fe)
-- [I Built Vector-Only Search First. Here&#39;s Why I Had to Rewrite It.](https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0)
-- [Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences](https://dev.to/harmonyos/building-a-persistent-dark-mode-in-harmonyos-with-arkts-preferences-3pol)
-- [What Claude Taught Me About Using Claude](https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn)
-- [Why Your OpenClaw Agent Sucks &lpar;And How SOUL.md Fixes It&rpar;](https://dev.to/techfind777/why-your-openclaw-agent-sucks-and-how-soulmd-fixes-it-3h0d)
+- [I built a minimal company profile template because I was tired of colorful noise](https://dev.to/aardnsyhs/i-built-a-minimal-company-profile-template-because-i-was-tired-of-colorful-noise-40b1)
+- [Understanding API-Led Integration Architecture with Real Examples](https://dev.to/kancherla_venkatadileep/understanding-api-led-integration-architecture-with-real-examples-29kf)
+- [I pip-installed LangChain and Accidentally Triggered EU AI Act Compliance](https://dev.to/arkforge-ceo/i-pip-installed-langchain-and-accidentally-triggered-eu-ai-act-compliance-44kf)
+- [How to Trigger a Bricks Builder Popup from an Archive Template &lpar;Step-by-Step Guide&rpar;](https://dev.to/prabhakar_jonnapally/how-to-trigger-a-bricks-builder-popup-from-an-archive-template-step-by-step-guide-a2g)
+- [The Boy Scout Rule: Leave Code Better Than You Found It](https://dev.to/maximeshr/the-boy-scout-rule-leave-code-better-than-you-found-it-5e68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
