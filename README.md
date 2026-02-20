@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s 2026 Comeback: The AI-Powered Smartwatch &amp; &quot;Personal Superintelligence&quot;](https://dev.to/techstuff/metas-2026-comeback-the-ai-powered-smartwatch-personal-superintelligence-1i6f)
-- [Agentic AI vs Chatbots vs Automation: What’s Actually Different in Practice](https://dev.to/shaheryaryousaf/agentic-ai-vs-chatbots-vs-automation-whats-actually-different-in-practice-4k85)
-- [How to Generate Fake Phone Numbers for Testing &lpar;Without Using Real Data&rpar;](https://dev.to/vikash_sharma_d2214e36947/how-to-generate-fake-phone-numbers-for-testing-without-using-real-data-2b33)
-- [I Hated Writing Tickets &lpar;Until I Used AI&rpar;](https://dev.to/drueda00/i-hated-writing-tickets-until-i-used-ai-3a8o)
-- [Eating Healthy as a Tech Worker: A Practical Framework](https://dev.to/albert_nahas_cdc8469a6ae8/eating-healthy-as-a-tech-worker-a-practical-framework-3306)
+- [Why I chose MedusaJS over building ecommerce from scratch](https://dev.to/codewithonye/why-i-chose-medusajs-over-building-ecommerce-from-scratch-j0l)
+- [Does Your Website Inform or Convert? Guiding Visitors with Clarity and Trust](https://dev.to/per-starke-642/does-your-website-inform-or-convert-guiding-visitors-with-clarity-and-trust-5e7n)
+- [Backpressure: Why “Just Handle More Traffic” Is the Wrong Mindset](https://dev.to/shpreeti/backpressure-why-just-handle-more-traffic-is-the-wrong-mindset-3j49)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-548e)
+- [Code Coverage + Test Coverage](https://dev.to/active/code-coverage-test-coverage-3hc1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
