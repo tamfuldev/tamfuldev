@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Amazon Nova 2 Omni &lpar;Preview&rpar; &amp; Amazon Nova AI hackathon](https://dev.to/aws-heroes/getting-started-with-amazon-nova-2-omni-preview-amazon-nova-ai-hackathon-4993)
-- [I built an open-source alternative to carbon.now.sh](https://dev.to/railly/i-built-an-open-source-alternative-to-carbonnowsh-cg9)
-- [Building a Simple Interest Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-interest-calculator-with-html-css-and-javascript-3nc4)
-- [What Are Machine Types in Google Compute Engine?](https://dev.to/realnamehidden1_61/what-are-machine-types-in-google-compute-engine-5h28)
-- [From Silent None to Insight: Debugging PySpark UDFs on AWS Glue with Decorators](https://dev.to/vishwa_swaroop_c4dc415de5/from-silent-none-to-insight-debugging-pyspark-udfs-on-aws-glue-with-decorators-1o7m)
+- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
+- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
+- [Self-Hosted AI in 2026: Automating Your Linux Workflow with n8n and Ollama](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-n8n-and-ollama-1a9l)
+- [Vertex AI Safety with Terraform: Model Armor + Gemini Content Filters as Code 🛡️](https://dev.to/suhas_mallesh/vertex-ai-safety-with-terraform-model-armor-gemini-content-filters-as-code-4gcf)
+- [Show Dev: Rebuilding my Portfolio for 2026 &lpar;Python, React, and a Custom &quot;No-DB&quot; Architecture&rpar;](https://dev.to/tawhid_laskar/show-dev-rebuilding-my-portfolio-for-2026-python-react-and-a-custom-no-db-architecture-23if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
