@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
-- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
-- [Offset vs Digital Printing: Hitung Titik Crossover Biaya, Makeready, dan Waste &lpar;Run-Length Calculator&rpar;](https://dev.to/mightyblue/offset-vs-digital-printing-hitung-titik-crossover-biaya-makeready-dan-waste-run-length-2i7j)
-- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
-- [Designing AI Agent Personalities: A Practical Framework](https://dev.to/techfind777/designing-ai-agent-personalities-a-practical-framework-n6n)
+- [Build Your First Multi-Agent System: A Developer&#39;s Guide to Agentic AI Frameworks](https://dev.to/mohd_aafi_87ea2a9cf374692/build-your-first-multi-agent-system-a-developers-guide-to-agentic-ai-frameworks-pdo)
+- [Você vai pagar milhares de reais para escrever código](https://dev.to/enzoaug/voce-vai-pagar-milhares-de-reais-para-escrever-codigo-294n)
+- [Day -1 of Learning C#](https://dev.to/kiran_pinisetty/day-1-of-learning-c-1a97)
+- [When Systems Don’t Scale: Fixing Backend Bottlenecks Before They Break Your Product](https://dev.to/millietechinsights/when-systems-dont-scale-fixing-backend-bottlenecks-before-they-break-your-product-18b0)
+- [AI Coding Tools: Why Developers Disagree](https://dev.to/val_kamenski_4ce4fbb62b62/ai-coding-tools-why-developers-disagree-3jh6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
