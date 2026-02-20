@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Confidently Test Jetpack Compose UI with Espresso](https://dev.to/hazel-daniel/how-to-confidently-test-jetpack-compose-ui-with-espresso-17li)
-- [Go Web Frameworks Comparison 2026 — Top 5 Picks: Gin, Fiber, Echo, Chi &amp; Beego | Mahdi Shamlou](https://dev.to/mahdi0shamlou/go-web-frameworks-comparison-2026-top-5-picks-gin-fiber-echo-chi-beego-mahdi-shamlo-57d4)
-- [Is 2026 the year we stop &quot;Building&quot; and start &quot;Delegating&quot; on AWS?](https://dev.to/shreysherikar/is-2026-the-year-we-stop-building-and-start-delegating-on-aws-321h)
-- [I Built a Drum Tuner That Vibrates When You’re Out of Tune](https://dev.to/niki_indjov_791e4c9df1/i-built-a-drum-tuner-that-vibrates-when-youre-out-of-tune-2hic)
-- [司马懿篡汉提前了：高平陵之变早发的历史](https://dev.to/chx381/si-ma-yi-cuan-yi-ti-qian-liao-gao-ping-ling-zhi-bian-zao-fa-de-li-shi-4dj)
+- [Meta’s 2026 Comeback: The AI-Powered Smartwatch &amp; &quot;Personal Superintelligence&quot;](https://dev.to/techstuff/metas-2026-comeback-the-ai-powered-smartwatch-personal-superintelligence-1i6f)
+- [Agentic AI vs Chatbots vs Automation: What’s Actually Different in Practice](https://dev.to/shaheryaryousaf/agentic-ai-vs-chatbots-vs-automation-whats-actually-different-in-practice-4k85)
+- [How to Generate Fake Phone Numbers for Testing &lpar;Without Using Real Data&rpar;](https://dev.to/vikash_sharma_d2214e36947/how-to-generate-fake-phone-numbers-for-testing-without-using-real-data-2b33)
+- [I Hated Writing Tickets &lpar;Until I Used AI&rpar;](https://dev.to/drueda00/i-hated-writing-tickets-until-i-used-ai-3a8o)
+- [Eating Healthy as a Tech Worker: A Practical Framework](https://dev.to/albert_nahas_cdc8469a6ae8/eating-healthy-as-a-tech-worker-a-practical-framework-3306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
