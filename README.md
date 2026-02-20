@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building CoinFlow: My First Personal Finance App &lpar;Now in Open Testing&rpar;](https://dev.to/app_droid_41580a2eb6/building-coinflow-my-first-personal-finance-app-now-in-open-testing-5e0a)
-- [Laravel Notifications in Practice: Mail, Database, Queues, and Clean Testing](https://dev.to/blamsa0mine/laravel-notifications-le-guide-pratique-mail-database-et-performance-18hm)
-- [Stop Throwing Exceptions. Use Option and Result Instead.](https://dev.to/vitalicset/stop-throwing-exceptions-use-option-and-result-instead-3egm)
-- [Fail2ban Cheat Sheet for Sysadmins](https://dev.to/geeksta/fail2ban-cheat-sheet-for-sysadmins-jkk)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4d91)
+- [DSP &lpar;Data Structure Protocol&rpar;: how to give LLM agents &quot;long-term memory&quot; of a large repository](https://dev.to/kolomeitsev/dsp-data-structure-protocol-how-to-give-llm-agents-long-term-memory-of-a-large-repository-5daj)
+- [Your AI Agents Need an Org Chart — But Not the Kind You Think](https://dev.to/philippenderle/your-ai-agents-need-an-org-chart-but-not-the-kind-you-think-2fg7)
+- [AI Coding Tools and the Runtime Context Gap](https://dev.to/bluehotdog/ai-coding-tools-and-the-runtime-context-gap-33ai)
+- [Making LawBot, My Autonomous DevRel Clone &lpar;Part 1&rpar;](https://dev.to/lawrencedcodes/making-lawbot-my-autonomous-devrel-clone-part-1-12b2)
+- [This Week In React #269 : State of React, TanStack, Next.js | Hermes, Sparkling, Yoga | Interop, Electrobun, Module Federation](https://dev.to/sebastienlorber/this-week-in-react-269-state-of-react-tanstack-nextjs-hermes-sparkling-yoga-interop-g7j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
