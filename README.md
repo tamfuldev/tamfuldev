@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First Multi-Agent System: A Developer&#39;s Guide to Agentic AI Frameworks](https://dev.to/mohd_aafi_87ea2a9cf374692/build-your-first-multi-agent-system-a-developers-guide-to-agentic-ai-frameworks-pdo)
-- [Você vai pagar milhares de reais para escrever código](https://dev.to/enzoaug/voce-vai-pagar-milhares-de-reais-para-escrever-codigo-294n)
-- [Day -1 of Learning C#](https://dev.to/kiran_pinisetty/day-1-of-learning-c-1a97)
-- [When Systems Don’t Scale: Fixing Backend Bottlenecks Before They Break Your Product](https://dev.to/millietechinsights/when-systems-dont-scale-fixing-backend-bottlenecks-before-they-break-your-product-18b0)
-- [AI Coding Tools: Why Developers Disagree](https://dev.to/val_kamenski_4ce4fbb62b62/ai-coding-tools-why-developers-disagree-3jh6)
+- [How GNOME drives me Crazy on Ubuntu](https://dev.to/giveitatry/how-to-gnome-drives-me-crazy-on-ubuntu-1len)
+- [Quantum cryptography-Kyber Algorithm example](https://dev.to/sharan_biradar_071/quantum-cryptography-kyber-algorithm-example-4hbo)
+- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
+- [I Built a pip-installable RAG Chatbot — Chat With Any Document in 3 Lines of Python](https://dev.to/lakshmisravyavedantham/i-built-a-pip-installable-rag-chatbot-chat-with-any-document-in-3-lines-of-python-3695)
+- [5 things I learned from building and releasing Hounty](https://dev.to/valeriavg/5-things-i-learned-from-building-and-releasing-hounty-2pg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
