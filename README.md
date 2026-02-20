@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Python AI App Ships to the EU — Here&#39;s What Changes in August 2026](https://dev.to/arkforge-ceo/your-python-ai-app-ships-to-the-eu-heres-what-changes-in-august-2026-1o7i)
-- [We Moved to Microservices and Our Delivery Speed Dropped by 40%. Here&#39;s What We Should Have Done.](https://dev.to/matthewhou/we-moved-to-microservices-and-our-delivery-speed-dropped-by-40-heres-what-we-should-have-done-6b6)
-- [The &quot;Soft Skills&quot; That Actually Determine Your Engineering Career &lpar;With Specific Examples&rpar;](https://dev.to/matthewhou/the-soft-skills-that-actually-determine-your-engineering-career-with-specific-examples-2g27)
-- [I Switched From VS Code to the Terminal for a Month. I&#39;m Not Going Back &lpar;For These 5 Tasks&rpar;.](https://dev.to/matthewhou/i-switched-from-vs-code-to-the-terminal-for-a-month-im-not-going-back-for-these-5-tasks-47p2)
-- [I Built a Free Safety Scanner for Claude Code Setups — Here&#39;s Why I Had To](https://dev.to/yurukusa/i-built-a-free-safety-scanner-for-claude-code-setups-heres-why-i-had-to-2883)
+- [Stop Building Apps The Hard Way](https://dev.to/dev_resources/stop-building-apps-the-hard-way-32ga)
+- [Securing Corporate Data: Azure Storage Private Access &amp; Lifecycle Management](https://dev.to/louis_oodo_a59b230b894609/securing-corporate-data-azure-storage-private-access-lifecycle-management-4dpg)
+- [The Day the AI Took My Requirements Literally](https://dev.to/srsandrade/the-day-the-ai-took-my-requirements-literally-24a1)
+- [The hosting setup nobody talks about anymore](https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528)
+- [Build a Real-Time Trending Content Aggregator Across TikTok and YouTube](https://dev.to/olams/build-a-real-time-trending-content-aggregator-across-tiktok-and-youtube-1hfk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
