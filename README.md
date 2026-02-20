@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
-- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
-- [Prompting in Dead Languages: Latin, Ancient Greek, and Proto-Indo-European as Creative Constraints](https://dev.to/velocityai/prompting-in-dead-languages-latin-ancient-greek-and-proto-indo-european-as-creative-constraints-5efn)
-- [App Monetization for iOS Devs: Stop Guessing, Start Earning](https://dev.to/tobby_scraper/app-monetization-for-ios-devs-stop-guessing-start-earning-3i10)
-- [What Are Stablecoins? Understand How They Work](https://dev.to/flutterwaveeng/what-are-stablecoins-understand-how-they-work-3kg9)
+- [Building CoinFlow: My First Personal Finance App &lpar;Now in Open Testing&rpar;](https://dev.to/app_droid_41580a2eb6/building-coinflow-my-first-personal-finance-app-now-in-open-testing-5e0a)
+- [Laravel Notifications in Practice: Mail, Database, Queues, and Clean Testing](https://dev.to/blamsa0mine/laravel-notifications-le-guide-pratique-mail-database-et-performance-18hm)
+- [Stop Throwing Exceptions. Use Option and Result Instead.](https://dev.to/vitalicset/stop-throwing-exceptions-use-option-and-result-instead-3egm)
+- [Fail2ban Cheat Sheet for Sysadmins](https://dev.to/geeksta/fail2ban-cheat-sheet-for-sysadmins-jkk)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4d91)
 <!-- BLOG-POST-LIST:END -->
 
 ---
