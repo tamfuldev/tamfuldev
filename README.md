@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building Apps The Hard Way](https://dev.to/dev_resources/stop-building-apps-the-hard-way-32ga)
-- [Securing Corporate Data: Azure Storage Private Access &amp; Lifecycle Management](https://dev.to/louis_oodo_a59b230b894609/securing-corporate-data-azure-storage-private-access-lifecycle-management-4dpg)
-- [The Day the AI Took My Requirements Literally](https://dev.to/srsandrade/the-day-the-ai-took-my-requirements-literally-24a1)
-- [The hosting setup nobody talks about anymore](https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528)
-- [Build a Real-Time Trending Content Aggregator Across TikTok and YouTube](https://dev.to/olams/build-a-real-time-trending-content-aggregator-across-tiktok-and-youtube-1hfk)
+- [Getting started with Amazon Nova 2 Omni &lpar;Preview&rpar; &amp; Amazon Nova AI hackathon](https://dev.to/aws-heroes/getting-started-with-amazon-nova-2-omni-preview-amazon-nova-ai-hackathon-4993)
+- [I built an open-source alternative to carbon.now.sh](https://dev.to/railly/i-built-an-open-source-alternative-to-carbonnowsh-cg9)
+- [Building a Simple Interest Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-interest-calculator-with-html-css-and-javascript-3nc4)
+- [What Are Machine Types in Google Compute Engine?](https://dev.to/realnamehidden1_61/what-are-machine-types-in-google-compute-engine-5h28)
+- [From Silent None to Insight: Debugging PySpark UDFs on AWS Glue with Decorators](https://dev.to/vishwa_swaroop_c4dc415de5/from-silent-none-to-insight-debugging-pyspark-udfs-on-aws-glue-with-decorators-1o7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
