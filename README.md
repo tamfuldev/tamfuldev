@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DSP &lpar;Data Structure Protocol&rpar;: how to give LLM agents &quot;long-term memory&quot; of a large repository](https://dev.to/kolomeitsev/dsp-data-structure-protocol-how-to-give-llm-agents-long-term-memory-of-a-large-repository-5daj)
-- [Your AI Agents Need an Org Chart — But Not the Kind You Think](https://dev.to/philippenderle/your-ai-agents-need-an-org-chart-but-not-the-kind-you-think-2fg7)
-- [AI Coding Tools and the Runtime Context Gap](https://dev.to/bluehotdog/ai-coding-tools-and-the-runtime-context-gap-33ai)
-- [Making LawBot, My Autonomous DevRel Clone &lpar;Part 1&rpar;](https://dev.to/lawrencedcodes/making-lawbot-my-autonomous-devrel-clone-part-1-12b2)
-- [This Week In React #269 : State of React, TanStack, Next.js | Hermes, Sparkling, Yoga | Interop, Electrobun, Module Federation](https://dev.to/sebastienlorber/this-week-in-react-269-state-of-react-tanstack-nextjs-hermes-sparkling-yoga-interop-g7j)
+- [Building Multi-Container Applications using Podman Quadlets](https://dev.to/project42/building-multi-container-applications-using-podman-quadlets-3063)
+- [Game Dev Digest — Issue #319 - 2D Guides, Game Ideas/Concepts, Optimizing, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-319-2d-guides-game-ideasconcepts-optimizing-and-more-10j1)
+- [How to Build a Futures Trading System](https://dev.to/devexperts/how-to-build-a-futures-trading-system-44gh)
+- [API e REST: descomplicando conceitos que muita gente confunde](https://dev.to/adelinopds/api-e-rest-descomplicando-conceitos-que-muita-gente-confunde-5ami)
+- [How to Build a Research Assistant using Deep Agents](https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
