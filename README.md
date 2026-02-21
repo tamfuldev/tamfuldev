@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
-- [How I Built an AI Assistant on a Mac Mini M4](https://dev.to/caper_dev/how-i-built-an-ai-assistant-on-a-mac-mini-m4-409d)
-- [Solved: Network Engineer to Cloud Engineer? Has anyone made this move?](https://dev.to/techresolve/solved-network-engineer-to-cloud-engineer-has-anyone-made-this-move-2j5p)
-- [Lakehouse or Warehouse which one to choose in Fabric ?](https://dev.to/anshul_02/lakehouse-or-warehouse-which-one-to-choose-in-fabric--356k)
-- [I Run My Businesses With 7 AI Agents for $200/Month. Here&#39;s What Actually Happens.](https://dev.to/the200dollarceo/i-run-my-businesses-with-7-ai-agents-for-200month-heres-what-actually-happens-5cdm)
+- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
+- [The 11 Most Popular NuGet Packages to Know in 2026 &lpar;updated!&rpar;](https://dev.to/polymorphicguy/the-11-most-popular-nuget-packages-to-know-in-2026-updated-20f5)
+- [Just Launched My Portfolio — What Do You Think?](https://dev.to/cgcm070/just-launched-my-portfolio-what-do-you-think-336j)
+- [A Beginner&#39;s Guide to Multi-Agent Systems: How AI Agents Work Together](https://dev.to/kaniel_outis/a-beginners-guide-to-multi-agent-systems-how-ai-agents-work-together-d43)
+- [Symfony Init - Fast Project Bootstrap Without the Boilerplate](https://dev.to/dev_null/symfony-init-fast-project-bootstrap-without-the-boilerplate-2ihe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
