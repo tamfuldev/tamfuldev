@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The crisis of civilization and Penty&#39;s vision of the rebirth of guilds](https://dev.to/fundacjadobrepanstwo/the-crisis-of-civilization-and-pentys-vision-of-the-rebirth-of-guilds-5egm)
-- [Beyond the Prompt: Why Every LLM Pipeline Needs a Reliability Layer in 2026](https://dev.to/hermes_lekkas_ebf9fb25130/beyond-the-prompt-why-every-llm-pipeline-needs-a-reliability-layer-in-2026-1cof)
-- [Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET](https://dev.to/hypertextcoffeepot/activity-in-wonderland-distributed-tracing-with-opentelemetry-and-net-2ehe)
-- [Security news weekly round-up - 20th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-20th-february-2026-2kmg)
-- [SkyLink API’s Commitment to Sustainable Infrastructure — SkyLink API](https://dev.to/skylink_api/skylink-apis-commitment-to-sustainable-infrastructure-skylink-api-1pfc)
+- [Elevating the Portfolio: A Deep Dive into Recent Enhancements](https://dev.to/highcenburg/elevating-the-portfolio-a-deep-dive-into-recent-enhancements-4b55)
+- [Making SVGs Customizable with CSS in Next.js &lpar;2026&rpar;](https://dev.to/tommy_ju/making-svgs-customizable-with-css-in-nextjs-2026-p3l)
+- [Why the importance of math is inversely proportional to your aptitude for natural reasoning.](https://dev.to/lwestlake/why-the-importance-of-math-is-inversely-proportional-to-your-aptitude-for-natural-reasoning-iem)
+- [OPA &amp; kube-mgmt Deep Dive](https://dev.to/kanywst/opa-kube-mgmt-deep-dive-2g8)
+- [How to Fall Back Gracefully When Apple Intelligence Isn&#39;t Available](https://dev.to/arshtechpro/how-to-fall-back-gracefully-when-apple-intelligence-isnt-available-48j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
