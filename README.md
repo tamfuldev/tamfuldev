@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Comparison: React vs WebForms Core](https://dev.to/elanatframework/performance-comparison-react-vs-webforms-core-50ec)
-- [Writing to Learn: How Writing Improves Understanding](https://dev.to/brainrash_edu/writing-to-learn-how-writing-improves-understanding-32d0)
-- [How We Built an Automated MCP Security Scanner &lpar;And What We Found&rpar;](https://dev.to/ecap0/how-we-built-an-automated-mcp-security-scanner-and-what-we-found-52io)
-- [Stay Consistent With Salah at Work Using This Slack App](https://dev.to/ikhaledabdelfattah/stay-consistent-with-salah-at-work-using-this-slack-app-465o)
-- [Creating a Low-code Agent with the ADK Visual Builder](https://dev.to/gde/creating-a-low-code-agent-with-the-adk-visual-builder-4504)
+- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
+- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
+- [I&#39;m Finance Ops, not a developer. I built a KoSIT-valid XRechnung generator in the browser anyway](https://dev.to/mihai82adrian/im-finance-ops-not-a-developer-i-built-a-kosit-valid-xrechnung-generator-in-the-browser-anyway-4bn2)
+- [Microservices Most Asked Interview Questions](https://dev.to/bhu_kalki/microservices-most-asked-interview-questions-46mm)
+- [I built a note-taking app where I literally can&#39;t access your data](https://dev.to/braska/i-built-a-note-taking-app-where-i-literally-cant-access-your-data-14ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
