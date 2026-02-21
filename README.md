@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Top 5 Self-Hosted Tools Running on My Home Server via Docker &lpar;Part 2&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-part-2-4aln)
-- [I Swapped the Database Client and Added GraphQL. The Domain Never Noticed](https://dev.to/wakita181009/i-swapped-the-database-client-and-added-graphql-the-domain-never-noticed-24k9)
-- [From Dispatch to Done: Visibility That Keeps Jobs Moving](https://dev.to/angela_ash_6da09e1fd957c1/from-dispatch-to-done-visibility-that-keeps-jobs-moving-4aca)
-- [InfiniteTalk: I Gave a Portrait a Voice. It Took One Audio File and Zero Cloud Services.](https://dev.to/local_ai_28441e061d716cb1/infinitetalk-i-gave-a-portrait-a-voice-it-took-one-audio-file-and-zero-cloud-services-2g8)
-- [Membuat Plugin Oracle APEX QR Code dengan Custom Logo](https://dev.to/azmil_awaludin/membuat-plugin-oracle-apex-qr-code-dengan-custom-logo-2nop)
+- [98 Bytes That Prove Your Document Existed](https://dev.to/dzatona/98-bytes-that-prove-your-document-existed-c5i)
+- [Drupal Canvas Full HTML rollout guide](https://dev.to/victorstackai/drupal-canvas-full-html-rollout-guide-1b5m)
+- [Devlog: 2026-02-04](https://dev.to/victorstackai/devlog-2026-02-04-1h93)
+- [GEO &lpar;Generative Engine Optimization&rpar;: Why Your Website Might Be Invisible to AI in 2026](https://dev.to/kazkn/geo-generative-engine-optimization-why-your-website-might-be-invisible-to-ai-in-2026-df7)
+- [How to Fix “Blocked by CORS Policy” Error in JavaScript &lpar;Step-by-Step Guide&rpar;](https://dev.to/idioms/how-to-fix-blocked-by-cors-policy-error-in-javascript-step-by-step-guide-48h6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
