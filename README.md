@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting Your GitHub Projects: Automate Your Dev Resume](https://dev.to/resumemind/stop-copy-pasting-your-github-projects-automate-your-dev-resume-4el)
-- [helloTali Overview Plan](https://dev.to/harrykhlo/hellotali-overview-plan-1pa7)
-- [Are markdown files becoming the new dot files?](https://dev.to/xwero/are-markdown-files-becoming-the-new-dot-files-19f3)
-- [I Built a Hosting Comparison Platform with Astro, Svelte 5 &amp; Hono](https://dev.to/hostingsift/i-built-a-hosting-comparison-platform-with-astro-svelte-5-hono-3kde)
-- [React Performance Optimization: From Slow to Lightning Fast](https://dev.to/moonlitcapy/react-performance-optimization-from-slow-to-lightning-fast-oof)
+- [Web/Mobile Personal AI CFO](https://dev.to/rsaz/webmobile-personal-ai-cfo-2k81)
+- [Day 8 — Insecure Direct Object Reference &lpar;IDOR&rpar; Vulnerability in Web Applications: A Practical Demonstration with Flask](https://dev.to/hafiz_shamnad/day-8-insecure-direct-object-reference-idor-vulnerability-in-web-applications-a-practical-2k56)
+- [AI Gave Us Lemons. We Picked Limoncello](https://dev.to/olgabraginskaya/ai-gave-us-lemons-we-picked-limoncello-5en4)
+- [Firebase Push Notifications in Capacitor Angular Apps: The Complete Implementation Guide](https://dev.to/vaclav_svara_50ba53bc0010/firebase-push-notifications-in-capacitor-angular-apps-the-complete-implementation-guide-1c67)
+- [Python CGI Programming Tutorial: Learn Server-Side Python Step by Step](https://dev.to/jt_pt_fae02e46ad80f3cb75d/python-cgi-programming-tutorial-learn-server-side-python-step-by-step-4gng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
