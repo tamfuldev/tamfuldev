@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Elevating the Portfolio: A Deep Dive into Recent Enhancements](https://dev.to/highcenburg/elevating-the-portfolio-a-deep-dive-into-recent-enhancements-4b55)
-- [Making SVGs Customizable with CSS in Next.js &lpar;2026&rpar;](https://dev.to/tommy_ju/making-svgs-customizable-with-css-in-nextjs-2026-p3l)
-- [Why the importance of math is inversely proportional to your aptitude for natural reasoning.](https://dev.to/lwestlake/why-the-importance-of-math-is-inversely-proportional-to-your-aptitude-for-natural-reasoning-iem)
-- [OPA &amp; kube-mgmt Deep Dive](https://dev.to/kanywst/opa-kube-mgmt-deep-dive-2g8)
-- [How to Fall Back Gracefully When Apple Intelligence Isn&#39;t Available](https://dev.to/arshtechpro/how-to-fall-back-gracefully-when-apple-intelligence-isnt-available-48j)
+- [My Top 5 Self-Hosted Tools Running on My Home Server via Docker &lpar;Part 2&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-part-2-4aln)
+- [I Swapped the Database Client and Added GraphQL. The Domain Never Noticed](https://dev.to/wakita181009/i-swapped-the-database-client-and-added-graphql-the-domain-never-noticed-24k9)
+- [From Dispatch to Done: Visibility That Keeps Jobs Moving](https://dev.to/angela_ash_6da09e1fd957c1/from-dispatch-to-done-visibility-that-keeps-jobs-moving-4aca)
+- [InfiniteTalk: I Gave a Portrait a Voice. It Took One Audio File and Zero Cloud Services.](https://dev.to/local_ai_28441e061d716cb1/infinitetalk-i-gave-a-portrait-a-voice-it-took-one-audio-file-and-zero-cloud-services-2g8)
+- [Membuat Plugin Oracle APEX QR Code dengan Custom Logo](https://dev.to/azmil_awaludin/membuat-plugin-oracle-apex-qr-code-dengan-custom-logo-2nop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
