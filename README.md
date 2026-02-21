@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Gave Claude Code Access to 6,500 Azure Cmdlets](https://dev.to/yoshifumi_tsuda/how-i-gave-claude-code-access-to-6500-azure-cmdlets-chk)
-- [Rust-Powered Polymarket Trading Bots: Copy Trade, Arbitrage &amp; Market Making via Telegram](https://dev.to/soulcrancerdev/rust-powered-polymarket-trading-bots-copy-trade-arbitrage-market-making-via-telegram-3bee)
-- [MCP — The Missing Layer Between AI and Your Application](https://dev.to/chaets/mcp-the-missing-layer-between-ai-and-your-application-fdj)
-- [How I Made My Portfolio Infinitely Extendable with 4 Lines of JSON](https://dev.to/sammiihk/how-i-made-my-portfolio-infinitely-extendable-with-4-lines-of-json-2536)
-- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-4l23)
+- [Trash Theory: Ocean Colour Scene: Always On The Outside [&quot;The Riverboat Song&quot;] | New British Canon](https://dev.to/music_youtube/trash-theory-ocean-colour-scene-always-on-the-outside-the-riverboat-song-new-british-canon-4kp1)
+- [Docker does not exist: processes and reliability](https://dev.to/backendbydmytro/docker-does-not-exist-processes-and-reliability-4cip)
+- [We Built a Messenger Where Agents Receive Your Messages — Now We&#39;re Making It Actually Good](https://dev.to/agenium_platform/we-built-a-messenger-where-agents-receive-your-messages-now-were-making-it-actually-good-2eni)
+- [When Bet365 Goes Dark: What a Betting Outage Says About the Cloud in 2026](https://dev.to/saschadev/when-bet365-goes-dark-what-a-betting-outage-says-about-the-cloud-in-2026-13ol)
+- [I Confused Copilot Coding Agent with Agentic Workflows — Turns Out the Guardrails Are the Point](https://dev.to/hagishun/i-confused-copilot-coding-agent-with-agentic-workflows-turns-out-the-guardrails-are-the-point-38m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
