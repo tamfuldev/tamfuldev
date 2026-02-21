@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [98 Bytes That Prove Your Document Existed](https://dev.to/dzatona/98-bytes-that-prove-your-document-existed-c5i)
-- [Drupal Canvas Full HTML rollout guide](https://dev.to/victorstackai/drupal-canvas-full-html-rollout-guide-1b5m)
-- [Devlog: 2026-02-04](https://dev.to/victorstackai/devlog-2026-02-04-1h93)
-- [GEO &lpar;Generative Engine Optimization&rpar;: Why Your Website Might Be Invisible to AI in 2026](https://dev.to/kazkn/geo-generative-engine-optimization-why-your-website-might-be-invisible-to-ai-in-2026-df7)
-- [How to Fix “Blocked by CORS Policy” Error in JavaScript &lpar;Step-by-Step Guide&rpar;](https://dev.to/idioms/how-to-fix-blocked-by-cors-policy-error-in-javascript-step-by-step-guide-48h6)
+- [9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026](https://dev.to/wrap-pixel/shadcn-date-picker-38dh)
+- [Claude Code Lost My 4-Hour Session. Here&#39;s the $0 Fix That Actually Works](https://dev.to/gonewx/claude-code-lost-my-4-hour-session-heres-the-0-fix-that-actually-works-24h6)
+- [AI Agents Are Making Decisions Nobody Can Audit](https://dev.to/nostalgicskinco/ai-agents-are-making-decisions-nobody-can-audit-2gpn)
+- [Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations](https://dev.to/asif_siddiqui_3d3ec4ee630/mining-and-exploration-consulting-building-data-driven-and-sustainable-resource-operations-3j7p)
+- [Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards](https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
