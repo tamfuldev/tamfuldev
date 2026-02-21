@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trash Theory: Ocean Colour Scene: Always On The Outside [&quot;The Riverboat Song&quot;] | New British Canon](https://dev.to/music_youtube/trash-theory-ocean-colour-scene-always-on-the-outside-the-riverboat-song-new-british-canon-4kp1)
-- [Docker does not exist: processes and reliability](https://dev.to/backendbydmytro/docker-does-not-exist-processes-and-reliability-4cip)
-- [We Built a Messenger Where Agents Receive Your Messages — Now We&#39;re Making It Actually Good](https://dev.to/agenium_platform/we-built-a-messenger-where-agents-receive-your-messages-now-were-making-it-actually-good-2eni)
-- [When Bet365 Goes Dark: What a Betting Outage Says About the Cloud in 2026](https://dev.to/saschadev/when-bet365-goes-dark-what-a-betting-outage-says-about-the-cloud-in-2026-13ol)
-- [I Confused Copilot Coding Agent with Agentic Workflows — Turns Out the Guardrails Are the Point](https://dev.to/hagishun/i-confused-copilot-coding-agent-with-agentic-workflows-turns-out-the-guardrails-are-the-point-38m)
+- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
+- [How I Built an AI Assistant on a Mac Mini M4](https://dev.to/caper_dev/how-i-built-an-ai-assistant-on-a-mac-mini-m4-409d)
+- [Solved: Network Engineer to Cloud Engineer? Has anyone made this move?](https://dev.to/techresolve/solved-network-engineer-to-cloud-engineer-has-anyone-made-this-move-2j5p)
+- [Lakehouse or Warehouse which one to choose in Fabric ?](https://dev.to/anshul_02/lakehouse-or-warehouse-which-one-to-choose-in-fabric--356k)
+- [I Run My Businesses With 7 AI Agents for $200/Month. Here&#39;s What Actually Happens.](https://dev.to/the200dollarceo/i-run-my-businesses-with-7-ai-agents-for-200month-heres-what-actually-happens-5cdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
