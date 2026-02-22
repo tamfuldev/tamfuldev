@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Features of Integrating Nmap with Python Using subprocess.](https://dev.to/ganesh_hari_18/features-of-integrating-nmap-with-python-using-subprocess-df)
-- [Awesome AI Agent Papers 2026](https://dev.to/necatiozmen/awesome-ai-agent-papers-2026-2ili)
-- [Local Centralized Database Manager](https://dev.to/samuelchanhin/local-centralized-database-manager-h01)
-- [I Asked My AI to Remind Me to Drink Water. It Built a Product Instead.](https://dev.to/osovsky/i-asked-my-ai-to-remind-me-to-drink-water-it-built-a-product-instead-19ec)
-- [From Idea to Database: A Practical Guide to Database Design](https://dev.to/junaiddshaukat/from-idea-to-database-a-practical-guide-to-database-design-3e8i)
+- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
+- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9)
+- [The time bomb in your codebase &lpar;and mine too&rpar;](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4)
+- [TorchAO vs ONNX Runtime: 8-bit Quantization Benchmark](https://dev.to/tildalice/torchao-vs-onnx-runtime-8-bit-quantization-benchmark-2leg)
+- [Cognitive Load Theory: Learning Within Your Brain&#39;s Limits](https://dev.to/brainrash_edu/cognitive-load-theory-learning-within-your-brains-limits-5hb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
