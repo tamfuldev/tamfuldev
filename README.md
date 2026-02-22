@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
-- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
-- [I&#39;m Finance Ops, not a developer. I built a KoSIT-valid XRechnung generator in the browser anyway](https://dev.to/mihai82adrian/im-finance-ops-not-a-developer-i-built-a-kosit-valid-xrechnung-generator-in-the-browser-anyway-4bn2)
-- [Microservices Most Asked Interview Questions](https://dev.to/bhu_kalki/microservices-most-asked-interview-questions-46mm)
-- [I built a note-taking app where I literally can&#39;t access your data](https://dev.to/braska/i-built-a-note-taking-app-where-i-literally-cant-access-your-data-14ai)
+- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
+- [Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)
+- [🌌 Beginner-Friendly Guide &#39;Binary Gap&#39; - Problem 868 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
+- [[2026 Latest] Pandas 3.0 is Here: Copy-on-Write, PyArrow, and What You Need to Know](https://dev.to/serada/2026-latest-pandas-30-is-here-copy-on-write-pyarrow-and-what-you-need-to-know-hme)
+- [https://freeapptools.co/tools/ethereum/ethereum-gas-fee-calculator](https://dev.to/n3st3dlabs/httpsfreeapptoolscotoolsethereumethereum-gas-fee-calculator-580n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
