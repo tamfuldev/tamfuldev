@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-1pnn)
-- [Bilingual Leadership: How Speaking Spanish Shaped My Career](https://dev.to/pablo_rivera_ce33bab7970b/bilingual-leadership-how-speaking-spanish-shaped-my-career-1dfp)
-- [KPI Frameworks That Actually Drive Results: A Practitioner&#39;s Guide](https://dev.to/pablo_rivera_ce33bab7970b/kpi-frameworks-that-actually-drive-results-a-practitioners-guide-18k8)
-- [Abstraction in Java](https://dev.to/kavitha_krish/abstraction-in-java-4dh1)
-- [Audiobookshelf vs Booksonic: Audiobook Servers](https://dev.to/selfhostingsh/audiobookshelf-vs-booksonic-audiobook-servers-4cjg)
+- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
+- [Managing Services in Linux](https://dev.to/khadijah/managing-services-in-linux-4467)
+- [Building a Transparent AI Window: My Journey with Gemini API](https://dev.to/pspatil/building-a-transparent-ai-window-my-journey-with-gemini-api-3aab)
+- [Dancing Pixels: Building an Immersive Audio-Reactive 3D Web Experience with React Three Fiber](https://dev.to/up_min_sparcs/dancing-pixels-building-an-immersive-audio-reactive-3d-web-experience-with-react-three-fiber-2ln6)
+- [A Beginner’s Guide to Building a REST API with Express.js, PostgreSQL, and Postman](https://dev.to/up_min_sparcs/a-beginners-guide-to-building-a-rest-api-with-expressjs-postgresql-and-postman-377e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
