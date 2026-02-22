@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
-- [End-to-End Automated Streaming Platform &lpar;Jio-Hotstar&rpar; Deployment: A DevOps Deep Dive 🚀](https://dev.to/anilkumar_n/end-to-end-automated-streaming-platform-jio-hotstar-deployment-a-devops-deep-dive-17l9)
-- [From Chatbot to Coworker: How Agentic AI Is Rewiring the Way We Build Software in 2026](https://dev.to/vasughanta09/from-chatbot-to-coworker-how-agentic-ai-is-rewiring-the-way-we-build-software-in-2026-44f5)
-- [Proxmox Virtual Machine optimization - Deep Dive](https://dev.to/sergelogvinov/proxmox-virtual-machine-optimization-deep-dive-mn9)
-- [Distro Wars 2026: Which Linux Should You Actually Use?](https://dev.to/md8_habibullah/distro-wars-2026-which-linux-should-you-actually-use-51n)
+- [Next.js 16 Caching Explained: Revalidation, Tags, Draft Mode &amp; Real Production Patterns](https://dev.to/realacjoshua/nextjs-16-caching-explained-revalidation-tags-draft-mode-real-production-patterns-26dl)
+- [After 5 Years of Coding, This Is What Actually Matters](https://dev.to/jojo_kunsang/after-5-years-of-coding-this-is-what-actually-matters-24ee)
+- [Email Automation That Saves 5 Hours Per Week](https://dev.to/caelummain1/email-automation-that-saves-5-hours-per-week-4dm6)
+- [Applying MVC Architecture in Python: Building an Automated Certificate Generator](https://dev.to/up_min_sparcs/applying-mvc-architecture-in-python-building-an-automated-certificate-generator-1jk1)
+- [I built AI tools that roast your startup ideas so your investors don&#39;t](https://dev.to/luuuc/i-built-ai-tools-that-roast-your-startup-ideas-so-your-investors-dont-54di)
 <!-- BLOG-POST-LIST:END -->
 
 ---
