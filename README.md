@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp)
-- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l)
-- [My GSoC &#39;25 Experience](https://dev.to/damikaanupama/my-gsoc-25-experience-20n0)
-- [Built a Blazing-Fast OSINT Scanner in Go](https://dev.to/dhanushnehru/built-a-blazing-fast-osint-scanner-in-go-54gg)
-- [The Developer’s Roadmap to Revenue: 4 Software Business Models Explained &lpar;With Real Numbers&rpar;](https://dev.to/chimwemwe_liwonde_9429d0f/the-developers-roadmap-to-revenue-4-software-business-models-explained-with-real-numbers-1031)
+- [I built a free tool that picks your entire SaaS tech stack in a minute](https://dev.to/rupa_tiwari_dd308948d710f/i-built-a-free-tool-that-picks-your-entire-saas-tech-stack-in-a-minute-667)
+- [Shipping Java AI Services on Kubernetes in 2026: A Practical CI/CD Playbook &lpar;GitHub Actions + GitLab CI + Argo CD&rpar;](https://dev.to/aytronn/shipping-java-ai-services-on-kubernetes-in-2026-a-practical-cicd-playbook-github-actions--578h)
+- [How backend production systems actually fail](https://dev.to/olagesin_/how-backend-production-systems-actually-fail-2dp7)
+- [Refactoring a FastAPI Journey and Route API for clarity and maintainability](https://dev.to/dillionhuston/refactoring-a-fastapi-journey-and-route-api-for-clarity-and-maintainability-2kkk)
+- [Leveraging a Vector Database for Semantic Search with ChromaDB: A Beginner’s Guide](https://dev.to/up_min_sparcs/leveraging-a-vector-database-for-semantic-search-with-chromadb-a-beginners-guide-2mfd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
