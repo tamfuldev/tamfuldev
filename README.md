@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool that picks your entire SaaS tech stack in a minute](https://dev.to/rupa_tiwari_dd308948d710f/i-built-a-free-tool-that-picks-your-entire-saas-tech-stack-in-a-minute-667)
-- [Shipping Java AI Services on Kubernetes in 2026: A Practical CI/CD Playbook &lpar;GitHub Actions + GitLab CI + Argo CD&rpar;](https://dev.to/aytronn/shipping-java-ai-services-on-kubernetes-in-2026-a-practical-cicd-playbook-github-actions--578h)
-- [How backend production systems actually fail](https://dev.to/olagesin_/how-backend-production-systems-actually-fail-2dp7)
-- [Refactoring a FastAPI Journey and Route API for clarity and maintainability](https://dev.to/dillionhuston/refactoring-a-fastapi-journey-and-route-api-for-clarity-and-maintainability-2kkk)
-- [Leveraging a Vector Database for Semantic Search with ChromaDB: A Beginner’s Guide](https://dev.to/up_min_sparcs/leveraging-a-vector-database-for-semantic-search-with-chromadb-a-beginners-guide-2mfd)
+- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-1pnn)
+- [Bilingual Leadership: How Speaking Spanish Shaped My Career](https://dev.to/pablo_rivera_ce33bab7970b/bilingual-leadership-how-speaking-spanish-shaped-my-career-1dfp)
+- [KPI Frameworks That Actually Drive Results: A Practitioner&#39;s Guide](https://dev.to/pablo_rivera_ce33bab7970b/kpi-frameworks-that-actually-drive-results-a-practitioners-guide-18k8)
+- [Abstraction in Java](https://dev.to/kavitha_krish/abstraction-in-java-4dh1)
+- [Audiobookshelf vs Booksonic: Audiobook Servers](https://dev.to/selfhostingsh/audiobookshelf-vs-booksonic-audiobook-servers-4cjg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
