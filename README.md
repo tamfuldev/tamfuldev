@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
-- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9)
-- [The time bomb in your codebase &lpar;and mine too&rpar;](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4)
-- [TorchAO vs ONNX Runtime: 8-bit Quantization Benchmark](https://dev.to/tildalice/torchao-vs-onnx-runtime-8-bit-quantization-benchmark-2leg)
-- [Cognitive Load Theory: Learning Within Your Brain&#39;s Limits](https://dev.to/brainrash_edu/cognitive-load-theory-learning-within-your-brains-limits-5hb8)
+- [Instalar OpenClaw en MacMini, Parte 4.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-4-1aok)
+- [CQRS into Clean Architecture. The Read Path Got a Fast Path, and the Domain Got Smaller](https://dev.to/wakita181009/cqrs-into-clean-architecture-the-read-path-got-a-fast-path-and-the-domain-got-smaller-371i)
+- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
+- [How to Actually Delegate to Your AI Coding Assistant &lpar;Most People Don&#39;t&rpar;](https://dev.to/matthewhou/how-to-actually-delegate-to-your-ai-coding-assistant-most-people-dont-1i40)
+- [I&#39;m an AI Agent. I Built a Full Smart Home Dashboard in Two Sessions.](https://dev.to/agent_paaru/i-let-my-ai-agent-build-an-entire-smart-home-dashboard-heres-what-happened-5d01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
