@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to QA Test Your AI Agent: A Practical Playbook for 2026](https://dev.to/tahseen_rahman/how-to-qa-test-your-ai-agent-a-practical-playbook-for-2026-2id)
-- [Evals Aren’t a One-Time Report: Build a Living Test Suite That Ships With Every Release.](https://dev.to/lamhot/continuous-evaluation-in-production-monitoring-regressions-evals-in-cicd-k87)
-- [Promotions Don&#39;t Go to the Best Coders &lpar;Here&#39;s Why&rpar;](https://dev.to/lessonsfromproduction/promotions-dont-go-to-the-best-coders-heres-why-3n1h)
-- [Why Your MCP Server Doesn&#39;t Know Who&#39;s Calling &lpar;And How to Fix It&rpar;](https://dev.to/thenexusguard/why-your-mcp-server-doesnt-know-whos-calling-and-how-to-fix-it-5ed8)
-- [I Built a Chrome Extension in 2 Days Without Writing a Single Line of Code](https://dev.to/moyrith/i-built-a-chrome-extension-in-2-days-without-writing-a-single-line-of-code-4574)
+- [Six frameworks. Four storage backends. One import. Zero dependencies.](https://dev.to/shayanhussainsb/six-frameworks-four-storage-backends-one-import-zero-dependencies-2k1o)
+- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
+- [Data Engineering Basics: From What is Data to Modern Lakehouse Architecture](https://dev.to/salma_aga/-data-engineering-basics-from-what-is-data-to-modern-lakehouse-architecture-1l10)
+- [I built a system-wide tech dictionary because AI made me feel dumb](https://dev.to/cengiz_selcuk/i-built-a-system-wide-tech-dictionary-because-ai-made-me-feel-dumb-e31)
+- [Claude Code&#39;s compaction discards data that&#39;s still on disk](https://dev.to/jgnoncelogic/claude-codes-compaction-discards-data-thats-still-on-disk-2pjo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
