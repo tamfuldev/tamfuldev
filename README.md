@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
-- [Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)
-- [🌌 Beginner-Friendly Guide &#39;Binary Gap&#39; - Problem 868 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
-- [[2026 Latest] Pandas 3.0 is Here: Copy-on-Write, PyArrow, and What You Need to Know](https://dev.to/serada/2026-latest-pandas-30-is-here-copy-on-write-pyarrow-and-what-you-need-to-know-hme)
-- [https://freeapptools.co/tools/ethereum/ethereum-gas-fee-calculator](https://dev.to/n3st3dlabs/httpsfreeapptoolscotoolsethereumethereum-gas-fee-calculator-580n)
+- [How to QA Test Your AI Agent: A Practical Playbook for 2026](https://dev.to/tahseen_rahman/how-to-qa-test-your-ai-agent-a-practical-playbook-for-2026-2id)
+- [Evals Aren’t a One-Time Report: Build a Living Test Suite That Ships With Every Release.](https://dev.to/lamhot/continuous-evaluation-in-production-monitoring-regressions-evals-in-cicd-k87)
+- [Promotions Don&#39;t Go to the Best Coders &lpar;Here&#39;s Why&rpar;](https://dev.to/lessonsfromproduction/promotions-dont-go-to-the-best-coders-heres-why-3n1h)
+- [Why Your MCP Server Doesn&#39;t Know Who&#39;s Calling &lpar;And How to Fix It&rpar;](https://dev.to/thenexusguard/why-your-mcp-server-doesnt-know-whos-calling-and-how-to-fix-it-5ed8)
+- [I Built a Chrome Extension in 2 Days Without Writing a Single Line of Code](https://dev.to/moyrith/i-built-a-chrome-extension-in-2-days-without-writing-a-single-line-of-code-4574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
