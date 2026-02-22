@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch)
-- [The use of AI for beginners just learning how to code?](https://dev.to/fredrik_berg/the-us-of-ai-for-beginners-just-learning-how-to-code-2ngi)
-- [Seedance 2.0 @Tags: How to Direct AI Videos with Multimodal References](https://dev.to/evolink/seedance-20-tags-how-to-direct-ai-videos-with-multimodal-references-1jlo)
-- [How I Built an Autonomous AI Agent That Browses the Web](https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb)
-- [🚨 AI Will Not Replace Developers – Lazy Developers Will Be Replaced](https://dev.to/darshanraval/ai-will-not-replace-developers-lazy-developers-will-be-replaced-224j)
+- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp)
+- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l)
+- [My GSoC &#39;25 Experience](https://dev.to/damikaanupama/my-gsoc-25-experience-20n0)
+- [Built a Blazing-Fast OSINT Scanner in Go](https://dev.to/dhanushnehru/built-a-blazing-fast-osint-scanner-in-go-54gg)
+- [The Developer’s Roadmap to Revenue: 4 Software Business Models Explained &lpar;With Real Numbers&rpar;](https://dev.to/chimwemwe_liwonde_9429d0f/the-developers-roadmap-to-revenue-4-software-business-models-explained-with-real-numbers-1031)
 <!-- BLOG-POST-LIST:END -->
 
 ---
