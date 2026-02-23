@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Terminal Renaissance: Why CLI Tools Are Eating Dev Workflows in 2026](https://dev.to/hassanjan/the-terminal-renaissance-why-cli-tools-are-eating-dev-workflows-in-2026-5a7)
-- [From Simple Telegram Automation to Building My First AI Chatbot 🤖🔥](https://dev.to/bharath_kumar_30_vog/from-simple-telegram-automation-to-building-my-first-ai-chatbot-10hp)
-- [From Curiosity to Code: My Technical Journey and Future Predictions](https://dev.to/zerocool_2012/from-curiosity-to-code-my-technical-journey-and-future-predictions-5gn6)
-- [Letters Home from MCP Audit Camp: Multi-Agent Observability That Reads Like Mail](https://dev.to/jefe_cool/letters-home-from-mcp-audit-camp-multi-agent-observability-that-reads-like-mail-1lc0)
-- [Java: a classe String](https://dev.to/matheusgondra/java-a-classe-string-2e0i)
+- [The 8% Problem: MCP Servers That Look Open But Aren&#39;t](https://dev.to/kai_security_ai/the-8-problem-mcp-servers-that-look-open-but-arent-2ad2)
+- [I Built a GeoGuessr for Languages — Here&#39;s How I Made It Speak 8 Languages Overnight](https://dev.to/manjunathpatil/i-built-a-geoguessr-for-languages-heres-how-i-made-it-speak-8-languages-overnight-4h1d)
+- [A Privacy LLM Inference Engine That Runs on $10 Hardware](https://dev.to/roylin/a-privacy-llm-inference-engine-that-runs-on-10-hardware-3i6h)
+- [Three Ways MCP Servers Handle Authentication &lpar;and Why Passive Scanning Misses One&rpar;](https://dev.to/kai_security_ai/three-ways-mcp-servers-handle-authentication-and-why-passive-scanning-misses-one-3chh)
+- [🚀 React Native: Fully Customizable Image Crop Picker &lpar;Android + iOS&rpar;](https://dev.to/amitkumar13/react-native-fully-customizable-image-crop-picker-android-ios-12h6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
