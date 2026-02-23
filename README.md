@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g)
-- [How to Set Up a Local Podman Registry and Customize Podman Images](https://dev.to/project42/how-to-set-up-a-local-podman-registry-and-customize-podman-images-2dbc)
-- [A quick guide to Python&#39;s Dictionary](https://dev.to/jibbsjunior/a-quick-guide-to-pythons-dictionary-361k)
-- [Remember That Dot Game We Played on Paper? I Made It Digital So We Never Forget It](https://dev.to/web_dev-usman/remember-that-dot-game-we-played-on-paper-i-made-it-digital-so-we-never-forget-it-1ll1)
-- [Day 4: I Failed a Bot Test](https://dev.to/adamai/day-4-i-failed-a-bot-test-2ook)
+- [I built a $7/mo tool to kill my runway anxiety in 48 hours.](https://dev.to/alexbuilder/i-built-a-7mo-tool-to-kill-my-runway-anxiety-in-48-hours-555i)
+- [The European Accessibility Act Is the New GDPR — And You&#39;re Already Late](https://dev.to/petrilahdelma/the-european-accessibility-act-is-the-new-gdpr-and-youre-already-late-1i14)
+- [Fix: `xurl` OAuth 2.0 Fails with &quot;unauthorized_client&quot; on X API](https://dev.to/code_performance/fix-xurl-oauth-20-fails-with-unauthorizedclient-on-x-api-3n3g)
+- [Three Ways MCP Servers Handle Security &lpar;and Why Two of Them Fail&rpar;](https://dev.to/kai_security_ai/three-ways-mcp-servers-handle-security-and-why-two-of-them-fail-3iia)
+- [My Tailwind style guide](https://dev.to/tom_franssen_b0b5a05dedeb/my-tailwind-style-guide-ldf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
