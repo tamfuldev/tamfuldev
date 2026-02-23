@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust + CTEM: Building Security That Validates Itself](https://dev.to/akshayramshivakumar/zero-trust-ctem-building-security-that-validates-itself-56mp)
-- [Artificial Intelligence Coding Is Shrinking Teams. Adapt Fast](https://dev.to/sashido/artificial-intelligence-coding-is-shrinking-teams-adapt-fast-m8g)
-- [2026 is the New 2016 and Honestly? I Kind of Get It.](https://dev.to/vasughanta09/2026-is-the-new-2016-and-honestly-i-kind-of-get-it-57bg)
-- [The Secret Life of Go: Worker Pools](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d)
-- [Tight Coupling &lpar;Request-Response&rpar; vs. Loose Coupling &lpar;Event-Driven&rpar;.](https://dev.to/glax3max/tight-coupling-request-response-vs-loose-coupling-event-driven-5cpa)
+- [From IMG_4382.jpg to Invoice_Acme_2024-03.pdf: Building a Content-Aware Renaming Pipeline](https://dev.to/tighnarizerda/from-img4382jpg-to-invoiceacme2024-03pdf-building-a-content-aware-renaming-pipeline-2ll3)
+- [Daily Challenge #11 : The &quot;CSS-Only&quot; Password Strength Meter 🔑](https://dev.to/bingkahu/daily-challenge-11-the-css-only-password-strength-meter-666)
+- [Accessibility in Vue: Quick Tips for Building Inclusive Apps](https://dev.to/jacobandrewsky/accessibility-in-vue-quick-tips-for-building-inclusive-apps-2ne0)
+- [I Added WebMCP to My Blog 19 Days After It Shipped. Here&#39;s the Exact Code.](https://dev.to/chudi_nnorukam/i-added-webmcp-to-my-blog-19-days-after-it-shipped-heres-the-exact-code-4agb)
+- [Why I built yet another Agile Retrospective tool &lpar;and made it entirely free&rpar;](https://dev.to/clear_retro/why-i-built-yet-another-agile-retrospective-tool-and-made-it-entirely-free-163k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
