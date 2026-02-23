@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I added a first-party MCP server to my API. Here is what AI coding assistants can now do.](https://dev.to/custodiaadmin/i-added-a-first-party-mcp-server-to-my-api-here-is-what-ai-coding-assistants-can-now-do-2flh)
-- [Anatomy of a Schema Drift Incident: 5 Real Patterns That Break Production](https://dev.to/qa-leaders/anatomy-of-a-schema-drift-incident-5-real-patterns-that-break-production-274l)
-- [Redis in NestJS: The RedisX Solution You Didn&#39;t Know You Needed](https://dev.to/sur-ser/redis-in-nestjs-the-redisx-solution-you-didnt-know-you-needed-1c7f)
-- [Everything I&#39;ve learned so far about .cursorrules after mass testing them](https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km)
-- [I launched on 3 platforms with 0 followers. My 7-year-old article beat all of them.](https://dev.to/reposweeper/i-launched-on-3-platforms-with-0-followers-my-7-year-old-article-beat-all-of-them-5438)
+- [Coding Agents for Software Engineers](https://dev.to/arsenikavalchuk/coding-agents-for-software-engineers-73p)
+- [341 Malicious AI Agent Skills, 1.5M Leaked Tokens — I Built the Fix](https://dev.to/ariangogani/341-malicious-ai-agent-skills-15m-leaked-tokens-i-built-the-fix-161c)
+- [Accessibility Tooling for Agentic Coding Loops](https://dev.to/cameron-accesslint/accessibility-tooling-for-agentic-coding-loops-5b1h)
+- [AI Agents in production: Why guardrails fail and what actually works](https://dev.to/patrick_joubert_428bd9bc3/ai-agents-in-production-why-guardrails-fail-and-what-actually-works-144p)
+- [I built a free football prediction platform for World Cup 2026 — here&#39;s the stack](https://dev.to/rastipunk/i-built-a-free-football-prediction-platform-for-world-cup-2026-heres-the-stack-nhk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
