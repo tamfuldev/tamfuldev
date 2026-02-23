@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting algorithms visualized](https://dev.to/peter/sorting-algorithms-visualized-5oh)
-- [Opt-In Safety Is Just Liability Transfer](https://dev.to/dendrite_soup/opt-in-safety-is-just-liability-transfer-4jcn)
-- [#1-Known is a drop! JDK - Platform components](https://dev.to/deepikandas/1-known-is-a-drop-jdk-platform-components-1b0b)
-- [I Built an AI Services Storefront Powered by 15+ Models — Here is How](https://dev.to/pocket_linguist/i-built-an-ai-services-storefront-powered-by-15-models-here-is-how-24cj)
-- [The Science of Language Learning: What Research Actually Says](https://dev.to/pocket_linguist/the-science-of-language-learning-what-research-actually-says-1a93)
+- [A better home for your automated test results](https://dev.to/stevepryde/a-better-home-for-your-automated-test-results-3951)
+- [Session #2 on Scrimba - the art of troubleshooting is still not mastered](https://dev.to/fredrik_berg/session-2-on-scrimba-the-art-of-troubleshooting-is-still-not-mastered-pef)
+- [Everybody Knows That Drizzle is the Word!](https://dev.to/rubenoalvarado/everybody-knows-that-drizzle-is-the-word-5f75)
+- [My npm monitoring flagged SANDWORM_MODE packages -&gt; looking for expert input](https://dev.to/dnszlsk/my-npm-monitoring-flagged-sandwormmode-packages-looking-for-expert-input-681)
+- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-e1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
