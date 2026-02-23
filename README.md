@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Kaomoji Still Matter in 2026: A Developer&#39;s Guide to Japanese Text Emoticons](https://dev.to/kaomojiya/why-kaomoji-still-matter-in-2026-a-developers-guide-to-japanese-text-emoticons-3b2o)
-- [Quebec Home Care Tax Credit: A Technical Deep-Dive for Developers and Caregivers 🏥💰](https://dev.to/scott_coristine_e5cedaac4/quebec-home-care-tax-credit-a-technical-deep-dive-for-developers-and-caregivers-32e8)
-- [I Built a Usage-Based Billing Engine From Scratch — Here&#39;s How It Works](https://dev.to/ajithmanmu/i-built-a-usage-based-billing-engine-from-scratch-heres-how-it-works-2l58)
-- [It’s Not Vibe Coding. It’s Just Coding.](https://dev.to/behruamm/its-not-vibe-coding-its-just-coding-34gp)
-- [The History of Art: Preventing Generic Output](https://dev.to/wabisabi/the-history-of-art-preventing-generic-output-48cp)
+- [Authentication in MCP: What 518 Production Servers Actually Do](https://dev.to/kai_security_ai/authentication-in-mcp-what-518-production-servers-actually-do-2a63)
+- [Running OpenClaw on NVIDIA Jetson Thor with Docker Model Runner: A Complete Guide](https://dev.to/ajeetraina/running-openclaw-on-nvidia-jetson-thor-with-docker-model-runner-a-complete-guide-5162)
+- [Why GitOps Doesn&#39;t Work at Scale &lpar;and What to Do Instead&rpar;](https://dev.to/jsbroks/why-gitops-doesnt-work-at-scale-and-what-to-do-instead-2p91)
+- [MLB Bat Tracking Dataset &lpar;2024-2025&rpar;](https://dev.to/yasumorishima/mlb-bat-tracking-dataset-2024-2025-34hc)
+- [How I Fixed the Hashnode GraphQL API Stale Cache Bug &lpar;Stellate CDN&rpar;](https://dev.to/highcenburg/how-i-fixed-the-hashnode-graphql-api-stale-cache-bug-stellate-cdn-koh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
