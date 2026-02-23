@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free QR Code Generator - My First Web Project](https://dev.to/irfan_saudiawala_f72324f/i-built-a-free-qr-code-generator-my-first-web-project-165o)
-- [Can You Take Me Into Your Brain?](https://dev.to/soumia_g_9dc322fc4404cecd/can-you-take-me-into-your-brain-1n44)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2e0k)
-- [Your Own AI Assistant: Welcome to the New World of Work](https://dev.to/subprime2010/your-own-ai-assistant-welcome-to-the-new-world-of-work-3pbo)
-- [Introducing EnvGuard: Catch .env Mistakes Before They Break Your App](https://dev.to/deyemie/introducing-envguard-catch-env-mistakes-before-they-break-your-app-32mg)
+- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here&#39;s What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
+- [Simple random search provides a competitive approach to reinforcement learning](https://dev.to/paperium/simple-random-search-provides-a-competitive-approach-to-reinforcement-learning-26ff)
+- [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3)
+- [How We Documented 95 API Endpoints with OpenAPI and Scalar](https://dev.to/alexneamtu/how-we-documented-95-api-endpoints-with-openapi-and-scalar-474i)
+- [🐜 Ant Colony Optimization for CVRP &lpar;Open Source&rpar;](https://dev.to/onrubik/ant-colony-optimization-for-cvrp-open-source-1jm9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
