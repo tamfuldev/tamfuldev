@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Changed How I Write Software. Here&#39;s My Setup.](https://dev.to/klement_gunndu/claude-code-changed-how-i-write-software-heres-my-setup-1nan)
-- [Why Your AI Agent Forgets Everything &lpar;And How to Fix It&rpar;](https://dev.to/klement_gunndu/why-your-ai-agent-forgets-everything-and-how-to-fix-it-2gj8)
-- [Building a RAG pipeline with Kreuzberg and LangChain](https://dev.to/kreuzberg/building-a-rag-pipeline-with-kreuzberg-and-langchain-3gj2)
-- [Why image generation pipelines still fail to match intent - and how to stop losing control](https://dev.to/azimkhan72/why-image-generation-pipelines-still-fail-to-match-intent-and-how-to-stop-losing-control-26dk)
-- [Do We Even Need Modals?](https://dev.to/egregor2011/do-we-even-need-modals-3jaa)
+- [GitHub热门项目: visual-explainer](https://dev.to/liu5580a/githubre-men-xiang-mu-visual-explainer-1pmo)
+- [What Are Methods in Java? Syntax, Types &amp; Use Cases](https://dev.to/naveenkumar1/what-are-methods-in-java-syntax-types-use-cases-196n)
+- [Fast PDF Generation API: A Native Puppeteer Alternative](https://dev.to/srijith/fast-pdf-generation-api-a-native-puppeteer-alternative-43n1)
+- [We built a self-evolving AI. Then we evolved it ourselves.](https://dev.to/rsdouglas/we-built-a-self-evolving-ai-then-we-evolved-it-ourselves-33do)
+- [Your AI Product Is Not A Real Business](https://dev.to/brunellyai/your-ai-product-is-not-a-real-business-4knn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
