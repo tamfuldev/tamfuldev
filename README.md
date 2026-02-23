@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Agents for Software Engineers](https://dev.to/arsenikavalchuk/coding-agents-for-software-engineers-73p)
-- [341 Malicious AI Agent Skills, 1.5M Leaked Tokens — I Built the Fix](https://dev.to/ariangogani/341-malicious-ai-agent-skills-15m-leaked-tokens-i-built-the-fix-161c)
-- [Accessibility Tooling for Agentic Coding Loops](https://dev.to/cameron-accesslint/accessibility-tooling-for-agentic-coding-loops-5b1h)
-- [AI Agents in production: Why guardrails fail and what actually works](https://dev.to/patrick_joubert_428bd9bc3/ai-agents-in-production-why-guardrails-fail-and-what-actually-works-144p)
-- [I built a free football prediction platform for World Cup 2026 — here&#39;s the stack](https://dev.to/rastipunk/i-built-a-free-football-prediction-platform-for-world-cup-2026-heres-the-stack-nhk)
+- [Why Kaomoji Still Matter in 2026: A Developer&#39;s Guide to Japanese Text Emoticons](https://dev.to/kaomojiya/why-kaomoji-still-matter-in-2026-a-developers-guide-to-japanese-text-emoticons-3b2o)
+- [Quebec Home Care Tax Credit: A Technical Deep-Dive for Developers and Caregivers 🏥💰](https://dev.to/scott_coristine_e5cedaac4/quebec-home-care-tax-credit-a-technical-deep-dive-for-developers-and-caregivers-32e8)
+- [I Built a Usage-Based Billing Engine From Scratch — Here&#39;s How It Works](https://dev.to/ajithmanmu/i-built-a-usage-based-billing-engine-from-scratch-heres-how-it-works-2l58)
+- [It’s Not Vibe Coding. It’s Just Coding.](https://dev.to/behruamm/its-not-vibe-coding-its-just-coding-34gp)
+- [The History of Art: Preventing Generic Output](https://dev.to/wabisabi/the-history-of-art-preventing-generic-output-48cp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
