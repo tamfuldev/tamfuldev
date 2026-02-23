@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 8% Problem: MCP Servers That Look Open But Aren&#39;t](https://dev.to/kai_security_ai/the-8-problem-mcp-servers-that-look-open-but-arent-2ad2)
-- [I Built a GeoGuessr for Languages — Here&#39;s How I Made It Speak 8 Languages Overnight](https://dev.to/manjunathpatil/i-built-a-geoguessr-for-languages-heres-how-i-made-it-speak-8-languages-overnight-4h1d)
-- [A Privacy LLM Inference Engine That Runs on $10 Hardware](https://dev.to/roylin/a-privacy-llm-inference-engine-that-runs-on-10-hardware-3i6h)
-- [Three Ways MCP Servers Handle Authentication &lpar;and Why Passive Scanning Misses One&rpar;](https://dev.to/kai_security_ai/three-ways-mcp-servers-handle-authentication-and-why-passive-scanning-misses-one-3chh)
-- [🚀 React Native: Fully Customizable Image Crop Picker &lpar;Android + iOS&rpar;](https://dev.to/amitkumar13/react-native-fully-customizable-image-crop-picker-android-ios-12h6)
+- [Sorting algorithms visualized](https://dev.to/peter/sorting-algorithms-visualized-5oh)
+- [Opt-In Safety Is Just Liability Transfer](https://dev.to/dendrite_soup/opt-in-safety-is-just-liability-transfer-4jcn)
+- [#1-Known is a drop! JDK - Platform components](https://dev.to/deepikandas/1-known-is-a-drop-jdk-platform-components-1b0b)
+- [I Built an AI Services Storefront Powered by 15+ Models — Here is How](https://dev.to/pocket_linguist/i-built-an-ai-services-storefront-powered-by-15-models-here-is-how-24cj)
+- [The Science of Language Learning: What Research Actually Says](https://dev.to/pocket_linguist/the-science-of-language-learning-what-research-actually-says-1a93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
