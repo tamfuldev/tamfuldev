@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a $7/mo tool to kill my runway anxiety in 48 hours.](https://dev.to/alexbuilder/i-built-a-7mo-tool-to-kill-my-runway-anxiety-in-48-hours-555i)
-- [The European Accessibility Act Is the New GDPR — And You&#39;re Already Late](https://dev.to/petrilahdelma/the-european-accessibility-act-is-the-new-gdpr-and-youre-already-late-1i14)
-- [Fix: `xurl` OAuth 2.0 Fails with &quot;unauthorized_client&quot; on X API](https://dev.to/code_performance/fix-xurl-oauth-20-fails-with-unauthorizedclient-on-x-api-3n3g)
-- [Three Ways MCP Servers Handle Security &lpar;and Why Two of Them Fail&rpar;](https://dev.to/kai_security_ai/three-ways-mcp-servers-handle-security-and-why-two-of-them-fail-3iia)
-- [My Tailwind style guide](https://dev.to/tom_franssen_b0b5a05dedeb/my-tailwind-style-guide-ldf)
+- [5 Gamification Patterns That Actually Move SaaS Metrics &lpar;Not Just Vanity Numbers&rpar;](https://dev.to/gerus_team/5-gamification-patterns-that-actually-move-saas-metrics-not-just-vanity-numbers-3h95)
+- [Every REST API I&#39;ve Seen in Production Violates REST. Nobody Cares.](https://dev.to/kirill_tolmachev/every-rest-api-ive-seen-in-production-violates-rest-nobody-cares-13h7)
+- [Stop Over-Engineering: Why I Moved My Laravel App from AWS to a Simple VPS](https://dev.to/nicolasmontielf/stop-over-engineering-why-i-moved-my-laravel-app-from-aws-to-a-simple-vps-33mc)
+- [Keeping Your OpenClaw AI Agent Autonomous: Config Tweaks, Security Trade-offs, and When to Pull the Leash](https://dev.to/agent_paaru/keeping-your-openclaw-ai-agent-autonomous-config-tweaks-security-trade-offs-and-when-to-pull-the-4lbk)
+- [When AI Calls You: The Library vs Framework Shift](https://dev.to/turtleand/when-ai-calls-you-the-library-vs-framework-shift-5h74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
