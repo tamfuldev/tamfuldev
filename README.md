@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Question of the Day #21 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-21-talkoverflow-bc4)
-- [What is an Interpretable LLM and Why It Matters?](https://dev.to/elara1/what-is-an-interpretable-llm-and-why-it-matters-mfk)
-- [Markdown pages, are they a good solution?](https://dev.to/xwero/markdown-pages-are-they-a-good-solution-154a)
-- [Mastering Kubernetes Security: Essential Practices for DevSecOps](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-kubernetes-security-essential-practices-for-devsecops-4a3k)
-- [How to Deploy ONNX Models in Existing .NET Workflows](https://dev.to/arnasoftechdev/how-to-deploy-onnx-models-in-existing-net-workflows-443o)
+- [Why /bootstrap should be the first Command in every Agent session](https://dev.to/cleverhoods/why-bootstrap-should-be-the-first-command-in-every-agent-session-4jg2)
+- [Exposing Legacy Applications](https://dev.to/trevbee55/exposing-legacy-application-features-to-the-world-of-agentic-ai-2c6l)
+- [How to Send Contact Form Submissions to WhatsApp &lpar;No Backend Required&rpar;](https://dev.to/joe_seabrook_0f1e8fc0b720/how-to-send-contact-form-submissions-to-whatsapp-no-backend-required-35c7)
+- [Kubernetes Cost Optimization: The Hidden Cloud Leak Most Teams Ignore](https://dev.to/squareops/kubernetes-cost-optimization-the-hidden-cloud-leak-most-teams-ignore-1h22)
+- [How I Built a CSV Data Cleaner in 4 Days &lpar;Python Beginner Working Project&rpar;](https://dev.to/jaber17/how-i-built-a-csv-data-cleaner-in-4-days-python-beginner-working-project-2bck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
