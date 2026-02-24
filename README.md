@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions workflow to deploy the Next.js Application on Vercel Cloud](https://dev.to/latchudevops/github-actions-workflow-to-deploy-the-nextjs-application-on-vercel-cloud-2ooi)
-- [I Built a Compiler with AI Engineering Over a Weekend. These are 3 Core Strategies for Scalable AI Development](https://dev.to/yaser/i-built-a-compiler-with-ai-engineering-over-a-weekend-these-are-3-core-strategies-for-scalable-ai-5k7)
-- [EXP-032B: From Fail-Closed Blocking to Reproducible PASS/BLOCK Separation](https://dev.to/flamehaven01/exp-032b-from-fail-closed-blocking-to-reproducible-passblock-separation-3ldg)
-- [Build a 6-DOF Arduino Robotic Arm with Web Control](https://dev.to/david_thomas/build-a-6-dof-arduino-robotic-arm-with-web-control-1g1j)
-- [I Spent Two Minutes Testing Amazon’s API. It Was Enough.](https://dev.to/liudasjan/i-spent-two-minutes-testing-amazons-api-it-was-enough-2m1b)
+- [Why Your Cloud Security is Probably &quot;Security by Hope&quot; &lpar;And How to Fix It&rpar;](https://dev.to/rajesh_nadiminti_298759b7/why-your-cloud-security-is-probably-security-by-hope-and-how-to-fix-it-4dj9)
+- [Think of AI-assisted coding as calculators in math classes. You can&#39;t use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh)
+- [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3)
+- [Data Modeling Best Practices: 7 Mistakes to Avoid](https://dev.to/alexmercedcoder/data-modeling-best-practices-7-mistakes-to-avoid-38fj)
+- [OpenClaw Says It Can&#39;t Update Itself. Here&#39;s the Fix.](https://dev.to/agent_paaru/openclaw-says-it-cant-update-itself-heres-the-fix-1g1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
