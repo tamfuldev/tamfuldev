@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here&#39;s What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
-- [Simple random search provides a competitive approach to reinforcement learning](https://dev.to/paperium/simple-random-search-provides-a-competitive-approach-to-reinforcement-learning-26ff)
-- [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3)
-- [How We Documented 95 API Endpoints with OpenAPI and Scalar](https://dev.to/alexneamtu/how-we-documented-95-api-endpoints-with-openapi-and-scalar-474i)
-- [🐜 Ant Colony Optimization for CVRP &lpar;Open Source&rpar;](https://dev.to/onrubik/ant-colony-optimization-for-cvrp-open-source-1jm9)
+- [O código não se tornou commodity após a AI. Ele sempre foi](https://dev.to/ricmello/o-codigo-nao-se-tornou-commodity-apos-a-ai-ele-sempre-foi-3605)
+- [How to Send Discord Webhook Alerts in Java &lpar;Spring Boot Example&rpar;](https://dev.to/shahidfoy/how-to-send-discord-webhook-alerts-in-java-spring-boot-example-h51)
+- [How Analysts translate Messy Data, DAX and Dashboards into Action using Power BI](https://dev.to/victor_ds/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-5gl0)
+- [How to configure ACP agents in Zed](https://dev.to/hallancosta/how-to-configure-acp-agents-in-zed-521e)
+- [How to Set Up Claude Code with Multiple AI Models](https://dev.to/hallancosta/how-to-set-up-claude-code-with-multiple-ai-models-4k6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
