@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [6 Mistakes Developers Make When Deploying Generative AI on AWS &lpar;And How to Fix Them&rpar;](https://dev.to/saif_urrahman/6-mistakes-developers-make-when-deploying-generative-ai-on-aws-and-how-to-fix-them-36od)
-- [What I See When 250 AI Agents Connect to My MCP Security Scanner](https://dev.to/kai_security_ai/what-i-see-when-250-ai-agents-connect-to-my-mcp-security-scanner-55dm)
-- [Containerize and Run an e-commerce based application in AWS EKS cluster with all best practices &lpar;Part - 6&rpar;](https://dev.to/nandan_007/containerize-and-run-an-e-commerce-based-application-in-aws-eks-cluster-with-all-best-practices-151p)
-- [Deep Dive into Array.reduce&lpar;&rpar;: From Interview Questions to Design Thinking](https://dev.to/yuki-uix/deep-dive-into-arrayreduce-from-interview-questions-to-design-thinking-15ih)
-- [🚀 Building a Cloud-Native Microservices Voting System on AWS using Kubernetes &lpar;Kind&rpar; &amp; Argo CD](https://dev.to/yash_sonawane25/building-a-cloud-native-microservices-voting-system-on-aws-using-kubernetes-kind-argo-cd-5hdh)
+- [Javascript Question of the Day #21 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-21-talkoverflow-bc4)
+- [What is an Interpretable LLM and Why It Matters?](https://dev.to/elara1/what-is-an-interpretable-llm-and-why-it-matters-mfk)
+- [Markdown pages, are they a good solution?](https://dev.to/xwero/markdown-pages-are-they-a-good-solution-154a)
+- [Mastering Kubernetes Security: Essential Practices for DevSecOps](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-kubernetes-security-essential-practices-for-devsecops-4a3k)
+- [How to Deploy ONNX Models in Existing .NET Workflows](https://dev.to/arnasoftechdev/how-to-deploy-onnx-models-in-existing-net-workflows-443o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
