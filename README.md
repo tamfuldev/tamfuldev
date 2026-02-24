@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Voight-Kampff for Agents](https://dev.to/rook_damon/voight-kampff-for-agents-23mh)
-- [実戦で鍛えた 112 の Claude Code Skills — 何時間もかけたバグ修正を、あなたは繰り返さなくていい](https://dev.to/stklen/shi-zhan-deduan-eta-112-no-claude-code-skills-he-shi-jian-mokaketabaguxiu-zheng-wo-anatahazao-rifan-sanakuteii-19ei)
-- [112 個實戰淬煉的 Claude Code Skills — 每個讓我踩坑數小時的 Bug 修復，讓你不必再踩](https://dev.to/stklen/112-ge-shi-zhan-cui-lian-de-claude-code-skills-mei-ge-rang-wo-cai-keng-shu-xiao-shi-de-bug-xiu-fu-rang-ni-bu-bi-zai-cai-2dcn)
-- [Building a Javascript &quot;Hello,World&quot; MCP server in 2026](https://dev.to/chuckm/building-a-javascript-helloworld-mcp-server-in-2026-2lbc)
-- [🚀 Electron Desktop Apps with Next.js &amp; Tailwind CSS v4: The Missing &quot;No-Bloat&quot; Boilerplate](https://dev.to/sudhanshuambastha/electron-desktop-apps-with-nextjs-tailwind-css-v4-the-missing-no-bloat-boilerplate-3peh)
+- [Benchmark AI Agents: A Data-Driven Guide for ML Engineers](https://dev.to/klement_gunndu/benchmark-ai-agents-a-data-driven-guide-for-ml-engineers-5c11)
+- [Unlock Dynamic String Processing in PHP with Risma](https://dev.to/nabeghe/unlock-dynamic-string-processing-in-php-with-risma-5fim)
+- [How to sort an array of objects in JavaScript?](https://dev.to/theme_selection/how-to-sort-an-array-of-objects-in-javascript-49d3)
+- [I Built My Own Self-Hosted File Sharing Server Instead of Alts; Here’s Why](https://dev.to/iconical/i-built-my-own-self-hosted-file-sharing-server-instead-of-alts-heres-why-g93)
+- [Cronark: Lightweight Cron-Based Job Scheduling for PHP](https://dev.to/nabeghe/cronark-lightweight-cron-based-job-scheduling-for-php-1i9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
