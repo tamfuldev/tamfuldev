@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source AI Tool That Turns Any Codebase Into Deep Engineering Documentation &lpar;Runs 100% Locally&rpar;](https://dev.to/abdulkareemtpm/i-built-an-open-source-ai-tool-that-turns-any-codebase-into-deep-engineering-documentation-runs-5h89)
-- [Daily Challenge #12 : The “Invisible Inputs” Form 🧾](https://dev.to/bingkahu/daily-challenge-12-the-invisible-inputs-form-4c4c)
-- [Strengthening OAuth 2.0 with FAPI 2.0](https://dev.to/auth0/strengthening-oauth-20-with-fapi-20-oea)
-- [Vibe coding React Color Picker using Google Antigravity](https://dev.to/dakshim/vibe-coding-react-color-picker-using-google-antigravity-198m)
-- [The Fourth Layer: When MCP Attacks Move Into Your IDE](https://dev.to/kai_security_ai/the-fourth-layer-when-mcp-attacks-move-into-your-ide-pn0)
+- [Optimization Without Philosophy Is Just Refactoring](https://dev.to/paul_desai_ff9e1e7b5605ef/optimization-without-philosophy-is-just-refactoring-117d)
+- [Predicting Industrial Heartbeats: Building a RAG Pipeline for Mechanical RUL with Elastic](https://dev.to/joyboy_07/predicting-industrial-heartbeats-building-a-rag-pipeline-for-mechanical-rul-with-elastic-bbk)
+- [OpenClaw: The AI Agent That Actually Does Stuff - Part 1](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-1-51n4)
+- [App Groups Are Not Secure by Default - Here&#39;s How to Fix That](https://dev.to/konstantin_shkurko/app-groups-are-not-secure-by-default-heres-how-to-fix-that-1ii8)
+- [Barcode Scanning on iOS: The Missing Web API and a WebAssembly Solution](https://dev.to/ilhannegis/barcode-scanning-on-ios-the-missing-web-api-and-a-webassembly-solution-2in2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
