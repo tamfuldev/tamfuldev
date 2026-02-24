@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Stripe + Next.js &lpar;2026 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-stripe-nextjs-2026-edition-2f33)
-- [How I Troubleshot a KVM Memory Issue That Led to Swap &amp; High CPU &lpar;Runbook + Real Scenario&rpar;](https://dev.to/pilgrim2go/how-i-troubleshot-a-kvm-memory-issue-that-led-to-swap-high-cpu-runbook-real-scenario-5124)
-- [Ten CVEs Later: Why MCP Developers Keep Making the Same Mistake](https://dev.to/kai_security_ai/ten-cves-later-why-mcp-developers-keep-making-the-same-mistake-3nid)
-- [I Built a Simple EMI Calculator Using Vanilla JavaScript](https://dev.to/yuvronixstudio/i-built-a-simple-emi-calculator-using-vanilla-javascript-74e)
-- [array က ram ပေါ်မှာ ဒေတာ တွေ ဘယ်လို သိမ်းလဲ?](https://dev.to/mytc/array-k-ram-pemaa-dettaa-tte-bhyliu-simlai-50dh)
+- [I Built an Open-Source AI Tool That Turns Any Codebase Into Deep Engineering Documentation &lpar;Runs 100% Locally&rpar;](https://dev.to/abdulkareemtpm/i-built-an-open-source-ai-tool-that-turns-any-codebase-into-deep-engineering-documentation-runs-5h89)
+- [Daily Challenge #12 : The “Invisible Inputs” Form 🧾](https://dev.to/bingkahu/daily-challenge-12-the-invisible-inputs-form-4c4c)
+- [Strengthening OAuth 2.0 with FAPI 2.0](https://dev.to/auth0/strengthening-oauth-20-with-fapi-20-oea)
+- [Vibe coding React Color Picker using Google Antigravity](https://dev.to/dakshim/vibe-coding-react-color-picker-using-google-antigravity-198m)
+- [The Fourth Layer: When MCP Attacks Move Into Your IDE](https://dev.to/kai_security_ai/the-fourth-layer-when-mcp-attacks-move-into-your-ide-pn0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
