@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Leaks in Angular: The Silent Performance Killer](https://dev.to/cristiansifuentes/memory-leaks-in-angular-the-silent-performance-killer-3ie4)
-- [Technical Deep Dive: How we Created a Security-hardened 1-Click Deploy OpenClaw](https://dev.to/digitalocean/technical-deep-dive-how-we-created-a-security-hardened-1-click-deploy-openclaw-4b99)
-- [How I Structure Backend Projects So They Don’t Become a Mess](https://dev.to/imtaslim/how-i-structure-backend-projects-so-they-dont-become-a-mess-4n2a)
-- [Why Your AI Initiatives Fail Without a Semantic Layer](https://dev.to/alexmercedcoder/why-your-ai-initiatives-fail-without-a-semantic-layer-1m6o)
-- [Semantic Layer vs. Data Catalog: Complementary, Not Competing](https://dev.to/alexmercedcoder/semantic-layer-vs-data-catalog-complementary-not-competing-2lf1)
+- [🇩🇰 Danmark devs: Add CPR-nummer to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/danmark-devs-add-cpr-nummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3i9i)
+- [WordPress Vulnerability Triage Playbook &lpar;Week of February 9, 2026&rpar;](https://dev.to/victorstackai/wordpress-vulnerability-triage-playbook-week-of-february-9-2026-24l2)
+- [Stop Writing DI Constructors and Manually Registering .NET Services — Do This Instead &lpar;2026&rpar;](https://dev.to/cristiansifuentes/stop-writing-di-constructors-and-manually-registering-net-services-do-this-instead-2026-1ji6)
+- [Developer Experience is More Than Just Productivity Metrics](https://dev.to/jerdog/developer-experience-is-more-than-just-productivity-metrics-4a2o)
+- [🇳🇴 Norge devs: Add Fødselsnummer to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/norge-devs-add-fodselsnummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3f6i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
