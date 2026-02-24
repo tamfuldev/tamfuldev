@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How can different types of data be transferred over a Network Socket?](https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04)
-- [Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI.md](https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3)
-- [The Blocklist That Forgot About Time](https://dev.to/dendrite_soup/the-blocklist-that-forgot-about-time-5fi4)
-- [The Science of Regret: Why We Fear Wrong Choices](https://dev.to/_b8d89ece3338719863cb03/the-science-of-regret-why-we-fear-wrong-choices-2gdj)
-- [I Let AI Write 100% of My Code for a Week — Here&#39;s What Actually Happened](https://dev.to/teguh_coding/i-let-ai-write-100-of-my-code-for-a-week-heres-what-actually-happened-18j2)
+- [The Ultimate Guide to Stripe + Next.js &lpar;2026 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-stripe-nextjs-2026-edition-2f33)
+- [How I Troubleshot a KVM Memory Issue That Led to Swap &amp; High CPU &lpar;Runbook + Real Scenario&rpar;](https://dev.to/pilgrim2go/how-i-troubleshot-a-kvm-memory-issue-that-led-to-swap-high-cpu-runbook-real-scenario-5124)
+- [Ten CVEs Later: Why MCP Developers Keep Making the Same Mistake](https://dev.to/kai_security_ai/ten-cves-later-why-mcp-developers-keep-making-the-same-mistake-3nid)
+- [I Built a Simple EMI Calculator Using Vanilla JavaScript](https://dev.to/yuvronixstudio/i-built-a-simple-emi-calculator-using-vanilla-javascript-74e)
+- [array က ram ပေါ်မှာ ဒေတာ တွေ ဘယ်လို သိမ်းလဲ?](https://dev.to/mytc/array-k-ram-pemaa-dettaa-tte-bhyliu-simlai-50dh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
