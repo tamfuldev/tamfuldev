@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Export Glasp Highlights with GitHub Actions &lpar;Free, No Server&rpar;](https://dev.to/glasp/how-to-export-glasp-highlights-with-github-actions-free-no-server-1oei)
-- [Solved: GitHub is “postponing” self-hosted GHA pricing change](https://dev.to/techresolve/solved-github-is-postponing-self-hosted-gha-pricing-change-2g1h)
-- [Identity Is the New SOC: Why Security Monitoring Is Shifting to IAM](https://dev.to/sunnysinh_a/identity-is-the-new-soc-why-security-monitoring-is-shifting-to-iam-302)
-- [Stop Using .any? the Wrong Way in Rails](https://dev.to/pavelmyslik/stop-using-any-the-wrong-way-in-rails-429e)
-- [Undefined vs Not Defined](https://dev.to/ananya_mohanta_b44a988e76/undefined-and-not-defined-1fp5)
+- [Assertions vs pre and post scripts](https://dev.to/nikolas_dimitroulakis_d23/assertions-vs-pre-and-post-scripts-5b6m)
+- [I Asked 4 AIs to Judge Each Other&#39;s Code](https://dev.to/yurukusa/i-asked-4-ais-to-judge-each-others-code-5c2a)
+- [Angular Signals Explained Like a Senior Developer &lpar;Angular 21 Perspective&rpar;](https://dev.to/cristiansifuentes/angular-signals-explained-like-a-senior-developer-angular-21-perspective-2c0p)
+- [🚀 WebDevDaily Challenges – Leveling Up with Real Frontend Projects](https://dev.to/kyl67899/webdevdaily-challenges-leveling-up-with-real-frontend-projects-487m)
+- [SUBNETTING EXPLAINED](https://dev.to/manoj_kumarvemula_31e045/subnetting-explained-5hl9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
