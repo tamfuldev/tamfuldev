@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Travel Budgeting Tool After Planning a Japan Trip](https://dev.to/sebastian_alexis_187cf2a4/building-an-ai-travel-budgeting-tool-after-planning-a-japan-trip-2jjl)
-- [Build a Private Skills Registry for OpenClaw](https://dev.to/chwu1946/build-a-private-skills-registry-for-openclaw-2cm5)
-- [Resisting the Eye of the Machine: A Reflection on AI and Data Ownership](https://dev.to/calganaygun/resisting-the-eye-of-the-machine-a-reflection-on-ai-and-data-ownership-510m)
-- [Monitoring an ML Pipeline in Production: Anatomy of an Open-Source Stack](https://dev.to/erythix_6d20050c4f1039b32/monitoring-an-ml-pipeline-in-production-anatomy-of-an-open-source-stack-55ik)
-- [Building a Load Balancer from Scratch on a $20 VPS](https://dev.to/abustamam/building-a-load-balancer-from-scratch-on-a-20-vps-4fjb)
+- [Memory Leaks in Angular: The Silent Performance Killer](https://dev.to/cristiansifuentes/memory-leaks-in-angular-the-silent-performance-killer-3ie4)
+- [Technical Deep Dive: How we Created a Security-hardened 1-Click Deploy OpenClaw](https://dev.to/digitalocean/technical-deep-dive-how-we-created-a-security-hardened-1-click-deploy-openclaw-4b99)
+- [How I Structure Backend Projects So They Don’t Become a Mess](https://dev.to/imtaslim/how-i-structure-backend-projects-so-they-dont-become-a-mess-4n2a)
+- [Why Your AI Initiatives Fail Without a Semantic Layer](https://dev.to/alexmercedcoder/why-your-ai-initiatives-fail-without-a-semantic-layer-1m6o)
+- [Semantic Layer vs. Data Catalog: Complementary, Not Competing](https://dev.to/alexmercedcoder/semantic-layer-vs-data-catalog-complementary-not-competing-2lf1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
