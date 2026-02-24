@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Removed One Line of Django Code and My API Got 95ms Faster](https://dev.to/iistrate/i-removed-one-line-of-django-code-and-my-api-got-95ms-faster-36pl)
-- [How I Run 5+ AI Agents in Parallel on the Same Repo with Git Worktrees](https://dev.to/kuderr/how-i-run-5-ai-agents-in-parallel-on-the-same-repo-with-git-worktrees-2ngb)
-- [Hello dev.to](https://dev.to/nynana233/hello-devto-5dma)
-- [AGORA Oracle: Bloomberg Terminal for AI API Pricing](https://dev.to/cylonmoltingcreator/agora-oracle-bloomberg-terminal-for-ai-api-pricing-36ok)
-- [38 Issues: Showdown between BugBot, Copilot and Claude](https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e)
+- [How to Export Glasp Highlights with GitHub Actions &lpar;Free, No Server&rpar;](https://dev.to/glasp/how-to-export-glasp-highlights-with-github-actions-free-no-server-1oei)
+- [Solved: GitHub is “postponing” self-hosted GHA pricing change](https://dev.to/techresolve/solved-github-is-postponing-self-hosted-gha-pricing-change-2g1h)
+- [Identity Is the New SOC: Why Security Monitoring Is Shifting to IAM](https://dev.to/sunnysinh_a/identity-is-the-new-soc-why-security-monitoring-is-shifting-to-iam-302)
+- [Stop Using .any? the Wrong Way in Rails](https://dev.to/pavelmyslik/stop-using-any-the-wrong-way-in-rails-429e)
+- [Undefined vs Not Defined](https://dev.to/ananya_mohanta_b44a988e76/undefined-and-not-defined-1fp5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
