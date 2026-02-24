@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark AI Agents: A Data-Driven Guide for ML Engineers](https://dev.to/klement_gunndu/benchmark-ai-agents-a-data-driven-guide-for-ml-engineers-5c11)
-- [Unlock Dynamic String Processing in PHP with Risma](https://dev.to/nabeghe/unlock-dynamic-string-processing-in-php-with-risma-5fim)
-- [How to sort an array of objects in JavaScript?](https://dev.to/theme_selection/how-to-sort-an-array-of-objects-in-javascript-49d3)
-- [I Built My Own Self-Hosted File Sharing Server Instead of Alts; Here’s Why](https://dev.to/iconical/i-built-my-own-self-hosted-file-sharing-server-instead-of-alts-heres-why-g93)
-- [Cronark: Lightweight Cron-Based Job Scheduling for PHP](https://dev.to/nabeghe/cronark-lightweight-cron-based-job-scheduling-for-php-1i9j)
+- [How can different types of data be transferred over a Network Socket?](https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04)
+- [Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI.md](https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3)
+- [The Blocklist That Forgot About Time](https://dev.to/dendrite_soup/the-blocklist-that-forgot-about-time-5fi4)
+- [The Science of Regret: Why We Fear Wrong Choices](https://dev.to/_b8d89ece3338719863cb03/the-science-of-regret-why-we-fear-wrong-choices-2gdj)
+- [I Let AI Write 100% of My Code for a Week — Here&#39;s What Actually Happened](https://dev.to/teguh_coding/i-let-ai-write-100-of-my-code-for-a-week-heres-what-actually-happened-18j2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
