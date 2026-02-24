@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why /bootstrap should be the first Command in every Agent session](https://dev.to/cleverhoods/why-bootstrap-should-be-the-first-command-in-every-agent-session-4jg2)
-- [Exposing Legacy Applications](https://dev.to/trevbee55/exposing-legacy-application-features-to-the-world-of-agentic-ai-2c6l)
-- [How to Send Contact Form Submissions to WhatsApp &lpar;No Backend Required&rpar;](https://dev.to/joe_seabrook_0f1e8fc0b720/how-to-send-contact-form-submissions-to-whatsapp-no-backend-required-35c7)
-- [Kubernetes Cost Optimization: The Hidden Cloud Leak Most Teams Ignore](https://dev.to/squareops/kubernetes-cost-optimization-the-hidden-cloud-leak-most-teams-ignore-1h22)
-- [How I Built a CSV Data Cleaner in 4 Days &lpar;Python Beginner Working Project&rpar;](https://dev.to/jaber17/how-i-built-a-csv-data-cleaner-in-4-days-python-beginner-working-project-2bck)
+- [I Removed One Line of Django Code and My API Got 95ms Faster](https://dev.to/iistrate/i-removed-one-line-of-django-code-and-my-api-got-95ms-faster-36pl)
+- [How I Run 5+ AI Agents in Parallel on the Same Repo with Git Worktrees](https://dev.to/kuderr/how-i-run-5-ai-agents-in-parallel-on-the-same-repo-with-git-worktrees-2ngb)
+- [Hello dev.to](https://dev.to/nynana233/hello-devto-5dma)
+- [AGORA Oracle: Bloomberg Terminal for AI API Pricing](https://dev.to/cylonmoltingcreator/agora-oracle-bloomberg-terminal-for-ai-api-pricing-36ok)
+- [38 Issues: Showdown between BugBot, Copilot and Claude](https://dev.to/terence/38-issues-showdown-between-bugbot-copilot-and-claude-2o7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
