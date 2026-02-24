@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimization Without Philosophy Is Just Refactoring](https://dev.to/paul_desai_ff9e1e7b5605ef/optimization-without-philosophy-is-just-refactoring-117d)
-- [Predicting Industrial Heartbeats: Building a RAG Pipeline for Mechanical RUL with Elastic](https://dev.to/joyboy_07/predicting-industrial-heartbeats-building-a-rag-pipeline-for-mechanical-rul-with-elastic-bbk)
-- [OpenClaw: The AI Agent That Actually Does Stuff - Part 1](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-1-51n4)
-- [App Groups Are Not Secure by Default - Here&#39;s How to Fix That](https://dev.to/konstantin_shkurko/app-groups-are-not-secure-by-default-heres-how-to-fix-that-1ii8)
-- [Barcode Scanning on iOS: The Missing Web API and a WebAssembly Solution](https://dev.to/ilhannegis/barcode-scanning-on-ios-the-missing-web-api-and-a-webassembly-solution-2in2)
+- [6 Mistakes Developers Make When Deploying Generative AI on AWS &lpar;And How to Fix Them&rpar;](https://dev.to/saif_urrahman/6-mistakes-developers-make-when-deploying-generative-ai-on-aws-and-how-to-fix-them-36od)
+- [What I See When 250 AI Agents Connect to My MCP Security Scanner](https://dev.to/kai_security_ai/what-i-see-when-250-ai-agents-connect-to-my-mcp-security-scanner-55dm)
+- [Containerize and Run an e-commerce based application in AWS EKS cluster with all best practices &lpar;Part - 6&rpar;](https://dev.to/nandan_007/containerize-and-run-an-e-commerce-based-application-in-aws-eks-cluster-with-all-best-practices-151p)
+- [Deep Dive into Array.reduce&lpar;&rpar;: From Interview Questions to Design Thinking](https://dev.to/yuki-uix/deep-dive-into-arrayreduce-from-interview-questions-to-design-thinking-15ih)
+- [🚀 Building a Cloud-Native Microservices Voting System on AWS using Kubernetes &lpar;Kind&rpar; &amp; Argo CD](https://dev.to/yash_sonawane25/building-a-cloud-native-microservices-voting-system-on-aws-using-kubernetes-kind-argo-cd-5hdh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
