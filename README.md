@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SEO Didn&#39;t Die. It Just Got Evicted From Its Own House.](https://dev.to/lizechengnet/seo-didnt-die-it-just-got-evicted-from-its-own-house-2kim)
-- [Rediscovering C++: Building a High-Performance Blog Engine in 2026](https://dev.to/vrannang1/rediscovering-c-building-a-high-performance-blog-engine-in-2026-3gf)
-- [Just learned the Power of Delegates in C#](https://dev.to/jjybaliguat/just-learned-the-power-of-delegates-in-c-4138)
-- [Anthropic Just Told You Who They Are. Believe Them.](https://dev.to/lizechengnet/anthropic-just-told-you-who-they-are-believe-them-4ffe)
-- [10 Practical AI Developer Workflows That Save Hours Every Week &lpar;With Code Examples&rpar;](https://dev.to/cloyouai/10-practical-ai-developer-workflows-that-save-hours-every-week-with-code-examples-2nb)
+- [Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK with LLM-as-a-Judge and GCP Model Armor](https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740)
+- [AWS Lambda Durable Functions on Hexagonal Architecture: The Pattern You’ve Been Looking For](https://dev.to/aws-builders/aws-lambda-durable-functions-on-hexagonal-architecture-the-pattern-youve-been-looking-for-5hne)
+- [3 Free AI-Powered Python APIs - Text Summarizer, Email Validator, Content Generator](https://dev.to/joeyumanito/3-free-ai-powered-python-apis-text-summarizer-email-validator-content-generator-24h6)
+- [Graceful Exit Strategies: How to Fail at a Project Without Crashing Your Life](https://dev.to/chandravijayagr/graceful-exit-strategies-how-to-fail-at-a-project-without-crashing-your-life-321i)
+- [Suddenly, everyone cares about code quality.](https://dev.to/james920609/suddenly-everyonecares-about-code-quality-1bn9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
