@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK with LLM-as-a-Judge and GCP Model Armor](https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740)
-- [AWS Lambda Durable Functions on Hexagonal Architecture: The Pattern You’ve Been Looking For](https://dev.to/aws-builders/aws-lambda-durable-functions-on-hexagonal-architecture-the-pattern-youve-been-looking-for-5hne)
-- [3 Free AI-Powered Python APIs - Text Summarizer, Email Validator, Content Generator](https://dev.to/joeyumanito/3-free-ai-powered-python-apis-text-summarizer-email-validator-content-generator-24h6)
-- [Graceful Exit Strategies: How to Fail at a Project Without Crashing Your Life](https://dev.to/chandravijayagr/graceful-exit-strategies-how-to-fail-at-a-project-without-crashing-your-life-321i)
-- [Suddenly, everyone cares about code quality.](https://dev.to/james920609/suddenly-everyonecares-about-code-quality-1bn9)
+- [7 MLOps Projects &lpar;Beginner-Friendly&rpar; That Teach Real Production Skills](https://dev.to/apprecode/7-mlops-projects-beginner-friendly-that-teach-real-production-skills-l2)
+- [When LEO Satellites Join the Broadcast Chain: Real-World Lessons from a Working Engineer &lpar;2026&rpar;](https://dev.to/jason_jacob_dcfc2408b7557/when-leo-satellites-join-the-broadcast-chainreal-world-lessons-from-a-working-engineer-2026-1haf)
+- [Why I&#39;m Not Scared of AI Killing My SaaS &lpar;And What You Should Actually Fear&rpar;](https://dev.to/lmoncany/why-im-not-scared-of-ai-killing-my-saas-and-what-you-should-actually-fear-1f9j)
+- [KEDA &lpar;Kubernetes Event-driven Autoscaling&rpar;](https://dev.to/godofgeeks/keda-kubernetes-event-driven-autoscaling-3e8n)
+- [Catching Breaking API Changes Before Production &lpar;with a Chrome Extension&rpar;](https://dev.to/dev-in-progress/catching-breaking-api-changes-before-production-with-a-chrome-extension-4o1j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
