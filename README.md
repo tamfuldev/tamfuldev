@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI PR reviewer and it already caught bugs I missed](https://dev.to/adamai/i-built-an-ai-pr-reviewer-and-it-already-caught-bugs-i-missed-115p)
-- [Common Table Expressions](https://dev.to/charity_jelimo/common-table-expressions-59bd)
-- [Beyond debug.log: 10 Advanced Logging Patterns for Symfony 7.4](https://dev.to/mattleads/beyond-debuglog-10-advanced-logging-patterns-for-symfony-74-3i27)
-- [I got tired of localhost:3000, so I built a local dev proxy with custom domains and trusted HTTPS](https://dev.to/rbas/i-got-tired-of-localhost3000-so-i-built-a-local-dev-proxy-with-custom-domains-and-trusted-https-1dj6)
-- [Solved: Best certifications to work with DO, vultr or linode?](https://dev.to/techresolve/solved-best-certifications-to-work-with-do-vultr-or-linode-h07)
+- [Cosmos Cloud vs Lazydocker: Compared](https://dev.to/selfhostingsh/cosmos-cloud-vs-lazydocker-compared-1pi2)
+- [The Thieves Who Caught the Thieves](https://dev.to/webdevtodayjason/the-thieves-who-caught-the-thieves-4peo)
+- [Understanding Variables and Data Types in JavaScript](https://dev.to/anoop-rajoriya/understanding-variables-and-data-types-in-javascript-33pd)
+- [Building a Deterministic Batch Icon Pack Generator for Multi-Platform Apps](https://dev.to/bassthermal/building-a-deterministic-batch-icon-pack-generator-for-multi-platform-apps-4in0)
+- [Inside Cloudflare Vinext: a from-scratch Next.js App Router rebuild](https://dev.to/hamza4600/inside-cloudflare-vinext-a-from-scratch-nextjs-app-router-rebuild-3e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
