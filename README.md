@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🇩🇰 Danmark devs: Add CPR-nummer to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/danmark-devs-add-cpr-nummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3i9i)
-- [WordPress Vulnerability Triage Playbook &lpar;Week of February 9, 2026&rpar;](https://dev.to/victorstackai/wordpress-vulnerability-triage-playbook-week-of-february-9-2026-24l2)
-- [Stop Writing DI Constructors and Manually Registering .NET Services — Do This Instead &lpar;2026&rpar;](https://dev.to/cristiansifuentes/stop-writing-di-constructors-and-manually-registering-net-services-do-this-instead-2026-1ji6)
-- [Developer Experience is More Than Just Productivity Metrics](https://dev.to/jerdog/developer-experience-is-more-than-just-productivity-metrics-4a2o)
-- [🇳🇴 Norge devs: Add Fødselsnummer to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/norge-devs-add-fodselsnummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3f6i)
+- [The RISC-V Software Ecosystem](https://dev.to/alpinumblogs/the-risc-v-software-ecosystem-2l24)
+- [I Burned Out as a Developer at 19. Here&#39;s How I Came Back.](https://dev.to/__be2942592/i-burned-out-as-a-developer-at-19-heres-how-i-came-back-4644)
+- [Borgmatic vs Restic: Which Backup Tool to Use?](https://dev.to/selfhostingsh/borgmatic-vs-restic-which-backup-tool-to-use-4bgo)
+- [10 Developer Tools I Used to Swear By &lpar;That I Completely Replaced in 2026&rpar;](https://dev.to/__be2942592/10-developer-tools-i-used-to-swear-by-that-i-completely-replaced-in-2026-57c4)
+- [I Have 47 Unfinished Side Projects. Here&#39;s Why I Don&#39;t Feel Bad About It.](https://dev.to/__be2942592/i-have-47-unfinished-side-projects-heres-why-i-dont-feel-bad-about-it-3g4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
