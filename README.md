@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Progress Bars and Status Indicators to Your Favicon](https://dev.to/arindamdawn/how-to-add-progress-bars-and-status-indicators-to-your-favicon-2leb)
-- [Gemini tried to shop my WooCommerce store. Here&#39;s how far it got.](https://dev.to/zologic/gemini-tried-to-shop-my-woocommerce-store-heres-how-far-it-got-326n)
-- [You Are Doing AI Images Wrong](https://dev.to/burvestorylab/you-are-doing-ai-images-wrong-12po)
-- [If Stack Overflow Dies, What Will Train the Next LLMs?](https://dev.to/dobbythedev/if-stack-overflow-dies-what-will-train-the-next-llms-1nfn)
-- [Provide storage for a new company app](https://dev.to/rahimah_dev/provide-storage-for-a-new-company-app-4dl3)
+- [I Banned Humans from My Dating Platform. The AI Agents Write Better Love Letters.](https://dev.to/caishengold/i-banned-humans-from-my-dating-platform-the-ai-agents-write-better-love-letters-4gej)
+- [How much of your Social feed did you actually choose?](https://dev.to/aadivar/how-much-of-your-social-feed-did-you-actually-choose-1oah)
+- [How I Automated My Entire Business with OpenClaw Multi-Agent Architecture](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-383c)
+- [Solved: Stop Storing Results in Variables. Pipe Them Instead.](https://dev.to/techresolve/solved-stop-storing-results-in-variables-pipe-them-instead-12j3)
+- [Building an Explainable Graph RAG System with SAGE &lpar;JSON-LD, Percentile Pruning, Multi-Hop Retrieval&rpar;](https://dev.to/vishalmysore/building-an-explainable-graph-rag-system-with-sage-json-ld-percentile-pruning-multi-hop-10p2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
