@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Custom API Endpoints: streamlining your architecture](https://dev.to/surrealdb/custom-api-endpoints-streamlining-your-architecture-36oe)
-- [How to Design Reliable Data Pipelines](https://dev.to/alexmercedcoder/how-to-design-reliable-data-pipelines-3kk1)
-- [Exploring Next.js advanced routing and beyond](https://dev.to/shieldstring/exploring-nextjs-advanced-routing-and-beyond-2gki)
-- [Scraping a Website Using a Symfony Console Command &lpar;Clean &amp; Production-Friendly&rpar;](https://dev.to/marvelxy/scraping-a-website-using-a-symfony-console-command-clean-production-friendly-5f2e)
-- [Umbraco testing examples now also for Umbraco 17](https://dev.to/d_inventor/umbraco-testing-examples-now-also-for-umbraco-17-3d5k)
+- [Filling the Unit System: IntegrationUnit, AdapterUnit, and the Full Boot Sequence](https://dev.to/mdreal32/filling-the-unit-system-integrationunit-adapterunit-and-the-full-boot-sequence-25hd)
+- [I Built a Microservice Name Generator Because Naming Things Is Hard 🤖🌱](https://dev.to/mattlewandowski93/i-built-a-microservice-name-generator-because-naming-things-is-hard-503h)
+- [Why We Banned LLMs from Runtime — And What We Do Instead](https://dev.to/fasciarun/why-we-banned-llms-from-runtime-and-what-we-do-instead-7ck)
+- [I Let an AI Agent Become My DevOps Engineer](https://dev.to/aws-builders/i-let-an-ai-agent-become-my-devops-engineer-529)
+- [Curiosity Doesn’t Kill the Engineer](https://dev.to/celestina_dike_2f013c2c7b/curiosity-doesnt-kill-the-engineer-22a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
