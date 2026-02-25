@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Banned Humans from My Dating Platform. The AI Agents Write Better Love Letters.](https://dev.to/caishengold/i-banned-humans-from-my-dating-platform-the-ai-agents-write-better-love-letters-4gej)
-- [How much of your Social feed did you actually choose?](https://dev.to/aadivar/how-much-of-your-social-feed-did-you-actually-choose-1oah)
-- [How I Automated My Entire Business with OpenClaw Multi-Agent Architecture](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-383c)
-- [Solved: Stop Storing Results in Variables. Pipe Them Instead.](https://dev.to/techresolve/solved-stop-storing-results-in-variables-pipe-them-instead-12j3)
-- [Building an Explainable Graph RAG System with SAGE &lpar;JSON-LD, Percentile Pruning, Multi-Hop Retrieval&rpar;](https://dev.to/vishalmysore/building-an-explainable-graph-rag-system-with-sage-json-ld-percentile-pruning-multi-hop-10p2)
+- [I built an AI PR reviewer and it already caught bugs I missed](https://dev.to/adamai/i-built-an-ai-pr-reviewer-and-it-already-caught-bugs-i-missed-115p)
+- [Common Table Expressions](https://dev.to/charity_jelimo/common-table-expressions-59bd)
+- [Beyond debug.log: 10 Advanced Logging Patterns for Symfony 7.4](https://dev.to/mattleads/beyond-debuglog-10-advanced-logging-patterns-for-symfony-74-3i27)
+- [I got tired of localhost:3000, so I built a local dev proxy with custom domains and trusted HTTPS](https://dev.to/rbas/i-got-tired-of-localhost3000-so-i-built-a-local-dev-proxy-with-custom-domains-and-trusted-https-1dj6)
+- [Solved: Best certifications to work with DO, vultr or linode?](https://dev.to/techresolve/solved-best-certifications-to-work-with-do-vultr-or-linode-h07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
