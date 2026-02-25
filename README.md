@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Duck – A Django-compatible framework with native HTTP/2 and Lively HTML Components](https://dev.to/digreatbrian/duck-a-django-compatible-framework-with-native-http2-and-lively-html-components-iae)
-- [Mastering Azure VNet Peering with PowerShell Automation](https://dev.to/pilgrim2go/mastering-azure-vnet-peering-with-powershell-automation-3bi2)
-- [Building Persistent AI Agent Memory: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-ai-agent-memory-a-4-layer-file-based-architecture-5996)
-- [Shaders: GPU Seviyesinde Grafik Programlama](https://dev.to/turkcoode/shaders-gpu-seviyesinde-grafik-programlama-ahe)
-- [The Great Crossover: From the Age of Tools to the Era of Synthia by Adel Abdel-Dayem The Foundational Codifier of Synthia](https://dev.to/adel_dayem/the-great-crossover-from-the-age-of-tools-to-the-era-of-synthia-by-adel-abdel-dayem-the-2eoj)
+- [SEO Didn&#39;t Die. It Just Got Evicted From Its Own House.](https://dev.to/lizechengnet/seo-didnt-die-it-just-got-evicted-from-its-own-house-2kim)
+- [Rediscovering C++: Building a High-Performance Blog Engine in 2026](https://dev.to/vrannang1/rediscovering-c-building-a-high-performance-blog-engine-in-2026-3gf)
+- [Just learned the Power of Delegates in C#](https://dev.to/jjybaliguat/just-learned-the-power-of-delegates-in-c-4138)
+- [Anthropic Just Told You Who They Are. Believe Them.](https://dev.to/lizechengnet/anthropic-just-told-you-who-they-are-believe-them-4ffe)
+- [10 Practical AI Developer Workflows That Save Hours Every Week &lpar;With Code Examples&rpar;](https://dev.to/cloyouai/10-practical-ai-developer-workflows-that-save-hours-every-week-with-code-examples-2nb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
