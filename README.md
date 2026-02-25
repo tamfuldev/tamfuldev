@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Filling the Unit System: IntegrationUnit, AdapterUnit, and the Full Boot Sequence](https://dev.to/mdreal32/filling-the-unit-system-integrationunit-adapterunit-and-the-full-boot-sequence-25hd)
-- [I Built a Microservice Name Generator Because Naming Things Is Hard 🤖🌱](https://dev.to/mattlewandowski93/i-built-a-microservice-name-generator-because-naming-things-is-hard-503h)
-- [Why We Banned LLMs from Runtime — And What We Do Instead](https://dev.to/fasciarun/why-we-banned-llms-from-runtime-and-what-we-do-instead-7ck)
-- [I Let an AI Agent Become My DevOps Engineer](https://dev.to/aws-builders/i-let-an-ai-agent-become-my-devops-engineer-529)
-- [Curiosity Doesn’t Kill the Engineer](https://dev.to/celestina_dike_2f013c2c7b/curiosity-doesnt-kill-the-engineer-22a0)
+- [How Javascript Works on browser ? complete guide](https://dev.to/harshkamoriya/how-javascript-works-on-browser-complete-guide-bfm)
+- [Things Are Moving Fast: Generative UI, MCP Apps, and the New Standards Race](https://dev.to/betodias/things-are-moving-fast-generative-ui-mcp-apps-and-the-new-standards-race-56bk)
+- [How AI Agents Can Verify Seller Policies Before Making Autonomous Purchases](https://dev.to/policycheck30035/how-ai-agents-can-verify-seller-policies-before-making-autonomous-purchases-2a56)
+- [Meet Semantic Components — A Modern Angular UI Library](https://dev.to/gridou/meet-semantic-components-a-modern-angular-ui-library-3352)
+- [Exposing services behing CGNAT | My home-Lab experience with Jio-Fiber](https://dev.to/jagadeesh0074/exposing-services-behing-cgnat-my-home-lab-experience-with-jio-fiber-2ed2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
