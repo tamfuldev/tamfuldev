@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of the Semantic Layer in Data Governance](https://dev.to/alexmercedcoder/the-role-of-the-semantic-layer-in-data-governance-575i)
-- [Strategies to Scale Database Writes](https://dev.to/akshatjme/strategies-to-scale-database-writes-4ac7)
-- [How to Give Your AI Coding Agent Persistent Memory in 30 Seconds](https://dev.to/marvin_ma_597e184518c2221/how-to-give-your-ai-coding-agent-persistent-memory-in-30-seconds-3plc)
-- [C++ Tricks to Turn You Into a Code Ninja](https://dev.to/akshatjme/c-tricks-to-turn-you-into-a-code-ninja-hfe)
-- [Self-Hosting n8n on AWS ECS Fargate with Terraform, Okta OIDC SSO and a Shared ALB + RDS](https://dev.to/anderson_leite/self-hosting-n8n-on-aws-ecs-fargate-with-terraform-okta-oidc-sso-and-a-shared-alb-rds-1p06)
+- [Custom API Endpoints: streamlining your architecture](https://dev.to/surrealdb/custom-api-endpoints-streamlining-your-architecture-36oe)
+- [How to Design Reliable Data Pipelines](https://dev.to/alexmercedcoder/how-to-design-reliable-data-pipelines-3kk1)
+- [Exploring Next.js advanced routing and beyond](https://dev.to/shieldstring/exploring-nextjs-advanced-routing-and-beyond-2gki)
+- [Scraping a Website Using a Symfony Console Command &lpar;Clean &amp; Production-Friendly&rpar;](https://dev.to/marvelxy/scraping-a-website-using-a-symfony-console-command-clean-production-friendly-5f2e)
+- [Umbraco testing examples now also for Umbraco 17](https://dev.to/d_inventor/umbraco-testing-examples-now-also-for-umbraco-17-3d5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
