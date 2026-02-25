@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The RISC-V Software Ecosystem](https://dev.to/alpinumblogs/the-risc-v-software-ecosystem-2l24)
-- [I Burned Out as a Developer at 19. Here&#39;s How I Came Back.](https://dev.to/__be2942592/i-burned-out-as-a-developer-at-19-heres-how-i-came-back-4644)
-- [Borgmatic vs Restic: Which Backup Tool to Use?](https://dev.to/selfhostingsh/borgmatic-vs-restic-which-backup-tool-to-use-4bgo)
-- [10 Developer Tools I Used to Swear By &lpar;That I Completely Replaced in 2026&rpar;](https://dev.to/__be2942592/10-developer-tools-i-used-to-swear-by-that-i-completely-replaced-in-2026-57c4)
-- [I Have 47 Unfinished Side Projects. Here&#39;s Why I Don&#39;t Feel Bad About It.](https://dev.to/__be2942592/i-have-47-unfinished-side-projects-heres-why-i-dont-feel-bad-about-it-3g4o)
+- [Duck – A Django-compatible framework with native HTTP/2 and Lively HTML Components](https://dev.to/digreatbrian/duck-a-django-compatible-framework-with-native-http2-and-lively-html-components-iae)
+- [Mastering Azure VNet Peering with PowerShell Automation](https://dev.to/pilgrim2go/mastering-azure-vnet-peering-with-powershell-automation-3bi2)
+- [Building Persistent AI Agent Memory: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-ai-agent-memory-a-4-layer-file-based-architecture-5996)
+- [Shaders: GPU Seviyesinde Grafik Programlama](https://dev.to/turkcoode/shaders-gpu-seviyesinde-grafik-programlama-ahe)
+- [The Great Crossover: From the Age of Tools to the Era of Synthia by Adel Abdel-Dayem The Foundational Codifier of Synthia](https://dev.to/adel_dayem/the-great-crossover-from-the-age-of-tools-to-the-era-of-synthia-by-adel-abdel-dayem-the-2eoj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
