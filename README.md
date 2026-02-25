@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cosmos Cloud vs Lazydocker: Compared](https://dev.to/selfhostingsh/cosmos-cloud-vs-lazydocker-compared-1pi2)
-- [The Thieves Who Caught the Thieves](https://dev.to/webdevtodayjason/the-thieves-who-caught-the-thieves-4peo)
-- [Understanding Variables and Data Types in JavaScript](https://dev.to/anoop-rajoriya/understanding-variables-and-data-types-in-javascript-33pd)
-- [Building a Deterministic Batch Icon Pack Generator for Multi-Platform Apps](https://dev.to/bassthermal/building-a-deterministic-batch-icon-pack-generator-for-multi-platform-apps-4in0)
-- [Inside Cloudflare Vinext: a from-scratch Next.js App Router rebuild](https://dev.to/hamza4600/inside-cloudflare-vinext-a-from-scratch-nextjs-app-router-rebuild-3e8)
+- [The Role of the Semantic Layer in Data Governance](https://dev.to/alexmercedcoder/the-role-of-the-semantic-layer-in-data-governance-575i)
+- [Strategies to Scale Database Writes](https://dev.to/akshatjme/strategies-to-scale-database-writes-4ac7)
+- [How to Give Your AI Coding Agent Persistent Memory in 30 Seconds](https://dev.to/marvin_ma_597e184518c2221/how-to-give-your-ai-coding-agent-persistent-memory-in-30-seconds-3plc)
+- [C++ Tricks to Turn You Into a Code Ninja](https://dev.to/akshatjme/c-tricks-to-turn-you-into-a-code-ninja-hfe)
+- [Self-Hosting n8n on AWS ECS Fargate with Terraform, Okta OIDC SSO and a Shared ALB + RDS](https://dev.to/anderson_leite/self-hosting-n8n-on-aws-ecs-fargate-with-terraform-okta-oidc-sso-and-a-shared-alb-rds-1p06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
