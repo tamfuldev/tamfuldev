@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
-- [Register Today 🔥](https://dev.to/gateremark/-54gc)
-- [Clean UI Is Not a Brand Strategy](https://dev.to/pixel_mosaic/clean-ui-is-not-a-brand-strategy-1hme)
-- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
-- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
+- [How I Built Swarm DJ: A Multi-Agent AI System Performing Live Electronic Music 🎧](https://dev.to/harishkotra/how-i-built-swarm-dj-a-multi-agent-ai-system-performing-live-electronic-music-3lc2)
+- [Multi-Agent RAG Building Intelligent, Collaborative Retrieval Systems with LangChain](https://dev.to/gowtham21/multi-agent-ragbuilding-intelligent-collaborative-retrieval-systems-with-langchain-441e)
+- [Journal of a Half-Committed Vibe Coder](https://dev.to/linkbenjamin/journal-of-a-half-committed-vibe-coder-l3p)
+- [How to Use React Query with React Router Loaders &lpar;Pre-fetch &amp; Cache Data&rpar;](https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag)
+- [Appends for AI apps: Stream into a single message with Ably AI Transport](https://dev.to/ablyblog/appends-for-ai-apps-stream-into-a-single-message-with-ably-ai-transport-398a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
