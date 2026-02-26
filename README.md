@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creé un plugin que simplifica la integración de Google Maps en Vite y React](https://dev.to/franqsanz/cree-un-plugin-que-simplifica-la-integracion-de-google-maps-en-vite-y-react-11k9)
-- [Certificate Based Tool Authorization for MCP Agents](https://dev.to/david_culver_e78f000a10fe/certificate-based-tool-authorization-for-mcp-agents-ddj)
-- [PWC 362 Echo Chamber](https://dev.to/boblied/pwc-362-echo-chamber-1dn1)
-- [idea-reality-mcp v0.3.0: How We Built Chinese Language Support Into an MCP Server](https://dev.to/mnemox/idea-reality-mcp-v030-how-we-built-chinese-language-support-into-an-mcp-server-4e32)
-- [HexTyl ? What is This ?](https://dev.to/hexzonetwork/hextyl-what-is-this--1mbj)
+- [Kotlin Flow Patterns Every Senior Android Dev Must Know](https://dev.to/software_mvp-factory/kotlin-flow-patterns-every-senior-android-dev-must-know-228b)
+- [Strategy &amp; Factory Pattern στην C# Μια ορθολογιστική και SOLID προσέγγιση](https://dev.to/__b63657/strategy-factory-pattern-sten-cmia-orthologistike-kai-solid-proseggise-4b16)
+- [GraphQL to TypeScript: Automated Code Generation Guide](https://dev.to/arenasbob2024cell/graphql-to-typescript-automated-code-generation-guide-1e8p)
+- [Cron Expressions Explained: From Basics to Advanced Scheduling](https://dev.to/arenasbob2024cell/cron-expressions-explained-from-basics-to-advanced-scheduling-215n)
+- [Peeking Under the Hood: How Cloudflare R2 Really Works &lpar;And Why Your Frontend Apps Will Thank You&rpar;🧑‍💻😍](https://dev.to/krish_kakadiya_5f0eaf6342/peeking-under-the-hood-how-cloudflare-r2-really-works-and-why-your-frontend-apps-will-thank-1nmg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
