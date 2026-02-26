@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Control and Visibility for Claude Code: Enterprise Governance for AI Coding Agents](https://dev.to/pranay_batta/control-and-visibility-for-claude-code-enterprise-governance-for-ai-coding-agents-17gj)
-- [One Month Building in Public — Here&#39;s What I Shipped](https://dev.to/debba/one-month-building-in-public-heres-what-i-shipped-10c3)
-- [FullAgenticStack WhatsApp-first: RFC-WF-0020](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0020-25kl)
-- [FullAgenticStack WhatsApp-first: RFC-WF-0019](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0019-3123)
-- [How to add screenshot and PDF tools to Cursor and Windsurf via MCP](https://dev.to/custodiaadmin/how-to-add-screenshot-and-pdf-tools-to-cursor-and-windsurf-via-mcp-3cig)
+- [Building Skill Align - Part 6 - Project Staffing Assistant&lpar;Backend&rpar;](https://dev.to/rubasri_srikanthan/building-skill-align-part-6-project-staffing-assistantbackend-1bnn)
+- [Deploying Secure Azure File Shares: Premium Performance and Network Security](https://dev.to/louis_oodo_a59b230b894609/deploying-secure-azure-file-shares-premium-performance-and-network-security-4od4)
+- [When Regex Meets the DOM &lpar;And Suddenly It’s Not Simple Anymore&rpar;](https://dev.to/webweaversworld/when-regex-meets-the-dom-and-suddenly-its-not-simple-anymore-1lpa)
+- [Six Enterprise AI Adoption Challenges and How Docker&#39;s Latest Tools Address Them](https://dev.to/aldenweaver/six-enterprise-ai-adoption-challenges-and-how-dockers-latest-tools-address-them-iib)
+- [[AutoBe] We Built an AI That Writes Full Backend Apps — Then Broke Its 100% Success Rate on Purpose with Weak Local LLMs](https://dev.to/samchon/autobe-we-built-an-ai-that-writes-full-backend-apps-then-broke-its-100-success-rate-on-purpose-5757)
 <!-- BLOG-POST-LIST:END -->
 
 ---
