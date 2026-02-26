@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Skill Align - Part 6 - Project Staffing Assistant&lpar;Backend&rpar;](https://dev.to/rubasri_srikanthan/building-skill-align-part-6-project-staffing-assistantbackend-1bnn)
-- [Deploying Secure Azure File Shares: Premium Performance and Network Security](https://dev.to/louis_oodo_a59b230b894609/deploying-secure-azure-file-shares-premium-performance-and-network-security-4od4)
-- [When Regex Meets the DOM &lpar;And Suddenly It’s Not Simple Anymore&rpar;](https://dev.to/webweaversworld/when-regex-meets-the-dom-and-suddenly-its-not-simple-anymore-1lpa)
-- [Six Enterprise AI Adoption Challenges and How Docker&#39;s Latest Tools Address Them](https://dev.to/aldenweaver/six-enterprise-ai-adoption-challenges-and-how-dockers-latest-tools-address-them-iib)
-- [[AutoBe] We Built an AI That Writes Full Backend Apps — Then Broke Its 100% Success Rate on Purpose with Weak Local LLMs](https://dev.to/samchon/autobe-we-built-an-ai-that-writes-full-backend-apps-then-broke-its-100-success-rate-on-purpose-5757)
+- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
+- [Register Today 🔥](https://dev.to/gateremark/-54gc)
+- [Clean UI Is Not a Brand Strategy](https://dev.to/pixel_mosaic/clean-ui-is-not-a-brand-strategy-1hme)
+- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
+- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
