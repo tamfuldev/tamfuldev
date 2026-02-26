@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Duplicati vs Borgmatic: Which Backup Tool?](https://dev.to/selfhostingsh/duplicati-vs-borgmatic-which-backup-tool-bdd)
-- [I got tired of Googling pandas methods, so I built this](https://dev.to/ali_aldahmani/i-got-tired-of-googling-pandas-methods-so-i-built-this-35pn)
-- [Millions of Flow Cytometry Datasets Are Useless for AI — Here&#39;s Why, and What It Would Take to Fix It](https://dev.to/wcamon/millions-of-flow-cytometry-datasets-are-useless-for-ai-heres-why-and-what-it-would-take-to-fix-425i)
-- [Stop Writing Step Functions by Hand](https://dev.to/devnamedzed/stop-writing-step-functions-by-hand-4nog)
-- [Introducing PgBeam](https://dev.to/sferadev/introducing-pgbeam-3d55)
+- [OpenClaw can do a lot, but it shouldn&#39;t have access to your tokens](https://dev.to/torresmateo/openclaw-can-do-a-lot-but-it-shouldnt-have-access-to-your-tokens-2343)
+- [I Built an MCP Server with 36 Developer Tools. Now Claude Does My Site Audits.](https://dev.to/bicibg/i-built-an-mcp-server-with-36-developer-tools-now-claude-does-my-site-audits-35lf)
+- [Use LeanVox TTS Directly from Claude, ChatGPT &amp; Cursor — No Code Required](https://dev.to/leanvox/use-leanvox-tts-directly-from-claude-chatgpt-cursor-no-code-required-29g)
+- [Component Level Conversion Attribution: How to Track Which Developer Built Elements Actually Drive Revenue](https://dev.to/jasonbiondo/component-level-conversion-attribution-how-to-track-which-developer-built-elements-actually-drive-n5c)
+- [**The Great AI in Cybersecurity Debate: Anomalous Activity D](https://dev.to/drcarlosruizviquez/the-great-ai-in-cybersecurity-debate-anomalous-activity-d-5fi6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
