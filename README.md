@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Perfect Claude Code Notifications Setup with Tailscale and ntfy](https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1)
-- [Useful command when moving source code to a new folder or repository](https://dev.to/loclv/useful-command-when-moving-source-code-to-a-new-folder-or-repository-k4g)
-- [How to Build a Stablecoin in 2026: Architecture, Smart Contracts, Compliance, and Peg Stability Guide](https://dev.to/codebyankita/how-to-build-a-stablecoin-in-2026-architecture-smart-contracts-compliance-and-peg-stability-4d43)
-- [AI-Augmented Solo Operators: The $1.7T Threat to Your Team Structure](https://dev.to/dr_hernani_costa/ai-augmented-solo-operators-the-17t-threat-to-your-team-structure-l5k)
-- [Debugging Kubernetes CSI Driver Issues](https://dev.to/aicontentlab/debugging-kubernetes-csi-driver-issues-11nl)
+- [Control and Visibility for Claude Code: Enterprise Governance for AI Coding Agents](https://dev.to/pranay_batta/control-and-visibility-for-claude-code-enterprise-governance-for-ai-coding-agents-17gj)
+- [One Month Building in Public — Here&#39;s What I Shipped](https://dev.to/debba/one-month-building-in-public-heres-what-i-shipped-10c3)
+- [FullAgenticStack WhatsApp-first: RFC-WF-0020](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0020-25kl)
+- [FullAgenticStack WhatsApp-first: RFC-WF-0019](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0019-3123)
+- [How to add screenshot and PDF tools to Cursor and Windsurf via MCP](https://dev.to/custodiaadmin/how-to-add-screenshot-and-pdf-tools-to-cursor-and-windsurf-via-mcp-3cig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
