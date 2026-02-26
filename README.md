@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cross-Platform File Search App With Tauri — Not Electron](https://dev.to/kazutaka-dev/building-a-cross-platform-file-search-app-with-tauri-not-electron-2nke)
-- [CVE-2026-27575: The Zombie Session: Breaking Vikunja&#39;s Auth with CVE-2026-27575](https://dev.to/cverports/cve-2026-27575-the-zombie-session-breaking-vikunjas-auth-with-cve-2026-27575-pij)
-- [🇹🇷 Türkiye devs: Add TC Kimlik Numarası to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/turkiye-devs-add-tc-kimlik-numarasi-to-the-ai-identity-standard-soulprint-open-source-30-min-4jli)
-- [NABARD Grade A 2025 — eligibility, syllabus, and strategy](https://dev.to/sabya_beworld_e066e3758d8/nabard-grade-a-2025-eligibility-syllabus-and-strategy-2n5l)
-- [🇮🇱 Israel devs: Add Teudat Zehut &lpar;ID&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/israel-devs-add-teudat-zehut-id-to-the-ai-identity-standard-soulprint-open-source-30-min-53e4)
+- [Automatic temp file creation on the standby - Oracle AI Database 26ai](https://dev.to/vahidusefzadeh/automatic-temp-file-creation-on-the-standby-oracle-ai-database-26ai-h9j)
+- [the software built to build software is building itself while i sleep](https://dev.to/jaeko44/the-software-built-to-build-software-is-building-itself-while-i-sleep-243n)
+- [ساخت تایم‌لپس حرفه‌ای با چند دوربین مداربسته — تجربه‌ای که از یک نیاز واقعی شروع شد](https://dev.to/intellsoft/skht-tymlps-hrfhy-b-chnd-dwrbyn-mdrbsth-tjrbhy-khh-z-ykh-nyz-wqy-shrw-shd-37f0)
+- [Webhook Security Best Practices for Production 2025-2026](https://dev.to/digital_trubador/webhook-security-best-practices-for-production-2025-2026-384n)
+- [How CSS Gets “Hacked” &lpar;And How to Protect Your Website&rpar;](https://dev.to/farhadrahimiklie/how-css-gets-hacked-and-how-to-protect-your-website-52ob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
