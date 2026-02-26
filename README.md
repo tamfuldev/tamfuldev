@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research](https://dev.to/numbpill3d/aider-openclaw-how-autonomous-exploit-generators-rewrite-the-rules-of-security-research-32h5)
-- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
-- [CVE-2026-27822: RustFS &amp; The PDF Trojan: Anatomy of a Critical Stored XSS](https://dev.to/cverports/cve-2026-27822-rustfs-the-pdf-trojan-anatomy-of-a-critical-stored-xss-2lpk)
-- [Build AI Governance Into Your Solo Dev Stack: A Practical Workshop](https://dev.to/software_mvp-factory/build-ai-governance-into-your-solo-dev-stack-a-practical-workshop-2feg)
-- [The Hard Way to Learn AI Agents Need a Constitution &lpar;Not Prompts&rpar;](https://dev.to/oguzhanatalay/the-hard-way-to-learn-ai-agents-need-a-constitution-not-prompts-2hdm)
+- [SQLite Opus — Web-Based SQLite Browser for Flask](https://dev.to/hungle00/sqlite-opus-web-based-sqlite-browser-for-flask-23ji)
+- [FSCSS Variable Fallback Operator &lpar;||&rpar;](https://dev.to/fscss-ttr/fscss-variable-fallback-operator--1gdb)
+- [I Built a Local AI Agent That Actually Remembers You — Here&#39;s How the River Algorithm Works](https://dev.to/collen/i-built-a-local-ai-agent-that-actually-remembers-you-heres-how-the-river-algorithm-works-nc3)
+- [Claude Code Worktree Context Loss Is Real — Here Are 3 Workflows That Actually Help](https://dev.to/gonewx/claude-code-worktree-context-loss-is-real-here-are-3-workflows-that-actually-help-58ae)
+- [Installing Kiro on Fedora / Red Hat](https://dev.to/jajera/installing-kiro-on-fedora-red-hat-2i9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
