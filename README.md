@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Flow Patterns Every Senior Android Dev Must Know](https://dev.to/software_mvp-factory/kotlin-flow-patterns-every-senior-android-dev-must-know-228b)
-- [Strategy &amp; Factory Pattern στην C# Μια ορθολογιστική και SOLID προσέγγιση](https://dev.to/__b63657/strategy-factory-pattern-sten-cmia-orthologistike-kai-solid-proseggise-4b16)
-- [GraphQL to TypeScript: Automated Code Generation Guide](https://dev.to/arenasbob2024cell/graphql-to-typescript-automated-code-generation-guide-1e8p)
-- [Cron Expressions Explained: From Basics to Advanced Scheduling](https://dev.to/arenasbob2024cell/cron-expressions-explained-from-basics-to-advanced-scheduling-215n)
-- [Peeking Under the Hood: How Cloudflare R2 Really Works &lpar;And Why Your Frontend Apps Will Thank You&rpar;🧑‍💻😍](https://dev.to/krish_kakadiya_5f0eaf6342/peeking-under-the-hood-how-cloudflare-r2-really-works-and-why-your-frontend-apps-will-thank-1nmg)
+- [AI adoption - Practical Advice for Organizations](https://dev.to/vivek_ae4cbc77ec323c6a68a/ai-adoption-practical-advice-for-organizations-2cj8)
+- [UUID v4 vs v7: Which Should You Use in 2026? &lpar;With Generator&rpar;](https://dev.to/arenasbob2024cell/uuid-v4-vs-v7-which-should-you-use-in-2026-with-generator-3692)
+- [What Being a Founding Engineer Actually Means &lpar;Beyond Writing Code&rpar;](https://dev.to/vishwam_dhavale_1ca8080cd/what-being-a-founding-engineer-actually-means-beyond-writing-code-231d)
+- [URL Encoding Explained: What %20, %3A, and %2F Actually Mean](https://dev.to/arenasbob2024cell/url-encoding-explained-what-20-3a-and-2f-actually-mean-8nh)
+- [Every Git Command You Need, With Examples You Can Actually Copy](https://dev.to/arenasbob2024cell/every-git-command-you-need-with-examples-you-can-actually-copy-5d8m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
