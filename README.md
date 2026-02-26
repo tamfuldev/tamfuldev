@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI adoption - Practical Advice for Organizations](https://dev.to/vivek_ae4cbc77ec323c6a68a/ai-adoption-practical-advice-for-organizations-2cj8)
-- [UUID v4 vs v7: Which Should You Use in 2026? &lpar;With Generator&rpar;](https://dev.to/arenasbob2024cell/uuid-v4-vs-v7-which-should-you-use-in-2026-with-generator-3692)
-- [What Being a Founding Engineer Actually Means &lpar;Beyond Writing Code&rpar;](https://dev.to/vishwam_dhavale_1ca8080cd/what-being-a-founding-engineer-actually-means-beyond-writing-code-231d)
-- [URL Encoding Explained: What %20, %3A, and %2F Actually Mean](https://dev.to/arenasbob2024cell/url-encoding-explained-what-20-3a-and-2f-actually-mean-8nh)
-- [Every Git Command You Need, With Examples You Can Actually Copy](https://dev.to/arenasbob2024cell/every-git-command-you-need-with-examples-you-can-actually-copy-5d8m)
+- [JavaScript Arrays: A Beginner’s Guide with Examples](https://dev.to/jaya_sudha_96fce1e511efee/javascript-arrays-a-beginners-guide-with-examples-3p04)
+- [🚀 Breaking the Speed of Light: Secp256k1 Optimization in 12 Days](https://dev.to/vano_chkheidze_5071c537e2/breaking-the-speed-of-light-secp256k1-optimization-in-12-days-57nn)
+- [Tired of Scrolling Artisan? Meet php artisan list --mine](https://dev.to/charlie_waddell01/tired-of-scrolling-artisan-meet-php-artisan-list-mine-nkl)
+- [Build Your Own AI Ops Assistant — Part 5: The Knowledge Loop](https://dev.to/stephengoldberg/build-your-own-ai-ops-assistant-part-5-the-knowledge-loop-1bbp)
+- [Why Your Sentiment Analysis Is Wrong](https://dev.to/apiverve/why-your-sentiment-analysis-is-wrong-3eln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
