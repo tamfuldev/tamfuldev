@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Provide Storage for a New Company App](https://dev.to/fredrick_chukwuma_13220c9/provide-storage-for-a-new-company-app-5h6p)
-- [Antivirus for File Uploads: Add Virus and Malware Scan to Any App](https://dev.to/andreaswittig/antivirus-for-file-uploads-add-virus-and-malware-scan-to-any-app-5cnm)
-- [Sovereign Communities for Web3 Leaders A Strategic Pivot](https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5)
-- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
-- [my first post](https://dev.to/leo606/my-first-post-5fke)
+- [Self-Tuner: Building an Adaptive Position Sizing System in Python](https://dev.to/chudi_nnorukam/self-tuner-building-an-adaptive-position-sizing-system-in-python-i7n)
+- [Building Stepzy with Google Gemini - How AI Helped Me Ship a Real iOS App Faster](https://dev.to/dhairyachandra/building-stepzy-with-google-gemini-how-ai-helped-me-ship-a-real-ios-app-faster-cn2)
+- [From Query Tuning to Cache Versioning: Lessons from a Production Endpoint](https://dev.to/codewithrani/from-query-tuning-to-cache-versioning-lessons-from-a-production-endpoint-4968)
+- [I Had an AI Agent Build Me a Full App. 46K Lines of Code, 3 Platforms, Zero Dart Knowledge](https://dev.to/hcan_359/i-had-an-ai-agent-build-me-a-full-app-46k-lines-of-code-3-platforms-zero-dart-knowledge-23p0)
+- [I Put GPT-4 and Claude in the Same Repo and Made Them Review Each Other&#39;s PRs. It Got Weird.](https://dev.to/lakshmisravyavedantham/i-put-gpt-4-and-claude-in-the-same-repo-and-made-them-review-each-others-prs-it-got-weird-148e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
