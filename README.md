@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Tuner: Building an Adaptive Position Sizing System in Python](https://dev.to/chudi_nnorukam/self-tuner-building-an-adaptive-position-sizing-system-in-python-i7n)
-- [Building Stepzy with Google Gemini - How AI Helped Me Ship a Real iOS App Faster](https://dev.to/dhairyachandra/building-stepzy-with-google-gemini-how-ai-helped-me-ship-a-real-ios-app-faster-cn2)
-- [From Query Tuning to Cache Versioning: Lessons from a Production Endpoint](https://dev.to/codewithrani/from-query-tuning-to-cache-versioning-lessons-from-a-production-endpoint-4968)
-- [I Had an AI Agent Build Me a Full App. 46K Lines of Code, 3 Platforms, Zero Dart Knowledge](https://dev.to/hcan_359/i-had-an-ai-agent-build-me-a-full-app-46k-lines-of-code-3-platforms-zero-dart-knowledge-23p0)
-- [I Put GPT-4 and Claude in the Same Repo and Made Them Review Each Other&#39;s PRs. It Got Weird.](https://dev.to/lakshmisravyavedantham/i-put-gpt-4-and-claude-in-the-same-repo-and-made-them-review-each-others-prs-it-got-weird-148e)
+- [Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization](https://dev.to/jubinsoni/mastering-azure-kubernetes-service-the-ultimate-guide-to-scaling-security-and-cost-optimization-2eg3)
+- [POST /items: Adding New Data to Your API with FastAPI &amp; Pydantic](https://dev.to/ghost_script/post-items-adding-new-data-to-your-api-with-fastapi-pydantic-12p4)
+- [A2A: How AI Agents Communicate](https://dev.to/alisterbaroi/a2a-how-ai-agents-communicate-35d5)
+- [Craft Web Theme Loader using ChatGPT 4](https://dev.to/zijianhuang/craft-web-theme-loader-using-chatgpt-4-5g04)
+- [Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense](https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
