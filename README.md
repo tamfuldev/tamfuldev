@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Opus — Web-Based SQLite Browser for Flask](https://dev.to/hungle00/sqlite-opus-web-based-sqlite-browser-for-flask-23ji)
-- [FSCSS Variable Fallback Operator &lpar;||&rpar;](https://dev.to/fscss-ttr/fscss-variable-fallback-operator--1gdb)
-- [I Built a Local AI Agent That Actually Remembers You — Here&#39;s How the River Algorithm Works](https://dev.to/collen/i-built-a-local-ai-agent-that-actually-remembers-you-heres-how-the-river-algorithm-works-nc3)
-- [Claude Code Worktree Context Loss Is Real — Here Are 3 Workflows That Actually Help](https://dev.to/gonewx/claude-code-worktree-context-loss-is-real-here-are-3-workflows-that-actually-help-58ae)
-- [Installing Kiro on Fedora / Red Hat](https://dev.to/jajera/installing-kiro-on-fedora-red-hat-2i9g)
+- [El binomio perfecto: Intuición humana e IA en el Reverse Engineering](https://dev.to/teodev1611/l-binomio-perfecto-intuicion-humana-e-ia-en-el-reverse-engineering-kj5)
+- [The Secret Life of Python - The Uncopyable &lpar;deepcopy&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-uncopyable-deepcopy-2c1h)
+- [🚀 Revisando o S.O.L.I.D na Prática com Flutter e Dart](https://dev.to/rodriguesjeff/revisando-o-solid-na-pratica-com-flutter-e-dart-44e1)
+- [An Analogy to Help Understand Mixture of Experts](https://dev.to/someoddcodeguy/an-analogy-to-help-understand-mixture-of-experts-3a4o)
+- [CVE-2026-27606: Bundling Disaster: The Rollup Path Traversal Deep Dive](https://dev.to/cverports/cve-2026-27606-bundling-disaster-the-rollup-path-traversal-deep-dive-3e7d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
