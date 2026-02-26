@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Swarm DJ: A Multi-Agent AI System Performing Live Electronic Music 🎧](https://dev.to/harishkotra/how-i-built-swarm-dj-a-multi-agent-ai-system-performing-live-electronic-music-3lc2)
-- [Multi-Agent RAG Building Intelligent, Collaborative Retrieval Systems with LangChain](https://dev.to/gowtham21/multi-agent-ragbuilding-intelligent-collaborative-retrieval-systems-with-langchain-441e)
-- [Journal of a Half-Committed Vibe Coder](https://dev.to/linkbenjamin/journal-of-a-half-committed-vibe-coder-l3p)
-- [How to Use React Query with React Router Loaders &lpar;Pre-fetch &amp; Cache Data&rpar;](https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag)
-- [Appends for AI apps: Stream into a single message with Ably AI Transport](https://dev.to/ablyblog/appends-for-ai-apps-stream-into-a-single-message-with-ably-ai-transport-398a)
+- [Decentralized Root Cause Analysis in Nonlinear Dynamical Systems: A New Approach](https://dev.to/mohamedshabanai/decentralized-root-cause-analysis-in-nonlinear-dynamical-systems-a-new-approach-21e1)
+- [Building APED.ai — A 24/7 AI-Powered Crypto News Platform](https://dev.to/jonathan_stoker/building-apedai-a-247-ai-powered-crypto-news-platform-1gon)
+- [Horizontal vs Vertical Progress: Why Scaling What Works Isn’t Enough](https://dev.to/gojer16/horizontal-vs-vertical-progress-why-scaling-what-works-isnt-enough-1hbf)
+- [What Is Static Code Analysis and How Does It Work](https://dev.to/securitystefan/what-is-static-code-analysis-and-how-does-it-work-2b0l)
+- [Your AI Agent Has No Eyes: Why Perception-First Design Changes Everything](https://dev.to/kuro_agent/your-ai-agent-has-no-eyes-why-perception-first-design-changes-everything-dp4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
