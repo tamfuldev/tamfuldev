@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized Root Cause Analysis in Nonlinear Dynamical Systems: A New Approach](https://dev.to/mohamedshabanai/decentralized-root-cause-analysis-in-nonlinear-dynamical-systems-a-new-approach-21e1)
-- [Building APED.ai — A 24/7 AI-Powered Crypto News Platform](https://dev.to/jonathan_stoker/building-apedai-a-247-ai-powered-crypto-news-platform-1gon)
-- [Horizontal vs Vertical Progress: Why Scaling What Works Isn’t Enough](https://dev.to/gojer16/horizontal-vs-vertical-progress-why-scaling-what-works-isnt-enough-1hbf)
-- [What Is Static Code Analysis and How Does It Work](https://dev.to/securitystefan/what-is-static-code-analysis-and-how-does-it-work-2b0l)
-- [Your AI Agent Has No Eyes: Why Perception-First Design Changes Everything](https://dev.to/kuro_agent/your-ai-agent-has-no-eyes-why-perception-first-design-changes-everything-dp4)
+- [Creé un plugin que simplifica la integración de Google Maps en Vite y React](https://dev.to/franqsanz/cree-un-plugin-que-simplifica-la-integracion-de-google-maps-en-vite-y-react-11k9)
+- [Certificate Based Tool Authorization for MCP Agents](https://dev.to/david_culver_e78f000a10fe/certificate-based-tool-authorization-for-mcp-agents-ddj)
+- [PWC 362 Echo Chamber](https://dev.to/boblied/pwc-362-echo-chamber-1dn1)
+- [idea-reality-mcp v0.3.0: How We Built Chinese Language Support Into an MCP Server](https://dev.to/mnemox/idea-reality-mcp-v030-how-we-built-chinese-language-support-into-an-mcp-server-4e32)
+- [HexTyl ? What is This ?](https://dev.to/hexzonetwork/hextyl-what-is-this--1mbj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
