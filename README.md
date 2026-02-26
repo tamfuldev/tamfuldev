@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Arrays: A Beginner’s Guide with Examples](https://dev.to/jaya_sudha_96fce1e511efee/javascript-arrays-a-beginners-guide-with-examples-3p04)
-- [🚀 Breaking the Speed of Light: Secp256k1 Optimization in 12 Days](https://dev.to/vano_chkheidze_5071c537e2/breaking-the-speed-of-light-secp256k1-optimization-in-12-days-57nn)
-- [Tired of Scrolling Artisan? Meet php artisan list --mine](https://dev.to/charlie_waddell01/tired-of-scrolling-artisan-meet-php-artisan-list-mine-nkl)
-- [Build Your Own AI Ops Assistant — Part 5: The Knowledge Loop](https://dev.to/stephengoldberg/build-your-own-ai-ops-assistant-part-5-the-knowledge-loop-1bbp)
-- [Why Your Sentiment Analysis Is Wrong](https://dev.to/apiverve/why-your-sentiment-analysis-is-wrong-3eln)
+- [Provide Storage for a New Company App](https://dev.to/fredrick_chukwuma_13220c9/provide-storage-for-a-new-company-app-5h6p)
+- [Antivirus for File Uploads: Add Virus and Malware Scan to Any App](https://dev.to/andreaswittig/antivirus-for-file-uploads-add-virus-and-malware-scan-to-any-app-5cnm)
+- [Sovereign Communities for Web3 Leaders A Strategic Pivot](https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5)
+- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
+- [my first post](https://dev.to/leo606/my-first-post-5fke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
