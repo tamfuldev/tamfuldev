@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic temp file creation on the standby - Oracle AI Database 26ai](https://dev.to/vahidusefzadeh/automatic-temp-file-creation-on-the-standby-oracle-ai-database-26ai-h9j)
-- [the software built to build software is building itself while i sleep](https://dev.to/jaeko44/the-software-built-to-build-software-is-building-itself-while-i-sleep-243n)
-- [ساخت تایم‌لپس حرفه‌ای با چند دوربین مداربسته — تجربه‌ای که از یک نیاز واقعی شروع شد](https://dev.to/intellsoft/skht-tymlps-hrfhy-b-chnd-dwrbyn-mdrbsth-tjrbhy-khh-z-ykh-nyz-wqy-shrw-shd-37f0)
-- [Webhook Security Best Practices for Production 2025-2026](https://dev.to/digital_trubador/webhook-security-best-practices-for-production-2025-2026-384n)
-- [How CSS Gets “Hacked” &lpar;And How to Protect Your Website&rpar;](https://dev.to/farhadrahimiklie/how-css-gets-hacked-and-how-to-protect-your-website-52ob)
+- [JavaScript Basics: Operators and Expressions](https://dev.to/sharique_siddiqui_8242dad/javascript-basics-operators-and-expressions-5c7k)
+- [EasyAdmin 5.0: A New Foundation for Your Admin Backends](https://dev.to/javiereguiluz/easyadmin-50-a-new-foundation-for-your-admin-backends-gpi)
+- [8 Years, 5 Stacks, One Pattern: JSON Programming](https://dev.to/aws-builders/8-years-5-stacks-one-pattern-json-programming-25op)
+- [How far does lookup see in C++?](https://dev.to/pvsdev/how-far-does-lookup-see-in-c-2267)
+- [ChatGPT에 \&quot;잘 물어보기\&quot;는 아마추어다](https://dev.to/ji_ai/chatgpte-jal-muleobogineun-amacueoda-35mi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
