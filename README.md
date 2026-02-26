@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization](https://dev.to/jubinsoni/mastering-azure-kubernetes-service-the-ultimate-guide-to-scaling-security-and-cost-optimization-2eg3)
-- [POST /items: Adding New Data to Your API with FastAPI &amp; Pydantic](https://dev.to/ghost_script/post-items-adding-new-data-to-your-api-with-fastapi-pydantic-12p4)
-- [A2A: How AI Agents Communicate](https://dev.to/alisterbaroi/a2a-how-ai-agents-communicate-35d5)
-- [Craft Web Theme Loader using ChatGPT 4](https://dev.to/zijianhuang/craft-web-theme-loader-using-chatgpt-4-5g04)
-- [Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense](https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg)
+- [Duplicati vs Borgmatic: Which Backup Tool?](https://dev.to/selfhostingsh/duplicati-vs-borgmatic-which-backup-tool-bdd)
+- [I got tired of Googling pandas methods, so I built this](https://dev.to/ali_aldahmani/i-got-tired-of-googling-pandas-methods-so-i-built-this-35pn)
+- [Millions of Flow Cytometry Datasets Are Useless for AI — Here&#39;s Why, and What It Would Take to Fix It](https://dev.to/wcamon/millions-of-flow-cytometry-datasets-are-useless-for-ai-heres-why-and-what-it-would-take-to-fix-425i)
+- [Stop Writing Step Functions by Hand](https://dev.to/devnamedzed/stop-writing-step-functions-by-hand-4nog)
+- [Introducing PgBeam](https://dev.to/sferadev/introducing-pgbeam-3d55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
