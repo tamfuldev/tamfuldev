@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Production-Ready BEP-20 Token with Anti-Bot Protection and BscScan Auto-Verification](https://dev.to/jzheng/how-to-build-a-production-ready-bep-20-token-with-anti-bot-protection-and-bscscan-auto-verification-42mn)
-- [AutoTable: My One-Click Spreadsheet Cleaner Built with Google Gemini](https://dev.to/voxdroid/autotable-my-one-click-spreadsheet-cleaner-built-with-google-gemini-3718)
-- [Building Resilient AI Services: Implementing Multi-Region Failover for Azure OpenAI at Enterprise Scale](https://dev.to/deneesh_narayanasamy/building-resilient-ai-services-implementing-multi-region-failover-for-azure-openai-at-enterprise-cnd)
-- [AZ-204 Azure Developer Associate Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-204-azure-developer-associate-cheat-sheet-2026-exam-notes-3lb9)
-- [The Secret Life of Python: The Default Trap](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-default-trap-2jl0)
+- [I built an AI tool that turned my phone selfie into a LinkedIn headshot — here&#39;s what I learned](https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk)
+- [Local Development Setup: Tools, Debugging, and Hot Reload](https://dev.to/martin_oehlert/local-development-setup-tools-debugging-and-hot-reload-2925)
+- [Building Scalable Real-Time Applications with Node.js, Socket.io, and React](https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk)
+- [Designing Games With AI: Creative Partner or Creative Risk? - &lpar;Feb 2026&rpar;](https://dev.to/spookuspookus/designing-games-with-ai-creative-partner-or-creative-risk-3cci)
+- [I Tried to Deploy My MCP Server to Vercel. Here&#39;s What Actually Happened.](https://dev.to/renato_marinho/i-tried-to-deploy-my-mcp-server-to-vercel-heres-what-actually-happened-31k5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
