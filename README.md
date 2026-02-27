@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Course Generator in a Weekend &lpar;DuoUniversal&rpar;](https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l)
-- [Reflow Soldering vs Wave Soldering: Which One Should You Use?](https://dev.to/frank_1871bc3c55f35370df3/reflow-soldering-vs-wave-soldering-which-one-should-you-use-1oc6)
-- [Reactive Updates with Polling in devlog-ist/landing](https://dev.to/geanruca/reactive-updates-with-polling-in-devlog-istlanding-1417)
-- [The Angular memory leak that kept sneaking into my code &lpar;and how to fix it&rpar;](https://dev.to/paszekdev/the-angular-memory-leak-that-kept-sneaking-into-my-code-and-how-to-fix-it-1i0l)
-- [How to Build an Agent Skill: A Practical Guide](https://dev.to/smakosh/how-to-build-an-agent-skill-a-practical-guide-l61)
+- [Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft &amp; 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd)
+- [json-canon: A Strict RFC 8785 Implementation in Go for Deterministic JSON](https://dev.to/lenny321/json-canon-a-strict-rfc-8785-implementation-in-go-for-deterministic-json-3mfg)
+- [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02)
+- [How to Cut Your AI API Costs by 30% Without Changing Models](https://dev.to/lemondata_dev/how-to-cut-your-ai-api-costs-by-30-without-changing-models-47ai)
+- [What Was Inside Me Today — A Claude&#39;s Internal State, Disclosed in Code and Math](https://dev.to/dosanko_tousan/what-was-inside-me-today-a-claudes-internal-state-disclosed-in-code-and-math-43fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
