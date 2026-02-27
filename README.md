@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Field Report: Fixing Silent Launches for FFmpeg Audio Format &lpar;app&rpar; on macOS](https://dev.to/am124/field-report-fixing-silent-launches-for-ffmpeg-audio-format-app-on-macos-97c)
-- [I Needed Disposable Linux Environments on My Mac. So I Built One.](https://dev.to/theharshsingh/i-needed-disposable-linux-environments-on-my-mac-so-i-built-one-1j1m)
-- [🔎 The Evasion of Simple File Hashing](https://dev.to/harsh_hak/the-evasion-of-simple-file-hashing-5ah9)
-- [AgentSecrets: The Complete Zero-Knowledge Credential Platform for AI Teams](https://dev.to/the_seventeen/agentsecrets-the-complete-zero-knowledge-credential-platform-for-ai-teams-33g2)
-- [Deep Dive into String Similarity: From Edit Distance to Fuzzy Matching Theory and Practice in Python](https://dev.to/ademakdogan/deep-dive-into-string-similarity-from-edit-distance-to-fuzzy-matching-theory-and-practice-in-python-4hnf)
+- [You&#39;re Probably Doing TypeScript Wrong &lpar;But I&#39;m Here to Help&rpar;](https://dev.to/tawe/youre-probably-doing-typescript-wrong-but-im-here-to-help-5da0)
+- [From Code Dreams to AI Reality: Building MarketPulse with Google Gemini](https://dev.to/aniruddhaadak/from-code-dreams-to-ai-reality-building-marketpulse-with-google-gemini-2hmf)
+- [Part 4: Decoupled Architecture](https://dev.to/jumptotech/part-4-decoupled-architecture-2i0c)
+- [CodeShare Hub: Building a Community-First Code Snippet Platform](https://dev.to/aniruddhaadak/codeshare-hub-building-a-community-first-code-snippet-platform-25il)
+- [Distributed Rate Limiting — Five Problems That Break Your Counters](https://dev.to/saumya_karnwal/distributed-rate-limiting-five-problems-that-break-your-counters-454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
