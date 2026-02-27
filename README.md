@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ From Voice to Vibes: Building a Mental Health Tracker with Speech Emotion Recognition &lpar;SER&rpar;](https://dev.to/wellallytech/from-voice-to-vibes-building-a-mental-health-tracker-with-speech-emotion-recognition-ser-3b22)
-- [Seu app Go no K8s está usando até 20x mais CPU do que deveria &lpar;e como corrigir do jeito certo&rpar;](https://dev.to/renanbastos93/seu-app-go-no-k8s-esta-usando-ate-20x-mais-cpu-do-que-deveria-e-como-corrigir-do-jeito-certo-3g15)
-- [Stop Letting Your AI Agent Forge Human Approval](https://dev.to/aniketh_609/stop-letting-your-ai-agent-forge-human-approval-2h9k)
-- [JSON to Go Struct: The Complete Conversion Guide for 2026](https://dev.to/arenasbob2024cell/json-to-go-struct-the-complete-conversion-guide-for-2026-cgm)
-- [bcrypt Password Hashing: Why Slowness is a Feature &lpar;Node.js, Python, PHP&rpar;](https://dev.to/arenasbob2024cell/bcrypt-password-hashing-why-slowness-is-a-feature-nodejs-python-php-313n)
+- [Why Flat Files Break as AI Agent Memory &lpar;And What We Built Instead&rpar;](https://dev.to/singularityjason/why-flat-files-break-as-ai-agent-memory-and-what-we-built-instead-24gj)
+- [For decades, software development has been constrained by one bottleneck: human execution speed. AI is breaking that bottleneck. Let us read how?](https://dev.to/jaideepparashar/for-decades-software-development-has-been-constrained-by-one-bottleneck-human-execution-speed-3gp2)
+- [The Future of Coding: Human Creativity + AI Execution](https://dev.to/jaideepparashar/the-future-of-coding-human-creativity-ai-execution-28dm)
+- [The Conjunction Fallacy: Why Specific Feels More Likely](https://dev.to/_b8d89ece3338719863cb03/the-conjunction-fallacy-why-specific-feels-more-likely-4el8)
+- [Chesterton&#39;s Fence: Think Before You Remove](https://dev.to/_b8d89ece3338719863cb03/chestertons-fence-think-before-you-remove-4l4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
