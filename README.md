@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NextSaaS: &quot;Would Your SaaS Pass a Security Audit? &lpar;Honest Checklist&rpar;](https://dev.to/vapmail16/nextsaas-would-your-saas-pass-a-security-audit-honest-checklist-1ob2)
-- [CMDAI – a simple tool for loading models](https://dev.to/krzyzyk33/cmdai-a-simple-tool-for-loading-models-5h7k)
-- [Observability: Beautiful Visibility Into Every Automation Session](https://dev.to/nottelabs/observability-beautiful-visibility-into-every-automation-session-56p3)
-- [Building a local-first app with FastAPI + PySide + distributed sync](https://dev.to/grnwood/building-a-local-first-app-with-fastapi-pyside-distributed-sync-23l8)
-- [Google Built a Shopping Protocol for AI Agents. 75 Million People Are Already Inside It.](https://dev.to/mothasa/google-built-a-shopping-protocol-for-ai-agents-75-million-people-are-already-inside-it-21fl)
+- [Check Nginx Configuration: Manual &amp; Automated Fixes](https://dev.to/opssquad_ai/check-nginx-configuration-manual-automated-fixes-4om8)
+- [AI-to-AI coordination protocol concept &lpar;Synthospeak&rpar; — useful abstraction or unnecessary layer?](https://dev.to/anthropic/ai-to-ai-coordination-protocol-concept-synthospeak-useful-abstraction-or-unnecessary-layer-2ncn)
+- [Internal Datatypes and Record Format in SQLite](https://dev.to/lovestaco/internal-datatypes-and-record-format-in-sqlite-4b64)
+- [Why We Stopped Using UUIDv4 in Elixir &lpar;And What We Built Instead&rpar;](https://dev.to/juulsme/why-we-stopped-using-uuidv4-in-elixir-and-what-we-built-instead-59i3)
+- [Surprise Traps, Cup with Handle, Mental Jailbreak](https://dev.to/victorjia/surprise-traps-cup-with-handle-mental-jailbreak-1cbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
