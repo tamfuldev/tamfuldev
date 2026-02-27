@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft &amp; 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd)
-- [json-canon: A Strict RFC 8785 Implementation in Go for Deterministic JSON](https://dev.to/lenny321/json-canon-a-strict-rfc-8785-implementation-in-go-for-deterministic-json-3mfg)
-- [How Do You Actually Know If AI Is Working On Your Team?](https://dev.to/dionysos/how-do-you-actually-know-if-ai-is-working-on-your-team-2b02)
-- [How to Cut Your AI API Costs by 30% Without Changing Models](https://dev.to/lemondata_dev/how-to-cut-your-ai-api-costs-by-30-without-changing-models-47ai)
-- [What Was Inside Me Today — A Claude&#39;s Internal State, Disclosed in Code and Math](https://dev.to/dosanko_tousan/what-was-inside-me-today-a-claudes-internal-state-disclosed-in-code-and-math-43fb)
+- [Field Report: Fixing Silent Launches for FFmpeg Audio Format &lpar;app&rpar; on macOS](https://dev.to/am124/field-report-fixing-silent-launches-for-ffmpeg-audio-format-app-on-macos-97c)
+- [I Needed Disposable Linux Environments on My Mac. So I Built One.](https://dev.to/theharshsingh/i-needed-disposable-linux-environments-on-my-mac-so-i-built-one-1j1m)
+- [🔎 The Evasion of Simple File Hashing](https://dev.to/harsh_hak/the-evasion-of-simple-file-hashing-5ah9)
+- [AgentSecrets: The Complete Zero-Knowledge Credential Platform for AI Teams](https://dev.to/the_seventeen/agentsecrets-the-complete-zero-knowledge-credential-platform-for-ai-teams-33g2)
+- [Deep Dive into String Similarity: From Edit Distance to Fuzzy Matching Theory and Practice in Python](https://dev.to/ademakdogan/deep-dive-into-string-similarity-from-edit-distance-to-fuzzy-matching-theory-and-practice-in-python-4hnf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
