@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw can do a lot, but it shouldn&#39;t have access to your tokens](https://dev.to/torresmateo/openclaw-can-do-a-lot-but-it-shouldnt-have-access-to-your-tokens-2343)
-- [I Built an MCP Server with 36 Developer Tools. Now Claude Does My Site Audits.](https://dev.to/bicibg/i-built-an-mcp-server-with-36-developer-tools-now-claude-does-my-site-audits-35lf)
-- [Use LeanVox TTS Directly from Claude, ChatGPT &amp; Cursor — No Code Required](https://dev.to/leanvox/use-leanvox-tts-directly-from-claude-chatgpt-cursor-no-code-required-29g)
-- [Component Level Conversion Attribution: How to Track Which Developer Built Elements Actually Drive Revenue](https://dev.to/jasonbiondo/component-level-conversion-attribution-how-to-track-which-developer-built-elements-actually-drive-n5c)
-- [**The Great AI in Cybersecurity Debate: Anomalous Activity D](https://dev.to/drcarlosruizviquez/the-great-ai-in-cybersecurity-debate-anomalous-activity-d-5fi6)
+- [🎙️ From Voice to Vibes: Building a Mental Health Tracker with Speech Emotion Recognition &lpar;SER&rpar;](https://dev.to/wellallytech/from-voice-to-vibes-building-a-mental-health-tracker-with-speech-emotion-recognition-ser-3b22)
+- [Seu app Go no K8s está usando até 20x mais CPU do que deveria &lpar;e como corrigir do jeito certo&rpar;](https://dev.to/renanbastos93/seu-app-go-no-k8s-esta-usando-ate-20x-mais-cpu-do-que-deveria-e-como-corrigir-do-jeito-certo-3g15)
+- [Stop Letting Your AI Agent Forge Human Approval](https://dev.to/aniketh_609/stop-letting-your-ai-agent-forge-human-approval-2h9k)
+- [JSON to Go Struct: The Complete Conversion Guide for 2026](https://dev.to/arenasbob2024cell/json-to-go-struct-the-complete-conversion-guide-for-2026-cgm)
+- [bcrypt Password Hashing: Why Slowness is a Feature &lpar;Node.js, Python, PHP&rpar;](https://dev.to/arenasbob2024cell/bcrypt-password-hashing-why-slowness-is-a-feature-nodejs-python-php-313n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
