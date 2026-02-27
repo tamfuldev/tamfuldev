@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Probably Doing TypeScript Wrong &lpar;But I&#39;m Here to Help&rpar;](https://dev.to/tawe/youre-probably-doing-typescript-wrong-but-im-here-to-help-5da0)
-- [From Code Dreams to AI Reality: Building MarketPulse with Google Gemini](https://dev.to/aniruddhaadak/from-code-dreams-to-ai-reality-building-marketpulse-with-google-gemini-2hmf)
-- [Part 4: Decoupled Architecture](https://dev.to/jumptotech/part-4-decoupled-architecture-2i0c)
-- [CodeShare Hub: Building a Community-First Code Snippet Platform](https://dev.to/aniruddhaadak/codeshare-hub-building-a-community-first-code-snippet-platform-25il)
-- [Distributed Rate Limiting — Five Problems That Break Your Counters](https://dev.to/saumya_karnwal/distributed-rate-limiting-five-problems-that-break-your-counters-454)
+- [React Native Tab View](https://dev.to/tyropon/react-native-tab-view-1na7)
+- [My AI Agents Create Their Own Bug Fixes — But None of Them Have Credentials](https://dev.to/nesquikm/my-ai-agents-create-their-own-bug-fixes-but-none-of-them-have-credentials-2ho8)
+- [I Run a Fleet of AI Agents in Production — Here&#39;s the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h)
+- [Gildav](https://dev.to/tyropon/gildav-5eff)
+- [Teaching AI Agents by Example: The End of brittle selectors](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-the-end-of-brittle-selectors-jpc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
