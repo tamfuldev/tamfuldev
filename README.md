@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI tool that turned my phone selfie into a LinkedIn headshot — here&#39;s what I learned](https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk)
-- [Local Development Setup: Tools, Debugging, and Hot Reload](https://dev.to/martin_oehlert/local-development-setup-tools-debugging-and-hot-reload-2925)
-- [Building Scalable Real-Time Applications with Node.js, Socket.io, and React](https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk)
-- [Designing Games With AI: Creative Partner or Creative Risk? - &lpar;Feb 2026&rpar;](https://dev.to/spookuspookus/designing-games-with-ai-creative-partner-or-creative-risk-3cci)
-- [I Tried to Deploy My MCP Server to Vercel. Here&#39;s What Actually Happened.](https://dev.to/renato_marinho/i-tried-to-deploy-my-mcp-server-to-vercel-heres-what-actually-happened-31k5)
+- [Multi-tenancy in Kubernetes](https://dev.to/godofgeeks/multi-tenancy-in-kubernetes-2bf0)
+- [Specialized chatbot using rag &lpar;retrieval augmented generation&rpar; Part I](https://dev.to/nebuladata/specialized-chatbot-using-rag-retrieval-augmented-generation-part-i-53d6)
+- [From the Roadside to the Web: Building a Portfolio Platform for Independent Artists](https://dev.to/byukusengeandrew/from-the-roadside-to-the-web-building-a-portfolio-platform-for-independent-artists-259l)
+- [AI Code Is Creating a Security Debt Crisis](https://dev.to/danieljglover/ai-code-is-creating-a-security-debt-crisis-36m4)
+- [🧠 Google Just Solved a Big Problem for AI Coding Assistants &lpar;Explained Simply&rpar;](https://dev.to/uniyalmanas/google-just-solved-a-big-problem-for-ai-coding-assistants-explained-simply-1g1m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
