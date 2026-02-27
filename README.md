@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Flat Files Break as AI Agent Memory &lpar;And What We Built Instead&rpar;](https://dev.to/singularityjason/why-flat-files-break-as-ai-agent-memory-and-what-we-built-instead-24gj)
-- [For decades, software development has been constrained by one bottleneck: human execution speed. AI is breaking that bottleneck. Let us read how?](https://dev.to/jaideepparashar/for-decades-software-development-has-been-constrained-by-one-bottleneck-human-execution-speed-3gp2)
-- [The Future of Coding: Human Creativity + AI Execution](https://dev.to/jaideepparashar/the-future-of-coding-human-creativity-ai-execution-28dm)
-- [The Conjunction Fallacy: Why Specific Feels More Likely](https://dev.to/_b8d89ece3338719863cb03/the-conjunction-fallacy-why-specific-feels-more-likely-4el8)
-- [Chesterton&#39;s Fence: Think Before You Remove](https://dev.to/_b8d89ece3338719863cb03/chestertons-fence-think-before-you-remove-4l4c)
+- [How to Build a Production-Ready BEP-20 Token with Anti-Bot Protection and BscScan Auto-Verification](https://dev.to/jzheng/how-to-build-a-production-ready-bep-20-token-with-anti-bot-protection-and-bscscan-auto-verification-42mn)
+- [AutoTable: My One-Click Spreadsheet Cleaner Built with Google Gemini](https://dev.to/voxdroid/autotable-my-one-click-spreadsheet-cleaner-built-with-google-gemini-3718)
+- [Building Resilient AI Services: Implementing Multi-Region Failover for Azure OpenAI at Enterprise Scale](https://dev.to/deneesh_narayanasamy/building-resilient-ai-services-implementing-multi-region-failover-for-azure-openai-at-enterprise-cnd)
+- [AZ-204 Azure Developer Associate Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-204-azure-developer-associate-cheat-sheet-2026-exam-notes-3lb9)
+- [The Secret Life of Python: The Default Trap](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-default-trap-2jl0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
