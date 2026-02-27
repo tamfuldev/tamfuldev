@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Guide to Prompt Engineering for AI Coding Assistants](https://dev.to/jps27cse/the-developers-guide-to-prompt-engineering-for-ai-coding-assistants-2089)
-- [PantryPulse: Ending Food Waste with Real-Time Community Coordination 🥫🧡](https://dev.to/joyboy_07/pantrypulse-ending-food-waste-with-real-time-community-coordination-5g85)
-- [Release Notes as an Engineering Interface: How to Earn Trust Without Overpromising](https://dev.to/sonia_bobrik_1939cdddd79d/release-notes-as-an-engineering-interface-how-to-earn-trust-without-overpromising-3ipa)
-- [How to Bypass the Jio Supabase Block: Causes, Solutions, and Best Practices](https://dev.to/alisterbaroi/how-to-bypass-the-jio-supabase-block-causes-solutions-and-best-practices-253g)
-- [The PR Work You Don’t See Is the Work That Makes Everything Else Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-pr-work-you-dont-see-is-the-work-that-makes-everything-else-work-o8f)
+- [NextSaaS: &quot;Would Your SaaS Pass a Security Audit? &lpar;Honest Checklist&rpar;](https://dev.to/vapmail16/nextsaas-would-your-saas-pass-a-security-audit-honest-checklist-1ob2)
+- [CMDAI – a simple tool for loading models](https://dev.to/krzyzyk33/cmdai-a-simple-tool-for-loading-models-5h7k)
+- [Observability: Beautiful Visibility Into Every Automation Session](https://dev.to/nottelabs/observability-beautiful-visibility-into-every-automation-session-56p3)
+- [Building a local-first app with FastAPI + PySide + distributed sync](https://dev.to/grnwood/building-a-local-first-app-with-fastapi-pyside-distributed-sync-23l8)
+- [Google Built a Shopping Protocol for AI Agents. 75 Million People Are Already Inside It.](https://dev.to/mothasa/google-built-a-shopping-protocol-for-ai-agents-75-million-people-are-already-inside-it-21fl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
