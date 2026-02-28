@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and...](https://dev.to/chx381/anthropics-dispute-with-the-dod-raises-critical-questions-for-us-military-partners-like-nvidia-3l5o)
-- [How We Built a Browser-Based Image Converter with WebAssembly Encoders](https://dev.to/_85dbad023e63293c4c6db/how-we-built-a-browser-based-image-converter-with-webassembly-encoders-3i39)
-- [Local LLM Agent Benchmark: Comparing 6 Models in Real-World Scenarios](https://dev.to/kim_namhyun_e7535f3dc4c69/local-llm-agent-benchmark-comparing-6-models-in-real-world-scenarios-3ffb)
-- [I Vibe Coded a Daily Tarot App in 2 Months with Cursor + Cloudflare — Here&#39;s What AI Can&#39;t Do &lpar;Yet&rpar;](https://dev.to/xianghua_feng_fe6a036b774/i-vibe-coded-a-daily-tarot-app-in-2-months-with-cursor-cloudflare-heres-what-ai-cant-do-yet-4km9)
-- [SSL Certificates Explained: A Deep Dive into Encryption, Attacks, and How HTTPS Secures the Web 🔐](https://dev.to/jps27cse/ssl-certificates-explained-a-deep-dive-into-encryption-attacks-and-how-https-secures-the-web-4han)
+- [Как конвертировать CHM в один PDF на Linux: без мусора и битых ссылок](https://dev.to/_vproger_/kak-konviertirovat-chm-v-odin-pdf-na-linux-biez-musora-i-bitykh-ssylok-3edd)
+- [Azure AI Search Advanced RAG with Terraform: Hybrid Search, Semantic Ranking, and Agentic Retrieval 🧠](https://dev.to/suhas_mallesh/azure-ai-search-advanced-rag-with-terraform-hybrid-search-semantic-ranking-and-agentic-retrieval-180k)
+- [S&amp;OP: Por qué tu Excel te miente &lpar;y cómo interrogarlo con Python&rpar;](https://dev.to/datalaria/sop-por-que-tu-excel-te-miente-y-como-interrogarlo-con-python-o74)
+- [AI Found 12 OpenSSL Bugs Hiding for 27 Years. Your Code Review Isn&#39;t Enough Anymore.](https://dev.to/zhongcheng_dazhi_492544bd/ai-found-12-openssl-bugs-hiding-for-27-years-your-code-review-isnt-enough-anymore-b69)
+- [Your LLM API Is an Attack Surface. Are You Scanning It?](https://dev.to/onoz1169/your-llm-api-is-an-attack-surface-are-you-scanning-it-4f0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
