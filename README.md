@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenID Connect Core 1.0 Deep Dive: Understanding the &quot;Authentication&quot; Layer on top of OAuth 2.0](https://dev.to/kanywst/openid-connect-core-10-deep-dive-understanding-the-authentication-layer-on-top-of-oauth-20-2bei)
-- [FullAgenticStack WhatsApp-first: Documento Estratégico de Entrada no Mercado](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-documento-estrategico-de-entrada-no-mercado-48da)
-- [The Company Is Strong. So Why Are 4,000 People Gone?](https://dev.to/random_ti/the-company-is-strong-so-why-are-4000-people-gone-3hfj)
-- [GHSA-J8CJ-HW74-64JV: Critical Unsoundness in Rust &#39;hivex&#39; Crate Leading to Double-Free and Use-After-Free](https://dev.to/cverports/ghsa-j8cj-hw74-64jv-critical-unsoundness-in-rust-hivex-crate-leading-to-double-free-and-2el8)
-- [Retrieval Strategy Design: Vector, Keyword, and Hybrid Search](https://dev.to/yaruyng/retrieval-strategy-design-vector-keyword-and-hybrid-search-53j3)
+- [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and...](https://dev.to/chx381/anthropics-dispute-with-the-dod-raises-critical-questions-for-us-military-partners-like-nvidia-3l5o)
+- [How We Built a Browser-Based Image Converter with WebAssembly Encoders](https://dev.to/_85dbad023e63293c4c6db/how-we-built-a-browser-based-image-converter-with-webassembly-encoders-3i39)
+- [Local LLM Agent Benchmark: Comparing 6 Models in Real-World Scenarios](https://dev.to/kim_namhyun_e7535f3dc4c69/local-llm-agent-benchmark-comparing-6-models-in-real-world-scenarios-3ffb)
+- [I Vibe Coded a Daily Tarot App in 2 Months with Cursor + Cloudflare — Here&#39;s What AI Can&#39;t Do &lpar;Yet&rpar;](https://dev.to/xianghua_feng_fe6a036b774/i-vibe-coded-a-daily-tarot-app-in-2-months-with-cursor-cloudflare-heres-what-ai-cant-do-yet-4km9)
+- [SSL Certificates Explained: A Deep Dive into Encryption, Attacks, and How HTTPS Secures the Web 🔐](https://dev.to/jps27cse/ssl-certificates-explained-a-deep-dive-into-encryption-attacks-and-how-https-secures-the-web-4han)
 <!-- BLOG-POST-LIST:END -->
 
 ---
