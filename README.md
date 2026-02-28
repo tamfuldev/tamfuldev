@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Making Music with Code: Introduction to Sonic Pi](https://dev.to/carlosdon/making-music-with-code-introduction-to-sonic-pi-1a5o)
-- [Stop Using Random SSH Tools — I Built a Secure Offline DevOps Workstation](https://dev.to/sathish_dev/stop-using-random-ssh-tools-i-built-a-secure-offline-devops-workstation-474b)
-- [Programming: What It Is, Why It Matters, and How It Actually Works](https://dev.to/shamil_suraweera/programming-what-it-is-why-it-matters-and-how-it-actually-works-2b0i)
-- [How to Add a Contact Form to Any Static Website &lpar;Without a Backend&rpar;](https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in)
-- [How I Built Videly Ei8, Video Hosting Platform on a Shoestring Budget](https://dev.to/rezapurnama/how-i-built-videly-ei8-video-hosting-platform-on-a-shoestring-budget-5eng)
+- [I Built a Gemini-Powered History Narrator 6 Months Ago. Here&#39;s What I&#39;d Tell You Now.](https://dev.to/axrisi/i-built-a-gemini-powered-history-narrator-6-months-ago-heres-what-id-tell-you-now-dkg)
+- [Flutter in 2026: What It Is, Why It Matters, and Why App Development Is a Skill Worth Learning?](https://dev.to/safiullahkorai/flutter-in-2026-what-it-is-why-it-matters-and-why-app-development-is-a-skill-worth-learning-1h20)
+- [You&#39;re Flying Blind With Your AI Agents. Here&#39;s How to Fix It.](https://dev.to/dor_amir_dbb52baafff7ca5b/youre-flying-blind-with-your-ai-agents-heres-how-to-fix-it-3hdh)
+- [Database Indexing Made Easy: SQL vs MongoDB](https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp)
+- [I built a CLI that rolls movie-style credits for your git repo](https://dev.to/higangssh/i-built-a-cli-that-rolls-movie-style-credits-for-your-git-repo-6de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
