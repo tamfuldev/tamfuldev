@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Gemini-Powered History Narrator 6 Months Ago. Here&#39;s What I&#39;d Tell You Now.](https://dev.to/axrisi/i-built-a-gemini-powered-history-narrator-6-months-ago-heres-what-id-tell-you-now-dkg)
-- [Flutter in 2026: What It Is, Why It Matters, and Why App Development Is a Skill Worth Learning?](https://dev.to/safiullahkorai/flutter-in-2026-what-it-is-why-it-matters-and-why-app-development-is-a-skill-worth-learning-1h20)
-- [You&#39;re Flying Blind With Your AI Agents. Here&#39;s How to Fix It.](https://dev.to/dor_amir_dbb52baafff7ca5b/youre-flying-blind-with-your-ai-agents-heres-how-to-fix-it-3hdh)
-- [Database Indexing Made Easy: SQL vs MongoDB](https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp)
-- [I built a CLI that rolls movie-style credits for your git repo](https://dev.to/higangssh/i-built-a-cli-that-rolls-movie-style-credits-for-your-git-repo-6de)
+- [After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful](https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07)
+- [I got mass mass mass tired of lspci, so I wrote a hardware monitor that also has a brain](https://dev.to/th0truth/i-wrote-a-hardware-monitor-in-c-that-talks-directly-to-the-linux-kernel-34k2)
+- [The NDC Revolution and What It Means for Data Engineers](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-122n)
+- [Beyond Chatbots: Can We Give AI Agents an &quot;Undo&quot; Button? Exploring Gorilla GoEx 🦍](https://dev.to/syed_mehrab_08fb0419feedf/beyond-chatbots-can-we-give-ai-agents-an-undo-button-exploring-gorilla-goex-2npn)
+- [AI Agent Identity at Scale Microsoft Entra Agent ID vs. AWS AgentCore Identity](https://dev.to/sreeni5018/ai-agent-identity-at-scalemicrosoft-entra-agent-id-vs-aws-agentcore-identity-1945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
