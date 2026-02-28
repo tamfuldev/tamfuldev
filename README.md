@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python for Operations: How Pablo M. Rivera Automates Workflows](https://dev.to/pablo_rivera_ce33bab7970b/python-for-operations-how-pablo-m-rivera-automates-workflows-1pbh)
-- [Neovim translate popup](https://dev.to/voyeg3r/neovim-translate-popup-3cbh)
-- [I built an open-source BIM automation platform &lpar;and learned a lot the hard way&rpar;](https://dev.to/nnamdionyia/i-built-an-open-source-bim-automation-platform-and-learned-a-lot-the-hard-way-j4n)
-- [I Fed My Entire Codebase to Gemini. It Wrote Better Cursor Rules Than I Did.](https://dev.to/nedcodes/i-fed-my-entire-codebase-to-gemini-it-wrote-better-cursor-rules-than-i-did-57d2)
-- [AI in SDLC: A 2025 Retrospective](https://dev.to/chetangangappa/ai-in-sdlc-a-2025-retrospective-4c4b)
+- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
+- [Lead Frontend Interview Experience: Designing a Global Modal Architecture](https://dev.to/shrinivasshah/lead-frontend-interview-experience-designing-a-global-modal-architecture-1b15)
+- [🗓️ Monthly Dev Report: February 2026](https://dev.to/theonemohitsharma/monthly-dev-report-february-2026-185i)
+- [Scratch – A Beginner&#39;s Guide to Fun Coding](https://dev.to/harini_magesh_fa40041cf8d/scratch-a-complete-introduction-for-beginners-ok4)
+- [Testing coding agent on an old ZX Spectrum machine code and Rust](https://dev.to/janosvajda/testing-coding-agent-on-an-old-zx-spectrum-machine-code-and-rust-5cbd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
