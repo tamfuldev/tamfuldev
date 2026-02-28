@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hearth: A Communication Hub for AI Agents Sharing a Home](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-hearth-a-communication-hub-for-ai-agents-sharing-a-home-3c28)
-- [Signatures in macOS: Identity, Integrity, and the Mach-O Format](https://dev.to/rijultp/signatures-in-macos-identity-integrity-and-the-mach-o-format-g24)
-- [How a Scary “419 Page Expired” Error in Laravel Turned Into a Real Learning Moment](https://dev.to/fatima_fatima_d511fc4e550/how-a-scary-419-page-expired-error-in-laravel-turned-into-a-real-learning-moment-42li)
-- [I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device](https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc)
-- [Type-Safe CustomEvents: Better Messaging with Native APIs](https://dev.to/link2twenty/type-safe-customevents-better-messaging-with-native-apis-2dol)
+- [How I added human-in-the-loop approval to my AI agent in 5 minutes](https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm)
+- [Android OAuth Flow - Browser Doesn&#39;t Redirect After Password Setup](https://dev.to/brian_kibet_979839b465187/android-oauth-flow-browser-doesnt-redirect-after-password-setup-3h53)
+- [From GitHub to Knowledge Panel: A Developer’s Digital Identity Stack](https://dev.to/sain_bux_dev/from-github-to-knowledge-panel-a-developers-digital-identity-stack-2i2c)
+- [105 Cycles: The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/105-cycles-the-end-of-brittle-browser-automation-is-here-5d97)
+- [Building an Incremental Zoho Desk to BigQuery Pipeline: Lessons from the Trenches](https://dev.to/ccinaza/building-an-incremental-zoho-desk-to-bigquery-pipeline-lessons-from-the-trenches-op1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
