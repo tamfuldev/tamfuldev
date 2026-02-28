@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Delete an AWS Route 53 Hosted Zone in a Cascade Manner &lpar;Using AWS CLI&rpar;](https://dev.to/pilgrim2go/how-to-delete-an-aws-route-53-hosted-zone-in-a-cascade-manner-using-aws-cli-4589)
-- [Why Your AI Agent Framework Is Basically a Hashmap &lpar;And How I Fixed It With Rust Swarm Math&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/why-your-ai-agent-framework-is-basically-a-hashmap-and-how-i-fixed-it-with-rust-swarm-math-2a4d)
-- [LANimals 001: Continuous Deployment](https://dev.to/gnomeman4201/lanimals-001-continuous-deployment-42b2)
-- [Bolivia Military Cargo Plane Crash 2026: 11 Killed — What We Know](https://dev.to/trendplus_kr/bolivia-military-cargo-plane-crash-2026-11-killed-what-we-know-4f46)
-- [Phase 1 - Building a Multi-Region Backend on Azure &lpar;Before Azure Front Door&rpar;](https://dev.to/pilgrim2go/phase-1-building-a-multi-region-backend-on-azure-before-azure-front-door-1ik)
+- [OpenID Connect Core 1.0 Deep Dive: Understanding the &quot;Authentication&quot; Layer on top of OAuth 2.0](https://dev.to/kanywst/openid-connect-core-10-deep-dive-understanding-the-authentication-layer-on-top-of-oauth-20-2bei)
+- [FullAgenticStack WhatsApp-first: Documento Estratégico de Entrada no Mercado](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-documento-estrategico-de-entrada-no-mercado-48da)
+- [The Company Is Strong. So Why Are 4,000 People Gone?](https://dev.to/random_ti/the-company-is-strong-so-why-are-4000-people-gone-3hfj)
+- [GHSA-J8CJ-HW74-64JV: Critical Unsoundness in Rust &#39;hivex&#39; Crate Leading to Double-Free and Use-After-Free](https://dev.to/cverports/ghsa-j8cj-hw74-64jv-critical-unsoundness-in-rust-hivex-crate-leading-to-double-free-and-2el8)
+- [Retrieval Strategy Design: Vector, Keyword, and Hybrid Search](https://dev.to/yaruyng/retrieval-strategy-design-vector-keyword-and-hybrid-search-53j3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
