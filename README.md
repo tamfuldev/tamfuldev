@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
-- [Lead Frontend Interview Experience: Designing a Global Modal Architecture](https://dev.to/shrinivasshah/lead-frontend-interview-experience-designing-a-global-modal-architecture-1b15)
-- [🗓️ Monthly Dev Report: February 2026](https://dev.to/theonemohitsharma/monthly-dev-report-february-2026-185i)
-- [Scratch – A Beginner&#39;s Guide to Fun Coding](https://dev.to/harini_magesh_fa40041cf8d/scratch-a-complete-introduction-for-beginners-ok4)
-- [Testing coding agent on an old ZX Spectrum machine code and Rust](https://dev.to/janosvajda/testing-coding-agent-on-an-old-zx-spectrum-machine-code-and-rust-5cbd)
+- [Making Music with Code: Introduction to Sonic Pi](https://dev.to/carlosdon/making-music-with-code-introduction-to-sonic-pi-1a5o)
+- [Stop Using Random SSH Tools — I Built a Secure Offline DevOps Workstation](https://dev.to/sathish_dev/stop-using-random-ssh-tools-i-built-a-secure-offline-devops-workstation-474b)
+- [Programming: What It Is, Why It Matters, and How It Actually Works](https://dev.to/shamil_suraweera/programming-what-it-is-why-it-matters-and-how-it-actually-works-2b0i)
+- [How to Add a Contact Form to Any Static Website &lpar;Without a Backend&rpar;](https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in)
+- [How I Built Videly Ei8, Video Hosting Platform on a Shoestring Budget](https://dev.to/rezapurnama/how-i-built-videly-ei8-video-hosting-platform-on-a-shoestring-budget-5eng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
