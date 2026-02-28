@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Java JAR from C#: 5 Methods Benchmarked](https://dev.to/jnbridge/how-to-run-a-java-jar-from-c-5-methods-benchmarked-1bg0)
-- [How to Build a Home Cloud with Proxmox](https://dev.to/denisinvader/how-to-build-a-home-cloud-with-proxmox-1n9m)
-- [Teaching AI Agents by Example: A New Paradigm in Automation](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-a-new-paradigm-in-automation-3mcj)
-- [Enterprise Agentic AI — Memory Is the Architecture](https://dev.to/eagleeyethinker/enterprise-agentic-ai-memory-is-the-architecture-d1p)
-- [Crea tu asistente personal en los Meta Glasses.](https://dev.to/aws-builders/crea-tu-asistente-personal-en-los-meta-glasses-4nen)
+- [🎓 ScholarFinder: Bridging the Opportunity Gap for Students in Crisis](https://dev.to/alpha_/scholarfinder-bridging-the-opportunity-gap-for-students-in-crisis-15c7)
+- [Porting Vello&#39;s GPU Tile Rasterizer to Pure Go](https://dev.to/kolkov/porting-vellos-gpu-tile-rasterizer-to-pure-go-7i8)
+- [Kimi Wrote 8,500 Lines, Blamed Me for Delegating, Then Claimed to Be Claude](https://dev.to/shimo4228/kimi-wrote-8500-lines-blamed-me-for-delegating-then-claimed-to-be-claude-3991)
+- [A 2019 Phone Named &quot;Evil Little Woodpecker&quot; Ate my Homework](https://dev.to/kataraxie/a-2019-phone-named-evil-little-woodpecker-ate-my-homework-c74)
+- [The Bar has Always Been Moving. Are you?](https://dev.to/agentic-jj/the-bar-has-always-been-moving-are-you-3elh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
