@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own AI-Powered StreamDeck with re:Button](https://dev.to/vsenger/building-your-own-ai-powered-streamdeck-with-rebutton-4ol5)
-- [BCrypt vs Argon2: Password Hashing in .NET – A Practical Deep Dive](https://dev.to/imzihad21/bcrypt-vs-argon2-password-hashing-in-net-a-practical-deep-dive-54co)
-- [AI isn’t just changing how developers work; it’s creating an entirely new developer economy, where individuals can capture value that previously required companies, teams, or platforms. Let us study how we can make it.](https://dev.to/jaideepparashar/ai-isnt-just-changing-how-developers-work-its-creating-an-entirely-new-developer-economy-where-35a6)
-- [The AI-Powered Developer Economy: Opportunities You’re Missing](https://dev.to/jaideepparashar/the-ai-powered-developer-economy-opportunities-youre-missing-fe5)
-- [I Built DevConnect — Because My Developer WhatsApp Group Is a Goldmine That Keeps Forgetting Everything](https://dev.to/_boweii/i-built-devconnect-because-my-developer-whatsapp-group-is-a-goldmine-that-keeps-forgetting-4jom)
+- [How to Delete an AWS Route 53 Hosted Zone in a Cascade Manner &lpar;Using AWS CLI&rpar;](https://dev.to/pilgrim2go/how-to-delete-an-aws-route-53-hosted-zone-in-a-cascade-manner-using-aws-cli-4589)
+- [Why Your AI Agent Framework Is Basically a Hashmap &lpar;And How I Fixed It With Rust Swarm Math&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/why-your-ai-agent-framework-is-basically-a-hashmap-and-how-i-fixed-it-with-rust-swarm-math-2a4d)
+- [LANimals 001: Continuous Deployment](https://dev.to/gnomeman4201/lanimals-001-continuous-deployment-42b2)
+- [Bolivia Military Cargo Plane Crash 2026: 11 Killed — What We Know](https://dev.to/trendplus_kr/bolivia-military-cargo-plane-crash-2026-11-killed-what-we-know-4f46)
+- [Phase 1 - Building a Multi-Region Backend on Azure &lpar;Before Azure Front Door&rpar;](https://dev.to/pilgrim2go/phase-1-building-a-multi-region-backend-on-azure-before-azure-front-door-1ik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
