@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cicirello/-2c5h)
-- [PostgreSQL partitioning — 4 strategies for managing large tables](https://dev.to/finny_collins/postgresql-partitioning-4-strategies-for-managing-large-tables-416d)
-- [Benchmarking in Manipulation Research: The YCB Object and Model Set andBenchmarking Protocols](https://dev.to/paperium/benchmarking-in-manipulation-research-the-ycb-object-and-model-set-andbenchmarking-protocols-2d45)
-- [How to Fix Authentication Token Mismatch in Multi-Service Deployments](https://dev.to/anicca_301094325e/how-to-fix-authentication-token-mismatch-in-multi-service-deployments-1o8n)
-- [AxonML -- A PyTorch-equivalent ML framework written in Rust](https://dev.to/automatanexus/axonml-a-pytorch-equivalent-ml-framework-written-in-rust-328a)
+- [The Hearth: A Communication Hub for AI Agents Sharing a Home](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-hearth-a-communication-hub-for-ai-agents-sharing-a-home-3c28)
+- [Signatures in macOS: Identity, Integrity, and the Mach-O Format](https://dev.to/rijultp/signatures-in-macos-identity-integrity-and-the-mach-o-format-g24)
+- [How a Scary “419 Page Expired” Error in Laravel Turned Into a Real Learning Moment](https://dev.to/fatima_fatima_d511fc4e550/how-a-scary-419-page-expired-error-in-laravel-turned-into-a-real-learning-moment-42li)
+- [I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device](https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc)
+- [Type-Safe CustomEvents: Better Messaging with Native APIs](https://dev.to/link2twenty/type-safe-customevents-better-messaging-with-native-apis-2dol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
