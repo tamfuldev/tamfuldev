@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Как конвертировать CHM в один PDF на Linux: без мусора и битых ссылок](https://dev.to/_vproger_/kak-konviertirovat-chm-v-odin-pdf-na-linux-biez-musora-i-bitykh-ssylok-3edd)
-- [Azure AI Search Advanced RAG with Terraform: Hybrid Search, Semantic Ranking, and Agentic Retrieval 🧠](https://dev.to/suhas_mallesh/azure-ai-search-advanced-rag-with-terraform-hybrid-search-semantic-ranking-and-agentic-retrieval-180k)
-- [S&amp;OP: Por qué tu Excel te miente &lpar;y cómo interrogarlo con Python&rpar;](https://dev.to/datalaria/sop-por-que-tu-excel-te-miente-y-como-interrogarlo-con-python-o74)
-- [AI Found 12 OpenSSL Bugs Hiding for 27 Years. Your Code Review Isn&#39;t Enough Anymore.](https://dev.to/zhongcheng_dazhi_492544bd/ai-found-12-openssl-bugs-hiding-for-27-years-your-code-review-isnt-enough-anymore-b69)
-- [Your LLM API Is an Attack Surface. Are You Scanning It?](https://dev.to/onoz1169/your-llm-api-is-an-attack-surface-are-you-scanning-it-4f0a)
+- [파일 읽기](https://dev.to/koareum/pail-ilggi-283p)
+- [GeoGemini PetroLab: AI-Powered Outcrop Analysis &amp; Deep Geological Reasoning](https://dev.to/muhammad_yasin_f39f26989f/geogemini-petrolab-ai-powered-outcrop-analysis-deep-geological-reasoning-4e42)
+- [Inside the Multilingual Playground: How the Browser, WASM Runtime, and Language Packs Fit Together](https://dev.to/jsamwrites/inside-the-multilingual-playground-how-the-browser-wasm-runtime-and-language-packs-fit-together-3f27)
+- [How I Solved DynamoDB + Amplify Search Problem with OpenSearch for $27/Month Instead of Migrating to Aurora](https://dev.to/coa00/how-i-solved-dynamodbs-search-problem-with-opensearch-for-27month-instead-of-migrating-to-aurora-300f)
+- [TokenLens - A CLI tool to check token usage for Cursor and other AI providers.](https://dev.to/ctzeero/tokenlens-a-cli-tool-to-check-token-usage-for-cursor-and-other-ai-providers-5fbh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
