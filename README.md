@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step Functions Distributed Map Best Practices for Large-Scale Batch Workloads](https://dev.to/aws-builders/step-functions-distributed-map-best-practices-for-large-scale-batch-workloads-55n2)
-- [I spent 25 hours this weekend creating the world&#39;s first social media + ecosystem platform for open source developers.](https://dev.to/abhinandan1/i-spent-25-hours-this-weekend-creating-the-worlds-first-social-media-ecosystem-platform-for-open-4dpe)
-- [Digital Postcards](https://dev.to/vasilisskourtisdev/digital-postcards-40ci)
-- [JH Link: A PWA to Connect and Engage Our Local Youth Center](https://dev.to/olivier_vanheste_62a5c2c6/jh-link-a-pwa-to-connect-and-engage-our-local-youth-center-5ahb)
-- [📨 Pop-out Messaging Extension: Dev Whisper](https://dev.to/annavi11arrea1/pop-out-messaging-extension-dev-whisper-4bma)
+- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-2j5j)
+- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-ek8)
+- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-hg8)
+- [Understanding Variables and Data Types in JavaScript](https://dev.to/hiral/understanding-variables-and-data-types-in-javascript-2m4j)
+- [Criando uma arquitetura de microsserviços para organização de decks Yu-Gi-Oh com Spring Boot – Parte 03](https://dev.to/odevpedro/criando-uma-arquitetura-de-microsservicos-para-organizacao-de-decks-yu-gi-oh-com-spring-boot--1oh9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
