@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
-- [WordPress Security in 2026: What&#39;s Changed](https://dev.to/davidshusterman/wordpress-security-in-2026-whats-changed-4n1e)
-- [Supabase is Blocked in India. Here&#39;s the Free Fix Using a Cloudflare Worker](https://dev.to/ritvikdayal/supabase-is-blocked-in-india-heres-the-exact-fix-using-a-cloudflare-worker-2ejf)
-- [Every service I build will die](https://dev.to/olliechurch/every-service-i-build-will-die-3i8g)
-- [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85)
+- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/hiral/arrow-functions-in-javascript-a-simpler-way-to-write-functions-5g6g)
+- [Understanding TimescaleDB Background Workers and Jobs](https://dev.to/philip_mcclarence_2ef9475/understanding-timescaledb-background-workers-and-jobs-3mlc)
+- [AI Guardrails: Anthropic vs DoW vs OpenAI — কে আসল বিজয়ী?](https://dev.to/ursarahim/ai-guardrails-anthropic-vs-dow-vs-openai-ke-aasl-bijyyii-5699)
+- [AI Reads 12 Sources But Only Cites 4 — The Invisible &#39;Consulted But Not Cited&#39; Problem](https://dev.to/wilow445/ai-reads-12-sources-but-only-cites-4-the-invisible-consulted-but-not-cited-problem-56pb)
+- [Solved: Finally stopped doing sales calls myself. Revenue dropped 40%.](https://dev.to/techresolve/solved-finally-stopped-doing-sales-calls-myself-revenue-dropped-40-55en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
