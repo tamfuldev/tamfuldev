@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [agentwallet-sdk v2.5.0: Your AI Agent Now Works on Arbitrum and Optimism](https://dev.to/up2itnow0822/agentwallet-sdk-v250-your-ai-agent-now-works-on-arbitrum-and-optimism-6i2)
-- [Why standard searches fail for deep technical questions - and how to fix the gap](https://dev.to/sofiabennett84/why-standard-searches-fail-for-deep-technical-questions-and-how-to-fix-the-gap-bc0)
-- [Build a $10 DIY Wi-Fi USB Keylogger with ESP32-S3 and MicroPython &lpar;DuckLogger&rpar;](https://dev.to/itsmmdoha/build-a-10-diy-wi-fi-usb-keylogger-with-esp32-s3-and-micropython-ducklogger-30dl)
-- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
-- [Acessibilidade Web: Guia de boas práticas para interfaces inclusivas ♿️](https://dev.to/psrodrigs/acessibilidade-web-guia-de-boas-praticas-para-interfaces-inclusivas-4jjf)
+- [Stop Writing Slow SQL: 7 Query Optimization Tricks Every Developer Should Know](https://dev.to/teguh_coding/stop-writing-slow-sql-7-query-optimization-tricks-every-developer-should-know-3plj)
+- [Building a Production-Grade Table Editor with React and XState — Adding Rows &amp; Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
+- [Data Engineering: Beginner’s Guide to Data Engineering Architecture](https://dev.to/babuvino13/data-engineering-beginners-guide-to-data-engineering-architecture-5dfk)
+- [AI Agents in Semantic Kernel: ChatCompletionAgent, AgentGroupChat, and Orchestration](https://dev.to/bspann/ai-agents-in-semantic-kernel-chatcompletionagent-agentgroupchat-and-orchestration-50am)
+- [How I built an AI-powered plant swap community app in a weekend](https://dev.to/soham0047/how-i-built-an-ai-powered-plant-swap-community-app-in-a-weekend-2co4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
