@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vendor Lock-In Happens Through Networking — Not APIs](https://dev.to/ntctech/vendor-lock-in-happens-through-networking-not-apis-4o9h)
-- [I invested in stocks… turns out they were JPEGs.](https://dev.to/devhashfortheweb/i-invested-in-stocks-turns-out-they-were-jpegs-4c3f)
-- [I Built an AI Pet Photographer to Help Shelter Animals Get Adopted &lpar;Inspired by Google&#39;s Campaign&rpar;](https://dev.to/harsh2644/i-built-an-ai-pet-photographer-to-help-shelter-animals-get-adopted-inspired-by-googles-campaign-5ci4)
-- [How We Built a Multi-Industry WhatsApp AI Agent in Israel](https://dev.to/aibuddy_il/how-we-built-a-multi-industry-whatsapp-ai-agent-in-israel-4mfj)
-- [Providing storage for the IT department testing and training](https://dev.to/kingbabz/providing-storage-for-the-it-department-testing-and-training-47d2)
+- [I built a per-app audio mixer for macOS as a solo dev](https://dev.to/castorlogic/i-built-a-per-app-audio-mixer-for-macos-as-a-solo-dev-4418)
+- [Django Applications for Internal Tools: Pablo M. Rivera&#39;s Development Strategy](https://dev.to/pablo_rivera_ce33bab7970b/django-applications-for-internal-tools-pablo-m-riveras-development-strategy-n8m)
+- [React Dashboards for Real-Time Operations Visibility: Pablo M. Rivera&#39;s Approach](https://dev.to/pablo_rivera_ce33bab7970b/react-dashboards-for-real-time-operations-visibility-pablo-m-riveras-approach-5ad7)
+- [The Next Leap in RAG Isn’t a Better Model - It’s Better Retrieval](https://dev.to/gaurav_talesara/the-next-leap-in-rag-isnt-a-better-model-its-better-retrieval-4aee)
+- [130 Shades of Gray: Building a Design Token Pipeline That Killed Our Color Chaos](https://dev.to/vmvenkatesh78/130-shades-of-gray-building-a-design-token-pipeline-that-killed-our-color-chaos-6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
