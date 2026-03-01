@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built 6 JavaScript widgets with zero dependencies — here&#39;s what I learned from each](https://dev.to/ali_rajab_caef7d25f6410f2/i-built-6-javascript-widgets-with-zero-dependencies-heres-what-i-learned-from-each-21ca)
-- [I Built an AI Agent That Runs My Infrastructure](https://dev.to/kainorden/i-built-an-ai-agent-that-runs-my-infrastructure-4e93)
-- [A New Adventure in Code](https://dev.to/julianaalbertyn/a-new-adventure-in-code-156m)
-- [Triphop &lpar;2015&rpar;: An Exploration of a Real-Time TODO Application](https://dev.to/rpi1337/triphop-2015-an-exploration-of-a-real-time-todo-application-47e1)
-- [GlowInspo: When AI Dresses My Monday Anxiety](https://dev.to/geets_a1be902588b38e52740/glowinspo-when-ai-dresses-my-monday-anxiety-47np)
+- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
+- [WordPress Security in 2026: What&#39;s Changed](https://dev.to/davidshusterman/wordpress-security-in-2026-whats-changed-4n1e)
+- [Supabase is Blocked in India. Here&#39;s the Free Fix Using a Cloudflare Worker](https://dev.to/ritvikdayal/supabase-is-blocked-in-india-heres-the-exact-fix-using-a-cloudflare-worker-2ejf)
+- [Every service I build will die](https://dev.to/olliechurch/every-service-i-build-will-die-3i8g)
+- [Scaling AI Memory: How I Tamed a 120k-Token Prompt with Deterministic GraphRAG](https://dev.to/juandastic/scaling-ai-memory-how-i-tamed-a-120k-token-prompt-with-deterministic-graphrag-4f85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
