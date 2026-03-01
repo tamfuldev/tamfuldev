@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah)
-- [Your Benchmarks Are Lying to You &lpar;And This 148-Star Crate Knows Why&rpar;](https://dev.to/ticktockbent/your-benchmarks-are-lying-to-you-and-this-148-star-crate-knows-why-213h)
-- [Claude Code VS Code extension freezes with multiple chat tabs? Workaround for Windows](https://dev.to/alexisfranorge/claude-code-vs-code-extension-freezes-with-multiple-chat-tabs-workaround-for-windows-351o)
-- [Prompt to AI-generated binary is feasible. And is doomsday for programmers near?](https://dev.to/zijianhuang/prompt-to-ai-generated-binary-is-feasible-and-is-the-doom-day-for-programmers-near-4bij)
-- [Software should serve the Business, not the other way around.](https://dev.to/hamizulfaiz/software-should-serve-the-business-not-the-other-way-around-pea)
+- [By 2030, degrees won’t disappear. But opportunities will not be limited to degrees only.
+
+AI doesn’t reward those who finished learning. It rewards those who never stop learning.](https://dev.to/jaideepparashar/by-2030-degrees-wont-disappear-but-opportunities-will-not-be-limited-to-degrees-only-ai-4ekc)
+- [CVE-2026-28415: Open Redirect in Gradio OAuth Flow Enables Phishing Attacks](https://dev.to/cverports/cve-2026-28415-open-redirect-in-gradio-oauth-flow-enables-phishing-attacks-a5m)
+- [🚀Mission Accomplished: Building a Real-Time AI Spatial Agent | Vision Possible Hackathon &amp; The Power of Learning by Building](https://dev.to/swagatika_beura2/mission-accomplished-building-a-real-time-ai-spatial-agent-vision-possible-hackathon-the-40m5)
+- [We have a FBI director named Kash Patel, but People don&#39;t have Kash. Something is strange](https://dev.to/bibimbop123/we-have-a-fbi-director-named-kash-patel-but-people-dont-have-kash-something-is-strange-h8n)
+- [Why Continuous AI Learning Will Be More Valuable Than a Degree in 2030](https://dev.to/jaideepparashar/why-continuous-ai-learning-will-be-more-valuable-than-a-degree-in-2030-4jld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
