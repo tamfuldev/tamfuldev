@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Hid My Portfolio in Pitch Darkness. Google Gemini Helped Me Build the Torch.](https://dev.to/depapp/i-hid-my-portfolio-in-pitch-darkness-google-gemini-helped-me-build-the-torch-521o)
-- [Stable Diffusion vs Midjourney vs DALL-E 3: AI Image Generation Compared](https://dev.to/arenasbob2024cell/stable-diffusion-vs-midjourney-vs-dall-e-3-ai-image-generation-compared-4j6a)
-- [# ⚽ PeakPlay: I Built a Community Football Hub to Replace WhatsApp Chaos](https://dev.to/venkattraining/-peakplay-i-built-a-community-football-hub-to-replace-whatsapp-chaos-3161)
-- [Trust Is an Engineering Output: How Teams Earn Credibility When Systems Break](https://dev.to/sonia_bobrik_1939cdddd79d/trust-is-an-engineering-output-how-teams-earn-credibility-when-systems-break-1k4f)
-- [Stop Writing Spaghetti API Routes — Structure Your Express.js App Like a Pro](https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-structure-your-expressjs-app-like-a-pro-1d02)
+- [Vendor Lock-In Happens Through Networking — Not APIs](https://dev.to/ntctech/vendor-lock-in-happens-through-networking-not-apis-4o9h)
+- [I invested in stocks… turns out they were JPEGs.](https://dev.to/devhashfortheweb/i-invested-in-stocks-turns-out-they-were-jpegs-4c3f)
+- [I Built an AI Pet Photographer to Help Shelter Animals Get Adopted &lpar;Inspired by Google&#39;s Campaign&rpar;](https://dev.to/harsh2644/i-built-an-ai-pet-photographer-to-help-shelter-animals-get-adopted-inspired-by-googles-campaign-5ci4)
+- [How We Built a Multi-Industry WhatsApp AI Agent in Israel](https://dev.to/aibuddy_il/how-we-built-a-multi-industry-whatsapp-ai-agent-in-israel-4mfj)
+- [Providing storage for the IT department testing and training](https://dev.to/kingbabz/providing-storage-for-the-it-department-testing-and-training-47d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
