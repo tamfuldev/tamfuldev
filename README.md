@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
-- [I deleted my entire AI microservice and just used Postgres &lpar;here is why&rpar; 🐘⚡](https://dev.to/amals367/i-deleted-my-entire-ai-microservice-and-just-used-postgres-here-is-why-541m)
-- [We Need an Emission Test for AI](https://dev.to/almadar/we-need-an-emission-test-for-ai-1pla)
-- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
-- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
+- [I Hid My Portfolio in Pitch Darkness. Google Gemini Helped Me Build the Torch.](https://dev.to/depapp/i-hid-my-portfolio-in-pitch-darkness-google-gemini-helped-me-build-the-torch-521o)
+- [Stable Diffusion vs Midjourney vs DALL-E 3: AI Image Generation Compared](https://dev.to/arenasbob2024cell/stable-diffusion-vs-midjourney-vs-dall-e-3-ai-image-generation-compared-4j6a)
+- [# ⚽ PeakPlay: I Built a Community Football Hub to Replace WhatsApp Chaos](https://dev.to/venkattraining/-peakplay-i-built-a-community-football-hub-to-replace-whatsapp-chaos-3161)
+- [Trust Is an Engineering Output: How Teams Earn Credibility When Systems Break](https://dev.to/sonia_bobrik_1939cdddd79d/trust-is-an-engineering-output-how-teams-earn-credibility-when-systems-break-1k4f)
+- [Stop Writing Spaghetti API Routes — Structure Your Express.js App Like a Pro](https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-structure-your-expressjs-app-like-a-pro-1d02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
