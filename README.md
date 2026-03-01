@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Slow SQL: 7 Query Optimization Tricks Every Developer Should Know](https://dev.to/teguh_coding/stop-writing-slow-sql-7-query-optimization-tricks-every-developer-should-know-3plj)
-- [Building a Production-Grade Table Editor with React and XState — Adding Rows &amp; Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
-- [Data Engineering: Beginner’s Guide to Data Engineering Architecture](https://dev.to/babuvino13/data-engineering-beginners-guide-to-data-engineering-architecture-5dfk)
-- [AI Agents in Semantic Kernel: ChatCompletionAgent, AgentGroupChat, and Orchestration](https://dev.to/bspann/ai-agents-in-semantic-kernel-chatcompletionagent-agentgroupchat-and-orchestration-50am)
-- [How I built an AI-powered plant swap community app in a weekend](https://dev.to/soham0047/how-i-built-an-ai-powered-plant-swap-community-app-in-a-weekend-2co4)
+- [StarGather: Shared Astronomy Observation Log with Instant Sky Map Viewer &lpar;DEV Weekend Challenge: Community&rpar;](https://dev.to/datadr1ven/stargather-shared-astronomy-observation-log-with-instant-sky-map-viewer-dev-weekend-challenge-4ohp)
+- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
+- [L&#39;accessibilité web n&#39;est pas une option — et voici pourquoi ça vous coûte des clients](https://dev.to/yourweb/laccessibilite-web-nest-pas-une-option-et-voici-pourquoi-ca-vous-coute-des-clients-4nbe)
+- [I built a React library for Material 3 “Expressive” &lpar;with motion&rpar; — demos + docs](https://dev.to/prudhvi_raj/i-built-a-react-library-for-material-3-expressive-with-motion-demos-docs-mb1)
+- [I Built an AI Video Ad Generator with Claude + MCP — Here&#39;s the Architecture](https://dev.to/qays_kadhim_c3fea1c94957f/i-built-an-ai-video-ad-generator-with-claude-mcp-heres-the-architecture-1kei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
