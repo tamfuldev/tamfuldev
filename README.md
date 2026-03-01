@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/hiral/arrow-functions-in-javascript-a-simpler-way-to-write-functions-5g6g)
-- [Understanding TimescaleDB Background Workers and Jobs](https://dev.to/philip_mcclarence_2ef9475/understanding-timescaledb-background-workers-and-jobs-3mlc)
-- [AI Guardrails: Anthropic vs DoW vs OpenAI — কে আসল বিজয়ী?](https://dev.to/ursarahim/ai-guardrails-anthropic-vs-dow-vs-openai-ke-aasl-bijyyii-5699)
-- [AI Reads 12 Sources But Only Cites 4 — The Invisible &#39;Consulted But Not Cited&#39; Problem](https://dev.to/wilow445/ai-reads-12-sources-but-only-cites-4-the-invisible-consulted-but-not-cited-problem-56pb)
-- [Solved: Finally stopped doing sales calls myself. Revenue dropped 40%.](https://dev.to/techresolve/solved-finally-stopped-doing-sales-calls-myself-revenue-dropped-40-55en)
+- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
+- [I deleted my entire AI microservice and just used Postgres &lpar;here is why&rpar; 🐘⚡](https://dev.to/amals367/i-deleted-my-entire-ai-microservice-and-just-used-postgres-here-is-why-541m)
+- [We Need an Emission Test for AI](https://dev.to/almadar/we-need-an-emission-test-for-ai-1pla)
+- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
+- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
