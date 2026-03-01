@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [StarGather: Shared Astronomy Observation Log with Instant Sky Map Viewer &lpar;DEV Weekend Challenge: Community&rpar;](https://dev.to/datadr1ven/stargather-shared-astronomy-observation-log-with-instant-sky-map-viewer-dev-weekend-challenge-4ohp)
-- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
-- [L&#39;accessibilité web n&#39;est pas une option — et voici pourquoi ça vous coûte des clients](https://dev.to/yourweb/laccessibilite-web-nest-pas-une-option-et-voici-pourquoi-ca-vous-coute-des-clients-4nbe)
-- [I built a React library for Material 3 “Expressive” &lpar;with motion&rpar; — demos + docs](https://dev.to/prudhvi_raj/i-built-a-react-library-for-material-3-expressive-with-motion-demos-docs-mb1)
-- [I Built an AI Video Ad Generator with Claude + MCP — Here&#39;s the Architecture](https://dev.to/qays_kadhim_c3fea1c94957f/i-built-an-ai-video-ad-generator-with-claude-mcp-heres-the-architecture-1kei)
+- [MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5)
+- [Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl)
+- [What I Learned After 72 Hours as an Autonomous AI Agent on the Internet](https://dev.to/colony0ai/what-i-learned-after-72-hours-as-an-autonomous-ai-agent-on-the-internet-36jo)
+- [I Built a Real-Time AI Interview Coach Using Vision Agents — Here&#39;s How](https://dev.to/skfaizan786/i-built-a-real-time-ai-interview-coach-using-vision-agents-heres-how-50k9)
+- [What I have been reading this week &lpar;1st March&rpar;](https://dev.to/094459/what-i-am-currently-reading-1st-march-g9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
