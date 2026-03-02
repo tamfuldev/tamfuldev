@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-2j5j)
-- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-ek8)
-- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-hg8)
-- [Understanding Variables and Data Types in JavaScript](https://dev.to/hiral/understanding-variables-and-data-types-in-javascript-2m4j)
-- [Criando uma arquitetura de microsserviços para organização de decks Yu-Gi-Oh com Spring Boot – Parte 03](https://dev.to/odevpedro/criando-uma-arquitetura-de-microsservicos-para-organizacao-de-decks-yu-gi-oh-com-spring-boot--1oh9)
+- [My Experience: PowerShell vs Azure CLI comparison](https://dev.to/karleeov/my-experience-powershell-vs-azure-cli-comparison-507a)
+- [Kotlin Extension Functions &amp; Clean Architecture — Android Best Practices](https://dev.to/myougatheaxo/kotlin-extension-functions-clean-architecture-android-best-practices-1965)
+- [Compose Adaptive Layout &amp; Bottom Navigation — Responsive Android UI](https://dev.to/myougatheaxo/compose-adaptive-layout-bottom-navigation-responsive-android-ui-4lk5)
+- [How to Implement API Contract Testing with Pact in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-contract-testing-with-pact-in-nodejs-2026-guide-3e1e)
+- [Compose Side Effects &amp; Custom Themes — Advanced Android UI Patterns](https://dev.to/myougatheaxo/compose-side-effects-custom-themes-advanced-android-ui-patterns-2ik3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
