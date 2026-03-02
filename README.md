@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 3D Snake Game with Three.js — Runs in a Single HTML File](https://dev.to/blinknbuild/i-built-a-3d-snake-game-with-threejs-runs-in-a-single-html-file-1n7)
-- [From scikit-learn to Production, Deploying ML Models That Actually Work](https://dev.to/redoh/from-scikit-learn-to-production-deploying-ml-models-that-actually-work-4i02)
-- [Hunting strings in binary files](https://dev.to/dax89/hunting-strings-in-binary-files-4al9)
-- [Most Developers Don&#39;t Actually Understand What a &quot;Problem&quot; Is](https://dev.to/pure_ilminfinitelearnin/most-developers-dont-actually-understand-what-a-problem-is-lg2)
-- [How to Develop Minecraft Mods Using Temporal API?](https://dev.to/w4t3rcs/how-to-develop-minecraft-mods-using-temporal-api-260d)
+- [I tried parsing emails with regex. It went exactly how you think.](https://dev.to/nikola_mitrovic_922e2665f/i-tried-parsing-emails-with-regex-it-went-exactly-how-you-think-2j9c)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 4 Monitoring, unsupported features, challenges and pricing](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-4-monitoring-unsupported-features-9l6)
+- [Three API Calls That Make Your LLM Workflow Dramatically Better](https://dev.to/marras0914/three-api-calls-that-make-your-llm-workflow-dramatically-better-33e3)
+- [I Can&#39;t Write Code. I Pay $200/Month for AI. My Life Is Now a Hardcore Game.](https://dev.to/yurukusa/i-cant-write-code-i-pay-200month-for-ai-my-life-is-now-a-hardcore-game-552k)
+- [🛠️ I Built a One-Click ComfyUI Setup for RTX 5090 on Windows — No WSL2, No Docker](https://dev.to/genelab_999/i-built-a-one-click-comfyui-setup-for-rtx-5090-on-windows-no-wsl2-no-docker-4n1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
