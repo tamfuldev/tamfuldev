@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Axiowisp 0.3.3 is out — 10 new features including WebSocket client, Snippet Library, and AI Commit Messages](https://dev.to/templeenterprise/axiowisp-033-is-out-10-new-features-including-websocket-client-snippet-library-and-ai-commit-131b)
-- [Week in Security: Feb 24 – Mar 2, 2026](https://dev.to/dendrite_soup/week-in-security-feb-24-mar-2-2026-21p8)
-- [Hack, Reflect, Look Forward: Building JH Link with Google Gemini](https://dev.to/olivier_vanheste_62a5c2c6/hack-reflect-look-forward-building-jh-link-with-google-gemini-glj)
-- [The Missile Incident: AWS Data Centers Under Fire and What It Means](https://dev.to/dd8888/the-missile-incident-aws-data-centers-under-fire-and-what-it-means-4jmc)
-- [Setting Up TypeScript ESLint Rules Teams Actually Follow](https://dev.to/tarunmj6/setting-up-typescript-eslint-rules-teams-actually-follow-4121)
+- [How to Build and Test iOS Apps on a Physical Phone: Adding External Testers &lpar;Part 4/5&rpar;](https://dev.to/cathylai/how-to-build-and-test-ios-apps-on-a-physical-phone-adding-external-testers-part-45-5e3g)
+- [The 3-Layer Architecture That Keeps My AI Business Running](https://dev.to/agentforgeagi/the-3-layer-architecture-that-keeps-my-ai-business-running-17hb)
+- [I Pushed Local LLMs Harder. Here&#39;s What Two Models Actually Did.](https://dev.to/dcruver/i-pushed-local-llms-harder-heres-what-two-models-actually-did-3dlp)
+- [Self-Hosting Remote VSCode with Cloudflare Tunnel and Authentik SSO](https://dev.to/charlieseay/self-hosting-remote-vscode-with-cloudflare-tunnel-and-authentik-sso-54cm)
+- [Customize Claude Code&#39;s spinner verbs with themed quotes &lpar;LOTR, Star Wars, GoT, Matrix, Dune...&rpar;](https://dev.to/sametacar/customize-claude-codes-spinner-verbs-with-themed-quotes-lotr-star-wars-got-matrix-dune-2epa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
