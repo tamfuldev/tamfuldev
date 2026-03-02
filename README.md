@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I tried parsing emails with regex. It went exactly how you think.](https://dev.to/nikola_mitrovic_922e2665f/i-tried-parsing-emails-with-regex-it-went-exactly-how-you-think-2j9c)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 4 Monitoring, unsupported features, challenges and pricing](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-4-monitoring-unsupported-features-9l6)
-- [Three API Calls That Make Your LLM Workflow Dramatically Better](https://dev.to/marras0914/three-api-calls-that-make-your-llm-workflow-dramatically-better-33e3)
-- [I Can&#39;t Write Code. I Pay $200/Month for AI. My Life Is Now a Hardcore Game.](https://dev.to/yurukusa/i-cant-write-code-i-pay-200month-for-ai-my-life-is-now-a-hardcore-game-552k)
-- [🛠️ I Built a One-Click ComfyUI Setup for RTX 5090 on Windows — No WSL2, No Docker](https://dev.to/genelab_999/i-built-a-one-click-comfyui-setup-for-rtx-5090-on-windows-no-wsl2-no-docker-4n1i)
+- [Why Every Dev Using AI Coding Assistants Needs a Usage Dashboard &lpar;Before You Hit the Wall Mid-Sprint&rpar;](https://dev.to/jamie_b714bfb128f0fd9ce03/why-every-dev-using-ai-coding-assistants-needs-a-usage-dashboard-before-you-hit-the-wall-2h21)
+- [NixOS. Snikket. Self-host E2EE messenger with calls](https://dev.to/axkira/nixos-snikket-self-host-e2ee-messenger-with-calls-3j0i)
+- [I Built a SaaS by Emailing an AI for 5 Days](https://dev.to/jtavares/i-built-a-saas-by-emailing-an-ai-for-5-days-5e2c)
+- [HowTo: Pull Request on Git and GitHub Open Source Repo - Step by Step](https://dev.to/jcasman/howto-pull-request-on-git-and-github-open-source-repo-step-by-step-3h5)
+- [SkySwarm: When Autonomous Agents Take Over the Virtual Skies](https://dev.to/harishkotra/skyswarm-when-autonomous-agents-take-over-the-virtual-skies-4dhk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
