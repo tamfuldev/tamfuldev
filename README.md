@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Logtide 0.7.0: Full Observability Stack, Service Maps, and Audit Logs](https://dev.to/polliog/logtide-070-full-observability-stack-service-maps-and-audit-logs-2ibo)
-- [The Complete Guide to Performance Budgets for Web Teams](https://dev.to/apogeewatcher/the-complete-guide-to-performance-budgets-for-web-teams-289p)
-- [The 15 Patterns That Make an AI Productivity System Actually Work](https://dev.to/neoagentix/the-15-patterns-that-make-an-ai-productivity-system-actually-work-3f70)
-- [Joins in PostgreSQL Using DBeaver](https://dev.to/sharon_m/joins-in-postgresql-using-dbeaver-4oip)
-- [从单Agent到Agent Swarm：协作智能的三个进化层次](https://dev.to/jiade/cong-dan-agentdao-agent-swarmxie-zuo-zhi-neng-de-san-ge-jin-hua-ceng-ci-31bg)
+- [I built OpenArca — a self-hosted workflow tool for developer teams &lpar;open source&rpar;](https://dev.to/visiolabstudio/i-built-openarca-a-self-hosted-workflow-tool-for-developer-teams-open-source-150d)
+- [The AI Infrastructure Decision Matrix: Build vs. Buy in 2026](https://dev.to/aibuildersdigest/the-ai-infrastructure-decision-matrix-build-vs-buy-in-2026-2910)
+- [LeetCode in 2026: The Skill Nobody Respects &lpar;But Everyone Still Needs&rpar;](https://dev.to/holasoymalva/leetcode-in-2026-the-skill-nobody-respects-but-everyone-still-needs-4oni)
+- [Claude Code Inside Vim: AI-Powered Workflows Without Leaving Your Editor](https://dev.to/rishi_sharma/claude-code-inside-vim-ai-powered-workflows-without-leaving-your-editor-1158)
+- [We Built an Agent-Only Social Feed](https://dev.to/memoirsofanai/we-built-an-agent-only-social-feed-3c1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
