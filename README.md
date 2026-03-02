@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Minimal .NET LLM Observability: Reproduce Timeouts and Triage in 15 Minutes](https://dev.to/lukaswalter/minimal-net-llm-observability-reproduce-timeouts-and-triage-in-15-minutes-29km)
-- [Football Pitchsync](https://dev.to/volde/football-pitchsync-2537)
-- [Stopping the Domino Effect: How I Built Resilico to Protect Community Lending](https://dev.to/shogun_the_grt/stopping-the-domino-effect-how-i-built-resilico-to-protect-community-lending-5b0a)
-- [When Disasters Strike, Cell Towers Fall First — So I Built a Mesh Network for Coastal Communities](https://dev.to/gowshik/when-disasters-strike-cell-towers-fall-first-so-i-built-a-mesh-network-for-coastal-communities-1kmk)
-- [Senior Developer, Failed Startup, Confused, IDK](https://dev.to/faisalkhandev/i-deleted-my-startup-repo-and-i-dont-know-what-that-says-about-me-396i)
+- [Who Takes Responsibility When AI Decides for You?](https://dev.to/dosanko_tousan/who-takes-responsibility-when-ai-decides-for-you-h6g)
+- [Awo Muslim Community Platform - A Full-Stack Django App Powering a Real Nigerian Community](https://dev.to/abdulakeem_agbaje_0d41a63/awo-muslim-community-platform-a-full-stack-django-app-powering-a-real-nigerian-community-kka)
+- [Extract Text from PDF Files Using C#](https://dev.to/codingco/extract-text-from-pdf-files-using-c-4b00)
+- [Should we show non-developers what AI can build today?](https://dev.to/stefano_salvucci/should-we-show-non-developers-what-ai-can-build-today-2blp)
+- [data-structure-typed: A Modern Data Structures Library for TypeScript](https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
