@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Add an Audit Trail to Your API in Minutes with HazelJS](https://dev.to/arslan_mecom/add-an-audit-trail-to-your-api-in-minutes-with-hazeljs-3akn)
-- [.NET: CopyToAsync vs WriteAsync: The Benchmark You Didn’t Know You Needed](https://dev.to/gramli/net-copytoasync-vs-writeasync-the-benchmark-you-didnt-know-you-needed-1g39)
-- [What It Takes to Build a High-Performing Team](https://dev.to/icetique/what-it-takes-to-build-a-high-performing-team-3n4h)
-- [Solved: Fresher self-studying Linux/DevOps, feeling stuck even after lots of effort need guidance](https://dev.to/techresolve/solved-fresher-self-studying-linuxdevops-feeling-stuck-even-after-lots-of-effort-need-guidance-282j)
-- [-&gt;&gt; Provisioning an AWS S3 Bucket using HCP Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-provisioning-an-aws-s3-bucket-using-hcp-terraform-1mjc)
+- [Building an Agentic AI Weather Assistant Using Amazon Bedrock](https://dev.to/aws-builders/building-an-agentic-ai-weather-assistant-using-amazon-bedrock-5a15)
+- [No Ads Focus Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/no-ads-focus-drills-what-we-learned-building-random-tactical-timer-5chh)
+- [WebMCP Is Available for Early Preview: What You Need to Know](https://dev.to/onsen/webmcp-is-available-for-early-preview-what-you-need-to-know-3b32)
+- [4 Fault Tolerance Patterns Every AI Agent Needs in Production](https://dev.to/klement_gunndu/4-fault-tolerance-patterns-every-ai-agent-needs-in-production-jih)
+- [6 Hours Left: What Do You Actually Ship?](https://dev.to/soumia_g_9dc322fc4404cecd/6-hours-left-what-do-you-actually-ship-g4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
