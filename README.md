@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering for Volatility: Prepping My Java/Vue3 Dashboard for &quot;NFP Week&quot;](https://dev.to/osborneadams/engineering-for-volatility-prepping-my-javavue3-dashboard-for-nfp-week-3c3k)
-- [Why Do You Need a Rich Domain Model? That&#39;s Old School and Not Modern!](https://dev.to/leonpennings/why-do-you-need-a-rich-domain-model-thats-old-school-and-not-modern-2c3o)
-- [3 Vite Config Tricks That Save Hours of Frustration](https://dev.to/happy-lico/3-vite-config-tricks-that-save-hours-of-frustration-h61)
-- [3 Vite Tricks I Wish I Knew When I Started](https://dev.to/happy-lico/3-vite-tricks-i-wish-i-knew-when-i-started-h7p)
-- [PremAI vs Google Vertex AI: Privacy, Flexibility, and Cost Compared](https://dev.to/jaipalsingh/premai-vs-google-vertex-ai-privacy-flexibility-and-cost-compared-41d6)
+- [How to Use Docker with Python](https://dev.to/masteringbackend/how-to-use-docker-with-python-43bi)
+- [I replaced my agents markdown memory with a semantic graph](https://dev.to/eahm60/i-replaced-my-agents-markdown-memory-with-a-semantic-graph-1elp)
+- [Kairos](https://dev.to/bishalsunuwar202/kairos-5da2)
+- [I Built a CLI That Gives Your LLM Accurate Library Docs — No MCP Server Needed](https://dev.to/vedanthb/i-built-a-cli-that-gives-your-llm-accurate-library-docs-no-mcp-server-needed-47g)
+- [Why Modern AI Models Sound More “Explanatory”](https://dev.to/kato_masato_c5593c81af5c6/why-modern-ai-models-sound-more-explanatory-51h9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
