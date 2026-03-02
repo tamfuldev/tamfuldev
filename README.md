@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Docker with Python](https://dev.to/masteringbackend/how-to-use-docker-with-python-43bi)
-- [I replaced my agents markdown memory with a semantic graph](https://dev.to/eahm60/i-replaced-my-agents-markdown-memory-with-a-semantic-graph-1elp)
-- [Kairos](https://dev.to/bishalsunuwar202/kairos-5da2)
-- [I Built a CLI That Gives Your LLM Accurate Library Docs — No MCP Server Needed](https://dev.to/vedanthb/i-built-a-cli-that-gives-your-llm-accurate-library-docs-no-mcp-server-needed-47g)
-- [Why Modern AI Models Sound More “Explanatory”](https://dev.to/kato_masato_c5593c81af5c6/why-modern-ai-models-sound-more-explanatory-51h9)
+- [Why I Built an Industrial IoT Gateway Using Python and Serverless](https://dev.to/sangminwoo/why-i-built-an-industrial-iot-gateway-using-python-and-serverless-590)
+- [Data Pipeline Architecture: From Messy CSVs to Clean Database](https://dev.to/n3x1s/data-pipeline-architecture-from-messy-csvs-to-clean-database-285a)
+- [Designing Efficient Queries with SQL Joins and Window Functions](https://dev.to/edmund_eryuba/designing-efficient-queries-with-sql-joins-and-window-functions-447k)
+- [Built Testream - A Better Alternative for Jira Test Management](https://dev.to/hturan/built-testream-a-better-alternative-for-jira-test-management-ah5)
+- [WinClaw: Auto-Deploy to AWS, Azure &amp; Alibaba Cloud with AI-Powered Conversations](https://dev.to/winclawdev/winclaw-auto-deploy-to-aws-azure-alibaba-cloud-with-ai-powered-conversations-4pjo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
