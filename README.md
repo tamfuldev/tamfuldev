@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an Industrial IoT Gateway Using Python and Serverless](https://dev.to/sangminwoo/why-i-built-an-industrial-iot-gateway-using-python-and-serverless-590)
-- [Data Pipeline Architecture: From Messy CSVs to Clean Database](https://dev.to/n3x1s/data-pipeline-architecture-from-messy-csvs-to-clean-database-285a)
-- [Designing Efficient Queries with SQL Joins and Window Functions](https://dev.to/edmund_eryuba/designing-efficient-queries-with-sql-joins-and-window-functions-447k)
-- [Built Testream - A Better Alternative for Jira Test Management](https://dev.to/hturan/built-testream-a-better-alternative-for-jira-test-management-ah5)
-- [WinClaw: Auto-Deploy to AWS, Azure &amp; Alibaba Cloud with AI-Powered Conversations](https://dev.to/winclawdev/winclaw-auto-deploy-to-aws-azure-alibaba-cloud-with-ai-powered-conversations-4pjo)
+- [Add an Audit Trail to Your API in Minutes with HazelJS](https://dev.to/arslan_mecom/add-an-audit-trail-to-your-api-in-minutes-with-hazeljs-3akn)
+- [.NET: CopyToAsync vs WriteAsync: The Benchmark You Didn’t Know You Needed](https://dev.to/gramli/net-copytoasync-vs-writeasync-the-benchmark-you-didnt-know-you-needed-1g39)
+- [What It Takes to Build a High-Performing Team](https://dev.to/icetique/what-it-takes-to-build-a-high-performing-team-3n4h)
+- [Solved: Fresher self-studying Linux/DevOps, feeling stuck even after lots of effort need guidance](https://dev.to/techresolve/solved-fresher-self-studying-linuxdevops-feeling-stuck-even-after-lots-of-effort-need-guidance-282j)
+- [-&gt;&gt; Provisioning an AWS S3 Bucket using HCP Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-provisioning-an-aws-s3-bucket-using-hcp-terraform-1mjc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
