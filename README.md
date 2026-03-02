@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience: PowerShell vs Azure CLI comparison](https://dev.to/karleeov/my-experience-powershell-vs-azure-cli-comparison-507a)
-- [Kotlin Extension Functions &amp; Clean Architecture — Android Best Practices](https://dev.to/myougatheaxo/kotlin-extension-functions-clean-architecture-android-best-practices-1965)
-- [Compose Adaptive Layout &amp; Bottom Navigation — Responsive Android UI](https://dev.to/myougatheaxo/compose-adaptive-layout-bottom-navigation-responsive-android-ui-4lk5)
-- [How to Implement API Contract Testing with Pact in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-contract-testing-with-pact-in-nodejs-2026-guide-3e1e)
-- [Compose Side Effects &amp; Custom Themes — Advanced Android UI Patterns](https://dev.to/myougatheaxo/compose-side-effects-custom-themes-advanced-android-ui-patterns-2ik3)
+- [How to Check 10 Million Usernames in Under 1 Millisecond](https://dev.to/bchikara/how-to-check-10-million-usernames-in-under-1-millisecond-38bp)
+- [Orbital Insertion Successful: Space Junkies Uganda Goes Live](https://dev.to/ronlin1/orbital-insertion-successful-space-junkies-uganda-goes-live-1n7e)
+- [Firebase Remote Config Complete Guide — A/B Testing/Feature Flags/Compose Integration](https://dev.to/myougatheaxo/firebase-remote-config-complete-guide-ab-testingfeature-flagscompose-integration-55b6)
+- [Retrofit and OkHttp Guide for Android - API Definition and Interceptors &lpar;v2&rpar;](https://dev.to/myougatheaxo/retrofit-and-okhttp-guide-for-android-api-definition-and-interceptors-v2-2caj)
+- [Compose Stability and Recomposition Optimization — @Stable/@Immutable/skippable](https://dev.to/myougatheaxo/compose-stability-and-recomposition-optimization-stableimmutableskippable-3cf4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
