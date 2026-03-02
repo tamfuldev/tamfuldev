@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/raddevus/meme-monday-5d21)
-- [What Google Actually Sees on Your JavaScript Site &lpar;And Why It Might Surprise You&rpar;](https://dev.to/jsvisible/what-google-actually-sees-on-your-javascript-site-and-why-it-might-surprise-you-j5c)
-- [Setting up local Codeberg runners](https://dev.to/tkuenneth/setting-up-local-codeberg-runners-4eif)
-- [Everyone Who Solves Problems Is an Engineer](https://dev.to/minatoplanb/everyone-who-solves-problems-is-an-engineer-2b58)
-- [The Difference Between a Good Vibe Coder and a Lazy One](https://dev.to/minatoplanb/the-difference-between-a-good-vibe-coder-and-a-lazy-one-3826)
+- [Logtide 0.7.0: Full Observability Stack, Service Maps, and Audit Logs](https://dev.to/polliog/logtide-070-full-observability-stack-service-maps-and-audit-logs-2ibo)
+- [The Complete Guide to Performance Budgets for Web Teams](https://dev.to/apogeewatcher/the-complete-guide-to-performance-budgets-for-web-teams-289p)
+- [The 15 Patterns That Make an AI Productivity System Actually Work](https://dev.to/neoagentix/the-15-patterns-that-make-an-ai-productivity-system-actually-work-3f70)
+- [Joins in PostgreSQL Using DBeaver](https://dev.to/sharon_m/joins-in-postgresql-using-dbeaver-4oip)
+- [从单Agent到Agent Swarm：协作智能的三个进化层次](https://dev.to/jiade/cong-dan-agentdao-agent-swarmxie-zuo-zhi-neng-de-san-ge-jin-hua-ceng-ci-31bg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
