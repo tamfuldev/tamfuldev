@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who Takes Responsibility When AI Decides for You?](https://dev.to/dosanko_tousan/who-takes-responsibility-when-ai-decides-for-you-h6g)
-- [Awo Muslim Community Platform - A Full-Stack Django App Powering a Real Nigerian Community](https://dev.to/abdulakeem_agbaje_0d41a63/awo-muslim-community-platform-a-full-stack-django-app-powering-a-real-nigerian-community-kka)
-- [Extract Text from PDF Files Using C#](https://dev.to/codingco/extract-text-from-pdf-files-using-c-4b00)
-- [Should we show non-developers what AI can build today?](https://dev.to/stefano_salvucci/should-we-show-non-developers-what-ai-can-build-today-2blp)
-- [data-structure-typed: A Modern Data Structures Library for TypeScript](https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk)
+- [Engineering for Volatility: Prepping My Java/Vue3 Dashboard for &quot;NFP Week&quot;](https://dev.to/osborneadams/engineering-for-volatility-prepping-my-javavue3-dashboard-for-nfp-week-3c3k)
+- [Why Do You Need a Rich Domain Model? That&#39;s Old School and Not Modern!](https://dev.to/leonpennings/why-do-you-need-a-rich-domain-model-thats-old-school-and-not-modern-2c3o)
+- [3 Vite Config Tricks That Save Hours of Frustration](https://dev.to/happy-lico/3-vite-config-tricks-that-save-hours-of-frustration-h61)
+- [3 Vite Tricks I Wish I Knew When I Started](https://dev.to/happy-lico/3-vite-tricks-i-wish-i-knew-when-i-started-h7p)
+- [PremAI vs Google Vertex AI: Privacy, Flexibility, and Cost Compared](https://dev.to/jaipalsingh/premai-vs-google-vertex-ai-privacy-flexibility-and-cost-compared-41d6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
