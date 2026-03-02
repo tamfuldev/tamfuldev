@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing AI Policy Engines &amp; Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol)
-- [built a free DevOps error search engine — here&#39;s why](https://dev.to/taruni_siddana_3c4c4f803e/built-a-free-devops-error-search-engine-heres-why-hm1)
-- [The Compiler Is the Most Dangerous Thing in Your ZK Stack](https://dev.to/jacobi0x/the-compiler-is-the-most-dangerous-thing-in-your-zk-stack-1he7)
-- [WebMCP: Chrome Is About to Make Every Website an AI Agent Tool](https://dev.to/midastools/webmcp-chrome-is-about-to-make-every-website-an-ai-agent-tool-6p7)
-- [Skepticism As A Meta-regulatory Tool In Clinical Reasoning: Toward A Logic Of Medical Knowing](https://dev.to/thinking_healer/skepticism-as-a-meta-regulatory-tool-in-clinical-reasoning-toward-a-logic-of-medical-knowing-jlo)
+- [Minimal .NET LLM Observability: Reproduce Timeouts and Triage in 15 Minutes](https://dev.to/lukaswalter/minimal-net-llm-observability-reproduce-timeouts-and-triage-in-15-minutes-29km)
+- [Football Pitchsync](https://dev.to/volde/football-pitchsync-2537)
+- [Stopping the Domino Effect: How I Built Resilico to Protect Community Lending](https://dev.to/shogun_the_grt/stopping-the-domino-effect-how-i-built-resilico-to-protect-community-lending-5b0a)
+- [When Disasters Strike, Cell Towers Fall First — So I Built a Mesh Network for Coastal Communities](https://dev.to/gowshik/when-disasters-strike-cell-towers-fall-first-so-i-built-a-mesh-network-for-coastal-communities-1kmk)
+- [Senior Developer, Failed Startup, Confused, IDK](https://dev.to/faisalkhandev/i-deleted-my-startup-repo-and-i-dont-know-what-that-says-about-me-396i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
