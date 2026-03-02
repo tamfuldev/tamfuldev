@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check 10 Million Usernames in Under 1 Millisecond](https://dev.to/bchikara/how-to-check-10-million-usernames-in-under-1-millisecond-38bp)
-- [Orbital Insertion Successful: Space Junkies Uganda Goes Live](https://dev.to/ronlin1/orbital-insertion-successful-space-junkies-uganda-goes-live-1n7e)
-- [Firebase Remote Config Complete Guide — A/B Testing/Feature Flags/Compose Integration](https://dev.to/myougatheaxo/firebase-remote-config-complete-guide-ab-testingfeature-flagscompose-integration-55b6)
-- [Retrofit and OkHttp Guide for Android - API Definition and Interceptors &lpar;v2&rpar;](https://dev.to/myougatheaxo/retrofit-and-okhttp-guide-for-android-api-definition-and-interceptors-v2-2caj)
-- [Compose Stability and Recomposition Optimization — @Stable/@Immutable/skippable](https://dev.to/myougatheaxo/compose-stability-and-recomposition-optimization-stableimmutableskippable-3cf4)
+- [# The Engineer’s Guide to Anti-Scraping Protections](https://dev.to/freeze_francis/-the-engineers-guide-to-anti-scraping-protections-l8m)
+- [Why My Multi-Tenant Chatbot Needed Two Types of API Keys](https://dev.to/hamurda/why-my-multi-tenant-chatbot-needed-two-types-of-api-keys-4248)
+- [Generate a CSR on Tableau Server](https://dev.to/edenallen/generate-a-csr-on-tableau-server-akm)
+- [Small weekend hack Daily JavaScript quotes via GitHub Actions. No backend required.](https://dev.to/sushantrahate/small-weekend-hack-daily-javascript-quotes-via-github-actions-no-backend-required-49b8)
+- [PawRover:A Community-Driven Solution for Pet Care](https://dev.to/sujankoirala021/pawrovera-community-driven-solution-for-pet-care-3le1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
