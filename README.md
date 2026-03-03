@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to make your first contribution to an open source project](https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50)
-- [I automated my YouTube workflow with Node.js. The hard part wasn&#39;t the code.](https://dev.to/elle001923/i-automated-my-youtube-workflow-with-nodejs-the-hard-part-wasnt-the-code-3ef)
-- [Why Doing Nothing is Mathematically Your Fastest Debugging Tool](https://dev.to/doogal/why-doing-nothing-is-mathematically-your-fastest-debugging-tool-k8f)
-- [The Swiss army knife of Ratelimiting](https://dev.to/myke/the-swiss-army-knife-of-ratelimiting-3ae7)
-- [Claude Prime - One command to supercharge Claude Code with ready-to-use skills, agents, and workflows](https://dev.to/peter_truong/claude-prime-one-command-to-supercharge-claude-code-with-ready-to-use-skills-agents-and-1jlb)
+- [Depois de 1000 horas de &#39;prompt engineering&#39;, eu achei os 6 padrões que realmente importam](https://dev.to/fazedordecodigo/depois-de-1000-horas-de-prompt-engineering-eu-achei-os-6-padroes-que-realmente-importam-38hj)
+- [Adeus, Prompts? Olá, Times de IA! Desvendando a Orquestração de Agentes](https://dev.to/fazedordecodigo/adeus-prompts-ola-times-de-ia-desvendando-a-orquestracao-de-agentes-3a48)
+- [Deixe o Copilot Fazer o Trabalho Pesado: Um Guia Prático para Modernizar seu .NET](https://dev.to/fazedordecodigo/deixe-o-copilot-fazer-o-trabalho-pesado-um-guia-pratico-para-modernizar-seu-net-2ldp)
+- [Como Criar Mocks do DbContext no Entity Framework Core 8 para Testes Unitários](https://dev.to/fazedordecodigo/como-criar-mocks-do-dbcontext-no-entity-framework-core-8-para-testes-unitarios-pc)
+- [Dev Drive: Desempenho, Segurança e Controle para Desenvolvedores](https://dev.to/fazedordecodigo/dev-drive-desempenho-seguranca-e-controle-para-desenvolvedores-46e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
