@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
-- [Why Linear AI Chains Are Dead: The Rise of Cyclical Agentic Loops](https://dev.to/programmingcentral/why-linear-ai-chains-are-dead-the-rise-of-cyclical-agentic-loops-5fib)
-- [Building a Production-Grade RAG System &lpar;Not Just a Demo&rpar;](https://dev.to/ritwikareddykancharla/building-a-production-grade-rag-system-not-just-a-demo-2l0p)
-- [Index Key Format in SQLite](https://dev.to/lovestaco/index-key-format-in-sqlite-40pn)
-- [Shared Workflows: minha experiência definindo pipelines reutilizáveis](https://dev.to/marcos_vile/shared-workflows-minha-experiencia-definindo-pipelines-reutilizaveis-74b)
+- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0)
+- [The Wrong Unit of Work: What Happened When I Built My Dev Environment using Claude Code](https://dev.to/amitaile/the-wrong-unit-of-work-what-happened-when-i-built-my-dev-environment-using-claude-code-5a6)
+- [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12)
+- [Understanding MCP Server Transports: STDIO, SSE, and HTTP Streamable](https://dev.to/zrcic/understanding-mcp-server-transports-stdio-sse-and-http-streamable-5b1p)
+- [My First Month Learning JavaScript and Backend Development](https://dev.to/hassaan_65d636b18f9637d21/my-first-month-learning-javascript-and-backend-development-1oog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
