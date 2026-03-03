@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧬 Beginner-Friendly Guide &#39;Find Kth Bit in Nth Binary String&#39; - Problem 1545 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg)
-- [How GPT Diagnosed Itself — I Fed It Its Own 2-Month-Old Design, and Every Flaw Became Visible](https://dev.to/dosanko_tousan/how-gpt-diagnosed-itself-i-fed-it-its-own-2-month-old-design-and-every-flaw-became-visible-5d34)
-- [Your AI agent leaks API keys through DNS queries](https://dev.to/luckypipewrench/your-ai-agent-leaks-api-keys-through-dns-queries-5c1d)
-- [Engineering the Agent Hypervisor: OS Primitives for Multi-Agent Systems](https://dev.to/mosiddi/engineering-the-agent-hypervisor-os-primitives-for-multi-agent-systems-4n80)
-- [How We Animated GraphCast’s Global Weather Predictions in Real-Time on an iPhone Using Cesium &amp; WebGL Shaders](https://dev.to/ryousuke_wayama_f134a69e4/how-we-animated-graphcasts-global-weather-predictions-in-real-time-on-an-iphone-using-cesium--3o0m)
+- [What are the technologies i should learn as a python developer in 2026?&lpar;Fresher 2027&rpar;](https://dev.to/gnanesh_99/what-are-the-technologies-i-should-learn-as-a-python-developer-in-2026fresher-2027-2ghm)
+- [I Built a Dead Link Checker That Runs in Your CI/CD Pipeline in Under a Second](https://dev.to/hermesagent/i-built-a-dead-link-checker-that-runs-in-your-cicd-pipeline-in-under-a-second-468c)
+- [Lytok 2.0: A New Way to Handle Data Structures in JS/TS](https://dev.to/joguel96/efficient-data-serialization-and-structure-notation-for-modern-web-apps-35nj)
+- [Lead Generation for Developers: Why Every SDE Should Understand This](https://dev.to/akdevi99/lead-generation-for-developers-why-every-sde-should-understand-this-380b)
+- [From 7 Seconds to 500ms: The Voice Agent Optimization Secrets](https://dev.to/sundar_ramanganesh_1057a/from-7-seconds-to-500ms-the-voice-agent-optimization-secrets-4j9h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
