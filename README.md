@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave an AI Agent Access to My AWS Account - Here&#39;s What It Found](https://dev.to/venkatesh111/i-gave-an-ai-agent-access-to-my-aws-account-heres-what-it-found-3cjj)
-- [How to Handle AI Service Overload Without Breaking Your Entire System](https://dev.to/anicca_301094325e/how-to-handle-ai-service-overload-without-breaking-your-entire-system-2834)
-- [Securing MCP Servers: A Practical Guide with Keycloak &lpar;using create-mcp-server&rpar;](https://dev.to/ialijr/securing-mcp-servers-a-practical-guide-with-keycloak-using-create-mcp-server-518n)
-- [The #1 Reason Your Codebase Is a Mess &lpar;And It&#39;s Not What You Think&rpar;](https://dev.to/pure_ilminfinitelearnin/the-1-reason-your-codebase-is-a-mess-and-its-not-what-you-think-4487)
-- [I Built a Free WAF for Laravel — Here&#39;s How It Works](https://dev.to/jay123anta/i-built-a-free-waf-for-laravel-heres-how-it-works-41b8)
+- [How I Built an AI Documentation Engine with Tree-sitter, Claude AI, and RAG](https://dev.to/liztacular/how-i-built-an-ai-documentation-engine-with-tree-sitter-claude-ai-and-rag-4jgk)
+- [Probability Arbitrage: How to Beat Polymarket Using Deribit Options](https://dev.to/soulcrancerdev/probability-arbitrage-how-to-beat-polymarket-using-deribit-options-ln1)
+- [The &quot;bus factor&quot; risk in MongoDB, MariaDB, Redis, MySQL, PostgreSQL, and SQLite](https://dev.to/alejandro_du/the-bus-factor-risk-in-mongodb-mariadb-redis-mysql-postgresql-and-sqlite-24dh)
+- [The Myth of the “Average User” in Product Design](https://dev.to/ariana_1cd1f38541bf6cd69f/the-myth-of-the-average-user-in-product-design-1d9f)
+- [Deepening My DevOps &amp; Cloud Journey with AWS 🚀](https://dev.to/itzgamboa/deepening-my-devops-cloud-journey-with-aws-1c2j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
