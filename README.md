@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3.5 Haiku vs Sonnet vs Opus: which one should you actually use?](https://dev.to/clawgenesis/untitled-dcm)
-- [AWS X-Ray](https://dev.to/softwarejutsu/aws-x-ray-201d)
-- [Vectorized Thinking: Building Production-Ready RAG Pipelines with Elasticsearch](https://dev.to/yashprakash07/vectorized-thinking-building-production-ready-rag-pipelines-with-elasticsearch-bk5)
-- [AWS IAM Security Best Practices — Why Over-Permissive Access Is Your Biggest Cloud Risk](https://dev.to/kuboidsecurelayer/aws-iam-security-best-practices-why-over-permissive-access-is-your-biggest-cloud-risk-4neo)
-- [Stop writing CLAUDE.md from scratch](https://dev.to/clawgenesis/untitled-1dfp)
+- [SmartOrder — Part 3: Inside the Order Service](https://dev.to/portus84/smartorder-part-3-inside-the-order-service-1k9k)
+- [[Boost]](https://dev.to/anthonymax/-21bk)
+- [# 🐛 How a Missing `finally` Block Was Eating 300MB of RAM Per Failed Scrape](https://dev.to/antoniosthanasisgit/-how-a-missing-finally-block-was-eating-300mb-of-ram-per-failed-scrape-5179)
+- [I Was Flying Blind in Production. Then I Found DeepTracer.](https://dev.to/deeptracer_gautam/i-was-flying-blind-in-production-then-i-found-deeptracer-11nj)
+- [Optimizing Vector Search](https://dev.to/devbymansi/optimizing-vector-search-1i0c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
