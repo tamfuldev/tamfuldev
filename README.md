@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automated Influencer Outreach Pipeline in Node.js](https://dev.to/olams/building-an-automated-influencer-outreach-pipeline-in-nodejs-28mp)
-- [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
-- [The Hardest Part of Being a Developer Isn&#39;t Coding—It&#39;s Staying Visible to Yourself](https://dev.to/narnaiezzsshaa/the-hardest-part-of-being-a-developer-isnt-coding-its-staying-visible-to-yourself-33fa)
-- [Agentic Drift: It&#39;s Hard to Be Multiple Developers at Once](https://dev.to/helgesverre/agentic-drift-its-hard-to-be-multiple-developers-at-once-4872)
-- [I built a local memory layer for any LLM — stores your preferences, injects them into every session](https://dev.to/lakshmisravyavedantham/i-built-a-local-memory-layer-for-any-llm-stores-your-preferences-injects-them-into-every-session-78b)
+- [🧬 Beginner-Friendly Guide &#39;Find Kth Bit in Nth Binary String&#39; - Problem 1545 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg)
+- [How GPT Diagnosed Itself — I Fed It Its Own 2-Month-Old Design, and Every Flaw Became Visible](https://dev.to/dosanko_tousan/how-gpt-diagnosed-itself-i-fed-it-its-own-2-month-old-design-and-every-flaw-became-visible-5d34)
+- [Your AI agent leaks API keys through DNS queries](https://dev.to/luckypipewrench/your-ai-agent-leaks-api-keys-through-dns-queries-5c1d)
+- [Engineering the Agent Hypervisor: OS Primitives for Multi-Agent Systems](https://dev.to/mosiddi/engineering-the-agent-hypervisor-os-primitives-for-multi-agent-systems-4n80)
+- [How We Animated GraphCast’s Global Weather Predictions in Real-Time on an iPhone Using Cesium &amp; WebGL Shaders](https://dev.to/ryousuke_wayama_f134a69e4/how-we-animated-graphcasts-global-weather-predictions-in-real-time-on-an-iphone-using-cesium--3o0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
