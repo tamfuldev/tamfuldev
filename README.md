@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing High-Precision LLM RAG Systems: An Enterprise-Grade Architecture Blueprint](https://dev.to/optyxstack/designing-high-precision-llm-rag-systems-an-enterprise-grade-architecture-blueprint-1ldo)
-- [🔴 Your architecture rules are dying in Confluence. Here&#39;s how to make them bite back.](https://dev.to/prabhatkjena/your-architecture-rules-are-dying-in-confluence-heres-how-to-make-them-bite-back-4eed)
-- [Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)
-- [Getting Unix Tools to Work in PowerShell: A Debugging War Story](https://dev.to/ankitg12/getting-unix-tools-to-work-in-powershell-a-debugging-war-story-1ipl)
-- [Is this the end of manual testing ????](https://dev.to/javed2793/is-this-the-end-of-manual-testing--24ij)
+- [From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours](https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf)
+- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8)
+- [Build a voice agent in JavaScript with Vercel AI SDK](https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3)
+- [Slapping Secondary Indexes on Random Fields is Silently Killing Your Database.](https://dev.to/opeyemi_oluwagbemiga_a213/slapping-secondary-indexes-on-random-fields-is-silently-killing-your-database-15p3)
+- [How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method &lpar;ALM&rpar; with AI](https://dev.to/yassan8/how-i-overcame-the-optimization-wall-by-implementing-the-augmented-lagrangian-method-alm-with-ai-4moa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
