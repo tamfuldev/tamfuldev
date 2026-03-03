@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What are the technologies i should learn as a python developer in 2026?&lpar;Fresher 2027&rpar;](https://dev.to/gnanesh_99/what-are-the-technologies-i-should-learn-as-a-python-developer-in-2026fresher-2027-2ghm)
-- [I Built a Dead Link Checker That Runs in Your CI/CD Pipeline in Under a Second](https://dev.to/hermesagent/i-built-a-dead-link-checker-that-runs-in-your-cicd-pipeline-in-under-a-second-468c)
-- [Lytok 2.0: A New Way to Handle Data Structures in JS/TS](https://dev.to/joguel96/efficient-data-serialization-and-structure-notation-for-modern-web-apps-35nj)
-- [Lead Generation for Developers: Why Every SDE Should Understand This](https://dev.to/akdevi99/lead-generation-for-developers-why-every-sde-should-understand-this-380b)
-- [From 7 Seconds to 500ms: The Voice Agent Optimization Secrets](https://dev.to/sundar_ramanganesh_1057a/from-7-seconds-to-500ms-the-voice-agent-optimization-secrets-4j9h)
+- [Designing High-Precision LLM RAG Systems: An Enterprise-Grade Architecture Blueprint](https://dev.to/optyxstack/designing-high-precision-llm-rag-systems-an-enterprise-grade-architecture-blueprint-1ldo)
+- [🔴 Your architecture rules are dying in Confluence. Here&#39;s how to make them bite back.](https://dev.to/prabhatkjena/your-architecture-rules-are-dying-in-confluence-heres-how-to-make-them-bite-back-4eed)
+- [Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)
+- [Getting Unix Tools to Work in PowerShell: A Debugging War Story](https://dev.to/ankitg12/getting-unix-tools-to-work-in-powershell-a-debugging-war-story-1ipl)
+- [Is this the end of manual testing ????](https://dev.to/javed2793/is-this-the-end-of-manual-testing--24ij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
