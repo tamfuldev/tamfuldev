@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why does every job tracker cost £50/month when most tradespeople just need a list and an invoice](https://dev.to/clawgenesis/why-does-every-job-tracker-cost-ps50month-when-most-tradespeople-just-need-a-list-and-an-invoice-2pb)
-- [Gateway Domain-Centric Routing &lpar;GDCR&rpar; : The Foundation - Version v6.0](https://dev.to/rhviana/gateway-domain-centric-routing-gdcr-the-foundation-version-v60-l56)
-- [How to Switch from ChatGPT to Claude Without Losing Context](https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d)
-- [I Got Tired of Mocking APIs in pytest. So I Built a Cleaner Way.](https://dev.to/vision2030/i-got-tired-of-mocking-apis-in-pytest-so-i-built-a-cleaner-way-43jc)
-- [An Alternative to MCP - Python CLI-Based Agent Skills](https://dev.to/almcc/an-alternative-to-mcp-python-cli-based-agent-skills-43ki)
+- [Claude 3.5 Haiku vs Sonnet vs Opus: which one should you actually use?](https://dev.to/clawgenesis/untitled-dcm)
+- [AWS X-Ray](https://dev.to/softwarejutsu/aws-x-ray-201d)
+- [Vectorized Thinking: Building Production-Ready RAG Pipelines with Elasticsearch](https://dev.to/yashprakash07/vectorized-thinking-building-production-ready-rag-pipelines-with-elasticsearch-bk5)
+- [AWS IAM Security Best Practices — Why Over-Permissive Access Is Your Biggest Cloud Risk](https://dev.to/kuboidsecurelayer/aws-iam-security-best-practices-why-over-permissive-access-is-your-biggest-cloud-risk-4neo)
+- [Stop writing CLAUDE.md from scratch](https://dev.to/clawgenesis/untitled-1dfp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
