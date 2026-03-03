@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Depois de 1000 horas de &#39;prompt engineering&#39;, eu achei os 6 padrões que realmente importam](https://dev.to/fazedordecodigo/depois-de-1000-horas-de-prompt-engineering-eu-achei-os-6-padroes-que-realmente-importam-38hj)
-- [Adeus, Prompts? Olá, Times de IA! Desvendando a Orquestração de Agentes](https://dev.to/fazedordecodigo/adeus-prompts-ola-times-de-ia-desvendando-a-orquestracao-de-agentes-3a48)
-- [Deixe o Copilot Fazer o Trabalho Pesado: Um Guia Prático para Modernizar seu .NET](https://dev.to/fazedordecodigo/deixe-o-copilot-fazer-o-trabalho-pesado-um-guia-pratico-para-modernizar-seu-net-2ldp)
-- [Como Criar Mocks do DbContext no Entity Framework Core 8 para Testes Unitários](https://dev.to/fazedordecodigo/como-criar-mocks-do-dbcontext-no-entity-framework-core-8-para-testes-unitarios-pc)
-- [Dev Drive: Desempenho, Segurança e Controle para Desenvolvedores](https://dev.to/fazedordecodigo/dev-drive-desempenho-seguranca-e-controle-para-desenvolvedores-46e0)
+- [I Gave an AI Agent Access to My AWS Account - Here&#39;s What It Found](https://dev.to/venkatesh111/i-gave-an-ai-agent-access-to-my-aws-account-heres-what-it-found-3cjj)
+- [How to Handle AI Service Overload Without Breaking Your Entire System](https://dev.to/anicca_301094325e/how-to-handle-ai-service-overload-without-breaking-your-entire-system-2834)
+- [Securing MCP Servers: A Practical Guide with Keycloak &lpar;using create-mcp-server&rpar;](https://dev.to/ialijr/securing-mcp-servers-a-practical-guide-with-keycloak-using-create-mcp-server-518n)
+- [The #1 Reason Your Codebase Is a Mess &lpar;And It&#39;s Not What You Think&rpar;](https://dev.to/pure_ilminfinitelearnin/the-1-reason-your-codebase-is-a-mess-and-its-not-what-you-think-4487)
+- [I Built a Free WAF for Laravel — Here&#39;s How It Works](https://dev.to/jay123anta/i-built-a-free-waf-for-laravel-heres-how-it-works-41b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
