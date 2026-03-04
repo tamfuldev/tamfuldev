@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trust Is the Architecture &lpar;Part 1&rpar;](https://dev.to/aws-builders/trust-is-the-architecture-part-1-1pek)
-- [AWS ECS Lab](https://dev.to/jumptotech/aws-ecs-lab-18li)
-- [I built a collection of privacy-focused browser tools &lpar;no uploads&rpar;](https://dev.to/mpsoftwarestudio/i-built-a-collection-of-privacy-focused-browser-tools-no-uploads-5ei)
-- [Excelize 2.10.1 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-2100-released-powerful-open-source-library-for-spreadsheet-excel-document-1kjf)
-- [A Meal Prep Co-Pilot Built with Google Gemini - A Reflection](https://dev.to/kathleen_bonaventure/a-meal-prep-co-pilot-built-with-google-gemini-a-reflection-3gb0)
+- [I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it](https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2)
+- [Running Headless Chrome at Scale: Production Lessons from Millions of Renders.](https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg)
+- [A Real WebSocket Hijack Hit an AI Agent Framework. Here&#39;s What We Learned.](https://dev.to/mkdelta221/a-real-websocket-hijack-hit-an-ai-agent-framework-heres-what-we-learned-4moe)
+- [Why Learning AI Feels Directionless &lpar;Until You See the Order&rpar;](https://dev.to/dev-in-progress/why-learning-ai-feels-directionless-until-you-see-the-order-47o)
+- [Mastering Entropy: Frame - Essence - Grain](https://dev.to/alis/mastering-entropy-frame-essence-grain-55bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
