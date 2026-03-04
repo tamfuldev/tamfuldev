@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [That inflight memory leak warning in your npm install? Here&#39;s the fix](https://dev.to/firekid846/that-inflight-memory-leak-warning-in-your-npm-install-heres-the-fix-4b00)
-- [Understanding Linux Boot Memory Management](https://dev.to/ripan030/understanding-linux-boot-memory-management-1dcn)
-- [I built the AWS platform that every DevOps engineer would want to have](https://dev.to/hsniama/i-built-the-aws-platform-that-every-devops-engineer-would-want-to-have-11fl)
-- [LangGraph.js Explained: Why Your Next AI Agent Needs a Graph, Not a Chain](https://dev.to/programmingcentral/langgraphjs-explained-why-your-next-ai-agent-needs-a-graph-not-a-chain-58h)
-- [Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0](https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om)
+- [How I Built Zero-Knowledge File Sharing Using the Web Crypto API &lpar;No Server Ever Sees Your Data&rpar;](https://dev.to/graysoftdev/how-i-built-zero-knowledge-file-sharing-using-the-web-crypto-api-no-server-ever-sees-your-data-28cp)
+- [How I Built a Tool That Warns Me 60 Seconds Before My Site Goes Down](https://dev.to/furozq/how-i-built-a-tool-that-warns-me-60-seconds-before-my-site-goes-down-56pd)
+- [Datatype Management in SQLite](https://dev.to/lovestaco/datatype-management-in-sqlite-441f)
+- [In the AI Era, Code Is Cheap. Reputation Isn’t.](https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482)
+- [This is My First and Last &quot;Vibe Coded&quot; Product](https://dev.to/aazan_noor_khuwaja/this-is-my-first-and-last-vibe-coded-product-4ig4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
