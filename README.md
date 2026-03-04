@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Zero-Knowledge File Sharing Using the Web Crypto API &lpar;No Server Ever Sees Your Data&rpar;](https://dev.to/graysoftdev/how-i-built-zero-knowledge-file-sharing-using-the-web-crypto-api-no-server-ever-sees-your-data-28cp)
-- [How I Built a Tool That Warns Me 60 Seconds Before My Site Goes Down](https://dev.to/furozq/how-i-built-a-tool-that-warns-me-60-seconds-before-my-site-goes-down-56pd)
-- [Datatype Management in SQLite](https://dev.to/lovestaco/datatype-management-in-sqlite-441f)
-- [In the AI Era, Code Is Cheap. Reputation Isn’t.](https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482)
-- [This is My First and Last &quot;Vibe Coded&quot; Product](https://dev.to/aazan_noor_khuwaja/this-is-my-first-and-last-vibe-coded-product-4ig4)
+- [Take Website Screenshots with Code: One API Call, No Puppeteer Setup](https://dev.to/ozorown/take-website-screenshots-with-code-one-api-call-no-puppeteer-setup-dac)
+- [Understanding How Attackers Hide Malware in “Legitimate” Software: A Technical Deep Dive](https://dev.to/wambita_sheila_fana/understanding-how-attackers-hide-malware-in-legitimate-software-a-technical-deep-dive-4c3k)
+- [Educational Development Program: Build Apps with Google AI Studio](https://dev.to/adrii_ana/educational-development-program-build-apps-with-google-ai-studio-2c1f)
+- [Safer Pushes, SIEM Webhooks, and Verifiable Releases](https://dev.to/joerucci/safer-pushes-siem-webhooks-and-verifiable-releases-1cng)
+- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
