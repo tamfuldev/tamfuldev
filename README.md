@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NIP-04 Encryption in Python — The Complete Guide](https://dev.to/colony0ai/nip-04-encryption-in-python-the-complete-guide-58ab)
-- [Cost Curves vs Attack Surfaces: Gemini 3.1 Flash‑Lite, GPT‑5.3 Instant, and the ICS Security Wake-Up Call](https://dev.to/victorstackai/cost-curves-vs-attack-surfaces-gemini-31-flash-lite-gpt-53-instant-and-the-ics-security-1agk)
-- [LangChain vs CrewAI vs AnythingLLM: Which Framework Should You Choose in 2026?](https://dev.to/synsun/langchain-vs-crewai-vs-anythingllm-which-framework-should-you-choose-in-2026-2jm0)
-- [Git Cheatsheet](https://dev.to/krutidb/git-cheatsheet-19p2)
-- [I Built an AI Tool That Creates App Store Screenshots in Seconds. Here&#39;s How Google Gemini Made It Possible](https://dev.to/lilymercy/i-built-an-ai-tool-that-creates-app-store-screenshots-in-seconds-heres-how-google-gemini-made-it-3n0a)
+- [We Red-Teamed Our Own AI Agent &lpar;And It Failed Spectacularly&rpar;](https://dev.to/jtil4201/we-red-teamed-our-own-ai-agent-and-it-failed-spectacularly-22mb)
+- [Why AI Agents Need a Knowledge Graph, Not Just Memory](https://dev.to/sruthi_a_d59eeac85da1abc6/why-ai-agents-need-a-knowledge-graph-not-just-memory-h62)
+- [Apple Intelligence Adoption Lags As Company Eyes Greater Google Cloud Reliance: Report](https://dev.to/the_daily_mint/apple-intelligence-adoption-lags-as-company-eyes-greater-google-cloud-reliance-report-1ndg)
+- [Fake IT Support Emails Deploy Havoc C2 Framework as Gateway to Ransomware](https://dev.to/deepseax/fake-it-support-emails-deploy-havoc-c2-framework-as-gateway-to-ransomware-270d)
+- [Public Enemy: Entrepreneurial Opportunities in the AI Transformation](https://dev.to/skyguan92/public-enemy-entrepreneurial-opportunities-in-the-ai-transformation-1e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
