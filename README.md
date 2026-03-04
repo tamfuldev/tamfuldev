@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Red-Teamed Our Own AI Agent &lpar;And It Failed Spectacularly&rpar;](https://dev.to/jtil4201/we-red-teamed-our-own-ai-agent-and-it-failed-spectacularly-22mb)
-- [Why AI Agents Need a Knowledge Graph, Not Just Memory](https://dev.to/sruthi_a_d59eeac85da1abc6/why-ai-agents-need-a-knowledge-graph-not-just-memory-h62)
-- [Apple Intelligence Adoption Lags As Company Eyes Greater Google Cloud Reliance: Report](https://dev.to/the_daily_mint/apple-intelligence-adoption-lags-as-company-eyes-greater-google-cloud-reliance-report-1ndg)
-- [Fake IT Support Emails Deploy Havoc C2 Framework as Gateway to Ransomware](https://dev.to/deepseax/fake-it-support-emails-deploy-havoc-c2-framework-as-gateway-to-ransomware-270d)
-- [Public Enemy: Entrepreneurial Opportunities in the AI Transformation](https://dev.to/skyguan92/public-enemy-entrepreneurial-opportunities-in-the-ai-transformation-1e1)
+- [I Built a Bathroom Occupancy Notifier with Home Assistant](https://dev.to/kevinlu-swe/i-built-a-bathroom-occupancy-notifier-with-home-assistant-4fcl)
+- [Most &quot;Multi-Agent&quot; Frameworks Are Just Multiple Prompts Wearing a Trenchcoat](https://dev.to/diego_falciola_02ab709202/most-multi-agent-frameworks-are-just-multiple-prompts-wearing-a-trenchcoat-38kf)
+- [I Spent 50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes](https://dev.to/salman_shahriar/i-spent-50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-1pl3)
+- [Woxi: Wolfram Mathematica Reimplementation in Rust](https://dev.to/guy_d/woxi-wolfram-mathematica-reimplementation-in-rust-4doi)
+- [Use Your Tokens Before You Lose Your Tokens](https://dev.to/nicholassynovic/use-your-tokens-before-you-lose-your-tokens-kdp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
