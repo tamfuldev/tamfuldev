@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it](https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2)
-- [Running Headless Chrome at Scale: Production Lessons from Millions of Renders.](https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg)
-- [A Real WebSocket Hijack Hit an AI Agent Framework. Here&#39;s What We Learned.](https://dev.to/mkdelta221/a-real-websocket-hijack-hit-an-ai-agent-framework-heres-what-we-learned-4moe)
-- [Why Learning AI Feels Directionless &lpar;Until You See the Order&rpar;](https://dev.to/dev-in-progress/why-learning-ai-feels-directionless-until-you-see-the-order-47o)
-- [Mastering Entropy: Frame - Essence - Grain](https://dev.to/alis/mastering-entropy-frame-essence-grain-55bp)
+- [I Built Daftari - A Digital Ledger for Solopreneurs to Track Job Cards and Payments via WhatApp Chats](https://dev.to/geraldmuvengei06/i-built-daftari-a-digital-ledger-for-solopreneurs-to-track-job-cards-and-payments-via-whatapp-1jnp)
+- [I built a free JSON formatter that never uploads your data — here&#39;s why that matters](https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p)
+- [Kaizen — Let your focus follow you!](https://dev.to/neilblaze/kaizen-let-your-focus-follow-you-pi0)
+- [My Docker examples are now part of the official Next.js Documentation](https://dev.to/kristiyanvelkov/my-docker-examples-are-now-part-of-the-official-nextjs-documentation-3kbg)
+- [Hi, I&#39;m Grek — Full-Stack Python Developer &amp; AI Engineer](https://dev.to/grekcreator/hi-im-grek-full-stack-python-developer-ai-engineer-4big)
 <!-- BLOG-POST-LIST:END -->
 
 ---
