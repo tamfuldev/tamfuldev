@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your CLI Deserves a Designer &lpar;And That Designer Is You&rpar;](https://dev.to/chris_montes_c4ac5fb164be/your-cli-deserves-a-designer-and-that-designer-is-you-13jn)
-- [How I Chose the Best Free CMS for My Next.js Portfolio &lpar;And Where to Host It&rpar;](https://dev.to/adarshsharmadev/how-i-chose-the-best-free-cms-for-my-nextjs-portfolio-and-where-to-host-it-5d1d)
-- [I Compared 6 Platforms for Deploying Self-Hosted Apps in 2026](https://dev.to/vikasprogrammer/i-compared-6-platforms-for-deploying-self-hosted-apps-in-2026-3j8)
-- [Stop paying OpenAI to transcribe your voice notes &lpar;My offline Telegram bot stack&rpar; 🎙️](https://dev.to/amals367/stop-paying-openai-to-transcribe-your-voice-notes-my-offline-telegram-bot-stack-3a65)
-- [I Built an AI Architect for System Design — Here&#39;s How It Works](https://dev.to/igor_s_1bf83fa2cffeeb8e1/i-built-an-ai-architect-for-system-design-heres-how-it-works-2bhd)
+- [Most Developers Misunderstand Abstraction &lpar;And It&#39;s Costing Them&rpar;](https://dev.to/pure_ilminfinitelearnin/most-developers-misunderstand-abstraction-and-its-costing-them-lml)
+- [Setting Up Nerd Fonts in Alacritty on Ubuntu](https://dev.to/raymiles94/setting-up-nerd-fonts-in-alacritty-on-ubuntu-13j6)
+- [Mercado de trabalho para iniciantes na programação pós pandemia. Exploratório ou Nivelador?](https://dev.to/antoniopedro22/mercado-de-trabalho-para-iniciantes-na-programacao-pos-pandemia-exploratorio-ou-nivelador-2li4)
+- [One Context, One Registry, and Knowing When to Stop](https://dev.to/mdreal32/one-context-one-registry-and-knowing-when-to-stop-4jgm)
+- [AnGithubManager: an application for my day-to-day life as a developer](https://dev.to/nicols_alarcnrapela_5b/angithubmanager-an-application-for-my-day-to-day-life-as-a-developer-9if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
