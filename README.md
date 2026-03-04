@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Kubernetes Performance Challenge, Join to the contest!](https://dev.to/mhmxs/the-kubernetes-performance-challenge-join-to-the-contest-h9p)
-- [I Got Tired of Googling kubectl Commands at 2 AM. So I Built a Local AI Agent That Does DevOps Safely. { pip install orbit-cli }](https://dev.to/abhimanyubhagwati/i-got-tired-of-googling-kubectl-commands-at-2-am-so-i-built-a-local-ai-agent-that-does-devops-39l)
-- [Building an AI Synesthesia Engine with Gemini Live API and ADK](https://dev.to/antimatter543/building-an-ai-synesthesia-engine-with-gemini-live-api-and-adk-2a22)
-- [Lupine.Press + AI: Create Your Technical Documentation Website in Minutes](https://dev.to/uuware/lupinepress-ai-create-your-technical-documentation-website-in-minutes-1n59)
-- [Writing Better Git Commit Messages: A Practical Guide](https://dev.to/canabady/writing-better-git-commit-messages-a-practical-guide-3f2j)
+- [Your CLI Deserves a Designer &lpar;And That Designer Is You&rpar;](https://dev.to/chris_montes_c4ac5fb164be/your-cli-deserves-a-designer-and-that-designer-is-you-13jn)
+- [How I Chose the Best Free CMS for My Next.js Portfolio &lpar;And Where to Host It&rpar;](https://dev.to/adarshsharmadev/how-i-chose-the-best-free-cms-for-my-nextjs-portfolio-and-where-to-host-it-5d1d)
+- [I Compared 6 Platforms for Deploying Self-Hosted Apps in 2026](https://dev.to/vikasprogrammer/i-compared-6-platforms-for-deploying-self-hosted-apps-in-2026-3j8)
+- [Stop paying OpenAI to transcribe your voice notes &lpar;My offline Telegram bot stack&rpar; 🎙️](https://dev.to/amals367/stop-paying-openai-to-transcribe-your-voice-notes-my-offline-telegram-bot-stack-3a65)
+- [I Built an AI Architect for System Design — Here&#39;s How It Works](https://dev.to/igor_s_1bf83fa2cffeeb8e1/i-built-an-ai-architect-for-system-design-heres-how-it-works-2bhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
