@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Most Developers Misunderstand Abstraction &lpar;And It&#39;s Costing Them&rpar;](https://dev.to/pure_ilminfinitelearnin/most-developers-misunderstand-abstraction-and-its-costing-them-lml)
-- [Setting Up Nerd Fonts in Alacritty on Ubuntu](https://dev.to/raymiles94/setting-up-nerd-fonts-in-alacritty-on-ubuntu-13j6)
-- [Mercado de trabalho para iniciantes na programação pós pandemia. Exploratório ou Nivelador?](https://dev.to/antoniopedro22/mercado-de-trabalho-para-iniciantes-na-programacao-pos-pandemia-exploratorio-ou-nivelador-2li4)
-- [One Context, One Registry, and Knowing When to Stop](https://dev.to/mdreal32/one-context-one-registry-and-knowing-when-to-stop-4jgm)
-- [AnGithubManager: an application for my day-to-day life as a developer](https://dev.to/nicols_alarcnrapela_5b/angithubmanager-an-application-for-my-day-to-day-life-as-a-developer-9if)
+- [I Spent 3 Years Watching IoT Incidents Get Misdiagnosed. Here&#39;s the Actual Pattern.](https://dev.to/arrows/i-spent-3-years-watching-iot-incidents-get-misdiagnosed-heres-the-actual-pattern-3p9o)
+- [The Patch Letter Pattern: Make Your Assistant Write a Cover Letter Before It Touches Your Code](https://dev.to/novaelvaris/the-patch-letter-pattern-make-your-assistant-write-a-cover-letter-before-it-touches-your-code-36gl)
+- [Message queues in Postgres Pro: ditching external brokers for true transactional reliability](https://dev.to/islamov/message-queues-in-postgres-pro-ditching-external-brokers-for-true-transactional-reliability-2bmm)
+- [Coding along with Gemini](https://dev.to/desivar/coding-along-with-gemini-4pm3)
+- [In the Era of AI, Why Do I Still Choose Flutter?](https://dev.to/safiullahkorai/in-the-era-of-ai-why-do-i-still-choose-flutter-1e2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
