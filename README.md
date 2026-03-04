@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [## I Built an AI Tourism Assistant for Kenya Using RAG, pgvector, and Streamlit](https://dev.to/john_analytics/-i-built-an-ai-tourism-assistant-for-kenya-using-rag-pgvector-and-streamlit-c71)
-- [How I Built a Recipe Extractor from YouTube Using AWS Transcribe](https://dev.to/robindeva/how-i-built-a-recipe-extractor-from-youtube-using-aws-transcribe-1jj0)
-- [The Day I Couldn&#39;t Access My Code on GitHub &lpar;And What I Built After That&rpar;](https://dev.to/junior_stan_c087076954866/the-day-i-couldnt-access-my-code-on-github-and-what-i-built-after-that-2567)
-- [Creating Software for Dance Studios: Lessons from a Niche SaaS Marketplace](https://dev.to/fabio_dancemasterpro_ae/creating-software-for-dance-studios-lessons-from-a-niche-saas-marketplace-17b5)
-- [Use LD_PRELOAD to inject OpenTelemetry into everything](https://dev.to/agardnerit/use-ldpreload-to-inject-opentelemetry-into-everything-hmp)
+- [From an Unemployed Side-Project to AWS Community Builder: Why you should start sharing today](https://dev.to/homeless-coder/from-an-unemployed-side-project-to-aws-community-builder-why-you-should-start-sharing-today-4gkf)
+- [NASA’s $125M Unit Error: Why Your API Needs Explicit Naming](https://dev.to/doogal/nasas-125m-unit-error-why-your-api-needs-explicit-naming-3akb)
+- [Blocking Main Thread During Shutdown: Balancing Logging Cleanup and Async Safety](https://dev.to/serbyte/blocking-main-thread-during-shutdown-balancing-logging-cleanup-and-async-safety-1eie)
+- [The Agentic Substrate: Why the Production Lifecycle Matters for Autonomous Systems.](https://dev.to/fleeks/the-agentic-substrate-why-the-production-lifecycle-matters-for-autonomous-systems-49gl)
+- [How to design a Real-Time Chat Application](https://dev.to/ganesh_parella/how-to-design-a-real-time-chat-application-5go6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
