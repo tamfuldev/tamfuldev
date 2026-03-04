@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Standard AI Conversation Portability Does Not Exist Yet: Here Is Why That Should Bother You](https://dev.to/isabelsmith/standard-ai-conversation-portability-does-not-exist-yet-here-is-why-that-should-bother-you-p34)
-- [Settings ή Strategy Pattern;](https://dev.to/__b63657/settings-e-strategy-pattern-10je)
-- [How I Reduced Mobile Test Cycles by 90% Using Device Orchestration](https://dev.to/suresh_kumarm_5fd59409a3/how-i-reduced-mobile-test-cycles-by-90-using-device-orchestration-dcl)
-- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
-- [Stripe&#39;s Payment Retries Are a Blunt Instrument &lpar;And It&#39;s Costing You Thousands&rpar;](https://dev.to/tahseen_rahman/stripes-payment-retries-are-a-blunt-instrument-and-its-costing-you-thousands-19ei)
+- [The Kubernetes Performance Challenge, Join to the contest!](https://dev.to/mhmxs/the-kubernetes-performance-challenge-join-to-the-contest-h9p)
+- [I Got Tired of Googling kubectl Commands at 2 AM. So I Built a Local AI Agent That Does DevOps Safely. { pip install orbit-cli }](https://dev.to/abhimanyubhagwati/i-got-tired-of-googling-kubectl-commands-at-2-am-so-i-built-a-local-ai-agent-that-does-devops-39l)
+- [Building an AI Synesthesia Engine with Gemini Live API and ADK](https://dev.to/antimatter543/building-an-ai-synesthesia-engine-with-gemini-live-api-and-adk-2a22)
+- [Lupine.Press + AI: Create Your Technical Documentation Website in Minutes](https://dev.to/uuware/lupinepress-ai-create-your-technical-documentation-website-in-minutes-1n59)
+- [Writing Better Git Commit Messages: A Practical Guide](https://dev.to/canabady/writing-better-git-commit-messages-a-practical-guide-3f2j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
