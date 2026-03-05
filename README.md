@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Exploitation Concerns Prompt Shift Towards Valuing Software Over User Data in Digital Platforms](https://dev.to/maxgeris/data-exploitation-concerns-prompt-shift-towards-valuing-software-over-user-data-in-digital-platforms-4j5p)
-- [How to Investigate Any IP Address Using Free APIs &lpar;With Code&rpar;](https://dev.to/robocular/how-to-investigate-any-ip-address-using-free-apis-with-code-1kcd)
-- [El &quot;Stack&quot; Estándar Local &lpar;Ollama + LangChain + ChromaDB&rpar;](https://dev.to/msanch41/el-stack-estandar-local-ollama-langchain-chromadb-29j)
-- [Security as a Profit Center: Why Your Economic Firewall Pays for Itself](https://dev.to/mattdeangit/security-as-a-profit-center-why-your-economic-firewall-pays-for-itself-3h3i)
-- [Hard-Capping MCP Tool Spend with SatGate Proxy](https://dev.to/mattdeangit/hard-capping-mcp-tool-spend-with-satgate-proxy-3ahk)
+- [AWS Services](https://dev.to/kalpesh_mohanta_a1de0872f/aws-services-510a)
+- [Git Overview](https://dev.to/kalpesh_mohanta_a1de0872f/git-overview-1phb)
+- [I&#39;m building an AI agent that fixes broken CI pipelines automatically — here&#39;s what I&#39;ve learned](https://dev.to/techject_studio_518f678a7/im-building-an-ai-agent-that-fixes-broken-ci-pipelines-automatically-heres-what-ive-learned-3p5e)
+- [Linux Filesystem &amp; Essential Linux Commands](https://dev.to/kalpesh_mohanta_a1de0872f/linux-filesystem-essential-linux-commands-1jcm)
+- [Is JAVA 100% Object Oriented Programming Language?](https://dev.to/deepika_k_6841b1a02fb03bd/is-java-100-object-oriented-programming-language-19ie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
