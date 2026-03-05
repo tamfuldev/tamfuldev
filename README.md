@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16 Partial Prerendering &lpar;PPR&rpar;: The Best of Static and Dynamic Rendering](https://dev.to/u11d/nextjs-16-partial-prerendering-ppr-the-best-of-static-and-dynamic-rendering-2fgg)
-- [The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste](https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39)
-- [CompScan: Your computer&#39;s health doctor. Fully local, private, free &lpar;Rust&rpar;](https://dev.to/vvk_147/compscan-your-computers-health-doctor-fully-local-private-free-rust-3naa)
-- [Why JavaScript Developers Are Obsessed With Arrow Functions](https://dev.to/kunal_dev/why-javascript-developers-are-obsessed-with-arrow-functions-ipd)
-- [AI科技热点日报 2月19日：知乎热榜、GitHub Trending、行业头条](https://dev.to/chx381/aike-ji-re-dian-ri-bao-2yue-19ri-zhi-hu-re-bang-github-trending-xing-ye-tou-tiao-1a7k)
+- [vLLM vs SGLang vs LMDeploy: Fastest LLM Inference Engine in 2026?](https://dev.to/jaipalsingh/vllm-vs-sglang-vs-lmdeploy-fastest-llm-inference-engine-in-2026-5h04)
+- [Ethereum’s 2029 Strawmap, Hegota Smart Accounts, Native Key Delegation, Protocol-Level AA](https://dev.to/etherspot/ethereums-2029-strawmap-hegota-smart-accounts-native-key-delegation-protocol-level-aa-m4a)
+- [We Built Open Protocols for the Job Market — Here&#39;s What We Learned](https://dev.to/testinat0r/we-built-open-protocols-for-the-job-market-heres-what-we-learned-3ih4)
+- [Hello DEV! 👋 A Marketer’s Journey into Building Web Tools](https://dev.to/alisasun10/hello-dev-a-marketers-journey-into-building-web-tools-o51)
+- [Find the Distance Value Between Two Arrays Easy Solution](https://dev.to/abhishek-nexgen-dev/find-the-distance-value-between-two-arrays-easy-solution-13c4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
