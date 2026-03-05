@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [vLLM vs SGLang vs LMDeploy: Fastest LLM Inference Engine in 2026?](https://dev.to/jaipalsingh/vllm-vs-sglang-vs-lmdeploy-fastest-llm-inference-engine-in-2026-5h04)
-- [Ethereum’s 2029 Strawmap, Hegota Smart Accounts, Native Key Delegation, Protocol-Level AA](https://dev.to/etherspot/ethereums-2029-strawmap-hegota-smart-accounts-native-key-delegation-protocol-level-aa-m4a)
-- [We Built Open Protocols for the Job Market — Here&#39;s What We Learned](https://dev.to/testinat0r/we-built-open-protocols-for-the-job-market-heres-what-we-learned-3ih4)
-- [Hello DEV! 👋 A Marketer’s Journey into Building Web Tools](https://dev.to/alisasun10/hello-dev-a-marketers-journey-into-building-web-tools-o51)
-- [Find the Distance Value Between Two Arrays Easy Solution](https://dev.to/abhishek-nexgen-dev/find-the-distance-value-between-two-arrays-easy-solution-13c4)
+- [Challenges of PDF Recognition Technology Based on GitHub Issues](https://dev.to/katash/challenges-of-pdf-recognition-technology-based-on-github-issues-20kj)
+- [WHOIS is dead, I built an API for what replaces it](https://dev.to/boutetnico/whois-is-dead-i-built-an-api-for-what-replaces-it-3gje)
+- [Learnings from Pursuing High Data Quality: A Reflective Piece](https://dev.to/aws-builders/learnings-from-pursuing-high-data-quality-a-reflective-piece-57af)
+- [Building a Secure GPT Gateway &lpar;Part 1&rpar;](https://dev.to/davelhw/building-a-secure-gpt-gateway-part-1-4593)
+- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-2h0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
