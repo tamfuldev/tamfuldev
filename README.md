@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [56 Free Developer Tools. One Page. Zero Dependencies.](https://dev.to/yurukusa/56-free-developer-tools-one-page-zero-dependencies-k1e)
-- [Refactoring the Nike Scraper: Replacing In-Memory Deduplication with SQLite](https://dev.to/sommic/refactoring-the-nike-scraper-replacing-in-memory-deduplication-with-sqlite-h3o)
-- [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
-- [Why AI will never replace software developers](https://dev.to/padcom/why-ai-will-never-replace-software-developers-4pj1)
-- [I built BXP — an open file system standard for air quality data &lpar;like HTTP but for what you breathe&rpar;](https://dev.to/elvarin/i-built-bxp-an-open-file-system-standard-for-air-quality-data-like-http-but-for-what-you-kf1)
+- [Hardening Web Applications Against AI Crawlers with SafeLine WAF](https://dev.to/meowth/hardening-web-applications-against-ai-crawlers-with-safeline-waf-c0o)
+- [I Built a Security Scanner Because AI Code Scared Me](https://dev.to/ayame0328/i-built-a-security-scanner-because-ai-code-scared-me-2942)
+- [How Conversion Rate Optimization Drives Better Marketing ROI](https://dev.to/timbaumgartner/how-conversion-rate-optimization-drives-better-marketing-roi-56dk)
+- [Starting and Stopping Vibration](https://dev.to/harmonyos/starting-and-stopping-vibration-44af)
+- [The Best Postman Alternative: Apidog!](https://dev.to/theodoresummer/the-best-postman-alternative-apidog-10e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
