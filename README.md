@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Components structure in deerflow codebase - Part 1.1](https://dev.to/ramunarasinga-11/components-structure-in-deerflow-codebase-part-11-2p27)
-- [Nobody Taught You the Function Philosophy. Let Me Fix That.](https://dev.to/thomijasir/nobody-taught-you-the-function-philosophy-let-me-fix-that-293i)
-- [AI writes code fast, but it&#39;s missing structure. So I built a methodology layer.](https://dev.to/ilom/ai-writes-code-fast-but-its-missing-structure-so-i-built-a-methodology-layer-2mli)
-- [How I Structure Every Laravel REST API Project](https://dev.to/polash/how-i-structure-every-laravel-rest-api-project-33n1)
-- [Protocol Launcher Series: One-Click CodeBuddy Development Experience](https://dev.to/zhensherlock/protocol-launcher-series-one-click-codebuddy-development-experience-1jn)
+- [Data Exploitation Concerns Prompt Shift Towards Valuing Software Over User Data in Digital Platforms](https://dev.to/maxgeris/data-exploitation-concerns-prompt-shift-towards-valuing-software-over-user-data-in-digital-platforms-4j5p)
+- [How to Investigate Any IP Address Using Free APIs &lpar;With Code&rpar;](https://dev.to/robocular/how-to-investigate-any-ip-address-using-free-apis-with-code-1kcd)
+- [El &quot;Stack&quot; Estándar Local &lpar;Ollama + LangChain + ChromaDB&rpar;](https://dev.to/msanch41/el-stack-estandar-local-ollama-langchain-chromadb-29j)
+- [Security as a Profit Center: Why Your Economic Firewall Pays for Itself](https://dev.to/mattdeangit/security-as-a-profit-center-why-your-economic-firewall-pays-for-itself-3h3i)
+- [Hard-Capping MCP Tool Spend with SatGate Proxy](https://dev.to/mattdeangit/hard-capping-mcp-tool-spend-with-satgate-proxy-3ahk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
