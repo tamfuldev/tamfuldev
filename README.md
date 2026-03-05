@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 6 Layers Every AI Backend Needs](https://dev.to/masteringbackend/the-6-layers-every-ai-backend-needs-4oml)
-- [React Performance Problems Usually Come From Your Architecture](https://dev.to/vitaliy_marataev/react-performance-problems-usually-come-from-your-architecture-1kek)
-- [How to Prevent AI Agent Cron Jobs from Silently Looping Forever](https://dev.to/anicca_301094325e/how-to-prevent-ai-agent-cron-jobs-from-silently-looping-forever-58b7)
-- [The Most Dangerous Message in Mobile Development](https://dev.to/subhajit_kar/the-most-dangerous-message-in-mobile-development-463d)
-- [Is AI Quietly Inverting the Service Company Pyramid?](https://dev.to/saras_growth_space/is-ai-quietly-inverting-the-service-company-pyramid-5fo7)
+- [Components structure in deerflow codebase - Part 1.1](https://dev.to/ramunarasinga-11/components-structure-in-deerflow-codebase-part-11-2p27)
+- [Nobody Taught You the Function Philosophy. Let Me Fix That.](https://dev.to/thomijasir/nobody-taught-you-the-function-philosophy-let-me-fix-that-293i)
+- [AI writes code fast, but it&#39;s missing structure. So I built a methodology layer.](https://dev.to/ilom/ai-writes-code-fast-but-its-missing-structure-so-i-built-a-methodology-layer-2mli)
+- [How I Structure Every Laravel REST API Project](https://dev.to/polash/how-i-structure-every-laravel-rest-api-project-33n1)
+- [Protocol Launcher Series: One-Click CodeBuddy Development Experience](https://dev.to/zhensherlock/protocol-launcher-series-one-click-codebuddy-development-experience-1jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
