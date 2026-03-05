@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Harden Linux Services with `systemd-analyze security`: From Score to Enforceable Policy](https://dev.to/lyraalishaikh/harden-linux-services-with-systemd-analyze-security-from-score-to-enforceable-policy-3045)
-- [From Prototype to Production: Building a Reliable RAG API with FastAPI + ChromaDB](https://dev.to/sowndappan_s/from-prototype-to-production-building-a-reliable-rag-api-with-fastapi-chromadb-2d88)
-- [From Applications to Agents: The New Software Paradigm](https://dev.to/jaideepparashar/from-applications-to-agents-the-new-software-paradigm-29da)
-- [Top Fintech APIs for Startups](https://dev.to/apideck/top-fintech-apis-for-startups-5df5)
-- [Stripe has been doing amazing work with their llms.txt, and this guide covers it well. This might be worth adding to your own llms.txt file too!](https://dev.to/srbhr/stripe-has-been-doing-amazing-work-with-their-llmstxt-and-this-guide-covers-it-well-this-might-2ba4)
+- [Recriando o Jimeng AI com o sistema multiagente do TRAE SOLO Coder](https://dev.to/captaincc/recriando-o-jimeng-ai-com-o-sistema-multiagente-do-trae-solo-coder-3hi1)
+- [🤖 Stop. Breathe. You Don&#39;t Need Every AI Tool.](https://dev.to/shashi_kiran_bcfdbb223140/stop-breathe-you-dont-need-every-ai-tool-hoi)
+- [Designing Model Ensembles in GenAI Platforms](https://dev.to/shreekansha97/designing-model-ensembles-in-genai-platforms-4ep7)
+- [Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo&#39;s AI Search Skill](https://dev.to/loopsthings/adding-real-time-google-ai-mode-data-to-your-openclaw-agent-with-pangolinfos-ai-search-skill-2n8b)
+- [Hashicorp Vault CLI Part 6: Authorization](https://dev.to/admantium/hashicorp-vault-cli-part-6-authorization-41hb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
