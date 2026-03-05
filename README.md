@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Code Review: Benefits, Tools &amp; Implementation &lpar;2026 Guide&rpar;](https://dev.to/cpave3/automated-code-review-benefits-tools-implementation-2026-guide-5dgd)
-- [Classifying Amazon Reviews with Python: From Raw Text to 88% Accuracy](https://dev.to/akansrodger/classifying-amazon-reviews-with-python-from-raw-text-to-88-accuracy-15a4)
-- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
-- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
-- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
+- [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n)
+- [Step-by-Step Guide: Deploy a Containerized App to AWS](https://dev.to/ijay/step-by-step-guide-deploy-a-containerized-app-to-aws-56ne)
+- [The Adventures of Blink S5e1: Kicking off the Build](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e1-kicking-off-the-build-4lmg)
+- [#java #collections #programming #datastructures](https://dev.to/kanishkashr/java-collections-programming-datastructures-4jbk)
+- [Surviving an Apple &quot;Sherlock&quot; and a 12-month cash burn](https://dev.to/diegodotta/surviving-an-apple-sherlock-and-a-12-month-cash-burn-c5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
