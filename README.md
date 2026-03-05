@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Services](https://dev.to/kalpesh_mohanta_a1de0872f/aws-services-510a)
-- [Git Overview](https://dev.to/kalpesh_mohanta_a1de0872f/git-overview-1phb)
-- [I&#39;m building an AI agent that fixes broken CI pipelines automatically — here&#39;s what I&#39;ve learned](https://dev.to/techject_studio_518f678a7/im-building-an-ai-agent-that-fixes-broken-ci-pipelines-automatically-heres-what-ive-learned-3p5e)
-- [Linux Filesystem &amp; Essential Linux Commands](https://dev.to/kalpesh_mohanta_a1de0872f/linux-filesystem-essential-linux-commands-1jcm)
-- [Is JAVA 100% Object Oriented Programming Language?](https://dev.to/deepika_k_6841b1a02fb03bd/is-java-100-object-oriented-programming-language-19ie)
+- [Playground to test Open-Source LLMs in action &lpar;GPT-OSS, Qwen3.5, DeepSeek&rpar; with Tools and RAG [Free and No signup]](https://dev.to/ivictbor/playground-to-test-open-source-llms-in-action-gpt-oss-qwen35-deepseek-with-tools-and-rag-free-480l)
+- [Sound Field: How Disco Explains The Bad Bunny Controversy](https://dev.to/music_youtube/sound-field-how-disco-explains-the-bad-bunny-controversy-389f)
+- [The Hidden Cost Layers of EC2 &lpar;And Why Stopped Instances Still Drain Your Budget&rpar;](https://dev.to/cloudwiseteam/the-hidden-cost-layers-of-ec2-and-why-stopped-instances-still-drain-your-budget-5bmf)
+- [Introducing Maester](https://dev.to/lei_ye_2cc01a0af9e8260e/introducing-maester-the-knowledge-engine-of-your-company-h22)
+- [The Age of AI Isn&#39;t About Replacement. It&#39;s About Relevance](https://dev.to/leolanese/the-age-of-ai-isnt-about-replacement-its-about-relevance-133p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
