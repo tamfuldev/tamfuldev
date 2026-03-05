@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n)
-- [Step-by-Step Guide: Deploy a Containerized App to AWS](https://dev.to/ijay/step-by-step-guide-deploy-a-containerized-app-to-aws-56ne)
-- [The Adventures of Blink S5e1: Kicking off the Build](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e1-kicking-off-the-build-4lmg)
-- [#java #collections #programming #datastructures](https://dev.to/kanishkashr/java-collections-programming-datastructures-4jbk)
-- [Surviving an Apple &quot;Sherlock&quot; and a 12-month cash burn](https://dev.to/diegodotta/surviving-an-apple-sherlock-and-a-12-month-cash-burn-c5f)
+- [How to Rank in ChatGPT and Perplexity: A Practical GEO Guide](https://dev.to/gofortool/how-to-rank-in-chatgpt-and-perplexity-a-practical-geo-guide-44ep)
+- [How to Permanently Disable a systemd Service on Ubuntu](https://dev.to/pilgrim2go/how-to-permanently-disable-a-systemd-service-on-ubuntu-noh)
+- [Troubleshooting KVM Issues](https://dev.to/pilgrim2go/troubleshooting-kvm-issues-5cn1)
+- [Unique ID generator — Twitter snow flake design](https://dev.to/akshatjme/unique-id-generator-twitter-snow-flake-design-27op)
+- [Drawing On DOS](https://dev.to/nabir14/drawing-on-dos-59cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
