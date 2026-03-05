@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges of PDF Recognition Technology Based on GitHub Issues](https://dev.to/katash/challenges-of-pdf-recognition-technology-based-on-github-issues-20kj)
-- [WHOIS is dead, I built an API for what replaces it](https://dev.to/boutetnico/whois-is-dead-i-built-an-api-for-what-replaces-it-3gje)
-- [Learnings from Pursuing High Data Quality: A Reflective Piece](https://dev.to/aws-builders/learnings-from-pursuing-high-data-quality-a-reflective-piece-57af)
-- [Building a Secure GPT Gateway &lpar;Part 1&rpar;](https://dev.to/davelhw/building-a-secure-gpt-gateway-part-1-4593)
-- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-2h0i)
+- [Automated Code Review: Benefits, Tools &amp; Implementation &lpar;2026 Guide&rpar;](https://dev.to/cpave3/automated-code-review-benefits-tools-implementation-2026-guide-5dgd)
+- [Classifying Amazon Reviews with Python: From Raw Text to 88% Accuracy](https://dev.to/akansrodger/classifying-amazon-reviews-with-python-from-raw-text-to-88-accuracy-15a4)
+- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
+- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
+- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
