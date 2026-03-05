@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Web Applications Against AI Crawlers with SafeLine WAF](https://dev.to/meowth/hardening-web-applications-against-ai-crawlers-with-safeline-waf-c0o)
-- [I Built a Security Scanner Because AI Code Scared Me](https://dev.to/ayame0328/i-built-a-security-scanner-because-ai-code-scared-me-2942)
-- [How Conversion Rate Optimization Drives Better Marketing ROI](https://dev.to/timbaumgartner/how-conversion-rate-optimization-drives-better-marketing-roi-56dk)
-- [Starting and Stopping Vibration](https://dev.to/harmonyos/starting-and-stopping-vibration-44af)
-- [The Best Postman Alternative: Apidog!](https://dev.to/theodoresummer/the-best-postman-alternative-apidog-10e2)
+- [Harden Linux Services with `systemd-analyze security`: From Score to Enforceable Policy](https://dev.to/lyraalishaikh/harden-linux-services-with-systemd-analyze-security-from-score-to-enforceable-policy-3045)
+- [From Prototype to Production: Building a Reliable RAG API with FastAPI + ChromaDB](https://dev.to/sowndappan_s/from-prototype-to-production-building-a-reliable-rag-api-with-fastapi-chromadb-2d88)
+- [From Applications to Agents: The New Software Paradigm](https://dev.to/jaideepparashar/from-applications-to-agents-the-new-software-paradigm-29da)
+- [Top Fintech APIs for Startups](https://dev.to/apideck/top-fintech-apis-for-startups-5df5)
+- [Stripe has been doing amazing work with their llms.txt, and this guide covers it well. This might be worth adding to your own llms.txt file too!](https://dev.to/srbhr/stripe-has-been-doing-amazing-work-with-their-llmstxt-and-this-guide-covers-it-well-this-might-2ba4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
