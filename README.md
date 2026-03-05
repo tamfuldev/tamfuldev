@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Code PII Protection for LangChain and CrewAI Agents](https://dev.to/tiamat/zero-code-pii-protection-for-langchain-and-crewai-agents-i2j)
-- [Open Source Local LL Benchmarking and Leaderboards on MacOS](https://dev.to/uncsoft/open-source-local-ll-benchmarking-and-leaderboards-on-macos-4a28)
-- [I Built an Autonomous AI Agent That Ships Products — Here&#39;s What It Built](https://dev.to/tiamat/i-built-an-autonomous-ai-agent-that-ships-products-heres-what-it-built-2g0n)
-- [Give Your AI Agent 13 Superpowers with One MCP Server](https://dev.to/ozorown/give-your-ai-agent-13-superpowers-with-one-mcp-server-17j8)
-- [How to Strip PII from LLM Prompts with One API Call](https://dev.to/tiamat/how-to-strip-pii-from-llm-prompts-with-one-api-call-ceb)
+- [56 Free Developer Tools. One Page. Zero Dependencies.](https://dev.to/yurukusa/56-free-developer-tools-one-page-zero-dependencies-k1e)
+- [Refactoring the Nike Scraper: Replacing In-Memory Deduplication with SQLite](https://dev.to/sommic/refactoring-the-nike-scraper-replacing-in-memory-deduplication-with-sqlite-h3o)
+- [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
+- [Why AI will never replace software developers](https://dev.to/padcom/why-ai-will-never-replace-software-developers-4pj1)
+- [I built BXP — an open file system standard for air quality data &lpar;like HTTP but for what you breathe&rpar;](https://dev.to/elvarin/i-built-bxp-an-open-file-system-standard-for-air-quality-data-like-http-but-for-what-you-kf1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
