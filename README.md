@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git Pre-commit Magic: Stop Leaking API Keys from Your Mac](https://dev.to/mazharul/git-pre-commit-magic-stop-leaking-api-keys-from-your-mac-20nc)
-- [Building an AI-Powered Revenue Recovery Engine for SaaS 🚀 &lpar;Next.js 15 + Gemini 2.0&rpar;](https://dev.to/ezekielreu6/building-an-ai-powered-revenue-recovery-engine-for-saas-nextjs-15-gemini-20-427)
-- [scrollbar-gutter to the rescue](https://dev.to/hrgdavor/scrollbar-gutter-to-the-rescue-30hm)
-- [Developer in the Age of AI](https://dev.to/xiaoguang_/developer-in-the-age-of-ai-53dl)
-- [Stop Letting Your AI Agent Read the entire Repo: Introducing trail-docs](https://dev.to/silicon_zee/stop-letting-your-ai-agent-read-the-entire-repo-introducing-trail-docs-321k)
+- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
+- [How the Circuit Breaker Pattern Prevents Cascading Failures in Microservices](https://dev.to/shpreeti/how-the-circuit-breaker-pattern-prevents-cascading-failures-in-microservices-3nbi)
+- [I Gave My AI a Memory](https://dev.to/kristoffer_nordstrom/i-gave-my-ai-a-memory-1n9i)
+- [How to Scale Claude Code with an MCP Gateway &lpar;Run Any LLM, Centralize Tools, Control Costs&rpar;](https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9)
+- [5 GitHub Metrics That Will Transform How You Code &lpar;Most Devs Ignore&rpar;](https://dev.to/devlyticks/5-github-metrics-that-will-transform-how-you-code-most-devs-ignore-5hfb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
