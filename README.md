@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Updated Test Article](https://dev.to/clipsmithai/updated-test-article-8jb)
-- [Scaling AI/ML Workloads: 3 Architecture Lessons from HashiConf 2023](https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2)
-- [Introducing ACP: An Open Protocol for Agent-to-Agent Commerce](https://dev.to/omosholao/introducing-acp-an-open-protocol-for-agent-to-agent-commerce-727)
-- [I built a free browser-based image toolkit with JavaScript](https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l)
-- [From Black Box to Traceable Swarm: OpenTelemetry Patterns for AI Agents](https://dev.to/kowshik_jallipalli_a7e0a5/from-black-box-to-traceable-swarm-opentelemetry-patterns-for-ai-agents-26e1)
+- [blade-flags gives you SVG rectangles. This gives you flags users actually recognize.](https://dev.to/polash/blade-flags-gives-you-svg-rectangles-this-gives-you-flags-users-actually-recognize-3ca1)
+- [Zero To Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p)
+- [Artigo sobre A Evolução do Modelo Relacional para Objeto-Relacional.](https://dev.to/teussalvess/artigo-sobre-a-evolucao-do-modelo-relacional-para-objeto-relacional-12ae)
+- [Linux Permissions](https://dev.to/frank_olwenda_d0bd7517d63/linux-permissions-5b3i)
+- [CPU · GPU · CUDA Three Technologies That Quietly Changed Everything](https://dev.to/sreeni5018/cpu-cuda-gpu-the-invisible-engine-that-runs-the-modern-world-2fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
