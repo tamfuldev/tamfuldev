@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 5 Python Mistakes Every Junior Dev Makes &lpar;And How to Fix Them&rpar;](https://dev.to/neha_christina_1ac8651819/5-python-mistakes-every-junior-dev-makes-and-how-to-fix-them-o3b)
-- [AI技术动态 2月19日：知乎热议、开源热榜、科技快讯](https://dev.to/chx381/aiji-zhu-dong-tai-2yue-19ri-zhi-hu-re-yi-kai-yuan-re-bang-ke-ji-kuai-xun-5hbm)
-- [From Photo to Explorable 3D World in Under 3 Minutes: The No-Code Gaussian Splatting Revolution Finally Happened](https://dev.to/alexmercer_creatives/from-photo-to-explorable-3d-world-in-under-3-minutes-the-no-code-gaussian-splatting-revolution-1mfe)
-- [Build Your First AI Agent in Python — No ML Degree Required](https://dev.to/klement_gunndu/build-your-first-ai-agent-in-python-no-ml-degree-required-2l97)
-- [[BOJ/C++] 단계별로 풀어보기 - 스택, 큐, 덱 1](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-seutaeg-kyu-deg-1-4p09)
+- [Serving llms.txt from a Dockerized WordPress + Nginx Setup](https://dev.to/pylypenko/serving-llmstxt-from-a-dockerized-wordpress-nginx-setup-2ka2)
+- [I Built a Tool That Generates AI Coding Context for Every Tool — From One Scan](https://dev.to/saurav_anand_75e32e8d0c76/i-built-a-tool-that-generates-ai-coding-context-for-every-tool-from-one-scan-ie0)
+- [Joins and Window Functions in SQL](https://dev.to/faith_neno_ab7523752f338a/joins-and-window-functions-in-sql-5gn)
+- [Top 10 IT Staff Augmentation Companies in 2026 &lpar;A Practical Look From Someone Who Had to Hire Developers&rpar;](https://dev.to/art_light/top-it-staff-augmentation-companies-a-practical-look-from-someone-who-had-to-hire-developers-1jm3)
+- [Render LaTeX, Math &amp; Chemistry in React, React Native, Flutter — One Package](https://dev.to/sandipandassd/render-latex-math-chemistry-in-react-react-native-flutter-one-package-5cgp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
