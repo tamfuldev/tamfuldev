@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Partie 7 — Sécurité et test de charge](https://dev.to/voieducode/partie-7-securite-et-test-de-charge-3ejk)
-- [Partie 6 — Deux instances](https://dev.to/voieducode/partie-6-deux-instances-ml4)
-- [Fighting AI Developer Fatigue: Building a Control Plane with FastAPI and tmux](https://dev.to/cdknorow/fighting-ai-developer-fatigue-building-a-control-plane-with-fastapi-and-tmux-10gp)
-- [Partie 5 — Vault, et l&#39;après-midi où j&#39;ai tout effacé](https://dev.to/voieducode/partie-5-vault-et-lapres-midi-ou-jai-tout-efface-1df9)
-- [Git &amp; GitHub Learning Notes](https://dev.to/kervie_sazon/git-github-notes-5h0o)
+- [Docker key terms simplified](https://dev.to/jaboarnoldlandry/docker-key-terms-simplified-31c6)
+- [How I Built an Animated Circle Progress Component Using FSCSS &lpar;No JavaScript&rpar;](https://dev.to/fscss-ttr/how-i-built-an-animated-circle-progress-component-using-fscss-no-javascript-18o4)
+- [I Found an Open-Source AI Agent That Runs on Your Laptop and Talks Through Telegram, Discord, and WhatsApp](https://dev.to/dsharma08k/i-found-an-open-source-ai-agent-that-runs-on-your-laptop-and-talks-through-telegram-discord-and-17kl)
+- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
+- [How Memory Actually Works in Programming &lpar;No Jargon, Just Clarity&rpar;](https://dev.to/trace_dynamics_a0720be946/how-memory-actually-works-in-programming-no-jargon-just-clarity-4eck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
