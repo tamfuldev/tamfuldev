@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an AWS Cloud Club Captain ☁️](https://dev.to/pwnjoshi/how-to-become-an-aws-cloud-club-captain-2dea)
-- [Gas Town by Kilo](https://dev.to/kilocode/gas-town-by-kilo-loa)
-- [I Built a Procurement Quotation Comparator API &lpar;Node.js + TypeScript&rpar;](https://dev.to/fluffyfi3/i-built-a-procurement-quotation-comparator-api-nodejs-typescript-3khb)
-- [#java #datastructures #programming #collections](https://dev.to/kanishkashr/java-datastructures-programming-collections-2in0)
-- [How I Built an Automated AI Music Video Factory Using n8n](https://dev.to/francofuji/how-i-built-an-automated-ai-music-video-factory-using-n8n-2oic)
+- [Part 6 — Two instances](https://dev.to/voieducode/part-6-two-instances-26ll)
+- [Part 5 — Vault, and the afternoon I deleted everything](https://dev.to/voieducode/part-5-vault-and-the-afternoon-i-deleted-everything-4kdj)
+- [Part 4 — The first Supabase instance](https://dev.to/voieducode/part-4-the-first-supabase-instance-1e7f)
+- [Part 3 — Traefik and SSL](https://dev.to/voieducode/part-3-traefik-and-ssl-3b29)
+- [Troubleshooting WordPress: &quot;Error Establishing a Database Connection&quot; on MySQL 8.4+ &lpar;macOS/MacPorts&rpar;](https://dev.to/chanurholis/troubleshooting-wordpress-error-establishing-a-database-connection-on-mysql-84-macosmacports-2gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
