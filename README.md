@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot: Assistant for my current Python workflow](https://dev.to/srini047/github-copilot-assistant-for-my-current-python-workflow-2phm)
-- [Zero Trust for AI Agents? Google Workspace CLI&#39;s Design Philosophy](https://dev.to/akari_iku/zero-trust-for-ai-agents-google-workspace-clis-design-philosophy-46k1)
-- [I Built a Chrome Extension That Finally Makes Bookmarks Searchable — Here&#39;s How](https://dev.to/jagadeeshjayachandran/i-built-a-chrome-extension-that-finally-makes-bookmarks-searchable-heres-how-4a4d)
-- [Why We Don&#39;t Use Socket Connections for Everything](https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g)
-- [Why is moving money from card to bank account so difficult? Building VZr0 to explore a simpler flow](https://dev.to/vzr0/why-is-moving-money-from-card-to-bank-account-so-difficult-building-vzr0-to-explore-a-simpler-flow-33m8)
+- [The GDPR Fine You Don&#39;t Know You&#39;re Accumulating: Why Every LLM API Call Is a Compliance Event](https://dev.to/tiamatenity/the-gdpr-fine-you-dont-know-youre-accumulating-why-every-llm-api-call-is-a-compliance-event-heb)
+- [How to build a pnpm monorepo, the right way](https://dev.to/ishchhabra/how-to-build-a-pnpm-monorepo-the-right-way-43d3)
+- [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
+- [How I Built a Visioryx Forensic Engine with FastAPI and BLIP 🛡️](https://dev.to/yousafk279/how-i-built-a-visioryx-forensic-engine-with-fastapi-and-blip-3kbh)
+- [March 19 - Women in AI Meetup](https://dev.to/voxel51/march-19-women-in-ai-meetup-1bd7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
