@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Serving llms.txt from a Dockerized WordPress + Nginx Setup](https://dev.to/pylypenko/serving-llmstxt-from-a-dockerized-wordpress-nginx-setup-2ka2)
-- [I Built a Tool That Generates AI Coding Context for Every Tool — From One Scan](https://dev.to/saurav_anand_75e32e8d0c76/i-built-a-tool-that-generates-ai-coding-context-for-every-tool-from-one-scan-ie0)
-- [Joins and Window Functions in SQL](https://dev.to/faith_neno_ab7523752f338a/joins-and-window-functions-in-sql-5gn)
-- [Top 10 IT Staff Augmentation Companies in 2026 &lpar;A Practical Look From Someone Who Had to Hire Developers&rpar;](https://dev.to/art_light/top-it-staff-augmentation-companies-a-practical-look-from-someone-who-had-to-hire-developers-1jm3)
-- [Render LaTeX, Math &amp; Chemistry in React, React Native, Flutter — One Package](https://dev.to/sandipandassd/render-latex-math-chemistry-in-react-react-native-flutter-one-package-5cgp)
+- [Git Pre-commit Magic: Stop Leaking API Keys from Your Mac](https://dev.to/mazharul/git-pre-commit-magic-stop-leaking-api-keys-from-your-mac-20nc)
+- [Building an AI-Powered Revenue Recovery Engine for SaaS 🚀 &lpar;Next.js 15 + Gemini 2.0&rpar;](https://dev.to/ezekielreu6/building-an-ai-powered-revenue-recovery-engine-for-saas-nextjs-15-gemini-20-427)
+- [scrollbar-gutter to the rescue](https://dev.to/hrgdavor/scrollbar-gutter-to-the-rescue-30hm)
+- [Developer in the Age of AI](https://dev.to/xiaoguang_/developer-in-the-age-of-ai-53dl)
+- [Stop Letting Your AI Agent Read the entire Repo: Introducing trail-docs](https://dev.to/silicon_zee/stop-letting-your-ai-agent-read-the-entire-repo-introducing-trail-docs-321k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
