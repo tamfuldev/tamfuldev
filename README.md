@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker key terms simplified](https://dev.to/jaboarnoldlandry/docker-key-terms-simplified-31c6)
-- [How I Built an Animated Circle Progress Component Using FSCSS &lpar;No JavaScript&rpar;](https://dev.to/fscss-ttr/how-i-built-an-animated-circle-progress-component-using-fscss-no-javascript-18o4)
-- [I Found an Open-Source AI Agent That Runs on Your Laptop and Talks Through Telegram, Discord, and WhatsApp](https://dev.to/dsharma08k/i-found-an-open-source-ai-agent-that-runs-on-your-laptop-and-talks-through-telegram-discord-and-17kl)
-- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
-- [How Memory Actually Works in Programming &lpar;No Jargon, Just Clarity&rpar;](https://dev.to/trace_dynamics_a0720be946/how-memory-actually-works-in-programming-no-jargon-just-clarity-4eck)
+- [GitHub Copilot: Assistant for my current Python workflow](https://dev.to/srini047/github-copilot-assistant-for-my-current-python-workflow-2phm)
+- [Zero Trust for AI Agents? Google Workspace CLI&#39;s Design Philosophy](https://dev.to/akari_iku/zero-trust-for-ai-agents-google-workspace-clis-design-philosophy-46k1)
+- [I Built a Chrome Extension That Finally Makes Bookmarks Searchable — Here&#39;s How](https://dev.to/jagadeeshjayachandran/i-built-a-chrome-extension-that-finally-makes-bookmarks-searchable-heres-how-4a4d)
+- [Why We Don&#39;t Use Socket Connections for Everything](https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g)
+- [Why is moving money from card to bank account so difficult? Building VZr0 to explore a simpler flow](https://dev.to/vzr0/why-is-moving-money-from-card-to-bank-account-so-difficult-building-vzr0-to-explore-a-simpler-flow-33m8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
