@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The GDPR Fine You Don&#39;t Know You&#39;re Accumulating: Why Every LLM API Call Is a Compliance Event](https://dev.to/tiamatenity/the-gdpr-fine-you-dont-know-youre-accumulating-why-every-llm-api-call-is-a-compliance-event-heb)
-- [How to build a pnpm monorepo, the right way](https://dev.to/ishchhabra/how-to-build-a-pnpm-monorepo-the-right-way-43d3)
-- [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
-- [How I Built a Visioryx Forensic Engine with FastAPI and BLIP 🛡️](https://dev.to/yousafk279/how-i-built-a-visioryx-forensic-engine-with-fastapi-and-blip-3kbh)
-- [March 19 - Women in AI Meetup](https://dev.to/voxel51/march-19-women-in-ai-meetup-1bd7)
+- [How to Automate TikTok Ads with Claude AI and MCP — Workflows, Creative Intelligence, and Real Results](https://dev.to/rupa_tiwari_dd308948d710f/how-to-automate-tiktok-ads-with-claude-ai-and-mcp-workflows-creative-intelligence-and-real-g7b)
+- [Supercharging Open Source Projects With Free AI Code Reviews](https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m)
+- [If You&#39;re Building Microservices Without This, You&#39;re Doing It Wrong](https://dev.to/rajath_shiremath_523cd54/if-youre-building-microservices-without-this-youre-doing-it-wrong-f53)
+- [A Clean Frontend Folder Structure Every Developer Should Know](https://dev.to/yasirawan4831/a-clean-frontend-folder-structure-every-developer-should-know-4j81)
+- [Nobody Is Reading Your Blog Post. They Weren&#39;t Going To Read Mine Either.](https://dev.to/evanlausier/nobody-is-reading-your-blog-post-they-werent-going-to-read-mine-either-42j8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
