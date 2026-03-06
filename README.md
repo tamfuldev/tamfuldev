@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
-- [How the Circuit Breaker Pattern Prevents Cascading Failures in Microservices](https://dev.to/shpreeti/how-the-circuit-breaker-pattern-prevents-cascading-failures-in-microservices-3nbi)
-- [I Gave My AI a Memory](https://dev.to/kristoffer_nordstrom/i-gave-my-ai-a-memory-1n9i)
-- [How to Scale Claude Code with an MCP Gateway &lpar;Run Any LLM, Centralize Tools, Control Costs&rpar;](https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9)
-- [5 GitHub Metrics That Will Transform How You Code &lpar;Most Devs Ignore&rpar;](https://dev.to/devlyticks/5-github-metrics-that-will-transform-how-you-code-most-devs-ignore-5hfb)
+- [How to Become an AWS Cloud Club Captain ☁️](https://dev.to/pwnjoshi/how-to-become-an-aws-cloud-club-captain-2dea)
+- [Gas Town by Kilo](https://dev.to/kilocode/gas-town-by-kilo-loa)
+- [I Built a Procurement Quotation Comparator API &lpar;Node.js + TypeScript&rpar;](https://dev.to/fluffyfi3/i-built-a-procurement-quotation-comparator-api-nodejs-typescript-3khb)
+- [#java #datastructures #programming #collections](https://dev.to/kanishkashr/java-datastructures-programming-collections-2in0)
+- [How I Built an Automated AI Music Video Factory Using n8n](https://dev.to/francofuji/how-i-built-an-automated-ai-music-video-factory-using-n8n-2oic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
