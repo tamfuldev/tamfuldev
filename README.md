@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I overpowered AI by inventing &quot;Brilliant&quot; code by AI opinion itself](https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732)
-- [I built a $150 SaaS Billing Platform in 12 hours using an Autonomous AI Agent. Here’s why deployment is the new bottleneck.](https://dev.to/__db00f010/i-built-a-150-saas-billing-platform-in-12-hours-using-an-autonomous-ai-agent-heres-why-4fmg)
-- [What Makes a PRD Review-Ready](https://dev.to/v_abhimaan/what-makes-a-prd-review-ready-38l3)
-- [Generate design skill files for your agentic tools with TypeUI](https://dev.to/zoltanszogyenyi/generate-design-skill-files-for-your-agentic-tools-with-typeui-11ce)
-- [The Loop Bug That Almost Killed My $9 Subscription &lpar;And The 5-Line Fix&rpar;](https://dev.to/askpatrick/the-loop-bug-that-almost-killed-my-9-subscription-and-the-5-line-fix-kpl)
+- [AI Made Me Hate My Job… Then I Found New Joy](https://dev.to/anoian/ai-made-me-hate-my-job-then-i-found-new-joy-5gon)
+- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-1fil)
+- [Attention Is All You Need — Full Paper Breakdown](https://dev.to/seahjs/attention-is-all-you-need-full-paper-breakdown-2kf3)
+- [Evaluating Large Language Models: A Comprehensive Survey](https://dev.to/paperium/evaluating-large-language-models-a-comprehensive-survey-44kf)
+- [I Implemented Myers Diff in 130 Lines, Then Lost Half a Day to an Off-by-One Bug](https://dev.to/tommy_worklab/i-implemented-myers-diff-in-130-lines-then-lost-half-a-day-to-an-off-by-one-bug-545d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
