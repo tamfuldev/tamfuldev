@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a monorepo from Yarn to PNPM](https://dev.to/mbarzeev/migrating-a-monorepo-from-yarn-to-pnpm-45cn)
-- [Why Dynamic Arrays Aren&#39;t Actually Dynamic](https://dev.to/doogal/why-dynamic-arrays-arent-actually-dynamic-2inc)
-- [I built a 3D room moodboard that works with screenshots from any store](https://dev.to/kamilbakierzynski/i-built-a-3d-room-moodboard-that-works-with-screenshots-from-any-store-35a4)
-- [Kubernetes Service Mesh vs eBPF Networking: Cilium vs Calico Explained](https://dev.to/ntctech/kubernetes-service-mesh-vs-ebpf-networking-cilium-vs-calico-explained-139m)
-- [Bridging the Gap: From Classical Search Theory to the Era of Agentic AI](https://dev.to/sajid0875/bridging-the-gap-from-classical-search-theory-to-the-era-of-agentic-ai-2gcg)
+- [Introducing ocpp-ws-io: The Type-Safe OCPP Ecosystem for Node.js ⚡](https://dev.to/rohittiwari-dev/introducing-ocpp-ws-io-the-type-safe-ocpp-ecosystem-for-nodejs-314b)
+- [We Ship Production Apps in Weeks, Not Months. Here&#39;s the Engineering Behind It.](https://dev.to/michelle-jones/we-ship-production-apps-in-weeks-not-months-heres-the-engineering-behind-it-2aof)
+- [Important: A VS Code Extension That Keeps Your Python Imports Clean](https://dev.to/irarainey/important-a-vs-code-extension-that-keeps-your-python-imports-clean-je6)
+- [LLMs work best when the user defines their acceptance criteria first](https://dev.to/technoblogger14o3/llms-work-best-when-the-user-defines-their-acceptance-criteria-first-5oa)
+- [Procedural Gradients, Hotfixes, and the Power of QA](https://dev.to/jesuspinarte/procedural-gradients-hotfixes-and-the-power-of-qa-51cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
