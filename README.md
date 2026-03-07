@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World, Meet Pebbles](https://dev.to/grontis/hello-world-meet-pebbles-4cik)
-- [Reviewing code as human](https://dev.to/ms_74/reviewing-code-as-human-2jg1)
-- [Learning Docker: Dockerfiles, .dockerignore, and Port Mapping 🐳](https://dev.to/dharam_in/learning-docker-dockerfiles-dockerignore-and-port-mapping-1g2n)
-- [Figma + Claude Code](https://dev.to/buildandcodewithraman/figma-claude-code-6f)
-- [3 words worth a billion dollars: Drift to Determinism &lpar;DriDe&rpar;](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej)
+- [Quark&#39;s Outlines: Python Emulating Callable Objects](https://dev.to/mike-vincent/quarks-outlines-python-emulating-callable-objects-188d)
+- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-4mc8)
+- [Event-Driven Volatility](https://dev.to/rawveg/event-driven-volatility-13df)
+- [Event-Driven Architecture on a Budget: Kotlin Coroutines + Redis Streams](https://dev.to/software_mvp-factory/event-driven-architecture-on-a-budget-kotlin-coroutines-redis-streams-4f5i)
+- [Vibe Coding Challenge - Day 9: Novellasense Book Writing Assistant](https://dev.to/labdays/vibe-coding-challenge-day-9-novellasense-book-writing-assistant-383i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
