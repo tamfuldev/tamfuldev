@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reliable Job Scheduler with Cloudflare Durable Objects and Queues](https://dev.to/shaikhalamin/building-a-reliable-job-scheduler-with-cloudflare-durable-objects-and-queues-3d27)
-- [How We Managed State Across 900+ React Components Without Losing Our Minds](https://dev.to/keshav422/how-we-managed-state-across-900-react-components-without-losing-our-minds-56mj)
-- [How I Built a CRDT Engine for a Collaborative Whiteboard in Rust](https://dev.to/rafacalderon/how-i-built-a-crdt-engine-for-a-collaborative-whiteboard-in-rust-41kl)
-- [Tracking Search Rankings &amp; SEO on Depop](https://dev.to/jonathanfisher/tracking-search-rankings-seo-on-depop-2o59)
-- [Production AI Broke Because of a Model Deprecation — So I Built llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/production-ai-broke-because-of-a-model-deprecation-so-i-built-llm-model-deprecation-4925)
+- [Project Valkyrie: AI-Powered Crisis Logistics &amp; Response Hub](https://dev.to/kanyingidickson-dev/project-valkyrie-ai-powered-crisis-logistics-response-hub-5gff)
+- [Lombok @Getter/@Setter Not Working in Eclipse or STS? Fix in 3 Steps by Keval Chheda](https://dev.to/kevalchheda/lombok-gettersetter-not-working-in-eclipse-or-sts-fix-in-3-steps-3j3i)
+- [I built an open-source firewall for AI agents — it blocks dangerous tool calls before they execute](https://dev.to/justin0504/i-built-an-open-source-firewall-for-ai-agents-it-blocks-dangerous-tool-calls-before-they-4p5f)
+- [Building Accessible Websites: A 2026 Checklist with Free Testing Tools](https://dev.to/julien786534/building-accessible-websites-a-2026-checklist-with-free-testing-tools-1k6n)
+- [Accept Payments in Salesforce: A Complete Guide to Stripe Integration](https://dev.to/sabir_sheikh_cd49d4c419e3/accept-payments-in-salesforce-a-complete-guide-to-stripe-integration-1a2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
