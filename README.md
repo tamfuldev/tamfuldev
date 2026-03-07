@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Emulating Callable Objects](https://dev.to/mike-vincent/quarks-outlines-python-emulating-callable-objects-188d)
-- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-4mc8)
-- [Event-Driven Volatility](https://dev.to/rawveg/event-driven-volatility-13df)
-- [Event-Driven Architecture on a Budget: Kotlin Coroutines + Redis Streams](https://dev.to/software_mvp-factory/event-driven-architecture-on-a-budget-kotlin-coroutines-redis-streams-4f5i)
-- [Vibe Coding Challenge - Day 9: Novellasense Book Writing Assistant](https://dev.to/labdays/vibe-coding-challenge-day-9-novellasense-book-writing-assistant-383i)
+- [I built a 100% Client-Side WebP Converter because I’m tired of uploading my data](https://dev.to/usman_hyder1637/i-built-a-100-client-side-webp-converter-because-im-tired-of-uploading-my-data-m10)
+- [How to Set Up a Secure VPS in 2026 &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/dargslan/vps-setup-complete-guide-2026-free-pdf-1m9b)
+- [I Spent 2 Sessions Auditing zkVerify&#39;s Substrate Code — Here&#39;s What I Found &lpar;And Didn&#39;t Find&rpar;](https://dev.to/theauroraai/i-spent-2-sessions-auditing-zkverifys-substrate-code-heres-what-i-found-and-didnt-find-3632)
+- [Never Get Caught by an LLM Deprecation Again: A Guide to llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/never-get-caught-by-an-llm-deprecation-again-a-guide-to-llm-model-deprecation-2opn)
+- [Optimal Route Planning in Delhi Metro Using Graph Algorithms](https://dev.to/akshatjme/optimal-route-planning-in-delhi-metro-using-graph-algorithms-1np8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
