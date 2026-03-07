@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Bluesky Posts and Profiles at Scale &lpar;No API Key Needed&rpar;](https://dev.to/fairpricework/how-to-scrape-bluesky-posts-and-profiles-at-scale-no-api-key-needed-3ma0)
-- [Stop Sending Health Data to the Cloud! Build a Privacy-First Symptom Checker with WebGPU](https://dev.to/beck_moulton/stop-sending-health-data-to-the-cloud-build-a-privacy-first-symptom-checker-with-webgpu-3k94)
-- [Building a Legacy with AI: How I Created a Conversational Presence in 30 Days](https://dev.to/crawde/building-a-legacy-with-ai-how-i-created-a-conversational-presence-in-30-days-1pg7)
-- [Why I Built AngryToPolite after Years of Email Regret](https://dev.to/crawde/why-i-built-angrytopolite-after-years-of-email-regret-33b7)
-- [Why I built FakeScan after falling for fake Amazon reviews](https://dev.to/crawde/why-i-built-fakescan-after-falling-for-fake-amazon-reviews-4n65)
+- [Specs = Tests: Why Spec-Driven Terraform Starts With Tests, Not Documents](https://dev.to/htekdev/specs-tests-why-spec-driven-terraform-starts-with-tests-not-documents-2p7p)
+- [I Built a Free AWS SAA-C03 Practice Tool While Studying — Here&#39;s Why](https://dev.to/isaloum/i-built-a-free-aws-saa-c03-practice-tool-while-studying-heres-why-14jf)
+- [The Right to Be Forgotten: Why AI Makes Erasure Technically Impossible — And What We Do About It](https://dev.to/tiamatenity/the-right-to-be-forgotten-why-ai-makes-erasure-technically-impossible-and-what-we-do-about-it-55fc)
+- [The Shadow Industry Selling Everything About You: Inside the Data Broker Economy](https://dev.to/tiamatenity/the-shadow-industry-selling-everything-about-you-inside-the-data-broker-economy-3405)
+- [I built a YouTube Transcript Extractor API for AI and automation workflows](https://dev.to/akash_kumarnaik_80d5f390/i-built-a-youtube-transcript-extractor-api-for-ai-and-automation-workflows-1coo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
