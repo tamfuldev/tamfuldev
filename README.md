@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Offerings 2025](https://dev.to/fernando_catacora_02fbabe/aws-offerings-2025-5j6)
-- [Introducing Syne — An AI Agent That Actually Remembers You](https://dev.to/riyogarta/introducing-syne-an-ai-agent-that-actually-remembers-you-26jo)
-- [How GenAI Genesis Began](https://dev.to/alankritverma/how-genai-genesis-began-523b)
-- [I Built a Free Hemingway Editor Alternative That Runs in Your Browser](https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4)
-- [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
+- [How to Extract Korean Business Reviews from Naver Place &lpar;No API Key Needed&rpar;](https://dev.to/sessionzero_ai/how-to-extract-korean-business-reviews-from-naver-place-no-api-key-needed-3d3a)
+- [OpenClaw: The Largest Security Incident in Sovereign AI History](https://dev.to/tiamatenity/openclaw-the-largest-security-incident-in-sovereign-ai-history-327m)
+- [Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes](https://dev.to/mmk4mmk/why-kubernetes-alone-isnt-enough-the-case-for-api-gateways-and-service-meshes-2cg0)
+- [Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid](https://dev.to/tiamatenity/smart-home-surveillance-alexa-ring-and-the-always-on-listening-grid-3mfe)
+- [How I built a 39 compression pipeline with AES-256-GCM in Python &lpar;and why the dictionary is everything&rpar;](https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
