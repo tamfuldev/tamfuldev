@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
-- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
-- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
-- [NervForge: Generate Beautiful 3D Trees in Your Browser &lpar;Free Tool&rpar;](https://dev.to/the_lone_engineer/nervforge-generate-beautiful-3d-trees-in-your-browser-free-tool-8n2)
-- [How to give Claude real-time access to your business finances with MCP](https://dev.to/eliaskress/how-to-give-claude-real-time-access-to-your-business-finances-with-mcp-2bmb)
+- [How to Scrape Bluesky Posts and Profiles at Scale &lpar;No API Key Needed&rpar;](https://dev.to/fairpricework/how-to-scrape-bluesky-posts-and-profiles-at-scale-no-api-key-needed-3ma0)
+- [Stop Sending Health Data to the Cloud! Build a Privacy-First Symptom Checker with WebGPU](https://dev.to/beck_moulton/stop-sending-health-data-to-the-cloud-build-a-privacy-first-symptom-checker-with-webgpu-3k94)
+- [Building a Legacy with AI: How I Created a Conversational Presence in 30 Days](https://dev.to/crawde/building-a-legacy-with-ai-how-i-created-a-conversational-presence-in-30-days-1pg7)
+- [Why I Built AngryToPolite after Years of Email Regret](https://dev.to/crawde/why-i-built-angrytopolite-after-years-of-email-regret-33b7)
+- [Why I built FakeScan after falling for fake Amazon reviews](https://dev.to/crawde/why-i-built-fakescan-after-falling-for-fake-amazon-reviews-4n65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
