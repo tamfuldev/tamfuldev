@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a pay-per-search API discovery engine — no API keys, just crypto &lpar;x402&rpar;](https://dev.to/x402index/i-built-a-pay-per-search-api-discovery-engine-no-api-keys-just-crypto-x402-4b11)
-- [I Built a REST API Generator in 100 Lines of Python - It Replaced My Postman Mocks](https://dev.to/devadatta_baireddy/i-built-a-rest-api-generator-in-100-lines-of-python-it-replaced-my-postman-mocks-4ool)
-- [The Case for Strict PHPStan Baselines in Enterprise Codebases](https://dev.to/victorstackai/the-case-for-strict-phpstan-baselines-in-enterprise-codebases-32jo)
-- [I Built a CSV to JSON Converter in 30 Lines of Python - It Replaced My $50 SaaS](https://dev.to/devadatta_baireddy/i-built-a-csv-to-json-converter-in-30-lines-of-python-it-replaced-my-50-saas-502p)
-- [I Built a YouTube Description Optimizer - YouTubers Are Paying $50/Hour For This](https://dev.to/devadatta_baireddy/i-built-a-youtube-description-optimizer-youtubers-are-paying-50hour-for-this-4fg1)
+- [I Wasted 2 Hours Per Week Resizing Images. So I Built a CLI Tool in 30 Minutes.](https://dev.to/devadatta_baireddy/i-wasted-2-hours-per-week-resizing-images-so-i-built-a-cli-tool-in-30-minutes-pm5)
+- [Exploring Emoji-Based Prompt Manipulation in LLMs](https://dev.to/helixcipher/exploring-emoji-based-prompt-manipulation-in-llms-3f05)
+- [I Tried Vibe Coding Classic Arcade Games with GPT-5.4 &lpar;Inside VS Code&rpar;](https://dev.to/incomplete_developer/i-tried-vibe-coding-classic-arcade-games-with-gpt-54-inside-vs-code-479c)
+- [When AI Remembers Too Much — security, the right to be forgotten and architecture](https://dev.to/helixcipher/when-ai-remembers-too-much-security-the-right-to-be-forgotten-and-architecture-397i)
+- [Building a Stripe Subscription Backend with FastAPI](https://dev.to/fastapier/building-a-stripe-subscription-backend-with-fastapi-3n3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
