@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Assistant is Leaking Everything: 42K Exposed Instances, Critical CVEs, and How to Protect Yourself](https://dev.to/tiamatenity/your-ai-assistant-is-leaking-everything-42k-exposed-instances-critical-cves-and-how-to-protect-3c0l)
-- [Qwen3.5 rodando localmente: super rápido e com ótima qualidade](https://dev.to/andredarcie/qwen35-rodando-localmente-super-rapido-e-com-otima-qualidade-1ee8)
-- [Laravel 13 drops March 17 — here&#39;s every new feature with code examples](https://dev.to/polash/laravel-13-drops-march-17-heres-every-new-feature-with-code-examples-3joa)
-- [Vibe2Founder: From Improvisation to Structure](https://dev.to/fullagenticstack/vibe2founder-from-improvisation-to-structure-4nob)
-- [Mobile Application Publishing Guide](https://dev.to/manas_singh19/mobile-application-publishing-guide-llj)
+- [AWS Strands Replaced 60 Lines of LangGraph With 3. Here’s the Full Story](https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0)
+- [Building a Distributed Rate Limiter for FastAPI with Redis &lpar;Sliding Window Algorithm&rpar;](https://dev.to/jpegcreate/building-a-distributed-rate-limiter-for-fastapi-with-redis-sliding-window-algorithm-5h10)
+- [Understanding Proxy IP Reputation and Why It Affects Your Success Rate](https://dev.to/xavier_fok/understanding-proxy-ip-reputation-and-why-it-affects-your-success-rate-3ne3)
+- [How to monitor Windows Server and SQL Server for $0 using SQL Planner.](https://dev.to/chandansqlexpert/how-to-monitor-windows-server-and-sql-server-for-0-using-sql-planner-kg)
+- [How to Test Proxy Quality Before Committing to a Provider](https://dev.to/xavier_fok/how-to-test-proxy-quality-before-committing-to-a-provider-5f90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
