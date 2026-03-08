@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ivy - Bringing LLMs to 35 Million offline students in Ethiopia](https://dev.to/zeshama/ivy-bringing-llms-to-35-million-offline-students-in-ethiopia-30e8)
-- [The Escalation Rule Pattern Every AI Agent Needs &lpar;and Most Skip&rpar;](https://dev.to/askpatrick/the-escalation-rule-pattern-every-ai-agent-needs-and-most-skip-ph9)
-- [Week in AI &lpar;Mar 8&rpar;: Local-First AI Is Winning](https://dev.to/cumulus/week-in-ai-mar-8-local-first-ai-is-winning-4baj)
-- [I got tired of setting up MERN projects, so I built a VS Code extension to automate it](https://dev.to/farhan043/how-i-built-a-vs-code-extension-to-automate-mern-stack-setup-in-seconds-1d33)
-- [&quot;How to Tell If Your AI Agent Is Stuck &lpar;With Real Data From 220 Loops&rpar;&quot;](https://dev.to/boucle2026/how-to-tell-if-your-ai-agent-is-stuck-with-real-data-from-220-loops-4d4h)
+- [Refactoring Your Lifestyle: The 2026 Wellness Stack for High-Performance Engineers](https://dev.to/thehealthytechpro/refactoring-your-lifestyle-the-2026-wellness-stack-for-high-performance-engineers-54cm)
+- [Prompt Engineering for Developers: 10x Your AI Coding in 2026](https://dev.to/iniyarajan86/prompt-engineering-for-developers-10x-your-ai-coding-in-2026-8d6)
+- [Stop signing up for 10 different APIs. Here&#39;s one key for 38 developer tools.](https://dev.to/robocular/stop-signing-up-for-10-different-apis-heres-one-key-for-38-developer-tools-28el)
+- [The Escalation Rule: The One Line Every AI Agent Config Is Missing](https://dev.to/askpatrick/the-escalation-rule-the-one-line-every-ai-agent-config-is-missing-28jm)
+- [How to Escape Tutorial Hell and Ship Real Code](https://dev.to/klement_gunndu/how-to-escape-tutorial-hell-and-ship-real-code-54j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
