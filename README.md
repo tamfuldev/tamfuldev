@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up an App Hub with Nginx Reverse Proxy on Our Internal Dashboard](https://dev.to/linou518/setting-up-an-app-hub-with-nginx-reverse-proxy-on-our-internal-dashboard-14ln)
-- [The Death of SaaS: Is It Possible to Replace Software Interfaces with AI Agents?](https://dev.to/daichi_koga_4de7a4be20102/the-death-of-saas-is-it-possible-to-replace-software-interfaces-with-ai-agents-2f3l)
-- [The Enshittification of File Transfer: How WeTransfer Went From Beloved to 1.3 Stars](https://dev.to/perkoon/the-enshittification-of-file-transfer-how-wetransfer-went-from-beloved-to-13-stars-1f90)
-- [The Ultimate Guide to JSON Formatting and Validation](https://dev.to/alex_avatrixstudio/the-ultimate-guide-to-json-formatting-and-validation-2c2f)
-- [Mac Volume Control Not Working with HDMI Monitor? Complete Fix Guide](https://dev.to/appish/mac-volume-control-not-working-with-hdmi-monitor-complete-fix-guide-l3i)
+- [I built a pay-per-search API discovery engine — no API keys, just crypto &lpar;x402&rpar;](https://dev.to/x402index/i-built-a-pay-per-search-api-discovery-engine-no-api-keys-just-crypto-x402-4b11)
+- [I Built a REST API Generator in 100 Lines of Python - It Replaced My Postman Mocks](https://dev.to/devadatta_baireddy/i-built-a-rest-api-generator-in-100-lines-of-python-it-replaced-my-postman-mocks-4ool)
+- [The Case for Strict PHPStan Baselines in Enterprise Codebases](https://dev.to/victorstackai/the-case-for-strict-phpstan-baselines-in-enterprise-codebases-32jo)
+- [I Built a CSV to JSON Converter in 30 Lines of Python - It Replaced My $50 SaaS](https://dev.to/devadatta_baireddy/i-built-a-csv-to-json-converter-in-30-lines-of-python-it-replaced-my-50-saas-502p)
+- [I Built a YouTube Description Optimizer - YouTubers Are Paying $50/Hour For This](https://dev.to/devadatta_baireddy/i-built-a-youtube-description-optimizer-youtubers-are-paying-50hour-for-this-4fg1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
