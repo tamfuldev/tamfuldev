@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Your Lifestyle: The 2026 Wellness Stack for High-Performance Engineers](https://dev.to/thehealthytechpro/refactoring-your-lifestyle-the-2026-wellness-stack-for-high-performance-engineers-54cm)
-- [Prompt Engineering for Developers: 10x Your AI Coding in 2026](https://dev.to/iniyarajan86/prompt-engineering-for-developers-10x-your-ai-coding-in-2026-8d6)
-- [Stop signing up for 10 different APIs. Here&#39;s one key for 38 developer tools.](https://dev.to/robocular/stop-signing-up-for-10-different-apis-heres-one-key-for-38-developer-tools-28el)
-- [The Escalation Rule: The One Line Every AI Agent Config Is Missing](https://dev.to/askpatrick/the-escalation-rule-the-one-line-every-ai-agent-config-is-missing-28jm)
-- [How to Escape Tutorial Hell and Ship Real Code](https://dev.to/klement_gunndu/how-to-escape-tutorial-hell-and-ship-real-code-54j1)
+- [Fast Searching 4 Million Patent Records with FTS5](https://dev.to/soytuber/fast-searching-4-million-patent-records-with-fts5-52lh)
+- [Day 0 – Starting My 1 Week 1 Project Challenge](https://dev.to/nexwaredev/day-0-starting-my-1-week-1-project-challenge-16eo)
+- [CSR vs SSR 속도 비교 &lpar;feat. Web Vitals&rpar;](https://dev.to/seungyeon_/csr-vs-ssr-sogdo-bigyo-feat-web-vitals-4aih)
+- [We launched IteraTools on Product Hunt: 35+ API tools for AI agents](https://dev.to/fredpsantos33/we-launched-iteratools-on-product-hunt-35-api-tools-for-ai-agents-7fd)
+- [The Silent Session Problem: Why AI Agents Lose Context Between Runs](https://dev.to/askpatrick/the-silent-session-problem-why-ai-agents-lose-context-between-runs-4ii1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
