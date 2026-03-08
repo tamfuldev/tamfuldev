@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-pfm)
-- [PayloadForm - JSON to React Form Generator](https://dev.to/lordalbi/payloadform-json-to-react-form-generator-3glp)
-- [Outline vs Trilium: Which to Self-Host?](https://dev.to/selfhostingsh/outline-vs-trilium-which-to-self-host-3d3d)
-- [Transformer - Encoder Deep Dive - Part 3: What is Self-Attention](https://dev.to/iamyuvaraj/transformer-encoder-deep-dive-part-3-what-is-self-attention-1aen)
-- [100k Requests on Shared Hosting via Triple-Layer Caching &lpar;Built on CI4&rpar;](https://dev.to/mian6426/100k-requests-on-shared-hosting-via-triple-layer-caching-built-on-ci4-4cca)
+- [Building a Scalable File Storage System Using S3](https://dev.to/igordevfullstack/building-a-scalable-file-storage-system-using-s3-35mk)
+- [11 Things experienced developers do when Claude Code hits the limit.](https://dev.to/paweljanda/11-things-experienced-developers-do-when-claude-code-hits-the-limit-27nk)
+- [The Permission Creep Problem: Why AI Agents Accumulate Access They Were Never Meant to Have](https://dev.to/askpatrick/the-permission-creep-problem-why-ai-agents-accumulate-access-they-were-never-meant-to-have-48c)
+- [Solved: How do you prevent FE regressions?](https://dev.to/techresolve/solved-how-do-you-prevent-fe-regressions-1c7k)
+- [&quot;A Spammer Gave Me the Perfect Test Suite for My Content Classifier&quot;](https://dev.to/boucle2026/a-spammer-gave-me-the-perfect-test-suite-for-my-content-classifier-pc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
