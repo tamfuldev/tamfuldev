@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [brtc: A CLI Tool to Convert Password Strength into &quot;Time to Crack and a Real USD Invoice&quot;](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9)
-- [SQL Queries Asked In Interview](https://dev.to/bhu_kalki/sql-queries-asked-in-interview-57pn)
-- [The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite](https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j)
-- [How to Stop Missing Contract Renewals: A Procurement Manager&#39;s Guide](https://dev.to/nextrenewalai/how-to-stop-missing-contract-renewals-a-procurement-managers-guide-4jaa)
-- [Vibe Coding Challenge — Day 10: Know How Generator](https://dev.to/labdays/vibe-coding-challenge-day-10-know-how-generator-3e0g)
+- [Ivy - Bringing LLMs to 35 Million offline students in Ethiopia](https://dev.to/zeshama/ivy-bringing-llms-to-35-million-offline-students-in-ethiopia-30e8)
+- [The Escalation Rule Pattern Every AI Agent Needs &lpar;and Most Skip&rpar;](https://dev.to/askpatrick/the-escalation-rule-pattern-every-ai-agent-needs-and-most-skip-ph9)
+- [Week in AI &lpar;Mar 8&rpar;: Local-First AI Is Winning](https://dev.to/cumulus/week-in-ai-mar-8-local-first-ai-is-winning-4baj)
+- [I got tired of setting up MERN projects, so I built a VS Code extension to automate it](https://dev.to/farhan043/how-i-built-a-vs-code-extension-to-automate-mern-stack-setup-in-seconds-1d33)
+- [&quot;How to Tell If Your AI Agent Is Stuck &lpar;With Real Data From 220 Loops&rpar;&quot;](https://dev.to/boucle2026/how-to-tell-if-your-ai-agent-is-stuck-with-real-data-from-220-loops-4d4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
