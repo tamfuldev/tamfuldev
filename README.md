@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fast Searching 4 Million Patent Records with FTS5](https://dev.to/soytuber/fast-searching-4-million-patent-records-with-fts5-52lh)
-- [Day 0 – Starting My 1 Week 1 Project Challenge](https://dev.to/nexwaredev/day-0-starting-my-1-week-1-project-challenge-16eo)
-- [CSR vs SSR 속도 비교 &lpar;feat. Web Vitals&rpar;](https://dev.to/seungyeon_/csr-vs-ssr-sogdo-bigyo-feat-web-vitals-4aih)
-- [We launched IteraTools on Product Hunt: 35+ API tools for AI agents](https://dev.to/fredpsantos33/we-launched-iteratools-on-product-hunt-35-api-tools-for-ai-agents-7fd)
-- [The Silent Session Problem: Why AI Agents Lose Context Between Runs](https://dev.to/askpatrick/the-silent-session-problem-why-ai-agents-lose-context-between-runs-4ii1)
+- [Teaching AI to Escape: The Power of Deep Reinforcement Learning](https://dev.to/helixcipher/teaching-ai-to-escape-the-power-of-deep-reinforcement-learning-njm)
+- [How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)
+- [I Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool](https://dev.to/artem_petrusenko_1342b220/i-got-frustrated-with-ngrok-and-built-my-own-self-hosted-tunneling-tool-54l2)
+- [Building something here.. maybe..](https://dev.to/clyh/building-something-here-maybe-3i64)
+- [Deploy AI Agents in Production The Practical 2026 Guide](https://dev.to/hugo_o137/deploy-ai-agents-in-production-the-practical-2026-guide-2p7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
