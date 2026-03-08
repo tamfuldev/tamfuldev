@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Descriptor-Driven Navigation Architecture &lpar;DDNA&rpar; in Modular iOS Applications](https://dev.to/madhuri_lathagondi/implementing-descriptor-driven-navigation-architecture-ddna-in-modular-ios-applications-4n2h)
-- [How to Add Face Search to Your App](https://dev.to/kencho/how-to-add-face-search-to-your-app-2mfe)
-- [Understanding SQL Joins with Practical Examples &lpar;Beginner Friendly Guide&rpar;](https://dev.to/itsmunyalo/understanding-sql-joins-with-practical-examples-beginner-friendly-guide-1iee)
-- [How I built a 140-page, 0ms latency web-app in Next.js 15 &lpar;Without a single database query&rpar;](https://dev.to/mihokoto/how-i-built-a-140-page-0ms-latency-web-app-in-nextjs-15-without-a-single-database-query-4b57)
-- [My One-Command macOS Dev Setup: Ruby, Elixir, Zig, and Everything in Between](https://dev.to/anjanj/my-one-command-macos-dev-setup-ruby-elixir-zig-and-everything-in-between-fjf)
+- [brtc: A CLI Tool to Convert Password Strength into &quot;Time to Crack and a Real USD Invoice&quot;](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9)
+- [SQL Queries Asked In Interview](https://dev.to/bhu_kalki/sql-queries-asked-in-interview-57pn)
+- [The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite](https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j)
+- [How to Stop Missing Contract Renewals: A Procurement Manager&#39;s Guide](https://dev.to/nextrenewalai/how-to-stop-missing-contract-renewals-a-procurement-managers-guide-4jaa)
+- [Vibe Coding Challenge — Day 10: Know How Generator](https://dev.to/labdays/vibe-coding-challenge-day-10-know-how-generator-3e0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
