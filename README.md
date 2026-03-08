@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Made Me Hate My Job… Then I Found New Joy](https://dev.to/anoian/ai-made-me-hate-my-job-then-i-found-new-joy-5gon)
-- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-1fil)
-- [Attention Is All You Need — Full Paper Breakdown](https://dev.to/seahjs/attention-is-all-you-need-full-paper-breakdown-2kf3)
-- [Evaluating Large Language Models: A Comprehensive Survey](https://dev.to/paperium/evaluating-large-language-models-a-comprehensive-survey-44kf)
-- [I Implemented Myers Diff in 130 Lines, Then Lost Half a Day to an Off-by-One Bug](https://dev.to/tommy_worklab/i-implemented-myers-diff-in-130-lines-then-lost-half-a-day-to-an-off-by-one-bug-545d)
+- [I Built an AI-Powered Infrastructure Observability Agent from Scratch](https://dev.to/ramasankar_molleti_f7f80d/i-built-an-ai-powered-infrastructure-observability-agent-from-scratch-4j68)
+- [Echoes of Experience](https://dev.to/kithmini11/echoes-of-experience-24k2)
+- [Ceph Public Network Migration &lpar;No Downtime&rpar;](https://dev.to/safesploit/ceph-public-network-migration-no-downtime-47bj)
+- [Turn Your AI Skills Into a Revenue Stream with MoltsPay Creators](https://dev.to/yaqing2023/turn-your-ai-skills-into-a-revenue-stream-with-moltspay-creators-532p)
+- [PHP Scriptlerinde Barkod Okuma API Entegrasyonu](https://dev.to/turkcoode/php-scriptlerinde-barkod-okuma-api-entegrasyonu-4e3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
