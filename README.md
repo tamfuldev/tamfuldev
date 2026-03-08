@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw: How a Popular AI Agent Platform Became a Security Catastrophe](https://dev.to/tiamatenity/openclaw-how-a-popular-ai-agent-platform-became-a-security-catastrophe-1mg2)
-- [Test](https://dev.to/albiee/test-nek)
-- [Overseerr vs Jellyseerr: Which Media Requester?](https://dev.to/selfhostingsh/overseerr-vs-jellyseerr-which-media-requester-1i0)
-- [Why I interviewed even when I was happy](https://dev.to/samiakhan/why-i-interviewed-even-when-i-was-happy-mp2)
-- [textlens vs text-readability vs natural: Which npm Package for Text Analysis?](https://dev.to/ckmtools/textlens-vs-text-readability-vs-natural-which-npm-package-for-text-analysis-2dj0)
+- [Zero-Trust Architecture in Practice: Why Perimeter Security Failed and What Actually Works](https://dev.to/tiamatenity/zero-trust-architecture-in-practice-why-perimeter-security-failed-and-what-actually-works-2oc7)
+- [How to Extract Keywords and Score Content Quality in Node.js](https://dev.to/ckmtools/how-to-extract-keywords-and-score-content-quality-in-nodejs-2d67)
+- [AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network](https://dev.to/slavik_gokhman_db2f0f6a58/ai-iot-and-the-human-factor-rebuilding-an-undocumented-enterprise-network-293f)
+- [I Was Tired of Setting Up Express.js From Scratch Every Time — So I Built a CLI](https://dev.to/nomanawan/i-was-tired-of-setting-up-expressjs-from-scratch-every-time-so-i-built-a-cli-di1)
+- [I Was Subscribed to 43 Status Pages. So I Built One Dashboard to Replace Them All.](https://dev.to/oukabi/i-was-subscribed-to-43-status-pages-so-i-built-one-dashboard-to-replace-them-all-2n0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
