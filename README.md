@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 24GB AI Lab: A Survival Guide to Full-Stack Local AI on Consumer Hardware](https://dev.to/chris_kesler_8a60b6e38dd8/the-24gb-ai-lab-a-survival-guide-to-full-stack-local-ai-on-consumer-hardware-931)
-- [Homelab AI stack 2026 — what to run and in what order](https://dev.to/signal-weekly/homelab-ai-stack-2026-what-to-run-and-in-what-order-4cn)
-- [HackTropica’26: A 36-Hour Journey of Innovation, Collaboration, and Creativity 🚀](https://dev.to/shuvam_dutta_dev/hacktropica26-a-36-hour-journey-of-innovation-collaboration-and-creativity-1l11)
-- [How I Built a Mock API Platform Solo and Shipped It to Production](https://dev.to/jawad_khan1992/how-i-built-a-mock-api-platform-solo-and-shipped-it-to-production-3h6l)
-- [How to Schedule AI Agents That Run Themselves](https://dev.to/nebulagg/how-to-schedule-ai-agents-that-run-themselves-1a2f)
+- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-pfm)
+- [PayloadForm - JSON to React Form Generator](https://dev.to/lordalbi/payloadform-json-to-react-form-generator-3glp)
+- [Outline vs Trilium: Which to Self-Host?](https://dev.to/selfhostingsh/outline-vs-trilium-which-to-self-host-3d3d)
+- [Transformer - Encoder Deep Dive - Part 3: What is Self-Attention](https://dev.to/iamyuvaraj/transformer-encoder-deep-dive-part-3-what-is-self-attention-1aen)
+- [100k Requests on Shared Hosting via Triple-Layer Caching &lpar;Built on CI4&rpar;](https://dev.to/mian6426/100k-requests-on-shared-hosting-via-triple-layer-caching-built-on-ci4-4cca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
