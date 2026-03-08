@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Intent Driven Development : The End of Process — Software Development&#39;s Inevitable Future](https://dev.to/vishalmysore/intent-driven-development-the-end-of-process-software-developments-inevitable-future-4cjh)
-- [Building a GitHub-Based Community Sharing System for a Local AI Agent](https://dev.to/kim_namhyun_e7535f3dc4c69/building-a-github-based-community-sharing-system-for-a-local-ai-agent-18lm)
-- [Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants](https://dev.to/helixcipher/solid-channel-ultrasound-injection-attack-and-defense-to-voice-assistants-2b8n)
-- [How I built Meetsy — a full-featured private messaging app with Laravel 11](https://dev.to/kyami/how-i-built-meetsy-a-full-featured-private-messaging-app-with-laravel-11-4m43)
-- [When browser extensions become live surveillance](https://dev.to/helixcipher/when-browser-extensions-become-live-surveillance-1e9k)
+- [Your AI Assistant is Leaking Everything: 42K Exposed Instances, Critical CVEs, and How to Protect Yourself](https://dev.to/tiamatenity/your-ai-assistant-is-leaking-everything-42k-exposed-instances-critical-cves-and-how-to-protect-3c0l)
+- [Qwen3.5 rodando localmente: super rápido e com ótima qualidade](https://dev.to/andredarcie/qwen35-rodando-localmente-super-rapido-e-com-otima-qualidade-1ee8)
+- [Laravel 13 drops March 17 — here&#39;s every new feature with code examples](https://dev.to/polash/laravel-13-drops-march-17-heres-every-new-feature-with-code-examples-3joa)
+- [Vibe2Founder: From Improvisation to Structure](https://dev.to/fullagenticstack/vibe2founder-from-improvisation-to-structure-4nob)
+- [Mobile Application Publishing Guide](https://dev.to/manas_singh19/mobile-application-publishing-guide-llj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
