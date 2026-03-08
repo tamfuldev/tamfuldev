@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI-Powered Infrastructure Observability Agent from Scratch](https://dev.to/ramasankar_molleti_f7f80d/i-built-an-ai-powered-infrastructure-observability-agent-from-scratch-4j68)
-- [Echoes of Experience](https://dev.to/kithmini11/echoes-of-experience-24k2)
-- [Ceph Public Network Migration &lpar;No Downtime&rpar;](https://dev.to/safesploit/ceph-public-network-migration-no-downtime-47bj)
-- [Turn Your AI Skills Into a Revenue Stream with MoltsPay Creators](https://dev.to/yaqing2023/turn-your-ai-skills-into-a-revenue-stream-with-moltspay-creators-532p)
-- [PHP Scriptlerinde Barkod Okuma API Entegrasyonu](https://dev.to/turkcoode/php-scriptlerinde-barkod-okuma-api-entegrasyonu-4e3e)
+- [Sentiment Analysis in Node.js Without External APIs](https://dev.to/ckmtools/sentiment-analysis-in-nodejs-without-external-apis-3ck1)
+- [The End of Vibe Coding](https://dev.to/dmitryame/the-end-of-vibe-coding-2e78)
+- [I Built a Stock Market Hours Tracker - markethours.io](https://dev.to/fj3703/i-built-a-stock-market-hours-tracker-markethoursio-jb6)
+- [How AI Will Redefine Technical Excellence by 2030](https://dev.to/jaideepparashar/how-ai-will-redefine-technical-excellence-by-2030-2i2b)
+- [Olmo Hybrid](https://dev.to/minimal-architect/olmo-hybrid-1e58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
