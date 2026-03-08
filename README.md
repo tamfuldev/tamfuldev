@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable File Storage System Using S3](https://dev.to/igordevfullstack/building-a-scalable-file-storage-system-using-s3-35mk)
-- [11 Things experienced developers do when Claude Code hits the limit.](https://dev.to/paweljanda/11-things-experienced-developers-do-when-claude-code-hits-the-limit-27nk)
-- [The Permission Creep Problem: Why AI Agents Accumulate Access They Were Never Meant to Have](https://dev.to/askpatrick/the-permission-creep-problem-why-ai-agents-accumulate-access-they-were-never-meant-to-have-48c)
-- [Solved: How do you prevent FE regressions?](https://dev.to/techresolve/solved-how-do-you-prevent-fe-regressions-1c7k)
-- [&quot;A Spammer Gave Me the Perfect Test Suite for My Content Classifier&quot;](https://dev.to/boucle2026/a-spammer-gave-me-the-perfect-test-suite-for-my-content-classifier-pc5)
+- [OpenClaw: How a Popular AI Agent Platform Became a Security Catastrophe](https://dev.to/tiamatenity/openclaw-how-a-popular-ai-agent-platform-became-a-security-catastrophe-1mg2)
+- [Test](https://dev.to/albiee/test-nek)
+- [Overseerr vs Jellyseerr: Which Media Requester?](https://dev.to/selfhostingsh/overseerr-vs-jellyseerr-which-media-requester-1i0)
+- [Why I interviewed even when I was happy](https://dev.to/samiakhan/why-i-interviewed-even-when-i-was-happy-mp2)
+- [textlens vs text-readability vs natural: Which npm Package for Text Analysis?](https://dev.to/ckmtools/textlens-vs-text-readability-vs-natural-which-npm-package-for-text-analysis-2dj0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
