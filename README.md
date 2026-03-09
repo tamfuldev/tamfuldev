@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Mock Interview Platforms for Developers in 2026](https://dev.to/dan_mockif/best-ai-mock-interview-platforms-for-developers-in-2026-59bi)
-- [Your AI Agent Can Now See Your Real Browser &lpar;And This Post Was Written With It&rpar;](https://dev.to/ofershap/your-ai-agent-can-now-see-your-real-browser-and-this-post-was-written-with-it-4fp0)
-- [ZeroClaw: A Minimal Rust-Based AI Agent Framework for Self-Hosted Systems](https://dev.to/lightningdev123/zeroclaw-a-minimal-rust-based-ai-agent-framework-for-self-hosted-systems-5593)
-- [Meme Monday](https://dev.to/ben/meme-monday-2676)
-- [How to Convert Python Files to PDF or DOCX &lpar;Without Installing LaTeX&rpar;](https://dev.to/pbinder_2e65897d5/how-to-convert-python-files-to-pdf-or-docx-without-installing-latex-2o84)
+- [Dashboard Técnico APOG](https://dev.to/coutinho_laqfa_b8b6286134/dashboard-tecnico-apog-1mn1)
+- [We Built a Site That Asks: Am I The Only One?](https://dev.to/j_hjuicyjennyracing_/we-built-a-site-that-asks-am-i-the-only-one-4pnh)
+- [The Fixed Metric](https://dev.to/dannwaneri/the-fixed-metric-25im)
+- [From PowerShell to Bash: The Folder That Almost Broke Me](https://dev.to/pirrezz/from-powershell-to-bash-the-folder-that-almost-broke-me-1e25)
+- [A Hybrid Key Architecture for Autonomous Agent Credential Management](https://dev.to/illegalcall/a-hybrid-key-architecture-for-autonomous-agent-credential-management-269h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
