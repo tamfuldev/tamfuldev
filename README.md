@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Trust Architecture in Practice: Why Perimeter Security Failed and What Actually Works](https://dev.to/tiamatenity/zero-trust-architecture-in-practice-why-perimeter-security-failed-and-what-actually-works-2oc7)
-- [How to Extract Keywords and Score Content Quality in Node.js](https://dev.to/ckmtools/how-to-extract-keywords-and-score-content-quality-in-nodejs-2d67)
-- [AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network](https://dev.to/slavik_gokhman_db2f0f6a58/ai-iot-and-the-human-factor-rebuilding-an-undocumented-enterprise-network-293f)
-- [I Was Tired of Setting Up Express.js From Scratch Every Time — So I Built a CLI](https://dev.to/nomanawan/i-was-tired-of-setting-up-expressjs-from-scratch-every-time-so-i-built-a-cli-di1)
-- [I Was Subscribed to 43 Status Pages. So I Built One Dashboard to Replace Them All.](https://dev.to/oukabi/i-was-subscribed-to-43-status-pages-so-i-built-one-dashboard-to-replace-them-all-2n0h)
+- [OCI Networking Best Practices for Beginners](https://dev.to/js116521/oci-networking-best-practices-for-beginners-30cf)
+- [Web Accessibility &lpar;WCAG&rpar; for Business Websites: A Practical Developer&#39;s Checklist](https://dev.to/emongmarcc/web-accessibility-wcag-for-business-websites-a-practical-developers-checklist-2gn4)
+- [splitting one human colleague into 9 Go agents](https://dev.to/combba/splitting-one-human-colleague-into-9-go-agents-1lbm)
+- [Shadow Production: How to Test Dangerous Changes Without Being Dangerous](https://dev.to/iseecodepeople/shadow-production-how-to-test-dangerous-changes-without-being-dangerous-21p)
+- [Making iMessage Reliable with OpenClaw: 3 Problems and How We Fixed Them](https://dev.to/qiushiwu/making-imessage-reliable-with-openclaw-3-problems-and-how-we-fixed-them-o8m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
