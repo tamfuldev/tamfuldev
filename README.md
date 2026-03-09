@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Image Editing API: How to Integrate P20V Into Your App or Workflow](https://dev.to/aitoolshub/ai-image-editing-api-how-to-integrate-p20v-into-your-app-or-workflow-1jna)
-- [I Got Sick of Getting Rugged, So I Built a Rug-Pull Detection Engine in Rust](https://dev.to/copyleftdev/i-got-sick-of-getting-rugged-so-i-built-a-rug-pull-detection-engine-in-rust-l7l)
-- [Smooth gradient animation using @property](https://dev.to/nicooprat/smooth-gradient-animation-using-property-3ndh)
-- [I Built an Open-Source YouTube Scraper for Python, No API Key Needed](https://dev.to/zaidkx37/i-built-an-open-source-youtube-scraper-for-python-no-api-key-needed-38nm)
-- [Human Code Review Is Not the Last Frontier](https://dev.to/joacod/human-code-review-is-not-the-last-frontier-60c)
+- [ChatGPT Told Me to Go Work for Anthropic](https://dev.to/jballanc/chatgpt-told-me-to-go-work-for-anthropic-29ja)
+- [The Painting Ideas I Found in Old Family Photos](https://dev.to/danielrhodes/the-painting-ideas-i-found-in-old-family-photos-59aa)
+- [Build an AI Agent from Scratch — No Frameworks, Just Python](https://dev.to/shashi_kiran_bcfdbb223140/build-an-ai-agent-from-scratch-no-frameworks-just-python-3850)
+- [I built 130+ web components for myself. Now they&#39;re free for everyone.](https://dev.to/hedzer_ferwerda_a9c37a296/i-built-130-web-components-for-myself-now-theyre-free-for-everyone-4olf)
+- [I Built a Chrome Extension to Track My Job Applications](https://dev.to/rishabh_6ddccd0e0d2917ac5/i-built-a-chrome-extension-to-track-my-job-applications-520h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
