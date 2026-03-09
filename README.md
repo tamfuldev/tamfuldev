@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Subnet Planning for Kubernetes: Why Most Calculators Are Wrong](https://dev.to/krhatland/subnet-planning-for-kubernetes-why-most-calculators-are-wrong-1gdl)
-- [Verification Debt: The Silent Killer of AI Agent Systems](https://dev.to/askpatrick/verification-debt-the-silent-killer-of-ai-agent-systems-i3f)
-- [Specialized chatbot using RAG](https://dev.to/nebuladata/specialized-chatbot-using-rag-4n59)
-- [The One-Millisecond Update That Almost Melted Production](https://dev.to/don_mizzy/the-one-millisecond-update-that-almost-melted-production-13l0)
-- [Query Rewrite in RAG Systems: Why It Matters and How It Works](https://dev.to/yaruyng/query-rewrite-in-rag-systems-why-it-matters-and-how-it-works-3mmd)
+- [The Weekly Work Log: A 10-Minute Habit That Transforms Your Career](https://dev.to/vgaltes/the-weekly-work-log-a-10-minute-habit-that-transforms-your-career-3766)
+- [Claude Code Doesn&#39;t Remember. Here&#39;s How I Fixed That.](https://dev.to/gjoranv/claude-code-doesnt-remember-heres-how-i-fixed-that-3ah6)
+- [Guardian Protocol: Governance for Autonomous AI Agents](https://dev.to/janusz_entity/guardian-protocol-governance-for-autonomous-ai-agents-5of)
+- [Understanding Snowflake Virtual Warehouses](https://dev.to/swaroop_krishna_e2f4b83b2/understanding-snowflake-virtual-warehouses-4p5l)
+- [5 Free APIs Every Developer Should Know About in 2026](https://dev.to/200_ok_twohundred/5-free-apis-every-developer-should-know-about-in-2026-4ape)
 <!-- BLOG-POST-LIST:END -->
 
 ---
