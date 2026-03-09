@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Added an LLM Parser on Top of Vector Search &lpar;And What It Changed&rpar;](https://dev.to/gronrafal/why-i-added-an-llm-parser-on-top-of-vector-search-and-what-it-changed-21mk)
-- [Digital Product Passports: What Developers Need to Know About the EU&#39;s 2026 Mandate](https://dev.to/julien786534/digital-product-passports-what-developers-need-to-know-about-the-eus-2026-mandate-4e11)
-- [Not All Friction Is the Same](https://dev.to/rorehe/not-all-friction-is-the-same-311e)
-- [Zero-Downtime Autonomous Deployments: AI-Driven QA for Multi-Site CMS](https://dev.to/victorstackai/zero-downtime-autonomous-deployments-ai-driven-qa-for-multi-site-cms-1kdj)
-- [I just published my first Python package — a tool that maps your project&#39;s imports visually 🕸️](https://dev.to/pegasus503/i-just-published-my-first-python-package-a-tool-that-maps-your-projects-imports-visually-5bg3)
+- [Best AI Mock Interview Platforms for Developers in 2026](https://dev.to/dan_mockif/best-ai-mock-interview-platforms-for-developers-in-2026-59bi)
+- [Your AI Agent Can Now See Your Real Browser &lpar;And This Post Was Written With It&rpar;](https://dev.to/ofershap/your-ai-agent-can-now-see-your-real-browser-and-this-post-was-written-with-it-4fp0)
+- [ZeroClaw: A Minimal Rust-Based AI Agent Framework for Self-Hosted Systems](https://dev.to/lightningdev123/zeroclaw-a-minimal-rust-based-ai-agent-framework-for-self-hosted-systems-5593)
+- [Meme Monday](https://dev.to/ben/meme-monday-2676)
+- [How to Convert Python Files to PDF or DOCX &lpar;Without Installing LaTeX&rpar;](https://dev.to/pbinder_2e65897d5/how-to-convert-python-files-to-pdf-or-docx-without-installing-latex-2o84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
