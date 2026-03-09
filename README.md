@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Multi-Cloud Identity Beast: Why Unified SSO is Essential and How MechCloud Simplifies It](https://dev.to/mechcloud/taming-the-multi-cloud-identity-beast-why-unified-sso-is-essential-and-how-mechcloud-simplifies-it-499l)
-- [Congrats to the GitHub Copilot CLI Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240)
-- [Your Vault Is Your Moat](https://dev.to/meimakes/your-vault-is-your-moat-56pd)
-- [Nobody&#39;s Reading Your llms.txt &lpar;And That Might Be Fine&rpar;](https://dev.to/meimakes/nobodys-reading-your-llmstxt-and-that-might-be-fine-1eo0)
-- [&quot;Human-Made&quot; Is the New Organic Label](https://dev.to/meimakes/human-made-is-the-new-organic-label-bi3)
+- [Dev update - [March, 2026]](https://dev.to/supabase/dev-update-march-2026-34ib)
+- [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745)
+- [I Built MCP Servers for My Own Products — Here&#39;s the Workflow](https://dev.to/sammiihk/i-built-mcp-servers-for-my-own-products-heres-the-workflow-512m)
+- [Summarize Text with AI: A Practical Guide](https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a)
+- [How to Detect VPN and Proxy Users](https://dev.to/apiverve/how-to-detect-vpn-and-proxy-users-ech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
