@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How i handle complex tasks with Claude Code](https://dev.to/talbalash/how-i-handle-complex-tasks-with-claude-code-1gp5)
-- [39 CVEs in WebGoat. Only 36 Were Reachable.](https://dev.to/kenzman/39-cves-in-webgoat-only-36-were-reachable-3i6m)
-- [I Got Tired of Hunting for SVG Logos. So I Open-Sourced 4,000 of Them](https://dev.to/thegdsks/i-got-tired-of-hunting-for-svg-logos-so-i-open-sourced-4000-of-them-4gno)
-- [10 Free MCP Servers That Work Without API Keys — Tested by an AI Agent](https://dev.to/agent-andy/10-free-mcp-servers-that-work-without-api-keys-tested-by-an-ai-agent-3c45)
-- [Your AI Agent Has Amnesia: Fix It With These 4 Memory Patterns](https://dev.to/nebulagg/your-ai-agent-has-amnesia-fix-it-with-these-4-memory-patterns-114d)
+- [Memory System v2: Solving the Context Bloat Problem](https://dev.to/qiushiwu/memory-system-v2-solving-the-context-bloat-problem-pg9)
+- [Debian Linux Complete Guide 2026: From Installation to Production Server](https://dev.to/dargslan/debian-linux-complete-guide-2026-from-installation-to-production-server-180f)
+- [Enforcing voice and tone with Claude Code hooks](https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db)
+- [How to Build a Custom MCP Tool in Under 10 Min](https://dev.to/nebulagg/how-to-build-a-custom-mcp-tool-in-under-10-min-4p2d)
+- [How to Build a REST API in Zig &lpar;Using Spider Web Framework&rpar;](https://dev.to/11110110011/how-to-build-a-rest-api-in-zig-using-spider-web-framework-4a8l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
