@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Cut My AI Coding Costs by 60% — Here&#39;s the 7-Step System I Used](https://dev.to/jamie_b714bfb128f0fd9ce03/i-cut-my-ai-coding-costs-by-60-heres-the-7-step-system-i-used-4hnm)
-- [Goodhart&#39;s Law Is Now an AI Agent Problem](https://dev.to/askpatrick/goodharts-law-is-now-an-ai-agent-problem-4k77)
-- [Exception OS, a calmer way to handle operational chaos with Notion MCP](https://dev.to/aniruddhaadak/exception-os-a-calmer-way-to-handle-operational-chaos-with-notion-mcp-28nm)
-- [How to Design Email Templates in React.js](https://dev.to/sendlayer/how-to-design-email-templates-in-reactjs-2fc0)
-- [Monitoring Tools Comparison 2026: VigilOps vs Zabbix vs Prometheus vs Datadog](https://dev.to/linchuang/monitoring-tools-comparison-2026-vigilops-vs-zabbix-vs-prometheus-vs-datadog-52d3)
+- [Vibe Coding Challenge — Day 11: Road Map Generator](https://dev.to/labdays/vibe-coding-challenge-day-11-road-map-generator-2hm5)
+- [How I Built an AI Resume Builder with Next.js + OpenAI &lpar;Solo, in a Few Weeks&rpar;](https://dev.to/thefstack/how-i-built-an-ai-resume-builder-with-nextjs-openai-solo-in-a-few-weeks-1k2p)
+- [Why I Built My Own Mobile SSH Client &lpar;And Why You Should Care About Your Keys&rpar;](https://dev.to/fatihkurtl/why-i-built-my-own-mobile-ssh-client-and-why-you-should-care-about-your-keys-4n0b)
+- [Why Your AI Agent &quot;Misbehaves&quot; &lpar;It&#39;s Not the Model&rpar;](https://dev.to/askpatrick/why-your-ai-agent-misbehaves-its-not-the-model-511j)
+- [Selenium for Web Automation Testing using Python.](https://dev.to/resaba/selenium-for-web-automation-testing-using-python-2p4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
