@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I’ve Been Building With AI &lpar;ChatGPT + Claude&rpar;](https://dev.to/naysmith/what-ive-been-building-with-ai-chatgpt-claude-4ea6)
-- [Profiling GPU &lpar;CUDA&rpar; — Getting Started with GPU Flight&#39;s Python Package](https://dev.to/codinginavan/profiling-gpu-cuda-getting-started-with-gpu-flights-python-package-1pl8)
-- [System Prompt vs Architecture: Why One Is Instructions and the Other Is a Foundation](https://dev.to/askpatrick/system-prompt-vs-architecture-why-one-is-instructions-and-the-other-is-a-foundation-4gi4)
-- [Your AI agent can&#39;t see half the internet](https://dev.to/lowjax/your-ai-agent-cant-see-half-the-internet-10bc)
-- [MaskOps 0.1.0: A Native Polars Plugin for High-Speed PII Masking in Python](https://dev.to/fcarvajalbrown/maskops-010-a-native-polars-plugin-for-high-speed-pii-masking-in-python-850)
+- [I Cut My AI Coding Costs by 60% — Here&#39;s the 7-Step System I Used](https://dev.to/jamie_b714bfb128f0fd9ce03/i-cut-my-ai-coding-costs-by-60-heres-the-7-step-system-i-used-4hnm)
+- [Goodhart&#39;s Law Is Now an AI Agent Problem](https://dev.to/askpatrick/goodharts-law-is-now-an-ai-agent-problem-4k77)
+- [Exception OS, a calmer way to handle operational chaos with Notion MCP](https://dev.to/aniruddhaadak/exception-os-a-calmer-way-to-handle-operational-chaos-with-notion-mcp-28nm)
+- [How to Design Email Templates in React.js](https://dev.to/sendlayer/how-to-design-email-templates-in-reactjs-2fc0)
+- [Monitoring Tools Comparison 2026: VigilOps vs Zabbix vs Prometheus vs Datadog](https://dev.to/linchuang/monitoring-tools-comparison-2026-vigilops-vs-zabbix-vs-prometheus-vs-datadog-52d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
