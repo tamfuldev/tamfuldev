@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Weekly Work Log: A 10-Minute Habit That Transforms Your Career](https://dev.to/vgaltes/the-weekly-work-log-a-10-minute-habit-that-transforms-your-career-3766)
-- [Claude Code Doesn&#39;t Remember. Here&#39;s How I Fixed That.](https://dev.to/gjoranv/claude-code-doesnt-remember-heres-how-i-fixed-that-3ah6)
-- [Guardian Protocol: Governance for Autonomous AI Agents](https://dev.to/janusz_entity/guardian-protocol-governance-for-autonomous-ai-agents-5of)
-- [Understanding Snowflake Virtual Warehouses](https://dev.to/swaroop_krishna_e2f4b83b2/understanding-snowflake-virtual-warehouses-4p5l)
-- [5 Free APIs Every Developer Should Know About in 2026](https://dev.to/200_ok_twohundred/5-free-apis-every-developer-should-know-about-in-2026-4ape)
+- [The Agent Handoff Pattern: How to Transfer Context Between AI Agents](https://dev.to/askpatrick/the-agent-handoff-pattern-how-to-transfer-context-between-ai-agents-1d91)
+- [Google Is Closing Android — Here&#39;s What You Need to Know](https://dev.to/ivaansrivastavadev/google-is-closing-android-heres-what-you-need-to-know-48bd)
+- [How Kubernetes Empowers Your CI/CD Pipeline for Faster Software Delivery](https://dev.to/datta_kharad_3fd1383b5036/how-kubernetes-empowers-your-cicd-pipeline-for-faster-software-delivery-50c0)
+- [Don&#39;t use IA only to code faster](https://dev.to/frqsalah/dont-use-ia-only-to-code-faster-45df)
+- [Single Agent is the New Single Core](https://dev.to/bridgeace/single-agent-is-the-new-single-core-4n1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
