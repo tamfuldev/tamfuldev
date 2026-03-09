@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Told Me to Go Work for Anthropic](https://dev.to/jballanc/chatgpt-told-me-to-go-work-for-anthropic-29ja)
-- [The Painting Ideas I Found in Old Family Photos](https://dev.to/danielrhodes/the-painting-ideas-i-found-in-old-family-photos-59aa)
-- [Build an AI Agent from Scratch — No Frameworks, Just Python](https://dev.to/shashi_kiran_bcfdbb223140/build-an-ai-agent-from-scratch-no-frameworks-just-python-3850)
-- [I built 130+ web components for myself. Now they&#39;re free for everyone.](https://dev.to/hedzer_ferwerda_a9c37a296/i-built-130-web-components-for-myself-now-theyre-free-for-everyone-4olf)
-- [I Built a Chrome Extension to Track My Job Applications](https://dev.to/rishabh_6ddccd0e0d2917ac5/i-built-a-chrome-extension-to-track-my-job-applications-520h)
+- [Work before work: Why Multi-Client AI Work Steals Your Best Build Hours &lpar;and How to Fix It&rpar;](https://dev.to/dowhatmatters/work-before-work-why-multi-client-ai-work-steals-your-best-build-hours-and-how-to-fix-it-42p2)
+- [Most Kubernetes Clusters Are Over-Engineered](https://dev.to/kubeha_18/most-kubernetes-clusters-are-over-engineered-3ni2)
+- [Debugging Java in IntelliJ Is Not Hard Once You Start It](https://dev.to/manikanta_yarramsetti_7bc/how-i-debug-java-in-intellij-without-going-crazy-3bha)
+- [After 3,874 Memories, My AI Coding Assistant Couldn&#39;t Find Anything Useful](https://dev.to/living0tribunal/after-3874-memories-my-ai-coding-assistant-couldnt-find-anything-useful-1cc)
+- [5 Chinese AI Open-Source Tools the West Doesn&#39;t Know About &lpar;2026&rpar;](https://dev.to/victorjia/5-chinese-ai-open-source-tools-the-west-doesnt-know-about-2026-18b0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
