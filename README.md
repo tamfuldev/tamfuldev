@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OCI Networking Best Practices for Beginners](https://dev.to/js116521/oci-networking-best-practices-for-beginners-30cf)
-- [Web Accessibility &lpar;WCAG&rpar; for Business Websites: A Practical Developer&#39;s Checklist](https://dev.to/emongmarcc/web-accessibility-wcag-for-business-websites-a-practical-developers-checklist-2gn4)
-- [splitting one human colleague into 9 Go agents](https://dev.to/combba/splitting-one-human-colleague-into-9-go-agents-1lbm)
-- [Shadow Production: How to Test Dangerous Changes Without Being Dangerous](https://dev.to/iseecodepeople/shadow-production-how-to-test-dangerous-changes-without-being-dangerous-21p)
-- [Making iMessage Reliable with OpenClaw: 3 Problems and How We Fixed Them](https://dev.to/qiushiwu/making-imessage-reliable-with-openclaw-3-problems-and-how-we-fixed-them-o8m)
+- [What I’ve Been Building With AI &lpar;ChatGPT + Claude&rpar;](https://dev.to/naysmith/what-ive-been-building-with-ai-chatgpt-claude-4ea6)
+- [Profiling GPU &lpar;CUDA&rpar; — Getting Started with GPU Flight&#39;s Python Package](https://dev.to/codinginavan/profiling-gpu-cuda-getting-started-with-gpu-flights-python-package-1pl8)
+- [System Prompt vs Architecture: Why One Is Instructions and the Other Is a Foundation](https://dev.to/askpatrick/system-prompt-vs-architecture-why-one-is-instructions-and-the-other-is-a-foundation-4gi4)
+- [Your AI agent can&#39;t see half the internet](https://dev.to/lowjax/your-ai-agent-cant-see-half-the-internet-10bc)
+- [MaskOps 0.1.0: A Native Polars Plugin for High-Speed PII Masking in Python](https://dev.to/fcarvajalbrown/maskops-010-a-native-polars-plugin-for-high-speed-pii-masking-in-python-850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
