@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Challenge — Day 11: Road Map Generator](https://dev.to/labdays/vibe-coding-challenge-day-11-road-map-generator-2hm5)
-- [How I Built an AI Resume Builder with Next.js + OpenAI &lpar;Solo, in a Few Weeks&rpar;](https://dev.to/thefstack/how-i-built-an-ai-resume-builder-with-nextjs-openai-solo-in-a-few-weeks-1k2p)
-- [Why I Built My Own Mobile SSH Client &lpar;And Why You Should Care About Your Keys&rpar;](https://dev.to/fatihkurtl/why-i-built-my-own-mobile-ssh-client-and-why-you-should-care-about-your-keys-4n0b)
-- [Why Your AI Agent &quot;Misbehaves&quot; &lpar;It&#39;s Not the Model&rpar;](https://dev.to/askpatrick/why-your-ai-agent-misbehaves-its-not-the-model-511j)
-- [Selenium for Web Automation Testing using Python.](https://dev.to/resaba/selenium-for-web-automation-testing-using-python-2p4i)
+- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
+- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
+- [What is cURL? Complete Guide to cURL Commands, Options &amp; API Testing](https://dev.to/kanishkrawattt/what-is-curl-complete-guide-to-curl-commands-options-038-api-testing-2dj2)
+- [From Beta to Alpha: The HazelJS Journey in 38 Packages](https://dev.to/arslan_mecom/from-beta-to-alpha-the-hazeljs-journey-in-38-packages-3nad)
+- [Native TypeScript with Node](https://dev.to/timoschinkel/native-typescript-with-node-4d93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
