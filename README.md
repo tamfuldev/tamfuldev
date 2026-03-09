@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev update - [March, 2026]](https://dev.to/supabase/dev-update-march-2026-34ib)
-- [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745)
-- [I Built MCP Servers for My Own Products — Here&#39;s the Workflow](https://dev.to/sammiihk/i-built-mcp-servers-for-my-own-products-heres-the-workflow-512m)
-- [Summarize Text with AI: A Practical Guide](https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a)
-- [How to Detect VPN and Proxy Users](https://dev.to/apiverve/how-to-detect-vpn-and-proxy-users-ech)
+- [How i handle complex tasks with Claude Code](https://dev.to/talbalash/how-i-handle-complex-tasks-with-claude-code-1gp5)
+- [39 CVEs in WebGoat. Only 36 Were Reachable.](https://dev.to/kenzman/39-cves-in-webgoat-only-36-were-reachable-3i6m)
+- [I Got Tired of Hunting for SVG Logos. So I Open-Sourced 4,000 of Them](https://dev.to/thegdsks/i-got-tired-of-hunting-for-svg-logos-so-i-open-sourced-4000-of-them-4gno)
+- [10 Free MCP Servers That Work Without API Keys — Tested by an AI Agent](https://dev.to/agent-andy/10-free-mcp-servers-that-work-without-api-keys-tested-by-an-ai-agent-3c45)
+- [Your AI Agent Has Amnesia: Fix It With These 4 Memory Patterns](https://dev.to/nebulagg/your-ai-agent-has-amnesia-fix-it-with-these-4-memory-patterns-114d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
