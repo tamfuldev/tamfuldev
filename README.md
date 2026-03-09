@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Handoff Pattern: How to Transfer Context Between AI Agents](https://dev.to/askpatrick/the-agent-handoff-pattern-how-to-transfer-context-between-ai-agents-1d91)
-- [Google Is Closing Android — Here&#39;s What You Need to Know](https://dev.to/ivaansrivastavadev/google-is-closing-android-heres-what-you-need-to-know-48bd)
-- [How Kubernetes Empowers Your CI/CD Pipeline for Faster Software Delivery](https://dev.to/datta_kharad_3fd1383b5036/how-kubernetes-empowers-your-cicd-pipeline-for-faster-software-delivery-50c0)
-- [Don&#39;t use IA only to code faster](https://dev.to/frqsalah/dont-use-ia-only-to-code-faster-45df)
-- [Single Agent is the New Single Core](https://dev.to/bridgeace/single-agent-is-the-new-single-core-4n1f)
+- [Why I Added an LLM Parser on Top of Vector Search &lpar;And What It Changed&rpar;](https://dev.to/gronrafal/why-i-added-an-llm-parser-on-top-of-vector-search-and-what-it-changed-21mk)
+- [Digital Product Passports: What Developers Need to Know About the EU&#39;s 2026 Mandate](https://dev.to/julien786534/digital-product-passports-what-developers-need-to-know-about-the-eus-2026-mandate-4e11)
+- [Not All Friction Is the Same](https://dev.to/rorehe/not-all-friction-is-the-same-311e)
+- [Zero-Downtime Autonomous Deployments: AI-Driven QA for Multi-Site CMS](https://dev.to/victorstackai/zero-downtime-autonomous-deployments-ai-driven-qa-for-multi-site-cms-1kdj)
+- [I just published my first Python package — a tool that maps your project&#39;s imports visually 🕸️](https://dev.to/pegasus503/i-just-published-my-first-python-package-a-tool-that-maps-your-projects-imports-visually-5bg3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
