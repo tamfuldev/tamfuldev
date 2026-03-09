@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
-- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
-- [What is cURL? Complete Guide to cURL Commands, Options &amp; API Testing](https://dev.to/kanishkrawattt/what-is-curl-complete-guide-to-curl-commands-options-038-api-testing-2dj2)
-- [From Beta to Alpha: The HazelJS Journey in 38 Packages](https://dev.to/arslan_mecom/from-beta-to-alpha-the-hazeljs-journey-in-38-packages-3nad)
-- [Native TypeScript with Node](https://dev.to/timoschinkel/native-typescript-with-node-4d93)
+- [Subnet Planning for Kubernetes: Why Most Calculators Are Wrong](https://dev.to/krhatland/subnet-planning-for-kubernetes-why-most-calculators-are-wrong-1gdl)
+- [Verification Debt: The Silent Killer of AI Agent Systems](https://dev.to/askpatrick/verification-debt-the-silent-killer-of-ai-agent-systems-i3f)
+- [Specialized chatbot using RAG](https://dev.to/nebuladata/specialized-chatbot-using-rag-4n59)
+- [The One-Millisecond Update That Almost Melted Production](https://dev.to/don_mizzy/the-one-millisecond-update-that-almost-melted-production-13l0)
+- [Query Rewrite in RAG Systems: Why It Matters and How It Works](https://dev.to/yaruyng/query-rewrite-in-rag-systems-why-it-matters-and-how-it-works-3mmd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
