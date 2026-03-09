@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built ac-trace to Check What Tests Actually Protect](https://dev.to/dmytro_huz/i-built-ac-trace-to-check-what-tests-actually-protect-2pnc)
-- [Building a Table of Contents Sidebar Without a Library](https://dev.to/ishanbagchi/building-a-table-of-contents-sidebar-without-a-library-51in)
-- [AI Tools for Real Estate Photography: Virtual Staging and Beyond](https://dev.to/aitoolshub/ai-tools-for-real-estate-photography-virtual-staging-and-beyond-1j8h)
-- [🧠 I Built an MCP Server That Gives AI Agents Persistent Memory — So They Never Forget Again](https://dev.to/_164252383a1019ece31/i-built-an-mcp-server-that-gives-ai-agents-persistent-memory-so-they-never-forget-again-oi4)
-- [What are your goals for the week? #169](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-169-f76)
+- [AI Image Editing API: How to Integrate P20V Into Your App or Workflow](https://dev.to/aitoolshub/ai-image-editing-api-how-to-integrate-p20v-into-your-app-or-workflow-1jna)
+- [I Got Sick of Getting Rugged, So I Built a Rug-Pull Detection Engine in Rust](https://dev.to/copyleftdev/i-got-sick-of-getting-rugged-so-i-built-a-rug-pull-detection-engine-in-rust-l7l)
+- [Smooth gradient animation using @property](https://dev.to/nicooprat/smooth-gradient-animation-using-property-3ndh)
+- [I Built an Open-Source YouTube Scraper for Python, No API Key Needed](https://dev.to/zaidkx37/i-built-an-open-source-youtube-scraper-for-python-no-api-key-needed-38nm)
+- [Human Code Review Is Not the Last Frontier](https://dev.to/joacod/human-code-review-is-not-the-last-frontier-60c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
