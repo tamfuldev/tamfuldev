@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dashboard Técnico APOG](https://dev.to/coutinho_laqfa_b8b6286134/dashboard-tecnico-apog-1mn1)
-- [We Built a Site That Asks: Am I The Only One?](https://dev.to/j_hjuicyjennyracing_/we-built-a-site-that-asks-am-i-the-only-one-4pnh)
-- [The Fixed Metric](https://dev.to/dannwaneri/the-fixed-metric-25im)
-- [From PowerShell to Bash: The Folder That Almost Broke Me](https://dev.to/pirrezz/from-powershell-to-bash-the-folder-that-almost-broke-me-1e25)
-- [A Hybrid Key Architecture for Autonomous Agent Credential Management](https://dev.to/illegalcall/a-hybrid-key-architecture-for-autonomous-agent-credential-management-269h)
+- [I Built ac-trace to Check What Tests Actually Protect](https://dev.to/dmytro_huz/i-built-ac-trace-to-check-what-tests-actually-protect-2pnc)
+- [Building a Table of Contents Sidebar Without a Library](https://dev.to/ishanbagchi/building-a-table-of-contents-sidebar-without-a-library-51in)
+- [AI Tools for Real Estate Photography: Virtual Staging and Beyond](https://dev.to/aitoolshub/ai-tools-for-real-estate-photography-virtual-staging-and-beyond-1j8h)
+- [🧠 I Built an MCP Server That Gives AI Agents Persistent Memory — So They Never Forget Again](https://dev.to/_164252383a1019ece31/i-built-an-mcp-server-that-gives-ai-agents-persistent-memory-so-they-never-forget-again-oi4)
+- [What are your goals for the week? #169](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-169-f76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
