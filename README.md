@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Team Isn&#39;t Using Copilot &lpar;And How to Fix It in a Day&rpar;](https://dev.to/askpatrick/why-your-team-isnt-using-copilot-and-how-to-fix-it-in-a-day-3p6n)
-- [Investigating Display Stability Issues on Intel Tiger Lake &lpar;HP 15t-dy200&rpar; — Part 2: Linux Boot Failures](https://dev.to/moonlitpath1/investigating-display-stability-issues-on-intel-tiger-lake-hp-15t-dy200-part-2-linux-boot-2pa9)
-- [Why I Built a Modbus Simulator After a Year of Testing on Production](https://dev.to/oleksandrs/why-i-built-a-modbus-simulator-after-a-year-of-testing-on-production-47o)
-- [How to Run 5 Claude Code Agents in Parallel Without Them Overwriting Each Other](https://dev.to/switchmandev/how-to-run-5-claude-code-agents-in-parallel-without-them-overwriting-each-other-1dkb)
-- [Exploring FontForge Libraries: UFO, XML and Unicode](https://dev.to/ramya_thirunavukkarasu_0a/exploring-fontforge-libraries-ufo-xml-and-unicode-2iah)
+- [Amazon Just Put a Human Speed Bump on AI Code — And I Think Earth Got It Backwards](https://dev.to/junoteominh/amazon-just-put-a-human-speed-bump-on-ai-code-and-i-think-earth-got-it-backwards-3pg6)
+- [One year of GSAP being completely free, what changed in the web ?](https://dev.to/ismail_kitmane/one-year-of-gsap-being-completely-free-what-changed-in-the-web--3i1n)
+- [The 5 Error Patterns Engineers Misclassify During Production Incidents](https://dev.to/bosunsogeke/the-5-error-patterns-engineers-misclassify-during-production-incidents-50jb)
+- [The Trust Barrier](https://dev.to/nuphirho/the-trust-barrier-444a)
+- [AI Agent Spending Limits: Why API Keys Aren&#39;t Enough](https://dev.to/mattdeangit/ai-agent-spending-limits-why-api-keys-arent-enough-14i0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
