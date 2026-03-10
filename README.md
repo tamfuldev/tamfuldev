@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why junior developers struggle to contribute to open source](https://dev.to/apicazo/why-junior-developers-struggle-to-contribute-to-open-source-2h1b)
-- [Secure Shibboleth Integration in AKS Migration: Preserving Authentication Workflows and Network Security](https://dev.to/alitron/secure-shibboleth-integration-in-aks-migration-preserving-authentication-workflows-and-network-2leb)
-- [Unboxable in Tech](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-2knm)
-- [Build a UV Exposure Tracker in 15 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-a-uv-exposure-tracker-in-15-minutes-with-javascript-5f5n)
-- [Build a Currency Converter in 10 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-a-currency-converter-in-10-minutes-with-javascript-3jbb)
+- [Why Offline Encryption Still Matters on Android](https://dev.to/almostbrilliantideas/why-offline-encryption-still-matters-on-android-505n)
+- [February 2026 Developer Roundup: Security Assumptions Broke, AI Still Overpromises](https://dev.to/victorstackai/february-2026-developer-roundup-security-assumptions-broke-ai-still-overpromises-h5i)
+- [From Data Streams to Revenue Streams: Architecting Real-Time Platforms That Pay for Themselves](https://dev.to/_4e853add3ce149eb8267a0/from-data-streams-to-revenue-streams-architecting-real-time-platforms-that-pay-for-themselves-4mm1)
+- [Why Your Team Isn&#39;t Using Copilot &lpar;And How to Fix It in a Day&rpar;](https://dev.to/askpatrick/why-your-team-isnt-using-copilot-and-how-to-fix-it-in-a-day-2ke5)
+- [CDEvents in Action #5: The Kubernetes Deployment Blind Spot](https://dev.to/davidb31/cdevents-in-action-5-the-kubernetes-deployment-blind-spot-1c3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
