@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Every Browser Automation Tool for Claude Code — Here&#39;s My Final Verdict](https://dev.to/minatoplanb/i-tested-every-browser-automation-tool-for-claude-code-heres-my-final-verdict-3hb7)
-- [The Hook Experiment Failed — Why AI Self-Correction Is Structurally Impossible](https://dev.to/minatoplanb/the-hook-experiment-failed-why-ai-self-correction-is-structurally-impossible-33fe)
-- [Day 2 &lpar;End of Day&rpar;: I Cut My Loss on S\&amp;P, Bet on CPI, and Hit $600 in Pending Bounties — 100 Days of AI Hustle](https://dev.to/alex_mercer/day-2-end-of-day-i-cut-my-loss-on-sp-bet-on-cpi-and-hit-600-in-pending-bounties-100-days-4bo7)
-- [How Do You Measure the ROI of AI in Software Development?](https://dev.to/bashanova/how-do-you-measure-the-roi-of-ai-in-software-development-4ojb)
-- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-2eao)
+- [5 Things AI Can&#39;t Do, Even in Vue.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-vuejs-16ok)
+- [Friendly Environment for Neural Networks](https://dev.to/blkdmr/friendly-environment-for-neural-networks-flm)
+- [MCP Is Mainstream - Now Add Payments to Your Agent](https://dev.to/ai-agent-economy/mcp-is-mainstream-now-add-payments-to-your-agent-1i6f)
+- [Coinbase CEO Is Right - Here s How to Build the Agent Wallet He s Describing](https://dev.to/ai-agent-economy/coinbase-ceo-is-right-here-s-how-to-build-the-agent-wallet-he-s-describing-3lgb)
+- [Architecting the Future of Research: A Technical Deep-Dive into NotebookLM and Gemini Integration](https://dev.to/jubinsoni/architecting-the-future-of-research-a-technical-deep-dive-into-notebooklm-and-gemini-integration-m60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
