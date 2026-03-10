@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How do you actually get back into a project after being away for a few days?](https://dev.to/priyayadav9591/how-do-you-actually-get-back-into-a-project-after-being-away-for-a-few-days-4hdk)
-- [Why AI Agents Need Zero Trust Identity &lpar;and How to Build It&rpar;](https://dev.to/razashariff/why-ai-agents-need-zero-trust-identity-and-how-to-build-it-58a1)
-- [Guide to Connecting Power BI to SQL Databases: Local &amp; Cloud Workflows](https://dev.to/dennis_ogaka_2d188ab5bef7/guide-to-connecting-power-bi-to-sql-databases-local-cloud-workflows-22of)
-- [I built a tool that turns prompts into native .NET desktop apps — live-compiled](https://dev.to/hf75/i-built-a-tool-that-turns-prompts-into-native-net-desktop-apps-live-compiled-2fga)
-- [How I Improved a Shopify Store’s Performance from 30% to 65% - GTmetrix](https://dev.to/giridhar_dev/how-i-improved-a-shopify-stores-performance-from-30-to-65-gtmetrix-5h97)
+- [Why Your Team Isn&#39;t Using Copilot &lpar;And How to Fix It in a Day&rpar;](https://dev.to/askpatrick/why-your-team-isnt-using-copilot-and-how-to-fix-it-in-a-day-3p6n)
+- [Investigating Display Stability Issues on Intel Tiger Lake &lpar;HP 15t-dy200&rpar; — Part 2: Linux Boot Failures](https://dev.to/moonlitpath1/investigating-display-stability-issues-on-intel-tiger-lake-hp-15t-dy200-part-2-linux-boot-2pa9)
+- [Why I Built a Modbus Simulator After a Year of Testing on Production](https://dev.to/oleksandrs/why-i-built-a-modbus-simulator-after-a-year-of-testing-on-production-47o)
+- [How to Run 5 Claude Code Agents in Parallel Without Them Overwriting Each Other](https://dev.to/switchmandev/how-to-run-5-claude-code-agents-in-parallel-without-them-overwriting-each-other-1dkb)
+- [Exploring FontForge Libraries: UFO, XML and Unicode](https://dev.to/ramya_thirunavukkarasu_0a/exploring-fontforge-libraries-ufo-xml-and-unicode-2iah)
 <!-- BLOG-POST-LIST:END -->
 
 ---
