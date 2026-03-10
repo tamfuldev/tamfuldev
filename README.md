@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things AI Can&#39;t Do, Even in Vue.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-vuejs-16ok)
-- [Friendly Environment for Neural Networks](https://dev.to/blkdmr/friendly-environment-for-neural-networks-flm)
-- [MCP Is Mainstream - Now Add Payments to Your Agent](https://dev.to/ai-agent-economy/mcp-is-mainstream-now-add-payments-to-your-agent-1i6f)
-- [Coinbase CEO Is Right - Here s How to Build the Agent Wallet He s Describing](https://dev.to/ai-agent-economy/coinbase-ceo-is-right-here-s-how-to-build-the-agent-wallet-he-s-describing-3lgb)
-- [Architecting the Future of Research: A Technical Deep-Dive into NotebookLM and Gemini Integration](https://dev.to/jubinsoni/architecting-the-future-of-research-a-technical-deep-dive-into-notebooklm-and-gemini-integration-m60)
+- [Why junior developers struggle to contribute to open source](https://dev.to/apicazo/why-junior-developers-struggle-to-contribute-to-open-source-2h1b)
+- [Secure Shibboleth Integration in AKS Migration: Preserving Authentication Workflows and Network Security](https://dev.to/alitron/secure-shibboleth-integration-in-aks-migration-preserving-authentication-workflows-and-network-2leb)
+- [Unboxable in Tech](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-2knm)
+- [Build a UV Exposure Tracker in 15 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-a-uv-exposure-tracker-in-15-minutes-with-javascript-5f5n)
+- [Build a Currency Converter in 10 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-a-currency-converter-in-10-minutes-with-javascript-3jbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
