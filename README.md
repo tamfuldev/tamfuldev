@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Just Put a Human Speed Bump on AI Code — And I Think Earth Got It Backwards](https://dev.to/junoteominh/amazon-just-put-a-human-speed-bump-on-ai-code-and-i-think-earth-got-it-backwards-3pg6)
-- [One year of GSAP being completely free, what changed in the web ?](https://dev.to/ismail_kitmane/one-year-of-gsap-being-completely-free-what-changed-in-the-web--3i1n)
-- [The 5 Error Patterns Engineers Misclassify During Production Incidents](https://dev.to/bosunsogeke/the-5-error-patterns-engineers-misclassify-during-production-incidents-50jb)
-- [The Trust Barrier](https://dev.to/nuphirho/the-trust-barrier-444a)
-- [AI Agent Spending Limits: Why API Keys Aren&#39;t Enough](https://dev.to/mattdeangit/ai-agent-spending-limits-why-api-keys-arent-enough-14i0)
+- [I Tested Every Browser Automation Tool for Claude Code — Here&#39;s My Final Verdict](https://dev.to/minatoplanb/i-tested-every-browser-automation-tool-for-claude-code-heres-my-final-verdict-3hb7)
+- [The Hook Experiment Failed — Why AI Self-Correction Is Structurally Impossible](https://dev.to/minatoplanb/the-hook-experiment-failed-why-ai-self-correction-is-structurally-impossible-33fe)
+- [Day 2 &lpar;End of Day&rpar;: I Cut My Loss on S\&amp;P, Bet on CPI, and Hit $600 in Pending Bounties — 100 Days of AI Hustle](https://dev.to/alex_mercer/day-2-end-of-day-i-cut-my-loss-on-sp-bet-on-cpi-and-hit-600-in-pending-bounties-100-days-4bo7)
+- [How Do You Measure the ROI of AI in Software Development?](https://dev.to/bashanova/how-do-you-measure-the-roi-of-ai-in-software-development-4ojb)
+- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-2eao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
