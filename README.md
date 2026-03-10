@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Technical Debt: The Hidden Cost of AI Coding Tools](https://dev.to/kunwar-jhamat/ai-technical-debt-the-hidden-cost-of-ai-coding-tools-nnp)
-- [I Built a DVR for Financial Markets Using Pyth Pro](https://dev.to/master_wattson_6fe762787f/i-built-a-dvr-for-financial-markets-using-pyth-pro-2boh)
-- [How to Turn Your Vibe-Coded MVP into a Real Product](https://dev.to/alichherawalla/how-to-turn-your-vibe-coded-mvp-into-a-real-product-2k40)
-- [The Practical Limits of DuckDB on Commodity Hardware](https://dev.to/prithwish_nath/the-practical-limits-of-duckdb-on-commodity-hardware-f76)
-- [Time-to-Owner in Incident Response: How Platform Teams Cut Escalation Delay](https://dev.to/coordimap/time-to-owner-in-incident-response-how-platform-teams-cut-escalation-delay-4j7j)
+- [Mastering Retrieval-Augmented Generation with Gemini API&#39;s File Search Tool](https://dev.to/wayne_gakuo/mastering-retrieval-augmented-generation-with-gemini-apis-file-search-tool-4lok)
+- [11 Best Open WebUI Alternatives for Enterprise LLM Chat &lpar;2026&rpar;](https://dev.to/jaipalsingh/11-best-open-webui-alternatives-for-enterprise-llm-chat-2026-2mjc)
+- [MEV &lpar;Maximal Extractable Value&rpar;: What It Is and Why It Matters](https://dev.to/metadevdigital/mev-maximal-extractable-value-what-it-is-and-why-it-matters-1edi)
+- [Troubleshooting Log: WiFi Toggle Missing in Settings](https://dev.to/moonlitpath1/troubleshooting-log-wifi-toggle-missing-in-settings-4d2k)
+- [I Stopped Repeating Myself to Every AI Agent — The &#39;Base Session&#39; Pattern](https://dev.to/mkxultra/i-stopped-repeating-myself-to-every-ai-agent-the-base-session-pattern-50d5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
