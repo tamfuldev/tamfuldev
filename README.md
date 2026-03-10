@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RxJS Subjects in the Angular Signals Era: Obsolete or Still Powerful?](https://dev.to/mayuri_jha_bc0b497f737276/rxjs-subjects-in-the-angular-signals-era-obsolete-or-still-powerful-2dh)
-- [40 Lines of Python to Fake a Serial Mouse](https://dev.to/jbinary/40-lines-of-python-to-fake-a-serial-mouse-5cob)
-- [How JavaScript Really Runs Behind the Scenes](https://dev.to/kathirvel-s/how-javascript-really-runs-behind-the-scenes-57l)
-- [I Ran Claude Code for 5 Hours and It Burned 26M Tokens. Here&#39;s How I Debugged It](https://dev.to/digitalashes/i-ran-claude-code-for-5-hours-and-it-burned-26m-tokens-heres-how-i-debugged-it-2993)
-- [The Prompt Regression Test: Stop Breaking Your AI Workflow by Accident](https://dev.to/novaelvaris/the-prompt-regression-test-stop-breaking-your-ai-workflow-by-accident-2lbg)
+- [3 Months, 96 Signups, and 2 Paying Customers: What I Learned Building Formgrid in Public](https://dev.to/allenarduino/3-months-96-signups-and-2-paying-customers-what-i-learned-building-formgrid-in-public-127m)
+- [DuckDB 1.5.0 Released: New Features and Tools Enhance Performance and Functionality](https://dev.to/romdevin/duckdb-150-released-new-features-and-tools-enhance-performance-and-functionality-2dgb)
+- [The Vibe Coding Tool Stack: What You Actually Need](https://dev.to/ivy_joy/the-vibe-coding-tool-stack-what-you-actually-need-4b0j)
+- [From Code Completion to Code Team: How We Turned Claude Code into an Engineering Department](https://dev.to/qiushiwu/from-code-completion-to-code-team-how-we-turned-claude-code-into-an-engineering-department-1p62)
+- [MWC 2026: What Every Developer Building AI Features Should Know](https://dev.to/giolaq/mwc-2026-what-every-developer-building-ai-features-should-know-1a45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
