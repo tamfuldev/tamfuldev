@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Repeated Substring Pattern Coding Problem](https://dev.to/stack_overflowed/repeated-substring-pattern-coding-problem-3inh)
-- [How to programmatically create custom calendar events?](https://dev.to/harmonyos/how-to-programmatically-create-custom-calendar-events-5b4i)
-- [Hunting the &quot;Death Signal&quot;: From Occult Hypothesis to Non-Equilibrium Engineering](https://dev.to/davincileonhard/hunting-the-death-signal-from-occult-hypothesis-to-non-equilibrium-engineering-1noo)
-- [The Over-Engineering Trap in Modern Software Development.](https://dev.to/gauravdgreat/the-over-engineering-trap-in-modern-software-development-696)
-- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystem Growth](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystem-growth-46p6)
+- [Directory of 3,900+ Tools for AI Agents](https://dev.to/rachel_su_54a233e53a87523/directory-of-3900-tools-for-ai-agents-10kf)
+- [[Open Source] ADEval — A Tool for Evaluating Tool-Use Capabilities of Google ADK AI Agents](https://dev.to/gde/open-source-adeval-a-tool-for-evaluating-tool-use-capabilities-of-google-adk-ai-agents-3284)
+- [[Boost]](https://dev.to/elizabethfuentes12/-26k9)
+- [Git Adventures --- Part 1: Five Developers, One Repo, and the &quot;It Works on My Machine&quot; Era](https://dev.to/amareshpati/git-adventures-part-1-five-developers-one-repo-and-the-it-works-on-my-machine-era-118n)
+- [The Secret Life of JavaScript: The Observer](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-observer-53n4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
