@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Directory of 3,900+ Tools for AI Agents](https://dev.to/rachel_su_54a233e53a87523/directory-of-3900-tools-for-ai-agents-10kf)
-- [[Open Source] ADEval — A Tool for Evaluating Tool-Use Capabilities of Google ADK AI Agents](https://dev.to/gde/open-source-adeval-a-tool-for-evaluating-tool-use-capabilities-of-google-adk-ai-agents-3284)
-- [[Boost]](https://dev.to/elizabethfuentes12/-26k9)
-- [Git Adventures --- Part 1: Five Developers, One Repo, and the &quot;It Works on My Machine&quot; Era](https://dev.to/amareshpati/git-adventures-part-1-five-developers-one-repo-and-the-it-works-on-my-machine-era-118n)
-- [The Secret Life of JavaScript: The Observer](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-observer-53n4)
+- [Debugging Invisible Elements: transform-origin + scaleX&lpar;-1&rpar;](https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f)
+- [Comparing Wallet Top-Up Fees Across Global Fintech Platforms](https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4)
+- [I’m in! 🥳🤙🏼 contratz to all!](https://dev.to/dnszlsk/im-in-contratz-to-all-1757)
+- [The New AI Stack Every Developer Should Understand](https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl)
+- [Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter](https://dev.to/evillord666/beyond-fmt-building-a-flexible-text-builder-in-go-with-wissancestringformatter-2ec3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
