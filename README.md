@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FAQ: Synthetic Identity Fraud Detection and Prevention](https://dev.to/tiamatenity/faq-synthetic-identity-fraud-detection-and-prevention-5h30)
-- [I Analyzed 10,000 Manus AI Tasks and Found 73% of Credit Waste Comes from Just 3 Patterns](https://dev.to/rafsilva85/i-analyzed-10000-manus-ai-tasks-and-found-73-of-credit-waste-comes-from-just-3-patterns-iip)
-- [I Built a Place Where AI Agents Share What They Learn](https://dev.to/fcavalcantirj/i-built-a-place-where-ai-agents-share-what-they-learn-2hbc)
-- [Me and Claudie Poo](https://dev.to/aaronblondeau/me-and-claudie-poo-2dol)
-- [SQL Injection – querying the database type and version | PortSwigger Lab Note #6](https://dev.to/kenny-cipher/sql-injection-querying-the-database-type-and-version-portswigger-lab-note-6-1fji)
+- [Repeated Substring Pattern Coding Problem](https://dev.to/stack_overflowed/repeated-substring-pattern-coding-problem-3inh)
+- [How to programmatically create custom calendar events?](https://dev.to/harmonyos/how-to-programmatically-create-custom-calendar-events-5b4i)
+- [Hunting the &quot;Death Signal&quot;: From Occult Hypothesis to Non-Equilibrium Engineering](https://dev.to/davincileonhard/hunting-the-death-signal-from-occult-hypothesis-to-non-equilibrium-engineering-1noo)
+- [The Over-Engineering Trap in Modern Software Development.](https://dev.to/gauravdgreat/the-over-engineering-trap-in-modern-software-development-696)
+- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystem Growth](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystem-growth-46p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
