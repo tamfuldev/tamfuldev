@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [3 Months, 96 Signups, and 2 Paying Customers: What I Learned Building Formgrid in Public](https://dev.to/allenarduino/3-months-96-signups-and-2-paying-customers-what-i-learned-building-formgrid-in-public-127m)
-- [DuckDB 1.5.0 Released: New Features and Tools Enhance Performance and Functionality](https://dev.to/romdevin/duckdb-150-released-new-features-and-tools-enhance-performance-and-functionality-2dgb)
-- [The Vibe Coding Tool Stack: What You Actually Need](https://dev.to/ivy_joy/the-vibe-coding-tool-stack-what-you-actually-need-4b0j)
-- [From Code Completion to Code Team: How We Turned Claude Code into an Engineering Department](https://dev.to/qiushiwu/from-code-completion-to-code-team-how-we-turned-claude-code-into-an-engineering-department-1p62)
-- [MWC 2026: What Every Developer Building AI Features Should Know](https://dev.to/giolaq/mwc-2026-what-every-developer-building-ai-features-should-know-1a45)
+- [How do you actually get back into a project after being away for a few days?](https://dev.to/priyayadav9591/how-do-you-actually-get-back-into-a-project-after-being-away-for-a-few-days-4hdk)
+- [Why AI Agents Need Zero Trust Identity &lpar;and How to Build It&rpar;](https://dev.to/razashariff/why-ai-agents-need-zero-trust-identity-and-how-to-build-it-58a1)
+- [Guide to Connecting Power BI to SQL Databases: Local &amp; Cloud Workflows](https://dev.to/dennis_ogaka_2d188ab5bef7/guide-to-connecting-power-bi-to-sql-databases-local-cloud-workflows-22of)
+- [I built a tool that turns prompts into native .NET desktop apps — live-compiled](https://dev.to/hf75/i-built-a-tool-that-turns-prompts-into-native-net-desktop-apps-live-compiled-2fga)
+- [How I Improved a Shopify Store’s Performance from 30% to 65% - GTmetrix](https://dev.to/giridhar_dev/how-i-improved-a-shopify-stores-performance-from-30-to-65-gtmetrix-5h97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
