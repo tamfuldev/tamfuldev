@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Retrieval-Augmented Generation with Gemini API&#39;s File Search Tool](https://dev.to/wayne_gakuo/mastering-retrieval-augmented-generation-with-gemini-apis-file-search-tool-4lok)
-- [11 Best Open WebUI Alternatives for Enterprise LLM Chat &lpar;2026&rpar;](https://dev.to/jaipalsingh/11-best-open-webui-alternatives-for-enterprise-llm-chat-2026-2mjc)
-- [MEV &lpar;Maximal Extractable Value&rpar;: What It Is and Why It Matters](https://dev.to/metadevdigital/mev-maximal-extractable-value-what-it-is-and-why-it-matters-1edi)
-- [Troubleshooting Log: WiFi Toggle Missing in Settings](https://dev.to/moonlitpath1/troubleshooting-log-wifi-toggle-missing-in-settings-4d2k)
-- [I Stopped Repeating Myself to Every AI Agent — The &#39;Base Session&#39; Pattern](https://dev.to/mkxultra/i-stopped-repeating-myself-to-every-ai-agent-the-base-session-pattern-50d5)
+- [Dusting Off the Keyboard: My Pivot from Software Development to Project Management](https://dev.to/fullstackjo/dusting-off-the-keyboard-my-pivot-from-software-development-to-project-management-5c0j)
+- [Building an Anchor Output Fee Bumping Service — Part 4: Lightning Payment Integration](https://dev.to/susangithaigan/building-an-anchor-output-fee-bumping-service-part-4-lightning-payment-integration-5615)
+- [Why CodeGate Exists: Inspect Before Trust](https://dev.to/pachilo/why-codegate-exists-inspect-before-trust-kda)
+- [Top 14 Shadcn Hero Sections for 2026](https://dev.to/vaibhavg/shadcn-hero-sections-37af)
+- [I ran 300+ AI models against PLTR — here&#39;s what multi-model consensus found](https://dev.to/tsung_8b0f8018e887871fda/i-ran-300-ai-models-against-pltr-heres-what-multi-model-consensus-found-43c8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
