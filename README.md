@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Google DeepMind Gets Right About Agent Delegation — And What SatGate Already Built](https://dev.to/mattdeangit/what-google-deepmind-gets-right-about-agent-delegation-and-what-satgate-already-built-3e0a)
-- [Give Your AI a Place for Its Visual Output](https://dev.to/dylanfeltus/give-your-ai-a-place-for-its-visual-output-280m)
-- [Bear UI v1.1.4: 22+ New Components, LOC Badges, and a Better Docs Experience](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-v114-22-new-components-loc-badges-and-a-better-docs-experience-2545)
-- [Something about complexity, simplicity, and hope.](https://dev.to/bwtgarden/something-about-complexity-simplicity-and-hope-1i6m)
-- [use-local-llm: React Hooks for AI That Actually Work Locally](https://dev.to/pooyagolchian/use-local-llm-react-hooks-for-ai-that-actually-work-locally-4ghc)
+- [Stop wasting hours on landing pages: How I built a tool to launch in 2 minutes 🚀](https://dev.to/emanuil/stop-wasting-hours-on-landing-pages-how-i-built-a-tool-to-launch-in-2-minutes-5doi)
+- [swift 6, screencapturekit, and why my app worked in xcode but not as a .app](https://dev.to/combba/swift-6-screencapturekit-and-why-my-app-worked-in-xcode-but-not-as-a-app-3p5a)
+- [Top 5 AI Agent Hosting Platforms for 2026](https://dev.to/nebulagg/top-5-ai-agent-hosting-platforms-for-2026-30hp)
+- [I had to build my own Symfony validation bundle because no existing one fits my requirements](https://dev.to/outcomer/i-had-to-build-my-own-symfony-validation-bundle-because-no-existing-one-fits-my-requirements-5abp)
+- [The Hallucination Offensive — When the Machine Starts Lying](https://dev.to/deepak_mishra_35863517037/the-hallucination-offensive-when-the-machine-starts-lying-2c7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
