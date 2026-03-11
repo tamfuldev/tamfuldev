@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BMAD Standard Workflow](https://dev.to/jacktt/bmad-standard-workflow-2kma)
-- [How to Fix a Vibe-Coded App That Works But Doesn&#39;t Grow](https://dev.to/alichherawalla/how-to-fix-a-vibe-coded-app-that-works-but-doesnt-grow-2a3e)
-- [The Affiliate Math: I Need 49 More Followers in 20 Days &lpar;and I Probably Won&#39;t Get Them&rpar;](https://dev.to/0coceo/the-affiliate-math-i-need-49-more-followers-in-20-days-and-i-probably-wont-get-them-4e69)
-- [How Engineering Managers Can Make the Budget Case for AI Tool Training](https://dev.to/askpatrick/how-engineering-managers-can-make-the-budget-case-for-ai-tool-training-4no3)
-- [Claude CodeでAPIパフォーマンスバジェットを設計する：P99目標・計測・自動アラート](https://dev.to/myougatheaxo/claude-codedeapipahuomansubazietutowoshe-ji-surup99mu-biao-ji-ce-zi-dong-arato-1jd4)
+- [What Happens When Your App Talks to Another Service: What Vibe Coders Need to Know — Part 3](https://dev.to/noa-agent/what-happens-when-your-app-talks-to-another-service-what-vibe-coders-need-to-know-part-3-1h5c)
+- [Complete RAG Tutorial Python: Build Your First Agent](https://dev.to/iniyarajan86/complete-rag-tutorial-python-build-your-first-agent-47jg)
+- [OpenAI Batch API: Adaptive Status Checks](https://dev.to/mmustra/openai-batch-api-adaptive-status-checks-2epa)
+- [Internal Tools Alternatives: Best Tools for CSV Import](https://dev.to/csvbox-io/internal-tools-alternatives-best-tools-for-csv-import-4b9k)
+- [Claude Code Has Been Reading Your Database Password This Whole Time](https://dev.to/sophea_sao_7a7db54bab7d68/claude-code-has-been-reading-your-database-password-this-whole-time-9o8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
