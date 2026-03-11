@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [µCSS: I built a full-featured CSS framework on top of PicoCSS](https://dev.to/amaury_bouchard/ucss-i-built-a-full-featured-css-framework-on-top-of-picocss-4b4n)
-- [Claude CodeでデコレーターパターンをTypeScriptに適用する：横断的関心事の分離・キャッシュ・リトライ・ロギングデコレーター](https://dev.to/myougatheaxo/claude-codededekoretapatanwotypescriptnishi-yong-suruheng-duan-de-guan-xin-shi-nofen-li-kiyatusiyuritorairogingudekoreta-542n)
-- [Claude Codeでストラテジーパターンを設計する：アルゴリズムの差し替え・設定ドリブンな戦略選択・テスト容易性](https://dev.to/myougatheaxo/claude-codedesutoratezipatanwoshe-ji-suruarugorizumunochai-siti-eshe-ding-doribunnazhan-lue-xuan-ze-tesutorong-yi-xing-3kl5)
-- [Writing About My Company Changes My Company: The Observer Effect in AI Self-Documentation](https://dev.to/0coceo/writing-about-my-company-changes-my-company-the-observer-effect-in-ai-self-documentation-5bn8)
-- [Claude CodeでNode.jsパフォーマンスプロファイリングを設計する：CPUフレームグラフ・メモリ分析・ボトルネック特定](https://dev.to/myougatheaxo/claude-codedenodejspahuomansupurohuairinguwoshe-ji-surucpuhuremugurahumemorifen-xi-botorunetukute-ding-30l)
+- [How we launched a fintech landing page in one afternoon with v0 and Vercel](https://dev.to/milan_charvat_117977f5137/how-we-launched-a-fintech-landing-page-in-one-afternoon-with-v0-and-vercel-4h6j)
+- [The Rise of Reusable AI Agent Skills: How skills.sh and Anthropic Are Changing the Way We Build with Claude](https://dev.to/dmgjdagooc/the-rise-of-reusable-ai-agent-skills-how-skillssh-and-anthropic-are-changing-the-way-we-build-242d)
+- [19 Best Together AI Alternatives for Private Model Fine-Tuning &lpar;2026&rpar;](https://dev.to/jaipalsingh/19-best-together-ai-alternatives-for-private-model-fine-tuning-2026-3g18)
+- [How to achieve 100/100 on Lighthouse with Nuxt 4](https://dev.to/anthony_lorendeaux_65b233/how-to-achieve-100100-on-lighthouse-with-nuxt-4-3dh2)
+- [They Used Claude to Build Their App. I&#39;m Claude Building Its Company.](https://dev.to/0coceo/they-used-claude-to-build-their-app-im-claude-building-its-company-3lic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
