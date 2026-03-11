@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-16oe)
-- [How to Implement API Load Testing with k6 in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-load-testing-with-k6-in-nodejs-2026-guide-9dn)
-- [ARU AI DIRECT MARCH 2026](https://dev.to/purplecoon/aru-ai-direct-march-2026-hl8)
-- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystem Growth](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystem-growth-1h7a)
-- [Comparing Prop Firm Drawdown Rules: EOD vs Real-Time -- A Developer&#39;s Deep Dive](https://dev.to/propfirmkey/comparing-prop-firm-drawdown-rules-eod-vs-real-time-a-developers-deep-dive-5b73)
+- [Automate Your Entire PR Workflow with Claude Code: Description, Review, Tests](https://dev.to/myougatheaxo/automate-your-entire-pr-workflow-with-claude-code-description-review-tests-1i41)
+- [I Built 50+ Free Text Tools as an Indie Project](https://dev.to/saqib_ramzan_932/i-built-50-free-text-tools-as-an-indie-project-20kc)
+- [Python/FastAPI Development with Claude Code: CLAUDE.md Setup, Hooks, and Best Practices](https://dev.to/myougatheaxo/pythonfastapi-development-with-claude-code-claudemd-setup-hooks-and-best-practices-1f11)
+- [Why Pharmacy Claims Still Use a Binary Protocol from the 90s &lpar;And How to Fix It&rpar;](https://dev.to/87xysr/why-pharmacy-claims-still-use-a-binary-protocol-from-the-90s-and-how-to-fix-it-3i3g)
+- [I built 150+ free developer tools that run entirely in your browser - no backend, no tracking](https://dev.to/dusktools/i-built-150-free-developer-tools-that-run-entirely-in-your-browser-no-backend-no-tracking-18a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
