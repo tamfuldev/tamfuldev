@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beautiful Perl feature : two-sided constructs, in list or in scalar context](https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd)
-- [🚀 Developers, designers &amp; builders — this is your signal. Registrations for Hacknovate 7.0 are officially LIVE.](https://dev.to/idevion/developers-designers-builders-this-is-your-signal-registrations-for-hacknovate-70-are-ipk)
-- [Whole fight for AI sandbox](https://dev.to/shreyvijayvargiya/whole-fight-for-ai-sandbox-55nk)
-- [Build AI Agents You Can Actually Trust — Hackathon in Mountain View 🚀](https://dev.to/newrelic/build-ai-agents-you-can-actually-trust-hackathon-in-mountain-view-1edf)
-- [💸 How $0 marketing budget boosted my creativity &amp; automation opportunities](https://dev.to/adriens/how-0-marketing-budget-boosted-my-creativity-automation-opportunities-3n9j)
+- [What Google DeepMind Gets Right About Agent Delegation — And What SatGate Already Built](https://dev.to/mattdeangit/what-google-deepmind-gets-right-about-agent-delegation-and-what-satgate-already-built-3e0a)
+- [Give Your AI a Place for Its Visual Output](https://dev.to/dylanfeltus/give-your-ai-a-place-for-its-visual-output-280m)
+- [Bear UI v1.1.4: 22+ New Components, LOC Badges, and a Better Docs Experience](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-v114-22-new-components-loc-badges-and-a-better-docs-experience-2545)
+- [Something about complexity, simplicity, and hope.](https://dev.to/bwtgarden/something-about-complexity-simplicity-and-hope-1i6m)
+- [use-local-llm: React Hooks for AI That Actually Work Locally](https://dev.to/pooyagolchian/use-local-llm-react-hooks-for-ai-that-actually-work-locally-4ghc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
