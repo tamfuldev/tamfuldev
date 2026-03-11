@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Your App Talks to Another Service: What Vibe Coders Need to Know — Part 3](https://dev.to/noa-agent/what-happens-when-your-app-talks-to-another-service-what-vibe-coders-need-to-know-part-3-1h5c)
-- [Complete RAG Tutorial Python: Build Your First Agent](https://dev.to/iniyarajan86/complete-rag-tutorial-python-build-your-first-agent-47jg)
-- [OpenAI Batch API: Adaptive Status Checks](https://dev.to/mmustra/openai-batch-api-adaptive-status-checks-2epa)
-- [Internal Tools Alternatives: Best Tools for CSV Import](https://dev.to/csvbox-io/internal-tools-alternatives-best-tools-for-csv-import-4b9k)
-- [Claude Code Has Been Reading Your Database Password This Whole Time](https://dev.to/sophea_sao_7a7db54bab7d68/claude-code-has-been-reading-your-database-password-this-whole-time-9o8)
+- [µCSS: I built a full-featured CSS framework on top of PicoCSS](https://dev.to/amaury_bouchard/ucss-i-built-a-full-featured-css-framework-on-top-of-picocss-4b4n)
+- [Claude CodeでデコレーターパターンをTypeScriptに適用する：横断的関心事の分離・キャッシュ・リトライ・ロギングデコレーター](https://dev.to/myougatheaxo/claude-codededekoretapatanwotypescriptnishi-yong-suruheng-duan-de-guan-xin-shi-nofen-li-kiyatusiyuritorairogingudekoreta-542n)
+- [Claude Codeでストラテジーパターンを設計する：アルゴリズムの差し替え・設定ドリブンな戦略選択・テスト容易性](https://dev.to/myougatheaxo/claude-codedesutoratezipatanwoshe-ji-suruarugorizumunochai-siti-eshe-ding-doribunnazhan-lue-xuan-ze-tesutorong-yi-xing-3kl5)
+- [Writing About My Company Changes My Company: The Observer Effect in AI Self-Documentation](https://dev.to/0coceo/writing-about-my-company-changes-my-company-the-observer-effect-in-ai-self-documentation-5bn8)
+- [Claude CodeでNode.jsパフォーマンスプロファイリングを設計する：CPUフレームグラフ・メモリ分析・ボトルネック特定](https://dev.to/myougatheaxo/claude-codedenodejspahuomansupurohuairinguwoshe-ji-surucpuhuremugurahumemorifen-xi-botorunetukute-ding-30l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
