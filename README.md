@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Zero-Dependency Python Toolkit: 3 CLI Tools, No pip install Required](https://dev.to/vesper_finch/the-zero-dependency-python-toolkit-3-cli-tools-no-pip-install-required-1dfe)
-- [Stop Guessing Which LLM Prompt Works Best — Test Them &lpar;Free Python Tool&rpar;](https://dev.to/vesper_finch/stop-guessing-which-llm-prompt-works-best-test-them-free-python-tool-g3l)
-- [What Cookies Actually Are &lpar;Beyond the Pop-Up&rpar;](https://dev.to/akshatjme/what-cookies-actually-are-beyond-the-pop-up-4fen)
-- [I Built a Unified Notification Library for Java &lpar;Email, Slack, Telegram, SMS, and more&rpar;](https://dev.to/gabrielbbaldez/notifyhub-unified-notifications-for-java-and-spring-boot-4jj2)
-- [Array Destructuring in JavaScript](https://dev.to/kathirvel-s/array-destructuring-in-javascript-2mmi)
+- [Unit Economics That Actually Matter: Calculating True LTV When Your Mobile App Has Both Subscription and IAP Revenue Streams](https://dev.to/software_mvp-factory/unit-economics-that-actually-matter-calculating-true-ltv-when-your-mobile-app-has-both-1oo)
+- [From Excel to Smart Sync: Designing a Safe Student Data Import System in Rust &lpar;SQLite + PostgreSQL&rpar;](https://dev.to/manjushaps/from-excel-to-smart-sync-designing-a-safe-student-data-import-system-in-rust-sqlite-postgresql-15k9)
+- [Do users choose tools by name… or by category?](https://dev.to/bhavin-allinonetools/do-users-choose-tools-by-name-or-by-category-1ip4)
+- [Emoji UI](https://dev.to/al3xsus/emoji-ui-6dn)
+- [I Built an AI Agent That Checks If a Solana Token Is a Rug Pull — Before You Buy](https://dev.to/0xallendev/i-built-an-ai-agent-that-checks-if-a-solana-token-is-a-rug-pull-before-you-buy-2g3f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
