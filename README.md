@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built Dashboard Lite for miniPC Bundles &lpar;Flask, Zero Dependencies&rpar;](https://dev.to/linou518/how-we-built-dashboard-lite-for-minipc-bundles-flask-zero-dependencies-26mb)
-- [When macOS 26 &lpar;Tahoe&rpar; Blocked Python Socket Connections — and How LaunchDaemon Fixed It](https://dev.to/linou518/when-macos-26-tahoe-blocked-python-socket-connections-and-how-launchdaemon-fixed-it-3j2i)
-- [System Design Back-of-the-Envelope Math](https://dev.to/hiteshvp/system-design-back-of-the-envelope-math-4ime)
-- [I Just Earned the GitHub Copilot CLI Challenge Badge — And It Means More Than I Expected 🏅](https://dev.to/respect17/i-just-earned-the-github-copilot-cli-challenge-badge-and-it-means-more-than-i-expected-mni)
-- [How I Used Ollama Locally Instead of Paying for the OpenAI API](https://dev.to/dainwi/how-i-used-ollama-locally-instead-of-paying-for-the-openai-api-egk)
+- [Fish Audio S2-Pro：用自然语言控制语音情感的 TTS 模型](https://dev.to/gary_yan_86eb77d35e0070f5/fish-audio-s2-proyong-zi-ran-yu-yan-kong-zhi-yu-yin-qing-gan-de-tts-mo-xing-2loa)
+- [How We Index 5000+ Minecraft Servers: Database Design and Search Architecture](https://dev.to/draginox/how-we-index-5000-minecraft-servers-database-design-and-search-architecture-4nh6)
+- [Stop Building &quot;AI Tools&quot;—Start Building &quot;Cognitive Interfaces&quot;: A New Standard for the Agent Era](https://dev.to/tercelyi/stop-building-ai-tools-start-building-cognitive-interfaces-a-new-standard-for-the-agent-era-2n4e)
+- [Fish Audio S2-Pro: A TTS Model with Emotion in Speech Controlled with Natural Language](https://dev.to/gary_yan_86eb77d35e0070f5/fish-audio-s2-pro-a-tts-model-with-emotion-in-speech-controlled-with-natural-language-1e7n)
+- [Build 5 Custom Claude Code Skills That Save Hours Every Week](https://dev.to/klement_gunndu/build-5-custom-claude-code-skills-that-save-hours-every-week-561)
 <!-- BLOG-POST-LIST:END -->
 
 ---
