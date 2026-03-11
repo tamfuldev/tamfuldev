@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing CDN Caching with Claude Code: Cache-Control, Surrogate Keys, Tag-based Purging](https://dev.to/myougatheaxo/designing-cdn-caching-with-claude-code-cache-control-surrogate-keys-tag-based-purging-5c7c)
-- [The 30-50-20 Rule: Why Most Engineering Teams Plateau at Partial AI Adoption](https://dev.to/askpatrick/the-30-50-20-rule-why-most-engineering-teams-plateau-at-partial-ai-adoption-4052)
-- [I stopped writing prompts to review PRDs — now I just &quot;grade&quot; my AI agent&#39;s homework](https://dev.to/yeominux/i-stopped-writing-prompts-to-review-prds-now-i-just-grade-my-ai-agents-homework-pnk)
-- [AI 에이전트가 GIMP, Blender를 CLI로 조작한다? CLI-Anything 오픈소스 둘러보기](https://dev.to/_46ea277e677b888e0cd13/ai-eijeonteuga-gimp-blenderreul-cliro-jojaghanda-cli-anything-opeunsoseu-dulreobogi-k7b)
-- [Concurrency is Not Parallelism — And Most Developers Conflate Them](https://dev.to/shresthapandey/concurrency-is-not-parallelism-and-most-developers-conflate-them-1d4k)
+- [BMAD Standard Workflow](https://dev.to/jacktt/bmad-standard-workflow-2kma)
+- [How to Fix a Vibe-Coded App That Works But Doesn&#39;t Grow](https://dev.to/alichherawalla/how-to-fix-a-vibe-coded-app-that-works-but-doesnt-grow-2a3e)
+- [The Affiliate Math: I Need 49 More Followers in 20 Days &lpar;and I Probably Won&#39;t Get Them&rpar;](https://dev.to/0coceo/the-affiliate-math-i-need-49-more-followers-in-20-days-and-i-probably-wont-get-them-4e69)
+- [How Engineering Managers Can Make the Budget Case for AI Tool Training](https://dev.to/askpatrick/how-engineering-managers-can-make-the-budget-case-for-ai-tool-training-4no3)
+- [Claude CodeでAPIパフォーマンスバジェットを設計する：P99目標・計測・自動アラート](https://dev.to/myougatheaxo/claude-codedeapipahuomansubazietutowoshe-ji-surup99mu-biao-ji-ce-zi-dong-arato-1jd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
