@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Market Anomaly Dashboard with Vue3, Element Plus, and Java](https://dev.to/sutantoongsemfin/building-a-real-time-market-anomaly-dashboard-with-vue3-element-plus-and-java-46ce)
-- [How agents call agents](https://dev.to/openwalrus/how-agents-call-agents-1f48)
-- [Laravel Permission Hardening Script](https://dev.to/tanjinsarker/laravel-permission-hardening-script-g0l)
-- [What Is Serverless Architecture and When Does It Fail Enterprises?](https://dev.to/itidoltechnologies/what-is-serverless-architecture-and-when-does-it-fail-enterprises-2fp6)
-- [My Wife Ships Faster Than My 262-Line AI Protocol](https://dev.to/manju_kiran/my-wife-ships-faster-than-my-262-line-ai-protocol-4bh8)
+- [How We Built Dashboard Lite for miniPC Bundles &lpar;Flask, Zero Dependencies&rpar;](https://dev.to/linou518/how-we-built-dashboard-lite-for-minipc-bundles-flask-zero-dependencies-26mb)
+- [When macOS 26 &lpar;Tahoe&rpar; Blocked Python Socket Connections — and How LaunchDaemon Fixed It](https://dev.to/linou518/when-macos-26-tahoe-blocked-python-socket-connections-and-how-launchdaemon-fixed-it-3j2i)
+- [System Design Back-of-the-Envelope Math](https://dev.to/hiteshvp/system-design-back-of-the-envelope-math-4ime)
+- [I Just Earned the GitHub Copilot CLI Challenge Badge — And It Means More Than I Expected 🏅](https://dev.to/respect17/i-just-earned-the-github-copilot-cli-challenge-badge-and-it-means-more-than-i-expected-mni)
+- [How I Used Ollama Locally Instead of Paying for the OpenAI API](https://dev.to/dainwi/how-i-used-ollama-locally-instead-of-paying-for-the-openai-api-egk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
