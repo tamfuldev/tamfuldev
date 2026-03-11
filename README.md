@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Offline Encryption Still Matters on Android](https://dev.to/almostbrilliantideas/why-offline-encryption-still-matters-on-android-505n)
-- [February 2026 Developer Roundup: Security Assumptions Broke, AI Still Overpromises](https://dev.to/victorstackai/february-2026-developer-roundup-security-assumptions-broke-ai-still-overpromises-h5i)
-- [From Data Streams to Revenue Streams: Architecting Real-Time Platforms That Pay for Themselves](https://dev.to/_4e853add3ce149eb8267a0/from-data-streams-to-revenue-streams-architecting-real-time-platforms-that-pay-for-themselves-4mm1)
-- [Why Your Team Isn&#39;t Using Copilot &lpar;And How to Fix It in a Day&rpar;](https://dev.to/askpatrick/why-your-team-isnt-using-copilot-and-how-to-fix-it-in-a-day-2ke5)
-- [CDEvents in Action #5: The Kubernetes Deployment Blind Spot](https://dev.to/davidb31/cdevents-in-action-5-the-kubernetes-deployment-blind-spot-1c3a)
+- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-16oe)
+- [How to Implement API Load Testing with k6 in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-load-testing-with-k6-in-nodejs-2026-guide-9dn)
+- [ARU AI DIRECT MARCH 2026](https://dev.to/purplecoon/aru-ai-direct-march-2026-hl8)
+- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystem Growth](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystem-growth-1h7a)
+- [Comparing Prop Firm Drawdown Rules: EOD vs Real-Time -- A Developer&#39;s Deep Dive](https://dev.to/propfirmkey/comparing-prop-firm-drawdown-rules-eod-vs-real-time-a-developers-deep-dive-5b73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
