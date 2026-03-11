@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Economics That Actually Matter: Calculating True LTV When Your Mobile App Has Both Subscription and IAP Revenue Streams](https://dev.to/software_mvp-factory/unit-economics-that-actually-matter-calculating-true-ltv-when-your-mobile-app-has-both-1oo)
-- [From Excel to Smart Sync: Designing a Safe Student Data Import System in Rust &lpar;SQLite + PostgreSQL&rpar;](https://dev.to/manjushaps/from-excel-to-smart-sync-designing-a-safe-student-data-import-system-in-rust-sqlite-postgresql-15k9)
-- [Do users choose tools by name… or by category?](https://dev.to/bhavin-allinonetools/do-users-choose-tools-by-name-or-by-category-1ip4)
-- [Emoji UI](https://dev.to/al3xsus/emoji-ui-6dn)
-- [I Built an AI Agent That Checks If a Solana Token Is a Rug Pull — Before You Buy](https://dev.to/0xallendev/i-built-an-ai-agent-that-checks-if-a-solana-token-is-a-rug-pull-before-you-buy-2g3f)
+- [Exploring the Vibes in Vibe-Coding](https://dev.to/schnurrpfeifer/exploring-the-vibes-in-vibe-coding-1pf2)
+- [Why Erlang&#39;s Supervision Trees Are the Missing Piece for AI Agents](https://dev.to/setas/why-erlangs-supervision-trees-are-the-missing-piece-for-ai-agents-1mjo)
+- [making go speak real-time — our gemini live api websocket proxy](https://dev.to/combba/making-go-speak-real-time-our-gemini-live-api-websocket-proxy-41of)
+- [Week 4](https://dev.to/timothy_imanuel_35225c051/week-4-2cf)
+- [I built 75+ free browser tools](https://dev.to/emirbaycan/i-built-75-free-browser-tools-33pb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
