@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Vibes in Vibe-Coding](https://dev.to/schnurrpfeifer/exploring-the-vibes-in-vibe-coding-1pf2)
-- [Why Erlang&#39;s Supervision Trees Are the Missing Piece for AI Agents](https://dev.to/setas/why-erlangs-supervision-trees-are-the-missing-piece-for-ai-agents-1mjo)
-- [making go speak real-time — our gemini live api websocket proxy](https://dev.to/combba/making-go-speak-real-time-our-gemini-live-api-websocket-proxy-41of)
-- [Week 4](https://dev.to/timothy_imanuel_35225c051/week-4-2cf)
-- [I built 75+ free browser tools](https://dev.to/emirbaycan/i-built-75-free-browser-tools-33pb)
+- [WES: Why Tokens Per Watt Isn&#39;t Enough for Edge Inference](https://dev.to/jeff_geiser/wes-why-tokens-per-watt-isnt-enough-for-edge-inference-fl3)
+- [How We Use AI Coding Tools on Client Projects &lpar;Without Losing Control&rpar;](https://dev.to/katk/how-we-use-ai-coding-tools-on-client-projects-without-losing-control-4195)
+- [Building Verifai: How We Used 3 Gemini Models to Create an AI QA Agent That Finds Real Bugs](https://dev.to/phamthanhhang208/building-verifai-how-we-used-3-gemini-models-to-create-an-ai-qa-agent-that-finds-real-bugs-16m7)
+- [okx-go: A Production-Ready Go Client for the OKX v5 API — Deep Dive Review](https://dev.to/tigusigalpa/okx-go-a-production-ready-go-client-for-the-okx-v5-api-deep-dive-review-2h66)
+- [Why I built a self-hosted alternative to webhook.site](https://dev.to/taskobit/why-i-built-a-self-hosted-alternative-to-webhooksite-e9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
