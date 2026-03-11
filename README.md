@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fish Audio S2-Pro：用自然语言控制语音情感的 TTS 模型](https://dev.to/gary_yan_86eb77d35e0070f5/fish-audio-s2-proyong-zi-ran-yu-yan-kong-zhi-yu-yin-qing-gan-de-tts-mo-xing-2loa)
-- [How We Index 5000+ Minecraft Servers: Database Design and Search Architecture](https://dev.to/draginox/how-we-index-5000-minecraft-servers-database-design-and-search-architecture-4nh6)
-- [Stop Building &quot;AI Tools&quot;—Start Building &quot;Cognitive Interfaces&quot;: A New Standard for the Agent Era](https://dev.to/tercelyi/stop-building-ai-tools-start-building-cognitive-interfaces-a-new-standard-for-the-agent-era-2n4e)
-- [Fish Audio S2-Pro: A TTS Model with Emotion in Speech Controlled with Natural Language](https://dev.to/gary_yan_86eb77d35e0070f5/fish-audio-s2-pro-a-tts-model-with-emotion-in-speech-controlled-with-natural-language-1e7n)
-- [Build 5 Custom Claude Code Skills That Save Hours Every Week](https://dev.to/klement_gunndu/build-5-custom-claude-code-skills-that-save-hours-every-week-561)
+- [The Zero-Dependency Python Toolkit: 3 CLI Tools, No pip install Required](https://dev.to/vesper_finch/the-zero-dependency-python-toolkit-3-cli-tools-no-pip-install-required-1dfe)
+- [Stop Guessing Which LLM Prompt Works Best — Test Them &lpar;Free Python Tool&rpar;](https://dev.to/vesper_finch/stop-guessing-which-llm-prompt-works-best-test-them-free-python-tool-g3l)
+- [What Cookies Actually Are &lpar;Beyond the Pop-Up&rpar;](https://dev.to/akshatjme/what-cookies-actually-are-beyond-the-pop-up-4fen)
+- [I Built a Unified Notification Library for Java &lpar;Email, Slack, Telegram, SMS, and more&rpar;](https://dev.to/gabrielbbaldez/notifyhub-unified-notifications-for-java-and-spring-boot-4jj2)
+- [Array Destructuring in JavaScript](https://dev.to/kathirvel-s/array-destructuring-in-javascript-2mmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
