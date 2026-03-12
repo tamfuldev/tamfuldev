@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44)
-- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
-- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
-- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
-- [Best Code Review Tools for Python in 2026 - Linters, SAST, and AI](https://dev.to/rahulxsingh/best-code-review-tools-for-python-in-2026-linters-sast-and-ai-5pb)
+- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
+- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
+- [API Key Security Best Practices Every Developer Should Know.](https://dev.to/affansaas/api-key-security-best-practices-every-developer-should-know-5262)
+- [Claude&#39;s take on the Slawk Codebase &lpar;14-day build&rpar;](https://dev.to/naysmith/claudes-take-on-the-slawk-codebase-14-day-build-26o6)
+- [10 AI Tools Developers Are Using in 2026 &lpar;Complete Guide&rpar;](https://dev.to/aiwithlisa/10-ai-tools-developers-are-using-in-2026-complete-guide-4m2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
