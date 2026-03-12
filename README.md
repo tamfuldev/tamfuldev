@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BitNet: Microsoft&#39;s 1-Bit LLMs That Run on Your CPU](https://dev.to/bspann/bitnet-microsofts-1-bit-llms-that-run-on-your-cpu-20h8)
-- [Optimize your workflow with AI and save tokens!](https://dev.to/wanderleyfa/optimize-your-workflow-with-ai-and-save-tokens-4c8l)
-- [I Built a Desktop App That Starts My Entire Dev Environment With One Click &lpar;Using Tauri + Rust + React&rpar;](https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3)
-- [I Built a Free Startup &amp; SaaS Website Template with TailwindCSS](https://dev.to/kodatolye/i-built-a-free-startup-saas-website-template-with-tailwindcss-46mg)
-- [32. C# &lpar;Nested Loop&rpar;](https://dev.to/sabin_sim/32-c-nested-loop-a50)
+- [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
+- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
+- [Remote Teams Are Spending 40% More on AI Tools—Here&#39;s What Actually Works](https://dev.to/derivinate/remote-teams-are-spending-40-more-on-ai-tools-heres-what-actually-works-14h7)
+- [Write One Query Class Instead of Many: The AQC Design Pattern](https://dev.to/raheelshan/write-one-query-class-instead-of-many-the-aqc-design-pattern-5f6l)
+- [How to Add Human Approval to AI Agent Actions](https://dev.to/nebulagg/how-to-add-human-approval-to-ai-agent-actions-keg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
