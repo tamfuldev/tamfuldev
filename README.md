@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About JavaScript Objects](https://dev.to/vinayagam_6a170db9281d526/everything-you-need-to-know-about-javascript-objects-1bgh)
-- [How I Updated 1,000+ CTAs on My Blog Without Writing a Single Line of Code](https://dev.to/cristiantalasanchez/how-i-updated-1000-ctas-on-my-blog-without-writing-a-single-line-of-code-51lj)
-- [And I just wanted to balance my check book...](https://dev.to/bisbeebucky/and-i-just-wanted-to-balance-my-check-book-50n2)
-- [Escaping DevOps hell with Codex](https://dev.to/jillesvangurp/escaping-devops-hell-with-codex-5ap7)
-- [&quot;You Wouldn’t Steal a DIV&quot;: How I Built My Portfolio](https://dev.to/nathan-brodin/you-wouldnt-steal-a-div-how-i-built-my-portfolio-2a25)
+- [Vibe coding is great for prototypes.](https://dev.to/osama_saleem_saas/vibe-coding-is-great-for-prototypes-36pl)
+- [How to Evaluate an MCP Server Before You Connect It to Your Agents](https://dev.to/waxell/how-to-evaluate-an-mcp-server-before-you-connect-it-to-your-agents-29oo)
+- [React Masonry Layout: Why the Popular Reorder Trick Fails](https://dev.to/iurii_rogulia/react-masonry-layout-why-the-popular-reorder-trick-fails-5f9l)
+- [I Audited 7 Official MCP Servers — Here Is What I Found](https://dev.to/manja316/i-audited-7-official-mcp-servers-here-is-what-i-found-d8n)
+- [Tailscale vs WireGuard: Which VPN Should You Use?](https://dev.to/selfhostingsh/tailscale-vs-wireguard-which-vpn-should-you-use-3nij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
