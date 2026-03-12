@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BUILDING A CLEAN CRUD WRAPPER FOR ORACLE SQL IN JAVA](https://dev.to/xh1m/building-a-clean-crud-wrapper-for-oracle-sql-in-java-2e87)
-- [We Backtested Our Crypto Ecosystem Score — Here&#39;s What Predicted Crash Protection &lpar;p &lt; 0.001&rpar;](https://dev.to/zarq-ai/we-backtested-our-crypto-ecosystem-score-heres-what-predicted-crash-protection-p-0001-57ig)
-- [First Mobile App UI](https://dev.to/lexaura/first-mobile-app-ui-110g)
-- [How to Set Up Weighted Load Balancing Across LLM Providers](https://dev.to/pranay_batta/how-to-set-up-weighted-load-balancing-across-llm-providers-21p7)
-- [Multimodal Search with Gemini Embedding 2 in Haystack](https://dev.to/haystack/multimodal-search-with-gemini-embedding-2-in-haystack-2j4h)
+- [Taiga vs Vikunja: Self-Hosted Project Management](https://dev.to/selfhostingsh/taiga-vs-vikunja-self-hosted-project-management-27im)
+- [How to Securely Store and Use API Keys in Laravel in 2026](https://dev.to/viiloyo/how-to-securely-store-and-use-api-keys-in-laravel-in-2026-5d26)
+- [From ERD to SQL: Implementing a Normalised Database Step-by-Step 🗄️](https://dev.to/xh1m/from-erd-to-sql-implementing-a-normalised-database-step-by-step-3igk)
+- [When the Best Tech Isn&#39;t the Best Choice: MailerLite to Listmonk](https://dev.to/cristiantalasanchez/when-the-best-tech-isnt-the-best-choice-mailerlite-to-listmonk-25bl)
+- [Stop Treating AI Like Autocomplete — Design an AI-First Developer Workflow Instead](https://dev.to/theprodsde/stop-treating-ai-like-autocomplete-design-an-ai-first-developer-workflow-instead-44m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
