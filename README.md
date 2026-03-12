@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-55fe)
-- [Choosing a graph over a database was the easy part](https://dev.to/leivleivleiv/choosing-a-graph-over-a-database-was-the-easy-part-2el4)
-- [Web Components: The &quot;Missing Link&quot; for Native Form Integration](https://dev.to/roblevintennis/web-components-the-missing-link-for-native-form-integration-ki4)
-- [Did I Waste 300+ Hours, or Just Build the Greatest Font Generator in History?](https://dev.to/hedkon/did-i-waste-300-hours-or-just-build-the-greatest-font-generator-in-history-1m6)
-- [Why I&#39;m building Codeown: A dedicated space for the &quot;Build In Public&quot; generation 🚀](https://dev.to/neocodeio/why-im-building-codeown-a-dedicated-space-for-the-build-in-public-generation-1gh3)
+- [The Rain Doesn&#39;t Care About His EMI](https://dev.to/anusha_selvam/the-rain-doesnt-care-about-his-emi-4hcl)
+- [How I Built a Multimodal AI Virtual Stager with the Gemini API and Cloud Run](https://dev.to/corporeal/how-i-built-a-multimodal-ai-virtual-stager-with-the-gemini-api-and-cloud-run-1cjg)
+- [Web App Manifest Creating an Immersive PWA Experience](https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4)
+- [The First 10 Users Playbook for Developers](https://dev.to/shashankrajurkar/the-first-10-users-playbook-for-developers-32i1)
+- [Introducing RTP: How AI Agents Will Hire Robots With a Single HTTP Request](https://dev.to/mr_hamlin/introducing-rtp-how-ai-agents-will-hire-robots-with-a-single-http-request-d3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
