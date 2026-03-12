@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Rain Doesn&#39;t Care About His EMI](https://dev.to/anusha_selvam/the-rain-doesnt-care-about-his-emi-4hcl)
-- [How I Built a Multimodal AI Virtual Stager with the Gemini API and Cloud Run](https://dev.to/corporeal/how-i-built-a-multimodal-ai-virtual-stager-with-the-gemini-api-and-cloud-run-1cjg)
-- [Web App Manifest Creating an Immersive PWA Experience](https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4)
-- [The First 10 Users Playbook for Developers](https://dev.to/shashankrajurkar/the-first-10-users-playbook-for-developers-32i1)
-- [Introducing RTP: How AI Agents Will Hire Robots With a Single HTTP Request](https://dev.to/mr_hamlin/introducing-rtp-how-ai-agents-will-hire-robots-with-a-single-http-request-d3d)
+- [15 Claude Code Skills That Replace Repetitive Dev Workflows &lpar;with free /review skill&rpar;](https://dev.to/the200dollarceo/15-claude-code-skills-that-replace-repetitive-dev-workflows-with-free-review-skill-1j4)
+- [Speech-To-Action - Turning Voice Into CLI Pipelines with Whisper.cpp](https://dev.to/artanidos/speech-to-action-turning-voice-into-cli-pipelines-with-whispercpp-49mk)
+- [Y si toda tu empresa funcionara gracias a agentes de IA?](https://dev.to/singarajatech/y-si-toda-tu-empresa-funcionara-gracias-a-agentes-de-ia-g2d)
+- [Qué es DevOps: Guía Completa de Cultura, Herramientas y Carrera [2026]](https://dev.to/devopsfreelance_pro/que-es-devops-guia-completa-de-cultura-herramientas-y-carrera-2026-2190)
+- [How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
