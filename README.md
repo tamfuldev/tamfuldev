@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How we derived behavioral and motivational patterns for user persona?](https://dev.to/priya_sajja_c336921bbda87/how-we-derived-behavioral-and-motivational-patterns-for-user-persona-15gn)
-- [Returning to Rails in 2026](https://dev.to/farddown/returning-to-rails-in-2026-41ok)
-- [Understanding Representation Learning in Neural Networks &lpar;With PyTorch Example&rpar;](https://dev.to/benkemp/understanding-representation-learning-in-neural-networks-with-pytorch-example-2560)
-- [Luthor: A WYSIWYG React Text Editor for Performance and Control](https://dev.to/rahulnsanand/luthor-a-wysiwyg-react-text-editor-for-performance-and-control-1m22)
-- [How Wedding Photographers Are Using AI to Deliver Edits 10x Faster](https://dev.to/aitoolsreview3/how-wedding-photographers-are-using-ai-to-deliver-edits-10x-faster-2335)
+- [Build a Creator Discovery Engine with Node.js and SociaVault](https://dev.to/olams/build-a-creator-discovery-engine-with-nodejs-and-sociavault-4175)
+- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide)
+- [I built a Prometheus exporter for Docker Compose health monitoring](https://dev.to/kernelghost557/i-built-a-prometheus-exporter-for-docker-compose-health-monitoring-1hpb)
+- [I Connected Claude AI to Freqtrade in 5 Lines of Code published: true.](https://dev.to/pulse_protocol_842706b157/i-connected-claude-ai-to-freqtrade-in-5-lines-of-codepublished-true-29ce)
+- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture &amp; Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
