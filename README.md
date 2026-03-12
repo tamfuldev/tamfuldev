@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Camera That Turns Reality Into Pixel Art](https://dev.to/alexmo/i-built-a-camera-that-turns-reality-into-pixel-art-8dm)
-- [Comparing LangChain, CrewAI, and ADK](https://dev.to/tomerbendavid/comparing-langchain-crewai-and-adk-491j)
-- [How to Build a Multi-Provider LLM Infrastructure with an AI Gateway &lpar;OpenAI, Claude, Azure &amp; Vertex&rpar;](https://dev.to/hadil/how-to-build-a-multi-provider-llm-infrastructure-with-an-ai-gateway-openai-claude-azure-vertex-2kpc)
-- [How I Built a Tiny AI-Powered Knowledge Base &lpar;And What I Learned&rpar;](https://dev.to/akshayitzme/how-i-built-a-tiny-ai-powered-knowledge-base-and-what-i-learned-5hi0)
-- [How I Made Claude Actually Understand My Codebase](https://dev.to/southwestmogrown/how-i-made-claude-actually-understand-my-codebase-436c)
+- [A prompt is a request. A language is the law: Aver and AI-written code](https://dev.to/jasisz/a-prompt-is-a-request-a-language-is-the-law-aver-and-ai-written-code-532b)
+- [from localhost to cloud run: deploying a live pm plus action worker](https://dev.to/combba/from-localhost-to-cloud-run-deploying-a-live-pm-plus-action-worker-30km)
+- [Stop Creating Throwaway Maven Projects Just to Try a Java Library](https://dev.to/kawasima/stop-creating-throwaway-maven-projects-just-to-try-a-java-library-1dc8)
+- [Why RAG Fails at Microservices Code Review at Scale](https://dev.to/amartyajha/why-rag-fails-at-microservices-code-review-at-scale-b3n)
+- [Linux App Summit 2026 Will Be in Berlin](https://dev.to/kurtulusoz/linux-app-summit-2026-will-be-in-berlin-155p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
