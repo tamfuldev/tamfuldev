@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A prompt is a request. A language is the law: Aver and AI-written code](https://dev.to/jasisz/a-prompt-is-a-request-a-language-is-the-law-aver-and-ai-written-code-532b)
-- [from localhost to cloud run: deploying a live pm plus action worker](https://dev.to/combba/from-localhost-to-cloud-run-deploying-a-live-pm-plus-action-worker-30km)
-- [Stop Creating Throwaway Maven Projects Just to Try a Java Library](https://dev.to/kawasima/stop-creating-throwaway-maven-projects-just-to-try-a-java-library-1dc8)
-- [Why RAG Fails at Microservices Code Review at Scale](https://dev.to/amartyajha/why-rag-fails-at-microservices-code-review-at-scale-b3n)
-- [Linux App Summit 2026 Will Be in Berlin](https://dev.to/kurtulusoz/linux-app-summit-2026-will-be-in-berlin-155p)
+- [Writing Scalable and Maintainable CSS: BEM, SMACSS and OOCSS](https://dev.to/miasalazar/writing-scalable-and-maintainable-css-bem-smacss-and-oocss-omj)
+- [Monavo Architecture — Building a Telegram-First Solana Swap Service](https://dev.to/petrtcoi/monavo-architecture-building-a-telegram-first-solana-swap-service-2e9l)
+- [Eliminating Query Timeouts: A Real-world Practice of SLS Materialized View Tuning in High Concurrency Scenarios](https://dev.to/observabilityguy/eliminating-query-timeouts-a-real-world-practice-of-sls-materialized-view-tuning-in-high-36m0)
+- [Why API-Driven EDI Is Becoming the Future of B2B Integration](https://dev.to/michael_young_e3100131f21/why-api-driven-edi-is-becoming-the-future-of-b2b-integration-2egg)
+- [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
