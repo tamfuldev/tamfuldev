@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building DailyMood: How We Used AI-Assisted Development to Ship a Full-Stack Mood Tracker in Two Sprints](https://dev.to/kelson_qu/building-dailymood-how-we-used-ai-assisted-development-to-ship-a-full-stack-mood-tracker-in-two-411a)
-- [Djangonaut Diaries: Week 1 — Setting up the space &lpar;and the machine&rpar;](https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h)
-- [Things I Wish I Knew Before Building My Own IT Infrastructure](https://dev.to/jonaszjozwicki/things-i-wish-i-knew-before-building-my-own-it-infrastructure-2ib2)
-- [Send vs WeTransfer: Self-Hosted File Sharing](https://dev.to/selfhostingsh/send-vs-wetransfer-self-hosted-file-sharing-8h5)
-- [AI Architectures vs SketchUp: When to Use AI Floor Plans vs Traditional CAD](https://dev.to/aitoolshub2/ai-architectures-vs-sketchup-when-to-use-ai-floor-plans-vs-traditional-cad-567a)
+- [[Boost]](https://dev.to/elizabethfuentes12/-55fe)
+- [Choosing a graph over a database was the easy part](https://dev.to/leivleivleiv/choosing-a-graph-over-a-database-was-the-easy-part-2el4)
+- [Web Components: The &quot;Missing Link&quot; for Native Form Integration](https://dev.to/roblevintennis/web-components-the-missing-link-for-native-form-integration-ki4)
+- [Did I Waste 300+ Hours, or Just Build the Greatest Font Generator in History?](https://dev.to/hedkon/did-i-waste-300-hours-or-just-build-the-greatest-font-generator-in-history-1m6)
+- [Why I&#39;m building Codeown: A dedicated space for the &quot;Build In Public&quot; generation 🚀](https://dev.to/neocodeio/why-im-building-codeown-a-dedicated-space-for-the-build-in-public-generation-1gh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
