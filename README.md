@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Scalable and Maintainable CSS: BEM, SMACSS and OOCSS](https://dev.to/miasalazar/writing-scalable-and-maintainable-css-bem-smacss-and-oocss-omj)
-- [Monavo Architecture — Building a Telegram-First Solana Swap Service](https://dev.to/petrtcoi/monavo-architecture-building-a-telegram-first-solana-swap-service-2e9l)
-- [Eliminating Query Timeouts: A Real-world Practice of SLS Materialized View Tuning in High Concurrency Scenarios](https://dev.to/observabilityguy/eliminating-query-timeouts-a-real-world-practice-of-sls-materialized-view-tuning-in-high-36m0)
-- [Why API-Driven EDI Is Becoming the Future of B2B Integration](https://dev.to/michael_young_e3100131f21/why-api-driven-edi-is-becoming-the-future-of-b2b-integration-2egg)
-- [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
+- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/bishoy_bishai/frontend-interview-questions-youll-actually-get-in-2026-1gon)
+- [Fear of AI made me create my own product](https://dev.to/misterion96/fear-of-ai-made-me-create-my-own-product-47gh)
+- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
+- [How I Scrape 250,000 Shopify Stores Without Getting Blocked](https://dev.to/anders_myrmel_2bc87f4df06/how-i-scrape-250000-shopify-stores-without-getting-blocked-29f9)
+- [Building Zero-Config LAN Discovery in Node.js &lpar;mDNS + UDP Broadcast&rpar;](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
