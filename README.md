@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [15 Claude Code Skills That Replace Repetitive Dev Workflows &lpar;with free /review skill&rpar;](https://dev.to/the200dollarceo/15-claude-code-skills-that-replace-repetitive-dev-workflows-with-free-review-skill-1j4)
-- [Speech-To-Action - Turning Voice Into CLI Pipelines with Whisper.cpp](https://dev.to/artanidos/speech-to-action-turning-voice-into-cli-pipelines-with-whispercpp-49mk)
-- [Y si toda tu empresa funcionara gracias a agentes de IA?](https://dev.to/singarajatech/y-si-toda-tu-empresa-funcionara-gracias-a-agentes-de-ia-g2d)
-- [Qué es DevOps: Guía Completa de Cultura, Herramientas y Carrera [2026]](https://dev.to/devopsfreelance_pro/que-es-devops-guia-completa-de-cultura-herramientas-y-carrera-2026-2190)
-- [How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)
+- [How to Make Your Website Lightning Fast in Next.js 16 ⚡](https://dev.to/hamidrazadev/how-to-make-your-website-lightning-fast-in-nextjs-16-3a3k)
+- [How Automation Can Reduce Hiring Time by 50%](https://dev.to/taurusai/how-automation-can-reduce-hiring-time-by-50-2b74)
+- [Why Bible APIs Should Be Version-Agnostic](https://dev.to/derek_codes/why-bible-apis-should-be-version-agnostic-nfe)
+- [The Third Reason for Edge AI: Law](https://dev.to/skyguan92/the-third-reason-for-edge-ai-law-321k)
+- [Your analytics script is the heaviest thing most visitors download](https://dev.to/devly-digital/your-analytics-script-is-the-heaviest-thing-most-visitors-download-cnp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
