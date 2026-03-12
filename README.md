@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a context-switching profile builder with Next.js, dnd-kit, and Supabase](https://dev.to/introlohq/how-i-built-a-context-switching-profile-builder-with-nextjs-dnd-kit-and-supabase-1hi2)
-- [How I Built drift-guard: A CLI to Stop AI Agents from Destroying Your Design](https://dev.to/hwaninet/how-i-built-drift-guard-a-cli-to-stop-ai-agents-from-destroying-your-design-3egc)
-- [Your Agent builds the app. But who tests it?](https://dev.to/flinchify/your-agent-builds-the-app-but-who-tests-it-37jl)
-- [Zenovay vs Plausible: both privacy-first, but different depth](https://dev.to/zenovay/zenovay-vs-plausible-both-privacy-first-but-different-depth-35b3)
-- [What is Actually Happening in AI Right Now, March 2026 Edition](https://dev.to/aibughunter/ai-trends-developers-cant-ignore-right-now-2d5h)
+- [I Built a Camera That Turns Reality Into Pixel Art](https://dev.to/alexmo/i-built-a-camera-that-turns-reality-into-pixel-art-8dm)
+- [Comparing LangChain, CrewAI, and ADK](https://dev.to/tomerbendavid/comparing-langchain-crewai-and-adk-491j)
+- [How to Build a Multi-Provider LLM Infrastructure with an AI Gateway &lpar;OpenAI, Claude, Azure &amp; Vertex&rpar;](https://dev.to/hadil/how-to-build-a-multi-provider-llm-infrastructure-with-an-ai-gateway-openai-claude-azure-vertex-2kpc)
+- [How I Built a Tiny AI-Powered Knowledge Base &lpar;And What I Learned&rpar;](https://dev.to/akshayitzme/how-i-built-a-tiny-ai-powered-knowledge-base-and-what-i-learned-5hi0)
+- [How I Made Claude Actually Understand My Codebase](https://dev.to/southwestmogrown/how-i-made-claude-actually-understand-my-codebase-436c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
