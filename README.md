@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Taiga vs Vikunja: Self-Hosted Project Management](https://dev.to/selfhostingsh/taiga-vs-vikunja-self-hosted-project-management-27im)
-- [How to Securely Store and Use API Keys in Laravel in 2026](https://dev.to/viiloyo/how-to-securely-store-and-use-api-keys-in-laravel-in-2026-5d26)
-- [From ERD to SQL: Implementing a Normalised Database Step-by-Step 🗄️](https://dev.to/xh1m/from-erd-to-sql-implementing-a-normalised-database-step-by-step-3igk)
-- [When the Best Tech Isn&#39;t the Best Choice: MailerLite to Listmonk](https://dev.to/cristiantalasanchez/when-the-best-tech-isnt-the-best-choice-mailerlite-to-listmonk-25bl)
-- [Stop Treating AI Like Autocomplete — Design an AI-First Developer Workflow Instead](https://dev.to/theprodsde/stop-treating-ai-like-autocomplete-design-an-ai-first-developer-workflow-instead-44m7)
+- [Everything You Need to Know About JavaScript Objects](https://dev.to/vinayagam_6a170db9281d526/everything-you-need-to-know-about-javascript-objects-1bgh)
+- [How I Updated 1,000+ CTAs on My Blog Without Writing a Single Line of Code](https://dev.to/cristiantalasanchez/how-i-updated-1000-ctas-on-my-blog-without-writing-a-single-line-of-code-51lj)
+- [And I just wanted to balance my check book...](https://dev.to/bisbeebucky/and-i-just-wanted-to-balance-my-check-book-50n2)
+- [Escaping DevOps hell with Codex](https://dev.to/jillesvangurp/escaping-devops-hell-with-codex-5ap7)
+- [&quot;You Wouldn’t Steal a DIV&quot;: How I Built My Portfolio](https://dev.to/nathan-brodin/you-wouldnt-steal-a-div-how-i-built-my-portfolio-2a25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
