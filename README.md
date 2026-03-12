@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
-- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
-- [Remote Teams Are Spending 40% More on AI Tools—Here&#39;s What Actually Works](https://dev.to/derivinate/remote-teams-are-spending-40-more-on-ai-tools-heres-what-actually-works-14h7)
-- [Write One Query Class Instead of Many: The AQC Design Pattern](https://dev.to/raheelshan/write-one-query-class-instead-of-many-the-aqc-design-pattern-5f6l)
-- [How to Add Human Approval to AI Agent Actions](https://dev.to/nebulagg/how-to-add-human-approval-to-ai-agent-actions-keg)
+- [How to Add a Form Wizard to Your Website &lpar;React, Angular, Vue, plain JS&rpar;](https://dev.to/surveyjs/how-to-add-a-form-wizard-to-your-website-react-angular-vue-plain-js-198d)
+- [We replaced our agent orchestration server with a git repo](https://dev.to/dinershtein/we-replaced-our-agent-orchestration-server-with-a-git-repo-2ncn)
+- [How I Built a Python-Powered, Offline-First Geolocation Alert System](https://dev.to/itayshmool/how-i-built-a-python-powered-offline-first-geolocation-alert-system-15d)
+- [5 Things To Avoid When Working With AI Tools](https://dev.to/aws/5-things-to-avoid-when-working-with-ai-tools-5cld)
+- [A first look at load balancing the Umbraco backoffice](https://dev.to/jemayn/a-first-look-at-load-balancing-the-umbraco-backoffice-1ihm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
