@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your Website Lightning Fast in Next.js 16 ⚡](https://dev.to/hamidrazadev/how-to-make-your-website-lightning-fast-in-nextjs-16-3a3k)
-- [How Automation Can Reduce Hiring Time by 50%](https://dev.to/taurusai/how-automation-can-reduce-hiring-time-by-50-2b74)
-- [Why Bible APIs Should Be Version-Agnostic](https://dev.to/derek_codes/why-bible-apis-should-be-version-agnostic-nfe)
-- [The Third Reason for Edge AI: Law](https://dev.to/skyguan92/the-third-reason-for-edge-ai-law-321k)
-- [Your analytics script is the heaviest thing most visitors download](https://dev.to/devly-digital/your-analytics-script-is-the-heaviest-thing-most-visitors-download-cnp)
+- [How I built a context-switching profile builder with Next.js, dnd-kit, and Supabase](https://dev.to/introlohq/how-i-built-a-context-switching-profile-builder-with-nextjs-dnd-kit-and-supabase-1hi2)
+- [How I Built drift-guard: A CLI to Stop AI Agents from Destroying Your Design](https://dev.to/hwaninet/how-i-built-drift-guard-a-cli-to-stop-ai-agents-from-destroying-your-design-3egc)
+- [Your Agent builds the app. But who tests it?](https://dev.to/flinchify/your-agent-builds-the-app-but-who-tests-it-37jl)
+- [Zenovay vs Plausible: both privacy-first, but different depth](https://dev.to/zenovay/zenovay-vs-plausible-both-privacy-first-but-different-depth-35b3)
+- [What is Actually Happening in AI Right Now, March 2026 Edition](https://dev.to/aibughunter/ai-trends-developers-cant-ignore-right-now-2d5h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
