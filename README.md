@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add a Form Wizard to Your Website &lpar;React, Angular, Vue, plain JS&rpar;](https://dev.to/surveyjs/how-to-add-a-form-wizard-to-your-website-react-angular-vue-plain-js-198d)
-- [We replaced our agent orchestration server with a git repo](https://dev.to/dinershtein/we-replaced-our-agent-orchestration-server-with-a-git-repo-2ncn)
-- [How I Built a Python-Powered, Offline-First Geolocation Alert System](https://dev.to/itayshmool/how-i-built-a-python-powered-offline-first-geolocation-alert-system-15d)
-- [5 Things To Avoid When Working With AI Tools](https://dev.to/aws/5-things-to-avoid-when-working-with-ai-tools-5cld)
-- [A first look at load balancing the Umbraco backoffice](https://dev.to/jemayn/a-first-look-at-load-balancing-the-umbraco-backoffice-1ihm)
+- [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44)
+- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
+- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
+- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
+- [Best Code Review Tools for Python in 2026 - Linters, SAST, and AI](https://dev.to/rahulxsingh/best-code-review-tools-for-python-in-2026-linters-sast-and-ai-5pb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
