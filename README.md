@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-Time AI Analytics Dashboard with InsForge, FastAPI, and Claude Code](https://dev.to/astrodevil/build-a-real-time-ai-analytics-dashboard-with-insforge-fastapi-and-claude-code-5h3i)
-- [Building a plugin for a React visual editor with Puck](https://dev.to/puckeditor/building-a-plugin-for-a-react-visual-editor-with-puck-4igh)
-- [Your Uptime Monitor Says Green. Your Users Disagree.](https://dev.to/ramon_galego/your-uptime-monitor-says-green-your-users-disagree-b1o)
-- [Auth Portal — a production-ready authentication system built with FastAPI and Python.](https://dev.to/samveldev/auth-portal-a-production-ready-authentication-system-built-with-fastapi-and-python-2bdg)
-- [How to make your React app multilingual](https://dev.to/superherojt/how-to-make-your-react-app-multilingual-ag0)
+- [How we derived behavioral and motivational patterns for user persona?](https://dev.to/priya_sajja_c336921bbda87/how-we-derived-behavioral-and-motivational-patterns-for-user-persona-15gn)
+- [Returning to Rails in 2026](https://dev.to/farddown/returning-to-rails-in-2026-41ok)
+- [Understanding Representation Learning in Neural Networks &lpar;With PyTorch Example&rpar;](https://dev.to/benkemp/understanding-representation-learning-in-neural-networks-with-pytorch-example-2560)
+- [Luthor: A WYSIWYG React Text Editor for Performance and Control](https://dev.to/rahulnsanand/luthor-a-wysiwyg-react-text-editor-for-performance-and-control-1m22)
+- [How Wedding Photographers Are Using AI to Deliver Edits 10x Faster](https://dev.to/aitoolsreview3/how-wedding-photographers-are-using-ai-to-deliver-edits-10x-faster-2335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
