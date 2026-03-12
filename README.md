@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/bishoy_bishai/frontend-interview-questions-youll-actually-get-in-2026-1gon)
-- [Fear of AI made me create my own product](https://dev.to/misterion96/fear-of-ai-made-me-create-my-own-product-47gh)
-- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
-- [How I Scrape 250,000 Shopify Stores Without Getting Blocked](https://dev.to/anders_myrmel_2bc87f4df06/how-i-scrape-250000-shopify-stores-without-getting-blocked-29f9)
-- [Building Zero-Config LAN Discovery in Node.js &lpar;mDNS + UDP Broadcast&rpar;](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)
+- [BUILDING A CLEAN CRUD WRAPPER FOR ORACLE SQL IN JAVA](https://dev.to/xh1m/building-a-clean-crud-wrapper-for-oracle-sql-in-java-2e87)
+- [We Backtested Our Crypto Ecosystem Score — Here&#39;s What Predicted Crash Protection &lpar;p &lt; 0.001&rpar;](https://dev.to/zarq-ai/we-backtested-our-crypto-ecosystem-score-heres-what-predicted-crash-protection-p-0001-57ig)
+- [First Mobile App UI](https://dev.to/lexaura/first-mobile-app-ui-110g)
+- [How to Set Up Weighted Load Balancing Across LLM Providers](https://dev.to/pranay_batta/how-to-set-up-weighted-load-balancing-across-llm-providers-21p7)
+- [Multimodal Search with Gemini Embedding 2 in Haystack](https://dev.to/haystack/multimodal-search-with-gemini-embedding-2-in-haystack-2j4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
