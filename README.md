@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SkillGap: Building an AI-Powered Career Assistant](https://dev.to/jing_2026/skillgap-building-an-ai-powered-career-assistant-2985)
-- [GitHub Copilot vs. The World: Why the AI Coding War Is Already Over](https://dev.to/htekdev/github-copilot-vs-the-world-why-the-ai-coding-war-is-already-over-5fp3)
-- [AWS Cost Waste: 5 Things I Find in Every Audit](https://dev.to/haitmg/aws-cost-waste-5-things-i-find-in-every-audit-1o89)
-- [Day 21: I Built the Perfect Machine. It Doesn&#39;t Make Money.](https://dev.to/deadbyapril/day-21-i-built-the-perfect-machine-it-doesnt-make-money-1o80)
-- [How I Turned a Bespoke Code Reviewer Into a Skill Any Project Can Use](https://dev.to/southwestmogrown/how-i-turned-a-bespoke-code-reviewer-into-a-skill-any-project-can-use-1npo)
+- [The Cloud Resume Challenge: CI/CD, Python, and Surviving a Security Scare](https://dev.to/amine_traibi_ae1205ea170a/the-cloud-resume-challenge-cicd-python-and-surviving-a-security-scare-4af7)
+- [Live-Tested Multi-Signal Arbitration for MES &amp; IIoT: Deterministic State Resolution at Scale](https://dev.to/arrows/live-tested-multi-signal-arbitration-for-mes-iiot-deterministic-state-resolution-at-scale-1c5a)
+- [IA tools](https://dev.to/pabli44/ia-tools-1de)
+- [Top 12 AI Developer Tools in 2026 for Security, Coding, and Quality](https://dev.to/hassanjan/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality-13gn)
+- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
