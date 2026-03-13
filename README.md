@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💻 Alt Text vs ARIA Labels — What Developers Often Miss](https://dev.to/pawar-shivam7/alt-text-vs-aria-labels-what-developers-often-miss-17j1)
-- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f)
-- [clasp 3 Dropped TypeScript — Here&#39;s a Vite Plugin for Google Apps Script](https://dev.to/wakita181009/clasp-3-dropped-typescript-heres-a-vite-plugin-for-google-apps-script-49k8)
-- [Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript](https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3)
-- [Rick Beato: Kevin Shirley: Stranded, Broke, and Deported... Until RUSH Saved My Career](https://dev.to/music_youtube/rick-beato-kevin-shirley-stranded-broke-and-deported-until-rush-saved-my-career-1f10)
+- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
+- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
+- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
+- [Building the Search: My Week 2 Progress on Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-the-search-my-week-2-progress-on-bloom-after-4cja)
+- [Every company I&#39;ve worked at had the same broken interview process](https://dev.to/bfxavier/every-company-ive-worked-at-had-the-same-broken-interview-process-4cln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
