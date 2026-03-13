@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
-- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
-- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
-- [Building the Search: My Week 2 Progress on Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-the-search-my-week-2-progress-on-bloom-after-4cja)
-- [Every company I&#39;ve worked at had the same broken interview process](https://dev.to/bfxavier/every-company-ive-worked-at-had-the-same-broken-interview-process-4cln)
+- [Phase 1 Retrospective: AI Models, APIs, and the Cost of Figuring It Out](https://dev.to/jmolinasoler/phase-1-retrospective-ai-models-apis-and-the-cost-of-figuring-it-out-50a7)
+- [Python Baseball Sim Update: Adding Pitcher Logic and JSON Data Support](https://dev.to/lee12/day-2-pitchers-have-joined-the-game-refining-my-baseball-simulation-2l0j)
+- [JavaScript Arrays 101](https://dev.to/hiral/javascript-arrays-101-37oh)
+- [Andrew Huang: I&#39;m trying a new way to release music](https://dev.to/music_youtube/andrew-huang-im-trying-a-new-way-to-release-music-4en0)
+- [Understanding Seq2Seq Neural Networks – Part 1: The Seq2Seq Translation Problem](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-1-the-seq2seq-translation-problem-52o0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
