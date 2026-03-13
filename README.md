@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Common Mistakes in Rails Upgrade That Derail Timelines and Break Codebases](https://dev.to/devansh2002/common-mistakes-in-rails-upgrade-that-derail-timelines-and-break-codebases-2af9)
-- [I&#39;m working on my dream frontend framework, and recently released 1.0 😁](https://dev.to/lankymoose/im-working-on-my-dream-frontend-framework-and-recently-released-10-15h1)
-- [Best Dress Shoes for Men: Style, Comfort, and Quality Combined](https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c)
-- [Probability Can Never Be Permission — The Structural Flaw of Open Agent AI and the Conditions for the Next Standard](https://dev.to/aaih_sg/probability-can-never-be-permission-the-structural-flaw-of-open-agent-ai-and-the-conditions-for-maf)
-- [React: avoid hooks that set default values, use getters with defaults](https://dev.to/domantasjurkus/react-avoid-setdefaulthook-use-getparams-26l7)
+- [“Attention Is All You Need,” That One Idea That Made Modern AI Possible from 2017 &lpar;Day 4/30 - Beginner AI Series&rpar;](https://dev.to/ankitdey01/attention-is-all-you-need-that-one-idea-that-made-modern-ai-possible-from-2017-day-430--2kmn)
+- [From NEET Aspirant to AI &amp; Neuroscience — an academic rollercoaster](https://dev.to/deepak_krishna_soni/from-neet-aspirant-to-ai-neuroscience-an-academic-rollercoaster-484h)
+- [Your AI Agent Doesn&#39;t Have an Off Switch. Here&#39;s How to Add One.](https://dev.to/agentik-md/your-ai-agent-doesnt-have-an-off-switch-heres-how-to-add-one-2eci)
+- [Vim commands I reach for when simple edits get complex](https://dev.to/vimtrickswiki/vim-commands-i-reach-for-when-simple-edits-get-complex-16ic)
+- [Vim tricks I use when I need operations to land exactly right](https://dev.to/vimtrickswiki/vim-tricks-i-use-when-i-need-operations-to-land-exactly-right-7ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
