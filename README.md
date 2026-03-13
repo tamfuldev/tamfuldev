@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Master the STAR Method for Behavioural Interviews](https://dev.to/ommathur2404/master-the-star-method-for-behavioural-interviews-1ibo)
-- [From n8n Automations to Android: Why I built a &quot;Deadman&#39;s Switch&quot; for personal safety 🚨](https://dev.to/wanjiang/from-n8n-automations-to-android-why-i-built-a-deadmans-switch-for-personal-safety-4koo)
-- [Tsonnet #33 - The arithmetic tutorial must go on](https://dev.to/bitmaybewise/tsonnet-33-the-arithmetic-tutorial-must-go-on-1694)
-- [I Built Docusign for AI Agents — Here&#39;s How](https://dev.to/michael_beckett/i-built-docusign-for-ai-agents-heres-how-dnh)
-- [The Day I Realized What Is Possible With Forge 4D](https://dev.to/artanidos/the-day-i-realized-what-is-possible-with-forge-4d-2fm0)
+- [Common Mistakes in Rails Upgrade That Derail Timelines and Break Codebases](https://dev.to/devansh2002/common-mistakes-in-rails-upgrade-that-derail-timelines-and-break-codebases-2af9)
+- [I&#39;m working on my dream frontend framework, and recently released 1.0 😁](https://dev.to/lankymoose/im-working-on-my-dream-frontend-framework-and-recently-released-10-15h1)
+- [Best Dress Shoes for Men: Style, Comfort, and Quality Combined](https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c)
+- [Probability Can Never Be Permission — The Structural Flaw of Open Agent AI and the Conditions for the Next Standard](https://dev.to/aaih_sg/probability-can-never-be-permission-the-structural-flaw-of-open-agent-ai-and-the-conditions-for-maf)
+- [React: avoid hooks that set default values, use getters with defaults](https://dev.to/domantasjurkus/react-avoid-setdefaulthook-use-getparams-26l7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
