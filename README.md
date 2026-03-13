@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Phase 1 Retrospective: AI Models, APIs, and the Cost of Figuring It Out](https://dev.to/jmolinasoler/phase-1-retrospective-ai-models-apis-and-the-cost-of-figuring-it-out-50a7)
-- [Python Baseball Sim Update: Adding Pitcher Logic and JSON Data Support](https://dev.to/lee12/day-2-pitchers-have-joined-the-game-refining-my-baseball-simulation-2l0j)
-- [JavaScript Arrays 101](https://dev.to/hiral/javascript-arrays-101-37oh)
-- [Andrew Huang: I&#39;m trying a new way to release music](https://dev.to/music_youtube/andrew-huang-im-trying-a-new-way-to-release-music-4en0)
-- [Understanding Seq2Seq Neural Networks – Part 1: The Seq2Seq Translation Problem](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-1-the-seq2seq-translation-problem-52o0)
+- [How to Combat Online Negativity in CS/SWE Communities: Proven Strategies to Empower Enthusiasts and Drive Innovation](https://dev.to/elenbit/how-to-combat-online-negativity-in-csswe-communities-proven-strategies-to-empower-enthusiasts-and-2jho)
+- [To The Moon Terraform Ep.1](https://dev.to/wvanheemstra/to-the-moon-terraform-ep1-8h8)
+- [Why Headless Agents Make Visual Audit More Critical](https://dev.to/custodiaadmin/why-headless-agents-make-visual-audit-more-critical-18am)
+- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
+- [Hawkeye - open source flight recorder &amp; guardrails for AI agents before things go wrong](https://dev.to/darkninja/hawkeye-open-source-flight-recorder-guardrails-for-ai-agents-before-things-go-wrong-4k31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
