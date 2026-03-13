@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning Phi-3 &amp; Gemma 2: The Budget Path to GPT-4 Performance at a Fraction of the Cost](https://dev.to/jaipalsingh/fine-tuning-phi-3-gemma-2-the-budget-path-to-gpt-4-performance-at-a-fraction-of-the-cost-2c95)
-- [5 Things Developers Get Wrong About LLM Performance Monitoring](https://dev.to/astrodevil/5-things-developers-get-wrong-about-llm-performance-monitoring-3i6f)
-- [“Data Quality Nightmares: How Bad Data Quietly Destroys Business Decisions”](https://dev.to/ramavala/data-quality-nightmares-how-bad-data-quietly-destroys-business-decisions-4gmp)
-- [Why Multi-Agent AI Systems Fail &lpar;And How to Fix It&rpar;](https://dev.to/jovansapfioneer/why-multi-agent-ai-systems-fail-and-how-to-fix-it-4enl)
-- [I Built 35+ Free Developer Tools as a Solo Dev — Here&#39;s Everything I Learned](https://dev.to/ali83128/i-built-35-free-developer-tools-as-a-solo-dev-heres-everything-i-learned-52dj)
+- [Master the STAR Method for Behavioural Interviews](https://dev.to/ommathur2404/master-the-star-method-for-behavioural-interviews-1ibo)
+- [From n8n Automations to Android: Why I built a &quot;Deadman&#39;s Switch&quot; for personal safety 🚨](https://dev.to/wanjiang/from-n8n-automations-to-android-why-i-built-a-deadmans-switch-for-personal-safety-4koo)
+- [Tsonnet #33 - The arithmetic tutorial must go on](https://dev.to/bitmaybewise/tsonnet-33-the-arithmetic-tutorial-must-go-on-1694)
+- [I Built Docusign for AI Agents — Here&#39;s How](https://dev.to/michael_beckett/i-built-docusign-for-ai-agents-heres-how-dnh)
+- [The Day I Realized What Is Possible With Forge 4D](https://dev.to/artanidos/the-day-i-realized-what-is-possible-with-forge-4d-2fm0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
