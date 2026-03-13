@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [친구가 다이어리에 출퇴근을 적고 있었다 2/2](https://dev.to/_53fb7c03dd741a6124e4e/cinguga-daieorie-cultoegeuneul-jeoggo-isseossda-22-38fj)
-- [Hands-On IAM with WSO2 Asgardeo: Configuring SSO, MFA, and Adaptive Authentication](https://dev.to/theenuka_bandara/hands-on-iam-with-wso2-asgardeo-configuring-sso-mfa-and-adaptive-authentication-421d)
-- [The Architect’s Dilemma: Migrating Authentication from Clerk to Auth0](https://dev.to/onwodis/the-architects-dilemma-migrating-authentication-from-clerk-to-auth0-4elf)
-- [[pt-BR] A nova era do Linux](https://dev.to/julianolaurentino/pt-br-a-nova-era-do-linux-47ca)
-- [Building a Community Contribution System for VIN Decoding Patterns](https://dev.to/sam_sullivan_411184fbc70e/building-a-community-contribution-system-for-vin-decoding-patterns-417i)
+- [Semgrep vs CodeQL: Lightweight Patterns vs Semantic Analysis for SAST &lpar;2026&rpar;](https://dev.to/rahulxsingh/semgrep-vs-codeql-lightweight-patterns-vs-semantic-analysis-for-sast-2026-412k)
+- [Codacy vs Snyk: Code Quality Platform vs Developer Security Platform &lpar;2026&rpar;](https://dev.to/rahulxsingh/codacy-vs-snyk-code-quality-platform-vs-developer-security-platform-2026-4aah)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf)
+- [ai, webdev, opensource, javascript](https://dev.to/othmanferhan/ai-webdev-opensource-javascript-28me)
+- [How to Build Your First AI Agent in 2026](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-3cdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
