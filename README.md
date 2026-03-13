@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
-- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
-- [API Key Security Best Practices Every Developer Should Know.](https://dev.to/affansaas/api-key-security-best-practices-every-developer-should-know-5262)
-- [Claude&#39;s take on the Slawk Codebase &lpar;14-day build&rpar;](https://dev.to/naysmith/claudes-take-on-the-slawk-codebase-14-day-build-26o6)
-- [10 AI Tools Developers Are Using in 2026 &lpar;Complete Guide&rpar;](https://dev.to/aiwithlisa/10-ai-tools-developers-are-using-in-2026-complete-guide-4m2a)
+- [친구가 다이어리에 출퇴근을 적고 있었다 2/2](https://dev.to/_53fb7c03dd741a6124e4e/cinguga-daieorie-cultoegeuneul-jeoggo-isseossda-22-38fj)
+- [Hands-On IAM with WSO2 Asgardeo: Configuring SSO, MFA, and Adaptive Authentication](https://dev.to/theenuka_bandara/hands-on-iam-with-wso2-asgardeo-configuring-sso-mfa-and-adaptive-authentication-421d)
+- [The Architect’s Dilemma: Migrating Authentication from Clerk to Auth0](https://dev.to/onwodis/the-architects-dilemma-migrating-authentication-from-clerk-to-auth0-4elf)
+- [[pt-BR] A nova era do Linux](https://dev.to/julianolaurentino/pt-br-a-nova-era-do-linux-47ca)
+- [Building a Community Contribution System for VIN Decoding Patterns](https://dev.to/sam_sullivan_411184fbc70e/building-a-community-contribution-system-for-vin-decoding-patterns-417i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
