@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Three Things Wrong with AI Agents in 2026](https://dev.to/deiu/the-three-things-wrong-with-ai-agents-in-2026-492m)
-- [Lovable AI Is Everywhere Right Now. Here’s How the Platform Actually Works](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442)
-- [Building ChaCC-API: A personal journey from 2023 to today](https://dev.to/jonas1015/building-chacc-api-a-personal-journey-from-2023-to-today-2oj9)
-- [137 migrations and counting: building a personal OS schema from scratch](https://dev.to/micelclaw/137-migrations-and-counting-building-a-personal-os-schema-from-scratch-31lf)
-- [THM - Blue](https://dev.to/mikensen/thm-blue-353m)
+- [Fine-Tuning Phi-3 &amp; Gemma 2: The Budget Path to GPT-4 Performance at a Fraction of the Cost](https://dev.to/jaipalsingh/fine-tuning-phi-3-gemma-2-the-budget-path-to-gpt-4-performance-at-a-fraction-of-the-cost-2c95)
+- [5 Things Developers Get Wrong About LLM Performance Monitoring](https://dev.to/astrodevil/5-things-developers-get-wrong-about-llm-performance-monitoring-3i6f)
+- [“Data Quality Nightmares: How Bad Data Quietly Destroys Business Decisions”](https://dev.to/ramavala/data-quality-nightmares-how-bad-data-quietly-destroys-business-decisions-4gmp)
+- [Why Multi-Agent AI Systems Fail &lpar;And How to Fix It&rpar;](https://dev.to/jovansapfioneer/why-multi-agent-ai-systems-fail-and-how-to-fix-it-4enl)
+- [I Built 35+ Free Developer Tools as a Solo Dev — Here&#39;s Everything I Learned](https://dev.to/ali83128/i-built-35-free-developer-tools-as-a-solo-dev-heres-everything-i-learned-52dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
