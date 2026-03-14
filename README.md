@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving my MVCC Transactional Map](https://dev.to/kusoroadeolu/improving-my-mvcc-transactional-map-2f7j)
-- [Construindo um Ecossistema de Microserviços: Simulador de Corretora de Valores &lpar;My Broker B3&rpar;](https://dev.to/rvneto/construindo-um-ecossistema-de-microservicos-simulador-de-corretora-de-valores-my-broker-b3-1g4n)
-- [Before Your AI Agent Trusts Another Agent, Run This Check](https://dev.to/leonidasesquire/before-your-ai-agent-trusts-another-agent-run-this-check-5e50)
-- [How to Build an AI Research Agent That Works While You Sleep &lpar;Karpathy&#39;s Autoresearch Method&rpar;](https://dev.to/max_quimby/how-to-build-an-ai-research-agent-that-works-while-you-sleep-karpathys-autoresearch-method-2nmd)
-- [I spent 6 months thinking about this problem. Then built the solution in a day.](https://dev.to/jason_waaang/i-spent-6-months-thinking-about-this-problem-then-built-the-solution-in-a-day-3c8l)
+- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-g41)
+- [The Hidden Layer of AI Systems Nobody Talks About: Evaluation](https://dev.to/jaideepparashar/the-hidden-layer-of-ai-systems-nobody-talks-about-evaluation-44c7)
+- [Build a Batch Audio Trimmer in Python with Tkinter and FFmpeg](https://dev.to/matetechnologie/build-a-batch-audio-trimmer-in-python-with-tkinter-and-ffmpeg-51c8)
+- [CVE-2026-32630: CVE-2026-32630: Denial of Service via Data Amplification in file-type npm Package](https://dev.to/cverports/cve-2026-32630-cve-2026-32630-denial-of-service-via-data-amplification-in-file-type-npm-package-1g7f)
+- [Launching &quot;Million Ways to Code&quot; — Building Software in the Age of AI](https://dev.to/mwc/launching-million-ways-to-code-building-software-in-the-age-of-ai-19nn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
