@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VR Exposure Therapy: How Virtual Reality Games Are Treating PTSD, Phobias, and Trauma](https://dev.to/krizekster/vr-exposure-therapy-how-virtual-reality-games-are-treating-ptsd-phobias-and-trauma-57kd)
-- [JPA Mapping with Hibernate- One-to-Many and Many-to-One Relationship](https://dev.to/ankitdevcode/jpa-mapping-with-hibernate-one-to-many-and-many-to-one-relationship-38nf)
-- [From a personal AI agent to a phone-based agentic operating environment](https://dev.to/garlicfarmer/from-a-personal-ai-agent-to-a-phone-based-agentic-operating-environment-4gcp)
-- [Building a Fully Local LaTeX Thesis Workflow with VS Code and MiKTeX](https://dev.to/007bsd/building-a-fully-local-latex-thesis-workflow-with-vs-code-and-miktex-11hg)
-- [WireGuard vs OpenVPN: Which VPN to Self-Host?](https://dev.to/selfhostingsh/wireguard-vs-openvpn-which-vpn-to-self-host-30ep)
+- [Frontend System Design: Communication Protocols &amp; Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h)
+- [Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674)
+- [WordPress vs Hugo: Which Should You Self-Host?](https://dev.to/selfhostingsh/wordpress-vs-hugo-which-should-you-self-host-17c5)
+- [From Architecture to Reality: Building My First SaaS &lpar;LeadIt&rpar; with AI Outreach and Company Analysis](https://dev.to/knihal12/from-architecture-to-reality-building-my-first-saas-leadit-with-ai-outreach-and-company-analysis-4f37)
+- [Escaping the Buffer: The Advanced Guide to Streams in Node.js &amp; Next.js](https://dev.to/shubhamkhatik/escaping-the-buffer-the-advanced-guide-to-streams-in-nodejs-nextjs-4734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
