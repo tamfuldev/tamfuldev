@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Shatter Bay — Breaking the Glass Ceiling in Tech](https://dev.to/melody_kelly_n/shatter-bay-breaking-the-glass-ceiling-in-tech-25bj)
-- [GPT-5-codex로 Python-React 파이프라인 만들기 — 큰 작업을 쪼개는 프롬프팅 전략](https://dev.to/ji_ai/gpt-5-codexro-python-react-paipeurain-mandeulgi-keun-jageobeul-jjogaeneun-peurompeuting-jeonryag-2a66)
-- [Why Gamers Make Better Surgeons: The Science of Ambidexterity and Fine Motor Control](https://dev.to/krizekster/why-gamers-make-better-surgeons-the-science-of-ambidexterity-and-fine-motor-control-3ico)
-- [The Completionist&#39;s Brain: When OCD Meets Game Design and Becomes Productive Obsession](https://dev.to/krizekster/the-completionists-brain-when-ocd-meets-game-design-and-becomes-productive-obsession-2o4o)
-- [We Scanned the 100 Most Popular AI Tools for Vulnerabilities](https://dev.to/zarq-ai/we-scanned-the-100-most-popular-ai-tools-for-vulnerabilities-2e3b)
+- [VR Exposure Therapy: How Virtual Reality Games Are Treating PTSD, Phobias, and Trauma](https://dev.to/krizekster/vr-exposure-therapy-how-virtual-reality-games-are-treating-ptsd-phobias-and-trauma-57kd)
+- [JPA Mapping with Hibernate- One-to-Many and Many-to-One Relationship](https://dev.to/ankitdevcode/jpa-mapping-with-hibernate-one-to-many-and-many-to-one-relationship-38nf)
+- [From a personal AI agent to a phone-based agentic operating environment](https://dev.to/garlicfarmer/from-a-personal-ai-agent-to-a-phone-based-agentic-operating-environment-4gcp)
+- [Building a Fully Local LaTeX Thesis Workflow with VS Code and MiKTeX](https://dev.to/007bsd/building-a-fully-local-latex-thesis-workflow-with-vs-code-and-miktex-11hg)
+- [WireGuard vs OpenVPN: Which VPN to Self-Host?](https://dev.to/selfhostingsh/wireguard-vs-openvpn-which-vpn-to-self-host-30ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
