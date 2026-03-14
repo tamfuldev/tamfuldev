@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Cloud Resume Challenge: CI/CD, Python, and Surviving a Security Scare](https://dev.to/amine_traibi_ae1205ea170a/the-cloud-resume-challenge-cicd-python-and-surviving-a-security-scare-4af7)
-- [Live-Tested Multi-Signal Arbitration for MES &amp; IIoT: Deterministic State Resolution at Scale](https://dev.to/arrows/live-tested-multi-signal-arbitration-for-mes-iiot-deterministic-state-resolution-at-scale-1c5a)
-- [IA tools](https://dev.to/pabli44/ia-tools-1de)
-- [Top 12 AI Developer Tools in 2026 for Security, Coding, and Quality](https://dev.to/hassanjan/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality-13gn)
-- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
+- [Improving my MVCC Transactional Map](https://dev.to/kusoroadeolu/improving-my-mvcc-transactional-map-2f7j)
+- [Construindo um Ecossistema de Microserviços: Simulador de Corretora de Valores &lpar;My Broker B3&rpar;](https://dev.to/rvneto/construindo-um-ecossistema-de-microservicos-simulador-de-corretora-de-valores-my-broker-b3-1g4n)
+- [Before Your AI Agent Trusts Another Agent, Run This Check](https://dev.to/leonidasesquire/before-your-ai-agent-trusts-another-agent-run-this-check-5e50)
+- [How to Build an AI Research Agent That Works While You Sleep &lpar;Karpathy&#39;s Autoresearch Method&rpar;](https://dev.to/max_quimby/how-to-build-an-ai-research-agent-that-works-while-you-sleep-karpathys-autoresearch-method-2nmd)
+- [I spent 6 months thinking about this problem. Then built the solution in a day.](https://dev.to/jason_waaang/i-spent-6-months-thinking-about-this-problem-then-built-the-solution-in-a-day-3c8l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
