@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Want your coding muscles back in shape after too much AI? Check this 10-step guide.](https://dev.to/canro91/want-your-coding-muscles-back-in-shape-after-too-much-ai-check-this-10-step-guide-2emm)
-- [Cloud Run vs GKE vs VMs: how to choose the right GCP compute option](https://dev.to/vctrcloudsec/cloud-run-vs-gke-vs-vms-how-to-choose-the-right-gcp-compute-option-3ld0)
-- [How I Built 200+ Free Browser-Based Tools with Next.js 16 — No Backend Needed](https://dev.to/mukeshmaddheshiya/how-i-built-200-free-browser-based-tools-with-nextjs-16-no-backend-needed-235j)
-- [Distributed Tracing: From 100% Error Rate to Root Cause in 60 Seconds](https://dev.to/uptrace/distributed-tracing-from-100-error-rate-to-root-cause-in-60-seconds-c56)
-- [I Used a Newsroom Privacy Tool to Audit 100+ Adult Sites. Here&#39;s How the Stack Works.](https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-a-newsroom-privacy-tool-to-audit-100-adult-sites-heres-how-the-stack-works-4c9p)
+- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
+- [I built a tool that runs your Postgres migrations before they hit production](https://dev.to/flvmnt/i-built-a-tool-that-runs-your-postgres-migrations-before-they-hit-production-2b22)
+- [n8n vs Zapier in 2026: Which Automation Tool Should You Actually Use?](https://dev.to/fermainpariz/n8n-vs-zapier-in-2026-which-automation-tool-should-you-actually-use-309e)
+- [First Blog](https://dev.to/abubakarliaqat_/first-blog-2b9j)
+- [Running OpenClaw on Kubernetes](https://dev.to/thenjdevopsguy/running-openclaw-on-kubernetes-57ki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
