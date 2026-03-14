@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
-- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
-- [Earnflo: A Salary Dashboard That Shows Your Earnings in Real Time](https://dev.to/jzr-supove/earnflo-a-salary-dashboard-that-shows-your-earnings-in-real-time-50m8)
-- [Big Companies steal your data, so I made a secure chat for you.](https://dev.to/kijmoshi/big-companies-steal-your-data-so-i-made-a-secure-chat-for-you-3of8)
-- [Get Your Hands Dirty - AgentCore - Set Up](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-set-up-4c4i)
+- [How to Stop AI Agent Cost Spirals Before They Start](https://dev.to/nebulagg/how-to-stop-ai-agent-cost-spirals-before-they-start-4ce7)
+- [I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.](https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl)
+- [The Supervisor Pattern: Stop Writing Monolithic Agents and Start Orchestrating Teams](https://dev.to/programmingcentral/the-supervisor-pattern-stop-writing-monolithic-agents-and-start-orchestrating-teams-2olk)
+- [Dissecting PostgreSQL — Why Being Read-Optimized Comes at the Cost of Write Speed](https://dev.to/shadowsaurus/dissecting-postgresql-why-being-read-optimized-comes-at-the-cost-of-write-speed-5016)
+- [Beginner&#39;s Guide to Open Source Contribution | Djangonaut Space 2026](https://dev.to/brian_oginga/beginners-guide-to-open-source-contribution-djangonaut-space-2026-22e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
