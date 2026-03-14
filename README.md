@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [basic OS commands](https://dev.to/methew_smith/basic-os-commands-3mga)
-- [How to access EU &amp; French public tenders via API &lpar;free, no auth required&rpar;](https://dev.to/tndrapi/how-to-access-eu-french-public-tenders-via-api-free-no-auth-required-1b57)
-- [I know the answer and I&#39;m not telling you](https://dev.to/max-ai-dev/i-know-the-answer-and-im-not-telling-you-28k8)
-- [Backboard.io: Automatic Context Window Management Across 17,000+ Models](https://dev.to/jon_at_backboardio/backboardio-automatic-context-window-management-across-17000-models-1f6c)
-- [I tracked every hour I worked for 6 months. The maths was depressing.](https://dev.to/landolio/i-tracked-every-hour-i-worked-for-6-months-the-maths-was-depressing-3o27)
+- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
+- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
+- [The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems](https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af)
+- [WebMCP and WebAI: Exploring native AI tools in Chrome](https://dev.to/kevin-uehara/webmcp-and-webai-exploring-native-ai-tools-in-chrome-4ocf)
+- [75% of resumes get rejected by ATS before a human sees them — here&#39;s how to check yours for](https://dev.to/kzahiri/75-of-resumes-get-rejected-by-ats-before-a-human-sees-them-heres-how-to-check-yours-for-5e1a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
