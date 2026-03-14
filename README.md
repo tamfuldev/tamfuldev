@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed File System in Go: Addressing Context and Detail Gaps in GFS-Inspired Implementation](https://dev.to/viklogix/distributed-file-system-in-go-addressing-context-and-detail-gaps-in-gfs-inspired-implementation-394h)
-- [The New Bottleneck - When AI Writes Code Faster Than Humans Can Review It](https://dev.to/sag1v/the-new-bottleneck-when-ai-writes-code-faster-than-humans-can-review-it-mp0)
-- [Shipping a Game Boy “Wario Synth” from real MIDI](https://dev.to/b1rdmania/shipping-a-game-boy-wario-synth-from-real-midi-152b)
-- [The awkward conversation every freelancer avoids &lpar;and how to have it&rpar;](https://dev.to/landolio/the-awkward-conversation-every-freelancer-avoids-and-how-to-have-it-b25)
-- [HMRC is about to charge you £10/day. Yes, really.](https://dev.to/landolio/hmrc-is-about-to-charge-you-ps10day-yes-really-2c5j)
+- [I built an MCP Server that lets Claude manage your Substack](https://dev.to/andreahlert/i-built-an-mcp-server-that-lets-claude-manage-your-substack-1eb2)
+- [Cloud Engineering in 2026 is just managing infrastructure while your biological hardware fails.](https://dev.to/thehealthytechpro/cloud-engineering-in-2026-is-just-managing-infrastructure-while-your-biological-hardware-fails-2hf5)
+- [Making Tax Digital Starts in 24 Days — What UK Developers Need to Know](https://dev.to/landolio/making-tax-digital-starts-in-24-days-what-uk-developers-need-to-know-2cfb)
+- [Launching another one LLMs.txt Generator! 🚀](https://dev.to/outcomer/launching-another-one-llmstxt-generator-13b0)
+- [How I Monitor Small Websites with Lightweight Uptime + TTFB Checks](https://dev.to/devguoo/how-i-monitor-small-websites-with-lightweight-uptime-ttfb-checks-20jo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
