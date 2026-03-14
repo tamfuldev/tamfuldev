@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# How I parse 15+ MoMo SMS formats with 95% accuracy](https://dev.to/theboylexis/-how-i-parse-15-momo-sms-formats-with-95-accuracy-47hg)
-- [I Built NirvaCrop — An Offline AI Tool That Converts 16:9 Videos Into 9:16 Reels](https://dev.to/ashwini_akash_3e6d514d04e/i-built-nirvacrop-an-offline-ai-tool-that-converts-169-videos-into-916-reels-1b0)
-- [Happy Pi Day!! 🥧 &lpar;And how I sorta like Tau better&rpar;](https://dev.to/kriti_arora/happy-pi-day-and-how-i-like-tau-better-2nn5)
-- [🔗 Linked List Explained Simply &lpar;Singly vs Doubly&rpar;](https://dev.to/laxmann/linked-list-explained-simply-singly-vs-doubly-2fkp)
-- [🚨 Cybersecurity Is Not Just a Security Team’s Job It’s a Developer’s Responsibility](https://dev.to/vkimutai/cybersecurity-is-not-just-a-security-teams-job-its-a-developers-responsibility-4kda)
+- [Like LEGO? Love Python! 🧱🐍 Ep.5](https://dev.to/the-software-s-journey/like-lego-love-python-ep5-4o5k)
+- [The Gilded Rose Kata: Composition Over Inheritance](https://dev.to/the-software-s-journey/the-gilded-rose-kata-composition-over-inheritance-4aeb)
+- [pingtrace](https://dev.to/skhell/pingtrace-2nia)
+- [Wiki.js vs Outline: Which to Self-Host?](https://dev.to/selfhostingsh/wikijs-vs-outline-which-to-self-host-lo1)
+- [Update and Maintain Resources in Azure - Manage tags and locks](https://dev.to/fredrick_chukwuma_13220c9/update-and-maintain-resources-in-azure-manage-tags-and-locks-3c6g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
