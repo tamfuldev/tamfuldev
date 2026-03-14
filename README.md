@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Like LEGO? Love Python! 🧱🐍 Ep.5](https://dev.to/the-software-s-journey/like-lego-love-python-ep5-4o5k)
-- [The Gilded Rose Kata: Composition Over Inheritance](https://dev.to/the-software-s-journey/the-gilded-rose-kata-composition-over-inheritance-4aeb)
-- [pingtrace](https://dev.to/skhell/pingtrace-2nia)
-- [Wiki.js vs Outline: Which to Self-Host?](https://dev.to/selfhostingsh/wikijs-vs-outline-which-to-self-host-lo1)
-- [Update and Maintain Resources in Azure - Manage tags and locks](https://dev.to/fredrick_chukwuma_13220c9/update-and-maintain-resources-in-azure-manage-tags-and-locks-3c6g)
+- [Shatter Bay — Breaking the Glass Ceiling in Tech](https://dev.to/melody_kelly_n/shatter-bay-breaking-the-glass-ceiling-in-tech-25bj)
+- [GPT-5-codex로 Python-React 파이프라인 만들기 — 큰 작업을 쪼개는 프롬프팅 전략](https://dev.to/ji_ai/gpt-5-codexro-python-react-paipeurain-mandeulgi-keun-jageobeul-jjogaeneun-peurompeuting-jeonryag-2a66)
+- [Why Gamers Make Better Surgeons: The Science of Ambidexterity and Fine Motor Control](https://dev.to/krizekster/why-gamers-make-better-surgeons-the-science-of-ambidexterity-and-fine-motor-control-3ico)
+- [The Completionist&#39;s Brain: When OCD Meets Game Design and Becomes Productive Obsession](https://dev.to/krizekster/the-completionists-brain-when-ocd-meets-game-design-and-becomes-productive-obsession-2o4o)
+- [We Scanned the 100 Most Popular AI Tools for Vulnerabilities](https://dev.to/zarq-ai/we-scanned-the-100-most-popular-ai-tools-for-vulnerabilities-2e3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
