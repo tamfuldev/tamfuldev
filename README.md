@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Go Error Handling in Distributed Systems: Patterns for Resilient Microservices](https://dev.to/matthiasbruns/go-error-handling-in-distributed-systems-patterns-for-resilient-microservices-12ia)
-- [How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors](https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208)
-- [QM2 Evolution: From Static Engine to AI-Powered Intelligence](https://dev.to/ahalvadzija/qm2-evolution-from-static-engine-to-ai-powered-intelligence-4o8c)
-- [5ive ways to make good AI code exceptional](https://dev.to/naysmith/5ive-ways-to-making-good-ai-code-exceptional-3edl)
-- [EC2 Dev 서버 운영기 — PM2에서 시작해서 ECS Production까지](https://dev.to/artistrator/ec2-dev-seobeo-unyeonggi-pm2eseo-sijaghaeseo-ecs-productionggaji-53im)
+- [# How I parse 15+ MoMo SMS formats with 95% accuracy](https://dev.to/theboylexis/-how-i-parse-15-momo-sms-formats-with-95-accuracy-47hg)
+- [I Built NirvaCrop — An Offline AI Tool That Converts 16:9 Videos Into 9:16 Reels](https://dev.to/ashwini_akash_3e6d514d04e/i-built-nirvacrop-an-offline-ai-tool-that-converts-169-videos-into-916-reels-1b0)
+- [Happy Pi Day!! 🥧 &lpar;And how I sorta like Tau better&rpar;](https://dev.to/kriti_arora/happy-pi-day-and-how-i-like-tau-better-2nn5)
+- [🔗 Linked List Explained Simply &lpar;Singly vs Doubly&rpar;](https://dev.to/laxmann/linked-list-explained-simply-singly-vs-doubly-2fkp)
+- [🚨 Cybersecurity Is Not Just a Security Team’s Job It’s a Developer’s Responsibility](https://dev.to/vkimutai/cybersecurity-is-not-just-a-security-teams-job-its-a-developers-responsibility-4kda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
