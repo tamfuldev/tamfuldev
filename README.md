@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend System Design: Communication Protocols &amp; Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h)
-- [Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674)
-- [WordPress vs Hugo: Which Should You Self-Host?](https://dev.to/selfhostingsh/wordpress-vs-hugo-which-should-you-self-host-17c5)
-- [From Architecture to Reality: Building My First SaaS &lpar;LeadIt&rpar; with AI Outreach and Company Analysis](https://dev.to/knihal12/from-architecture-to-reality-building-my-first-saas-leadit-with-ai-outreach-and-company-analysis-4f37)
-- [Escaping the Buffer: The Advanced Guide to Streams in Node.js &amp; Next.js](https://dev.to/shubhamkhatik/escaping-the-buffer-the-advanced-guide-to-streams-in-nodejs-nextjs-4734)
+- [Distributed File System in Go: Addressing Context and Detail Gaps in GFS-Inspired Implementation](https://dev.to/viklogix/distributed-file-system-in-go-addressing-context-and-detail-gaps-in-gfs-inspired-implementation-394h)
+- [The New Bottleneck - When AI Writes Code Faster Than Humans Can Review It](https://dev.to/sag1v/the-new-bottleneck-when-ai-writes-code-faster-than-humans-can-review-it-mp0)
+- [Shipping a Game Boy “Wario Synth” from real MIDI](https://dev.to/b1rdmania/shipping-a-game-boy-wario-synth-from-real-midi-152b)
+- [The awkward conversation every freelancer avoids &lpar;and how to have it&rpar;](https://dev.to/landolio/the-awkward-conversation-every-freelancer-avoids-and-how-to-have-it-b25)
+- [HMRC is about to charge you £10/day. Yes, really.](https://dev.to/landolio/hmrc-is-about-to-charge-you-ps10day-yes-really-2c5j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
