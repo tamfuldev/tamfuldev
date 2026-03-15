@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Chrome extension that stream-parses 2GB XML files using only 20MB of RAM. Here&#39;s the architecture.](https://dev.to/yana_postnova_3499025b3ea/i-built-a-chrome-extension-that-stream-parses-2gb-xml-files-using-only-20mb-of-ram-heres-the-4nk5)
-- [Git Commit Split: Shell Command Quick Reference](https://dev.to/bmf_san/git-commit-split-shell-command-quick-reference-2981)
-- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
-- [Common Mistakes in Software Architecture: Developing and Evaluating Non-Functional Requirements](https://dev.to/bmf_san/common-mistakes-in-software-architecture-developing-and-evaluating-non-functional-requirements-432b)
-- [Why AI agents need a standard profile format](https://dev.to/boubacardiallo/why-ai-agents-need-a-standard-profile-format-3akj)
+- [Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja)
+- [The Agentic Web Is Coming: Why Websites Will Soon Talk to AI Agents](https://dev.to/safdarali25/the-agentic-web-is-coming-why-websites-will-soon-talk-to-ai-agents-efp)
+- [AI Writes Code, But Who Coordinates the AI? The Missing Accountability Layer](https://dev.to/jovansapfioneer/ai-writes-code-but-who-coordinates-the-ai-the-missing-accountability-layer-3d5m)
+- [Simplifying GitOps for Kubernetes on AWS: Addressing Complexity to Improve Maintainability and Reduce Production Risks](https://dev.to/alitron/simplifying-gitops-for-kubernetes-on-aws-addressing-complexity-to-improve-maintainability-and-35g5)
+- [A quick update on Lethal Grace — our fast-paced FPS where movement is as important as shooting](https://dev.to/antelusgames/a-quick-update-on-lethal-grace-our-fast-paced-fps-where-movement-is-as-important-as-shooting-bmk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
