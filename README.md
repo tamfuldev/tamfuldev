@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Design in the Real World](https://dev.to/lihsuanlung/mcp-design-in-the-real-world-3446)
-- [Running LLMs Locally: A Rigorous Benchmark of Phi-3, Mistral, and Llama 3.2 on Ollama](https://dev.to/gurjeet333/running-llms-locally-a-rigorous-benchmark-of-phi-3-mistral-and-llama-32-on-ollama-2289)
-- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
-- [Vibe Coding Gets You 70% There. Here&#39;s What Happens to the Other 30%.](https://dev.to/totalvaluegroup/vibe-coding-gets-you-70-thereai-programming-webdev-productivity-heres-what-happens-to-the-1lco)
-- [Optimising Docker Builds for Go](https://dev.to/n0npax/optimising-docker-builds-for-go-4i9g)
+- [🚀 Introducing AI Codebase Analyst: Understand Any GitHub Repository in Under 60 Seconds](https://dev.to/akash_kumarnaik_80d5f390/introducing-ai-codebase-analyst-understand-any-github-repository-in-under-60-seconds-2ogi)
+- [Code Review Best Practices - The Complete Guide for Engineering Teams &lpar;2026&rpar;](https://dev.to/rahulxsingh/code-review-best-practices-the-complete-guide-for-engineering-teams-2026-52a4)
+- [SonarQube vs ESLint: Code Quality Platform vs JavaScript Linter &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-eslint-code-quality-platform-vs-javascript-linter-2026-i55)
+- [How I Built a Real-Time Voice AI University Counsellor with Google ADK and Gemini Live in 10 Days](https://dev.to/eliotc/how-i-built-a-real-time-voice-ai-university-counsellor-with-google-adk-and-gemini-live-in-10-days-1if7)
+- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-3h8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
