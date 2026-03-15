@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja)
-- [The Agentic Web Is Coming: Why Websites Will Soon Talk to AI Agents](https://dev.to/safdarali25/the-agentic-web-is-coming-why-websites-will-soon-talk-to-ai-agents-efp)
-- [AI Writes Code, But Who Coordinates the AI? The Missing Accountability Layer](https://dev.to/jovansapfioneer/ai-writes-code-but-who-coordinates-the-ai-the-missing-accountability-layer-3d5m)
-- [Simplifying GitOps for Kubernetes on AWS: Addressing Complexity to Improve Maintainability and Reduce Production Risks](https://dev.to/alitron/simplifying-gitops-for-kubernetes-on-aws-addressing-complexity-to-improve-maintainability-and-35g5)
-- [A quick update on Lethal Grace — our fast-paced FPS where movement is as important as shooting](https://dev.to/antelusgames/a-quick-update-on-lethal-grace-our-fast-paced-fps-where-movement-is-as-important-as-shooting-bmk)
+- [Why Domain-Specific AI Often Outperforms General Models](https://dev.to/natan_vidra/why-domain-specific-ai-often-outperforms-general-models-33dk)
+- [Building a QR Code Generator with 10 Content Types and Scan Analytics](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-generator-with-10-content-types-and-scan-analytics-1dfg)
+- [mediaforge — A Modern TypeScript FFmpeg Wrapper &lpar;fluent-ffmpeg is Dead, Long Live mediaforge&rpar;](https://dev.to/globaltechinfo/mediaforge-a-modern-typescript-ffmpeg-wrapper-fluent-ffmpeg-is-dead-long-live-mediaforge-5ajm)
+- [WEFT OS – Rethinking “Firefox OS” For 2026](https://dev.to/marcoallegretti/weft-os-rethinking-firefox-os-for-2026-1aai)
+- [Why Every Agent Needs A Transmission Protocol](https://dev.to/popvilla/why-every-agent-needs-a-transmission-protocol-2cj8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
