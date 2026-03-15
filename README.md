@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
-- [Tool Every Developer Should Know: Netcat](https://dev.to/vkimutai/tool-every-developer-should-know-netcat-1a9k)
-- [Git Archaeology #16 — The Engineers Who Shape Gravity](https://dev.to/machuz/git-archaeology-16-the-engineers-who-shape-gravity-3fmi)
-- [Why We Built HttpArena — A Better Way to Benchmark HTTP Frameworks](https://dev.to/fbio_reis_355b87b508598e/why-we-built-httparena-a-better-way-to-benchmark-http-frameworks-j94)
-- [Deploying a Web Application using AWS EC2 and Application Load Balancer – Hands-on Project](https://dev.to/sushant_deshpande/deploying-a-web-application-using-aws-ec2-and-application-load-balancer-hands-on-project-563e)
+- [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
+- [WBS Review Process: 1 Missing Task Out of 1000 Ruins the Project](https://dev.to/_jeongyuhyeon_03de1/wbs-review-process-1-missing-task-out-of-1000-ruins-the-project-295b)
+- [How to Create the Perfect OG Image &lpar;With AI + A Simple Screenshot&rpar;](https://dev.to/edriso/how-to-create-the-perfect-og-image-with-ai-a-simple-screenshot-3egh)
+- [🚀 Day 16 of My Automation Journey – Installing Java, Eclipse &amp; Setting Up Maven for Selenium](https://dev.to/bala_dkaveri_443d4beb9c8/day-16-of-my-automation-journey-installing-java-eclipse-setting-up-maven-for-selenium-4n5j)
+- [LinguaCam live: AI-Translated Global Captions, Unified Dynamic Chat, and Interactive Stream Widgets.](https://dev.to/nikhil_xd_a4c0a044981127b/linguacam-live-ai-translated-global-captions-unified-dynamic-chat-and-interactive-stream-widgets-43ao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
