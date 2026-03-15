@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What to Tell Claude Code to Test &lpar;and What to Skip&rpar;](https://dev.to/ramon_galego/what-to-tell-claude-code-to-test-and-what-to-skip-3foo)
-- [How to Add Tools to a PydanticAI Agent in 10 Min](https://dev.to/nebulagg/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41)
-- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
-- [I Built a Control Plane for My AI Agent — Because It Kept Making the Same Mistakes](https://dev.to/krisying/i-built-a-control-plane-for-my-ai-agent-because-it-kept-making-the-same-mistakes-5hf2)
-- [I&#39;m Building a Meme Coin Alone With Zero Budget. Here&#39;s What I Learned.](https://dev.to/motodiariesfun/im-building-a-meme-coin-alone-with-zero-budget-heres-what-i-learned-3efd)
+- [Top 5 AI Agent Eval Tools After Promptfoo&#39;s Exit](https://dev.to/nebulagg/top-5-ai-agent-eval-tools-after-promptfoos-exit-576i)
+- [I Built a Voice-First AI Photo &amp; Document Editor with the Gemini Live API— Here&#39;s How](https://dev.to/bizzi_cole87_26ec228487d6/i-built-a-voice-first-ai-photo-document-editor-with-gemini-live-heres-how-dab)
+- [Publishing OAS-Based API Doc on GitHub Pages](https://dev.to/kengo_hakomori_1116/publishing-oas-based-api-doc-on-github-pages-2gb6)
+- [Building a Serverless Command Bus / Workflow Backbone for Microservices](https://dev.to/aws-builders/building-a-serverless-command-bus-workflow-backbone-for-microservices-599b)
+- [Why Your Laravel App is &quot;Heavy&quot; &lpar;and How to Fix it in 5 Minutes&rpar;](https://dev.to/ilhammmaulana/why-your-laravel-app-is-heavy-and-how-to-fix-it-in-5-minutes-5j6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
