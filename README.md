@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
-- [WBS Review Process: 1 Missing Task Out of 1000 Ruins the Project](https://dev.to/_jeongyuhyeon_03de1/wbs-review-process-1-missing-task-out-of-1000-ruins-the-project-295b)
-- [How to Create the Perfect OG Image &lpar;With AI + A Simple Screenshot&rpar;](https://dev.to/edriso/how-to-create-the-perfect-og-image-with-ai-a-simple-screenshot-3egh)
-- [🚀 Day 16 of My Automation Journey – Installing Java, Eclipse &amp; Setting Up Maven for Selenium](https://dev.to/bala_dkaveri_443d4beb9c8/day-16-of-my-automation-journey-installing-java-eclipse-setting-up-maven-for-selenium-4n5j)
-- [LinguaCam live: AI-Translated Global Captions, Unified Dynamic Chat, and Interactive Stream Widgets.](https://dev.to/nikhil_xd_a4c0a044981127b/linguacam-live-ai-translated-global-captions-unified-dynamic-chat-and-interactive-stream-widgets-43ao)
+- [Design pattern visualization: Structural Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-structural-design-patterns-1863)
+- [Self-Host n8n for $5/month: Complete Setup Guide &lpar;Docker + Caddy + HTTPS&rpar;](https://dev.to/automatewithai/self-host-n8n-for-5month-complete-setup-guide-docker-caddy-https-4pcl)
+- [Building Parallax: The Vision-Powered UI Navigator Agent](https://dev.to/vanichitkara/building-parallax-the-vision-powered-ui-navigator-agent-1id2)
+- [Building a Multi-Agent LLM Orchestrator with Claude Code: 86 Sessions of Hard-Won Lessons](https://dev.to/ji_ai/building-a-multi-agent-llm-orchestrator-with-claude-code-86-sessions-of-hard-won-lessons-13n6)
+- [Writing a Claude Code Book with Claude Code: When PostToolUse Hooks Loop 25 Times](https://dev.to/ji_ai/writing-a-claude-code-book-with-claude-code-when-posttooluse-hooks-loop-25-times-4h46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
