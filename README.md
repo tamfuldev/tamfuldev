@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AI Agent Eval Tools After Promptfoo&#39;s Exit](https://dev.to/nebulagg/top-5-ai-agent-eval-tools-after-promptfoos-exit-576i)
-- [I Built a Voice-First AI Photo &amp; Document Editor with the Gemini Live API— Here&#39;s How](https://dev.to/bizzi_cole87_26ec228487d6/i-built-a-voice-first-ai-photo-document-editor-with-gemini-live-heres-how-dab)
-- [Publishing OAS-Based API Doc on GitHub Pages](https://dev.to/kengo_hakomori_1116/publishing-oas-based-api-doc-on-github-pages-2gb6)
-- [Building a Serverless Command Bus / Workflow Backbone for Microservices](https://dev.to/aws-builders/building-a-serverless-command-bus-workflow-backbone-for-microservices-599b)
-- [Why Your Laravel App is &quot;Heavy&quot; &lpar;and How to Fix it in 5 Minutes&rpar;](https://dev.to/ilhammmaulana/why-your-laravel-app-is-heavy-and-how-to-fix-it-in-5-minutes-5j6)
+- [The Secret Life of Claude Code: Reading Code You Didn&#39;t Write](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb)
+- [ChangeTrail – Open-source unified change timeline for incident response](https://dev.to/cvemula1/changetrail-open-source-unified-change-timeline-for-incident-response-1d3i)
+- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
+- [Why Claude Code Skills Don&#39;t Trigger &lpar;And How to Fix Them in 2026&rpar;](https://dev.to/lizechengnet/why-claude-code-skills-dont-trigger-and-how-to-fix-them-in-2026-o7h)
+- [We audit our code regularly, why don&#39;t we audit our monitoring?](https://dev.to/paulg7516/we-audit-our-code-regularly-why-dont-we-audit-our-monitoring-lfh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
