@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
-- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
-- [The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems](https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af)
-- [WebMCP and WebAI: Exploring native AI tools in Chrome](https://dev.to/kevin-uehara/webmcp-and-webai-exploring-native-ai-tools-in-chrome-4ocf)
-- [75% of resumes get rejected by ATS before a human sees them — here&#39;s how to check yours for](https://dev.to/kzahiri/75-of-resumes-get-rejected-by-ats-before-a-human-sees-them-heres-how-to-check-yours-for-5e1a)
+- [MCP Design in the Real World](https://dev.to/lihsuanlung/mcp-design-in-the-real-world-3446)
+- [Running LLMs Locally: A Rigorous Benchmark of Phi-3, Mistral, and Llama 3.2 on Ollama](https://dev.to/gurjeet333/running-llms-locally-a-rigorous-benchmark-of-phi-3-mistral-and-llama-32-on-ollama-2289)
+- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
+- [Vibe Coding Gets You 70% There. Here&#39;s What Happens to the Other 30%.](https://dev.to/totalvaluegroup/vibe-coding-gets-you-70-thereai-programming-webdev-productivity-heres-what-happens-to-the-1lco)
+- [Optimising Docker Builds for Go](https://dev.to/n0npax/optimising-docker-builds-for-go-4i9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
