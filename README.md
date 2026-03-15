@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Domain-Specific AI Often Outperforms General Models](https://dev.to/natan_vidra/why-domain-specific-ai-often-outperforms-general-models-33dk)
-- [Building a QR Code Generator with 10 Content Types and Scan Analytics](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-generator-with-10-content-types-and-scan-analytics-1dfg)
-- [mediaforge — A Modern TypeScript FFmpeg Wrapper &lpar;fluent-ffmpeg is Dead, Long Live mediaforge&rpar;](https://dev.to/globaltechinfo/mediaforge-a-modern-typescript-ffmpeg-wrapper-fluent-ffmpeg-is-dead-long-live-mediaforge-5ajm)
-- [WEFT OS – Rethinking “Firefox OS” For 2026](https://dev.to/marcoallegretti/weft-os-rethinking-firefox-os-for-2026-1aai)
-- [Why Every Agent Needs A Transmission Protocol](https://dev.to/popvilla/why-every-agent-needs-a-transmission-protocol-2cj8)
+- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
+- [Tool Every Developer Should Know: Netcat](https://dev.to/vkimutai/tool-every-developer-should-know-netcat-1a9k)
+- [Git Archaeology #16 — The Engineers Who Shape Gravity](https://dev.to/machuz/git-archaeology-16-the-engineers-who-shape-gravity-3fmi)
+- [Why We Built HttpArena — A Better Way to Benchmark HTTP Frameworks](https://dev.to/fbio_reis_355b87b508598e/why-we-built-httparena-a-better-way-to-benchmark-http-frameworks-j94)
+- [Deploying a Web Application using AWS EC2 and Application Load Balancer – Hands-on Project](https://dev.to/sushant_deshpande/deploying-a-web-application-using-aws-ec2-and-application-load-balancer-hands-on-project-563e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
