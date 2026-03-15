@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Design pattern visualization: Structural Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-structural-design-patterns-1863)
-- [Self-Host n8n for $5/month: Complete Setup Guide &lpar;Docker + Caddy + HTTPS&rpar;](https://dev.to/automatewithai/self-host-n8n-for-5month-complete-setup-guide-docker-caddy-https-4pcl)
-- [Building Parallax: The Vision-Powered UI Navigator Agent](https://dev.to/vanichitkara/building-parallax-the-vision-powered-ui-navigator-agent-1id2)
-- [Building a Multi-Agent LLM Orchestrator with Claude Code: 86 Sessions of Hard-Won Lessons](https://dev.to/ji_ai/building-a-multi-agent-llm-orchestrator-with-claude-code-86-sessions-of-hard-won-lessons-13n6)
-- [Writing a Claude Code Book with Claude Code: When PostToolUse Hooks Loop 25 Times](https://dev.to/ji_ai/writing-a-claude-code-book-with-claude-code-when-posttooluse-hooks-loop-25-times-4h46)
+- [Build Websites, Games, and Teaching Resources With Google Gemini for Free &lpar;No Coding Required&rpar;](https://dev.to/debs_obrien/build-websites-games-and-teaching-resources-with-google-gemini-for-free-no-coding-required-3gld)
+- [Building Iris: A Real-Time Spatial Awareness Agent with the Gemini Live API](https://dev.to/aditya_mishra_1919/building-iris-a-real-time-spatial-awareness-agent-with-the-gemini-live-api-1869)
+- [What should an agent capability bench test?](https://dev.to/openwalrus/what-should-an-agent-capability-bench-test-1mbl)
+- [A Funeral for the Coder](https://dev.to/hashemi_soroush/a-funeral-for-the-coder-320k)
+- [NotionClip AI — A Chrome Extension That Saves Webpages to Notion with AI Summaries](https://dev.to/rehmanstackdev/notionclip-ai-a-chrome-extension-that-saves-webpages-to-notion-with-ai-summaries-4ed2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
