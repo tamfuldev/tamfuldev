@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What if the TV App of the Future Isn&#39;t an App but It&#39;s a Conversation?](https://dev.to/giolaq/what-if-the-tv-app-of-the-future-isnt-an-app-but-its-a-conversation-2gkk)
-- [Your AI Agent Has Amnesia. Here&#39;s the Fix.](https://dev.to/neocortexdev/your-ai-agent-has-amnesia-heres-the-fix-4pl3)
-- [I built a SaaS in 3 days with Claude Code as a CS student - here&#39;s exactly what happened](https://dev.to/ivicago5/i-built-a-saas-in-3-days-with-claude-code-as-a-cs-student-heres-exactly-what-happened-20pa)
-- [The Vibe Coding Security Checklist: 10 Checks to Run Before You Ship AI-Generated Code](https://dev.to/toniantunovic/the-vibe-coding-security-checklist-10-checks-to-run-before-you-ship-ai-generated-code-2abn)
-- [The Biggest AI Productivity Hack? Doing What We Should Have Done All Along](https://dev.to/olliechurch/the-biggest-ai-productivity-hack-doing-what-we-should-have-done-all-along-b9i)
+- [The Physics of Quiet Ambition: What It Means to Defy Entropy](https://dev.to/dev31_/the-physics-of-quiet-ambition-what-it-means-to-defy-entropy-2lg9)
+- [An AI That Turns a Parent&#39;s Voice Into a Personalised Illustrated Storybook](https://dev.to/talha666tahir/an-ai-that-turns-a-parents-voice-into-a-personalised-illustrated-storybook-4ik2)
+- [Getting started with GitHub Copilot part 2, streamable responses](https://dev.to/softchris/getting-started-with-github-copilot-part-2-streamable-responses-49a8)
+- [JAVA AWT AND HOW IT&#39;S USED](https://dev.to/shelomith-anyango/java-awt-and-how-its-used-2fa3)
+- [COLORS: Inspired By Anitta | A COLORS INTERVIEW](https://dev.to/music_youtube/colors-inspired-by-anitta-a-colors-interview-3bo6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
