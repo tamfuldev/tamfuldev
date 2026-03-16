@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Physics of Quiet Ambition: What It Means to Defy Entropy](https://dev.to/dev31_/the-physics-of-quiet-ambition-what-it-means-to-defy-entropy-2lg9)
-- [An AI That Turns a Parent&#39;s Voice Into a Personalised Illustrated Storybook](https://dev.to/talha666tahir/an-ai-that-turns-a-parents-voice-into-a-personalised-illustrated-storybook-4ik2)
-- [Getting started with GitHub Copilot part 2, streamable responses](https://dev.to/softchris/getting-started-with-github-copilot-part-2-streamable-responses-49a8)
-- [JAVA AWT AND HOW IT&#39;S USED](https://dev.to/shelomith-anyango/java-awt-and-how-its-used-2fa3)
-- [COLORS: Inspired By Anitta | A COLORS INTERVIEW](https://dev.to/music_youtube/colors-inspired-by-anitta-a-colors-interview-3bo6)
+- [I built a privacy-first developer toolbox — 50+ tools, all in your browser](https://dev.to/mike_sheldon_df4e6cb23804/i-built-a-privacy-first-developer-toolbox-50-tools-all-in-your-browser-4g4l)
+- [I Asked My AI Agent to Update My E-Ink Display. It Just Did It.](https://dev.to/andreagriffiths11/i-asked-my-ai-agent-to-update-my-e-ink-display-it-just-did-it-b5l)
+- [Building LARS: A Voice-First AI Agent for Food Safety Labs](https://dev.to/ahmed_sadek_66537ae36bf3a/building-lars-a-voice-first-ai-agent-for-food-safety-labs-4bie)
+- [We Built a Free AI SEO Audit Tool — Here&#39;s What We Learned Scanning 500+ Sites](https://dev.to/joshua_gutierrez/we-built-a-free-ai-seo-audit-tool-heres-what-we-learned-scanning-500-sites-58ag)
+- [Building NousyBooks: How I Used 6 Gemini Models to Create Personalized Children&#39;s Storybooks](https://dev.to/vinay_guda/building-nousybooks-how-i-used-6-gemini-models-to-create-personalized-childrens-storybooks-5fn2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
