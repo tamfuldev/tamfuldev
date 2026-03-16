@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Owlyn: Building a Multimodal Agent Ecosystem for Live Technical Interviews and Real-Time Assistance #GeminiLiveAgentChallenge](https://dev.to/rahmannugar/owlyn-building-a-multimodal-agent-ecosystem-for-live-technical-interviews-and-real-time-assistance-15hg)
-- [How I’m keeping my open-source local AI app alive &lpar;and hardcoding my supporters into the UI&rpar;](https://dev.to/chadders13/how-im-keeping-my-open-source-local-ai-app-alive-and-hardcoding-my-supporters-into-the-ui-n08)
-- [Hackeando en 8 bits &lpar;y IV&rpar;](https://dev.to/baltasarq/hackeando-en-8-bits-y-iv-9hi)
-- [The Legacy of Tony Hoare: Innovator of Quicksort and the Concept of Null](https://dev.to/dd8888/the-legacy-of-tony-hoare-innovator-of-quicksort-and-the-concept-of-null-2ejp)
-- [AWS CDK Constructs Explained: L1, L2, and L3 with Python](https://dev.to/aws-builders/aws-cdk-constructs-explained-l1-l2-and-l3-with-python-4ie8)
+- [Intro About Java Script](https://dev.to/deva_i_932c8869ada96d4c9f/intro-about-java-script-16ad)
+- [Our first hackathon where we actually had to think like a startup](https://dev.to/leelaakash9/our-first-hackathon-where-we-actually-had-to-think-like-a-startup-3lp6)
+- [Everyone’s raising their AI lobster. Not everyone has a server to run it on.](https://dev.to/pardnchiu/everyones-raising-their-ai-lobster-not-everyone-has-a-server-to-run-it-on-n9d)
+- [Building Complex, Excel-Style Data Tables with PDF &amp; Excel Exports in Flutter 📊](https://dev.to/mehedisoftdev/building-complex-excel-style-data-tables-with-pdf-excel-exports-in-flutter-24oe)
+- [Remote MCP Adapter v0.3.0: When a Gateway Becomes a Security Boundary](https://dev.to/deathsaber/remote-mcp-adapter-v030-when-a-gateway-becomes-a-security-boundary-2nij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
