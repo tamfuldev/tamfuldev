@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PAI x Notion: When 13 AI Agents Share a Brain](https://dev.to/paifamily/pai-x-notion-when-13-ai-agents-share-a-brain-6af)
-- [I built Aquilia, a modular backend framework for Python](https://dev.to/kuroyami/i-built-aquilia-a-modular-backend-framework-for-python-1bop)
-- [Browser Fingerprinting on Adult Sites: What I Found After 130 Blacklight Scans](https://dev.to/o_aoarcom_c78fc0b85aa5/browser-fingerprinting-on-adult-sites-what-i-found-after-130-blacklight-scans-3dfp)
-- [CodeRabbit vs Bito: AI Code Review Comparison for 2026](https://dev.to/rahulxsingh/coderabbit-vs-bito-ai-code-review-comparison-for-2026-3p05)
-- [How designing a CPU made me code better](https://dev.to/nullora/how-designing-a-cpu-made-me-code-better-3lle)
+- [Supabase Quick Docs](https://dev.to/xiaoguang_/supabase-quick-docs-2dmj)
+- [BIAN: estructurando el negocio bancario y su encaje con DDD y microservicios](https://dev.to/jlarizar/bian-estructurando-el-negocio-bancario-y-su-encaje-con-ddd-y-microservicios-105m)
+- [Using PageBolt with Windsurf Cascade Agents](https://dev.to/custodiaadmin/using-pagebolt-with-windsurf-cascade-agents-523g)
+- [Hashicorp Vault CLI Part 7: Authentication](https://dev.to/admantium/hashicorp-vault-cli-part-7-authentication-2k33)
+- [Deploying a full, three-tier book review web app on Azure](https://dev.to/duru_julietchinenye_349f/deploying-a-full-three-tier-book-review-web-app-on-azure-j3h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
