@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I synced real-time CS2 predictions with Twitch stream delay](https://dev.to/elomarket/how-i-synced-real-time-cs2-predictions-with-twitch-stream-delay-53lg)
-- [SQL Injection – with filter bypass via XML encoding | PortSwigger Lab Note #11](https://dev.to/kenny-cipher/sql-injection-with-filter-bypass-via-xml-encoding-portswigger-lab-note-11-2khh)
-- [How to build a Next.js SEO pipeline with programmatic content](https://dev.to/autoblogwriter/how-to-build-a-nextjs-seo-pipeline-with-programmatic-content-223c)
-- [Feedback Loops: The Quiet Force Shaping AI System Behavior](https://dev.to/hollowhouse/feedback-loops-the-quiet-force-shaping-ai-system-behavior-2enl)
-- [Governance Drift: The Hidden Failure Mode of AI Systems](https://dev.to/hollowhouse/governance-drift-the-hidden-failure-mode-of-ai-systems-jdi)
+- [PAI x Notion: When 13 AI Agents Share a Brain](https://dev.to/paifamily/pai-x-notion-when-13-ai-agents-share-a-brain-6af)
+- [I built Aquilia, a modular backend framework for Python](https://dev.to/kuroyami/i-built-aquilia-a-modular-backend-framework-for-python-1bop)
+- [Browser Fingerprinting on Adult Sites: What I Found After 130 Blacklight Scans](https://dev.to/o_aoarcom_c78fc0b85aa5/browser-fingerprinting-on-adult-sites-what-i-found-after-130-blacklight-scans-3dfp)
+- [CodeRabbit vs Bito: AI Code Review Comparison for 2026](https://dev.to/rahulxsingh/coderabbit-vs-bito-ai-code-review-comparison-for-2026-3p05)
+- [How designing a CPU made me code better](https://dev.to/nullora/how-designing-a-cpu-made-me-code-better-3lle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
