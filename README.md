@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Quick Docs](https://dev.to/xiaoguang_/supabase-quick-docs-2dmj)
-- [BIAN: estructurando el negocio bancario y su encaje con DDD y microservicios](https://dev.to/jlarizar/bian-estructurando-el-negocio-bancario-y-su-encaje-con-ddd-y-microservicios-105m)
-- [Using PageBolt with Windsurf Cascade Agents](https://dev.to/custodiaadmin/using-pagebolt-with-windsurf-cascade-agents-523g)
-- [Hashicorp Vault CLI Part 7: Authentication](https://dev.to/admantium/hashicorp-vault-cli-part-7-authentication-2k33)
-- [Deploying a full, three-tier book review web app on Azure](https://dev.to/duru_julietchinenye_349f/deploying-a-full-three-tier-book-review-web-app-on-azure-j3h)
+- [🔁 Migrating to Tekton: This blog post is about my experience migrating from Travis CI to Tekton.](https://dev.to/denesbeck/migrating-to-tekton-this-blog-post-is-about-my-experience-migrating-from-travis-ci-to-tekton-167a)
+- [Run Your Own ChatGPT Offline: Open WebUI + Ollama + Local Knowledge Base](https://dev.to/addwebsolutionpvtltd/run-your-own-chatgpt-offline-open-webui-ollama-local-knowledge-base-467g)
+- [Integrating Scalar API Documentation in ASP.NET Core](https://dev.to/adnanalemran/integrating-scalar-api-j59)
+- [Build an F1 Pit Wall Display with ESP32 CYD and OpenF1 API](https://dev.to/devasservice/build-an-f1-pit-wall-display-with-esp32-cyd-and-openf1-api-88m)
+- [COSMIC and WEFT OS: Two Ways to Build a Rust Desktop &lpar;Smithay, Wayland, Servo&rpar;](https://dev.to/marcoallegretti/cosmic-and-weft-os-two-ways-to-build-a-rust-desktop-smithay-wayland-servo-3kbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
