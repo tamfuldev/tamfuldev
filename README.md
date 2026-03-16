@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Where Does Your Medication Data Actually Go? The Case for Local-First Architecture](https://dev.to/wellnestapp/where-does-your-medication-data-actually-go-the-case-for-local-first-architecture-5a8i)
-- [Should One User Be Able to Add Multiple Reactions on the Same Post? 🤔](https://dev.to/maibhushan/should-one-user-be-able-to-add-multiple-reactions-on-the-same-post-25e7)
-- [Where Improvements Meet Innovation - Part 1](https://dev.to/sleewoo/where-improvements-meet-innovation-part-1-4d2j)
-- [Stop sending your code to the cloud to find bugs](https://dev.to/mrspidey0311/stop-sending-your-code-to-the-cloud-to-find-bugs-ff6)
-- [Every LLM App Is Just a Markdown-and-Code Sandwich](https://dev.to/shimo4228/every-llm-app-is-just-a-markdown-and-code-sandwich-213j)
+- [A self-hosted financial system for freelancers](https://dev.to/palks_studio/a-self-hosted-financial-system-for-freelancers-4b27)
+- [System-Wide STT for Linux: Speak to AI](https://dev.to/ashbuk/system-wide-stt-for-linux-speak-to-ai-2f63)
+- [KEXP: Queralt Lahoz - LA FE &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-queralt-lahoz-la-fe-live-on-kexp-30l1)
+- [Discovery Chain Benchmark: 13 AI Models, 96% Recognition Rate](https://dev.to/studiomeyer-io/discovery-chain-benchmark-13-ai-models-96-recognition-rate-2om7)
+- [Vibe Coding: What It Is, Where It Comes From, and What It Can Really Do](https://dev.to/studiomeyer-io/vibe-coding-what-it-is-where-it-comes-from-and-what-it-can-really-do-ld7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
