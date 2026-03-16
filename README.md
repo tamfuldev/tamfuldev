@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Xoul - Building a Local AI Agent Platform with Small LLMs: The Walls of Tool Calling and Practical Solutions](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-building-a-local-ai-agent-platform-with-small-llms-the-walls-of-tool-calling-and-practical-11fb)
-- [An Autonomous, Agentic, AI Assistant, Meet Alfred and this is how I built him.](https://dev.to/joojodontoh/an-autonomous-agentic-ai-assistant-meet-alfred-and-this-is-how-i-built-him-4e7m)
-- [The Problem with AI Tests That Don&#39;t Know Your App](https://dev.to/cypress/the-problem-with-ai-tests-that-dont-know-your-app-2iga)
-- [How I turned approved SQL into governed business KPIs](https://dev.to/vincenzo_nudo_842cddd9973/how-i-turned-approved-sql-into-governed-business-kpis-4673)
-- [Understanding the JavaScript Window Object](https://dev.to/bhupeshchandrajoshi/understanding-the-javascript-window-object-jd5)
+- [How to explain React hooks in interviews](https://dev.to/krzysztof_fraus/how-to-explain-react-hooks-in-interviews-odo)
+- [StudyMate AI - Memory-Powered AI Study Companion](https://dev.to/amirtha_ganesh_872f5e2dfc/studymate-ai-memory-powered-ai-study-companion-9pp)
+- [The CLAUDE.md routing pattern: keep it minimal, delegate the rest](https://dev.to/builtbyzac/the-claudemd-routing-pattern-keep-it-minimal-delegate-the-rest-388a)
+- [How to Configure Multi-Display with Virt-Manager and Virt-Viewer &lpar;Linux&rpar;](https://dev.to/sonandrew/show-to-configure-multi-display-with-virt-manager-and-virt-viewer-linux-jk7)
+- [Kubernetes 1.35 Removes the Restart Tax — Why Stateful Workloads Just Got Easier to Operate](https://dev.to/ntctech/kubernetes-135-removes-the-restart-tax-why-stateful-workloads-just-got-easier-to-operate-59m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
