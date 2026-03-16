@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reusable Architecture for Large Applications with Nuxt Layers](https://dev.to/jacobandrewsky/reusable-architecture-for-large-applications-with-nuxt-layers-1a46)
-- [Client Handover - simplified](https://dev.to/sabrkei/client-handover-simplified-206)
-- [Color Palette – Create, Save &amp; Export Color Schemes Online](https://dev.to/freecolortheory/color-palette-create-save-export-color-schemes-online-1b73)
-- [neither naive nor nostalgic](https://dev.to/ingosteinke/neither-naive-nor-nostalgic-1mmp)
-- [🏢 IBM Tech 2024 Conference: Insights and takeaways from the IBM Tech 2024 conference.](https://dev.to/denesbeck/ibm-tech-2024-conference-insights-and-takeaways-from-the-ibm-tech-2024-conference-48kl)
+- [How I Built a Complete Multi-Tenancy System for My Laravel SaaS - Without Spatie](https://dev.to/d_isaenko_dev/how-i-built-a-complete-multi-tenancy-system-for-my-laravel-saas-without-spatie-227a)
+- [Moveet: incidents, recording &amp; replay, fleet management, dispatch flows, and 500+ tests](https://dev.to/ivannovazzi/moveet-v2-incidents-recording-replay-icon-rail-ui-and-500-tests-5fl5)
+- [How to Add Swap Space on Ubuntu &lpar;5GB Example&rpar;](https://dev.to/jervi/how-to-add-swap-space-on-ubuntu-5gb-example-3f1n)
+- [Ship Your Product Documentation Into Customer&#39;s Chat Client](https://dev.to/thehayashi/ship-your-product-documentation-into-customers-chat-client-3lhf)
+- [🚀 Auto-Compile FSCSS to CSS with GitHub Actions + GitHub Pages](https://dev.to/fscss-ttr/auto-compile-fscss-to-css-with-github-actions-github-pages-4e0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
