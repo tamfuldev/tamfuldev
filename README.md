@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Claude Code: Reading Code You Didn&#39;t Write](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb)
-- [ChangeTrail – Open-source unified change timeline for incident response](https://dev.to/cvemula1/changetrail-open-source-unified-change-timeline-for-incident-response-1d3i)
-- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
-- [Why Claude Code Skills Don&#39;t Trigger &lpar;And How to Fix Them in 2026&rpar;](https://dev.to/lizechengnet/why-claude-code-skills-dont-trigger-and-how-to-fix-them-in-2026-o7h)
-- [We audit our code regularly, why don&#39;t we audit our monitoring?](https://dev.to/paulg7516/we-audit-our-code-regularly-why-dont-we-audit-our-monitoring-lfh)
+- [How I synced real-time CS2 predictions with Twitch stream delay](https://dev.to/elomarket/how-i-synced-real-time-cs2-predictions-with-twitch-stream-delay-53lg)
+- [SQL Injection – with filter bypass via XML encoding | PortSwigger Lab Note #11](https://dev.to/kenny-cipher/sql-injection-with-filter-bypass-via-xml-encoding-portswigger-lab-note-11-2khh)
+- [How to build a Next.js SEO pipeline with programmatic content](https://dev.to/autoblogwriter/how-to-build-a-nextjs-seo-pipeline-with-programmatic-content-223c)
+- [Feedback Loops: The Quiet Force Shaping AI System Behavior](https://dev.to/hollowhouse/feedback-loops-the-quiet-force-shaping-ai-system-behavior-2enl)
+- [Governance Drift: The Hidden Failure Mode of AI Systems](https://dev.to/hollowhouse/governance-drift-the-hidden-failure-mode-of-ai-systems-jdi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
