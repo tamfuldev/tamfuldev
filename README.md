@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Introduction to PyTorch](https://dev.to/0byte/visual-introduction-to-pytorch-43jm)
-- [AWS in March 2026: The Biggest Updates Developers Can&#39;t Ignore](https://dev.to/devops_descent/aws-in-march-2026-the-biggest-updates-developers-cant-ignore-plf)
-- [Starting a Next.js Project? These are the best Templates](https://dev.to/rakesh_nakrani/starting-a-nextjs-project-these-are-the-best-templates-developers-recommend-550f)
-- [How to Make Your Business Documents Legally ADA Compliant](https://dev.to/brianna_collins/how-to-make-your-business-documents-legally-ada-compliant-3obk)
-- [How Your Microservice Actually Gets Deployed on Kubernetes &lpar;Model 1 vs Model 2&rpar;](https://dev.to/sourav3366/real-world-kuberneteseks-deployment-architectures-end-to-end-guide-b4k)
+- [Where Does Your Medication Data Actually Go? The Case for Local-First Architecture](https://dev.to/wellnestapp/where-does-your-medication-data-actually-go-the-case-for-local-first-architecture-5a8i)
+- [Should One User Be Able to Add Multiple Reactions on the Same Post? 🤔](https://dev.to/maibhushan/should-one-user-be-able-to-add-multiple-reactions-on-the-same-post-25e7)
+- [Where Improvements Meet Innovation - Part 1](https://dev.to/sleewoo/where-improvements-meet-innovation-part-1-4d2j)
+- [Stop sending your code to the cloud to find bugs](https://dev.to/mrspidey0311/stop-sending-your-code-to-the-cloud-to-find-bugs-ff6)
+- [Every LLM App Is Just a Markdown-and-Code Sandwich](https://dev.to/shimo4228/every-llm-app-is-just-a-markdown-and-code-sandwich-213j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
