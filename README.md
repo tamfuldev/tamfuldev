@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to explain React hooks in interviews](https://dev.to/krzysztof_fraus/how-to-explain-react-hooks-in-interviews-odo)
-- [StudyMate AI - Memory-Powered AI Study Companion](https://dev.to/amirtha_ganesh_872f5e2dfc/studymate-ai-memory-powered-ai-study-companion-9pp)
-- [The CLAUDE.md routing pattern: keep it minimal, delegate the rest](https://dev.to/builtbyzac/the-claudemd-routing-pattern-keep-it-minimal-delegate-the-rest-388a)
-- [How to Configure Multi-Display with Virt-Manager and Virt-Viewer &lpar;Linux&rpar;](https://dev.to/sonandrew/show-to-configure-multi-display-with-virt-manager-and-virt-viewer-linux-jk7)
-- [Kubernetes 1.35 Removes the Restart Tax — Why Stateful Workloads Just Got Easier to Operate](https://dev.to/ntctech/kubernetes-135-removes-the-restart-tax-why-stateful-workloads-just-got-easier-to-operate-59m7)
+- [Owlyn: Building a Multimodal Agent Ecosystem for Live Technical Interviews and Real-Time Assistance #GeminiLiveAgentChallenge](https://dev.to/rahmannugar/owlyn-building-a-multimodal-agent-ecosystem-for-live-technical-interviews-and-real-time-assistance-15hg)
+- [How I’m keeping my open-source local AI app alive &lpar;and hardcoding my supporters into the UI&rpar;](https://dev.to/chadders13/how-im-keeping-my-open-source-local-ai-app-alive-and-hardcoding-my-supporters-into-the-ui-n08)
+- [Hackeando en 8 bits &lpar;y IV&rpar;](https://dev.to/baltasarq/hackeando-en-8-bits-y-iv-9hi)
+- [The Legacy of Tony Hoare: Innovator of Quicksort and the Concept of Null](https://dev.to/dd8888/the-legacy-of-tony-hoare-innovator-of-quicksort-and-the-concept-of-null-2ejp)
+- [AWS CDK Constructs Explained: L1, L2, and L3 with Python](https://dev.to/aws-builders/aws-cdk-constructs-explained-l1-l2-and-l3-with-python-4ie8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
