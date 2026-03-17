@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Sweet Spot Is 30% AI, 70% Human](https://dev.to/buonoatsushi/the-sweet-spot-is-30-ai-70-human-54c)
-- [Your AI Agent Has Been Coding Blind. Chrome Just Gave It Eyes.](https://dev.to/adioof/your-ai-agent-has-been-coding-blind-chrome-just-gave-it-eyes-49la)
-- [Private-First AI: Building a Browser-Based Mental Health Classifier with WebLLM and WebGPU](https://dev.to/beck_moulton/private-first-ai-building-a-browser-based-mental-health-classifier-with-webllm-and-webgpu-4ai2)
-- [SurrealDB: Why JOINs are So 2010 and How Graphs Change Everything &lpar;Part 3&rpar;](https://dev.to/jakubb_ing/surrealdb-why-joins-are-so-2010-and-how-graphs-change-everything-part-3-24k3)
-- [I built an encyclopedia of 376 psychoactive substances with Next.js and PostgreSQL](https://dev.to/yagcioglutoprak/i-built-an-encyclopedia-of-376-psychoactive-substances-with-nextjs-and-postgresql-1cj7)
+- [I Vibe Coded a Balloon Popping Game Using Claude AI 🎈](https://dev.to/blinknbuild/i-vibe-coded-a-balloon-popping-game-using-claude-ai-2l42)
+- [CodeRabbit vs GitHub Copilot for Code Review &lpar;2026&rpar;](https://dev.to/rahulxsingh/coderabbit-vs-github-copilot-for-code-review-2026-3n8c)
+- [Building a Serverless SEO Metadata Analyzer at the Edge](https://dev.to/smailhachami174/building-a-serverless-seo-metadata-analyzer-at-the-edge-566)
+- [How AI Automation Turned a Food Truck’s Inspection Panic into Poise](https://dev.to/ken_deng_ai/how-ai-automation-turned-a-food-trucks-inspection-panic-into-poise-df)
+- [How to Sell Services to AI Agents | x402 Goes Live On The Stellar Network](https://dev.to/jamesbachini/how-to-sell-services-to-ai-agents-x402-goes-live-on-the-stellar-network-12a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
