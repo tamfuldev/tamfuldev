@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Template Literals in JavaScript](https://dev.to/anoop-rajoriya/template-literals-in-javascript-3pje)
-- [How I Solved WebSocket &quot;Event Drift&quot; in React with a Custom NPM Package](https://dev.to/kumarpankaj3404/how-i-solved-websocket-event-drift-in-react-with-a-custom-npm-package-1eeh)
-- [Detecting When Smart Money Stops Being Smart](https://dev.to/reneza/detecting-when-smart-money-stops-being-smart-21n3)
-- [GitHub Copilot Completes a Real Code Review &lpar;Claude Sonnet 4.5&rpar;](https://dev.to/incomplete_developer/github-copilot-completes-a-real-code-review-claude-sonnet-45-3250)
-- [I built a Chrome extension to stop switching between Stripe and Lemon Squeezy dashboards](https://dev.to/itsameando/i-built-a-chrome-extension-to-stop-switching-between-stripe-and-lemon-squeezy-dashboards-3oip)
+- [How is Leyden improving Java Performance? Part 3 of 3](https://dev.to/delawen/how-is-leyden-improving-java-performance-part-3-of-3-2mo2)
+- [I Removed Redis From My Stack and Used PostgreSQL for Job Queues Instead](https://dev.to/aws-builders/i-removed-redis-from-my-stack-and-used-postgresql-for-job-queues-instead-2lp5)
+- [Anyone knows about aws cloud support role? what skills needed?](https://dev.to/shisya/anyone-knows-about-aws-cloud-support-role-what-skills-needed-4ig0)
+- [Cross-site scripting – Reflected XSS into HTML context with most tags and attributes blocked | PortSwigger Lab Note #1](https://dev.to/kenny-cipher/cross-site-scripting-reflected-xss-into-html-context-with-most-tags-and-attributes-blocked--13pi)
+- [Local AI Is the Solopreneur&#39;s Secret Weapon](https://dev.to/caminhosolo/local-ai-is-the-solopreneurs-secret-weapon-344f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
