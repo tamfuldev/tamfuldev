@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A practical guide to implementing a Fastify modular project — Part 1 Technology Selection](https://dev.to/ferns/a-practical-guide-to-implementing-a-fastify-modular-project-part-1-technology-selection-3nk0)
-- [RendrKit: The Open-Source Alternative to Bannerbear](https://dev.to/mokyio/rendrkit-the-open-source-alternative-to-bannerbear-4in1)
-- [Spec-Driven Development: Introduction](https://dev.to/incomplete_developer/spec-driven-development-introduction-23i7)
-- [Achieving organisation-scoped AWS Config compliance using Cloudformation Lambda Hooks](https://dev.to/aws-builders/achieving-organisation-scoped-aws-config-compliance-using-cloudformation-lambda-hooks-afo)
-- [Operation Epic Fury: the Iranian C2 nobody found &lpar;0/94 VT, RDTSC sandbox evasion, 8 months pre-op&rpar;](https://dev.to/paolocostanzo/operation-epic-fury-the-iranian-c2-nobody-found-094-vt-rdtsc-sandbox-evasion-8-months-pre-op-13nc)
+- [5 Architecture Patterns for Production AI Agents &lpar;That Actually Work&rpar;](https://dev.to/diven_rastdus_c5af27d68f3/5-architecture-patterns-for-production-ai-agents-that-actually-work-4ifg)
+- [21 Tools. Zero Product. That Changes Today.](https://dev.to/0coceo/21-tools-zero-product-that-changes-today-432m)
+- [I built free SaaS churn tools &lpar;and realised most benchmarks are useless&rpar;](https://dev.to/robinweller/i-built-free-saas-churn-calculators-and-realised-most-benchmarks-are-useless-567m)
+- [How I Built an AI PDF Summarizer on Cloudflare Edge &lpar;Next.js + next-auth v5&rpar;](https://dev.to/xiaowei_f1158ef66ba40e6e0/how-i-built-an-ai-pdf-summarizer-on-cloudflare-edge-nextjs-next-auth-v5-1j5j)
+- [Beyond Copy-Paste: Why AI Agents Need a Compiler and Governance Flow](https://dev.to/jz_er/beyond-copy-paste-why-ai-agents-need-a-compiler-and-governance-flow-3dg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
