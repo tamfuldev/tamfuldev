@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Snakes &amp; Gophers — A Python Dev&#39;s Guide to Thinking in Go](https://dev.to/yogesh_k/snakes-gophers-a-python-devs-guide-to-thinking-in-go-3dga)
-- [Build a Social Media Data Pipeline That Actually Scales](https://dev.to/olams/build-a-social-media-data-pipeline-that-actually-scales-10o8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn)
-- [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o)
-- [I Ran 23 AI Agents Simultaneously on One Codebase Overnight. Here&#39;s What Happened.](https://dev.to/agent_paaru/i-ran-23-ai-agents-simultaneously-on-one-codebase-overnight-heres-what-happened-4ph4)
+- [What did you learn from your Failure?](https://dev.to/elementalsilk/what-did-you-learn-from-your-failure-12kf)
+- [How NVIDIA Spectrum-X Ports InfiniBand Tricks to Ethernet for AI Fabrics](https://dev.to/firstpasslab/how-nvidia-spectrum-x-ports-infiniband-tricks-to-ethernet-for-ai-fabrics-3h24)
+- [I Built an Agentic Infrastructure Platform in 42 Days. I&#39;m a Windows Sysadmin.](https://dev.to/tadmstr/i-built-an-agentic-infrastructure-platform-in-42-days-im-a-windows-sysadmin-45lg)
+- [What is Infrastructure as Code and Why It&#39;s Transforming DevOps](https://dev.to/ovrobin/what-is-infrastructure-as-code-and-why-its-transforming-devops-105l)
+- [Building an AI-Powered Backlog Manager with MCP, Gemini 2.5, and Notion](https://dev.to/lumbol77/building-an-ai-powered-backlog-manager-with-mcp-gemini-25-and-notion-4jol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
