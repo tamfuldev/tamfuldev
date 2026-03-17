@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hedystia 2.0: A New Type-Safe ORM for TypeScript with Multi-Database Support](https://dev.to/zastinian/hedystia-20-a-new-type-safe-orm-for-typescript-with-multi-database-support-2pfa)
-- [I Wired Up 9 Gemini Models to Make Stories Feel Like Movies. Here&#39;s What Happened.](https://dev.to/musicksto/i-wired-up-9-gemini-models-to-make-stories-feel-like-movies-heres-what-happened-3pep)
-- [Serverless on AWS without infrastructure boilerplate](https://dev.to/hero64/serverless-on-aws-without-infrastructure-boilerplate-14ip)
-- [Voice-first PC Builder Agent Built on Gemini Live API](https://dev.to/kevinlu-swe/voice-first-pc-builder-agent-built-on-gemini-live-api-2fe8)
-- [Building Argus: A Voice-Driven SOC Copilot with Gemini Live](https://dev.to/pratima-sapkota/building-argus-a-voice-driven-soc-copilot-with-gemini-live-2np6)
+- [The Sweet Spot Is 30% AI, 70% Human](https://dev.to/buonoatsushi/the-sweet-spot-is-30-ai-70-human-54c)
+- [Your AI Agent Has Been Coding Blind. Chrome Just Gave It Eyes.](https://dev.to/adioof/your-ai-agent-has-been-coding-blind-chrome-just-gave-it-eyes-49la)
+- [Private-First AI: Building a Browser-Based Mental Health Classifier with WebLLM and WebGPU](https://dev.to/beck_moulton/private-first-ai-building-a-browser-based-mental-health-classifier-with-webllm-and-webgpu-4ai2)
+- [SurrealDB: Why JOINs are So 2010 and How Graphs Change Everything &lpar;Part 3&rpar;](https://dev.to/jakubb_ing/surrealdb-why-joins-are-so-2010-and-how-graphs-change-everything-part-3-24k3)
+- [I built an encyclopedia of 376 psychoactive substances with Next.js and PostgreSQL](https://dev.to/yagcioglutoprak/i-built-an-encyclopedia-of-376-psychoactive-substances-with-nextjs-and-postgresql-1cj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
