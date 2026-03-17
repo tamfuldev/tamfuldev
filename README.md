@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DOM in JavaScript — What Actually Happens When Your Code Runs](https://dev.to/kathirvel-s/dom-in-javascript-what-actually-happens-when-your-code-runs-213d)
-- [A 3rd year CS student&#39;s attempt to reduce AI&#39;s water footprint — EcoCache &lpar;A Python Library&rpar;](https://dev.to/ganugapatisaisowmya/a-3rd-year-cs-students-attempt-to-reduce-ais-water-footprint-ecocache-a-python-library-36gk)
-- [From 0 to Production AI Agent in 30 Minutes — Full-Stack Template with 5 AI Frameworks](https://dev.to/deenuu1/from-0-to-production-ai-agent-in-30-minutes-full-stack-template-with-5-ai-frameworks-3b4o)
-- [Claude Code stops to ask permission before every shell command. Here&#39;s the two-line fix.](https://dev.to/builtbyzac/claude-code-stops-to-ask-permission-before-every-shell-command-heres-the-two-line-fix-3oo5)
-- [5 Python Scripts That Automate Your Freelance Workflow With AI](https://dev.to/klement_gunndu/5-python-scripts-that-automate-your-freelance-workflow-with-ai-4j9b)
+- [You spent days on your JIRA ticket or GitHub issue... only to be told to redo it after your team lead reviewed your code?](https://dev.to/canro91/you-spent-days-on-your-jira-ticket-or-github-issue-only-to-be-told-to-redo-it-after-your-team-4n3f)
+- [7 Automations You Can Set and Forget Right Now](https://dev.to/kilocode/7-automations-you-can-set-and-forget-right-now-52e0)
+- [Jeff Su: NotebookLM Changed Completely: Here&#39;s What Matters &lpar;in 2026&rpar;](https://dev.to/future_ai/jeff-su-notebooklm-changed-completely-heres-what-matters-in-2026-1573)
+- [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3)
+- [I open-sourced 5 tiny SwiftUI utilities I use in every project](https://dev.to/gonigon/i-open-sourced-5-tiny-swiftui-utilities-i-use-in-every-project-4h46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
