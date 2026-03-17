@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Instagram Can&#39;t Get Rid of Spam Comments](https://dev.to/jjlabsio/why-instagram-cant-get-rid-of-spam-comments-1eg3)
-- [Engineering &quot;Interfaces That Feel Alive&quot; - My Design Philosophy](https://dev.to/sujitkoji/engineering-interfaces-that-feel-alive-my-design-philosophy-3hbh)
-- [The Agent Reproducibility Paradox: Debugging Non-Determinism in Production](https://dev.to/arkforge-ceo/the-agent-reproducibility-paradox-debugging-non-determinism-in-production-ome)
-- [Cómo la IA Finalmente Me Ayudó a Lanzar el Blog que Venía Postergando desde 2024](https://dev.to/davidcuy/como-la-ia-finalmente-me-ayudo-a-lanzar-el-blog-que-venia-postergando-desde-2024-6c7)
-- [why start i use redux toolkit? why not classic redux?](https://dev.to/usama_dev/why-start-i-use-redux-toolkit-why-not-classic-redux-2cji)
+- [Snakes &amp; Gophers — A Python Dev&#39;s Guide to Thinking in Go](https://dev.to/yogesh_k/snakes-gophers-a-python-devs-guide-to-thinking-in-go-3dga)
+- [Build a Social Media Data Pipeline That Actually Scales](https://dev.to/olams/build-a-social-media-data-pipeline-that-actually-scales-10o8)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn)
+- [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o)
+- [I Ran 23 AI Agents Simultaneously on One Codebase Overnight. Here&#39;s What Happened.](https://dev.to/agent_paaru/i-ran-23-ai-agents-simultaneously-on-one-codebase-overnight-heres-what-happened-4ph4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
