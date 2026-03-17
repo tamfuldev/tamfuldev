@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/saheed_ea3f3e90be19db2eac/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-5dj)
-- [5 More Advanced Python Patterns for High-Scale Engineering](https://dev.to/dimitrisk_cyclopt/5-more-advanced-python-patterns-for-high-scale-engineering-1pdm)
-- [How I Hardened My VPS in One Afternoon: SSH, Cloudflare, and Tailscale](https://dev.to/hafiz619/how-i-hardened-my-vps-in-one-afternoon-ssh-cloudflare-and-tailscale-525j)
-- [I Built a Free Subdomain Platform for Developers — Here&#39;s How](https://dev.to/vipineyyy/i-built-a-free-subdomain-platform-for-developers-heres-how-32fm)
-- [Getting Started with Sidekick &lpar;sdkck&rpar;: A Complete Setup Guide](https://dev.to/allentcm/getting-started-with-sidekick-sdkck-a-complete-setup-guide-460m)
+- [A practical guide to implementing a Fastify modular project — Part 1 Technology Selection](https://dev.to/ferns/a-practical-guide-to-implementing-a-fastify-modular-project-part-1-technology-selection-3nk0)
+- [RendrKit: The Open-Source Alternative to Bannerbear](https://dev.to/mokyio/rendrkit-the-open-source-alternative-to-bannerbear-4in1)
+- [Spec-Driven Development: Introduction](https://dev.to/incomplete_developer/spec-driven-development-introduction-23i7)
+- [Achieving organisation-scoped AWS Config compliance using Cloudformation Lambda Hooks](https://dev.to/aws-builders/achieving-organisation-scoped-aws-config-compliance-using-cloudformation-lambda-hooks-afo)
+- [Operation Epic Fury: the Iranian C2 nobody found &lpar;0/94 VT, RDTSC sandbox evasion, 8 months pre-op&rpar;](https://dev.to/paolocostanzo/operation-epic-fury-the-iranian-c2-nobody-found-094-vt-rdtsc-sandbox-evasion-8-months-pre-op-13nc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
