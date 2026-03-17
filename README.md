@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How is Leyden improving Java Performance? Part 3 of 3](https://dev.to/delawen/how-is-leyden-improving-java-performance-part-3-of-3-2mo2)
-- [I Removed Redis From My Stack and Used PostgreSQL for Job Queues Instead](https://dev.to/aws-builders/i-removed-redis-from-my-stack-and-used-postgresql-for-job-queues-instead-2lp5)
-- [Anyone knows about aws cloud support role? what skills needed?](https://dev.to/shisya/anyone-knows-about-aws-cloud-support-role-what-skills-needed-4ig0)
-- [Cross-site scripting – Reflected XSS into HTML context with most tags and attributes blocked | PortSwigger Lab Note #1](https://dev.to/kenny-cipher/cross-site-scripting-reflected-xss-into-html-context-with-most-tags-and-attributes-blocked--13pi)
-- [Local AI Is the Solopreneur&#39;s Secret Weapon](https://dev.to/caminhosolo/local-ai-is-the-solopreneurs-secret-weapon-344f)
+- [DOM in JavaScript — What Actually Happens When Your Code Runs](https://dev.to/kathirvel-s/dom-in-javascript-what-actually-happens-when-your-code-runs-213d)
+- [A 3rd year CS student&#39;s attempt to reduce AI&#39;s water footprint — EcoCache &lpar;A Python Library&rpar;](https://dev.to/ganugapatisaisowmya/a-3rd-year-cs-students-attempt-to-reduce-ais-water-footprint-ecocache-a-python-library-36gk)
+- [From 0 to Production AI Agent in 30 Minutes — Full-Stack Template with 5 AI Frameworks](https://dev.to/deenuu1/from-0-to-production-ai-agent-in-30-minutes-full-stack-template-with-5-ai-frameworks-3b4o)
+- [Claude Code stops to ask permission before every shell command. Here&#39;s the two-line fix.](https://dev.to/builtbyzac/claude-code-stops-to-ask-permission-before-every-shell-command-heres-the-two-line-fix-3oo5)
+- [5 Python Scripts That Automate Your Freelance Workflow With AI](https://dev.to/klement_gunndu/5-python-scripts-that-automate-your-freelance-workflow-with-ai-4j9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
