@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What did you learn from your Failure?](https://dev.to/elementalsilk/what-did-you-learn-from-your-failure-12kf)
-- [How NVIDIA Spectrum-X Ports InfiniBand Tricks to Ethernet for AI Fabrics](https://dev.to/firstpasslab/how-nvidia-spectrum-x-ports-infiniband-tricks-to-ethernet-for-ai-fabrics-3h24)
-- [I Built an Agentic Infrastructure Platform in 42 Days. I&#39;m a Windows Sysadmin.](https://dev.to/tadmstr/i-built-an-agentic-infrastructure-platform-in-42-days-im-a-windows-sysadmin-45lg)
-- [What is Infrastructure as Code and Why It&#39;s Transforming DevOps](https://dev.to/ovrobin/what-is-infrastructure-as-code-and-why-its-transforming-devops-105l)
-- [Building an AI-Powered Backlog Manager with MCP, Gemini 2.5, and Notion](https://dev.to/lumbol77/building-an-ai-powered-backlog-manager-with-mcp-gemini-25-and-notion-4jol)
+- [Beautiful Perl feature: reusable subregexes](https://dev.to/damil/beautiful-perl-feature-reusable-subregexes-4iib)
+- [Why Your Laravel App Is Slow &lpar;And How to Fix Database Performance&rpar;](https://dev.to/ftayebee/why-your-laravel-app-is-slow-and-how-to-fix-database-performance-ac2)
+- [How I Built an AI That Turns Thoughts Into Actionable Plans](https://dev.to/tend/how-i-built-an-ai-that-turns-thoughts-into-actionable-plans-h9o)
+- [Context-Anchored Generation &lpar;CAG&rpar;: Fixing Hallucinations at the Decoding Layer](https://dev.to/salvatore_attaguile_afcf8b44/context-anchored-generation-cag-fixing-hallucinations-at-the-decoding-layer-3b6)
+- [How to Install Homebrew on Ubuntu &lpar;Step-by-Step Guide&rpar;](https://dev.to/jackline_kaunda/how-to-install-homebrew-on-ubuntu-step-by-step-guide-3mo0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
