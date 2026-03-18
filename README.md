@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Free Tools for Building AI Training Datasets — Reddit, YouTube, Wikipedia, arXiv](https://dev.to/__8ef7243a4f/free-tools-for-building-ai-training-datasets-reddit-youtube-wikipedia-arxiv-4kph)
-- [Making AI Understandable: A Beginner’s Guide to Explainable AI &lpar;XAI&rpar;](https://dev.to/pjdeveloper896/making-ai-understandable-a-beginners-guide-to-explainable-ai-xai-28m4)
-- [Automating AWS Cost Monitoring with Terraform, Lambda, and Slack](https://dev.to/copubah/automating-aws-cost-monitoring-with-terraform-lambda-and-slack-3h2o)
-- [I built a full Pokédex with Next.js and TypeScript](https://dev.to/alan_teixid_93b3e6ae3d48/i-built-a-full-pokedex-with-nextjs-and-typescript-387b)
-- [What Is TIFF? The Complete Guide to Tagged Image File Format](https://dev.to/pixotter/what-is-tiff-the-complete-guide-to-tagged-image-file-format-36km)
+- [What If You Could Test Your Web App Just by Describing What to Test?](https://dev.to/eniskovac/what-if-you-could-test-your-web-app-just-by-describing-what-to-test-d2n)
+- [Rust Data Structures Quiz: 15 Short Snippets That Test How You Think](https://dev.to/manjushaps/rust-data-structures-quiz-15-short-snippets-that-test-how-you-think-44bd)
+- [I shipped a prompt that silently exploded our API bill — so I built a linter for prompts](https://dev.to/camj78/i-shipped-a-prompt-that-silently-exploded-our-api-bill-so-i-built-a-linter-for-prompts-3310)
+- [x402 Goes Institutional: What Google + Visa Joining the Foundation Means for Agent-Native Payments](https://dev.to/nathanielc85523/x402-goes-institutional-what-google-visa-joining-the-foundation-means-for-agent-native-payments-2chb)
+- [The Illusion of Progress: Why Tooling Can’t Replace Engineering](https://dev.to/leonpennings/the-illusion-of-progress-why-tooling-cant-replace-engineering-5977)
 <!-- BLOG-POST-LIST:END -->
 
 ---
