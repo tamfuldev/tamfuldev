@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Intros Skill for OpenClaw: A Built‑In Social Network for Bots](https://dev.to/aloycwl/exploring-the-intros-skill-for-openclaw-a-built-in-social-network-for-bots-3i3c)
-- [useMemo vs useCallback - Simply Explained](https://dev.to/chemmangat/usememo-vs-usecallback-simply-explained-4k28)
-- [The Developer&#39;s Pre-Launch Checklist: 40 Things to Check Before Shipping](https://dev.to/eatyou_eatyou_d79d27e5622/the-developers-pre-launch-checklist-40-things-to-check-before-shipping-2c2m)
-- [I was tired of Spring Boot, so I built a Laravel-inspired Java framework](https://dev.to/kainovaii/i-was-tired-of-spring-boot-so-i-built-a-laravel-inspired-java-framework-335c)
-- [Snack4 JSON Streaming Parser &amp; Auto-Repair Deep Guide](https://dev.to/noear/snack4-json-streaming-parser-auto-repair-deep-guide-5ccg)
+- [$99 vs $49 vs $5: The Honest Landing Page Builder Comparison](https://dev.to/abirbuilds/99-vs-49-vs-5-the-honest-landing-page-builder-comparison-23e6)
+- [How We Built an AI Agent in 48 Hours](https://dev.to/emma_schmidt_/how-we-built-an-ai-agent-in-48-hours-1l4p)
+- [Guify: Turn Your Website into an Interactive OS Experience](https://dev.to/sanugakuruppu/guify-turn-your-website-into-an-interactive-os-experience-bnc)
+- [Linux Command Line: The Complete Cheat Sheet](https://dev.to/apaksh/linux-command-line-the-complete-cheat-sheet-pii)
+- [I Built an AI SaaS at 18 With No Money, Got Sick Three Times, and Still Shipped It](https://dev.to/abirbuilds/i-built-an-ai-saas-at-18-with-no-money-got-sick-three-times-and-still-shipped-it-3c2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
