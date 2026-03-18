@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Built this after watching Claude install packages that don&#39;t exist. Turns out closing the feedback loop is all it needed.](https://dev.to/tuckerschreiber/built-this-after-watching-claude-install-packages-that-dont-exist-turns-out-closing-the-feedback-13c5)
-- [Send task updates from an API to Slack using webhooks](https://dev.to/alex_gekas/send-task-updates-from-an-api-to-slack-using-webhooks-3ka4)
-- [AI agents are quietly building a tool registry for each other](https://dev.to/tuckerschreiber/ai-agents-are-quietly-building-a-tool-registry-for-each-other-4ph3)
-- [Selecting Impactful Open-Source Projects for Engaging Interviews: A Strategic Approach](https://dev.to/denlava/selecting-impactful-open-source-projects-for-engaging-interviews-a-strategic-approach-b19)
-- [Building Pay-Per-Call AI Agents with x402 v2.6.0](https://dev.to/nathanielc85523/building-pay-per-call-ai-agents-with-x402-v260-1j53)
+- [📝 07-1. Java Practice: Nested If-Statements &amp; Data Conversion &lpar;Login Logic!&rpar;](https://dev.to/hannalog/07-1-java-practice-nested-if-statements-data-conversion-login-logic-37d5)
+- [Small Wins Matter: Refining Steal Logic with Success and Attempt Probabilities](https://dev.to/lee12/small-wins-matter-refining-steal-logic-with-success-and-attempt-probabilities-20bj)
+- [Least Privilege Is Not Enough for AI Agents. You Need Least Agency.](https://dev.to/thenexusguard/least-privilege-is-not-enough-for-ai-agents-you-need-least-agency-38g8)
+- [I Ripped Out Docker Compose from Our ML Platform and Put Everything on EKS. Here&#39;s What Actually Happened.](https://dev.to/ramcreddy_ops/i-ripped-out-docker-compose-from-our-ml-platform-and-put-everything-on-eks-heres-what-actually-2b9k)
+- [Building a Local RAG System with Citations &lpar;No Hallucinations&rpar;](https://dev.to/subraatakumar/building-a-local-rag-system-with-citations-no-hallucinations-4dcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
