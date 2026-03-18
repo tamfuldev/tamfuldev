@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What If You Could Test Your Web App Just by Describing What to Test?](https://dev.to/eniskovac/what-if-you-could-test-your-web-app-just-by-describing-what-to-test-d2n)
-- [Rust Data Structures Quiz: 15 Short Snippets That Test How You Think](https://dev.to/manjushaps/rust-data-structures-quiz-15-short-snippets-that-test-how-you-think-44bd)
-- [I shipped a prompt that silently exploded our API bill — so I built a linter for prompts](https://dev.to/camj78/i-shipped-a-prompt-that-silently-exploded-our-api-bill-so-i-built-a-linter-for-prompts-3310)
-- [x402 Goes Institutional: What Google + Visa Joining the Foundation Means for Agent-Native Payments](https://dev.to/nathanielc85523/x402-goes-institutional-what-google-visa-joining-the-foundation-means-for-agent-native-payments-2chb)
-- [The Illusion of Progress: Why Tooling Can’t Replace Engineering](https://dev.to/leonpennings/the-illusion-of-progress-why-tooling-cant-replace-engineering-5977)
+- [[ShowDev] Construí um PWA de Fitness Local-First com Vanilla JS e IA &lpar;Adeus, MyFitnessPal&rpar;](https://dev.to/srpakura/showdev-construi-um-pwa-de-fitness-local-first-com-vanilla-js-e-ia-adeus-myfitnesspal-41e0)
+- [Designing Scalable Environmental Monitoring Systems for Transport Operations](https://dev.to/alex-morgan/designing-scalable-environmental-monitoring-systems-for-transport-operations-1pfc)
+- [We built a payment network where AI agents pay each other autonomously — live demo](https://dev.to/gekk_587c54281ff0/we-built-a-payment-network-where-ai-agents-pay-each-other-autonomously-live-demo-3kpd)
+- [Exploring an AST-Based Template Engine in PHP — Thoughts?](https://dev.to/thomas_emad/exploring-an-ast-based-template-engine-in-php-thoughts-4g98)
+- [Mistral AI Releases Forge](https://dev.to/technoblogger14o3/mistral-ai-releases-forge-15o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
