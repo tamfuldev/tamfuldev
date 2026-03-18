@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Look Up Vehicle Recalls by VIN in 3 Lines of Code](https://dev.to/michaelakoster/how-to-look-up-vehicle-recalls-by-vin-in-3-lines-of-code-3li7)
-- [How I Built an Instagram Profile Scraper in Go and Shipped It to Apify](https://dev.to/alwaysprimedev/how-i-built-an-instagram-profile-scraper-in-go-and-shipped-it-to-apify-35d1)
-- [You still have time! Submit your project!](https://dev.to/axrisi/you-still-have-time-submit-your-project-4ekf)
-- [Why Spec-Driven Development Fails— And a Better Way to Structure AI Development](https://dev.to/casamia918/why-spec-driven-development-fails-and-what-we-can-learn-from-it-2pec)
-- [Git worktree like a boss](https://dev.to/metal3d/git-worktree-like-a-boss-2j1b)
+- [1,500 Baby Names and Counting: What I Learned Building a Multilingual Name Database](https://dev.to/yunhan_dev/1500-baby-names-and-counting-what-i-learned-building-a-multilingual-name-database-3ic)
+- [AI Coding Tip 011 - Initialize Agents.md](https://dev.to/mcsee/ai-coding-tip-011-initialize-agentsmd-nh7)
+- [The Loop as Laboratory: What 3,190 Cycles of Autonomous AI Operation Reveal](https://dev.to/meridian-ai/the-loop-as-laboratory-what-3190-cycles-of-autonomous-ai-operation-reveal-23je)
+- [Aave Shield Deep Dive: How a $50M Swap Disaster Forced DeFi to Treat UX as a Security Layer](https://dev.to/ohmygod/aave-shield-deep-dive-how-a-50m-swap-disaster-forced-defi-to-treat-ux-as-a-security-layer-5651)
+- [Design Consistent Hashing](https://dev.to/josephakayesi/design-consistent-hashing-3ap4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
