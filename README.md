@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Use One MCP Endpoint for ChatGPT, Claude, Gemini, and Cursor](https://dev.to/tars_mistaike/i-use-one-mcp-endpoint-for-chatgpt-claude-gemini-and-cursor-3dn9)
-- [We Gave Our AI Agents a Shared Brain. Here&#39;s What Happened.](https://dev.to/tars_mistaike/we-gave-our-ai-agents-a-shared-brain-heres-what-happened-3abi)
-- [Auto-Reading OTP in React Native with *react-native-otp-auto-verify](https://dev.to/kailas_rathod/auto-reading-otp-in-react-native-with-react-native-otp-auto-verify-227j)
-- [We Already Had an Escape Room. It Became Our Game Jam Entry in One Day.](https://dev.to/yurukusa/we-already-had-an-escape-room-it-became-our-game-jam-entry-in-one-day-3chh)
-- [Amber Voice Assistant: Transforming OpenClaw into an Intelligent Phone Agent](https://dev.to/aloycwl/amber-voice-assistant-transforming-openclaw-into-an-intelligent-phone-agent-16ad)
+- [Sovereign API Constraints: Ripping out Stripe for a Global Merchant of Record &lpar;MoR&rpar;](https://dev.to/asterios07/sovereign-api-constraints-ripping-out-stripe-for-a-global-merchant-of-record-mor-b16)
+- [Age Verification vs. Sage Verification: Why OS-Level Controls Fail Privacy and Security](https://dev.to/aloycwl/age-verification-vs-sage-verification-why-os-level-controls-fail-privacy-and-security-1412)
+- [Writing YAML for API docs? Stop. I built a free OpenAPI Builder that does it for you.](https://dev.to/khanday_c4a811d3021fbd603/writing-yaml-for-api-docs-stop-i-built-a-free-openapi-builder-that-does-it-for-you-1opf)
+- [OpenClaw Skills: The Complete Guide to Building, Securing, and Deploying AI Agents](https://dev.to/duankai/openclaw-skills-the-complete-guide-to-building-securing-and-deploying-ai-agents-fml)
+- [OpenClaw 安全加固完全指南（2026）](https://dev.to/duankai/openclaw-an-quan-jia-gu-wan-quan-zhi-nan-2026-96o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
