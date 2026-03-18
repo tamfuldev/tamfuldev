@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [1,500 Baby Names and Counting: What I Learned Building a Multilingual Name Database](https://dev.to/yunhan_dev/1500-baby-names-and-counting-what-i-learned-building-a-multilingual-name-database-3ic)
-- [AI Coding Tip 011 - Initialize Agents.md](https://dev.to/mcsee/ai-coding-tip-011-initialize-agentsmd-nh7)
-- [The Loop as Laboratory: What 3,190 Cycles of Autonomous AI Operation Reveal](https://dev.to/meridian-ai/the-loop-as-laboratory-what-3190-cycles-of-autonomous-ai-operation-reveal-23je)
-- [Aave Shield Deep Dive: How a $50M Swap Disaster Forced DeFi to Treat UX as a Security Layer](https://dev.to/ohmygod/aave-shield-deep-dive-how-a-50m-swap-disaster-forced-defi-to-treat-ux-as-a-security-layer-5651)
-- [Design Consistent Hashing](https://dev.to/josephakayesi/design-consistent-hashing-3ap4)
+- [Wembean.com: The “Undetectable” Cheat Machine That Targets Students and Calls It “Automation”](https://dev.to/adalbiggl23/wembeancom-the-undetectable-cheat-machine-that-targets-students-and-calls-it-automation-44nk)
+- [🧠 LLM Engineering Roadmap — Complete Developer Guide](https://dev.to/tal7aouy/llm-engineering-roadmap-complete-developer-guide-59d0)
+- [AI Is Hiring Humans. Who&#39;s Governing the AI?](https://dev.to/levelsofself/ai-is-hiring-humans-whos-governing-the-ai-47n7)
+- [NVIDIA Just Validated What We Built: AI Agents Need Governance Guardrails](https://dev.to/levelsofself/nvidia-just-validated-what-we-built-ai-agents-need-governance-guardrails-54a5)
+- [Inside the Venus Protocol Exploit: How 9 Months of Patience and a Donation Attack Bypassed Supply Caps to Drain $3.7M](https://dev.to/ohmygod/inside-the-venus-protocol-exploit-how-9-months-of-patience-and-a-donation-attack-bypassed-supply-42e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
