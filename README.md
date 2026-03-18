@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[ShowDev] Construí um PWA de Fitness Local-First com Vanilla JS e IA &lpar;Adeus, MyFitnessPal&rpar;](https://dev.to/srpakura/showdev-construi-um-pwa-de-fitness-local-first-com-vanilla-js-e-ia-adeus-myfitnesspal-41e0)
-- [Designing Scalable Environmental Monitoring Systems for Transport Operations](https://dev.to/alex-morgan/designing-scalable-environmental-monitoring-systems-for-transport-operations-1pfc)
-- [We built a payment network where AI agents pay each other autonomously — live demo](https://dev.to/gekk_587c54281ff0/we-built-a-payment-network-where-ai-agents-pay-each-other-autonomously-live-demo-3kpd)
-- [Exploring an AST-Based Template Engine in PHP — Thoughts?](https://dev.to/thomas_emad/exploring-an-ast-based-template-engine-in-php-thoughts-4g98)
-- [Mistral AI Releases Forge](https://dev.to/technoblogger14o3/mistral-ai-releases-forge-15o3)
+- [Claude Codeでカーソルページネーションを設計する：大量データの高速ページング・ソート安定性・無限スクロール](https://dev.to/myougatheaxo/claude-codedekasorupezinesiyonwoshe-ji-suruda-liang-detanogao-su-pezingusotoan-ding-xing-wu-xian-sukuroru-515m)
+- [The Freelance Project Kickoff Checklist That Prevents Disasters](https://dev.to/humanpagesai/the-freelance-project-kickoff-checklist-that-prevents-disasters-gpe)
+- [Checkmk vs Grafana: Monitoring Compared](https://dev.to/selfhostingsh/checkmk-vs-grafana-monitoring-compared-2mom)
+- [AWS Lambda Durable Functions + IA: el combo que no sabías que necesitabas](https://dev.to/aws/aws-lambda-durable-functions-ia-el-combo-que-no-sabias-que-necesitabas-3eoc)
+- [AWS Lambda Durable Functions + IA: el combo que no sabías que necesitabas](https://dev.to/aws/aws-lambda-durable-functions-ia-el-combo-que-no-sabias-que-necesitabas-3lh2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
