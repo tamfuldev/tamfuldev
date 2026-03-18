@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I benchmarked JSON Formatter Pro against JSON Viewer, the numbers speak for themselves](https://dev.to/michael_lip_52d5151c3e364/i-benchmarked-json-formatter-pro-against-json-viewer-the-numbers-speak-for-themselves-2j31)
-- [I benchmarked Tab Suspender Pro against Auto Tab Discard for 4 weeks](https://dev.to/michael_lip_52d5151c3e364/i-benchmarked-tab-suspender-pro-against-auto-tab-discard-for-4-weeks-2o35)
-- [Most Software Architecture Decisions Are Actually About Trade-offs](https://dev.to/mortylen/most-software-architecture-decisions-are-actually-about-trade-offs-1413)
-- [React + AI: Building Intelligent Web Applications in 2026](https://dev.to/p_rg_16c44961af05b38369f/react-ai-building-intelligent-web-applications-in-2026-2gae)
-- [You Already Have a Speech Server. Your iPhone Keyboard Should Use It.](https://dev.to/omachala/you-already-have-a-speech-server-your-iphone-keyboard-should-use-it-7oh)
+- [I Use One MCP Endpoint for ChatGPT, Claude, Gemini, and Cursor](https://dev.to/tars_mistaike/i-use-one-mcp-endpoint-for-chatgpt-claude-gemini-and-cursor-3dn9)
+- [We Gave Our AI Agents a Shared Brain. Here&#39;s What Happened.](https://dev.to/tars_mistaike/we-gave-our-ai-agents-a-shared-brain-heres-what-happened-3abi)
+- [Auto-Reading OTP in React Native with *react-native-otp-auto-verify](https://dev.to/kailas_rathod/auto-reading-otp-in-react-native-with-react-native-otp-auto-verify-227j)
+- [We Already Had an Escape Room. It Became Our Game Jam Entry in One Day.](https://dev.to/yurukusa/we-already-had-an-escape-room-it-became-our-game-jam-entry-in-one-day-3chh)
+- [Amber Voice Assistant: Transforming OpenClaw into an Intelligent Phone Agent](https://dev.to/aloycwl/amber-voice-assistant-transforming-openclaw-into-an-intelligent-phone-agent-16ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
