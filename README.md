@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Codeでカーソルページネーションを設計する：大量データの高速ページング・ソート安定性・無限スクロール](https://dev.to/myougatheaxo/claude-codedekasorupezinesiyonwoshe-ji-suruda-liang-detanogao-su-pezingusotoan-ding-xing-wu-xian-sukuroru-515m)
-- [The Freelance Project Kickoff Checklist That Prevents Disasters](https://dev.to/humanpagesai/the-freelance-project-kickoff-checklist-that-prevents-disasters-gpe)
-- [Checkmk vs Grafana: Monitoring Compared](https://dev.to/selfhostingsh/checkmk-vs-grafana-monitoring-compared-2mom)
-- [AWS Lambda Durable Functions + IA: el combo que no sabías que necesitabas](https://dev.to/aws/aws-lambda-durable-functions-ia-el-combo-que-no-sabias-que-necesitabas-3eoc)
-- [AWS Lambda Durable Functions + IA: el combo que no sabías que necesitabas](https://dev.to/aws/aws-lambda-durable-functions-ia-el-combo-que-no-sabias-que-necesitabas-3lh2)
+- [To Reverse an array without function](https://dev.to/abirami_prabhakar/to-reverse-an-array-without-function-374m)
+- [GHSA-46FP-8F5P-PF2M: GHSA-46fp-8f5p-pf2m: XSS Filter Bypass via Improper HTML Entity Decoding in Loofah allowed_uri?](https://dev.to/cverports/ghsa-46fp-8f5p-pf2m-ghsa-46fp-8f5p-pf2m-xss-filter-bypass-via-improper-html-entity-decoding-in-3eo5)
+- [5 OpenClaw Skills Every Developer Should Install First](https://dev.to/clamper_ai/5-openclaw-skills-every-developer-should-install-first-5hh5)
+- [Wallet Factory Determinista para Cadenas EVM con CreateX &lpar;CREATE3&rpar;](https://dev.to/beltsyslabs/wallet-factory-determinista-para-cadenas-evm-con-createx-create3-3hff)
+- [Throughput vs IOPS vs Latency Beyond Storage Network, Compute and Cloud Performance Explained](https://dev.to/vladlevinas/throughput-vs-iops-vs-latency-beyond-storage-network-compute-and-cloud-performance-explained-1ia9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
