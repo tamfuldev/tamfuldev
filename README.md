@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Drove $31M in Bookings. The System Said I Needed Improvement.](https://dev.to/brian_c_d9f4c2cf20a5ee57d/i-drove-31m-in-bookings-the-system-said-i-needed-improvement-2clp)
-- [My OpenClaw agent wouldn&#39;t stay autonomous. Here&#39;s what fixed it.](https://dev.to/sebconejo/my-openclaw-agent-wouldnt-stay-autonomous-heres-what-fixed-it-4aoi)
-- [DataDog&#39;s Build Binary Size Reduction: Uncovering Methods, Challenges, and Implications](https://dev.to/viklogix/datadogs-build-binary-size-reduction-uncovering-methods-challenges-and-implications-3ei3)
-- [🧠 Codex OS: I tried turning AI into a local dev “operating system”](https://dev.to/rotsl/codex-os-i-tried-turning-ai-into-a-local-dev-operating-system-45f0)
-- [We Can&#39;t Code Anymore. AI Won&#39;t. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3)
+- [I Stress-Tested Google&#39;s Colab MCP Server with a Real Quantum Workflow](https://dev.to/axrisi/i-stress-tested-googles-colab-mcp-server-with-a-real-quantum-workflow-2oih)
+- [The 270 Million iPhone Crypto Heist: How DarkSword&#39;s Hit-and-Run Exploit Kit Drains Wallets in Under 60 Seconds](https://dev.to/ohmygod/the-270-million-iphone-crypto-heist-how-darkswords-hit-and-run-exploit-kit-drains-wallets-in-3kf)
+- [Deploying Your First Server with Terraform: A Beginner&#39;s Guide](https://dev.to/tink-origami/deploying-your-first-server-with-terraform-a-beginners-guide-4g2d)
+- [I built a local-only PDF bank statement parser with a plugin system — here&#39;s how it works](https://dev.to/tiozerj/i-built-a-local-only-pdf-bank-statement-parser-with-a-plugin-system-heres-how-it-works-3gd8)
+- [ClawRoute Technical Architecture: How Smart Model Routing Works](https://dev.to/mrjhsn/clawroute-technical-architecture-how-smart-model-routing-works-13h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
