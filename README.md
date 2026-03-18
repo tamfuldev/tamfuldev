@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [To Reverse an array without function](https://dev.to/abirami_prabhakar/to-reverse-an-array-without-function-374m)
-- [GHSA-46FP-8F5P-PF2M: GHSA-46fp-8f5p-pf2m: XSS Filter Bypass via Improper HTML Entity Decoding in Loofah allowed_uri?](https://dev.to/cverports/ghsa-46fp-8f5p-pf2m-ghsa-46fp-8f5p-pf2m-xss-filter-bypass-via-improper-html-entity-decoding-in-3eo5)
-- [5 OpenClaw Skills Every Developer Should Install First](https://dev.to/clamper_ai/5-openclaw-skills-every-developer-should-install-first-5hh5)
-- [Wallet Factory Determinista para Cadenas EVM con CreateX &lpar;CREATE3&rpar;](https://dev.to/beltsyslabs/wallet-factory-determinista-para-cadenas-evm-con-createx-create3-3hff)
-- [Throughput vs IOPS vs Latency Beyond Storage Network, Compute and Cloud Performance Explained](https://dev.to/vladlevinas/throughput-vs-iops-vs-latency-beyond-storage-network-compute-and-cloud-performance-explained-1ia9)
+- [I Drove $31M in Bookings. The System Said I Needed Improvement.](https://dev.to/brian_c_d9f4c2cf20a5ee57d/i-drove-31m-in-bookings-the-system-said-i-needed-improvement-2clp)
+- [My OpenClaw agent wouldn&#39;t stay autonomous. Here&#39;s what fixed it.](https://dev.to/sebconejo/my-openclaw-agent-wouldnt-stay-autonomous-heres-what-fixed-it-4aoi)
+- [DataDog&#39;s Build Binary Size Reduction: Uncovering Methods, Challenges, and Implications](https://dev.to/viklogix/datadogs-build-binary-size-reduction-uncovering-methods-challenges-and-implications-3ei3)
+- [🧠 Codex OS: I tried turning AI into a local dev “operating system”](https://dev.to/rotsl/codex-os-i-tried-turning-ai-into-a-local-dev-operating-system-45f0)
+- [We Can&#39;t Code Anymore. AI Won&#39;t. What Then?](https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
