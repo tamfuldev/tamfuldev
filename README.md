@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sovereign API Constraints: Ripping out Stripe for a Global Merchant of Record &lpar;MoR&rpar;](https://dev.to/asterios07/sovereign-api-constraints-ripping-out-stripe-for-a-global-merchant-of-record-mor-b16)
-- [Age Verification vs. Sage Verification: Why OS-Level Controls Fail Privacy and Security](https://dev.to/aloycwl/age-verification-vs-sage-verification-why-os-level-controls-fail-privacy-and-security-1412)
-- [Writing YAML for API docs? Stop. I built a free OpenAPI Builder that does it for you.](https://dev.to/khanday_c4a811d3021fbd603/writing-yaml-for-api-docs-stop-i-built-a-free-openapi-builder-that-does-it-for-you-1opf)
-- [OpenClaw Skills: The Complete Guide to Building, Securing, and Deploying AI Agents](https://dev.to/duankai/openclaw-skills-the-complete-guide-to-building-securing-and-deploying-ai-agents-fml)
-- [OpenClaw 安全加固完全指南（2026）](https://dev.to/duankai/openclaw-an-quan-jia-gu-wan-quan-zhi-nan-2026-96o)
+- [Free Tools for Building AI Training Datasets — Reddit, YouTube, Wikipedia, arXiv](https://dev.to/__8ef7243a4f/free-tools-for-building-ai-training-datasets-reddit-youtube-wikipedia-arxiv-4kph)
+- [Making AI Understandable: A Beginner’s Guide to Explainable AI &lpar;XAI&rpar;](https://dev.to/pjdeveloper896/making-ai-understandable-a-beginners-guide-to-explainable-ai-xai-28m4)
+- [Automating AWS Cost Monitoring with Terraform, Lambda, and Slack](https://dev.to/copubah/automating-aws-cost-monitoring-with-terraform-lambda-and-slack-3h2o)
+- [I built a full Pokédex with Next.js and TypeScript](https://dev.to/alan_teixid_93b3e6ae3d48/i-built-a-full-pokedex-with-nextjs-and-typescript-387b)
+- [What Is TIFF? The Complete Guide to Tagged Image File Format](https://dev.to/pixotter/what-is-tiff-the-complete-guide-to-tagged-image-file-format-36km)
 <!-- BLOG-POST-LIST:END -->
 
 ---
