@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Minded Multi-Agent Orchestration in Java](https://dev.to/agentensemble/production-minded-multi-agent-orchestration-in-java-4i5)
-- [11 Ways LLMs Fail in Production &lpar;With Academic Sources&rpar;](https://dev.to/ceaksan/11-ways-llms-fail-in-production-with-academic-sources-4mf9)
-- [TypeScript Generics Demystified: From Confusion to Mastery &lpar;With Real-World Patterns&rpar;](https://dev.to/pockit_tools/typescript-generics-demystified-from-confusion-to-mastery-with-real-world-patterns-3p1e)
-- [Show HN: The future of end-to-end encrypted protocols &lpar;2026&rpar;](https://dev.to/yq_p_4f2eee9cff2d2cc7ad31/show-hn-the-future-of-end-to-end-encrypted-protocols-2026-5o4)
-- [A Sufficiently Detailed Spec Is Code](https://dev.to/onsen/a-sufficiently-detailed-spec-is-code-5efi)
+- [We Built ComfyUI Workflow Visualization Into Our AI Art Portfolio Platform](https://dev.to/junho71/we-built-comfyui-workflow-visualization-into-our-ai-art-portfolio-platform-69k)
+- [How I Built a Production AI Query Engine on 28 Tables — And Why I Used Both Text-to-SQL and Function Calling](https://dev.to/yanou16/how-i-built-a-production-ai-query-engine-on-28-tables-and-why-i-used-both-text-to-sql-and-3mk1)
+- [Finding the Kth Smallest Element in an Array](https://dev.to/jeyaprasadr/finding-the-kth-smallest-element-in-an-array-435h)
+- [Creating Azure Resources via Azure CLI: Part 3](https://dev.to/rahimah_dev/creating-azure-resources-via-azure-cli-part-3-237e)
+- [I Let Agents Write My Code. They Got Stuck in a Loop and Argued With Each Other](https://dev.to/ubcent/i-let-agents-write-my-code-they-got-stuck-in-a-loop-and-argued-with-each-other-36me)
 <!-- BLOG-POST-LIST:END -->
 
 ---
