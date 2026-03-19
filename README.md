@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dashlane Review 2026: Best Password Manager for Developers?](https://dev.to/theawesomeblog/dashlane-review-2026-best-password-manager-for-developers-5fc5)
-- [Host a Static Website on AWS S3 with CloudFront, Certficate Manager, namecheap, and GitHub Actions](https://dev.to/lehibonafe/deploying-a-static-website-on-aws-s3-with-cloudfront-route53-and-github-actions-4463)
-- [Claude Certified Architect &lpar;CCA-001&rpar;: The First Hands-On AI Certification That Actually Matters](https://dev.to/ajbuilds/claude-certified-architect-cca-001-the-first-hands-on-ai-certification-that-actually-matters-3l41)
-- [Understanding JWT Authentication in Java with Encryption and Decryption](https://dev.to/sanjayghosh/understanding-jwt-authentication-in-java-with-encryption-and-decryption-2ig7)
-- [DevLog 20260319: Towards OOP - Document-Level Main Module and Module Level Members and Behaviors](https://dev.to/methodox/devlog-20260319-towards-oop-document-level-main-module-and-module-level-members-and-behaviors-133b)
+- [Why 70% of Americans See AI as a Wealth Inequality Machine: The Developer&#39;s Role in Building Fairer Tech](https://dev.to/theawesomeblog/why-70-of-americans-see-ai-as-a-wealth-inequality-machine-the-developers-role-in-building-fairer-1jgf)
+- [WCAG - Links and accessible text](https://dev.to/dawid_ryczko/wcag-links-and-accessible-text-5bmn)
+- [Definiendo la necesidad &lpar;día 1&rpar;](https://dev.to/denelesan/definiendo-la-necesidad-dia-1-1aoc)
+- [How to Add LLM Model Fallbacks in Python in 5 Min](https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200)
+- [CI/CD na Magalu Cloud com GitHub Actions](https://dev.to/magalucloud/cicd-na-magalu-cloud-com-github-actions-382p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
