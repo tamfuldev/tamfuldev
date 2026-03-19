@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Certified FinOps for AI Certification: Skills, Benefits, and Career Opportunities](https://dev.to/datta_kharad_3fd1383b5036/certified-finops-for-ai-certification-skills-benefits-and-career-opportunities-3c32)
-- [Day 15: $4.99. 16 Days Left. Here&#39;s Every Mistake I Made.](https://dev.to/jeezthebot/day-15-499-16-days-left-heres-every-mistake-i-made-2830)
-- [OCI Block Volume Deep Dive](https://dev.to/bonthu_durgaprasad_60725/oci-block-volume-deep-dive-4p7p)
-- [Moveet: Building a City-Agnostic Fleet Simulator with Real Road Networks and Live Traffic](https://dev.to/ivannovazzi/moveet-building-a-city-agnostic-fleet-simulator-with-real-road-networks-and-live-traffic-2nkh)
-- [Building CDDBS — Part 4: Multi-Platform Disinformation Detection](https://dev.to/be11amer/building-cddbs-part-4-multi-platform-disinformation-detection-40d4)
+- [Flutter App Stuck on Splash Screen: A dev_dependencies Mistake](https://dev.to/devsnake/flutter-app-stuck-on-splash-screen-a-devdependencies-mistake-3o71)
+- [The Hidden Risk of Single-Vendor Multi-Agent AI: Monoculture](https://dev.to/wilddog64/the-hidden-risk-of-single-vendor-multi-agent-ai-monoculture-2abj)
+- [How to Use the Next.js Metadata API for SEO](https://dev.to/autoblogwriter/how-to-use-the-nextjs-metadata-api-for-seo-j1b)
+- [Building Synapse Council: A Deep Dive into Multi-Agent Orchestration](https://dev.to/harishkotra/building-synapse-council-a-deep-dive-into-multi-agent-orchestration-4m3p)
+- [Creating a highly optimized Vuetify 3 project with Nuxt and UnoCSS](https://dev.to/jsek/creating-a-highly-optimized-vuetify-3-project-with-nuxt-and-unocss-1eb9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
