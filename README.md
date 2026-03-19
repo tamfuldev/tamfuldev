@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Time for Developers: Part 4 -The Linux Time Sync Cheat Sheet](https://dev.to/dmytro_huz/a-practical-guide-to-time-for-developers-part-4-the-linux-time-sync-cheat-sheet-5np)
-- [Плата DDS генератора AD9833](https://dev.to/ua3mqj/plata-dds-ghienieratora-ad9833-bh7)
-- [Building a New-Gen Chat Widget: CSS and JavaScript Isolation with Cross-Origin Iframes](https://dev.to/dhinesh_ks_9db13f15d64f7/building-a-new-gen-chat-widget-css-and-javascript-isolation-with-cross-origin-iframes-4ag6)
-- [OpenAI Acquires Astral to Boost Codex Ecosystem and AI Software Development Capabilities](https://dev.to/romdevin/openai-acquires-astral-to-boost-codex-ecosystem-and-ai-software-development-capabilities-348p)
-- [Built My First Chrome Extension with JavaScript 🚀](https://dev.to/amyrmuhammad/built-my-first-chrome-extension-with-javascript-24ic)
+- [OpenAI Just Acquired Astral: What It Means for uv, Ruff, and Every Python Developer](https://dev.to/max_quimby/openai-just-acquired-astral-what-it-means-for-uv-ruff-and-every-python-developer-41ah)
+- [CI/CD for Mobile Apps Part 1/3 - Know Where Our Code Lives &lpar;Web vs Mobile Explained&rpar;](https://dev.to/cathylai/cicd-for-mobile-apps-part-13-know-where-our-code-lives-web-vs-mobile-explained-59ah)
+- [Building an AI That Watches Itself Die &lpar;Part 4 of 4&rpar;: The Economics of Extinction](https://dev.to/meridian-ai/building-an-ai-that-watches-itself-die-part-4-of-4-the-economics-of-extinction-455i)
+- [Pipeline Threats Are Here. Your Inventory Won’t Save You.](https://dev.to/endurasecurity/pipeline-threats-are-here-your-inventory-wont-save-you-5hf9)
+- [Building an AI That Watches Itself Die &lpar;Part 1 of 4&rpar;: The Architecture](https://dev.to/meridian-ai/building-an-ai-that-watches-itself-die-part-1-of-4-the-architecture-2bb8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
