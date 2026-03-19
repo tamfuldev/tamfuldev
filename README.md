@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Built ComfyUI Workflow Visualization Into Our AI Art Portfolio Platform](https://dev.to/junho71/we-built-comfyui-workflow-visualization-into-our-ai-art-portfolio-platform-69k)
-- [How I Built a Production AI Query Engine on 28 Tables — And Why I Used Both Text-to-SQL and Function Calling](https://dev.to/yanou16/how-i-built-a-production-ai-query-engine-on-28-tables-and-why-i-used-both-text-to-sql-and-3mk1)
-- [Finding the Kth Smallest Element in an Array](https://dev.to/jeyaprasadr/finding-the-kth-smallest-element-in-an-array-435h)
-- [Creating Azure Resources via Azure CLI: Part 3](https://dev.to/rahimah_dev/creating-azure-resources-via-azure-cli-part-3-237e)
-- [I Let Agents Write My Code. They Got Stuck in a Loop and Argued With Each Other](https://dev.to/ubcent/i-let-agents-write-my-code-they-got-stuck-in-a-loop-and-argued-with-each-other-36me)
+- [A Practical Guide to Time for Developers: Part 4 -The Linux Time Sync Cheat Sheet](https://dev.to/dmytro_huz/a-practical-guide-to-time-for-developers-part-4-the-linux-time-sync-cheat-sheet-5np)
+- [Плата DDS генератора AD9833](https://dev.to/ua3mqj/plata-dds-ghienieratora-ad9833-bh7)
+- [Building a New-Gen Chat Widget: CSS and JavaScript Isolation with Cross-Origin Iframes](https://dev.to/dhinesh_ks_9db13f15d64f7/building-a-new-gen-chat-widget-css-and-javascript-isolation-with-cross-origin-iframes-4ag6)
+- [OpenAI Acquires Astral to Boost Codex Ecosystem and AI Software Development Capabilities](https://dev.to/romdevin/openai-acquires-astral-to-boost-codex-ecosystem-and-ai-software-development-capabilities-348p)
+- [Built My First Chrome Extension with JavaScript 🚀](https://dev.to/amyrmuhammad/built-my-first-chrome-extension-with-javascript-24ic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
