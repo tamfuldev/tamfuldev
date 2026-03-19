@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Founding Engineer Hire Fails: What Non-Technical Founders Build Instead](https://dev.to/hassan_4e2f0901edda/why-the-founding-engineer-hire-fails-what-non-technical-founders-build-instead-22mc)
-- [AIエージェントに証拠を残させる方法：スクリーンショットでハルシネーション対策](https://dev.to/aakira/aiezientonizheng-ju-wocan-saserufang-fa-sukurinsiyotutodeharusinesiyondui-ce-5b8g)
-- [AI Integration Without AI Researchers: What DACH Engineering Teams Actually Need in 2026](https://dev.to/hassan_4e2f0901edda/ai-integration-without-ai-researchers-what-dach-engineering-teams-actually-need-in-2026-2d8c)
-- [Caching LLM Extractions Without Lying: Conformal Gates + a Reasoning Budget Allocator](https://dev.to/daniel_romitelli_44e77dc6/caching-llm-extractions-without-lying-conformal-gates-a-reasoning-budget-allocator-3j7c)
-- [API-First Development, Why It Matters and How to Do It Right](https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg)
+- [What Makes an AI Feature Useful in Production and What Makes It a Liability](https://dev.to/wiseaccelerate/what-makes-an-ai-feature-useful-in-production-and-what-makes-it-a-liability-5nj)
+- [Go Web Frameworks in Production: Performance Benchmarks and Real-World Trade-offs](https://dev.to/matthiasbruns/go-web-frameworks-in-production-performance-benchmarks-and-real-world-trade-offs-4kk1)
+- [Guia de Seleção de Modelos no TRAE](https://dev.to/captaincc/guia-de-selecao-de-modelos-no-trae-3jde)
+- [Why I Built a Centralised Platform Admin in a Microservices Architecture -And What I Learned](https://dev.to/iamcymentho/why-i-built-a-centralised-platform-admin-in-a-microservices-architecture-and-what-i-learned-7nh)
+- [Apa Itu MiroFish? Platform Simulasi AI Multi-Agen untuk Memprediksi Hasil Media Sosial](https://dev.to/walse/apa-itu-mirofish-platform-simulasi-ai-multi-agen-untuk-memprediksi-hasil-media-sosial-1ep6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
