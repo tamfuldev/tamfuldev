@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Praticttioner #02](https://dev.to/fedrummond_/aws-cloud-praticttioner-02-3l61)
-- [Rick Beato: Jack Gardiner Talks Like A Beatle, But SHREDS Like A Samurai](https://dev.to/music_youtube/rick-beato-jack-gardiner-talks-like-a-beatle-but-shreds-like-a-samurai-38jl)
-- [Dissecando o Navegador &lpar;Parte 1&rpar; - Da Arquitetura Multi-Processo aos Pixels na Tela](https://dev.to/erickg123/dissecando-o-navegador-parte-1-da-arquitetura-multi-processo-aos-pixels-na-tela-5g5m)
-- [Workflow Builders vs AI Agents: 5 Automation Tools Compared &lpar;2026&rpar;](https://dev.to/nebulagg/workflow-builders-vs-ai-agents-5-automation-tools-compared-2026-3ld5)
-- [Your AI has no memory. Here&#39;s How to Add One with Node.js and Mem0](https://dev.to/techsplot/your-ai-has-no-memory-heres-how-to-add-one-with-nodejs-and-mem0-2fbh)
+- [Base64 Encoding Explained: When and Why to Use It](https://dev.to/_d7eb1c1703182e3ce1782/base64-encoding-explained-when-and-why-to-use-it-4hld)
+- [The Future of Websites: From Pages to Intelligent Systems](https://dev.to/safdarali25/the-future-of-websites-from-pages-to-intelligent-systems-5ah5)
+- [HTTP 402 Was &#39;Reserved for Future Use&#39; for 29 Years. Stripe Just Gave It a Job.](https://dev.to/adioof/http-402-was-reserved-for-future-use-for-29-years-stripe-just-gave-it-a-job-3phg)
+- [Finding Profitable Niches with GitHub Trending Data: My Automated Pipeline for Product Opportunities](https://dev.to/eqhoids/finding-profitable-niches-with-github-trending-data-my-automated-pipeline-for-product-opportunities-4900)
+- [A Home Weather Monitoring System Built Without AI](https://dev.to/nandofm/a-home-weather-monitoring-system-built-without-ai-4a29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
