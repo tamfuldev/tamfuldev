@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter App Stuck on Splash Screen: A dev_dependencies Mistake](https://dev.to/devsnake/flutter-app-stuck-on-splash-screen-a-devdependencies-mistake-3o71)
-- [The Hidden Risk of Single-Vendor Multi-Agent AI: Monoculture](https://dev.to/wilddog64/the-hidden-risk-of-single-vendor-multi-agent-ai-monoculture-2abj)
-- [How to Use the Next.js Metadata API for SEO](https://dev.to/autoblogwriter/how-to-use-the-nextjs-metadata-api-for-seo-j1b)
-- [Building Synapse Council: A Deep Dive into Multi-Agent Orchestration](https://dev.to/harishkotra/building-synapse-council-a-deep-dive-into-multi-agent-orchestration-4m3p)
-- [Creating a highly optimized Vuetify 3 project with Nuxt and UnoCSS](https://dev.to/jsek/creating-a-highly-optimized-vuetify-3-project-with-nuxt-and-unocss-1eb9)
+- [Production-Minded Multi-Agent Orchestration in Java](https://dev.to/agentensemble/production-minded-multi-agent-orchestration-in-java-4i5)
+- [11 Ways LLMs Fail in Production &lpar;With Academic Sources&rpar;](https://dev.to/ceaksan/11-ways-llms-fail-in-production-with-academic-sources-4mf9)
+- [TypeScript Generics Demystified: From Confusion to Mastery &lpar;With Real-World Patterns&rpar;](https://dev.to/pockit_tools/typescript-generics-demystified-from-confusion-to-mastery-with-real-world-patterns-3p1e)
+- [Show HN: The future of end-to-end encrypted protocols &lpar;2026&rpar;](https://dev.to/yq_p_4f2eee9cff2d2cc7ad31/show-hn-the-future-of-end-to-end-encrypted-protocols-2026-5o4)
+- [A Sufficiently Detailed Spec Is Code](https://dev.to/onsen/a-sufficiently-detailed-spec-is-code-5efi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
