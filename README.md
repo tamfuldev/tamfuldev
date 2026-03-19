@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
-- [Best GPU Rental for AI Training in India](https://dev.to/dev_yadav_26252073f3a3761/best-gpu-rental-for-ai-training-in-india-3h5b)
-- [Model Context Protocol &lpar;MCP&rpar;: The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
-- [How to Delegate Tasks to AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/how-to-delegate-tasks-to-ai-agents-5hba)
-- [AWS Cloud Migration Checklist: Moving a Legacy App to the Cloud](https://dev.to/waqarhabib/aws-cloud-migration-checklist-moving-a-legacy-app-to-the-cloud-563f)
+- [Why the Founding Engineer Hire Fails: What Non-Technical Founders Build Instead](https://dev.to/hassan_4e2f0901edda/why-the-founding-engineer-hire-fails-what-non-technical-founders-build-instead-22mc)
+- [AIエージェントに証拠を残させる方法：スクリーンショットでハルシネーション対策](https://dev.to/aakira/aiezientonizheng-ju-wocan-saserufang-fa-sukurinsiyotutodeharusinesiyondui-ce-5b8g)
+- [AI Integration Without AI Researchers: What DACH Engineering Teams Actually Need in 2026](https://dev.to/hassan_4e2f0901edda/ai-integration-without-ai-researchers-what-dach-engineering-teams-actually-need-in-2026-2d8c)
+- [Caching LLM Extractions Without Lying: Conformal Gates + a Reasoning Budget Allocator](https://dev.to/daniel_romitelli_44e77dc6/caching-llm-extractions-without-lying-conformal-gates-a-reasoning-budget-allocator-3j7c)
+- [API-First Development, Why It Matters and How to Do It Right](https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
