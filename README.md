@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Sandbox](https://dev.to/thesythesis/the-sandbox-2dcc)
-- [FBI Admits to Buying Location Data: What Every Developer Needs to Know About Data Privacy in 2024](https://dev.to/theawesomeblog/fbi-admits-to-buying-location-data-what-every-developer-needs-to-know-about-data-privacy-in-2024-ii7)
-- [The ERC-3525 Callback Trap: How Solv Protocol&#39;s Double-Mint Bug Turned 135 Tokens Into 567 Million](https://dev.to/ohmygod/the-erc-3525-callback-trap-how-solv-protocols-double-mint-bug-turned-135-tokens-into-567-million-41kc)
-- [The First Grievance](https://dev.to/thesythesis/the-first-grievance-196b)
-- [The Embedding](https://dev.to/thesythesis/the-embedding-2a4o)
+- [Ship eSignatures Faster with BoldSign Skill for Code Studio and Claude](https://dev.to/boldsign/ship-esignatures-faster-with-boldsign-skill-for-code-studio-and-claude-4471)
+- [PRODUCTION TERRAFORM MODULES LAB](https://dev.to/jumptotech/production-terraform-modules-lab-1oo6)
+- [Posthog Vs Plausible](https://dev.to/selfhostingsh/posthog-vs-plausible-26o3)
+- [Detailed commentary to every line](https://dev.to/lee12/detailed-commentary-to-every-line-59il)
+- [I Ran 60+ Automated Tests on My AI Skills Registry — Here&#39;s What Broke](https://dev.to/comeonoliver/i-ran-60-automated-tests-on-my-ai-skills-registry-heres-what-broke-3j5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
