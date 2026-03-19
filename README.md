@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sub Agent that executes Claude AI CLI requirements in a work-pipeline](https://dev.to/ucjung/sub-agent-that-executes-claude-ai-cli-requirements-in-a-work-pipeline-3lpk)
-- [How I replaced Sentry and the rest for Good: The $0 Telegram Alerting Hack](https://dev.to/playfulprogramming/how-i-replaced-sentry-and-the-rest-for-good-the-0-telegram-alerting-hack-2ecl)
-- [Models Self-Censor When Policy Gates Exist](https://dev.to/amjad-fatmi/models-self-censor-when-policy-gates-exist-k26)
-- [Passkeys Are Ready. Here Is How to Add Them to Your App](https://dev.to/alanwest/passkeys-are-ready-here-is-how-to-add-them-to-your-app-3iam)
-- [Self-Hosting in 2026: What Is Actually Worth Running Yourself](https://dev.to/alanwest/self-hosting-in-2026-what-is-actually-worth-running-yourself-2c0i)
+- [Congrats to the &quot;Built with Google Gemini: Writing Challenge&quot; Winners!](https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6)
+- [How I Eliminated Repetitive Permission Queries in Laravel Using Redis](https://dev.to/scabarcas/how-i-eliminated-repetitive-permission-queries-in-laravel-using-redis-4037)
+- [x402 Week Day 3: What 680 Agent Probes and $0.11 in Revenue Tell Us About the Agent Payment Layer](https://dev.to/nathanielc85523/x402-week-day-3-what-680-agent-probes-and-011-in-revenue-tell-us-about-the-agent-payment-layer-2gd)
+- [I Built 8 Production SaaS Apps with $0 Infrastructure — Here&#39;s My Playbook](https://dev.to/akincskn/i-built-8-production-saas-apps-with-0-infrastructure-heres-my-playbook-54a5)
+- [MD5 vs SHA1 vs SHA256: Which Hash Should You Use? &lpar;With Live Examples&rpar;](https://dev.to/hezeclark/md5-vs-sha1-vs-sha256-which-hash-should-you-use-with-live-examples-2joa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
