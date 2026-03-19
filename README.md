@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the &quot;Built with Google Gemini: Writing Challenge&quot; Winners!](https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6)
-- [How I Eliminated Repetitive Permission Queries in Laravel Using Redis](https://dev.to/scabarcas/how-i-eliminated-repetitive-permission-queries-in-laravel-using-redis-4037)
-- [x402 Week Day 3: What 680 Agent Probes and $0.11 in Revenue Tell Us About the Agent Payment Layer](https://dev.to/nathanielc85523/x402-week-day-3-what-680-agent-probes-and-011-in-revenue-tell-us-about-the-agent-payment-layer-2gd)
-- [I Built 8 Production SaaS Apps with $0 Infrastructure — Here&#39;s My Playbook](https://dev.to/akincskn/i-built-8-production-saas-apps-with-0-infrastructure-heres-my-playbook-54a5)
-- [MD5 vs SHA1 vs SHA256: Which Hash Should You Use? &lpar;With Live Examples&rpar;](https://dev.to/hezeclark/md5-vs-sha1-vs-sha256-which-hash-should-you-use-with-live-examples-2joa)
+- [Dashlane Review 2026: Best Password Manager for Developers?](https://dev.to/theawesomeblog/dashlane-review-2026-best-password-manager-for-developers-5fc5)
+- [Host a Static Website on AWS S3 with CloudFront, Certficate Manager, namecheap, and GitHub Actions](https://dev.to/lehibonafe/deploying-a-static-website-on-aws-s3-with-cloudfront-route53-and-github-actions-4463)
+- [Claude Certified Architect &lpar;CCA-001&rpar;: The First Hands-On AI Certification That Actually Matters](https://dev.to/ajbuilds/claude-certified-architect-cca-001-the-first-hands-on-ai-certification-that-actually-matters-3l41)
+- [Understanding JWT Authentication in Java with Encryption and Decryption](https://dev.to/sanjayghosh/understanding-jwt-authentication-in-java-with-encryption-and-decryption-2ig7)
+- [DevLog 20260319: Towards OOP - Document-Level Main Module and Module Level Members and Behaviors](https://dev.to/methodox/devlog-20260319-towards-oop-document-level-main-module-and-module-level-members-and-behaviors-133b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
