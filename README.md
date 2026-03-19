@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ship eSignatures Faster with BoldSign Skill for Code Studio and Claude](https://dev.to/boldsign/ship-esignatures-faster-with-boldsign-skill-for-code-studio-and-claude-4471)
-- [PRODUCTION TERRAFORM MODULES LAB](https://dev.to/jumptotech/production-terraform-modules-lab-1oo6)
-- [Posthog Vs Plausible](https://dev.to/selfhostingsh/posthog-vs-plausible-26o3)
-- [Detailed commentary to every line](https://dev.to/lee12/detailed-commentary-to-every-line-59il)
-- [I Ran 60+ Automated Tests on My AI Skills Registry — Here&#39;s What Broke](https://dev.to/comeonoliver/i-ran-60-automated-tests-on-my-ai-skills-registry-heres-what-broke-3j5p)
+- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
+- [Best GPU Rental for AI Training in India](https://dev.to/dev_yadav_26252073f3a3761/best-gpu-rental-for-ai-training-in-india-3h5b)
+- [Model Context Protocol &lpar;MCP&rpar;: The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
+- [How to Delegate Tasks to AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/how-to-delegate-tasks-to-ai-agents-5hba)
+- [AWS Cloud Migration Checklist: Moving a Legacy App to the Cloud](https://dev.to/waqarhabib/aws-cloud-migration-checklist-moving-a-legacy-app-to-the-cloud-563f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
