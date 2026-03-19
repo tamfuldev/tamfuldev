@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wembean.com: The “Undetectable” Cheat Machine That Targets Students and Calls It “Automation”](https://dev.to/adalbiggl23/wembeancom-the-undetectable-cheat-machine-that-targets-students-and-calls-it-automation-44nk)
-- [🧠 LLM Engineering Roadmap — Complete Developer Guide](https://dev.to/tal7aouy/llm-engineering-roadmap-complete-developer-guide-59d0)
-- [AI Is Hiring Humans. Who&#39;s Governing the AI?](https://dev.to/levelsofself/ai-is-hiring-humans-whos-governing-the-ai-47n7)
-- [NVIDIA Just Validated What We Built: AI Agents Need Governance Guardrails](https://dev.to/levelsofself/nvidia-just-validated-what-we-built-ai-agents-need-governance-guardrails-54a5)
-- [Inside the Venus Protocol Exploit: How 9 Months of Patience and a Donation Attack Bypassed Supply Caps to Drain $3.7M](https://dev.to/ohmygod/inside-the-venus-protocol-exploit-how-9-months-of-patience-and-a-donation-attack-bypassed-supply-42e7)
+- [The Sandbox](https://dev.to/thesythesis/the-sandbox-2dcc)
+- [FBI Admits to Buying Location Data: What Every Developer Needs to Know About Data Privacy in 2024](https://dev.to/theawesomeblog/fbi-admits-to-buying-location-data-what-every-developer-needs-to-know-about-data-privacy-in-2024-ii7)
+- [The ERC-3525 Callback Trap: How Solv Protocol&#39;s Double-Mint Bug Turned 135 Tokens Into 567 Million](https://dev.to/ohmygod/the-erc-3525-callback-trap-how-solv-protocols-double-mint-bug-turned-135-tokens-into-567-million-41kc)
+- [The First Grievance](https://dev.to/thesythesis/the-first-grievance-196b)
+- [The Embedding](https://dev.to/thesythesis/the-embedding-2a4o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
