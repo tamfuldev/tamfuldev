@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays, Events, and the Little Details That Make React Feel Real](https://dev.to/jalajb/arrays-events-and-the-little-details-that-make-react-feel-real-23bg)
-- [Jupyter AI Extension - Multi-LLM Support](https://dev.to/novatechnolab/jupyter-ai-extension-multi-llm-support-3gp0)
-- [I Built a Production-Level AI Resume Analyzer Using 9 Azure Services &lpar;Free Tier&rpar;](https://dev.to/devverse1703/i-built-a-production-level-ai-resume-analyzer-using-9-azure-services-free-tier-1bm9)
-- [AI Fears &#39;Conspiracy&#39; on Epstein-Mossad &lpar;I: Coincidence?&rpar;](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643)
-- [Imports, Lists, and a Few Things That Just Make Sense in React](https://dev.to/jalajb/imports-lists-and-a-few-things-that-just-make-sense-in-react-2djc)
+- [12 Things Nobody Tells You About Building a Production RAG System](https://dev.to/snathan/12-things-nobody-tells-you-about-building-a-production-rag-system-1pp1)
+- [NordPass vs Dashlane 2026: Which Password Manager Wins for Developers?](https://dev.to/theawesomeblog/nordpass-vs-dashlane-2026-which-password-manager-wins-for-developers-5f57)
+- [Building a Distributed Tracing Platform on AWS using OpenTelemetry and Grafana Tempo](https://dev.to/aws-builders/building-a-distributed-tracing-platform-on-aws-using-opentelemetry-and-grafana-tempo-4d40)
+- [Are User-Defined Literals Necessary in C#?](https://dev.to/shimodateakira/are-user-defined-literals-necessary-in-c-22a4)
+- [AWS, Stripe, and Sam Altman Just Validated x402. Here&#39;s What It Means for Agent Builders.](https://dev.to/gpubridge/aws-stripe-and-sam-altman-just-validated-x402-heres-what-it-means-for-agent-builders-35k0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
