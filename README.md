@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Brow &lpar;Why We Built Brow in Swift, Not Electron&rpar;](https://dev.to/serhiy_a149d8bc6468aa1a97/brow-why-we-built-brow-in-swift-not-electron-d0l)
-- [The Bob Blueprint: Mastering IaC with Terraform and Ansible, Vault Security, and OTel Observability in One Click](https://dev.to/aairom/the-bob-blueprint-mastering-iac-with-terraform-and-ansible-vault-security-and-otel-observability-2624)
-- [Fixing My Git Mistakes and Finally Understanding My Router Code](https://dev.to/bharath_kumar_30_vog/fixing-my-git-mistakes-and-finally-understanding-my-router-code-1bnp)
-- [Claude Code Channels — 터미널 없이 텔레그램으로 코딩 시키는 시대 2/2](https://dev.to/_53fb7c03dd741a6124e4e/claude-code-channels-teomineol-eobsi-telregeuraemeuro-koding-sikineun-sidae-22-5493)
-- [Modeling Skippable Presentation Flow as a Race in Unity](https://dev.to/morishift/modeling-skippable-presentation-flow-as-a-race-in-unity-9ic)
+- [The Supabase Gotchas Nobody Warns You About &lpar;Until You Hit Them&rpar;](https://dev.to/cynthizo/the-supabase-gotchas-nobody-warns-you-about-until-you-hit-them-2a7g)
+- [Promises, Batching, AbortController, and How the Web Actually Works](https://dev.to/jalajb/promises-batching-abortcontroller-and-how-the-web-actually-works-53hi)
+- [Most People Trust Their Credit Card More Than Their Phone. They Shouldn&#39;t.](https://dev.to/gregor_avram/most-people-trust-their-credit-card-more-than-their-phone-they-shouldnt-5cga)
+- [Summarize Any Text with AI - Paragraph Bullets or TLDR](https://dev.to/shotatanikawa/summarize-any-text-with-ai-paragraph-bullets-or-tldr-3m3i)
+- [Why I Built a Privacy-First AI Assistant for Visual Studio 2022 &lpar;Goodbye Cloud-Only Copilots!&rpar;](https://dev.to/furkiak/why-i-built-a-privacy-first-ai-assistant-for-visual-studio-2022-goodbye-cloud-only-copilots-e9h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
