@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go: Error Handling &lpar;Part 2&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-error-handling-part-2-5eo1)
-- [I built a LoL-style tier system for GitHub profiles](https://dev.to/chahyunwoo/i-built-a-lol-style-tier-system-for-github-profiles-3njc)
-- [Zoho Catalyst CLI — Docker Setup Guide](https://dev.to/sillycoder/zoho-catalyst-cli-docker-setup-guide-27ep)
-- [Move All Negative Elements to End](https://dev.to/mohith_001/move-all-negative-elements-to-end-5616)
-- [I curated 1,863 Data Engineering interview questions from 97+ companies --- here&#39;s what I learned. Website :: dataengprep.tech](https://dev.to/codeshukla/i-curated-1863-data-engineering-interview-questions-from-97-companies-heres-what-i-learned-3lia)
+- [Incremental Backup with PostgreSQL 17](https://dev.to/camptocamp-geo/incremental-backup-with-postgresql-17-47e8)
+- [Why We Still Don&#39;t Trust AI-Generated Code: The Archright Trinity](https://dev.to/wintrover/why-we-still-dont-trust-ai-generated-code-the-archright-trinity-105h)
+- [I Keep Forgetting CLIs So Does My AI Agent - Simplifying CLI Usage for Human and AI Agents with Hints and Completion](https://dev.to/aihubadmin/i-keep-forgetting-clis-so-does-my-ai-agent-simplifying-cli-usage-for-human-and-ai-agents-with-57c5)
+- [Clean Architecture: iOS Projektstruktur und Ebenen](https://dev.to/nguyenvhung9420/clean-architecture-ios-projektstruktur-und-ebenen-25io)
+- [Spacecraft Don&#39;t Trust Their Own Code. Neither Should Your AI Agent.](https://dev.to/klement_gunndu/spacecraft-dont-trust-their-own-code-neither-should-your-ai-agent-2716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
