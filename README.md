@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Supabase Gotchas Nobody Warns You About &lpar;Until You Hit Them&rpar;](https://dev.to/cynthizo/the-supabase-gotchas-nobody-warns-you-about-until-you-hit-them-2a7g)
-- [Promises, Batching, AbortController, and How the Web Actually Works](https://dev.to/jalajb/promises-batching-abortcontroller-and-how-the-web-actually-works-53hi)
-- [Most People Trust Their Credit Card More Than Their Phone. They Shouldn&#39;t.](https://dev.to/gregor_avram/most-people-trust-their-credit-card-more-than-their-phone-they-shouldnt-5cga)
-- [Summarize Any Text with AI - Paragraph Bullets or TLDR](https://dev.to/shotatanikawa/summarize-any-text-with-ai-paragraph-bullets-or-tldr-3m3i)
-- [Why I Built a Privacy-First AI Assistant for Visual Studio 2022 &lpar;Goodbye Cloud-Only Copilots!&rpar;](https://dev.to/furkiak/why-i-built-a-privacy-first-ai-assistant-for-visual-studio-2022-goodbye-cloud-only-copilots-e9h)
+- [Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)
+- [Light and Shadow Settings - Unreal Engine](https://dev.to/adbhut/light-and-shadow-settings-unreal-engine-298p)
+- [Reverse a Linked List – CA22](https://dev.to/mohith_001/reverse-a-linked-list-ca22-4d0p)
+- [Majority Element – CA21](https://dev.to/mohith_001/majority-element-ca21-2dcd)
+- [PrinceJS vs Hono vs Express vs Elysia: Benchmarking the Fastest Bun Frameworks in 2025](https://dev.to/thelittleprince1218/princejs-vs-hono-vs-express-vs-elysia-benchmarking-the-fastest-bun-frameworks-in-2025-c73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
