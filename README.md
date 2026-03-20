@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an OpenClaw Security Vault for AI Agents](https://dev.to/a_fb10f3fd81898e4c83a6d/building-an-openclaw-security-vault-for-ai-agents-212o)
-- [n8n Error Handling Best Practices: Stop Letting Silent Failures Break Your Business](https://dev.to/ciphernutz/n8n-error-handling-best-practices-stop-letting-silent-failures-break-your-business-1j8h)
-- [I Spent $228/Year on Postman. Here&#39;s Why I Switched to DevKits Pro for $9](https://dev.to/hezeclark/i-spent-228year-on-postman-heres-why-i-switched-to-devkits-pro-for-9-3gi2)
-- [React Hooks Performance: How to Avoid Unnecessary Re-renders](https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483)
-- [Love, Tito&#39;s: Vodka Maker Funds Physics Research](https://dev.to/aloycwl/love-titos-vodka-maker-funds-physics-research-3eja)
+- [The Secret Life of Go: Error Handling &lpar;Part 2&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-error-handling-part-2-5eo1)
+- [I built a LoL-style tier system for GitHub profiles](https://dev.to/chahyunwoo/i-built-a-lol-style-tier-system-for-github-profiles-3njc)
+- [Zoho Catalyst CLI — Docker Setup Guide](https://dev.to/sillycoder/zoho-catalyst-cli-docker-setup-guide-27ep)
+- [Move All Negative Elements to End](https://dev.to/mohith_001/move-all-negative-elements-to-end-5616)
+- [I curated 1,863 Data Engineering interview questions from 97+ companies --- here&#39;s what I learned. Website :: dataengprep.tech](https://dev.to/codeshukla/i-curated-1863-data-engineering-interview-questions-from-97-companies-heres-what-i-learned-3lia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
