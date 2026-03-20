@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Next.js Makes You a Better Full-Stack Developer &lpar;Complete 2026 Guide&rpar;](https://dev.to/raajaryan/how-nextjs-makes-you-a-better-full-stack-developer-complete-2026-guide-34k2)
-- [Acceptance Testing Strategies &lpar;Part 2&rpar;: Feature Tests, Pyramid, and Best Practices](https://dev.to/outdated-dev/acceptance-testing-strategies-part-2-feature-tests-pyramid-and-best-practices-ogc)
-- [We Made OpenClaw Actually Usable &lpar;No More Painful Setup&rpar;](https://dev.to/easyclaw/we-made-openclaw-actually-usable-no-more-painful-setup-4833)
-- [Next-Generation AI Career Mentor with Adaptive Cognitive Memory.](https://dev.to/pavithra_crpavi_cd5224d7/next-generation-ai-career-mentor-with-adaptive-cognitive-memory-od1)
-- [PostgreSQL&lpar;Alternations&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresqlalternations-2en3)
+- [The Architecture of AEO: How LLMs Actually Choose Which Brands to Recommend](https://dev.to/genezio/the-architecture-of-aeo-how-llms-actually-choose-which-brands-to-recommend-5fbj)
+- [I Built a Free Keyword Research Tool — No Sign Up, No Limits, No Credit Card](https://dev.to/ayushpal7/i-built-a-free-keyword-research-tool-no-sign-up-no-limits-no-credit-card-5fcc)
+- [Auth0 AWS Amplify Gen2: OIDC Authorization for AppSync via Identity Pool Federation](https://dev.to/aws-builders/auth0-aws-amplify-gen2-oidc-authorization-for-appsync-via-identity-pool-federation-l0o)
+- [How to Perform Proxy Packet Capture and Data Flow Analysis on Mac](https://dev.to/datastack/how-to-perform-proxy-packet-capture-and-data-flow-analysis-on-mac-1bb5)
+- [We Built AI That Qualifies Real Estate Leads in 5 Minutes](https://dev.to/cizo/we-built-ai-that-qualifies-real-estate-leads-in-5-minutes-3jpo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
