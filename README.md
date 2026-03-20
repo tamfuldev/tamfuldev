@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [1Password Just Launched Unified Access with Anthropic, Cursor, and Vercel. Credential Vaults Are Not Identity.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-3f8d)
-- [Why 90% of AI Agent Projects Fail &lpar;and the Patterns That Fix It&rpar;](https://dev.to/nebulagg/why-90-of-ai-agent-projects-fail-and-the-patterns-that-fix-it-1dma)
-- [Deploying LangGraph: From Local Prototype to Production-Ready Microservice](https://dev.to/programmingcentral/deploying-langgraph-from-local-prototype-to-production-ready-microservice-4p3m)
-- [[Boost]](https://dev.to/anthonymax/-4kg6)
-- [How I Cut My AI Coding Agent&#39;s Token Usage by 120x With a Code Knowledge Graph](https://dev.to/deusdata/how-i-cut-my-ai-coding-agents-token-usage-by-120x-with-a-code-knowledge-graph-4a3d)
+- [I got tired of downloading Playwright artifacts from CI, so I changed the workflow](https://dev.to/sentinelqa/i-got-tired-of-downloading-playwright-artifacts-from-ci-so-i-changed-the-workflow-6gf)
+- [Donation Attacks on Compound-Fork Lending Protocols: Dissecting the Venus Protocol THE Exploit](https://dev.to/ohmygod/donation-attacks-on-compound-fork-lending-protocols-dissecting-the-venus-protocol-the-exploit-dn8)
+- [I built Mizakii.com so developers never have to pay for basic tools again](https://dev.to/alihassan1617/i-built-mizakiicom-so-developers-never-have-to-pay-for-basic-tools-again-41i4)
+- [What Your .NET Exceptions Are Telling Attackers &lpar;And How to Stop It&rpar;](https://dev.to/adrianbailador/what-your-net-exceptions-are-telling-attackers-and-how-to-stop-it-57ia)
+- [How to Build Your First MCP Server in 10 Minutes](https://dev.to/nebulagg/how-to-build-your-first-mcp-server-in-10-minutes-319)
 <!-- BLOG-POST-LIST:END -->
 
 ---
