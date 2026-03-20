@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Perplexity Clone for Local LLMs in 50 Lines of Python](https://dev.to/kazkozdev/building-a-perplexity-clone-for-local-llms-in-50-lines-of-python-2p79)
-- [How to Add Link Previews to Your React App &lpar;With Code Examples&rpar;](https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d)
-- [How I Added a LinkedIn Feed to My Website &lpar;And What Actually Worked&rpar;](https://dev.to/naveen_sharma/how-i-added-a-linkedin-feed-to-my-website-and-what-actually-worked-3g05)
-- [I Tracked My Sleep for 90 Days: Here&#39;s What the Data Actually Shows](https://dev.to/michael_lip_52d5151c3e364/i-tracked-my-sleep-for-90-days-heres-what-the-data-actually-shows-1g84)
-- [I&#39;ve Reviewed 500 Resumes: The Top 3 Are All One Page](https://dev.to/michael_lip_52d5151c3e364/ive-reviewed-500-resumes-the-top-3-are-all-one-page-50lp)
+- [Building an OpenClaw Security Vault for AI Agents](https://dev.to/a_fb10f3fd81898e4c83a6d/building-an-openclaw-security-vault-for-ai-agents-212o)
+- [n8n Error Handling Best Practices: Stop Letting Silent Failures Break Your Business](https://dev.to/ciphernutz/n8n-error-handling-best-practices-stop-letting-silent-failures-break-your-business-1j8h)
+- [I Spent $228/Year on Postman. Here&#39;s Why I Switched to DevKits Pro for $9](https://dev.to/hezeclark/i-spent-228year-on-postman-heres-why-i-switched-to-devkits-pro-for-9-3gi2)
+- [React Hooks Performance: How to Avoid Unnecessary Re-renders](https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483)
+- [Love, Tito&#39;s: Vodka Maker Funds Physics Research](https://dev.to/aloycwl/love-titos-vodka-maker-funds-physics-research-3eja)
 <!-- BLOG-POST-LIST:END -->
 
 ---
