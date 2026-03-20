@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trim Audio Files Without Installing Software](https://dev.to/michael_lip_52d5151c3e364/trim-audio-files-without-installing-software-5p4)
-- [I paid for an Instagram API with 3 lines of code — no signup, no API keys](https://dev.to/socialinteldev/i-paid-for-an-instagram-api-with-3-lines-of-code-no-signup-no-api-keys-25g2)
-- [Audio Formats Explained: When to Use MP3, WAV, FLAC, OGG, and AAC](https://dev.to/michael_lip_52d5151c3e364/audio-formats-explained-when-to-use-mp3-wav-flac-ogg-and-aac-4h04)
-- [Aspect Ratios Explained: Why Your Images Look Stretched](https://dev.to/michael_lip_52d5151c3e364/aspect-ratios-explained-why-your-images-look-stretched-f24)
-- [A 1-hour experiment: vibe-coding an app to break the ice at a networking event](https://dev.to/javz/a-1-hour-experiment-vibe-coding-an-app-to-break-the-ice-at-a-networking-event-2721)
+- [Resume Tailor](https://dev.to/rotsl/resume-tailor-3gb3)
+- [The role of centrality for the identification of influential spreaders incomplex networks](https://dev.to/paperium/the-role-of-centrality-for-the-identification-of-influential-spreaders-incomplex-networks-1eok)
+- [We Won a Cybersecurity Award — But Here’s the Real Problem We’re Solving](https://dev.to/jigar_online/we-won-a-cybersecurity-award-but-heres-the-real-problem-were-solving-7nf)
+- [This Week In React #273 : ⚛️ RedwoodSDK, Next.js, TanStack, RSC | 📱 Expo UI, Ease, Expo APIs, Keyboard | 🔀 TC39, Temporal, Vite](https://dev.to/sebastienlorber/this-week-in-react-273-redwoodsdk-nextjs-tanstack-rsc-expo-ui-ease-expo-apis-1gk3)
+- [Agentic RAG: How AI Agents That Search, Reason, and Act Are Replacing Traditional Retrieval Pipelines](https://dev.to/pockit_tools/agentic-rag-how-ai-agents-that-search-reason-and-act-are-replacing-traditional-retrieval-2jn7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
