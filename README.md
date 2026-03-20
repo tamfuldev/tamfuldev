@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b)
-- [Windsurf’s New Pricing Explained: Simpler AI Coding or Hidden Trade-Offs?](https://dev.to/icornea/windsurfs-new-pricing-explained-simpler-ai-coding-or-hidden-trade-offs-f3g)
-- [Building Production RAG Systems with PostgreSQL: Complete Implementation Guide](https://dev.to/elpic/building-production-rag-systems-with-postgresql-complete-implementation-guide-50gh)
-- [Archexa: A CLI That Turns Codebases Into Architecture Docs, Impact Analysis, and Reviews](https://dev.to/eresh_g_721f1d5ca1de0a5b9/archexa-a-cli-that-turns-codebases-into-architecture-docs-impact-analysis-and-reviews-9bo)
-- [How to Provision S3 Buckets in Kubernetes with COSI and VersityGW](https://dev.to/bhyoo/how-to-provision-s3-buckets-in-kubernetes-with-cosi-and-versitygw-577i)
+- [Brow &lpar;Why We Built Brow in Swift, Not Electron&rpar;](https://dev.to/serhiy_a149d8bc6468aa1a97/brow-why-we-built-brow-in-swift-not-electron-d0l)
+- [The Bob Blueprint: Mastering IaC with Terraform and Ansible, Vault Security, and OTel Observability in One Click](https://dev.to/aairom/the-bob-blueprint-mastering-iac-with-terraform-and-ansible-vault-security-and-otel-observability-2624)
+- [Fixing My Git Mistakes and Finally Understanding My Router Code](https://dev.to/bharath_kumar_30_vog/fixing-my-git-mistakes-and-finally-understanding-my-router-code-1bnp)
+- [Claude Code Channels — 터미널 없이 텔레그램으로 코딩 시키는 시대 2/2](https://dev.to/_53fb7c03dd741a6124e4e/claude-code-channels-teomineol-eobsi-telregeuraemeuro-koding-sikineun-sidae-22-5493)
+- [Modeling Skippable Presentation Flow as a Race in Unity](https://dev.to/morishift/modeling-skippable-presentation-flow-as-a-race-in-unity-9ic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
