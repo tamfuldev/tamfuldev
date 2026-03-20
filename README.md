@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [12 Things Nobody Tells You About Building a Production RAG System](https://dev.to/snathan/12-things-nobody-tells-you-about-building-a-production-rag-system-1pp1)
-- [NordPass vs Dashlane 2026: Which Password Manager Wins for Developers?](https://dev.to/theawesomeblog/nordpass-vs-dashlane-2026-which-password-manager-wins-for-developers-5f57)
-- [Building a Distributed Tracing Platform on AWS using OpenTelemetry and Grafana Tempo](https://dev.to/aws-builders/building-a-distributed-tracing-platform-on-aws-using-opentelemetry-and-grafana-tempo-4d40)
-- [Are User-Defined Literals Necessary in C#?](https://dev.to/shimodateakira/are-user-defined-literals-necessary-in-c-22a4)
-- [AWS, Stripe, and Sam Altman Just Validated x402. Here&#39;s What It Means for Agent Builders.](https://dev.to/gpubridge/aws-stripe-and-sam-altman-just-validated-x402-heres-what-it-means-for-agent-builders-35k0)
+- [Trim Audio Files Without Installing Software](https://dev.to/michael_lip_52d5151c3e364/trim-audio-files-without-installing-software-5p4)
+- [I paid for an Instagram API with 3 lines of code — no signup, no API keys](https://dev.to/socialinteldev/i-paid-for-an-instagram-api-with-3-lines-of-code-no-signup-no-api-keys-25g2)
+- [Audio Formats Explained: When to Use MP3, WAV, FLAC, OGG, and AAC](https://dev.to/michael_lip_52d5151c3e364/audio-formats-explained-when-to-use-mp3-wav-flac-ogg-and-aac-4h04)
+- [Aspect Ratios Explained: Why Your Images Look Stretched](https://dev.to/michael_lip_52d5151c3e364/aspect-ratios-explained-why-your-images-look-stretched-f24)
+- [A 1-hour experiment: vibe-coding an app to break the ice at a networking event](https://dev.to/javz/a-1-hour-experiment-vibe-coding-an-app-to-break-the-ice-at-a-networking-event-2721)
 <!-- BLOG-POST-LIST:END -->
 
 ---
