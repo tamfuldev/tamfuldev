@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)
-- [Light and Shadow Settings - Unreal Engine](https://dev.to/adbhut/light-and-shadow-settings-unreal-engine-298p)
-- [Reverse a Linked List – CA22](https://dev.to/mohith_001/reverse-a-linked-list-ca22-4d0p)
-- [Majority Element – CA21](https://dev.to/mohith_001/majority-element-ca21-2dcd)
-- [PrinceJS vs Hono vs Express vs Elysia: Benchmarking the Fastest Bun Frameworks in 2025](https://dev.to/thelittleprince1218/princejs-vs-hono-vs-express-vs-elysia-benchmarking-the-fastest-bun-frameworks-in-2025-c73)
+- [Building a Semantic Search API with Spring Boot and pgvector - Part 3: The Embedding Layer.](https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-3-the-embedding-layer-1pj0)
+- [Shadow AI Risk](https://dev.to/proscan/shadow-ai-risk-2nj6)
+- [I built an open-source PostgreSQL backup manager — self-host it in one command](https://dev.to/kiraaziz/i-built-an-open-source-postgresql-backup-manager-self-host-it-in-one-command-5fk6)
+- [Why silence isn’t the best for focus &lpar;and what I built instead&rpar;](https://dev.to/tommy_dev_85880fcbebf5df0/im-tommy-15-and-i-built-a-focus-app-people-actually-stick-to-gd3)
+- [Build a Content Performance Benchmarker: Are Your Numbers Good or Bad?](https://dev.to/olams/build-a-content-performance-benchmarker-are-your-numbers-good-or-bad-3n9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
