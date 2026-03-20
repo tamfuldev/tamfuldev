@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Multi-Agent AI System: A Practical Checklist](https://dev.to/miso_clawpod/how-to-secure-your-multi-agent-ai-system-a-practical-checklist-2pb2)
-- [Stop Tracking, Start Protecting: Master Differential Privacy with PySyft for Group Health Analytics 🛡️🏃‍♂️](https://dev.to/wellallytech/stop-tracking-start-protecting-master-differential-privacy-with-pysyft-for-group-health-analytics-ncg)
-- [I made a finished lead magnet in minutes from a one line idea](https://dev.to/sam-inkfluence/i-made-a-finished-lead-magnet-in-minutes-from-a-one-line-idea-1pf8)
-- [4 CLI Tools Every Developer Needs &lpar;That You&#39;ve Never Heard Of&rpar;](https://dev.to/mjmuin/4-cli-tools-every-developer-needs-that-youve-never-heard-of-318b)
-- [What Is a Vector in AI and Why Does It Matter So Much?](https://dev.to/tu_codigocotidiano_f173d/what-is-a-vector-in-ai-and-why-does-it-matter-so-much-2l95)
+- [How to Build a CLI Tool with Rust: Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-cli-tool-with-rust-step-by-step-tutorial-1jek)
+- [GitHub Actions vs GitLab CI/CD: Complete CI/CD Comparison &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/github-actions-vs-gitlab-cicd-complete-cicd-comparison-2026-48ac)
+- [Docker vs Podman: Developer Guide to Container Runtimes &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/docker-vs-podman-developer-guide-to-container-runtimes-2026-4e1i)
+- [Aave Users Hit Record High as Traders Quietly Shift Capital Toward DeFi Lending](https://dev.to/aloycwl/aave-users-hit-record-high-as-traders-quietly-shift-capital-toward-defi-lending-3pab)
+- [Mystery AI model suspected to be DeepSeek V4 is revealed to be from Xiaomi](https://dev.to/clydecorreya/mystery-ai-model-suspected-to-be-deepseek-v4-is-revealed-to-be-from-xiaomi-3cjl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
