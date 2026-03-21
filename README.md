@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
-- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
-- [How to Build Your First AI Agent: A Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-your-first-ai-agent-a-step-by-step-tutorial-415n)
-- [The teams with $5K AI bills and $50K AI bills are using the same models. Here&#39;s the difference.](https://dev.to/eagleeyethinker/the-teams-with-5k-ai-bills-and-50k-ai-bills-are-using-the-same-models-heres-the-difference-5bi5)
-- [The Next Big Trend in AI: Tool-Using Agents](https://dev.to/safdarali25/the-next-big-trend-in-ai-tool-using-agents-5157)
+- [How We Built a Self-Evolving AI Team with OpenClaw](https://dev.to/guanfu_lab/how-we-built-a-self-evolving-ai-team-with-openclaw-6gd)
+- [Best Crypto Wallets 2026: Top Bitcoin &amp; Altcoin Wallets for Security &amp; DeFi Access](https://dev.to/aloycwl/best-crypto-wallets-2026-top-bitcoin-altcoin-wallets-for-security-defi-access-9h1)
+- [Twitter/X Data Extraction in 2026: What Still Works After API Changes](https://dev.to/__8ef7243a4f/twitterx-data-extraction-in-2026-what-still-works-after-api-changes-3kpf)
+- [Stop Hand-Editing JSON: Engineering Your VS Code Theme with YAML](https://dev.to/yuelinghuashu/stop-hand-editing-json-engineering-your-vs-code-theme-with-yaml-1123)
+- [Working with Money in PHP: The Value Object Approach](https://dev.to/initialstacker/working-with-money-in-php-the-value-object-approach-3l6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
