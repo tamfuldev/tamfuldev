@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I discovered a way to create a saveable YouTube Music playlist from any list of video IDs — no OAuth, no login required](https://dev.to/roshan_jaiswal_b3fb04eb75/i-discovered-a-way-to-create-a-saveable-youtube-music-playlist-from-any-list-of-video-ids-no-40nn)
-- [Will AI Take Your Job?](https://dev.to/abhip_me/will-ai-take-your-job-2032)
-- [Move All Negative Elements to end](https://dev.to/s_a_r_a/move-all-negative-elements-to-end-1lc2)
-- [AI Citation Registries and Timestamp Signal Failure in AI Interpretation](https://dev.to/aigistry/ai-citation-registries-and-timestamp-signal-failure-in-ai-interpretation-fc1)
-- [Getting Started with Seal Report: Building Your First Data Table from SQL Server](https://dev.to/vladg_dev/getting-started-with-seal-report-building-your-first-data-table-from-sql-server-140g)
+- [Invited talk about: Adversarial Attacks and Defenses in Deep Learning Systems: Threats, Mechanisms, and Countermeasures](https://dev.to/thanidasangkasanya/invited-talk-about-adversarial-attacks-and-defenses-in-deep-learning-systems-threats-mechanisms-fig)
+- [What MCP Actually Is &lpar;And Why It Exists&rpar;](https://dev.to/catheryn/what-mcp-actually-is-and-why-it-exists-3e1j)
+- [Let&#39;s build a Production-Grade Bloom Filter in Python](https://dev.to/shogun_the_grt/lets-build-a-production-grade-bloom-filter-in-python-j34)
+- [Terraform State: The One File You Can&#39;t Afford to Lose](https://dev.to/aws-builders/terraform-state-the-one-file-you-cant-afford-to-lose-33l4)
+- [Moves Zeroes](https://dev.to/jaya_srij_c37a6ea796335c/moves-zeroes-3l0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
