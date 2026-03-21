@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Dev Toolbox That Runs 100% in Your Browser](https://dev.to/rishu_777/i-built-a-free-dev-toolbox-that-runs-100-in-your-browser-388)
-- [Go Slices: Why Your Function Isn&#39;t Changing What You Think It Is](https://dev.to/rahultomer/go-slices-why-your-function-isnt-changing-what-you-think-it-is-3n9d)
-- [Graceful Shutdown in Node.js: Stop Dropping Requests &lpar;2026&rpar;](https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p)
-- [Typography System Guide](https://dev.to/alansdead/typography-system-guide-42b8)
-- [BullMQ Job Queues in Node.js: Background Processing Done Right &lpar;2026 Guide&rpar;](https://dev.to/young_gao/bullmq-job-queues-background-processing-in-nodejs-done-right-5306)
+- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
+- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
+- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
+- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
+- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
