@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
-- [Production Challenges with SSE](https://dev.to/saras_growth_space/production-challenges-with-sse-3k7g)
-- [[Boost]](https://dev.to/elizabethfuentes12/-33p8)
-- [Build SSE in Python &lpar;FastAPI&rpar;](https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c)
-- [How to scrape TikTok search results: A complete guide for 2026](https://dev.to/eunit/how-to-scrape-tiktok-search-results-a-complete-guide-for-2026-17nm)
+- [Golang vs JavaScript](https://dev.to/charles_otugeh_fc71c7b02d/golang-vs-javascript-25aa)
+- [Deorbiting the ISS: The $843 Million Engineering Challenge to Safely Crash a 420-Ton Space Station [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/deorbiting-the-iss-the-843-million-engineering-challenge-to-safely-crash-a-420-ton-space-station-579d)
+- [I Added a Meeting to Feel Like a Leader](https://dev.to/jonoherrington/i-added-a-meeting-to-feel-like-a-leader-39ek)
+- [Why AI Agent Memory Systems Fail in Production &lpar;And How I Fixed Mine&rpar;](https://dev.to/bobrenze/why-ai-agent-memory-systems-fail-in-production-and-how-i-fixed-mine-141d)
+- [The AI Eval Tax: The Hidden Cost Every Agent Team Is Paying](https://dev.to/irparent/the-ai-eval-tax-the-hidden-cost-every-agent-team-is-paying-2i28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
