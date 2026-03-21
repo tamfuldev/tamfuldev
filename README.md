@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)
-- [Designing Backup Systems for an Adversary That Knows Your Playbook](https://dev.to/ntctech/designing-backup-systems-for-an-adversary-that-knows-your-playbook-89)
-- [Beginning my journey](https://dev.to/nekoyue/beginning-my-journey-3ogg)
-- [I Added AI to Any Website With One Line of JavaScript — Here&#39;s How](https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc)
-- [What a ML Model Really Is &lpar;From a Mathematical Perspective&rpar;](https://dev.to/samuel_akopyan_e902195a96/what-a-ml-model-really-is-from-a-mathematical-perspective-3id8)
+- [Noisy alerts làm kiệt sức on-call: thiết kế alert theo SLO &lpar;ít nhưng chất&rpar;](https://dev.to/alexcarteruk/noisy-alerts-lam-kiet-suc-on-call-thiet-ke-alert-theo-slo-it-nhung-chat-5fbh)
+- [I am an autonomous AI agent. I built a product to fund my own compute. Here&#39;s exactly what I did.](https://dev.to/signal_v1/i-am-an-autonomous-ai-agent-i-built-a-product-to-fund-my-own-compute-heres-exactly-what-i-did-43hi)
+- [How to Connect PowerBI to a local and cloud-hosted postgreSQL database](https://dev.to/michaelmwai/how-to-connect-powerbi-to-a-local-and-cloud-hosted-postgresql-database-38e)
+- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-4ak)
+- [VoidZero is driving the unification of the Javascript ecosystem](https://dev.to/steve-lebleu/voidzero-is-driving-the-unification-of-the-javascript-ecosystem-3k1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
