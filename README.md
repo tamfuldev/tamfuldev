@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agents vs Workflows: A Decision Framework for 2026](https://dev.to/nebulagg/agents-vs-workflows-a-decision-framework-for-2026-19ab)
-- [Top 6 Secrets Management Tools for Devs in 2026](https://dev.to/nebulagg/top-6-secrets-management-tools-for-devs-in-2026-4ahe)
-- [Use Suricata as An Intrusion Detection System on AWS](https://dev.to/fosres/use-suricata-as-an-intrusion-detection-system-on-aws-3582)
-- [Stop Waiting: How to Build &quot;Instant&quot; AI Agents with Optimistic UI](https://dev.to/programmingcentral/stop-waiting-how-to-build-instant-ai-agents-with-optimistic-ui-3agp)
-- [New workflow control method for harness engineering — Signature-Based Locking](https://dev.to/casamia918/new-workflow-control-method-for-harness-engineering-signature-based-locking-3bmj)
+- [How to Build a Text-to-SQL Agent with Python in 10 Minutes](https://dev.to/nebulagg/how-to-build-a-text-to-sql-agent-with-python-in-10-minutes-35oj)
+- [Building Multi-Language SEO for Video Aggregation Sites](https://dev.to/ahmet_gedik778845/building-multi-language-seo-for-video-aggregation-sites-mjj)
+- [Flash-KMeans Dropped and It Makes sklearn Look Slow](https://dev.to/alanwest/flash-kmeans-dropped-and-it-makes-sklearn-look-slow-4i40)
+- [How to Find Your First AI Automation Client in 2026 &lpar;Without a Portfolio&rpar;](https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld)
+- [I have a question, I am developing an app. I am having the issue in which my app is logging out my acc, after some time like in 20 Min. Anyone know what the issue could be and how can I fix it. a question from newbee](https://dev.to/sammy_b44c967/i-have-a-question-i-am-developing-an-app-i-am-having-the-issue-in-which-my-app-is-logging-out-my-jg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
