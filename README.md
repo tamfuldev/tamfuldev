@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Tracing with OpenTelemetry: A Practical Guide for Go Services](https://dev.to/young_gao/distributed-tracing-with-opentelemetry-a-practical-guide-for-go-services-pep)
-- [How I Built a Serverless IoT Pipeline on AWS](https://dev.to/foldedodin/how-i-built-a-serverless-iot-pipeline-on-aws-49c)
-- [Flutter Interview Questions Part 3: State Management Deep Dive](https://dev.to/anurag_dev/flutter-interview-questions-part-3-state-management-deep-dive-1d6i)
-- [Your AI Agent Says All Tests Pass. Your App Is Still Broken](https://dev.to/kensave/your-ai-agent-says-all-tests-pass-your-app-is-still-broken-4jbe)
-- [Azure AI Agent Function Calling: Connect Your Agent to APIs with Terraform 🔌](https://dev.to/suhas_mallesh/azure-ai-agent-function-calling-connect-your-agent-to-apis-with-terraform-3fg1)
+- [5 CLAUDE.md Patterns That Actually Work in Production](https://dev.to/hideyoshi_th/5-claudemd-patterns-that-actually-work-in-production-5ho)
+- [I Texted Claude From the Subway — Came Back to a Finished Slide Deck on My Mac](https://dev.to/ji_ai/i-texted-claude-from-the-subway-came-back-to-a-finished-slide-deck-on-my-mac-2ad7)
+- [Claude Dispatch Has a 50% Success Rate — Here&#39;s Why I&#39;m Still Using It](https://dev.to/ji_ai/claude-dispatch-has-a-50-success-rate-heres-why-im-still-using-it-58gk)
+- [3 Plugins vs 200K Stars: Why I Still Pick Claude Code Channels Over OpenClaw](https://dev.to/ji_ai/3-plugins-vs-200k-stars-why-i-still-pick-claude-code-channels-over-openclaw-2pce)
+- [I Control Claude Code From My Phone Now — Here&#39;s the 5-Minute Telegram Setup](https://dev.to/ji_ai/i-control-claude-code-from-my-phone-now-heres-the-5-minute-telegram-setup-3b99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
