@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
-- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
-- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
-- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
-- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
+- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)
+- [Designing Backup Systems for an Adversary That Knows Your Playbook](https://dev.to/ntctech/designing-backup-systems-for-an-adversary-that-knows-your-playbook-89)
+- [Beginning my journey](https://dev.to/nekoyue/beginning-my-journey-3ogg)
+- [I Added AI to Any Website With One Line of JavaScript — Here&#39;s How](https://dev.to/orrdee/i-added-ai-to-any-website-with-one-line-of-javascript-heres-how-36dc)
+- [What a ML Model Really Is &lpar;From a Mathematical Perspective&rpar;](https://dev.to/samuel_akopyan_e902195a96/what-a-ml-model-really-is-from-a-mathematical-perspective-3id8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
