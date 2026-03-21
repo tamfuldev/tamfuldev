@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 CLAUDE.md Patterns That Actually Work in Production](https://dev.to/hideyoshi_th/5-claudemd-patterns-that-actually-work-in-production-5ho)
-- [I Texted Claude From the Subway — Came Back to a Finished Slide Deck on My Mac](https://dev.to/ji_ai/i-texted-claude-from-the-subway-came-back-to-a-finished-slide-deck-on-my-mac-2ad7)
-- [Claude Dispatch Has a 50% Success Rate — Here&#39;s Why I&#39;m Still Using It](https://dev.to/ji_ai/claude-dispatch-has-a-50-success-rate-heres-why-im-still-using-it-58gk)
-- [3 Plugins vs 200K Stars: Why I Still Pick Claude Code Channels Over OpenClaw](https://dev.to/ji_ai/3-plugins-vs-200k-stars-why-i-still-pick-claude-code-channels-over-openclaw-2pce)
-- [I Control Claude Code From My Phone Now — Here&#39;s the 5-Minute Telegram Setup](https://dev.to/ji_ai/i-control-claude-code-from-my-phone-now-heres-the-5-minute-telegram-setup-3b99)
+- [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](https://dev.to/haider_hussainkagalwala_/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-5hn7)
+- [Why the Next Generation of Creator Tools Must Prioritize Authenticity Over Automation](https://dev.to/tacit_71799acf6d056b5155c/why-the-next-generation-of-creator-tools-must-prioritize-authenticity-over-automation-1p10)
+- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4)
+- [Angular - Power Of Renderer2](https://dev.to/krivanek06/angular-power-of-renderer2-3ap8)
+- [Introducing helping-js v2: A Zero-Dependency Utility Library to Level Up Your App](https://dev.to/parsajiravand/introducing-helping-js-v2-a-zero-dependency-utility-library-to-level-up-your-app-5cip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
