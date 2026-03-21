@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Stake Was Governance Outside the Schema. MICA v0.1.5 Pulled It In](https://dev.to/flamehaven01/the-stake-was-governance-outside-the-schema-mica-v015-pulled-it-in-46n9)
-- [We Built a Flight Simulator for Your Product](https://dev.to/nk90600/we-built-a-flight-simulator-for-your-product-k6)
-- [CA 05 - Reverse the array](https://dev.to/jonah_blessy_66f109370d96/ca-05-reverse-the-array-l6l)
-- [Guess Number Higher or Lower](https://dev.to/christina_sharons_2b3205/guess-number-higher-or-lower-pbp)
-- [Why Your AI Agent&#39;s Shell Access Is a Security Nightmare &lpar;And How to Fix It&rpar;](https://dev.to/alanwest/why-your-ai-agents-shell-access-is-a-security-nightmare-and-how-to-fix-it-53g2)
+- [I discovered a way to create a saveable YouTube Music playlist from any list of video IDs — no OAuth, no login required](https://dev.to/roshan_jaiswal_b3fb04eb75/i-discovered-a-way-to-create-a-saveable-youtube-music-playlist-from-any-list-of-video-ids-no-40nn)
+- [Will AI Take Your Job?](https://dev.to/abhip_me/will-ai-take-your-job-2032)
+- [Move All Negative Elements to end](https://dev.to/s_a_r_a/move-all-negative-elements-to-end-1lc2)
+- [AI Citation Registries and Timestamp Signal Failure in AI Interpretation](https://dev.to/aigistry/ai-citation-registries-and-timestamp-signal-failure-in-ai-interpretation-fc1)
+- [Getting Started with Seal Report: Building Your First Data Table from SQL Server](https://dev.to/vladg_dev/getting-started-with-seal-report-building-your-first-data-table-from-sql-server-140g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
