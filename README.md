@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Self-Evolving AI Team with OpenClaw](https://dev.to/guanfu_lab/how-we-built-a-self-evolving-ai-team-with-openclaw-6gd)
-- [Best Crypto Wallets 2026: Top Bitcoin &amp; Altcoin Wallets for Security &amp; DeFi Access](https://dev.to/aloycwl/best-crypto-wallets-2026-top-bitcoin-altcoin-wallets-for-security-defi-access-9h1)
-- [Twitter/X Data Extraction in 2026: What Still Works After API Changes](https://dev.to/__8ef7243a4f/twitterx-data-extraction-in-2026-what-still-works-after-api-changes-3kpf)
-- [Stop Hand-Editing JSON: Engineering Your VS Code Theme with YAML](https://dev.to/yuelinghuashu/stop-hand-editing-json-engineering-your-vs-code-theme-with-yaml-1123)
-- [Working with Money in PHP: The Value Object Approach](https://dev.to/initialstacker/working-with-money-in-php-the-value-object-approach-3l6n)
+- [Snowflake vs Redshift vs BigQuery: Which One Should You Use?](https://dev.to/neha_christina_1ac8651819/snowflake-vs-redshift-vs-bigquery-which-one-should-you-use-52jf)
+- [Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools](https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03)
+- [Agents in 60 lines of python : Part 3](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-3-1pa)
+- [The agent that does everything is lying to you](https://dev.to/seakai/the-agent-that-does-everything-is-lying-to-you-167p)
+- [I built an MTD readiness kit because HMRC&#39;s guidance is unusable](https://dev.to/landolio/i-built-an-mtd-readiness-kit-because-hmrcs-guidance-is-unusable-5e4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
