@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structured User Data for My AI SaaS](https://dev.to/azeezroheem/how-i-structured-user-data-for-my-ai-saas-461p)
-- [I Got Tired of 10 Browser Tabs for Crypto Trading, So I Built an Open-Source Desktop App](https://dev.to/larrywallet/i-got-tired-of-10-browser-tabs-for-crypto-trading-so-i-built-an-open-source-desktop-app-2189)
-- [CA 16 -Guess the Number Higher or Lower](https://dev.to/suruthika_635f93a26b450ac/ca-16-guess-the-number-higher-or-lower-4ied)
-- [How to Create and Sell an Online Course in 2026 &lpar;Zero Budget, Maximum Profit&rpar;](https://dev.to/ottoaria/how-to-create-and-sell-an-online-course-in-2026-zero-budget-maximum-profit-3mog)
-- [I Built a Firefox Extension That Fills Any Form Instantly — No More Typing Test Data 🚀](https://dev.to/code_aprogram_a378e1dbf1/i-built-a-firefox-extension-that-fills-any-form-instantly-no-more-typing-test-data-47o9)
+- [Your Pull Requests Are Being Ignored. Fix It with This Simple Bot](https://dev.to/eldemcan/your-pull-requests-are-being-ignored-fix-it-with-this-simple-bot-124f)
+- [AI Agent Monitoring SaaS: How to Scale Reliable OpenClaw Agents with Confidence](https://dev.to/chiefwebofficer/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence-4nne)
+- [I Just Published My First App on the App Store](https://dev.to/saratnazari/i-just-published-my-first-app-on-the-app-store-327)
+- [Beyond the Chatbot: Engineering a Hybrid AI Math Tutor for the Future](https://dev.to/devadhithiya/beyond-the-chatbot-engineering-a-hybrid-ai-math-tutor-for-the-future-86g)
+- [Why I Ditched Next.js and Rebuilt My Site with Astro](https://dev.to/waseemrajashaik/why-i-ditched-nextjs-and-rebuilt-my-site-with-astro-2moh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
