@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
-- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
-- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
-- [U.S. Solar Installations Dropped in 2025 After Trump’s Clean Energy Critique – What It Means for the Future](https://dev.to/aloycwl/us-solar-installations-dropped-in-2025-after-trumps-clean-energy-critique-what-it-means-for-2e5i)
-- [I Built a Redis Alternative in Rust — MnemeCache](https://dev.to/vusalrahimov/i-built-a-redis-alternative-in-rust-mnemecache-1dd2)
+- [Next.js 16.2 Just Changed AI Coding Forever](https://dev.to/safdarali25/nextjs-162-just-changed-ai-coding-forever-17dl)
+- [Hack Your Stress: Real-time HRV Analysis with Web Bluetooth and Polar H10](https://dev.to/wellallytech/hack-your-stress-real-time-hrv-analysis-with-web-bluetooth-and-polar-h10-4ica)
+- [Building My First Generative AI Journey with Kiro](https://dev.to/davidkljajo/building-my-first-generative-ai-journey-with-kiro-44h2)
+- [Cybeetle: A Practical AI Layer for Security Analysis in Modern Codebases](https://dev.to/angeltimilsina/cybeetle-a-practical-ai-layer-for-security-analysis-in-modern-codebases-5d12)
+- [Boost Your Agents with MCPs - MCP Fundamentals](https://dev.to/mindy_jen_phd/boost-your-agents-with-mcps-mcp-fundamentals-14ok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
