@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Spent a Week Evaluating a Context Compression Tool, Then Killed It](https://dev.to/lindemansnissa634shipit/we-spent-a-week-evaluating-a-context-compression-tool-then-killed-it-18dm)
-- [Designing for Throwaway-ability in the AI Coding Era](https://dev.to/xjamundx/designing-for-throwaway-ability-in-the-ai-coding-era-1b9p)
-- [Real World vs Theory Lessons](https://dev.to/nagesh_k_2003/real-world-vs-theory-lessons-2flf)
-- [Aegis — I built an open-source secrets broker because CyberArk costs more than my salary](https://dev.to/gustavothethird/aegis-i-built-an-open-source-secrets-broker-because-cyberark-costs-more-than-my-salary-4mmf)
-- [Choosing a model means measuring cost vs quality on your data](https://dev.to/amandamartindev/choosing-a-model-means-measuring-cost-vs-quality-on-your-data-1e58)
+- [Understanding C++ Pointers: The Power Behind the Address](https://dev.to/arto-b/understanding-c-pointers-the-power-behind-the-address-1lnl)
+- [How to Generate PDFs from FileMaker with a REST API](https://dev.to/zerolooplabs/how-to-generate-pdfs-from-filemaker-with-a-rest-api-5a4n)
+- [Generating Unit Tests from Kode Sherpa](https://dev.to/syedghufranhassan/generating-unit-tests-from-kode-sherpa-cmj)
+- [Handling URL Parameters in Golang with Chi Router](https://dev.to/luthfisauqi17/handling-url-parameters-in-golang-with-chi-router-4mlm)
+- [What problem does this solve?](https://dev.to/avail404admin/what-problem-does-this-solve-7c7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
