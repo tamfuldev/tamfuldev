@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Product-Market Fit? 12 Metrics to Measure It](https://dev.to/yos/what-is-product-market-fit-12-metrics-to-measure-it-277g)
-- [What Is Consumer Crypto? Are Dapps the Future for Consumers?](https://dev.to/yos/what-is-consumer-crypto-are-dapps-the-future-for-consumers-4kk4)
-- [The AI Incident Report Template I Actually Use for Wrong Answers and Tool Failures](https://dev.to/optyxstack/the-ai-incident-report-template-i-actually-use-for-wrong-answers-and-tool-failures-174l)
-- [What Is Churn Rate? How to Calculate Churn Rate and Create Effective Churn Surveys](https://dev.to/yos/what-is-churn-rate-how-to-calculate-churn-rate-and-create-effective-churn-surveys-358c)
-- [Dapp Analytics Explained: Key Metrics, Benefits, and Strategies for Web3 Growth](https://dev.to/yos/dapp-analytics-explained-key-metrics-benefits-and-strategies-for-web3-growth-346h)
+- [We Spent a Week Evaluating a Context Compression Tool, Then Killed It](https://dev.to/lindemansnissa634shipit/we-spent-a-week-evaluating-a-context-compression-tool-then-killed-it-18dm)
+- [Designing for Throwaway-ability in the AI Coding Era](https://dev.to/xjamundx/designing-for-throwaway-ability-in-the-ai-coding-era-1b9p)
+- [Real World vs Theory Lessons](https://dev.to/nagesh_k_2003/real-world-vs-theory-lessons-2flf)
+- [Aegis — I built an open-source secrets broker because CyberArk costs more than my salary](https://dev.to/gustavothethird/aegis-i-built-an-open-source-secrets-broker-because-cyberark-costs-more-than-my-salary-4mmf)
+- [Choosing a model means measuring cost vs quality on your data](https://dev.to/amandamartindev/choosing-a-model-means-measuring-cost-vs-quality-on-your-data-1e58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
