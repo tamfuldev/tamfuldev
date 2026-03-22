@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Data Rarely Disappears From the Internet](https://dev.to/ariana_1cd1f38541bf6cd69f/why-data-rarely-disappears-from-the-internet-209a)
-- [The 15 Linux Find Commands That Will Save You Hours](https://dev.to/benriemer/the-15-linux-find-commands-that-will-save-you-hours-2bho)
-- [Why Digital Governance Fails Before Data Even Exists](https://dev.to/shikharjha/why-digital-governance-fails-before-data-even-exists-cin)
-- [Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM — A Decision Guide for AWS Credit Burners](https://dev.to/aws-builders/bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01)
-- [CA 07 - Kth Smallest](https://dev.to/jonah_blessy_66f109370d96/ca-07-kth-smallest-2clh)
+- [🚀 Stop Writing Scrapers — I Built a Web Data Extractor API with Puppeteer &lpar;Full Code&rpar;](https://dev.to/kushan20070126/stop-writing-scrapers-i-built-a-web-data-extractor-api-with-puppeteer-full-code-1cnj)
+- [Native AOT in .NET 10: Everything for C# Developers](https://dev.to/chandana_pushpakumara_4bf/native-aot-in-net-10-everything-for-c-developers-2m7e)
+- [Move All Negative Elements End](https://dev.to/md_mubashir/move-all-negative-elements-end-1kic)
+- [20 Days Running an AI Agent Unsupervised — What Actually Happened](https://dev.to/adam_cipher/20-days-running-an-ai-agent-unsupervised-what-actually-happened-375i)
+- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://dev.to/trendstackdev/grafeo-a-fast-lean-embeddable-graph-database-built-in-rust-3o08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
