@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16.2 Just Changed AI Coding Forever](https://dev.to/safdarali25/nextjs-162-just-changed-ai-coding-forever-17dl)
-- [Hack Your Stress: Real-time HRV Analysis with Web Bluetooth and Polar H10](https://dev.to/wellallytech/hack-your-stress-real-time-hrv-analysis-with-web-bluetooth-and-polar-h10-4ica)
-- [Building My First Generative AI Journey with Kiro](https://dev.to/davidkljajo/building-my-first-generative-ai-journey-with-kiro-44h2)
-- [Cybeetle: A Practical AI Layer for Security Analysis in Modern Codebases](https://dev.to/angeltimilsina/cybeetle-a-practical-ai-layer-for-security-analysis-in-modern-codebases-5d12)
-- [Boost Your Agents with MCPs - MCP Fundamentals](https://dev.to/mindy_jen_phd/boost-your-agents-with-mcps-mcp-fundamentals-14ok)
+- [They Built for 18 Months Then Discovered Their Brand Name Was Already Taken](https://dev.to/indiebuilderlabs/they-built-for-18-months-then-discovered-their-brand-name-was-already-taken-kje)
+- [Agents in 60 lines of python : Part 4](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-4-j7b)
+- [I built an open-source tool to query on-prem databases and DynamoDB in plain English](https://dev.to/shailesh_kadam_d29d9e690a/i-built-an-open-source-tool-to-query-on-prem-databases-and-dynamodb-in-plain-english-4gjn)
+- [The Complete OpenClaw Security Hardening Guide: 8 Steps Before It&#39;s Too Late](https://dev.to/counterinteng/the-complete-openclaw-security-hardening-guide-8-steps-before-its-too-late-3fh)
+- [Spring AI 1.1 and theModel Context Protocol:Building Production AI AgentsWithout the Python Tax](https://dev.to/clydecorreya/spring-ai-11-and-themodel-context-protocolbuilding-production-ai-agentswithout-the-python-tax-3n4g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
