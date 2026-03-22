@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Experienced Developer Struggles to Land Job Despite Open-Source Success; Seeks Solutions Amid Financial Strain](https://dev.to/serbyte/experienced-developer-struggles-to-land-job-despite-open-source-success-seeks-solutions-amid-24hp)
-- [Adding Attribute-Based Access Control to a Real-Time Collaborative App with OpenTDF](https://dev.to/eugenioenko/adding-attribute-based-access-control-to-a-real-time-collaborative-app-with-opentdf-3pf1)
-- [Install Windscribe VPN Client in a Distrobox Container on Any Linux Distro!](https://dev.to/archerallstars/install-windscribe-vpn-client-in-a-distrobox-container-on-any-linux-distro-1e4f)
-- [Analyzing Akamai BMP 4.1.3 - Part 1 - For Noobs Learn](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-1-for-noobs-learn-4pmm)
-- [Sort a Linked List using Merge Sort](https://dev.to/ashiq_omar/sort-a-linked-list-using-merge-sort-4nfg)
+- [WICK-DOM-OBSERVER: The Deterministic Cypress Plugin for Fast Spinners, Blinking Toasts, Optional Overlays, and UI’s Most Wanted](https://dev.to/sebastianclavijo/wick-dom-observer-the-deterministic-cypress-plugin-for-fast-spinners-blinking-toasts-optional-4e59)
+- [I benchmarked every Go SQL parser in 2026 and built my own](https://dev.to/ajit_pratapsingh_02ab85b/i-benchmarked-every-go-sql-parser-in-2026-and-built-my-own-2j9n)
+- [How I Developed PublikoPH with AI-Assisted Programming](https://dev.to/jah/how-i-developed-publikoph-with-ai-assisted-programming-ml6)
+- [I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory](https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3)
+- [Multi-Agent Orchestration on AWS: Supervisor Pattern with Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-orchestration-on-aws-supervisor-pattern-with-terraform-1e9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
