@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WICK-DOM-OBSERVER: The Deterministic Cypress Plugin for Fast Spinners, Blinking Toasts, Optional Overlays, and UI’s Most Wanted](https://dev.to/sebastianclavijo/wick-dom-observer-the-deterministic-cypress-plugin-for-fast-spinners-blinking-toasts-optional-4e59)
-- [I benchmarked every Go SQL parser in 2026 and built my own](https://dev.to/ajit_pratapsingh_02ab85b/i-benchmarked-every-go-sql-parser-in-2026-and-built-my-own-2j9n)
-- [How I Developed PublikoPH with AI-Assisted Programming](https://dev.to/jah/how-i-developed-publikoph-with-ai-assisted-programming-ml6)
-- [I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory](https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3)
-- [Multi-Agent Orchestration on AWS: Supervisor Pattern with Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-orchestration-on-aws-supervisor-pattern-with-terraform-1e9j)
+- [Axiowisp 0.3.5 Is Out — Split Editor and AI Slash Commands](https://dev.to/templeenterprise/axiowisp-035-is-out-split-editor-and-ai-slash-commands-3bao)
+- [DBMerge: A database-agnostic Python UPSERT module to simplify ETL pipelines](https://dev.to/pavel-v-sobolev/dbmerge-a-database-agnostic-python-upsert-module-to-simplify-etl-pipelines-2nkp)
+- [I Built a Graph-Based Tool Search Engine for LLM Agents — Here&#39;s What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
+- [First and Last Occurrences](https://dev.to/padma_priya_815d0cd613d0c/first-and-last-occurrences-2pna)
+- [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
 <!-- BLOG-POST-LIST:END -->
 
 ---
