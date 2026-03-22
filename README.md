@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Measuring CAC and LTV for Onchain Apps](https://dev.to/yos/ultimate-guide-to-measuring-cac-and-ltv-for-onchain-apps-54p5)
-- [Python Básico para Jornalistas](https://dev.to/anaccortez/python-basico-para-jornalistas-5aac)
-- [Arbitrum Stylus, Layer 2s, and My HackQuest Journey](https://dev.to/prudhviraj/arbitrum-stylus-layer-2s-and-my-hackquest-journey-5ddg)
-- [Istio 핵심 개념 정리](https://dev.to/shingyeongseon/istio-haegsim-gaenyeom-jeongri-g39)
-- [Overcoming Employment Barriers: Strategies for Re-entering the Workforce After a Career Break](https://dev.to/svetlix/overcoming-employment-barriers-strategies-for-re-entering-the-workforce-after-a-career-break-2745)
+- [How to Unify Onchain and Offchain Data](https://dev.to/yos/how-to-unify-onchain-and-offchain-data-4oha)
+- [What is a Web3 CDP? Benefits, Use Cases &amp; How It Works](https://dev.to/yos/what-is-a-web3-cdp-benefits-use-cases-how-it-works-2d1o)
+- [Web3 CRM Explained: How to Manage and Analyze Onchain Customer Data](https://dev.to/yos/web3-crm-explained-how-to-manage-and-analyze-onchain-customer-data-h8a)
+- [Build vs Buy Web3 Analytics: The Complete Decision Framework](https://dev.to/yos/build-vs-buy-web3-analytics-the-complete-decision-framework-2m56)
+- [Different Sorting Methodologies](https://dev.to/anjana_rk_fbdea7abbdf13/different-sorting-methodologies-2hfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
