@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding C++ Pointers: The Power Behind the Address](https://dev.to/arto-b/understanding-c-pointers-the-power-behind-the-address-1lnl)
-- [How to Generate PDFs from FileMaker with a REST API](https://dev.to/zerolooplabs/how-to-generate-pdfs-from-filemaker-with-a-rest-api-5a4n)
-- [Generating Unit Tests from Kode Sherpa](https://dev.to/syedghufranhassan/generating-unit-tests-from-kode-sherpa-cmj)
-- [Handling URL Parameters in Golang with Chi Router](https://dev.to/luthfisauqi17/handling-url-parameters-in-golang-with-chi-router-4mlm)
-- [What problem does this solve?](https://dev.to/avail404admin/what-problem-does-this-solve-7c7)
+- [How I Structured User Data for My AI SaaS](https://dev.to/azeezroheem/how-i-structured-user-data-for-my-ai-saas-461p)
+- [I Got Tired of 10 Browser Tabs for Crypto Trading, So I Built an Open-Source Desktop App](https://dev.to/larrywallet/i-got-tired-of-10-browser-tabs-for-crypto-trading-so-i-built-an-open-source-desktop-app-2189)
+- [CA 16 -Guess the Number Higher or Lower](https://dev.to/suruthika_635f93a26b450ac/ca-16-guess-the-number-higher-or-lower-4ied)
+- [How to Create and Sell an Online Course in 2026 &lpar;Zero Budget, Maximum Profit&rpar;](https://dev.to/ottoaria/how-to-create-and-sell-an-online-course-in-2026-zero-budget-maximum-profit-3mog)
+- [I Built a Firefox Extension That Fills Any Form Instantly — No More Typing Test Data 🚀](https://dev.to/code_aprogram_a378e1dbf1/i-built-a-firefox-extension-that-fills-any-form-instantly-no-more-typing-test-data-47o9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
