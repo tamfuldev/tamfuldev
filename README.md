@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 49 of #100DayOfCode — Deployment II: Deploy Frontend](https://dev.to/m_saad_ahmad/day-49-of-100dayofcode-deployment-ii-deploy-frontend-5c55)
-- [I built a Branch.io alternative for $79/mo instead of $499](https://dev.to/stefanobholz/i-built-a-branchio-alternative-for-79mo-instead-of-499-50oe)
-- [I got tired of re-explaining my workload to AI every morning, so I built something](https://dev.to/mark_tycana/i-got-tired-of-re-explaining-my-workload-to-ai-every-morning-so-i-built-something-3g53)
-- [My progress using AI](https://dev.to/true63/my-progress-using-ai-5e8d)
-- [The FHIR Sandbox Problem: Why Open Epic Won&#39;t Get You to Your First Customer](https://dev.to/mockhealth/the-fhir-sandbox-problem-why-open-epic-wont-get-you-to-your-first-customer-4nea)
+- [ASP.NET Core startup validation part 4](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-part-4-597d)
+- [AI Can Speed Up Code Review — but Merge Decisions Still Need Deterministic Guardrails](https://dev.to/mvtavares/ai-can-speed-up-code-review-but-merge-decisions-still-need-deterministic-guardrails-2l85)
+- [Top 6 AI Agent Memory Frameworks for Devs &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-agent-memory-frameworks-for-devs-2026-1fef)
+- [Idempotency Architecture for Lambda-Driven Systems on AWS](https://dev.to/aws-builders/idempotency-architecture-for-lambda-driven-systems-on-aws-3hp4)
+- [Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web](https://dev.to/chinedu/building-production-ready-multi-tenant-saas-in-rust-with-actix-web-i1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
