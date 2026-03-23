@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
-- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
-- [Uh oh... Cloudflare just turned evil](https://dev.to/fabianfrankwerner/uh-oh-cloudflare-just-turned-evil-42pc)
-- [Is this &quot;Nano Banana&quot; image for real?](https://dev.to/lee12/is-this-nano-banana-image-for-real-47f5)
-- [What Happens When You Bring LLMs Into a Semiconductor FAB — 5 ArXiv Papers, Brutally Honest Reviews](https://dev.to/plasmon_imp/what-happens-when-you-bring-llms-into-a-semiconductor-fab-5-arxiv-papers-brutally-honest-reviews-28pe)
+- [33+ AI Prompts for DeFi Marketers &lpar;And How to Write Your Own&rpar;](https://dev.to/yos/33-ai-prompts-for-defi-marketers-and-how-to-write-your-own-56aj)
+- [Agentic Analytics for DeFi &amp; Crypto Growth Teams with Formo&#39;s Ask AI](https://dev.to/yos/agentic-analytics-for-defi-crypto-growth-teams-with-formos-ask-ai-i49)
+- [How to Build Personalization into Crypto and DeFi Apps with Formo Profiles API](https://dev.to/yos/how-to-build-personalization-into-crypto-and-defi-apps-with-formo-profiles-api-b9i)
+- [Common DeFi Marketing Mistakes That Waste Budget &lpar;And How to Avoid Them&rpar;](https://dev.to/yos/common-defi-marketing-mistakes-that-waste-budget-and-how-to-avoid-them-1k71)
+- [DeFi Marketing Playbooks by Stage: Pre-Launch, Launch, and Post-Launch Growth](https://dev.to/yos/defi-marketing-playbooks-by-stage-pre-launch-launch-and-post-launch-growth-234f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
