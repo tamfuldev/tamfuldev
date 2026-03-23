@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 29: Writable File Exploitation — Turning &quot;Bad Permissions&quot; into Root Shells 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-29-writable-file-exploitation-turning-bad-permissions-into-root-shells-3ka4)
-- [Vercel’s &quot;Agentic&quot; Shift: Is Your Proprietary Code Now Training AI?](https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h)
-- [I stopped storing chats and built a stateful study agent instead !!](https://dev.to/krayr/i-stopped-storing-chats-and-built-a-stateful-study-agent-instead--45dm)
-- [Ursnif Malware — Reconstructing a 6-Stage Infection Chain from a PCAP](https://dev.to/himanshu_kumarmodi_8646f/ursnif-malware-reconstructing-a-6-stage-infection-chain-from-a-pcap-1n8d)
-- [HazelJS 0.3.0: The AI-Native Framework for Production-Ready Intelligent Applications](https://dev.to/arslan_mecom/hazeljs-030-the-ai-native-framework-for-production-ready-intelligent-applications-a13)
+- [I tuned Hindsight for long conversations](https://dev.to/anjankumar_ln_41a980a9fd/i-tuned-hindsight-for-long-conversations-46k4)
+- [The Particle That Walks Through Walls — And Why Your Phone Depends On It](https://dev.to/bytefluxlab/the-particle-that-walks-through-walls-and-why-your-phone-depends-on-it-53ij)
+- [Programing Concurrency](https://dev.to/tavari/programing-concurrency-d9l)
+- [MCP configs are a silent security risk. I built mcp-scan to fix that.](https://dev.to/rodolfboctor/mcp-configs-are-a-silent-security-risk-i-built-mcp-scan-to-fix-that-5akk)
+- [Your AI Agent Has a Dirty Secret: It Can’t Log In](https://dev.to/dannygerst/your-ai-agent-has-a-dirty-secret-it-cant-log-in-2bln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
