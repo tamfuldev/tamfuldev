@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ESP32 WhatsApp Alerts Made Simple &lpar;No GSM, No Hassle&rpar;](https://dev.to/david_thomas/esp32-whatsapp-alerts-made-simple-no-gsm-no-hassle-phi)
-- [Remote Work: Dream, Freedom, or Something Else?](https://dev.to/anna-freedom-in-tech/remote-work-dream-freedom-or-something-else-2af5)
-- [El recurso gratuito para certificaciones cloud que los hispanohablantes necesitamos](https://dev.to/_2137e95cec9f23d5ed113/el-recurso-gratuito-para-certificaciones-cloud-que-los-hispanohablantes-necesitamos-22oc)
-- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-4ee2)
-- [Managing Media Files in Flask &lpar;Images, Videos, and Audio&rpar;](https://dev.to/cloudinary/managing-media-files-in-flask-images-videos-and-audio-kdk)
+- [Why Product Insights Belong in Your IDE](https://dev.to/productsights/why-product-insights-belong-in-your-ide-119c)
+- [I Built a Webhook Relay on Cloudflare Workers — Here&#39;s Every Bug That Almost Killed It](https://dev.to/eventdock/i-built-a-webhook-relay-on-cloudflare-workers-here-is-every-bug-that-almost-killed-it-22dc)
+- [The &quot;Just Ask AI&quot; Framework](https://dev.to/flinstonedev/the-just-ask-ai-framework-ndp)
+- [Windsurf’s New Update Is Frustrating Everyone | Here’s How to Fix Your Prompts and Stop Hitting Limits](https://dev.to/icornea/windsurfs-new-update-is-frustrating-everyone-heres-how-to-fix-your-prompts-and-stop-hitting-3aij)
+- [The Bug That Only Happened in Production &lpar;and Only on Tuesdays&rpar;](https://dev.to/mindmagic/the-bug-that-only-happened-in-production-and-only-on-tuesdays-2omp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
