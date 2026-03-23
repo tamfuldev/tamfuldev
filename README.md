@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [“It Works” Is a Trap](https://dev.to/mindmagic/it-works-is-a-trap-12j6)
-- [The Right Way to Handle Pagination in JavaScript and Typescript &lpar;Introducing pagination-core&rpar;](https://dev.to/sulenchy/the-right-way-to-handle-pagination-in-javascript-and-typescript-introducing-pagination-core-2n26)
-- [6 MCP Servers That Make Claude Actually Useful for Real Projects](https://dev.to/web_dev-usman/6-mcp-servers-that-make-claude-actually-useful-for-real-projects-21dm)
-- [Component Selection Analysis – ESP32 Multi Security Tool](https://dev.to/thilak_kumar/component-selection-analysis-esp32-multi-security-tool-51p5)
-- [🚀 5 Mistakes I Made in My First CNN Project &lpar;That Ruined My Results&rpar;](https://dev.to/tanmayt134/5-mistakes-i-made-in-my-first-cnn-project-that-ruined-my-results-4ial)
+- [How to Use Sidekick&#39;s Instant Commands from OpenAPI/Postman](https://dev.to/allentcm/how-to-use-sidekicks-instant-commands-from-openapipostman-2hh7)
+- [Understanding IP Address and Subnet](https://dev.to/christina_sharons_2b3205/understanding-ip-address-and-subnet-5l7)
+- [how DNS resolver is happening](https://dev.to/manoj_kumar_401fd35052503/how-dns-resolver-is-happening-8i5)
+- [The $0 Problem: Why Every Tool Says Your On-Prem Inference is Free](https://dev.to/defilan/the-0-problem-why-every-tool-says-your-on-prem-inference-is-free-3mcb)
+- [How to Set Up Linux Server Monitoring in 10 Minutes &lpar;Free&rpar;](https://dev.to/yash_step2dev/how-to-set-up-linux-server-monitoring-in-10-minutes-free-1715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
