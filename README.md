@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Product Insights Belong in Your IDE](https://dev.to/productsights/why-product-insights-belong-in-your-ide-119c)
-- [I Built a Webhook Relay on Cloudflare Workers — Here&#39;s Every Bug That Almost Killed It](https://dev.to/eventdock/i-built-a-webhook-relay-on-cloudflare-workers-here-is-every-bug-that-almost-killed-it-22dc)
-- [The &quot;Just Ask AI&quot; Framework](https://dev.to/flinstonedev/the-just-ask-ai-framework-ndp)
-- [Windsurf’s New Update Is Frustrating Everyone | Here’s How to Fix Your Prompts and Stop Hitting Limits](https://dev.to/icornea/windsurfs-new-update-is-frustrating-everyone-heres-how-to-fix-your-prompts-and-stop-hitting-3aij)
-- [The Bug That Only Happened in Production &lpar;and Only on Tuesdays&rpar;](https://dev.to/mindmagic/the-bug-that-only-happened-in-production-and-only-on-tuesdays-2omp)
+- [Why Hindsight Made Us Rethink Our Global Study Context](https://dev.to/bindukeshav_de5dd33486afe/why-hindsight-made-us-rethink-our-global-study-context-37me)
+- [SAP ABAP Exception Handling: Temiz, Güvenilir ve Sürdürülebilir Hata Yönetimi](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-exception-handling-temiz-guvenilir-ve-surdurulebilir-hata-yonetimi-4f7p)
+- [FFT vs Welch vs STFT: 10Hz Bearing Speed Benchmark](https://dev.to/tildalice/fft-vs-welch-vs-stft-10hz-bearing-speed-benchmark-1kfb)
+- [The Message That Got Blue Ticks But Never Arrived](https://dev.to/oolongtea2026/the-message-that-got-blue-ticks-but-never-arrived-3eo5)
+- [How to Build an MCP Server with Python in 5 Min](https://dev.to/nebulagg/how-to-build-an-mcp-server-with-python-in-5-min-2dmo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
