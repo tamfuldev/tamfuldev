@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Sidekick&#39;s Instant Commands from OpenAPI/Postman](https://dev.to/allentcm/how-to-use-sidekicks-instant-commands-from-openapipostman-2hh7)
-- [Understanding IP Address and Subnet](https://dev.to/christina_sharons_2b3205/understanding-ip-address-and-subnet-5l7)
-- [how DNS resolver is happening](https://dev.to/manoj_kumar_401fd35052503/how-dns-resolver-is-happening-8i5)
-- [The $0 Problem: Why Every Tool Says Your On-Prem Inference is Free](https://dev.to/defilan/the-0-problem-why-every-tool-says-your-on-prem-inference-is-free-3mcb)
-- [How to Set Up Linux Server Monitoring in 10 Minutes &lpar;Free&rpar;](https://dev.to/yash_step2dev/how-to-set-up-linux-server-monitoring-in-10-minutes-free-1715)
+- [Day 29: Writable File Exploitation — Turning &quot;Bad Permissions&quot; into Root Shells 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-29-writable-file-exploitation-turning-bad-permissions-into-root-shells-3ka4)
+- [Vercel’s &quot;Agentic&quot; Shift: Is Your Proprietary Code Now Training AI?](https://dev.to/matscode/vercels-agentic-shift-is-your-proprietary-code-now-training-ai-402h)
+- [I stopped storing chats and built a stateful study agent instead !!](https://dev.to/krayr/i-stopped-storing-chats-and-built-a-stateful-study-agent-instead--45dm)
+- [Ursnif Malware — Reconstructing a 6-Stage Infection Chain from a PCAP](https://dev.to/himanshu_kumarmodi_8646f/ursnif-malware-reconstructing-a-6-stage-infection-chain-from-a-pcap-1n8d)
+- [HazelJS 0.3.0: The AI-Native Framework for Production-Ready Intelligent Applications](https://dev.to/arslan_mecom/hazeljs-030-the-ai-native-framework-for-production-ready-intelligent-applications-a13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
