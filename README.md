@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The LLM Tooling Stack I Actually Use in 2026 &lpar;After 18 Months of Testing&rpar;](https://dev.to/clawgenesis/the-llm-tooling-stack-i-actually-use-in-2026-after-18-months-of-testing-25m9)
-- [I tried every LaTeX editor on macOS. Here&#39;s what I actually use now.](https://dev.to/tex64/i-tried-every-latex-editor-on-macos-heres-what-i-actually-use-now-2lan)
-- [GitHub for Writers: A Practical Guide to Branching and Pull Requests](https://dev.to/nikhilajain/github-for-writers-a-practical-guide-to-branching-and-pull-requests-4lob)
-- [I built a free AI chord finder with zero npm dependencies](https://dev.to/swaram/i-built-a-free-ai-chord-finder-with-zero-npm-dependencies-3n1f)
-- [I Used Claude Code for 30 Days. Here&#39;s What Actually Broke in Production](https://dev.to/clawgenesis/i-used-claude-code-for-30-days-heres-what-actually-broke-in-production-43h8)
+- [“It Works” Is a Trap](https://dev.to/mindmagic/it-works-is-a-trap-12j6)
+- [The Right Way to Handle Pagination in JavaScript and Typescript &lpar;Introducing pagination-core&rpar;](https://dev.to/sulenchy/the-right-way-to-handle-pagination-in-javascript-and-typescript-introducing-pagination-core-2n26)
+- [6 MCP Servers That Make Claude Actually Useful for Real Projects](https://dev.to/web_dev-usman/6-mcp-servers-that-make-claude-actually-useful-for-real-projects-21dm)
+- [Component Selection Analysis – ESP32 Multi Security Tool](https://dev.to/thilak_kumar/component-selection-analysis-esp32-multi-security-tool-51p5)
+- [🚀 5 Mistakes I Made in My First CNN Project &lpar;That Ruined My Results&rpar;](https://dev.to/tanmayt134/5-mistakes-i-made-in-my-first-cnn-project-that-ruined-my-results-4ial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
