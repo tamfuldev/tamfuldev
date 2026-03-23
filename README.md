@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inside The Oligarch And The Art Dealer: A Deep Dive Into High-Stakes Intrigue and Billion-Dollar Secrets](https://dev.to/aloycwl/inside-the-oligarch-and-the-art-dealer-a-deep-dive-into-high-stakes-intrigue-and-billion-dollar-47l8)
-- [Anthropic&#39;s &quot;Observed Exposure&quot; Study Is the First Real Early-Warning System for AI Labor Disruption](https://dev.to/narnaiezzsshaa/anthropics-observed-exposure-study-is-the-first-real-early-warning-system-for-ai-labor-disruption-46l1)
-- [Microservices Federation &lpar;GraphQL, Python and Apollo&rpar;](https://dev.to/nietzscheson/microservices-federation-graphql-python-and-apollo-3n0)
-- [Teaching Hindsight to Detect Project Risks](https://dev.to/ananya_kini/teaching-hindsight-to-detect-project-risks-47nm)
-- [How to Set Up NemoClaw on a DigitalOcean Droplet with 1-Click](https://dev.to/digitalocean/how-to-set-up-nemoclaw-on-a-digitalocean-droplet-with-1-click-1lo4)
+- [ESP32 WhatsApp Alerts Made Simple &lpar;No GSM, No Hassle&rpar;](https://dev.to/david_thomas/esp32-whatsapp-alerts-made-simple-no-gsm-no-hassle-phi)
+- [Remote Work: Dream, Freedom, or Something Else?](https://dev.to/anna-freedom-in-tech/remote-work-dream-freedom-or-something-else-2af5)
+- [El recurso gratuito para certificaciones cloud que los hispanohablantes necesitamos](https://dev.to/_2137e95cec9f23d5ed113/el-recurso-gratuito-para-certificaciones-cloud-que-los-hispanohablantes-necesitamos-22oc)
+- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-4ee2)
+- [Managing Media Files in Flask &lpar;Images, Videos, and Audio&rpar;](https://dev.to/cloudinary/managing-media-files-in-flask-images-videos-and-audio-kdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
