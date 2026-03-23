@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Happened When I Wired a Live AI Mentor Into a React Frontend](https://dev.to/chiranjeevi_c_f3716deb2c9/what-happened-when-i-wired-a-live-ai-mentor-into-a-react-frontend-5a99)
-- [สร้าง Claude Code Skills อัตโนมัติด้วย Skill Creator](https://dev.to/thanawat_wonchai/sraang-claude-code-skills-atonmatidwy-skill-creator-4hi1)
-- [What Happened When My Coding Agent Started Remembering User Mistakes](https://dev.to/shreyarchittaragi/what-happened-when-my-coding-agentstarted-remembering-user-mistakes-1345)
-- [Créer Automatiquement des Compétences Claude Code avec Skill Creator](https://dev.to/antoine_laurentt/creer-automatiquement-des-competences-claude-code-avec-skill-creator-5c25)
-- [How I Built the API Layer That Unblocked an Entire Team](https://dev.to/jagadeesh_rs_7cdbf1229db/how-i-built-the-api-layer-that-unblocked-an-entire-team-33cm)
+- [Building a PR Review Agent: My Transition from Learning Scripts to Real Tools &lpar;Phase 3&rpar;](https://dev.to/decoders_lord/building-a-pr-review-agent-my-transition-from-learning-scripts-to-real-tools-phase-3-3a5f)
+- [HTMX - Rethinking the SPA](https://dev.to/robodobdob/htmx-rethinking-the-spa-2fn2)
+- [This open-source tool scans uploads before they become a problem](https://dev.to/sonotommy/this-open-source-tool-scans-uploads-before-they-become-a-problem-j4o)
+- [Santa Augmentcode Intent Ep.2](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep2-3751)
+- [Two AI Agents Told Me My App Was Impossible. One Shipped It.](https://dev.to/the_unmanaged_boy/two-ai-agents-told-me-my-app-was-impossible-one-shipped-it-11k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
