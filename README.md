@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I tuned Hindsight for long conversations](https://dev.to/anjankumar_ln_41a980a9fd/i-tuned-hindsight-for-long-conversations-46k4)
-- [The Particle That Walks Through Walls — And Why Your Phone Depends On It](https://dev.to/bytefluxlab/the-particle-that-walks-through-walls-and-why-your-phone-depends-on-it-53ij)
-- [Programing Concurrency](https://dev.to/tavari/programing-concurrency-d9l)
-- [MCP configs are a silent security risk. I built mcp-scan to fix that.](https://dev.to/rodolfboctor/mcp-configs-are-a-silent-security-risk-i-built-mcp-scan-to-fix-that-5akk)
-- [Your AI Agent Has a Dirty Secret: It Can’t Log In](https://dev.to/dannygerst/your-ai-agent-has-a-dirty-secret-it-cant-log-in-2bln)
+- [Inside The Oligarch And The Art Dealer: A Deep Dive Into High-Stakes Intrigue and Billion-Dollar Secrets](https://dev.to/aloycwl/inside-the-oligarch-and-the-art-dealer-a-deep-dive-into-high-stakes-intrigue-and-billion-dollar-47l8)
+- [Anthropic&#39;s &quot;Observed Exposure&quot; Study Is the First Real Early-Warning System for AI Labor Disruption](https://dev.to/narnaiezzsshaa/anthropics-observed-exposure-study-is-the-first-real-early-warning-system-for-ai-labor-disruption-46l1)
+- [Microservices Federation &lpar;GraphQL, Python and Apollo&rpar;](https://dev.to/nietzscheson/microservices-federation-graphql-python-and-apollo-3n0)
+- [Teaching Hindsight to Detect Project Risks](https://dev.to/ananya_kini/teaching-hindsight-to-detect-project-risks-47nm)
+- [How to Set Up NemoClaw on a DigitalOcean Droplet with 1-Click](https://dev.to/digitalocean/how-to-set-up-nemoclaw-on-a-digitalocean-droplet-with-1-click-1lo4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
