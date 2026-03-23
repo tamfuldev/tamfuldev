@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [33+ AI Prompts for DeFi Marketers &lpar;And How to Write Your Own&rpar;](https://dev.to/yos/33-ai-prompts-for-defi-marketers-and-how-to-write-your-own-56aj)
-- [Agentic Analytics for DeFi &amp; Crypto Growth Teams with Formo&#39;s Ask AI](https://dev.to/yos/agentic-analytics-for-defi-crypto-growth-teams-with-formos-ask-ai-i49)
-- [How to Build Personalization into Crypto and DeFi Apps with Formo Profiles API](https://dev.to/yos/how-to-build-personalization-into-crypto-and-defi-apps-with-formo-profiles-api-b9i)
-- [Common DeFi Marketing Mistakes That Waste Budget &lpar;And How to Avoid Them&rpar;](https://dev.to/yos/common-defi-marketing-mistakes-that-waste-budget-and-how-to-avoid-them-1k71)
-- [DeFi Marketing Playbooks by Stage: Pre-Launch, Launch, and Post-Launch Growth](https://dev.to/yos/defi-marketing-playbooks-by-stage-pre-launch-launch-and-post-launch-growth-234f)
+- [Hello world! Building a survival guide for developers in Japan 🌸](https://dev.to/japan_refactor/hello-world-building-a-survival-guide-for-developers-in-japan-1fm1)
+- [The Ultimate Developer Monitor Guide 2025: 7 Displays That Changed How I Code](https://dev.to/maquankun/the-ultimate-developer-monitor-guide-2025-7-displays-that-changed-how-i-code-594d)
+- [Task 3 – The Delivery MAN – Python List](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-3-the-delivery-man-python-list-3h9c)
+- [TASK 1- Python – Print exercises](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e)
+- [Laravel 13 Highlights](https://dev.to/xiaoguang_/laravel-13-highlights-4i16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
