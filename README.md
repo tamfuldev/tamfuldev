@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape LinkedIn Job Listings in 2026 &lpar;Python + Public API, No Login Required&rpar;](https://dev.to/agenthustler/how-to-scrape-linkedin-job-listings-in-2026-python-public-api-no-login-required-5bin)
-- [AI Isn’t Replacing Engineers: It’s Replacing Coders](https://dev.to/khurram_bilal786/ai-isnt-replacing-engineers-its-replacing-coders-41fe)
-- [I Stopped Paying $99/Month for SEO Tools. So I Built My Own.](https://dev.to/arkhan/i-stopped-paying-99month-for-seo-tools-so-i-built-my-own-oh8)
-- [How Hindsight Turned Repeated Questions Into a Student Profile](https://dev.to/bikash_kumarsah_5c7d5472/how-hindsight-turned-repeated-questions-into-a-student-profile-2f5f)
-- [Stop Fighting AWS Networking — Deploy Your Container in 3 Steps](https://dev.to/matias_plumari_039ce941da/stop-fighting-aws-networking-deploy-your-container-in-3-steps-5d6a)
+- [The LLM Tooling Stack I Actually Use in 2026 &lpar;After 18 Months of Testing&rpar;](https://dev.to/clawgenesis/the-llm-tooling-stack-i-actually-use-in-2026-after-18-months-of-testing-25m9)
+- [I tried every LaTeX editor on macOS. Here&#39;s what I actually use now.](https://dev.to/tex64/i-tried-every-latex-editor-on-macos-heres-what-i-actually-use-now-2lan)
+- [GitHub for Writers: A Practical Guide to Branching and Pull Requests](https://dev.to/nikhilajain/github-for-writers-a-practical-guide-to-branching-and-pull-requests-4lob)
+- [I built a free AI chord finder with zero npm dependencies](https://dev.to/swaram/i-built-a-free-ai-chord-finder-with-zero-npm-dependencies-3n1f)
+- [I Used Claude Code for 30 Days. Here&#39;s What Actually Broke in Production](https://dev.to/clawgenesis/i-used-claude-code-for-30-days-heres-what-actually-broke-in-production-43h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
