@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Web Analytics Tool Because GA4 Was Overkill for My SPA](https://dev.to/pulzivo/i-built-a-web-analytics-tool-because-ga4-was-overkill-for-my-spa-587)
-- [Real-Time Energy Supply Risk Monitoring — How I Combined 4 Government Data Sources Into One API](https://dev.to/dave_sng_ec0ec8421d812d35/real-time-energy-supply-risk-monitoring-how-i-combined-4-government-data-sources-into-one-api-17c1)
-- [Rules vs Skills in Claude Code](https://dev.to/jeffreese/rules-vs-skills-in-claude-code-5cfi)
-- [The Model Already Read the README. MICA v0.1.8 Made It a Protocol](https://dev.to/flamehaven01/the-model-already-read-the-readme-mica-v018-made-it-a-protocol-37j9)
-- [Kafka 4.2.0 on Kubernetes - Complete Setup Guide - Exposed to Internet](https://dev.to/giveitatry/kafka-on-kubernetes-complete-setup-guide-exposed-to-internet-2l83)
+- [What Happened When I Wired a Live AI Mentor Into a React Frontend](https://dev.to/chiranjeevi_c_f3716deb2c9/what-happened-when-i-wired-a-live-ai-mentor-into-a-react-frontend-5a99)
+- [สร้าง Claude Code Skills อัตโนมัติด้วย Skill Creator](https://dev.to/thanawat_wonchai/sraang-claude-code-skills-atonmatidwy-skill-creator-4hi1)
+- [What Happened When My Coding Agent Started Remembering User Mistakes](https://dev.to/shreyarchittaragi/what-happened-when-my-coding-agentstarted-remembering-user-mistakes-1345)
+- [Créer Automatiquement des Compétences Claude Code avec Skill Creator](https://dev.to/antoine_laurentt/creer-automatiquement-des-competences-claude-code-avec-skill-creator-5c25)
+- [How I Built the API Layer That Unblocked an Entire Team](https://dev.to/jagadeesh_rs_7cdbf1229db/how-i-built-the-api-layer-that-unblocked-an-entire-team-33cm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
