@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Infrastructure &amp; Agents: From Chips to Code Automation](https://dev.to/soytuber/ais-infrastructure-agents-from-chips-to-code-automation-19e8)
-- [I&#39;m Building: AgentGuard360: Free Open Source AI Agent Security Python App](https://dev.to/moebiusansa/im-building-agentguard360-free-open-source-ai-agent-security-python-app-4ok8)
-- [5 Interview Mistakes That Cost Me Offers at FAANG Companies](https://dev.to/karuha/5-interview-mistakes-that-cost-me-offers-at-faang-companies-3938)
-- [Bonus Q/A](https://dev.to/sandhya_steffym_4872a8be/bonus-qa-4o1k)
-- [ferman: A Tiny CLI for Inspecting and Freeing Busy Ports](https://dev.to/borakilicoglu/i-built-ferman-a-tiny-cli-for-inspecting-and-freeing-busy-ports-17e0)
+- [How to Build Custom Claude Code Skills That Actually Work](https://dev.to/alanwest/how-to-build-custom-claude-code-skills-that-actually-work-2e1f)
+- [AI 102](https://dev.to/bekahhw/ai-102-4o0)
+- [I Built 71+ Free Browser Tools Because Every &quot;Free&quot; Tool Site Is Terrible](https://dev.to/hcacode/i-built-71-free-browser-tools-because-every-free-tool-site-is-terrible-2nd5)
+- [I built a simulator that runs AI regulations through 10,000 agents and shows you how many comply, relocate, and who evades](https://dev.to/ambar/i-built-a-simulator-that-runs-ai-regulations-through-10000-agents-and-shows-you-how-many-comply-1pa6)
+- [My AI Caught a £3,200 Scope Creep at 3am While I Was Asleep—Here&#39;s the Notion MCP System I Built](https://dev.to/_boweii/my-ai-caught-a-ps3200-scope-creep-at-3am-while-i-was-asleep-heres-the-notion-mcp-system-i-built-1mnj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
