@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0)
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/aws-builders/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-3b5o)
-- [Composer 2: What is new and Compares with Claude Opus 4.6 &amp; GPT-5.4](https://dev.to/cometapi03/composer-2-what-is-new-and-compares-with-claude-opus-46-gpt-54-11n9)
-- [# Building a Non-Blocking Multithreaded TCP Server in C++](https://dev.to/henriquesombisa/-building-a-non-blocking-multithreaded-tcp-server-in-c-49k1)
-- [Move All Negative Elements to End of Array](https://dev.to/arul_selviml_7/move-all-negative-elements-to-end-of-array-3pco)
+- [AI&#39;s Infrastructure &amp; Agents: From Chips to Code Automation](https://dev.to/soytuber/ais-infrastructure-agents-from-chips-to-code-automation-19e8)
+- [I&#39;m Building: AgentGuard360: Free Open Source AI Agent Security Python App](https://dev.to/moebiusansa/im-building-agentguard360-free-open-source-ai-agent-security-python-app-4ok8)
+- [5 Interview Mistakes That Cost Me Offers at FAANG Companies](https://dev.to/karuha/5-interview-mistakes-that-cost-me-offers-at-faang-companies-3938)
+- [Bonus Q/A](https://dev.to/sandhya_steffym_4872a8be/bonus-qa-4o1k)
+- [ferman: A Tiny CLI for Inspecting and Freeing Busy Ports](https://dev.to/borakilicoglu/i-built-ferman-a-tiny-cli-for-inspecting-and-freeing-busy-ports-17e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
