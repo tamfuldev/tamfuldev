@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every Command Shows Its Savings: contextzip: 200 40](https://dev.to/ji_ai/every-command-shows-its-savings-contextzip-200-40-1knm)
-- [Analyzing Akamai BMP 4.1.3 - Part 2](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-2-31k3)
-- [How to Write Architecture Decision Records That Actually Get Used](https://dev.to/jonoherrington/how-to-write-architecture-decision-records-that-actually-get-used-4i2)
-- [How I Built a Dijkstra-Based Money Routing Engine with 29K Edges](https://dev.to/miguelvalenciav/how-i-built-a-dijkstra-based-money-routing-engine-with-29k-edges-1hcm)
-- [How to Get the Correct Y Position of an Element in CHATGPT UI](https://dev.to/lc_trng_07561b54c06c8d/how-to-get-the-correct-y-position-of-an-element-in-chatgpt-ui-eh9)
+- [How I Built a Background English Coach into Claude Code](https://dev.to/tmkamal/how-i-built-a-background-english-coach-into-claude-code-2c32)
+- [Automate your Dev.to presence with the Forem API](https://dev.to/jonesrussell/automate-your-devto-presence-with-the-forem-api-4h39)
+- [API Route Lister - The Ultimate CLI Tool for Discovering API Routes](https://dev.to/devin00100/api-route-lister-the-ultimate-cli-tool-for-discovering-api-routes-3111)
+- [Three-Week Sprint: New Homepage, Dark Mode, and Operations Dashboard](https://dev.to/psrestful/three-week-sprint-new-homepage-dark-mode-and-operations-dashboard-2g4p)
+- [Self-Hosting AI in 2026: Privacy, Control, and the Case for Running Your Own](https://dev.to/kevinzy189/self-hosting-ai-in-2026-privacy-control-and-the-case-for-running-your-own-59ek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
