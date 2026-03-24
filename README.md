@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LiteLLM Was Compromised. That&#39;s Why I&#39;m Building GoModel](https://dev.to/santiago-pl/litellm-was-compromised-thats-why-im-building-gomodel-nmm)
-- [Architecting AI-driven automation with the GitHub Copilot SDK](https://dev.to/diizay_silva/architecting-ai-driven-automation-with-the-github-copilot-sdk-2hj9)
-- [Build Your Own Cloud Database in Minutes](https://dev.to/axtant/build-your-own-cloud-database-in-minutes-1dk0)
-- [Best LiteLLM Alternative for Multi-Team Organizations](https://dev.to/kamya_shah_e69d5dd78f831c/best-litellm-alternative-for-multi-team-organizations-4n55)
-- [Why I Built a Browser-Based Circuit Editor &lpar;SchemaLite&rpar;](https://dev.to/ababu64/why-i-built-a-browser-based-circuit-editor-schemalite-29i5)
+- [SnowPro Core Roadmap](https://dev.to/manojjagtap/snowpro-core-roadmap-5f6o)
+- [I scanned 100 AI-generated apps for security vulnerabilities. Here&#39;s what I found.](https://dev.to/tgoldi/i-scanned-100-ai-generated-apps-for-security-vulnerabilities-heres-what-i-found-1l5o)
+- [Ten Years of Uncomfortable](https://dev.to/magnificode/ten-years-of-uncomfortable-k9f)
+- [Securing Networks with pfSense: VLAN Segmentation and Traffic Control in IT](https://dev.to/shaheel_jm/securing-networks-with-pfsense-vlan-segmentation-traffic-control-and-disaster-recovery-in-it-47ch)
+- [ONNX Runtime + pgvector in Django: semantic search without PyTorch or external APIs](https://dev.to/matzalazar/onnx-runtime-pgvector-in-django-semantic-search-without-pytorch-or-external-apis-4g1m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
