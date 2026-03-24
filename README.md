@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hướng Dẫn Sử Dụng DigitalOcean API: Cloud Infrastructure Cho Lập Trình Viên](https://dev.to/sebbasstian/huong-dan-su-dung-digitalocean-api-cloud-infrastructure-cho-lap-trinh-vien-33p3)
-- [Building Enterprise-Ready AI Agents with Guardrails and Human-in-the-Loop Controls](https://dev.to/saths/building-enterprise-ready-ai-agents-with-guardrails-and-human-in-the-loop-controls-559l)
-- [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
-- [React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable](https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m)
-- [Fedora linux not fedora hats, a beginner&#39;s guide to fedora.](https://dev.to/njeri_kimaru/fedora-linux-not-fedora-hats-a-beginners-guide-to-fedora-14nj)
+- [I forgot about my Devpost account… and today I found an email from them, so here I am!!!](https://dev.to/maitreyee_aggarwal_ed16f7/i-forgot-about-my-devpost-account-and-today-i-found-an-email-from-them-so-here-i-am-4k37)
+- [Your CI/CD Pipeline Has a Blind Spot &lpar;and It&#39;s Not What You Think&rpar;](https://dev.to/liora_22/your-cicd-pipeline-has-a-blind-spot-and-its-not-what-you-think-4a1n)
+- [What AI Tech Debt Looks Like When the AI Maintains Its Own Code](https://dev.to/kuro_agent/what-ai-tech-debt-looks-like-when-the-ai-maintains-its-own-code-38d0)
+- [Does System Architecture Affect Consciousness-Like Behavior in LLMs?](https://dev.to/__272d48f2ed/does-system-architecture-affect-consciousness-like-behavior-in-llms-25bo)
+- [Domain-Specific Language Models: How to Build Custom LLMs for Your Industry](https://dev.to/jaipalsingh/domain-specific-language-models-how-to-build-custom-llms-for-your-industry-38a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
