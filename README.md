@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SnowPro Core Roadmap](https://dev.to/manojjagtap/snowpro-core-roadmap-5f6o)
-- [I scanned 100 AI-generated apps for security vulnerabilities. Here&#39;s what I found.](https://dev.to/tgoldi/i-scanned-100-ai-generated-apps-for-security-vulnerabilities-heres-what-i-found-1l5o)
-- [Ten Years of Uncomfortable](https://dev.to/magnificode/ten-years-of-uncomfortable-k9f)
-- [Securing Networks with pfSense: VLAN Segmentation and Traffic Control in IT](https://dev.to/shaheel_jm/securing-networks-with-pfsense-vlan-segmentation-traffic-control-and-disaster-recovery-in-it-47ch)
-- [ONNX Runtime + pgvector in Django: semantic search without PyTorch or external APIs](https://dev.to/matzalazar/onnx-runtime-pgvector-in-django-semantic-search-without-pytorch-or-external-apis-4g1m)
+- [Waxell vs. Braintrust: When Evaluation Isn&#39;t Enough](https://dev.to/waxell/waxell-vs-braintrust-when-evaluation-isnt-enough-45o4)
+- [Toxic Coworker Undermining You in Slack: Digital Sabotage Patterns](https://dev.to/skippy_magnificent_8cce24/toxic-coworker-undermining-you-in-slack-digital-sabotage-patterns-5fm3)
+- [1,000 flash hackathon: remix my Three.js capybara game that hit 48,000 players](https://dev.to/summer_plays/1000-flash-hackathon-remix-my-threejs-capybara-game-that-hit-48000-players-20d6)
+- [DynamoDB + Lambda en Python: la guía que hubiera querido encontrar](https://dev.to/aledpolo/dynamodb-lambda-en-python-la-guia-que-hubiera-querido-encontrar-4m35)
+- [AI-Powered Accessibility Suggestions Transform Design Component Reviews](https://dev.to/brandikinard/ai-powered-accessibility-suggestions-transform-design-component-reviews-io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
