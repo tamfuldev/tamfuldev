@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Integration Is Probably Riskier Than You Think](https://dev.to/vickkykruz/your-ai-integration-is-probably-riskier-than-you-think-3a03)
-- [Two of My Most Significant Clients Came From a Text-Based Browser Game](https://dev.to/aaronzara/two-of-my-most-significant-clients-came-from-a-text-based-browser-game-3mjg)
-- [BigCommerce API Kullanımı: E-Ticaret Entegrasyonu Geliştirici Rehberi](https://dev.to/tobiass_hoffmann/bigcommerce-api-kullanimi-e-ticaret-entegrasyonu-gelistirici-rehberi-2jb0)
-- [Never Miss a Downtime Again](https://dev.to/netaneo/never-miss-adowntime-again-mjj)
-- [วิธีใช้ BigCommerce API: คู่มือพัฒนาสำหรับเชื่อมต่ออีคอมเมิร์ซ](https://dev.to/thanawat_wonchai/withiiaich-bigcommerce-api-khuumuuephathnaasamhrabechuuemtiikhmemirch-11pe)
+- [Hướng Dẫn Sử Dụng DigitalOcean API: Cloud Infrastructure Cho Lập Trình Viên](https://dev.to/sebbasstian/huong-dan-su-dung-digitalocean-api-cloud-infrastructure-cho-lap-trinh-vien-33p3)
+- [Building Enterprise-Ready AI Agents with Guardrails and Human-in-the-Loop Controls](https://dev.to/saths/building-enterprise-ready-ai-agents-with-guardrails-and-human-in-the-loop-controls-559l)
+- [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
+- [React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable](https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m)
+- [Fedora linux not fedora hats, a beginner&#39;s guide to fedora.](https://dev.to/njeri_kimaru/fedora-linux-not-fedora-hats-a-beginners-guide-to-fedora-14nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
