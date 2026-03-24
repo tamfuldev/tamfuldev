@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Composer 2 Just Dropped — Here&#39;s How to Actually Use Autonomous Coding Agents in Production](https://dev.to/dohkoai/cursor-composer-2-just-dropped-heres-how-to-actually-use-autonomous-coding-agents-in-production-389c)
-- [Your AI Agent Skills Have a Version Control Problem](https://dev.to/snapsynapse/your-ai-agent-skills-have-a-version-control-problem-5g1g)
-- [AI-Driven Refactoring in PHP: When to Trust Copilot &lpar;and When to Take the Wheel&rpar;](https://dev.to/codecraft_diary_3d13677fb/ai-driven-refactoring-in-php-when-to-trust-copilot-and-when-to-take-the-wheel-405b)
-- [A publishing system should help you publish, not become the project](https://dev.to/toninotes/a-publishing-system-should-help-you-publish-not-become-the-project-512l)
-- [Sovereign Intelligence on Apple Silicon: Breaking the Microsecond Barrier with Java 25 and Panama FFM](https://dev.to/ebercruz/sovereign-intelligence-on-apple-silicon-breaking-the-microsecond-barrier-with-java-25-and-panama-1g1l)
+- [AI Writes Code. You Own Quality.](https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0)
+- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/aws-builders/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-lightsail-and-gemini-cli-3b5o)
+- [Composer 2: What is new and Compares with Claude Opus 4.6 &amp; GPT-5.4](https://dev.to/cometapi03/composer-2-what-is-new-and-compares-with-claude-opus-46-gpt-54-11n9)
+- [# Building a Non-Blocking Multithreaded TCP Server in C++](https://dev.to/henriquesombisa/-building-a-non-blocking-multithreaded-tcp-server-in-c-49k1)
+- [Move All Negative Elements to End of Array](https://dev.to/arul_selviml_7/move-all-negative-elements-to-end-of-array-3pco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
