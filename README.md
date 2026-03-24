@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Next.js App Makes the Same Database Query 5 Times Per Page Load](https://dev.to/aditya_kushwah/your-nextjs-app-makes-the-same-database-query-5-times-per-page-load-3j24)
-- [CVE-2026-33167: CVE-2026-33167: Cross-Site Scripting &lpar;XSS&rpar; in Ruby on Rails Action Pack Debug Exceptions](https://dev.to/cverports/cve-2026-33167-cve-2026-33167-cross-site-scripting-xss-in-ruby-on-rails-action-pack-debug-4op6)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-2m1l)
-- [Cursor Is a Tool. Operum Is a Team. — Introducing Pluggable AI Engines for Multi-Agent Orchestration](https://dev.to/alprimak/cursor-is-a-tool-operum-is-a-team-introducing-pluggable-ai-engines-for-multi-agent-orchestration-bo0)
-- [I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here&#39;s What Actually Happened.](https://dev.to/pjhoberman/i-ran-60-autoresearch-experiments-on-a-production-search-algorithm-heres-what-actually-happened-46bk)
+- [Every Command Shows Its Savings: contextzip: 200 40](https://dev.to/ji_ai/every-command-shows-its-savings-contextzip-200-40-1knm)
+- [Analyzing Akamai BMP 4.1.3 - Part 2](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-2-31k3)
+- [How to Write Architecture Decision Records That Actually Get Used](https://dev.to/jonoherrington/how-to-write-architecture-decision-records-that-actually-get-used-4i2)
+- [How I Built a Dijkstra-Based Money Routing Engine with 29K Edges](https://dev.to/miguelvalenciav/how-i-built-a-dijkstra-based-money-routing-engine-with-29k-edges-1hcm)
+- [How to Get the Correct Y Position of an Element in CHATGPT UI](https://dev.to/lc_trng_07561b54c06c8d/how-to-get-the-correct-y-position-of-an-element-in-chatgpt-ui-eh9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
