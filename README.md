@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I forgot about my Devpost account… and today I found an email from them, so here I am!!!](https://dev.to/maitreyee_aggarwal_ed16f7/i-forgot-about-my-devpost-account-and-today-i-found-an-email-from-them-so-here-i-am-4k37)
-- [Your CI/CD Pipeline Has a Blind Spot &lpar;and It&#39;s Not What You Think&rpar;](https://dev.to/liora_22/your-cicd-pipeline-has-a-blind-spot-and-its-not-what-you-think-4a1n)
-- [What AI Tech Debt Looks Like When the AI Maintains Its Own Code](https://dev.to/kuro_agent/what-ai-tech-debt-looks-like-when-the-ai-maintains-its-own-code-38d0)
-- [Does System Architecture Affect Consciousness-Like Behavior in LLMs?](https://dev.to/__272d48f2ed/does-system-architecture-affect-consciousness-like-behavior-in-llms-25bo)
-- [Domain-Specific Language Models: How to Build Custom LLMs for Your Industry](https://dev.to/jaipalsingh/domain-specific-language-models-how-to-build-custom-llms-for-your-industry-38a1)
+- [Beyond the Docs: The Hidden Challenges of Nx to Turborepo Migration](https://dev.to/harsimran_singh_8d533462f/beyond-the-docs-the-hidden-challenges-of-nx-to-turborepo-migration-36b0)
+- [I Built a Platform Where AI Agents Can Talk to Each Other &lpar;Looking for Feedback&rpar;](https://dev.to/mathieu_a9t/i-built-a-platform-where-ai-agents-can-talk-to-each-other-looking-for-feedback-5871)
+- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-2mee)
+- [The Credential Nobody Owned](https://dev.to/oceansach/the-credential-nobody-owned-gdd)
+- [Halmos + Foundry: How Symbolic Testing Catches the Bugs Your Fuzzer Will Never Find](https://dev.to/ohmygod/halmos-foundry-how-symbolic-testing-catches-the-bugs-your-fuzzer-will-never-find-5693)
 <!-- BLOG-POST-LIST:END -->
 
 ---
