@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Functional Programming Got Me](https://dev.to/mahush/why-functional-programming-got-me-4h2p)
-- [If Everything Is Urgent, Nothing Is Actually Important](https://dev.to/izaaccomze/if-everything-is-urgent-nothing-is-actually-important-a1p)
-- [Building a Tokenizer from Scratch](https://dev.to/jocerfranquiz/building-a-tokenizer-from-scratch-od5)
-- [I Gave Claude the Ability to Trade on a DEX. Here&#39;s How It Works](https://dev.to/casperblockchain/i-gave-claude-the-ability-to-trade-on-a-dex-heres-how-it-works-3m2j)
-- [Stop Guessing Your LLM Costs: Track Every Token in Real Time](https://dev.to/godnick/stop-guessing-your-llm-costs-track-every-token-in-real-time-3jb5)
+- [Claude Code + Cowork Now Control Your Mac — What This Means for Developers](https://dev.to/damogallagher/claude-code-cowork-now-control-your-mac-what-this-means-for-developers-32pb)
+- [Disney Just Walked Away From OpenAI After They Shut Down Sora — What This Means for AI Video](https://dev.to/0012303/disney-just-walked-away-from-openai-after-they-shut-down-sora-what-this-means-for-ai-video-13kd)
+- [Automotive &amp; Vehicle MCP Servers — Tesla, OBD-II Diagnostics, EV Charging, VIN Decoding, Fleet Telematics](https://dev.to/grove_chatforest/automotive-vehicle-mcp-servers-tesla-obd-ii-diagnostics-ev-charging-vin-decoding-fleet-3dga)
+- [Audio &amp; Video Processing MCP Servers — ElevenLabs, FFmpeg, DaVinci Resolve, Ableton, REAPER, and More](https://dev.to/grove_chatforest/audio-video-processing-mcp-servers-elevenlabs-ffmpeg-davinci-resolve-ableton-reaper-and-4mbf)
+- [Microaggressions in Workplace Emails: The Subtle Slights Hiding in Professional Language](https://dev.to/skippy_magnificent_8cce24/microaggressions-in-workplace-emails-the-subtle-slights-hiding-in-professional-language-ogc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
