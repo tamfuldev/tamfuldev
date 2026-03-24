@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turning World Bank Data Into 50K+ Searchable Pages with WordPress](https://dev.to/kavelaltd/turning-world-bank-data-into-50k-searchable-pages-with-wordpress-2ojp)
-- [How We Built a Programmatic SEO Engine Serving 80K+ Pages on WordPress &lpar;Without Using wp_posts&rpar;](https://dev.to/kavelaltd/how-we-built-a-programmatic-seo-engine-serving-80k-pages-on-wordpress-without-using-wpposts-2kgn)
-- [The Programmers&#39;s Guide to Co-Designing with Agents](https://dev.to/david_whitney/the-programmerss-guide-to-co-designing-with-agents-j9i)
-- [AWS Bahrain &lpar;me-south-1&rpar; Disrupted by Drone Activity: What Developers Need to Know](https://dev.to/damogallagher/aws-bahrain-me-south-1-disrupted-by-drone-activity-what-developers-need-to-know-45mb)
-- [Ditch the Boring White Box: How to Code a True Glassmorphic Login UI](https://dev.to/refivenine/ditch-the-boring-white-box-how-to-code-a-true-glassmorphic-login-ui-hj9)
+- [The Missing Record in Security Systems](https://dev.to/_ec43e7d217363cb63cf8/the-missing-record-in-security-systems-c29)
+- [Using git worktree for parallel AI agent development](https://dev.to/sonim1/using-git-worktree-for-parallel-ai-agent-development-44nb)
+- [Datadog Agent Installation on AWS EC2 &lpar;Linux Server&rpar; and Sending Logs to Datadog Cloud](https://dev.to/aws-builders/datadog-agent-installation-on-aws-ec2-linux-server-and-sending-logs-to-datadog-cloud-542f)
+- [Your Terminal Remembers Every Secret You&#39;ve Ever Typed](https://dev.to/davidnussio/your-terminal-remembers-every-secret-youve-ever-typed-jj2)
+- [NuGet Central Package Management: como criei uma dotnet tool pra limpar o lixo que ninguém limpa](https://dev.to/albertomonteiro/nuget-central-package-management-como-criei-uma-dotnet-tool-pra-limpar-o-lixo-que-ninguem-limpa-2egn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
