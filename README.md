@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Record in Security Systems](https://dev.to/_ec43e7d217363cb63cf8/the-missing-record-in-security-systems-c29)
-- [Using git worktree for parallel AI agent development](https://dev.to/sonim1/using-git-worktree-for-parallel-ai-agent-development-44nb)
-- [Datadog Agent Installation on AWS EC2 &lpar;Linux Server&rpar; and Sending Logs to Datadog Cloud](https://dev.to/aws-builders/datadog-agent-installation-on-aws-ec2-linux-server-and-sending-logs-to-datadog-cloud-542f)
-- [Your Terminal Remembers Every Secret You&#39;ve Ever Typed](https://dev.to/davidnussio/your-terminal-remembers-every-secret-youve-ever-typed-jj2)
-- [NuGet Central Package Management: como criei uma dotnet tool pra limpar o lixo que ninguém limpa](https://dev.to/albertomonteiro/nuget-central-package-management-como-criei-uma-dotnet-tool-pra-limpar-o-lixo-que-ninguem-limpa-2egn)
+- [Cursor Composer 2 Just Dropped — Here&#39;s How to Actually Use Autonomous Coding Agents in Production](https://dev.to/dohkoai/cursor-composer-2-just-dropped-heres-how-to-actually-use-autonomous-coding-agents-in-production-389c)
+- [Your AI Agent Skills Have a Version Control Problem](https://dev.to/snapsynapse/your-ai-agent-skills-have-a-version-control-problem-5g1g)
+- [AI-Driven Refactoring in PHP: When to Trust Copilot &lpar;and When to Take the Wheel&rpar;](https://dev.to/codecraft_diary_3d13677fb/ai-driven-refactoring-in-php-when-to-trust-copilot-and-when-to-take-the-wheel-405b)
+- [A publishing system should help you publish, not become the project](https://dev.to/toninotes/a-publishing-system-should-help-you-publish-not-become-the-project-512l)
+- [Sovereign Intelligence on Apple Silicon: Breaking the Microsecond Barrier with Java 25 and Panama FFM](https://dev.to/ebercruz/sovereign-intelligence-on-apple-silicon-breaking-the-microsecond-barrier-with-java-25-and-panama-1g1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
