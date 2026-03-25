@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First MCP Server in C#: A Complete Guide to Agentic AI](https://dev.to/karleeov/build-your-first-mcp-server-in-c-a-complete-guide-to-agentic-ai-13g2)
-- [My Coding Agent Remembered Which Language Trips Me Up — And Quietly Steered New Challenges Away From It.](https://dev.to/thushar_kumark_c4ac09116/my-coding-agent-remembered-which-language-trips-me-up-and-quietly-steered-new-challenges-away-1n5n)
-- [Welcome Thread - v370](https://dev.to/devteam/welcome-thread-v370-2ddl)
-- [I Built a Developer Tool Entirely with AI — Here&#39;s the Honest Breakdown of Every Tool, Every Decision, and Every Mistake](https://dev.to/smkulkarni/i-built-a-developer-tool-entirely-with-ai-heres-the-honest-breakdown-of-every-tool-every-hfp)
-- [Stripe Closed My Connect Account. Here&#39;s What Actually Fixed It in 24 Hours.](https://dev.to/lovanaut55/stripe-closed-my-connect-account-heres-what-actually-fixed-it-in-24-hours-66j)
+- [Best Free Code Formatters and Linters 2025: The Complete Guide](https://dev.to/_d7eb1c1703182e3ce1782/best-free-code-formatters-and-linters-2025-the-complete-guide-2cnh)
+- [Best Environment Variable Management Tools for Developers in 2025](https://dev.to/_d7eb1c1703182e3ce1782/best-environment-variable-management-tools-for-developers-in-2025-2h20)
+- [Giving AI Agents “Live Memory” with Aurora Zero-ETL and Redshift Vector Search](https://dev.to/mursalfk/giving-ai-agents-live-memory-with-aurora-zero-etl-and-redshift-vector-search-35gg)
+- [Best Developer Portfolio Examples &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/best-developer-portfolio-examples-2026-2d8m)
+- [Best Cron Job Generators and Testers &lpar;Free, 2026&rpar; — Compared](https://dev.to/_d7eb1c1703182e3ce1782/best-cron-job-generators-and-testers-free-2026-compared-36d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
