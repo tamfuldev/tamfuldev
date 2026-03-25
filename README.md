@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como Agentes de IA Estão Mudando o Desenvolvimento de Software](https://dev.to/aly_io_/como-agentes-de-ia-estao-mudando-o-desenvolvimento-de-software-4m0h)
-- [Leetcode Notion progress tracker](https://dev.to/2_roti/leetcode-notion-progress-tracker-36ak)
-- [Como Construir um Agente de IA Autônomo em Python: Do Zero ao Funcionando](https://dev.to/aly_io_/como-construir-um-agente-de-ia-autonomo-em-python-do-zero-ao-funcionando-4f43)
-- [How to Build a REST API in 2025: Node.js vs Python vs Go](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-rest-api-in-2025-nodejs-vs-python-vs-go-26fp)
-- [How to Build a REST API in 10 Minutes: A Beginner&#39;s Guide](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-rest-api-in-10-minutes-a-beginners-guide-4b3p)
+- [How to Speed Up Your Git Workflow: Practical Tips for 2026](https://dev.to/_d7eb1c1703182e3ce1782/how-to-speed-up-your-git-workflow-practical-tips-for-2026-5gdj)
+- [Software Engineer Salary by City 2026: Complete Guide](https://dev.to/_d7eb1c1703182e3ce1782/software-engineer-salary-by-city-2026-complete-guide-5g1m)
+- [Vector: The Data Pipeline for Observability](https://dev.to/godofgeeks/vector-the-data-pipeline-for-observability-1id0)
+- [The EverArt MCP Server — Image Generation for Agents, If You Can Find the API Key](https://dev.to/grove_chatforest/the-everart-mcp-server-image-generation-for-agents-if-you-can-find-the-api-key-3ka6)
+- [Event Management &amp; Ticketing MCP Servers — Eventbrite, Ticketmaster, Meetup, Google Calendar, and More](https://dev.to/grove_chatforest/event-management-ticketing-mcp-servers-eventbrite-ticketmaster-meetup-google-calendar-and-363i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
