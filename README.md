@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 Free APIs You Probably Didn&#39;t Know Existed](https://dev.to/0012303/9-free-apis-you-probably-didnt-know-existed-2444)
-- [Server-Sent Events as Your Mobile Real-Time Layer](https://dev.to/software_mvp-factory/server-sent-events-as-your-mobile-real-time-layer-8md)
-- [Portfolio Website Development 🏗️ - Part 4](https://dev.to/souravdey777/portfolio-website-development-part-4-272h)
-- [I Built 14 Free API Toolkits in 2 Weeks — Here&#39;s What Each One Does](https://dev.to/0012303/i-built-14-free-api-toolkits-in-2-weeks-heres-what-each-one-does-5ehj)
-- [From Windows to Fedora: A beginners Guide to the Open Source World](https://dev.to/ritika-bhambri/from-windows-to-fedora-a-beginners-guide-to-the-open-source-world-3lc6)
+- [What Happens When Your AI Agent Makes an HTTP Request](https://dev.to/luckypipewrench/what-happens-when-your-ai-agent-makes-an-http-request-4cjd)
+- [Satellite Tailscale — Ep.3](https://dev.to/the-software-s-journey/satellite-tailscale-ep3-o7b)
+- [Git Commands Nobody Teaches You &lpar;But Everyone Should Know&rpar;](https://dev.to/0012303/git-commands-nobody-teaches-you-but-everyone-should-know-4pke)
+- [Your Docker Compose File Is Probably Wrong — 7 Mistakes I See in Every Project](https://dev.to/0012303/your-docker-compose-file-is-probably-wrong-7-mistakes-i-see-in-every-project-p05)
+- [สร้าง API ที่ HIPAA Compliance ในปี 2026 สำหรับแอปพลิเคชันด้านการดูแลสุขภาพที่ปลอดภัย](https://dev.to/thanawat_wonchai/sraang-api-thii-hipaa-compliance-ainpii-2026-samhrabaepphliekhchandaankaarduuaelsukhphaaphthiipldphay-4ei4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
