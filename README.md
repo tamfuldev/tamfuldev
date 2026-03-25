@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI Agent Protocols: Reshaping Development Integrations for 2027](https://dev.to/barecheck/the-future-of-ai-agent-protocols-reshaping-development-integrations-for-2027-198e)
-- [Nuclear Option Day: Validator Rewrite, 63 New Packs, 414 Plugins](https://dev.to/jeremy_longshore/nuclear-option-day-validator-rewrite-63-new-packs-414-plugins-1ond)
-- [Ninety Skills, Three Packs, One Day](https://dev.to/jeremy_longshore/ninety-skills-three-packs-one-day-3lkb)
-- [Maximum Subarray Sum in Java](https://dev.to/sharmi_sabari_09/maximum-subarray-sum-in-java-1115)
-- [How to Process Unstructured RFQs using OpenAI RAG and Node.js](https://dev.to/seafluxtechnologies/how-to-process-unstructured-rfqs-using-openai-rag-and-nodejs-1d5l)
+- [9 Free APIs You Probably Didn&#39;t Know Existed](https://dev.to/0012303/9-free-apis-you-probably-didnt-know-existed-2444)
+- [Server-Sent Events as Your Mobile Real-Time Layer](https://dev.to/software_mvp-factory/server-sent-events-as-your-mobile-real-time-layer-8md)
+- [Portfolio Website Development 🏗️ - Part 4](https://dev.to/souravdey777/portfolio-website-development-part-4-272h)
+- [I Built 14 Free API Toolkits in 2 Weeks — Here&#39;s What Each One Does](https://dev.to/0012303/i-built-14-free-api-toolkits-in-2-weeks-heres-what-each-one-does-5ehj)
+- [From Windows to Fedora: A beginners Guide to the Open Source World](https://dev.to/ritika-bhambri/from-windows-to-fedora-a-beginners-guide-to-the-open-source-world-3lc6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
