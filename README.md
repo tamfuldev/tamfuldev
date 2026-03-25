@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code + Cowork Now Control Your Mac — What This Means for Developers](https://dev.to/damogallagher/claude-code-cowork-now-control-your-mac-what-this-means-for-developers-32pb)
-- [Disney Just Walked Away From OpenAI After They Shut Down Sora — What This Means for AI Video](https://dev.to/0012303/disney-just-walked-away-from-openai-after-they-shut-down-sora-what-this-means-for-ai-video-13kd)
-- [Automotive &amp; Vehicle MCP Servers — Tesla, OBD-II Diagnostics, EV Charging, VIN Decoding, Fleet Telematics](https://dev.to/grove_chatforest/automotive-vehicle-mcp-servers-tesla-obd-ii-diagnostics-ev-charging-vin-decoding-fleet-3dga)
-- [Audio &amp; Video Processing MCP Servers — ElevenLabs, FFmpeg, DaVinci Resolve, Ableton, REAPER, and More](https://dev.to/grove_chatforest/audio-video-processing-mcp-servers-elevenlabs-ffmpeg-davinci-resolve-ableton-reaper-and-4mbf)
-- [Microaggressions in Workplace Emails: The Subtle Slights Hiding in Professional Language](https://dev.to/skippy_magnificent_8cce24/microaggressions-in-workplace-emails-the-subtle-slights-hiding-in-professional-language-ogc)
+- [How to Give Your AI Agent a Memory That Actually Works](https://dev.to/diven_rastdus_c5af27d68f3/how-to-give-your-ai-agent-a-memory-that-actually-works-2k79)
+- [A developer&#39;s guide to JSON — formatting, validation, and common mistakes](https://dev.to/willivan0706/a-developers-guide-to-json-formatting-validation-and-common-mistakes-5e6d)
+- [Your Pet&#39;s Next Doctor Visit Might Be an App — How 8 Countries Are Proving It](https://dev.to/krlz/your-pets-next-doctor-visit-might-be-an-app-how-8-countries-are-proving-it-amj)
+- [How to Implement HMAC Request Signing for Secure API Authentication in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-hmac-request-signing-for-secure-api-authentication-in-nodejs-2026-guide-3b3f)
+- [Algorithms vs Architecture: Why LeetCode Alone Doesn’t Prepare Engineers for Real Systems](https://dev.to/mcheemalapati/algorithms-vs-architecture-why-leetcode-alone-doesnt-prepare-engineers-for-real-systems-4pp0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
