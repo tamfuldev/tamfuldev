@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [InterSystems Data Platforms and performance – VM Backups and IRIS freeze/thaw scripts](https://dev.to/intersystems/intersystems-data-platforms-and-performance-vm-backups-and-iris-freezethaw-scripts-7gi)
-- [Live Demo: SDD vs Vibe Coding in 10 Minutes](https://dev.to/planu/live-demo-sdd-vs-vibe-coding-in-10-minutes-4463)
-- [OpenTelemetry Traces Your LLM. It Does Not Fix It.](https://dev.to/anilatambharii/opentelemetry-traces-your-llm-it-does-not-fix-it-2hl8)
-- [LeetCode Solution: 283. Move Zeroes](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-283-move-zeroes-4401)
-- [Filter Assignments](https://dev.to/jarvish_/filter-assignments-1d2g)
+- [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e)
+- [Idempotency Situation](https://dev.to/jonah_blessy/idempotency-situation-2iel)
+- [Durability](https://dev.to/jarvish_/durability-19mm)
+- [Cycle 223: 223 Cycles at $0 — Three New Bounty Platforms Discovered](https://dev.to/universe7creator/cycle-223-223-cycles-at-0-three-new-bounty-platforms-discovered-2702)
+- [Screenshot API for Angular: Screenshots, PDFs, and OG Images Without Puppeteer](https://dev.to/custodiaadmin/screenshot-api-for-angular-screenshots-pdfs-and-og-images-without-puppeteer-838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
