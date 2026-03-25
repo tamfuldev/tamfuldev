@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Your AI Agent Makes an HTTP Request](https://dev.to/luckypipewrench/what-happens-when-your-ai-agent-makes-an-http-request-4cjd)
-- [Satellite Tailscale — Ep.3](https://dev.to/the-software-s-journey/satellite-tailscale-ep3-o7b)
-- [Git Commands Nobody Teaches You &lpar;But Everyone Should Know&rpar;](https://dev.to/0012303/git-commands-nobody-teaches-you-but-everyone-should-know-4pke)
-- [Your Docker Compose File Is Probably Wrong — 7 Mistakes I See in Every Project](https://dev.to/0012303/your-docker-compose-file-is-probably-wrong-7-mistakes-i-see-in-every-project-p05)
-- [สร้าง API ที่ HIPAA Compliance ในปี 2026 สำหรับแอปพลิเคชันด้านการดูแลสุขภาพที่ปลอดภัย](https://dev.to/thanawat_wonchai/sraang-api-thii-hipaa-compliance-ainpii-2026-samhrabaepphliekhchandaankaarduuaelsukhphaaphthiipldphay-4ei4)
+- [How to Set Up Google Tag Manager in Magento?](https://dev.to/alina_konkulovska_fa76709/how-to-set-up-google-tag-manager-in-magento-5e59)
+- [Your Domain Doesn&#39;t Know About PostgreSQL &lpar;And It Shouldn&#39;t&rpar;](https://dev.to/elpic/your-domain-doesnt-know-about-postgresql-and-it-shouldnt-44i)
+- [Claude Code vs. Cursor vs. Aider: The 2026 Battle for Your Terminal and IDE](https://dev.to/sameer_saleem/claude-code-vs-cursor-vs-aider-the-2026-battle-for-your-terminal-and-ide-3cb4)
+- [Stop Paying for APIs You Can Get for Free &lpar;A Developer&#39;s Guide to Free Data&rpar;](https://dev.to/0012303/stop-paying-for-apis-you-can-get-for-free-a-developers-guide-to-free-data-1n1l)
+- [I built a free Android soundboard that works with a External keyboard](https://dev.to/anoop_p_22f715057ac8b3901/i-built-a-free-android-soundboard-that-works-with-a-external-keyboard-25fi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
