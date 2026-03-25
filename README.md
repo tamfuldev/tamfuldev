@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I finally published a side project I wrote 4 years ago](https://dev.to/yashdatir/i-finally-published-a-side-project-i-wrote-4-years-ago-46il)
-- [Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/jonah_blessy/setup-a-dns-hosted-zone-in-route53-in-aws-71j)
-- [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4)
-- [Non-First Normal Forms &lpar; 1NF&rpar; and MongoDB: an alternative to 4NF to address 3NF anomalies](https://dev.to/franckpachot/non-first-normal-forms-1nf-and-mongodb-an-alternative-to-4nf-to-address-3nf-anomalies-17i8)
-- [Your AI Provider Shows Total Spend. Here&#39;s How to See It Per Customer.](https://dev.to/kat_laszlo/your-ai-provider-shows-total-spend-heres-how-to-see-it-per-customer-3po3)
+- [InterSystems Data Platforms and performance – VM Backups and IRIS freeze/thaw scripts](https://dev.to/intersystems/intersystems-data-platforms-and-performance-vm-backups-and-iris-freezethaw-scripts-7gi)
+- [Live Demo: SDD vs Vibe Coding in 10 Minutes](https://dev.to/planu/live-demo-sdd-vs-vibe-coding-in-10-minutes-4463)
+- [OpenTelemetry Traces Your LLM. It Does Not Fix It.](https://dev.to/anilatambharii/opentelemetry-traces-your-llm-it-does-not-fix-it-2hl8)
+- [LeetCode Solution: 283. Move Zeroes](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-283-move-zeroes-4401)
+- [Filter Assignments](https://dev.to/jarvish_/filter-assignments-1d2g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
