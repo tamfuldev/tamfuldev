@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Speed Up Your Git Workflow: Practical Tips for 2026](https://dev.to/_d7eb1c1703182e3ce1782/how-to-speed-up-your-git-workflow-practical-tips-for-2026-5gdj)
-- [Software Engineer Salary by City 2026: Complete Guide](https://dev.to/_d7eb1c1703182e3ce1782/software-engineer-salary-by-city-2026-complete-guide-5g1m)
-- [Vector: The Data Pipeline for Observability](https://dev.to/godofgeeks/vector-the-data-pipeline-for-observability-1id0)
-- [The EverArt MCP Server — Image Generation for Agents, If You Can Find the API Key](https://dev.to/grove_chatforest/the-everart-mcp-server-image-generation-for-agents-if-you-can-find-the-api-key-3ka6)
-- [Event Management &amp; Ticketing MCP Servers — Eventbrite, Ticketmaster, Meetup, Google Calendar, and More](https://dev.to/grove_chatforest/event-management-ticketing-mcp-servers-eventbrite-ticketmaster-meetup-google-calendar-and-363i)
+- [The Future of AI Agent Protocols: Reshaping Development Integrations for 2027](https://dev.to/barecheck/the-future-of-ai-agent-protocols-reshaping-development-integrations-for-2027-198e)
+- [Nuclear Option Day: Validator Rewrite, 63 New Packs, 414 Plugins](https://dev.to/jeremy_longshore/nuclear-option-day-validator-rewrite-63-new-packs-414-plugins-1ond)
+- [Ninety Skills, Three Packs, One Day](https://dev.to/jeremy_longshore/ninety-skills-three-packs-one-day-3lkb)
+- [Maximum Subarray Sum in Java](https://dev.to/sharmi_sabari_09/maximum-subarray-sum-in-java-1115)
+- [How to Process Unstructured RFQs using OpenAI RAG and Node.js](https://dev.to/seafluxtechnologies/how-to-process-unstructured-rfqs-using-openai-rag-and-nodejs-1d5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
