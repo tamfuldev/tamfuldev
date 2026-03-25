@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gapster is going out of beta soon](https://dev.to/greathound67/gapster-is-going-out-of-beta-soon-4f16)
-- [Claude Code Skills Are Blowing Up — Here Are the Best Ones &lpar;2,245 Stars in 6 Days&rpar;](https://dev.to/0012303/claude-code-skills-are-blowing-up-here-are-the-best-ones-2245-stars-in-6-days-nn5)
-- [CVE-2026-33690: CVE-2026-33690: IP Address Spoofing via Unsafe Header Processing in WWBN AVideo](https://dev.to/cverports/cve-2026-33690-cve-2026-33690-ip-address-spoofing-via-unsafe-header-processing-in-wwbn-avideo-141h)
-- [The Vinted Arbitrage War: Building a Scraper That Doesn&#39;t Get IP-Banned](https://dev.to/datakaz/the-vinted-arbitrage-war-building-a-scraper-that-doesnt-get-ip-banned-4bh3)
-- [When a Regex Eats Your Entire Process](https://dev.to/oolongtea2026/when-a-regex-eats-your-entire-process-klj)
+- [Understanding Seq2Seq Neural Networks – Part 8: When Does the Decoder Stop?](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-8-when-does-the-decoder-stop-4jdi)
+- [The 7 AI Agent Failures You&#39;ll Never See Coming Until They Hit Production](https://dev.to/utibe_okodi_339fb47a13ef5/the-7-ai-agent-failures-youll-never-see-coming-until-they-hit-production-fg8)
+- [[Side B] Breaking Free from Vibe Coding Fatigue: A Practical Record of Building an OSS with &#39;Spec-First AI Development&#39;](https://dev.to/d_9d93cd53/side-b-breaking-free-from-vibe-coding-fatigue-a-practical-record-of-building-an-oss-with-1pl9)
+- [[Side A] Building a RAM Disk on Windows without Admin Privileges — Python I/O Acceleration Techniques](https://dev.to/d_9d93cd53/side-a-building-a-ram-disk-on-windows-without-admin-privileges-python-io-acceleration-4omd)
+- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
