@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Free Code Formatters and Linters 2025: The Complete Guide](https://dev.to/_d7eb1c1703182e3ce1782/best-free-code-formatters-and-linters-2025-the-complete-guide-2cnh)
-- [Best Environment Variable Management Tools for Developers in 2025](https://dev.to/_d7eb1c1703182e3ce1782/best-environment-variable-management-tools-for-developers-in-2025-2h20)
-- [Giving AI Agents “Live Memory” with Aurora Zero-ETL and Redshift Vector Search](https://dev.to/mursalfk/giving-ai-agents-live-memory-with-aurora-zero-etl-and-redshift-vector-search-35gg)
-- [Best Developer Portfolio Examples &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/best-developer-portfolio-examples-2026-2d8m)
-- [Best Cron Job Generators and Testers &lpar;Free, 2026&rpar; — Compared](https://dev.to/_d7eb1c1703182e3ce1782/best-cron-job-generators-and-testers-free-2026-compared-36d1)
+- [Como Agentes de IA Estão Mudando o Desenvolvimento de Software](https://dev.to/aly_io_/como-agentes-de-ia-estao-mudando-o-desenvolvimento-de-software-4m0h)
+- [Leetcode Notion progress tracker](https://dev.to/2_roti/leetcode-notion-progress-tracker-36ak)
+- [Como Construir um Agente de IA Autônomo em Python: Do Zero ao Funcionando](https://dev.to/aly_io_/como-construir-um-agente-de-ia-autonomo-em-python-do-zero-ao-funcionando-4f43)
+- [How to Build a REST API in 2025: Node.js vs Python vs Go](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-rest-api-in-2025-nodejs-vs-python-vs-go-26fp)
+- [How to Build a REST API in 10 Minutes: A Beginner&#39;s Guide](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-rest-api-in-10-minutes-a-beginners-guide-4b3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
