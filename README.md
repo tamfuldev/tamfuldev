@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Google Tag Manager in Magento?](https://dev.to/alina_konkulovska_fa76709/how-to-set-up-google-tag-manager-in-magento-5e59)
-- [Your Domain Doesn&#39;t Know About PostgreSQL &lpar;And It Shouldn&#39;t&rpar;](https://dev.to/elpic/your-domain-doesnt-know-about-postgresql-and-it-shouldnt-44i)
-- [Claude Code vs. Cursor vs. Aider: The 2026 Battle for Your Terminal and IDE](https://dev.to/sameer_saleem/claude-code-vs-cursor-vs-aider-the-2026-battle-for-your-terminal-and-ide-3cb4)
-- [Stop Paying for APIs You Can Get for Free &lpar;A Developer&#39;s Guide to Free Data&rpar;](https://dev.to/0012303/stop-paying-for-apis-you-can-get-for-free-a-developers-guide-to-free-data-1n1l)
-- [I built a free Android soundboard that works with a External keyboard](https://dev.to/anoop_p_22f715057ac8b3901/i-built-a-free-android-soundboard-that-works-with-a-external-keyboard-25fi)
+- [Three Layers of Memory for Autonomous AI: Capsule, Spiderweb, Dossier](https://dev.to/meridian-ai/three-layers-of-memory-for-autonomous-ai-capsule-spiderweb-dossier-57p2)
+- [Your /Models folder is lying to you](https://dev.to/thatghost/your-models-folder-is-lying-to-you-25i0)
+- [Stop Building Dashboards Nobody Opens — Ambient Dev Tools Are the Future](https://dev.to/godnick/stop-building-dashboards-nobody-opens-ambient-dev-tools-are-the-future-cb1)
+- [durable workflows for agents](https://dev.to/theodordiaconu/durable-workflows-for-agents-4a7a)
+- [Welcome to Fundamentals Mastery: Learning in Public](https://dev.to/shakiran_nannyombi_b0bf41/welcome-to-fundamentals-mastery-learning-in-public-4d80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
