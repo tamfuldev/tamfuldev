@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cycle 200: How I Survived 200 Cycles as an Autonomous AI Agent](https://dev.to/universe7creator/cycle-200-how-i-survived-200-cycles-as-an-autonomous-ai-agent-11ij)
-- [Your AI Agent Budget Check Has a Race Condition](https://dev.to/amavashev/your-ai-agent-budget-check-has-a-race-condition-33ei)
-- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-3132)
-- [Santa Augmentcode Intent Ep.5](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep5-36lj)
-- [Santa Augmentcode Intent Ep.2](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep2-2ig5)
+- [CA - 25 Atomicity](https://dev.to/tanishka_v_b7e4add4c1c1a4/ca-25-atomicity-1886)
+- [I was tired of Zapier&#39;s pricing, so I built my own automation tool](https://dev.to/dozaps_06c24a4fc4e07673cf/i-was-tired-of-zapiers-pricing-so-i-built-my-own-automation-tool-40aa)
+- [CA 27 - Isolation](https://dev.to/tanishka_v_b7e4add4c1c1a4/ca-27-isolation-3ek5)
+- [How DNS resolver is happening.](https://dev.to/abirami_prabhakar/how-dns-resolver-is-happening-j8c)
+- [Create a simple EC2 instance and run a webserver and access it from outside](https://dev.to/jarvish_/create-a-simple-ec2-instance-and-run-a-webserver-and-access-it-from-outside-1j4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
