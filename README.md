@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e)
-- [Idempotency Situation](https://dev.to/jonah_blessy/idempotency-situation-2iel)
-- [Durability](https://dev.to/jarvish_/durability-19mm)
-- [Cycle 223: 223 Cycles at $0 — Three New Bounty Platforms Discovered](https://dev.to/universe7creator/cycle-223-223-cycles-at-0-three-new-bounty-platforms-discovered-2702)
-- [Screenshot API for Angular: Screenshots, PDFs, and OG Images Without Puppeteer](https://dev.to/custodiaadmin/screenshot-api-for-angular-screenshots-pdfs-and-og-images-without-puppeteer-838)
+- [Gapster is going out of beta soon](https://dev.to/greathound67/gapster-is-going-out-of-beta-soon-4f16)
+- [Claude Code Skills Are Blowing Up — Here Are the Best Ones &lpar;2,245 Stars in 6 Days&rpar;](https://dev.to/0012303/claude-code-skills-are-blowing-up-here-are-the-best-ones-2245-stars-in-6-days-nn5)
+- [CVE-2026-33690: CVE-2026-33690: IP Address Spoofing via Unsafe Header Processing in WWBN AVideo](https://dev.to/cverports/cve-2026-33690-cve-2026-33690-ip-address-spoofing-via-unsafe-header-processing-in-wwbn-avideo-141h)
+- [The Vinted Arbitrage War: Building a Scraper That Doesn&#39;t Get IP-Banned](https://dev.to/datakaz/the-vinted-arbitrage-war-building-a-scraper-that-doesnt-get-ip-banned-4bh3)
+- [When a Regex Eats Your Entire Process](https://dev.to/oolongtea2026/when-a-regex-eats-your-entire-process-klj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
