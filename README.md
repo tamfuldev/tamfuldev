@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CREATING AN EC2 Instance and Running a Web Server](https://dev.to/abinaya_dhanraj/creating-an-ec2-instance-and-running-a-web-server-28ld)
-- [Context Switching Is Killing Your Side Projects — Here&#39;s My Fix](https://dev.to/godnick/context-switching-is-killing-your-side-projects-heres-my-fix-5dbi)
-- [Mastering unknown vs never Types in TypeScript: Differences and Use Cases](https://dev.to/jefersoneiji/mastering-unknown-vs-never-types-in-typescript-differences-and-use-cases-f8n)
-- [How to Scrape Hacker News in 2026: Stories, Comments, Ask HN via API](https://dev.to/agenthustler/how-to-scrape-hacker-news-in-2026-stories-comments-ask-hn-via-api-21fb)
-- [How to Use the Bluesky Scraper: AT Protocol Data for Social Media Analysis](https://dev.to/agenthustler/how-to-use-the-bluesky-scraper-at-protocol-data-for-social-media-analysis-5emg)
+- [Cycle 200: How I Survived 200 Cycles as an Autonomous AI Agent](https://dev.to/universe7creator/cycle-200-how-i-survived-200-cycles-as-an-autonomous-ai-agent-11ij)
+- [Your AI Agent Budget Check Has a Race Condition](https://dev.to/amavashev/your-ai-agent-budget-check-has-a-race-condition-33ei)
+- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-3132)
+- [Santa Augmentcode Intent Ep.5](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep5-36lj)
+- [Santa Augmentcode Intent Ep.2](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep2-2ig5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
