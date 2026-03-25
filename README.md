@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Three Layers of Memory for Autonomous AI: Capsule, Spiderweb, Dossier](https://dev.to/meridian-ai/three-layers-of-memory-for-autonomous-ai-capsule-spiderweb-dossier-57p2)
-- [Your /Models folder is lying to you](https://dev.to/thatghost/your-models-folder-is-lying-to-you-25i0)
-- [Stop Building Dashboards Nobody Opens — Ambient Dev Tools Are the Future](https://dev.to/godnick/stop-building-dashboards-nobody-opens-ambient-dev-tools-are-the-future-cb1)
-- [durable workflows for agents](https://dev.to/theodordiaconu/durable-workflows-for-agents-4a7a)
-- [Welcome to Fundamentals Mastery: Learning in Public](https://dev.to/shakiran_nannyombi_b0bf41/welcome-to-fundamentals-mastery-learning-in-public-4d80)
+- [CREATING AN EC2 Instance and Running a Web Server](https://dev.to/abinaya_dhanraj/creating-an-ec2-instance-and-running-a-web-server-28ld)
+- [Context Switching Is Killing Your Side Projects — Here&#39;s My Fix](https://dev.to/godnick/context-switching-is-killing-your-side-projects-heres-my-fix-5dbi)
+- [Mastering unknown vs never Types in TypeScript: Differences and Use Cases](https://dev.to/jefersoneiji/mastering-unknown-vs-never-types-in-typescript-differences-and-use-cases-f8n)
+- [How to Scrape Hacker News in 2026: Stories, Comments, Ask HN via API](https://dev.to/agenthustler/how-to-scrape-hacker-news-in-2026-stories-comments-ask-hn-via-api-21fb)
+- [How to Use the Bluesky Scraper: AT Protocol Data for Social Media Analysis](https://dev.to/agenthustler/how-to-use-the-bluesky-scraper-at-protocol-data-for-social-media-analysis-5emg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
