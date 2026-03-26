@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Dubbing App with Claude Code Agents — Here&#39;s What I Learned](https://dev.to/matthew_lee/i-built-an-ai-dubbing-app-with-claude-code-agents-heres-what-i-learned-75p)
-- [Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/shreya_princy_8194cc37e3f/setup-a-dns-hosted-zone-in-route53-in-aws-1mja)
-- [I Built a Real AI Chatbot With AWS Bedrock and Python in 30 Minutes](https://dev.to/learnwithprashik/i-built-a-real-ai-chatbot-with-aws-bedrock-and-python-in-30-minutes-1cfl)
-- [# Building Reusable Infrastructure with Terraform Modules ## Or: How I Finally Stopped Copy-Pasting the Same 200 Lines of Code](https://dev.to/tink-origami/-building-reusable-infrastructure-with-terraform-modules-or-how-i-finally-stopped-copy-pasting-34nh)
-- [MCP Explained: How Claude Controls a Real Browser](https://dev.to/manimovassagh/mcp-explained-how-claude-controls-a-real-browser-1m4j)
+- [Academics Just Formalized &quot;Reverse CAPTCHAs&quot; — Here&#39;s a Working Open-Source Implementation](https://dev.to/leo_pechnicki/academics-just-formalized-reverse-captchas-heres-a-working-open-source-implementation-3k1o)
+- [Advanced Terraform Module Usage: Versioning, Gotchas, and Reuse Across Environments](https://dev.to/tink-origami/advanced-terraform-module-usage-versioning-gotchas-and-reuse-across-environments-5779)
+- [What is JavaScript? &lpar;A Beginner-Friendly Overview&rpar;](https://dev.to/athithya_sivasankarar/what-is-javascript-a-beginner-friendly-overview-3d93)
+- [Why Every Developer Should Learn Cloud Computing](https://dev.to/mukhtar_abdussalam_0de093/why-every-developer-should-learn-cloud-computing-5f6m)
+- [Destructuring in JavaScript&lpar;beginner to advance&rpar;](https://dev.to/abhishek_sahni_c83807f8fe/destructuring-in-javascriptbeginner-to-advance-45m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
