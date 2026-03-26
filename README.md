@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Nginx: A Practical Guide to Modular Security Configuration](https://dev.to/nirzak/hardening-nginx-a-practical-guide-to-modular-security-configuration-4bno)
-- [AI Writes Daily Without My Involvement](https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc)
-- [My Self-Evolving AI Agent Stopped Building Features and Started Engineering](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-stopped-building-features-and-started-engineering-eof)
-- [How To Fix a Quectel EM120R-GL LTE Modem On Ubuntu](https://dev.to/plexydesk/how-to-fix-a-quectel-em120r-gl-lte-modem-on-ubuntu-54g9)
-- [Neovim + Java LSP on a Play Framework sbt Project — The Missing Guide](https://dev.to/b2l/neovim-java-lsp-on-a-play-framework-sbt-project-the-missing-guide-1749)
+- [Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, &amp; Vaultwarden with Fail2ban](https://dev.to/nirzak/guide-to-secure-your-self-hosted-stacks-like-nginx-ssh-vaultwarden-with-fail2ban-4k4c)
+- [I Replaced Zapier with n8n for 12 Clients — Here&#39;s What Actually Happened](https://dev.to/achiya-automation/i-replaced-zapier-with-n8n-for-12-clients-heres-what-actually-happened-5546)
+- [We Just Shipped What OpenAI, Google, and Anthropic Have Not. Here Are 6 Updates.](https://dev.to/jon_at_backboardio/we-just-shipped-what-openai-google-and-anthropic-have-not-here-are-6-updates-2fj8)
+- [AWS vs Azure vs GCP: A batalha definitiva explicada como se fossem restaurantes](https://dev.to/bigdataman/aws-vs-azure-vs-gcp-a-batalha-definitiva-explicada-como-se-fossem-restaurantes-2221)
+- [ChanSpy, Whisper, and Barge: The Agent Coaching Features Nobody Uses Right](https://dev.to/gamlin/chanspy-whisper-and-barge-the-agent-coaching-features-nobody-uses-right-2c1k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
