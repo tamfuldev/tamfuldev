@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WebLines reached 100 users](https://dev.to/sushilbajracharya01/weblines-reached-100-users-5e6n)
-- [I built a reverse proxy to stop adblockers from eating my analytics](https://dev.to/rajnandan1/i-built-a-reverse-proxy-to-stop-adblockers-from-eating-my-analytics-1c8j)
-- [Just developed something cool!](https://dev.to/digreatbrian/just-developed-something-cool-ph0)
-- [The Day I Stopped Building Alone: OpenClaw as My Virtual Team](https://dev.to/gauravk_tweet/the-day-i-stopped-building-alone-openclaw-as-my-virtual-team-23h8)
-- [5 Resume Myths That Could Be Costing You Interviews and Job Offers](https://dev.to/vicente_sansilvestrecha/5-resume-myths-that-could-be-costing-you-interviews-and-job-offers-4o29)
+- [Stop writing Python glue code for your AI Agents. Use YAML instead](https://dev.to/minionkim/stop-writing-python-glue-code-for-your-ai-agents-use-yaml-instead-f02)
+- [GPT-5, Claude, Gemini All Score Below 1% - ARC AGI 3 Just Broke Every Frontier Model](https://dev.to/codepawl/gpt-5-claude-gemini-all-score-below-1-arc-agi-3-just-broke-every-frontier-model-5dbj)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3eoi)
+- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
+- [Gemini is the best AI for deep research and the worst for actually using the output](https://dev.to/bunty_shah_fac2bef694e9c9/gemini-is-the-best-ai-for-deep-research-and-the-worst-for-actually-using-the-output-453m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
