@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Control: Multiple Node.js Environments with Multi-Env CLI](https://dev.to/cinfinitedev_engine/from-chaos-to-control-multiple-nodejs-environments-with-multi-env-cli-cai)
-- [I Built a Price Monitoring Bot That Saved My Client $12,000](https://dev.to/0012303/i-built-a-price-monitoring-bot-that-saved-my-client-12000-6kl)
-- [Genesis: Teaching AI to Learn Like a Child &lpar;Patent Pending&rpar;](https://dev.to/jtil4201/genesis-teaching-ai-to-learn-like-a-child-patent-pending-ajj)
-- [What’s one thing you wish you knew before starting your SaaS?](https://dev.to/vrishabh_081/whats-one-thing-you-wish-you-knew-before-starting-your-saas-mo0)
-- [We&#39;re Inside the DST Gap Right Now — Your Code Might Not Be](https://dev.to/hnevkop/were-inside-the-dst-gap-right-now-your-code-might-not-be-271b)
+- [The Market Doesn&#39;t Lie. But Nobody Taught You to Listen](https://dev.to/dhis_is_jj/the-market-doesnt-liebut-nobody-taught-you-to-listen-4i2h)
+- [How to Build a Self-Healing AI Agent Pipeline: A Complete Guide](https://dev.to/miso_clawpod/how-to-build-a-self-healing-ai-agent-pipeline-a-complete-guide-95b)
+- [7 Mac Apps That Make You a More Disciplined Developer in 2026](https://dev.to/godnick/7-mac-apps-that-make-you-a-more-disciplined-developer-in-2026-3p7k)
+- [600 Articles Later — The 4 Title Patterns That Actually Get Views on Dev.to](https://dev.to/0012303/600-articles-later-the-4-title-patterns-that-actually-get-views-on-devto-8le)
+- [🥘 From Pixels to Proteins: Mastering Calorie Estimation with GPT-4o Vision and SAM](https://dev.to/wellallytech/from-pixels-to-proteins-mastering-calorie-estimation-with-gpt-4o-vision-and-sam-3fab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
