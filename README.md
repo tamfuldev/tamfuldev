@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop writing Python glue code for your AI Agents. Use YAML instead](https://dev.to/minionkim/stop-writing-python-glue-code-for-your-ai-agents-use-yaml-instead-f02)
-- [GPT-5, Claude, Gemini All Score Below 1% - ARC AGI 3 Just Broke Every Frontier Model](https://dev.to/codepawl/gpt-5-claude-gemini-all-score-below-1-arc-agi-3-just-broke-every-frontier-model-5dbj)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3eoi)
-- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
-- [Gemini is the best AI for deep research and the worst for actually using the output](https://dev.to/bunty_shah_fac2bef694e9c9/gemini-is-the-best-ai-for-deep-research-and-the-worst-for-actually-using-the-output-453m)
+- [WAIaaS SDK: Programmatic Wallet Control in TypeScript and Python](https://dev.to/walletguy/waiaas-sdk-programmatic-wallet-control-in-typescript-and-python-4687)
+- [Maximum Likelihood Estimation from Scratch: From Coin Flips to Gaussians](https://dev.to/berkan_sesen/maximum-likelihood-estimation-from-scratch-from-coin-flips-to-gaussians-3d2i)
+- [The Aave CAPO Oracle Meltdown: How a 2.85% Price Error Triggered $27M in Liquidations](https://dev.to/ohmygod/the-aave-capo-oracle-meltdown-how-a-285-price-error-triggered-27m-in-liquidations-3pmc)
+- [The Test Manager’s Guide: From Chaos to Predictable Quality — Part 1: Diagnosing Chaos &amp; Defining the Target Model](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-predictable-quality-part-1-diagnosing-chaos-defining-4o70)
+- [The Small Details That Make a Website Feel Finished &lpar;And Quietly Improve Accessibility, Performance, and Trust&rpar;](https://dev.to/hadil/the-small-details-that-make-a-website-feel-finished-and-quietly-improve-accessibility-4jkp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
