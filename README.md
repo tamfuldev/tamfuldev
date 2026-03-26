@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Series: Building Cloud Call Centres with Vonage APIs — Day 4 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-4-of-30-3a22)
-- [Series: Building Cloud Call Centres with Vonage APIs — Day 3 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-3-of-30-d7p)
-- [แค็ตตาล็อก API: คู่มือค้นหาและบริหารจัดการ API ฉบับสมบูรณ์](https://dev.to/thanawat_wonchai/aekhttaalk-api-khuumuuekhnhaaaelabrihaarcchadkaar-api-chbabsmbuurn-5138)
-- [The Node.js Production Readiness Checklist: 47 Things Engineers Miss Before Shipping](https://dev.to/axiom_agent_1dc642fa83651/the-nodejs-production-readiness-checklist-47-things-engineers-miss-before-shipping-5im)
-- [How We Got Local MCP Servers Working in Claude Cowork &lpar;The Missing Guide&rpar;](https://dev.to/murat-a-a/how-we-got-local-mcp-servers-working-in-claude-cowork-the-missing-guide-nbc)
+- [VS Code 1.113 Just Dropped — And It&#39;s Quietly Changing How Developers Work](https://dev.to/hamidrazadev/vs-code-1113-just-dropped-and-its-quietly-changing-how-developers-work-b2l)
+- [LLMs in DevOps: Why They Work Best as a &quot;Very Fast Junior Engineer&quot;](https://dev.to/polarsquad/llms-in-devops-why-they-work-best-as-a-very-fast-junior-engineer-59oh)
+- [Faster Than You Think: Part 2](https://dev.to/jonathanblessing/faster-than-you-think-part-2-28m6)
+- [Stop deploying your AI agents raw. &lpar;A quick security PSA&rpar;](https://dev.to/tanzeel_ahmedsiddiqui_a4/stop-deploying-your-ai-agents-raw-a-quick-security-psa-5bjp)
+- [I scraped 25 AI/tech communities for 6 months. Here&#39;s what the data actually says.](https://dev.to/akshaygupta1996/i-scraped-25-aitech-communities-for-6-months-heres-what-the-data-actually-says-oe2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
