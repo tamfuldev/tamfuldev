@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WAIaaS SDK: Programmatic Wallet Control in TypeScript and Python](https://dev.to/walletguy/waiaas-sdk-programmatic-wallet-control-in-typescript-and-python-4687)
-- [Maximum Likelihood Estimation from Scratch: From Coin Flips to Gaussians](https://dev.to/berkan_sesen/maximum-likelihood-estimation-from-scratch-from-coin-flips-to-gaussians-3d2i)
-- [The Aave CAPO Oracle Meltdown: How a 2.85% Price Error Triggered $27M in Liquidations](https://dev.to/ohmygod/the-aave-capo-oracle-meltdown-how-a-285-price-error-triggered-27m-in-liquidations-3pmc)
-- [The Test Manager’s Guide: From Chaos to Predictable Quality — Part 1: Diagnosing Chaos &amp; Defining the Target Model](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-predictable-quality-part-1-diagnosing-chaos-defining-4o70)
-- [The Small Details That Make a Website Feel Finished &lpar;And Quietly Improve Accessibility, Performance, and Trust&rpar;](https://dev.to/hadil/the-small-details-that-make-a-website-feel-finished-and-quietly-improve-accessibility-4jkp)
+- [I Built an AI Dubbing App with Claude Code Agents — Here&#39;s What I Learned](https://dev.to/matthew_lee/i-built-an-ai-dubbing-app-with-claude-code-agents-heres-what-i-learned-75p)
+- [Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/shreya_princy_8194cc37e3f/setup-a-dns-hosted-zone-in-route53-in-aws-1mja)
+- [I Built a Real AI Chatbot With AWS Bedrock and Python in 30 Minutes](https://dev.to/learnwithprashik/i-built-a-real-ai-chatbot-with-aws-bedrock-and-python-in-30-minutes-1cfl)
+- [# Building Reusable Infrastructure with Terraform Modules ## Or: How I Finally Stopped Copy-Pasting the Same 200 Lines of Code](https://dev.to/tink-origami/-building-reusable-infrastructure-with-terraform-modules-or-how-i-finally-stopped-copy-pasting-34nh)
+- [MCP Explained: How Claude Controls a Real Browser](https://dev.to/manimovassagh/mcp-explained-how-claude-controls-a-real-browser-1m4j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
