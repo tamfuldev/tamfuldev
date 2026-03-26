@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Stopped Re-Explaining Everything to Claude Code Every Single Session](https://dev.to/qcautomation/how-i-stopped-re-explaining-everything-to-claude-code-every-single-session-3299)
-- [Docker in the Wild: Use Cases &amp; The Survival Commands](https://dev.to/mitrakumar/docker-in-the-wild-use-cases-the-survival-commands-4h8n)
-- [We built an tool for DevOps that wasn&#39;t useful. Here’s what we are building instead.](https://dev.to/jose_soares/we-built-an-tool-for-devops-that-wasnt-useful-heres-what-we-are-building-instead-20gi)
-- [A Condensed Look Inside the Credit Scoring Industry](https://dev.to/marysofteng/a-condensed-look-inside-the-credit-scoring-industry-20d6)
-- [Your AI Agent is Failing. You Just Don’t Know Where.](https://dev.to/john_spaghetti/launching-skillcompass-diagnose-and-improve-ai-agent-skills-across-6-dimensions-17h5)
+- [I Built a Monitoring Tool Because Uptime Checks Kept Lying to Me](https://dev.to/nickycdk/i-built-a-monitoring-tool-because-uptime-checks-kept-lying-to-me-35mf)
+- [FlexibleSearch Queries in SAP Commerce: The Complete Developer&#39;s Guide](https://dev.to/aliaksandr_tsviatkou/flexiblesearch-queries-in-sap-commerce-the-complete-developers-guide-j0p)
+- [Integrate Custom Tools with OpenAI Function Calling](https://dev.to/maanu07/integrate-custom-tools-with-openai-function-calling-5f9j)
+- [I built the VS Code Remote WSL extension, but for GitHub Desktop](https://dev.to/aleixrodriala/i-built-the-vs-code-remote-wsl-extension-but-for-github-desktop-4pic)
+- [Job Hunting Used To Be Easy](https://dev.to/jrainearwills/job-hunting-used-to-be-easy-5oe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
