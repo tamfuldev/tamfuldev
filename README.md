@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
-- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
-- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
-- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
-- [GitHub Copilot vs Tabnine: The Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-copilot-vs-tabnine-the-complete-comparison-2026-49d8)
+- [I Built a GitHub Action to Stop AI-Generated PRs Before They Reach My Queue](https://dev.to/ebuodinde/i-built-a-github-action-to-stop-ai-generated-prs-before-they-reach-my-queue-40bj)
+- [Interfacing Pure Functions with Our Impure World](https://dev.to/mahush/interfacing-pure-functions-with-our-impure-world-5e8f)
+- [Before an Agent Pays: Why Wallet Auth Is the Missing Layer in Agentic Commerce](https://dev.to/douglasborthwickcrypto/before-an-agent-pays-why-wallet-auth-is-the-missing-layer-in-agentic-commerce-hk2)
+- [I built a Redis-alternative distributed cache in Rust — with WAL persistence, mTLS, and Raft consensus](https://dev.to/vusalrahimov/i-built-a-redis-alternative-distributed-cache-in-rust-with-wal-persistence-mtls-and-raft-11a6)
+- [Audit Your SvelteKit Codebase with a JSON Feed of 34 Svelte 5 Patterns](https://dev.to/rickcogley/audit-your-sveltekit-codebase-with-a-json-feed-of-34-svelte-5-patterns-4l6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
