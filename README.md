@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, &amp; Vaultwarden with Fail2ban](https://dev.to/nirzak/guide-to-secure-your-self-hosted-stacks-like-nginx-ssh-vaultwarden-with-fail2ban-4k4c)
-- [I Replaced Zapier with n8n for 12 Clients — Here&#39;s What Actually Happened](https://dev.to/achiya-automation/i-replaced-zapier-with-n8n-for-12-clients-heres-what-actually-happened-5546)
-- [We Just Shipped What OpenAI, Google, and Anthropic Have Not. Here Are 6 Updates.](https://dev.to/jon_at_backboardio/we-just-shipped-what-openai-google-and-anthropic-have-not-here-are-6-updates-2fj8)
-- [AWS vs Azure vs GCP: A batalha definitiva explicada como se fossem restaurantes](https://dev.to/bigdataman/aws-vs-azure-vs-gcp-a-batalha-definitiva-explicada-como-se-fossem-restaurantes-2221)
-- [ChanSpy, Whisper, and Barge: The Agent Coaching Features Nobody Uses Right](https://dev.to/gamlin/chanspy-whisper-and-barge-the-agent-coaching-features-nobody-uses-right-2c1k)
+- [The Agent Pricing Model: Why We Made Our Free Tier Read-Only](https://dev.to/karimsherifyehia/the-agent-pricing-model-why-we-made-our-free-tier-read-only-31ba)
+- [GitHub Copilot Is Training on Your Private Code Now. You Probably Didn&#39;t Notice.](https://dev.to/alanwest/github-copilot-is-training-on-your-private-code-now-you-probably-didnt-notice-2f6)
+- [The Resolv USR Exploit: How a Missing Max-Mint Check Let an Attacker Print $25M From $100K](https://dev.to/ohmygod/the-resolv-usr-exploit-how-a-missing-max-mint-check-let-an-attacker-print-25m-from-100k-522j)
+- [I spent 1 month building my first NPM package from scratch, and here is the result](https://dev.to/victin16/i-spent-1-month-building-my-first-npm-package-from-scratch-and-here-is-the-result-3hk1)
+- [Beyond the API Call: Engineering EloDtx, the Deep Learning Core of Baeyond](https://dev.to/urbanspc_97/beyond-the-api-call-engineering-elodtx-the-deep-learning-core-of-baeyond-2ph4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
