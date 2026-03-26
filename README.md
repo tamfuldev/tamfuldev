@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Academics Just Formalized &quot;Reverse CAPTCHAs&quot; — Here&#39;s a Working Open-Source Implementation](https://dev.to/leo_pechnicki/academics-just-formalized-reverse-captchas-heres-a-working-open-source-implementation-3k1o)
-- [Advanced Terraform Module Usage: Versioning, Gotchas, and Reuse Across Environments](https://dev.to/tink-origami/advanced-terraform-module-usage-versioning-gotchas-and-reuse-across-environments-5779)
-- [What is JavaScript? &lpar;A Beginner-Friendly Overview&rpar;](https://dev.to/athithya_sivasankarar/what-is-javascript-a-beginner-friendly-overview-3d93)
-- [Why Every Developer Should Learn Cloud Computing](https://dev.to/mukhtar_abdussalam_0de093/why-every-developer-should-learn-cloud-computing-5f6m)
-- [Destructuring in JavaScript&lpar;beginner to advance&rpar;](https://dev.to/abhishek_sahni_c83807f8fe/destructuring-in-javascriptbeginner-to-advance-45m)
+- [Series: Building Cloud Call Centres with Vonage APIs — Day 4 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-4-of-30-3a22)
+- [Series: Building Cloud Call Centres with Vonage APIs — Day 3 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-3-of-30-d7p)
+- [แค็ตตาล็อก API: คู่มือค้นหาและบริหารจัดการ API ฉบับสมบูรณ์](https://dev.to/thanawat_wonchai/aekhttaalk-api-khuumuuekhnhaaaelabrihaarcchadkaar-api-chbabsmbuurn-5138)
+- [The Node.js Production Readiness Checklist: 47 Things Engineers Miss Before Shipping](https://dev.to/axiom_agent_1dc642fa83651/the-nodejs-production-readiness-checklist-47-things-engineers-miss-before-shipping-5im)
+- [How We Got Local MCP Servers Working in Claude Cowork &lpar;The Missing Guide&rpar;](https://dev.to/murat-a-a/how-we-got-local-mcp-servers-working-in-claude-cowork-the-missing-guide-nbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
