@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Pricing Model: Why We Made Our Free Tier Read-Only](https://dev.to/karimsherifyehia/the-agent-pricing-model-why-we-made-our-free-tier-read-only-31ba)
-- [GitHub Copilot Is Training on Your Private Code Now. You Probably Didn&#39;t Notice.](https://dev.to/alanwest/github-copilot-is-training-on-your-private-code-now-you-probably-didnt-notice-2f6)
-- [The Resolv USR Exploit: How a Missing Max-Mint Check Let an Attacker Print $25M From $100K](https://dev.to/ohmygod/the-resolv-usr-exploit-how-a-missing-max-mint-check-let-an-attacker-print-25m-from-100k-522j)
-- [I spent 1 month building my first NPM package from scratch, and here is the result](https://dev.to/victin16/i-spent-1-month-building-my-first-npm-package-from-scratch-and-here-is-the-result-3hk1)
-- [Beyond the API Call: Engineering EloDtx, the Deep Learning Core of Baeyond](https://dev.to/urbanspc_97/beyond-the-api-call-engineering-elodtx-the-deep-learning-core-of-baeyond-2ph4)
+- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
+- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
+- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
+- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
+- [GitHub Copilot vs Tabnine: The Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-copilot-vs-tabnine-the-complete-comparison-2026-49d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
