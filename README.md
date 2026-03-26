@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JSONB Video Analytics Dashboards in PostgreSQL](https://dev.to/ahmet_gedik778845/jsonb-video-analytics-dashboards-in-postgresql-3img)
-- [GitHub Copilot vs Codeium &lpar;Windsurf&rpar;: Which AI Coding Tool Wins in 2026?](https://dev.to/rahulxsingh/github-copilot-vs-codeium-windsurf-which-ai-coding-tool-wins-in-2026-fed)
-- [Day 41: Ditching print&lpar;&rpar; for AWS Lambda Powertools &lpar;Structured Logging&rpar;](https://dev.to/ericrodriguez10/day-41-ditching-print-for-aws-lambda-powertools-structured-logging-35ad)
-- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h)
-- [How I Gave Claude Code Access to My Entire Company&#39;s Knowledge Base &lpar;In 30 Minutes&rpar;](https://dev.to/akshay_kumar_bm/how-i-gave-claude-code-access-to-my-entire-companys-knowledge-base-in-30-minutes-ffp)
+- [Hardening Nginx: A Practical Guide to Modular Security Configuration](https://dev.to/nirzak/hardening-nginx-a-practical-guide-to-modular-security-configuration-4bno)
+- [AI Writes Daily Without My Involvement](https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc)
+- [My Self-Evolving AI Agent Stopped Building Features and Started Engineering](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-stopped-building-features-and-started-engineering-eof)
+- [How To Fix a Quectel EM120R-GL LTE Modem On Ubuntu](https://dev.to/plexydesk/how-to-fix-a-quectel-em120r-gl-lte-modem-on-ubuntu-54g9)
+- [Neovim + Java LSP on a Play Framework sbt Project — The Missing Guide](https://dev.to/b2l/neovim-java-lsp-on-a-play-framework-sbt-project-the-missing-guide-1749)
 <!-- BLOG-POST-LIST:END -->
 
 ---
