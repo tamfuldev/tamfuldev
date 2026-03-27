@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Agents Should Never Execute Raw Commands](https://dev.to/dbalabs/llm-agents-should-never-execute-raw-commands-4o63)
-- [PyPI Compromised: Malicious Code in `telnyx` Packages Leads to Credential Theft and Malware Installation](https://dev.to/kornilovconstru/pypi-compromised-malicious-code-in-telnyx-packages-leads-to-credential-theft-and-malware-dpj)
-- [I built a lightweight AI mentions checker because “AI visibility” advice felt too vague](https://dev.to/mikee_tye_8bdde849556e51f/i-built-a-lightweight-ai-mentions-checker-because-ai-visibility-advice-felt-too-vague-4bdh)
-- [SonarQube vs Code Climate: Self-Hosted Depth vs Cloud Simplicity &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-code-climate-self-hosted-depth-vs-cloud-simplicity-2026-2hf1)
-- [This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals](https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37)
+- [LCM,Factorial,Sum of Numbers Program in three languages](https://dev.to/vidya_cdd37fca763a53a10e2/lcmfactorialsum-of-numbers-program-in-three-languages-b36)
+- [How to Prevent Stuck Loading Spinners with Polling Timeouts in React](https://dev.to/nareshipme/how-to-prevent-stuck-loading-spinners-with-polling-timeouts-in-react-5eke)
+- [Managing LLM context in a real application](https://dev.to/jonesrussell/managing-llm-context-in-a-real-application-1kf4)
+- [I chose the wrong architecture… on purpose](https://dev.to/gaston_herrlein_3baa4d62e/i-chose-the-wrong-architecture-on-purpose-3pk5)
+- [Introduction to Java: History, Architecture and Servers](https://dev.to/harini_magesh_fa40041cf8d/introduction-to-java-history-architecture-and-servers-8n2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
