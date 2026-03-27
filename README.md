@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy vs. Execution: How Leaders Set Technical Vision](https://dev.to/juststevemcd/strategy-vs-execution-how-leaders-set-technical-vision-44k2)
-- [How to Find a User&#39;s Rank Based on Points Using Django ORM](https://dev.to/j471n/how-to-find-a-users-rank-based-on-points-using-django-orm-43ce)
-- [Where Is My Website Calling Home? — Forge CMS 2026.3.27](https://dev.to/artanidos/where-is-my-website-calling-home-forge-cms-2026327-5cie)
-- [Building Psychological Safety in Engineering](https://dev.to/juststevemcd/building-psychological-safety-in-engineering-9fm)
-- [Scaling Engineering Teams Without Losing Velocity](https://dev.to/juststevemcd/scaling-engineering-teams-without-losing-velocity-2ldg)
+- [LLM Agents Should Never Execute Raw Commands](https://dev.to/dbalabs/llm-agents-should-never-execute-raw-commands-4o63)
+- [PyPI Compromised: Malicious Code in `telnyx` Packages Leads to Credential Theft and Malware Installation](https://dev.to/kornilovconstru/pypi-compromised-malicious-code-in-telnyx-packages-leads-to-credential-theft-and-malware-dpj)
+- [I built a lightweight AI mentions checker because “AI visibility” advice felt too vague](https://dev.to/mikee_tye_8bdde849556e51f/i-built-a-lightweight-ai-mentions-checker-because-ai-visibility-advice-felt-too-vague-4bdh)
+- [SonarQube vs Code Climate: Self-Hosted Depth vs Cloud Simplicity &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-code-climate-self-hosted-depth-vs-cloud-simplicity-2026-2hf1)
+- [This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals](https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
