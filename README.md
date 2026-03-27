@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting a Vaultwarden Password Manager](https://dev.to/joshrothe/self-hosting-a-vaultwarden-password-manager-3eaf)
-- [Automating BIND9 DNS Management: From Manual Configs to Infrastructure as Code](https://dev.to/harutyundermenjyan/automating-bind9-dns-management-from-manual-configs-to-infrastructure-as-code-150j)
-- [My Experiences from NBX and Privacy Hell For Crypto....](https://dev.to/luftietheanonymous/my-experiences-from-nbx-and-privacy-hell-for-crypto-3mka)
-- [I Built a Coordination System for Multiple Claude AI Agents — So They Stop Overwriting Each Other](https://dev.to/lakshmisravyavedantham/i-built-a-coordination-system-for-multiple-claude-ai-agents-so-they-stop-overwriting-each-other-448i)
-- [Understanding Attention Mechanisms – Part 2: Comparing Encoder and Decoder Outputs](https://dev.to/rijultp/understanding-attention-mechanisms-part-2-comparing-encoder-and-decoder-outputs-22ch)
+- [Skip the Designer — Editing Logic Apps Data Mapper LML Files Directly](https://dev.to/imdj/skip-the-designer-editing-logic-apps-data-mapper-lml-files-directly-40l0)
+- [Introducing Flexibility Without Losing Structure in Clprolf](https://dev.to/charles_koffler_bcabc582b/introducing-flexibility-without-losing-structure-in-clprolf-17m8)
+- [awesome-trending-repos: Modern Web Interface for GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-modern-web-interface-for-github-trending-26b5)
+- [awesome-trending-repos: GitHub Trending için Modern Web Arayüzü](https://dev.to/furkankoykiran/awesome-trending-repos-github-trending-icin-modern-web-arayuzu-m7n)
+- [Unlock AI on Your Laptop: A Deep Dive into Small Language Models &lpar;SLMs&rpar; – Phi-3, Gemma, and Llama 3](https://dev.to/programmingcentral/unlock-ai-on-your-laptop-a-deep-dive-into-small-language-models-slms-phi-3-gemma-and-llama-3-11lk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
