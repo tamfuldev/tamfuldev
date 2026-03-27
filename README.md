@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
-- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
-- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
-- [Pick the Right Claude Code Model for Every Task](https://dev.to/klement_gunndu/pick-the-right-claude-code-model-for-every-task-1p6a)
-- [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
+- [NocoBase 2.0 Beginner Tutorial - Chapter 6: Workflows](https://dev.to/nocobase/nocobase-20-beginner-tutorial-chapter-6-workflows-hkm)
+- [Real Docker Containers in Playwright Tests — Zero Boilerplate](https://dev.to/vitalicset/real-docker-containers-in-playwright-tests-zero-boilerplate-4ml7)
+- [[Qwen Meetup] Function Calling Harness: From 6.75% to 100%](https://dev.to/samchon/qwen-meetup-function-calling-harness-from-675-to-100-3830)
+- [I Rebuilt My Site Twice. Here&#39;s What the Second Time Taught Me.](https://dev.to/playfulprogramming/i-rebuilt-my-site-twice-heres-what-the-second-time-taught-me-4bci)
+- [Flowchart of Some While Loop Programs in Javascript](https://dev.to/deva_i_932c8869ada96d4c9f/flowchart-of-some-while-loop-programs-in-javascript-755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
