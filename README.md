@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AI Products Are Built Wrong &lpar;From a System Design Perspective&rpar;](https://dev.to/cloyouai/why-most-ai-products-are-built-wrong-from-a-system-design-perspective-192e)
-- [Build a Smart Building Automation Controller Using NORVI X](https://dev.to/bhanuka_gamachchige/build-a-smart-building-automation-controller-using-norvi-x-1m17)
-- [🦀 Rust Weekly Log — Weekly progress snapshot](https://dev.to/vinecksie_rust/rust-weekly-log-weekly-progress-snapshot-3cg9)
-- [Tailwind CSS vs Bootstrap - Why Developers Are Ditching Bootstrap and Never Looking Back 🎨](https://dev.to/hamidrazadev/tailwind-css-vs-bootstrap-why-developers-are-ditching-bootstrap-and-never-looking-back-m7j)
-- [How I Manage 15+ Repos with Claude Code &lpar;Without Losing My Mind&rpar;](https://dev.to/neil_agentic/how-i-manage-15-repos-with-claude-code-without-losing-my-mind-2ood)
+- [Strategy vs. Execution: How Leaders Set Technical Vision](https://dev.to/juststevemcd/strategy-vs-execution-how-leaders-set-technical-vision-44k2)
+- [How to Find a User&#39;s Rank Based on Points Using Django ORM](https://dev.to/j471n/how-to-find-a-users-rank-based-on-points-using-django-orm-43ce)
+- [Where Is My Website Calling Home? — Forge CMS 2026.3.27](https://dev.to/artanidos/where-is-my-website-calling-home-forge-cms-2026327-5cie)
+- [Building Psychological Safety in Engineering](https://dev.to/juststevemcd/building-psychological-safety-in-engineering-9fm)
+- [Scaling Engineering Teams Without Losing Velocity](https://dev.to/juststevemcd/scaling-engineering-teams-without-losing-velocity-2ldg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
