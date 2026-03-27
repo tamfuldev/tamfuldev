@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rust MCP Server Setup Guide for Vibe CLI](https://dev.to/opensite/rust-mcp-server-setup-guide-for-vibe-cli-5nk)
-- [Why Godot&#39;s architecture makes it the best engine for AI-assisted development](https://dev.to/ziva/why-godots-architecture-makes-it-the-best-engine-for-ai-assisted-development-5e8f)
-- [I built a health check for inherited codebases — and vibe-coded apps that now became important](https://dev.to/lukepercy/i-built-a-health-check-for-inherited-codebases-and-vibe-coded-apps-that-now-became-important-cko)
-- [How to Setup Snyk in 2026 - Complete Step-by-Step Guide](https://dev.to/rahulxsingh/how-to-setup-snyk-in-2026-complete-step-by-step-guide-184b)
-- [45 MCP Tools: Everything Your Claude Agent Can Do with a Wallet](https://dev.to/walletguy/45-mcp-tools-everything-your-claude-agent-can-do-with-a-wallet-cdf)
+- [Building a Media Monitoring Tool: Mentions Across News Sites](https://dev.to/agenthustler/building-a-media-monitoring-tool-mentions-across-news-sites-2b9b)
+- [From 326K Chars to 127K: Real Benchmark Results](https://dev.to/ji_ai/from-326k-chars-to-127k-real-benchmark-results-3efe)
+- [Agentic AI Explained: What It Is, How It Works, and Why It Matters](https://dev.to/nishil_bhave_641129b49873/agentic-ai-explained-what-it-is-how-it-works-and-why-it-matters-4afp)
+- [AI Weekly Digest: Mar 20-27, 2026 — TurboQuant Shakes Memory Markets, MCP Hits 97M, Manus Founders Barred from Leaving China](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-digest-mar-20-27-2026-turboquant-shakes-memory-markets-mcp-hits-97m-manus-founders-n50)
+- [How I Built an AI Changelog Generator That Writes Release Notes for Three Different Audience](https://dev.to/shuse2/how-i-built-an-ai-changelog-generator-that-writes-release-notes-for-three-different-audience-3p95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
