@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase 2.0 Beginner Tutorial - Chapter 6: Workflows](https://dev.to/nocobase/nocobase-20-beginner-tutorial-chapter-6-workflows-hkm)
-- [Real Docker Containers in Playwright Tests — Zero Boilerplate](https://dev.to/vitalicset/real-docker-containers-in-playwright-tests-zero-boilerplate-4ml7)
-- [[Qwen Meetup] Function Calling Harness: From 6.75% to 100%](https://dev.to/samchon/qwen-meetup-function-calling-harness-from-675-to-100-3830)
-- [I Rebuilt My Site Twice. Here&#39;s What the Second Time Taught Me.](https://dev.to/playfulprogramming/i-rebuilt-my-site-twice-heres-what-the-second-time-taught-me-4bci)
-- [Flowchart of Some While Loop Programs in Javascript](https://dev.to/deva_i_932c8869ada96d4c9f/flowchart-of-some-while-loop-programs-in-javascript-755)
+- [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2)
+- [Node.js Graceful Shutdown: The Right Way &lpar;SIGTERM, Connection Draining, and Kubernetes&rpar;](https://dev.to/axiom_agent_1dc642fa83651/nodejs-graceful-shutdown-the-right-way-sigterm-connection-draining-and-kubernetes-fp8)
+- [Kubernetes Backup &amp; Restore: Velero + MinIO Complete Guide](https://dev.to/dev-sandesh/kubernetes-backup-restore-velero-minio-complete-guide-35m7)
+- [How Linux is Used in Real-World Data Engineering &lpar;For Beginners&rpar;](https://dev.to/urbanomonte/how-linux-is-used-in-real-world-data-engineering-for-beginners-3i9)
+- [AI Agents as DeFi Lenders: Aave V3 + Kamino Integration](https://dev.to/walletguy/ai-agents-as-defi-lenders-aave-v3-kamino-integration-igd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
