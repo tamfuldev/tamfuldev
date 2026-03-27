@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent re-sends 80% of your budget every loop](https://dev.to/vola-trebla/your-ai-agent-re-sends-80-of-your-budget-every-loop-27an)
-- [History of Java,Architecture of Java and Java Server Provider Companies](https://dev.to/keerthigap/history-of-javaarchitecture-of-java-and-java-server-provider-companies-1a1f)
-- [Firecrawl vs Olostep: A Detailed Comparison for Scalable, LLM-Ready Web Scraping](https://dev.to/yasser_sami/firecrawl-vs-olostep-a-detailed-comparison-for-scalable-llm-ready-web-scraping-1eb6)
-- [Por Qué OpenAI Acaba de Matar Sora &lpar;Y Lo Que Significa Para Tu Startup&rpar;](https://dev.to/ctala/por-que-openai-acaba-de-matar-sora-y-lo-que-significa-para-tu-startup-5bap)
-- [You’ve Been Installing Software the Hard Way](https://dev.to/adrianjiga/youve-been-installing-software-the-hard-way-1ck4)
+- [7 Mac Apps Every Startup CTO Should Have in 2026](https://dev.to/godnick/7-mac-apps-every-startup-cto-should-have-in-2026-2k2b)
+- [AI Agent Memory: How Agents Remember, Learn &amp;amp; Persist Context &lpar;2026 Guide&rpar;](https://dev.to/paxrel/ai-agent-memory-how-agents-remember-learn-amp-persist-context-2026-guide-48dn)
+- [How I Built a Self-Updater With GitHub Releases](https://dev.to/cn8001/how-i-built-a-self-updater-with-github-releases-2j15)
+- [The API Surface Is the New Product. Revolut Just Proved It](https://dev.to/o96a/the-api-surface-is-the-new-product-revolut-just-proved-it-2oi6)
+- [5 Python Built-ins You’re Not Using &lpar;But Should Be&rpar;](https://dev.to/neha_christina_1ac8651819/5-python-built-ins-youre-not-using-but-should-be-930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
