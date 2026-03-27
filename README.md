@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uttar Pradesh: India&#39;s Next Big Business Hub for Startups](https://dev.to/sarthak_6412b30f77f207c93/uttar-pradesh-indias-next-big-business-hub-for-startups-5f86)
-- [The Great Talent Paradox of 2026: Why AI Is Making Developer Shortages Worse, Not Better](https://dev.to/tanishka_karsulkar_ec9e58/the-great-talent-paradox-of-2026-why-ai-is-making-developer-shortages-worse-not-better-jho)
-- [Flipping the Question: From &#39;Is It Too Wet?&#39; to &#39;Is It Too Dry?&#39;](https://dev.to/stalefishlabs/flipping-the-question-from-is-it-too-wet-to-is-it-too-dry-471d)
-- [AWS Basics But Needs to Be Known Before You Start Your Certification](https://dev.to/egepakten/aws-basics-but-needs-to-be-known-before-you-start-your-certification-3201)
-- [How I Handle State Management in a Health App](https://dev.to/lalo132/how-i-handle-state-management-in-a-health-app-2ma4)
+- [Your AI agent re-sends 80% of your budget every loop](https://dev.to/vola-trebla/your-ai-agent-re-sends-80-of-your-budget-every-loop-27an)
+- [History of Java,Architecture of Java and Java Server Provider Companies](https://dev.to/keerthigap/history-of-javaarchitecture-of-java-and-java-server-provider-companies-1a1f)
+- [Firecrawl vs Olostep: A Detailed Comparison for Scalable, LLM-Ready Web Scraping](https://dev.to/yasser_sami/firecrawl-vs-olostep-a-detailed-comparison-for-scalable-llm-ready-web-scraping-1eb6)
+- [Por Qué OpenAI Acaba de Matar Sora &lpar;Y Lo Que Significa Para Tu Startup&rpar;](https://dev.to/ctala/por-que-openai-acaba-de-matar-sora-y-lo-que-significa-para-tu-startup-5bap)
+- [You’ve Been Installing Software the Hard Way](https://dev.to/adrianjiga/youve-been-installing-software-the-hard-way-1ck4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
