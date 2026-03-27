@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Vivid AI](https://dev.to/harshith_halejolad/introducing-vivid-ai-p1n)
-- [Postgres Connection Pooling: Stop the Timeouts](https://dev.to/speed_engineer/postgres-connection-pooling-stop-the-timeouts-obg)
-- [I built FollowUp Mailer — Write follow-ups fast](https://dev.to/poreddivarajaykumar/i-built-followup-mailer-write-follow-ups-fast-2nh7)
-- [GDPR for Mobile Apps: What App Developers Must Do Before Launch](https://dev.to/custodiaadmin/gdpr-for-mobile-apps-what-app-developers-must-do-before-launch-4c8a)
-- [I built VidTitle Pro — Boost Views!](https://dev.to/poreddivarajaykumar/i-built-vidtitle-pro-boost-views-1dcb)
+- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
+- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
+- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
+- [Pick the Right Claude Code Model for Every Task](https://dev.to/klement_gunndu/pick-the-right-claude-code-model-for-every-task-1p6a)
+- [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
