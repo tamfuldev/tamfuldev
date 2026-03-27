@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Media Monitoring Tool: Mentions Across News Sites](https://dev.to/agenthustler/building-a-media-monitoring-tool-mentions-across-news-sites-2b9b)
-- [From 326K Chars to 127K: Real Benchmark Results](https://dev.to/ji_ai/from-326k-chars-to-127k-real-benchmark-results-3efe)
-- [Agentic AI Explained: What It Is, How It Works, and Why It Matters](https://dev.to/nishil_bhave_641129b49873/agentic-ai-explained-what-it-is-how-it-works-and-why-it-matters-4afp)
-- [AI Weekly Digest: Mar 20-27, 2026 — TurboQuant Shakes Memory Markets, MCP Hits 97M, Manus Founders Barred from Leaving China](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-digest-mar-20-27-2026-turboquant-shakes-memory-markets-mcp-hits-97m-manus-founders-n50)
-- [How I Built an AI Changelog Generator That Writes Release Notes for Three Different Audience](https://dev.to/shuse2/how-i-built-an-ai-changelog-generator-that-writes-release-notes-for-three-different-audience-3p95)
+- [High p99 Latency in Go Service: Identifying and Resolving Bottlenecks to Prevent System Overload](https://dev.to/viklogix/high-p99-latency-in-go-service-identifying-and-resolving-bottlenecks-to-prevent-system-overload-489f)
+- [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0)
+- [Full-Link Accountability for AI Agents](https://dev.to/hjs-foundation/full-link-accountability-for-ai-agents-41h6)
+- [Building a Hate Speech Dataset with Responsible Web Scraping](https://dev.to/agenthustler/building-a-hate-speech-dataset-with-responsible-web-scraping-1554)
+- [&quot;Per-Process Controls&quot; &lpar;Quantized Executions&rpar;](https://dev.to/tavari/per-process-controls-quantized-executions-3l3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
