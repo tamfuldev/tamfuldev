@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Android Is Losing Its Freedom: Google&#39;s 2026 Developer Verification Explained](https://dev.to/dev-arafat-alim/android-is-losing-its-freedom-googles-2026-developer-verification-explained-2b5p)
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9)
-- [What OpenClaw Gets Wrong Out of the Box &lpar;And How to Fix It&rpar;](https://dev.to/numbpill3d/what-openclaw-gets-wrong-out-of-the-box-and-how-to-fix-it-174o)
-- [Caption &amp; Rendering Engine Upgrade](https://dev.to/umbrincraft/caption-rendering-engine-upgrade-3aah)
-- [A hard-earned rule from incident retrospectives:](https://dev.to/neeraja_khanapure_4a33a5f/a-hard-earned-rule-from-incident-retrospectives-1pj1)
+- [Write Maintainable Code, Not Perfect Code](https://dev.to/chris_lee_5e58cce05f5d01d/write-maintainable-code-not-perfect-code-37mh)
+- [Configuring a Cluster File System on OCI using OCFS2](https://dev.to/nirzak/configuring-a-cluster-file-system-on-oci-using-ocfs2-117h)
+- [ConfDroid Puppet Modules - Fail2ban](https://dev.to/12ww1160/confdroid-puppet-modules-fail2ban-m6m)
+- [#22 Known is a Drop! for loop in java](https://dev.to/deepikandas/22-known-is-a-drop-for-loop-in-java-5b28)
+- [The Difference Between Junior and Senior Engineers Isn&#39;t the Code They Write](https://dev.to/mianzubair/the-difference-between-junior-and-senior-engineers-isnt-the-code-they-write-153j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
