@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Temporal Has a Free API: The Durable Workflow Engine That Makes Your Distributed Systems Reliable Without Saga Patterns](https://dev.to/0012303/temporal-has-a-free-api-the-durable-workflow-engine-that-makes-your-distributed-systems-reliable-3m53)
-- [The AI Code Debt Nobody Tracks](https://dev.to/o96a/the-ai-code-debt-nobody-tracks-42eg)
-- [The Verification Gap: Why 96% of Developers Don’t Fully Trust AI Code — Yet Only Half Always Check It in 2026](https://dev.to/tanishka_karsulkar_ec9e58/the-verification-gap-why-96-of-developers-dont-fully-trust-ai-code-yet-only-half-always-check-4cah)
-- [The Simplest Way to Understand Asynchronous JavaScript](https://dev.to/jaya_sudha_96fce1e511efee/understanding-asynchronous-javascript-1745)
-- [Your Agent Engineering Has an Expiration Date](https://dev.to/rotiferdev/your-agent-engineering-has-an-expiration-date-4630)
+- [HTML vs Markdown vs SOM: Which Format Should Your AI Agent Use?](https://dev.to/dbhurley/html-vs-markdown-vs-som-which-format-should-your-ai-agent-use-2aad)
+- [Real-time messaging with Mercure SSE in PHP](https://dev.to/jonesrussell/real-time-messaging-with-mercure-sse-in-php-3pg)
+- [When the Child Goes Quiet — Silent Runaway AI and the Safety Net of Conversational Pace](https://dev.to/rintaromatsumoto/when-the-child-goes-quiet-silent-runaway-ai-and-the-safety-net-of-conversational-pace-15me)
+- [PromptLedger v0.3 — Turning prompt history into a practical review workflow.](https://dev.to/ertugrulmutlu/promptledger-v03-labels-status-and-better-diffs-1ong)
+- [Agentforce Scripts: Hybrid Reasoning, Action Chaining, and What It Actually Looks Like in Practice](https://dev.to/likhit/agentforce-scripts-hybrid-reasoning-action-chaining-and-what-it-actually-looks-like-in-practice-32jg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
