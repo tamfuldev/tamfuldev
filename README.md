@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trivy Docker Hub Supply Chain Attack Analysis and CI/CD Pipeline Security](https://dev.to/manoit/trivy-docker-hub-supply-chain-attack-analysis-and-cicd-pipeline-security-1cjb)
-- [Kubernetes Ingress NGINX Retirement and Gateway API Migration Guide](https://dev.to/manoit/kubernetes-ingress-nginx-retirement-and-gateway-api-migration-guide-1fb2)
-- [HCP Terraform Free Tier Ending: OpenTofu Migration Guide](https://dev.to/manoit/hcp-terraform-free-tier-ending-opentofu-migration-guide-27ja)
-- [LeetCode 11 — Container With Most Water | Full Solution Explained](https://dev.to/irshads_intersection/leetcode-11-container-with-most-water-full-solution-explained-4o5l)
-- [A Background-remover application finished by Ai](https://dev.to/hui_sun_23b713cdb88622cb5/a-background-remover-application-finished-by-ai-1gme)
+- [PickUp: An AI-Powered Resume App with Notion Sync](https://dev.to/techie_mohit/pickup-an-ai-powered-resume-app-with-notion-sync-3cm4)
+- [I built a Jira Cloud backup tool after Atlassian deprecated theirs and paywalled the replacement](https://dev.to/davidmalko87/i-built-a-jira-cloud-backup-tool-after-atlassian-deprecated-theirs-and-paywalled-the-replacement-2f60)
+- [Creating a Cyber-Minimalist Portfolio: Less is More, Motion is Everything 🚀](https://dev.to/nexxacodeid/creating-a-cyber-minimalist-portfolio-less-is-more-motion-is-everything-2ihc)
+- [Built a Caching Proxy for OpenAI — Saved 40% on API Bills](https://dev.to/adamday75/built-a-caching-proxy-for-openai-saved-40-on-api-bills-3b6h)
+- [Trigger.dev Has a Free API — Background Jobs for Modern TypeScript Apps](https://dev.to/0012303/triggerdev-has-a-free-api-background-jobs-for-modern-typescript-apps-1l1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
