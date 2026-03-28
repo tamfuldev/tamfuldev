@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTML vs Markdown vs SOM: Which Format Should Your AI Agent Use?](https://dev.to/dbhurley/html-vs-markdown-vs-som-which-format-should-your-ai-agent-use-2aad)
-- [Real-time messaging with Mercure SSE in PHP](https://dev.to/jonesrussell/real-time-messaging-with-mercure-sse-in-php-3pg)
-- [When the Child Goes Quiet — Silent Runaway AI and the Safety Net of Conversational Pace](https://dev.to/rintaromatsumoto/when-the-child-goes-quiet-silent-runaway-ai-and-the-safety-net-of-conversational-pace-15me)
-- [PromptLedger v0.3 — Turning prompt history into a practical review workflow.](https://dev.to/ertugrulmutlu/promptledger-v03-labels-status-and-better-diffs-1ong)
-- [Agentforce Scripts: Hybrid Reasoning, Action Chaining, and What It Actually Looks Like in Practice](https://dev.to/likhit/agentforce-scripts-hybrid-reasoning-action-chaining-and-what-it-actually-looks-like-in-practice-32jg)
+- [Trivy Docker Hub Supply Chain Attack Analysis and CI/CD Pipeline Security](https://dev.to/manoit/trivy-docker-hub-supply-chain-attack-analysis-and-cicd-pipeline-security-1cjb)
+- [Kubernetes Ingress NGINX Retirement and Gateway API Migration Guide](https://dev.to/manoit/kubernetes-ingress-nginx-retirement-and-gateway-api-migration-guide-1fb2)
+- [HCP Terraform Free Tier Ending: OpenTofu Migration Guide](https://dev.to/manoit/hcp-terraform-free-tier-ending-opentofu-migration-guide-27ja)
+- [LeetCode 11 — Container With Most Water | Full Solution Explained](https://dev.to/irshads_intersection/leetcode-11-container-with-most-water-full-solution-explained-4o5l)
+- [A Background-remover application finished by Ai](https://dev.to/hui_sun_23b713cdb88622cb5/a-background-remover-application-finished-by-ai-1gme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
