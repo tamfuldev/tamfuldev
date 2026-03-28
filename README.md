@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Write Maintainable Code, Not Perfect Code](https://dev.to/chris_lee_5e58cce05f5d01d/write-maintainable-code-not-perfect-code-37mh)
-- [Configuring a Cluster File System on OCI using OCFS2](https://dev.to/nirzak/configuring-a-cluster-file-system-on-oci-using-ocfs2-117h)
-- [ConfDroid Puppet Modules - Fail2ban](https://dev.to/12ww1160/confdroid-puppet-modules-fail2ban-m6m)
-- [#22 Known is a Drop! for loop in java](https://dev.to/deepikandas/22-known-is-a-drop-for-loop-in-java-5b28)
-- [The Difference Between Junior and Senior Engineers Isn&#39;t the Code They Write](https://dev.to/mianzubair/the-difference-between-junior-and-senior-engineers-isnt-the-code-they-write-153j)
+- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
+- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
+- [CVE-2026-33044: CVE-2026-33044: Stored Cross-Site Scripting in Home Assistant Map-Card](https://dev.to/cverports/cve-2026-33044-cve-2026-33044-stored-cross-site-scripting-in-home-assistant-map-card-1df8)
+- [Scalable Design of Agent](https://dev.to/ma_uttaram_f822b3b02ec546/scalable-design-of-agent-1m2b)
+- [I scanned Google.com for quantum vulnerabilities — they&#39;re already deploying post-quantum crypto &lpar;but it&#39;s not enough&rpar;](https://dev.to/pvishwakar77301/i-scanned-googlecom-for-quantum-vulnerabilities-theyre-already-deploying-post-quantum-crypto-1lo1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
