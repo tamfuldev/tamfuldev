@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Marketing Platform: Sprint 0 Retrospective — What We Built, What Failed, and How AI Did the Work](https://dev.to/tmdlrg/building-an-ai-marketing-platform-sprint-0-retrospective-what-we-built-what-failed-and-how-ai-2p)
-- [7 Mac Apps That Turn Your MacBook Into a Developer Command Center in 2026](https://dev.to/godnick/7-mac-apps-that-turn-your-macbook-into-a-developer-command-center-in-2026-34aj)
-- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
-- [I Built an AI Pet Therapy Companion in Python — Here&#39;s What I Learned About Human Emotion](https://dev.to/coach4life/i-built-an-ai-pet-therapy-companion-in-python-heres-what-i-learned-about-human-emotion-2doo)
+- [I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side](https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb)
+- [The Privacy Problem with Online PDF Tools &lpar;and How I Fixed It&rpar;](https://dev.to/tatelyman/the-privacy-problem-with-online-pdf-tools-and-how-i-fixed-it-4g7k)
+- [I Built an AI That Detects Pet Stress From Photos — Here&#39;s the Stack](https://dev.to/coach4life/i-built-an-ai-that-detects-pet-stress-from-photos-heres-the-stack-5g9o)
+- [How I Built a Client-Side Video to GIF Converter with Zero Dependencies](https://dev.to/tatelyman/how-i-built-a-client-side-video-to-gif-converter-with-zero-dependencies-24ch)
+- [Designing Image Augmentation Pipelines for Generalization](https://dev.to/viglovikov/designing-image-augmentation-pipelines-for-generalization-399f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
