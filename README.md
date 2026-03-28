@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Day AI Lied in My Paper — From Discovering Fabrication to Building a Prevention System](https://dev.to/rintaromatsumoto/the-day-ai-lied-in-my-paper-from-discovering-fabrication-to-building-a-prevention-system-3b85)
-- [The Essence of AI Personality: Separating the Outer Shell from the Inner Shell](https://dev.to/rintaromatsumoto/the-essence-of-ai-personality-separating-the-outer-shell-from-the-inner-shell-40jf)
-- [Troubleshooting AI Agent File Input Failures: A Guide to Robust Testing and Data Handling for LLM Applications](https://dev.to/franciscohumarang/troubleshooting-ai-agent-file-input-failures-a-guide-to-robust-testing-and-data-handling-for-llm-pnm)
-- [The Story of Building and Then Freezing My Own AI Humanization Pipeline](https://dev.to/rintaromatsumoto/the-story-of-building-and-then-freezing-my-own-ai-humanization-pipeline-2mci)
-- [Designing and Open-Sourcing a Base Class for AI to Behave Like Humans](https://dev.to/rintaromatsumoto/designing-and-open-sourcing-a-base-class-for-ai-to-behave-like-humans-38id)
+- [Effect Has a Free TypeScript Library — The Missing Standard Library for TS](https://dev.to/0012303/effect-has-a-free-typescript-library-the-missing-standard-library-for-ts-296a)
+- [AI Bug Tracker with Notion MCP](https://dev.to/nani_hatake_cff6f15517cdd/ai-bug-tracker-with-notion-mcp-67a)
+- [Introducing minlsp](https://dev.to/bradley_nash/introducing-minlsp-518o)
+- [I built a health companion that actually remembers you](https://dev.to/bhoogle/i-built-a-health-companion-that-actually-remembers-you-5302)
+- [Redis Connection Refused: Diagnose and Fix in 5 Steps](https://dev.to/yash_step2dev/redis-connection-refused-diagnose-and-fix-in-5-steps-3nlj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
