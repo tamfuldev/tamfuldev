@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PickUp: An AI-Powered Resume App with Notion Sync](https://dev.to/techie_mohit/pickup-an-ai-powered-resume-app-with-notion-sync-3cm4)
-- [I built a Jira Cloud backup tool after Atlassian deprecated theirs and paywalled the replacement](https://dev.to/davidmalko87/i-built-a-jira-cloud-backup-tool-after-atlassian-deprecated-theirs-and-paywalled-the-replacement-2f60)
-- [Creating a Cyber-Minimalist Portfolio: Less is More, Motion is Everything 🚀](https://dev.to/nexxacodeid/creating-a-cyber-minimalist-portfolio-less-is-more-motion-is-everything-2ihc)
-- [Built a Caching Proxy for OpenAI — Saved 40% on API Bills](https://dev.to/adamday75/built-a-caching-proxy-for-openai-saved-40-on-api-bills-3b6h)
-- [Trigger.dev Has a Free API — Background Jobs for Modern TypeScript Apps](https://dev.to/0012303/triggerdev-has-a-free-api-background-jobs-for-modern-typescript-apps-1l1h)
+- [Remix v2 Has a Free Framework: Full-Stack Web Apps with Nested Routes and Server-Side Data Loading](https://dev.to/0012303/remix-v2-has-a-free-framework-full-stack-web-apps-with-nested-routes-and-server-side-data-loading-460n)
+- [I got tired of ad-heavy JSON formatters so I built my own — here&#39;s what I learned](https://dev.to/sunnyanjan/i-got-tired-of-ad-heavy-json-formatters-so-i-built-my-own-heres-what-i-learned-30n)
+- [7 Mac Apps That Help Developers Stay Creative and Inspired in 2026](https://dev.to/godnick/7-mac-apps-that-help-developers-stay-creative-and-inspired-in-2026-4mjc)
+- [I Built a Universal CLI Scaffolding Tool — Scaffy v1.0.1 is Live](https://dev.to/tanvirhossen112/i-built-a-universal-cli-scaffolding-tool-scaffy-v101-is-live-27pd)
+- [Why AI Agents Fail Silently — And How to Fix It](https://dev.to/carsonroelldebug/why-ai-agents-fail-silently-and-how-to-fix-it-j6d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
