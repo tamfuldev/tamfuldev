@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Security Crisis in AI Agent Infrastructure: What the LiteLLM Breach Reveals](https://dev.to/the_bookmaster/the-hidden-security-crisis-in-ai-agent-infrastructure-what-the-litellm-breach-reveals-464b)
-- [How to Track Competitor Job Postings to Predict Their Product Roadmap](https://dev.to/vhub_systems_ed5641f65d59/how-to-track-competitor-job-postings-to-predict-their-product-roadmap-3jjd)
-- [¿Qué es HTML5? &lpar;Mucho más que una versión&rpar;](https://dev.to/gilq/que-es-html5-mucho-mas-que-una-version-3fg8)
-- [🚀 Harbeth: High-Performance Swift Image Processing Library](https://dev.to/yangkj/harbeth-high-performance-swift-image-processing-library-4m25)
-- [HTML vs XHTML: El orden contra el caos](https://dev.to/gilq/html-vs-xhtml-el-orden-contra-el-caos-3nem)
+- [The Day AI Lied in My Paper — From Discovering Fabrication to Building a Prevention System](https://dev.to/rintaromatsumoto/the-day-ai-lied-in-my-paper-from-discovering-fabrication-to-building-a-prevention-system-3b85)
+- [The Essence of AI Personality: Separating the Outer Shell from the Inner Shell](https://dev.to/rintaromatsumoto/the-essence-of-ai-personality-separating-the-outer-shell-from-the-inner-shell-40jf)
+- [Troubleshooting AI Agent File Input Failures: A Guide to Robust Testing and Data Handling for LLM Applications](https://dev.to/franciscohumarang/troubleshooting-ai-agent-file-input-failures-a-guide-to-robust-testing-and-data-handling-for-llm-pnm)
+- [The Story of Building and Then Freezing My Own AI Humanization Pipeline](https://dev.to/rintaromatsumoto/the-story-of-building-and-then-freezing-my-own-ai-humanization-pipeline-2mci)
+- [Designing and Open-Sourcing a Base Class for AI to Behave Like Humans](https://dev.to/rintaromatsumoto/designing-and-open-sourcing-a-base-class-for-ai-to-behave-like-humans-38id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
