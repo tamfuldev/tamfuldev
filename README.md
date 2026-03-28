@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side](https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb)
-- [The Privacy Problem with Online PDF Tools &lpar;and How I Fixed It&rpar;](https://dev.to/tatelyman/the-privacy-problem-with-online-pdf-tools-and-how-i-fixed-it-4g7k)
-- [I Built an AI That Detects Pet Stress From Photos — Here&#39;s the Stack](https://dev.to/coach4life/i-built-an-ai-that-detects-pet-stress-from-photos-heres-the-stack-5g9o)
-- [How I Built a Client-Side Video to GIF Converter with Zero Dependencies](https://dev.to/tatelyman/how-i-built-a-client-side-video-to-gif-converter-with-zero-dependencies-24ch)
-- [Designing Image Augmentation Pipelines for Generalization](https://dev.to/viglovikov/designing-image-augmentation-pipelines-for-generalization-399f)
+- [The Hidden Security Crisis in AI Agent Infrastructure: What the LiteLLM Breach Reveals](https://dev.to/the_bookmaster/the-hidden-security-crisis-in-ai-agent-infrastructure-what-the-litellm-breach-reveals-464b)
+- [How to Track Competitor Job Postings to Predict Their Product Roadmap](https://dev.to/vhub_systems_ed5641f65d59/how-to-track-competitor-job-postings-to-predict-their-product-roadmap-3jjd)
+- [¿Qué es HTML5? &lpar;Mucho más que una versión&rpar;](https://dev.to/gilq/que-es-html5-mucho-mas-que-una-version-3fg8)
+- [🚀 Harbeth: High-Performance Swift Image Processing Library](https://dev.to/yangkj/harbeth-high-performance-swift-image-processing-library-4m25)
+- [HTML vs XHTML: El orden contra el caos](https://dev.to/gilq/html-vs-xhtml-el-orden-contra-el-caos-3nem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
