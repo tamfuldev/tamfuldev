@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL: The Foundation you Need](https://dev.to/katkeilty/sql-the-foundation-you-need-4i3l)
-- [Ansible Has a Free API: Automate Everything Without Agents](https://dev.to/0012303/ansible-has-a-free-api-automate-everything-without-agents-5g47)
-- [[AWS] AWS Security Agent &amp; DevOps Agent Setup Guide [FrontierAgents]](https://dev.to/aws-builders/aws-aws-security-agent-devops-agent-setup-guide-frontieragents-lbn)
-- [AGI Won&#39;t Live in a Datacenter](https://dev.to/lostbeard/agi-wont-live-in-a-datacenter-4hfg)
-- [I Built a Token Counter That Works 100% Offline — No API Calls, No Data Leaks](https://dev.to/mindon/i-built-a-token-counter-that-works-100-offline-no-api-calls-no-data-leaks-ae5)
+- [HOW A REQUEST ORGINATES FROM CLIENT AND REACHES THE SERVER?](https://dev.to/ashiq_omar/how-a-request-orginates-from-client-and-reaches-the-server-6b9)
+- [Best AI Test Generation Tools in 2026: Complete Guide](https://dev.to/rahulxsingh/best-ai-test-generation-tools-in-2026-complete-guide-4o2p)
+- [MT5 CRM: How Real-Time Sync Works](https://dev.to/divulgetech/mt5-crm-how-real-time-sync-works-19ja)
+- [EC2 LAUNCHING](https://dev.to/ashiq_omar/ec2-launching-525j)
+- [32 - Filter Assignments](https://dev.to/sharmi_sabari_09/32-filter-assignments-3po2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
