@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Alter Tables](https://dev.to/anjana_rk_fbdea7abbdf13/alter-tables-3ag5)
-- [State Isolation: Workspaces vs File Layouts - When to Use Each](https://dev.to/mary_mutua_9d55b3c269f343/state-isolation-workspaces-vs-file-layouts-when-to-use-each-mae)
-- [Self-hosting UK address lookup without paying per-query fees](https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001)
-- [Why Your SFTP Transfer Is Stuck at 2 MB/s &lpar;and the Fix Is a Protocol from 1983&rpar;](https://dev.to/ticktockbent/why-your-sftp-transfer-is-stuck-at-2-mbs-and-the-fix-is-a-protocol-from-1983-5c3c)
-- [Alter Tables](https://dev.to/anjana_rk_fbdea7abbdf13/alter-tables-5hj9)
+- [Claude Opus 4.6 vs. GPT 5.4](https://dev.to/ipazooki/claude-opus-46-vs-gpt-54-4bcc)
+- [CA 04 - Two Sum &amp; Sorted Two Sum](https://dev.to/suruthika_635f93a26b450ac/ca-04-two-sum-sorted-two-sum-22hk)
+- [bQuery.js 🥂 The jQuery for the Modern Web Platform](https://dev.to/josunlp/bqueryjs-the-jquery-for-the-modern-web-platform-10o7)
+- [Stop Fighting Zustand Context: Practical Store Scoping Patterns for React](https://dev.to/alexey79/stop-fighting-zustand-context-practical-store-scoping-patterns-for-react-3c71)
+- [Run Any HuggingFace Model on TPUs: A Beginner&#39;s Guide to TorchAX](https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
