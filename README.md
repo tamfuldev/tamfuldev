@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
-- [Securing AI Agent Workflows: Preventing Identity Collapse in Multi-Step Chains](https://dev.to/jerry_poon/securing-ai-agent-workflows-preventing-identity-collapse-in-multi-step-chains-45d2)
-- [Why I&#39;m Finally Starting to Write](https://dev.to/ejlan/why-im-finally-starting-to-write-4cak)
-- [React Hooks Explained: A Visual Guide for 2026](https://dev.to/lucasmdevdev/react-hooks-explained-a-visual-guide-for-2026-2cc4)
-- [BeSA Batch 09 Week6 - Supercharge Development with Kiro | Build Your AI-Enhanced SA Practice](https://dev.to/girishmukim/besa-batch-09-week6-supercharge-development-with-kiro-build-your-ai-enhanced-sa-practice-2fm7)
+- [Thermal-Aware Power Management: Throttling Algorithms &amp; Sustained Performance](https://dev.to/beefedai/thermal-aware-power-management-throttling-algorithms-sustained-performance-10gp)
+- [How SSH Works—and How It Breaks: A Practical Guide to Secure Remote Access](https://dev.to/jodaut/how-ssh-works-and-how-it-breaks-a-practical-guide-to-secure-remote-access-4m09)
+- [A Step-by-Step Guide to Linear Regression in Machine Learning](https://dev.to/cc-keh/a-step-by-step-guide-to-linear-regression-in-machine-learning-54lp)
+- [Why I Built a Brain for My AI Agents — and What It Taught Me About Memory](https://dev.to/thevirtualgyno/why-i-built-a-brain-for-my-ai-agents-and-what-it-taught-me-about-memory-1i3m)
+- [What Nobody Tells You About Building a Multi-Provider MCP Server](https://dev.to/supertrained/what-nobody-tells-you-about-building-a-multi-provider-mcp-server-44p8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
