@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.6 vs. GPT 5.4](https://dev.to/ipazooki/claude-opus-46-vs-gpt-54-4bcc)
-- [CA 04 - Two Sum &amp; Sorted Two Sum](https://dev.to/suruthika_635f93a26b450ac/ca-04-two-sum-sorted-two-sum-22hk)
-- [bQuery.js 🥂 The jQuery for the Modern Web Platform](https://dev.to/josunlp/bqueryjs-the-jquery-for-the-modern-web-platform-10o7)
-- [Stop Fighting Zustand Context: Practical Store Scoping Patterns for React](https://dev.to/alexey79/stop-fighting-zustand-context-practical-store-scoping-patterns-for-react-3c71)
-- [Run Any HuggingFace Model on TPUs: A Beginner&#39;s Guide to TorchAX](https://dev.to/gde/run-any-huggingface-model-on-tpus-a-beginners-guide-to-torchax-4ln0)
+- [Weekly Challenge #5 : The CSS‑Only Secret Menu 🔐](https://dev.to/bingkahu/weekly-challenge-5-the-css-only-secret-menu-a4f)
+- [Temporal Has a Free Durable Workflow Engine That Never Loses Your State](https://dev.to/0012303/temporal-has-a-free-durable-workflow-engine-that-never-loses-your-state-2obb)
+- [Reading Data from Weather Sensors with Python](https://dev.to/nandofm/reading-data-from-weather-sensors-with-python-51pe)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/mbatiak/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-fp2)
+- [Real Device Cloud vs Emulators: A Developer&#39;s Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
