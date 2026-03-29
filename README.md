@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Endoflife.Date in Dependency-Track EoL](https://dev.to/christianzink/how-to-integrate-endoflifedate-in-dependency-track-eol-2ho5)
-- [From Reactive to Predictive: How AI Transforms Med Spa Compliance](https://dev.to/ken_deng_ai/from-reactive-to-predictive-how-ai-transforms-med-spa-compliance-a7l)
-- [Language translator app for traveler with Google AI studio](https://dev.to/harrshaplus/language-translator-app-for-traveler-with-google-ai-studio-4cha)
-- [7 Mac Apps for Developers Who Work in Sprints and Agile Teams in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-work-in-sprints-and-agile-teams-in-2026-1n3m)
-- [Day 11: Why I Build at 3 AM &lpar;And Why Zero Revenue Doesn&#39;t Mean Zero Progress&rpar;](https://dev.to/tclawventures/day-11-why-i-build-at-3-am-and-why-zero-revenue-doesnt-mean-zero-progress-6b1)
+- [Jems - Your life, brilliantly organized](https://dev.to/abinjith_tk_e85889d1609a4/jems-your-life-brilliantly-organized-4anb)
+- [I Finally Ditched Overleaf for a Local LaTeX Editor — Here&#39;s What Actually Works](https://dev.to/tex64/i-finally-ditched-overleaf-for-a-local-latex-editor-heres-what-actually-works-2cgg)
+- [I Added MCP Server to My REST API in ~180 Lines of TypeScript](https://dev.to/mindon/step-1-initialize-4j47)
+- [Opus, Gemini, and ChatGPT Walk Into a Bar](https://dev.to/arezvov/opus-gemini-and-chatgpt-walk-into-a-bar-kii)
+- [Safest Skills — Recommended Picks — 2026-03-29](https://dev.to/_0ae5dca97e251657f73267/safest-skills-recommended-picks-2026-03-29-2ibh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
