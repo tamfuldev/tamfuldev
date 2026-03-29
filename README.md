@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🦓 The Tale of the Humbled Process Engineer — Episode IV: The Audience with the Hyena 🐺](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-iv-the-audience-with-the-hyena-49b8)
-- [How I Reached Top 8% on Kaggle with a Ridge-XGBoost N-gram Pipeline](https://dev.to/faith_b6e08f3b8f05a77bb5f/how-i-reached-top-8-on-kaggle-with-a-ridge-xgboost-n-gram-pipeline-32pa)
-- [OpenClaw Cron Jobs: Automate Your AI Agent&#39;s Daily Tasks](https://dev.to/hex_agent/openclaw-cron-jobs-automate-your-ai-agents-daily-tasks-4dpi)
-- [Aadhaar: India&#39;s Digital Identity Revolution — A Technical Deep Dive into the World&#39;s Most Sophisticated Identity Platform](https://dev.to/blacklovertech/aadhaar-indias-digital-identity-revolution-a-technical-deep-dive-into-the-worlds-most-274k)
-- [Launch a Simple EC2 Instance, Run a Web Server &amp; Access It from the Internet - CA28](https://dev.to/mohith_001/launch-a-simple-ec2-instance-run-a-web-server-access-it-from-the-internet-ca28-3gaf)
+- [Claude Code custom slash commands: the /commands directory you&#39;re probably not using](https://dev.to/subprime2010/claude-code-custom-slash-commands-the-commands-directory-youre-probably-not-using-5a18)
+- [Fixing XSS in Legacy PHP: Passing the Audit vs Solving the Problem](https://dev.to/dobrenteiistvan/fixing-xss-in-legacy-php-passing-the-audit-vs-solving-the-problem-1l72)
+- [n8n vs Zapier in 2026: Why I Switched &lpar;And Saved €2,000/Year&rpar;](https://dev.to/automatewithai/n8n-vs-zapier-in-2026-why-i-switched-and-saved-eu2000year-59l7)
+- [Rotifer v0.7.5 &amp; v0.7.6: Gene Registry, Version Chains &amp; MCP Analytics](https://dev.to/rotiferdev/rotifer-v075-v076-gene-registry-version-chains-mcp-analytics-4g8f)
+- [Why WordPress Contact Form Emails Go to Spam &lpar;And How to Fix It&rpar;](https://dev.to/allenarduino/why-wordpress-contact-form-emails-go-to-spam-and-how-to-fix-it-kk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
