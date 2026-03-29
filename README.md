@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Thermal-Aware Power Management: Throttling Algorithms &amp; Sustained Performance](https://dev.to/beefedai/thermal-aware-power-management-throttling-algorithms-sustained-performance-10gp)
-- [How SSH Works—and How It Breaks: A Practical Guide to Secure Remote Access](https://dev.to/jodaut/how-ssh-works-and-how-it-breaks-a-practical-guide-to-secure-remote-access-4m09)
-- [A Step-by-Step Guide to Linear Regression in Machine Learning](https://dev.to/cc-keh/a-step-by-step-guide-to-linear-regression-in-machine-learning-54lp)
-- [Why I Built a Brain for My AI Agents — and What It Taught Me About Memory](https://dev.to/thevirtualgyno/why-i-built-a-brain-for-my-ai-agents-and-what-it-taught-me-about-memory-1i3m)
-- [What Nobody Tells You About Building a Multi-Provider MCP Server](https://dev.to/supertrained/what-nobody-tells-you-about-building-a-multi-provider-mcp-server-44p8)
+- [SQL: The Foundation you Need](https://dev.to/katkeilty/sql-the-foundation-you-need-4i3l)
+- [Ansible Has a Free API: Automate Everything Without Agents](https://dev.to/0012303/ansible-has-a-free-api-automate-everything-without-agents-5g47)
+- [[AWS] AWS Security Agent &amp; DevOps Agent Setup Guide [FrontierAgents]](https://dev.to/aws-builders/aws-aws-security-agent-devops-agent-setup-guide-frontieragents-lbn)
+- [AGI Won&#39;t Live in a Datacenter](https://dev.to/lostbeard/agi-wont-live-in-a-datacenter-4hfg)
+- [I Built a Token Counter That Works 100% Offline — No API Calls, No Data Leaks](https://dev.to/mindon/i-built-a-token-counter-that-works-100-offline-no-api-calls-no-data-leaks-ae5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
