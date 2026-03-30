@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leading With &quot;I Don&#39;t Know&quot;](https://dev.to/sebs/leading-with-i-dont-know-324h)
-- [Revolutionizing Sports Card Analytics: How Data is Changing the Game](https://dev.to/davidg85/revolutionizing-sports-card-analytics-how-data-is-changing-the-game-4ifg)
-- [Snowflake e UUID v7: Gerando identificadores únicos em sistemas distribuídos](https://dev.to/unhacked/snowflake-e-uuid-v7-gerando-identificadores-unicos-em-sistemas-distribuidos-3ap)
-- [I built a tool that lets AI agents interact with your app without navigating the UI](https://dev.to/capman_engine/i-built-a-tool-that-lets-ai-agents-interact-with-your-app-without-navigating-the-ui-1g82)
-- [We tracked 29 MCP pain points across 7 communities. Which one would you actually pay to fix?](https://dev.to/nathanielc85523/we-tracked-29-mcp-pain-points-across-7-communities-which-one-would-you-actually-pay-to-fix-3feh)
+- [I can now replay any AI agent stream from production. Here&#39;s how.](https://dev.to/abhishek_chatterjee_33b9d/i-can-now-replay-any-ai-agent-stream-from-production-heres-how-4bg4)
+- [What Actually Happens When You Leave an ESP32 Running 24/7](https://dev.to/numbpill3d/what-actually-happens-when-you-leave-an-esp32-running-247-347e)
+- [Google Calendar — Day View](https://dev.to/arghya_majumder/google-calendar-day-view-42a0)
+- [OpenClaw in Production: Real Costs, Security Setup, and What a Month of Daily Use Actually Looks Like](https://dev.to/virtualunc/openclaw-in-production-real-costs-security-setup-and-what-a-month-of-daily-use-actually-looks-10dg)
+- [I got rate-limited scraping 100 pages. Here&#39;s what actually worked](https://dev.to/nicodev__/i-got-rate-limited-scraping-100-pages-heres-what-actually-worked-4p70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
