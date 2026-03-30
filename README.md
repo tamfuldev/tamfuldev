@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MYTH-OS: The Compiler Pattern for Systemic RPG Generation Complete Technical Whitepaper &amp; Implementation Guide](https://dev.to/peacebinflow/myth-os-the-compiler-pattern-for-systemic-rpg-generation-complete-technical-whitepaper--3470)
-- [Full Opensource AI-Agent to learn and integrate](https://dev.to/stepan_rutz/full-opensource-ai-agent-to-learn-and-integrate-3llp)
-- [Frontend Art Submission — Gender Beyond Boundaries 👨‍🦰👩‍🦳](https://dev.to/usman_awan/frontend-art-submission-gender-beyond-boundaries-4jck)
-- [Kontiki, an async microservices framework in Python](https://dev.to/jpkwbr/kontiki-an-async-microservices-framework-in-python-26gk)
-- [Codacy Security Scanning: Find Vulnerabilities in Your Code](https://dev.to/rahulxsingh/codacy-security-scanning-find-vulnerabilities-in-your-code-4hne)
+- [I Was Operating a Machine. Then I Gave It a Voice.](https://dev.to/miyazaki-lab/i-was-operating-a-machine-then-i-gave-it-a-voice-2p16)
+- [Your Agentic AI&#39;s Safety System Gets Dumber As It Thinks Longer](https://dev.to/ansh0x/your-agentic-ais-safety-system-gets-dumber-as-it-thinks-longer-2731)
+- [epsiclaw: The Karpathy treatment for OpenClaw - 515 lines of Python](https://dev.to/dorringel/epsiclaw-the-karpathy-treatment-for-openclaw-515-lines-of-python-268f)
+- [🚀 I built a Chrome Extension to manage AI prompts properly &lpar;Prompt Vault&rpar;](https://dev.to/southy404/i-built-a-chrome-extension-to-manage-ai-prompts-properly-prompt-vault-kgg)
+- [I Rebuilt Our Company Website With Astro and Claude Code - Here&#39;s What Actually Worked](https://dev.to/aimiten/i-rebuilt-our-company-website-with-astro-and-claude-code-heres-what-actually-worked-4c3o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
