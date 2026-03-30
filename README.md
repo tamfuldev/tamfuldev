@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Send a Link, Get Paid: Building Payment Links with Afriex](https://dev.to/afriex/send-a-link-get-paid-building-payment-links-with-afriex-13ak)
-- [🚀 I built a privacy-first Robots.txt Generator &lpar;100% browser-side, no login&rpar;](https://dev.to/saravanan_s/i-built-a-privacy-first-robotstxt-generator-100-browser-side-no-login-227c)
-- [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d)
-- [Claude CLI vs API for Code Review: Same Model, Wildly Different Results](https://dev.to/fole/claude-cli-vs-api-for-code-review-same-model-wildly-different-results-1oai)
-- [Postprocessing for quantum random number generators: entropy evaluation andrandomness extraction](https://dev.to/paperium/postprocessing-for-quantum-random-number-generators-entropy-evaluation-andrandomness-extraction-1cfl)
+- [Android XML vs Jetpack Compose — Which One Should You Use in 2026?](https://dev.to/ahsanahmed03/android-xml-vs-jetpack-compose-which-one-should-you-use-in-2026-2pi1)
+- [IP adresses and Subnets](https://dev.to/samantha_vincent_11/ip-adresses-and-subnets-2heg)
+- [Trying MCP for the First Time — What Stood Out](https://dev.to/akdevcraft/trying-mcp-for-the-first-time-what-stood-out-1451)
+- [Your Pipeline Is 25.4h Behind: Catching Real Estate Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-254h-behind-catching-real-estate-sentiment-leads-with-pulsebit-59m0)
+- [Docker Compose Configuration](https://dev.to/krun_pro/docker-compose-configuration-398o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
