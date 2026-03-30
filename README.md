@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-27kp)
-- [Grafana k6 Has a Free API That Load Tests Your APIs With JavaScript](https://dev.to/0012303/grafana-k6-has-a-free-api-that-load-tests-your-apis-with-javascript-mh5)
-- [GitHub Copilot Workspace Has a Free AI That Plans and Implements Code Changes Across Files](https://dev.to/0012303/github-copilot-workspace-has-a-free-ai-that-plans-and-implements-code-changes-across-files-3k6a)
-- [Reflective — AI journaling companion built with Notion MCP and Claude](https://dev.to/neicore/reflective-ai-journaling-companion-built-with-notion-mcp-and-claude-4l70)
-- [Gas-Aware Trading: Execute Only When Gas Is Cheap](https://dev.to/walletguy/gas-aware-trading-execute-only-when-gas-is-cheap-cm9)
+- [I Published a Book. Here&#39;s Why.](https://dev.to/deeflect/i-published-a-book-heres-why-50on)
+- [Expo Router Has a Free API That Most Developers Dont Know About](https://dev.to/0012303/expo-router-has-a-free-api-that-most-developers-dont-know-about-28ci)
+- [I turned a notebook full of handwritten math into a LaTeX paper — here&#39;s how](https://dev.to/tex64/i-turned-a-notebook-full-of-handwritten-math-into-a-latex-paper-heres-how-cpk)
+- [Keep_AS — The System That Refuses to Let You Miss Opportunities](https://dev.to/asamaes/keepas-the-system-that-refuses-to-let-you-miss-opportunities-57hg)
+- [Turso Has a Free Embedded Database That Syncs Globally — SQLite at the Edge With libSQL](https://dev.to/0012303/turso-has-a-free-embedded-database-that-syncs-globally-sqlite-at-the-edge-with-libsql-4im8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
