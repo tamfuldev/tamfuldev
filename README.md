@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic RAG Done Right](https://dev.to/wassimchegham/agentic-rag-done-right-4846)
-- [Triggered Stored Procedures in GBase 8s: Adding Complex Logic to Triggers](https://dev.to/michaelfv/triggered-stored-procedures-in-gbase-8s-adding-complex-logic-to-triggers-3med)
-- [Service pipeline](https://dev.to/fafhrd91/service-pipeline-3el3)
-- [Implementing split_part Function in GBase 8s: Two Practical Approaches](https://dev.to/michaelfv/implementing-splitpart-function-in-gbase-8s-two-practical-approaches-i8e)
-- [I&#39;m rebuilding a 90s LAN game in Rust to finally learn it](https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8)
+- [AnalogJS 2.4: Vite 8, Vitest Snapshot Serializers, Astro v6 Support, and more!](https://dev.to/analogjs/analogjs-24-vite-8-vitest-snapshot-serializers-astro-v6-support-and-more-3hgo)
+- [what if MCP servers had a Lighthouse-style security score?](https://dev.to/yedanyagamiaicmd/what-if-mcp-servers-had-a-lighthouse-style-security-score-35df)
+- [Does ramalama make AI boring?? Running AI models with Ramalama.](https://dev.to/njeri_kimaru/does-ramalama-make-ai-boring-running-ai-models-with-ramalama-2kml)
+- [I built a career intelligence platform for developers — LynCareer 🚀](https://dev.to/aiherrera/i-built-a-career-intelligence-platform-for-developers-lyncareer-1kb1)
+- [Recursion in Python: Factorial with Debugging Explained](https://dev.to/harini_magesh_fa40041cf8d/recursion-in-python-factorial-with-debugging-explained-3p9f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
