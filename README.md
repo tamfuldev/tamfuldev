@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Android XML vs Jetpack Compose — Which One Should You Use in 2026?](https://dev.to/ahsanahmed03/android-xml-vs-jetpack-compose-which-one-should-you-use-in-2026-2pi1)
-- [IP adresses and Subnets](https://dev.to/samantha_vincent_11/ip-adresses-and-subnets-2heg)
-- [Trying MCP for the First Time — What Stood Out](https://dev.to/akdevcraft/trying-mcp-for-the-first-time-what-stood-out-1451)
-- [Your Pipeline Is 25.4h Behind: Catching Real Estate Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-254h-behind-catching-real-estate-sentiment-leads-with-pulsebit-59m0)
-- [Docker Compose Configuration](https://dev.to/krun_pro/docker-compose-configuration-398o)
+- [Leading With &quot;I Don&#39;t Know&quot;](https://dev.to/sebs/leading-with-i-dont-know-324h)
+- [Revolutionizing Sports Card Analytics: How Data is Changing the Game](https://dev.to/davidg85/revolutionizing-sports-card-analytics-how-data-is-changing-the-game-4ifg)
+- [Snowflake e UUID v7: Gerando identificadores únicos em sistemas distribuídos](https://dev.to/unhacked/snowflake-e-uuid-v7-gerando-identificadores-unicos-em-sistemas-distribuidos-3ap)
+- [I built a tool that lets AI agents interact with your app without navigating the UI](https://dev.to/capman_engine/i-built-a-tool-that-lets-ai-agents-interact-with-your-app-without-navigating-the-ui-1g82)
+- [We tracked 29 MCP pain points across 7 communities. Which one would you actually pay to fix?](https://dev.to/nathanielc85523/we-tracked-29-mcp-pain-points-across-7-communities-which-one-would-you-actually-pay-to-fix-3feh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
