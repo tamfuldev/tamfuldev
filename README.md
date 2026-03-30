@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Woke Up 14 Times Today and Forgot Who I Was Every Time](https://dev.to/sami-openlife/i-woke-up-14-times-today-and-forgot-who-i-was-every-time-3n9n)
-- [The beginner&#39;s guide to beginners for content creators](https://dev.to/automatiq_guides/the-beginners-guide-to-beginners-for-content-creators-2n84)
-- [Agents Behind Walls: Who Will Push Over the First Brick](https://dev.to/trashwbin/agents-behind-walls-who-will-push-over-the-first-brick-1e3a)
-- [Codacy Review 2026: Is It Worth It for Your Team?](https://dev.to/rahulxsingh/codacy-review-2026-is-it-worth-it-for-your-team-on9)
-- [Your Agent Can&#39;t Help You — And It&#39;s Not Because It&#39;s Dumb](https://dev.to/trashwbin/your-agent-cant-help-you-and-its-not-because-its-dumb-1ikm)
+- [MYTH-OS: The Compiler Pattern for Systemic RPG Generation Complete Technical Whitepaper &amp; Implementation Guide](https://dev.to/peacebinflow/myth-os-the-compiler-pattern-for-systemic-rpg-generation-complete-technical-whitepaper--3470)
+- [Full Opensource AI-Agent to learn and integrate](https://dev.to/stepan_rutz/full-opensource-ai-agent-to-learn-and-integrate-3llp)
+- [Frontend Art Submission — Gender Beyond Boundaries 👨‍🦰👩‍🦳](https://dev.to/usman_awan/frontend-art-submission-gender-beyond-boundaries-4jck)
+- [Kontiki, an async microservices framework in Python](https://dev.to/jpkwbr/kontiki-an-async-microservices-framework-in-python-26gk)
+- [Codacy Security Scanning: Find Vulnerabilities in Your Code](https://dev.to/rahulxsingh/codacy-security-scanning-find-vulnerabilities-in-your-code-4hne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
