@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I can now replay any AI agent stream from production. Here&#39;s how.](https://dev.to/abhishek_chatterjee_33b9d/i-can-now-replay-any-ai-agent-stream-from-production-heres-how-4bg4)
-- [What Actually Happens When You Leave an ESP32 Running 24/7](https://dev.to/numbpill3d/what-actually-happens-when-you-leave-an-esp32-running-247-347e)
-- [Google Calendar — Day View](https://dev.to/arghya_majumder/google-calendar-day-view-42a0)
-- [OpenClaw in Production: Real Costs, Security Setup, and What a Month of Daily Use Actually Looks Like](https://dev.to/virtualunc/openclaw-in-production-real-costs-security-setup-and-what-a-month-of-daily-use-actually-looks-10dg)
-- [I got rate-limited scraping 100 pages. Here&#39;s what actually worked](https://dev.to/nicodev__/i-got-rate-limited-scraping-100-pages-heres-what-actually-worked-4p70)
+- [Best Tools &amp; Libraries to Actually BUILD Your Own AI Agents with🤖](https://dev.to/ayabongaqwabi/best-tools-libraries-to-actually-build-your-own-ai-agents-with-2j)
+- [Turn WhatsApp Into a 24/7 AI Sales Machine &lpar;With Code&rpar;](https://dev.to/leandromarcosmoreira/turn-whatsapp-into-a-247-ai-sales-machine-with-code-45i1)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/lorraine_njagi_k/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-4klb)
+- [Codacy vs SonarCloud: Cloud Code Quality Compared](https://dev.to/rahulxsingh/codacy-vs-sonarcloud-cloud-code-quality-compared-4pm5)
+- [Google AI Studio and Claude Code in 2026: Guide](https://dev.to/danielflugger/google-ai-studio-and-claude-code-in-2026-guide-22f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
