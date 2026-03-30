@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Operating a Machine. Then I Gave It a Voice.](https://dev.to/miyazaki-lab/i-was-operating-a-machine-then-i-gave-it-a-voice-2p16)
-- [Your Agentic AI&#39;s Safety System Gets Dumber As It Thinks Longer](https://dev.to/ansh0x/your-agentic-ais-safety-system-gets-dumber-as-it-thinks-longer-2731)
-- [epsiclaw: The Karpathy treatment for OpenClaw - 515 lines of Python](https://dev.to/dorringel/epsiclaw-the-karpathy-treatment-for-openclaw-515-lines-of-python-268f)
-- [🚀 I built a Chrome Extension to manage AI prompts properly &lpar;Prompt Vault&rpar;](https://dev.to/southy404/i-built-a-chrome-extension-to-manage-ai-prompts-properly-prompt-vault-kgg)
-- [I Rebuilt Our Company Website With Astro and Claude Code - Here&#39;s What Actually Worked](https://dev.to/aimiten/i-rebuilt-our-company-website-with-astro-and-claude-code-heres-what-actually-worked-4c3o)
+- [When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me](https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg)
+- [Code Review Rules: The Last Stand of Human Judgment in the AI Era](https://dev.to/psavelis/code-review-rules-the-last-stand-of-human-judgment-in-the-ai-era-1f1b)
+- [My side project just had its best month ever. I have no idea why. Here&#39;s what happened.](https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j)
+- [what i actually learned coordinating 15 MCP servers &lpar;it&#39;s not what you&#39;d expect&rpar;](https://dev.to/yedanyagamiaicmd/what-i-actually-learned-coordinating-15-mcp-servers-its-not-what-youd-expect-jb5)
+- [Your app doesn’t need a database. Here’s what it needs instead.](https://dev.to/ternentdotdev/your-app-doesnt-need-a-database-heres-what-it-needs-instead-h3n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
