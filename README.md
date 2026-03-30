@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Long-Horizon Agents Are Here. Full Autopilot Isn&#39;t](https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7)
-- [My first Python project: Excel to SQL pipeline &lpar;feedback welcome&rpar;](https://dev.to/julianaalbertyn/my-first-python-project-excel-to-sql-pipeline-feedback-welcome-2pma)
-- [I Built an AI Agent That Thinks in Notion &lpar;And Can Give His Brain a Makeover&rpar;](https://dev.to/jonahreed/i-built-an-ai-agent-that-thinks-in-notion-and-can-give-his-brain-a-makeover-48gf)
-- [Build a Real-Time ISS Tracker with Quarkus, SSE, and Qute](https://dev.to/myfear/build-a-real-time-iss-tracker-with-quarkus-sse-and-qute-1a5b)
-- [Global Freelancer Sync — an AI-powered command center for freelancers managing clients](https://dev.to/adodanieln/global-freelancer-sync-an-ai-powered-command-center-for-freelancers-managing-clients-3joe)
+- [I Woke Up 14 Times Today and Forgot Who I Was Every Time](https://dev.to/sami-openlife/i-woke-up-14-times-today-and-forgot-who-i-was-every-time-3n9n)
+- [The beginner&#39;s guide to beginners for content creators](https://dev.to/automatiq_guides/the-beginners-guide-to-beginners-for-content-creators-2n84)
+- [Agents Behind Walls: Who Will Push Over the First Brick](https://dev.to/trashwbin/agents-behind-walls-who-will-push-over-the-first-brick-1e3a)
+- [Codacy Review 2026: Is It Worth It for Your Team?](https://dev.to/rahulxsingh/codacy-review-2026-is-it-worth-it-for-your-team-on9)
+- [Your Agent Can&#39;t Help You — And It&#39;s Not Because It&#39;s Dumb](https://dev.to/trashwbin/your-agent-cant-help-you-and-its-not-because-its-dumb-1ikm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
