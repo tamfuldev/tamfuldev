@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AnalogJS 2.4: Vite 8, Vitest Snapshot Serializers, Astro v6 Support, and more!](https://dev.to/analogjs/analogjs-24-vite-8-vitest-snapshot-serializers-astro-v6-support-and-more-3hgo)
-- [what if MCP servers had a Lighthouse-style security score?](https://dev.to/yedanyagamiaicmd/what-if-mcp-servers-had-a-lighthouse-style-security-score-35df)
-- [Does ramalama make AI boring?? Running AI models with Ramalama.](https://dev.to/njeri_kimaru/does-ramalama-make-ai-boring-running-ai-models-with-ramalama-2kml)
-- [I built a career intelligence platform for developers — LynCareer 🚀](https://dev.to/aiherrera/i-built-a-career-intelligence-platform-for-developers-lyncareer-1kb1)
-- [Recursion in Python: Factorial with Debugging Explained](https://dev.to/harini_magesh_fa40041cf8d/recursion-in-python-factorial-with-debugging-explained-3p9f)
+- [Send a Link, Get Paid: Building Payment Links with Afriex](https://dev.to/afriex/send-a-link-get-paid-building-payment-links-with-afriex-13ak)
+- [🚀 I built a privacy-first Robots.txt Generator &lpar;100% browser-side, no login&rpar;](https://dev.to/saravanan_s/i-built-a-privacy-first-robotstxt-generator-100-browser-side-no-login-227c)
+- [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d)
+- [Claude CLI vs API for Code Review: Same Model, Wildly Different Results](https://dev.to/fole/claude-cli-vs-api-for-code-review-same-model-wildly-different-results-1oai)
+- [Postprocessing for quantum random number generators: entropy evaluation andrandomness extraction](https://dev.to/paperium/postprocessing-for-quantum-random-number-generators-entropy-evaluation-andrandomness-extraction-1cfl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
