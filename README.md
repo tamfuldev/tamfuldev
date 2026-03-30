@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between a Business Plan and a Business by Igor Fishelev](https://dev.to/igor_fishelev/the-difference-between-a-business-plan-and-a-businessby-igor-fishelev-30pl)
-- [Backend for Backend &lpar;BFB&rpar; Architecture Explained: The Missing Layer in Modern Systems](https://dev.to/abdabughazaleh/backend-for-backend-bfb-architecture-explained-the-missing-layer-in-modern-systems-2pfd)
-- [I spent months trying to stop LLM hallucinations. Prompt engineering wasn&#39;t enough. So I wrote a graph engine in Rust.](https://dev.to/tykolt/i-spent-months-trying-to-stop-llm-hallucinations-prompt-engineering-wasnt-enough-so-i-wrote-a-4872)
-- [I built an AI bookkeeping agent that reached the AWS semifinals from 10,000+ entries](https://dev.to/billkhiz/i-built-an-ai-bookkeeping-agent-that-reached-the-aws-semifinals-from-10000-entries-2mcc)
-- [I Designed a Memory System for Claude Code — &#39;Forgetting&#39; Was the Hardest Part](https://dev.to/plasmon_imp/i-designed-a-memory-system-for-claude-code-forgetting-was-the-hardest-part-59be)
+- [Agentic RAG Done Right](https://dev.to/wassimchegham/agentic-rag-done-right-4846)
+- [Triggered Stored Procedures in GBase 8s: Adding Complex Logic to Triggers](https://dev.to/michaelfv/triggered-stored-procedures-in-gbase-8s-adding-complex-logic-to-triggers-3med)
+- [Service pipeline](https://dev.to/fafhrd91/service-pipeline-3el3)
+- [Implementing split_part Function in GBase 8s: Two Practical Approaches](https://dev.to/michaelfv/implementing-splitpart-function-in-gbase-8s-two-practical-approaches-i8e)
+- [I&#39;m rebuilding a 90s LAN game in Rust to finally learn it](https://dev.to/tomerl1/im-rebuilding-a-90s-lan-game-in-rust-to-finally-learn-it-5eo8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
