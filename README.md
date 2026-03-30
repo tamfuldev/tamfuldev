@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me](https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg)
-- [Code Review Rules: The Last Stand of Human Judgment in the AI Era](https://dev.to/psavelis/code-review-rules-the-last-stand-of-human-judgment-in-the-ai-era-1f1b)
-- [My side project just had its best month ever. I have no idea why. Here&#39;s what happened.](https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j)
-- [what i actually learned coordinating 15 MCP servers &lpar;it&#39;s not what you&#39;d expect&rpar;](https://dev.to/yedanyagamiaicmd/what-i-actually-learned-coordinating-15-mcp-servers-its-not-what-youd-expect-jb5)
-- [Your app doesn’t need a database. Here’s what it needs instead.](https://dev.to/ternentdotdev/your-app-doesnt-need-a-database-heres-what-it-needs-instead-h3n)
+- [The Difference Between a Business Plan and a Business by Igor Fishelev](https://dev.to/igor_fishelev/the-difference-between-a-business-plan-and-a-businessby-igor-fishelev-30pl)
+- [Backend for Backend &lpar;BFB&rpar; Architecture Explained: The Missing Layer in Modern Systems](https://dev.to/abdabughazaleh/backend-for-backend-bfb-architecture-explained-the-missing-layer-in-modern-systems-2pfd)
+- [I spent months trying to stop LLM hallucinations. Prompt engineering wasn&#39;t enough. So I wrote a graph engine in Rust.](https://dev.to/tykolt/i-spent-months-trying-to-stop-llm-hallucinations-prompt-engineering-wasnt-enough-so-i-wrote-a-4872)
+- [I built an AI bookkeeping agent that reached the AWS semifinals from 10,000+ entries](https://dev.to/billkhiz/i-built-an-ai-bookkeeping-agent-that-reached-the-aws-semifinals-from-10000-entries-2mcc)
+- [I Designed a Memory System for Claude Code — &#39;Forgetting&#39; Was the Hardest Part](https://dev.to/plasmon_imp/i-designed-a-memory-system-for-claude-code-forgetting-was-the-hardest-part-59be)
 <!-- BLOG-POST-LIST:END -->
 
 ---
