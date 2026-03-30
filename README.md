@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Switched to a VPS with Coolify for Hosting My Full Stack Apps](https://dev.to/wadethomastt/why-i-switched-to-a-vps-with-coolify-for-hosting-my-full-stack-apps-3hce)
-- [Twilio API Autopsy: What Agent-Native Almost Looks Like](https://dev.to/supertrained/twilio-api-autopsy-what-agent-native-almost-looks-like-3338)
-- [Why I Use Directus as My Backend — Flexible, Self-Hosted and Production Ready](https://dev.to/wadethomastt/why-i-use-directus-as-my-backend-flexible-free-and-production-ready-g6g)
-- [🚨 CrashLoopBackOff no Kubernetes: o que é e por que acontece?](https://dev.to/deividferraz/crashloopbackoff-no-kubernetes-o-que-e-e-por-que-acontece-4bkn)
-- [How I Built an Open-Source LLM Security Library in Python &lpar;and What I Learned About Prompt Injection&rpar;](https://dev.to/7f7867893e654b/how-i-built-an-open-source-llm-security-library-in-python-and-what-i-learned-about-prompt-49hb)
+- [Long-Horizon Agents Are Here. Full Autopilot Isn&#39;t](https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7)
+- [My first Python project: Excel to SQL pipeline &lpar;feedback welcome&rpar;](https://dev.to/julianaalbertyn/my-first-python-project-excel-to-sql-pipeline-feedback-welcome-2pma)
+- [I Built an AI Agent That Thinks in Notion &lpar;And Can Give His Brain a Makeover&rpar;](https://dev.to/jonahreed/i-built-an-ai-agent-that-thinks-in-notion-and-can-give-his-brain-a-makeover-48gf)
+- [Build a Real-Time ISS Tracker with Quarkus, SSE, and Qute](https://dev.to/myfear/build-a-real-time-iss-tracker-with-quarkus-sse-and-qute-1a5b)
+- [Global Freelancer Sync — an AI-powered command center for freelancers managing clients](https://dev.to/adodanieln/global-freelancer-sync-an-ai-powered-command-center-for-freelancers-managing-clients-3joe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
