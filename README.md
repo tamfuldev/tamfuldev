@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Published a Book. Here&#39;s Why.](https://dev.to/deeflect/i-published-a-book-heres-why-50on)
-- [Expo Router Has a Free API That Most Developers Dont Know About](https://dev.to/0012303/expo-router-has-a-free-api-that-most-developers-dont-know-about-28ci)
-- [I turned a notebook full of handwritten math into a LaTeX paper — here&#39;s how](https://dev.to/tex64/i-turned-a-notebook-full-of-handwritten-math-into-a-latex-paper-heres-how-cpk)
-- [Keep_AS — The System That Refuses to Let You Miss Opportunities](https://dev.to/asamaes/keepas-the-system-that-refuses-to-let-you-miss-opportunities-57hg)
-- [Turso Has a Free Embedded Database That Syncs Globally — SQLite at the Edge With libSQL](https://dev.to/0012303/turso-has-a-free-embedded-database-that-syncs-globally-sqlite-at-the-edge-with-libsql-4im8)
+- [Why I Switched to a VPS with Coolify for Hosting My Full Stack Apps](https://dev.to/wadethomastt/why-i-switched-to-a-vps-with-coolify-for-hosting-my-full-stack-apps-3hce)
+- [Twilio API Autopsy: What Agent-Native Almost Looks Like](https://dev.to/supertrained/twilio-api-autopsy-what-agent-native-almost-looks-like-3338)
+- [Why I Use Directus as My Backend — Flexible, Self-Hosted and Production Ready](https://dev.to/wadethomastt/why-i-use-directus-as-my-backend-flexible-free-and-production-ready-g6g)
+- [🚨 CrashLoopBackOff no Kubernetes: o que é e por que acontece?](https://dev.to/deividferraz/crashloopbackoff-no-kubernetes-o-que-e-e-por-que-acontece-4bkn)
+- [How I Built an Open-Source LLM Security Library in Python &lpar;and What I Learned About Prompt Injection&rpar;](https://dev.to/7f7867893e654b/how-i-built-an-open-source-llm-security-library-in-python-and-what-i-learned-about-prompt-49hb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
