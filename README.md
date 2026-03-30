@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Singularity Is Nearer: What Ray Kurzweil&#39;s Six Epochs Gets Right About Our Future](https://dev.to/brunohsouza/the-singularity-is-nearer-what-ray-kurzweils-six-epochs-gets-right-about-our-future-1pph)
-- [Artemis: How NASA&#39;s Return to the Moon Is Redefining Space Exploration in 2026](https://dev.to/walid_azrour_0813f6b60398/artemis-how-nasas-return-to-the-moon-is-redefining-space-exploration-in-2026-3ffc)
-- [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d)
-- [Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀](https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb)
-- [Data-Driven Architecture](https://dev.to/adrian2monk/data-driven-architecture-5gph)
+- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
+- [I’m looking for a small number of maintainers for NornicDB](https://dev.to/orneryd/im-looking-for-a-small-number-of-maintainers-for-nornicdb-2pn6)
+- [The Seven Deadly Sins of MCP: Design Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-design-sins-3565)
+- [PDFs with Graphs? Just Ask the Agent: Cross-Analyzing Unstructured and Structured Data on Snowflake Cortex Agent](https://dev.to/sagara/pdfs-with-graphs-just-ask-the-agent-cross-analyzing-unstructured-and-structured-data-on-snowflake-1ld4)
+- [The Seven Deadly Sins of MCP: Operational Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-operational-sins-1892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
