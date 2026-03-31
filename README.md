@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Be honest: are we still becoming better developers, or just faster at assembling code with tools we barely understand? Shipping fast feels good until the bug shows up in production and nobody really knows why.](https://dev.to/dhruvjoshi9/be-honest-are-we-still-becoming-better-developers-or-just-faster-at-assembling-code-with-tools-we-3he6)
-- [Shipping a Perl CLI as a single file with App::FatPacker](https://dev.to/perldean/shipping-a-perl-cli-as-a-single-file-with-appfatpacker-586d)
-- [Meta S Rogue Ai Agent Sev 1 Breach Playbook For Engineering Ops And Security](https://dev.to/olivier-coreprose/meta-s-rogue-ai-agent-sev-1-breach-playbook-for-engineering-ops-and-security-42aa)
-- [There&#39;s No Such Thing As Local State](https://dev.to/iceonfire/theres-no-such-thing-as-local-state-2i4j)
-- [Email as an App: How I Built a High-Conversion Interface](https://dev.to/innermost_47/email-as-an-app-how-i-built-a-high-conversion-interface-10ab)
+- [Clean Unit Testing in .NET: Practical xUnit and Moq Tips](https://dev.to/gramli/clean-unit-testing-in-net-practical-xunit-and-moq-tips-5bki)
+- [Codex Fast Mode vs Claude Fast Mode: What’s Actually Different?](https://dev.to/sonim1/codex-fast-mode-vs-claude-fast-mode-whats-actually-different-2kf5)
+- [3 Layers Between Your AI Agent and Your Funds](https://dev.to/walletguy/3-layers-between-your-ai-agent-and-your-funds-28hn)
+- [The Simplest Image to Base64 Converter — 100% Client-Side, Ad-Free &amp; Built for Developers](https://dev.to/daier/the-simplest-image-to-base64-converter-100-client-side-ad-free-built-for-developers-4l6m)
+- [ReCUBE Benchmark Reveals GPT-5 Scores Only 37.6% on Repository-Level Code Generation](https://dev.to/gentic_news/recube-benchmark-reveals-gpt-5-scores-only-376-on-repository-level-code-generation-1547)
 <!-- BLOG-POST-LIST:END -->
 
 ---
