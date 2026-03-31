@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Mythos: What We Actually Know &lpar;and What We Don&#39;t&rpar;](https://dev.to/solomonneas/claude-mythos-what-we-actually-know-and-what-we-dont-32k5)
-- [Cancel JavaScript Async Ops with AbortController](https://dev.to/maanu07/cancel-javascript-async-ops-with-abortcontroller-3g87)
-- [Governing AI Agent Decisions with MCP: How I Built Dead Letter Oracle](https://dev.to/tvprasad/governing-ai-agent-decisions-with-mcp-how-i-built-dead-letter-oracle-2607)
-- [Australian Building Permit Data Is a Goldmine. Here&#39;s What We Built With It.](https://dev.to/resuly/australian-building-permit-data-is-a-goldmine-heres-what-we-built-with-it-24p8)
-- [I Gave Gemini 3 My Worst Legacy Code — Here’s What Happened](https://dev.to/jubinsoni/i-gave-gemini-3-my-worst-legacy-code-heres-what-happened-5h68)
+- [Comp Language Syntax](https://dev.to/shredwheat/comp-language-syntax-1ca0)
+- [Preventing Agent Hijacking With Cryptographic Identity and RBAC](https://dev.to/authora/preventing-agent-hijacking-with-cryptographic-identity-and-rbac-1e9e)
+- [Processing 1M Chess Games in 15 Seconds with Rust](https://dev.to/diegoresendez/processing-1m-chess-games-in-15-seconds-with-rust-pe3)
+- [Episode 1: I Was a Junior Developer and I Must Be Stopped](https://dev.to/adamthedeveloper/episode-1-i-was-a-junior-developer-and-i-must-be-stopped-c0m)
+- [How Ecological Assessments Shape Sustainable Infrastructure Development](https://dev.to/ecological_0d58e4cc49d832/how-ecological-assessments-shape-sustainable-infrastructure-development-17do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
