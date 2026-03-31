@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Do users actually click CTA… or just find their own path?](https://dev.to/bhavin-allinonetools/do-users-actually-click-cta-or-just-find-their-own-path-1nml)
-- [SCSS Is Solving Problems CSS Is Learning to Solve Itself](https://dev.to/ouvarov/scss-is-solving-problems-css-is-learning-to-solve-itself-3cgf)
-- [I Built Orra: A Tarot App Powered by Pyth for Verifiable Market Readings](https://dev.to/emjayrntr/i-built-orra-a-tarot-app-powered-by-pyth-for-verifiable-market-readings-3p31)
-- [Is Cursor Safe? I Scanned 100 Apps. 67% Had Critical Vulns.](https://dev.to/tgoldi/is-cursor-safe-i-scanned-100-apps-67-had-critical-vulns-39ml)
-- [Age Checks Now Read Your Face — But That Still Doesn&#39;t Prove Who You Are](https://dev.to/caracomp/age-checks-now-read-your-face-but-that-still-doesnt-prove-who-you-are-4ake)
+- [PwC Built an &#39;AI Factory.&#39; Then It Laid Off the Workers Who Built It.](https://dev.to/humanpagesai/pwc-built-an-ai-factory-then-it-laid-off-the-workers-who-built-it-em)
+- [Host a Simple Python App on a Virtual Machine &lpar;Step-by-Step&rpar;](https://dev.to/alok38/host-a-simple-python-app-on-a-virtual-machine-step-by-step-ch7)
+- [A simple post-launch checklist that keeps web clients happy for months](https://dev.to/xandertaylor/a-simple-post-launch-checklist-that-keeps-web-clients-happy-for-months-2d54)
+- [Building Real-Time AI Voice Agents with Google Gemini 3.1 Flash Live and VideoSDK](https://dev.to/chaitrali_kakde/building-real-time-ai-voice-agents-with-google-gemini-31-flash-live-and-videosdk-26f5)
+- [Claude Code&#39;s Entire Source Code Was Just Leaked via npm Source Maps — Here&#39;s What&#39;s Inside](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
