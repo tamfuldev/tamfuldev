@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PwC Built an &#39;AI Factory.&#39; Then It Laid Off the Workers Who Built It.](https://dev.to/humanpagesai/pwc-built-an-ai-factory-then-it-laid-off-the-workers-who-built-it-em)
-- [Host a Simple Python App on a Virtual Machine &lpar;Step-by-Step&rpar;](https://dev.to/alok38/host-a-simple-python-app-on-a-virtual-machine-step-by-step-ch7)
-- [A simple post-launch checklist that keeps web clients happy for months](https://dev.to/xandertaylor/a-simple-post-launch-checklist-that-keeps-web-clients-happy-for-months-2d54)
-- [Building Real-Time AI Voice Agents with Google Gemini 3.1 Flash Live and VideoSDK](https://dev.to/chaitrali_kakde/building-real-time-ai-voice-agents-with-google-gemini-31-flash-live-and-videosdk-26f5)
-- [Claude Code&#39;s Entire Source Code Was Just Leaked via npm Source Maps — Here&#39;s What&#39;s Inside](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo)
+- [Telegram Got This Simple UI Pattern Wrong](https://dev.to/rust_m/telegram-got-this-simple-ui-pattern-wrong-mmb)
+- [We Stopped Trusting Uptime Metrics. Here&#39;s What We Monitor Instead.](https://dev.to/sitewatch/we-stopped-trusting-uptime-metrics-heres-what-we-monitor-instead-1ob7)
+- [Creem CLI : Powerful Developer Tool](https://dev.to/deepkumbhare2001/creem-cli-powerful-developer-tool-123n)
+- [Junior Dev Job Postings Dropped 60%. AI Didn&#39;t Fire Them. It Just Made Companies Stop Hiring.](https://dev.to/adioof/junior-dev-job-postings-dropped-60-ai-didnt-fire-them-it-just-made-companies-stop-hiring-26be)
+- [I Squeezed an Entire MLOps Pipeline into 10 Lines of YAML](https://dev.to/net0pyr/i-squeezed-an-entire-mlops-pipeline-into-10-lines-of-yaml-lph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
