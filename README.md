@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Receipt Generator with Flask and Tailwind](https://dev.to/kalmin/building-a-receipt-generator-with-flask-and-tailwind-a5m)
-- [Is Claude Code 5x Cheaper Than Cursor? I Ran 12 Experiments to Find Out](https://dev.to/0xandrewshu/is-claude-code-5x-cheaper-than-cursor-i-ran-12-experiments-to-find-out-315m)
-- [# I Built a DevOps Chatbot That Checks My Live App for Failures — Here&#39;s How It Works](https://dev.to/vijaya_bollu/-i-built-a-devops-chatbot-that-checks-my-live-app-for-failures-heres-how-it-works-h78)
-- [I Built 3 Agent Systems. All of Them Use Flat Files. Here&#39;s Why Your Vector DB Is Overkill.](https://dev.to/mindon/i-built-3-agent-systems-all-of-them-use-flat-files-heres-why-your-vector-db-is-overkill-5f31)
-- [I tried turning messy product signals into AI decisions. Here’s what broke.](https://dev.to/moingshaikh/i-tried-turning-messy-product-signals-into-ai-decisions-heres-what-broke-18g8)
+- [Building Trust Between Agents: AgentID + ArkForge Interoperability](https://dev.to/mindon/building-trust-between-agents-agentid-arkforge-interoperability-50l0)
+- [I Analyzed Claude Code&#39;s Leaked Source — Here&#39;s How Anthropic&#39;s AI Agent Actually Works](https://dev.to/comeonoliver/i-analyzed-claude-codes-leaked-source-heres-how-anthropics-ai-agent-actually-works-2bik)
+- [I wish AI Agents just knew how I work without me explaining - so I made something that quietly observes me, learns and teaches it.](https://dev.to/ainthusiast/i-wish-ai-agents-just-knew-how-i-work-without-me-explaining-so-i-made-something-that-quietly-1jdn)
+- [Xoul - Local Personal Assistant Agent Release &lpar;Beta, v0.1.0-beta&rpar;](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-local-personal-assistant-agent-release-beta-v010-beta-1op4)
+- [🚨 Claude code source code leaked?? ‼️](https://dev.to/usman_awan/claude-code-source-code-has-been-leaked--520p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
