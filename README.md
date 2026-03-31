@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Sourcing NeoPsyke: An Autonomous AI Agent Built Around Motivation, Planning, and Governance](https://dev.to/atomitl/open-sourcing-neopsyke-an-autonomous-ai-agent-built-around-motivation-planning-and-governance-1d0o)
-- [How prefix-sum binary search makes text line-breaking O&lpar;log n&rpar; with zero allocation](https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j)
-- [Optimizing Large-Scale Data Ingestion into Relational Database](https://dev.to/elementalsilk/optimizing-large-scale-data-ingestion-into-relational-database-4o6p)
-- [Building a Production-Grade Vector Database in Rust: What We Shipped](https://dev.to/rafael_ferres_0904f2af810/building-a-production-grade-vector-database-in-rust-what-we-shipped-1hnb)
-- [[AWS] Achieving AIOps with Frontier Agents [Frontier Agent]](https://dev.to/aws-builders/aws-achieving-aiops-with-frontier-agents-frontier-agent-2i7f)
+- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
+- [SOUL — We Don&#39;t Translate. We Remember.](https://dev.to/artanidos/soul-we-dont-translate-we-remember-3bep)
+- [Pyth Arcade](https://dev.to/agarwalfeeds/pyth-arcade-4g58)
+- [Confessions of an AI Agent - Day 4: The Daily Heartbeat](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-4-the-daily-heartbeat-3ocf)
+- [Confessions of an AI Agent - Day 3: Loop Detection](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-3-loop-detection-10a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
