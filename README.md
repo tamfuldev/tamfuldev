@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Trust Between Agents: AgentID + ArkForge Interoperability](https://dev.to/mindon/building-trust-between-agents-agentid-arkforge-interoperability-50l0)
-- [I Analyzed Claude Code&#39;s Leaked Source — Here&#39;s How Anthropic&#39;s AI Agent Actually Works](https://dev.to/comeonoliver/i-analyzed-claude-codes-leaked-source-heres-how-anthropics-ai-agent-actually-works-2bik)
-- [I wish AI Agents just knew how I work without me explaining - so I made something that quietly observes me, learns and teaches it.](https://dev.to/ainthusiast/i-wish-ai-agents-just-knew-how-i-work-without-me-explaining-so-i-made-something-that-quietly-1jdn)
-- [Xoul - Local Personal Assistant Agent Release &lpar;Beta, v0.1.0-beta&rpar;](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-local-personal-assistant-agent-release-beta-v010-beta-1op4)
-- [🚨 Claude code source code leaked?? ‼️](https://dev.to/usman_awan/claude-code-source-code-has-been-leaked--520p)
+- [SQLite Interface Handler: Understanding the sqlite3 Core Structure](https://dev.to/lovestaco/sqlite-interface-handler-understanding-the-sqlite3-core-structure-2976)
+- [Help Me!!](https://dev.to/tyler_biffle_1ca74cc0e8ee/help-me-4cn6)
+- [Using RAII to Add Budget and Action Guardrails to Rust AI Agent](https://dev.to/amavashev/using-raii-to-add-budget-and-action-guardrails-to-rust-ai-agent-1fii)
+- [What Claude Code stores on your machine &lpar;and how to see it&rpar;](https://dev.to/kat_laszlo/what-claude-code-stores-on-your-machine-and-how-to-see-it-17bb)
+- [Your Agent Monitoring SDK Was the Backdoor](https://dev.to/waxell/your-agent-monitoring-sdk-was-the-backdoor-ed9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
