@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Ruby CSV Import Ran Successfully — Your Data May Still Be Wrong](https://dev.to/tilo_sloboda/your-ruby-csv-import-ran-successfully-your-data-may-still-be-wrong-5h5a)
-- [Cómo crear un chatbot de WhatsApp con n8n, aws y OpenAI](https://dev.to/joseluissr/como-crear-un-chatbot-de-whatsapp-con-n8n-aws-y-openai-1hm5)
-- [How TurboQuant Works for LLMs and Why It Uses Much Less RAM](https://dev.to/zaxwebs/how-turboquant-works-for-llms-and-why-it-uses-much-less-ram-3emk)
-- [Human-AI Interaction Is Here: Why Your Current UX/UI Design Is Already Obsolete](https://dev.to/rachynska/human-ai-interaction-is-here-why-your-current-uxui-design-is-already-obsolete-2omi)
-- [Stop Searching, Start Contributing: How GoodFirstGo is Making Open Source Approachable](https://dev.to/odinga71/stop-searching-start-contributing-how-goodfirstgo-is-making-open-source-approachable-66g)
+- [Building an Authentication System With Express JWT: A Step-by-Step Guide](https://dev.to/gloriasilver/building-an-authentication-system-with-express-jwt-a-step-by-step-guide-pcp)
+- [The Axios Attack Proved Vibe Coding&#39;s Biggest Blind Spot](https://dev.to/agentkit/the-axios-attack-proved-vibe-codings-biggest-blind-spot-1mmh)
+- [Object-Oriented Ruby for AI Developers](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-30jl)
+- [Ruby Patterns for AI Developers — Procs, Lambdas, Closures, Enumerable Magic](https://dev.to/agentq/ruby-patterns-for-ai-developers-procs-lambdas-closures-enumerable-magic-1hej)
+- [Object-Oriented Ruby for AI Developers — Classes, Modules, Inheritance, Mixins](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-classes-modules-inheritance-mixins-2ilb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
