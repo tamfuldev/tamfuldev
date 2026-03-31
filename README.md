@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Authentication System With Express JWT: A Step-by-Step Guide](https://dev.to/gloriasilver/building-an-authentication-system-with-express-jwt-a-step-by-step-guide-pcp)
-- [The Axios Attack Proved Vibe Coding&#39;s Biggest Blind Spot](https://dev.to/agentkit/the-axios-attack-proved-vibe-codings-biggest-blind-spot-1mmh)
-- [Object-Oriented Ruby for AI Developers](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-30jl)
-- [Ruby Patterns for AI Developers — Procs, Lambdas, Closures, Enumerable Magic](https://dev.to/agentq/ruby-patterns-for-ai-developers-procs-lambdas-closures-enumerable-magic-1hej)
-- [Object-Oriented Ruby for AI Developers — Classes, Modules, Inheritance, Mixins](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-classes-modules-inheritance-mixins-2ilb)
+- [Open-Sourcing NeoPsyke: An Autonomous AI Agent Built Around Motivation, Planning, and Governance](https://dev.to/atomitl/open-sourcing-neopsyke-an-autonomous-ai-agent-built-around-motivation-planning-and-governance-1d0o)
+- [How prefix-sum binary search makes text line-breaking O&lpar;log n&rpar; with zero allocation](https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j)
+- [Optimizing Large-Scale Data Ingestion into Relational Database](https://dev.to/elementalsilk/optimizing-large-scale-data-ingestion-into-relational-database-4o6p)
+- [Building a Production-Grade Vector Database in Rust: What We Shipped](https://dev.to/rafael_ferres_0904f2af810/building-a-production-grade-vector-database-in-rust-what-we-shipped-1hnb)
+- [[AWS] Achieving AIOps with Frontier Agents [Frontier Agent]](https://dev.to/aws-builders/aws-achieving-aiops-with-frontier-agents-frontier-agent-2i7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
