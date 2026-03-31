@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Self-Healing Agent Pattern: How to Build AI Systems That Recover From Failure Automatically](https://dev.to/the_bookmaster/the-self-healing-agent-pattern-how-to-build-ai-systems-that-recover-from-failure-automatically-3945)
-- [Claude Code + Telegram: How to Supercharge Your AI Assistant with Voice, Threading &amp; More](https://dev.to/timmothybuilder/claude-code-telegram-how-to-supercharge-your-ai-assistant-with-voice-threading-more-1b69)
-- [Why AI agent teams are just hoping their agents behave](https://dev.to/cauaferraz/why-ai-agent-teams-are-just-hoping-their-agents-behave-2loa)
-- [Harness as Code: Treating AI Workflows Like Infrastructure](https://dev.to/yohey-w/harness-as-code-treating-ai-workflows-like-infrastructure-27ni)
-- [I Built a 13,000-Title Arabic Streaming Guide in 4 Weeks With Claude AI](https://dev.to/alexander_nitrovich_16568/building-the-largest-arabic-streaming-database-lessons-learned-2e6a)
+- [Building a Receipt Generator with Flask and Tailwind](https://dev.to/kalmin/building-a-receipt-generator-with-flask-and-tailwind-a5m)
+- [Is Claude Code 5x Cheaper Than Cursor? I Ran 12 Experiments to Find Out](https://dev.to/0xandrewshu/is-claude-code-5x-cheaper-than-cursor-i-ran-12-experiments-to-find-out-315m)
+- [# I Built a DevOps Chatbot That Checks My Live App for Failures — Here&#39;s How It Works](https://dev.to/vijaya_bollu/-i-built-a-devops-chatbot-that-checks-my-live-app-for-failures-heres-how-it-works-h78)
+- [I Built 3 Agent Systems. All of Them Use Flat Files. Here&#39;s Why Your Vector DB Is Overkill.](https://dev.to/mindon/i-built-3-agent-systems-all-of-them-use-flat-files-heres-why-your-vector-db-is-overkill-5f31)
+- [I tried turning messy product signals into AI decisions. Here’s what broke.](https://dev.to/moingshaikh/i-tried-turning-messy-product-signals-into-ai-decisions-heres-what-broke-18g8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
