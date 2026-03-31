@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Interface Handler: Understanding the sqlite3 Core Structure](https://dev.to/lovestaco/sqlite-interface-handler-understanding-the-sqlite3-core-structure-2976)
-- [Help Me!!](https://dev.to/tyler_biffle_1ca74cc0e8ee/help-me-4cn6)
-- [Using RAII to Add Budget and Action Guardrails to Rust AI Agent](https://dev.to/amavashev/using-raii-to-add-budget-and-action-guardrails-to-rust-ai-agent-1fii)
-- [What Claude Code stores on your machine &lpar;and how to see it&rpar;](https://dev.to/kat_laszlo/what-claude-code-stores-on-your-machine-and-how-to-see-it-17bb)
-- [Your Agent Monitoring SDK Was the Backdoor](https://dev.to/waxell/your-agent-monitoring-sdk-was-the-backdoor-ed9)
+- [Your Pipeline Is 26.3h Behind: Catching Investing Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-263h-behind-catching-investing-sentiment-leads-with-pulsebit-hen)
+- [Stop staring at Claude Code&#39;s statusline: here&#39;s one you can actually customize](https://dev.to/noxcraftdev/stop-staring-at-claude-codes-statusline-heres-one-you-can-actually-customize-55ff)
+- [From Middle School Captain to Sports Card Enthusiast: A Journey of Passion and Learning](https://dev.to/james_jhon/from-middle-school-captain-to-sports-card-enthusiast-a-journey-of-passion-and-learning-3fca)
+- [Building a Full-Stack Java App with Quarkus — No React, No Angular, No Problem](https://dev.to/vsenger/building-a-full-stack-java-app-with-quarkus-no-react-no-angular-no-problem-j1m)
+- [Learning Elixir: Error Handling Basics](https://dev.to/abreujp/learning-elixir-error-handling-basics-59ci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
