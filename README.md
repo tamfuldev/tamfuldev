@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Strong Number](https://dev.to/sivakumar_mathiyalagan_/strong-number-4ln3)
-- [Headless Chrome: Mastering Server-Side Resource Orchestration and Memory Optimization](https://dev.to/onlineproxy_io/headless-chrome-mastering-server-side-resource-orchestration-and-memory-optimization-48a3)
-- [Building a Face Authentication System for Linux &lpar;Using PAM, systemd, and ONNX&rpar;](https://dev.to/shekh2810/building-a-face-authentication-system-for-linux-using-pam-systemd-and-onnx-1k7h)
-- [Inside AIO Sandbox &lpar;Part 1&rpar;: Files &amp; Shell — The Foundations of Agent Execution](https://dev.to/bytedanceoss/inside-aio-sandbox-part-1-files-shell-the-foundations-of-agent-execution-4pe5)
-- [Stop Scraping Bayut - Build a Dubai Property App in 48 Hours](https://dev.to/happyendpoint/stop-scraping-bayut-build-a-dubai-property-app-in-48-hours-j6)
+- [Do users actually click CTA… or just find their own path?](https://dev.to/bhavin-allinonetools/do-users-actually-click-cta-or-just-find-their-own-path-1nml)
+- [SCSS Is Solving Problems CSS Is Learning to Solve Itself](https://dev.to/ouvarov/scss-is-solving-problems-css-is-learning-to-solve-itself-3cgf)
+- [I Built Orra: A Tarot App Powered by Pyth for Verifiable Market Readings](https://dev.to/emjayrntr/i-built-orra-a-tarot-app-powered-by-pyth-for-verifiable-market-readings-3p31)
+- [Is Cursor Safe? I Scanned 100 Apps. 67% Had Critical Vulns.](https://dev.to/tgoldi/is-cursor-safe-i-scanned-100-apps-67-had-critical-vulns-39ml)
+- [Age Checks Now Read Your Face — But That Still Doesn&#39;t Prove Who You Are](https://dev.to/caracomp/age-checks-now-read-your-face-but-that-still-doesnt-prove-who-you-are-4ake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
