@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Unit Testing in .NET: Practical xUnit and Moq Tips](https://dev.to/gramli/clean-unit-testing-in-net-practical-xunit-and-moq-tips-5bki)
-- [Codex Fast Mode vs Claude Fast Mode: What’s Actually Different?](https://dev.to/sonim1/codex-fast-mode-vs-claude-fast-mode-whats-actually-different-2kf5)
-- [3 Layers Between Your AI Agent and Your Funds](https://dev.to/walletguy/3-layers-between-your-ai-agent-and-your-funds-28hn)
-- [The Simplest Image to Base64 Converter — 100% Client-Side, Ad-Free &amp; Built for Developers](https://dev.to/daier/the-simplest-image-to-base64-converter-100-client-side-ad-free-built-for-developers-4l6m)
-- [ReCUBE Benchmark Reveals GPT-5 Scores Only 37.6% on Repository-Level Code Generation](https://dev.to/gentic_news/recube-benchmark-reveals-gpt-5-scores-only-376-on-repository-level-code-generation-1547)
+- [The Self-Healing Agent Pattern: How to Build AI Systems That Recover From Failure Automatically](https://dev.to/the_bookmaster/the-self-healing-agent-pattern-how-to-build-ai-systems-that-recover-from-failure-automatically-3945)
+- [Claude Code + Telegram: How to Supercharge Your AI Assistant with Voice, Threading &amp; More](https://dev.to/timmothybuilder/claude-code-telegram-how-to-supercharge-your-ai-assistant-with-voice-threading-more-1b69)
+- [Why AI agent teams are just hoping their agents behave](https://dev.to/cauaferraz/why-ai-agent-teams-are-just-hoping-their-agents-behave-2loa)
+- [Harness as Code: Treating AI Workflows Like Infrastructure](https://dev.to/yohey-w/harness-as-code-treating-ai-workflows-like-infrastructure-27ni)
+- [I Built a 13,000-Title Arabic Streaming Guide in 4 Weeks With Claude AI](https://dev.to/alexander_nitrovich_16568/building-the-largest-arabic-streaming-database-lessons-learned-2e6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
