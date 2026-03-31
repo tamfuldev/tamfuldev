@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nextail: How a Spanish Startup&#39;s Prescriptive AI Is Defeating Excel in Fashion Retail](https://dev.to/datalaria/nextail-how-a-spanish-startups-prescriptive-ai-is-defeating-excel-in-fashion-retail-54pc)
-- [Hidden Markov Models: When Clusters Have Memory](https://dev.to/berkan_sesen/hidden-markov-models-when-clusters-have-memory-5526)
-- [The readability scores your content tool is missing](https://dev.to/bengreenberg/the-readability-scores-your-content-tool-is-missing-39be)
-- [CodeRabbit Configuration: .coderabbit.yaml Reference](https://dev.to/rahulxsingh/coderabbit-configuration-coderabbityaml-reference-5493)
-- [Brain-Inspired Memory for LLMs](https://dev.to/nanmesh/brain-inspired-memory-for-llms-1d6l)
+- [Strong Number](https://dev.to/sivakumar_mathiyalagan_/strong-number-4ln3)
+- [Headless Chrome: Mastering Server-Side Resource Orchestration and Memory Optimization](https://dev.to/onlineproxy_io/headless-chrome-mastering-server-side-resource-orchestration-and-memory-optimization-48a3)
+- [Building a Face Authentication System for Linux &lpar;Using PAM, systemd, and ONNX&rpar;](https://dev.to/shekh2810/building-a-face-authentication-system-for-linux-using-pam-systemd-and-onnx-1k7h)
+- [Inside AIO Sandbox &lpar;Part 1&rpar;: Files &amp; Shell — The Foundations of Agent Execution](https://dev.to/bytedanceoss/inside-aio-sandbox-part-1-files-shell-the-foundations-of-agent-execution-4pe5)
+- [Stop Scraping Bayut - Build a Dubai Property App in 48 Hours](https://dev.to/happyendpoint/stop-scraping-bayut-build-a-dubai-property-app-in-48-hours-j6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
