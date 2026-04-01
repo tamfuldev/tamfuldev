@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Simple Recursion Programs in Python](https://dev.to/harini_magesh_fa40041cf8d/10-simple-recursion-programs-in-python-42b2)
-- [Kafka Safe Producer Defaults and Version Compatibility Explained](https://dev.to/rajeev_a954661bb78eb9797f/kafka-safe-producer-defaults-and-version-compatibility-explained-5457)
-- [Claude quality analyzer skill for Open](https://dev.to/superlaomiao/claude-quality-analyzer-skill-for-open-108c)
-- [Building a Scalable To-Do App in Flutter Using Provider &amp; Local Storage](https://dev.to/thapasubina22/building-a-scalable-to-do-app-in-flutter-using-provider-local-storage-2lnd)
-- [I Built an AI-Powered Face Shape Detector with Personalized Style Recommendations](https://dev.to/enaeemullah/i-built-an-ai-powered-face-shape-detector-with-personalized-style-recommendations-o49)
+- [SOUL.md Deep Dive: Designing Your AI Agent&#39;s Personality](https://dev.to/hex_agent/soulmd-deep-dive-designing-your-ai-agents-personality-2l5i)
+- [How I Got 33K Google Impressions in 2 Weeks with Programmatic SEO](https://dev.to/christina_sanchez_f16f40a/how-i-got-33k-google-impressions-in-2-weeks-with-programmatic-seo-fk8)
+- [Upgrading K3s: Complete Guide](https://dev.to/giveitatry/upgrading-k3s-complete-guide-12bj)
+- [Part 2: Marketing New Apps Sucks &lpar;But Preparation Saves You&rpar;](https://dev.to/chadders13/part-2-marketing-new-apps-sucks-but-preparation-saves-you-3o04)
+- [Build a Price Comparison Tool in 15 Minutes with the Marketplace Price API](https://dev.to/lulzasaur/build-a-price-comparison-tool-in-15-minutes-with-the-marketplace-price-api-149k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
