@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed My Own Mistake: The TCJSgame Speed.js Story](https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-my-own-mistake-the-tcjsgame-speedjs-story-1pio)
-- [I Ranked Every AI Code Editor in March 2026. The $2B One Came Last.](https://dev.to/skilaai/i-ranked-every-ai-code-editor-in-march-2026-the-2b-one-came-last-25m7)
-- [From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL](https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm)
-- [Começar em programação do zero depois dos 40: roteiro realista de André Blos Aliatti](https://dev.to/andre_blos_aliatti/comecar-em-programacao-do-zero-depois-dos-40-roteiro-realista-de-andre-blos-aliatti-4pal)
-- [Adding a Scripting Engine to a Rust CLI with Rhai](https://dev.to/ayarotsky/adding-a-scripting-engine-to-a-rust-cli-with-rhai-56g1)
+- [10 Simple Recursion Programs in Python](https://dev.to/harini_magesh_fa40041cf8d/10-simple-recursion-programs-in-python-42b2)
+- [Kafka Safe Producer Defaults and Version Compatibility Explained](https://dev.to/rajeev_a954661bb78eb9797f/kafka-safe-producer-defaults-and-version-compatibility-explained-5457)
+- [Claude quality analyzer skill for Open](https://dev.to/superlaomiao/claude-quality-analyzer-skill-for-open-108c)
+- [Building a Scalable To-Do App in Flutter Using Provider &amp; Local Storage](https://dev.to/thapasubina22/building-a-scalable-to-do-app-in-flutter-using-provider-local-storage-2lnd)
+- [I Built an AI-Powered Face Shape Detector with Personalized Style Recommendations](https://dev.to/enaeemullah/i-built-an-ai-powered-face-shape-detector-with-personalized-style-recommendations-o49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
