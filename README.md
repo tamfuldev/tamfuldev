@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling with Shopify Liquid? Here’s What Finally Made It Click for Me](https://dev.to/ahmed_algrgawy/struggling-with-shopify-liquid-heres-what-finally-made-it-click-for-me-15ef)
-- [Why Terraform Breaks After Day-1 And How Terraform Actions Fix It](https://dev.to/shresthapandey/why-terraform-breaks-after-day-1-and-how-terraform-actions-fix-it-435c)
-- [CodiumAI vs GitHub Copilot: Which Should You Use?](https://dev.to/rahulxsingh/codiumai-vs-github-copilot-which-should-you-use-518)
-- [NH:STA S01E02 OpenPGP.js](https://dev.to/neighbourhoodie/nhsta-s01e02-openpgpjs-38cj)
-- [I Built a Production Agent Orchestrator. Then Claude Code&#39;s Source Leaked and I Saw the Same Architecture](https://dev.to/blacksun/i-built-a-production-agent-orchestrator-then-claude-codes-source-leaked-and-i-saw-the-same-5e85)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/gracemunyi/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-43of)
+- [When AI Services Shut Down: Why Your Payment Layer Needs to Outlast Your Models](https://dev.to/kavinkimcreator/when-ai-services-shut-down-why-your-payment-layer-needs-to-outlast-your-models-1mha)
+- [You’re Not Stuck. You’re Just Growing Roots](https://dev.to/konark_13/youre-not-stuck-youre-just-growing-roots-493j)
+- [Looking for One Answer, Ending Up with Ten Tabs?](https://dev.to/timechodb/looking-for-one-answer-ending-up-with-ten-tabs-fdp)
+- [I Built a Lightweight JavaScript Library for Dark/Light Mode — DayniteJs 🌗](https://dev.to/dev_suhaib/i-built-a-lightweight-javascript-library-for-darklight-mode-daynitejs-oji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
