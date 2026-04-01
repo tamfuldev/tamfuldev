@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Need Both Memory and Money](https://dev.to/t49qnsx7qtkpanks/why-ai-agents-need-both-memory-and-money-5cpl)
-- [Processo Seletivo pra Dev Júnior: O Que Ninguém Te Conta](https://dev.to/lukasdesouza/processo-seletivo-pra-dev-junior-o-que-ninguem-te-conta-2ejj)
-- [NIST AI Agent Standards Initiative — Public Comment](https://dev.to/janusz_entity/nist-ai-agent-standards-initiative-public-comment-2694)
-- [5 Ways I Reduced My OpenAI Bill by 40%](https://dev.to/amedinat/5-ways-i-reduced-my-openai-bill-by-40-1f3h)
-- [Why Biodiversity Matters: Understanding the Connection Between Wildlife and Ecosystems](https://dev.to/animalwatch365/why-biodiversity-matters-understanding-the-connection-between-wildlife-and-ecosystems-3ao)
+- [Speeding Up Your Python Programs with Concurrency](https://dev.to/tjiaz/speeding-up-your-python-programs-with-concurrency-3m2h)
+- [Writing Better RFCs and Design Docs](https://dev.to/pixari/writing-better-rfcs-and-design-docs-20pj)
+- [Onboarding New Engineers: First 30 Days That Stick](https://dev.to/pixari/onboarding-new-engineers-first-30-days-that-stick-4km)
+- [How to Give and Receive Technical Feedback &lpar;Code Review and Beyond&rpar;](https://dev.to/pixari/how-to-give-and-receive-technical-feedback-code-review-and-beyond-2jp0)
+- [Don&#39;t ask AI to build the house. Ask it to build the scaffolding.](https://dev.to/pixari/dont-ask-ai-to-build-the-house-ask-it-to-build-the-scaffolding-3e8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
