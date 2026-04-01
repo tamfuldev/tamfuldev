@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an App to Replace Our F1 Prediction Spreadsheet. Here&#39;s What I Learned.](https://dev.to/tthbnc/i-built-an-app-to-replace-our-f1-prediction-spreadsheet-heres-what-i-learned-17m3)
-- [Building Confidence with Testcontainers](https://dev.to/jolodev/building-confidence-with-testcontainers-3dfe)
-- [Project Loom: Java&#39;s Virtual Threads – From Nightmares to Modern Concurrency Bliss](https://dev.to/felipestanzani/project-loom-javas-virtual-threads-from-nightmares-to-modern-concurrency-bliss-3cm)
-- [Choosing the Right AI for Your Boat Shop: Beyond the Buzzwords](https://dev.to/ken_deng_ai/choosing-the-right-ai-for-your-boat-shop-beyond-the-buzzwords-16a3)
-- [Taming AI Glitches: Your E-Book Formatting Troubleshooting Guide](https://dev.to/ken_deng_ai/taming-ai-glitches-your-e-book-formatting-troubleshooting-guide-4841)
+- [Why AI Agents Need Both Memory and Money](https://dev.to/t49qnsx7qtkpanks/why-ai-agents-need-both-memory-and-money-5cpl)
+- [Processo Seletivo pra Dev Júnior: O Que Ninguém Te Conta](https://dev.to/lukasdesouza/processo-seletivo-pra-dev-junior-o-que-ninguem-te-conta-2ejj)
+- [NIST AI Agent Standards Initiative — Public Comment](https://dev.to/janusz_entity/nist-ai-agent-standards-initiative-public-comment-2694)
+- [5 Ways I Reduced My OpenAI Bill by 40%](https://dev.to/amedinat/5-ways-i-reduced-my-openai-bill-by-40-1f3h)
+- [Why Biodiversity Matters: Understanding the Connection Between Wildlife and Ecosystems](https://dev.to/animalwatch365/why-biodiversity-matters-understanding-the-connection-between-wildlife-and-ecosystems-3ao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
