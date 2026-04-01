@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Synthetic Test Databases Replace Staging Snapshots](https://dev.to/jitendra_devabhaktuni_0f1/how-synthetic-test-databases-replace-staging-snapshots-3j1k)
-- [The Claude Code leak proves what I&#39;ve been building for months - AI architecture rules are not optional](https://dev.to/vibestackdev/the-claude-code-leak-proves-what-ive-been-building-for-months-ai-architecture-rules-are-not-20ma)
-- [PostgreSQL Row-Level Security for Multi-Tenant SaaS](https://dev.to/software_mvp-factory/postgresql-row-level-security-for-multi-tenant-saas-1lgp)
-- [ImNotOkay, a GC experiment for Android CI builds](https://dev.to/cdsap/imnotokay-a-gc-experiment-for-android-ci-builds-489o)
-- [Docker said &#39;Connection refused&#39;. Localhost worked fine. The problem was one line.](https://dev.to/nicodev__/docker-said-connection-refused-localhost-worked-fine-the-problem-was-one-line-2o2m)
+- [From Docker Failure to PostgreSQL Success: My Real Backend Learning Experience](https://dev.to/bharath_kumar_30_vog/from-docker-failure-to-postgresql-success-my-real-backend-learning-experience-cn7)
+- [How I Added SIEM to My Homelab With Wazuh — and What It Found on Day One](https://dev.to/stevenjvik/how-i-added-siem-to-my-homelab-with-wazuh-and-what-it-found-on-day-one-cll)
+- [A Jira Win: Building JiraAttachmentsRetriever with the JiraAnalyzerSuite](https://dev.to/mpietro/a-jira-win-building-jiraattachmentsretriever-with-the-jiraanalyzersuite-19le)
+- [I ran incident response on my own homelab. Here&#39;s the postmortem.](https://dev.to/stevenjvik/i-ran-incident-response-on-my-own-homelab-heres-the-postmortem-366h)
+- [From SQLite to PostgreSQL: My First Integration Attempt &lpar;Failures, Learning &amp; Direction Change&rpar;](https://dev.to/bharath_kumar_30_vog/-from-sqlite-to-postgresql-my-first-integration-attempt-failures-learning-direction-change-3bn4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
