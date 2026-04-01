@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reverse-Engineered Claude Code&#39;s Hidden Pet System](https://dev.to/picklepixel/how-i-reverse-engineered-claude-codes-hidden-pet-system-8l7)
-- [@craft-ng: Associer l’art de la composition &amp; du state management dans Angular](https://dev.to/romain_geffrault_10d88369/craft-ng-associer-lart-de-la-composition-du-state-management-dans-angular-37pn)
-- [🔬 3D Science Lab — Interactive 3D STEM Education with 40+ Experiments Built Using Next.js and Three.js](https://dev.to/rudra_sarker/3d-science-lab-interactive-3d-stem-education-with-40-experiments-built-using-nextjs-and-4kfg)
-- [I Turned helix-agent into helix-agents: One MCP Server for Ollama, Codex, and OpenAI-Compatible Models](https://dev.to/tsunamayo7/i-turned-helix-agent-into-helix-agents-one-mcp-server-for-ollama-codex-and-openai-compatible-3fh1)
-- [ça ressemble à quoi, mon setup Claude Code ?](https://dev.to/agaches/ca-ressemble-a-quoi-mon-setup-claude-code--26le)
+- [My First Open Source Project: The Story of Code-Wrapper](https://dev.to/irfanh_dev/my-first-open-source-project-the-story-of-code-wrapper-1033)
+- [Distributed Systems - Algebraic Types for Better State Modeling](https://dev.to/santosh_koti/distributed-systems-algebraic-types-for-better-state-modeling-7bd)
+- [Top 30 Spring Boot Interview Questions Asked in TCS and Infosys — With Answers &lpar;2025&rpar;](https://dev.to/abhijit_maharik_3b36da1a8/top-30-spring-boot-interview-questions-asked-in-tcs-and-infosys-with-answers-2025-2nfi)
+- [Promoting the measured 2052..2088 menu window in the TD2 SDL port](https://dev.to/nivandosoares/promoting-the-measured-20522088-menu-window-in-the-td2-sdl-port-17gf)
+- [Does this actually solve SSR hydration problems? Looking for senior feedback](https://dev.to/himesh_bhattarai/does-this-actually-solve-ssr-hydration-problems-looking-for-senior-feedback-30n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
