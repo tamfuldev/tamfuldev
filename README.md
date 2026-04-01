@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Docker Failure to PostgreSQL Success: My Real Backend Learning Experience](https://dev.to/bharath_kumar_30_vog/from-docker-failure-to-postgresql-success-my-real-backend-learning-experience-cn7)
-- [How I Added SIEM to My Homelab With Wazuh — and What It Found on Day One](https://dev.to/stevenjvik/how-i-added-siem-to-my-homelab-with-wazuh-and-what-it-found-on-day-one-cll)
-- [A Jira Win: Building JiraAttachmentsRetriever with the JiraAnalyzerSuite](https://dev.to/mpietro/a-jira-win-building-jiraattachmentsretriever-with-the-jiraanalyzersuite-19le)
-- [I ran incident response on my own homelab. Here&#39;s the postmortem.](https://dev.to/stevenjvik/i-ran-incident-response-on-my-own-homelab-heres-the-postmortem-366h)
-- [From SQLite to PostgreSQL: My First Integration Attempt &lpar;Failures, Learning &amp; Direction Change&rpar;](https://dev.to/bharath_kumar_30_vog/-from-sqlite-to-postgresql-my-first-integration-attempt-failures-learning-direction-change-3bn4)
+- [How I Reverse-Engineered Claude Code&#39;s Hidden Pet System](https://dev.to/picklepixel/how-i-reverse-engineered-claude-codes-hidden-pet-system-8l7)
+- [@craft-ng: Associer l’art de la composition &amp; du state management dans Angular](https://dev.to/romain_geffrault_10d88369/craft-ng-associer-lart-de-la-composition-du-state-management-dans-angular-37pn)
+- [🔬 3D Science Lab — Interactive 3D STEM Education with 40+ Experiments Built Using Next.js and Three.js](https://dev.to/rudra_sarker/3d-science-lab-interactive-3d-stem-education-with-40-experiments-built-using-nextjs-and-4kfg)
+- [I Turned helix-agent into helix-agents: One MCP Server for Ollama, Codex, and OpenAI-Compatible Models](https://dev.to/tsunamayo7/i-turned-helix-agent-into-helix-agents-one-mcp-server-for-ollama-codex-and-openai-compatible-3fh1)
+- [ça ressemble à quoi, mon setup Claude Code ?](https://dev.to/agaches/ca-ressemble-a-quoi-mon-setup-claude-code--26le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
