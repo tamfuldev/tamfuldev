@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Guide to the EU AI Act &lpar;What Actually Breaks Your Code&rpar;](https://dev.to/damsho92/the-developers-guide-to-the-eu-ai-act-what-actually-breaks-your-code-10dj)
-- [Site Audit Checklist: Onboarding a New Client for Performance Monitoring](https://dev.to/apogeewatcher/site-audit-checklist-onboarding-a-new-client-for-performance-monitoring-4bbd)
-- [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We&#39;re Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln)
-- [How I Fingerprint My Own API to Catch Scrapers](https://dev.to/iistrate/how-i-fingerprint-my-own-api-to-catch-scrapers-11ln)
-- [The axios Supply Chain Attack Just Proved Why Static Analysis Matters More Than Ever](https://dev.to/ayame0328/the-axios-supply-chain-attack-just-proved-why-static-analysis-matters-more-than-ever-aj)
+- [How Synthetic Test Databases Replace Staging Snapshots](https://dev.to/jitendra_devabhaktuni_0f1/how-synthetic-test-databases-replace-staging-snapshots-3j1k)
+- [The Claude Code leak proves what I&#39;ve been building for months - AI architecture rules are not optional](https://dev.to/vibestackdev/the-claude-code-leak-proves-what-ive-been-building-for-months-ai-architecture-rules-are-not-20ma)
+- [PostgreSQL Row-Level Security for Multi-Tenant SaaS](https://dev.to/software_mvp-factory/postgresql-row-level-security-for-multi-tenant-saas-1lgp)
+- [ImNotOkay, a GC experiment for Android CI builds](https://dev.to/cdsap/imnotokay-a-gc-experiment-for-android-ci-builds-489o)
+- [Docker said &#39;Connection refused&#39;. Localhost worked fine. The problem was one line.](https://dev.to/nicodev__/docker-said-connection-refused-localhost-worked-fine-the-problem-was-one-line-2o2m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
