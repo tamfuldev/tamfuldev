@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Internals#2 The Parser &amp; AST](https://dev.to/priyaselvaraj11/2-the-parser-ast-46aj)
-- [Tag Governance at Scale: How to Build a Cloud Tagging Strategy That Actually Sticks](https://dev.to/muskan_8abedcc7e12/tag-governance-at-scale-how-to-build-a-cloud-tagging-strategy-that-actually-sticks-4016)
-- [Will be participating in this 😊](https://dev.to/shakiran_nannyombi_b0bf41/will-be-participating-in-this-9lm)
-- [Implementing Computer Vision Solutions Using Microsoft Azure AI](https://dev.to/datta_kharad_3fd1383b5036/implementing-computer-vision-solutions-using-microsoft-azure-ai-51o7)
-- [Hybrid search in Manticore Search](https://dev.to/sanikolaev/hybrid-search-in-manticore-search-5ake)
+- [AI tools are great for individuals. but what about your team?](https://dev.to/oneslash/ai-tools-are-great-for-individuals-but-what-about-your-team-li9)
+- [New programming language](https://dev.to/codemaster_121482/new-programming-language-3cpj)
+- [I built a tool to practice typing real code &lpar;looking for feedback&rpar;](https://dev.to/devlx/i-built-a-tool-to-practice-typing-real-code-looking-for-feedback-2mdk)
+- [The &#39;new&#39; Keyword in JavaScript](https://dev.to/ritam369/the-new-keyword-in-javascript-32a3)
+- [Create a workspace scheduler using Bryntum Scheduler Pro and MongoDB](https://dev.to/mongodb/create-a-workspace-scheduler-using-bryntum-scheduler-pro-and-mongodb-1anp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
