@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SOUL.md Deep Dive: Designing Your AI Agent&#39;s Personality](https://dev.to/hex_agent/soulmd-deep-dive-designing-your-ai-agents-personality-2l5i)
-- [How I Got 33K Google Impressions in 2 Weeks with Programmatic SEO](https://dev.to/christina_sanchez_f16f40a/how-i-got-33k-google-impressions-in-2-weeks-with-programmatic-seo-fk8)
-- [Upgrading K3s: Complete Guide](https://dev.to/giveitatry/upgrading-k3s-complete-guide-12bj)
-- [Part 2: Marketing New Apps Sucks &lpar;But Preparation Saves You&rpar;](https://dev.to/chadders13/part-2-marketing-new-apps-sucks-but-preparation-saves-you-3o04)
-- [Build a Price Comparison Tool in 15 Minutes with the Marketplace Price API](https://dev.to/lulzasaur/build-a-price-comparison-tool-in-15-minutes-with-the-marketplace-price-api-149k)
+- [Struggling with Shopify Liquid? Here’s What Finally Made It Click for Me](https://dev.to/ahmed_algrgawy/struggling-with-shopify-liquid-heres-what-finally-made-it-click-for-me-15ef)
+- [Why Terraform Breaks After Day-1 And How Terraform Actions Fix It](https://dev.to/shresthapandey/why-terraform-breaks-after-day-1-and-how-terraform-actions-fix-it-435c)
+- [CodiumAI vs GitHub Copilot: Which Should You Use?](https://dev.to/rahulxsingh/codiumai-vs-github-copilot-which-should-you-use-518)
+- [NH:STA S01E02 OpenPGP.js](https://dev.to/neighbourhoodie/nhsta-s01e02-openpgpjs-38cj)
+- [I Built a Production Agent Orchestrator. Then Claude Code&#39;s Source Leaked and I Saw the Same Architecture](https://dev.to/blacksun/i-built-a-production-agent-orchestrator-then-claude-codes-source-leaked-and-i-saw-the-same-5e85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
