@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI tools are great for individuals. but what about your team?](https://dev.to/oneslash/ai-tools-are-great-for-individuals-but-what-about-your-team-li9)
-- [New programming language](https://dev.to/codemaster_121482/new-programming-language-3cpj)
-- [I built a tool to practice typing real code &lpar;looking for feedback&rpar;](https://dev.to/devlx/i-built-a-tool-to-practice-typing-real-code-looking-for-feedback-2mdk)
-- [The &#39;new&#39; Keyword in JavaScript](https://dev.to/ritam369/the-new-keyword-in-javascript-32a3)
-- [Create a workspace scheduler using Bryntum Scheduler Pro and MongoDB](https://dev.to/mongodb/create-a-workspace-scheduler-using-bryntum-scheduler-pro-and-mongodb-1anp)
+- [The Developer’s Guide to the EU AI Act &lpar;What Actually Breaks Your Code&rpar;](https://dev.to/damsho92/the-developers-guide-to-the-eu-ai-act-what-actually-breaks-your-code-10dj)
+- [Site Audit Checklist: Onboarding a New Client for Performance Monitoring](https://dev.to/apogeewatcher/site-audit-checklist-onboarding-a-new-client-for-performance-monitoring-4bbd)
+- [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We&#39;re Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln)
+- [How I Fingerprint My Own API to Catch Scrapers](https://dev.to/iistrate/how-i-fingerprint-my-own-api-to-catch-scrapers-11ln)
+- [The axios Supply Chain Attack Just Proved Why Static Analysis Matters More Than Ever](https://dev.to/ayame0328/the-axios-supply-chain-attack-just-proved-why-static-analysis-matters-more-than-ever-aj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
