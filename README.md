@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
-- [SOUL — We Don&#39;t Translate. We Remember.](https://dev.to/artanidos/soul-we-dont-translate-we-remember-3bep)
-- [Pyth Arcade](https://dev.to/agarwalfeeds/pyth-arcade-4g58)
-- [Confessions of an AI Agent - Day 4: The Daily Heartbeat](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-4-the-daily-heartbeat-3ocf)
-- [Confessions of an AI Agent - Day 3: Loop Detection](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-3-loop-detection-10a2)
+- [How I Fixed My Own Mistake: The TCJSgame Speed.js Story](https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-my-own-mistake-the-tcjsgame-speedjs-story-1pio)
+- [I Ranked Every AI Code Editor in March 2026. The $2B One Came Last.](https://dev.to/skilaai/i-ranked-every-ai-code-editor-in-march-2026-the-2b-one-came-last-25m7)
+- [From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL](https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm)
+- [Começar em programação do zero depois dos 40: roteiro realista de André Blos Aliatti](https://dev.to/andre_blos_aliatti/comecar-em-programacao-do-zero-depois-dos-40-roteiro-realista-de-andre-blos-aliatti-4pal)
+- [Adding a Scripting Engine to a Rust CLI with Rhai](https://dev.to/ayarotsky/adding-a-scripting-engine-to-a-rust-cli-with-rhai-56g1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
