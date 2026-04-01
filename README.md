@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Speeding Up Your Python Programs with Concurrency](https://dev.to/tjiaz/speeding-up-your-python-programs-with-concurrency-3m2h)
-- [Writing Better RFCs and Design Docs](https://dev.to/pixari/writing-better-rfcs-and-design-docs-20pj)
-- [Onboarding New Engineers: First 30 Days That Stick](https://dev.to/pixari/onboarding-new-engineers-first-30-days-that-stick-4km)
-- [How to Give and Receive Technical Feedback &lpar;Code Review and Beyond&rpar;](https://dev.to/pixari/how-to-give-and-receive-technical-feedback-code-review-and-beyond-2jp0)
-- [Don&#39;t ask AI to build the house. Ask it to build the scaffolding.](https://dev.to/pixari/dont-ask-ai-to-build-the-house-ask-it-to-build-the-scaffolding-3e8o)
+- [Unicode Infection](https://dev.to/pabli44/unicode-infection-53do)
+- [When the Scraper Breaks Itself: Building a Self-Healing CSS Selector Repair System](https://dev.to/viniciuspuerto/when-the-scraper-breaks-itself-building-a-self-healing-css-selector-repair-system-312d)
+- [Self-Referential Generics in Kotlin: When Type Safety Requires Talking to Yourself](https://dev.to/zoos1ne/self-referential-generics-in-kotlin-when-type-safety-requires-talking-to-yourself-37bn)
+- [How I Started Using AI Agents for End-to-End Testing &lpar;Autonoma AI&rpar;](https://dev.to/iamadnank9/how-i-started-using-ai-agents-for-end-to-end-testing-autonoma-ai-2dpj)
+- [How AI Is Changing PTSD Recovery — And Why It Matters](https://dev.to/paifamily/how-ai-is-changing-ptsd-recovery-and-why-it-matters-3ddn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
