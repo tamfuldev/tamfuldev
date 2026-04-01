@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing the Unseen: IoT Visibility and Edge Protection](https://dev.to/hookprobe/securing-the-unseen-iot-visibility-and-edge-protection-467f)
-- [What Goes Wrong When You Switch Branching Strategies Mid-Flight](https://dev.to/prithwiraj_das_8bc02a0871/what-goes-wrong-when-you-switch-branching-strategies-mid-flight-50l0)
-- [AI-Native Threat Detection: Why the Edge is the New Frontline for IDS](https://dev.to/hookprobe/ai-native-threat-detection-why-the-edge-is-the-new-frontline-for-ids-31nl)
-- [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh)
-- [Copy-Paste Components vs npm Packages: shadcn/ui vs Ninna UI in 2026](https://dev.to/chnkc41/copy-paste-components-vs-npm-packages-shadcnui-vs-ninna-ui-in-2026-1n0a)
+- [I Built an App to Replace Our F1 Prediction Spreadsheet. Here&#39;s What I Learned.](https://dev.to/tthbnc/i-built-an-app-to-replace-our-f1-prediction-spreadsheet-heres-what-i-learned-17m3)
+- [Building Confidence with Testcontainers](https://dev.to/jolodev/building-confidence-with-testcontainers-3dfe)
+- [Project Loom: Java&#39;s Virtual Threads – From Nightmares to Modern Concurrency Bliss](https://dev.to/felipestanzani/project-loom-javas-virtual-threads-from-nightmares-to-modern-concurrency-bliss-3cm)
+- [Choosing the Right AI for Your Boat Shop: Beyond the Buzzwords](https://dev.to/ken_deng_ai/choosing-the-right-ai-for-your-boat-shop-beyond-the-buzzwords-16a3)
+- [Taming AI Glitches: Your E-Book Formatting Troubleshooting Guide](https://dev.to/ken_deng_ai/taming-ai-glitches-your-e-book-formatting-troubleshooting-guide-4841)
 <!-- BLOG-POST-LIST:END -->
 
 ---
