@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First Open Source Project: The Story of Code-Wrapper](https://dev.to/irfanh_dev/my-first-open-source-project-the-story-of-code-wrapper-1033)
-- [Distributed Systems - Algebraic Types for Better State Modeling](https://dev.to/santosh_koti/distributed-systems-algebraic-types-for-better-state-modeling-7bd)
-- [Top 30 Spring Boot Interview Questions Asked in TCS and Infosys — With Answers &lpar;2025&rpar;](https://dev.to/abhijit_maharik_3b36da1a8/top-30-spring-boot-interview-questions-asked-in-tcs-and-infosys-with-answers-2025-2nfi)
-- [Promoting the measured 2052..2088 menu window in the TD2 SDL port](https://dev.to/nivandosoares/promoting-the-measured-20522088-menu-window-in-the-td2-sdl-port-17gf)
-- [Does this actually solve SSR hydration problems? Looking for senior feedback](https://dev.to/himesh_bhattarai/does-this-actually-solve-ssr-hydration-problems-looking-for-senior-feedback-30n9)
+- [Securing the Unseen: IoT Visibility and Edge Protection](https://dev.to/hookprobe/securing-the-unseen-iot-visibility-and-edge-protection-467f)
+- [What Goes Wrong When You Switch Branching Strategies Mid-Flight](https://dev.to/prithwiraj_das_8bc02a0871/what-goes-wrong-when-you-switch-branching-strategies-mid-flight-50l0)
+- [AI-Native Threat Detection: Why the Edge is the New Frontline for IDS](https://dev.to/hookprobe/ai-native-threat-detection-why-the-edge-is-the-new-frontline-for-ids-31nl)
+- [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh)
+- [Copy-Paste Components vs npm Packages: shadcn/ui vs Ninna UI in 2026](https://dev.to/chnkc41/copy-paste-components-vs-npm-packages-shadcnui-vs-ninna-ui-in-2026-1n0a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
