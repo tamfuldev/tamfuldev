@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Building NodeDB](https://dev.to/nodedb/why-im-building-nodedb-4ml)
-- [Most Functional Coffee Is Just Regular Coffee With a Story](https://dev.to/caffstackdev/most-functional-coffee-is-just-regular-coffee-with-a-story-4c3g)
-- [365 Days of Building in Public, Perfectly Reflected By My Badges](https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f)
-- [Optimizando Cargas de Trabajo Serverless Técnicas para mejorar Rendimiento y Eficiencia](https://dev.to/aws-builders/optimizando-cargas-de-trabajo-serverless-tecnicas-para-mejorar-rendimiento-y-eficiencia-48og)
-- [I Let AI Rewrite My Bug Fix — Here&#39;s What Happened](https://dev.to/a145137265/i-let-ai-rewrite-my-bug-fix-heres-what-happened-ce2)
+- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
+- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
+- [Multi-Model AI Orchestration for Software Development: How I Ship 10x Faster with Claude, Codex, and Gemini](https://dev.to/zaferdace/multi-model-ai-orchestration-for-software-development-how-i-ship-10x-faster-with-claude-codex-53l3)
+- [Migrating a Webpack-Era Federated Module to Vite Without Breaking the Host Contract](https://dev.to/mdolive/migrating-a-webpack-era-federated-module-to-vite-without-breaking-the-host-contract-31nb)
+- [GitHub Copilot Code Review: Complete Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-copilot-code-review-complete-guide-2026-255h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
