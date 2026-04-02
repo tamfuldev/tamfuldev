@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securely Implementing Snowflake AWS Lambda Integration with Key Pair Authentication + Secrets Manager](https://dev.to/aws-builders/securely-implementing-snowflake-x-aws-lambda-integration-with-key-pair-authentication-secrets-2ba2)
-- [Infrastructure as Code: Complete AWS Guide to IaC Tools [2026]](https://dev.to/dannysteenman/infrastructure-as-code-complete-aws-guide-to-iac-tools-2026-aak)
-- [How to Pass AWS Certification Exams: Complete 2026 Guide](https://dev.to/dannysteenman/how-to-pass-aws-certification-exams-complete-2026-guide-715)
-- [From Product Manager to Indie Hacker: A 0-to-1 Survival Guide for Launching My Overseas Tool Website](https://dev.to/zhangguime/from-product-manager-to-indie-hacker-a-0-to-1-survival-guide-for-launching-my-overseas-tool-website-45da)
-- [AI-Assisted Visual QA for Figma AEM Workflows](https://dev.to/stack_builders/ai-assisted-visual-qa-for-figma-aem-workflows-3bba)
+- [Why Accessibility Testing Isn’t Optional Anymore](https://dev.to/tarunasdet/why-accessibility-testing-isnt-optional-anymore-17pk)
+- [I Replaced My Morning Routine with an AI Briefing System](https://dev.to/toji_openclaw_fd3ff67586a/i-replaced-my-morning-routine-with-an-ai-briefing-system-13ee)
+- [SVG animation. Introduction](https://dev.to/jsha/svg-animation-introduction-pj5)
+- [Building a Browser-Based Image Blur Tool with Canvas API &lpar;No Libraries&rpar;](https://dev.to/shaishav_patel_271fdcd61a/building-a-browser-based-image-blur-tool-with-canvas-api-no-libraries-3g8h)
+- [How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
