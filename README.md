@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
-- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
-- [Multi-Model AI Orchestration for Software Development: How I Ship 10x Faster with Claude, Codex, and Gemini](https://dev.to/zaferdace/multi-model-ai-orchestration-for-software-development-how-i-ship-10x-faster-with-claude-codex-53l3)
-- [Migrating a Webpack-Era Federated Module to Vite Without Breaking the Host Contract](https://dev.to/mdolive/migrating-a-webpack-era-federated-module-to-vite-without-breaking-the-host-contract-31nb)
-- [GitHub Copilot Code Review: Complete Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-copilot-code-review-complete-guide-2026-255h)
+- [GitLab Code Review: Best Tools and Practices &lpar;2026&rpar;](https://dev.to/rahulxsingh/gitlab-code-review-best-tools-and-practices-2026-3clb)
+- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
+- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
+- [Woman&#39;s Day: Be Yourself](https://dev.to/stuxint/womans-day-be-yourself-5d8e)
+- [The Real Goal of Building a Trading Bot: Removing Yourself from the Loop](https://dev.to/maymay5692/--5f4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
