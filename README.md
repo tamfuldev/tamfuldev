@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Angular Components by Properties with Playwright](https://dev.to/vitalicset/testing-angular-components-by-properties-with-playwright-33jj)
-- [Why I Built My Own Site and Stopped Publishing Only on Other Platforms. The POSSE Principle](https://dev.to/naderevo/why-i-built-my-own-site-and-stopped-publishing-only-on-other-platforms-the-posse-principle-3pkg)
-- [Building an AI Video Clipping Pipeline: Architecture, Tradeoffs, and What We Learned](https://dev.to/kyle_clipspeedai/building-an-ai-video-clipping-pipeline-architecture-tradeoffs-and-what-we-learned-2e9h)
-- [Anthropic Leaked Its Own Source Code and May Not Own It](https://dev.to/ticktockbent/anthropic-leaked-its-own-source-code-and-may-not-own-it-3j3l)
-- [Building a 100% Client-Side PDF &amp; Image Studio &lpar;Zero Server Uploads&rpar; 🚀](https://dev.to/skeg_16/building-a-100-client-side-pdf-image-studio-zero-server-uploads-34n9)
+- [Securely Implementing Snowflake AWS Lambda Integration with Key Pair Authentication + Secrets Manager](https://dev.to/aws-builders/securely-implementing-snowflake-x-aws-lambda-integration-with-key-pair-authentication-secrets-2ba2)
+- [Infrastructure as Code: Complete AWS Guide to IaC Tools [2026]](https://dev.to/dannysteenman/infrastructure-as-code-complete-aws-guide-to-iac-tools-2026-aak)
+- [How to Pass AWS Certification Exams: Complete 2026 Guide](https://dev.to/dannysteenman/how-to-pass-aws-certification-exams-complete-2026-guide-715)
+- [From Product Manager to Indie Hacker: A 0-to-1 Survival Guide for Launching My Overseas Tool Website](https://dev.to/zhangguime/from-product-manager-to-indie-hacker-a-0-to-1-survival-guide-for-launching-my-overseas-tool-website-45da)
+- [AI-Assisted Visual QA for Figma AEM Workflows](https://dev.to/stack_builders/ai-assisted-visual-qa-for-figma-aem-workflows-3bba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
