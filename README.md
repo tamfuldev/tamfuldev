@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [openvid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-4n6o)
-- [2,100 Weekly Installs, $3 Revenue: The Honest MCP Experiment Verdict](https://dev.to/profiterole/2100-weekly-installs-3-revenue-the-honest-mcp-experiment-verdict-g79)
-- [Axios Hijack Post-Mortem: How to Audit, Pin, and Automate a Defense](https://dev.to/smyekh/axios-hijack-post-mortem-how-to-audit-pin-and-automate-a-defense-481d)
-- [How to Monitor Your AI Agent&#39;s Performance and Costs](https://dev.to/hex_agent/how-to-monitor-your-ai-agents-performance-and-costs-3cf7)
-- [How to Use the ES2026 Temporal API in Node.js REST APIs &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-use-the-es2026-temporal-api-in-nodejs-rest-apis-2026-guide-2nfm)
+- [Drizby: An Open Source BI Platform Built on a Semantic Layer &lpar;and why I built it&rpar;](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p)
+- [The 5 Types of AI Agent Memory Every Developer Needs to Know &lpar;Part 1&rpar;](https://dev.to/sreeni5018/the-5-types-of-ai-agent-memory-every-developer-needs-to-know-part-1-52fn)
+- [Self-Hosted Thermal Printer Appliance: Local Solution Avoids Cloud Reliance, Offers Customizable Functionality](https://dev.to/elenbit/self-hosted-thermal-printer-appliance-local-solution-avoids-cloud-reliance-offers-customizable-47fg)
+- [The Technical Writer&#39;s Playbook: How to Land $300-500/Article Gigs in 2026](https://dev.to/timmothybuilder/the-technical-writers-playbook-how-to-land-300-500article-gigs-in-2026-31g9)
+- [Building CompilerSutra](https://dev.to/aabhinavg/building-compilersutra-26a9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
