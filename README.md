@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NPoco vs UkrGuru.Sql: When Streaming Beats Buffering](https://dev.to/ukrguru/npoco-vs-ukrgurusql-when-streaming-beats-buffering-1kbd)
-- [Why Your React Data Tables Are a Bloated Mess &lpar;And How to Automate Them&rpar;](https://dev.to/jacksonkasi/why-your-react-data-tables-are-a-bloated-mess-and-how-to-automate-them-54o9)
-- [The Autonomy Spectrum: Where Does Your Agent Actually Sit?](https://dev.to/the_bookmaster/the-autonomy-spectrum-where-does-your-agent-actually-sit-1i79)
-- [How to Build True Multi-Tenant Database Isolation &lpar;Stop using if-statements&rpar;](https://dev.to/jacksonkasi/how-to-build-true-multi-tenant-database-isolation-stop-using-if-statements-1402)
-- [Refactoring a JavaScript class](https://dev.to/railsdesigner/refactoring-a-javascript-class-3opo)
+- [PACELC Theorem in System Design](https://dev.to/code_2/pacelc-theorem-in-system-design-129h)
+- [How We Cut Claude Code Session Overhead with Lazy-Loaded Personas](https://dev.to/drakkotarkin/how-we-cut-claude-code-session-overhead-with-lazy-loaded-personas-3ann)
+- [Meta-Programming and Macro capabilities of various languages](https://dev.to/redbar0n/meta-programming-and-macro-capabilities-of-various-languages-1hgd)
+- [How to Finally &lpar;and Iteratively&rpar; Kill Every Last &#39;npm audit&#39;](https://dev.to/tonymet/how-to-finally-and-iteratively-kill-every-last-npm-audit-51ep)
+- [The problem isn’t time. It’s your system.](https://dev.to/lifeorder_42/the-problem-isnt-time-its-your-system-2oif)
 <!-- BLOG-POST-LIST:END -->
 
 ---
