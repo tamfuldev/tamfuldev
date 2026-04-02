@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Time Series Data Storage and Querying: Migrating `candle_data` from PostgreSQL to QuestDB for Enhanced Performance](https://dev.to/denlava/optimizing-time-series-data-storage-and-querying-migrating-candledata-from-postgresql-to-4l8e)
-- [One API Call to Know If Your Dependency Is Safe](https://dev.to/petter-strale/one-api-call-to-know-if-your-dependency-is-safe-b6)
-- [Schemity vs dbdiagram.io: When Your ERD Tool Needs to Outlive the Meeting](https://dev.to/tbson87/schemity-vs-dbdiagramio-when-your-erd-tool-needs-to-outlive-the-meeting-28m3)
-- [AI Citation Registries and Standardization Constraints in AI Parsing](https://dev.to/aigistry/ai-citation-registries-and-standardization-constraints-in-ai-parsing-1536)
-- [I Built My Own System Design Tool Because Nothing Free Was Good Enough](https://dev.to/gobare13/i-built-my-own-system-design-tool-because-nothing-free-was-good-enough-3o72)
+- [How to turn any webpage into structured data for your LLM](https://dev.to/0xmassi/how-to-turn-any-webpage-into-structured-data-for-your-llm-31o2)
+- [How I Fixed Claude&#39;s Math Problem with 100 Lines of MCP Code](https://dev.to/yonatan_naor_5642e43447ea/how-i-fixed-claudes-math-problem-with-100-lines-of-mcp-code-3hi6)
+- [Stop letting your database dictate your TypeScript domain logic](https://dev.to/dogganidhal/stop-letting-your-database-dictate-your-typescript-domain-logic-kf5)
+- [We reverse-engineered KAIROS from the Claude Code leak. Here&#39;s the open version.](https://dev.to/mike_w_06c113a8d0bb14c793/we-reverse-engineered-kairos-from-the-claude-code-leak-heres-the-open-version-48dc)
+- [Time Spender v1](https://dev.to/alexandr_tokarev/time-spender-v1-4e4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
