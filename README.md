@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The All-in-One Local AI App: Chat + Images + Video Without the Cloud](https://dev.to/purpledoubled/the-all-in-one-local-ai-app-chat-images-video-without-the-cloud-2b51)
-- [Claude Code Just Fixed Terminal Flickering &lpar;How to Enable NO_FLICKER Mode&rpar;](https://dev.to/raxxostudios/claude-code-just-fixed-terminal-flickering-how-to-enable-noflicker-mode-apf)
-- [How to use a Claude Subscription in Cursor without paying for API tokens](https://dev.to/orchidfiles/how-to-use-a-claude-subscription-in-cursor-without-paying-for-api-tokens-1bfa)
-- [9 Things You’re Overengineering &lpar;The Browser Already Solved Them&rpar;](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [How I Built a Desktop AI App with Tauri v2 + React 19 in 2026](https://dev.to/purpledoubled/how-i-built-a-desktop-ai-app-with-tauri-v2-react-19-in-2026-1g47)
+- [I rebuilt VS Code on Tauri instead of Electron and just open-sourced it](https://dev.to/kendallbooker/i-rebuilt-vs-code-on-tauri-instead-of-electron-and-just-open-sourced-it-53ao)
+- [Backpropagation Demystified: Neural Nets from First Principles](https://dev.to/berkan_sesen/backpropagation-demystified-neural-nets-from-first-principles-4303)
+- [Array Data Structure সহজভাবে বুঝুন &lpar;Operations + Real-Life Example&rpar;](https://dev.to/mohammad_alamin_a95501e7/array-data-structure-shjbhaabe-bujhun-operations-real-life-example-39m0)
+- [axios@1.14.1 Tedarik Zinciri Saldırısı: Şimdi Ne Yapmalı](https://dev.to/tobiass_hoffmann/axios1141-tedarik-zinciri-saldirisi-simdi-ne-yapmali-193a)
+- [axios 1.14.1 โดนโจมตี: วิธีรับมือและป้องกัน](https://dev.to/thanawat_wonchai/axios-1141-odnocchmtii-withiirabmuueaelapngkan-465f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
