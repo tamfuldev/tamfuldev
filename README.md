@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I rebuilt VS Code on Tauri instead of Electron and just open-sourced it](https://dev.to/kendallbooker/i-rebuilt-vs-code-on-tauri-instead-of-electron-and-just-open-sourced-it-53ao)
-- [Backpropagation Demystified: Neural Nets from First Principles](https://dev.to/berkan_sesen/backpropagation-demystified-neural-nets-from-first-principles-4303)
-- [Array Data Structure সহজভাবে বুঝুন &lpar;Operations + Real-Life Example&rpar;](https://dev.to/mohammad_alamin_a95501e7/array-data-structure-shjbhaabe-bujhun-operations-real-life-example-39m0)
-- [axios@1.14.1 Tedarik Zinciri Saldırısı: Şimdi Ne Yapmalı](https://dev.to/tobiass_hoffmann/axios1141-tedarik-zinciri-saldirisi-simdi-ne-yapmali-193a)
-- [axios 1.14.1 โดนโจมตี: วิธีรับมือและป้องกัน](https://dev.to/thanawat_wonchai/axios-1141-odnocchmtii-withiirabmuueaelapngkan-465f)
+- [Addressing Common Developer Criticisms of Python: Balancing Strengths and Weaknesses](https://dev.to/serbyte/addressing-common-developer-criticisms-of-python-balancing-strengths-and-weaknesses-3pm3)
+- [Debugging a CLI Tool Blindspot: Why &quot;Reload&quot; Commands Don&#39;t Always Reload Everything](https://dev.to/bailorgana/debugging-a-cli-tool-blindspot-why-reload-commands-dont-always-reload-everything-55g8)
+- [I built a zero-dependency portfolio template — here&#39;s what I learned](https://dev.to/diyoriko/i-built-a-zero-dependency-portfolio-template-heres-what-i-learned-1koh)
+- [I built a 1500-Level Puzzle Game in Pure Vanilla JS &lpar;And how AI helped me solve the hardest part&rpar;](https://dev.to/moksh_jalendra_e5cdf12bbc/i-built-a-1500-level-puzzle-game-in-pure-vanilla-js-and-how-ai-helped-me-solve-the-hardest-part-2m6o)
+- [Building a Robust E-Signature Workflow: Lessons from an HRMS Implementation.](https://dev.to/gauravrathore2u/building-a-robust-e-signature-workflow-lessons-from-an-hrms-implementation-1pb2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
