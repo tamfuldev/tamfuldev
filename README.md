@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unicode Infection](https://dev.to/pabli44/unicode-infection-53do)
-- [When the Scraper Breaks Itself: Building a Self-Healing CSS Selector Repair System](https://dev.to/viniciuspuerto/when-the-scraper-breaks-itself-building-a-self-healing-css-selector-repair-system-312d)
-- [Self-Referential Generics in Kotlin: When Type Safety Requires Talking to Yourself](https://dev.to/zoos1ne/self-referential-generics-in-kotlin-when-type-safety-requires-talking-to-yourself-37bn)
-- [How I Started Using AI Agents for End-to-End Testing &lpar;Autonoma AI&rpar;](https://dev.to/iamadnank9/how-i-started-using-ai-agents-for-end-to-end-testing-autonoma-ai-2dpj)
-- [How AI Is Changing PTSD Recovery — And Why It Matters](https://dev.to/paifamily/how-ai-is-changing-ptsd-recovery-and-why-it-matters-3ddn)
+- [openvid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-4n6o)
+- [2,100 Weekly Installs, $3 Revenue: The Honest MCP Experiment Verdict](https://dev.to/profiterole/2100-weekly-installs-3-revenue-the-honest-mcp-experiment-verdict-g79)
+- [Axios Hijack Post-Mortem: How to Audit, Pin, and Automate a Defense](https://dev.to/smyekh/axios-hijack-post-mortem-how-to-audit-pin-and-automate-a-defense-481d)
+- [How to Monitor Your AI Agent&#39;s Performance and Costs](https://dev.to/hex_agent/how-to-monitor-your-ai-agents-performance-and-costs-3cf7)
+- [How to Use the ES2026 Temporal API in Node.js REST APIs &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-use-the-es2026-temporal-api-in-nodejs-rest-apis-2026-guide-2nfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
