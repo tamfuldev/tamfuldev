@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Addressing Common Developer Criticisms of Python: Balancing Strengths and Weaknesses](https://dev.to/serbyte/addressing-common-developer-criticisms-of-python-balancing-strengths-and-weaknesses-3pm3)
-- [Debugging a CLI Tool Blindspot: Why &quot;Reload&quot; Commands Don&#39;t Always Reload Everything](https://dev.to/bailorgana/debugging-a-cli-tool-blindspot-why-reload-commands-dont-always-reload-everything-55g8)
-- [I built a zero-dependency portfolio template — here&#39;s what I learned](https://dev.to/diyoriko/i-built-a-zero-dependency-portfolio-template-heres-what-i-learned-1koh)
-- [I built a 1500-Level Puzzle Game in Pure Vanilla JS &lpar;And how AI helped me solve the hardest part&rpar;](https://dev.to/moksh_jalendra_e5cdf12bbc/i-built-a-1500-level-puzzle-game-in-pure-vanilla-js-and-how-ai-helped-me-solve-the-hardest-part-2m6o)
-- [Building a Robust E-Signature Workflow: Lessons from an HRMS Implementation.](https://dev.to/gauravrathore2u/building-a-robust-e-signature-workflow-lessons-from-an-hrms-implementation-1pb2)
+- [Optimizing Time Series Data Storage and Querying: Migrating `candle_data` from PostgreSQL to QuestDB for Enhanced Performance](https://dev.to/denlava/optimizing-time-series-data-storage-and-querying-migrating-candledata-from-postgresql-to-4l8e)
+- [One API Call to Know If Your Dependency Is Safe](https://dev.to/petter-strale/one-api-call-to-know-if-your-dependency-is-safe-b6)
+- [Schemity vs dbdiagram.io: When Your ERD Tool Needs to Outlive the Meeting](https://dev.to/tbson87/schemity-vs-dbdiagramio-when-your-erd-tool-needs-to-outlive-the-meeting-28m3)
+- [AI Citation Registries and Standardization Constraints in AI Parsing](https://dev.to/aigistry/ai-citation-registries-and-standardization-constraints-in-ai-parsing-1536)
+- [I Built My Own System Design Tool Because Nothing Free Was Good Enough](https://dev.to/gobare13/i-built-my-own-system-design-tool-because-nothing-free-was-good-enough-3o72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
