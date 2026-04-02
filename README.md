@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to turn any webpage into structured data for your LLM](https://dev.to/0xmassi/how-to-turn-any-webpage-into-structured-data-for-your-llm-31o2)
-- [How I Fixed Claude&#39;s Math Problem with 100 Lines of MCP Code](https://dev.to/yonatan_naor_5642e43447ea/how-i-fixed-claudes-math-problem-with-100-lines-of-mcp-code-3hi6)
-- [Stop letting your database dictate your TypeScript domain logic](https://dev.to/dogganidhal/stop-letting-your-database-dictate-your-typescript-domain-logic-kf5)
-- [We reverse-engineered KAIROS from the Claude Code leak. Here&#39;s the open version.](https://dev.to/mike_w_06c113a8d0bb14c793/we-reverse-engineered-kairos-from-the-claude-code-leak-heres-the-open-version-48dc)
-- [Time Spender v1](https://dev.to/alexandr_tokarev/time-spender-v1-4e4)
+- [Testing Angular Components by Properties with Playwright](https://dev.to/vitalicset/testing-angular-components-by-properties-with-playwright-33jj)
+- [Why I Built My Own Site and Stopped Publishing Only on Other Platforms. The POSSE Principle](https://dev.to/naderevo/why-i-built-my-own-site-and-stopped-publishing-only-on-other-platforms-the-posse-principle-3pkg)
+- [Building an AI Video Clipping Pipeline: Architecture, Tradeoffs, and What We Learned](https://dev.to/kyle_clipspeedai/building-an-ai-video-clipping-pipeline-architecture-tradeoffs-and-what-we-learned-2e9h)
+- [Anthropic Leaked Its Own Source Code and May Not Own It](https://dev.to/ticktockbent/anthropic-leaked-its-own-source-code-and-may-not-own-it-3j3l)
+- [Building a 100% Client-Side PDF &amp; Image Studio &lpar;Zero Server Uploads&rpar; 🚀](https://dev.to/skeg_16/building-a-100-client-side-pdf-image-studio-zero-server-uploads-34n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
