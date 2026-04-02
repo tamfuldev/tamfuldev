@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Accessibility Testing Isn’t Optional Anymore](https://dev.to/tarunasdet/why-accessibility-testing-isnt-optional-anymore-17pk)
-- [I Replaced My Morning Routine with an AI Briefing System](https://dev.to/toji_openclaw_fd3ff67586a/i-replaced-my-morning-routine-with-an-ai-briefing-system-13ee)
-- [SVG animation. Introduction](https://dev.to/jsha/svg-animation-introduction-pj5)
-- [Building a Browser-Based Image Blur Tool with Canvas API &lpar;No Libraries&rpar;](https://dev.to/shaishav_patel_271fdcd61a/building-a-browser-based-image-blur-tool-with-canvas-api-no-libraries-3g8h)
-- [How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl)
+- [Gemini Vision](https://dev.to/sidarth_kb/gemini-vision-330n)
+- [Stop Chasing Scroll with JavaScript: A Deep Dive into CSS Scroll-Driven Animations](https://dev.to/tu_codigocotidiano_f173d/stop-chasing-scroll-with-javascript-a-deep-dive-into-css-scroll-driven-animations-4alg)
+- [The Exit Criteria Pattern: Know When to Stop Iterating with AI](https://dev.to/novaelvaris/the-exit-criteria-pattern-know-when-to-stop-iterating-with-ai-lb0)
+- [Traycer vs Antigravity: Fast Planning vs Structured Planning](https://dev.to/filiksyos/traycer-vs-antigravity-fast-planning-vs-structured-planning-557h)
+- [Common and manual Testing Technique and future manual testing in the Age of AI](https://dev.to/priya_dharshini_700bf344e/common-and-manual-testing-technique-and-future-manual-testing-in-the-age-of-ai-1h0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
