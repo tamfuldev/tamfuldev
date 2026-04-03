@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of XML Doc Comments, So I Built My Own Visual Studio Extension](https://dev.to/akp_2806/i-got-tired-of-xml-doc-comments-so-i-built-my-own-visual-studio-extension-3hd6)
-- [Product-Market Fit: 25 Signs You Have It + The Complete Measurement Checklist](https://dev.to/iris1031/product-market-fit-25-signs-you-have-it-the-complete-measurement-checklist-1mgc)
-- [Slack vs Microsoft Teams in 2026: I Analyzed Both for 6 Months : Here&#39;s What Most Reviews Won&#39;t Tell You](https://dev.to/trulycritic/slack-vs-microsoft-teams-in-2026-i-analyzed-both-for-6-months-heres-what-most-reviews-wont-49jm)
-- [Zero Trust for AI Agents: Why Identity-Based Security Collapses When Machines Call the Shots](https://dev.to/mattdeangit/zero-trust-for-ai-agents-why-identity-based-security-collapses-when-machines-call-the-shots-56gb)
-- [Navigating IoT Connectivity: BLE vs. Wi-Fi for Your Next Android Project](https://dev.to/ble_advertiser/navigating-iot-connectivity-ble-vs-wi-fi-for-your-next-android-project-49cf)
+- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
+- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
+- [WebMCP Explained: The New Standard That Turns Websites Into APIs for AI Agents](https://dev.to/lazyasscoder/webmcp-explained-the-new-standard-that-turns-websites-into-apis-for-ai-agents-38l)
+- [I’m a Python Developer — So I Built a Better IAM System for Laravel](https://dev.to/apurba_singh_196f99885e48/im-a-python-developer-so-i-built-a-better-iam-system-for-laravel-gah)
+- [How I solved AI context fragmentation between Claude, ChatGPT, and Cursor](https://dev.to/nolynchong/how-i-solved-ai-context-fragmentation-between-claude-chatgpt-and-cursor-5bnm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
