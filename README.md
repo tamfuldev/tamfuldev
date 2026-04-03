@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated a Faceless YouTube Channel That Runs Without Me &lpar;Code + Architecture&rpar;](https://dev.to/wedgemethoddev/how-i-automated-a-faceless-youtube-channel-that-runs-without-me-code-architecture-1fn8)
-- [What Is Agentic QA Testing?](https://dev.to/hai_huang_f196ed9669351e0/what-is-agentic-qa-testing-4dpl)
-- [Understanding Script vs Function Arguments in Bash](https://dev.to/nagesh_k_2003/understanding-script-vs-function-arguments-in-bash-3l9p)
-- [Locators Are a Cache, Not a Contract: A Mental Model for E2E Tests That Actually Survive](https://dev.to/hai_huang_f196ed9669351e0/locators-are-a-cache-not-a-contract-a-mental-model-for-e2e-tests-that-actually-survive-3edo)
-- [How to Build an AI News Monitor: Scrape, Summarize, and Score Industry Stories Automatically](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-an-ai-news-monitor-scrape-summarize-and-score-industry-stories-automatically-3ofn)
+- [Full Stack Web Developer Roadmap 2026: Complete Guide from Beginner to Advanced](https://dev.to/developerhint/full-stack-web-developer-roadmap-2026-complete-guide-from-beginner-to-advanced-fam)
+- [Okay, What is Redis?](https://dev.to/arunkrish11/okay-what-is-redis-447c)
+- [Tailscale&#39;s New macOS Home: What&#39;s Changed?](https://dev.to/onsen/tailscales-new-macos-home-whats-changed-25ej)
+- [Forged Between Coal and Code](https://dev.to/anchildress1/forged-between-coal-and-code-phi)
+- [Collaborative_agents_V2](https://dev.to/mijin-vt_9725fb546e933c/collaborativeagentsv2-28h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
