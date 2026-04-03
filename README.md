@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BullMQ + Node.js: Replace 50 Cron Jobs with Smart Queues](https://dev.to/_1353e04f14b156240b/bullmq-nodejs-replace-50-cron-jobs-with-smart-queues-3j3n)
-- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
-- [The Dependency Firewall: Isolate AI Changes So One Bad Prompt Can&#39;t Break Your Build](https://dev.to/novaelvaris/the-dependency-firewall-isolate-ai-changes-so-one-bad-prompt-cant-break-your-build-3f6g)
-- [Why I built a SQLite workbench in bash](https://dev.to/fissible/why-i-built-a-sqlite-workbench-in-bash-3m5o)
-- [Can We Ever Achieve a Utopian Release?](https://dev.to/trinityyi/can-we-ever-achieve-a-utopian-release-ggf)
+- [Augmenting Phantom With Auth0 Authority](https://dev.to/youneslaaroussi/augmenting-phantom-with-auth0-authority-360a)
+- [I reverse-engineered X&#39;s open-source algorithm into a Chrome extension that predicts your reach before you post](https://dev.to/aytuncyildizli/i-reverse-engineered-xs-open-source-algorithm-into-a-chrome-extension-that-predicts-your-reach-5hmd)
+- [From REST API to MCP Server: How I Gave AI Agents Native Access to Korean Web Data](https://dev.to/sessionzero_ai/from-rest-api-to-mcp-server-how-i-gave-ai-agents-native-access-to-korean-web-data-1anp)
+- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0)
+- [JavaScript substring&lpar;&rpar; Method: Complete Guide with Examples](https://dev.to/rahulxsingh/javascript-substring-method-complete-guide-with-examples-3l99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
