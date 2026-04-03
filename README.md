@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
-- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
-- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl)
-- [AI-Based Medicinal Plant Leaf Analysis System](https://dev.to/surya_saketh_2ad73f686fdf/ai-based-medicinal-plant-leaf-analysis-system-3pj6)
-- [I Was Paying $0.006 Per URL for SEO Audits Until I Realized Most Needed $0](https://dev.to/dannwaneri/i-was-paying-0006-per-url-for-seo-audits-until-i-realized-most-needed-0-132j)
+- [Gemma 4: A Practical Guide for Developers](https://dev.to/arshtechpro/gemma-4-a-practical-guide-for-developers-2co5)
+- [Google Gemma 4: Complete Guide — Benchmarks, Use Cases, and How to Run It Locally for Free](https://dev.to/cristiantalasanchez/google-gemma-4-complete-guide-benchmarks-use-cases-and-how-to-run-it-locally-for-free-17a1)
+- [I Built a Journal App That Organizes Your Thoughts With AI](https://dev.to/diven_rastdus_c5af27d68f3/i-built-a-journal-app-that-organizes-your-thoughts-with-ai-2ppi)
+- [How Phishing Websites Trick Users and How to Detect Them](https://dev.to/james_smith_543/how-phishing-websites-trick-users-and-how-to-detect-them-2h6)
+- [Migrating from Claude Sub-agents to duckflux](https://dev.to/ggondim/migrating-from-claude-sub-agents-to-duckflux-d9e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
