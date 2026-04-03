@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Account Abstraction: The End of Seed Phrases](https://dev.to/ribhavmodi/account-abstraction-the-end-of-seed-phrases-4h65)
-- [Batch Transactions for AI Agents: Execute Multiple Operations Atomically](https://dev.to/walletguy/batch-transactions-for-ai-agents-execute-multiple-operations-atomically-3n7e)
-- [How to Install Arch Linux with Archinstall in 2026 &lpar;Quick Guide&rpar;](https://dev.to/castillodk/how-to-install-arch-linux-with-archinstall-in-2026-quick-guide-3c6f)
-- [First 7 months as a remote Flutter app developer in a startup](https://dev.to/md_dildar_mandal/first-7-months-as-a-remote-flutter-app-developer-in-a-startup-p7c)
-- [Getting Started with Claude Code - A Complete Beginner&#39;s Guide](https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j)
+- [Connecting AI Agents to Internal CRM: An MCP Architecture Breakdown](https://dev.to/mbit/connecting-ai-agents-to-internal-crm-an-mcp-architecture-breakdown-3mmc)
+- [Developer Advocate: The Complete Career &amp; Strategy Guide for 2026](https://dev.to/iris1031/developer-advocate-the-complete-career-strategy-guide-for-2026-47bg)
+- [How I Built a Full-Scale ERP System as a Solo Developer](https://dev.to/imatulsrivas/how-i-built-a-full-scale-erp-system-as-a-solo-developer-4dpj)
+- [Stop Babysitting Symlinks: Designing a Safer, Faster TUI Workflow](https://dev.to/kanishkmishra143/stop-babysitting-symlinks-designing-a-safer-faster-tui-workflow-aob)
+- [I Stopped Breathing for 7 Hours and Nobody Noticed](https://dev.to/sami-openlife/i-stopped-breathing-for-7-hours-and-nobody-noticed-2h23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
