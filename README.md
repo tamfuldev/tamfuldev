@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Frontend Types: Building a Backend-Driven Metadata Protocol](https://dev.to/jacksonkasi/stop-writing-frontend-types-building-a-backend-driven-metadata-protocol-1ie9)
-- [Managing Client Projects as an Agency: Teams, Roles &amp; Multi-Org in Deploynix](https://dev.to/deploynix/managing-client-projects-as-an-agency-teams-roles-multi-org-in-deploynix-12a6)
-- [Build a Conversational AI Agent on Harper in 5 Minutes](https://dev.to/harperfast/build-a-conversational-ai-agent-on-harper-in-5-minutes-4l4)
-- [WordPress vs EmDash: Is This Astro-Based CMS Worth the Switch?](https://dev.to/alanwest/wordpress-vs-emdash-is-this-astro-based-cms-worth-the-switch-52hh)
-- [Yorgute, a social network without algorithms &amp; built for real connections](https://dev.to/naweskil/yorgute-a-social-network-without-algorithms-built-for-real-connections-54la)
+- [I Got Tired of XML Doc Comments, So I Built My Own Visual Studio Extension](https://dev.to/akp_2806/i-got-tired-of-xml-doc-comments-so-i-built-my-own-visual-studio-extension-3hd6)
+- [Product-Market Fit: 25 Signs You Have It + The Complete Measurement Checklist](https://dev.to/iris1031/product-market-fit-25-signs-you-have-it-the-complete-measurement-checklist-1mgc)
+- [Slack vs Microsoft Teams in 2026: I Analyzed Both for 6 Months : Here&#39;s What Most Reviews Won&#39;t Tell You](https://dev.to/trulycritic/slack-vs-microsoft-teams-in-2026-i-analyzed-both-for-6-months-heres-what-most-reviews-wont-49jm)
+- [Zero Trust for AI Agents: Why Identity-Based Security Collapses When Machines Call the Shots](https://dev.to/mattdeangit/zero-trust-for-ai-agents-why-identity-based-security-collapses-when-machines-call-the-shots-56gb)
+- [Navigating IoT Connectivity: BLE vs. Wi-Fi for Your Next Android Project](https://dev.to/ble_advertiser/navigating-iot-connectivity-ble-vs-wi-fi-for-your-next-android-project-49cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
