@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Power BI Data Integration: A Practical Approach to Working with Multiple Data Sources](https://dev.to/adeniran_shukroh/power-bi-data-integration-a-practical-approach-to-working-with-multiple-data-sources-1p0)
-- [Claude Code Skills Have a Model Field. Here&#39;s Why You Should Be Using It.](https://dev.to/ithiria894/claude-code-skills-have-a-model-field-heres-why-you-should-be-using-it-iha)
-- [Building a trading dashboard UI with zero JavaScript — just st-core.fscss](https://dev.to/fscss/building-a-trading-dashboard-ui-with-zero-javascript-just-st-corefscss-o7f)
-- [RadioLlama: The Radio Player That Finally Listens to You &lpar;Not the Ads&rpar;](https://dev.to/joonaskarh63513/radiollama-the-radio-player-that-finally-listens-to-you-not-the-ads-56ml)
-- [Cómo recorrer arrays en React &lpar;La forma correcta&rpar;](https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8)
+- [How I Automated a Faceless YouTube Channel That Runs Without Me &lpar;Code + Architecture&rpar;](https://dev.to/wedgemethoddev/how-i-automated-a-faceless-youtube-channel-that-runs-without-me-code-architecture-1fn8)
+- [What Is Agentic QA Testing?](https://dev.to/hai_huang_f196ed9669351e0/what-is-agentic-qa-testing-4dpl)
+- [Understanding Script vs Function Arguments in Bash](https://dev.to/nagesh_k_2003/understanding-script-vs-function-arguments-in-bash-3l9p)
+- [Locators Are a Cache, Not a Contract: A Mental Model for E2E Tests That Actually Survive](https://dev.to/hai_huang_f196ed9669351e0/locators-are-a-cache-not-a-contract-a-mental-model-for-e2e-tests-that-actually-survive-3edo)
+- [How to Build an AI News Monitor: Scrape, Summarize, and Score Industry Stories Automatically](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-an-ai-news-monitor-scrape-summarize-and-score-industry-stories-automatically-3ofn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
