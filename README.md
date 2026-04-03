@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab Code Review: Best Tools and Practices &lpar;2026&rpar;](https://dev.to/rahulxsingh/gitlab-code-review-best-tools-and-practices-2026-3clb)
-- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
-- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
-- [Woman&#39;s Day: Be Yourself](https://dev.to/stuxint/womans-day-be-yourself-5d8e)
-- [The Real Goal of Building a Trading Bot: Removing Yourself from the Loop](https://dev.to/maymay5692/--5f4k)
+- [Power BI Data Integration: A Practical Approach to Working with Multiple Data Sources](https://dev.to/adeniran_shukroh/power-bi-data-integration-a-practical-approach-to-working-with-multiple-data-sources-1p0)
+- [Claude Code Skills Have a Model Field. Here&#39;s Why You Should Be Using It.](https://dev.to/ithiria894/claude-code-skills-have-a-model-field-heres-why-you-should-be-using-it-iha)
+- [Building a trading dashboard UI with zero JavaScript — just st-core.fscss](https://dev.to/fscss/building-a-trading-dashboard-ui-with-zero-javascript-just-st-corefscss-o7f)
+- [RadioLlama: The Radio Player That Finally Listens to You &lpar;Not the Ads&rpar;](https://dev.to/joonaskarh63513/radiollama-the-radio-player-that-finally-listens-to-you-not-the-ads-56ml)
+- [Cómo recorrer arrays en React &lpar;La forma correcta&rpar;](https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
