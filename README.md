@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
-- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
-- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
-- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
-- [Turborepo 2.9, React Fiber explained, jal-co/ui, Next.js Mental Model, useOffline, Debug React with AI](https://dev.to/erfanebrahimnia/turborepo-29-react-fiber-explained-jal-coui-nextjs-mental-model-useoffline-debug-react-with-h4p)
+- [Database Performance Issues in Production: Identifying and Resolving Masked Problems from Small-Scale Testing](https://dev.to/denlava/database-performance-issues-in-production-identifying-and-resolving-masked-problems-from-4981)
+- [Days Since Last Credential Leak: 0](https://dev.to/mahou_anisphia/days-since-last-credential-leak-0-4oh7)
+- [Engineering Backpressure: Keeping AI-Generated Code Honest Across 10 SvelteKit Repos](https://dev.to/rickcogley/engineering-backpressure-keeping-ai-generated-code-honest-across-10-sveltekit-repos-3foi)
+- [Securing Asgard: Why I Built a Card Game Suite for Docker Security](https://dev.to/aerabi/securing-asgard-why-i-built-a-card-game-suite-for-docker-security-32hn)
+- [Agentic Engineering Journey — Brain Dump](https://dev.to/irrindar/agentic-engineering-journey-brain-dump-41gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
