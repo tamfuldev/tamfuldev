@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Web Developer Roadmap 2026: Complete Guide from Beginner to Advanced](https://dev.to/developerhint/full-stack-web-developer-roadmap-2026-complete-guide-from-beginner-to-advanced-fam)
-- [Okay, What is Redis?](https://dev.to/arunkrish11/okay-what-is-redis-447c)
-- [Tailscale&#39;s New macOS Home: What&#39;s Changed?](https://dev.to/onsen/tailscales-new-macos-home-whats-changed-25ej)
-- [Forged Between Coal and Code](https://dev.to/anchildress1/forged-between-coal-and-code-phi)
-- [Collaborative_agents_V2](https://dev.to/mijin-vt_9725fb546e933c/collaborativeagentsv2-28h4)
+- [Account Abstraction: The End of Seed Phrases](https://dev.to/ribhavmodi/account-abstraction-the-end-of-seed-phrases-4h65)
+- [Batch Transactions for AI Agents: Execute Multiple Operations Atomically](https://dev.to/walletguy/batch-transactions-for-ai-agents-execute-multiple-operations-atomically-3n7e)
+- [How to Install Arch Linux with Archinstall in 2026 &lpar;Quick Guide&rpar;](https://dev.to/castillodk/how-to-install-arch-linux-with-archinstall-in-2026-quick-guide-3c6f)
+- [First 7 months as a remote Flutter app developer in a startup](https://dev.to/md_dildar_mandal/first-7-months-as-a-remote-flutter-app-developer-in-a-startup-p7c)
+- [Getting Started with Claude Code - A Complete Beginner&#39;s Guide](https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
