@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Augmenting Phantom With Auth0 Authority](https://dev.to/youneslaaroussi/augmenting-phantom-with-auth0-authority-360a)
-- [I reverse-engineered X&#39;s open-source algorithm into a Chrome extension that predicts your reach before you post](https://dev.to/aytuncyildizli/i-reverse-engineered-xs-open-source-algorithm-into-a-chrome-extension-that-predicts-your-reach-5hmd)
-- [From REST API to MCP Server: How I Gave AI Agents Native Access to Korean Web Data](https://dev.to/sessionzero_ai/from-rest-api-to-mcp-server-how-i-gave-ai-agents-native-access-to-korean-web-data-1anp)
-- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0)
-- [JavaScript substring&lpar;&rpar; Method: Complete Guide with Examples](https://dev.to/rahulxsingh/javascript-substring-method-complete-guide-with-examples-3l99)
+- [I Built a Real-Time Artemis II 3D Tracker in One Session — Here&#39;s the Engineering Pipeline That Made It Possible](https://dev.to/usewrought/i-built-a-real-time-artemis-ii-3d-tracker-in-one-session-heres-the-engineering-pipeline-that-1h11)
+- [What Is a Multi-Model Database and Why It Matters](https://dev.to/nodedb/what-is-a-multi-model-database-and-why-it-matters-1c8c)
+- [9 Things I Did Wrong Building My Image Tool &lpar;And What Actually Fixed Them&rpar;](https://dev.to/relahconvert/9-things-i-did-wrong-building-my-image-tool-and-what-actually-fixed-them-326l)
+- [No-Code Page Builders vs Custom Development: A Strategic Decision Framework for Marketing Teams and Developers](https://dev.to/jasonbiondo/no-code-page-builders-vs-custom-development-a-strategic-decision-framework-for-marketing-teams-and-5c30)
+- [The AI Coding War Is Over. Nobody Won.](https://dev.to/pudgycat/the-ai-coding-war-is-over-nobody-won-52g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
