@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Something I wish someone had told me five years earlier:](https://dev.to/neeraja_khanapure_4a33a5f/something-i-wish-someone-had-told-me-five-years-earlier-4lo7)
-- [Debugging XSLT vs Liquid in VS Code](https://dev.to/imdj/debugging-xslt-vs-liquid-in-vs-code-32h4)
-- [Why Prompt Injection Hits Harder in MCP: Scope Constraints and Blast Radius](https://dev.to/supertrained/why-prompt-injection-hits-harder-in-mcp-scope-constraints-and-blast-radius-5d8o)
-- [Debug DotLiquid Templates Locally with the VS Code DotLiquid Debugger](https://dev.to/imdj/debug-dotliquid-templates-locally-with-the-vs-code-dotliquid-debugger-2eb3)
-- [Liquid Templates in Azure Logic Apps: What They Are and Why They Matter](https://dev.to/imdj/liquid-templates-in-azure-logic-apps-what-they-are-and-why-they-matter-323e)
+- [418 Teapot in Your Terminal](https://dev.to/harshith_halejolad/418-teapot-in-your-terminal-ilb)
+- [How to Architect Your Ecommerce Platform for Growth: Startup to Enterprise](https://dev.to/inneraktive/how-to-architect-your-ecommerce-platform-for-growth-startup-to-enterprise-3lh9)
+- [How We Built an Autonomous Growth Engine with OpenClaw, MCP, and Clura](https://dev.to/rohith_m_a75381d0f1c3a358/how-we-built-an-autonomous-growth-engine-with-openclaw-mcp-and-clura-97c)
+- [I Benchmarked 3 Ways to Log in .NET : One Allocates Nothing](https://dev.to/jfmeyers/i-benchmarked-3-ways-to-log-in-net-one-allocates-nothing-25ok)
+- [iOS 27 Siri Extensions: Best AI Assistant for iPhone in 2026](https://dev.to/assindo/ios-27-siri-extensions-best-ai-assistant-for-iphone-in-2026-476p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
