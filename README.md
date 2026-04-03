@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [418 Teapot in Your Terminal](https://dev.to/harshith_halejolad/418-teapot-in-your-terminal-ilb)
-- [How to Architect Your Ecommerce Platform for Growth: Startup to Enterprise](https://dev.to/inneraktive/how-to-architect-your-ecommerce-platform-for-growth-startup-to-enterprise-3lh9)
-- [How We Built an Autonomous Growth Engine with OpenClaw, MCP, and Clura](https://dev.to/rohith_m_a75381d0f1c3a358/how-we-built-an-autonomous-growth-engine-with-openclaw-mcp-and-clura-97c)
-- [I Benchmarked 3 Ways to Log in .NET : One Allocates Nothing](https://dev.to/jfmeyers/i-benchmarked-3-ways-to-log-in-net-one-allocates-nothing-25ok)
-- [iOS 27 Siri Extensions: Best AI Assistant for iPhone in 2026](https://dev.to/assindo/ios-27-siri-extensions-best-ai-assistant-for-iphone-in-2026-476p)
+- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
+- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
+- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
+- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
+- [Turborepo 2.9, React Fiber explained, jal-co/ui, Next.js Mental Model, useOffline, Debug React with AI](https://dev.to/erfanebrahimnia/turborepo-29-react-fiber-explained-jal-coui-nextjs-mental-model-useoffline-debug-react-with-h4p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
