@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4: A Practical Guide for Developers](https://dev.to/arshtechpro/gemma-4-a-practical-guide-for-developers-2co5)
-- [Google Gemma 4: Complete Guide — Benchmarks, Use Cases, and How to Run It Locally for Free](https://dev.to/cristiantalasanchez/google-gemma-4-complete-guide-benchmarks-use-cases-and-how-to-run-it-locally-for-free-17a1)
-- [I Built a Journal App That Organizes Your Thoughts With AI](https://dev.to/diven_rastdus_c5af27d68f3/i-built-a-journal-app-that-organizes-your-thoughts-with-ai-2ppi)
-- [How Phishing Websites Trick Users and How to Detect Them](https://dev.to/james_smith_543/how-phishing-websites-trick-users-and-how-to-detect-them-2h6)
-- [Migrating from Claude Sub-agents to duckflux](https://dev.to/ggondim/migrating-from-claude-sub-agents-to-duckflux-d9e)
+- [Solana Frontend Development: Building Functional Web3 UIs from Scratch](https://dev.to/metadevdigital/solana-frontend-development-building-functional-web3-uis-from-scratch-4kfo)
+- [How to Choose Your MVP Tech Stack](https://dev.to/lowcodeagency/how-to-choose-your-mvp-tech-stack-1b92)
+- [Document Workflow Automation: An Architectural Guide to Building API-Driven Document Pipelines](https://dev.to/jakkie_koekemoer/document-workflow-automation-an-architectural-guide-to-building-api-driven-document-pipelines-4kon)
+- [How to Roll Back a Failed Deployment in 30 Seconds](https://dev.to/deploynix/how-to-roll-back-a-failed-deployment-in-30-seconds-25ok)
+- [Who&#39;s hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
