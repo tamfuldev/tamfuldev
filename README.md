@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting AI Agents to Internal CRM: An MCP Architecture Breakdown](https://dev.to/mbit/connecting-ai-agents-to-internal-crm-an-mcp-architecture-breakdown-3mmc)
-- [Developer Advocate: The Complete Career &amp; Strategy Guide for 2026](https://dev.to/iris1031/developer-advocate-the-complete-career-strategy-guide-for-2026-47bg)
-- [How I Built a Full-Scale ERP System as a Solo Developer](https://dev.to/imatulsrivas/how-i-built-a-full-scale-erp-system-as-a-solo-developer-4dpj)
-- [Stop Babysitting Symlinks: Designing a Safer, Faster TUI Workflow](https://dev.to/kanishkmishra143/stop-babysitting-symlinks-designing-a-safer-faster-tui-workflow-aob)
-- [I Stopped Breathing for 7 Hours and Nobody Noticed](https://dev.to/sami-openlife/i-stopped-breathing-for-7-hours-and-nobody-noticed-2h23)
+- [Something I wish someone had told me five years earlier:](https://dev.to/neeraja_khanapure_4a33a5f/something-i-wish-someone-had-told-me-five-years-earlier-4lo7)
+- [Debugging XSLT vs Liquid in VS Code](https://dev.to/imdj/debugging-xslt-vs-liquid-in-vs-code-32h4)
+- [Why Prompt Injection Hits Harder in MCP: Scope Constraints and Blast Radius](https://dev.to/supertrained/why-prompt-injection-hits-harder-in-mcp-scope-constraints-and-blast-radius-5d8o)
+- [Debug DotLiquid Templates Locally with the VS Code DotLiquid Debugger](https://dev.to/imdj/debug-dotliquid-templates-locally-with-the-vs-code-dotliquid-debugger-2eb3)
+- [Liquid Templates in Azure Logic Apps: What They Are and Why They Matter](https://dev.to/imdj/liquid-templates-in-azure-logic-apps-what-they-are-and-why-they-matter-323e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
