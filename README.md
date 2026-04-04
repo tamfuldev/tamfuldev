@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
-- [MCP Connector Poisoning: How Compromised npm Packages Hijack Your AI Agent](https://dev.to/toniantunovic/mcp-connector-poisoning-how-compromised-npm-packages-hijack-your-ai-agent-3ha0)
-- [Deduplicating 401,000 Equipment Auction Records with LLM Calibration](https://dev.to/benzsevern/deduplicating-401000-equipment-auction-records-with-llm-calibration-1knn)
-- [AI-Powered Deduplication: How LLMs Supercharge the Golden Suite](https://dev.to/benzsevern/ai-powered-deduplication-how-llms-supercharge-the-golden-suite-38pp)
-- [# The Useless Machine™ 🫖 - A Premium Enterprise SaaS That Solves Absolutely Nothing](https://dev.to/kanyingidickson-dev/-the-useless-machine-a-premium-enterprise-saas-that-solves-absolutely-nothing-15n8)
+- [Intelligence-per-Token: Why AI&#39;s Cost Problem Is Forcing a Reckoning in 2026](https://dev.to/om_shree_0709/intelligence-per-token-why-ais-cost-problem-is-forcing-a-reckoning-in-2026-40ja)
+- [Why I Self-Host 7 RTX 5090 GPUs Instead of Using Cloud AI](https://dev.to/zsky/why-i-self-host-7-rtx-5090-gpus-instead-of-using-cloud-ai-29d6)
+- [I built a CAPTCHA that never lets you leave](https://dev.to/southy404/i-built-a-captcha-that-never-lets-you-leave-do)
+- [Bridging the Gap: Enhancing Coding Education to Balance AI Tool Use with Fundamental Understanding](https://dev.to/svetlix/bridging-the-gap-enhancing-coding-education-to-balance-ai-tool-use-with-fundamental-understanding-445i)
+- [Two Supply Chain Attacks in Two Weeks - Why Defense-in-Depth Saved Me](https://dev.to/felixortizdev/two-supply-chain-attacks-in-two-weeks-why-defense-in-depth-saved-me-2nd7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
