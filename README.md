@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [01-VPC — AWS Private/Public Subnet Architecture](https://dev.to/recklessbud_19/01-vpc-aws-privatepublic-subnet-architecture-47be)
-- [I Built a Checkpoint System for Claude Code CLI — Never Lose Your Work Again](https://dev.to/alexdevson/i-built-a-checkpoint-system-for-claude-code-cli-never-lose-your-work-again-11fc)
-- [Como configurar o WSL para rodar em um HD externo](https://dev.to/jeanmfdias/como-configurar-o-wsl-para-rodar-em-um-hd-externo-315b)
-- [My 3-Month Startup Directory Submission Journey — What Actually Moved the Needle](https://dev.to/jim_l_efc70c3a738e9f4baa7/my-3-month-startup-directory-submission-journey-what-actually-moved-the-needle-gef)
-- [DualClip: multi-slot clipboard manager for macOS](https://dev.to/rakkunn/dualclip-multi-slot-clipboard-manager-44f5)
+- [Zero-Trust Capability Delegation for MCP Agents: How I Built AgentBond](https://dev.to/tvprasad/zero-trust-capability-delegation-for-mcp-agents-how-i-built-agentbond-4el1)
+- [How We Cut AI Infrastructure Costs by 80% for Enterprise Clients](https://dev.to/krunal_groovy/how-we-cut-ai-infrastructure-costs-by-80-for-enterprise-clients-24a7)
+- [I Open-Sourced Our Local SEO Data Collection Tool](https://dev.to/webpossible/i-open-sourced-our-local-seo-data-collection-tool-j54)
+- [9 MCP Resilience Patterns That Keep AI Agents Alive in Production &lpar;With Code&rpar;](https://dev.to/dohkoai/9-mcp-resilience-patterns-that-keep-ai-agents-alive-in-production-with-code-2ohi)
+- [Should we always use a hybrid encryption protocol to share information?](https://dev.to/nowi-security/should-we-always-use-a-hybrid-encryption-protocol-to-share-information-1h70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
