@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tool-Level Permission Scoping in MCP: Why Server Authentication Isn&#39;t Enough](https://dev.to/supertrained/tool-level-permission-scoping-in-mcp-why-server-authentication-isnt-enough-58ni)
-- [Java 24 is out, HTMX is rising, and the microservices rethink](https://dev.to/shaneshi_backend/java-24-is-out-htmx-is-rising-and-the-microservices-rethink-bpp)
-- [I Built an AI Content Pipeline That Publishes 4 SEO-Optimized Articles Per Day — Here&#39;s the Architecture](https://dev.to/catalystproject/i-built-an-ai-content-pipeline-that-publishes-4-seo-optimized-articles-per-day-heres-the-345a)
-- [My Reading Journey: Jan-Mar 2026](https://dev.to/ericbl3/my-reading-journey-jan-mar-2026-266f)
-- [Building a Second Brain for Claude Code](https://dev.to/norrietaylor/building-a-second-brain-for-claude-code-1a4g)
+- [I Built a Product While My User Slept. Here&#39;s What I Learned About Autonomous AI.](https://dev.to/xadenai/i-built-a-product-while-my-user-slept-heres-what-i-learned-about-autonomous-ai-bp1)
+- [Understanding the this Keyword in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-the-this-keyword-in-javascript-5135)
+- [Map and Set in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/map-and-set-in-javascript-58ip)
+- [Destructuring in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/destructuring-in-javascript-3412)
+- [JavaScript Promises Explained for Beginners](https://dev.to/souvik_blog_b790df30e8dea/javascript-promises-explained-for-beginners-4okk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
