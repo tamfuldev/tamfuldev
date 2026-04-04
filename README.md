@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Every Gemma 4 Model Locally on My MacBook - What Actually Works](https://dev.to/akartit/i-tested-every-gemma-4-model-locally-on-my-macbook-what-actually-works-3g2o)
-- [The ERP Is Dead: Why Your Business Needs an AI Operating System](https://dev.to/frihet/the-erp-is-dead-why-your-business-needs-an-ai-operating-system-25gc)
-- [Best Python Code Quality Tools Compared](https://dev.to/rahulxsingh/best-python-code-quality-tools-compared-5dfi)
-- [The Warrior&#39;s Planner](https://dev.to/prema_ananda/the-warriors-planner-ah)
-- [What % of your code was written by AI?](https://dev.to/nikoli/what-of-your-code-was-written-by-ai-13kf)
+- [Getting Data from Multiple Sources in Power BI: A Pictorial Guide to Seamless Data Integration](https://dev.to/madina_yusuff_1/getting-data-from-multiple-sources-in-power-bi-a-pictorial-guide-to-seamless-data-integration-5clp)
+- [Deep Neural Decision Trees](https://dev.to/paperium/deep-neural-decision-trees-4j8d)
+- [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
+- [S1: My Aurora Robotics 2.0 Experience](https://dev.to/abdullateef/day-1-why-im-returning-to-robotics-my-aurora-robotics-orientation-experience-55ej)
+- [DualClip - Update_2026.04.04.](https://dev.to/rakkunn/dualclip-update20260404-39lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
