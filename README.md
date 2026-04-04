@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Documentation Attack Surface: How npm Libraries Teach Insecure Patterns](https://dev.to/ethan_kreloff_4a7339e3d1d/the-documentation-attack-surface-how-npm-libraries-teach-insecure-patterns-2j6j)
-- [Everyone&#39;s Building AI Agents. Nobody&#39;s Building What Makes Them Work.](https://dev.to/team_prompeteer_b8b6250cd/everyones-building-ai-agents-nobodys-building-what-makes-them-work-1epb)
-- [Qodo Merge Review: Is AI PR Review Worth It?](https://dev.to/rahulxsingh/qodo-merge-review-is-ai-pr-review-worth-it-46j1)
-- [Understanding Attention Mechanisms – Part 6: Final Step in Decoding](https://dev.to/rijultp/understanding-attention-mechanisms-part-6-final-step-in-decoding-5a87)
-- [We Built a Robotics Developer Platform from Scratch - Meet Isaac Monitor &amp; Robosynx](https://dev.to/robosynx/we-built-a-robotics-developer-platform-from-scratch-meet-isaac-monitor-robosynx-421o)
+- [Critical Cybersecurity and DevOps News Updates | 2026.04.04 | April 4th, 2026](https://dev.to/mrcomputerscience/breaking-cybersecurity-news-for-20260404-pithy-cyborg-threats-breaches-intel-bok)
+- [What I learned building git11 - an AI documentation tool for GitHub teams](https://dev.to/omyvnss/what-i-learned-building-git11-an-ai-documentation-tool-for-github-teams-2ai8)
+- [The Unseen Cartographers: A Hybid Report on Underrepresented Voices in Tech](https://dev.to/narnaiezzsshaa/the-unseen-cartographers-a-hybid-report-on-underrepresented-voices-in-tech-2gif)
+- [Qodo AI Pricing: Free vs Teams vs Enterprise Plans in 2026](https://dev.to/rahulxsingh/qodo-ai-pricing-free-vs-teams-vs-enterprise-plans-in-2026-2mh5)
+- [You&#39;ve Never Seen 90% of the Internet. Neither Has Google.](https://dev.to/lazyasscoder/youve-never-seen-90-of-the-internet-neither-has-google-13d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
