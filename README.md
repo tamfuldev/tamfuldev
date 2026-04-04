@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spread vs Rest Operators in JavaScript](https://dev.to/kunal_dev/spread-vs-rest-operators-in-javascript-2m5d)
-- [Scaling the Safety Net: Our Journey into Phase 2 of Guidewire DevTrails 2026](https://dev.to/nehaav77/scaling-the-safety-net-our-journey-into-phase-2-of-guidewire-devtrails-2026-21l7)
-- [I Built a Subway Nutrition Calculator](https://dev.to/sambhav_tawar/i-built-a-subway-nutrition-calculator-1108)
-- [🚨 Elasticsearch High CPU Issue Due to Memory Pressure – Real Production Incident &amp; Fix](https://dev.to/alok_shankar/elasticsearch-high-cpu-issue-due-to-memory-pressure-real-production-incident-fix-3c8k)
-- [I Built a $15 Smart Home Controller &lpar;and Why Phones Are Bad Dashboards&rpar;](https://dev.to/ndygen/i-built-a-15-smart-home-controller-and-why-phones-are-bad-dashboards-2cff)
+- [I Tested Every Gemma 4 Model Locally on My MacBook - What Actually Works](https://dev.to/akartit/i-tested-every-gemma-4-model-locally-on-my-macbook-what-actually-works-3g2o)
+- [The ERP Is Dead: Why Your Business Needs an AI Operating System](https://dev.to/frihet/the-erp-is-dead-why-your-business-needs-an-ai-operating-system-25gc)
+- [Best Python Code Quality Tools Compared](https://dev.to/rahulxsingh/best-python-code-quality-tools-compared-5dfi)
+- [The Warrior&#39;s Planner](https://dev.to/prema_ananda/the-warriors-planner-ah)
+- [What % of your code was written by AI?](https://dev.to/nikoli/what-of-your-code-was-written-by-ai-13kf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
