@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Trust Capability Delegation for MCP Agents: How I Built AgentBond](https://dev.to/tvprasad/zero-trust-capability-delegation-for-mcp-agents-how-i-built-agentbond-4el1)
-- [How We Cut AI Infrastructure Costs by 80% for Enterprise Clients](https://dev.to/krunal_groovy/how-we-cut-ai-infrastructure-costs-by-80-for-enterprise-clients-24a7)
-- [I Open-Sourced Our Local SEO Data Collection Tool](https://dev.to/webpossible/i-open-sourced-our-local-seo-data-collection-tool-j54)
-- [9 MCP Resilience Patterns That Keep AI Agents Alive in Production &lpar;With Code&rpar;](https://dev.to/dohkoai/9-mcp-resilience-patterns-that-keep-ai-agents-alive-in-production-with-code-2ohi)
-- [Should we always use a hybrid encryption protocol to share information?](https://dev.to/nowi-security/should-we-always-use-a-hybrid-encryption-protocol-to-share-information-1h70)
+- [Tool-Level Permission Scoping in MCP: Why Server Authentication Isn&#39;t Enough](https://dev.to/supertrained/tool-level-permission-scoping-in-mcp-why-server-authentication-isnt-enough-58ni)
+- [Java 24 is out, HTMX is rising, and the microservices rethink](https://dev.to/shaneshi_backend/java-24-is-out-htmx-is-rising-and-the-microservices-rethink-bpp)
+- [I Built an AI Content Pipeline That Publishes 4 SEO-Optimized Articles Per Day — Here&#39;s the Architecture](https://dev.to/catalystproject/i-built-an-ai-content-pipeline-that-publishes-4-seo-optimized-articles-per-day-heres-the-345a)
+- [My Reading Journey: Jan-Mar 2026](https://dev.to/ericbl3/my-reading-journey-jan-mar-2026-266f)
+- [Building a Second Brain for Claude Code](https://dev.to/norrietaylor/building-a-second-brain-for-claude-code-1a4g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
