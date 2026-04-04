@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Data from Multiple Sources in Power BI: A Pictorial Guide to Seamless Data Integration](https://dev.to/madina_yusuff_1/getting-data-from-multiple-sources-in-power-bi-a-pictorial-guide-to-seamless-data-integration-5clp)
-- [Deep Neural Decision Trees](https://dev.to/paperium/deep-neural-decision-trees-4j8d)
-- [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
-- [S1: My Aurora Robotics 2.0 Experience](https://dev.to/abdullateef/day-1-why-im-returning-to-robotics-my-aurora-robotics-orientation-experience-55ej)
-- [DualClip - Update_2026.04.04.](https://dev.to/rakkunn/dualclip-update20260404-39lp)
+- [Ingress-NGINX Deprecation: What to Do Next &lpar;Four Paths, Four Failure Modes&rpar;](https://dev.to/ntctech/ingress-nginx-deprecation-what-to-do-next-four-paths-four-failure-modes-1koe)
+- [AI Will Replace Programmers. Are You Sure About That?](https://dev.to/oyminirole/ai-will-replace-programmers-are-you-sure-about-that-3159)
+- [URGENT: The Axios npm Package Was Just Compromised!](https://dev.to/md_mijanur_molla/urgent-the-axios-npm-package-was-just-compromised-6nk)
+- [Chaos vs Calm: An Interactive Frontend Art Experience](https://dev.to/makendrang/chaos-vs-calm-an-interactive-frontend-art-experience-5d0f)
+- [Quark&#39;s Outlines: Python Execution Model](https://dev.to/mike-vincent/quarks-outlines-python-execution-model-46p5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
