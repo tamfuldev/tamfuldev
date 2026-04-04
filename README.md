@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Work Productivity: How Flexibility Impacts Performance and Well-Being](https://dev.to/daniel_writes_27/remote-work-productivity-how-flexibility-impacts-performance-and-well-being-3aff)
-- [FULL PROFESSIONAL ROADMAP WEB APLLICATION](https://dev.to/swapnil-ahmmed-shishir/full-professional-roadmap-web-apllication-135l)
-- [The Great Speciation: Why the Architect of the Dream is the New Architect of History by Adel Abdel-Dayem](https://dev.to/adel_dayem/the-great-speciation-why-the-architect-of-the-dream-is-the-new-architect-of-history-by-adel-3njc)
-- [Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial](https://dev.to/dharshan_a_23835c7dc05682/build-a-production-ready-rag-system-over-your-own-documents-in-2026-a-practical-tutorial-4hd0)
-- [I Found a Way to Bypass AI Model Security Scanners — Here is What I Learned](https://dev.to/manja316/i-found-a-way-to-bypass-ai-model-security-scanners-here-is-what-i-learned-44nb)
+- [Why hosting location matters under GDPR](https://dev.to/binadit/why-hosting-location-matters-under-gdpr-344g)
+- [Q-Learning from Scratch: Navigating the Frozen Lake](https://dev.to/berkan_sesen/q-learning-from-scratch-navigating-the-frozen-lake-2j8i)
+- [What if you had a visual tool to help you understand DSA?](https://dev.to/cr4n31/what-if-you-had-a-visual-tool-to-help-you-understand-dsa-27o6)
+- [fjsondb — A Tiny JSON File Database for When SQLite Is Overkill](https://dev.to/alexdevson/fjsondb-a-tiny-json-file-database-for-when-sqlite-is-overkill-2dah)
+- [I Couldn&#39;t Build a Local LLM PC for $1,300 — Budget Tiers and the VRAM Cliffs Between Them](https://dev.to/plasmon_imp/i-couldnt-build-a-local-llm-pc-for-1300-budget-tiers-and-the-vram-cliffs-between-them-59j3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
