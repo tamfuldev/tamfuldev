@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Intelligence-per-Token: Why AI&#39;s Cost Problem Is Forcing a Reckoning in 2026](https://dev.to/om_shree_0709/intelligence-per-token-why-ais-cost-problem-is-forcing-a-reckoning-in-2026-40ja)
-- [Why I Self-Host 7 RTX 5090 GPUs Instead of Using Cloud AI](https://dev.to/zsky/why-i-self-host-7-rtx-5090-gpus-instead-of-using-cloud-ai-29d6)
-- [I built a CAPTCHA that never lets you leave](https://dev.to/southy404/i-built-a-captcha-that-never-lets-you-leave-do)
-- [Bridging the Gap: Enhancing Coding Education to Balance AI Tool Use with Fundamental Understanding](https://dev.to/svetlix/bridging-the-gap-enhancing-coding-education-to-balance-ai-tool-use-with-fundamental-understanding-445i)
-- [Two Supply Chain Attacks in Two Weeks - Why Defense-in-Depth Saved Me](https://dev.to/felixortizdev/two-supply-chain-attacks-in-two-weeks-why-defense-in-depth-saved-me-2nd7)
+- [Agent Middleware in Microsoft Agent Framework 1.0](https://dev.to/sreeni5018/agent-middleware-in-microsoft-agent-framework-10-2bm0)
+- [کود کشاورزی — Complete Guide](https://dev.to/sahand1987/khwd-khshwrzy-complete-guide-4ic4)
+- [How I Track My AI Spending as a Solo Dev &lpar;Without Going Broke&rpar;](https://dev.to/godnick/how-i-track-my-ai-spending-as-a-solo-dev-without-going-broke-5ec1)
+- [&quot;I Built a Web Browser from Scratch in 42 Days — No Libraries, Just Node.js&quot;](https://dev.to/nitinkumaryadav1307/i-built-a-web-browser-from-scratch-in-42-days-no-libraries-just-nodejs-416h)
+- [Deep Links em Flutter: O Guia Definitivo para Iniciantes &lpar;Sem Pacotes de Terceiros&rpar; &lpar;Parte 1&rpar;](https://dev.to/cdornelles/deep-links-em-flutter-o-guia-definitivo-para-iniciantes-sem-pacotes-de-terceiros-parte-1-4a31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
