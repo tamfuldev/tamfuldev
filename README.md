@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Vectorless RAG System for Smarter Document Intelligence](https://dev.to/ranjancse/a-vectorless-rag-system-for-smarter-document-intelligence-4o5g)
-- [How a Database Really Works Underneath](https://dev.to/nodedb/how-a-database-really-works-underneath-27g0)
-- [The End of “Hard Work” in Coding, And Why That’s a Problem](https://dev.to/jaideepparashar/the-end-of-hard-work-in-coding-and-why-thats-a-problem-1m48)
-- [# Free JSON Formatter Online &lpar;Fast &amp; Private&rpar;](https://dev.to/goutam_singh_57801f155cd1/-free-json-formatter-online-fast-private-de9)
-- [Your Pipeline Is 21.7h Behind: Catching Sports Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-217h-behind-catching-sports-sentiment-leads-with-pulsebit-37ic)
+- [Why your React Native app can&#39;t connect to your local .NET API &lpar;And how to fix it&rpar;](https://dev.to/muhammad_saadbinnadeem_/why-your-react-native-app-cant-connect-to-your-local-net-api-and-how-to-fix-it-1hej)
+- [This Week in AI: April 05, 2026 - Revolutionizing Development with Personal Agents and Multimodal Intelligence](https://dev.to/amit_mishra_4729/this-week-in-ai-april-05-2026-revolutionizing-development-with-personal-agents-and-multimodal-10f1)
+- [ECMA2025-Latest evolution](https://dev.to/darshan1005/ecma2025-latest-evolution-3dg2)
+- [🚀 Build a Professional Image Converter GUI in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/build-a-professional-image-converter-gui-in-python-step-by-step-64l)
+- [Is Railway Reliable for SaaS Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-saas-apps-in-2026-h3l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
