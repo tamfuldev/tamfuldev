@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Flat Subscription Problem: Why Agents Break AI Pricing](https://dev.to/piiiico/the-flat-subscription-problem-why-agents-break-ai-pricing-h1j)
-- [MERN Quiz App Project Complete!](https://dev.to/arhamkabir/mern-quiz-app-project-complete-34oa)
-- [FaceAuth: Open Source Face Unlock for Linux](https://dev.to/neeschal3/faceauth-open-source-face-unlock-for-linux-14fb)
-- [What I Learned Supervising 5 AI Agents on a Real Project](https://dev.to/battyterm/what-i-learned-supervising-5-ai-agents-on-a-real-project-cl8)
-- [AI-Assisted Learning Gaps: Addressing Foundational Programming Skills for Independent Problem-Solving](https://dev.to/ilyatech/ai-assisted-learning-gaps-addressing-foundational-programming-skills-for-independent-3of5)
+- [A Vectorless RAG System for Smarter Document Intelligence](https://dev.to/ranjancse/a-vectorless-rag-system-for-smarter-document-intelligence-4o5g)
+- [How a Database Really Works Underneath](https://dev.to/nodedb/how-a-database-really-works-underneath-27g0)
+- [The End of “Hard Work” in Coding, And Why That’s a Problem](https://dev.to/jaideepparashar/the-end-of-hard-work-in-coding-and-why-thats-a-problem-1m48)
+- [# Free JSON Formatter Online &lpar;Fast &amp; Private&rpar;](https://dev.to/goutam_singh_57801f155cd1/-free-json-formatter-online-fast-private-de9)
+- [Your Pipeline Is 21.7h Behind: Catching Sports Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-217h-behind-catching-sports-sentiment-leads-with-pulsebit-37ic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
