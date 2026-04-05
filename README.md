@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Cost API Infrastructure: Running a DaaS Business on an Idle Server](https://dev.to/tagg_dev/zero-cost-api-infrastructure-running-a-daas-business-on-an-idle-server-fac)
-- [The Real Ceiling in Claude Code&#39;s Memory System &lpar;It’s Not the 200-Line Cap&rpar;](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
-- [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
-- [# Understanding Data Modeling in PowerBI: Joins, Relationship and Schemas.](https://dev.to/nyamatari_brian_c41e0c389/-understanding-data-modeling-in-powerbi-joins-relationship-and-schemas-1imn)
-- [Understanding Scope, Hoisting, and Closures like a Pro!](https://dev.to/rafsan-jany-ratul/understanding-scope-hoisting-and-closures-like-a-pro-152h)
+- [Automating Roadmap.sh into NotebookLM](https://dev.to/waseemaldmeiri/automating-roadmapsh-into-notebooklm-132i)
+- [My Biggest Mistake: Why You Should i18n Your Next.js App From Day One &lpar;A Vibe Coding Survival Guide&rpar;](https://dev.to/vibe_archi/my-biggest-mistake-why-you-should-i18n-your-nextjs-app-from-day-one-a-vibe-coding-survival-guide-2i4i)
+- [Environment Variables You&#39;re Leaking to the Frontend Without Knowing It](https://dev.to/sandeepbansod/environment-variables-youre-leaking-to-the-frontend-without-knowing-it-1hb9)
+- [Persistent memory in Claude Code: what&#39;s worth keeping](https://dev.to/ohugonnot/persistent-memory-in-claude-code-whats-worth-keeping-54ck)
+- [I Built a Voice AI with Sub-500ms Latency. Here&#39;s the Echo Cancellation Problem Nobody Talks About](https://dev.to/remi_etien/i-built-a-voice-ai-with-sub-500ms-latency-heres-the-echo-cancellation-problem-nobody-talks-about-14la)
 <!-- BLOG-POST-LIST:END -->
 
 ---
