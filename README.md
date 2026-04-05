@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS in Micro Frontend Monorepo — Setup Guide](https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k)
-- [I Was a 4-Finger Typist for Years. Here&#39;s How I Fixed My Brain &lpar;and Hit 100 WPM&rpar;](https://dev.to/aakash_p_340b2eb72019415d/i-was-a-4-finger-typist-for-years-heres-how-i-fixed-my-brain-and-hit-100-wpm-1i2p)
-- [JavaScript Modules: Import and Export Explained](https://dev.to/sakshi_tambole_be36125cf5/javascript-modules-import-and-export-explained-3ie)
-- [Stop the Flicker: The Definitive Guide to Optimizing Claude Code Terminal UX](https://dev.to/bean_bean/stop-the-flicker-the-definitive-guide-to-optimizing-claude-code-terminal-ux-32ep)
-- [Detecting Trends Before They Break](https://dev.to/rawveg/detecting-trends-before-they-break-3887)
+- [Getting Started With Seal Report: Mapping Restrictions to SQL User-Defined Functions](https://dev.to/vladg_dev/getting-started-with-seal-report-mapping-restrictions-to-sql-user-defined-functions-4p33)
+- [The Living Library of Access: Mapping the Hidden Architecture of Equity](https://dev.to/peculiarlibrarian/the-living-library-of-access-mapping-the-hidden-architecture-of-equity-15cf)
+- [The Gap Between Agent Demos and Agent Production](https://dev.to/o96a/the-gap-between-agent-demos-and-agent-production-483g)
+- [Launching a Side Project on ProductHunt as a Solo Maker](https://dev.to/raxxostudios/launching-a-side-project-on-producthunt-as-a-solo-maker-1opb)
+- [3,000 Attempts, 14 Countries, Zero Winners: What I Learned Building a Viral Game](https://dev.to/raxxostudios/3000-attempts-14-countries-zero-winners-what-i-learned-building-a-viral-game-3d62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
