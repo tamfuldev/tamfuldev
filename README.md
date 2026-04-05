@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Roadmap.sh into NotebookLM](https://dev.to/waseemaldmeiri/automating-roadmapsh-into-notebooklm-132i)
-- [My Biggest Mistake: Why You Should i18n Your Next.js App From Day One &lpar;A Vibe Coding Survival Guide&rpar;](https://dev.to/vibe_archi/my-biggest-mistake-why-you-should-i18n-your-nextjs-app-from-day-one-a-vibe-coding-survival-guide-2i4i)
-- [Environment Variables You&#39;re Leaking to the Frontend Without Knowing It](https://dev.to/sandeepbansod/environment-variables-youre-leaking-to-the-frontend-without-knowing-it-1hb9)
-- [Persistent memory in Claude Code: what&#39;s worth keeping](https://dev.to/ohugonnot/persistent-memory-in-claude-code-whats-worth-keeping-54ck)
-- [I Built a Voice AI with Sub-500ms Latency. Here&#39;s the Echo Cancellation Problem Nobody Talks About](https://dev.to/remi_etien/i-built-a-voice-ai-with-sub-500ms-latency-heres-the-echo-cancellation-problem-nobody-talks-about-14la)
+- [Finding My Way into Fedora, One Tab at a Time](https://dev.to/psspace/finding-my-way-into-fedora-one-tab-at-a-time-1fib)
+- [Learning to Generate Images of Outdoor Scenes from Attributes and SemanticLayouts](https://dev.to/paperium/learning-to-generate-images-of-outdoor-scenes-from-attributes-and-semanticlayouts-2oh1)
+- [This Rubber Duck Doesn&#39;t Debug — It Roasts](https://dev.to/einorde/this-rubber-duck-doesnt-debug-it-roasts-1g44)
+- [Fourbidden: A Serious AI Solution to 2+2, With Maximum Ceremony and No Resolution](https://dev.to/ujja/fourbidden-a-serious-ai-solution-to-22-with-maximum-ceremony-and-no-resolution-3p1g)
+- [Weekly Challenge: Maximum conflict](https://dev.to/simongreennet/weekly-challenge-maximum-conflict-5c4n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
