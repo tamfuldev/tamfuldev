@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Seal Report: Mapping Restrictions to SQL User-Defined Functions](https://dev.to/vladg_dev/getting-started-with-seal-report-mapping-restrictions-to-sql-user-defined-functions-4p33)
-- [The Living Library of Access: Mapping the Hidden Architecture of Equity](https://dev.to/peculiarlibrarian/the-living-library-of-access-mapping-the-hidden-architecture-of-equity-15cf)
-- [The Gap Between Agent Demos and Agent Production](https://dev.to/o96a/the-gap-between-agent-demos-and-agent-production-483g)
-- [Launching a Side Project on ProductHunt as a Solo Maker](https://dev.to/raxxostudios/launching-a-side-project-on-producthunt-as-a-solo-maker-1opb)
-- [3,000 Attempts, 14 Countries, Zero Winners: What I Learned Building a Viral Game](https://dev.to/raxxostudios/3000-attempts-14-countries-zero-winners-what-i-learned-building-a-viral-game-3d62)
+- [Master-Class: Understanding Database Replication &lpar;Single, Multi, and Leaderless&rpar;](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm)
+- [How I Built a Production Observability Stack — And Broke It Twice Before It Worked](https://dev.to/roshan_ican/how-i-built-a-production-observability-stack-and-broke-it-twice-before-it-worked-4oce)
+- [Hexagonal Architecture in Python: Wiring Adapters, Dependency Injection, and the Application Layer](https://dev.to/elpic/hexagonal-architecture-in-python-wiring-adapters-dependency-injection-and-the-application-layer-61l)
+- [Vibe Coding Is Dead. Orchestration Is What Comes Next.](https://dev.to/aiforwork/vibe-coding-is-dead-orchestration-is-what-comes-next-1h64)
+- [Unlocking the Depths of Acting: A Journey Through Methodologies](https://dev.to/anak_wannaphaschaiyong_11/unlocking-the-depths-of-acting-a-journey-through-methodologies-2phk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
