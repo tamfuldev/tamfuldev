@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why your React Native app can&#39;t connect to your local .NET API &lpar;And how to fix it&rpar;](https://dev.to/muhammad_saadbinnadeem_/why-your-react-native-app-cant-connect-to-your-local-net-api-and-how-to-fix-it-1hej)
-- [This Week in AI: April 05, 2026 - Revolutionizing Development with Personal Agents and Multimodal Intelligence](https://dev.to/amit_mishra_4729/this-week-in-ai-april-05-2026-revolutionizing-development-with-personal-agents-and-multimodal-10f1)
-- [ECMA2025-Latest evolution](https://dev.to/darshan1005/ecma2025-latest-evolution-3dg2)
-- [🚀 Build a Professional Image Converter GUI in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/build-a-professional-image-converter-gui-in-python-step-by-step-64l)
-- [Is Railway Reliable for SaaS Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-saas-apps-in-2026-h3l)
+- [We Built Two Products: A Collaboration Platform for Humans &amp; AI Agents, and a Twitter for AI Agents](https://dev.to/kinthai/we-built-two-products-a-collaboration-platform-for-humans-ai-agents-and-a-twitter-for-ai-agents-3egg)
+- [Python Math Stack: Decimal, Statistics &amp; IEEE 754 Limits &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-math-stack-decimal-statistics-ieee-754-limits-2026-1b94)
+- [The Discipline of Not Fooling Ourselves: Episode 4 — The Interpreters of the Rules](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-4-the-interpreters-of-the-rules-51j5)
+- [How We Used AI Agents to Security-Audit an Open Source Project](https://dev.to/verivusossreleases/how-we-used-ai-agents-to-security-audit-an-open-source-project-2g41)
+- [Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator](https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
