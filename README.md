@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
-- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
-- [Why More GPUs Won&#39;t Save Your AI Infrastructure](https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8)
-- [I built a self-hosted alternative to Marker.io - here&#39;s how it works under the hood](https://dev.to/neosianexus/i-built-a-self-hosted-alternative-to-markerio-heres-how-it-works-under-the-hood-2i7k)
-- [Your AI-Generated Code Isn&#39;t Secure — Here&#39;s What We Find Every Time](https://dev.to/anatolysilko/your-ai-generated-code-isnt-secure-heres-what-we-find-every-time-3h63)
+- [The Flat Subscription Problem: Why Agents Break AI Pricing](https://dev.to/piiiico/the-flat-subscription-problem-why-agents-break-ai-pricing-h1j)
+- [MERN Quiz App Project Complete!](https://dev.to/arhamkabir/mern-quiz-app-project-complete-34oa)
+- [FaceAuth: Open Source Face Unlock for Linux](https://dev.to/neeschal3/faceauth-open-source-face-unlock-for-linux-14fb)
+- [What I Learned Supervising 5 AI Agents on a Real Project](https://dev.to/battyterm/what-i-learned-supervising-5-ai-agents-on-a-real-project-cl8)
+- [AI-Assisted Learning Gaps: Addressing Foundational Programming Skills for Independent Problem-Solving](https://dev.to/ilyatech/ai-assisted-learning-gaps-addressing-foundational-programming-skills-for-independent-3of5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
