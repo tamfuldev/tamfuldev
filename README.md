@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Built Two Products: A Collaboration Platform for Humans &amp; AI Agents, and a Twitter for AI Agents](https://dev.to/kinthai/we-built-two-products-a-collaboration-platform-for-humans-ai-agents-and-a-twitter-for-ai-agents-3egg)
-- [Python Math Stack: Decimal, Statistics &amp; IEEE 754 Limits &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-math-stack-decimal-statistics-ieee-754-limits-2026-1b94)
-- [The Discipline of Not Fooling Ourselves: Episode 4 — The Interpreters of the Rules](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-4-the-interpreters-of-the-rules-51j5)
-- [How We Used AI Agents to Security-Audit an Open Source Project](https://dev.to/verivusossreleases/how-we-used-ai-agents-to-security-audit-an-open-source-project-2g41)
-- [Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator](https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h)
+- [Zero-Cost API Infrastructure: Running a DaaS Business on an Idle Server](https://dev.to/tagg_dev/zero-cost-api-infrastructure-running-a-daas-business-on-an-idle-server-fac)
+- [The Real Ceiling in Claude Code&#39;s Memory System &lpar;It’s Not the 200-Line Cap&rpar;](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
+- [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
+- [# Understanding Data Modeling in PowerBI: Joins, Relationship and Schemas.](https://dev.to/nyamatari_brian_c41e0c389/-understanding-data-modeling-in-powerbi-joins-relationship-and-schemas-1imn)
+- [Understanding Scope, Hoisting, and Closures like a Pro!](https://dev.to/rafsan-jany-ratul/understanding-scope-hoisting-and-closures-like-a-pro-152h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
