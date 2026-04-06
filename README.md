@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [incident.io Alternative: Open Source AI Incident Management](https://dev.to/siddharth_singh_409bd5267/incidentio-alternative-open-source-ai-incident-management-1ik0)
-- [Building a Multi-Agent System with a Single OpenClaw Workspace](https://dev.to/behruamm/building-a-multi-agent-system-with-a-single-openclaw-workspace-349k)
-- [Why Vibe Coding Will Replace Traditional Programming](https://dev.to/nishilbhave/why-vibe-coding-will-replace-traditional-programming-40li)
-- [AI Architecture in 2026: The Stack That Actually Works](https://dev.to/richard_cohen_301490c120b/ai-architecture-in-2026-the-stack-that-actually-works-5h7k)
-- [Building GNOME Apps with Rust, Part 1: Getting Started](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-1-getting-started-25ol)
+- [Why Indian Address Parsing Is Broken &lpar;And What I Built to Fix It&rpar;](https://dev.to/neelagiri65/why-indian-address-parsing-is-broken-and-what-i-built-to-fix-it-2pne)
+- [Why AI Agents Don&#39;t Follow Rules — The Case for Physical Governance](https://dev.to/aos_standard/why-ai-agents-dont-follow-rules-the-case-for-physical-governance-382f)
+- [The Ultimate Guide to Universal Linux Apps: Snap, Flatpak, and AppImage](https://dev.to/zilton7/the-ultimate-guide-to-universal-linux-apps-snap-flatpak-and-appimage-a50)
+- [The Contents of That Dumpster Are Private](https://dev.to/mockhealth/the-contents-of-that-dumpster-are-private-4dok)
+- [How We Reached 92% Coverage with GitAuto](https://dev.to/gitautoai/how-we-reached-92-coverage-with-gitauto-1ll1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
