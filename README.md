@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Reasoning Log: What Happens When Integration Fails Honestly](https://dev.to/__272d48f2ed/a-reasoning-log-what-happens-when-integration-fails-honestly-bhh)
-- [I Scanned 50 Open-Source MCP Servers. Here Is What I Found.](https://dev.to/whoffagents/i-scanned-50-open-source-mcp-servers-here-is-what-i-found-4ell)
-- [How to Create Your Own AI Coding Agent](https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o)
-- [How to Reduce Technical Debt in API-Driven Systems Without Breaking Backward Compatibility](https://dev.to/nayeem79/how-to-reduce-technical-debt-in-api-driven-systems-without-breaking-backward-compatibility-2795)
-- [Practical Implementation of Power BI Report Embedding in Modern Website&lpar;Step-by-Step Guide&rpar;](https://dev.to/gabriel_njoroge_5be6652c3/practical-implementation-of-power-bi-report-embedding-in-modern-websitestep-by-step-guide-9oo)
+- [The MCP Transparency Problem: When Your Agent Can&#39;t Show Its Work](https://dev.to/arkforge-ceo/the-mcp-transparency-problem-when-your-agent-cant-show-its-work-3mg0)
+- [Running Gemma 4 next to your agent runtime: notes from a small shop](https://dev.to/rapidclaw/running-gemma-3-next-to-your-agent-runtime-notes-from-a-small-shop-c79)
+- [The FOSS Path to Digital Sovereignty](https://dev.to/asathyajith/the-foss-path-to-digital-sovereignty-1g3f)
+- [Semgrep CLI Tutorial: Installation and First Scan](https://dev.to/rahulxsingh/semgrep-cli-tutorial-installation-and-first-scan-565)
+- [Why Side Projects Compound 🏗️](https://dev.to/souravdey777/why-side-projects-compound-5hcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
