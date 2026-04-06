@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Transparency Problem: When Your Agent Can&#39;t Show Its Work](https://dev.to/arkforge-ceo/the-mcp-transparency-problem-when-your-agent-cant-show-its-work-3mg0)
-- [Running Gemma 4 next to your agent runtime: notes from a small shop](https://dev.to/rapidclaw/running-gemma-3-next-to-your-agent-runtime-notes-from-a-small-shop-c79)
-- [The FOSS Path to Digital Sovereignty](https://dev.to/asathyajith/the-foss-path-to-digital-sovereignty-1g3f)
-- [Semgrep CLI Tutorial: Installation and First Scan](https://dev.to/rahulxsingh/semgrep-cli-tutorial-installation-and-first-scan-565)
-- [Why Side Projects Compound 🏗️](https://dev.to/souravdey777/why-side-projects-compound-5hcp)
+- [My Experience with Melis Platform: Pros, Cons, and Real-World Insights](https://dev.to/thedevtwin_477050c50f229a/my-experience-with-melis-platform-pros-cons-and-real-world-insights-33e0)
+- [Cloud Cost Anomaly Detection: How to Catch Surprise Bills Before They Hit](https://dev.to/muskan_8abedcc7e12/cloud-cost-anomaly-detection-how-to-catch-surprise-bills-before-they-hit-10oo)
+- [Stop Chatting With Claude. Start Orchestrating It.](https://dev.to/deeshath/stop-chatting-with-claude-start-orchestrating-it-1d93)
+- [Local LLM in my phone sent Hi to my Mom, no api key, no wifi needed.COMPLETELY FREE](https://dev.to/ithiria894/i-gave-an-ai-full-control-of-my-android-phone-no-cloud-no-api-keys-no-shame-2jjm)
+- [Deep Q-Networks: Experience Replay and Target Networks](https://dev.to/berkan_sesen/deep-q-networks-experience-replay-and-target-networks-f42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
