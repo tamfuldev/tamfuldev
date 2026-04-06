@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Scaled Quran.com to 50M Monthly Users: Architecture Lessons From the Inside](https://dev.to/mzunain/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-i33)
-- [[Beginner] Docker Tutorial for jetson-containers on Jetson AGX Orin](https://dev.to/vonusma/beginner-docker-tutorial-for-jetson-containers-on-jetson-agx-orin-5bl8)
-- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
-- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
-- [Building a Document Processing Pipeline with S3, Textract, Step Functions and EventBridge](https://dev.to/aws-builders/building-a-document-processing-pipeline-with-s3-textract-step-functions-and-eventbridge-3m3l)
+- [AI Won&#39;t Save Bad Code: Why Senior Developers Matter More Than Ever](https://dev.to/rodrigo_caetano_a69bd0726/ai-wont-save-bad-code-why-senior-developers-matter-more-than-ever-oi4)
+- [Pay-per-use text AI API with USDC micropayments on Solana](https://dev.to/sbastien_lopez_399f3f6b8/pay-per-use-text-ai-api-with-usdc-micropayments-on-solana-57k2)
+- [Steal My Workflow: Scraping the iOS App Store to Find High-LTV Subscription Apps](https://dev.to/datakaz/steal-my-workflow-scraping-the-ios-app-store-to-find-high-ltv-subscription-apps-5e7l)
+- [Data Debt: The Silent Killer of Enterprise AI Ambitions](https://dev.to/arthicksdev/data-debt-the-silent-killer-of-enterprise-ai-ambitions-4jf2)
+- [The Last Mile Problem: Why Change Management Is Killing AI at Scale](https://dev.to/arthicksdev/the-last-mile-problem-why-change-management-is-killing-ai-at-scale-4kgj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
