@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Cartographer’s Confession: How PostGIS Turned Me from a SQL Hack into a Spatial Artist](https://dev.to/alex_aslam/the-cartographers-confession-how-postgis-turned-me-from-a-sql-hack-into-a-spatial-artist-2jo)
-- [Top Causes of ANRs in Android and How to Eliminate Them &lpar;Complete Developer Guide&rpar;](https://dev.to/ahsanahmed03/top-causes-of-anrs-in-android-and-how-to-eliminate-them-complete-developer-guide-16kj)
-- [Mandelbrot Set in JS - Smooth Scroll Zoom &amp; Fixing Floating-Point Precision](https://dev.to/foqc/mandelbrot-set-in-js-smooth-scroll-zoom-fixing-floating-point-precision-peo)
-- [I Built 23 Security Tools That AI Agents Can Use](https://dev.to/contrastcyber/i-built-23-security-tools-that-ai-agents-can-use-4he7)
-- [AWS Data Centres Got Bombed — 5 Cloud Engineering Roles Every Business Needs Now](https://dev.to/emperorakashi20/aws-data-centres-got-bombed-5-cloud-engineering-roles-every-business-needs-now-28le)
+- [Git Worktrees + Headless AI Sessions: A Pattern for Parallel Code Generation](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
+- [Eager loading associations related to user](https://dev.to/francisco-regalado/eager-loading-associations-related-to-user-3a04)
+- [Docker environment for Laravel/Statamic package development](https://dev.to/vincentbean/docker-environment-for-laravelstatamic-package-development-6en)
+- [14 patterns AI code generators get wrong — and how to catch them](https://dev.to/radpdx/14-patterns-ai-code-generators-get-wrong-and-how-to-catch-them-45l9)
+- [I&#39;ve built a simple k8s agent cli](https://dev.to/hadi_farnoud_8c3058c5f5f8/ive-built-a-simple-k8s-agent-cli-2km0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
