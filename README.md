@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Won&#39;t Save Bad Code: Why Senior Developers Matter More Than Ever](https://dev.to/rodrigo_caetano_a69bd0726/ai-wont-save-bad-code-why-senior-developers-matter-more-than-ever-oi4)
-- [Pay-per-use text AI API with USDC micropayments on Solana](https://dev.to/sbastien_lopez_399f3f6b8/pay-per-use-text-ai-api-with-usdc-micropayments-on-solana-57k2)
-- [Steal My Workflow: Scraping the iOS App Store to Find High-LTV Subscription Apps](https://dev.to/datakaz/steal-my-workflow-scraping-the-ios-app-store-to-find-high-ltv-subscription-apps-5e7l)
-- [Data Debt: The Silent Killer of Enterprise AI Ambitions](https://dev.to/arthicksdev/data-debt-the-silent-killer-of-enterprise-ai-ambitions-4jf2)
-- [The Last Mile Problem: Why Change Management Is Killing AI at Scale](https://dev.to/arthicksdev/the-last-mile-problem-why-change-management-is-killing-ai-at-scale-4kgj)
+- [Building infection-protocol-lab: A Full-Stack Multi-Agent Simulation with TypeScript, LangChain, and ReactFlow](https://dev.to/harishkotra/building-infection-protocol-lab-a-full-stack-multi-agent-simulation-with-typescript-langchain-2d8k)
+- [Why Polars is Faster Than Pandas &lpar;10Million Row Study&rpar;](https://dev.to/rakshath/why-polars-is-faster-than-pandas-10million-row-study-55b8)
+- [18 Specific Tutorial Ideas for AI Voice Integration Using Vapi and Twilio](https://dev.to/callstacktech/18-specific-tutorial-ideas-for-ai-voice-integration-using-vapi-and-twilio-32i3)
+- [memcpy](https://dev.to/susanayi/memcpy-3cc8)
+- [I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#39;s the Open-Source Scanner I Built](https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2jg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
