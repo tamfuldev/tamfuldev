@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Optimize Your Images&quot; Is Bad Advice](https://dev.to/igorgridel/why-optimize-your-images-is-bad-advice-5oj)
-- [CipherKit](https://dev.to/karthick_ajan/cipherkit-5h2i)
-- [Math cheatsheet before you deep-dive into ZK](https://dev.to/0xluk3/math-cheatsheet-before-you-deep-dive-into-zk-1bo6)
-- [Im looking for indie apps and tools built by solo developers, their stories and perspectives for a newsletter I’m starting. If you know a solo maker or use an overlooked gem built by one please let me know! 🙏](https://dev.to/valeriavg/im-looking-for-indie-apps-and-tools-built-by-solo-developers-their-stories-and-perspectives-for-a-3lhh)
-- [Making OpenClaw remember what it&#39;s doing after compaction](https://dev.to/whtsky/making-openclaw-remember-what-its-doing-after-compaction-11fe)
+- [Tired of Overthinking CSS Architecture? Meet Lism CSS](https://dev.to/ddryo_loos/tired-of-overthinking-css-architecture-meet-lism-css-2m4o)
+- [The Gumroad Illusion: Why I Stopped Selling Digital Products and Went Back to Service Delivery](https://dev.to/monu_kumar/the-gumroad-illusion-why-i-stopped-selling-digital-products-and-went-back-to-service-delivery-d7a)
+- [Converting Tacit Knowledge into AI Skills: A Deep Dive into Teammate-Skill](https://dev.to/timmyzinin/converting-tacit-knowledge-into-ai-skills-a-deep-dive-into-teammate-skill-29jk)
+- [20 one-shot prompts that turn Kanban into an autonomous coding machine](https://dev.to/tonythehacker/20-one-shot-prompts-that-turn-kanban-into-an-autonomous-coding-machine-4ho)
+- [Building a ‘simple’ async service in Rust &lpar;and why it wasn’t simple&rpar;](https://dev.to/grandfoosier/building-a-simple-async-service-in-rust-and-why-it-wasnt-simple-4i71)
 <!-- BLOG-POST-LIST:END -->
 
 ---
