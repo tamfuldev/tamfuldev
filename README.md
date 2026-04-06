@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Melis Platform: Pros, Cons, and Real-World Insights](https://dev.to/thedevtwin_477050c50f229a/my-experience-with-melis-platform-pros-cons-and-real-world-insights-33e0)
-- [Cloud Cost Anomaly Detection: How to Catch Surprise Bills Before They Hit](https://dev.to/muskan_8abedcc7e12/cloud-cost-anomaly-detection-how-to-catch-surprise-bills-before-they-hit-10oo)
-- [Stop Chatting With Claude. Start Orchestrating It.](https://dev.to/deeshath/stop-chatting-with-claude-start-orchestrating-it-1d93)
-- [Local LLM in my phone sent Hi to my Mom, no api key, no wifi needed.COMPLETELY FREE](https://dev.to/ithiria894/i-gave-an-ai-full-control-of-my-android-phone-no-cloud-no-api-keys-no-shame-2jjm)
-- [Deep Q-Networks: Experience Replay and Target Networks](https://dev.to/berkan_sesen/deep-q-networks-experience-replay-and-target-networks-f42)
+- [Getting Started with Monorepos - Vite, React and Shadcn](https://dev.to/franciscolunadev82/getting-started-with-monorepos-vite-react-and-shadcn-52e9)
+- [Cilium&#39;s ipcache scalability issue: Understanding identity distribution in Kubernetes clusters for optimized network policy.](https://dev.to/alitron/ciliums-ipcache-scalability-issue-understanding-identity-distribution-in-kubernetes-clusters-for-cma)
+- [Building &#39;The Endurance Log&#39; 🏃‍♂️: A Full-Stack Next.js Strava Dashboard](https://dev.to/peetiphat1/building-the-endurance-log-a-full-stack-nextjs-strava-dashboard-lm3)
+- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
+- [Write, Run, Debug — REslava.Result three-layer observability story](https://dev.to/reslava/write-run-debug-reslavaresult-three-layer-observability-story-5g14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
