@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FreeShow: The Open Source Presentation App Your Church Needs](https://dev.to/lporras/freeshow-the-open-source-presentation-app-your-church-needs-mo0)
-- [Your Browser Just Got a Brain: Samsung&#39;s Agentic AI Move With Perplexity](https://dev.to/om_shree_0709/your-browser-just-got-a-brain-samsungs-agentic-ai-move-with-perplexity-506d)
-- [How I built an Autonomous AI Second Brain using Node.js, Gemini, and Notion &lpar;as a High Schooler&rpar;](https://dev.to/vansh_chauhan_c368733d871/how-i-built-an-autonomous-ai-second-brain-using-nodejs-gemini-and-notion-as-a-high-schooler-50d8)
-- [How to Publish and Embed a Power BI Report into a Website](https://dev.to/blinton_kiarie_906fad362c/how-to-publish-and-embed-a-power-bi-report-into-a-website-412)
-- [All Data and AI Weekly #236-06-April-2026](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-236-06-april-2026-2dd4)
+- [The Cartographer’s Confession: How PostGIS Turned Me from a SQL Hack into a Spatial Artist](https://dev.to/alex_aslam/the-cartographers-confession-how-postgis-turned-me-from-a-sql-hack-into-a-spatial-artist-2jo)
+- [Top Causes of ANRs in Android and How to Eliminate Them &lpar;Complete Developer Guide&rpar;](https://dev.to/ahsanahmed03/top-causes-of-anrs-in-android-and-how-to-eliminate-them-complete-developer-guide-16kj)
+- [Mandelbrot Set in JS - Smooth Scroll Zoom &amp; Fixing Floating-Point Precision](https://dev.to/foqc/mandelbrot-set-in-js-smooth-scroll-zoom-fixing-floating-point-precision-peo)
+- [I Built 23 Security Tools That AI Agents Can Use](https://dev.to/contrastcyber/i-built-23-security-tools-that-ai-agents-can-use-4he7)
+- [AWS Data Centres Got Bombed — 5 Cloud Engineering Roles Every Business Needs Now](https://dev.to/emperorakashi20/aws-data-centres-got-bombed-5-cloud-engineering-roles-every-business-needs-now-28le)
 <!-- BLOG-POST-LIST:END -->
 
 ---
