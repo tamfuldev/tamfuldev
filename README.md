@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Managed vs Self Hosted Database: Which Is Better for Your Startup?](https://dev.to/somyahallan/managed-vs-self-hosted-database-which-is-better-for-your-startup-2pkm)
-- [Your Pipeline Is 22.2h Behind: Catching Finance Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-222h-behind-catching-finance-sentiment-leads-with-pulsebit-32nm)
-- [Building AI-Powered Frontends That Understand Intent Instead of Clicks](https://dev.to/rohith_kn/building-ai-powered-frontends-that-understand-intent-instead-of-clicks-3h5f)
-- [A Faster Way to Build MongoDB Queries Visually](https://dev.to/visualeaf/a-faster-way-to-build-mongodb-queries-visually-4b0p)
-- [Moving WeOutside246 from GPT-5 to local models on a base M4 Mac Mini](https://dev.to/hammertoe/moving-weoutside246-from-gpt-5-to-local-models-on-a-base-m4-mac-mini-2mb5)
+- [Lox as a Racket language module](https://dev.to/davide_lettieri_a99c7dd29/lox-as-a-racket-language-module-4dl5)
+- [How a Structural Engineer Built a 6-Business AI System From His Phone](https://dev.to/domoniqueluchin/how-a-structural-engineer-built-a-6-business-ai-system-from-his-phone-7pn)
+- [Why I Switched from ChromaDB to ElasticSearch &lpar;and What I Miss&rpar;](https://dev.to/bash-thedev/why-i-switched-from-chromadb-to-elasticsearch-and-what-i-miss-2kbl)
+- [Architecture Philosophy: Rule-First Design](https://dev.to/wintrover/architecture-philosophy-rule-first-design-5gd1)
+- [&quot;How My First User Request Uncovered a Hilarious Structural Bug&quot;](https://dev.to/rocketsquirreldev/how-my-first-user-request-uncovered-a-hilarious-structural-bug-2p58)
 <!-- BLOG-POST-LIST:END -->
 
 ---
