@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SnapAPI vs ScreenshotOne vs Urlbox vs PageBolt: Honest Comparison &lpar;2026&rpar;](https://dev.to/sleywill_45/snapapi-vs-screenshotone-vs-urlbox-vs-pagebolt-honest-comparison-2026-1gan)
-- [Run AI Models On-Device — Zero Config, Five Minutes](https://dev.to/xybrid/run-ai-models-on-device-zero-config-five-minutes-21k1)
-- [Deliberate Hybrid Design: Building Systems That Gracefully Fall Back from AI to Deterministic Logic](https://dev.to/geluvac/deliberate-hybrid-design-building-systems-that-gracefully-fall-back-from-ai-to-deterministic-logic-1mna)
-- [Transforming Your Old Laptop Into Your New Self Hosted Google Photos Alternative](https://dev.to/otwl/transforming-your-old-laptop-into-your-new-self-hosted-google-photos-alternative-4k7n)
-- [TypeScript Utility Types Every Angular Developer Should Know](https://dev.to/ojasdeshpande/typescript-utility-types-every-angular-developer-should-know-41c6)
+- [Why &quot;Optimize Your Images&quot; Is Bad Advice](https://dev.to/igorgridel/why-optimize-your-images-is-bad-advice-5oj)
+- [CipherKit](https://dev.to/karthick_ajan/cipherkit-5h2i)
+- [Math cheatsheet before you deep-dive into ZK](https://dev.to/0xluk3/math-cheatsheet-before-you-deep-dive-into-zk-1bo6)
+- [Im looking for indie apps and tools built by solo developers, their stories and perspectives for a newsletter I’m starting. If you know a solo maker or use an overlooked gem built by one please let me know! 🙏](https://dev.to/valeriavg/im-looking-for-indie-apps-and-tools-built-by-solo-developers-their-stories-and-perspectives-for-a-3lhh)
+- [Making OpenClaw remember what it&#39;s doing after compaction](https://dev.to/whtsky/making-openclaw-remember-what-its-doing-after-compaction-11fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
