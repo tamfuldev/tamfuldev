@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kaelux: Engineering the Future of Intelligent Infrastructure](https://dev.to/ker102/kaelux-engineering-the-future-of-intelligent-infrastructure-2ido)
-- [94% of my traffic shows as direct. Here&#39;s what I found](https://dev.to/zenovay/94-of-my-traffic-shows-as-direct-heres-what-i-found-47gl)
-- [Why Web Apps Should Never Lose Your Session Again](https://dev.to/rohith_kn/why-web-apps-should-never-lose-your-session-again-4pn8)
-- [Building Your First MCP Server: TypeScript vs. Python](https://dev.to/kenwalger/building-your-first-mcp-server-typescript-vs-python-31ch)
-- [Stop Babysitting Servers: Build a Scalable Serverless Data Lake on AWS](https://dev.to/tuni56/stop-babysitting-servers-build-a-scalable-serverless-data-lake-on-aws-2pn7)
+- [incident.io Alternative: Open Source AI Incident Management](https://dev.to/siddharth_singh_409bd5267/incidentio-alternative-open-source-ai-incident-management-1ik0)
+- [Building a Multi-Agent System with a Single OpenClaw Workspace](https://dev.to/behruamm/building-a-multi-agent-system-with-a-single-openclaw-workspace-349k)
+- [Why Vibe Coding Will Replace Traditional Programming](https://dev.to/nishilbhave/why-vibe-coding-will-replace-traditional-programming-40li)
+- [AI Architecture in 2026: The Stack That Actually Works](https://dev.to/richard_cohen_301490c120b/ai-architecture-in-2026-the-stack-that-actually-works-5h7k)
+- [Building GNOME Apps with Rust, Part 1: Getting Started](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-1-getting-started-25ol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
