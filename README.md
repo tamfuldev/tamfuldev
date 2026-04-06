@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lox as a Racket language module](https://dev.to/davide_lettieri_a99c7dd29/lox-as-a-racket-language-module-4dl5)
-- [How a Structural Engineer Built a 6-Business AI System From His Phone](https://dev.to/domoniqueluchin/how-a-structural-engineer-built-a-6-business-ai-system-from-his-phone-7pn)
-- [Why I Switched from ChromaDB to ElasticSearch &lpar;and What I Miss&rpar;](https://dev.to/bash-thedev/why-i-switched-from-chromadb-to-elasticsearch-and-what-i-miss-2kbl)
-- [Architecture Philosophy: Rule-First Design](https://dev.to/wintrover/architecture-philosophy-rule-first-design-5gd1)
-- [&quot;How My First User Request Uncovered a Hilarious Structural Bug&quot;](https://dev.to/rocketsquirreldev/how-my-first-user-request-uncovered-a-hilarious-structural-bug-2p58)
+- [SnapAPI vs ScreenshotOne vs Urlbox vs PageBolt: Honest Comparison &lpar;2026&rpar;](https://dev.to/sleywill_45/snapapi-vs-screenshotone-vs-urlbox-vs-pagebolt-honest-comparison-2026-1gan)
+- [Run AI Models On-Device — Zero Config, Five Minutes](https://dev.to/xybrid/run-ai-models-on-device-zero-config-five-minutes-21k1)
+- [Deliberate Hybrid Design: Building Systems That Gracefully Fall Back from AI to Deterministic Logic](https://dev.to/geluvac/deliberate-hybrid-design-building-systems-that-gracefully-fall-back-from-ai-to-deterministic-logic-1mna)
+- [Transforming Your Old Laptop Into Your New Self Hosted Google Photos Alternative](https://dev.to/otwl/transforming-your-old-laptop-into-your-new-self-hosted-google-photos-alternative-4k7n)
+- [TypeScript Utility Types Every Angular Developer Should Know](https://dev.to/ojasdeshpande/typescript-utility-types-every-angular-developer-should-know-41c6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
