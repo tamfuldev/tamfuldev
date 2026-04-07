@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Technical Debt Without Stopping Feature Development 🔧](https://dev.to/techvinta/how-to-reduce-technical-debt-without-stopping-feature-development-43i0)
-- [How I Cut My AI API Costs by 40% Without Changing a Single Prompt](https://dev.to/ravi_patel_99/how-i-cut-my-ai-api-costs-by-40-without-changing-a-single-prompt-1h4f)
-- [Why you should abstract EF&#39;s DBContext](https://dev.to/paulopozeti/why-you-should-abstract-efs-dbcontext-38e)
-- [I Ran a Reddit SEO Experiment and AI Chatbots Told Me It Worked](https://dev.to/natalie_seeklab_4ce72aa3b/i-ran-a-reddit-seo-experiment-and-ai-chatbots-told-me-it-worked-2ca6)
-- [A hard-earned rule from incident retrospectives:](https://dev.to/neeraja_khanapure_4a33a5f/a-hard-earned-rule-from-incident-retrospectives-40jp)
+- [You’re probably leaking sensitive data every time you use online dev tools](https://dev.to/andrewrozumny/youre-probably-leaking-sensitive-data-every-time-you-use-online-dev-tools-47j8)
+- [I published my benchmark scores. Your turn.](https://dev.to/luckypipewrench/i-published-my-benchmark-scores-your-turn-101n)
+- [ASP.NET Core MVC Explained — Step-by-Step with Real Code &amp; Best Practices](https://dev.to/practical_tech_notes/aspnet-core-mvc-explained-step-by-step-with-real-code-best-practices-3km0)
+- [I Built the API GSMArena Never Had &lpar;Mobile Specs + DXOMark Data&rpar;](https://dev.to/sanjeevutarun/i-built-the-api-gsmarena-never-had-mobile-specs-dxomark-data-4mc8)
+- [Why Your MCP Apps Feels Slower on ChatGPT Than Claude](https://dev.to/cptrodgers/why-your-mcp-apps-feels-slower-on-chatgpt-than-claude-44hf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
