@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ShadowStrike Phantom: Open-Source EDR Platform](https://dev.to/shadowstrikelabs/shadowstrike-phantom-open-source-edr-platform-57lj)
-- [Um resumo sobre o padrão de projeto Adapter](https://dev.to/determinado96/um-resumo-sobre-o-padrao-de-projeto-adapter-1mh8)
-- [I kept getting wrecked by Claude API bills. So I built a middleware layer.](https://dev.to/augustushenry2007/i-kept-getting-wrecked-by-claude-api-bills-so-i-built-a-middleware-layer-4mbe)
-- [MemPalace: 170 Tokens to Recall Everything — A Long-Term Memory System for AI Agents](https://dev.to/recca0120/mempalace-170-tokens-to-recall-everything-a-long-term-memory-system-for-ai-agents-2855)
-- [The $3/Month Enterprise-Ready Automation Stack: Zero-Trust n8n With One Command &lpar;n8n, Cloudflare, UpCloud, Pulumi&rpar;](https://dev.to/mihailtd/the-3month-enterprise-ready-automation-stack-zero-trust-n8n-with-one-command-n8n-cloudflare-556g)
+- [The Google Play 12-Tester Wall: A Solo Dev&#39;s Guide &lpar;and a Plea for Help&rpar;](https://dev.to/orthogonalinfo/the-google-play-12-tester-wall-a-solo-devs-guide-and-a-plea-for-help-4o10)
+- [ChromeFlash](https://dev.to/picarda27/chromeflash-415a)
+- [Context Switching or Multitasking as a human](https://dev.to/sharifulislamsourav/context-switching-or-multitasking-as-a-human-1133)
+- [Building a database to understand databases](https://dev.to/h0tb0x/building-a-database-to-understand-databases-eie)
+- [Part 2 - Connecting AI Agents to Microservices with MCP](https://dev.to/pedrop3/part-2-connecting-ai-agents-to-microservices-with-mcp-16m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
