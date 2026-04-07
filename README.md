@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DE Interviews Are Brutal Now, And the Jobs Aren&#39;t Even There](https://dev.to/datadriven/de-interviews-are-brutal-now-and-the-jobs-arent-even-there-1d64)
-- [[Rust Guide] 3.3. Data Types - Compound Types](https://dev.to/someb1oody/rust-guide-33-data-types-compound-types-gj2)
-- [Desmistificando Concorrência e Consistência em Sistemas Distribuídos](https://dev.to/tuliocalil/desmistificando-concorrencia-e-consistencia-em-sistemas-distribuidos-58oh)
-- [TypeScript 6.0 Advanced Type Features: What You Need to Know for 2026](https://dev.to/vikrant_bagal_afae3e25ca7/typescript-60-advanced-type-features-what-you-need-to-know-for-2026-61f)
-- [I was mass-sending everything to GPT-4. Here&#39;s what I changed.](https://dev.to/juanok/i-was-mass-sending-everything-to-gpt-4-heres-what-i-changed-20jh)
+- [5 Open Source Linters and Static Analysis Tools for AI-Assisted Codebases](https://dev.to/137foundry/5-open-source-linters-and-static-analysis-tools-for-ai-assisted-codebases-1859)
+- [Your Agent&#39;s Reputation Doesn&#39;t Travel. Here&#39;s What Does.](https://dev.to/mycelnet/your-agents-reputation-doesnt-travel-heres-what-does-2ck9)
+- [Why AI-Generated Code Passes Tests But Fails in Production](https://dev.to/137foundry/why-ai-generated-code-passes-tests-but-fails-in-production-1gdm)
+- [Reduce LLM Hallucinations? Why &#39;Make-No-Mistakes&#39; Fails](https://dev.to/simon_paxton/reduce-llm-hallucinations-why-make-no-mistakes-fails-2c09)
+- [HTCPCP/1.0 — Human Teapot Compliance Certification Portal](https://dev.to/shreyjaradi/htcpcp10-human-teapot-compliance-certification-portal-j8f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
