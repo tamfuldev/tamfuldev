@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No Big-Bang Rewrites: Running Two Frontends Without Losing Your Mind](https://dev.to/tacoda/no-big-bang-rewrites-running-two-frontends-without-losing-your-mind-4975)
-- [deus Regex de CNPJ: Valide o Novo Formato Alfanumérico no NestJS e TS ⚡](https://dev.to/leandrogazoli/deus-regex-de-cnpj-valide-o-novo-formato-alfanumerico-no-nestjs-e-ts-1d0n)
-- [KV cache memory calculator: how much does your LLM actually use?](https://dev.to/jagmarques/kv-cache-memory-calculator-how-much-does-your-llm-actually-use-85n)
-- [How to benchmark NexusQuant on your own model](https://dev.to/jagmarques/how-to-benchmark-nexusquant-on-your-own-model-3p95)
-- [Four Write Tools, Zero Confirmation, What Could Go Wrong](https://dev.to/fole/four-write-tools-zero-confirmation-what-could-go-wrong-4n2a)
+- [I built a Jira bot from my broken laptop because LinkedIn made me feel like I had to](https://dev.to/k-kj0/i-built-a-jira-bot-from-my-broken-laptop-because-linkedin-made-me-feel-like-i-had-to-5gc1)
+- [4 Questions to Redesign Your Org for AI Agents](https://dev.to/talweezy/4-questions-to-redesign-your-org-for-ai-agents-10d2)
+- [S3-Compatible Backup Storage: AWS, DigitalOcean Spaces, Backblaze B2 &amp; More](https://dev.to/deploynix/s3-compatible-backup-storage-aws-digitalocean-spaces-backblaze-b2-more-14f6)
+- [Snyk vs Black Duck: SCA Platform Comparison for 2026](https://dev.to/rahulxsingh/snyk-vs-black-duck-sca-platform-comparison-for-2026-hjf)
+- [Top 5 WireMock Alternatives Best Practices](https://dev.to/kenahrens/top-5-wiremock-alternatives-best-practices-500m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
