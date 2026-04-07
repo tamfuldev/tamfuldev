@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Jira bot from my broken laptop because LinkedIn made me feel like I had to](https://dev.to/k-kj0/i-built-a-jira-bot-from-my-broken-laptop-because-linkedin-made-me-feel-like-i-had-to-5gc1)
-- [4 Questions to Redesign Your Org for AI Agents](https://dev.to/talweezy/4-questions-to-redesign-your-org-for-ai-agents-10d2)
-- [S3-Compatible Backup Storage: AWS, DigitalOcean Spaces, Backblaze B2 &amp; More](https://dev.to/deploynix/s3-compatible-backup-storage-aws-digitalocean-spaces-backblaze-b2-more-14f6)
-- [Snyk vs Black Duck: SCA Platform Comparison for 2026](https://dev.to/rahulxsingh/snyk-vs-black-duck-sca-platform-comparison-for-2026-hjf)
-- [Top 5 WireMock Alternatives Best Practices](https://dev.to/kenahrens/top-5-wiremock-alternatives-best-practices-500m)
+- [ShadowStrike Phantom: Open-Source EDR Platform](https://dev.to/shadowstrikelabs/shadowstrike-phantom-open-source-edr-platform-57lj)
+- [Um resumo sobre o padrão de projeto Adapter](https://dev.to/determinado96/um-resumo-sobre-o-padrao-de-projeto-adapter-1mh8)
+- [I kept getting wrecked by Claude API bills. So I built a middleware layer.](https://dev.to/augustushenry2007/i-kept-getting-wrecked-by-claude-api-bills-so-i-built-a-middleware-layer-4mbe)
+- [MemPalace: 170 Tokens to Recall Everything — A Long-Term Memory System for AI Agents](https://dev.to/recca0120/mempalace-170-tokens-to-recall-everything-a-long-term-memory-system-for-ai-agents-2855)
+- [The $3/Month Enterprise-Ready Automation Stack: Zero-Trust n8n With One Command &lpar;n8n, Cloudflare, UpCloud, Pulumi&rpar;](https://dev.to/mihailtd/the-3month-enterprise-ready-automation-stack-zero-trust-n8n-with-one-command-n8n-cloudflare-556g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
