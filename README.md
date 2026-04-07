@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote 500 Lines of Rules for Claude Code. Here&#39;s How I Made It Actually Follow Them.](https://dev.to/mikeadolan/i-wrote-500-lines-of-rules-for-claude-code-heres-how-i-made-it-actually-follow-them-3c8)
-- [How to setup Terminal tools for Mac](https://dev.to/onmyway133/how-to-setup-terminal-tools-for-mac-3bnf)
-- [How to present interactive CLI prompts in Swift](https://dev.to/onmyway133/how-to-present-interactive-cli-prompts-in-swift-5f73)
-- [stop muting your users with local license validation](https://dev.to/archergate/stop-muting-your-users-with-local-license-validation-1ge9)
-- [I built a PDF tool that never uploads your files &lpar;client-side only&rpar;](https://dev.to/huntingdev/i-built-a-pdf-tool-that-never-uploads-your-files-client-side-only-4m7m)
+- [Speculative Decoding’s Ceiling Just Moved With DFlash](https://dev.to/simon_paxton/speculative-decodings-ceiling-just-moved-with-dflash-5764)
+- [Why AI is replacing some jobs faster than others #AI](https://dev.to/0x41414141/why-ai-is-replacing-some-jobs-faster-than-others-ai-2m2k)
+- [How I Built a Fast, Multilingual Crossword &amp; Sudoku Platform &lpar;crossword.by&rpar;](https://dev.to/tooboo/how-i-built-a-fast-multilingual-crossword-sudoku-platform-crosswordby-4k5)
+- [Apollo 11 Guidance Computer: The Undocumented Bug We Found](https://dev.to/onsen/apollo-11-guidance-computer-the-undocumented-bug-we-found-3eni)
+- [Asqav vs Microsoft Agent Governance Toolkit - what is the difference](https://dev.to/jagmarques/asqav-vs-microsoft-agent-governance-toolkit-what-is-the-difference-598d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
