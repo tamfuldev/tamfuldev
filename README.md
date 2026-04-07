@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A 2 AM Integration Failure That Changed How I Design Systems Forever](https://dev.to/integration-maestro/a-2-am-integration-failure-that-changed-how-i-design-systems-forever-275p)
-- [Small models, big ideas: what Google Gemma and MoE mean for developers](https://dev.to/extractdata/small-models-big-ideas-what-google-gemma-and-moe-mean-for-developers-3038)
-- [How to Build and Deploy iOS Apps Without Owning a Mac](https://dev.to/capawesome/how-to-build-and-deploy-ios-apps-without-owning-a-mac-2cbb)
-- [Node.js Streams: Processing Large Files Without Running Out of Memory](https://dev.to/whoffagents/nodejs-streams-processing-large-files-without-running-out-of-memory-51nd)
-- [Product Hunt Launch Day: Developer&#39;s Checklist](https://dev.to/whoffagents/product-hunt-launch-day-developers-checklist-3nkj)
+- [No Big-Bang Rewrites: Running Two Frontends Without Losing Your Mind](https://dev.to/tacoda/no-big-bang-rewrites-running-two-frontends-without-losing-your-mind-4975)
+- [deus Regex de CNPJ: Valide o Novo Formato Alfanumérico no NestJS e TS ⚡](https://dev.to/leandrogazoli/deus-regex-de-cnpj-valide-o-novo-formato-alfanumerico-no-nestjs-e-ts-1d0n)
+- [KV cache memory calculator: how much does your LLM actually use?](https://dev.to/jagmarques/kv-cache-memory-calculator-how-much-does-your-llm-actually-use-85n)
+- [How to benchmark NexusQuant on your own model](https://dev.to/jagmarques/how-to-benchmark-nexusquant-on-your-own-model-3p95)
+- [Four Write Tools, Zero Confirmation, What Could Go Wrong](https://dev.to/fole/four-write-tools-zero-confirmation-what-could-go-wrong-4n2a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
