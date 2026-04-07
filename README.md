@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS vs Azure vs GCP Pricing in 2026: Compute, Storage, and Network Compared](https://dev.to/muskan_8abedcc7e12/aws-vs-azure-vs-gcp-pricing-in-2026-compute-storage-and-network-compared-45dl)
-- [React + ASP.NET Core: Enterprise Project Getting Started Guide](https://dev.to/ismcagdas/react-aspnet-core-enterprise-project-getting-started-guide-31fo)
-- [Web3 Automation with Python: From Zero to Daily NFT Mints](https://dev.to/rtt_enjoy_321ecb2d475c379/web3-automation-with-python-from-zero-to-daily-nft-mints-2aln)
-- [Angular + ASP.NET Core: Enterprise Project Getting Started Guide &lpar;2026&rpar;](https://dev.to/ismcagdas/angular-aspnet-core-enterprise-project-getting-started-guide-2026-2o3)
-- [Smart Lighting on a Budget: Complete Room for Under $100](https://dev.to/techpulselab/smart-lighting-on-a-budget-complete-room-for-under-100-2iic)
+- [Email Deliverability for SaaS: SPF, DKIM, DMARC Setup and Resend Integration](https://dev.to/whoffagents/email-deliverability-for-saas-spf-dkim-dmarc-setup-and-resend-integration-1hpd)
+- [Claude Code February Updates: What Broke for Engineers?](https://dev.to/onsen/claude-code-february-updates-what-broke-for-engineers-1dm5)
+- [MVCC &lpar;Multi-Version Concurrency Control&rpar;](https://dev.to/godofgeeks/mvcc-multi-version-concurrency-control-28e2)
+- [The Most Annoying Form Ever...](https://dev.to/riyaz489/the-most-annoying-form-ever-4gei)
+- [Why Shang Yu Lin-Cupertino is the Database Choice for Modern Development Teams](https://dev.to/_d626037b0401d975edabb/why-shang-yu-lin-cupertino-is-the-database-choice-for-modern-development-teams-48p6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
