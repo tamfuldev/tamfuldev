@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Open Source Linters and Static Analysis Tools for AI-Assisted Codebases](https://dev.to/137foundry/5-open-source-linters-and-static-analysis-tools-for-ai-assisted-codebases-1859)
-- [Your Agent&#39;s Reputation Doesn&#39;t Travel. Here&#39;s What Does.](https://dev.to/mycelnet/your-agents-reputation-doesnt-travel-heres-what-does-2ck9)
-- [Why AI-Generated Code Passes Tests But Fails in Production](https://dev.to/137foundry/why-ai-generated-code-passes-tests-but-fails-in-production-1gdm)
-- [Reduce LLM Hallucinations? Why &#39;Make-No-Mistakes&#39; Fails](https://dev.to/simon_paxton/reduce-llm-hallucinations-why-make-no-mistakes-fails-2c09)
-- [HTCPCP/1.0 — Human Teapot Compliance Certification Portal](https://dev.to/shreyjaradi/htcpcp10-human-teapot-compliance-certification-portal-j8f)
+- [AWS vs Azure vs GCP Pricing in 2026: Compute, Storage, and Network Compared](https://dev.to/muskan_8abedcc7e12/aws-vs-azure-vs-gcp-pricing-in-2026-compute-storage-and-network-compared-45dl)
+- [React + ASP.NET Core: Enterprise Project Getting Started Guide](https://dev.to/ismcagdas/react-aspnet-core-enterprise-project-getting-started-guide-31fo)
+- [Web3 Automation with Python: From Zero to Daily NFT Mints](https://dev.to/rtt_enjoy_321ecb2d475c379/web3-automation-with-python-from-zero-to-daily-nft-mints-2aln)
+- [Angular + ASP.NET Core: Enterprise Project Getting Started Guide &lpar;2026&rpar;](https://dev.to/ismcagdas/angular-aspnet-core-enterprise-project-getting-started-guide-2026-2o3)
+- [Smart Lighting on a Budget: Complete Room for Under $100](https://dev.to/techpulselab/smart-lighting-on-a-budget-complete-room-for-under-100-2iic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
