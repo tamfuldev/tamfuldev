@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Google Play 12-Tester Wall: A Solo Dev&#39;s Guide &lpar;and a Plea for Help&rpar;](https://dev.to/orthogonalinfo/the-google-play-12-tester-wall-a-solo-devs-guide-and-a-plea-for-help-4o10)
-- [ChromeFlash](https://dev.to/picarda27/chromeflash-415a)
-- [Context Switching or Multitasking as a human](https://dev.to/sharifulislamsourav/context-switching-or-multitasking-as-a-human-1133)
-- [Building a database to understand databases](https://dev.to/h0tb0x/building-a-database-to-understand-databases-eie)
-- [Part 2 - Connecting AI Agents to Microservices with MCP](https://dev.to/pedrop3/part-2-connecting-ai-agents-to-microservices-with-mcp-16m4)
+- [I Wrote 500 Lines of Rules for Claude Code. Here&#39;s How I Made It Actually Follow Them.](https://dev.to/mikeadolan/i-wrote-500-lines-of-rules-for-claude-code-heres-how-i-made-it-actually-follow-them-3c8)
+- [How to setup Terminal tools for Mac](https://dev.to/onmyway133/how-to-setup-terminal-tools-for-mac-3bnf)
+- [How to present interactive CLI prompts in Swift](https://dev.to/onmyway133/how-to-present-interactive-cli-prompts-in-swift-5f73)
+- [stop muting your users with local license validation](https://dev.to/archergate/stop-muting-your-users-with-local-license-validation-1ge9)
+- [I built a PDF tool that never uploads your files &lpar;client-side only&rpar;](https://dev.to/huntingdev/i-built-a-pdf-tool-that-never-uploads-your-files-client-side-only-4m7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
