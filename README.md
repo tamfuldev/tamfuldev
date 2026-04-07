@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You’re probably leaking sensitive data every time you use online dev tools](https://dev.to/andrewrozumny/youre-probably-leaking-sensitive-data-every-time-you-use-online-dev-tools-47j8)
-- [I published my benchmark scores. Your turn.](https://dev.to/luckypipewrench/i-published-my-benchmark-scores-your-turn-101n)
-- [ASP.NET Core MVC Explained — Step-by-Step with Real Code &amp; Best Practices](https://dev.to/practical_tech_notes/aspnet-core-mvc-explained-step-by-step-with-real-code-best-practices-3km0)
-- [I Built the API GSMArena Never Had &lpar;Mobile Specs + DXOMark Data&rpar;](https://dev.to/sanjeevutarun/i-built-the-api-gsmarena-never-had-mobile-specs-dxomark-data-4mc8)
-- [Why Your MCP Apps Feels Slower on ChatGPT Than Claude](https://dev.to/cptrodgers/why-your-mcp-apps-feels-slower-on-chatgpt-than-claude-44hf)
+- [CI/CD Pipeline Design: From Push to Production in Under 10 Minutes](https://dev.to/whoffagents/cicd-pipeline-design-from-push-to-production-in-under-10-minutes-8ok)
+- [5 open source tools for AI agent governance in 2026](https://dev.to/jagmarques/5-open-source-tools-for-ai-agent-governance-in-2026-54le)
+- [Error Monitoring in Production: Beyond console.log](https://dev.to/whoffagents/error-monitoring-in-production-beyond-consolelog-21n2)
+- [okama 2.0: New Withdrawal Strategies and a Faster Efficient Frontier](https://dev.to/chilango74/okama-20-new-withdrawal-strategies-and-a-faster-efficient-frontier-4no6)
+- [Prisma Schema Design: Relationships, Enums, and Indexes That Scale](https://dev.to/whoffagents/prisma-schema-design-relationships-enums-and-indexes-that-scale-9gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
