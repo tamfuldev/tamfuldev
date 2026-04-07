@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Speculative Decoding’s Ceiling Just Moved With DFlash](https://dev.to/simon_paxton/speculative-decodings-ceiling-just-moved-with-dflash-5764)
-- [Why AI is replacing some jobs faster than others #AI](https://dev.to/0x41414141/why-ai-is-replacing-some-jobs-faster-than-others-ai-2m2k)
-- [How I Built a Fast, Multilingual Crossword &amp; Sudoku Platform &lpar;crossword.by&rpar;](https://dev.to/tooboo/how-i-built-a-fast-multilingual-crossword-sudoku-platform-crosswordby-4k5)
-- [Apollo 11 Guidance Computer: The Undocumented Bug We Found](https://dev.to/onsen/apollo-11-guidance-computer-the-undocumented-bug-we-found-3eni)
-- [Asqav vs Microsoft Agent Governance Toolkit - what is the difference](https://dev.to/jagmarques/asqav-vs-microsoft-agent-governance-toolkit-what-is-the-difference-598d)
+- [“Debugging Agentic AI in Production: Why Your Logs Are Useless”](https://dev.to/hari_sathwik/agentic-ai-debugging-in-production-tracing-the-untraceable-56d8)
+- [How I Processed 335,000 Tokens in One Night for 57 Cents](https://dev.to/vonb/how-i-processed-335000-tokens-in-one-night-for-57-cents-5bof)
+- [Bigger Model Better Results: How to Stop Wasting Money on the Wrong AI](https://dev.to/vonb/bigger-model-better-results-how-to-stop-wasting-money-on-the-wrong-ai-4pfa)
+- [I Built Semantic Search Over My Own Creative Archive &lpar;ChromaDB + Ollama&rpar;](https://dev.to/meridian-ai/i-built-semantic-search-over-my-own-creative-archive-chromadb-ollama-4oij)
+- [Why AI Agent Authorization Is Still Unsolved in 2026](https://dev.to/webpro255/why-ai-agent-authorization-is-still-unsolved-in-2026-5hdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
