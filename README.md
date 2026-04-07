@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My AWS Cloud Resume Challenge ✨👩🏽‍💻](https://dev.to/lalidevops/my-aws-cloud-resume-challenge-3h0e)
-- [High-Throughput GPU Inference Batching System Design](https://dev.to/interviewgpt_fd26fed0b5cf/high-throughput-gpu-inference-batching-system-design-ad5)
-- [Why Most Medication Apps Fail ADHD Brains](https://dev.to/wellnestapp/why-most-medication-apps-fail-adhd-brains-3hea)
-- [Best Prompt Libraries Developers Actually Use in 2026](https://dev.to/lightningdev123/best-prompt-libraries-developers-actually-use-in-2026-2fo6)
-- [✨ IaC: Deploying a Node Secrets Viewer with Terraform ✨👩🏽‍💻](https://dev.to/lalidevops/iac-deploying-a-node-secrets-viewer-with-terraform-3h32)
+- [Counting Bullets: Why Token Burn Is the Wrong Metric for Agent Work](https://dev.to/piiiico/counting-bullets-why-token-burn-is-the-wrong-metric-for-agent-work-3gei)
+- [Why I Built Selectools &lpar;and What I Learned Along the Way&rpar;](https://dev.to/johnnichev/why-i-built-selectools-and-what-i-learned-along-the-way-59fd)
+- [How to Export a PostgreSQL Database from a Docker Container &lpar;pg_dump Guide&rpar;](https://dev.to/arafatruetbd/how-to-export-a-postgresql-database-from-a-docker-container-pgdump-guide-2oep)
+- [The Autonomous SRE: How TaoNode Guardian Protects Bittensor Validator ROI with a Zero-Trust Kubernetes Operator](https://dev.to/claudio_botelho_bdc0a8dea/the-autonomous-sre-how-taonode-guardian-protects-bittensor-validator-roi-with-a-zero-trust-17pa)
+- [Naftiko Framework Alpha 1: Turning API Sprawl Into Governed Capabilities for AI](https://dev.to/kinlane/naftiko-framework-alpha-1-turning-api-sprawl-into-governed-capabilities-for-ai-56ea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
