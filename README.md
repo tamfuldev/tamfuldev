@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Pipeline Design: From Push to Production in Under 10 Minutes](https://dev.to/whoffagents/cicd-pipeline-design-from-push-to-production-in-under-10-minutes-8ok)
-- [5 open source tools for AI agent governance in 2026](https://dev.to/jagmarques/5-open-source-tools-for-ai-agent-governance-in-2026-54le)
-- [Error Monitoring in Production: Beyond console.log](https://dev.to/whoffagents/error-monitoring-in-production-beyond-consolelog-21n2)
-- [okama 2.0: New Withdrawal Strategies and a Faster Efficient Frontier](https://dev.to/chilango74/okama-20-new-withdrawal-strategies-and-a-faster-efficient-frontier-4no6)
-- [Prisma Schema Design: Relationships, Enums, and Indexes That Scale](https://dev.to/whoffagents/prisma-schema-design-relationships-enums-and-indexes-that-scale-9gm)
+- [A 2 AM Integration Failure That Changed How I Design Systems Forever](https://dev.to/integration-maestro/a-2-am-integration-failure-that-changed-how-i-design-systems-forever-275p)
+- [Small models, big ideas: what Google Gemma and MoE mean for developers](https://dev.to/extractdata/small-models-big-ideas-what-google-gemma-and-moe-mean-for-developers-3038)
+- [How to Build and Deploy iOS Apps Without Owning a Mac](https://dev.to/capawesome/how-to-build-and-deploy-ios-apps-without-owning-a-mac-2cbb)
+- [Node.js Streams: Processing Large Files Without Running Out of Memory](https://dev.to/whoffagents/nodejs-streams-processing-large-files-without-running-out-of-memory-51nd)
+- [Product Hunt Launch Day: Developer&#39;s Checklist](https://dev.to/whoffagents/product-hunt-launch-day-developers-checklist-3nkj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
