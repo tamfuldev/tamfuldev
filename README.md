@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Time Travel for Your State: Undo/Redo - with Zustand and React Query &lpar;Part 2&rpar;](https://dev.to/math-krish/time-travel-for-your-state-undoredo-with-zustand-and-react-query-part-2-4d64)
-- [AI-Driven Architecture vs. Human-Led Design: A Practical Comparison](https://dev.to/alanwest/ai-driven-architecture-vs-human-led-design-a-practical-comparison-1j5g)
-- [Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention](https://dev.to/vsnikhilvs/claude-code-leak-why-every-developer-building-ai-systems-should-be-paying-attention-fjl)
-- [[AutoBe] Qwen 3.5-27B Just Built Complete Backends from Scratch — 100% Compilation, 25x Cheaper](https://dev.to/samchon/autobe-qwen-35-27b-just-built-complete-backends-from-scratch-100-compilation-25x-cheaper-lmd)
-- [How to Master SQLAlchemy I/O: Testing Queries in CI to Prevent Database Disasters 🚨](https://dev.to/fmartins/how-to-master-sqlalchemy-io-testing-queries-in-ci-to-prevent-database-disasters-4gfj)
+- [CRDTs and Local-First Architecture: How smallstack Handles Offline Conflict Resolution](https://dev.to/maxfriedmann/crdts-and-local-first-architecture-how-smallstack-handles-offline-conflict-resolution-338c)
+- [The Invisible Roots of Progress: Top 10 Supermaterials Stuck in the Laboratory](https://dev.to/oleg_kholin_551a551b/the-invisible-roots-of-progress-top-10-supermaterials-stuck-in-the-laboratory-3do2)
+- [Karpathy&#39;s LLM Wiki is right. I just didn&#39;t want to run it locally.](https://dev.to/hjarni/karpathys-llm-wiki-is-right-i-just-didnt-want-to-run-it-locally-170m)
+- [The OpenClaw Security Crisis: 135,000 Exposed AI Agents and the Runtime Governance Gap](https://dev.to/waxell/the-openclaw-security-crisis-135000-exposed-ai-agents-and-the-runtime-governance-gap-e26)
+- [SonarQube vs Coverity: Quality vs Defect Detection](https://dev.to/rahulxsingh/sonarqube-vs-coverity-quality-vs-defect-detection-1eih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
