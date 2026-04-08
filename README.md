@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Personal Second Brain with Markdown Files and Claude Code — Here&#39;s How](https://dev.to/shirisha_uppoju_b20d30705/i-built-a-personal-second-brain-with-markdown-files-and-claude-code-heres-how-2m14)
-- [10 Signs of Burnout in Software Engineers](https://dev.to/recharge/10-signs-of-burnout-in-software-engineers-1b5b)
-- [Designing Low-Noise, Actionable Alerts](https://dev.to/beefedai/designing-low-noise-actionable-alerts-2ng8)
-- [🕌 Daily Prayer Timer &lpar;Native&rpar;: A Sleek Glassmorphic Windows App for your Taskbar](https://dev.to/abiruzzamanmolla/daily-prayer-timer-native-a-sleek-glassmorphic-windows-app-for-your-taskbar-1c9k)
-- [分布式事务完全指南：CAP定理与可靠消息的深度实践](https://dev.to/tianxin/fen-bu-shi-shi-wu-wan-quan-zhi-nan-capding-li-yu-ke-kao-xiao-xi-de-shen-du-shi-jian-31hk)
+- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
+- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-32l7)
+- [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
+- [Best Clipboard Manager for Developers &lpar;2026 Guide&rpar;](https://dev.to/alokt/best-clipboard-manager-for-developers-2026-guide-2m0g)
+- [Users Don’t Choose the Best Tool — They Choose the Easiest One](https://dev.to/bhavin-allinonetools/users-dont-choose-the-best-tool-they-choose-the-easiest-one-5d2j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
