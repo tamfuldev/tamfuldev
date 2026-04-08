@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Curator&#39;s Role: Managing a Codebase With an Agent](https://dev.to/tacoda/the-curators-role-managing-a-codebase-with-an-agent-2jlb)
-- [I Gave My Codebase an AI Intern. Here&#39;s What Actually Happened.](https://dev.to/aryan21888/i-gave-my-codebase-an-ai-intern-heres-what-actually-happened-5ana)
-- [SonarQube for Python: Setup, Rules, and Best Practices](https://dev.to/rahulxsingh/sonarqube-for-python-setup-rules-and-best-practices-3de3)
-- [How to Connect Any AI Coding Assistant to Kafka, MQTT, and Live Data Streams](https://dev.to/mansi_tiwari_2a4bcfc1a203/how-to-connect-any-ai-coding-assistant-to-kafka-mqtt-and-live-data-streams-5cg7)
-- [Project Glasswing: Securing critical software for the AI era](https://dev.to/technoblogger14o3/project-glasswing-securing-critical-software-for-the-ai-era-5bn7)
+- [Practicing Basic Concepts On Web Security](https://dev.to/manuelarte/practicing-basic-concepts-on-web-security-5a9m)
+- [Day 2 - Problem Solving](https://dev.to/thirusakthi-dev/day-3-problem-solving-poo)
+- [Beyond Laravel: Applying the Agent Harness to Any Stack](https://dev.to/tacoda/beyond-laravel-applying-the-agent-harness-to-any-stack-2gaf)
+- [A simple action will put you in the top 52% of coders from these stats](https://dev.to/canro91/a-simple-action-will-put-you-in-the-top-52-of-coders-from-these-stats-4cb9)
+- [I&#39;m a seller, not a developer — I triaged a Rust crash in a 1,300-star project](https://dev.to/florianhorner/im-a-seller-not-a-developer-i-triaged-a-rust-crash-in-a-1300-star-project-2ln0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
