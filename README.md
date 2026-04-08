@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Buying a Mac Mini for Your AI Agent — There&#39;s a Better Way](https://dev.to/rui_fan/stop-buying-a-mac-mini-for-your-ai-agent-theres-a-better-way-4op3)
-- [I Built an Agent to Run Live Event Raffles &lpar;then tried to rig it&rpar;](https://dev.to/kimmaida/i-built-an-agent-to-run-live-event-raffles-then-tried-to-rig-it-al5)
-- [Glasscribe](https://dev.to/joshchodev_a647d9aa412646/glasscribe-4a65)
-- [Building a Browser Game with React: What Doesn’t work well &lpar;Run Away From Work&rpar;](https://dev.to/nyaomaru/building-a-browser-game-with-react-what-doesnt-work-well-run-away-from-work-1khf)
-- [Why Contact Form 7 Emails Look Unprofessional and How to Fix It](https://dev.to/allenarduino/why-contact-form-7-emails-look-unprofessional-and-how-to-fix-it-2jcb)
+- [The Curator&#39;s Role: Managing a Codebase With an Agent](https://dev.to/tacoda/the-curators-role-managing-a-codebase-with-an-agent-2jlb)
+- [I Gave My Codebase an AI Intern. Here&#39;s What Actually Happened.](https://dev.to/aryan21888/i-gave-my-codebase-an-ai-intern-heres-what-actually-happened-5ana)
+- [SonarQube for Python: Setup, Rules, and Best Practices](https://dev.to/rahulxsingh/sonarqube-for-python-setup-rules-and-best-practices-3de3)
+- [How to Connect Any AI Coding Assistant to Kafka, MQTT, and Live Data Streams](https://dev.to/mansi_tiwari_2a4bcfc1a203/how-to-connect-any-ai-coding-assistant-to-kafka-mqtt-and-live-data-streams-5cg7)
+- [Project Glasswing: Securing critical software for the AI era](https://dev.to/technoblogger14o3/project-glasswing-securing-critical-software-for-the-ai-era-5bn7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
