@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of paying for form backends, so I built my own](https://dev.to/ukasz_blania_4b7d226fa2a/i-got-tired-of-paying-for-form-backends-so-i-built-my-own-477f)
-- [How I Cut Our GitHub Actions Pipeline Time by More Than 50%](https://dev.to/ray_hao/how-i-cut-our-github-actions-pipeline-time-by-more-than-50-4665)
-- [AI Coding Assistant Refuses to Center a Div!](https://dev.to/md_mijanur_molla/ai-coding-assistant-refuses-to-center-a-div-3a19)
-- [Calibrating Your AI: Using Last Season&#39;s Data to Sharpen Forecasts](https://dev.to/ken_deng_ai/calibrating-your-ai-using-last-seasons-data-to-sharpen-forecasts-5495)
-- [WTF is Distributed Persistent Memory?](https://dev.to/dailybugle33/wtf-is-distributed-persistent-memory-n80)
+- [Is that MCP request actually from your AI agent](https://dev.to/willamhou/is-that-mcp-request-actually-from-your-ai-agent-3m28)
+- [How a Custom Dashboard Can Replace 5 SaaS Subscriptions](https://dev.to/jms_dev_lab/how-a-custom-dashboard-can-replace-5-saas-subscriptions-4i61)
+- [Generating Vue.js Components with Kiro — Building an &quot;Auntie Tigress&quot; Tracker 🐯](https://dev.to/onceupon/generating-vuejs-components-with-kiro-building-an-auntie-tigress-tracker-2gf2)
+- [Client Portals: How They Save Your Team 10+ Hours a Week](https://dev.to/jms_dev_lab/client-portals-how-they-save-your-team-10-hours-a-week-5he7)
+- [Why we&#39;re building the AI Tool Refugee Center: a place to land when your tool dies](https://dev.to/zsky/why-were-building-the-ai-tool-refugee-center-a-place-to-land-when-your-tool-dies-1e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
