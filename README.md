@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Agent Security: Practical Guardrails for Claude Code, Copilot, and Codex](https://dev.to/maxkrivich/ai-coding-agent-security-practical-guardrails-for-claude-code-copilot-and-codex-och)
-- [We Found a Ghost: Detecting an AI Agent Running in Kubernetes With No Source Code](https://dev.to/mwaseem-defendai/we-found-a-ghost-detecting-an-ai-agent-running-in-kubernetes-with-no-source-code-1ac6)
-- [System Design Basics: How Systems Actually Scale](https://dev.to/omjasharma/system-design-basics-how-systems-actually-scale-1oe6)
-- [Kotlin 2.4](https://dev.to/krun_pro/kotlin-24-5ak9)
-- [Understanding Transformers Part 3: How Transformers Combine Meaning and Position](https://dev.to/rijultp/understanding-transformers-part-3-how-transformers-combine-meaning-and-position-4gan)
+- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-4eoo)
+- [I Built an AI Rental Management Platform for My Brother. Here&#39;s What Actually Happened.](https://dev.to/arielf/i-built-an-ai-rental-management-platform-for-my-brother-heres-what-actually-happened-4385)
+- [I Spent Four Weeks Reading 200+ Sources on Context Engineering. Here&#39;s What I Built.](https://dev.to/johnnichev/i-spent-four-weeks-reading-200-sources-on-context-engineering-heres-what-i-built-2fem)
+- [An NVIDIA H100 Costs $30,000, So I Built One in My Browser. And It Works!](https://dev.to/patabah/an-nvidia-h100-costs-30000-so-i-built-one-in-my-browser-and-it-works-48dn)
+- [How to Build Self-Healing AI Agents with Monocle, Okahu MCP and OpenCode](https://dev.to/astrodevil/how-to-build-self-healing-ai-agents-with-monocle-okahu-mcp-and-opencode-1g4e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
