@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-4eoo)
-- [I Built an AI Rental Management Platform for My Brother. Here&#39;s What Actually Happened.](https://dev.to/arielf/i-built-an-ai-rental-management-platform-for-my-brother-heres-what-actually-happened-4385)
-- [I Spent Four Weeks Reading 200+ Sources on Context Engineering. Here&#39;s What I Built.](https://dev.to/johnnichev/i-spent-four-weeks-reading-200-sources-on-context-engineering-heres-what-i-built-2fem)
-- [An NVIDIA H100 Costs $30,000, So I Built One in My Browser. And It Works!](https://dev.to/patabah/an-nvidia-h100-costs-30000-so-i-built-one-in-my-browser-and-it-works-48dn)
-- [How to Build Self-Healing AI Agents with Monocle, Okahu MCP and OpenCode](https://dev.to/astrodevil/how-to-build-self-healing-ai-agents-with-monocle-okahu-mcp-and-opencode-1g4e)
+- [SOLID Principles you won&#39;t forget again](https://dev.to/sarupy/solid-principles-you-wont-forget-again-479o)
+- [MCP Security: Why Your AI Agent&#39;s Tool Calls Need a Firewall](https://dev.to/aymenhmaidi/mcp-security-why-your-ai-agents-tool-calls-need-a-firewall-3h48)
+- [Meta Just Revealed Its Agent Architecture. The Tool List Tells Us Everything.](https://dev.to/o96a/meta-just-revealed-its-agent-architecture-the-tool-list-tells-us-everything-53o6)
+- [How to Test WebSocket Connections in the Browser &lpar;No Install Required&rpar;](https://dev.to/willivan0706/how-to-test-websocket-connections-in-the-browser-no-install-required-1p68)
+- [Building an AI Invoice Generator in a Week &lpar;Week 8 of My NanoCrafts Build Curriculum&rpar;](https://dev.to/azeezroheem/building-an-ai-invoice-generator-in-a-week-week-8-of-my-nanocrafts-build-curriculum-43i4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
