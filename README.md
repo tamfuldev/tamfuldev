@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Generated Code Security: 87% of AI Pull Requests Have Vulnerabilities](https://dev.to/roymorken/ai-generated-code-security-87-of-ai-pull-requests-have-vulnerabilities-j4l)
-- [GitHub Copilot Security Flaws: Why AI Code Is Insecure &lpar;2026 Data&rpar;](https://dev.to/roymorken/github-copilot-security-flaws-why-ai-code-is-insecure-2026-data-264j)
-- [Detecting AI-Generated Code: 164 Signals and Tools &lpar;2026 Guide&rpar;](https://dev.to/roymorken/detecting-ai-generated-code-164-signals-and-tools-2026-guide-1j0g)
-- [OWASP Top 10 2025: What Changed and How to Fix Each Vulnerability](https://dev.to/roymorken/owasp-top-10-2025-what-changed-and-how-to-fix-each-vulnerability-2p43)
-- [SQL Injection Prevention in Python and Node.js: Parameterized Queries Guide](https://dev.to/roymorken/sql-injection-prevention-in-python-and-nodejs-parameterized-queries-guide-3bi8)
+- [Stop Buying a Mac Mini for Your AI Agent — There&#39;s a Better Way](https://dev.to/rui_fan/stop-buying-a-mac-mini-for-your-ai-agent-theres-a-better-way-4op3)
+- [I Built an Agent to Run Live Event Raffles &lpar;then tried to rig it&rpar;](https://dev.to/kimmaida/i-built-an-agent-to-run-live-event-raffles-then-tried-to-rig-it-al5)
+- [Glasscribe](https://dev.to/joshchodev_a647d9aa412646/glasscribe-4a65)
+- [Building a Browser Game with React: What Doesn’t work well &lpar;Run Away From Work&rpar;](https://dev.to/nyaomaru/building-a-browser-game-with-react-what-doesnt-work-well-run-away-from-work-1khf)
+- [Why Contact Form 7 Emails Look Unprofessional and How to Fix It](https://dev.to/allenarduino/why-contact-form-7-emails-look-unprofessional-and-how-to-fix-it-2jcb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
