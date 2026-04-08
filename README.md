@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is that MCP request actually from your AI agent](https://dev.to/willamhou/is-that-mcp-request-actually-from-your-ai-agent-3m28)
-- [How a Custom Dashboard Can Replace 5 SaaS Subscriptions](https://dev.to/jms_dev_lab/how-a-custom-dashboard-can-replace-5-saas-subscriptions-4i61)
-- [Generating Vue.js Components with Kiro — Building an &quot;Auntie Tigress&quot; Tracker 🐯](https://dev.to/onceupon/generating-vuejs-components-with-kiro-building-an-auntie-tigress-tracker-2gf2)
-- [Client Portals: How They Save Your Team 10+ Hours a Week](https://dev.to/jms_dev_lab/client-portals-how-they-save-your-team-10-hours-a-week-5he7)
-- [Why we&#39;re building the AI Tool Refugee Center: a place to land when your tool dies](https://dev.to/zsky/why-were-building-the-ai-tool-refugee-center-a-place-to-land-when-your-tool-dies-1e8)
+- [192 Personas Later: What Survived and What We Broke](https://dev.to/kato_masato_c5593c81af5c6/192-personas-later-what-survived-and-what-we-broke-48c3)
+- [Anatomy of a GitHub Actions Supply Chain Attack Targeting MCP Repos](https://dev.to/ticktockbent/anatomy-of-a-github-actions-supply-chain-attack-targeting-mcp-repos-59jb)
+- [I Was Tired of My Terminal Being Dumb — So I Built Termim](https://dev.to/imimofficial/i-was-tired-of-my-terminal-being-dumb-so-i-built-termim-5d9h)
+- [The Most Dangerous Word in AI Coding: &quot;Verified&quot;](https://dev.to/wintrover/the-most-dangerous-word-in-ai-coding-verified-3a1k)
+- [How I Stopped Form Spam Without reCAPTCHA](https://dev.to/zekebuilds/how-i-stopped-form-spam-without-recaptcha-4gld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
