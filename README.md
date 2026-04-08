@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Practicing Basic Concepts On Web Security](https://dev.to/manuelarte/practicing-basic-concepts-on-web-security-5a9m)
-- [Day 2 - Problem Solving](https://dev.to/thirusakthi-dev/day-3-problem-solving-poo)
-- [Beyond Laravel: Applying the Agent Harness to Any Stack](https://dev.to/tacoda/beyond-laravel-applying-the-agent-harness-to-any-stack-2gaf)
-- [A simple action will put you in the top 52% of coders from these stats](https://dev.to/canro91/a-simple-action-will-put-you-in-the-top-52-of-coders-from-these-stats-4cb9)
-- [I&#39;m a seller, not a developer — I triaged a Rust crash in a 1,300-star project](https://dev.to/florianhorner/im-a-seller-not-a-developer-i-triaged-a-rust-crash-in-a-1300-star-project-2ln0)
+- [Time Travel for Your State: Undo/Redo - with Zustand and React Query &lpar;Part 2&rpar;](https://dev.to/math-krish/time-travel-for-your-state-undoredo-with-zustand-and-react-query-part-2-4d64)
+- [AI-Driven Architecture vs. Human-Led Design: A Practical Comparison](https://dev.to/alanwest/ai-driven-architecture-vs-human-led-design-a-practical-comparison-1j5g)
+- [Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention](https://dev.to/vsnikhilvs/claude-code-leak-why-every-developer-building-ai-systems-should-be-paying-attention-fjl)
+- [[AutoBe] Qwen 3.5-27B Just Built Complete Backends from Scratch — 100% Compilation, 25x Cheaper](https://dev.to/samchon/autobe-qwen-35-27b-just-built-complete-backends-from-scratch-100-compilation-25x-cheaper-lmd)
+- [How to Master SQLAlchemy I/O: Testing Queries in CI to Prevent Database Disasters 🚨](https://dev.to/fmartins/how-to-master-sqlalchemy-io-testing-queries-in-ci-to-prevent-database-disasters-4gfj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
