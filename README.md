@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CRDTs and Local-First Architecture: How smallstack Handles Offline Conflict Resolution](https://dev.to/maxfriedmann/crdts-and-local-first-architecture-how-smallstack-handles-offline-conflict-resolution-338c)
-- [The Invisible Roots of Progress: Top 10 Supermaterials Stuck in the Laboratory](https://dev.to/oleg_kholin_551a551b/the-invisible-roots-of-progress-top-10-supermaterials-stuck-in-the-laboratory-3do2)
-- [Karpathy&#39;s LLM Wiki is right. I just didn&#39;t want to run it locally.](https://dev.to/hjarni/karpathys-llm-wiki-is-right-i-just-didnt-want-to-run-it-locally-170m)
-- [The OpenClaw Security Crisis: 135,000 Exposed AI Agents and the Runtime Governance Gap](https://dev.to/waxell/the-openclaw-security-crisis-135000-exposed-ai-agents-and-the-runtime-governance-gap-e26)
-- [SonarQube vs Coverity: Quality vs Defect Detection](https://dev.to/rahulxsingh/sonarqube-vs-coverity-quality-vs-defect-detection-1eih)
+- [AI Coding Agent Security: Practical Guardrails for Claude Code, Copilot, and Codex](https://dev.to/maxkrivich/ai-coding-agent-security-practical-guardrails-for-claude-code-copilot-and-codex-och)
+- [We Found a Ghost: Detecting an AI Agent Running in Kubernetes With No Source Code](https://dev.to/mwaseem-defendai/we-found-a-ghost-detecting-an-ai-agent-running-in-kubernetes-with-no-source-code-1ac6)
+- [System Design Basics: How Systems Actually Scale](https://dev.to/omjasharma/system-design-basics-how-systems-actually-scale-1oe6)
+- [Kotlin 2.4](https://dev.to/krun_pro/kotlin-24-5ak9)
+- [Understanding Transformers Part 3: How Transformers Combine Meaning and Position](https://dev.to/rijultp/understanding-transformers-part-3-how-transformers-combine-meaning-and-position-4gan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
