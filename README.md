@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [192 Personas Later: What Survived and What We Broke](https://dev.to/kato_masato_c5593c81af5c6/192-personas-later-what-survived-and-what-we-broke-48c3)
-- [Anatomy of a GitHub Actions Supply Chain Attack Targeting MCP Repos](https://dev.to/ticktockbent/anatomy-of-a-github-actions-supply-chain-attack-targeting-mcp-repos-59jb)
-- [I Was Tired of My Terminal Being Dumb — So I Built Termim](https://dev.to/imimofficial/i-was-tired-of-my-terminal-being-dumb-so-i-built-termim-5d9h)
-- [The Most Dangerous Word in AI Coding: &quot;Verified&quot;](https://dev.to/wintrover/the-most-dangerous-word-in-ai-coding-verified-3a1k)
-- [How I Stopped Form Spam Without reCAPTCHA](https://dev.to/zekebuilds/how-i-stopped-form-spam-without-recaptcha-4gld)
+- [AI-Generated Code Security: 87% of AI Pull Requests Have Vulnerabilities](https://dev.to/roymorken/ai-generated-code-security-87-of-ai-pull-requests-have-vulnerabilities-j4l)
+- [GitHub Copilot Security Flaws: Why AI Code Is Insecure &lpar;2026 Data&rpar;](https://dev.to/roymorken/github-copilot-security-flaws-why-ai-code-is-insecure-2026-data-264j)
+- [Detecting AI-Generated Code: 164 Signals and Tools &lpar;2026 Guide&rpar;](https://dev.to/roymorken/detecting-ai-generated-code-164-signals-and-tools-2026-guide-1j0g)
+- [OWASP Top 10 2025: What Changed and How to Fix Each Vulnerability](https://dev.to/roymorken/owasp-top-10-2025-what-changed-and-how-to-fix-each-vulnerability-2p43)
+- [SQL Injection Prevention in Python and Node.js: Parameterized Queries Guide](https://dev.to/roymorken/sql-injection-prevention-in-python-and-nodejs-parameterized-queries-guide-3bi8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
