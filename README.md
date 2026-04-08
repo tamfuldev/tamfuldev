@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
-- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-32l7)
-- [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
-- [Best Clipboard Manager for Developers &lpar;2026 Guide&rpar;](https://dev.to/alokt/best-clipboard-manager-for-developers-2026-guide-2m0g)
-- [Users Don’t Choose the Best Tool — They Choose the Easiest One](https://dev.to/bhavin-allinonetools/users-dont-choose-the-best-tool-they-choose-the-easiest-one-5d2j)
+- [SonarQube GitLab CI Integration: Configuration Guide](https://dev.to/rahulxsingh/sonarqube-gitlab-ci-integration-configuration-guide-2j3m)
+- [I Built an Android App Using AI — After Failing Twice Since 2019](https://dev.to/durgeshsahani/i-built-an-android-app-using-ai-after-failing-twice-since-2019-4a1e)
+- [AI Writes Your Tests. Here&#39;s What It Systematically Misses.](https://dev.to/anhnguyensynctree/ai-writes-your-tests-heres-what-it-systematically-misses-3a38)
+- [Prompt Engineering in 2026: From Craft to Production Infrastructure](https://dev.to/dwelvin_morgan_38be4ff3ba/devto-2d46)
+- [Agentic Sandbox Escape Proves Sandboxing Isn’t Enough](https://dev.to/simon_paxton/agentic-sandbox-escape-proves-sandboxing-isnt-enough-3oh9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
