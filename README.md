@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sourcery GitHub Integration: PR Review Setup](https://dev.to/rahulxsingh/sourcery-github-integration-pr-review-setup-ej)
-- [MCP in Practice — Part 7: MCP Transport and Auth in Practice](https://dev.to/gursharansingh/mcp-in-practice-part-7-mcp-transport-and-auth-in-practice-5aa4)
-- [I built a state machine where invalid transitions can&#39;t compile](https://dev.to/opaopa6969/i-built-a-state-machine-where-invalid-transitions-cant-compile-14fk)
-- [How to Build a Task Automation Agent &lpar;That Uses APIs on Its Own&rpar;](https://dev.to/rose_madrid/how-to-build-a-task-automation-agent-that-uses-apis-on-its-own-2jdd)
-- [The China Supercomputer Breach: How 10 Petabytes of Data &quot;Walked Out&quot; of a Tier-1 Facility](https://dev.to/atomlit/the-china-supercomputer-breach-how-10-petabytes-of-data-walked-out-of-a-tier-1-facility-2hl1)
+- [How K-Means Clustering Works &lpar;Explained by Extracting Colors from Images&rpar;](https://dev.to/didof/how-k-means-clustering-works-explained-by-extracting-colors-from-images-pmi)
+- [I Built a Fake UK Government Blink Regulation Agency and It Got Out of Hand](https://dev.to/bingkahu/i-built-a-fake-uk-government-blink-regulation-agency-and-it-got-out-of-hand-h0p)
+- [Your Tech Stack Isn’t Your Ceiling. Your Story Is](https://dev.to/karol_modelski/your-tech-stack-isnt-your-ceiling-your-story-is-4mi2)
+- [A Litecoin Wallet That Remembers Nothing](https://dev.to/sergey_ovcharenko_74bf887/a-litecoin-wallet-that-remembers-nothing-24ff)
+- [Python Tutor Alternative for LeetCode: Why TraceLit Exists](https://dev.to/tracelit/python-tutor-alternative-for-leetcode-why-tracelit-exists-3ddn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
