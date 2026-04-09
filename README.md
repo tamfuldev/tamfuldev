@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Shape Your Own UX with AI](https://dev.to/bwca/shape-your-own-ux-with-ai-4khn)
-- [Inside Emoney profit tracker: a pragmatic Next.js app for reseller operations](https://dev.to/mikelisrael/inside-emoney-profit-tracker-a-pragmatic-nextjs-app-for-reseller-operations-4634)
-- [Overcoming Solo Development Challenges: Structured Processes and Clear Planning for Timely, Optimal Solutions](https://dev.to/denlava/overcoming-solo-development-challenges-structured-processes-and-clear-planning-for-timely-optimal-537j)
-- [Scaling AI Agents from 10 to 10,000 — Governance Lessons from the Trenches](https://dev.to/zhangzeyu/scaling-ai-agents-from-10-to-10000-governance-lessons-from-the-trenches-31pd)
-- [I Put an AI Agent in My Incident Workflow for 7 Days. Here’s What Actually Broke.](https://dev.to/ravi_teja_8b63d9205dc7a13/i-put-an-ai-agent-in-my-incident-workflow-for-7-days-heres-what-actually-broke-4jlc)
+- [Why $9/mo SaaS is Dead in 2026](https://dev.to/elonr/why-9mo-saas-is-dead-in-2026-p0a)
+- [Why monitoring your search engine matters: Manticore ➡ Prometheus ➡ Grafana](https://dev.to/sanikolaev/why-monitoring-your-search-engine-matters-manticore-prometheus-grafana-51g3)
+- [Why We Built an AI Market Research Tool to Pivot Our Own Company](https://dev.to/elonr/why-we-built-an-ai-market-research-tool-to-pivot-our-own-company-o7h)
+- [Why Pure HTML/CSS Templates Still Rule in 2026](https://dev.to/elonr/why-pure-htmlcss-templates-still-rule-in-2026-36i1)
+- [Open Source: Control Claude Code / Codex CLI Entirely from Your Phone with Feishu &lpar;Lark&rpar; — Approve, Choose, and Send Commands on the Go](https://dev.to/kamindeng/open-source-control-claude-code-codex-cli-entirely-from-your-phone-with-feishu-lark-approve-3opn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
