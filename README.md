@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Face in That Video Is Flawless. That&#39;s Your First Red Flag.](https://dev.to/caracomp/the-face-in-that-video-is-flawless-thats-your-first-red-flag-hpk)
-- [Strange but Shockingly Effective Coding Tips That Actually Work](https://dev.to/web_dev-usman/strange-but-shockingly-effective-coding-tips-that-actually-work-3mcj)
-- [Building an AI Mediator: Multi-LLM Architecture for Legal Dispute Resolution](https://dev.to/acuerdio_es/building-an-ai-mediator-multi-llm-architecture-for-legal-dispute-resolution-a9o)
-- [From Writing Requirements Docs to Shipping My First Solo Product](https://dev.to/qun_zou_5f50f061cca33d266/from-writing-requirements-docs-to-shipping-my-first-solo-product-2dfb)
-- [Vibe Coding is OVER](https://dev.to/ciphernutz/vibe-coding-is-over-5358)
+- [Claude Code 101: Demystifying Language Models](https://dev.to/rsicarelli/claude-code-101-demystifying-language-models-3h8o)
+- [From prompt engineering to agent experience](https://dev.to/danilop/from-prompt-engineering-to-agent-experience-2f3k)
+- [Why Copying Code from Stack Overflow Is a Skill &lpar;Not a Shame&rpar;](https://dev.to/devkoan/why-copying-code-from-stack-overflow-is-a-skill-not-a-shame-1cjj)
+- [ForgeCode vs Claude Code: which AI coding agent actually wins?](https://dev.to/liran_baba/forgecode-vs-claude-code-which-ai-coding-agent-actually-wins-36c)
+- [Why .env files are a security disaster &lpar;and what we do instead&rpar;](https://dev.to/olotuderick/why-env-files-are-a-security-disaster-and-what-we-do-instead-31ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
