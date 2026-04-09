@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Comments to an Astro Site &lpar;Lazy-Loaded, Zero JS by Default&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-astro-site-lazy-loaded-zero-js-by-default-hba)
-- [Building a Full Player Onboarding Flow in UE5 &lpar;Account Email Character Creation&rpar;](https://dev.to/domtechgaming/building-a-full-player-onboarding-flow-in-ue5-account-email-character-creation-1nhl)
-- [I Built a 5-Line SDK for Claude Agents — Here&#39;s Why](https://dev.to/santhosh_dhandapani/i-built-a-5-line-sdk-for-claude-agents-heres-why-3i8j)
-- [Meet Trysil: a lightweight ORM for Delphi](https://dev.to/davidlastrucci/meet-trysil-a-lightweight-orm-for-delphi-45c2)
-- [How to Connect Real-Time Stock Data to Your AI Agent &lpar;MCP Tutorial&rpar;](https://dev.to/kevin_menesesgonzlez/how-to-connect-real-time-stock-data-to-your-ai-agent-mcp-tutorial-2oj)
+- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
+- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
+- [How to Add Token Swaps to C# .NET Backends](https://dev.to/moonsoon69/how-to-add-token-swaps-to-c-net-backends-2pdp)
+- [How to Build a MEV-Protected Swap Service in TypeScript](https://dev.to/moonsoon69/how-to-build-a-mev-protected-swap-service-in-typescript-3lo1)
+- [How to Integrate Token Swaps in a Flutter App](https://dev.to/moonsoon69/how-to-integrate-token-swaps-in-a-flutter-app-57oe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
