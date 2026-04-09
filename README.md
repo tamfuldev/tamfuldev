@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 3 Free Developer Tools with Go and Astro — Here&#39;s the Architecture](https://dev.to/kristiyan_4476d7d92148b4c/i-built-3-free-developer-tools-with-go-and-astro-heres-the-architecture-1n98)
-- [🚫 Stop Writing Old JavaScript — ✅ Start Using Modern Built-in APIs &lpar;Part 1&rpar;](https://dev.to/nagendrababun/stop-writing-old-javascript-start-using-modern-built-in-apis-part-1-5932)
-- [On-Device AI vs. Cloud AI: Why Privacy Can Win Over Convenience](https://dev.to/arshtechpro/on-device-ai-vs-cloud-ai-why-privacy-can-win-over-convenience-2h1i)
-- [Wallet-Authenticated Crypto Slots: On-Chain Architecture for Seamless Gameplay](https://dev.to/blastslot/wallet-authenticated-crypto-slots-on-chain-architecture-for-seamless-gameplay-4li)
-- [Candy Barbecue and the Universal Problem of Metric Corruption](https://dev.to/vibeagentmaking/candy-barbecue-and-the-universal-problem-of-metric-corruption-2lgf)
+- [Running Docker MCP Gateway on Linux &lpar;Without Docker Desktop&rpar;](https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2)
+- [Winner Announcement Delayed for the Notion MCP Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-notion-mcp-challenge-56ik)
+- [Building Real Projects, One Step at a Time](https://dev.to/yasirawan4831/building-real-projects-one-step-at-a-time-1fhf)
+- [The Six-Component Harness: A Template for Building Reliably with AI Agents](https://dev.to/erfan1995/-the-six-component-harness-a-template-for-building-reliably-with-ai-agents-lhc)
+- [⚖️ From Burn-Out To Balance-Out &lpar;Part 3/3&rpar;](https://dev.to/prakirth/from-burn-out-to-balance-out-part-34-4iao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
