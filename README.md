@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running Docker MCP Gateway on Linux &lpar;Without Docker Desktop&rpar;](https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2)
-- [Winner Announcement Delayed for the Notion MCP Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-notion-mcp-challenge-56ik)
-- [Building Real Projects, One Step at a Time](https://dev.to/yasirawan4831/building-real-projects-one-step-at-a-time-1fhf)
-- [The Six-Component Harness: A Template for Building Reliably with AI Agents](https://dev.to/erfan1995/-the-six-component-harness-a-template-for-building-reliably-with-ai-agents-lhc)
-- [⚖️ From Burn-Out To Balance-Out &lpar;Part 3/3&rpar;](https://dev.to/prakirth/from-burn-out-to-balance-out-part-34-4iao)
+- [AI in SEO: Stop using it for spam and start using it for Architecture](https://dev.to/craftedmarketing/ai-in-seo-stop-using-it-for-spam-and-start-using-it-for-architecture-5fhi)
+- [your supplier just raised prices. now what?](https://dev.to/_95a3e57463e6442feacd0/your-supplier-just-raised-prices-now-what-2eig)
+- [How to Run A2A-Compatible Agents on a Single VPS &lpar;No Docker, No Kubernetes&rpar;](https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n)
+- [AI Debugging: The 3-Context Framework That Closes Bugs in Minutes](https://dev.to/mohamedhamed833/part-5-ai-debugging-the-holy-trinity-that-turns-4-hour-bugs-into-4-minute-fixes-53f5)
+- [docker25](https://dev.to/query_filter_591122b53770/docker25-3kj0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
