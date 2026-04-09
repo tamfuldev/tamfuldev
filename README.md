@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code 101: Demystifying Language Models](https://dev.to/rsicarelli/claude-code-101-demystifying-language-models-3h8o)
-- [From prompt engineering to agent experience](https://dev.to/danilop/from-prompt-engineering-to-agent-experience-2f3k)
-- [Why Copying Code from Stack Overflow Is a Skill &lpar;Not a Shame&rpar;](https://dev.to/devkoan/why-copying-code-from-stack-overflow-is-a-skill-not-a-shame-1cjj)
-- [ForgeCode vs Claude Code: which AI coding agent actually wins?](https://dev.to/liran_baba/forgecode-vs-claude-code-which-ai-coding-agent-actually-wins-36c)
-- [Why .env files are a security disaster &lpar;and what we do instead&rpar;](https://dev.to/olotuderick/why-env-files-are-a-security-disaster-and-what-we-do-instead-31ab)
+- [UML Deployment Diagrams](https://dev.to/edgaras/uml-deployment-diagrams-15c2)
+- [E2E email testing is a nightmare. I’m trying to fix the middle ground.](https://dev.to/hharanm/e2e-email-testing-is-a-nightmare-im-trying-to-fix-the-middle-ground-7f8)
+- [SpringBoot Basic Annotations and Logging](https://dev.to/s_srikamini_bfb9ce2df10/springboot-basic-annotations-and-logging-11ci)
+- [A Rust TUI for Your UniFi Network That Actually Takes Code Review Seriously](https://dev.to/ticktockbent/a-rust-tui-for-your-unifi-network-that-actually-takes-code-review-seriously-32cc)
+- [We Query ChatGPT, Claude, and Perplexity About Your Brand. Here&#39;s the Architecture](https://dev.to/jakub_inithouse/we-query-chatgpt-claude-and-perplexity-about-your-brand-heres-the-architecture-1fgn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
