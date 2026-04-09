@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [UML Deployment Diagrams](https://dev.to/edgaras/uml-deployment-diagrams-15c2)
-- [E2E email testing is a nightmare. I’m trying to fix the middle ground.](https://dev.to/hharanm/e2e-email-testing-is-a-nightmare-im-trying-to-fix-the-middle-ground-7f8)
-- [SpringBoot Basic Annotations and Logging](https://dev.to/s_srikamini_bfb9ce2df10/springboot-basic-annotations-and-logging-11ci)
-- [A Rust TUI for Your UniFi Network That Actually Takes Code Review Seriously](https://dev.to/ticktockbent/a-rust-tui-for-your-unifi-network-that-actually-takes-code-review-seriously-32cc)
-- [We Query ChatGPT, Claude, and Perplexity About Your Brand. Here&#39;s the Architecture](https://dev.to/jakub_inithouse/we-query-chatgpt-claude-and-perplexity-about-your-brand-heres-the-architecture-1fgn)
+- [Every Dev Has the New-Project Itch. Rapid Prototyping Makes It Creative.](https://dev.to/cn8001/every-dev-has-the-new-project-itch-rapid-prototyping-makes-it-creative-3ocf)
+- [Unlocking Casual Fun: AI-Powered &#39;Vibe Coding&#39; for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5)
+- [Claude Code Got Someone&#39;s Meta Ads Account Banned. Here&#39;s How to Automate Without Getting Flagged.](https://dev.to/whoffagents/claude-code-got-someones-meta-ads-account-banned-heres-how-to-automate-without-getting-flagged-513h)
+- [AI Doesn&#39;t Need Your Programming Language](https://dev.to/gtanyware/ai-doesnt-need-your-programming-language-2bg0)
+- [Course Schedule: Master Topological Sort with Kahn&#39;s Algorithm](https://dev.to/partners_dsa_823760c83281/course-schedule-master-topological-sort-with-kahns-algorithm-4en4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
