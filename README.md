@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every Dev Has the New-Project Itch. Rapid Prototyping Makes It Creative.](https://dev.to/cn8001/every-dev-has-the-new-project-itch-rapid-prototyping-makes-it-creative-3ocf)
-- [Unlocking Casual Fun: AI-Powered &#39;Vibe Coding&#39; for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5)
-- [Claude Code Got Someone&#39;s Meta Ads Account Banned. Here&#39;s How to Automate Without Getting Flagged.](https://dev.to/whoffagents/claude-code-got-someones-meta-ads-account-banned-heres-how-to-automate-without-getting-flagged-513h)
-- [AI Doesn&#39;t Need Your Programming Language](https://dev.to/gtanyware/ai-doesnt-need-your-programming-language-2bg0)
-- [Course Schedule: Master Topological Sort with Kahn&#39;s Algorithm](https://dev.to/partners_dsa_823760c83281/course-schedule-master-topological-sort-with-kahns-algorithm-4en4)
+- [I used AI to rewrite my entire Go engine in Rust in 2 days. 60+ files, zero shortcuts.](https://dev.to/smplogs/i-used-ai-to-rewrite-my-entire-go-engine-in-rust-in-2-days-60-files-zero-shortcuts-3nfj)
+- [What &quot;autistic spectrum&quot; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb)
+- [How much should an MVP actually cost?](https://dev.to/somnath_khadanga_2e5c2364/how-much-should-an-mvp-actually-cost-4h0k)
+- [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b)
+- [Day 4 of Problem Solving](https://dev.to/thirusakthi-dev/day-4-of-problem-solving-1no7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
