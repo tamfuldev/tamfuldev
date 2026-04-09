@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I used AI to rewrite my entire Go engine in Rust in 2 days. 60+ files, zero shortcuts.](https://dev.to/smplogs/i-used-ai-to-rewrite-my-entire-go-engine-in-rust-in-2-days-60-files-zero-shortcuts-3nfj)
-- [What &quot;autistic spectrum&quot; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb)
-- [How much should an MVP actually cost?](https://dev.to/somnath_khadanga_2e5c2364/how-much-should-an-mvp-actually-cost-4h0k)
-- [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b)
-- [Day 4 of Problem Solving](https://dev.to/thirusakthi-dev/day-4-of-problem-solving-1no7)
+- [I Built 3 Free Developer Tools with Go and Astro — Here&#39;s the Architecture](https://dev.to/kristiyan_4476d7d92148b4c/i-built-3-free-developer-tools-with-go-and-astro-heres-the-architecture-1n98)
+- [🚫 Stop Writing Old JavaScript — ✅ Start Using Modern Built-in APIs &lpar;Part 1&rpar;](https://dev.to/nagendrababun/stop-writing-old-javascript-start-using-modern-built-in-apis-part-1-5932)
+- [On-Device AI vs. Cloud AI: Why Privacy Can Win Over Convenience](https://dev.to/arshtechpro/on-device-ai-vs-cloud-ai-why-privacy-can-win-over-convenience-2h1i)
+- [Wallet-Authenticated Crypto Slots: On-Chain Architecture for Seamless Gameplay](https://dev.to/blastslot/wallet-authenticated-crypto-slots-on-chain-architecture-for-seamless-gameplay-4li)
+- [Candy Barbecue and the Universal Problem of Metric Corruption](https://dev.to/vibeagentmaking/candy-barbecue-and-the-universal-problem-of-metric-corruption-2lgf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
