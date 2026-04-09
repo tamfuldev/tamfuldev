@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Principles you won&#39;t forget again](https://dev.to/sarupy/solid-principles-you-wont-forget-again-479o)
-- [MCP Security: Why Your AI Agent&#39;s Tool Calls Need a Firewall](https://dev.to/aymenhmaidi/mcp-security-why-your-ai-agents-tool-calls-need-a-firewall-3h48)
-- [Meta Just Revealed Its Agent Architecture. The Tool List Tells Us Everything.](https://dev.to/o96a/meta-just-revealed-its-agent-architecture-the-tool-list-tells-us-everything-53o6)
-- [How to Test WebSocket Connections in the Browser &lpar;No Install Required&rpar;](https://dev.to/willivan0706/how-to-test-websocket-connections-in-the-browser-no-install-required-1p68)
-- [Building an AI Invoice Generator in a Week &lpar;Week 8 of My NanoCrafts Build Curriculum&rpar;](https://dev.to/azeezroheem/building-an-ai-invoice-generator-in-a-week-week-8-of-my-nanocrafts-build-curriculum-43i4)
+- [Shape Your Own UX with AI](https://dev.to/bwca/shape-your-own-ux-with-ai-4khn)
+- [Inside Emoney profit tracker: a pragmatic Next.js app for reseller operations](https://dev.to/mikelisrael/inside-emoney-profit-tracker-a-pragmatic-nextjs-app-for-reseller-operations-4634)
+- [Overcoming Solo Development Challenges: Structured Processes and Clear Planning for Timely, Optimal Solutions](https://dev.to/denlava/overcoming-solo-development-challenges-structured-processes-and-clear-planning-for-timely-optimal-537j)
+- [Scaling AI Agents from 10 to 10,000 — Governance Lessons from the Trenches](https://dev.to/zhangzeyu/scaling-ai-agents-from-10-to-10000-governance-lessons-from-the-trenches-31pd)
+- [I Put an AI Agent in My Incident Workflow for 7 Days. Here’s What Actually Broke.](https://dev.to/ravi_teja_8b63d9205dc7a13/i-put-an-ai-agent-in-my-incident-workflow-for-7-days-heres-what-actually-broke-4jlc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
