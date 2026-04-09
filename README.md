@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How K-Means Clustering Works &lpar;Explained by Extracting Colors from Images&rpar;](https://dev.to/didof/how-k-means-clustering-works-explained-by-extracting-colors-from-images-pmi)
-- [I Built a Fake UK Government Blink Regulation Agency and It Got Out of Hand](https://dev.to/bingkahu/i-built-a-fake-uk-government-blink-regulation-agency-and-it-got-out-of-hand-h0p)
-- [Your Tech Stack Isn’t Your Ceiling. Your Story Is](https://dev.to/karol_modelski/your-tech-stack-isnt-your-ceiling-your-story-is-4mi2)
-- [A Litecoin Wallet That Remembers Nothing](https://dev.to/sergey_ovcharenko_74bf887/a-litecoin-wallet-that-remembers-nothing-24ff)
-- [Python Tutor Alternative for LeetCode: Why TraceLit Exists](https://dev.to/tracelit/python-tutor-alternative-for-leetcode-why-tracelit-exists-3ddn)
+- [The Face in That Video Is Flawless. That&#39;s Your First Red Flag.](https://dev.to/caracomp/the-face-in-that-video-is-flawless-thats-your-first-red-flag-hpk)
+- [Strange but Shockingly Effective Coding Tips That Actually Work](https://dev.to/web_dev-usman/strange-but-shockingly-effective-coding-tips-that-actually-work-3mcj)
+- [Building an AI Mediator: Multi-LLM Architecture for Legal Dispute Resolution](https://dev.to/acuerdio_es/building-an-ai-mediator-multi-llm-architecture-for-legal-dispute-resolution-a9o)
+- [From Writing Requirements Docs to Shipping My First Solo Product](https://dev.to/qun_zou_5f50f061cca33d266/from-writing-requirements-docs-to-shipping-my-first-solo-product-2dfb)
+- [Vibe Coding is OVER](https://dev.to/ciphernutz/vibe-coding-is-over-5358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
