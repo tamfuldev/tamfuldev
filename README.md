@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret AWS Skill That Gets Freshers Hired While Everyone Else Gets Ignored](https://dev.to/learnwithprashik/the-secret-aws-skill-that-gets-freshers-hired-while-everyone-else-gets-ignored-gg5)
-- [Mastering React State Patterns Beyond useState](https://dev.to/childrentime/mastering-react-state-patterns-beyond-usestate-4c72)
-- [You Pressured a Contractor on Price: Consequences](https://dev.to/arezvov/you-pressured-a-contractor-on-price-consequences-pcg)
-- [I Built a Tool to Detect Hidden Prompt Injections in PDFs. Here&#39;s What I Learned.](https://dev.to/andy8647/i-built-a-tool-to-detect-hidden-prompt-injections-in-pdfs-heres-what-i-learned-4hbg)
-- [I built an enterprise-grade microservices platform for making toast](https://dev.to/yssh00/i-built-an-enterprise-grade-microservices-platform-for-making-toast-8bg)
+- [I Built This Tool With Three AIs at Once — Claude, Gemini, and Copilot](https://dev.to/cucuwang/i-built-this-tool-with-three-ais-at-once-claude-gemini-and-copilot-254b)
+- [How to Set Up Sourcery AI in VS Code: Complete Guide](https://dev.to/rahulxsingh/how-to-set-up-sourcery-ai-in-vs-code-complete-guide-2499)
+- [Best AI Agent Frameworks in 2026: A Developer&#39;s Comparison](https://dev.to/younes_dev/best-ai-agent-frameworks-in-2026-a-developers-comparison-5978)
+- [I Built an AI That Roasts You &lpar;But Actually Cares&rpar;](https://dev.to/kanchan_ghosh_ab4fceafe66/i-built-an-ai-that-roasts-you-but-actually-cares-4c3l)
+- [Digital signatures: Schnorr, ECDSA and how PS3 was hacked](https://dev.to/0xluk3/digital-signatures-schnorr-ecdsa-and-how-ps3-was-hacked-4kdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
