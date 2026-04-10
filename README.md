@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Look Up Verified Phone Numbers with TypeScript](https://dev.to/millionphones/how-to-look-up-verified-phone-numbers-with-typescript-3226)
-- [The proof-of- work with Ansible](https://dev.to/oofemi/the-proof-of-work-with-ansible-2jm1)
-- [AI-Generated PRs Lack Human Oversight, Leading to Poor Code Quality: Implementing Review Guidelines as Solution](https://dev.to/denlava/ai-generated-prs-lack-human-oversight-leading-to-poor-code-quality-implementing-review-guidelines-12ni)
-- [I Built a Real-Time Multiplayer Bingo Engine with Next.js, Supabase, and Ably](https://dev.to/forrestmiller/i-built-a-real-time-multiplayer-bingo-engine-winextjs-webdev-javascript-reactth-nextjs-2og1)
-- [How We Evaluate AI Agents Before Recommending Them to Clients](https://dev.to/lowcodeagency/how-we-evaluate-ai-agents-before-recommending-them-to-clients-3ol3)
+- [How to Add Comments to a Hugo Site &lpar;Without a Backend&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-a-hugo-site-without-a-backend-2pn)
+- [WordPress 7.0: The Good, the AI, and the Still Missing](https://dev.to/adamgreenough/wordpress-70-the-good-the-ai-and-the-still-missing-4oa8)
+- [What We&#39;ve Learned Running a Company With an AI Agent Fleet](https://dev.to/braingemai/what-weve-learned-running-a-company-with-an-ai-agent-fleet-28jh)
+- [¿Qué es y para qué sirve AWS Kiro?](https://dev.to/byron_lainez/que-es-y-para-que-sirve-aws-kiro-2k0b)
+- [How to build Flexible Neural Networks from scratch in C++](https://dev.to/nalinangrish/how-to-build-flexible-neural-networks-from-scratch-in-c-i65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
