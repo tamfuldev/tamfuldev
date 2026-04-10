@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Slash 90% of Tokens Per Session With This Pre-Compiled Wiki &lpar;Karpathy Inspired Workflow&rpar;](https://dev.to/houseofmvps/karpathy-called-it-context-engineering-prompt-engineering-i-built-a-tool-that-does-it-4d38)
-- [I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.](https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095)
-- [Sourcery vs Ruff: Python Code Quality Comparison](https://dev.to/rahulxsingh/sourcery-vs-ruff-python-code-quality-comparison-b35)
-- [How to Build a CRUD Android App with Jetpack Compose and Room &lpar;Step by Step&rpar;](https://dev.to/developergb/how-to-build-a-crud-android-app-with-jetpack-compose-and-room-step-by-step-5b02)
-- [30 days of solo dev shipping: 9 projects, 1 VPS, no Docker — what I actually learned](https://dev.to/foxyyybusiness/30-days-of-solo-dev-shipping-9-projects-1-vps-no-docker-what-i-actually-learned-47a3)
+- [Google&#39;s AI Watermark Was Cracked. Here&#39;s What That Tells Us About AI Trust.](https://dev.to/piiiico/googles-ai-watermark-was-cracked-heres-what-that-tells-us-about-ai-trust-38mm)
+- [How AI is Changing Video Editing: Whisper, MediaPipe, and the Future of Short-Form Content](https://dev.to/shorts_factory_800d83071c/how-ai-is-changing-video-editing-whisper-mediapipe-and-the-future-of-short-form-content-ak7)
+- [✨ Cuando los circuitos no funcionaban &lpar;y lo que me enseñaron sobre la inteligencia artificial&rpar;](https://dev.to/marisbotero/cuando-los-circuitos-no-funcionaban-y-lo-que-me-ensenaron-sobre-la-inteligencia-artificial-4bag)
+- [I scored 163 real emails on how well an AI agent can read them. Most of them are terrible.](https://dev.to/broodnet/i-scored-163-real-emails-on-how-well-an-ai-agent-can-read-them-most-of-them-are-terrible-egn)
+- [Connecting to a Database](https://dev.to/alcb1310/connecting-to-a-database-5cd1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
