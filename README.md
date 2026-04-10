@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s AI Watermark Was Cracked. Here&#39;s What That Tells Us About AI Trust.](https://dev.to/piiiico/googles-ai-watermark-was-cracked-heres-what-that-tells-us-about-ai-trust-38mm)
-- [How AI is Changing Video Editing: Whisper, MediaPipe, and the Future of Short-Form Content](https://dev.to/shorts_factory_800d83071c/how-ai-is-changing-video-editing-whisper-mediapipe-and-the-future-of-short-form-content-ak7)
-- [✨ Cuando los circuitos no funcionaban &lpar;y lo que me enseñaron sobre la inteligencia artificial&rpar;](https://dev.to/marisbotero/cuando-los-circuitos-no-funcionaban-y-lo-que-me-ensenaron-sobre-la-inteligencia-artificial-4bag)
-- [I scored 163 real emails on how well an AI agent can read them. Most of them are terrible.](https://dev.to/broodnet/i-scored-163-real-emails-on-how-well-an-ai-agent-can-read-them-most-of-them-are-terrible-egn)
-- [Connecting to a Database](https://dev.to/alcb1310/connecting-to-a-database-5cd1)
+- [Why I Built OpenRig](https://dev.to/esotericlabs/why-i-built-openrig-1i7e)
+- [I Built a GitHub Activity Visualizer Dashboard Using JavaScript &lpar;Looking for Feedback!&rpar;](https://dev.to/aswanth_mc_d870caf3a1c4a/i-built-a-github-activity-visualizer-dashboard-using-javascript-looking-for-feedback-2fih)
+- [The 4 questions every SDET recruiter asks &lpar;and the frameworks to answer them&rpar;](https://dev.to/hien_nguyen/the-4-questions-every-sdet-recruiter-asks-and-the-frameworks-to-answer-them-4ao)
+- [Cách nâng cấp, cải thiện chất lượng video bằng FFmpeg: Tăng độ phân giải, khử nhiễu, chống rung](https://dev.to/sebbasstian/cach-nang-cap-cai-thien-chat-luong-video-bang-ffmpeg-tang-do-phan-giai-khu-nhieu-chong-rung-5086)
+- [I tested 4 codebase-to-AI tools on FastAPI &lpar;108k lines&rpar;. Here are the token costs.](https://dev.to/thegdsks/i-tested-4-codebase-to-ai-tools-on-fastapi-108k-lines-here-are-the-token-costs-4bmc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
