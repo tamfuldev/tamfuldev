@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Flat Files to a Living Memory: Building Graph-Based Semantic Memory for PocketPaw](https://dev.to/amritesh240304/from-flat-files-to-a-living-memory-building-graph-based-semantic-memory-for-pocketpaw-5cp8)
-- [How Dialer Software Improves Sales Performance and ROI](https://dev.to/john_wick_280091e620a41df/how-dialer-software-improves-sales-performance-and-roi-5h9m)
-- [Why Employee Engagement is the Real Bottleneck &lpar;297 employees analyzed&rpar;](https://dev.to/ricardopad/why-employee-engagement-is-the-real-bottleneck-297-employees-analyzed-4dd)
-- [Building Embodied AI Memory: moteDB for Vectors, Time-Series and State](https://dev.to/motedb/building-embodied-ai-memory-motedb-for-vectors-time-series-and-state-14pk)
-- [Migrating from Coinglass to Funding Finder: a step-by-step walkthrough for funding-rate arbitrage traders](https://dev.to/foxyyybusiness/migrating-from-coinglass-to-funding-finder-a-step-by-step-walkthrough-for-funding-rate-arbitrage-324n)
+- [How I Built a Daily Stock Digest Using n8n &lpar;Financial Automation Guide&rpar;](https://dev.to/kevin_menesesgonzlez/how-i-built-a-daily-stock-digest-using-n8n-financial-automation-guide-4j28)
+- [Local-First Vectors: How to Build Privacy-Preserving AI Apps without the Cloud](https://dev.to/akosidencio/local-first-vectors-how-to-build-privacy-preserving-ai-apps-without-the-cloud-4lih)
+- [Maximize Performance in HTML5: Proven Techniques for Faster, Smoother Web Apps](https://dev.to/piya__c204c9e90/maximize-performance-in-html5-proven-techniques-for-faster-smoother-web-apps-4dh6)
+- [Create a mini-website with HTMLSave](https://dev.to/htmlsave/create-a-mini-website-with-htmlsave-4odi)
+- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
