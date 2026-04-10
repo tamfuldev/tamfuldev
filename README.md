@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Voice-Controlled Local AI Agent with Python and Groq](https://dev.to/sanvi09kulkarni/how-i-built-a-voice-controlled-local-ai-agent-with-python-and-groq-gm3)
-- [Soft-deleting Postgres rows without losing the URL slug](https://dev.to/danielrusnok/soft-deleting-postgres-rows-without-losing-the-url-slug-351k)
-- [Turning an Existing Express API into a Conversational Backend &lpar;Konsier Integration&rpar;](https://dev.to/kyeremehs/turning-an-existing-express-api-into-a-conversational-backend-konsier-integration-575c)
-- [I got tired of copy-pasting between Claude and Chrome.](https://dev.to/valentin_monteiro/i-got-tired-of-copy-pasting-between-claude-and-chrome-175g)
-- [What 10 Versions of an AI Code Review CLI Taught Me About Developer UX](https://dev.to/brianmello/what-10-versions-of-an-ai-code-review-cli-taught-me-about-developer-ux-1301)
+- [Perpetual Engine Series Part 2: Real-Time PnL Calculation 📈](https://dev.to/sumana10l/perpetual-engine-series-part-2-real-time-pnl-calculation-2npa)
+- [Your Coding Agent Will Never Start From Scratch Again: Session Storage in AgentCore Runtime](https://dev.to/aws-builders/your-coding-agent-will-never-start-from-scratch-again-session-storage-in-agentcore-runtime-2gca)
+- [Nmapathy — The Most Useless Scanner That Roasts You Instead](https://dev.to/shadowsim/nmapathy-the-most-useless-scanner-that-roasts-you-instead-4fdk)
+- [SDK v0.2.9: Output Verification, Attestations, Preflight and Budgets](https://dev.to/jagmarques/sdk-v029-output-verification-attestations-preflight-and-budgets-17a9)
+- [AI Agents Don&#39;t Follow Your Rules. Here&#39;s a Compiler That Makes Them.](https://dev.to/whitehatd/ai-agents-dont-follow-your-rules-heres-a-compiler-that-makes-them-5340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
