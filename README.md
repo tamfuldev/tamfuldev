@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Generation of Developers Won’t Look Like Us](https://dev.to/jaideepparashar/the-next-generation-of-developers-wont-look-like-us-4bia)
-- [Vitest vs Jest 2026: Which Testing Framework Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/vitest-vs-jest-2026-which-testing-framework-should-you-use-4d0k)
-- [My Self-Evolving AI Agent Started Grading Its Own Advice](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-started-grading-its-own-advice-3lgc)
-- [Using GitHub Copilot CLI with Azure AI Foundry &lpar;BYOK Models&rpar; – Part 2](https://dev.to/playfulprogramming/using-github-copilot-cli-with-azure-ai-foundry-byok-models-part-2-4e5n)
-- [Stop Passing *sql.Tx Through Your Go Service Layer](https://dev.to/gabrielanhaia/stop-passing-sqltx-through-your-go-service-layer-lp7)
+- [From Flat Files to a Living Memory: Building Graph-Based Semantic Memory for PocketPaw](https://dev.to/amritesh240304/from-flat-files-to-a-living-memory-building-graph-based-semantic-memory-for-pocketpaw-5cp8)
+- [How Dialer Software Improves Sales Performance and ROI](https://dev.to/john_wick_280091e620a41df/how-dialer-software-improves-sales-performance-and-roi-5h9m)
+- [Why Employee Engagement is the Real Bottleneck &lpar;297 employees analyzed&rpar;](https://dev.to/ricardopad/why-employee-engagement-is-the-real-bottleneck-297-employees-analyzed-4dd)
+- [Building Embodied AI Memory: moteDB for Vectors, Time-Series and State](https://dev.to/motedb/building-embodied-ai-memory-motedb-for-vectors-time-series-and-state-14pk)
+- [Migrating from Coinglass to Funding Finder: a step-by-step walkthrough for funding-rate arbitrage traders](https://dev.to/foxyyybusiness/migrating-from-coinglass-to-funding-finder-a-step-by-step-walkthrough-for-funding-rate-arbitrage-324n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
