@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Eventra in 6 Months &lpar;After My Day Job&rpar;. Here&#39;s How.](https://dev.to/__c500e8ac9bc2/i-built-eventra-in-6-months-after-my-day-job-heres-how-2j9)
-- [I Built a Tool That Turns Any Website Into Full Documentation in Minutes](https://dev.to/andreiasi_marian_b3b813dc/i-built-a-tool-that-turns-any-website-into-full-documentation-in-minutes-5990)
-- [How AI Voice Agents Enhance Customer Support and Sales](https://dev.to/mario-malick98/how-ai-voice-agents-enhance-customer-support-and-sales-448k)
-- [How I Fixed Claude’s Biggest Limitation for Real Projects &lpar;And Stopped Wasting Tokens&rpar;](https://dev.to/ovexro/how-i-fixed-claudes-biggest-limitation-for-real-projects-and-stopped-wasting-tokens-278k)
-- [AI News Update: April 10, 2026 - A Week of Breakthroughs and Concerns](https://dev.to/amit_mishra_4729/ai-news-update-april-10-2026-a-week-of-breakthroughs-and-concerns-36jm)
+- [Reviewing AI Generated Work](https://dev.to/juststevemcd/reviewing-ai-generated-work-55p)
+- [Running A Better Table](https://dev.to/juststevemcd/running-a-better-table-4175)
+- [Managing Expectations in the AI Era](https://dev.to/juststevemcd/managing-expectations-in-the-ai-era-ogi)
+- [Building Modern Laravel APIs: Foundations and Project Structure](https://dev.to/juststevemcd/building-modern-laravel-apis-foundations-and-project-structure-3ich)
+- [Redefining Engineering Roles in the AI Era](https://dev.to/juststevemcd/redefining-engineering-roles-in-the-ai-era-4f4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
