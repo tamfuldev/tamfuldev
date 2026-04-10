@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Perpetual Engine Series Part 2: Real-Time PnL Calculation 📈](https://dev.to/sumana10l/perpetual-engine-series-part-2-real-time-pnl-calculation-2npa)
-- [Your Coding Agent Will Never Start From Scratch Again: Session Storage in AgentCore Runtime](https://dev.to/aws-builders/your-coding-agent-will-never-start-from-scratch-again-session-storage-in-agentcore-runtime-2gca)
-- [Nmapathy — The Most Useless Scanner That Roasts You Instead](https://dev.to/shadowsim/nmapathy-the-most-useless-scanner-that-roasts-you-instead-4fdk)
-- [SDK v0.2.9: Output Verification, Attestations, Preflight and Budgets](https://dev.to/jagmarques/sdk-v029-output-verification-attestations-preflight-and-budgets-17a9)
-- [AI Agents Don&#39;t Follow Your Rules. Here&#39;s a Compiler That Makes Them.](https://dev.to/whitehatd/ai-agents-dont-follow-your-rules-heres-a-compiler-that-makes-them-5340)
+- [I Built Eventra in 6 Months &lpar;After My Day Job&rpar;. Here&#39;s How.](https://dev.to/__c500e8ac9bc2/i-built-eventra-in-6-months-after-my-day-job-heres-how-2j9)
+- [I Built a Tool That Turns Any Website Into Full Documentation in Minutes](https://dev.to/andreiasi_marian_b3b813dc/i-built-a-tool-that-turns-any-website-into-full-documentation-in-minutes-5990)
+- [How AI Voice Agents Enhance Customer Support and Sales](https://dev.to/mario-malick98/how-ai-voice-agents-enhance-customer-support-and-sales-448k)
+- [How I Fixed Claude’s Biggest Limitation for Real Projects &lpar;And Stopped Wasting Tokens&rpar;](https://dev.to/ovexro/how-i-fixed-claudes-biggest-limitation-for-real-projects-and-stopped-wasting-tokens-278k)
+- [AI News Update: April 10, 2026 - A Week of Breakthroughs and Concerns](https://dev.to/amit_mishra_4729/ai-news-update-april-10-2026-a-week-of-breakthroughs-and-concerns-36jm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
