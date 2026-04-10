@@ -6,11 +6,12 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Daily Stock Digest Using n8n &lpar;Financial Automation Guide&rpar;](https://dev.to/kevin_menesesgonzlez/how-i-built-a-daily-stock-digest-using-n8n-financial-automation-guide-4j28)
-- [Local-First Vectors: How to Build Privacy-Preserving AI Apps without the Cloud](https://dev.to/akosidencio/local-first-vectors-how-to-build-privacy-preserving-ai-apps-without-the-cloud-4lih)
-- [Maximize Performance in HTML5: Proven Techniques for Faster, Smoother Web Apps](https://dev.to/piya__c204c9e90/maximize-performance-in-html5-proven-techniques-for-faster-smoother-web-apps-4dh6)
-- [Create a mini-website with HTMLSave](https://dev.to/htmlsave/create-a-mini-website-with-htmlsave-4odi)
-- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
+- [Unit Testing Alertmanager Routing and Inhibition Rules](https://dev.to/frosnerd/unit-testing-alertmanager-routing-and-inhibition-rules-1hj4)
+- [Working on NoonLaunch which helps founders launch and get discovered.
+https://noonlaunch.com](https://dev.to/avinashvagh/working-on-noonlaunch-which-helps-founders-launch-and-get-discoveredhttpsnoonlaunchcom-1ona)
+- [Reinforcement Learning complete mental map](https://dev.to/priyam_jain_f127ddf8c4d8d/reinforcement-learning-complete-mental-map-4ie0)
+- [Proposal: A Real Benchmark for Long-Term AI Memory Systems](https://dev.to/penfieldlabs/proposal-a-real-benchmark-for-long-term-ai-memory-systems-57p5)
+- [We ran 109 tests to measure how PII protection methods affect LLM output quality. Here&#39;s what we learned and what we built.](https://dev.to/nopii_hq/we-ran-109-tests-to-measure-how-pii-protection-methods-affect-llm-output-quality-heres-what-we-1k2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
