@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Fuik: a webhook engine for Rails](https://dev.to/railsdesigner/announcing-fuik-a-webhook-engine-for-rails-5627)
-- [What if you could reverse a template engine?](https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk)
-- [How we built multi-region uptime consensus on the BEAM — zero external dependencies](https://dev.to/legiahoang/how-we-built-multi-region-uptime-consensus-on-the-beam-zero-external-dependencies-opi)
-- [Deepfakes Surged 2,137%. Courts Rewrote the Rules. Investigators Didn&#39;t.](https://dev.to/caracomp/deepfakes-surged-2137-courts-rewrote-the-rules-investigators-didnt-59e5)
-- [The Standup Chaos Simulator](https://dev.to/javz/the-standup-chaos-simulator-1ch8)
+- [How I Built a Voice-Controlled Local AI Agent with Python and Groq](https://dev.to/sanvi09kulkarni/how-i-built-a-voice-controlled-local-ai-agent-with-python-and-groq-gm3)
+- [Soft-deleting Postgres rows without losing the URL slug](https://dev.to/danielrusnok/soft-deleting-postgres-rows-without-losing-the-url-slug-351k)
+- [Turning an Existing Express API into a Conversational Backend &lpar;Konsier Integration&rpar;](https://dev.to/kyeremehs/turning-an-existing-express-api-into-a-conversational-backend-konsier-integration-575c)
+- [I got tired of copy-pasting between Claude and Chrome.](https://dev.to/valentin_monteiro/i-got-tired-of-copy-pasting-between-claude-and-chrome-175g)
+- [What 10 Versions of an AI Code Review CLI Taught Me About Developer UX](https://dev.to/brianmello/what-10-versions-of-an-ai-code-review-cli-taught-me-about-developer-ux-1301)
 <!-- BLOG-POST-LIST:END -->
 
 ---
