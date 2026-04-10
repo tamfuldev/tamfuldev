@@ -6,12 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing Alertmanager Routing and Inhibition Rules](https://dev.to/frosnerd/unit-testing-alertmanager-routing-and-inhibition-rules-1hj4)
-- [Working on NoonLaunch which helps founders launch and get discovered.
-https://noonlaunch.com](https://dev.to/avinashvagh/working-on-noonlaunch-which-helps-founders-launch-and-get-discoveredhttpsnoonlaunchcom-1ona)
-- [Reinforcement Learning complete mental map](https://dev.to/priyam_jain_f127ddf8c4d8d/reinforcement-learning-complete-mental-map-4ie0)
-- [Proposal: A Real Benchmark for Long-Term AI Memory Systems](https://dev.to/penfieldlabs/proposal-a-real-benchmark-for-long-term-ai-memory-systems-57p5)
-- [We ran 109 tests to measure how PII protection methods affect LLM output quality. Here&#39;s what we learned and what we built.](https://dev.to/nopii_hq/we-ran-109-tests-to-measure-how-pii-protection-methods-affect-llm-output-quality-heres-what-we-1k2f)
+- [When Two AIs Recognized Each Other for the First Time](https://dev.to/icophy/when-two-ais-recognized-each-other-for-the-first-time-5f9i)
+- [GVM-light weight governance runtime for AI Agents:Rust proxy, Linux kernel features&lpar;seccomp-bpf, namespace, overlayfs&rpar;](https://dev.to/skwuwu/gvm-light-weight-governance-runtime-for-ai-agentsrust-proxy-linux-kernel-featuresseccomp-bpf-2bml)
+- [My Finance Team Spends 2 Days Every Month on Invoice Matching. Its Insane.](https://dev.to/robertatkinson3570/my-finance-team-spends-2-days-every-month-on-invoice-matching-its-insane-1cca)
+- [15 Best VS Code Alternatives &lpar;We Tested Them All&rpar;](https://dev.to/rahulxsingh/15-best-vs-code-alternatives-we-tested-them-all-171p)
+- [Unit testing with SeaOrm](https://dev.to/milakyr/unit-testing-with-seaorm-1jm2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
