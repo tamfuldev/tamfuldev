@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built OpenRig](https://dev.to/esotericlabs/why-i-built-openrig-1i7e)
-- [I Built a GitHub Activity Visualizer Dashboard Using JavaScript &lpar;Looking for Feedback!&rpar;](https://dev.to/aswanth_mc_d870caf3a1c4a/i-built-a-github-activity-visualizer-dashboard-using-javascript-looking-for-feedback-2fih)
-- [The 4 questions every SDET recruiter asks &lpar;and the frameworks to answer them&rpar;](https://dev.to/hien_nguyen/the-4-questions-every-sdet-recruiter-asks-and-the-frameworks-to-answer-them-4ao)
-- [Cách nâng cấp, cải thiện chất lượng video bằng FFmpeg: Tăng độ phân giải, khử nhiễu, chống rung](https://dev.to/sebbasstian/cach-nang-cap-cai-thien-chat-luong-video-bang-ffmpeg-tang-do-phan-giai-khu-nhieu-chong-rung-5086)
-- [I tested 4 codebase-to-AI tools on FastAPI &lpar;108k lines&rpar;. Here are the token costs.](https://dev.to/thegdsks/i-tested-4-codebase-to-ai-tools-on-fastapi-108k-lines-here-are-the-token-costs-4bmc)
+- [The Secret AWS Skill That Gets Freshers Hired While Everyone Else Gets Ignored](https://dev.to/learnwithprashik/the-secret-aws-skill-that-gets-freshers-hired-while-everyone-else-gets-ignored-gg5)
+- [Mastering React State Patterns Beyond useState](https://dev.to/childrentime/mastering-react-state-patterns-beyond-usestate-4c72)
+- [You Pressured a Contractor on Price: Consequences](https://dev.to/arezvov/you-pressured-a-contractor-on-price-consequences-pcg)
+- [I Built a Tool to Detect Hidden Prompt Injections in PDFs. Here&#39;s What I Learned.](https://dev.to/andy8647/i-built-a-tool-to-detect-hidden-prompt-injections-in-pdfs-heres-what-i-learned-4hbg)
+- [I built an enterprise-grade microservices platform for making toast](https://dev.to/yssh00/i-built-an-enterprise-grade-microservices-platform-for-making-toast-8bg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
