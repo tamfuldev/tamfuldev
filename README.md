@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Comments to a Hugo Site &lpar;Without a Backend&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-a-hugo-site-without-a-backend-2pn)
-- [WordPress 7.0: The Good, the AI, and the Still Missing](https://dev.to/adamgreenough/wordpress-70-the-good-the-ai-and-the-still-missing-4oa8)
-- [What We&#39;ve Learned Running a Company With an AI Agent Fleet](https://dev.to/braingemai/what-weve-learned-running-a-company-with-an-ai-agent-fleet-28jh)
-- [¿Qué es y para qué sirve AWS Kiro?](https://dev.to/byron_lainez/que-es-y-para-que-sirve-aws-kiro-2k0b)
-- [How to build Flexible Neural Networks from scratch in C++](https://dev.to/nalinangrish/how-to-build-flexible-neural-networks-from-scratch-in-c-i65)
+- [How I automated 62% of Europe&#39;s RGAA accessibility criteria](https://dev.to/chabane_lemared_4cf92157/how-i-automated-62-of-europes-rgaa-accessibility-criteria-3pc3)
+- [The Job Search Agent: How I’d Add Dedalus to My GTM Job Intelligence Platform](https://dev.to/satvik_panchal_893bb879ef/the-job-search-agent-how-id-add-dedalus-to-my-gtm-job-intelligence-platform-34hb)
+- [Aethir Adapter Exploit. 500k. Complete Operational security Mess.](https://dev.to/jerry_ns/aethir-adapter-exploit-500k-complete-operational-security-mess-4lng)
+- [Why Your Unity WebGL Multiplayer Breaks on Some Networks](https://dev.to/magithar/why-your-unity-webgl-multiplayer-breaks-on-some-networks-1462)
+- [My Study Guide for the Microsoft Certified SQL AI Developer Associate Beta Exam](https://dev.to/rengond/my-study-guide-for-the-microsoft-certified-sql-ai-developer-associate-beta-exam-447o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
