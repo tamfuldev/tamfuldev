@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Regularization in Machine Learning — How to Actually Prevent Overfitting &lpar;L1, L2, Dropout&rpar;](https://dev.to/zeromathai/regularization-in-machine-learning-how-to-actually-prevent-overfitting-l1-l2-dropout-1dph)
-- [Hosting a Static Website on AWS with S3 and CloudFront using Terraform](https://dev.to/vatul16/hosting-a-static-website-on-aws-with-s3-and-cloudfront-using-terraform-174b)
-- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
-- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
-- [OverthinkAI — I Built an AI That Cannot Answer a Single Question](https://dev.to/pulkitgovrani/overthinkai-i-built-an-ai-that-cannot-answer-a-single-question-16hl)
+- [Building a Figma to GitHub token pipeline that actually works](https://dev.to/alexandersstudi/building-a-figma-to-github-token-pipeline-that-actually-works-3o0o)
+- [Claude Managed Agents Deep Dive: Anthropic&#39;s New AI Agent Infrastructure &lpar;2026&rpar;](https://dev.to/bean_bean/claude-managed-agents-deep-dive-anthropics-new-ai-agent-infrastructure-2026-3286)
+- [GitOps vs GitHub Actions: Security-First in Production](https://dev.to/orthogonalinfo/gitops-vs-github-actions-security-first-in-production-18in)
+- [From Feeling to Firmware: Build Your First Haptic Feedback Device &lpar;10 Minutes&rpar;](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-minutes-34mh)
+- [CNNs Explained: How Image Classification Actually Works in Deep Learning](https://dev.to/zeromathai/cnns-explained-how-image-classification-actually-works-in-deep-learning-2mbp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
