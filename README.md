@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Built an Open-Source Coding Exam Platform Because Every Vendor Let Us Down](https://dev.to/mickyarun/we-built-an-open-source-coding-exam-platform-because-every-vendor-let-us-down-a7m)
-- [Vibe Coding Isn&#39;t Dead. You Just Need More Than Vibes.](https://dev.to/matt_glein/vibe-coding-isnt-dead-you-just-need-more-than-vibes-3n65)
-- [Common Mistakes I See in Node.js Backends &lpar;And How to Fix Them&rpar;](https://dev.to/abdulmalik_muhammad/common-mistakes-i-see-in-nodejs-backends-and-how-to-fix-them-4peg)
-- [I replaced $500/mo of SEO, Google Ads tools with a Claude Code plugin — here&#39;s how I structured the 15 skills](https://dev.to/ununununium/i-replaced-500mo-of-seo-google-ads-tools-with-a-claude-code-plugin-heres-how-i-structured-the-205p)
-- [My AI-Empowered Supercharged LinkedIn Workflow](https://dev.to/tuzmusic/my-ai-empowered-supercharged-linkedin-workflow-4pg)
+- [Scan Your Codebase for Mythos-Class Vulnerabilities in 5 Minutes](https://dev.to/jeremiestrand/scan-your-codebase-for-mythos-class-vulnerabilities-in-5-minutes-47l)
+- [I cut manual KYC reviews by 87% with device intelligence &lpar;and you can too&rpar;](https://dev.to/stuart_watkins_555e9d30ee/i-cut-manual-kyc-reviews-by-87-with-device-intelligence-and-you-can-too-2b9p)
+- [Introducing HyperFlow: The Framework Where AI Writes Its Own Code!](https://dev.to/lablnet/introducing-hyperflow-the-framework-where-ai-writes-its-own-code-a41)
+- [Github Actions for Phoenix App Deployment to Hetzner](https://dev.to/jsph/github-actions-for-phoenix-app-deployment-to-hetzner-2km4)
+- [The Complete Automation Testing Guide 2026: CI/CD, Frameworks, Mobile &amp; Performance](https://dev.to/manivannan_e67fc7243dec47/the-complete-automation-testing-guide-2026-cicd-frameworks-mobile-performance-13n4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
