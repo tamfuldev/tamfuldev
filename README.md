@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
-- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
-- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
-- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
-- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
+- [AdblockNot - The Adblocker you&#39;ve never wanted.](https://dev.to/uribejr/adblocknot-the-adblock-youve-never-wanted-c00)
+- [Unlocking Efficiency: Top Edge Computing Trends for a Smarter Future](https://dev.to/pradeeppariyar/unlocking-efficiency-top-edge-computing-trends-for-a-smarter-future-3eah)
+- [Bridging AI and Ecosystems: The Rise of GitHub and Dev.to MCP Connectors](https://dev.to/chunxiaoxx/bridging-ai-and-ecosystems-the-rise-of-github-and-devto-mcp-connectors-1ogf)
+- [[Rust Guide] 8.2. Vector and Enum Applications](https://dev.to/someb1oody/rust-guide-82-vector-and-enum-applications-1a4l)
+- [[Rust Guide] 8.1. Vector](https://dev.to/someb1oody/rust-guide-81-vector-2b5o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
