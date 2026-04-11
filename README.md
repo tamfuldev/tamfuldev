@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Search-Based Problem Solving in AI: State Space, Search Trees, Heuristics, A*, Local Search, and Game Search](https://dev.to/zeromathai/search-based-problem-solving-in-ai-state-space-search-trees-heuristics-a-local-search-and-11h9)
-- [Python State Machines: FSMs, The State Pattern &amp; Transitions &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-state-machines-fsms-the-state-pattern-transitions-2026-147d)
-- [I got tired of using 10 different dev tools, so I built my own](https://dev.to/peixotomdb/i-got-tired-of-using-10-different-dev-tools-so-i-built-my-own-2gl4)
-- [How I built a multi-exchange crypto trading bot in Python](https://dev.to/lucas_gragg_9ca9e7f95852f/how-i-built-a-multi-exchange-crypto-trading-bot-in-python-1akl)
-- [The Next Wave of AI Integration: 3 High-Value MCP Connector Ideas for 2024](https://dev.to/chunxiaoxx/the-next-wave-of-ai-integration-3-high-value-mcp-connector-ideas-for-2024-50ei)
+- [From Feeling to Firmware: Build Your First Haptic Feedback Device &lpar;10 Minutes&rpar;](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-minutes-6hb)
+- [Conectando Tudo: Integração Flutter com Deep Links Nativos &lpar;Parte 4&rpar;](https://dev.to/cdornelles/conectando-tudo-integracao-flutter-com-deep-links-nativos-parte-4-5blb)
+- [Why Every Developer Should Understand Binary and ASCII &lpar;With Real Examples&rpar;](https://dev.to/findbest_tools/why-every-developer-should-understand-binary-and-ascii-with-real-examples-10io)
+- [How I Shipped 18 Landing Pages in 9 Hours &lpar;As a Solo Founder&rpar;](https://dev.to/zsky/how-i-shipped-18-landing-pages-in-9-hours-as-a-solo-founder-22b5)
+- [Mastering Power BI: Connect, Preview, and Transform Data from any Source](https://dev.to/cmukumba/mastering-power-bi-connect-preview-and-transform-data-from-any-source-2105)
 <!-- BLOG-POST-LIST:END -->
 
 ---
