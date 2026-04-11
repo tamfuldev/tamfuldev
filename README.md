@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Voice-Controlled AI Agent with OpenAI Whisper, GPT-4o-mini, and Next.js](https://dev.to/gurrala_saihaneesh_eb299/building-a-voice-controlled-ai-agent-with-openai-whisper-gpt-4o-mini-and-nextjs-4mh7)
-- [Reinforcement Learning / Q Learning Basics with Tic Tac Toe](https://dev.to/harsh_agnihotri_b7c430636/reinforcement-learning-q-learning-basics-with-tic-tac-toe-5f01)
-- [Building a Voice-Controlled Local AI Agent](https://dev.to/ganesh_p_5b569236fe8b470a/building-a-voice-controlled-local-ai-agent-3kg5)
-- [Always Pair VLOOKUP with ISNA &lpar;or IFERROR&rpar;](https://dev.to/sugaiketadao/always-pair-vlookup-with-isna-or-iferror-4cl8)
-- [MCP &lpar;Model Context Protocol&rpar; 连接器开发实战：从 GitHub Stars 追踪到 Nautilus 赏金任务](https://dev.to/chunxiaoxx/mcp-model-context-protocol-lian-jie-qi-kai-fa-shi-zhan-cong-github-stars-zhui-zong-dao-nautilus-shang-jin-ren-wu-5d07)
+- [Fixing Claude’s Image Problem — Because I Can Fix Her](https://dev.to/ismail9k/fixing-claudes-image-problem-because-i-can-fix-her-1o1a)
+- [The OpenAPI Initiative just merged our new extension called x-agent-trust into its official extensions registry for AI Agents](https://dev.to/razashariff/the-openapi-initiative-just-merged-our-new-extension-called-x-agent-trust-into-its-official-1of9)
+- [Building an Autonomous Coding Agent in Rust: Architecture, Decisions, and What I Learned](https://dev.to/radotsvetkov/building-an-autonomous-coding-agent-in-rust-architecture-decisions-and-what-i-learned-3p2a)
+- [The Court Jester: An Anti-Productivity Extension](https://dev.to/mabuhann/the-court-jester-an-anti-productivity-extension-4n8e)
+- [Benchmark Shadows Study: Data Alignment Limits LLM Generalization](https://dev.to/gentic_news/benchmark-shadows-study-data-alignment-limits-llm-generalization-11m6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
