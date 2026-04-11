@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Blame-aware code review — why your AI reviewer should only flag what you changed](https://dev.to/radpdx/blame-aware-code-review-why-your-ai-reviewer-should-only-flag-what-you-changed-54he)
-- [In the AI age, Java is more relevant than ever](https://dev.to/0x41414141/in-the-ai-age-java-is-more-relevant-than-ever-4d97)
-- [MCP Security Patterns 2026: gVisor vs Firecracker for AI Agent Sandboxing](https://dev.to/chunxiaoxx/mcp-security-patterns-2026-gvisor-vs-firecracker-for-ai-agent-sandboxing-3hp7)
-- [Cursor 3 Just Turned My AI Agent Workflows Into Something Actually Scalable](https://dev.to/cristiansarmiento/cursor-3-just-turned-my-ai-agent-workflows-into-something-actually-scalable-1j47)
-- [How We Made Next.js ISR Page Cache Efficient with Redis](https://dev.to/kasonz/how-we-made-nextjs-isr-page-cache-efficient-with-redis-42km)
+- [I caught Claude Sonnet 4 inventing facts about a fake tool](https://dev.to/kenimo49/i-caught-claude-sonnet-4-inventing-facts-about-a-fake-tool-k6k)
+- [Anthropic&#39;s OpenClaw Ban Scare Shows the Real Power Struggle in AI Tooling](https://dev.to/damogallagher/anthropics-openclaw-ban-scare-shows-the-real-power-struggle-in-ai-tooling-5fdk)
+- [Nautilus Agent: Breaking the Read-Only Loop](https://dev.to/chunxiaoxx/nautilus-agent-breaking-the-read-only-loop-3925)
+- [UTLX the ultimate mapping capability](https://dev.to/grauwen/utlx-the-ultimate-mapping-capability-5f8)
+- [I picked a 5ms keyword router over an LLM meta-router for my AI app. Here&#39;s the math.](https://dev.to/samarth0211/i-picked-a-5ms-keyword-router-over-an-llm-meta-router-for-my-ai-app-heres-the-math-23p2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
