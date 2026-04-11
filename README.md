@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Extension: Aftermark](https://dev.to/davidcanhelp/chrome-extension-aftermark-a)
-- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
-- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
-- [@NotBlank vs @Column&lpar;nullable = false&rpar; vs @NotNull — Which one should you use?](https://dev.to/babisha_s/notblank-vs-columnnullable-false-vs-notnull-which-one-should-you-use-27e9)
-- [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-453-can-jia-ji-lu-tojie-da-li-a-cwen-ti--534f)
+- [The Last of Us Online Was 80% Done When Naughty Dog Killed It. The Director Found Out 24 Hours Before You Did.](https://dev.to/pudgycat/the-last-of-us-online-was-80-done-when-naughty-dog-killed-it-the-director-found-out-24-hours-p2a)
+- [Everything You Need for Data Engineering Interview Prep, and Why It&#39;s Free](https://dev.to/datadriven/everything-you-need-for-data-engineering-interview-prep-and-why-its-free-4kem)
+- [Machine Learning Tasks and Evaluation: How to Choose the Right Metrics and Avoid Common Pitfalls](https://dev.to/zeromathai/machine-learning-tasks-and-evaluation-how-to-choose-the-right-metrics-and-avoid-common-pitfalls-1gdl)
+- [pygixml 0.10.0 released — A Faster, Smarter XML Parser for Python](https://dev.to/mohammadraziei/pygixml-0100-released-a-faster-smarter-xml-parser-for-python-12p1)
+- [Server](https://dev.to/sivakumar_mathiyalagan_/server-37h7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
