@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I automated 62% of Europe&#39;s RGAA accessibility criteria](https://dev.to/chabane_lemared_4cf92157/how-i-automated-62-of-europes-rgaa-accessibility-criteria-3pc3)
-- [The Job Search Agent: How I’d Add Dedalus to My GTM Job Intelligence Platform](https://dev.to/satvik_panchal_893bb879ef/the-job-search-agent-how-id-add-dedalus-to-my-gtm-job-intelligence-platform-34hb)
-- [Aethir Adapter Exploit. 500k. Complete Operational security Mess.](https://dev.to/jerry_ns/aethir-adapter-exploit-500k-complete-operational-security-mess-4lng)
-- [Why Your Unity WebGL Multiplayer Breaks on Some Networks](https://dev.to/magithar/why-your-unity-webgl-multiplayer-breaks-on-some-networks-1462)
-- [My Study Guide for the Microsoft Certified SQL AI Developer Associate Beta Exam](https://dev.to/rengond/my-study-guide-for-the-microsoft-certified-sql-ai-developer-associate-beta-exam-447o)
+- [We Built an Open-Source Coding Exam Platform Because Every Vendor Let Us Down](https://dev.to/mickyarun/we-built-an-open-source-coding-exam-platform-because-every-vendor-let-us-down-a7m)
+- [Vibe Coding Isn&#39;t Dead. You Just Need More Than Vibes.](https://dev.to/matt_glein/vibe-coding-isnt-dead-you-just-need-more-than-vibes-3n65)
+- [Common Mistakes I See in Node.js Backends &lpar;And How to Fix Them&rpar;](https://dev.to/abdulmalik_muhammad/common-mistakes-i-see-in-nodejs-backends-and-how-to-fix-them-4peg)
+- [I replaced $500/mo of SEO, Google Ads tools with a Claude Code plugin — here&#39;s how I structured the 15 skills](https://dev.to/ununununium/i-replaced-500mo-of-seo-google-ads-tools-with-a-claude-code-plugin-heres-how-i-structured-the-205p)
+- [My AI-Empowered Supercharged LinkedIn Workflow](https://dev.to/tuzmusic/my-ai-empowered-supercharged-linkedin-workflow-4pg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
