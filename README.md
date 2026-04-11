@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Last of Us Online Was 80% Done When Naughty Dog Killed It. The Director Found Out 24 Hours Before You Did.](https://dev.to/pudgycat/the-last-of-us-online-was-80-done-when-naughty-dog-killed-it-the-director-found-out-24-hours-p2a)
-- [Everything You Need for Data Engineering Interview Prep, and Why It&#39;s Free](https://dev.to/datadriven/everything-you-need-for-data-engineering-interview-prep-and-why-its-free-4kem)
-- [Machine Learning Tasks and Evaluation: How to Choose the Right Metrics and Avoid Common Pitfalls](https://dev.to/zeromathai/machine-learning-tasks-and-evaluation-how-to-choose-the-right-metrics-and-avoid-common-pitfalls-1gdl)
-- [pygixml 0.10.0 released — A Faster, Smarter XML Parser for Python](https://dev.to/mohammadraziei/pygixml-0100-released-a-faster-smarter-xml-parser-for-python-12p1)
-- [Server](https://dev.to/sivakumar_mathiyalagan_/server-37h7)
+- [Regularization in Machine Learning — How to Actually Prevent Overfitting &lpar;L1, L2, Dropout&rpar;](https://dev.to/zeromathai/regularization-in-machine-learning-how-to-actually-prevent-overfitting-l1-l2-dropout-1dph)
+- [Hosting a Static Website on AWS with S3 and CloudFront using Terraform](https://dev.to/vatul16/hosting-a-static-website-on-aws-with-s3-and-cloudfront-using-terraform-174b)
+- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
+- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
+- [OverthinkAI — I Built an AI That Cannot Answer a Single Question](https://dev.to/pulkitgovrani/overthinkai-i-built-an-ai-that-cannot-answer-a-single-question-16hl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
