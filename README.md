@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
-- [Create a website that can generate high-end, free, and ready-to-download eBooks that includes automated pictures per slide.](https://dev.to/biomed_cosca/create-a-website-that-can-generate-high-end-free-and-ready-to-download-ebooks-that-includes-12f1)
-- [Same Prompt, Very Different UI, Comparing Codex With and Without `ui-ux-pro-max-skill`](https://dev.to/yuki-furuta/same-prompt-very-different-ui-comparing-codex-with-and-without-ui-ux-pro-max-skill-37o0)
-- [Fix Your Flutter AI Costs: Run LLMs Without API Tokens](https://dev.to/umair24171/fix-your-flutter-ai-costs-run-llms-without-api-tokens-9ih)
-- [Understanding Join Strategies in PySpark &lpar;With Real-World Insights&rpar;](https://dev.to/rasminbhalla/understanding-join-strategies-in-pyspark-with-real-world-insights-1n05)
+- [Automate Your Links: A Developer&#39;s Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam)
+- [How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen)
+- [Mastering Your Frontend Build with Bazel: Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg)
+- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
+- [Nobody Tells You This About Slow Transformer Models — I Fixed Mine in 3 Steps](https://dev.to/mansisomayajula03/nobody-tells-you-this-about-slow-transformer-models-i-fixed-mine-in-3-steps-518c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
