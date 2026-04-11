@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating To Neovim v0.12.0 Challenge Faced And Solution Found](https://dev.to/kevinasaria/migrating-to-neovim-v0120-challenge-faced-and-solution-found-6f)
-- [This Tea Platform Uses Kubernetes, Chaos Monkey, and Still Does Nothing](https://dev.to/robin-ivi/brewflow-pro-i-built-a-kubernetes-native-microserviced-rfc-2324-compliant-tea-brewing-platform-4ch3)
-- [Download YouTube Thumbnails for Free — Any Video, Max Resolution, No Login](https://dev.to/shaishav_patel_271fdcd61a/download-youtube-thumbnails-for-free-any-video-max-resolution-no-login-pmp)
-- [The 90%-Done Paradox](https://dev.to/js402/the-90-done-paradox-31e1)
-- [I wanted to build an Agent Memory System and blundered my way into 92% on LongMemEval](https://dev.to/shane-farkas/i-wanted-to-build-an-agent-memory-system-and-blundered-my-way-into-92-on-longmemeval-3b27)
+- [SQL Concepts and Practical Application](https://dev.to/noelmwamilab/sql-concepts-and-practical-application-17dd)
+- [gap-cycle-system](https://dev.to/gapuser/gap-cycle-system-i63)
+- [Rust Binary Distribution via npm: Addressing Security Risks and Installation Failures with Native Caching Solutions](https://dev.to/pavkode/rust-binary-distribution-via-npm-addressing-security-risks-and-installation-failures-with-native-4809)
+- [blktrace analysis of MySQL doublewrite buffer contention](https://dev.to/risky_egbuna_67090a53aaaa/blktrace-analysis-of-mysql-doublewrite-buffer-contention-432f)
+- [Quark&#39;s Outlines: Python Expressions](https://dev.to/mike-vincent/quarks-outlines-python-expressions-51ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
