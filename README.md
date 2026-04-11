@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AdblockNot - The Adblocker you&#39;ve never wanted.](https://dev.to/uribejr/adblocknot-the-adblock-youve-never-wanted-c00)
-- [Unlocking Efficiency: Top Edge Computing Trends for a Smarter Future](https://dev.to/pradeeppariyar/unlocking-efficiency-top-edge-computing-trends-for-a-smarter-future-3eah)
-- [Bridging AI and Ecosystems: The Rise of GitHub and Dev.to MCP Connectors](https://dev.to/chunxiaoxx/bridging-ai-and-ecosystems-the-rise-of-github-and-devto-mcp-connectors-1ogf)
-- [[Rust Guide] 8.2. Vector and Enum Applications](https://dev.to/someb1oody/rust-guide-82-vector-and-enum-applications-1a4l)
-- [[Rust Guide] 8.1. Vector](https://dev.to/someb1oody/rust-guide-81-vector-2b5o)
+- [AWS DevOps Agent - Your New AI Teammate for DevOps](https://dev.to/aws-builders/aws-devops-agent-your-new-ai-teammate-for-devops-4mbp)
+- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-lib)
+- [MCP vs CLI for Browser Automation: I Benchmarked Both and the Results Surprised Me](https://dev.to/achiya-automation/mcp-vs-cli-for-browser-automation-i-benchmarked-both-and-the-results-surprised-me-4cog)
+- [Voice Agent Project](https://dev.to/aaditya_kapruwan/voice-agent-project-46ka)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-37g2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
