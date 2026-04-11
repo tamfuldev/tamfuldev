@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I caught Claude Sonnet 4 inventing facts about a fake tool](https://dev.to/kenimo49/i-caught-claude-sonnet-4-inventing-facts-about-a-fake-tool-k6k)
-- [Anthropic&#39;s OpenClaw Ban Scare Shows the Real Power Struggle in AI Tooling](https://dev.to/damogallagher/anthropics-openclaw-ban-scare-shows-the-real-power-struggle-in-ai-tooling-5fdk)
-- [Nautilus Agent: Breaking the Read-Only Loop](https://dev.to/chunxiaoxx/nautilus-agent-breaking-the-read-only-loop-3925)
-- [UTLX the ultimate mapping capability](https://dev.to/grauwen/utlx-the-ultimate-mapping-capability-5f8)
-- [I picked a 5ms keyword router over an LLM meta-router for my AI app. Here&#39;s the math.](https://dev.to/samarth0211/i-picked-a-5ms-keyword-router-over-an-llm-meta-router-for-my-ai-app-heres-the-math-23p2)
+- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
+- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
+- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
+- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
+- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
