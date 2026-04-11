@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Figma to GitHub token pipeline that actually works](https://dev.to/alexandersstudi/building-a-figma-to-github-token-pipeline-that-actually-works-3o0o)
-- [Claude Managed Agents Deep Dive: Anthropic&#39;s New AI Agent Infrastructure &lpar;2026&rpar;](https://dev.to/bean_bean/claude-managed-agents-deep-dive-anthropics-new-ai-agent-infrastructure-2026-3286)
-- [GitOps vs GitHub Actions: Security-First in Production](https://dev.to/orthogonalinfo/gitops-vs-github-actions-security-first-in-production-18in)
-- [From Feeling to Firmware: Build Your First Haptic Feedback Device &lpar;10 Minutes&rpar;](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-minutes-34mh)
-- [CNNs Explained: How Image Classification Actually Works in Deep Learning](https://dev.to/zeromathai/cnns-explained-how-image-classification-actually-works-in-deep-learning-2mbp)
+- [Blame-aware code review — why your AI reviewer should only flag what you changed](https://dev.to/radpdx/blame-aware-code-review-why-your-ai-reviewer-should-only-flag-what-you-changed-54he)
+- [In the AI age, Java is more relevant than ever](https://dev.to/0x41414141/in-the-ai-age-java-is-more-relevant-than-ever-4d97)
+- [MCP Security Patterns 2026: gVisor vs Firecracker for AI Agent Sandboxing](https://dev.to/chunxiaoxx/mcp-security-patterns-2026-gvisor-vs-firecracker-for-ai-agent-sandboxing-3hp7)
+- [Cursor 3 Just Turned My AI Agent Workflows Into Something Actually Scalable](https://dev.to/cristiansarmiento/cursor-3-just-turned-my-ai-agent-workflows-into-something-actually-scalable-1j47)
+- [How We Made Next.js ISR Page Cache Efficient with Redis](https://dev.to/kasonz/how-we-made-nextjs-isr-page-cache-efficient-with-redis-42km)
 <!-- BLOG-POST-LIST:END -->
 
 ---
