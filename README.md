@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Links: A Developer&#39;s Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam)
-- [How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen)
-- [Mastering Your Frontend Build with Bazel: Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg)
-- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
-- [Nobody Tells You This About Slow Transformer Models — I Fixed Mine in 3 Steps](https://dev.to/mansisomayajula03/nobody-tells-you-this-about-slow-transformer-models-i-fixed-mine-in-3-steps-518c)
+- [When Your Node.js App Works Locally but Fails on a VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6)
+- [HTCPCP-2000 // COFFEE_OS](https://dev.to/shadrack_baidoo_503368216/htcpcp-2000-coffeeos-3k8p)
+- [EXPOSED: The Youdao Ads Influencer Marketing Scam - Technical Analysis &amp; Red Flags](https://dev.to/freerave/exposed-the-youdao-ads-influencer-marketing-scam-technical-analysis-red-flags-5cag)
+- [WSL Dashboard v0.6.0: The Ultimate WSL Management Tool for Developers](https://dev.to/guardcalf/wsl-dashboard-v060-the-ultimate-wsl-management-tool-for-developers-4cfd)
+- [Choosing the Right Shortest Path Algorithm](https://dev.to/tomerbendavid/choosing-the-right-shortest-path-algorithm-17f5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
