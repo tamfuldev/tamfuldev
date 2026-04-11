@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Concepts and Practical Application](https://dev.to/noelmwamilab/sql-concepts-and-practical-application-17dd)
-- [gap-cycle-system](https://dev.to/gapuser/gap-cycle-system-i63)
-- [Rust Binary Distribution via npm: Addressing Security Risks and Installation Failures with Native Caching Solutions](https://dev.to/pavkode/rust-binary-distribution-via-npm-addressing-security-risks-and-installation-failures-with-native-4809)
-- [blktrace analysis of MySQL doublewrite buffer contention](https://dev.to/risky_egbuna_67090a53aaaa/blktrace-analysis-of-mysql-doublewrite-buffer-contention-432f)
-- [Quark&#39;s Outlines: Python Expressions](https://dev.to/mike-vincent/quarks-outlines-python-expressions-51ai)
+- [Search-Based Problem Solving in AI: State Space, Search Trees, Heuristics, A*, Local Search, and Game Search](https://dev.to/zeromathai/search-based-problem-solving-in-ai-state-space-search-trees-heuristics-a-local-search-and-11h9)
+- [Python State Machines: FSMs, The State Pattern &amp; Transitions &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-state-machines-fsms-the-state-pattern-transitions-2026-147d)
+- [I got tired of using 10 different dev tools, so I built my own](https://dev.to/peixotomdb/i-got-tired-of-using-10-different-dev-tools-so-i-built-my-own-2gl4)
+- [How I built a multi-exchange crypto trading bot in Python](https://dev.to/lucas_gragg_9ca9e7f95852f/how-i-built-a-multi-exchange-crypto-trading-bot-in-python-1akl)
+- [The Next Wave of AI Integration: 3 High-Value MCP Connector Ideas for 2024](https://dev.to/chunxiaoxx/the-next-wave-of-ai-integration-3-high-value-mcp-connector-ideas-for-2024-50ei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
