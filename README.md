@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vecstore vs Imagga: We Tested Both Image Search APIs](https://dev.to/kencho/vecstore-vs-imagga-we-tested-both-image-search-apis-5316)
-- [End-to-End Testing: Validating Kafka Messages with Playwright](https://dev.to/arkreddysfo/end-to-end-testing-validating-kafka-messages-with-playwright-2m0h)
-- [How to Add Image Search to a React App](https://dev.to/kencho/how-to-add-image-search-to-a-react-app-42ap)
-- [Astro Port: 3.17 kB Gzip, 94% vs React, New Series Record — Because the Framework Runtime Is Literally Zero](https://dev.to/sendotltd/astro-port-317-kb-gzip-94-vs-react-new-series-record-because-the-framework-runtime-is-5f09)
-- [How I Built a Self-Hosted Minecraft Server on AWS in One Day — With a Discord Bot, Auto-Security, and Almost Zero Cost](https://dev.to/birajcoder/how-i-built-a-self-hosted-minecraft-server-on-aws-in-one-day-with-a-discord-bot-auto-security-181c)
+- [Cronómetro para entrega reto semana 5 CND0](https://dev.to/preetha_vaishnavi_2b82358/cronometro-para-entrega-reto-semana-5-cnd0-3nff)
+- [Transcript: Sen. Mark Warner on &quot;Face the Nation with Margaret Brennan&quot;](https://dev.to/chx382/transcript-sen-mark-warner-on-face-the-nation-with-margaret-brennan-2k74)
+- [Building a Voice-Controlled AI Agent: Architecture, Models &amp; Lessons Learned](https://dev.to/mahi_vigneshvalleti_f791/building-a-voice-controlled-ai-agent-architecture-models-lessons-learned-3mje)
+- [Why AI-Generated Code Needs Architecture Standards &lpar;and How We Solved It&rpar;](https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh)
+- [SteeplyOpinionated: A PR Review Tool for Tea Recipes &lpar;Returns 418, Obviously&rpar;](https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
