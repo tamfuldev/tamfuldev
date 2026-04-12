@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Extract Audio from Video in n8n](https://dev.to/renderio/extract-audio-from-video-in-n8n-3jgj)
-- [Why Your Tech Stack Choice Matters Less Than Your Team&#39;s Expertise](https://dev.to/137foundry/why-your-tech-stack-choice-matters-less-than-your-teams-expertise-4e3h)
-- [5 Architecture Patterns Every Web Application Developer Should Understand](https://dev.to/137foundry/5-architecture-patterns-every-web-application-developer-should-understand-49og)
-- [How We Ran Two Portals on the Same Domain During a React Migration &lpar;Without Users Noticing&rpar;](https://dev.to/gustav_lotz_5628d28bc9eac/how-we-ran-two-portals-on-the-same-domain-during-a-react-migration-without-users-noticing-28g0)
-- [How I Set Up Nodemailer with Gmail OAuth2 in My Node.js Project](https://dev.to/pratik-k-ghosh/how-i-set-up-nodemailer-with-gmail-oauth2-in-my-nodejs-project-2fli)
+- [From Django Library to AWS Cognito: My Journey Building Enterprise SSO](https://dev.to/soldatov-ss/from-django-library-to-aws-cognito-my-journey-building-enterprise-sso-30be)
+- [Build a Freelancer Payout Platform with the Afriex SDK and Next.js](https://dev.to/afriex/build-a-freelancer-payout-platform-with-the-afriex-sdk-and-nextjs-2oc8)
+- [ASIC Miner Power Supply Guide 2026: Everything You Need to Know](https://dev.to/zhang_jelly_8783ba0ebac8e/asic-miner-power-supply-guide-2026-everything-you-need-to-know-2ack)
+- [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
+- [Flutter Error Handling with Result, introducing neverthrow_dart](https://dev.to/colafanta/flutter-error-handling-with-result-introducing-neverthrowdart-55a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
