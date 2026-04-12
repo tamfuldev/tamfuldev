@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect Mila to Claude Desktop via MCP in 30 Seconds](https://dev.to/noleetcode/how-to-connect-mila-to-claude-desktop-via-mcp-in-30-seconds-22jo)
-- [Open-source AI Built Qwen’s Reach. Alibaba Wants Cloud Cash](https://dev.to/simon_paxton/open-source-ai-built-qwens-reach-alibaba-wants-cloud-cash-223g)
-- [I built a pixel-perfect, printer-independent report designer with Avalonia UI](https://dev.to/maskedridersystem/i-built-a-pixel-perfect-printer-independent-report-designer-with-avalonia-ui-5ddl)
-- [I Hired 8 IT Gurus to Give Me a Code Review](https://dev.to/simeon_brett_309b827bbdf7/i-hired-8-it-gurus-to-give-me-a-code-review-21i3)
-- [🧠 Stop Letting Your AI Forget: MemPalace is a Wake-Up Call](https://dev.to/npayyappilly/stop-letting-your-ai-forget-mempalace-is-a-wake-up-call-18f0)
+- [I built a pixel-perfect, printer-independent report designer with Avalonia UI](https://dev.to/maskedridersystem/i-built-a-pixel-perfect-printer-independent-report-designer-with-avalonia-ui-4dke)
+- [What 99.9% Uptime Actually Means: 8.7 Hours of Downtime Per Year](https://dev.to/alertsleep/what-999-uptime-actually-means-87-hours-of-downtime-per-year-33k)
+- [🏗️ Building my home server: Part 9](https://dev.to/denesbeck/building-my-home-server-part-9-1km5)
+- [# 😂 Catch Me If You Can – A Completely Useless Website](https://dev.to/shubhangi_jadhav_669bfa23/-catch-me-if-you-can-a-completely-useless-website-3djd)
+- [I built an AI agent that learns from repeated issues using memory](https://dev.to/rithika_1506/i-built-an-ai-agent-that-learns-from-repeated-issues-using-memory-4l7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
