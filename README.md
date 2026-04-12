@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Construindo uma rede social de estudos com IA: desafios e aprendizados](https://dev.to/josimar_canejo/construindo-uma-rede-social-de-estudos-com-ia-desafios-e-aprendizados-3og)
-- [Crucix: An Open OSINT Dashboard Aggregating 27 Real-Time Data Sources](https://dev.to/repairxpert/crucix-an-open-osint-dashboard-aggregating-27-real-time-data-sources-1jo2)
-- [Autonomous NOC Operations: What We Built and What We Measured](https://dev.to/erik_anderson_c41dbafd423/autonomous-noc-operations-what-we-built-and-what-we-measured-32m4)
-- [Stop Overloading Your CLAUDE.md — Simplicity Wins &lpar;and Saves Tokens&rpar;](https://dev.to/derrickpedranti/stop-overloading-your-claudemd-simplicity-wins-and-saves-tokens-e07)
-- [Gemtracker ❤️ CLI](https://dev.to/spaquet/gemtracker-cli-13jk)
+- [What BYOK Really Means for AI Platform Costs](https://dev.to/swrly/what-byok-really-means-for-ai-platform-costs-34b4)
+- [Building AI Workflows for DevOps Teams](https://dev.to/swrly/building-ai-workflows-for-devops-teams-51p2)
+- [I just published my first npm package — and it actually solves a real problem](https://dev.to/tnikhil24/i-just-published-my-first-npm-package-and-it-actually-solves-a-real-problem-30pc)
+- [I Gamified My Claude Code Terminal With Evolving Pixel Pets](https://dev.to/patheonsceo/i-gamified-my-claude-code-terminal-with-evolving-pixel-pets-4jgi)
+- [The Fastest Sorting Algorithm? It Depends. A Deep Dive into Performance on Modern Hardware](https://dev.to/azad_10/the-fastest-sorting-algorithm-it-depends-a-deep-dive-into-performance-on-modern-hardware-24b9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
