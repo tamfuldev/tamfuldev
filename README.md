@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I spent 10 years building a lightweight PHP framework for WEB application development](https://dev.to/o-planet/i-spent-10-years-building-a-lightweight-php-framework-for-web-application-development-42op)
-- [SQL-First PostgreSQL Migrations Without the Magic](https://dev.to/alzhi_f93e67fa45b972/sql-first-postgresql-migrations-without-the-magic-22b0)
-- [How did I pass the AWS Certified Solutions Architect – Professional 2026 exam?](https://dev.to/kevinl/how-did-i-pass-the-aws-certified-solutions-architect-professional-2026-exam-75n)
-- [¿Cómo aprobe AWS Certified Solutions Architect - Professional 2026?](https://dev.to/kevinl/como-aprobe-aws-certified-solutions-architect-professional-2026-4b8c)
-- [Ingeniería Detrás de un Descargador de Bilibili: Desafíos con DASH, M4S y Procesamiento de Media en Python](https://dev.to/yqqwe/ingenieria-detras-de-un-descargador-de-bilibili-desafios-con-dash-m4s-y-procesamiento-de-media-en-3j46)
+- [Vecstore vs Imagga: We Tested Both Image Search APIs](https://dev.to/kencho/vecstore-vs-imagga-we-tested-both-image-search-apis-5316)
+- [End-to-End Testing: Validating Kafka Messages with Playwright](https://dev.to/arkreddysfo/end-to-end-testing-validating-kafka-messages-with-playwright-2m0h)
+- [How to Add Image Search to a React App](https://dev.to/kencho/how-to-add-image-search-to-a-react-app-42ap)
+- [Astro Port: 3.17 kB Gzip, 94% vs React, New Series Record — Because the Framework Runtime Is Literally Zero](https://dev.to/sendotltd/astro-port-317-kb-gzip-94-vs-react-new-series-record-because-the-framework-runtime-is-5f09)
+- [How I Built a Self-Hosted Minecraft Server on AWS in One Day — With a Discord Bot, Auto-Security, and Almost Zero Cost](https://dev.to/birajcoder/how-i-built-a-self-hosted-minecraft-server-on-aws-in-one-day-with-a-discord-bot-auto-security-181c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
