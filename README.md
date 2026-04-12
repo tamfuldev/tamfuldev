@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Agent - Your New AI Teammate for DevOps](https://dev.to/aws-builders/aws-devops-agent-your-new-ai-teammate-for-devops-4mbp)
-- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-lib)
-- [MCP vs CLI for Browser Automation: I Benchmarked Both and the Results Surprised Me](https://dev.to/achiya-automation/mcp-vs-cli-for-browser-automation-i-benchmarked-both-and-the-results-surprised-me-4cog)
-- [Voice Agent Project](https://dev.to/aaditya_kapruwan/voice-agent-project-46ka)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-37g2)
+- [Stop Thinking of HTTP as Request/Response. It&#39;s a Universal Data Layout — and It&#39;s Faster Than Binary Protocol.](https://dev.to/thuangf45/stop-thinking-of-http-as-requestresponse-its-a-universal-data-layout-and-its-faster-than-4c1p)
+- [Best Practices for WordPress SSO Across Separate Domains](https://dev.to/nexuwp/best-practices-for-wordpress-sso-across-separate-domains-4kbk)
+- [How to Bulk Add DNS Records in Cloudflare &lpar;Save Hours with Aioflare&rpar;](https://dev.to/dev_liq28/how-to-bulk-add-dns-records-in-cloudflare-save-hours-with-aioflare-232k)
+- [Ultimate Harness Automation &lpar;OMG: Oh-My-GithubCopilot, v. 1.1.6&rpar; released for Github Copilot](https://dev.to/mincodingopenclaw_56ab0/ultimate-harness-automation-omg-oh-my-githubcopilot-v-116-released-for-github-copilot-22ii)
+- [How I Built a Full-Stack Car Rental Platform in Moldova with Node.js, Supabase &amp; Vercel](https://dev.to/bostan/how-i-built-a-full-stack-car-rental-platform-in-moldova-with-nodejs-supabase-vercel-2c9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
