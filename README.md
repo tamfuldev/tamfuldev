@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What BYOK Really Means for AI Platform Costs](https://dev.to/swrly/what-byok-really-means-for-ai-platform-costs-34b4)
-- [Building AI Workflows for DevOps Teams](https://dev.to/swrly/building-ai-workflows-for-devops-teams-51p2)
-- [I just published my first npm package — and it actually solves a real problem](https://dev.to/tnikhil24/i-just-published-my-first-npm-package-and-it-actually-solves-a-real-problem-30pc)
-- [I Gamified My Claude Code Terminal With Evolving Pixel Pets](https://dev.to/patheonsceo/i-gamified-my-claude-code-terminal-with-evolving-pixel-pets-4jgi)
-- [The Fastest Sorting Algorithm? It Depends. A Deep Dive into Performance on Modern Hardware](https://dev.to/azad_10/the-fastest-sorting-algorithm-it-depends-a-deep-dive-into-performance-on-modern-hardware-24b9)
+- [Semantic Search at Scale: What I Learned Building RAG Infrastructure at Microsoft Copilot](https://dev.to/kennedyraju55/semantic-search-at-scale-what-i-learned-building-rag-infrastructure-at-microsoft-copilot-3d0h)
+- [The Developer&#39;s Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don&#39;t Need an API Key](https://dev.to/kennedyraju55/the-developers-guide-to-running-llms-locally-ollama-gemma-4-and-why-your-side-projects-dont-54oe)
+- [Hook State Converter: Decode Xahau HookState ABI Without the Guesswork](https://dev.to/xrplwin/hook-state-converter-decode-xahau-hookstate-abi-without-the-guesswork-7j2)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-1jaj)
+- [Cost-Aware Serverless Architecture Reviews: A Practical Framework](https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
