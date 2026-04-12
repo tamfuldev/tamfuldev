@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Django Library to AWS Cognito: My Journey Building Enterprise SSO](https://dev.to/soldatov-ss/from-django-library-to-aws-cognito-my-journey-building-enterprise-sso-30be)
-- [Build a Freelancer Payout Platform with the Afriex SDK and Next.js](https://dev.to/afriex/build-a-freelancer-payout-platform-with-the-afriex-sdk-and-nextjs-2oc8)
-- [ASIC Miner Power Supply Guide 2026: Everything You Need to Know](https://dev.to/zhang_jelly_8783ba0ebac8e/asic-miner-power-supply-guide-2026-everything-you-need-to-know-2ack)
-- [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
-- [Flutter Error Handling with Result, introducing neverthrow_dart](https://dev.to/colafanta/flutter-error-handling-with-result-introducing-neverthrowdart-55a2)
+- [Transactional SMS Setup with Africa&#39;s Talking SDK For Single and Bulk messages](https://dev.to/supamodo/transactional-sms-setup-with-africas-talking-sdk-for-single-and-bulk-messages-16fg)
+- [How I Automated a Monitoring Stack on my Dell Latitude using Ansible &amp; Docker](https://dev.to/muhammadkamrankabeeross/how-i-automated-a-monitoring-stack-on-my-dell-latitude-using-ansible-docker-5b73)
+- [GitHub Copilot vs Cursor 2026: Where Should You Spend Your Money?](https://dev.to/jake_kim_bd3065a6816799db/github-copilot-vs-cursor-2026-where-should-you-spend-your-money-k7h)
+- [API Security in India: The Flaw Nobody Is Fixing](https://dev.to/ceo_shouvik/api-security-in-india-the-flaw-nobody-is-fixing-1a4)
+- [My Journey Building &quot;Maa Writing&quot;: When Tauri Becomes a Personal Battle! 🦀⚡](https://dev.to/kalololo527cell/my-journey-building-maa-writing-when-tauri-becomes-a-personal-battle-hfo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
