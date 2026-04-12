@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Entity mapping in depth: attributes, types, and nullable fields](https://dev.to/davidlastrucci/entity-mapping-in-depth-attributes-types-and-nullable-fields-3lo)
-- [How I Built a Free PC Bottleneck Calculator — A Technical Deep Dive](https://dev.to/bottleneck52162/how-i-built-a-free-pc-bottleneck-calculator-a-technical-deep-dive-35an)
-- [My AI Agent Has Amnesia — And It’s Ruining My Business](https://dev.to/kritika_sharma_9ffe0d728c/my-ai-agent-has-amnesia-and-its-ruining-my-business-2a65)
-- [The “The Architecture Handbook for Milvus Vector Database” Book Review](https://dev.to/aairom/the-the-architecture-handbook-for-milvus-vector-database-book-review-1850)
-- [Deepfake Fraud Tripled to $1.1B. Your Evidence Workflow Didn&#39;t.](https://dev.to/caracomp/deepfake-fraud-tripled-to-11b-your-evidence-workflow-didnt-4d63)
+- [I Stopped Using AI Tools for 30 Days. Here&#39;s What I Learned About Myself as a Developer. 🚫🤖](https://dev.to/mamoor123/i-stopped-using-ai-tools-for-30-days-heres-what-i-learned-about-myself-as-a-developer-1kb0)
+- [Vector Embeddings: The Foundation of Semantic AI](https://dev.to/freedevkit/vector-embeddings-the-foundation-of-semantic-ai-pij)
+- [Read 3x Faster Without Losing Comprehension: Introducing NovaRead ⚡️📖](https://dev.to/sruthik_issac/read-3x-faster-without-losing-comprehension-introducing-novaread-32e2)
+- [Extending Qwen3-TTS: clone voices once, reuse everywhere &lpar;pure C&rpar;](https://dev.to/gabrielemastrapasqua/extending-qwen3-tts-clone-voices-once-reuse-everywhere-pure-c-271o)
+- [&quot;Why can’t I just mount S3 like a drive?” AWS finally answering that question in 2026](https://dev.to/pendelabhargavasai/why-cant-i-just-mount-s3-like-a-drive-aws-finally-answering-that-question-in-2026-4g00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
