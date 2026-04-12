@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Using AI Tools for 30 Days. Here&#39;s What I Learned About Myself as a Developer. 🚫🤖](https://dev.to/mamoor123/i-stopped-using-ai-tools-for-30-days-heres-what-i-learned-about-myself-as-a-developer-1kb0)
-- [Vector Embeddings: The Foundation of Semantic AI](https://dev.to/freedevkit/vector-embeddings-the-foundation-of-semantic-ai-pij)
-- [Read 3x Faster Without Losing Comprehension: Introducing NovaRead ⚡️📖](https://dev.to/sruthik_issac/read-3x-faster-without-losing-comprehension-introducing-novaread-32e2)
-- [Extending Qwen3-TTS: clone voices once, reuse everywhere &lpar;pure C&rpar;](https://dev.to/gabrielemastrapasqua/extending-qwen3-tts-clone-voices-once-reuse-everywhere-pure-c-271o)
-- [&quot;Why can’t I just mount S3 like a drive?” AWS finally answering that question in 2026](https://dev.to/pendelabhargavasai/why-cant-i-just-mount-s3-like-a-drive-aws-finally-answering-that-question-in-2026-4g00)
+- [I spent 10 years building a lightweight PHP framework for WEB application development](https://dev.to/o-planet/i-spent-10-years-building-a-lightweight-php-framework-for-web-application-development-42op)
+- [SQL-First PostgreSQL Migrations Without the Magic](https://dev.to/alzhi_f93e67fa45b972/sql-first-postgresql-migrations-without-the-magic-22b0)
+- [How did I pass the AWS Certified Solutions Architect – Professional 2026 exam?](https://dev.to/kevinl/how-did-i-pass-the-aws-certified-solutions-architect-professional-2026-exam-75n)
+- [¿Cómo aprobe AWS Certified Solutions Architect - Professional 2026?](https://dev.to/kevinl/como-aprobe-aws-certified-solutions-architect-professional-2026-4b8c)
+- [Ingeniería Detrás de un Descargador de Bilibili: Desafíos con DASH, M4S y Procesamiento de Media en Python](https://dev.to/yqqwe/ingenieria-detras-de-un-descargador-de-bilibili-desafios-con-dash-m4s-y-procesamiento-de-media-en-3j46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
