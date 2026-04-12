@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own &quot;Private Copilot&quot; in 10 Minutes: Ollama, Continue, and DeepSeek-V3](https://dev.to/syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-4cog)
-- [How to Resize an LVM Volume in Linux](https://dev.to/nuculabs_dev/how-to-resize-an-lvm-volume-in-linux-4jib)
-- [Building a Code Review Agent That Learns From Every Decision](https://dev.to/abhiramcdivakaran/building-a-code-review-agent-that-learns-from-every-decision-5a4c)
-- [Inside the Running Object Table: COM&#39;s Hidden Registry of Live Objects](https://dev.to/steelfactor/inside-the-running-object-table-coms-hidden-registry-of-live-objects-3k64)
-- [Newly Discovered Skills This Week — 2026-04-12](https://dev.to/_0ae5dca97e251657f73267/newly-discovered-skills-this-week-2026-04-12-4op6)
+- [Entity mapping in depth: attributes, types, and nullable fields](https://dev.to/davidlastrucci/entity-mapping-in-depth-attributes-types-and-nullable-fields-3lo)
+- [How I Built a Free PC Bottleneck Calculator — A Technical Deep Dive](https://dev.to/bottleneck52162/how-i-built-a-free-pc-bottleneck-calculator-a-technical-deep-dive-35an)
+- [My AI Agent Has Amnesia — And It’s Ruining My Business](https://dev.to/kritika_sharma_9ffe0d728c/my-ai-agent-has-amnesia-and-its-ruining-my-business-2a65)
+- [The “The Architecture Handbook for Milvus Vector Database” Book Review](https://dev.to/aairom/the-the-architecture-handbook-for-milvus-vector-database-book-review-1850)
+- [Deepfake Fraud Tripled to $1.1B. Your Evidence Workflow Didn&#39;t.](https://dev.to/caracomp/deepfake-fraud-tripled-to-11b-your-evidence-workflow-didnt-4d63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
