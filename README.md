@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a pixel-perfect, printer-independent report designer with Avalonia UI](https://dev.to/maskedridersystem/i-built-a-pixel-perfect-printer-independent-report-designer-with-avalonia-ui-4dke)
-- [What 99.9% Uptime Actually Means: 8.7 Hours of Downtime Per Year](https://dev.to/alertsleep/what-999-uptime-actually-means-87-hours-of-downtime-per-year-33k)
-- [🏗️ Building my home server: Part 9](https://dev.to/denesbeck/building-my-home-server-part-9-1km5)
-- [# 😂 Catch Me If You Can – A Completely Useless Website](https://dev.to/shubhangi_jadhav_669bfa23/-catch-me-if-you-can-a-completely-useless-website-3djd)
-- [I built an AI agent that learns from repeated issues using memory](https://dev.to/rithika_1506/i-built-an-ai-agent-that-learns-from-repeated-issues-using-memory-4l7a)
+- [Extract Audio from Video in n8n](https://dev.to/renderio/extract-audio-from-video-in-n8n-3jgj)
+- [Why Your Tech Stack Choice Matters Less Than Your Team&#39;s Expertise](https://dev.to/137foundry/why-your-tech-stack-choice-matters-less-than-your-teams-expertise-4e3h)
+- [5 Architecture Patterns Every Web Application Developer Should Understand](https://dev.to/137foundry/5-architecture-patterns-every-web-application-developer-should-understand-49og)
+- [How We Ran Two Portals on the Same Domain During a React Migration &lpar;Without Users Noticing&rpar;](https://dev.to/gustav_lotz_5628d28bc9eac/how-we-ran-two-portals-on-the-same-domain-during-a-react-migration-without-users-noticing-28g0)
+- [How I Set Up Nodemailer with Gmail OAuth2 in My Node.js Project](https://dev.to/pratik-k-ghosh/how-i-set-up-nodemailer-with-gmail-oauth2-in-my-nodejs-project-2fli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
