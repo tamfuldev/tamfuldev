@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transactional SMS Setup with Africa&#39;s Talking SDK For Single and Bulk messages](https://dev.to/supamodo/transactional-sms-setup-with-africas-talking-sdk-for-single-and-bulk-messages-16fg)
-- [How I Automated a Monitoring Stack on my Dell Latitude using Ansible &amp; Docker](https://dev.to/muhammadkamrankabeeross/how-i-automated-a-monitoring-stack-on-my-dell-latitude-using-ansible-docker-5b73)
-- [GitHub Copilot vs Cursor 2026: Where Should You Spend Your Money?](https://dev.to/jake_kim_bd3065a6816799db/github-copilot-vs-cursor-2026-where-should-you-spend-your-money-k7h)
-- [API Security in India: The Flaw Nobody Is Fixing](https://dev.to/ceo_shouvik/api-security-in-india-the-flaw-nobody-is-fixing-1a4)
-- [My Journey Building &quot;Maa Writing&quot;: When Tauri Becomes a Personal Battle! 🦀⚡](https://dev.to/kalololo527cell/my-journey-building-maa-writing-when-tauri-becomes-a-personal-battle-hfo)
+- [You Don&#39;t Need a Free PDF Compressor Website Anymore](https://dev.to/igorgridel/you-dont-need-a-free-pdf-compressor-website-anymore-1o8j)
+- [I Got Badges 1, 2, and 4 on DEV.to — Badge #3 Is Currently in Witness Protection](https://dev.to/freerave/i-got-badges-1-2-and-4-on-devto-badge-3-is-currently-in-witness-protection-he4)
+- [Why Your AI Agent Can&#39;t Browse the Web &lpar;And How to Fix It in 3 Lines of Python&rpar;](https://dev.to/proxyclaw/why-your-ai-agent-cant-browse-the-web-and-how-to-fix-it-in-3-lines-of-python-14he)
+- [How to Build Sprite Sheets for 2D Games — A Practical Guide for Indie Devs](https://dev.to/code280fox/how-to-build-sprite-sheets-for-2d-games-a-practical-guide-for-indie-devs-46ib)
+- [How I Built an OCR-Based Defense Against Prompt Injection for Local LLM Search](https://dev.to/morfasco/how-i-built-an-ocr-based-defense-against-prompt-injection-for-local-llm-search-1mnl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
