@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Thinking of HTTP as Request/Response. It&#39;s a Universal Data Layout — and It&#39;s Faster Than Binary Protocol.](https://dev.to/thuangf45/stop-thinking-of-http-as-requestresponse-its-a-universal-data-layout-and-its-faster-than-4c1p)
-- [Best Practices for WordPress SSO Across Separate Domains](https://dev.to/nexuwp/best-practices-for-wordpress-sso-across-separate-domains-4kbk)
-- [How to Bulk Add DNS Records in Cloudflare &lpar;Save Hours with Aioflare&rpar;](https://dev.to/dev_liq28/how-to-bulk-add-dns-records-in-cloudflare-save-hours-with-aioflare-232k)
-- [Ultimate Harness Automation &lpar;OMG: Oh-My-GithubCopilot, v. 1.1.6&rpar; released for Github Copilot](https://dev.to/mincodingopenclaw_56ab0/ultimate-harness-automation-omg-oh-my-githubcopilot-v-116-released-for-github-copilot-22ii)
-- [How I Built a Full-Stack Car Rental Platform in Moldova with Node.js, Supabase &amp; Vercel](https://dev.to/bostan/how-i-built-a-full-stack-car-rental-platform-in-moldova-with-nodejs-supabase-vercel-2c9m)
+- [How to Connect Mila to Claude Desktop via MCP in 30 Seconds](https://dev.to/noleetcode/how-to-connect-mila-to-claude-desktop-via-mcp-in-30-seconds-22jo)
+- [Open-source AI Built Qwen’s Reach. Alibaba Wants Cloud Cash](https://dev.to/simon_paxton/open-source-ai-built-qwens-reach-alibaba-wants-cloud-cash-223g)
+- [I built a pixel-perfect, printer-independent report designer with Avalonia UI](https://dev.to/maskedridersystem/i-built-a-pixel-perfect-printer-independent-report-designer-with-avalonia-ui-5ddl)
+- [I Hired 8 IT Gurus to Give Me a Code Review](https://dev.to/simeon_brett_309b827bbdf7/i-hired-8-it-gurus-to-give-me-a-code-review-21i3)
+- [🧠 Stop Letting Your AI Forget: MemPalace is a Wake-Up Call](https://dev.to/npayyappilly/stop-letting-your-ai-forget-mempalace-is-a-wake-up-call-18f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
