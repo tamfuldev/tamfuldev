@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Gradient Builder: Fixing Annoyances of Existing Tools](https://dev.to/orthogonalinfo/css-gradient-builder-fixing-annoyances-of-existing-tools-1lh6)
-- [I built LoreData: a mock data generator with characters from Breaking Bad, Game of Thrones, Harry Potter, and other universes.](https://dev.to/orchidfiles/i-built-loredata-a-mock-data-generator-with-characters-from-breaking-bad-game-of-thrones-harry-70j)
-- [Patterns for Postgres Traffic Control](https://dev.to/planetscale/patterns-for-postgres-traffic-control-2mlo)
-- [Why Pass/Fail CI Pipelines Break Down—and How Risk‑Based Quality Gates Fix It](https://dev.to/gaya3bollineni/why-passfail-ci-pipelines-break-down-and-how-risk-based-quality-gates-fix-it-3c80)
-- [Why My Agent Repeated the Same Mistakes Across Sessions](https://dev.to/aura0127/why-my-agent-repeated-the-same-mistakes-across-sessions-4106)
+- [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety &lpar;Brutal Feedback Needed&rpar;](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf)
+- [Measuring What Your AI Learned: Epistemic Vectors in Practice](https://dev.to/soulentheo/measuring-what-your-ai-learned-epistemic-vectors-in-practice-3jdh)
+- [Your AI Doesn&#39;t Know What It Doesn&#39;t Know — And That&#39;s the Biggest Problem in AI Tooling](https://dev.to/soulentheo/your-ai-doesnt-know-what-it-doesnt-know-and-thats-the-biggest-problem-in-ai-tooling-18d)
+- [Distributed Tracing and W3C Trace Context](https://dev.to/n451m/distributed-tracing-and-w3c-trace-context-2p4n)
+- [Kimsuky Deploys Malicious LNK Files to Implant Python-Based Backdoor in Multi-Stage Attack](https://dev.to/excalibra/kimsuky-deploys-malicious-lnk-files-to-implant-python-based-backdoor-in-multi-stage-attack-1521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
