@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GamePinned: The Windows Tool That Stops People From Uninstalling Games on Shared PCs](https://dev.to/calisamaa/gamepinned-the-windows-tool-that-stops-people-from-uninstalling-games-on-shared-pcs-332m)
-- [Accelerating Your Development Routine Using MCPs](https://dev.to/emanuelfacundo/accelerating-your-development-routine-using-mcps-307a)
-- [Real-Time Speech, Audio, and Facial Analysis in Production AI Systems](https://dev.to/luffyguy/real-time-speech-audio-and-facial-analysis-in-production-ai-systems-8j5)
-- [Evaluation, Monitoring, and Model Degradation in Production AI Systems](https://dev.to/luffyguy/evaluation-monitoring-and-model-degradation-in-production-ai-systems-4kdl)
-- [Are you using your coding assisted tools efficiently?](https://dev.to/luffyguy/are-you-using-your-coding-assisted-tools-efficiently-5dbf)
+- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
+- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
+- [GIMP&#39;s Posterization: Simple Quantization vs. Median Cut for Better Visuals](https://dev.to/denlava/gimps-posterization-simple-quantization-vs-median-cut-for-better-visuals-h7f)
+- [Ghost Jobs: 30% of What You&#39;re Applying to Doesn&#39;t Exist](https://dev.to/remoet/ghost-jobs-30-of-what-youre-applying-to-doesnt-exist-ka)
+- [Building a UDP-based API](https://dev.to/aws-builders/building-a-udp-based-api-f6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
