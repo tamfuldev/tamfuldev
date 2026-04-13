@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Prompt Engineering Guide for Every Viral AI Art Trend in 2026](https://dev.to/midastools/the-prompt-engineering-guide-for-every-viral-ai-art-trend-in-2026-39ca)
-- [I Replaced SQLite with a Rust Database in My AI Robot — Here&#39;s What Happened](https://dev.to/motedb/i-replaced-sqlite-with-a-rust-database-in-my-ai-robot-heres-what-happened-1n6k)
-- [I Killed 3 Stub Functions in One Session](https://dev.to/naimkatiman/i-killed-3-stub-functions-in-one-session-m58)
-- [trimoji — Unicode and emoji-aware text truncation for JavaScript](https://dev.to/kunaltanwar/trimoji-unicode-and-emoji-aware-text-truncation-for-javascript-2b3e)
-- [IA e eficiência em atividades de código: atividades, métricas e limitações](https://dev.to/asouza/ia-e-eficiencia-em-atividades-de-codigo-atividades-metricas-e-limitacoes-3fc2)
+- [Meet Hotfix—The Dragon Your Legacy Code Deserves](https://dev.to/anchildress1/meet-hotfix-the-dragon-your-legacy-code-deserves-4141)
+- [Why uptime and synthetic monitors still matter in the age of APM](https://dev.to/exemplar/why-uptime-and-synthetic-monitors-still-matter-in-the-age-of-apm-1j85)
+- [Open-Sourcing Mano-P Today: Pure Vision GUI Agent, OSWorld #1, Apache 2.0](https://dev.to/mininglamp/open-sourcing-mano-p-today-pure-vision-gui-agent-osworld-1-apache-20-32eg)
+- [Three Lessons From Shipping an AI Product to Real Users](https://dev.to/sikhoai/three-lessons-from-shipping-an-ai-product-to-real-users-58e0)
+- [SDLC](https://dev.to/vidya_cdd37fca763a53a10e2/sdlc-48de)
 <!-- BLOG-POST-LIST:END -->
 
 ---
