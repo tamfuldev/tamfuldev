@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Molecule Builder App with Ionic and Angular](https://dev.to/jruanobl/building-a-molecule-builder-app-with-ionic-and-angular-52on)
-- [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
-- [Building a Voice-Controlled AI Agent That Runs Entirely on Your Laptop](https://dev.to/ayush_kumar_bf1249d4c926c/building-a-voice-controlled-ai-agent-that-runs-entirely-on-your-laptop-4a5)
-- [Why Software Releases Keep Slipping Even When the Team Is Working Hard](https://dev.to/brainxtechnologies/why-software-releases-keep-slipping-even-when-the-team-is-working-hard-3j8e)
-- [SQL Basics: DDL, DML, Filtering &amp; Data Transformation](https://dev.to/reinhard_bonnke_3c96981a4/sql-basics-ddl-dml-filtering-data-transformation-2301)
+- [Your Claude Code and Cursor agents have amnesia. Here&#39;s the fix.](https://dev.to/bruno_andrade_357863927e2/your-claude-code-and-cursor-agents-have-amnesia-heres-the-fix-2l3a)
+- [I Optimized a Rust Binary From 40MB to 400KB. Here’s How](https://dev.to/speed_engineer/i-optimized-a-rust-binary-from-40mb-to-400kb-heres-how-3n26)
+- [Wearable App Development Cost Breakdown For Developers](https://dev.to/dhruvjoshi9/wearable-app-development-cost-breakdown-for-developers-4o41)
+- [How I Use AI Without Letting It Think for Me](https://dev.to/gary_killen37/how-i-use-ai-without-letting-it-think-for-me-12gd)
+- [I Turned 3 Days of Content Work Into 25 Minutes With Claude Code](https://dev.to/soloailab/i-turned-3-days-of-content-work-into-25-minutes-with-claude-code-1mdp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
