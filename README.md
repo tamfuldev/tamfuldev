@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Real-Time Prompt Filtering Is Critical for AI Data Security in 2026](https://dev.to/langprotect/why-real-time-prompt-filtering-is-critical-for-ai-data-security-in-2026-5hmi)
-- [A Comprehensive Guide to Publishing Power Bi Reports](https://dev.to/urbanomonte/a-comprehensive-guide-to-publishing-power-bi-reports-4o0k)
-- [Using midnight-mcp for Contract Development with AI Assistants](https://dev.to/xyaz1313/using-midnight-mcp-for-contract-development-with-ai-assistants-g5b)
-- [How I built a Zero-Trust JWT Inspector that runs entirely in the browser](https://dev.to/abestdev/how-i-built-a-zero-trust-jwt-inspector-that-runs-entirely-in-the-browser-2j4e)
-- [Azure ML Online Endpoints: Deploy Your Model to Production with Terraform 🚀](https://dev.to/suhas_mallesh/azure-ml-online-endpoints-deploy-your-model-to-production-with-terraform-4730)
+- [I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.](https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc)
+- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha)
+- [Azure Firewall Premium Without TLS Inspection: That&#39;s $693/Month Wasted](https://dev.to/muskan_8abedcc7e12/azure-firewall-premium-without-tls-inspection-thats-693month-wasted-33ja)
+- [When Autoscaling Makes Your Bill Worse, Not Better](https://dev.to/muskan_8abedcc7e12/when-autoscaling-makes-your-bill-worse-not-better-285j)
+- [The &quot;Imposter Syndrome&quot; Phase in Development No One Talks About](https://dev.to/naushadap/the-imposter-syndrome-phase-in-development-no-one-talks-about-296g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
