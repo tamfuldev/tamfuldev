@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;5 AI APIs Every Frontend Dev Should Know in 2026&quot;](https://dev.to/devraj_singh7/5-ai-apis-every-frontend-dev-should-know-in-2026-158d)
-- [What is Apache Polaris? Unifying the Iceberg Ecosystem](https://dev.to/alexmercedcoder/what-is-apache-polaris-unifying-the-iceberg-ecosystem-3mf5)
-- [What is Apache Iceberg? The Table Format Revolution](https://dev.to/alexmercedcoder/what-is-apache-iceberg-the-table-format-revolution-4d62)
-- [[SC] Actores en Swift](https://dev.to/david_goyes_a488f58a17a53/sc-actores-en-swift-1ipb)
-- [What is Apache Parquet? Columns, Encoding, and Performance](https://dev.to/alexmercedcoder/what-is-apache-parquet-columns-encoding-and-performance-333i)
+- [I thought my AI memory hook was broken. It turned out to be Windows, WSL, uv, and one missing login](https://dev.to/ub3dqy/i-thought-my-ai-memory-hook-was-broken-it-turned-out-to-be-windows-wsl-uv-and-one-missing-login-a6)
+- [RAG vs GraphRAG: When to Use What &lpar;From a Builder’s Perspective&rpar;](https://dev.to/system_rationale/rag-vs-graphrag-when-to-use-what-from-a-builders-perspective-132b)
+- [Best Cheap AI Models for Hermes Agent — Under $1/M Tokens](https://dev.to/zacvibecodez/best-cheap-ai-models-for-hermes-agent-under-1m-tokens-5emd)
+- [JWT Is Not Encrypted &lpar;And That&#39;s By Design&rpar;](https://dev.to/neuraldownload/jwt-is-not-encrypted-and-thats-by-design-4fb1)
+- [I built an Agent Memory System for myself and got 90.8% &lpar;end-to-end&rpar; on LongMemEval](https://dev.to/shane-farkas/i-built-an-agent-memory-system-for-myself-and-got-908-end-to-end-on-longmemeval-3hfp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
