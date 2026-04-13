@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety &lpar;Brutal Feedback Needed&rpar;](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf)
-- [Measuring What Your AI Learned: Epistemic Vectors in Practice](https://dev.to/soulentheo/measuring-what-your-ai-learned-epistemic-vectors-in-practice-3jdh)
-- [Your AI Doesn&#39;t Know What It Doesn&#39;t Know — And That&#39;s the Biggest Problem in AI Tooling](https://dev.to/soulentheo/your-ai-doesnt-know-what-it-doesnt-know-and-thats-the-biggest-problem-in-ai-tooling-18d)
-- [Distributed Tracing and W3C Trace Context](https://dev.to/n451m/distributed-tracing-and-w3c-trace-context-2p4n)
-- [Kimsuky Deploys Malicious LNK Files to Implant Python-Based Backdoor in Multi-Stage Attack](https://dev.to/excalibra/kimsuky-deploys-malicious-lnk-files-to-implant-python-based-backdoor-in-multi-stage-attack-1521)
+- [Securing the Air-Gap: Building a Hardware-Aware Forensic Suite for ICS/OT by Rugero Tesla &lpar;404saint&rpar;](https://dev.to/null_saint/securing-the-air-gap-building-a-hardware-aware-forensic-suite-for-icsot-by-rugero-tesla-404saint-127o)
+- [Keeping your zsh config out of Copilot&#39;s terminals](https://dev.to/sourcier/keeping-your-zsh-config-out-of-copilots-terminals-4h7a)
+- [Choosing the tech stack](https://dev.to/sourcier/choosing-the-tech-stack-2fb5)
+- [Why Traditional RAG Scores 0% on Multi-Hop Queries — and What Two Lines of Code Changed](https://dev.to/emilcelestix/why-traditional-rag-scores-0-on-multi-hop-queries-and-what-two-lines-of-code-changed-2eb7)
+- [Rethinking My Portfolio as a Developer](https://dev.to/manthanbhatt/rethinking-my-portfolio-as-a-developer-2l4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
