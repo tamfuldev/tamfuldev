@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
-- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
-- [GIMP&#39;s Posterization: Simple Quantization vs. Median Cut for Better Visuals](https://dev.to/denlava/gimps-posterization-simple-quantization-vs-median-cut-for-better-visuals-h7f)
-- [Ghost Jobs: 30% of What You&#39;re Applying to Doesn&#39;t Exist](https://dev.to/remoet/ghost-jobs-30-of-what-youre-applying-to-doesnt-exist-ka)
-- [Building a UDP-based API](https://dev.to/aws-builders/building-a-udp-based-api-f6e)
+- [&quot;5 AI APIs Every Frontend Dev Should Know in 2026&quot;](https://dev.to/devraj_singh7/5-ai-apis-every-frontend-dev-should-know-in-2026-158d)
+- [What is Apache Polaris? Unifying the Iceberg Ecosystem](https://dev.to/alexmercedcoder/what-is-apache-polaris-unifying-the-iceberg-ecosystem-3mf5)
+- [What is Apache Iceberg? The Table Format Revolution](https://dev.to/alexmercedcoder/what-is-apache-iceberg-the-table-format-revolution-4d62)
+- [[SC] Actores en Swift](https://dev.to/david_goyes_a488f58a17a53/sc-actores-en-swift-1ipb)
+- [What is Apache Parquet? Columns, Encoding, and Performance](https://dev.to/alexmercedcoder/what-is-apache-parquet-columns-encoding-and-performance-333i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
