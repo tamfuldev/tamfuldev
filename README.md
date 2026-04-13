@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Claude Code and Cursor agents have amnesia. Here&#39;s the fix.](https://dev.to/bruno_andrade_357863927e2/your-claude-code-and-cursor-agents-have-amnesia-heres-the-fix-2l3a)
-- [I Optimized a Rust Binary From 40MB to 400KB. Here’s How](https://dev.to/speed_engineer/i-optimized-a-rust-binary-from-40mb-to-400kb-heres-how-3n26)
-- [Wearable App Development Cost Breakdown For Developers](https://dev.to/dhruvjoshi9/wearable-app-development-cost-breakdown-for-developers-4o41)
-- [How I Use AI Without Letting It Think for Me](https://dev.to/gary_killen37/how-i-use-ai-without-letting-it-think-for-me-12gd)
-- [I Turned 3 Days of Content Work Into 25 Minutes With Claude Code](https://dev.to/soloailab/i-turned-3-days-of-content-work-into-25-minutes-with-claude-code-1mdp)
+- [Automate PowerPoint Reports from Excel with Python](https://dev.to/slideforge_5f3f3f08/automate-powerpoint-reports-from-excel-with-python-42i3)
+- [An overview of Google Cloud Carbon Footprint](https://dev.to/jdxlabs/an-overview-of-google-cloud-carbon-footprint-46mk)
+- [Docker for Novices: el recurso que 16 listas no pueden estar equivocadas](https://dev.to/jtorchia/docker-for-novices-el-recurso-que-16-listas-no-pueden-estar-equivocadas-3dh0)
+- [Build a Talking Robot with Gemini Live and Reachy Mini](https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2)
+- [# Understanding wallet sync: why your deploy fails before it starts](https://dev.to/tosin_akinbowa_0f25bbbd6f/-understanding-wallet-sync-why-your-deploy-fails-before-it-starts-l11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
