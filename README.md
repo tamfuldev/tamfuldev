@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Securing the Air-Gap: Building a Hardware-Aware Forensic Suite for ICS/OT by Rugero Tesla &lpar;404saint&rpar;](https://dev.to/null_saint/securing-the-air-gap-building-a-hardware-aware-forensic-suite-for-icsot-by-rugero-tesla-404saint-127o)
-- [Keeping your zsh config out of Copilot&#39;s terminals](https://dev.to/sourcier/keeping-your-zsh-config-out-of-copilots-terminals-4h7a)
-- [Choosing the tech stack](https://dev.to/sourcier/choosing-the-tech-stack-2fb5)
-- [Why Traditional RAG Scores 0% on Multi-Hop Queries — and What Two Lines of Code Changed](https://dev.to/emilcelestix/why-traditional-rag-scores-0-on-multi-hop-queries-and-what-two-lines-of-code-changed-2eb7)
-- [Rethinking My Portfolio as a Developer](https://dev.to/manthanbhatt/rethinking-my-portfolio-as-a-developer-2l4m)
+- [GamePinned: The Windows Tool That Stops People From Uninstalling Games on Shared PCs](https://dev.to/calisamaa/gamepinned-the-windows-tool-that-stops-people-from-uninstalling-games-on-shared-pcs-332m)
+- [Accelerating Your Development Routine Using MCPs](https://dev.to/emanuelfacundo/accelerating-your-development-routine-using-mcps-307a)
+- [Real-Time Speech, Audio, and Facial Analysis in Production AI Systems](https://dev.to/luffyguy/real-time-speech-audio-and-facial-analysis-in-production-ai-systems-8j5)
+- [Evaluation, Monitoring, and Model Degradation in Production AI Systems](https://dev.to/luffyguy/evaluation-monitoring-and-model-degradation-in-production-ai-systems-4kdl)
+- [Are you using your coding assisted tools efficiently?](https://dev.to/luffyguy/are-you-using-your-coding-assisted-tools-efficiently-5dbf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
