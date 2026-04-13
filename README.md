@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.](https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc)
-- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha)
-- [Azure Firewall Premium Without TLS Inspection: That&#39;s $693/Month Wasted](https://dev.to/muskan_8abedcc7e12/azure-firewall-premium-without-tls-inspection-thats-693month-wasted-33ja)
-- [When Autoscaling Makes Your Bill Worse, Not Better](https://dev.to/muskan_8abedcc7e12/when-autoscaling-makes-your-bill-worse-not-better-285j)
-- [The &quot;Imposter Syndrome&quot; Phase in Development No One Talks About](https://dev.to/naushadap/the-imposter-syndrome-phase-in-development-no-one-talks-about-296g)
+- [Building a Molecule Builder App with Ionic and Angular](https://dev.to/jruanobl/building-a-molecule-builder-app-with-ionic-and-angular-52on)
+- [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
+- [Building a Voice-Controlled AI Agent That Runs Entirely on Your Laptop](https://dev.to/ayush_kumar_bf1249d4c926c/building-a-voice-controlled-ai-agent-that-runs-entirely-on-your-laptop-4a5)
+- [Why Software Releases Keep Slipping Even When the Team Is Working Hard](https://dev.to/brainxtechnologies/why-software-releases-keep-slipping-even-when-the-team-is-working-hard-3j8e)
+- [SQL Basics: DDL, DML, Filtering &amp; Data Transformation](https://dev.to/reinhard_bonnke_3c96981a4/sql-basics-ddl-dml-filtering-data-transformation-2301)
 <!-- BLOG-POST-LIST:END -->
 
 ---
