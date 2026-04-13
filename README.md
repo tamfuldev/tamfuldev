@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Hotfix—The Dragon Your Legacy Code Deserves](https://dev.to/anchildress1/meet-hotfix-the-dragon-your-legacy-code-deserves-4141)
-- [Why uptime and synthetic monitors still matter in the age of APM](https://dev.to/exemplar/why-uptime-and-synthetic-monitors-still-matter-in-the-age-of-apm-1j85)
-- [Open-Sourcing Mano-P Today: Pure Vision GUI Agent, OSWorld #1, Apache 2.0](https://dev.to/mininglamp/open-sourcing-mano-p-today-pure-vision-gui-agent-osworld-1-apache-20-32eg)
-- [Three Lessons From Shipping an AI Product to Real Users](https://dev.to/sikhoai/three-lessons-from-shipping-an-ai-product-to-real-users-58e0)
-- [SDLC](https://dev.to/vidya_cdd37fca763a53a10e2/sdlc-48de)
+- [Why Real-Time Prompt Filtering Is Critical for AI Data Security in 2026](https://dev.to/langprotect/why-real-time-prompt-filtering-is-critical-for-ai-data-security-in-2026-5hmi)
+- [A Comprehensive Guide to Publishing Power Bi Reports](https://dev.to/urbanomonte/a-comprehensive-guide-to-publishing-power-bi-reports-4o0k)
+- [Using midnight-mcp for Contract Development with AI Assistants](https://dev.to/xyaz1313/using-midnight-mcp-for-contract-development-with-ai-assistants-g5b)
+- [How I built a Zero-Trust JWT Inspector that runs entirely in the browser](https://dev.to/abestdev/how-i-built-a-zero-trust-jwt-inspector-that-runs-entirely-in-the-browser-2j4e)
+- [Azure ML Online Endpoints: Deploy Your Model to Production with Terraform 🚀](https://dev.to/suhas_mallesh/azure-ml-online-endpoints-deploy-your-model-to-production-with-terraform-4730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
