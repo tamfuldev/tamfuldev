@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search at Scale: What I Learned Building RAG Infrastructure at Microsoft Copilot](https://dev.to/kennedyraju55/semantic-search-at-scale-what-i-learned-building-rag-infrastructure-at-microsoft-copilot-3d0h)
-- [The Developer&#39;s Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don&#39;t Need an API Key](https://dev.to/kennedyraju55/the-developers-guide-to-running-llms-locally-ollama-gemma-4-and-why-your-side-projects-dont-54oe)
-- [Hook State Converter: Decode Xahau HookState ABI Without the Guesswork](https://dev.to/xrplwin/hook-state-converter-decode-xahau-hookstate-abi-without-the-guesswork-7j2)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-1jaj)
-- [Cost-Aware Serverless Architecture Reviews: A Practical Framework](https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl)
+- [The Prompt Engineering Guide for Every Viral AI Art Trend in 2026](https://dev.to/midastools/the-prompt-engineering-guide-for-every-viral-ai-art-trend-in-2026-39ca)
+- [I Replaced SQLite with a Rust Database in My AI Robot — Here&#39;s What Happened](https://dev.to/motedb/i-replaced-sqlite-with-a-rust-database-in-my-ai-robot-heres-what-happened-1n6k)
+- [I Killed 3 Stub Functions in One Session](https://dev.to/naimkatiman/i-killed-3-stub-functions-in-one-session-m58)
+- [trimoji — Unicode and emoji-aware text truncation for JavaScript](https://dev.to/kunaltanwar/trimoji-unicode-and-emoji-aware-text-truncation-for-javascript-2b3e)
+- [IA e eficiência em atividades de código: atividades, métricas e limitações](https://dev.to/asouza/ia-e-eficiencia-em-atividades-de-codigo-atividades-metricas-e-limitacoes-3fc2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
