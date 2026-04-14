@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built a Browser-Local AI Assistant in Next.js with WebLLM, WASM, ONNX Runtime, Web Workers, and RAG](https://dev.to/databro/i-built-a-browser-local-ai-assistant-in-nextjs-with-webllm-wasm-onnx-runtime-web-workers-and-58b5)
-- [AI-Assisted Development Workflows: Code Review, Testing, and Documentation](https://dev.to/veduis/ai-assisted-development-workflows-code-review-testing-and-documentation-1c36)
-- [Self-Hosted Pantheon vs Claude Managed Agents — A Real Cost Comparison](https://dev.to/whoffagents/self-hosted-pantheon-vs-claude-managed-agents-a-real-cost-comparison-3o9o)
-- [YAML vs Markdown vs JSON vs TOON: Which Format Is Most Efficient for the Claude API](https://dev.to/webramos/yaml-vs-markdown-vs-json-vs-toon-which-format-is-most-efficient-for-the-claude-api-4l94)
-- [No GPU? No problem!, running local AI efficiently on my CPU.](https://dev.to/muguchiaerickmwangi/no-gpu-no-problem-running-local-ai-efficiently-on-my-cpu-1fhf)
+- [elm-simple-icons: Another Elm package](https://dev.to/agj/elm-simple-icons-another-elm-package-23pk)
+- [Connecting PostgreSQL to Power BI for Data Analysis](https://dev.to/charles_ndungu/connecting-postgresql-to-power-bi-for-data-analysis-3pnj)
+- [Spiking Neural Network Hits 1B Parameters, Hints at New Behavior](https://dev.to/simon_paxton/spiking-neural-network-hits-1b-parameters-hints-at-new-behavior-5e0p)
+- [Claude Code Unleashes AI Workflow Routines &amp; Autoresesearch Agents for Production](https://dev.to/soytuber/claude-code-unleashes-ai-workflow-routines-autoresesearch-agents-for-production-2cmk)
+- [Design pattern visualization: Behavioral Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-behavioral-design-patterns-251i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
