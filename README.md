@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Enterprise SSO to Your AI App With Kinde: SAML, OIDC, and Beyond](https://dev.to/sholajegede/how-to-add-enterprise-sso-to-your-ai-app-with-kinde-saml-oidc-and-beyond-438a)
-- [Automate Your Edit: AI Genre-Specific Workflows for YouTube Editors](https://dev.to/ken_deng_ai/automate-your-edit-ai-genre-specific-workflows-for-youtube-editors-2ee1)
-- [Generate Terminal Recordings for Your CLI Docs Without Touching asciinema](https://dev.to/bala_paranj_059d338e44e7e/generate-terminal-recordings-for-your-cli-docs-without-touching-asciinema-3a18)
-- [Building Reliable AI in NodeJS with Typescript](https://dev.to/arslan_mecom/building-reliable-ai-with-hazeljseval-in-nodejs-with-typescript-3hk3)
-- [Schrödinger&#39;s Backup: If You Haven&#39;t Tested a Restore, You Don&#39;t Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53)
+- [Your Job Isn&#39;t Going Away. But Someone&#39;s Fundraise Depends on You Thinking It Is.](https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el)
+- [Next.js job board: stop indexing expired jobs](https://dev.to/sathish_daggula/nextjs-job-board-stop-indexing-expired-jobs-28fo)
+- [OpenClaw on Windows: WSL2 Setup Guide [2026]](https://dev.to/zacvibecodez/openclaw-on-windows-wsl2-setup-guide-2026-5bp7)
+- [AI Prompts for Freelance Tech Workers: Proposals, Client Emails, and Scoping](https://dev.to/lorikeesmart/ai-prompts-for-freelance-tech-workers-proposals-client-emails-and-scoping-5g02)
+- [Teach Your AI Coding Agent to Run Accessibility Audits](https://dev.to/snapsynapse/teach-your-ai-coding-agent-to-run-accessibility-audits-3hn9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
