@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# I Replaced a $100K Security Audit with a CI Pipeline — And It Caught More Bugs](https://dev.to/vano_chkheidze_5071c537e2/-i-replaced-a-100k-security-audit-with-a-ci-pipeline-and-it-caught-more-bugs-1h11)
-- [Gin+Go Waiting Room Package Released](https://dev.to/andreimerlescu/gingo-waiting-room-package-released-41me)
-- [How I Set Up a Browser Automation Skill for AI Agents Using Chrome CDP &lpar;Step-by-Step Guide&rpar;](https://dev.to/survivor/how-i-set-up-a-browser-automation-skill-for-ai-agents-using-chrome-cdp-step-by-step-guide-4dhj)
-- [Your CSS Animations Are Doing Too Much Manual Labor — Fix It With FSCSS](https://dev.to/sheraz046/your-css-animations-are-doing-too-much-manual-labor-fix-it-with-fscss-52pf)
-- [How to Version and Update Your OpenClaw Skills](https://dev.to/zacvibecodez/how-to-version-and-update-your-openclaw-skills-41h7)
+- [I built a tool that shows you exactly which method slowed down after your last deploy published: false](https://dev.to/closeup1202/i-built-a-tool-that-shows-you-exactly-which-method-slowed-down-after-your-last-deploy-published-o52)
+- [Your AI Agent Doesn&#39;t Need More Memory Tools. It Needs to Learn to Introspect.](https://dev.to/parkerscobey/your-ai-agent-doesnt-need-more-memory-tools-it-needs-to-learn-to-introspect-3hjb)
+- [Data Center Backlash: Festus Voters Oust 4 Incumbents](https://dev.to/simon_paxton/data-center-backlash-festus-voters-oust-4-incumbents-5ba)
+- [Can OpenClaw Read Your Files? Here&#39;s What&#39;s Actually True.](https://dev.to/mehul_bhardwaj_8a2d2aaecb/can-openclaw-read-your-files-heres-whats-actually-true-2pkg)
+- [OpenClaw Security Concerns Reveal Why Agents Need Verifiers](https://dev.to/simon_paxton/openclaw-security-concerns-reveal-why-agents-need-verifiers-d5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
