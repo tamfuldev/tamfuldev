@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 Hardest Problems in Context Engineering Right Now](https://dev.to/kinlane/the-5-hardest-problems-in-context-engineering-right-now-3a38)
-- [Claude Code vs Codex](https://dev.to/100hum_patel/claude-code-vs-codex-4ndi)
-- [XMLReader vs XmlExtractKit for Real XML Extraction Tasks in PHP](https://dev.to/sbwerewolf/xmlreader-vs-xmlextractkit-for-real-xml-extraction-tasks-in-php-1c43)
-- [Building What&#39;s Next with LangChain 1.0, LangGraph 1.0, and LangSmith](https://dev.to/focused_dot_io/building-whats-next-with-langchain-10-langgraph-10-and-langsmith-9g1)
-- [&quot;Why Are You Locking Yourselves Into LangChain?&quot;](https://dev.to/focused_dot_io/why-are-you-locking-yourselves-into-langchain-14fh)
+- [🚀 I Built a Browser-Local AI Assistant in Next.js with WebLLM, WASM, ONNX Runtime, Web Workers, and RAG](https://dev.to/databro/i-built-a-browser-local-ai-assistant-in-nextjs-with-webllm-wasm-onnx-runtime-web-workers-and-58b5)
+- [AI-Assisted Development Workflows: Code Review, Testing, and Documentation](https://dev.to/veduis/ai-assisted-development-workflows-code-review-testing-and-documentation-1c36)
+- [Self-Hosted Pantheon vs Claude Managed Agents — A Real Cost Comparison](https://dev.to/whoffagents/self-hosted-pantheon-vs-claude-managed-agents-a-real-cost-comparison-3o9o)
+- [YAML vs Markdown vs JSON vs TOON: Which Format Is Most Efficient for the Claude API](https://dev.to/webramos/yaml-vs-markdown-vs-json-vs-toon-which-format-is-most-efficient-for-the-claude-api-4l94)
+- [No GPU? No problem!, running local AI efficiently on my CPU.](https://dev.to/muguchiaerickmwangi/no-gpu-no-problem-running-local-ai-efficiently-on-my-cpu-1fhf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
