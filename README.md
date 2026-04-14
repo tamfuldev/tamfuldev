@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a LangGraph Agent That Audits Android Projects — Here&#39;s the Architecture](https://dev.to/samuvelp/i-built-a-langgraph-agent-that-audits-android-projects-heres-the-architecture-53jh)
-- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/samwel_sam/etl-vs-eltwhich-one-should-you-use-and-why-5gja)
-- [I Tested 6 AI Headshot Generators With the Same Photos. Here&#39;s the Data](https://dev.to/sarwar_ai/best-ai-headshot-generators-b2p)
-- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama &lpar;72-hour run, 1,065 entries&rpar;](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280)
-- [The Backyard Quarry, Part 5: Digital Twins for Physical Objects](https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i)
+- [Mastering Gemma 4: A Comprehensive Deep Dive into Google&#39;s Next-Generation Open Model Architecture and Deployment](https://dev.to/jubinsoni/mastering-gemma-4-a-comprehensive-deep-dive-into-googles-next-generation-open-model-architecture-2f91)
+- [How Developer Marketing Teams Create Original Content With AI](https://dev.to/octolens/how-developer-marketing-teams-create-original-content-with-ai-49m4)
+- [Look &amp; Feel - Can AI Judge Aesthetics?](https://dev.to/sakthi_nem/article-by-sakthivadivel-full-stack-developer-583c)
+- [Cloudflare Tunnel in 2026: Expose localhost Without Opening Ports or Buying an IP](https://dev.to/recca0120/cloudflare-tunnel-in-2026-expose-localhost-without-opening-ports-or-buying-an-ip-32l5)
+- [MCPs everywhere, wth is that?](https://dev.to/rita/mcps-everywhere-wth-is-that-41e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
