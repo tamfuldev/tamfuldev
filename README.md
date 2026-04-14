@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Aether-9 v3.0 A Policy-Aware Secure Bytecode Execution Layer for AI-Native and Automation Workflows](https://dev.to/adam_akeely_aether-9/aether-9-v30-a-policy-aware-secure-bytecode-execution-layer-for-ai-native-and-automation-workflows-e72)
-- [Mastering the Basics: A Deep Dive into SQL Fundamentals](https://dev.to/mbatiak/mastering-the-basics-a-deep-dive-into-sql-fundamentals-11mc)
-- [Implementing mergeMap and switchMap: &quot;The React Way&quot;](https://dev.to/riturathin/implementing-mergemap-and-switchmap-the-react-way-290e)
-- [Getting hands on with spec driven development](https://dev.to/094459/getting-hands-on-with-spec-driven-development-3ln8)
-- [The Competence Trap: Why Your Best AI Agent Might Be Your Biggest Risk](https://dev.to/the_bookmaster/the-competence-trap-why-your-best-ai-agent-might-be-your-biggest-risk-31b2)
+- [Share Anything Instantly &amp; Securely - Text, Files, and URLs with Zero Friction](https://dev.to/akshit_suthar/share-anything-instantly-securely-text-files-and-urls-with-zero-friction-id8)
+- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
+- [600,000 Lines of AI-Generated Code: What We Found Inside a Production SaaS](https://dev.to/pawel_reszka/600000-lines-of-ai-generated-code-what-we-found-inside-a-production-saas-3i1f)
+- [Skeleton maintenance is Broken. We Fixed It.](https://dev.to/webscavenger/skeleton-maintenance-is-broken-we-fixed-it-3clk)
+- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/petermuriya/a-beginner-friendly-guide-to-modern-data-pipelines-in-the-age-of-cloud-computing-3d2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
