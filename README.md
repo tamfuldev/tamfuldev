@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Client Revisions with AI-Powered Version Control](https://dev.to/ken_deng_ai/automate-client-revisions-with-ai-powered-version-control-4856)
-- [Why Wearable Data Doesn’t Match Reality &lpar;And What to Do About It&rpar;](https://dev.to/shradha_puri/why-wearable-data-doesnt-match-reality-and-what-to-do-about-it-2pff)
-- [To Teach AI How to Remember, First Teach It How to Forget 2/2](https://dev.to/_53fb7c03dd741a6124e4e/to-teach-ai-how-to-remember-first-teach-it-how-to-forget-22-1ejf)
-- [AI한테 기억을 가르치려면, 잊는 법부터 가르쳐야 한다 2/2](https://dev.to/_53fb7c03dd741a6124e4e/aihante-gieogeul-gareuciryeomyeon-ijneun-beobbuteo-gareucyeoya-handa-22-185b)
-- [7 Game Design Tools](https://dev.to/hiroshi_takamura_c851fe71/7-game-design-tools-238n)
+- [Aether-9 v3.0 A Policy-Aware Secure Bytecode Execution Layer for AI-Native and Automation Workflows](https://dev.to/adam_akeely_aether-9/aether-9-v30-a-policy-aware-secure-bytecode-execution-layer-for-ai-native-and-automation-workflows-e72)
+- [Mastering the Basics: A Deep Dive into SQL Fundamentals](https://dev.to/mbatiak/mastering-the-basics-a-deep-dive-into-sql-fundamentals-11mc)
+- [Implementing mergeMap and switchMap: &quot;The React Way&quot;](https://dev.to/riturathin/implementing-mergemap-and-switchmap-the-react-way-290e)
+- [Getting hands on with spec driven development](https://dev.to/094459/getting-hands-on-with-spec-driven-development-3ln8)
+- [The Competence Trap: Why Your Best AI Agent Might Be Your Biggest Risk](https://dev.to/the_bookmaster/the-competence-trap-why-your-best-ai-agent-might-be-your-biggest-risk-31b2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
