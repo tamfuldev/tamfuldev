@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Share Anything Instantly &amp; Securely - Text, Files, and URLs with Zero Friction](https://dev.to/akshit_suthar/share-anything-instantly-securely-text-files-and-urls-with-zero-friction-id8)
-- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
-- [600,000 Lines of AI-Generated Code: What We Found Inside a Production SaaS](https://dev.to/pawel_reszka/600000-lines-of-ai-generated-code-what-we-found-inside-a-production-saas-3i1f)
-- [Skeleton maintenance is Broken. We Fixed It.](https://dev.to/webscavenger/skeleton-maintenance-is-broken-we-fixed-it-3clk)
-- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/petermuriya/a-beginner-friendly-guide-to-modern-data-pipelines-in-the-age-of-cloud-computing-3d2d)
+- [How to Add Enterprise SSO to Your AI App With Kinde: SAML, OIDC, and Beyond](https://dev.to/sholajegede/how-to-add-enterprise-sso-to-your-ai-app-with-kinde-saml-oidc-and-beyond-438a)
+- [Automate Your Edit: AI Genre-Specific Workflows for YouTube Editors](https://dev.to/ken_deng_ai/automate-your-edit-ai-genre-specific-workflows-for-youtube-editors-2ee1)
+- [Generate Terminal Recordings for Your CLI Docs Without Touching asciinema](https://dev.to/bala_paranj_059d338e44e7e/generate-terminal-recordings-for-your-cli-docs-without-touching-asciinema-3a18)
+- [Building Reliable AI in NodeJS with Typescript](https://dev.to/arslan_mecom/building-reliable-ai-with-hazeljseval-in-nodejs-with-typescript-3hk3)
+- [Schrödinger&#39;s Backup: If You Haven&#39;t Tested a Restore, You Don&#39;t Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53)
 <!-- BLOG-POST-LIST:END -->
 
 ---
