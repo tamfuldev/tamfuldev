@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Gemma 4: A Comprehensive Deep Dive into Google&#39;s Next-Generation Open Model Architecture and Deployment](https://dev.to/jubinsoni/mastering-gemma-4-a-comprehensive-deep-dive-into-googles-next-generation-open-model-architecture-2f91)
-- [How Developer Marketing Teams Create Original Content With AI](https://dev.to/octolens/how-developer-marketing-teams-create-original-content-with-ai-49m4)
-- [Look &amp; Feel - Can AI Judge Aesthetics?](https://dev.to/sakthi_nem/article-by-sakthivadivel-full-stack-developer-583c)
-- [Cloudflare Tunnel in 2026: Expose localhost Without Opening Ports or Buying an IP](https://dev.to/recca0120/cloudflare-tunnel-in-2026-expose-localhost-without-opening-ports-or-buying-an-ip-32l5)
-- [MCPs everywhere, wth is that?](https://dev.to/rita/mcps-everywhere-wth-is-that-41e0)
+- [The 5 Hardest Problems in Context Engineering Right Now](https://dev.to/kinlane/the-5-hardest-problems-in-context-engineering-right-now-3a38)
+- [Claude Code vs Codex](https://dev.to/100hum_patel/claude-code-vs-codex-4ndi)
+- [XMLReader vs XmlExtractKit for Real XML Extraction Tasks in PHP](https://dev.to/sbwerewolf/xmlreader-vs-xmlextractkit-for-real-xml-extraction-tasks-in-php-1c43)
+- [Building What&#39;s Next with LangChain 1.0, LangGraph 1.0, and LangSmith](https://dev.to/focused_dot_io/building-whats-next-with-langchain-10-langgraph-10-and-langsmith-9g1)
+- [&quot;Why Are You Locking Yourselves Into LangChain?&quot;](https://dev.to/focused_dot_io/why-are-you-locking-yourselves-into-langchain-14fh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
