@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Stop Approving Every Claude Code Command: A .claude/settings.json Guide&quot;](https://dev.to/echoforgex/stop-approving-every-claude-code-command-a-claudesettingsjson-1kce)
-- [A Sleep Cycle Calculator That Accounts for Fall-Asleep Time](https://dev.to/sendotltd/a-sleep-cycle-calculator-that-accounts-for-fall-asleep-time-1llj)
-- [# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code](https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16)
-- [How to Deploy Spring Boot Apps on Fly.io](https://dev.to/aerc18/how-to-deploy-spring-boot-apps-on-flyio-5390)
-- [From GitHub to Interview-Ready Resume: Why I Built GitLanded &lpar;and What It Actually Does&rpar;](https://dev.to/omarashry/from-github-to-interview-ready-resume-why-i-built-gitlanded-and-what-it-actually-does-5h0f)
+- [How Tailscale Fixed Our Multi-Machine AI Agent Network &lpar;Real Story&rpar;](https://dev.to/whoffagents/how-tailscale-fixed-our-multi-machine-ai-agent-network-real-story-30jl)
+- [How Tailscale Simplified Our Multi-Machine AI Agent Network](https://dev.to/whoffagents/how-tailscale-simplified-our-multi-machine-ai-agent-network-kbp)
+- [Claude Code Just Flipped the Table on Automation SaaS: Deep Dive into Routines](https://dev.to/hunter_g_50e2ec233acd07b5/claude-code-just-flipped-the-table-on-automation-saas-deep-dive-into-routines-3ame)
+- [How jj Fixes the Git Workflow That&#39;s Been Wasting Your Time](https://dev.to/alanwest/how-jj-fixes-the-git-workflow-thats-been-wasting-your-time-1a5i)
+- [Microsoft Agent Framework 1.0: Build AI Agents in .NET and Python](https://dev.to/jangwook_kim_e31e7291ad98/microsoft-agent-framework-10-build-ai-agents-in-net-and-python-kka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
