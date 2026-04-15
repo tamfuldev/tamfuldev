@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# WJb Hits 700k+ Jobs/sec: Benchmarking the New Lightweight Background Job Library for .NET](https://dev.to/ukrguru/-wjb-hits-700k-jobssec-benchmarking-the-new-lightweight-background-job-library-for-net-1ji3)
-- [x402 vs AP2 vs ACP: Three Agent-Payment Standards, One Attribution Problem](https://dev.to/aerobean/x402-vs-ap2-vs-acp-three-agent-payment-standards-one-attribution-problem-ifg)
-- [How to Onboard a New Developer Without Sharing a Single API Key](https://dev.to/the_seventeen/how-to-onboard-a-new-developer-without-sharing-a-single-api-key-51g7)
-- [Stop Switching Tabs: I Built a Lightweight Rust/Tauri Menu Bar App to Summon Gemini for Instant Debugging🐤](https://dev.to/hiyoyok/stop-switching-tabs-i-built-a-lightweight-rusttauri-menu-bar-app-to-summon-gemini-for-instant-3p9a)
-- [Contract Testing for PHP Microservices with Pact](https://dev.to/patoliyainfotech/contract-testing-for-php-microservices-with-pact-b17)
+- [Junior Scala Developer Resume Samples Optimized for Employers](https://dev.to/hannah_usmedynska/junior-scala-developer-resume-samples-optimized-for-employers-4cgh)
+- [The Manager Communication Mistake That Makes Good Engineers Look Disengaged](https://dev.to/feng2026/the-manager-communication-mistake-that-makes-good-engineers-look-disengaged-1i7d)
+- [OpenClaw Plugin: 5 Tool Categories for External AI Agent Frameworks](https://dev.to/walletguy/openclaw-plugin-5-tool-categories-for-external-ai-agent-frameworks-1eg1)
+- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 5 SnapStart + full priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-5-3dlj)
+- [Claude Code Routines: Automate Code Reviews](https://dev.to/gentic_news/claude-code-routines-automate-code-reviews-2049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
