@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd)
-- [Leetcode # 107. Binary Tree Level Order Traversal II](https://dev.to/hectorw_tt/107-binary-tree-level-order-traversal-ii-534)
-- [From Prompt Engineer to Agent Engineer: The 7 Skills You Need to Build AI Agents](https://dev.to/manishmshiva/from-prompt-engineer-to-agent-engineer-the-7-skills-you-need-to-build-ai-agents-33o7)
-- [From Request to Production in One Push. No Mockup Tool Required.](https://dev.to/artanidos/from-request-to-production-in-one-push-no-mockup-tool-required-opa)
-- [How to Compress SVG Files: Tools, Techniques, Config](https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028)
+- [Show DEV: I built a free browser-based PDF toolkit with 31 tools tags: showdev, webdev, javascript, productivity ---](https://dev.to/kabir_daki/show-dev-i-built-a-free-browser-based-pdf-toolkit-with-31-tools-tags-showdev-webdev-javascript-2dmn)
+- [LLM Performance Drop: Hosted Models Feel Worse for 3 Reasons](https://dev.to/simon_paxton/llm-performance-drop-hosted-models-feel-worse-for-3-reasons-37fa)
+- [How I Translated a Technical Ebook from Spanish to English with Semantic QA in Python](https://dev.to/german_yamil_e021eef8710d/how-i-translated-a-technical-ebook-from-spanish-to-english-with-semantic-qa-in-python-3ie)
+- [SharePoint Zero-Day, Linux RCE Bypass, &amp; Advanced Kerberoasting Detection](https://dev.to/soytuber/sharepoint-zero-day-linux-rce-bypass-advanced-kerberoasting-detection-4268)
+- [Claude Code Plugins for Design Systems &amp; Agent Orchestration for Real Workflows](https://dev.to/soytuber/claude-code-plugins-for-design-systems-agent-orchestration-for-real-workflows-3d7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
