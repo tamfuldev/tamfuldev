@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Skills Required to Become an AWS Certified AI Practitioner](https://dev.to/datta_kharad_3fd1383b5036/top-skills-required-to-become-an-aws-certified-ai-practitioner-3p53)
-- [Don&#39;t Calculate Distances in PHP: Master PostGIS in Laravel 🗺️](https://dev.to/iprajapatiparesh/dont-calculate-distances-in-php-master-postgis-in-laravel-4dmn)
-- [GPU vs CPU for Machine Learning: When to Choose What](https://dev.to/big_mazzy_06d057cc24398c5/gpu-vs-cpu-for-machine-learning-when-to-choose-what-3k73)
-- [Chapter 1 Deep-Dive: What Amplification Actually Looks Like](https://dev.to/my2centsonai/chapter-1-deep-dive-what-amplification-actually-looks-like-4ag8)
-- [I Hit a 400k/s Wall — So I Built a Faster UUID v7 Generator in Rust](https://dev.to/marcomq/i-hit-a-400ks-wall-so-i-built-a-faster-uuid-v7-generator-in-rust-8ok)
+- [Optimizing Python HTTP Server Memory Usage in Containers: Addressing Uvicorn and Grainian Overhead](https://dev.to/romdevin/optimizing-python-http-server-memory-usage-in-containers-addressing-uvicorn-and-grainian-overhead-8fc)
+- [Why I Picked Rust for a Production-Ready Micro SaaS](https://dev.to/hauju/why-i-picked-rust-for-a-production-ready-micro-saas-3bjg)
+- [Python SDK for AI Agents: Async Wallet Control with Zero Dependencies](https://dev.to/walletguy/python-sdk-for-ai-agents-async-wallet-control-with-zero-dependencies-e43)
+- [My system Design Learning](https://dev.to/mahich123/my-system-design-learning-bg9)
+- [Claude Code Routines: Automate Dev Workflows](https://dev.to/onsen/claude-code-routines-automate-dev-workflows-4ijn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
