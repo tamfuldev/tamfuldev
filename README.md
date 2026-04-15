@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Assistant Web App Using Streamlit](https://dev.to/code_with_me/build-an-ai-assistant-web-app-using-streamlit-2gof)
-- [SFMC Data Extension Sync: Monitoring Hidden Delays](https://dev.to/martechmon01/sfmc-data-extension-sync-monitoring-hidden-delays-16kf)
-- [Claude Mythos Preview: Capability, Cybersecurity, and the Governance Gap](https://dev.to/bordercansado/claude-mythos-preview-capability-cybersecurity-and-the-governance-gap-4o6g)
-- [Making AI Work With Humans — Not Against Them](https://dev.to/hema_nambi_66c9/making-ai-work-with-humans-not-against-them-9b8)
-- [Turning JPGs into Excel… because why not? 😂](https://dev.to/tlaloces/turning-jpgs-into-excel-because-why-not-4c0n)
+- [Engineering the Nexus Release: How I Built Secure E2EE Network Sync into a Linux Clipboard Manager &lpar;v1.5.1&rpar;](https://dev.to/freerave/engineering-the-nexus-release-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-3ocd)
+- [Leetcode # 107. Binary Tree Level Order Traversal II](https://dev.to/hectorw_tt/107-binary-tree-level-order-traversal-ii-534)
+- [From Prompt Engineer to Agent Engineer: The 7 Skills You Need to Build AI Agents](https://dev.to/manishmshiva/from-prompt-engineer-to-agent-engineer-the-7-skills-you-need-to-build-ai-agents-33o7)
+- [From Request to Production in One Push. No Mockup Tool Required.](https://dev.to/artanidos/from-request-to-production-in-one-push-no-mockup-tool-required-opa)
+- [How to Compress SVG Files: Tools, Techniques, Config](https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
