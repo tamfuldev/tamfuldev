@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Python HTTP Server Memory Usage in Containers: Addressing Uvicorn and Grainian Overhead](https://dev.to/romdevin/optimizing-python-http-server-memory-usage-in-containers-addressing-uvicorn-and-grainian-overhead-8fc)
-- [Why I Picked Rust for a Production-Ready Micro SaaS](https://dev.to/hauju/why-i-picked-rust-for-a-production-ready-micro-saas-3bjg)
-- [Python SDK for AI Agents: Async Wallet Control with Zero Dependencies](https://dev.to/walletguy/python-sdk-for-ai-agents-async-wallet-control-with-zero-dependencies-e43)
-- [My system Design Learning](https://dev.to/mahich123/my-system-design-learning-bg9)
-- [Claude Code Routines: Automate Dev Workflows](https://dev.to/onsen/claude-code-routines-automate-dev-workflows-4ijn)
+- [Stop Using `diff` on CSV Files — Build a Semantic CSV Diff in 200 Lines of Python](https://dev.to/sendotltd/stop-using-diff-on-csv-files-build-a-semantic-csv-diff-in-200-lines-of-python-1naj)
+- [Your .env.example Is Not a Schema. Here&#39;s a 400-Line Python CLI That Fixes That](https://dev.to/sendotltd/your-envexample-is-not-a-schema-heres-a-400-line-python-cli-that-fixes-that-5el3)
+- [The AI Agent Economy Needs Payment Rails — Here&#39;s What I Built](https://dev.to/pmestreforge/the-ai-agent-economy-needs-payment-rails-heres-what-i-built-1mo1)
+- [PostgreSQL Monitoring Tools Compared &lpar;2026&rpar;](https://dev.to/philip_mcclarence_2ef9475/postgresql-monitoring-tools-compared-2026-24k3)
+- [Why I Built NexOps Local-First, and What Sub-50ms Operations Intelligence Actually Requires](https://dev.to/theeagle/why-i-built-nexops-local-first-and-what-sub-50ms-operations-intelligence-actually-requires-35p8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
