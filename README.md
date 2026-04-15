@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Tailscale Fixed Our Multi-Machine AI Agent Network &lpar;Real Story&rpar;](https://dev.to/whoffagents/how-tailscale-fixed-our-multi-machine-ai-agent-network-real-story-30jl)
-- [How Tailscale Simplified Our Multi-Machine AI Agent Network](https://dev.to/whoffagents/how-tailscale-simplified-our-multi-machine-ai-agent-network-kbp)
-- [Claude Code Just Flipped the Table on Automation SaaS: Deep Dive into Routines](https://dev.to/hunter_g_50e2ec233acd07b5/claude-code-just-flipped-the-table-on-automation-saas-deep-dive-into-routines-3ame)
-- [How jj Fixes the Git Workflow That&#39;s Been Wasting Your Time](https://dev.to/alanwest/how-jj-fixes-the-git-workflow-thats-been-wasting-your-time-1a5i)
-- [Microsoft Agent Framework 1.0: Build AI Agents in .NET and Python](https://dev.to/jangwook_kim_e31e7291ad98/microsoft-agent-framework-10-build-ai-agents-in-net-and-python-kka)
+- [Turborepo Monorepo Troubleshooting 2026: Why Your Cache Isn&#39;t Working and CI Keeps Failing](https://dev.to/jake_kim_bd3065a6816799db/turborepo-monorepo-troubleshooting-2026-why-your-cache-isnt-working-and-ci-keeps-failing-1ep6)
+- [Why Your AI-Assisted Code Breaks After Week One &lpar;And What to Do About It&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-ai-assisted-code-breaks-after-week-one-and-what-to-do-about-it-2mak)
+- [Selenium 101: Primeros pasos en la automatización de pruebas](https://dev.to/mauroavdev/selenium-101-primeros-pasos-en-la-automatizacion-de-pruebas-49nb)
+- [Stop Pasting \timing — Run Your SQL 100 Times and Get p99](https://dev.to/gillarohith/stop-pasting-timing-run-your-sql-100-times-and-get-p99-1g37)
+- [Affiliate Program Management for Comparison Sites: Multi-Retailer Strategy and Link Optimization](https://dev.to/danie_rozin/affiliate-program-management-for-comparison-sites-multi-retailer-strategy-and-link-optimization-2p29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
