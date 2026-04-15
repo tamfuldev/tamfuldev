@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. Next.js - What I Learned While Building Real-World Projects](https://dev.to/wafry_ahamed/react-vs-nextjs-what-i-learned-while-building-real-world-projects-54dd)
-- [SQLite&#39;s PRAGMAs You Never Remember — I Put Them in a CLI](https://dev.to/sendotltd/sqlites-pragmas-you-never-remember-i-put-them-in-a-cli-1d6)
-- [Creating a FaceLess Youtube Channel. Still going.](https://dev.to/vossadrian/creating-a-faceless-youtube-channel-still-going-1eca)
-- [AI Workflows in n8n: Solving the Context Problem with the Memara Node](https://dev.to/hayzem/ai-workflows-in-n8n-solving-the-context-problem-with-the-memara-node-kn9)
-- [A Self-Hosted PHP Contact Form Backend Without CAPTCHA](https://dev.to/sendotltd/a-self-hosted-php-contact-form-backend-without-captcha-1poc)
+- [Build an AI Assistant Web App Using Streamlit](https://dev.to/code_with_me/build-an-ai-assistant-web-app-using-streamlit-2gof)
+- [SFMC Data Extension Sync: Monitoring Hidden Delays](https://dev.to/martechmon01/sfmc-data-extension-sync-monitoring-hidden-delays-16kf)
+- [Claude Mythos Preview: Capability, Cybersecurity, and the Governance Gap](https://dev.to/bordercansado/claude-mythos-preview-capability-cybersecurity-and-the-governance-gap-4o6g)
+- [Making AI Work With Humans — Not Against Them](https://dev.to/hema_nambi_66c9/making-ai-work-with-humans-not-against-them-9b8)
+- [Turning JPGs into Excel… because why not? 😂](https://dev.to/tlaloces/turning-jpgs-into-excel-because-why-not-4c0n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
