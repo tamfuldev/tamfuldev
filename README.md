@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turborepo Monorepo Troubleshooting 2026: Why Your Cache Isn&#39;t Working and CI Keeps Failing](https://dev.to/jake_kim_bd3065a6816799db/turborepo-monorepo-troubleshooting-2026-why-your-cache-isnt-working-and-ci-keeps-failing-1ep6)
-- [Why Your AI-Assisted Code Breaks After Week One &lpar;And What to Do About It&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-ai-assisted-code-breaks-after-week-one-and-what-to-do-about-it-2mak)
-- [Selenium 101: Primeros pasos en la automatización de pruebas](https://dev.to/mauroavdev/selenium-101-primeros-pasos-en-la-automatizacion-de-pruebas-49nb)
-- [Stop Pasting \timing — Run Your SQL 100 Times and Get p99](https://dev.to/gillarohith/stop-pasting-timing-run-your-sql-100-times-and-get-p99-1g37)
-- [Affiliate Program Management for Comparison Sites: Multi-Retailer Strategy and Link Optimization](https://dev.to/danie_rozin/affiliate-program-management-for-comparison-sites-multi-retailer-strategy-and-link-optimization-2p29)
+- [Top Skills Required to Become an AWS Certified AI Practitioner](https://dev.to/datta_kharad_3fd1383b5036/top-skills-required-to-become-an-aws-certified-ai-practitioner-3p53)
+- [Don&#39;t Calculate Distances in PHP: Master PostGIS in Laravel 🗺️](https://dev.to/iprajapatiparesh/dont-calculate-distances-in-php-master-postgis-in-laravel-4dmn)
+- [GPU vs CPU for Machine Learning: When to Choose What](https://dev.to/big_mazzy_06d057cc24398c5/gpu-vs-cpu-for-machine-learning-when-to-choose-what-3k73)
+- [Chapter 1 Deep-Dive: What Amplification Actually Looks Like](https://dev.to/my2centsonai/chapter-1-deep-dive-what-amplification-actually-looks-like-4ag8)
+- [I Hit a 400k/s Wall — So I Built a Faster UUID v7 Generator in Rust](https://dev.to/marcomq/i-hit-a-400ks-wall-so-i-built-a-faster-uuid-v7-generator-in-rust-8ok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
