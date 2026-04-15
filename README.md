@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Junior Scala Developer Resume Samples Optimized for Employers](https://dev.to/hannah_usmedynska/junior-scala-developer-resume-samples-optimized-for-employers-4cgh)
-- [The Manager Communication Mistake That Makes Good Engineers Look Disengaged](https://dev.to/feng2026/the-manager-communication-mistake-that-makes-good-engineers-look-disengaged-1i7d)
-- [OpenClaw Plugin: 5 Tool Categories for External AI Agent Frameworks](https://dev.to/walletguy/openclaw-plugin-5-tool-categories-for-external-ai-agent-frameworks-1eg1)
-- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 5 SnapStart + full priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-5-3dlj)
-- [Claude Code Routines: Automate Code Reviews](https://dev.to/gentic_news/claude-code-routines-automate-code-reviews-2049)
+- [Build a Voice-Controlled Local AI Agent with Ollama and Faster-Whisper&quot;](https://dev.to/shaik_idris_44638c7ce9825/build-a-voice-controlled-local-ai-agent-with-ollama-and-faster-whisper-5b18)
+- [How to Build AI Agents That Fail Safely &lpar;Circuit Breakers, Health Checks, and Graceful Degradation&rpar;](https://dev.to/the_bookmaster/how-to-build-ai-agents-that-fail-safely-circuit-breakers-health-checks-and-graceful-degradation-54d)
+- [Connecting Deploynix to Sentry for Error Tracking in Production](https://dev.to/deploynix/connecting-deploynix-to-sentry-for-error-tracking-in-production-a2k)
+- [Concurrent Video Processing with Go Goroutines for European Content](https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-for-european-content-436c)
+- [Sybil Resistance Without Biometrics: Multi-Dimensional Identity Scoring](https://dev.to/zekebuilds/sybil-resistance-without-biometrics-multi-dimensional-identity-scoring-1hn5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
