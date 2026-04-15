@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Voice-Controlled Local AI Agent with Ollama and Faster-Whisper&quot;](https://dev.to/shaik_idris_44638c7ce9825/build-a-voice-controlled-local-ai-agent-with-ollama-and-faster-whisper-5b18)
-- [How to Build AI Agents That Fail Safely &lpar;Circuit Breakers, Health Checks, and Graceful Degradation&rpar;](https://dev.to/the_bookmaster/how-to-build-ai-agents-that-fail-safely-circuit-breakers-health-checks-and-graceful-degradation-54d)
-- [Connecting Deploynix to Sentry for Error Tracking in Production](https://dev.to/deploynix/connecting-deploynix-to-sentry-for-error-tracking-in-production-a2k)
-- [Concurrent Video Processing with Go Goroutines for European Content](https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-for-european-content-436c)
-- [Sybil Resistance Without Biometrics: Multi-Dimensional Identity Scoring](https://dev.to/zekebuilds/sybil-resistance-without-biometrics-multi-dimensional-identity-scoring-1hn5)
+- [React vs. Next.js - What I Learned While Building Real-World Projects](https://dev.to/wafry_ahamed/react-vs-nextjs-what-i-learned-while-building-real-world-projects-54dd)
+- [SQLite&#39;s PRAGMAs You Never Remember — I Put Them in a CLI](https://dev.to/sendotltd/sqlites-pragmas-you-never-remember-i-put-them-in-a-cli-1d6)
+- [Creating a FaceLess Youtube Channel. Still going.](https://dev.to/vossadrian/creating-a-faceless-youtube-channel-still-going-1eca)
+- [AI Workflows in n8n: Solving the Context Problem with the Memara Node](https://dev.to/hayzem/ai-workflows-in-n8n-solving-the-context-problem-with-the-memara-node-kn9)
+- [A Self-Hosted PHP Contact Form Backend Without CAPTCHA](https://dev.to/sendotltd/a-self-hosted-php-contact-form-backend-without-captcha-1poc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
