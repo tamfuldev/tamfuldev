@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using `diff` on CSV Files — Build a Semantic CSV Diff in 200 Lines of Python](https://dev.to/sendotltd/stop-using-diff-on-csv-files-build-a-semantic-csv-diff-in-200-lines-of-python-1naj)
-- [Your .env.example Is Not a Schema. Here&#39;s a 400-Line Python CLI That Fixes That](https://dev.to/sendotltd/your-envexample-is-not-a-schema-heres-a-400-line-python-cli-that-fixes-that-5el3)
-- [The AI Agent Economy Needs Payment Rails — Here&#39;s What I Built](https://dev.to/pmestreforge/the-ai-agent-economy-needs-payment-rails-heres-what-i-built-1mo1)
-- [PostgreSQL Monitoring Tools Compared &lpar;2026&rpar;](https://dev.to/philip_mcclarence_2ef9475/postgresql-monitoring-tools-compared-2026-24k3)
-- [Why I Built NexOps Local-First, and What Sub-50ms Operations Intelligence Actually Requires](https://dev.to/theeagle/why-i-built-nexops-local-first-and-what-sub-50ms-operations-intelligence-actually-requires-35p8)
+- [The Stages of AI in Software Engineering - And Where We Are Today](https://dev.to/msnmongare/the-stages-of-ai-in-software-engineering-and-where-we-are-today-1odf)
+- [Building a Replay-Tested Interactive Brokers Client in Go](https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i)
+- [I Built a JVM Profiler That Points AI at Your Exact Line of Broken Code — Here&#39;s How It Works Under the Hood](https://dev.to/akanksha_gupta_6039d4d9d6/i-built-a-jvm-profiler-that-points-ai-at-your-exact-line-of-broken-code-heres-how-it-works-under-184p)
+- [Building Healthcare Risk Adjustment Tools: An Introduction to VBC Risk Analytics](https://dev.to/vbc_risk_analytics/building-healthcare-risk-adjustment-tools-an-introduction-to-vbc-risk-analytics-2n41)
+- [12 Steps to Secure GitHub Actions After the Trivy Attack](https://dev.to/haitmg/12-steps-to-secure-github-actions-after-the-trivy-attack-1l8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
