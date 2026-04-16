@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Batch-Process 100K Rows with LLMs Without Losing My Mind &lpar;or My Money&rpar;](https://dev.to/ptimizeroracle/how-i-batch-process-100k-rows-with-llms-without-losing-my-mind-or-my-money-3458)
-- [From Community to Impact](https://dev.to/sebasgao05/from-community-to-impact-1ap1)
-- [Nonce Management in Multi-Chain AI Agent Transactions](https://dev.to/walletguy/nonce-management-in-multi-chain-ai-agent-transactions-2je2)
-- [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5)
-- [I Was Targeted by a DPRK-Linked Supply Chain Attack via LinkedIn. Here&#39;s Exactly How It Worked.](https://dev.to/mighty840/i-was-targeted-by-a-dprk-linked-supply-chain-attack-via-linkedin-heres-exactly-how-it-worked-21kp)
+- [Training Vision Transformers for Image Retrieval](https://dev.to/paperium/training-vision-transformers-for-image-retrieval-mgn)
+- [Stop Using .env Files for Docker Secrets — Try This Instead](https://dev.to/md_umair_88fd7c1b0fa06f96/stop-using-env-files-for-docker-secrets-try-this-instead-2de1)
+- [Self-Hosted DPI-Bypass VPN on Oracle Cloud Always Free ARM](https://dev.to/bivlked/self-hosted-dpi-bypass-vpn-on-oracle-cloud-always-free-arm-2mek)
+- [Pipepost v0.8.0: LinkedIn + X posting from any MCP client](https://dev.to/pipepost/pipepost-v080-linkedin-x-posting-from-any-mcp-client-1efa)
+- [What Happens When an AI Agent Gets Kernel-Level GPU Traces](https://dev.to/ingero/what-happens-when-an-ai-agent-gets-kernel-level-gpu-traces-a2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
