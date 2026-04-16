@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WSJF, Cost of Delay and Why Your Loudest Stakeholder Keeps Winning the Backlog Argument](https://dev.to/aralroca/wsjf-cost-of-delay-and-why-your-loudest-stakeholder-keeps-winning-the-backlog-argument-2ggf)
-- [Compliance as an engineering problem: building an open-source Information Security, Privacy and AI Governance Platform](https://dev.to/isms-core-adm/compliance-as-an-engineering-problem-building-an-open-source-information-security-privacy-and-ai-2j18)
-- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-l58)
-- [Kiwi-chan Progress Report: Steady Mining!](https://dev.to/kiwi_tech/kiwi-chan-progress-report-steady-mining-2m6f)
-- [Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh](https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c)
+- [I Built a Fully Local, AI-Native Hedge Fund System &lpar;Multi-Agent, Auditable, No Paid APIs&rpar;](https://dev.to/tapesh_chandradas_5f7919/i-built-a-fully-local-ai-native-hedge-fund-system-multi-agent-auditable-no-paid-apis-k8f)
+- [I built a tool that visualizes your code step by step — Recursive](https://dev.to/oilater/i-built-a-tool-that-visualizes-your-code-step-by-step-recursive-23jo)
+- [How to build an x402-gated MCP endpoint &lpar;with real Base L2 USDC flow&rpar;](https://dev.to/globalchatapp/how-to-build-an-x402-gated-mcp-endpoint-with-real-base-l2-usdc-flow-3mh8)
+- [The Full Stack Is One Layer Deeper. You&#39;ve Been Building It.](https://dev.to/joshuadarron/the-full-stack-is-one-layer-deeper-youve-been-building-it-1odb)
+- [Claude vs GPT-4o for Autonomous Agent Work: 30 Days of Real Data](https://dev.to/whoffagents/claude-vs-gpt-4o-for-autonomous-agent-work-30-days-of-real-data-1pmh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
