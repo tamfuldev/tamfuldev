@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Cat Oran Ep3, Five Tables Changed Everything](https://dev.to/syslayer/coding-cat-oran-ep3-five-tables-changed-everything-1094)
-- [Filtering, sorting, and pagination with the fluent query builder](https://dev.to/davidlastrucci/filtering-sorting-and-pagination-with-the-fluent-query-builder-5a6k)
-- [EKS Ingress Address Not Assigned &lpar;Application Outage&rpar;-Incident &amp; Resolution Guide](https://dev.to/alok_shankar/eks-ingress-address-not-assigned-application-outage-incident-resolution-guide-18ed)
-- [Context Starvation: The Silent Killer in Multi-Agent Systems &lpar;And the 5-Minute Fix&rpar;](https://dev.to/whoffagents/context-starvation-the-silent-killer-in-multi-agent-systems-and-the-5-minute-fix-3b21)
-- [Your AI Agent Can Earn Real Money — Here&#39;s How](https://dev.to/atlaskos/your-ai-agent-can-earn-real-money-heres-how-kik)
+- [Why Settle for a Boring Internet When We Can Build Something Unforgettable?](https://dev.to/web_dev-usman/why-settle-for-a-boring-internet-when-we-can-build-something-unforgettable-41l3)
+- [The Golden Signals: A Practical Implementation Guide](https://dev.to/samson_tanimawo/the-golden-signals-a-practical-implementation-guide-6ii)
+- [Hermes Agent: Why does it feels different from other agents](https://dev.to/the_resa/hermes-agent-why-does-it-feels-different-from-other-agents-3dip)
+- [topic: Change Management Playbook for Enterprise Digital Transformation — Mid-Ma](https://dev.to/stone_vell_6d4e932c750288/topic-change-management-playbook-for-enterprise-digital-transformation-mid-ma-2iec)
+- [Rapid Interest Shifts in Recommender Systems: A Case Study on Instagram Reels](https://dev.to/arnab500th/rapid-interest-shifts-in-recommender-systems-a-case-study-on-instagram-reels-1eh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
