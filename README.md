@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch)
-- [TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585)
-- [AWS Data &amp; AI Stories #01: Multimodal AI](https://dev.to/aws-builders/aws-data-ai-stories-01-multimodal-ai-2k4k)
-- [OpenAI Codex Can Now Control Your Mac Apps to Write Code For You. No API Needed.](https://dev.to/alanwest/how-to-automate-mac-dev-workflows-when-theres-no-api-to-call-56p2)
-- [🧬 Spec-Driven Development: An Evolutionary Approach](https://dev.to/patricio_renner_431a871be/spec-driven-development-an-evolutionary-approach-4elo)
+- [WSJF, Cost of Delay and Why Your Loudest Stakeholder Keeps Winning the Backlog Argument](https://dev.to/aralroca/wsjf-cost-of-delay-and-why-your-loudest-stakeholder-keeps-winning-the-backlog-argument-2ggf)
+- [Compliance as an engineering problem: building an open-source Information Security, Privacy and AI Governance Platform](https://dev.to/isms-core-adm/compliance-as-an-engineering-problem-building-an-open-source-information-security-privacy-and-ai-2j18)
+- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-l58)
+- [Kiwi-chan Progress Report: Steady Mining!](https://dev.to/kiwi_tech/kiwi-chan-progress-report-steady-mining-2m6f)
+- [Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh](https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
