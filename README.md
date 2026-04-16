@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Fully Local, AI-Native Hedge Fund System &lpar;Multi-Agent, Auditable, No Paid APIs&rpar;](https://dev.to/tapesh_chandradas_5f7919/i-built-a-fully-local-ai-native-hedge-fund-system-multi-agent-auditable-no-paid-apis-k8f)
-- [I built a tool that visualizes your code step by step — Recursive](https://dev.to/oilater/i-built-a-tool-that-visualizes-your-code-step-by-step-recursive-23jo)
-- [How to build an x402-gated MCP endpoint &lpar;with real Base L2 USDC flow&rpar;](https://dev.to/globalchatapp/how-to-build-an-x402-gated-mcp-endpoint-with-real-base-l2-usdc-flow-3mh8)
-- [The Full Stack Is One Layer Deeper. You&#39;ve Been Building It.](https://dev.to/joshuadarron/the-full-stack-is-one-layer-deeper-youve-been-building-it-1odb)
-- [Claude vs GPT-4o for Autonomous Agent Work: 30 Days of Real Data](https://dev.to/whoffagents/claude-vs-gpt-4o-for-autonomous-agent-work-30-days-of-real-data-1pmh)
+- [As We May Code: Why Software Is a Human Problem Dressed in Logic](https://dev.to/cec1_c0d/as-we-may-code-why-software-is-a-human-problem-dressed-in-logic-338m)
+- [Stop Rewriting the Same LLM Boilerplate: Batch-Process DataFrames in 3 Lines](https://dev.to/ptimizeroracle/stop-rewriting-the-same-llm-boilerplate-batch-process-dataframes-in-3-lines-48g2)
+- [Offline Evaluation of RAG-Grounded Answers in LaunchDarkly AI Configs](https://dev.to/launchdarkly/offline-evaluation-of-rag-grounded-answers-in-launchdarkly-ai-configs-1i5j)
+- [Building an AI Learning Platform for 34 Providers in Flutter Web + Supabase &lpar;Auto-Updated Every 2 Hours&rpar;](https://dev.to/kanta13jp1/building-an-ai-learning-platform-for-34-providers-in-flutter-web-supabase-auto-updated-every-2-kb9)
+- [Title: How to add a governance layer to your LangChain agent in 3 lines](https://dev.to/riteshkmr/title-how-to-add-a-governance-layer-to-your-langchain-agent-in-3-lines-58eo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
