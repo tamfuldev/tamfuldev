@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Settle for a Boring Internet When We Can Build Something Unforgettable?](https://dev.to/web_dev-usman/why-settle-for-a-boring-internet-when-we-can-build-something-unforgettable-41l3)
-- [The Golden Signals: A Practical Implementation Guide](https://dev.to/samson_tanimawo/the-golden-signals-a-practical-implementation-guide-6ii)
-- [Hermes Agent: Why does it feels different from other agents](https://dev.to/the_resa/hermes-agent-why-does-it-feels-different-from-other-agents-3dip)
-- [topic: Change Management Playbook for Enterprise Digital Transformation — Mid-Ma](https://dev.to/stone_vell_6d4e932c750288/topic-change-management-playbook-for-enterprise-digital-transformation-mid-ma-2iec)
-- [Rapid Interest Shifts in Recommender Systems: A Case Study on Instagram Reels](https://dev.to/arnab500th/rapid-interest-shifts-in-recommender-systems-a-case-study-on-instagram-reels-1eh1)
+- [Best AI Gateway to Route Codex CLI to Any Model](https://dev.to/pranay_batta/best-ai-gateway-to-route-codex-cli-to-any-model-4640)
+- [What is Debouncing in JS?](https://dev.to/ashish_ghildiyal_26/what-is-debouncing-in-js-41nh)
+- [Model Context Protocol en Producción: Por Qué el 80% de los Agentes AI Fallan Antes de los 30 Días](https://dev.to/aurimasmarkunas/model-context-protocol-en-produccion-por-que-el-80-de-los-agentes-ai-fallan-antes-de-los-30-dias-2gmg)
+- [The Prosodic Memory Layer: How AI Learns Your Voice &lpar;and Why It Matters&rpar;](https://dev.to/soulentheo/the-prosodic-memory-layer-how-ai-learns-your-voice-and-why-it-matters-10g3)
+- [the dx toolkit i wish existed when i started building blockchain frontends](https://dev.to/jynxbt/the-dx-toolkit-i-wish-existed-when-i-started-building-blockchain-frontends-7l1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
