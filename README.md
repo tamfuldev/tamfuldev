@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How dashboards work part 2](https://dev.to/brandon_woondc/how-dashboards-work-part-2-1adb)
-- [I got tired of writing the same 200 lines of boilerplate for every API, so I built a compiled language to eliminate it](https://dev.to/nynrathod/i-got-tired-of-writing-the-same-200-lines-of-boilerplate-for-every-api-so-i-built-a-compiled-ie5)
-- [Too many AI interviews became architecture work, so I built this](https://dev.to/yolaine/too-many-ai-interviews-became-architecture-work-so-i-built-this-1fm7)
-- [👉 Are Daily Standups Actually Useful—or Just Agile Rituals?](https://dev.to/tlaloces/are-daily-standups-actually-useful-or-just-agile-rituals-4307)
-- [The Car Logo Problem Every Automotive Dev Team Has &lpar;And How to Fix It&rpar;](https://dev.to/adrianc/the-car-logo-problem-every-automotive-dev-team-has-and-how-to-fix-it-1nnk)
+- [How I Batch-Process 100K Rows with LLMs Without Losing My Mind &lpar;or My Money&rpar;](https://dev.to/ptimizeroracle/how-i-batch-process-100k-rows-with-llms-without-losing-my-mind-or-my-money-3458)
+- [From Community to Impact](https://dev.to/sebasgao05/from-community-to-impact-1ap1)
+- [Nonce Management in Multi-Chain AI Agent Transactions](https://dev.to/walletguy/nonce-management-in-multi-chain-ai-agent-transactions-2je2)
+- [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5)
+- [I Was Targeted by a DPRK-Linked Supply Chain Attack via LinkedIn. Here&#39;s Exactly How It Worked.](https://dev.to/mighty840/i-was-targeted-by-a-dprk-linked-supply-chain-attack-via-linkedin-heres-exactly-how-it-worked-21kp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
