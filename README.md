@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [As We May Code: Why Software Is a Human Problem Dressed in Logic](https://dev.to/cec1_c0d/as-we-may-code-why-software-is-a-human-problem-dressed-in-logic-338m)
-- [Stop Rewriting the Same LLM Boilerplate: Batch-Process DataFrames in 3 Lines](https://dev.to/ptimizeroracle/stop-rewriting-the-same-llm-boilerplate-batch-process-dataframes-in-3-lines-48g2)
-- [Offline Evaluation of RAG-Grounded Answers in LaunchDarkly AI Configs](https://dev.to/launchdarkly/offline-evaluation-of-rag-grounded-answers-in-launchdarkly-ai-configs-1i5j)
-- [Building an AI Learning Platform for 34 Providers in Flutter Web + Supabase &lpar;Auto-Updated Every 2 Hours&rpar;](https://dev.to/kanta13jp1/building-an-ai-learning-platform-for-34-providers-in-flutter-web-supabase-auto-updated-every-2-kb9)
-- [Title: How to add a governance layer to your LangChain agent in 3 lines](https://dev.to/riteshkmr/title-how-to-add-a-governance-layer-to-your-langchain-agent-in-3-lines-58eo)
+- [Your dependencies are 48% unmaintained — and SCA tools can&#39;t see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+- [Designing a 5-Minute Crypto Prediction Bot on Polymarket Using Cascade Trailing Logic](https://dev.to/benjamin_martin_749c1d57f/designing-a-5-minute-crypto-prediction-bot-on-polymarket-using-cascade-trailing-logic-2p8h)
+- [Building NewHomie property analytics tool — Part 1](https://dev.to/menglinmaker/building-newhomie-property-analytics-tool-part-1-57oe)
+- [Service Mesh for MCP Agents — Without the Sidecar](https://dev.to/dhyan_raj_98e6a5999c8d5ef/service-mesh-for-mcp-agents-without-the-sidecar-96h)
+- [Otimizando a perfomance do Schepta com React](https://dev.to/jreeeedd/otimizando-a-perfomance-do-schepta-com-react-2k7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
