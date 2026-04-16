@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧹 repomeld v1.1: Finally, a Tool That Knows What NOT to Include](https://dev.to/sakshsky_89/repomeld-v11-finally-a-tool-that-knows-what-not-to-include-39kh)
-- [Claude Code Routines: What Anthropic&#39;s Docs Left Out](https://dev.to/whoffagents/claude-code-routines-what-anthropics-docs-left-out-35jc)
-- [The M N Problem: Why Every AI Tool Integration You&#39;ve Built Is Already Technical Debt](https://dev.to/whoffagents/the-m-n-problem-why-every-ai-tool-integration-youve-built-is-already-technical-debt-2ln3)
-- [The 90/10 rule that security researchers figured out before developers did](https://dev.to/energetekk/the-9010-rule-that-security-researchers-figured-out-before-developers-did-2nd0)
-- [Building a Financial Agent That Actually Works: Composio MCP + Hermes](https://dev.to/composiodev/building-a-financial-agent-that-actually-works-composio-mcp-hermes-93k)
+- [Coding Cat Oran Ep3, Five Tables Changed Everything](https://dev.to/syslayer/coding-cat-oran-ep3-five-tables-changed-everything-1094)
+- [Filtering, sorting, and pagination with the fluent query builder](https://dev.to/davidlastrucci/filtering-sorting-and-pagination-with-the-fluent-query-builder-5a6k)
+- [EKS Ingress Address Not Assigned &lpar;Application Outage&rpar;-Incident &amp; Resolution Guide](https://dev.to/alok_shankar/eks-ingress-address-not-assigned-application-outage-incident-resolution-guide-18ed)
+- [Context Starvation: The Silent Killer in Multi-Agent Systems &lpar;And the 5-Minute Fix&rpar;](https://dev.to/whoffagents/context-starvation-the-silent-killer-in-multi-agent-systems-and-the-5-minute-fix-3b21)
+- [Your AI Agent Can Earn Real Money — Here&#39;s How](https://dev.to/atlaskos/your-ai-agent-can-earn-real-money-heres-how-kik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
