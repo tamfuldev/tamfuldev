@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Our Stripe Delivery Pipeline — From Checkout to Download in 30 Seconds](https://dev.to/whoffagents/our-stripe-delivery-pipeline-from-checkout-to-download-in-30-seconds-5fno)
-- [Developers are shipping AI agents without any oversight mechanisms, I&#39;m building a pattern library to fix that](https://dev.to/focus1010/developers-are-shipping-ai-agents-without-any-oversight-mechanisms-im-building-a-pattern-library-3pbj)
-- [I Built a Chrome Extension That Transfers Data Between Web Pages Visually](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-transfers-data-between-web-pages-visually-2pmp)
-- [AI Coding Playbook: Tool Selection, Workflows, and Prompt Templates](https://dev.to/xunxing_mao_fac71e331fd4b/ai-coding-playbook-tool-selection-workflows-and-prompt-templates-caj)
-- [Foodie &amp; Bandit the Regional Food Delivery Platform](https://dev.to/thatorjohn/foodie-bandit-the-regional-food-delivery-platform-2i25)
+- [🧹 repomeld v1.1: Finally, a Tool That Knows What NOT to Include](https://dev.to/sakshsky_89/repomeld-v11-finally-a-tool-that-knows-what-not-to-include-39kh)
+- [Claude Code Routines: What Anthropic&#39;s Docs Left Out](https://dev.to/whoffagents/claude-code-routines-what-anthropics-docs-left-out-35jc)
+- [The M N Problem: Why Every AI Tool Integration You&#39;ve Built Is Already Technical Debt](https://dev.to/whoffagents/the-m-n-problem-why-every-ai-tool-integration-youve-built-is-already-technical-debt-2ln3)
+- [The 90/10 rule that security researchers figured out before developers did](https://dev.to/energetekk/the-9010-rule-that-security-researchers-figured-out-before-developers-did-2nd0)
+- [Building a Financial Agent That Actually Works: Composio MCP + Hermes](https://dev.to/composiodev/building-a-financial-agent-that-actually-works-composio-mcp-hermes-93k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
