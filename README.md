@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
-- [RAG From First Principles: Why Every AI App Retrieves Before It Generates](https://dev.to/klement_gunndu/rag-from-first-principles-why-every-ai-app-retrieves-before-it-generates-1d6p)
-- [Why Your LLM Leaderboard Scores Don&#39;t Matter](https://dev.to/agunapal/why-your-llm-leaderboard-scores-dont-matter-44b5)
-- [Don&#39;t Use AI to Do This](https://dev.to/0x41414141/dont-use-ai-to-do-this-57h0)
-- [We ditched worktrees for Claude Code. Here&#39;s what we use instead](https://dev.to/maverickdotdev/we-ditched-worktrees-for-claude-code-heres-what-we-use-instead-5b22)
+- [How dashboards work part 2](https://dev.to/brandon_woondc/how-dashboards-work-part-2-1adb)
+- [I got tired of writing the same 200 lines of boilerplate for every API, so I built a compiled language to eliminate it](https://dev.to/nynrathod/i-got-tired-of-writing-the-same-200-lines-of-boilerplate-for-every-api-so-i-built-a-compiled-ie5)
+- [Too many AI interviews became architecture work, so I built this](https://dev.to/yolaine/too-many-ai-interviews-became-architecture-work-so-i-built-this-1fm7)
+- [👉 Are Daily Standups Actually Useful—or Just Agile Rituals?](https://dev.to/tlaloces/are-daily-standups-actually-useful-or-just-agile-rituals-4307)
+- [The Car Logo Problem Every Automotive Dev Team Has &lpar;And How to Fix It&rpar;](https://dev.to/adrianc/the-car-logo-problem-every-automotive-dev-team-has-and-how-to-fix-it-1nnk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
