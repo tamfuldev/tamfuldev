@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Gateway to Route Codex CLI to Any Model](https://dev.to/pranay_batta/best-ai-gateway-to-route-codex-cli-to-any-model-4640)
-- [What is Debouncing in JS?](https://dev.to/ashish_ghildiyal_26/what-is-debouncing-in-js-41nh)
-- [Model Context Protocol en Producción: Por Qué el 80% de los Agentes AI Fallan Antes de los 30 Días](https://dev.to/aurimasmarkunas/model-context-protocol-en-produccion-por-que-el-80-de-los-agentes-ai-fallan-antes-de-los-30-dias-2gmg)
-- [The Prosodic Memory Layer: How AI Learns Your Voice &lpar;and Why It Matters&rpar;](https://dev.to/soulentheo/the-prosodic-memory-layer-how-ai-learns-your-voice-and-why-it-matters-10g3)
-- [the dx toolkit i wish existed when i started building blockchain frontends](https://dev.to/jynxbt/the-dx-toolkit-i-wish-existed-when-i-started-building-blockchain-frontends-7l1)
+- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
+- [RAG From First Principles: Why Every AI App Retrieves Before It Generates](https://dev.to/klement_gunndu/rag-from-first-principles-why-every-ai-app-retrieves-before-it-generates-1d6p)
+- [Why Your LLM Leaderboard Scores Don&#39;t Matter](https://dev.to/agunapal/why-your-llm-leaderboard-scores-dont-matter-44b5)
+- [Don&#39;t Use AI to Do This](https://dev.to/0x41414141/dont-use-ai-to-do-this-57h0)
+- [We ditched worktrees for Claude Code. Here&#39;s what we use instead](https://dev.to/maverickdotdev/we-ditched-worktrees-for-claude-code-heres-what-we-use-instead-5b22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
