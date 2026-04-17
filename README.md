@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Little&#39;s Law: Understanding how much tour system can handle](https://dev.to/sarupy/littles-law-understanding-how-much-tour-system-can-handle-3fno)
-- [What happens when a 10-year-old builds their first IoT sensor — a teacher&#39;s perspective from Buenos Aires](https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5)
-- [Developer Experience &lpar;DevEx&rpar; Designer Challenges and How to Overcome Them &lpar;Part : I&rpar;](https://dev.to/priya_sajja_c336921bbda87/developer-experience-devex-designer-challenges-and-how-to-overcome-them-part-i-5941)
-- [Why event-driven agents reduce scope, cost, and decision dispersion](https://dev.to/tirso_garcia/why-event-driven-agents-reduce-scope-cost-and-decision-dispersion-2062)
-- [A TLS Certificate CLI in Rust — No OpenSSL, No Ceremony, Just a Fail-the-Build Exit Code](https://dev.to/sendotltd/a-tls-certificate-cli-in-rust-no-openssl-no-ceremony-just-a-fail-the-build-exit-code-1n7h)
+- [What Happens If Mythos Ships Before the Patches Do](https://dev.to/arielf/what-happens-if-mythos-ships-before-the-patches-do-3f7i)
+- [How I Automated My Manus AI Workflow &lpar;And Saved 62%&rpar;](https://dev.to/rafsilva85/how-i-automated-my-manus-ai-workflow-and-saved-62-4ejf)
+- [How I Built a 1,056-Test Rust CLI in 3 Weeks](https://dev.to/ji_ai/how-i-built-a-1056-test-rust-cli-in-3-weeks-1fe6)
+- [The Hidden Cost of AI Agents in 2026](https://dev.to/rafsilva85/the-hidden-cost-of-ai-agents-in-2026-fho)
+- [Building AI-Powered Code Review Automation with Python and GitHub Actions](https://dev.to/ramosai/building-ai-powered-code-review-automation-with-python-and-github-actions-4c5e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
