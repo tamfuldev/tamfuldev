@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Level Up to Live Service: How Online Gaming Started Feeling Smaller](https://dev.to/bordercansado/from-level-up-to-live-service-how-online-gaming-started-feeling-smaller-3mk1)
-- [Agentic AI&#39;s Infrastructure Boom Meets Its Reliability Problem](https://dev.to/anikalp1/agentic-ais-infrastructure-boom-meets-its-reliability-problem-1h3m)
-- [Vertical and Horizontal Scaling](https://dev.to/shiwani08/vertical-and-horizontal-scaling-1en4)
-- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-1pap)
-- [The Restart Challenge: Day 05](https://dev.to/mk_novice/the-restart-challenge-day-05-d40)
+- [Building an Unshielded Token dApp with UI on Midnight](https://dev.to/mmoo9/building-an-unshielded-token-dapp-with-ui-on-midnight-4ae2)
+- [Karpathy&#39;s Obsidian Wiki Broke at 100 Articles - RAG Fixed It](https://dev.to/zaferdace/karpathys-obsidian-wiki-broke-at-100-articles-rag-fixed-it-4d4h)
+- [How to Find Verified x402 APIs for AI Agents &lpar;Without Managing a Single API Key&rpar;](https://dev.to/devtoship/how-to-find-verified-x402-apis-for-ai-agents-without-managing-a-single-api-key-1030)
+- [Vibe Design: Why Claude Design Just Redefined the Category](https://dev.to/aiforwork/vibe-design-why-claude-design-just-redefined-the-category-3nh7)
+- [Implementing a JSON Schema Validator from Scratch - Week 8](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-8-2fdc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
