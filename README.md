@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI-Selenium Revolution: Transforming Modern Test Automation](https://dev.to/aums04/the-ai-selenium-revolution-transforming-modern-test-automation-223g)
-- [Kiro: Spec-driven Development Done Well](https://dev.to/juan_taylor_e2725f2c17127/kiro-spec-driven-development-done-well-216i)
-- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)
-- [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
-- [I Built a Neumorphic CSS Library with 77+ Components — Here&#39;s What I Learned](https://dev.to/_dssid/i-built-a-neumorphic-css-library-with-77-components-heres-what-i-learned-5687)
+- [From Level Up to Live Service: How Online Gaming Started Feeling Smaller](https://dev.to/bordercansado/from-level-up-to-live-service-how-online-gaming-started-feeling-smaller-3mk1)
+- [Agentic AI&#39;s Infrastructure Boom Meets Its Reliability Problem](https://dev.to/anikalp1/agentic-ais-infrastructure-boom-meets-its-reliability-problem-1h3m)
+- [Vertical and Horizontal Scaling](https://dev.to/shiwani08/vertical-and-horizontal-scaling-1en4)
+- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-1pap)
+- [The Restart Challenge: Day 05](https://dev.to/mk_novice/the-restart-challenge-day-05-d40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
