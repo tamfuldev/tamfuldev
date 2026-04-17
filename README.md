@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Text Classification from Scratch: TF-IDF and Naive Bayes](https://dev.to/berkan_sesen/text-classification-from-scratch-tf-idf-and-naive-bayes-3pff)
-- [Warp of Oz! 🌪️ Ep.1](https://dev.to/the-software-s-journey/warp-of-oz-ep1-316b)
-- [My Outreachy Contribution Journey with Firefox](https://dev.to/keji_bakare/my-outreachy-contribution-journey-with-firefox-c15)
-- [Chorus: letting AI coding CLIs review each other](https://dev.to/valpere/chorus-letting-ai-coding-clis-review-each-other-503g)
-- [JavaScript Design Patterns](https://dev.to/kiransm/javascript-design-patterns-cg1)
+- [Array Iteration Methods](https://dev.to/kesavarthini/array-iteration-methods-284g)
+- [How Voice Data Travels: With Internet vs Without Internet 📞🌐](https://dev.to/munna_thakur_2019444f0351/how-voice-data-travels-with-internet-vs-without-internet-3flc)
+- [Kubernetes Deployment Strategies: Rolling, Blue-Green, and Canary Explained](https://dev.to/yash_step2dev/kubernetes-deployment-strategies-rolling-blue-green-and-canary-explained-55in)
+- [A Practical WordPress Cloud Workflow: Using Pantheon and the Block Editor](https://dev.to/behghaf/a-practical-wordpress-cloud-workflow-using-pantheon-and-the-block-editor-2cnb)
+- [PVS-Studio 7.42: Testing new analyzers, expanded MISRA C++ 2023 support, and more](https://dev.to/pvsdev/pvs-studio-742-testing-new-analyzers-expanded-misra-c-2023-support-and-more-39e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
