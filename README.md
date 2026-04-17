@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Unshielded Token dApp with UI on Midnight](https://dev.to/mmoo9/building-an-unshielded-token-dapp-with-ui-on-midnight-4ae2)
-- [Karpathy&#39;s Obsidian Wiki Broke at 100 Articles - RAG Fixed It](https://dev.to/zaferdace/karpathys-obsidian-wiki-broke-at-100-articles-rag-fixed-it-4d4h)
-- [How to Find Verified x402 APIs for AI Agents &lpar;Without Managing a Single API Key&rpar;](https://dev.to/devtoship/how-to-find-verified-x402-apis-for-ai-agents-without-managing-a-single-api-key-1030)
-- [Vibe Design: Why Claude Design Just Redefined the Category](https://dev.to/aiforwork/vibe-design-why-claude-design-just-redefined-the-category-3nh7)
-- [Implementing a JSON Schema Validator from Scratch - Week 8](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-8-2fdc)
+- [Realistic Old Ceiling](https://dev.to/badbuilders/realistic-old-ceiling-3ele)
+- [I launched my first side project and got 22 visitors. Here&#39;s what the data actually told me.](https://dev.to/aymen_hb_c80749ef79bfcb47/i-launched-my-first-side-project-and-got-22-visitors-heres-what-the-data-actually-told-me-4mod)
+- [I stopped building dashboards. AI assistants are the new UI.](https://dev.to/data_nerd/i-stopped-building-dashboards-ai-assistants-are-the-new-ui-c5h)
+- [Building an AI-Powered Crypto Sentiment &amp; Trading Dashboard](https://dev.to/rakesh_kumar_021e3d407331/building-an-ai-powered-crypto-sentiment-trading-dashboard-2mlo)
+- [Weekend Challenge: Earth Day Edition](https://dev.to/dan52242644dan/weekend-challenge-earth-day-edition-4m90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
