@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Building AI for Non-English Speakers is Harder Than You Think &lpar;And How I Did It Anyway&rpar;](https://dev.to/zeshama/why-building-ai-for-non-english-speakers-is-harder-than-you-think-and-how-i-did-it-anyway-6b9)
-- [Claude Code&#39;s Edge: Why Sonnet 4.5 Beats GPT-4o for Multi-File Projects](https://dev.to/gentic_news/claude-codes-edge-why-sonnet-45-beats-gpt-4o-for-multi-file-projects-4i38)
-- [PaperBanana: framework multi-agente para ilustración académica con IA](https://dev.to/lu1tr0n/paperbanana-framework-multi-agente-para-ilustracion-academica-con-ia-38e7)
-- [I Built a Claude Code Plugin That Simultaneously Posts to Zenn and dev.to With Just &quot;Publish the article&quot;](https://dev.to/bokuno_log/i-built-a-claude-code-plugin-that-simultaneously-posts-to-zenn-and-devto-with-just-publish-the-4pmj)
-- [Agentforce Multi-Agent Orchestration: A Practical Guide](https://dev.to/dipojjal/agentforce-multi-agent-orchestration-a-practical-guide-2bfk)
+- [On the Vibe Coders and Their Lies](https://dev.to/zblauser/on-the-vibe-coders-and-their-lies-1m5b)
+- [clerk: Auto-Summarize Your Claude Code Sessions](https://dev.to/vulcan_shen_acdbffa0285d2/clerk-auto-summarize-your-claude-code-sessions-4m87)
+- [Why SNMP Monitoring Misses 80% of Network Problems — And What to Use Instead](https://dev.to/anatraf_482389aa982e/why-snmp-monitoring-misses-80-of-network-problems-and-what-to-use-instead-4hel)
+- [CrewAI vs LangGraph vs AutoGen: Which Framework for Production AI Agents?](https://dev.to/hemangjoshi37a/crewai-vs-langgraph-vs-autogen-which-framework-for-production-ai-agents-1ggl)
+- [Canvas Apps vs Code Apps in Power Apps: When low-code hits its ceiling](https://dev.to/aidevme/canvas-apps-vs-code-apps-in-power-apps-when-low-code-hits-its-ceiling-2hpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
