@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Container Showdown Choosing Between Alpine and Distroless](https://dev.to/mechcloud_academy/the-ultimate-container-showdown-choosing-between-alpine-and-distroless-ipd)
-- [The 270-Second Rule: How to Cut Claude Code API Costs by 90% with Smart](https://dev.to/gentic_news/the-270-second-rule-how-to-cut-claude-code-api-costs-by-90-with-smart-2b2)
-- [Running LLM Classification After the Response: Next.js after&lpar;&rpar; + OpenRouter at $0.0002 per Call](https://dev.to/lovanaut55/running-llm-classification-after-the-response-nextjs-after-openrouter-at-00002-per-call-2efh)
-- [Tasks that don&#39;t make sense](https://dev.to/raphink/tasks-that-dont-make-sense-26k3)
-- [Designing ChatGPT Prompts &amp; Workflows Like a Developer](https://dev.to/ana_markovic/designing-chatgpt-prompts-workflows-like-a-developer-h24)
+- [Why today’s online HTML, CSS and JavaScript editors still fall short for real AI workflows](https://dev.to/jonathanapplebaum/why-todays-online-html-css-and-javascript-editors-still-fall-short-for-real-ai-workflows-3h3o)
+- [Your AI Needs a Physical Social Life](https://dev.to/arpa/your-ai-needs-a-physical-social-life-3lce)
+- [I Built an OS for AI Agents — Here&#39;s What I Learned](https://dev.to/varun_pratapbhardwaj_b13/i-built-an-os-for-ai-agents-heres-what-i-learned-1odl)
+- [What the African Fintech Infrastructure Stack Looks Like in 2026](https://dev.to/afriex/what-the-african-fintech-infrastructure-stack-looks-like-in-2026-2cjl)
+- [Run Multi-Agent Teams from Claude Code with Qualixar OS &lpar;25 MCP Tools&rpar;](https://dev.to/varun_pratapbhardwaj_b13/run-multi-agent-teams-from-claude-code-with-qualixar-os-25-mcp-tools-41dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
