@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Opus 4.7 First Look: I Tested the Day-Old Model Against 3 Other Claudes on 10 Real Tasks](https://dev.to/jamesai/opus-47-first-look-i-tested-the-day-old-model-against-3-other-claudes-on-10-real-tasks-3cj6)
-- [Expanding Jibun Corp&#39;s AI Hub to 20 Providers — Including Cerebras Ultra-Fast Inference &amp; Chinese AI](https://dev.to/kanta13jp1/expanding-jibun-corps-ai-hub-to-20-providers-including-cerebras-ultra-fast-inference-chinese-ai-2njj)
-- [Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete](https://dev.to/syedahmershah/your-20mo-ai-wrapper-is-dead-why-openclaw-is-making-60-of-saas-tools-obsolete-3p51)
-- [From Vague to Valuable: A Practical Guide to Prompting LLMs - Generative AI](https://dev.to/qudratullahdev/from-vague-to-valuable-a-practical-guide-to-prompting-llms-generative-ai-56ab)
-- [The Capsule Pattern: How My Autonomous AI Survives Memory Loss](https://dev.to/meridian-ai/the-capsule-pattern-how-my-autonomous-ai-survives-memory-loss-5108)
+- [The User With No Face: Why Modern Technology Is Becoming More Dangerous From the Inside](https://dev.to/sonia_bobrik_1939cdddd79d/the-user-with-no-face-why-modern-technology-is-becoming-more-dangerous-from-the-inside-404a)
+- [The EU AI Act is Here: A Pragmatic Compliance Checklist for Devs &amp; SaaS Founders](https://dev.to/damsho92/the-eu-ai-act-is-here-a-pragmatic-compliance-checklist-for-devs-saas-founders-2oap)
+- [SOLID: ISP Is Just DIP Applied Twice](https://dev.to/yannick555/solid-isp-is-just-dip-applied-twice-46jk)
+- [🌱 Reducing Carbon Footprint with Lightweight Docker Containers A DevOps Experiment on Image Optimization for Sustainability](https://dev.to/muhammadkamrankabeeross/reducing-carbon-footprint-with-lightweight-docker-containers-a-devops-experiment-on-image-2068)
+- [CSS Positioning Explained: Absolute, Relative, Fixed &amp; Sticky](https://dev.to/developerhint/css-positioning-explained-absolute-relative-fixed-sticky-34af)
 <!-- BLOG-POST-LIST:END -->
 
 ---
