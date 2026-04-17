@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built juanchi.dev on the Most Bleeding-Edge Stack of 2025: Next.js 16, React 19, Tailwind v4 &amp; Railway](https://dev.to/jtorchia/how-i-built-juanchidev-on-the-most-bleeding-edge-stack-of-2025-nextjs-16-react-19-tailwind-v4-9e5)
-- [Next.js App Router: The Guide I Wish I Had When I Migrated from Pages Router](https://dev.to/jtorchia/nextjs-app-router-the-guide-i-wish-i-had-when-i-migrated-from-pages-router-56f)
-- [From DOS to Cloud: My 33-Year Journey with Tech — From an Amiga in 1994 to Deploying on Railway with Next.js](https://dev.to/jtorchia/from-dos-to-cloud-my-33-year-journey-with-tech-from-an-amiga-in-1994-to-deploying-on-railway-23nj)
-- [Docker for Node.js Developers: From Zero to Production Without Losing Your Mind](https://dev.to/jtorchia/docker-for-nodejs-developers-from-zero-to-production-without-losing-your-mind-mb3)
-- [Canadian NI 31-103 for solo crypto-quant devs: what you can and can&#39;t build without registration](https://dev.to/sai_93caeceb4f6a4d9969910/canadian-ni-31-103-for-solo-crypto-quant-devs-what-you-can-and-cant-build-without-registration-2if)
+- [Text Classification from Scratch: TF-IDF and Naive Bayes](https://dev.to/berkan_sesen/text-classification-from-scratch-tf-idf-and-naive-bayes-3pff)
+- [Warp of Oz! 🌪️ Ep.1](https://dev.to/the-software-s-journey/warp-of-oz-ep1-316b)
+- [My Outreachy Contribution Journey with Firefox](https://dev.to/keji_bakare/my-outreachy-contribution-journey-with-firefox-c15)
+- [Chorus: letting AI coding CLIs review each other](https://dev.to/valpere/chorus-letting-ai-coding-clis-review-each-other-503g)
+- [JavaScript Design Patterns](https://dev.to/kiransm/javascript-design-patterns-cg1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
