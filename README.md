@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why today’s online HTML, CSS and JavaScript editors still fall short for real AI workflows](https://dev.to/jonathanapplebaum/why-todays-online-html-css-and-javascript-editors-still-fall-short-for-real-ai-workflows-3h3o)
-- [Your AI Needs a Physical Social Life](https://dev.to/arpa/your-ai-needs-a-physical-social-life-3lce)
-- [I Built an OS for AI Agents — Here&#39;s What I Learned](https://dev.to/varun_pratapbhardwaj_b13/i-built-an-os-for-ai-agents-heres-what-i-learned-1odl)
-- [What the African Fintech Infrastructure Stack Looks Like in 2026](https://dev.to/afriex/what-the-african-fintech-infrastructure-stack-looks-like-in-2026-2cjl)
-- [Run Multi-Agent Teams from Claude Code with Qualixar OS &lpar;25 MCP Tools&rpar;](https://dev.to/varun_pratapbhardwaj_b13/run-multi-agent-teams-from-claude-code-with-qualixar-os-25-mcp-tools-41dj)
+- [How I Built juanchi.dev on the Most Bleeding-Edge Stack of 2025: Next.js 16, React 19, Tailwind v4 &amp; Railway](https://dev.to/jtorchia/how-i-built-juanchidev-on-the-most-bleeding-edge-stack-of-2025-nextjs-16-react-19-tailwind-v4-9e5)
+- [Next.js App Router: The Guide I Wish I Had When I Migrated from Pages Router](https://dev.to/jtorchia/nextjs-app-router-the-guide-i-wish-i-had-when-i-migrated-from-pages-router-56f)
+- [From DOS to Cloud: My 33-Year Journey with Tech — From an Amiga in 1994 to Deploying on Railway with Next.js](https://dev.to/jtorchia/from-dos-to-cloud-my-33-year-journey-with-tech-from-an-amiga-in-1994-to-deploying-on-railway-23nj)
+- [Docker for Node.js Developers: From Zero to Production Without Losing Your Mind](https://dev.to/jtorchia/docker-for-nodejs-developers-from-zero-to-production-without-losing-your-mind-mb3)
+- [Canadian NI 31-103 for solo crypto-quant devs: what you can and can&#39;t build without registration](https://dev.to/sai_93caeceb4f6a4d9969910/canadian-ni-31-103-for-solo-crypto-quant-devs-what-you-can-and-cant-build-without-registration-2if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
