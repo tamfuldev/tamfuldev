@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [On the Vibe Coders and Their Lies](https://dev.to/zblauser/on-the-vibe-coders-and-their-lies-1m5b)
-- [clerk: Auto-Summarize Your Claude Code Sessions](https://dev.to/vulcan_shen_acdbffa0285d2/clerk-auto-summarize-your-claude-code-sessions-4m87)
-- [Why SNMP Monitoring Misses 80% of Network Problems — And What to Use Instead](https://dev.to/anatraf_482389aa982e/why-snmp-monitoring-misses-80-of-network-problems-and-what-to-use-instead-4hel)
-- [CrewAI vs LangGraph vs AutoGen: Which Framework for Production AI Agents?](https://dev.to/hemangjoshi37a/crewai-vs-langgraph-vs-autogen-which-framework-for-production-ai-agents-1ggl)
-- [Canvas Apps vs Code Apps in Power Apps: When low-code hits its ceiling](https://dev.to/aidevme/canvas-apps-vs-code-apps-in-power-apps-when-low-code-hits-its-ceiling-2hpa)
+- [The Ultimate Container Showdown Choosing Between Alpine and Distroless](https://dev.to/mechcloud_academy/the-ultimate-container-showdown-choosing-between-alpine-and-distroless-ipd)
+- [The 270-Second Rule: How to Cut Claude Code API Costs by 90% with Smart](https://dev.to/gentic_news/the-270-second-rule-how-to-cut-claude-code-api-costs-by-90-with-smart-2b2)
+- [Running LLM Classification After the Response: Next.js after&lpar;&rpar; + OpenRouter at $0.0002 per Call](https://dev.to/lovanaut55/running-llm-classification-after-the-response-nextjs-after-openrouter-at-00002-per-call-2efh)
+- [Tasks that don&#39;t make sense](https://dev.to/raphink/tasks-that-dont-make-sense-26k3)
+- [Designing ChatGPT Prompts &amp; Workflows Like a Developer](https://dev.to/ana_markovic/designing-chatgpt-prompts-workflows-like-a-developer-h24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
