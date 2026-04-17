@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Listing on MCPize + the Official MCP Registry while routing payments OUTSIDE the marketplace — how I kept 100% of my x402 revenue](https://dev.to/sai_93caeceb4f6a4d9969910/listing-on-mcpize-the-official-mcp-registry-while-routing-payments-outside-the-marketplace-how-2al8)
-- [Building an AI-Powered Risk Intelligence System Using Serverless Architecture](https://dev.to/saif_urrahman/building-an-ai-powered-risk-intelligence-system-using-serverless-architecture-263b)
-- [React Native Cross-Platform Development: One Codebase for Mobile, TV, and Beyond](https://dev.to/sundr_dev/react-native-cross-platform-development-one-codebase-for-mobile-tv-and-beyond-30jf)
-- [Jibun Corp&#39;s AI Hub Reaches 27 Providers — Adding Reka Flash-3 &amp; Writer Palmyra-X5](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-27-providers-adding-reka-flash-3-writer-palmyra-x5-2acl)
-- [Beyond the Castle and Moat: Designing for a Zero Trust Future](https://dev.to/glad_labs/beyond-the-castle-and-moat-designing-for-a-zero-trust-future-eh2)
+- [The AI-Selenium Revolution: Transforming Modern Test Automation](https://dev.to/aums04/the-ai-selenium-revolution-transforming-modern-test-automation-223g)
+- [Kiro: Spec-driven Development Done Well](https://dev.to/juan_taylor_e2725f2c17127/kiro-spec-driven-development-done-well-216i)
+- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)
+- [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+- [I Built a Neumorphic CSS Library with 77+ Components — Here&#39;s What I Learned](https://dev.to/_dssid/i-built-a-neumorphic-css-library-with-77-components-heres-what-i-learned-5687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
