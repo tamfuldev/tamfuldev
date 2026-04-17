@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The User With No Face: Why Modern Technology Is Becoming More Dangerous From the Inside](https://dev.to/sonia_bobrik_1939cdddd79d/the-user-with-no-face-why-modern-technology-is-becoming-more-dangerous-from-the-inside-404a)
-- [The EU AI Act is Here: A Pragmatic Compliance Checklist for Devs &amp; SaaS Founders](https://dev.to/damsho92/the-eu-ai-act-is-here-a-pragmatic-compliance-checklist-for-devs-saas-founders-2oap)
-- [SOLID: ISP Is Just DIP Applied Twice](https://dev.to/yannick555/solid-isp-is-just-dip-applied-twice-46jk)
-- [🌱 Reducing Carbon Footprint with Lightweight Docker Containers A DevOps Experiment on Image Optimization for Sustainability](https://dev.to/muhammadkamrankabeeross/reducing-carbon-footprint-with-lightweight-docker-containers-a-devops-experiment-on-image-2068)
-- [CSS Positioning Explained: Absolute, Relative, Fixed &amp; Sticky](https://dev.to/developerhint/css-positioning-explained-absolute-relative-fixed-sticky-34af)
+- [Listing on MCPize + the Official MCP Registry while routing payments OUTSIDE the marketplace — how I kept 100% of my x402 revenue](https://dev.to/sai_93caeceb4f6a4d9969910/listing-on-mcpize-the-official-mcp-registry-while-routing-payments-outside-the-marketplace-how-2al8)
+- [Building an AI-Powered Risk Intelligence System Using Serverless Architecture](https://dev.to/saif_urrahman/building-an-ai-powered-risk-intelligence-system-using-serverless-architecture-263b)
+- [React Native Cross-Platform Development: One Codebase for Mobile, TV, and Beyond](https://dev.to/sundr_dev/react-native-cross-platform-development-one-codebase-for-mobile-tv-and-beyond-30jf)
+- [Jibun Corp&#39;s AI Hub Reaches 27 Providers — Adding Reka Flash-3 &amp; Writer Palmyra-X5](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-27-providers-adding-reka-flash-3-writer-palmyra-x5-2acl)
+- [Beyond the Castle and Moat: Designing for a Zero Trust Future](https://dev.to/glad_labs/beyond-the-castle-and-moat-designing-for-a-zero-trust-future-eh2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
