@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Debugging in Next.js 16 with Experimental Agent DevTools](https://dev.to/mericcintosun/ai-assisted-debugging-in-nextjs-16-with-experimental-agent-devtools-1obg)
-- [Building Scalable Blockchain Solutions with Go: A Developer&#39;s Journey](https://dev.to/tirixa/building-scalable-blockchain-solutions-with-go-a-developers-journey-360m)
-- [Consolidating Your Pipeline: Implementing Multi-Tenant Namespace Tunnels](https://dev.to/instatunnel/consolidating-your-pipeline-implementing-multi-tenant-namespace-tunnels-4007)
-- [Why I Built awesome-authorization: Mapping the World of Auth Engines onto a Single Page](https://dev.to/kanywst/why-i-built-awesome-authorization-mapping-the-world-of-auth-engines-onto-a-single-page-4mof)
-- [Fabric OneLake shortcuts vs ADLS Gen2 mounts: what actually works in production](https://dev.to/neeagl_algoscale/fabric-onelake-shortcuts-vs-adls-gen2-mounts-what-actually-works-in-production-a3e)
+- [Why Your OLED Display Flickers &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-oled-display-flickers-and-how-to-fix-it-51n2)
+- [Why Your Project Works on USB Power But Not on Battery](https://dev.to/_0c004e5fde78250aee362/why-your-project-works-on-usb-power-but-not-on-battery-1lpd)
+- [Why Your Rotary Encoder Counts Wrong &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-rotary-encoder-counts-wrong-and-how-to-fix-it-3mfe)
+- [Why Your I2C Scanner Finds Nothing &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-i2c-scanner-finds-nothing-and-how-to-fix-it-4d07)
+- [Train Your Team on AI Automation for Health Code Compliance](https://dev.to/ken_deng_ai/train-your-team-on-ai-automation-for-health-code-compliance-2h1e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
