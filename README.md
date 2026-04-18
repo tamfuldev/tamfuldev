@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Pixels to Predictions: Data Pipelines and Training the Sequence Model &lpar;Part 2&rpar;](https://dev.to/_iametornam/from-pixels-to-predictions-data-pipelines-and-training-the-sequence-model-part-2-217d)
-- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-5g78)
-- [Qwen3.6-35B-A3B corre en mi laptop y dibuja mejor que Claude Opus 4.7](https://dev.to/jtorchia/qwen36-35b-a3b-corre-en-mi-laptop-y-dibuja-mejor-que-claude-opus-47-3g6i)
-- [I Built a Real-Time Notification System Inspired by Accra Traffic](https://dev.to/nlankwei5/i-built-a-real-time-notification-system-inspired-by-accra-traffic-gh4)
-- [I Built an App That Listens to Your Garden and Tells You What&#39;s Disappearing. 🌍](https://dev.to/_boweii/i-built-an-app-that-listens-to-your-garden-and-tells-you-whats-disappearing-3g92)
+- [Incident Report: Service failure due to storage full](https://dev.to/jancera/incident-report-service-failure-due-to-storage-full-4a4p)
+- [QA Engineers Have an Unfair Advantage in Machine Learning](https://dev.to/hema_nambi_66c9/qa-engineers-have-an-unfair-advantage-in-machine-learning-3iim)
+- [⏱ Remote Timer — an easy way to keep time under control](https://dev.to/pro-project-mngr/remote-timer-an-easy-way-to-keep-time-under-control-g20)
+- [From Weekend Hackathon to AWS Global Finalist: Building an AI Tutor That Actually Works Offline](https://dev.to/zeshama/from-weekend-hackathon-to-aws-global-finalist-building-an-ai-tutor-that-actually-works-offline-3864)
+- [A 300-Line GitHub Actions Security Linter: Five Rules That Catch the CVE Patterns](https://dev.to/sendotltd/a-300-line-github-actions-security-linter-five-rules-that-catch-the-cve-patterns-10h0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
