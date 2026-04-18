@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j)
-- [Building Systems, Not Just Code](https://dev.to/chaitanyakukwas1/building-systems-not-just-code-4deg)
-- [AI Consultant WP New Release 2.4.0](https://dev.to/bilohash/ai-consultant-wp-new-release-240-3k71)
-- [Scaling Our Daily Twitter Scraping Workflow with actionbook&#39;s Cloud Browser Providers](https://dev.to/senke0x/scaling-our-daily-twitter-scraping-workflow-with-actionbooks-cloud-browser-providers-1hlh)
-- [EcoSort- Smart Waste Sorting App for Earth day](https://dev.to/kaweendra_shehan_fd70d5ed/ecosort-smart-waste-sorting-app-for-earth-day-56ci)
+- [How to setup Azure Virtual Machine](https://dev.to/ojeniran_shola_bf233acd5e/how-to-setup-azure-virtual-machine-2nl1)
+- [NgRx - Custom SignalStore Feature](https://dev.to/bock92/ngrx-custom-signalstore-feature-5bd8)
+- [Mentor — making a difference](https://dev.to/johnsamuel/mentor-making-a-difference-35cb)
+- [Most SaaS churn isn’t real churn &lpar;it’s failed payments&rpar;](https://dev.to/michael_recurcrypto/most-saas-churn-isnt-real-churn-its-failed-payments-1n96)
+- [The $40 Architecture: Processing 1 Billion API Requests with 99.99% Uptime](https://dev.to/reetesh_kumar/the-40-architecture-processing-1-billion-api-requests-with-9999-uptime-1p45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
