@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Reading, Start Knowing: The Philosophy of Mippedia Concise](https://dev.to/mippedia/stop-reading-start-knowing-the-philosophy-of-mippedia-concise-fna)
-- [Beyond the Standard Wiki: How Mippedia Reinvents Information Accessibility](https://dev.to/mippedia/beyond-the-standard-wiki-how-mippedia-reinvents-information-accessibility-3j4l)
-- [Building a Modern Open Knowledge Ecosystem: Introducing Mippedia](https://dev.to/mippedia/building-a-modern-open-knowledge-ecosystem-introducing-mippedia-mip)
-- [How to Actually Measure Your Programming Level &lpar;Without Tutorial Hell&rpar;](https://dev.to/vitalyobolensky/how-to-actually-measure-your-programming-level-without-tutorial-hell-45e2)
-- [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
+- [I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db)
+- [Cloud sync is a feature you’re paying for with your privacy](https://dev.to/phlx0/the-case-for-offline-first-developer-tools-4fec)
+- [Mastering Spring Security with Spring Boot 3 and SecurityFilterChain](https://dev.to/rajesh1761/mastering-spring-security-with-spring-boot-3-and-securityfilterchain-403d)
+- [Quark&#39;s Outlines: Python Frame Objects](https://dev.to/mike-vincent/quarks-outlines-python-frame-objects-1gh0)
+- [Next.js 16.2 Turbopack: 400% Faster next dev — What It Actually Feels Like](https://dev.to/getcraftly/nextjs-162-turbopack-400-faster-next-dev-what-it-actually-feels-like-2934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
