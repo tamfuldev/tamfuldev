@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Incident Report: Service failure due to storage full](https://dev.to/jancera/incident-report-service-failure-due-to-storage-full-4a4p)
-- [QA Engineers Have an Unfair Advantage in Machine Learning](https://dev.to/hema_nambi_66c9/qa-engineers-have-an-unfair-advantage-in-machine-learning-3iim)
-- [⏱ Remote Timer — an easy way to keep time under control](https://dev.to/pro-project-mngr/remote-timer-an-easy-way-to-keep-time-under-control-g20)
-- [From Weekend Hackathon to AWS Global Finalist: Building an AI Tutor That Actually Works Offline](https://dev.to/zeshama/from-weekend-hackathon-to-aws-global-finalist-building-an-ai-tutor-that-actually-works-offline-3864)
-- [A 300-Line GitHub Actions Security Linter: Five Rules That Catch the CVE Patterns](https://dev.to/sendotltd/a-300-line-github-actions-security-linter-five-rules-that-catch-the-cve-patterns-10h0)
+- [Create Multiple Files at Once: Batch File Operations](https://dev.to/arnostorg/create-multiple-files-at-once-batch-file-operations-1649)
+- [I tried Vim for 3 days and documented all my FAILS](https://dev.to/s4sloth/i-tried-vim-for-3-days-and-documented-all-my-fails-3kl)
+- [How Your Code Makes Decisions &lpar;And Gets Them Wrong&rpar;](https://dev.to/yakhilesh/how-your-code-makes-decisions-and-gets-them-wrong-3l0g)
+- [Why Your Claude-Assisted Code Becomes a Mess &lpar;It&#39;s Not Your Prompts&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-assisted-code-becomes-a-mess-its-not-your-prompts-imj)
+- [Why &quot;Hello&quot; and 42 Are Completely Different Things](https://dev.to/yakhilesh/why-hello-and-42-are-completely-different-things-1g9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
