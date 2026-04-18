@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your OLED Display Flickers &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-oled-display-flickers-and-how-to-fix-it-51n2)
-- [Why Your Project Works on USB Power But Not on Battery](https://dev.to/_0c004e5fde78250aee362/why-your-project-works-on-usb-power-but-not-on-battery-1lpd)
-- [Why Your Rotary Encoder Counts Wrong &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-rotary-encoder-counts-wrong-and-how-to-fix-it-3mfe)
-- [Why Your I2C Scanner Finds Nothing &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-i2c-scanner-finds-nothing-and-how-to-fix-it-4d07)
-- [Train Your Team on AI Automation for Health Code Compliance](https://dev.to/ken_deng_ai/train-your-team-on-ai-automation-for-health-code-compliance-2h1e)
+- [Why I Built Yet Another AI Knowledge Tool &lpar;And How It&#39;s Different&rpar;](https://dev.to/akshay_kumarkataiah_d6e7/why-i-built-yet-another-ai-knowledge-tool-and-how-its-different-38b2)
+- [m2cgen: export your ML model without shipping Python to production](https://dev.to/jtorchia/m2cgen-export-your-ml-model-without-shipping-python-to-production-13j9)
+- [m2cgen: exportá tu modelo de ML sin llevar Python a producción](https://dev.to/jtorchia/m2cgen-exporta-tu-modelo-de-ml-sin-llevar-python-a-produccion-1e0g)
+- [The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project](https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f)
+- [Claude Opus 4.7 and the Beginning of the End of AI Abundance](https://dev.to/jtorchia/claude-opus-47-and-the-beginning-of-the-end-of-ai-abundance-1ik4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
