@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Digital Agency Hub: How METIS Digital Manages 40+ Web Properties](https://dev.to/julien786534/building-a-digital-agency-hub-how-metis-digital-manages-40-web-properties-3b6d)
+- [Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet](https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj)
+- [Built a freelance proposal generator that reads your CV](https://dev.to/propai/built-a-freelance-proposal-generator-that-reads-your-cv-4hm5)
+- [How to Check If You](https://dev.to/robertatkinson3570/how-to-check-if-you-72e)
 - [Building WhiteHat: An Autonomous Ethical Hacking Agent with OpenClaw](https://dev.to/prema_ananda/building-whitehat-an-autonomous-ethical-hacking-agent-with-openclaw-4ljc)
-- [EarthLens AI: A Multimodal Climate Scientist in Your Pocket, Powered by Google Gemini](https://dev.to/parulmalhotraiitk/earthlens-ai-a-multimodal-climate-scientist-in-your-pocket-powered-by-google-gemini-5bjj)
-- [Nginx vs Traefik vs Caddy: Which Reverse Proxy Should You Pick?](https://dev.to/instadevops/nginx-vs-traefik-vs-caddy-which-reverse-proxy-should-you-pick-3ekl)
-- [Stop using naive RAG](https://dev.to/eduardo_borges_7a50083176/stop-using-naive-rag-pmg)
-- [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
