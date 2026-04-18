@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Digital Agency Hub: How METIS Digital Manages 40+ Web Properties](https://dev.to/julien786534/building-a-digital-agency-hub-how-metis-digital-manages-40-web-properties-3b6d)
-- [Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet](https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj)
-- [Built a freelance proposal generator that reads your CV](https://dev.to/propai/built-a-freelance-proposal-generator-that-reads-your-cv-4hm5)
-- [How to Check If You](https://dev.to/robertatkinson3570/how-to-check-if-you-72e)
-- [Building WhiteHat: An Autonomous Ethical Hacking Agent with OpenClaw](https://dev.to/prema_ananda/building-whitehat-an-autonomous-ethical-hacking-agent-with-openclaw-4ljc)
+- [AI-Assisted Debugging in Next.js 16 with Experimental Agent DevTools](https://dev.to/mericcintosun/ai-assisted-debugging-in-nextjs-16-with-experimental-agent-devtools-1obg)
+- [Building Scalable Blockchain Solutions with Go: A Developer&#39;s Journey](https://dev.to/tirixa/building-scalable-blockchain-solutions-with-go-a-developers-journey-360m)
+- [Consolidating Your Pipeline: Implementing Multi-Tenant Namespace Tunnels](https://dev.to/instatunnel/consolidating-your-pipeline-implementing-multi-tenant-namespace-tunnels-4007)
+- [Why I Built awesome-authorization: Mapping the World of Auth Engines onto a Single Page](https://dev.to/kanywst/why-i-built-awesome-authorization-mapping-the-world-of-auth-engines-onto-a-single-page-4mof)
+- [Fabric OneLake shortcuts vs ADLS Gen2 mounts: what actually works in production](https://dev.to/neeagl_algoscale/fabric-onelake-shortcuts-vs-adls-gen2-mounts-what-actually-works-in-production-a3e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
