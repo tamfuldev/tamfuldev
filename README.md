@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EcoMark - Discover your environmental footprint](https://dev.to/mitchtechie/ecomark-discover-your-environmental-footprint-22mm)
-- [I Built “Sousa” — a Detective-Style Investigation Board App](https://dev.to/apu-and-opu/i-built-sousa-a-detective-style-investigation-board-app-221d)
-- [How I Cut My AI Chatbot Costs by 55% With One Architecture Change](https://dev.to/alimafana/how-i-cut-my-ai-chatbot-costs-by-55-with-one-architecture-change-3pid)
-- [I built a file organizer web app because I had 900 files in my Downloads folder and zero shame](https://dev.to/sarvesh3529/i-built-a-file-organizer-web-app-because-i-had-900-files-in-my-downloads-folder-and-zero-4ja0)
-- [Building a 4-Tier AI Cost Auto-Router with Deno Edge Functions](https://dev.to/kanta13jp1/building-a-4-tier-ai-cost-auto-router-with-deno-edge-functions-2584)
+- [I Built a TikTok Downloader with Go — Here&#39;s What I Learned](https://dev.to/duc_t_356dc5761ba67044724/i-built-a-tiktok-downloader-with-go-heres-what-i-learned-o93)
+- [Beyond ChatGPT Wrappers: Building a Real Semantic Search API with ASP.NET Core and OpenAI Embeddings](https://dev.to/zeyadmohammed/beyond-chatgpt-wrappers-building-a-real-semantic-search-api-with-aspnet-core-and-openai-embeddings-5con)
+- [AI Vocal Remover Benchmark 2026: 6 Tools Tested with Python &lpar;SDR + Speed&rpar;](https://dev.to/stevecase430/ai-vocal-remover-benchmark-2026-6-tools-tested-with-python-sdr-speed-hl9)
+- [What We Learned Building a Warm Period Calculator for the Web](https://dev.to/8_alpha_f5cb853ed02c928ce/what-we-learned-building-a-warm-period-calculator-for-the-web-57gd)
+- [What is RAG? A Beginner&#39;s Guide to Retrieval-Augmented Generation &lpar;With a Full Pipeline Walkthrough&rpar;](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
