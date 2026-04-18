@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [N8N Workflow — Product Photo to Marketing Video, Automatically &lpar;Runway ML + OpenRouter&rpar;](https://dev.to/grewup/n8n-workflow-product-photo-to-marketing-video-automatically-runway-ml-openrouter-55ib)
-- [🧅 Onion Architecture Explained Quickly](https://dev.to/narender_reddy_0fa71a7ec8/onion-architecture-explained-quickly-4ccj)
-- [Why 90% of ML Engineers Struggle in Real-World Systems](https://dev.to/siddhartha_reddy/why-90-of-ml-engineers-struggle-in-real-world-systems-19m)
-- [AWS ChatBot](https://dev.to/yuvaraj_r_25388937f9607d/aws-chatbot-2nfi)
-- [The Multi-Model Reality: Why Enterprise AI Needs a Unified Gateway in 2026](https://dev.to/nafgma2020/the-multi-model-reality-why-enterprise-ai-needs-a-unified-gateway-in-2026-2m63)
+- [EcoMark - Discover your environmental footprint](https://dev.to/mitchtechie/ecomark-discover-your-environmental-footprint-22mm)
+- [I Built “Sousa” — a Detective-Style Investigation Board App](https://dev.to/apu-and-opu/i-built-sousa-a-detective-style-investigation-board-app-221d)
+- [How I Cut My AI Chatbot Costs by 55% With One Architecture Change](https://dev.to/alimafana/how-i-cut-my-ai-chatbot-costs-by-55-with-one-architecture-change-3pid)
+- [I built a file organizer web app because I had 900 files in my Downloads folder and zero shame](https://dev.to/sarvesh3529/i-built-a-file-organizer-web-app-because-i-had-900-files-in-my-downloads-folder-and-zero-4ja0)
+- [Building a 4-Tier AI Cost Auto-Router with Deno Edge Functions](https://dev.to/kanta13jp1/building-a-4-tier-ai-cost-auto-router-with-deno-edge-functions-2584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
