@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pricing an MCP Server in 2026: Why We Charge $19/mo When the Market Average is $0](https://dev.to/whoffagents/pricing-an-mcp-server-in-2026-why-we-charge-19mo-when-the-market-average-is-0-nig)
-- [Your Claude Code rules are a liability you&#39;ll never audit](https://dev.to/amanbhandari/your-claude-code-rules-are-a-liability-youll-never-audit-366b)
-- [Building a Cinematic 16:9 Game Dashboard with Vanilla JS &lpar;v1.0.0-beta&rpar;](https://dev.to/silxnce-is-him/building-a-cinematic-169-game-dashboard-with-vanilla-js-v100-beta-26g5)
-- [What if I told you that the future of software development hinges not on human expertise but on AI efficiency?](https://dev.to/100hum_patel/what-if-i-told-you-that-the-future-of-software-development-hinges-not-on-human-expertise-but-on-ai-18ci)
-- [🧩 The Web Cache &quot;Whack-a-Mole&quot; at PortSwigger Academy 🧩](https://dev.to/nekosec/the-web-cache-whack-a-mole-at-portswigger-academy-3d66)
+- [Clinic-CoPilot](https://dev.to/dhoni_yedhuru/clinic-copilot-58g5)
+- [Claude Design Looks Like AI Magic. Reading the Source, It&#39;s Four Engineering Patterns.](https://dev.to/ernham/claude-design-looks-like-ai-magic-reading-the-source-its-four-engineering-patterns-3p9m)
+- [The OpenClaw Newbie &amp; Beyond Guide](https://dev.to/kheai/the-openclaw-newbie-beyond-guide-3581)
+- [The Economic Moat &lpar;Quantifying your AI ROI&rpar;](https://dev.to/peng_cao/the-economic-moat-quantifying-your-ai-roi-1ia0)
+- [If You&#39;re Building with LLMs, You Should Have Thought About Observability from Day One](https://dev.to/toshipon/if-youre-building-with-llms-you-should-have-thought-about-observability-from-day-one-54ih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
