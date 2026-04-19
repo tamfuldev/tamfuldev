@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
-- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
-- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
-- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
-- [Nested Colored-Dot Symbol System: An Information-Theoretic and Semantic Alternative to QR Codes](https://dev.to/fc0web/nested-colored-dot-symbol-system-an-information-theoretic-and-semantic-alternative-to-qr-codes-3i56)
+- [Pricing an MCP Server in 2026: Why We Charge $19/mo When the Market Average is $0](https://dev.to/whoffagents/pricing-an-mcp-server-in-2026-why-we-charge-19mo-when-the-market-average-is-0-nig)
+- [Your Claude Code rules are a liability you&#39;ll never audit](https://dev.to/amanbhandari/your-claude-code-rules-are-a-liability-youll-never-audit-366b)
+- [Building a Cinematic 16:9 Game Dashboard with Vanilla JS &lpar;v1.0.0-beta&rpar;](https://dev.to/silxnce-is-him/building-a-cinematic-169-game-dashboard-with-vanilla-js-v100-beta-26g5)
+- [What if I told you that the future of software development hinges not on human expertise but on AI efficiency?](https://dev.to/100hum_patel/what-if-i-told-you-that-the-future-of-software-development-hinges-not-on-human-expertise-but-on-ai-18ci)
+- [🧩 The Web Cache &quot;Whack-a-Mole&quot; at PortSwigger Academy 🧩](https://dev.to/nekosec/the-web-cache-whack-a-mole-at-portswigger-academy-3d66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
