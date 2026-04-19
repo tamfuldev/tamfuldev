@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Magento 2 Performance Extensions in 2026](https://dev.to/magevanta/best-magento-2-performance-extensions-in-2026-46n9)
-- [Integrate a Copilot Studio Agent into an Existing .NET App Using Agents SDK](https://dev.to/vimaltwit/integrate-a-copilot-studio-agent-into-an-existing-net-app-using-agents-sdk-248e)
-- [Running Ollama on Azure Container Apps](https://dev.to/bspann/running-ollama-on-azure-container-apps-2550)
-- [How I Built 20+ Calculators Using Next.js Without a Backend &lpar;Fully Client-Side&rpar;](https://dev.to/akshar_miyani_0569680e9e6/how-i-built-20-calculators-using-nextjs-without-a-backend-fully-client-side-23lj)
-- [A Truth Filter for AI Output: An Experiment with Property-Based Testing](https://dev.to/copyleftdev/a-truth-filter-for-ai-output-an-experiment-with-property-based-testing-1j9c)
+- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj)
+- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2)
+- [PortfolioForge: Building an AI‑Native Portfolio Platform with Next.js, Firebase, and Genkit](https://dev.to/onkar_koventures/portfolioforge-building-an-ai-native-portfolio-platform-with-nextjs-firebase-and-genkit-24j1)
+- [Building an Interactive Wind Turbine Calculator](https://dev.to/onkar_koventures/building-an-interactive-wind-turbine-calculator-20d3)
+- [从混沌到秩序：AI 时代的系统分层治理方法论](https://dev.to/senk/cong-hun-dun-dao-zhi-xu-ai-shi-dai-de-xi-tong-fen-ceng-zhi-li-fang-fa-lun-43fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
