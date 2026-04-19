@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
-- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
-- [The Invisible Hand of the State: How Government Coercion is Rewriting the First Amendment in Silicon Valley](https://dev.to/its_vrushal/the-invisible-hand-of-the-state-how-government-coercion-is-rewriting-the-first-amendment-in-102f)
-- [Working with AI review is very important](https://dev.to/hermannleboss/working-with-ai-review-is-very-important-cam)
-- [The $322 Million Heist: How Anna’s Archive Scraped the World’s Music and Lost Everything &lpar;Or Did They?&rpar;](https://dev.to/its_vrushal/the-322-million-heist-how-annas-archive-scraped-the-worlds-music-and-lost-everything-or-did-2jc5)
+- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
+- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
+- [From Prompt to Production: How I Built &quot;Google Stadium&quot; for Google PromptWars 2026](https://dev.to/rshanmugaraj_e471fa3f2ed/from-prompt-to-production-how-i-built-google-stadium-for-google-promptwars-2026-i66)
+- [How Does AI Transcription Work? [Technical Guide]](https://dev.to/quillhub/how-does-ai-transcription-work-technical-guide-5a2h)
+- [Why your RAG chatbot fails in Thai — and how to fix it](https://dev.to/kmusicman/why-your-rag-chatbot-fails-in-thai-and-how-to-fix-it-3m72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
