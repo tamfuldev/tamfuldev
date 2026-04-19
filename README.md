@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clinic-CoPilot](https://dev.to/dhoni_yedhuru/clinic-copilot-58g5)
-- [Claude Design Looks Like AI Magic. Reading the Source, It&#39;s Four Engineering Patterns.](https://dev.to/ernham/claude-design-looks-like-ai-magic-reading-the-source-its-four-engineering-patterns-3p9m)
-- [The OpenClaw Newbie &amp; Beyond Guide](https://dev.to/kheai/the-openclaw-newbie-beyond-guide-3581)
-- [The Economic Moat &lpar;Quantifying your AI ROI&rpar;](https://dev.to/peng_cao/the-economic-moat-quantifying-your-ai-roi-1ia0)
-- [If You&#39;re Building with LLMs, You Should Have Thought About Observability from Day One](https://dev.to/toshipon/if-youre-building-with-llms-you-should-have-thought-about-observability-from-day-one-54ih)
+- [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9)
+- [🌍 GreenLens — AI That Tells You Exactly Where to Plant Trees](https://dev.to/ahmad_rabbani_50bec5adbef/earth-day-edition-greenlens-pfl)
+- [Deconstructing NYTimes Video Streaming: Building a High-Performance Extraction Engine with HLS and FFmpeg](https://dev.to/yqqwe/deconstructing-nytimes-video-streaming-building-a-high-performance-extraction-engine-with-hls-and-3l3h)
+- [I Almost Burned Out. Then I Built Systems Instead.](https://dev.to/forgeflows/i-almost-burned-out-then-i-built-systems-instead-2ie6)
+- [Prose Balance Review with Nebius Llama-3.3-70B — Structural Writing Analysis at $0.10/1M](https://dev.to/kanta13jp1/prose-balance-review-with-nebius-llama-33-70b-structural-writing-analysis-at-0101m-3b5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
