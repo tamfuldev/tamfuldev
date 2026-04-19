@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas](https://dev.to/gavin_rose/atlas-learn-about-the-earth-cio)
-- [My Favorite OS - Jerseyctf6](https://dev.to/davidonlinearchive/my-favorite-os-jerseyctf6-33o3)
-- [Your Python Workflow Crashes Between Steps. Here Is Why, and How to Fix It.](https://dev.to/vatryok/your-python-workflow-crashes-between-steps-here-is-why-and-how-to-fix-it-chj)
-- [The Atom Age Is Over. Palantir Is Recruiting for What Comes Next.](https://dev.to/zaferdace/the-atom-age-is-over-palantir-is-recruiting-for-what-comes-next-loc)
-- [I built the Ansible tool I wish I had: A visual debugger and &quot;Limits&quot; sandbox](https://dev.to/aogunwoolu/i-built-the-ansible-tool-i-wish-i-had-a-visual-debugger-and-limits-sandbox-1jo8)
+- [Every digital business card tool sucks, so I built my own and open-sourced it](https://dev.to/kevinwielander/every-digital-business-card-tool-sucks-so-i-built-my-own-and-open-sourced-it-2m32)
+- [Claude Design Is Here — AI Is Entering the Visual Creation Era](https://dev.to/yasirawan4831/claude-design-is-here-ai-is-entering-the-visual-creation-era-d9m)
+- [7 Best Free Image Optimization Tools Online &lpar;2026 Comparison&rpar;](https://dev.to/samma1997/7-best-free-image-optimization-tools-online-2026-comparison-972)
+- [Data pipeline around 15 minute city](https://dev.to/mushroomandchai/data-pipeline-around-15-minute-city-4j1o)
+- [Why watermark your photos?](https://dev.to/samma1997/why-watermark-your-photos-4pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
