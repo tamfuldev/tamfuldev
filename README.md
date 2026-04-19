@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9)
-- [🌍 GreenLens — AI That Tells You Exactly Where to Plant Trees](https://dev.to/ahmad_rabbani_50bec5adbef/earth-day-edition-greenlens-pfl)
-- [Deconstructing NYTimes Video Streaming: Building a High-Performance Extraction Engine with HLS and FFmpeg](https://dev.to/yqqwe/deconstructing-nytimes-video-streaming-building-a-high-performance-extraction-engine-with-hls-and-3l3h)
-- [I Almost Burned Out. Then I Built Systems Instead.](https://dev.to/forgeflows/i-almost-burned-out-then-i-built-systems-instead-2ie6)
-- [Prose Balance Review with Nebius Llama-3.3-70B — Structural Writing Analysis at $0.10/1M](https://dev.to/kanta13jp1/prose-balance-review-with-nebius-llama-33-70b-structural-writing-analysis-at-0101m-3b5a)
+- [Telegram Bot Approvals: Mobile-First Transaction Signing for AI Agents](https://dev.to/walletguy/telegram-bot-approvals-mobile-first-transaction-signing-for-ai-agents-26p)
+- [Scaling DNS in Multi-Cluster Kubernetes with ExternalDNS &lpar;AWS Route 53 &rpar;](https://dev.to/manoj_kr_5fe54af2495454e/scaling-dns-in-multi-cluster-kubernetes-with-externaldns-aws-route-53--11je)
+- [Making dart:ui_web Compile in Flutter Tests — The Conditional Import Pattern](https://dev.to/kanta13jp1/making-dartuiweb-compile-in-flutter-tests-the-conditional-import-pattern-1p97)
+- [How to Get Real-Time Traffic Camera Feeds via API](https://dev.to/road511/how-to-get-real-time-traffic-camera-feeds-via-api-39k3)
+- [GraphQL in Go looks simple at first: write a schema, run gqlgen, fill in the resolvers. But the real story starts later.](https://dev.to/aleksei_aleinikov/graphql-in-go-looks-simple-at-first-write-a-schema-run-gqlgen-fill-in-the-resolvers-but-the-n05)
 <!-- BLOG-POST-LIST:END -->
 
 ---
