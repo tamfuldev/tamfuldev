@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
-- [How to Get Real-Time Crypto Prices with the Mobula API in Python](https://dev.to/kevin_menesesgonzlez/how-to-get-real-time-crypto-prices-with-the-mobula-api-in-python-2oop)
-- [Guide to AI-Powered Frontend Testing with TWD](https://dev.to/kevinccbsg/guide-to-ai-powered-frontend-testing-with-twd-3i88)
-- [Công thức viết User Story &#39;thuyết phục mọi Dev&#39;: Hướng dẫn toàn diện và thực chiến](https://dev.to/itprepvn/cong-thuc-viet-user-story-thuyet-phuc-moi-dev-huong-dan-toan-dien-va-thuc-chien-58dm)
-- [Your WAF thinks in ATT&amp;CK. Your LLM app needs ATLAS. Here&#39;s the bridge.](https://dev.to/uzy1bit/your-waf-thinks-in-attck-your-llm-app-needs-atlas-heres-the-bridge-39ld)
+- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92)
+- [Agentes IA que pasan tus tests. Ese es el problema.](https://dev.to/jtorchia/agentes-ia-que-pasan-tus-tests-ese-es-el-problema-10ic)
+- [Binary search is O&lpar;log n&rpar;, but that&#39;s not the whole story](https://dev.to/abanicaisse/binary-search-is-olog-n-but-thats-not-the-whole-story-2531)
+- [HeyGen HyperFrames: How Code is Killing Traditional Video Editing](https://dev.to/hugh1st/heygen-hyperframes-how-code-is-killing-traditional-video-editing-3f2h)
+- [The Secret Sauce Leaked. Turns Out There Was No Secret.](https://dev.to/soon_seahtoh_3e917beae5e/the-secret-sauce-leaked-turns-out-there-was-no-secret-4o36)
 <!-- BLOG-POST-LIST:END -->
 
 ---
