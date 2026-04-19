@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj)
-- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2)
-- [PortfolioForge: Building an AI‑Native Portfolio Platform with Next.js, Firebase, and Genkit](https://dev.to/onkar_koventures/portfolioforge-building-an-ai-native-portfolio-platform-with-nextjs-firebase-and-genkit-24j1)
-- [Building an Interactive Wind Turbine Calculator](https://dev.to/onkar_koventures/building-an-interactive-wind-turbine-calculator-20d3)
-- [从混沌到秩序：AI 时代的系统分层治理方法论](https://dev.to/senk/cong-hun-dun-dao-zhi-xu-ai-shi-dai-de-xi-tong-fen-ceng-zhi-li-fang-fa-lun-43fb)
+- [Atlas](https://dev.to/gavin_rose/atlas-learn-about-the-earth-cio)
+- [My Favorite OS - Jerseyctf6](https://dev.to/davidonlinearchive/my-favorite-os-jerseyctf6-33o3)
+- [Your Python Workflow Crashes Between Steps. Here Is Why, and How to Fix It.](https://dev.to/vatryok/your-python-workflow-crashes-between-steps-here-is-why-and-how-to-fix-it-chj)
+- [The Atom Age Is Over. Palantir Is Recruiting for What Comes Next.](https://dev.to/zaferdace/the-atom-age-is-over-palantir-is-recruiting-for-what-comes-next-loc)
+- [I built the Ansible tool I wish I had: A visual debugger and &quot;Limits&quot; sandbox](https://dev.to/aogunwoolu/i-built-the-ansible-tool-i-wish-i-had-a-visual-debugger-and-limits-sandbox-1jo8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
