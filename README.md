@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Bot Approvals: Mobile-First Transaction Signing for AI Agents](https://dev.to/walletguy/telegram-bot-approvals-mobile-first-transaction-signing-for-ai-agents-26p)
-- [Scaling DNS in Multi-Cluster Kubernetes with ExternalDNS &lpar;AWS Route 53 &rpar;](https://dev.to/manoj_kr_5fe54af2495454e/scaling-dns-in-multi-cluster-kubernetes-with-externaldns-aws-route-53--11je)
-- [Making dart:ui_web Compile in Flutter Tests — The Conditional Import Pattern](https://dev.to/kanta13jp1/making-dartuiweb-compile-in-flutter-tests-the-conditional-import-pattern-1p97)
-- [How to Get Real-Time Traffic Camera Feeds via API](https://dev.to/road511/how-to-get-real-time-traffic-camera-feeds-via-api-39k3)
-- [GraphQL in Go looks simple at first: write a schema, run gqlgen, fill in the resolvers. But the real story starts later.](https://dev.to/aleksei_aleinikov/graphql-in-go-looks-simple-at-first-write-a-schema-run-gqlgen-fill-in-the-resolvers-but-the-n05)
+- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
+- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
+- [The Invisible Hand of the State: How Government Coercion is Rewriting the First Amendment in Silicon Valley](https://dev.to/its_vrushal/the-invisible-hand-of-the-state-how-government-coercion-is-rewriting-the-first-amendment-in-102f)
+- [Working with AI review is very important](https://dev.to/hermannleboss/working-with-ai-review-is-very-important-cam)
+- [The $322 Million Heist: How Anna’s Archive Scraped the World’s Music and Lost Everything &lpar;Or Did They?&rpar;](https://dev.to/its_vrushal/the-322-million-heist-how-annas-archive-scraped-the-worlds-music-and-lost-everything-or-did-2jc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
