@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
-- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
-- [From Prompt to Production: How I Built &quot;Google Stadium&quot; for Google PromptWars 2026](https://dev.to/rshanmugaraj_e471fa3f2ed/from-prompt-to-production-how-i-built-google-stadium-for-google-promptwars-2026-i66)
-- [How Does AI Transcription Work? [Technical Guide]](https://dev.to/quillhub/how-does-ai-transcription-work-technical-guide-5a2h)
-- [Why your RAG chatbot fails in Thai — and how to fix it](https://dev.to/kmusicman/why-your-rag-chatbot-fails-in-thai-and-how-to-fix-it-3m72)
+- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
+- [How to Get Real-Time Crypto Prices with the Mobula API in Python](https://dev.to/kevin_menesesgonzlez/how-to-get-real-time-crypto-prices-with-the-mobula-api-in-python-2oop)
+- [Guide to AI-Powered Frontend Testing with TWD](https://dev.to/kevinccbsg/guide-to-ai-powered-frontend-testing-with-twd-3i88)
+- [Công thức viết User Story &#39;thuyết phục mọi Dev&#39;: Hướng dẫn toàn diện và thực chiến](https://dev.to/itprepvn/cong-thuc-viet-user-story-thuyet-phuc-moi-dev-huong-dan-toan-dien-va-thuc-chien-58dm)
+- [Your WAF thinks in ATT&amp;CK. Your LLM app needs ATLAS. Here&#39;s the bridge.](https://dev.to/uzy1bit/your-waf-thinks-in-attck-your-llm-app-needs-atlas-heres-the-bridge-39ld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
