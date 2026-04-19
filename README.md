@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih)
-- [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
-- [Building a Terminal for Prediction Markets &lpar;Aggregating Polymarket, Kalshi, +5 more&rpar;](https://dev.to/predictefy/building-a-terminal-for-prediction-markets-aggregating-polymarket-kalshi-5-more-3lfk)
-- [Web3 Security and OPSEC Checklist: Beyond the Smart Contract Audit](https://dev.to/0xluk3/web3-security-and-opsec-checklist-beyond-the-smart-contract-audit-4hb8)
-- [Bayan Flow 0.4.0: From Algorithm Visualization to Real Understanding](https://dev.to/ayoub3bidi/bayan-flow-040-from-algorithm-visualization-to-real-understanding-3oj3)
+- [The Mental Framework for Unlocking Agentic Workflows](https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1)
+- [Three Vulnerabilities That Quietly Rewrote the Threat Model in 2025](https://dev.to/darshankumar89/three-vulnerabilities-that-quietly-rewrote-the-threat-model-in-2025-2b8p)
+- [AI Memory Systems: Everything You Need to Know](https://dev.to/codewithveek/ai-memory-systems-everything-you-need-to-know-35n0)
+- [The Opus 4.7 Tokenizer Ate Your Budget &lpar;30-Second Fix&rpar;](https://dev.to/devtorres_/the-opus-47-tokenizer-ate-your-budget-30-second-fix-1l13)
+- [How I packaged offline AI, Flask, and Cryptography into a single Python executable 🚀](https://dev.to/nour833/how-i-packaged-offline-ai-flask-and-cryptography-into-a-single-python-executable-205p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
