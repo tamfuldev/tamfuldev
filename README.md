@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h)
-- [Hypercontext: a framework for agents that actually know what they&#39;re doing](https://dev.to/rotsl/hypercontext-a-framework-for-agents-that-actually-know-what-theyre-doing-3e7p)
-- [Anyone working on applications for Recursive Language Models? #discussion #rlm](https://dev.to/jon_at_backboardio/anyone-working-on-applications-for-recursive-language-models-discussion-rlm-2fp0)
-- [Serverless applications on AWS with Lambda using Java 25, API Gateway and DynamoDB - Part 6 Using GraalVM Native Image](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-dynamodb-part-6-using-1ji)
-- [Guía Definitiva de Merge Sort: El Algoritmo de Divide y Vencerás](https://dev.to/jcmexdev/guia-definitiva-de-merge-sort-el-algoritmo-de-divide-y-venceras-h1n)
+- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
+- [Stop setting up json-server for every prototype. There&#39;s a faster way.](https://dev.to/mockbolt02/stop-setting-up-json-server-for-every-prototype-theres-a-faster-way-33bl)
+- [Vercel April 2026 breach: it didn&#39;t break my infra, it broke my excuse](https://dev.to/jtorchia/vercel-april-2026-breach-it-didnt-break-my-infra-it-broke-my-excuse-2dk8)
+- [Vercel April 2026 breach: no me rompieron la infra, me rompieron la excusa](https://dev.to/jtorchia/vercel-april-2026-breach-no-me-rompieron-la-infra-me-rompieron-la-excusa-2h5o)
+- [El problema de confianza que Emacs resolvió y los agentes IA ignoran](https://dev.to/jtorchia/el-problema-de-confianza-que-emacs-resolvio-y-los-agentes-ia-ignoran-2882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
