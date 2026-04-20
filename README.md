@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Your AI Agent Goes Rogue: Building a Bulletproof Incident Response System](https://dev.to/chiefwebofficer/when-your-ai-agent-goes-rogue-building-a-bulletproof-incident-response-system-ifb)
-- [agentic coding habits to accelerate your engineering workflow](https://dev.to/jackmarchant/agentic-coding-habits-to-accelerate-your-engineering-workflow-4p3g)
-- [From Complaints to Prevention: A Product Manager’s Approach to AI-Driven Telecom Billing](https://dev.to/balu_chavan_bf4de371f2a30/from-complaints-to-prevention-a-product-managers-approach-to-ai-driven-telecom-billing-4626)
-- [Hermes vs OpenCLAW: &quot;Kẻ Tám Lạng, Người Nửa Cân&quot; Trong Xử Lý Dữ Liệu 2026](https://dev.to/itprepvn/hermes-vs-openclaw-ke-tam-lang-nguoi-nua-can-trong-xu-ly-du-lieu-2026-287)
-- [Should agencies build their own website security and maintenance solutions?](https://dev.to/dcentrica/should-agencies-build-their-own-website-security-and-maintenance-solutions-22cm)
+- [Providers y Resources: Los Pilares de Infrastructure as Code](https://dev.to/8infinitecloud/providers-y-resources-los-pilares-de-infrastructure-as-code-9lp)
+- [Terraform: Infraestructura como Código desde cero](https://dev.to/8infinitecloud/terraform-infraestructura-como-codigo-desde-cero-4a8a)
+- [I added 10 real developer testimonials to my UI library today — here’s what I learned from early users](https://dev.to/infinite_loopsnitingu/i-added-10-real-developer-testimonials-to-my-ui-library-today-heres-what-i-learned-from-early-47l4)
+- [Arara Watch: a serverless global disaster monitor, developed with technology from Google Gemini, AWS, OpenWeather and NASA.](https://dev.to/isaque21/arara-watch-a-serverless-global-disaster-monitor-developed-with-technology-from-google-gemini-15m9)
+- [🌍 EarthTwin AI – See the Future You&#39;re Creating](https://dev.to/aditya_007/earthtwin-ai-see-the-future-youre-creating-487e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
