@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Add Film Effects to Digital Photos Free &lpar;No Photoshop&rpar;](https://dev.to/samma1997/add-film-effects-to-digital-photos-free-no-photoshop-8ne)
-- [How to Find and Delete Duplicate Photos &lpar;Free Tool&rpar;](https://dev.to/samma1997/how-to-find-and-delete-duplicate-photos-free-tool-29fp)
-- [Cozy Jam Spring 2026 Retrospective](https://dev.to/stevenwallace/cozy-jam-spring-2026-retrospective-38g6)
-- [Designing a practical sorting benchmark across Python, Rust, and C](https://dev.to/tony_1234567890/designing-a-practical-sorting-benchmark-across-python-rust-and-c-16e7)
-- [On the Programmer’s Dependency on LLMs](https://dev.to/ivangarzab/on-the-programmers-dependency-on-llms-32fl)
+- [How ChatGPT Works &lpar;Simple Explanation for Beginners&rpar;](https://dev.to/debugdiariesbyswethap/how-chatgpt-works-simple-explanation-for-beginners-51ok)
+- [Track Multiple AI Agents state](https://dev.to/aidenwong/track-multiple-ai-agents-state-4bhj)
+- [Azure Service Bus for Event-Driven Systems: A Practical Deep Dive](https://dev.to/aldacosta/azure-service-bus-for-event-driven-systems-a-practical-deep-dive-5an3)
+- [Plant in real life. Share on a living Earth. Grow a global green community. This is Plantera. 🌍🌱](https://dev.to/anupam058/plant-in-real-life-share-on-a-living-earth-grow-a-global-green-community-this-is-plantera-51p6)
+- [EU AI Act: Was ab August 2026 konkret für dein Unternehmen gilt](https://dev.to/codewithagents_de/eu-ai-act-was-ab-august-2026-konkret-fur-dein-unternehmen-gilt-56l3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
