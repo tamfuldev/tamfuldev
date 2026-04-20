@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I turned on auto-approve in Claude Code and broke CI in 30 minutes](https://dev.to/kenimo49/i-turned-on-auto-approve-in-claude-code-and-broke-ci-in-30-minutes-1g1a)
-- [Zero-Copy Parsers: Rust Pipelines That Outrun JSON](https://dev.to/speed_engineer/zero-copy-parsers-rust-pipelines-that-outrun-json-3fij)
-- [Blind Vaults](https://dev.to/izi_/blind-vaults-gfc)
-- [How to pull TikTok Ads reports straight into Google Sheets](https://dev.to/julianreiter/how-to-pull-tiktok-ads-reports-straight-into-google-sheets-4opi)
-- [JavaScript Modules: Import and Export Explained](https://dev.to/anoop-rajoriya/javascript-modules-import-and-export-explained-4bim)
+- [你还在用 Dify 做聊天机器人？——这 5 个进阶用法，90% 的人都不知道](https://dev.to/_cbd692d476c5faf3b61bcf/ni-huan-zai-yong-dify-zuo-liao-tian-ji-qi-ren-zhe-5-ge-jin-jie-yong-fa-90-de-ren-du-bu-zhi-dao-g2f)
+- [Few-Shot Prompting: Show, Don&#39;t Describe](https://dev.to/jeffreese/few-shot-prompting-show-dont-describe-5hie)
+- [.NET ORM Options &amp; Best Practices for 2026: EF Core vs Dapper vs Hybrid Approaches](https://dev.to/vikrant_bagal_afae3e25ca7/net-orm-options-best-practices-for-2026-ef-core-vs-dapper-vs-hybrid-approaches-3lai)
+- [I built an Earth Day app around Malaysian daily habits](https://dev.to/leonal_sigarleo_b5ad2c/i-built-an-earth-day-app-around-malaysian-daily-habits-9k7)
+- [The Subscription Audit That Saved Me $480 a Year](https://dev.to/stackfolo/the-subscription-audit-that-saved-me-480-a-year-1p6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
