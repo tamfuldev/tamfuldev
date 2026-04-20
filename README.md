@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [你还在用 Dify 做聊天机器人？——这 5 个进阶用法，90% 的人都不知道](https://dev.to/_cbd692d476c5faf3b61bcf/ni-huan-zai-yong-dify-zuo-liao-tian-ji-qi-ren-zhe-5-ge-jin-jie-yong-fa-90-de-ren-du-bu-zhi-dao-g2f)
-- [Few-Shot Prompting: Show, Don&#39;t Describe](https://dev.to/jeffreese/few-shot-prompting-show-dont-describe-5hie)
-- [.NET ORM Options &amp; Best Practices for 2026: EF Core vs Dapper vs Hybrid Approaches](https://dev.to/vikrant_bagal_afae3e25ca7/net-orm-options-best-practices-for-2026-ef-core-vs-dapper-vs-hybrid-approaches-3lai)
-- [I built an Earth Day app around Malaysian daily habits](https://dev.to/leonal_sigarleo_b5ad2c/i-built-an-earth-day-app-around-malaysian-daily-habits-9k7)
-- [The Subscription Audit That Saved Me $480 a Year](https://dev.to/stackfolo/the-subscription-audit-that-saved-me-480-a-year-1p6o)
+- [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h)
+- [Hypercontext: a framework for agents that actually know what they&#39;re doing](https://dev.to/rotsl/hypercontext-a-framework-for-agents-that-actually-know-what-theyre-doing-3e7p)
+- [Anyone working on applications for Recursive Language Models? #discussion #rlm](https://dev.to/jon_at_backboardio/anyone-working-on-applications-for-recursive-language-models-discussion-rlm-2fp0)
+- [Serverless applications on AWS with Lambda using Java 25, API Gateway and DynamoDB - Part 6 Using GraalVM Native Image](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-dynamodb-part-6-using-1ji)
+- [Guía Definitiva de Merge Sort: El Algoritmo de Divide y Vencerás](https://dev.to/jcmexdev/guia-definitiva-de-merge-sort-el-algoritmo-de-divide-y-venceras-h1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
