@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
-- [How Do You Stack Two Children Perfectly on Top of Each Other?](https://dev.to/zzzgit/how-do-you-stack-two-children-perfectly-on-top-of-each-other-5gjb)
-- [Data Fetching Strategies in Next.js - SSR, SSG, ISR, and RSC](https://dev.to/addwebsolutionpvtltd/data-fetching-strategies-in-nextjs-ssr-ssg-isr-and-rsc-5a2p)
-- [Data Privacy in Regulated Applications: What Developers Need to Know](https://dev.to/dominiquer/data-privacy-in-regulated-applications-what-developers-need-to-know-2a3g)
-- [Need Truly Secure Digital Storage? The Answer Is Decentralized Storage + Privacy Layer](https://dev.to/dc600/need-truly-secure-digital-storage-the-answer-is-decentralized-storage-privacy-layer-137a)
+- [I turned on auto-approve in Claude Code and broke CI in 30 minutes](https://dev.to/kenimo49/i-turned-on-auto-approve-in-claude-code-and-broke-ci-in-30-minutes-1g1a)
+- [Zero-Copy Parsers: Rust Pipelines That Outrun JSON](https://dev.to/speed_engineer/zero-copy-parsers-rust-pipelines-that-outrun-json-3fij)
+- [Blind Vaults](https://dev.to/izi_/blind-vaults-gfc)
+- [How to pull TikTok Ads reports straight into Google Sheets](https://dev.to/julianreiter/how-to-pull-tiktok-ads-reports-straight-into-google-sheets-4opi)
+- [JavaScript Modules: Import and Export Explained](https://dev.to/anoop-rajoriya/javascript-modules-import-and-export-explained-4bim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
