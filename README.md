@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
-- [Stop setting up json-server for every prototype. There&#39;s a faster way.](https://dev.to/mockbolt02/stop-setting-up-json-server-for-every-prototype-theres-a-faster-way-33bl)
-- [Vercel April 2026 breach: it didn&#39;t break my infra, it broke my excuse](https://dev.to/jtorchia/vercel-april-2026-breach-it-didnt-break-my-infra-it-broke-my-excuse-2dk8)
-- [Vercel April 2026 breach: no me rompieron la infra, me rompieron la excusa](https://dev.to/jtorchia/vercel-april-2026-breach-no-me-rompieron-la-infra-me-rompieron-la-excusa-2h5o)
-- [El problema de confianza que Emacs resolvió y los agentes IA ignoran](https://dev.to/jtorchia/el-problema-de-confianza-que-emacs-resolvio-y-los-agentes-ia-ignoran-2882)
+- [Sensitive Data Exposure - The Bug That Looks Like a Feature Working Correctly](https://dev.to/safron/sensitive-data-exposure-the-bug-that-looks-like-a-feature-working-correctly-1djh)
+- [When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9)
+- [Building a Hybrid AWS Microservices Platform with API Gateway, Lambda, ECS, and Load Balancers](https://dev.to/amitkayal/building-a-hybrid-aws-microservices-platform-with-api-gateway-lambda-ecs-and-load-balancers-mnn)
+- [The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don&#39;t Tell You in the Documentation](https://dev.to/kevinten10/the-brutal-truth-about-using-ai-for-my-personal-knowledge-base-what-they-dont-tell-you-in-the-4la4)
+- [Setting Up Disaster Recovery for Morpheus Enterprise with MySQL InnoDB ClusterSet — Step by Step](https://dev.to/emre_baykal_a4a7a479d48c5/morpheus-enterprise-disaster-recovery-with-mysql-innodb-clusterset-a-step-by-step-guide-11ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
