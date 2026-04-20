@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Calculer un TAEG en JavaScript avec Newton-Raphson : la méthode propre](https://dev.to/tresor4k/calculer-un-taeg-en-javascript-avec-newton-raphson-la-methode-propre-2835)
-- [Migrating from Google Analytics to Privacy-Focused Alternatives](https://dev.to/alanwest/migrating-from-google-analytics-to-privacy-focused-alternatives-mcl)
-- [Field Notes from a Solo Builder — Shipping the Beloved Claude Code Buddy Into the Wild - Part II](https://dev.to/fiorastudio/first-principles-architecture-and-the-token-tax-5g4p)
-- [Build Sprint-Driven AI Projects with vem: Cycles, Tasks, and Flow Metrics](https://dev.to/vem/build-sprint-driven-ai-projects-with-vem-cycles-tasks-and-flow-metrics-3j0k)
-- [From Knowledge Base to AI System: How Papers Evolved Beyond My Wildest Dreams](https://dev.to/kevinten10/from-knowledge-base-to-ai-system-how-papers-evolved-beyond-my-wildest-dreams-47f0)
+- [WCAG: Making the internet more accessible](https://dev.to/aneshodza/wcag-making-the-internet-more-accessible-3484)
+- [Can Claude Code migrate VanillaJS/HTML/CSS to Preact/Tailwind?](https://dev.to/tuzmusic/can-claude-code-migrate-vanillajshtmlcss-to-preacttailwind-36jl)
+- [How I automated dead endpoint detection and removed 16,000 lines from our Node.js codebase](https://dev.to/miguel_lopes_966962540a43/how-i-automated-dead-endpoint-detection-and-removed-16000-lines-from-our-nodejs-codebase-1fan)
+- [ClickHouse Native JSON Support in 2026: A PR-by-PR Analysis](https://dev.to/manveer_chawla_64a7283d5a/clickhouse-native-json-support-in-2026-a-pr-by-pr-analysis-1hdp)
+- [Factur-X EN 16931 from scratch: PDF/A-3 + CII XML in Node.js / TypeScript](https://dev.to/erwanbargain/factur-x-en-16931-from-scratch-pdfa-3-cii-xml-in-nodejs-typescript-3pbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
