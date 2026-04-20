@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Providers y Resources: Los Pilares de Infrastructure as Code](https://dev.to/8infinitecloud/providers-y-resources-los-pilares-de-infrastructure-as-code-9lp)
-- [Terraform: Infraestructura como Código desde cero](https://dev.to/8infinitecloud/terraform-infraestructura-como-codigo-desde-cero-4a8a)
-- [I added 10 real developer testimonials to my UI library today — here’s what I learned from early users](https://dev.to/infinite_loopsnitingu/i-added-10-real-developer-testimonials-to-my-ui-library-today-heres-what-i-learned-from-early-47l4)
-- [Arara Watch: a serverless global disaster monitor, developed with technology from Google Gemini, AWS, OpenWeather and NASA.](https://dev.to/isaque21/arara-watch-a-serverless-global-disaster-monitor-developed-with-technology-from-google-gemini-15m9)
-- [🌍 EarthTwin AI – See the Future You&#39;re Creating](https://dev.to/aditya_007/earthtwin-ai-see-the-future-youre-creating-487e)
+- [Add Film Effects to Digital Photos Free &lpar;No Photoshop&rpar;](https://dev.to/samma1997/add-film-effects-to-digital-photos-free-no-photoshop-8ne)
+- [How to Find and Delete Duplicate Photos &lpar;Free Tool&rpar;](https://dev.to/samma1997/how-to-find-and-delete-duplicate-photos-free-tool-29fp)
+- [Cozy Jam Spring 2026 Retrospective](https://dev.to/stevenwallace/cozy-jam-spring-2026-retrospective-38g6)
+- [Designing a practical sorting benchmark across Python, Rust, and C](https://dev.to/tony_1234567890/designing-a-practical-sorting-benchmark-across-python-rust-and-c-16e7)
+- [On the Programmer’s Dependency on LLMs](https://dev.to/ivangarzab/on-the-programmers-dependency-on-llms-32fl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
