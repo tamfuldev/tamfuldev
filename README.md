@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution Journey: How My Knowledge Management System Transformed from Hoarding to Wisdom](https://dev.to/kevinten10/the-evolution-journey-how-my-knowledge-management-system-transformed-from-hoarding-to-wisdom-573n)
-- [Realtime transcription: choices and stories for PyCon IT](https://dev.to/bilardi/realtime-transcription-choices-and-stories-for-pycon-it-4ehd)
-- [I Built a Cookie-Free Visitor Analytics Platform — Here&#39;s What I Learned](https://dev.to/stevandric/i-built-a-cookie-free-visitor-analytics-platform-heres-what-i-learned-2pme)
-- [From PNG to 3D Print: Building a Browser-Based STL Pipeline](https://dev.to/kaan_tokali_5a4828a3f897c/from-png-to-3d-print-building-a-browser-based-stl-pipeline-34ln)
-- [Uber System Design: A Comprehensive Guide to Building a Real-Time Ride-Sharing Platform](https://dev.to/raajaryan/uber-system-design-a-comprehensive-guide-to-building-a-real-time-ride-sharing-platform-59kk)
+- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
+- [Why Pull Requests Go Stale — And Why It&#39;s a Visibility Problem, Not a People Problem](https://dev.to/code-board/why-pull-requests-go-stale-and-why-its-a-visibility-problem-not-a-people-problem-343h)
+- [Privacy-first mind mapping app. Part 0: Motivations and Mind Maps](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-0-motivations-and-mind-maps-4k0m)
+- [The Engineering Capacity Trap: Why Custom Page Builders Stall Product Roadmaps and Drain Engineering Resources](https://dev.to/jasonbiondo/the-engineering-capacity-trap-why-custom-page-builders-stall-product-roadmaps-and-drain-3g8l)
+- [I built a $2/month AI assistant and hosted it myself — here&#39;s the full architecture](https://dev.to/subprime2010/i-built-a-2month-ai-assistant-and-hosted-it-myself-heres-the-full-architecture-28pc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
