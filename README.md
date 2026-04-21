@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FinOps for AI vs MLOps: Understanding the Roles in AI Operations](https://dev.to/datta_kharad_3fd1383b5036/finops-for-ai-vs-mlops-understanding-the-roles-in-ai-operations-551a)
-- [Apollo vs Hunter vs Lusha vs PDL: The Cost-Per-Contact Number Nobody Publishes &lpar;2026&rpar;](https://dev.to/zackrag/apollo-vs-hunter-vs-lusha-vs-pdl-the-cost-per-contact-number-nobody-publishes-2026-4lj5)
-- [I built a 100-point prompt scorer for SUNO AI — 16 checks, open-source on npm](https://dev.to/shaizadok/i-built-a-100-point-prompt-scorer-for-suno-ai-16-checks-open-source-on-npm-3dhn)
-- [Why Power Planes Should Stay Small: A PCB Designer&#39;s Guide to Ground and Power](https://dev.to/cindy_pcb/ground-vs-power-why-smaller-power-planes-rule-in-pcb-design-5a80)
-- [Vibe Coding: The Golden Rule](https://dev.to/dbolotov/vibe-coding-the-golden-rule-4n3l)
+- [How we handle LLM context window limits without losing conversation quality](https://dev.to/adamo_software/how-we-handle-llm-context-window-limits-without-losing-conversation-quality-1eh5)
+- [Why I switched from per-token AI billing to flat-rate: a developer&#39;s honest breakdown](https://dev.to/subprime2010/why-i-switched-from-per-token-ai-billing-to-flat-rate-a-developers-honest-breakdown-37j6)
+- [The AI Agent Market Is Splitting in Two — And Most Builders Don&#39;t Realize It Yet](https://dev.to/alanmercer/the-ai-agent-market-is-splitting-in-two-and-most-builders-dont-realize-it-yet-2ba3)
+- [AI Coding Tools Have a Context Problem — Here&#39;s the Fix](https://dev.to/rapidkit/ai-coding-tools-have-a-context-problem-heres-the-fix-167i)
+- [The Planning Tax: Why Your AI Agent Feature Might Be Your Worst Investment](https://dev.to/cstefanache/the-planning-tax-why-your-ai-agent-feature-might-be-your-worst-investment-50d7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
