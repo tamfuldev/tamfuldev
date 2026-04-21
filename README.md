@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [นอนไม่หลับ ข้อมูลหาย 8 กู้คืน และย้ายข้อมูล](https://dev.to/thanawat_wonchai/nnaimhlab-khmuulhaay-8-kuukhuuen-aelayaaykhmuul-b49)
-- [تشريح بنية بث الفيديو في نيويورك تايمز: بناء محرك استخراج عالي الأداء باستخدام HLS و FFmpeg](https://dev.to/yqqwe/tshryh-bny-bth-lfydyw-fy-nywywrk-tymz-bn-mhrk-stkhrj-ly-ld-bstkhdm-hls-w-ffmpeg-20cn)
-- [NYTimes वीडियो स्ट्रीमिंग का विश्लेषण: HLS और FFmpeg के साथ एक हाई-परफॉर्मेंस एक्सट्रैक्शन इंजन का निर्माण](https://dev.to/yqqwe/nytimes-viiddiyo-sttriiming-kaa-vishlessnn-hls-aur-ffmpeg-ke-saath-ek-haaii-prphonrmens-eksttraikshn-injn-kaa-2lfo)
-- [NYTimes Video Streaming Mimarisi: HLS ve FFmpeg ile Yüksek Performanslı Ekstraksiyon Motoru Oluşturmak](https://dev.to/yqqwe/nytimes-video-streaming-mimarisi-hls-ve-ffmpeg-ile-yuksek-performansli-ekstraksiyon-motoru-3fh6)
-- [How Jungle Grid handles the messy parts of GPU orchestration so you don&#39;t have to.](https://dev.to/benedict_dejaguarkyng_2/how-jungle-grid-handles-the-messy-parts-of-gpu-orchestration-so-you-dont-have-to-37lb)
+- [Hello DEV! I&#39;m Nouman — CyberSecurity Student &amp; Fullstack Developer from Pakistan 🇵🇰](https://dev.to/noumantechdeveloper/hello-dev-im-nouman-cybersecurity-student-fullstack-developer-from-pakistan-4h06)
+- [Your First LLMOps Pipeline: From Prompt to Production in One Sprint](https://dev.to/varunvarde/your-first-llmops-pipeline-from-prompt-to-production-in-one-sprint-4ppp)
+- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-1eeh)
+- [Day 78 of #100DaysOfCode — Introduction to Flask: Setup and First App](https://dev.to/m_saad_ahmad/day-78-of-100daysofcode-introduction-to-flask-setup-and-first-app-3ihl)
+- [Dark Tetrad Traits in Founder Screening: How to Spot Narcissistic Leadership Before It Destroys Your Company](https://dev.to/penbird416/dark-tetrad-traits-in-founder-screening-how-to-spot-narcissistic-leadership-before-it-destroys-2ea2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
