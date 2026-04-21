@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Platform Tax&quot; Is Real - Why Developers Are Moving Back to AWS &lpar;2026&rpar;](https://dev.to/parag477/the-platform-tax-is-real-why-developers-are-moving-back-to-aws-2026-1com)
-- [How to Create a Zero Knowledge DApp: From Zero to Production, Case 1: zk Escrow](https://dev.to/lovingzizi/how-to-create-a-zero-knowledge-dapp-from-zero-to-production-case-1-zk-escrow-1kgj)
-- [Building the Backend for a Spatial Memory Network: Lessons from the Trenches](https://dev.to/kevinten10/building-the-backend-for-a-spatial-memory-network-lessons-from-the-trenches-4epk)
-- [Tired of closed-source notes like Obsidian, Typora, and Notion? I vibe-coded MindZJ: A fully free &amp; open-source note-taking app!](https://dev.to/zj_developer/tired-of-closed-source-notes-like-obsidian-typora-and-notion-i-vibe-coded-mindzj-a-fully-free--539h)
-- [Amazon Is Killing Fire TV Stick Sideloading: How It Works and What You Can Do About It [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/amazon-is-killing-fire-tv-stick-sideloading-how-it-works-and-what-you-can-do-about-it-2026-f2c)
+- [DoctorDocs: 200+ Free Browser-Based PDF, OCR &amp; AI Document Tools — No Sign-Up Required](https://dev.to/ben_ebaa08f53d21a464825d6/doctordocs-200-free-browser-based-pdf-ocr-ai-document-tools-no-sign-up-required-3k6h)
+- [GKE Security: Fix Secrets &amp; Control Plane Misconfigurations](https://dev.to/buoyantcloudinc/gke-security-fix-secrets-control-plane-misconfigurations-5fm1)
+- [I accidentally made the fastest event system in the world](https://dev.to/orion_stderr/i-accidentally-made-the-fastest-event-system-in-the-world-32n2)
+- [How I built an MCP server for 27 government registries in a week](https://dev.to/openregistry/how-i-built-an-mcp-server-for-27-government-registries-in-a-week-4hf0)
+- [Next.js job board: zero-downtime schema changes](https://dev.to/sathish_daggula/nextjs-job-board-zero-downtime-schema-changes-21p2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
