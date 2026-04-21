@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Transfer Object &lpar;DTO&rpar; in NestJS](https://dev.to/naitik_sihag_ddd79b714199/data-transfer-object-dto-in-nestjs-4h1)
-- [Claude Expert: The 4 Official &lpar;Free&rpar; Anthropic Courses](https://dev.to/valentin_monteiro/claude-expert-the-4-official-free-anthropic-courses-4k89)
-- [95% of PII Redaction Doesn&#39;t Need an LLM. The Other 5% Is Where Your Masker Leaks.](https://dev.to/reneza/95-of-pii-redaction-doesnt-need-an-llm-the-other-5-is-where-your-masker-leaks-13pp)
-- [Why we replaced LangChain with the raw Anthropic SDK in production](https://dev.to/tufailkhan457/why-we-replaced-langchain-with-the-raw-anthropic-sdk-in-production-3611)
-- [Why is port 3000 always in use?](https://dev.to/arda_cankrko_00ac576b0/why-is-port-3000-always-in-use-2hk9)
+- [The &quot;Platform Tax&quot; Is Real - Why Developers Are Moving Back to AWS &lpar;2026&rpar;](https://dev.to/parag477/the-platform-tax-is-real-why-developers-are-moving-back-to-aws-2026-1com)
+- [How to Create a Zero Knowledge DApp: From Zero to Production, Case 1: zk Escrow](https://dev.to/lovingzizi/how-to-create-a-zero-knowledge-dapp-from-zero-to-production-case-1-zk-escrow-1kgj)
+- [Building the Backend for a Spatial Memory Network: Lessons from the Trenches](https://dev.to/kevinten10/building-the-backend-for-a-spatial-memory-network-lessons-from-the-trenches-4epk)
+- [Tired of closed-source notes like Obsidian, Typora, and Notion? I vibe-coded MindZJ: A fully free &amp; open-source note-taking app!](https://dev.to/zj_developer/tired-of-closed-source-notes-like-obsidian-typora-and-notion-i-vibe-coded-mindzj-a-fully-free--539h)
+- [Amazon Is Killing Fire TV Stick Sideloading: How It Works and What You Can Do About It [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/amazon-is-killing-fire-tv-stick-sideloading-how-it-works-and-what-you-can-do-about-it-2026-f2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
