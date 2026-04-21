@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [14 years at one company then laid off. The senior dev career trap nobody talks about.](https://dev.to/adioof/14-years-at-one-company-then-laid-off-the-senior-dev-career-trap-nobody-talks-about-4lfh)
-- [From 10 Failed Stacks to Production: How a Data Scientist Built a Job Board with Wasp, a Full-stack Framework for the Agentic Era](https://dev.to/wasp/from-10-failed-stacks-to-production-how-a-data-scientist-built-a-job-board-with-wasp-a-full-stack-5fmp)
-- [I brought KIOKU to Claude Desktop — one .mcpb drag, no Node setup](https://dev.to/megaphone/i-brought-kioku-to-claude-desktop-one-mcpb-drag-no-node-setup-1n8l)
-- [Stop Writing API Routes: Type-Safe Mutations with Next.js Server Actions ⚡](https://dev.to/iprajapatiparesh/stop-writing-api-routes-type-safe-mutations-with-nextjs-server-actions-30h4)
-- [Debugging BentoFX in MelodyMatrix with Matt Coley, Scenic View, and an Honest Look at AI-Generated Code](https://dev.to/fdelporte/debugging-bentofx-in-melodymatrix-with-matt-coley-scenic-view-and-an-honest-look-at-ai-generated-27c9)
+- [Data Transfer Object &lpar;DTO&rpar; in NestJS](https://dev.to/naitik_sihag_ddd79b714199/data-transfer-object-dto-in-nestjs-4h1)
+- [Claude Expert: The 4 Official &lpar;Free&rpar; Anthropic Courses](https://dev.to/valentin_monteiro/claude-expert-the-4-official-free-anthropic-courses-4k89)
+- [95% of PII Redaction Doesn&#39;t Need an LLM. The Other 5% Is Where Your Masker Leaks.](https://dev.to/reneza/95-of-pii-redaction-doesnt-need-an-llm-the-other-5-is-where-your-masker-leaks-13pp)
+- [Why we replaced LangChain with the raw Anthropic SDK in production](https://dev.to/tufailkhan457/why-we-replaced-langchain-with-the-raw-anthropic-sdk-in-production-3611)
+- [Why is port 3000 always in use?](https://dev.to/arda_cankrko_00ac576b0/why-is-port-3000-always-in-use-2hk9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
