@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How we handle LLM context window limits without losing conversation quality](https://dev.to/adamo_software/how-we-handle-llm-context-window-limits-without-losing-conversation-quality-1eh5)
-- [Why I switched from per-token AI billing to flat-rate: a developer&#39;s honest breakdown](https://dev.to/subprime2010/why-i-switched-from-per-token-ai-billing-to-flat-rate-a-developers-honest-breakdown-37j6)
-- [The AI Agent Market Is Splitting in Two — And Most Builders Don&#39;t Realize It Yet](https://dev.to/alanmercer/the-ai-agent-market-is-splitting-in-two-and-most-builders-dont-realize-it-yet-2ba3)
-- [AI Coding Tools Have a Context Problem — Here&#39;s the Fix](https://dev.to/rapidkit/ai-coding-tools-have-a-context-problem-heres-the-fix-167i)
-- [The Planning Tax: Why Your AI Agent Feature Might Be Your Worst Investment](https://dev.to/cstefanache/the-planning-tax-why-your-ai-agent-feature-might-be-your-worst-investment-50d7)
+- [14 years at one company then laid off. The senior dev career trap nobody talks about.](https://dev.to/adioof/14-years-at-one-company-then-laid-off-the-senior-dev-career-trap-nobody-talks-about-4lfh)
+- [From 10 Failed Stacks to Production: How a Data Scientist Built a Job Board with Wasp, a Full-stack Framework for the Agentic Era](https://dev.to/wasp/from-10-failed-stacks-to-production-how-a-data-scientist-built-a-job-board-with-wasp-a-full-stack-5fmp)
+- [I brought KIOKU to Claude Desktop — one .mcpb drag, no Node setup](https://dev.to/megaphone/i-brought-kioku-to-claude-desktop-one-mcpb-drag-no-node-setup-1n8l)
+- [Stop Writing API Routes: Type-Safe Mutations with Next.js Server Actions ⚡](https://dev.to/iprajapatiparesh/stop-writing-api-routes-type-safe-mutations-with-nextjs-server-actions-30h4)
+- [Debugging BentoFX in MelodyMatrix with Matt Coley, Scenic View, and an Honest Look at AI-Generated Code](https://dev.to/fdelporte/debugging-bentofx-in-melodymatrix-with-matt-coley-scenic-view-and-an-honest-look-at-ai-generated-27c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
