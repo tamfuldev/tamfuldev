@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Subqueries vs. CTEs: A Guide to Writing Better Queries](https://dev.to/sharonnyabuto/sql-subqueries-vs-ctes-a-guide-to-writing-better-queries-1f44)
-- [Zustand: React State Management Without Providers or Reducers](https://dev.to/recca0120/zustand-react-state-management-without-providers-or-reducers-aek)
-- [Your C4 Diagrams Are Lying to You &lpar;And AI Coding Is Making It Worse&rpar;](https://dev.to/uxxu/your-c4-diagrams-are-lying-to-you-and-ai-coding-is-making-it-worse-2198)
-- [CachyOS Kernel 7.0 Review on Ryzen 5 5500U &lpar;Hyprland Performance Test&rpar;](https://dev.to/nishrico0098/cachyos-kernel-70-review-on-ryzen-5-5500u-hyprland-performance-test-2peh)
-- [How to Capture Console Errors and Network Requests in JavaScript](https://dev.to/issuecapture/how-to-capture-console-errors-and-network-requests-in-javascript-1jn6)
+- [The 57th Attempt: When Your &quot;Meta-Promotion&quot; Strategy Becomes the Main Product](https://dev.to/kevinten10/the-57th-attempt-when-your-meta-promotion-strategy-becomes-the-main-product-730)
+- [How I Started Thinking in SQL &lpar;Not Just Writing Queries&rpar;](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-started-thinking-in-sql-not-just-writing-queries-3cc7)
+- [🚀 Open Source: Svelte 5 + GSAP Creative Agency Template](https://dev.to/yusufcengiz/open-source-svelte-5-gsap-creative-agency-template-2e4i)
+- [Search Sofascore from Your Browser&#39;s Address Bar](https://dev.to/kkuj/search-sofascore-from-your-browsers-address-bar-56e0)
+- [Fundamentos de IA moderna: agentes, MCP, skills e orquestração](https://dev.to/mayzaynara/fundamentos-de-ia-moderna-agentes-mcp-skills-e-orquestracao-2136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
