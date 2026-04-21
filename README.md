@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura REST - Artigo de avaliação](https://dev.to/mateusinacion/arquitetura-rest-artigo-de-avaliacao-10kc)
-- [India Ramps Up Economic and Maritime Defences Amid West Asia Crisis](https://dev.to/vasupixel/india-ramps-up-economic-and-maritime-defences-amid-west-asia-crisis-3fc)
-- [From Paper Chaos to Paper Peace: How I Finally Tamed My Knowledge Hoarding Monster](https://dev.to/kevinten10/from-paper-chaos-to-paper-peace-how-i-finally-tamed-my-knowledge-hoarding-monster-1e51)
-- [What the agent stack is still missing](https://dev.to/xkumakichi/what-the-agent-stack-is-still-missing-3hcn)
-- [How Turbo 8 Morphing Makes Rails Frontend Development Feel Like Magic](https://dev.to/zilton7/how-turbo-8-morphing-makes-rails-frontend-development-feel-like-magic-am0)
+- [นอนไม่หลับ ข้อมูลหาย 8 กู้คืน และย้ายข้อมูล](https://dev.to/thanawat_wonchai/nnaimhlab-khmuulhaay-8-kuukhuuen-aelayaaykhmuul-b49)
+- [تشريح بنية بث الفيديو في نيويورك تايمز: بناء محرك استخراج عالي الأداء باستخدام HLS و FFmpeg](https://dev.to/yqqwe/tshryh-bny-bth-lfydyw-fy-nywywrk-tymz-bn-mhrk-stkhrj-ly-ld-bstkhdm-hls-w-ffmpeg-20cn)
+- [NYTimes वीडियो स्ट्रीमिंग का विश्लेषण: HLS और FFmpeg के साथ एक हाई-परफॉर्मेंस एक्सट्रैक्शन इंजन का निर्माण](https://dev.to/yqqwe/nytimes-viiddiyo-sttriiming-kaa-vishlessnn-hls-aur-ffmpeg-ke-saath-ek-haaii-prphonrmens-eksttraikshn-injn-kaa-2lfo)
+- [NYTimes Video Streaming Mimarisi: HLS ve FFmpeg ile Yüksek Performanslı Ekstraksiyon Motoru Oluşturmak](https://dev.to/yqqwe/nytimes-video-streaming-mimarisi-hls-ve-ffmpeg-ile-yuksek-performansli-ekstraksiyon-motoru-3fh6)
+- [How Jungle Grid handles the messy parts of GPU orchestration so you don&#39;t have to.](https://dev.to/benedict_dejaguarkyng_2/how-jungle-grid-handles-the-messy-parts-of-gpu-orchestration-so-you-dont-have-to-37lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
