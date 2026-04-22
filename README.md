@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Which Sandbox Should You Use for Your AI Agent?](https://dev.to/rednakta/which-sandbox-should-you-use-for-your-ai-agent-44j0)
-- [I put .dots. to End Comments](https://dev.to/framemuse/i-put-dots-to-end-comments-3235)
-- [How to Force AI to Write &quot;Awwwards-Style&quot; Minimalist UI in Next.js](https://dev.to/monu_kumar/how-to-force-ai-to-write-awwwards-style-minimalist-ui-in-nextjs-3mfm)
-- [The trap of &quot;I&#39;ll figure out the marketing later.&quot;](https://dev.to/entreel/the-trap-of-ill-figure-out-the-marketing-later-kom)
-- [How I built a free-forever iOS travel app with no backend, no analytics, and no ads &lpar;as a self-taught dev&rpar;](https://dev.to/kyotounknown/how-i-built-a-free-forever-ios-travel-app-with-no-backend-no-analytics-and-no-ads-as-a-2c9b)
+- [Kubernetes Is Not an LLM Security Boundary](https://dev.to/ntctech/kubernetes-is-not-an-llm-security-boundary-48d1)
+- [Building a coding course generator in public #2: what I learned](https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6)
+- [the model alone is not the agent. The harness plus the model is the agent.](https://dev.to/frank_brsrk/the-model-alone-is-not-the-agent-the-harness-plus-the-model-is-the-agent-2p29)
+- [SARIF: The Format That Connects Your AI Auditor to GitHub Code Scanning](https://dev.to/pavelespitia/sarif-the-format-that-connects-your-ai-auditor-to-github-code-scanning-311n)
+- [Introducing Lingo.dev v1.0](https://dev.to/lingodotdev/introducing-lingodev-v10-1ol4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
