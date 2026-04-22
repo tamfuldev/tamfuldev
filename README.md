@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sigstore Deep Dive: Unmasking the Magic Behind Keyless Verification](https://dev.to/kanywst/sigstore-deep-dive-unmasking-the-magic-behind-keyless-verification-lmh)
-- [Building Self-Improving AI Agents with React Three Fiber + pgvector](https://dev.to/abrahamcasanova/building-self-improving-ai-agents-with-react-three-fiber-pgvector-ege)
-- [Make It Easy to Work Hard](https://dev.to/ranjitshah79/make-it-easy-to-work-hard-2aa2)
-- [Memory management in Claude Code: Context Pipeline](https://dev.to/vilvaathibanpb/memory-management-in-claude-code-context-pipeline-1j1p)
-- [DevOps Practices for Operations Leaders by Pablo M. Rivera](https://dev.to/pablo_rivera_dd7e4dc0faeb/devops-practices-for-operations-leaders-by-pablo-m-rivera-2h79)
+- [Should we feel guilty for using AI?](https://dev.to/jertyuiop/should-we-feel-guilty-for-using-ai-2do8)
+- [Sibling Rivalry? How to Make Kestra Tasks Talk to Each Other](https://dev.to/kestra/sibling-rivalry-how-to-make-kestra-tasks-talk-to-each-other-15m5)
+- [I Built a Production-Ready useFetch Hook with TypeScript — Here&#39;s What I Learned &lpar;Full Source Code&rpar;](https://dev.to/kalaiarasan-dev/i-built-a-production-ready-usefetch-hook-with-typescript-heres-what-i-learned-full-source-code-19ie)
+- [SQL Index Tuning Tools: What Works and When to Use Them](https://dev.to/david_kaplunov_a521411a15/sql-index-tuning-tools-what-works-and-when-to-use-them-ijj)
+- [Change impact analysis is the silent time-sink in every medtech QMS](https://dev.to/priya_nair_ree/change-impact-analysis-is-the-silent-time-sink-in-every-medtech-qms-50bh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
