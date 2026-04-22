@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Is Not an LLM Security Boundary](https://dev.to/ntctech/kubernetes-is-not-an-llm-security-boundary-48d1)
-- [Building a coding course generator in public #2: what I learned](https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6)
-- [the model alone is not the agent. The harness plus the model is the agent.](https://dev.to/frank_brsrk/the-model-alone-is-not-the-agent-the-harness-plus-the-model-is-the-agent-2p29)
-- [SARIF: The Format That Connects Your AI Auditor to GitHub Code Scanning](https://dev.to/pavelespitia/sarif-the-format-that-connects-your-ai-auditor-to-github-code-scanning-311n)
-- [Introducing Lingo.dev v1.0](https://dev.to/lingodotdev/introducing-lingodev-v10-1ol4)
+- [Sigstore Deep Dive: Unmasking the Magic Behind Keyless Verification](https://dev.to/kanywst/sigstore-deep-dive-unmasking-the-magic-behind-keyless-verification-lmh)
+- [Building Self-Improving AI Agents with React Three Fiber + pgvector](https://dev.to/abrahamcasanova/building-self-improving-ai-agents-with-react-three-fiber-pgvector-ege)
+- [Make It Easy to Work Hard](https://dev.to/ranjitshah79/make-it-easy-to-work-hard-2aa2)
+- [Memory management in Claude Code: Context Pipeline](https://dev.to/vilvaathibanpb/memory-management-in-claude-code-context-pipeline-1j1p)
+- [DevOps Practices for Operations Leaders by Pablo M. Rivera](https://dev.to/pablo_rivera_dd7e4dc0faeb/devops-practices-for-operations-leaders-by-pablo-m-rivera-2h79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
