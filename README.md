@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How anagram solvers actually work: algorithms behind the scenes](https://dev.to/dean_gilley/how-anagram-solvers-actually-work-algorithms-behind-the-scenes-2hec)
-- [1 month, 276 visitors, 0 sales sales - what I learned building a React Native starter kit nobody asked for](https://dev.to/salgueirodev/1-month-276-visitors-0-sales-sales-what-i-learned-building-a-react-native-starter-kit-nobody-4dc8)
-- [The 58th Attempt: When Your &quot;Meta-Promotion&quot; Becomes Your Actual Product](https://dev.to/kevinten10/the-58th-attempt-when-your-meta-promotion-becomes-your-actual-product-1j1c)
-- [Dapper Has 464 Open Issues. I Had My pengdows.crud Codebase Audited Against Every One of Them.](https://dev.to/pengdows/dapper-has-464-open-issues-i-had-my-pengdowscrud-codebase-audited-against-every-one-of-them-25dk)
-- [Evaluating AI Tools for Research: A Framework for Accuracy, Bias, and Trustworthiness](https://dev.to/jasrandhawa/evaluating-ai-tools-for-research-a-framework-for-accuracy-bias-and-trustworthiness-g24)
+- [I lost a few thousand to an impersonation scam. So I built the tool I wished existed.](https://dev.to/talhamahmood666/i-lost-a-few-thousand-to-an-impersonation-scam-so-i-built-the-tool-i-wished-existed-f96)
+- [Terraform 1.14 — The Complete Guide to List Resources &lpar;.tfquery.hcl&rpar;, Actions Block, and `terraform query`: IaC&#39;s First Paradigm Shift in 5 Years](https://dev.to/x4nent/terraform-114-the-complete-guide-to-list-resources-tfqueryhcl-actions-block-and-terraform-350j)
+- [An open-source Proof of Concept for sub-microsecond Quantum Error Correction &lpar;QEC&rpar; pre-processing using Linux eBPF/XDP.](https://dev.to/cosmotheoros/an-open-source-proof-of-concept-for-sub-microsecond-quantum-error-correction-qec-pre-processing-1mnl)
+- [Your Health Data is Yours: Build a Fully Local AI Health Assistant with Llama 3 and MLX 🍏💻](https://dev.to/wellallytech/your-health-data-is-yours-build-a-fully-local-ai-health-assistant-with-llama-3-and-mlx-4cpe)
+- [I Got Tired of Class-Heavy UI Code — So I Kept Going &lpar;Juice Part 4&rpar;](https://dev.to/stinklewinks/i-got-tired-of-class-heavy-ui-code-so-i-kept-going-juice-part-4-4jf2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
