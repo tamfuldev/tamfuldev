@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Should we feel guilty for using AI?](https://dev.to/jertyuiop/should-we-feel-guilty-for-using-ai-2do8)
-- [Sibling Rivalry? How to Make Kestra Tasks Talk to Each Other](https://dev.to/kestra/sibling-rivalry-how-to-make-kestra-tasks-talk-to-each-other-15m5)
-- [I Built a Production-Ready useFetch Hook with TypeScript — Here&#39;s What I Learned &lpar;Full Source Code&rpar;](https://dev.to/kalaiarasan-dev/i-built-a-production-ready-usefetch-hook-with-typescript-heres-what-i-learned-full-source-code-19ie)
-- [SQL Index Tuning Tools: What Works and When to Use Them](https://dev.to/david_kaplunov_a521411a15/sql-index-tuning-tools-what-works-and-when-to-use-them-ijj)
-- [Change impact analysis is the silent time-sink in every medtech QMS](https://dev.to/priya_nair_ree/change-impact-analysis-is-the-silent-time-sink-in-every-medtech-qms-50bh)
+- [Understand the mechanism behind the api failing randomly](https://dev.to/kshitij_sharma_fd33fdb032/understand-the-mechanism-behind-the-api-failing-randomly-2mci)
+- [From Systems to Gameplay: Implementing the First Ability in UE5 &lpar;Animation Blending&rpar;](https://dev.to/domtechgaming/from-systems-to-gameplay-implementing-the-first-ability-in-ue5-animation-blending-11fm)
+- [When your Phoenix socket has no identity at all &lpar;and why that was the right call&rpar;](https://dev.to/wycliffogembo/when-your-phoenix-socket-has-no-identity-at-all-and-why-that-was-the-right-call-nm5)
+- [Zero-Code-Change Stacktrace Filtering for Spring Boot: An Infrastructure-Level Integration](https://dev.to/mgantman/zero-code-change-stacktrace-filtering-for-spring-boot-an-infrastructure-level-integration-3fk5)
+- [2026 Web Development Trends: AI, Performance &amp; WebAssembly Convergence](https://dev.to/elysiumquill/2026-web-development-trends-ai-performance-webassembly-convergence-3n1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
