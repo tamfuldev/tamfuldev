@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Autism and the &quot;genius&quot; effect](https://dev.to/raphink/autism-and-the-genius-effect-k86)
-- [The 4 Signals That Actually Predict Production Failures - Part 2](https://dev.to/gauravgaur/the-4-signals-that-actually-predict-production-failures-part-2-564c)
-- [The Hidden Tax of Infrastructure: Why Your Team Shouldn’t Be Running It Anymore](https://dev.to/manishmshiva/the-hidden-tax-of-infrastructure-why-your-team-shouldnt-be-running-it-anymore-5647)
-- [Power SEO Meta vs Next SEO: Which One Is Better for Next.js App Router in 2026?](https://dev.to/alamin60/power-seo-meta-vs-next-seo-which-one-is-better-for-nextjs-app-router-in-2026-25cd)
-- [What Developers Get Wrong About PSD2 and Payment Initiation](https://dev.to/mickyarun/what-developers-get-wrong-about-psd2-and-payment-initiation-2o3m)
+- [Deconstructing X &lpar;Twitter&rpar; Media Streaming: Building a High-Performance Video Extraction Engine](https://dev.to/yqqwe/deconstructing-x-twitter-media-streaming-building-a-high-performance-video-extraction-engine-282j)
+- [Giải mã kỹ thuật luồng phát trực tuyến của X &lpar;Twitter&rpar;: Xây dựng bộ máy tải video hiệu suất cao với HLS và FFmpeg](https://dev.to/yqqwe/giai-ma-ky-thuat-luong-phat-truc-tuyen-cua-x-twitter-xay-dung-bo-may-tai-video-hieu-suat-cao-voi-ig2)
+- [Why Your API Contract Breaks in Production &lpar;And How to Fix It in the Spec&rpar;](https://dev.to/guo_king_5d052f0d094fe6ca/why-your-api-contract-breaks-in-production-and-how-to-fix-it-in-the-spec-1kjh)
+- [เจาะลึกวิศวกรรมการสตรีมมิ่งของ X &lpar;Twitter&rpar;: การสร้างระบบดึงวิดีโอประสิทธิภาพสูงด้วย HLS และ FFmpeg](https://dev.to/yqqwe/ecchaaaluekwiswkrrmkaarstriimmingkhng-x-twitter-kaarsraangrabbduengwidiioprasiththiphaaphsuungdwy-hls-aela-ffmpeg-4gn3)
+- [X&lpar;Twitter&rpar; 미디어 스트리밍 분석: 고성능 비디오 파싱 엔진 구축과 기술적 도전 과제](https://dev.to/yqqwe/xtwitter-midieo-seuteuriming-bunseog-goseongneung-bidio-pasing-enjin-gucuggwa-gisuljeog-dojeon-gwaje-k9g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
