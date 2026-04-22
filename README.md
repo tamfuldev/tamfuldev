@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Modern Admin Dashboard with shadcn/ui in 2026](https://dev.to/ausrobdev/how-to-build-a-modern-admin-dashboard-with-shadcnui-in-2026-3477)
-- [Blockchain Innovations for the Decentralized Future: Tackling Core Technical Challenges in zkEVM and Distributed Systems](https://dev.to/endredanieldeak/blockchain-innovations-for-the-decentralized-future-tackling-core-technical-challenges-in-zkevm-4amn)
-- [Most SEO Audit Tools Are Broken for Modern Websites. Here’s How We Fixed It.](https://dev.to/cag1145/most-seo-audit-tools-are-broken-for-modern-websites-heres-how-we-fixed-it-1f71)
-- [PNG to JPG vs WebP: Which One Should You Actually Use in 2026](https://dev.to/samma1997/png-to-jpg-vs-webp-which-one-should-you-actually-use-in-2026-4o2m)
-- [Merge PDFs Privately: No Upload, No Adobe [2026 Guide]](https://dev.to/samma1997/merge-pdfs-privately-no-upload-no-adobe-2026-guide-15ll)
+- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
+- [Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/go-3oi2)
+- [Built Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/built-gova-a-declarative-gui-framework-for-go-48m6)
+- [A Practical Guide to AWS Solutions Architect Certification Training](https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk)
+- [My Junior Can Explain It. My Senior Can Defend It. The AI Just... Did It.](https://dev.to/jonoherrington/my-junior-can-explain-it-my-senior-can-defend-it-the-ai-just-did-it-40ip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
