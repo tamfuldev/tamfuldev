@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentforce Builder: Build Your First AI Agent](https://dev.to/dipojjal/agentforce-builder-build-your-first-ai-agent-apn)
-- [Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)
-- [I Built an AI Text Summarizer in One Night with Claude + Next.js](https://dev.to/yramstech/i-built-an-ai-text-summarizer-in-one-night-with-claude-nextjs-3p9)
-- [Our Lord of Lethality v1](https://dev.to/brianbot/our-lord-of-lethality-v1-1ele)
-- [تعلم Html](https://dev.to/__0a0cce4e1c2b76f0/tlm-html-84p)
+- [MiniScript Weekly News — April 22, 2026](https://dev.to/joestrout/miniscript-weekly-news-april-22-2026-3oep)
+- [EU AI Act Article 9: Risk Management for High-Risk AI Systems](https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-9-risk-management-for-high-risk-ai-systems-f6i)
+- [Effective On-Call Rotations: Lessons From Building Fair Schedules](https://dev.to/samson_tanimawo/effective-on-call-rotations-lessons-from-building-fair-schedules-4fbb)
+- [Salesforce Headless 360: Run Your CRM Without a Browser](https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4)
+- [Build a typed CLI from scratch with Commander.js + Zod](https://dev.to/f3rnox/build-a-typed-cli-from-scratch-with-commanderjs-zod-4oj6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
