@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understand the mechanism behind the api failing randomly](https://dev.to/kshitij_sharma_fd33fdb032/understand-the-mechanism-behind-the-api-failing-randomly-2mci)
-- [From Systems to Gameplay: Implementing the First Ability in UE5 &lpar;Animation Blending&rpar;](https://dev.to/domtechgaming/from-systems-to-gameplay-implementing-the-first-ability-in-ue5-animation-blending-11fm)
-- [When your Phoenix socket has no identity at all &lpar;and why that was the right call&rpar;](https://dev.to/wycliffogembo/when-your-phoenix-socket-has-no-identity-at-all-and-why-that-was-the-right-call-nm5)
-- [Zero-Code-Change Stacktrace Filtering for Spring Boot: An Infrastructure-Level Integration](https://dev.to/mgantman/zero-code-change-stacktrace-filtering-for-spring-boot-an-infrastructure-level-integration-3fk5)
-- [2026 Web Development Trends: AI, Performance &amp; WebAssembly Convergence](https://dev.to/elysiumquill/2026-web-development-trends-ai-performance-webassembly-convergence-3n1c)
+- [I Stopped Installing Qiskit to Understand Hadamard Gates](https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n)
+- [I lost all my Prompter scripts on a Friday. By Sunday, I&#39;d built PrompterKit.](https://dev.to/snapsynapse/i-lost-all-my-prompter-scripts-on-a-friday-by-sunday-id-built-prompterkit-g5o)
+- [ETL vs ELT: Which One Should You Use and Why](https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7)
+- [16 constitutional AI models built on a Chromebook](https://dev.to/scuradimensions/16-constitutional-ai-models-built-on-a-chromebook-1a9b)
+- [Hello World](https://dev.to/soohidden/hello-world-31jh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
