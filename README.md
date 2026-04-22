@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I lost a few thousand to an impersonation scam. So I built the tool I wished existed.](https://dev.to/talhamahmood666/i-lost-a-few-thousand-to-an-impersonation-scam-so-i-built-the-tool-i-wished-existed-f96)
-- [Terraform 1.14 — The Complete Guide to List Resources &lpar;.tfquery.hcl&rpar;, Actions Block, and `terraform query`: IaC&#39;s First Paradigm Shift in 5 Years](https://dev.to/x4nent/terraform-114-the-complete-guide-to-list-resources-tfqueryhcl-actions-block-and-terraform-350j)
-- [An open-source Proof of Concept for sub-microsecond Quantum Error Correction &lpar;QEC&rpar; pre-processing using Linux eBPF/XDP.](https://dev.to/cosmotheoros/an-open-source-proof-of-concept-for-sub-microsecond-quantum-error-correction-qec-pre-processing-1mnl)
-- [Your Health Data is Yours: Build a Fully Local AI Health Assistant with Llama 3 and MLX 🍏💻](https://dev.to/wellallytech/your-health-data-is-yours-build-a-fully-local-ai-health-assistant-with-llama-3-and-mlx-4cpe)
-- [I Got Tired of Class-Heavy UI Code — So I Kept Going &lpar;Juice Part 4&rpar;](https://dev.to/stinklewinks/i-got-tired-of-class-heavy-ui-code-so-i-kept-going-juice-part-4-4jf2)
+- [The Hidden Costs of AI in Production &lpar;And How Developers Can Reduce Them&rpar;](https://dev.to/eva_clari_289d85ecc68da48/the-hidden-costs-of-ai-in-production-and-how-developers-can-reduce-them-3714)
+- [How I Built Plausible Deniability Into a Browser Notepad](https://dev.to/flowdeskadmin/how-i-built-plausible-deniability-into-a-browser-notepad-56b)
+- [Why I Stopped Using useEffect &lpar;And You Should Too&rpar; 🚫⚛️](https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86)
+- [Day 2: Setting Up Your Bug Bounty Hacking Lab — Burp Suite, Firefox &amp; Your First Intercepted HTTP Request &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/day-2-setting-up-your-bug-bounty-hacking-lab-burp-suite-firefox-your-first-intercepted-http-322a)
+- [MCP is the authoring layer. Execution should cost zero tokens.](https://dev.to/leonting1010/mcp-is-the-authoring-layer-execution-should-cost-zero-tokens-4gdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
