@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deconstructing X &lpar;Twitter&rpar; Media Streaming: Building a High-Performance Video Extraction Engine](https://dev.to/yqqwe/deconstructing-x-twitter-media-streaming-building-a-high-performance-video-extraction-engine-282j)
-- [Giải mã kỹ thuật luồng phát trực tuyến của X &lpar;Twitter&rpar;: Xây dựng bộ máy tải video hiệu suất cao với HLS và FFmpeg](https://dev.to/yqqwe/giai-ma-ky-thuat-luong-phat-truc-tuyen-cua-x-twitter-xay-dung-bo-may-tai-video-hieu-suat-cao-voi-ig2)
-- [Why Your API Contract Breaks in Production &lpar;And How to Fix It in the Spec&rpar;](https://dev.to/guo_king_5d052f0d094fe6ca/why-your-api-contract-breaks-in-production-and-how-to-fix-it-in-the-spec-1kjh)
-- [เจาะลึกวิศวกรรมการสตรีมมิ่งของ X &lpar;Twitter&rpar;: การสร้างระบบดึงวิดีโอประสิทธิภาพสูงด้วย HLS และ FFmpeg](https://dev.to/yqqwe/ecchaaaluekwiswkrrmkaarstriimmingkhng-x-twitter-kaarsraangrabbduengwidiioprasiththiphaaphsuungdwy-hls-aela-ffmpeg-4gn3)
-- [X&lpar;Twitter&rpar; 미디어 스트리밍 분석: 고성능 비디오 파싱 엔진 구축과 기술적 도전 과제](https://dev.to/yqqwe/xtwitter-midieo-seuteuriming-bunseog-goseongneung-bidio-pasing-enjin-gucuggwa-gisuljeog-dojeon-gwaje-k9g)
+- [Enterprise AI Governance Has Shifted from Policy to Execution](https://dev.to/nagasatish_chilakamarti_2/enterprise-ai-governance-has-shifted-from-policy-to-execution-519i)
+- [WebSockets 101 for Laravel Developers: From Concept to Production on Deploynix](https://dev.to/deploynix/websockets-101-for-laravel-developers-from-concept-to-production-on-deploynix-15oo)
+- [Charting Query Results Without Leaving VS Code](https://dev.to/mike_burgh/charting-query-results-without-leaving-vs-code-21o9)
+- [Architecture vs Brute-Force: What I Learned Benchmarking KDFs for my Thesis](https://dev.to/treszyk/architecture-vs-brute-force-what-i-learned-benchmarking-kdfs-for-my-thesis-18bo)
+- [Do You Really Need WebSockets?](https://dev.to/prajwolshrestha/do-you-really-need-websockets-4ldf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
