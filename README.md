@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI Governance Has Shifted from Policy to Execution](https://dev.to/nagasatish_chilakamarti_2/enterprise-ai-governance-has-shifted-from-policy-to-execution-519i)
-- [WebSockets 101 for Laravel Developers: From Concept to Production on Deploynix](https://dev.to/deploynix/websockets-101-for-laravel-developers-from-concept-to-production-on-deploynix-15oo)
-- [Charting Query Results Without Leaving VS Code](https://dev.to/mike_burgh/charting-query-results-without-leaving-vs-code-21o9)
-- [Architecture vs Brute-Force: What I Learned Benchmarking KDFs for my Thesis](https://dev.to/treszyk/architecture-vs-brute-force-what-i-learned-benchmarking-kdfs-for-my-thesis-18bo)
-- [Do You Really Need WebSockets?](https://dev.to/prajwolshrestha/do-you-really-need-websockets-4ldf)
+- [Which Sandbox Should You Use for Your AI Agent?](https://dev.to/rednakta/which-sandbox-should-you-use-for-your-ai-agent-44j0)
+- [I put .dots. to End Comments](https://dev.to/framemuse/i-put-dots-to-end-comments-3235)
+- [How to Force AI to Write &quot;Awwwards-Style&quot; Minimalist UI in Next.js](https://dev.to/monu_kumar/how-to-force-ai-to-write-awwwards-style-minimalist-ui-in-nextjs-3mfm)
+- [The trap of &quot;I&#39;ll figure out the marketing later.&quot;](https://dev.to/entreel/the-trap-of-ill-figure-out-the-marketing-later-kom)
+- [How I built a free-forever iOS travel app with no backend, no analytics, and no ads &lpar;as a self-taught dev&rpar;](https://dev.to/kyotounknown/how-i-built-a-free-forever-ios-travel-app-with-no-backend-no-analytics-and-no-ads-as-a-2c9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
