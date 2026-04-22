@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Costs of AI in Production &lpar;And How Developers Can Reduce Them&rpar;](https://dev.to/eva_clari_289d85ecc68da48/the-hidden-costs-of-ai-in-production-and-how-developers-can-reduce-them-3714)
-- [How I Built Plausible Deniability Into a Browser Notepad](https://dev.to/flowdeskadmin/how-i-built-plausible-deniability-into-a-browser-notepad-56b)
-- [Why I Stopped Using useEffect &lpar;And You Should Too&rpar; 🚫⚛️](https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86)
-- [Day 2: Setting Up Your Bug Bounty Hacking Lab — Burp Suite, Firefox &amp; Your First Intercepted HTTP Request &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/day-2-setting-up-your-bug-bounty-hacking-lab-burp-suite-firefox-your-first-intercepted-http-322a)
-- [MCP is the authoring layer. Execution should cost zero tokens.](https://dev.to/leonting1010/mcp-is-the-authoring-layer-execution-should-cost-zero-tokens-4gdf)
+- [Autism and the &quot;genius&quot; effect](https://dev.to/raphink/autism-and-the-genius-effect-k86)
+- [The 4 Signals That Actually Predict Production Failures - Part 2](https://dev.to/gauravgaur/the-4-signals-that-actually-predict-production-failures-part-2-564c)
+- [The Hidden Tax of Infrastructure: Why Your Team Shouldn’t Be Running It Anymore](https://dev.to/manishmshiva/the-hidden-tax-of-infrastructure-why-your-team-shouldnt-be-running-it-anymore-5647)
+- [Power SEO Meta vs Next SEO: Which One Is Better for Next.js App Router in 2026?](https://dev.to/alamin60/power-seo-meta-vs-next-seo-which-one-is-better-for-nextjs-app-router-in-2026-25cd)
+- [What Developers Get Wrong About PSD2 and Payment Initiation](https://dev.to/mickyarun/what-developers-get-wrong-about-psd2-and-payment-initiation-2o3m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
