@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
-- [Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/go-3oi2)
-- [Built Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/built-gova-a-declarative-gui-framework-for-go-48m6)
-- [A Practical Guide to AWS Solutions Architect Certification Training](https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk)
-- [My Junior Can Explain It. My Senior Can Defend It. The AI Just... Did It.](https://dev.to/jonoherrington/my-junior-can-explain-it-my-senior-can-defend-it-the-ai-just-did-it-40ip)
+- [Agentforce Builder: Build Your First AI Agent](https://dev.to/dipojjal/agentforce-builder-build-your-first-ai-agent-apn)
+- [Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)
+- [I Built an AI Text Summarizer in One Night with Claude + Next.js](https://dev.to/yramstech/i-built-an-ai-text-summarizer-in-one-night-with-claude-nextjs-3p9)
+- [Our Lord of Lethality v1](https://dev.to/brianbot/our-lord-of-lethality-v1-1ele)
+- [تعلم Html](https://dev.to/__0a0cce4e1c2b76f0/tlm-html-84p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
