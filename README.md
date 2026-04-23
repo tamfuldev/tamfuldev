@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.5 vs Anthropic’s Methods Model vs Opus 4.7: What Actually Matters](https://dev.to/damogallagher/gpt-55-vs-anthropics-methods-model-vs-opus-47-what-actually-matters-2ic4)
-- [What&#39;s it like to build for an unreleased OS?](https://dev.to/mosesroth/whats-it-like-to-build-for-an-unreleased-os-1oba)
-- [How I built a tool that actually proves your backups work before you need them](https://dev.to/operadev/how-i-built-a-tool-that-actually-proves-your-backups-work-before-you-need-them-4nol)
-- [Your Virtual Threads Are Leaking: Why ScopedValue is the Only Way Forward](https://dev.to/vishalagg/your-virtual-threads-are-leaking-why-scopedvalue-is-the-only-way-forward-in-2025-pie)
-- [The Most Dangerous Designer at a Big Company Is the One Who Can Ship](https://dev.to/ling_zhou_cdd0792b313758c/the-most-dangerous-designer-at-a-big-company-is-the-one-who-can-ship-69b)
+- [How to get near-perfect, deterministic accuracy from your AI agents](https://dev.to/surrealdb/how-to-get-near-perfect-deterministic-accuracy-from-your-ai-agents-56ma)
+- [TestSprite — localized dev review with feedback](https://dev.to/sieok/testsprite-localized-dev-review-with-feedback-1dkf)
+- [How Google&#39;s Gemini Contribute to my Daily Activities](https://dev.to/johnboscoo66821/how-googles-gemini-contribute-to-my-daily-activities-2e4b)
+- [Beyond the Chatbot: Why Sovereign AI is the Only Path to Exponential Education](https://dev.to/avatar-alchemy/beyond-the-chatbot-why-sovereign-ai-is-the-only-path-to-exponential-education-365b)
+- [Créer un système d’authentification avec PHP et MySQL &lpar;étape par étape&rpar;](https://dev.to/hiba2007code/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-55m0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
