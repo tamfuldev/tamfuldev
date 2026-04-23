@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [bisql &lpar;Clojure Data Access Library&rpar; released v0.4.0: Support Malli Validation](https://dev.to/conpoi/bisql-clojure-data-access-library-released-v040-support-malli-validation-1o0o)
-- [Agent2Agent Protocol, IBM Vault, &amp; OAuth 2.0 On-Behalf-Of](https://dev.to/joatmon08/agent2agent-protocol-ibm-vault-oauth-20-on-behalf-of-1hba)
-- [The Sweet Lure of Prediction Arb: How I Tried to Speedrun a Rust Monitor &lpar;and Fried My Brain&rpar;](https://dev.to/solchekers/the-sweet-lure-of-prediction-arb-how-i-tried-to-speedrun-a-rust-monitor-and-fried-my-brain-37e0)
-- [5 Frontier Models Compared](https://dev.to/speedy_devv/5-frontier-models-compared-3mgb)
-- [AI Tweet Scheduler](https://dev.to/macraemyintminhein98/ai-tweet-scheduler-f8m)
+- [GPT-5.5 vs Anthropic’s Methods Model vs Opus 4.7: What Actually Matters](https://dev.to/damogallagher/gpt-55-vs-anthropics-methods-model-vs-opus-47-what-actually-matters-2ic4)
+- [What&#39;s it like to build for an unreleased OS?](https://dev.to/mosesroth/whats-it-like-to-build-for-an-unreleased-os-1oba)
+- [How I built a tool that actually proves your backups work before you need them](https://dev.to/operadev/how-i-built-a-tool-that-actually-proves-your-backups-work-before-you-need-them-4nol)
+- [Your Virtual Threads Are Leaking: Why ScopedValue is the Only Way Forward](https://dev.to/vishalagg/your-virtual-threads-are-leaking-why-scopedvalue-is-the-only-way-forward-in-2025-pie)
+- [The Most Dangerous Designer at a Big Company Is the One Who Can Ship](https://dev.to/ling_zhou_cdd0792b313758c/the-most-dangerous-designer-at-a-big-company-is-the-one-who-can-ship-69b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
