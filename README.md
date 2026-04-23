@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Solutions Architect Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-solutions-architect-associate-certification-journey-and-resources-to-certify-with-confidence-5h16)
-- [From Idea to Leads: How I Build Fast SEO-Ready Websites with Next.js](https://dev.to/fleddd/from-idea-to-leads-how-i-build-fast-seo-ready-websites-with-nextjs-2nme)
-- [Generating SBOM with Docker Scout](https://dev.to/docker/generating-sbom-with-docker-scout-27eg)
-- [How to Scrape LinkedIn Data: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-linkedin-data-complete-guide-for-2026-4kf0)
-- [Why Security Took Centre Stage at Google Cloud NEXT &#39;26](https://dev.to/aditya_kumar_ai00/why-security-took-centre-stage-at-google-cloud-next-26-1k9c)
+- [bisql &lpar;Clojure Data Access Library&rpar; released v0.4.0: Support Malli Validation](https://dev.to/conpoi/bisql-clojure-data-access-library-released-v040-support-malli-validation-1o0o)
+- [Agent2Agent Protocol, IBM Vault, &amp; OAuth 2.0 On-Behalf-Of](https://dev.to/joatmon08/agent2agent-protocol-ibm-vault-oauth-20-on-behalf-of-1hba)
+- [The Sweet Lure of Prediction Arb: How I Tried to Speedrun a Rust Monitor &lpar;and Fried My Brain&rpar;](https://dev.to/solchekers/the-sweet-lure-of-prediction-arb-how-i-tried-to-speedrun-a-rust-monitor-and-fried-my-brain-37e0)
+- [5 Frontier Models Compared](https://dev.to/speedy_devv/5-frontier-models-compared-3mgb)
+- [AI Tweet Scheduler](https://dev.to/macraemyintminhein98/ai-tweet-scheduler-f8m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
