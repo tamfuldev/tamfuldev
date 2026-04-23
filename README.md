@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Senior Python Challenges](https://dev.to/krun_pro/senior-python-challenges-4glb)
-- [Google Says AI Writes 75% Of New Code Now - Are We Still Programming Or Just Reviewing?](https://dev.to/dhruvjoshi9/google-says-ai-writes-75-of-new-code-now-are-we-still-programming-or-just-reviewing-45bg)
-- [##Building a Pricing Engine That Actually Works at Scale](https://dev.to/printo_tom/building-a-pricing-engine-that-actually-works-at-scale-486f)
-- [I Automated My Entire Link Management Workflow with a URL Shortener API — Here&#39;s How](https://dev.to/muhammad_jahangeershams/i-automated-my-entire-link-management-workflow-with-a-url-shortener-api-heres-how-10b4)
-- [How to Switch Microsoft 365 Tenant | A Scenario-Based Guide](https://dev.to/katherine_casey_dde9808c7/how-to-switch-microsoft-365-tenant-a-scenario-based-guide-4opk)
+- [Show Dev: I made a glassblowing sim you blow into](https://dev.to/jeanmmayer/show-dev-i-made-a-glassblowing-sim-you-blow-into-d0)
+- [Incident Communication: The Status Page That Builds Trust](https://dev.to/samson_tanimawo/incident-communication-the-status-page-that-builds-trust-4n2b)
+- [3 Ways Your AI Agent Can Alert You: Push, Telegram, and WalletConnect Notifications](https://dev.to/walletguy/3-ways-your-ai-agent-can-alert-you-push-telegram-and-walletconnect-notifications-5bc2)
+- [How I built an AI RAG system to convert PDF to Q&amp;As](https://dev.to/longtermemory/how-i-built-an-ai-rag-system-to-convert-pdf-to-qas-5cjd)
+- [The Struggle to Optimize the Performance of the NVIDIA Triton Inference Server Running on AWS ECS](https://dev.to/aws-builders/the-struggle-to-optimize-the-performance-of-the-nvidia-triton-inference-server-running-on-aws-ecs-42i3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
