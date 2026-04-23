@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to get near-perfect, deterministic accuracy from your AI agents](https://dev.to/surrealdb/how-to-get-near-perfect-deterministic-accuracy-from-your-ai-agents-56ma)
-- [TestSprite — localized dev review with feedback](https://dev.to/sieok/testsprite-localized-dev-review-with-feedback-1dkf)
-- [How Google&#39;s Gemini Contribute to my Daily Activities](https://dev.to/johnboscoo66821/how-googles-gemini-contribute-to-my-daily-activities-2e4b)
-- [Beyond the Chatbot: Why Sovereign AI is the Only Path to Exponential Education](https://dev.to/avatar-alchemy/beyond-the-chatbot-why-sovereign-ai-is-the-only-path-to-exponential-education-365b)
-- [Créer un système d’authentification avec PHP et MySQL &lpar;étape par étape&rpar;](https://dev.to/hiba2007code/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-55m0)
+- [From Chatbots to Coworkers: How Google Cloud NEXT ’26 Redefined Software as Agent Systems](https://dev.to/kanyingidickson-dev/from-chatbots-to-coworkers-how-google-cloud-next-26-redefined-software-as-agent-systems-1cfa)
+- [AWS vs GCP ตอนที่ 3: Organization &amp; User Management](https://dev.to/perajit/aws-vs-gcp-tnthii-3-organization-user-management-2omc)
+- [Giving Your Accounting App a Brain: NestJS &quot;MCP&quot;](https://dev.to/siren/giving-your-accounting-app-a-brain-nestjs-mcp-4nfc)
+- [Multi-step workflows que sobreviven fallos](https://dev.to/aws/multi-step-workflows-que-sobreviven-fallos-7ag)
+- [Cost-Effective Observability: The 80/20 Stack for Startups](https://dev.to/samson_tanimawo/cost-effective-observability-the-8020-stack-for-startups-1go7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
