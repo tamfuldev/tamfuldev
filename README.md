@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a 60-second reflection app that paints you a watercolor keepsake. Day 2 of the $50K MeDo hackathon.](https://dev.to/vineetnegi0101/i-built-a-60-second-reflection-app-that-paints-you-a-watercolor-keepsake-day-2-of-the-50k-medo-5065)
-- [Agents, context, and guardrails on a unified platform](https://dev.to/exemplar/agents-context-and-guardrails-on-a-unified-platform-3mg0)
-- [The AI-Native Database Nobody Told You About: 5 Hidden Uses of Infinity in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/the-ai-native-database-nobody-told-you-about-5-hidden-uses-of-infinity-in-2026-3l9j)
-- [I Built a Threading Engine - I Need Results &lpar;Feedback&rpar;](https://dev.to/tavari/i-built-a-threading-engine-i-need-results-feedback-4enf)
-- [66 Tokens Make a Diffusion Language Model Look Easy](https://dev.to/simon_paxton/66-tokens-make-a-diffusion-language-model-look-easy-4i5f)
+- [Building GDPR-Compliant APIs: Automated PII Detection with Python](https://dev.to/dave_sng_ec0ec8421d812d35/building-gdpr-compliant-apis-automated-pii-detection-with-python-2d4)
+- [The Real Reason Freelancers Waste Time &lpar;And How AI Is Changing That&rpar;](https://dev.to/mdrakibur179/the-real-reason-freelancers-waste-time-and-how-ai-is-changing-that-3cge)
+- [why you need hcl-linter?](https://dev.to/bard/why-you-need-hcl-linter-2c3j)
+- [I built Xyra, a desktop-style SSH/SFTP dashboard for managing Linux/VPS files from Windows](https://dev.to/mambuzrrr/i-built-xyra-a-desktop-style-sshsftp-dashboard-for-managing-linuxvps-files-from-windows-24do)
+- [The Meeting-Free Week: What Happened When Our Team Stopped Having Daily Standups](https://dev.to/kineticgoods/the-meeting-free-week-what-happened-when-our-team-stopped-having-daily-standups-3mhb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
