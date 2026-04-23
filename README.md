@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python CQRS: Building distributed systems without the pain &lpar;Sagas, Outbox, Event-Driven&rpar;](https://dev.to/vadikko2/python-cqrs-building-distributed-systems-without-the-pain-sagas-outbox-event-driven-5aog)
-- [De ticket a deploy sin tocar nada: cómo Claude Code orquesta mi flujo entero](https://dev.to/ayozebarrera/de-ticket-a-deploy-sin-tocar-nada-como-claude-code-orquesta-mi-flujo-entero-2kpm)
-- [I Built a 24/7 Freelance Operations Agent with OpenClaw — It Runs My Business While I Sleep](https://dev.to/farooqshabbir/i-built-a-247-freelance-operations-agent-with-openclaw-it-runs-my-business-while-i-sleep-4lde)
-- [10 Chunking Strategies That Make or Break Your RAG Pipeline](https://dev.to/klement_gunndu/10-chunking-strategies-that-make-or-break-your-rag-pipeline-4cng)
-- [How to Detect a User&#39;s Country and Currency from the IP in JavaScript](https://dev.to/mateen993/how-to-detect-a-users-country-and-currency-from-their-ip-in-javascript-3ijc)
+- [Senior Python Challenges](https://dev.to/krun_pro/senior-python-challenges-4glb)
+- [Google Says AI Writes 75% Of New Code Now - Are We Still Programming Or Just Reviewing?](https://dev.to/dhruvjoshi9/google-says-ai-writes-75-of-new-code-now-are-we-still-programming-or-just-reviewing-45bg)
+- [##Building a Pricing Engine That Actually Works at Scale](https://dev.to/printo_tom/building-a-pricing-engine-that-actually-works-at-scale-486f)
+- [I Automated My Entire Link Management Workflow with a URL Shortener API — Here&#39;s How](https://dev.to/muhammad_jahangeershams/i-automated-my-entire-link-management-workflow-with-a-url-shortener-api-heres-how-10b4)
+- [How to Switch Microsoft 365 Tenant | A Scenario-Based Guide](https://dev.to/katherine_casey_dde9808c7/how-to-switch-microsoft-365-tenant-a-scenario-based-guide-4opk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
