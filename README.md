@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Gemini API Challenge Lab on Vertex AI: Text, Function Calling &amp; Video Understanding](https://dev.to/willtorber/solving-the-gemini-api-challenge-lab-on-vertex-ai-text-function-calling-video-understanding-6pn)
-- [Open Brane Annotated: 8 Columns, 80-Line Write Path, One SQLite File](https://dev.to/connor_gallic/open-brane-annotated-8-columns-80-line-write-path-one-sqlite-file-43n3)
-- [Stop Setting Up Your Machine Like It&#39;s 2015](https://dev.to/elpic/stop-setting-up-your-machine-like-its-2015-lmg)
-- [Solana vs Cardano: Real Tradeoffs for 2026 Builders](https://dev.to/juan_diegoisazaa_5362a/solana-vs-cardano-real-tradeoffs-for-2026-builders-2o8c)
-- [Visible-Edge Card Carousel with Swiper &lpar;ArkUI&rpar; — prevMargin/nextMargin + Scale Transition](https://dev.to/harmonyos/visible-edge-card-carousel-with-swiper-arkui-prevmarginnextmargin-scale-transition-51a4)
+- [I built a 60-second reflection app that paints you a watercolor keepsake. Day 2 of the $50K MeDo hackathon.](https://dev.to/vineetnegi0101/i-built-a-60-second-reflection-app-that-paints-you-a-watercolor-keepsake-day-2-of-the-50k-medo-5065)
+- [Agents, context, and guardrails on a unified platform](https://dev.to/exemplar/agents-context-and-guardrails-on-a-unified-platform-3mg0)
+- [The AI-Native Database Nobody Told You About: 5 Hidden Uses of Infinity in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/the-ai-native-database-nobody-told-you-about-5-hidden-uses-of-infinity-in-2026-3l9j)
+- [I Built a Threading Engine - I Need Results &lpar;Feedback&rpar;](https://dev.to/tavari/i-built-a-threading-engine-i-need-results-feedback-4enf)
+- [66 Tokens Make a Diffusion Language Model Look Easy](https://dev.to/simon_paxton/66-tokens-make-a-diffusion-language-model-look-easy-4i5f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
