@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MiniScript Weekly News — April 22, 2026](https://dev.to/joestrout/miniscript-weekly-news-april-22-2026-3oep)
-- [EU AI Act Article 9: Risk Management for High-Risk AI Systems](https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-9-risk-management-for-high-risk-ai-systems-f6i)
-- [Effective On-Call Rotations: Lessons From Building Fair Schedules](https://dev.to/samson_tanimawo/effective-on-call-rotations-lessons-from-building-fair-schedules-4fbb)
-- [Salesforce Headless 360: Run Your CRM Without a Browser](https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4)
-- [Build a typed CLI from scratch with Commander.js + Zod](https://dev.to/f3rnox/build-a-typed-cli-from-scratch-with-commanderjs-zod-4oj6)
+- [Solving the Gemini API Challenge Lab on Vertex AI: Text, Function Calling &amp; Video Understanding](https://dev.to/willtorber/solving-the-gemini-api-challenge-lab-on-vertex-ai-text-function-calling-video-understanding-6pn)
+- [Open Brane Annotated: 8 Columns, 80-Line Write Path, One SQLite File](https://dev.to/connor_gallic/open-brane-annotated-8-columns-80-line-write-path-one-sqlite-file-43n3)
+- [Stop Setting Up Your Machine Like It&#39;s 2015](https://dev.to/elpic/stop-setting-up-your-machine-like-its-2015-lmg)
+- [Solana vs Cardano: Real Tradeoffs for 2026 Builders](https://dev.to/juan_diegoisazaa_5362a/solana-vs-cardano-real-tradeoffs-for-2026-builders-2o8c)
+- [Visible-Edge Card Carousel with Swiper &lpar;ArkUI&rpar; — prevMargin/nextMargin + Scale Transition](https://dev.to/harmonyos/visible-edge-card-carousel-with-swiper-arkui-prevmarginnextmargin-scale-transition-51a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
