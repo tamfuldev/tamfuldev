@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Attack Surface of Modern Cloud Apps in the Age of AI](https://dev.to/sreekari_m_eb6e870dcb8699/the-hidden-attack-surface-of-modern-cloud-apps-in-the-age-of-ai-2dj5)
-- [Graph Algorithms for Coding Interviews: When to Use BFS, DFS, or Dijkstra](https://dev.to/expora/graph-algorithms-for-coding-interviews-when-to-use-bfs-dfs-or-dijkstra-5b75)
-- [Port Exhaustion, Context Switching, and Why &quot;HttpClientFactory&quot; Exists &lpar;.NET&rpar;](https://dev.to/outdated-dev/port-exhaustion-context-switching-and-why-httpclientfactory-exists-net-2api)
-- [Microtasks: Why Promises Run First](https://dev.to/marshateo/microtasks-why-promises-run-first-4ba1)
-- [Claude Design is Replacing Designers?](https://dev.to/divyesh_vekariya/claude-design-is-replacing-designers-1hip)
+- [AWS Cognito Refused to Cooperate. So I Made Google and Cognito Think They&#39;re Talking to Each Other.&lpar;Nestjs&rpar;](https://dev.to/shubham_sharma_043/aws-cognito-refused-to-cooperate-so-i-made-google-and-cognito-think-theyre-talking-to-each-4478)
+- [I Backtested My Own GEX Product Across 8 Years of SPY. Most of It Is Just VIX.](https://dev.to/tomasz_dobrowolski_35d32c/i-backtested-my-own-gex-product-across-8-years-of-spy-most-of-it-is-just-vix-a53)
+- [AI Agent Networking in 2026: NAT Traversal, Encrypted Tunnels, and Why MCP Needs a Transport Layer](https://dev.to/artem_a/ai-agent-networking-in-2026-nat-traversal-encrypted-tunnels-and-why-mcp-needs-a-transport-layer-5hbm)
+- [The 2026 Junior Developer Survival Guide: 5 Skills That Actually Get You Hired [100555]](https://dev.to/elysiumquill/the-2026-junior-developer-survival-guide-5-skills-that-actually-get-you-hired-100555-3dig)
+- [Sovereign AI – Why Your Agents Should Run on Your Hardware](https://dev.to/highriseliving777/sovereign-ai-why-your-agents-should-run-on-your-hardware-486n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
