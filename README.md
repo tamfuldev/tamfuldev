@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building GDPR-Compliant APIs: Automated PII Detection with Python](https://dev.to/dave_sng_ec0ec8421d812d35/building-gdpr-compliant-apis-automated-pii-detection-with-python-2d4)
-- [The Real Reason Freelancers Waste Time &lpar;And How AI Is Changing That&rpar;](https://dev.to/mdrakibur179/the-real-reason-freelancers-waste-time-and-how-ai-is-changing-that-3cge)
-- [why you need hcl-linter?](https://dev.to/bard/why-you-need-hcl-linter-2c3j)
-- [I built Xyra, a desktop-style SSH/SFTP dashboard for managing Linux/VPS files from Windows](https://dev.to/mambuzrrr/i-built-xyra-a-desktop-style-sshsftp-dashboard-for-managing-linuxvps-files-from-windows-24do)
-- [The Meeting-Free Week: What Happened When Our Team Stopped Having Daily Standups](https://dev.to/kineticgoods/the-meeting-free-week-what-happened-when-our-team-stopped-having-daily-standups-3mhb)
+- [The Hidden Attack Surface of Modern Cloud Apps in the Age of AI](https://dev.to/sreekari_m_eb6e870dcb8699/the-hidden-attack-surface-of-modern-cloud-apps-in-the-age-of-ai-2dj5)
+- [Graph Algorithms for Coding Interviews: When to Use BFS, DFS, or Dijkstra](https://dev.to/expora/graph-algorithms-for-coding-interviews-when-to-use-bfs-dfs-or-dijkstra-5b75)
+- [Port Exhaustion, Context Switching, and Why &quot;HttpClientFactory&quot; Exists &lpar;.NET&rpar;](https://dev.to/outdated-dev/port-exhaustion-context-switching-and-why-httpclientfactory-exists-net-2api)
+- [Microtasks: Why Promises Run First](https://dev.to/marshateo/microtasks-why-promises-run-first-4ba1)
+- [Claude Design is Replacing Designers?](https://dev.to/divyesh_vekariya/claude-design-is-replacing-designers-1hip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
