@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Show Dev: I made a glassblowing sim you blow into](https://dev.to/jeanmmayer/show-dev-i-made-a-glassblowing-sim-you-blow-into-d0)
-- [Incident Communication: The Status Page That Builds Trust](https://dev.to/samson_tanimawo/incident-communication-the-status-page-that-builds-trust-4n2b)
-- [3 Ways Your AI Agent Can Alert You: Push, Telegram, and WalletConnect Notifications](https://dev.to/walletguy/3-ways-your-ai-agent-can-alert-you-push-telegram-and-walletconnect-notifications-5bc2)
-- [How I built an AI RAG system to convert PDF to Q&amp;As](https://dev.to/longtermemory/how-i-built-an-ai-rag-system-to-convert-pdf-to-qas-5cjd)
-- [The Struggle to Optimize the Performance of the NVIDIA Triton Inference Server Running on AWS ECS](https://dev.to/aws-builders/the-struggle-to-optimize-the-performance-of-the-nvidia-triton-inference-server-running-on-aws-ecs-42i3)
+- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
+- [Working with JSON in Python Explained Simply](https://dev.to/shahrouzlogs/working-with-json-in-python-explained-simply-o3d)
+- [Why I Stopped Using LangGraph](https://dev.to/deadlocker/why-i-stopped-using-langgraph-4jo2)
+- [If your refresh token gets stolen, rotation alone won&#39;t save you — here&#39;s what does](https://dev.to/kiwidevelopment/if-your-refresh-token-gets-stolen-rotation-alone-wont-save-you-heres-what-does-1f7n)
+- [Claude&#39;s Law](https://dev.to/solidi/claudes-law-1da7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
