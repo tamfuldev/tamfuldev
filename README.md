@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Your eBook Formatting: AI as Your Quality Assurance Partner](https://dev.to/ken_deng_ai/automating-your-ebook-formatting-ai-as-your-quality-assurance-partner-2djc)
-- [World Models?](https://dev.to/stepankukharskiy/world-models-15ed)
-- [El curso de Python en 9 horas: cómo pagar 50 pavos para que te tomen el pelo con cariño](https://dev.to/satandev/el-curso-de-python-en-9-horas-como-pagar-50-pavos-para-que-te-tomen-el-pelo-con-carino-4o03)
-- [26 Dark Jokes Google Cloud Next &#39;26 Told Me](https://dev.to/ggle_in/26-dark-jokes-google-cloud-next-26-told-me-138a)
-- [I Built a Fast JSON Viewer with Tree View, Search, and Zero Backend](https://dev.to/atul_sharma_b68672af40fc7/i-built-a-fast-json-viewer-with-tree-view-search-and-zero-backend-43nc)
+- [The 60th Attempt: When Your &quot;Knowledge Management&quot; System Becomes a Self-Fulfilling Prophecy of Mediocrity](https://dev.to/kevinten10/the-60th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-hcp)
+- [плавающее оглавление на solidjs](https://dev.to/scumdograscalhouse/plavaiushchieie-oghlavlieniie-na-solidjs-9ce)
+- [Frontend vs Backend: What Should You Learn First?](https://dev.to/pixel_mosaic/frontend-vs-backend-what-should-you-learn-first-3ahi)
+- [Cost Optimization Strategies for Databricks Workloads](https://dev.to/raghav_sharma_0c5d39f61a9/cost-optimization-strategies-for-databricks-workloads-5cm2)
+- [&quot;42% Silence&quot;: What It Means to Control Failure in AI Code Verification](https://dev.to/wintrover/42-silence-what-it-means-to-control-failure-in-ai-code-verification-1nip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
