@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Airflow Pipelines: From PythonOperator to TaskFlow](https://dev.to/anthony-gicheru/refactoring-airflow-pipelines-from-pythonoperator-to-taskflow-25mk)
-- [A simple graph &amp; chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
-- [Building a Gacha Tower Defense in Cocos Creator: Wave System, Merge Logic, and 28 Enemy Types](https://dev.to/imagebear/building-a-gacha-tower-defense-in-cocos-creator-wave-system-merge-logic-and-28-enemy-types-4hl5)
-- [Day 81 of #100DaysOfCode — Flask Forms](https://dev.to/m_saad_ahmad/day-80-of-100daysofcode-flask-forms-301b)
-- [I&#39;m Running Gemini as an Autonomous Coding Agent. Here&#39;s What It Can&#39;t Do and Which NEXT &#39;26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2)
+- [From seminary to python](https://dev.to/fredrick_miracho_499b706d/from-seminary-to-python-2d10)
+- [The 10-Layer Security System Your RAG Pipeline Is Missing](https://dev.to/klement_gunndu/the-10-layer-security-system-your-rag-pipeline-is-missing-4kl9)
+- [Kargo: The Missing Piece Between CI and ArgoCD](https://dev.to/szymon_4/kargo-the-missing-piece-between-ci-and-argocd-5g7h)
+- [Why Do We Need GraphRAG? — The Evolution from &quot;Search&quot; to &quot;Understanding&quot;](https://dev.to/eyanpen/why-do-we-need-graphrag-the-evolution-from-search-to-understanding-4die)
+- [Logic Mutations: The Bugs Your Tests Are Secretly Ignoring](https://dev.to/sdetcode/logic-mutations-the-bugs-your-tests-are-secretly-ignoring-3ci9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
