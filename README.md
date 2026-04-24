@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [lopdf vs pdfium in Rust — Why I Chose the Smaller One](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-why-i-chose-the-smaller-one-11pa)
-- [IPTV Systems Architecture: The Brutal Realities of Scaling](https://dev.to/jaksontate/iptv-systems-architecture-the-brutal-realities-of-scaling-4dpo)
-- [GPT-5.5 Is Out — What Makes It Different?](https://dev.to/jon_dabb441f4278b2d/gpt-55-is-out-what-makes-it-different-2apj)
-- [GPT-5.5 is here. So is DeepSeek V4. And honestly, I am tired of version numbers.](https://dev.to/theaiobserver/gpt-55-is-here-so-is-deepseek-v4-and-honestly-i-am-tired-of-version-numbers-1jdm)
-- [Why We Built a Docker Infrastructure Control Plane &lpar;and Why DevOps Is Still Too Fragmented&rpar;](https://dev.to/infrapilot/why-we-built-a-docker-infrastructure-control-plane-and-why-devops-is-still-too-fragmented-512k)
+- [Refactoring Airflow Pipelines: From PythonOperator to TaskFlow](https://dev.to/anthony-gicheru/refactoring-airflow-pipelines-from-pythonoperator-to-taskflow-25mk)
+- [A simple graph &amp; chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
+- [Building a Gacha Tower Defense in Cocos Creator: Wave System, Merge Logic, and 28 Enemy Types](https://dev.to/imagebear/building-a-gacha-tower-defense-in-cocos-creator-wave-system-merge-logic-and-28-enemy-types-4hl5)
+- [Day 81 of #100DaysOfCode — Flask Forms](https://dev.to/m_saad_ahmad/day-80-of-100daysofcode-flask-forms-301b)
+- [I&#39;m Running Gemini as an Autonomous Coding Agent. Here&#39;s What It Can&#39;t Do and Which NEXT &#39;26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
