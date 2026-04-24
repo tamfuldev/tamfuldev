@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The APIs No One Was Watching](https://dev.to/anugayan/the-apis-no-one-was-watching-3d21)
-- [I Let Claude Design My Homepage Hero and Shipped What It Built](https://dev.to/vientapps/i-let-claude-design-my-homepage-hero-and-shipped-what-it-built-1cdm)
-- [Shipping FreeSay to 2GB-RAM Phones: What We Cut, What We Kept](https://dev.to/fasterwork_270c527e9f/shipping-freesay-to-2gb-ram-phones-what-we-cut-what-we-kept-2oh2)
-- [Laravel Queue Architecture: Designing Background Work That Holds Up](https://dev.to/itxshakil/laravel-queue-architecture-designing-background-work-that-holds-up-h6e)
-- [React Flow Custom Nodes: The Future of Workflow Visualization for Modern SaaS Products](https://dev.to/azimahmed/react-flow-custom-nodes-the-future-of-workflow-visualization-for-modern-saas-products-2a9o)
+- [I built an AI-first territorial data registry for Corsica — here&#39;s why](https://dev.to/julien_paoli_15bf267bc036/i-built-an-ai-first-territorial-data-registry-for-corsica-heres-why-1go)
+- [Spread vs Rest Operators in JavaScript: Expand or Collect Like a Pro](https://dev.to/ritam369/spread-vs-rest-operators-in-javascript-expand-or-collect-like-a-pro-2mkj)
+- [YC CEO Rebuilt a $10M Startup in 3 Weeks: Why Your Agent Framework is Wrong](https://dev.to/hunter_g_50e2ec233acd07b5/yc-ceo-rebuilt-a-10m-startup-in-3-weeks-why-your-agent-framework-is-wrong-250o)
+- [How to Write Prompts When You’re Vibe Coding](https://dev.to/aichannode/how-to-write-prompts-when-youre-vibe-coding-32gb)
+- [NVIDIA Driver Setup on Fedora 43 Workstation](https://dev.to/kalpesh47/nvidia-driver-setup-on-fedora-43-workstation-53m0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
