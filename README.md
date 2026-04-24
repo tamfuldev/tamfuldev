@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Agent Memory That Doesn&#39;t Forget](https://dev.to/the_bookmaster/how-to-build-agent-memory-that-doesnt-forget-4li3)
-- [Things Developers Get Wrong About the Backend for Frontend Pattern](https://dev.to/auth0/things-developers-get-wrong-about-the-backend-for-frontend-pattern-10n1)
-- [PipeChecker: A local CI/CD auditor to catch circular deps, secrets, and unpinned tags before you push 🦀](https://dev.to/ayyankhan101/pipechecker-a-local-cicd-auditor-to-catch-circular-deps-secrets-and-unpinned-tags-before-you-1pk1)
-- [Helm](https://dev.to/omar_ahmed/helm-37k)
-- [Part 2: Snowflake Clone++: Repointing Database References and Recreating Streams](https://dev.to/swaroop_krishna_e2f4b83b2/part-2-snowflake-clone-repointing-database-references-and-recreating-streams-3f60)
+- [The APIs No One Was Watching](https://dev.to/anugayan/the-apis-no-one-was-watching-3d21)
+- [I Let Claude Design My Homepage Hero and Shipped What It Built](https://dev.to/vientapps/i-let-claude-design-my-homepage-hero-and-shipped-what-it-built-1cdm)
+- [Shipping FreeSay to 2GB-RAM Phones: What We Cut, What We Kept](https://dev.to/fasterwork_270c527e9f/shipping-freesay-to-2gb-ram-phones-what-we-cut-what-we-kept-2oh2)
+- [Laravel Queue Architecture: Designing Background Work That Holds Up](https://dev.to/itxshakil/laravel-queue-architecture-designing-background-work-that-holds-up-h6e)
+- [React Flow Custom Nodes: The Future of Workflow Visualization for Modern SaaS Products](https://dev.to/azimahmed/react-flow-custom-nodes-the-future-of-workflow-visualization-for-modern-saas-products-2a9o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
