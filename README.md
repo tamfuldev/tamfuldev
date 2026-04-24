@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inside React2Shell](https://dev.to/arasovic/notes-on-react2shell-52cg)
-- [Which AI Coding Tool Should You Choose? 2026 Comprehensive Comparison Guide](https://dev.to/xunxing_mao_fac71e331fd4b/which-ai-coding-tool-should-you-choose-2026-comprehensive-comparison-guide-2i3b)
-- [The AI didn&#39;t break our backend. It just stopped lying for us.](https://dev.to/_jesmoo/the-ai-didnt-break-our-backend-it-just-stopped-lying-for-us-mn3)
-- [I Built a Security Scanner That Audits PDFs Before You Send Them. Here&#39;s How. [Devlog #10]](https://dev.to/hiyoyok/i-built-a-security-scanner-that-audits-pdfs-before-you-send-them-heres-how-devlog-10-4bf3)
-- [Java Serialization: Gizli Təhlükə və Müasir Alternativlər](https://dev.to/hilalhilalli/java-serialization-gizli-thluk-v-muasir-alternativlr-368i)
+- [Automating Your eBook Formatting: AI as Your Quality Assurance Partner](https://dev.to/ken_deng_ai/automating-your-ebook-formatting-ai-as-your-quality-assurance-partner-2djc)
+- [World Models?](https://dev.to/stepankukharskiy/world-models-15ed)
+- [El curso de Python en 9 horas: cómo pagar 50 pavos para que te tomen el pelo con cariño](https://dev.to/satandev/el-curso-de-python-en-9-horas-como-pagar-50-pavos-para-que-te-tomen-el-pelo-con-carino-4o03)
+- [26 Dark Jokes Google Cloud Next &#39;26 Told Me](https://dev.to/ggle_in/26-dark-jokes-google-cloud-next-26-told-me-138a)
+- [I Built a Fast JSON Viewer with Tree View, Search, and Zero Backend](https://dev.to/atul_sharma_b68672af40fc7/i-built-a-fast-json-viewer-with-tree-view-search-and-zero-backend-43nc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
