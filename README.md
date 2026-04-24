@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why React Components Beat JS Wrappers in Performance](https://dev.to/mkozhukh/why-react-components-beat-js-wrappers-in-performance-3die)
-- [JavaScript Closures Explained: Why Your Functions Remember Everything](https://dev.to/yashkapure06/javascript-closures-explained-why-your-functions-remember-everything-5bl)
-- [Free LocalStack alternatives in 2026: fakecloud, MiniStack, floci, Moto](https://dev.to/vieiralucas/free-localstack-alternatives-in-2026-fakecloud-ministack-floci-moto-4h78)
-- [Build a Simple App That Connects to Midnight Lace Wallet](https://dev.to/midnight-aliit/build-a-simple-app-that-connects-to-midnight-lace-wallet-4682)
-- [QuecPython + sms: SMS Functionality](https://dev.to/quecpython/quecpython-sms-sms-functionality-58e5)
+- [How I hardened my multi-agent AI support copilot](https://dev.to/eelcolos/how-i-hardened-my-multi-agent-ai-support-copilot-15p7)
+- [How I Built an Automated JS/TS Repository Analyzer in C#](https://dev.to/davidarno/how-i-built-an-automated-jsts-repository-analyzer-in-c-2oai)
+- [RFC 9880 and the IoT Validation Problem: From Standards Fragmentation to a Device-Model Compiler](https://dev.to/stefanofago73/rfc-9880-and-the-iot-validation-problem-from-standards-fragmentation-to-a-device-model-compiler-106)
+- [Harness bugs, not model bugs](https://dev.to/thegatewayguy/harness-bugs-not-model-bugs-1f4e)
+- [docker80](https://dev.to/query_filter_591122b53770/docker80-41pf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
