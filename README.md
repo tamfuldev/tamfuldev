@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The 60th Attempt: When Your &quot;Knowledge Management&quot; System Becomes a Self-Fulfilling Prophecy of Mediocrity](https://dev.to/kevinten10/the-60th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-hcp)
-- [плавающее оглавление на solidjs](https://dev.to/scumdograscalhouse/plavaiushchieie-oghlavlieniie-na-solidjs-9ce)
-- [Frontend vs Backend: What Should You Learn First?](https://dev.to/pixel_mosaic/frontend-vs-backend-what-should-you-learn-first-3ahi)
-- [Cost Optimization Strategies for Databricks Workloads](https://dev.to/raghav_sharma_0c5d39f61a9/cost-optimization-strategies-for-databricks-workloads-5cm2)
-- [&quot;42% Silence&quot;: What It Means to Control Failure in AI Code Verification](https://dev.to/wintrover/42-silence-what-it-means-to-control-failure-in-ai-code-verification-1nip)
+- [lopdf vs pdfium in Rust — Why I Chose the Smaller One](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-why-i-chose-the-smaller-one-11pa)
+- [IPTV Systems Architecture: The Brutal Realities of Scaling](https://dev.to/jaksontate/iptv-systems-architecture-the-brutal-realities-of-scaling-4dpo)
+- [GPT-5.5 Is Out — What Makes It Different?](https://dev.to/jon_dabb441f4278b2d/gpt-55-is-out-what-makes-it-different-2apj)
+- [GPT-5.5 is here. So is DeepSeek V4. And honestly, I am tired of version numbers.](https://dev.to/theaiobserver/gpt-55-is-here-so-is-deepseek-v4-and-honestly-i-am-tired-of-version-numbers-1jdm)
+- [Why We Built a Docker Infrastructure Control Plane &lpar;and Why DevOps Is Still Too Fragmented&rpar;](https://dev.to/infrapilot/why-we-built-a-docker-infrastructure-control-plane-and-why-devops-is-still-too-fragmented-512k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
