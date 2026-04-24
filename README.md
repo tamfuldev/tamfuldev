@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From seminary to python](https://dev.to/fredrick_miracho_499b706d/from-seminary-to-python-2d10)
-- [The 10-Layer Security System Your RAG Pipeline Is Missing](https://dev.to/klement_gunndu/the-10-layer-security-system-your-rag-pipeline-is-missing-4kl9)
-- [Kargo: The Missing Piece Between CI and ArgoCD](https://dev.to/szymon_4/kargo-the-missing-piece-between-ci-and-argocd-5g7h)
-- [Why Do We Need GraphRAG? — The Evolution from &quot;Search&quot; to &quot;Understanding&quot;](https://dev.to/eyanpen/why-do-we-need-graphrag-the-evolution-from-search-to-understanding-4die)
-- [Logic Mutations: The Bugs Your Tests Are Secretly Ignoring](https://dev.to/sdetcode/logic-mutations-the-bugs-your-tests-are-secretly-ignoring-3ci9)
+- [Why React Components Beat JS Wrappers in Performance](https://dev.to/mkozhukh/why-react-components-beat-js-wrappers-in-performance-3die)
+- [JavaScript Closures Explained: Why Your Functions Remember Everything](https://dev.to/yashkapure06/javascript-closures-explained-why-your-functions-remember-everything-5bl)
+- [Free LocalStack alternatives in 2026: fakecloud, MiniStack, floci, Moto](https://dev.to/vieiralucas/free-localstack-alternatives-in-2026-fakecloud-ministack-floci-moto-4h78)
+- [Build a Simple App That Connects to Midnight Lace Wallet](https://dev.to/midnight-aliit/build-a-simple-app-that-connects-to-midnight-lace-wallet-4682)
+- [QuecPython + sms: SMS Functionality](https://dev.to/quecpython/quecpython-sms-sms-functionality-58e5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
