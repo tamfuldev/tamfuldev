@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chatbots to Coworkers: How Google Cloud NEXT ’26 Redefined Software as Agent Systems](https://dev.to/kanyingidickson-dev/from-chatbots-to-coworkers-how-google-cloud-next-26-redefined-software-as-agent-systems-1cfa)
-- [AWS vs GCP ตอนที่ 3: Organization &amp; User Management](https://dev.to/perajit/aws-vs-gcp-tnthii-3-organization-user-management-2omc)
-- [Giving Your Accounting App a Brain: NestJS &quot;MCP&quot;](https://dev.to/siren/giving-your-accounting-app-a-brain-nestjs-mcp-4nfc)
-- [Multi-step workflows que sobreviven fallos](https://dev.to/aws/multi-step-workflows-que-sobreviven-fallos-7ag)
-- [Cost-Effective Observability: The 80/20 Stack for Startups](https://dev.to/samson_tanimawo/cost-effective-observability-the-8020-stack-for-startups-1go7)
+- [Inside React2Shell](https://dev.to/arasovic/notes-on-react2shell-52cg)
+- [Which AI Coding Tool Should You Choose? 2026 Comprehensive Comparison Guide](https://dev.to/xunxing_mao_fac71e331fd4b/which-ai-coding-tool-should-you-choose-2026-comprehensive-comparison-guide-2i3b)
+- [The AI didn&#39;t break our backend. It just stopped lying for us.](https://dev.to/_jesmoo/the-ai-didnt-break-our-backend-it-just-stopped-lying-for-us-mn3)
+- [I Built a Security Scanner That Audits PDFs Before You Send Them. Here&#39;s How. [Devlog #10]](https://dev.to/hiyoyok/i-built-a-security-scanner-that-audits-pdfs-before-you-send-them-heres-how-devlog-10-4bf3)
+- [Java Serialization: Gizli Təhlükə və Müasir Alternativlər](https://dev.to/hilalhilalli/java-serialization-gizli-thluk-v-muasir-alternativlr-368i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
