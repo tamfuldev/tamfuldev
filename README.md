@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I hardened my multi-agent AI support copilot](https://dev.to/eelcolos/how-i-hardened-my-multi-agent-ai-support-copilot-15p7)
-- [How I Built an Automated JS/TS Repository Analyzer in C#](https://dev.to/davidarno/how-i-built-an-automated-jsts-repository-analyzer-in-c-2oai)
-- [RFC 9880 and the IoT Validation Problem: From Standards Fragmentation to a Device-Model Compiler](https://dev.to/stefanofago73/rfc-9880-and-the-iot-validation-problem-from-standards-fragmentation-to-a-device-model-compiler-106)
-- [Harness bugs, not model bugs](https://dev.to/thegatewayguy/harness-bugs-not-model-bugs-1f4e)
-- [docker80](https://dev.to/query_filter_591122b53770/docker80-41pf)
+- [How to Build Agent Memory That Doesn&#39;t Forget](https://dev.to/the_bookmaster/how-to-build-agent-memory-that-doesnt-forget-4li3)
+- [Things Developers Get Wrong About the Backend for Frontend Pattern](https://dev.to/auth0/things-developers-get-wrong-about-the-backend-for-frontend-pattern-10n1)
+- [PipeChecker: A local CI/CD auditor to catch circular deps, secrets, and unpinned tags before you push 🦀](https://dev.to/ayyankhan101/pipechecker-a-local-cicd-auditor-to-catch-circular-deps-secrets-and-unpinned-tags-before-you-1pk1)
+- [Helm](https://dev.to/omar_ahmed/helm-37k)
+- [Part 2: Snowflake Clone++: Repointing Database References and Recreating Streams](https://dev.to/swaroop_krishna_e2f4b83b2/part-2-snowflake-clone-repointing-database-references-and-recreating-streams-3f60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
