@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Blade&#39;s @context directive broke our JSON-LD](https://dev.to/gaijinanime_a0c580c5a205f/how-blades-context-directive-broke-our-json-ld-2976)
-- [AI Browser Automation Without BrowserBase: What We Built Instead](https://dev.to/refaatalktifan/ai-browser-automation-without-browserbase-what-we-built-instead-34p)
-- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
-- [MCP + gRPC: The Missing Piece for Production-Ready AI Agents &lpar;No More JSON Pain!&rpar;](https://dev.to/akshitzatakia/mcp-grpc-the-missing-piece-for-production-ready-ai-agents-no-more-json-pain-4gah)
-- [Your Solana Address Is Actually Your SSH Key: Understanding On-Chain Identity](https://dev.to/lymah/your-solana-address-is-actually-your-ssh-key-understanding-on-chain-identity-a7h)
+- [What if AI started in 2006?](https://dev.to/syedahmershah/what-if-ai-started-in-2006-8ig)
+- [From Netdata Inspiration to SaaS MVP: Server Monitoring with Bun + Claude Code Opus 4.6](https://dev.to/vitalii-nosov/from-netdata-inspiration-to-saas-mvp-server-monitoring-with-bun-claude-code-opus-46-4m66)
+- [The mid-level engineer is the real casualty of AI. Not the junior.](https://dev.to/adioof/the-mid-level-engineer-is-the-real-casualty-of-ai-not-the-junior-3oe1)
+- [What Actually Happens When a Query Hits Your WunderGraph Cosmo Supergraph](https://dev.to/jordan_sterchele/what-actually-happens-when-a-query-hits-your-wundergraph-cosmo-supergraph-5fm5)
+- [#1 DevLog Meta-research: I Got Tired of Tab Chaos While Reading Research Papers.](https://dev.to/arhamqureshi/1-devlog-meta-research-i-got-tired-of-tab-chaos-while-reading-research-papers-3alm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
