@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden 43% — How Teams Waste Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-waste-half-their-llm-api-budget-b8d)
-- [🧪 Selenium with Python: A Practical Cheat Sheet for Modern Test Automation](https://dev.to/gaya3bollineni/selenium-with-python-a-practical-cheat-sheet-for-modern-test-automation-57nf)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-29cf)
-- [Giving AI Agents Database Access Is Way Harder Than It Looks](https://dev.to/spencerpauly/giving-ai-agents-database-access-is-way-harder-than-it-looks-5akg)
-- [How Google Cloud NEXT &#39;26 Makes Building Full Stack Apps &lpar;Flutter + AI&rpar; Way Easier](https://dev.to/builddastaan/how-google-cloud-next-26-makes-building-full-stack-apps-flutter-ai-way-easier-3eh3)
+- [How to scrape RedNote &lpar;Xiaohongshu&rpar; with Python in 2026 — the auth/signing problem and how to handle it](https://dev.to/sami_8858131362756585e4f4/how-to-scrape-rednote-xiaohongshu-with-python-in-2026-the-authsigning-problem-and-how-to-3f9e)
+- [Top 3 AI Tools for Developers This Week](https://dev.to/learnairesource/top-3-ai-tools-for-developers-this-week-fjp)
+- [Azure Monitor: Deployment and Configuration](https://dev.to/pirrezz/azure-monitor-deployment-and-configuration-3mji)
+- [I Gave OpenClaw a Way to Bi-Directionally Communicate with other AI Tools and a Memory That All of them &lpar;10+&rpar; Can Read Simultaneously](https://dev.to/shawnsammartano/i-gave-openclaw-a-way-to-communicate-with-other-ai-tools-and-a-memory-that-all-of-them-11-can-3k99)
+- [Seeing Fast and Slow: Learning the Flow of Time in Videos](https://dev.to/xoqhdgh1002/seeing-fast-and-slow-learning-the-flow-of-time-in-videos-ec9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
