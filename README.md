@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code: Hooks, Subagents, and Skills — Complete Guide](https://dev.to/owen_fox/claude-code-hooks-subagents-and-skills-complete-guide-hjm)
-- [Setting Up Your First Azure Storage Account](https://dev.to/emmanuel_banjo_df6d8074c7/setting-up-your-first-azure-storage-account-3j64)
-- [I built a tool to stop metadata loss: IPMD &lpar;Image Pixel Metadata&rpar;](https://dev.to/officialkelechi001/i-built-a-tool-to-stop-metadata-loss-ipmd-image-pixel-metadata-1ccd)
-- [Finding the Gold: An AI Framework for Highlight Detection](https://dev.to/ken_deng_ai/finding-the-gold-an-ai-framework-for-highlight-detection-4mbc)
-- [Debugging AI Agents in Production: ADK+Gemini Cloud Assist | Google Cloud NEXT &#39;26](https://dev.to/hiruthicsha/debugging-ai-agents-in-production-adkgemini-cloud-assist-google-cloud-next-26-8j4)
+- [Offline React Native Apps: How to Cache Files That Must Open Without Network](https://dev.to/running_squirrel/offline-react-native-apps-how-to-cache-files-that-must-open-without-network-1ahn)
+- [Building Production-Ready NestJS Apps: Introducing Nestier - A Hexagonal Architecture Boilerplate](https://dev.to/abd3lli/building-production-ready-nestjs-apps-introducing-nestier-a-hexagonal-architecture-boilerplate-e53)
+- [How to Bulk Delete Your X &lpar;Twitter&rpar; History for Free &lpar;No API Keys Needed!&rpar;](https://dev.to/aero_2652cb6f79a5e07454ff/how-to-bulk-delete-your-x-twitter-history-for-free-no-api-keys-needed-4bb8)
+- [Why We Switched from Direct API Calls to Kafka and What Broke Along the Way](https://dev.to/shahzamandev/why-we-switched-from-direct-api-calls-to-kafka-and-what-broke-along-the-way-4ag5)
+- [I built Daymint instead of using Todoist + Habitica. Here&#39;s why.](https://dev.to/sourav_swain_bd37f04e91ca/i-built-daymint-instead-of-using-todoist-habitica-heres-why-19op)
 <!-- BLOG-POST-LIST:END -->
 
 ---
