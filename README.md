@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI won’t save a product that was never composable](https://dev.to/aiforwork/ai-wont-save-a-product-that-was-never-composable-3p5c)
-- [I Built a Glossary of LLM Terms That Actually Explains What They Change in Production](https://dev.to/tomerjann/i-built-a-glossary-of-llm-terms-that-actually-explains-what-they-change-in-production-53f1)
-- [I Built tmuxhop So I Could Keep Coding From the Toilet](https://dev.to/kavan_chan_769fdc127a7c76/i-built-tmuxhop-so-i-could-keep-coding-from-the-toilet-45dj)
-- [Run a Local LLM on Android: What RAM Tier You Need and Which Models Actually Work](https://dev.to/engineeredai/run-a-local-llm-on-android-what-ram-tier-you-need-and-which-models-actually-work-2nkp)
-- [I built a deep learning framework in Rust from scratch — Part 3: the road to crates.io](https://dev.to/xzdes/i-built-a-deep-learning-framework-in-rust-from-scratch-part-3-the-road-to-cratesio-jam)
+- [Claude Code: Hooks, Subagents, and Skills — Complete Guide](https://dev.to/owen_fox/claude-code-hooks-subagents-and-skills-complete-guide-hjm)
+- [Setting Up Your First Azure Storage Account](https://dev.to/emmanuel_banjo_df6d8074c7/setting-up-your-first-azure-storage-account-3j64)
+- [I built a tool to stop metadata loss: IPMD &lpar;Image Pixel Metadata&rpar;](https://dev.to/officialkelechi001/i-built-a-tool-to-stop-metadata-loss-ipmd-image-pixel-metadata-1ccd)
+- [Finding the Gold: An AI Framework for Highlight Detection](https://dev.to/ken_deng_ai/finding-the-gold-an-ai-framework-for-highlight-detection-4mbc)
+- [Debugging AI Agents in Production: ADK+Gemini Cloud Assist | Google Cloud NEXT &#39;26](https://dev.to/hiruthicsha/debugging-ai-agents-in-production-adkgemini-cloud-assist-google-cloud-next-26-8j4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
