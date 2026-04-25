@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Best Transactional Email Provider: How to Choose](https://dev.to/juan_diegoisazaa_5362a/best-transactional-email-provider-how-to-choose-3749)
-- [AeroCraft: Less CSS, Faster UI Delivery](https://dev.to/john_yaghobieh_8f294091f6/aerocraft-less-css-faster-ui-delivery-3043)
-- [Your Pipeline Is 14.2h Behind: Catching Blockchain Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-142h-behind-catching-blockchain-sentiment-leads-with-pulsebit-hll)
-- [From factory worker to 2,000+ installs - what actually worked](https://dev.to/mahere_marley_25462f7cf9e/from-factory-worker-to-2000-installs-what-actually-worked-4ng3)
-- [The AI Tool That Breached Vercel: A Case Study in Agent Trust Debt](https://dev.to/piiiico/the-ai-tool-that-breached-vercel-a-case-study-in-agent-trust-debt-19lg)
+- [Cancelé Claude: medí el deterioro de calidad con mis propios benchmarks antes de irme](https://dev.to/jtorchia/cancele-claude-medi-el-deterioro-de-calidad-con-mis-propios-benchmarks-antes-de-irme-11ca)
+- [etcd Is Your Kubernetes Database: What Breaks and What to Watch](https://dev.to/ntctech/etcd-is-your-kubernetes-database-what-breaks-and-what-to-watch-50i3)
+- [Introducing ExcaliClaw: A Skill for OpenClaw to Generate Excalidraw Diagrams](https://dev.to/nickytonline/introducing-excaliclaw-a-skill-for-openclaw-to-generate-excalidraw-diagrams-48k6)
+- [Quark&#39;s Outlines: Python Internal Types](https://dev.to/mike-vincent/quarks-outlines-python-internal-types-5581)
+- [The surprise AI bill problem is killing small products](https://dev.to/johns23424234324234/the-surprise-ai-bill-problem-is-killing-small-products-3298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
