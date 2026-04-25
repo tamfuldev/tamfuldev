@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What if AI started in 2006?](https://dev.to/syedahmershah/what-if-ai-started-in-2006-8ig)
-- [From Netdata Inspiration to SaaS MVP: Server Monitoring with Bun + Claude Code Opus 4.6](https://dev.to/vitalii-nosov/from-netdata-inspiration-to-saas-mvp-server-monitoring-with-bun-claude-code-opus-46-4m66)
-- [The mid-level engineer is the real casualty of AI. Not the junior.](https://dev.to/adioof/the-mid-level-engineer-is-the-real-casualty-of-ai-not-the-junior-3oe1)
-- [What Actually Happens When a Query Hits Your WunderGraph Cosmo Supergraph](https://dev.to/jordan_sterchele/what-actually-happens-when-a-query-hits-your-wundergraph-cosmo-supergraph-5fm5)
-- [#1 DevLog Meta-research: I Got Tired of Tab Chaos While Reading Research Papers.](https://dev.to/arhamqureshi/1-devlog-meta-research-i-got-tired-of-tab-chaos-while-reading-research-papers-3alm)
+- [I built a validated alternative to CLAUDE.md/AGENTS.MD — meet GUIDE.md](https://dev.to/prism_team_remyr/i-built-a-validated-alternative-to-claudemdagentsmd-meet-guidemd-5hmc)
+- [n8n vs Zapier vs Make: Which Automation Tool Should You Actually Use in 2026?](https://dev.to/tariq_osmani/n8n-vs-zapier-vs-make-which-automation-tool-should-you-actually-use-in-2026-531i)
+- [I Made My WhatsApp Predict When My Electricity Will Run Out with Openclaw](https://dev.to/lewisawe/i-made-my-whatsapp-predict-when-my-electricity-will-run-out-with-openclaw-48eh)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-582k)
+- [I Built an Open Source AI Platform to Manage My Diabetes](https://dev.to/jlengelbrecht/i-built-an-open-source-ai-platform-to-manage-my-diabetes-55kg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
