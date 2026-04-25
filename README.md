@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to scrape RedNote &lpar;Xiaohongshu&rpar; with Python in 2026 — the auth/signing problem and how to handle it](https://dev.to/sami_8858131362756585e4f4/how-to-scrape-rednote-xiaohongshu-with-python-in-2026-the-authsigning-problem-and-how-to-3f9e)
-- [Top 3 AI Tools for Developers This Week](https://dev.to/learnairesource/top-3-ai-tools-for-developers-this-week-fjp)
-- [Azure Monitor: Deployment and Configuration](https://dev.to/pirrezz/azure-monitor-deployment-and-configuration-3mji)
-- [I Gave OpenClaw a Way to Bi-Directionally Communicate with other AI Tools and a Memory That All of them &lpar;10+&rpar; Can Read Simultaneously](https://dev.to/shawnsammartano/i-gave-openclaw-a-way-to-communicate-with-other-ai-tools-and-a-memory-that-all-of-them-11-can-3k99)
-- [Seeing Fast and Slow: Learning the Flow of Time in Videos](https://dev.to/xoqhdgh1002/seeing-fast-and-slow-learning-the-flow-of-time-in-videos-ec9)
+- [Password Manager Comparison for VPN Privacy Setups](https://dev.to/juan_diegoisazaa_5362a/password-manager-comparison-for-vpn-privacy-setups-22f8)
+- [The Mind You Are Giving Away While Borrowing…](https://dev.to/jotham_zvikonyaukwa/the-mind-you-are-giving-away-while-borrowing-o27)
+- [GStack: Turn Claude Code Into a Full Engineering Team](https://dev.to/max_quimby/gstack-turn-claude-code-into-a-full-engineering-team-1c7e)
+- [My AI Agent Couldn&#39;t Tell Rain From Traffic — So I Gave It Eyes](https://dev.to/mindon/my-ai-agent-couldnt-tell-rain-from-traffic-so-i-gave-it-eyes-52hf)
+- [The Intention-Action Gap in Autonomous Agents](https://dev.to/the_bookmaster/the-intention-action-gap-in-autonomous-agents-15kj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
