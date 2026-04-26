@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Product Data Schema Has the Same Problem TCP/IP Solved in 1974](https://dev.to/bridgecomm_ai_e00a434b33e/your-product-data-schema-has-the-same-problem-tcpip-solved-in-1974-5aea)
-- [Microservices Aren&#39;t About Services](https://dev.to/neuraldownload/microservices-arent-about-services-2c2j)
-- [Anthropic Just Proved Agents Can Do Commerce. Here&#39;s What They Didn&#39;t Build.](https://dev.to/aaron_schnieder_4563d5d33/anthropic-just-proved-agents-can-do-commerce-heres-what-they-didnt-build-5209)
-- [Build a GST Invoice Generator in 80 Lines of Python](https://dev.to/automate-archit/build-a-gst-invoice-generator-in-80-lines-of-python-f0)
-- [Stich接入Codex教程](https://dev.to/gokuscraper/stichjie-ru-codexjiao-cheng-4kp6)
+- [Eight Years in FinTech. Zero Tools for Myself.](https://dev.to/aswin94/eight-years-in-fintech-zero-tools-for-myself-423n)
+- [Monitoring Claude Code/Cowork at scale with OTel in Elastic](https://dev.to/mark0_617b45cda9782a/monitoring-claude-codecowork-at-scale-with-otel-in-elastic-4kei)
+- [Learnings of the Poor](https://dev.to/wheynelau/learnings-of-the-poor-2086)
+- [LangChain Deep Research Retriever Pattern](https://dev.to/mario_wu_eeaee9e5d5c942b8/langchain-deep-research-retriever-pattern-33h7)
+- [Second Brain Method Explained for SaaS Productivity](https://dev.to/juan_diegoisazaa_5362a/second-brain-method-explained-for-saas-productivity-6pj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
