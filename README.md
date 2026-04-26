@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond New and Delete: Engineering Approach with gsl::owner, std::span and clang-tidy](https://dev.to/legacycpp/beyond-new-and-delete-engineering-approach-with-gslowner-stdspan-and-clang-tidy-27ob)
-- [Vertex AI Is Dead. Meet the Gemini Enterprise Agent Platform.](https://dev.to/rusilkoirala/googles-gemini-enterprise-agent-platform-heres-why-developers-should-care-36ee)
-- [Fixing My Laptop by Contributing to the Linux Kernel](https://dev.to/hridesh_mg/fixing-my-laptop-by-contributing-to-the-linux-kernel-232f)
-- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
-- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
+- [Template Literals in JavaScript](https://dev.to/satyasootar/template-literals-in-javascript-3c3p)
+- [Array Flatten in JavaScript](https://dev.to/satyasootar/array-flatten-in-javascript-12nk)
+- [I built a manifest standard for agent-callable CLI tools – 93.6% routing accuracy, zero fine-tuning](https://dev.to/jimmy660538/i-built-a-manifest-standard-for-agent-callable-cli-tools-936-routing-accuracy-zero-fine-tuning-56h6)
+- [How We Built CropGuard AI — Plant Disease Detection with Django, MongoDB Atlas and Deep Learning](https://dev.to/aakarsh_chimmani/how-we-built-cropguard-ai-plant-disease-detection-with-django-mongodb-atlas-and-deep-learning-1l2d)
+- [JavaScript Modules: Import and Export Explained](https://dev.to/satyasootar/javascript-modules-import-and-export-explained-9np)
 <!-- BLOG-POST-LIST:END -->
 
 ---
