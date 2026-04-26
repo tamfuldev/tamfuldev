@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication vs Authorization &lpar;Like I&#39;m 5 years Old&rpar;](https://dev.to/towernter/authentication-vs-authorization-like-im-5-years-old-538)
-- [Progflow now has a simple website](https://dev.to/dev_for55/-progflow-now-has-a-simple-website-16hp)
-- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 6: The Full Pipeline](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-6-the-full-pipeline-2kd2)
-- [CTF Writeup Silentium - HTB](https://dev.to/lewisawe/ctf-writeup-silentium-htb-536i)
-- [We Gave Our AI Agent a Memory. Here Is What Broke.](https://dev.to/vatryok/we-gave-our-ai-agent-a-memory-here-is-what-broke-3fef)
+- [Zero Budget SPA Prerendering: Cloudflare Workers, Puppeteer &amp; KV Storage](https://dev.to/raakesh_kripal_6233a79fd0/zero-budget-spa-prerendering-cloudflare-workers-puppeteer-kv-storage-2f11)
+- [Generate SEO Meta Tags for Any URL with One API Call](https://dev.to/mkiradani/generate-seo-meta-tags-for-any-url-with-one-api-call-2fag)
+- [Debugging Docker-Compose Configurations: Solving Common Issues Like a Pro](https://dev.to/kkmurthy/debugging-docker-compose-configurations-solving-common-issues-like-a-pro-5ceh)
+- [Building ASSISTLY: Integrating MongoDB into an AI Community Care Platform](https://dev.to/saimanoharigodavarty/building-assistly-integrating-mongodb-into-an-ai-community-care-platform-3ebi)
+- [LetsDefend SOC250 - APT35 HyperScrape Data Exfiltration Tool Detected](https://dev.to/hitanshugedam/letsdefend-soc250-apt35-hyperscrape-data-exfiltration-tool-detected-3c03)
 <!-- BLOG-POST-LIST:END -->
 
 ---
