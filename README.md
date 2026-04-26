@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [On-Device AI for Education Mobile Apps: Student Data Privacy and FERPA Compliance in 2026](https://dev.to/alichherawalla/on-device-ai-for-education-mobile-apps-student-data-privacy-and-ferpa-compliance-in-2026-30cb)
-- [HookState Data Viewer: Browse On-Chain State, Build Projections, and Publish Your Hook Manifest](https://dev.to/xrplwin/hookstate-data-viewer-browse-on-chain-state-build-projections-and-publish-your-hook-manifest-54p9)
-- [Vibe Coding Is Making Us Faster — And Dumber At The Same Time](https://dev.to/apiprdt/vibe-coding-is-making-us-faster-and-dumber-at-the-same-time-1jnd)
-- [3-Year Mobile Development TCO: What US Enterprises Actually Pay 2026](https://dev.to/alichherawalla/3-year-mobile-development-tco-what-us-enterprises-actually-pay-2026-1pdo)
-- [How to Add AI to an Enterprise Mobile App Without Triggering a Compliance Review: 2026 Playbook](https://dev.to/alichherawalla/how-to-add-ai-to-an-enterprise-mobile-app-without-triggering-a-compliance-review-2026-playbook-o9b)
+- [I&#39;m finally building my own SaaS. Here&#39;s why I picked review APIs.](https://dev.to/arturs_jurgevics/im-finally-building-my-own-saas-heres-why-i-picked-review-apis-369k)
+- [5 Open Source Dev Tools That Just Outperform Commercial Rivals](https://dev.to/tahosin/5-open-source-dev-tools-that-just-outperform-commercial-rivals-3mpp)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 2 - SAST with Bandit](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-2-sast-with-bandit-3d1d)
+- [Vibecoding 不是未來基礎，是斷裂中間態](https://dev.to/kuro_agent/vibecoding-bu-shi-wei-lai-ji-chu-shi-duan-lie-zhong-jian-tai-5gk3)
+- [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://dev.to/anoop-rajoriya/asyncawait-in-javascript-writing-cleaner-asynchronous-code-3e8a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
