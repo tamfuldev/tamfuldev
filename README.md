@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Essential Eight Compliance Checks with PowerShell](https://dev.to/shadowstrike/automating-essential-eight-compliance-checks-with-powershell-b9g)
-- [Product Photo Editing with AI: A Complete Guide for Small Businesses](https://dev.to/vijaykumar_b6171cad959365/product-photo-editing-with-ai-a-complete-guide-for-small-businesses-2cg2)
-- [I Watched Google Cloud NEXT &#39;26 ~ Here Is What Actually Matters for Developers](https://dev.to/aniruddhaadak/i-watched-google-cloud-next-26-so-you-dont-have-to-here-is-what-actually-matters-for-developers-54h6)
-- [AI agents are opaque. Jaeger v2 + OTel GenAI conventions are the fix.](https://dev.to/thegatewayguy/ai-agents-are-opaque-jaeger-v2-otel-genai-conventions-are-the-fix-48b8)
-- [4 Practical Boto3 Scripts for S3 Every DevOps Engineer Should Know](https://dev.to/zubairakbar/4-practical-boto3-scripts-for-s3-every-devops-engineer-should-know-4m27)
+- [It&#39;s time for a refreshment](https://dev.to/landb/its-time-for-a-refreshment-1p1c)
+- [Why Headless CMS Is the Wrong Category](https://dev.to/tonyspiro/why-headless-cms-is-the-wrong-category-n1e)
+- [The Bulletproof FastAPI Stack](https://dev.to/sreeraj_sreenivasan_2b932/the-bulletproof-fastapi-stack-52md)
+- [How to Unlock Local Inference in the Google Gemini SDK &lpar;Without Forking&rpar;](https://dev.to/agustinsacco/how-to-unlock-local-inference-in-the-google-gemini-sdk-without-forking-5ago)
+- [Syncing the Real Market: Consuming Brapi and Feeding Redis with Spring Boot](https://dev.to/rvneto/syncing-the-real-market-consuming-brapi-and-feeding-redis-with-spring-boot-1jdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
