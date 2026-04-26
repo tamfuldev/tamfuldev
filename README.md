@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, agents. This is how I stopped being afraid of you.](https://dev.to/billymcmonkeys/hello-agents-this-is-how-i-stopped-being-afraid-of-you-1gh8)
-- [Your First AI Patent Search: From Alibaba Idea to Risk Assessment in Minutes](https://dev.to/ken_deng_ai/your-first-ai-patent-search-from-alibaba-idea-to-risk-assessment-in-minutes-238c)
-- [End-to-end LSTM-based dialog control optimized with supervised and reinforcementlearning](https://dev.to/paperium/end-to-end-lstm-based-dialog-control-optimized-with-supervised-and-reinforcementlearning-1ob)
-- [Your Pipeline Is 23.3h Behind: Catching Tech Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-233h-behind-catching-tech-sentiment-leads-with-pulsebit-55fe)
-- [TestSprite — localized dev review with feedback](https://dev.to/sieok/testsprite-localized-dev-review-with-feedback-ja)
+- [Your Product Data Schema Has the Same Problem TCP/IP Solved in 1974](https://dev.to/bridgecomm_ai_e00a434b33e/your-product-data-schema-has-the-same-problem-tcpip-solved-in-1974-5aea)
+- [Microservices Aren&#39;t About Services](https://dev.to/neuraldownload/microservices-arent-about-services-2c2j)
+- [Anthropic Just Proved Agents Can Do Commerce. Here&#39;s What They Didn&#39;t Build.](https://dev.to/aaron_schnieder_4563d5d33/anthropic-just-proved-agents-can-do-commerce-heres-what-they-didnt-build-5209)
+- [Build a GST Invoice Generator in 80 Lines of Python](https://dev.to/automate-archit/build-a-gst-invoice-generator-in-80-lines-of-python-f0)
+- [Stich接入Codex教程](https://dev.to/gokuscraper/stichjie-ru-codexjiao-cheng-4kp6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
