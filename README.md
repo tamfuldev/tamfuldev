@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Agents Don&#39;t Understand Your Codebase. Here&#39;s What They Actually Do.](https://dev.to/stavkamil_73/coding-agents-dont-understand-your-codebase-heres-what-they-actually-do-12g2)
-- [From Vertex AI to Agent Platform: Why Google&#39;s Rebrand Is Actually a Philosophical Shift](https://dev.to/makendrang/from-vertex-ai-to-agent-platform-why-googles-rebrand-is-actually-a-philosophical-shift-17in)
-- [I Let Claude Choose My Tech Stack for 6 Months. Here’s What I Learned the Hard Way.](https://dev.to/manasscodes/i-let-claude-choose-my-tech-stack-for-6-months-heres-what-i-learned-the-hard-way-5049)
-- [Making Compression a Habit with zstd](https://dev.to/wheynelau/making-compression-a-habit-with-zstd-2gie)
-- [How to Build a SvelteKit SPA with FastAPI Backend](https://dev.to/tortoise62/how-to-build-a-sveltekit-spa-with-fastapi-backend-4p59)
+- [Backups Are Useless Until You Restore Them](https://dev.to/alzhi_f93e67fa45b972/backups-are-useless-until-you-restore-them-50do)
+- [Anthropic Gated Their Best Model to a 50-Company Consortium](https://dev.to/gabrielanhaia/anthropic-gated-their-best-model-to-a-50-company-consortium-2j6d)
+- [rabbitholes sends your highlights straight to Anthropic — no server in between](https://dev.to/palo_alto_ai/rabbitholes-sends-your-highlights-straight-to-anthropic-no-server-in-between-17l8)
+- [Independent Contractor vs Employee in 2026: The IRS 20-Factor Test Explained](https://dev.to/forms-legalcom/independent-contractor-vs-employee-in-2026-the-irs-20-factor-test-explained-4nhg)
+- [15 Essential Sections Every README Needs: Give Your Project What It Deserves](https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
