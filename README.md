@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Eight Years in FinTech. Zero Tools for Myself.](https://dev.to/aswin94/eight-years-in-fintech-zero-tools-for-myself-423n)
-- [Monitoring Claude Code/Cowork at scale with OTel in Elastic](https://dev.to/mark0_617b45cda9782a/monitoring-claude-codecowork-at-scale-with-otel-in-elastic-4kei)
-- [Learnings of the Poor](https://dev.to/wheynelau/learnings-of-the-poor-2086)
-- [LangChain Deep Research Retriever Pattern](https://dev.to/mario_wu_eeaee9e5d5c942b8/langchain-deep-research-retriever-pattern-33h7)
-- [Second Brain Method Explained for SaaS Productivity](https://dev.to/juan_diegoisazaa_5362a/second-brain-method-explained-for-saas-productivity-6pj)
+- [On-Device AI for Education Mobile Apps: Student Data Privacy and FERPA Compliance in 2026](https://dev.to/alichherawalla/on-device-ai-for-education-mobile-apps-student-data-privacy-and-ferpa-compliance-in-2026-30cb)
+- [HookState Data Viewer: Browse On-Chain State, Build Projections, and Publish Your Hook Manifest](https://dev.to/xrplwin/hookstate-data-viewer-browse-on-chain-state-build-projections-and-publish-your-hook-manifest-54p9)
+- [Vibe Coding Is Making Us Faster — And Dumber At The Same Time](https://dev.to/apiprdt/vibe-coding-is-making-us-faster-and-dumber-at-the-same-time-1jnd)
+- [3-Year Mobile Development TCO: What US Enterprises Actually Pay 2026](https://dev.to/alichherawalla/3-year-mobile-development-tco-what-us-enterprises-actually-pay-2026-1pdo)
+- [How to Add AI to an Enterprise Mobile App Without Triggering a Compliance Review: 2026 Playbook](https://dev.to/alichherawalla/how-to-add-ai-to-an-enterprise-mobile-app-without-triggering-a-compliance-review-2026-playbook-o9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
