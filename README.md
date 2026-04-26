@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code doesn&#39;t make your product better. It makes it bigger.](https://dev.to/adioof/claude-code-doesnt-make-your-product-better-it-makes-it-bigger-1pid)
-- [Day 83 of 100 Days Of Code — CRUD Backend + API Routes in Flask](https://dev.to/m_saad_ahmad/day-83-of-100-days-of-code-crud-backend-api-routes-in-flask-3369)
-- [OpenClaw - Here&#39;s the best setup guide you&#39;ll ever need.](https://dev.to/paimon_573760ccaa1b3492b4/openclaw-heres-the-best-setup-guide-youll-ever-need-23ee)
-- [Your Guide Into the Development World: A Roadmap for Absolute Beginners](https://dev.to/oketch/your-guide-into-the-development-world-a-roadmap-for-absolute-beginners-5fh6)
-- [ROAS 100% is not the breakeven point — what most ad reports get wrong](https://dev.to/toshihiro_shishido/roas-100-is-not-the-breakeven-point-what-most-ad-reports-get-wrong-2oed)
+- [Authentication vs Authorization &lpar;Like I&#39;m 5 years Old&rpar;](https://dev.to/towernter/authentication-vs-authorization-like-im-5-years-old-538)
+- [Progflow now has a simple website](https://dev.to/dev_for55/-progflow-now-has-a-simple-website-16hp)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 6: The Full Pipeline](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-6-the-full-pipeline-2kd2)
+- [CTF Writeup Silentium - HTB](https://dev.to/lewisawe/ctf-writeup-silentium-htb-536i)
+- [We Gave Our AI Agent a Memory. Here Is What Broke.](https://dev.to/vatryok/we-gave-our-ai-agent-a-memory-here-is-what-broke-3fef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
