@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Backups Are Useless Until You Restore Them](https://dev.to/alzhi_f93e67fa45b972/backups-are-useless-until-you-restore-them-50do)
-- [Anthropic Gated Their Best Model to a 50-Company Consortium](https://dev.to/gabrielanhaia/anthropic-gated-their-best-model-to-a-50-company-consortium-2j6d)
-- [rabbitholes sends your highlights straight to Anthropic — no server in between](https://dev.to/palo_alto_ai/rabbitholes-sends-your-highlights-straight-to-anthropic-no-server-in-between-17l8)
-- [Independent Contractor vs Employee in 2026: The IRS 20-Factor Test Explained](https://dev.to/forms-legalcom/independent-contractor-vs-employee-in-2026-the-irs-20-factor-test-explained-4nhg)
-- [15 Essential Sections Every README Needs: Give Your Project What It Deserves](https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie)
+- [Beyond New and Delete: Engineering Approach with gsl::owner, std::span and clang-tidy](https://dev.to/legacycpp/beyond-new-and-delete-engineering-approach-with-gslowner-stdspan-and-clang-tidy-27ob)
+- [Vertex AI Is Dead. Meet the Gemini Enterprise Agent Platform.](https://dev.to/rusilkoirala/googles-gemini-enterprise-agent-platform-heres-why-developers-should-care-36ee)
+- [Fixing My Laptop by Contributing to the Linux Kernel](https://dev.to/hridesh_mg/fixing-my-laptop-by-contributing-to-the-linux-kernel-232f)
+- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
+- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
