@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Brain Behind Intelligent AI: MongoDB Meets Zero-Shot Learning](https://dev.to/hasini_sivaram/the-brain-behind-intelligent-ai-mongodb-meets-zero-shot-learning-4c2c)
-- [The Properties Panel Provider Contract: What the Official Docs Leave Out](https://dev.to/samabaasi/the-properties-panel-provider-contract-what-the-official-docs-leave-out-16n2)
-- [My Friends Spent 14 Minutes Deciding Where to Go Train. A Wheel Spinner Fixed It in 3 Seconds.](https://dev.to/aralroca/my-friends-spent-14-minutes-deciding-where-to-go-train-a-wheel-spinner-fixed-it-in-3-seconds-5f50)
-- [Rewriting LinkaGoGo - my 25 year old Online Bookmark Manager](https://dev.to/hbroek/rewriting-linkagogo-my-25-year-old-online-bookmark-manager-25c9)
-- [Building PitchRoom: AI-Powered Script Discovery using Flask &amp; MongoDB Vector Search](https://dev.to/srilakshmi_amarawadhi/building-pitchroom-ai-powered-script-discovery-using-flask-mongodb-vector-search-4hec)
+- [Stripe Projects Partnership: Provision PlanetScale Postgres and MySQL Databases From the Stripe CLI](https://dev.to/planetscale/stripe-projects-partnership-provision-planetscale-postgres-and-mysql-databases-from-the-stripe-cli-2380)
+- [&quot;AI Coding Is Alchemy: A Late-Night Reflection from Fullmetal Alchemist&quot;](https://dev.to/_d3709cf9e80fc6babbff/ai-coding-is-alchemy-a-late-night-reflection-from-fullmetal-alchemist-2epd)
+- [Chaintip freshness cert: signed identity scores that age with the chain](https://dev.to/zekebuilds/chaintip-freshness-cert-signed-identity-scores-that-age-with-the-chain-1m2h)
+- [10 Simple DOM Questions](https://dev.to/athithya_sivasankarar/10-simple-dom-questions-4n5m)
+- [A single HTML file for architecture docs](https://dev.to/kat_laszlo/a-single-html-file-for-architecture-docs-3jkp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
