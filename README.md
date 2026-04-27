@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How an Unrelated App Broke Our Nx Deployment](https://dev.to/angojay/how-an-unrelated-app-broke-our-nx-deployment-42j5)
-- [War Story: We Migrated from Hugging Face Inference API to Self-Hosted LLMs and Cut Latency by 60%](https://dev.to/johalputt/war-story-we-migrated-from-hugging-face-inference-api-to-self-hosted-llms-and-cut-latency-by-60-kjb)
-- [Agents Don&#39;t Compensate, They Expose](https://dev.to/frudisch/agents-dont-compensate-they-expose-14o8)
-- [🚀 The End of the Memory Wall — And the Beginning of the Coordination Problem](https://dev.to/apurbalabs/the-end-of-the-memory-wall-and-the-beginning-of-the-coordination-problem-3dj3)
-- [Build an AI teammate to help with your Postgres](https://dev.to/reeshee/build-an-ai-teammate-to-help-with-your-postgres-5f99)
+- [Chapter 8: RMS Normalisation and Residual Connections](https://dev.to/garyljackson/chapter-8-rms-normalisation-and-residual-connections-225e)
+- [Building Better Software with AI Agents: Why Fundamentals Still Matter](https://dev.to/alex_metelli_f22d28dae8de/building-better-software-with-ai-agents-why-fundamentals-still-matter-22fd)
+- [The BEAM Is Not Like Other Runtimes &lpar;And That&#39;s Why Elixir Scales the Way It Does&rpar;](https://dev.to/shayan_holakouee/the-beam-is-not-like-other-runtimes-and-thats-why-elixir-scales-the-way-it-does-3199)
+- [The Anatomy of a Perfect AI Agent Task](https://dev.to/johnayoung/the-anatomy-of-a-perfect-ai-agent-task-4a2m)
+- [SLS vs FDM for Defence Prototyping: A Manufacturers Data-Driven Comparison](https://dev.to/autoabode/sls-vs-fdm-for-defence-prototyping-a-manufacturers-data-driven-comparison-59k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
