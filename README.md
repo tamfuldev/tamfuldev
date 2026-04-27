@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I can never find my best ChatGPT answers](https://dev.to/uchihaitachi0/why-i-can-never-find-my-best-chatgpt-answers-4jli)
-- [Breaking Down How the Lightning Network Works — It&#39;s Not Just Magic](https://dev.to/fiandev/breaking-down-how-the-lightning-network-works-its-not-just-magic-3gei)
-- [Bank Financial ERP: 20-Module Banking-Grade Enterprise System](https://dev.to/mominali/bank-financial-erp-20-module-banking-grade-enterprise-system-2dcf)
-- [Raspberry Pico: USB Hacking Device Programming](https://dev.to/admantium/rasperry-pico-usb-hacking-device-programming-3230)
-- [Most WebRTC Projects Don&#39;t Fail at Scale. They Fail at 300 Users.](https://dev.to/jackmorris10/most-webrtc-projects-dont-fail-at-scale-they-fail-at-300-users-45l3)
+- [Building Real-Time Chat That Doesn’t Break at Scale &lpar;and Actually Uses AI Properly&rpar;](https://dev.to/smartguy666/building-real-time-chat-that-doesnt-break-at-scale-and-actually-uses-ai-properly-3pd8)
+- [AI Form Builders Are Becoming Table Stakes. MCP Form Operations Are the Hard Part.](https://dev.to/lovanaut55/ai-form-builders-are-becoming-table-stakes-mcp-form-operations-are-the-hard-part-22ia)
+- [Immutability - Not a Universal Law but a Trade-off](https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-4lng)
+- [DS Express Errors &lpar;centralizing errors library&rpar; — v1.8.2 Release Notes March 15, 2026](https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v182-release-notes-march-15-2026-2e5m)
+- [Fonctionnement d’une blockchain 8/8 : Finalité &amp; confirmations](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-88-finalite-confirmations-44h4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
