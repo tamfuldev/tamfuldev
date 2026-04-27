@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive: How Rust 1.85&#39;s Lifetime Elision Reduces Boilerplate by 40%](https://dev.to/johalputt/deep-dive-how-rust-185s-lifetime-elision-reduces-boilerplate-by-40-10nj)
-- [Claude Strangelove or: How I Learned to Stop Worrying and Love Coding with AI](https://dev.to/jeffield/claude-strangelove-or-how-i-learned-to-stop-worrying-and-love-coding-with-ai-43m0)
-- [I added voice messages to my self-hosted AI agent, for free](https://dev.to/lucasnevespereira/i-added-voice-messages-to-my-self-hosted-ai-agent-for-free-7pc)
-- [Best Python Course 2026: How to Choose &lpar;and Win&rpar;](https://dev.to/juan_diegoisazaa_5362a/best-python-course-2026-how-to-choose-and-win-5gf9)
-- [DoorDash Pilots Stablecoin Payouts on Tempo](https://dev.to/tomwangcn/doordash-pilots-stablecoin-payouts-on-tempo-3fl7)
+- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
+- [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
+- [The Hub Pattern: Keeping Supabase Edge Functions Under 50](https://dev.to/kanta13jp1/the-hub-pattern-keeping-supabase-edge-functions-under-50-hn6)
+- [How to Minify JSON and Shrink Your API Payloads in Seconds](https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp)
+- [WBS + AI: How I Automated Task Management Across 12 Parallel AI Instances](https://dev.to/kanta13jp1/wbs-ai-how-i-automated-task-management-across-12-parallel-ai-instances-401i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
