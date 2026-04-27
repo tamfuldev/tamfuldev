@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Real-Time Chat That Doesn’t Break at Scale &lpar;and Actually Uses AI Properly&rpar;](https://dev.to/smartguy666/building-real-time-chat-that-doesnt-break-at-scale-and-actually-uses-ai-properly-3pd8)
-- [AI Form Builders Are Becoming Table Stakes. MCP Form Operations Are the Hard Part.](https://dev.to/lovanaut55/ai-form-builders-are-becoming-table-stakes-mcp-form-operations-are-the-hard-part-22ia)
-- [Immutability - Not a Universal Law but a Trade-off](https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-4lng)
-- [DS Express Errors &lpar;centralizing errors library&rpar; — v1.8.2 Release Notes March 15, 2026](https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v182-release-notes-march-15-2026-2e5m)
-- [Fonctionnement d’une blockchain 8/8 : Finalité &amp; confirmations](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-88-finalite-confirmations-44h4)
+- [Introduction to Modern Stealth Approaches&lpar;2026&rpar;](https://dev.to/moalimirinfinity/introduction-to-modern-stealth-approaches2026-34kd)
+- [I reviewed 20 SaaS landing pages. Here is top 10 UX mistakes killing your conversions](https://dev.to/niko_spectry/i-reviewed-20-saas-landing-pages-here-is-top-10-ux-mistakes-killing-your-conversions-1408)
+- [UTM parameters: how to use them correctly and the 4 patterns that break GA4 channel grouping](https://dev.to/toshihiro_shishido/utm-parameters-how-to-use-them-correctly-and-the-4-patterns-that-break-ga4-channel-grouping-21fp)
+- [I replaced 12 bookmarked tool sites with one I built myself](https://dev.to/anurag_bhattarai_7a4af243/i-replaced-12-bookmarked-tool-sites-with-one-i-built-myself-3c7p)
+- [Notion Custom Agents Paywall Starts Today — A Free Alternative That Runs All 6 Life Departments](https://dev.to/kanta13jp1/notion-custom-agents-paywall-starts-today-a-free-alternative-that-runs-all-6-life-departments-3alm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
