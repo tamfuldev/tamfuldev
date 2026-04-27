@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe Projects Partnership: Provision PlanetScale Postgres and MySQL Databases From the Stripe CLI](https://dev.to/planetscale/stripe-projects-partnership-provision-planetscale-postgres-and-mysql-databases-from-the-stripe-cli-2380)
-- [&quot;AI Coding Is Alchemy: A Late-Night Reflection from Fullmetal Alchemist&quot;](https://dev.to/_d3709cf9e80fc6babbff/ai-coding-is-alchemy-a-late-night-reflection-from-fullmetal-alchemist-2epd)
-- [Chaintip freshness cert: signed identity scores that age with the chain](https://dev.to/zekebuilds/chaintip-freshness-cert-signed-identity-scores-that-age-with-the-chain-1m2h)
-- [10 Simple DOM Questions](https://dev.to/athithya_sivasankarar/10-simple-dom-questions-4n5m)
-- [A single HTML file for architecture docs](https://dev.to/kat_laszlo/a-single-html-file-for-architecture-docs-3jkp)
+- [How an Unrelated App Broke Our Nx Deployment](https://dev.to/angojay/how-an-unrelated-app-broke-our-nx-deployment-42j5)
+- [War Story: We Migrated from Hugging Face Inference API to Self-Hosted LLMs and Cut Latency by 60%](https://dev.to/johalputt/war-story-we-migrated-from-hugging-face-inference-api-to-self-hosted-llms-and-cut-latency-by-60-kjb)
+- [Agents Don&#39;t Compensate, They Expose](https://dev.to/frudisch/agents-dont-compensate-they-expose-14o8)
+- [🚀 The End of the Memory Wall — And the Beginning of the Coordination Problem](https://dev.to/apurbalabs/the-end-of-the-memory-wall-and-the-beginning-of-the-coordination-problem-3dj3)
+- [Build an AI teammate to help with your Postgres](https://dev.to/reeshee/build-an-ai-teammate-to-help-with-your-postgres-5f99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
