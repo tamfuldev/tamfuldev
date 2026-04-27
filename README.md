@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Bill Is Too High. Here&#39;s How to Fix It &lpar;Part 1&rpar;](https://dev.to/zhang-liz/your-llm-bill-is-too-high-heres-how-to-fix-it-part-1-1in1)
-- [Most Flask Apps Miss This: Auditable Input Validation &amp; Detecting Unvalidated Routes](https://dev.to/blaine_wils_45095dc2c68f6/most-flask-apps-miss-this-auditable-input-validation-detecting-unvalidated-routes-5cjp)
-- [Microsoft 365 Copilot para developers en 2026, lo que de verdad podés construir](https://dev.to/carlosjcastrog/microsoft-365-copilot-para-developers-en-2026-lo-que-de-verdad-podes-construir-1886)
-- [ReactJs Performance ~ Database and API Optimization~](https://dev.to/kkr0423/reactjs-performance-database-and-api-optimization-39j5)
-- [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f)
+- [Why I can never find my best ChatGPT answers](https://dev.to/uchihaitachi0/why-i-can-never-find-my-best-chatgpt-answers-4jli)
+- [Breaking Down How the Lightning Network Works — It&#39;s Not Just Magic](https://dev.to/fiandev/breaking-down-how-the-lightning-network-works-its-not-just-magic-3gei)
+- [Bank Financial ERP: 20-Module Banking-Grade Enterprise System](https://dev.to/mominali/bank-financial-erp-20-module-banking-grade-enterprise-system-2dcf)
+- [Raspberry Pico: USB Hacking Device Programming](https://dev.to/admantium/rasperry-pico-usb-hacking-device-programming-3230)
+- [Most WebRTC Projects Don&#39;t Fail at Scale. They Fail at 300 Users.](https://dev.to/jackmorris10/most-webrtc-projects-dont-fail-at-scale-they-fail-at-300-users-45l3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
