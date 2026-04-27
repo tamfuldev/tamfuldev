@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s time for a refreshment](https://dev.to/landb/its-time-for-a-refreshment-1p1c)
-- [Why Headless CMS Is the Wrong Category](https://dev.to/tonyspiro/why-headless-cms-is-the-wrong-category-n1e)
-- [The Bulletproof FastAPI Stack](https://dev.to/sreeraj_sreenivasan_2b932/the-bulletproof-fastapi-stack-52md)
-- [How to Unlock Local Inference in the Google Gemini SDK &lpar;Without Forking&rpar;](https://dev.to/agustinsacco/how-to-unlock-local-inference-in-the-google-gemini-sdk-without-forking-5ago)
-- [Syncing the Real Market: Consuming Brapi and Feeding Redis with Spring Boot](https://dev.to/rvneto/syncing-the-real-market-consuming-brapi-and-feeding-redis-with-spring-boot-1jdm)
+- [Your LLM Bill Is Too High. Here&#39;s How to Fix It &lpar;Part 1&rpar;](https://dev.to/zhang-liz/your-llm-bill-is-too-high-heres-how-to-fix-it-part-1-1in1)
+- [Most Flask Apps Miss This: Auditable Input Validation &amp; Detecting Unvalidated Routes](https://dev.to/blaine_wils_45095dc2c68f6/most-flask-apps-miss-this-auditable-input-validation-detecting-unvalidated-routes-5cjp)
+- [Microsoft 365 Copilot para developers en 2026, lo que de verdad podés construir](https://dev.to/carlosjcastrog/microsoft-365-copilot-para-developers-en-2026-lo-que-de-verdad-podes-construir-1886)
+- [ReactJs Performance ~ Database and API Optimization~](https://dev.to/kkr0423/reactjs-performance-database-and-api-optimization-39j5)
+- [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
