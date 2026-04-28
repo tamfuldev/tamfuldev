@@ -6,11 +6,14 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Is Breaking Your API Security Model &lpar;And Nobody on Your Team Notices&rpar;](https://dev.to/martijn_mik_917c2ea0241de/why-ai-is-breaking-your-api-security-model-and-nobody-on-your-team-notices-5aoo)
-- [Every scanner checks what exists. Nobody checks what&#39;s missing](https://dev.to/bala_paranj_059d338e44e7e/every-scanner-checks-what-exists-nobody-checks-whats-missing-258e)
-- [Our Attention Span Is Now Shorter Than a Goldfish&#39;s. So I Built a Chrome Extension](https://dev.to/snowball0002/our-attention-span-is-now-shorter-than-a-goldfishs-so-i-built-a-chrome-extension-2pf)
-- [We Fixed Karpathy’s LLM Wiki - PENgram Is the Typed Knowledge Graph Pipeline Everyone Asked For](https://dev.to/penfieldlabs/we-fixed-karpathys-llm-wiki-pengram-is-the-typed-knowledge-graph-pipeline-everyone-asked-for-j3j)
-- [AI University: Turning 280 Competitors into a Content Strategy](https://dev.to/kanta13jp1/ai-university-turning-280-competitors-into-a-content-strategy-3ml6)
+- [From Pixels to Prescriptions: Engineering OCR Pipelines for Medical Report Simplification Using MongoDB](https://dev.to/k-deepak-544/from-pixels-to-prescriptions-engineering-ocr-pipelines-for-medical-report-simplification-using-oia)
+- [Building an Independent Internet: Mesh Network Experiments and the UDP 53 Hack](https://dev.to/fiandev/building-an-independent-internet-mesh-network-experiments-and-the-udp-53-hack-50d8)
+- [I replaced CAPTCHA with passive biometrics after AI hit 91% bypass rate — 7 biological signals, no puzzles, free tier](https://dev.to/rickardo_hudson_83429b764/i-replaced-captcha-with-passive-biometrics-after-ai-hit-91-bypass-rate-7-biological-signals-no-5aai)
+- [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8)
+- [You always hear someone say - you had to be there.
+But, yup - you had to be there to get the full experience!
+
+I found myself in the selfie shot so that was cool!](https://dev.to/xbill/you-always-hear-someone-say-you-had-to-be-there-but-yup-you-had-to-be-there-to-get-the-full-18i3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
