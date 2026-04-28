@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When NOT to use RAG &lpar;lessons from building a Claude-powered support bot&rpar;](https://dev.to/vitalii-nosov/when-not-to-use-rag-lessons-from-building-a-claude-powered-support-bot-433b)
-- [Top 7 Remote Job Boards for Software Engineers &lpar;No &quot;Fake Remote&quot; BS&rpar;](https://dev.to/danpoll/top-7-remote-job-boards-for-software-engineers-no-fake-remote-bs-1daa)
-- [Let the ORM fight begin!](https://dev.to/sebs/let-the-orm-fight-begin-392e)
-- [Cloudflare R2 vs S3 for VPS Hosting: Practical Tradeoffs](https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-for-vps-hosting-practical-tradeoffs-53be)
-- [From Beginner to Job Placement: My 6-Month Web Development Journey with Programming Hero](https://dev.to/lavib_uddin_ashik/from-beginner-to-job-placement-my-6-month-web-development-journey-with-programming-hero-4eo8)
+- [How to Use Cursor&#39;s Composer 2, Gemini, Grok &amp; More in Claude Code as Another Dev](https://dev.to/davidvesely/how-to-use-cursors-composer-2-gemini-grok-more-in-claude-code-as-another-dev-4cd1)
+- [Deep Dive: How React 19 Works in Browser Extensions with Content Scripts and Background Workers](https://dev.to/johalputt/deep-dive-how-react-19-works-in-browser-extensions-with-content-scripts-and-background-workers-13ki)
+- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-m3f)
+- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-50op)
+- [War Story: We Implemented SBOMs with Syft 0.10 and Cut Compliance Audit Time 60% for 500 Services](https://dev.to/johalputt/war-story-we-implemented-sboms-with-syft-010-and-cut-compliance-audit-time-60-for-500-services-2ce3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
