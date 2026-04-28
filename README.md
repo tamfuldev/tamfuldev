@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Develop a Pure PHP Face Recognition Application](https://dev.to/arshidkv12/develop-a-pure-php-face-recognition-application-313n)
-- [SHIFT: The Third Time I Tried Convergence](https://dev.to/marcoallegretti/shift-the-third-time-i-tried-convergence-3gpn)
-- [What Happens to Your Pipeline When the Source System Changes Without Warning](https://dev.to/andrew_tan_layline/what-happens-to-your-pipeline-when-the-source-system-changes-without-warning-2ld5)
-- [I Realized I Was Depending Too Much on AI](https://dev.to/jaideepparashar/i-realized-i-was-depending-too-much-on-ai-36mf)
-- [From Figma to Flutter: Designing a System That Scales Across 30 Apps](https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-flutter-designing-a-system-that-scales-across-30-apps-3431)
+- [From Theory to Practice: Implementing AI Screening for Literature Reviews](https://dev.to/ken_deng_ai/from-theory-to-practice-implementing-ai-screening-for-literature-reviews-19ka)
+- [How Blockchain Development Is Moving Beyond Hype and Becoming Real Infrastructure](https://dev.to/karen_ahangari/how-blockchain-development-is-moving-beyond-hype-and-becoming-real-infrastructure-2mco)
+- [This Free JS Docx Editor Impressed Me](https://dev.to/clangclang/this-free-js-docx-editor-impressed-me-2im7)
+- [Why You Should Use Istio 1.24 for All Production Service Meshes Over Linkerd 2.15](https://dev.to/johalputt/why-you-should-use-istio-124-for-all-production-service-meshes-over-linkerd-215-2l93)
+- [I Spent 45 Minutes Setting Up a Backend… Before Writing a Single Line of Logic](https://dev.to/rapidkit/i-spent-45-minutes-setting-up-a-backend-before-writing-a-single-line-of-logic-516o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
