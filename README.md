@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Theory to Practice: Implementing AI Screening for Literature Reviews](https://dev.to/ken_deng_ai/from-theory-to-practice-implementing-ai-screening-for-literature-reviews-19ka)
-- [How Blockchain Development Is Moving Beyond Hype and Becoming Real Infrastructure](https://dev.to/karen_ahangari/how-blockchain-development-is-moving-beyond-hype-and-becoming-real-infrastructure-2mco)
-- [This Free JS Docx Editor Impressed Me](https://dev.to/clangclang/this-free-js-docx-editor-impressed-me-2im7)
-- [Why You Should Use Istio 1.24 for All Production Service Meshes Over Linkerd 2.15](https://dev.to/johalputt/why-you-should-use-istio-124-for-all-production-service-meshes-over-linkerd-215-2l93)
-- [I Spent 45 Minutes Setting Up a Backend… Before Writing a Single Line of Logic](https://dev.to/rapidkit/i-spent-45-minutes-setting-up-a-backend-before-writing-a-single-line-of-logic-516o)
+- [Why AI Is Breaking Your API Security Model &lpar;And Nobody on Your Team Notices&rpar;](https://dev.to/martijn_mik_917c2ea0241de/why-ai-is-breaking-your-api-security-model-and-nobody-on-your-team-notices-5aoo)
+- [Every scanner checks what exists. Nobody checks what&#39;s missing](https://dev.to/bala_paranj_059d338e44e7e/every-scanner-checks-what-exists-nobody-checks-whats-missing-258e)
+- [Our Attention Span Is Now Shorter Than a Goldfish&#39;s. So I Built a Chrome Extension](https://dev.to/snowball0002/our-attention-span-is-now-shorter-than-a-goldfishs-so-i-built-a-chrome-extension-2pf)
+- [We Fixed Karpathy’s LLM Wiki - PENgram Is the Typed Knowledge Graph Pipeline Everyone Asked For](https://dev.to/penfieldlabs/we-fixed-karpathys-llm-wiki-pengram-is-the-typed-knowledge-graph-pipeline-everyone-asked-for-j3j)
+- [AI University: Turning 280 Competitors into a Content Strategy](https://dev.to/kanta13jp1/ai-university-turning-280-competitors-into-a-content-strategy-3ml6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
