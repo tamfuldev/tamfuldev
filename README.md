@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Agentic AI Applications: The Complete Engineering Guide](https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c)
-- [🚀 #09: Demystifying Reference Types](https://dev.to/hannalog/09-demystifying-reference-types-3f84)
-- [How to Clean Your Email List and Stop Burning Your Sender Reputation](https://dev.to/dev2studio/how-to-clean-your-email-list-and-stop-burning-your-sender-reputation-4a1n)
-- [I Built an SEO Tool — Google Ignored It Until I Fixed This](https://dev.to/teki_bhavanishankar_cfb5/googlebots-two-wave-rendering-why-your-js-app-is-invisible-to-search-1ndk)
-- [OpenAI and the New Cognitive Architecture of Software Repositories](https://dev.to/eleonorarocchi/openai-and-the-new-cognitive-architecture-of-software-repositories-383m)
+- [Develop a Pure PHP Face Recognition Application](https://dev.to/arshidkv12/develop-a-pure-php-face-recognition-application-313n)
+- [SHIFT: The Third Time I Tried Convergence](https://dev.to/marcoallegretti/shift-the-third-time-i-tried-convergence-3gpn)
+- [What Happens to Your Pipeline When the Source System Changes Without Warning](https://dev.to/andrew_tan_layline/what-happens-to-your-pipeline-when-the-source-system-changes-without-warning-2ld5)
+- [I Realized I Was Depending Too Much on AI](https://dev.to/jaideepparashar/i-realized-i-was-depending-too-much-on-ai-36mf)
+- [From Figma to Flutter: Designing a System That Scales Across 30 Apps](https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-flutter-designing-a-system-that-scales-across-30-apps-3431)
 <!-- BLOG-POST-LIST:END -->
 
 ---
