@@ -6,14 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Pixels to Prescriptions: Engineering OCR Pipelines for Medical Report Simplification Using MongoDB](https://dev.to/k-deepak-544/from-pixels-to-prescriptions-engineering-ocr-pipelines-for-medical-report-simplification-using-oia)
-- [Building an Independent Internet: Mesh Network Experiments and the UDP 53 Hack](https://dev.to/fiandev/building-an-independent-internet-mesh-network-experiments-and-the-udp-53-hack-50d8)
-- [I replaced CAPTCHA with passive biometrics after AI hit 91% bypass rate — 7 biological signals, no puzzles, free tier](https://dev.to/rickardo_hudson_83429b764/i-replaced-captcha-with-passive-biometrics-after-ai-hit-91-bypass-rate-7-biological-signals-no-5aai)
-- [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8)
-- [You always hear someone say - you had to be there.
-But, yup - you had to be there to get the full experience!
-
-I found myself in the selfie shot so that was cool!](https://dev.to/xbill/you-always-hear-someone-say-you-had-to-be-there-but-yup-you-had-to-be-there-to-get-the-full-18i3)
+- [When NOT to use RAG &lpar;lessons from building a Claude-powered support bot&rpar;](https://dev.to/vitalii-nosov/when-not-to-use-rag-lessons-from-building-a-claude-powered-support-bot-433b)
+- [Top 7 Remote Job Boards for Software Engineers &lpar;No &quot;Fake Remote&quot; BS&rpar;](https://dev.to/danpoll/top-7-remote-job-boards-for-software-engineers-no-fake-remote-bs-1daa)
+- [Let the ORM fight begin!](https://dev.to/sebs/let-the-orm-fight-begin-392e)
+- [Cloudflare R2 vs S3 for VPS Hosting: Practical Tradeoffs](https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-for-vps-hosting-practical-tradeoffs-53be)
+- [From Beginner to Job Placement: My 6-Month Web Development Journey with Programming Hero](https://dev.to/lavib_uddin_ashik/from-beginner-to-job-placement-my-6-month-web-development-journey-with-programming-hero-4eo8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
