@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. React Native: The difference, and which is best for you](https://dev.to/hugodev/react-vs-react-native-the-difference-and-which-is-best-for-you-4jm1)
-- [Why I Sign Every .exe With Sigstore - PC Workman v1.7.2 Release, Security-First Open Source](https://dev.to/huckler/why-i-sign-every-exe-with-sigstore-pc-workman-v172-release-security-first-open-source-4pfh)
-- [War Story: A Rust 1.94 Panic Caused Our API Gateway to Crash During Black Friday Traffic](https://dev.to/johalputt/war-story-a-rust-194-panic-caused-our-api-gateway-to-crash-during-black-friday-traffic-cnp)
-- [Your Engineers Aren&#39;t Slow. Your incident response is. Here&#39;s Where the First 20 Minutes Actually Go](https://dev.to/steadwing/your-engineers-arent-slow-your-incident-response-is-heres-where-the-first-20-minutes-actually-go-1911)
-- [Stack vs Heap: Be Sure You Know Where Your Variables Live](https://dev.to/neuraldownload/stack-vs-heap-be-sure-you-know-where-your-variables-live-5aec)
+- [🗓️ Monthly Dev Report: April 2026](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak)
+- [Tutorial: Build Long-Term Memory in AI Agents with LangGraph and Mem0](https://dev.to/digitalocean/tutorial-build-long-term-memory-in-ai-agents-with-langgraph-and-mem0-2ln1)
+- [Bonfire Sessions: Snuky&#39;s New Application Details Page](https://dev.to/crookse/bonfire-sessions-snukys-new-application-details-page-519j)
+- [AI vs. AI: Snuky’s New Look](https://dev.to/crookse/ai-vs-ai-snukys-new-look-3fg7)
+- [🔐 Android App Signing: Why the &quot;Keystore&quot; is Your Most Important File](https://dev.to/kenryikegbo/android-app-signing-why-the-keystore-is-your-most-important-file-38ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
