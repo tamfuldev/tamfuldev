@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
-- [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
-- [The Hub Pattern: Keeping Supabase Edge Functions Under 50](https://dev.to/kanta13jp1/the-hub-pattern-keeping-supabase-edge-functions-under-50-hn6)
-- [How to Minify JSON and Shrink Your API Payloads in Seconds](https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp)
-- [WBS + AI: How I Automated Task Management Across 12 Parallel AI Instances](https://dev.to/kanta13jp1/wbs-ai-how-i-automated-task-management-across-12-parallel-ai-instances-401i)
+- [The Database Bottleneck You Never Saw Coming: Why 50ms Will Make or Break Your AI Agent in 2026](https://dev.to/seekdb/the-database-bottleneck-you-never-saw-coming-why-50ms-will-make-or-break-your-ai-agent-in-2026-55ok)
+- [Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026](https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-4df2)
+- [JSONL Explained: The Line-by-Line Format Powering AI Datasets](https://dev.to/pioneer10/jsonl-explained-the-line-by-line-format-powering-ai-datasets-3op6)
+- [Why programming for the browser needs a different kind of language](https://dev.to/bryan_maclee/why-programming-for-the-browser-needs-a-different-kind-of-language-6m2)
+- [I Built Windows Desktop Apps to Fix My Own Annoying Workflows](https://dev.to/wpzstudio/i-built-windows-desktop-apps-to-fix-my-own-annoying-workflows-1k3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
