@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Database Bottleneck You Never Saw Coming: Why 50ms Will Make or Break Your AI Agent in 2026](https://dev.to/seekdb/the-database-bottleneck-you-never-saw-coming-why-50ms-will-make-or-break-your-ai-agent-in-2026-55ok)
-- [Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026](https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-4df2)
-- [JSONL Explained: The Line-by-Line Format Powering AI Datasets](https://dev.to/pioneer10/jsonl-explained-the-line-by-line-format-powering-ai-datasets-3op6)
-- [Why programming for the browser needs a different kind of language](https://dev.to/bryan_maclee/why-programming-for-the-browser-needs-a-different-kind-of-language-6m2)
-- [I Built Windows Desktop Apps to Fix My Own Annoying Workflows](https://dev.to/wpzstudio/i-built-windows-desktop-apps-to-fix-my-own-annoying-workflows-1k3g)
+- [Architecting Agentic AI Applications: The Complete Engineering Guide](https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c)
+- [🚀 #09: Demystifying Reference Types](https://dev.to/hannalog/09-demystifying-reference-types-3f84)
+- [How to Clean Your Email List and Stop Burning Your Sender Reputation](https://dev.to/dev2studio/how-to-clean-your-email-list-and-stop-burning-your-sender-reputation-4a1n)
+- [I Built an SEO Tool — Google Ignored It Until I Fixed This](https://dev.to/teki_bhavanishankar_cfb5/googlebots-two-wave-rendering-why-your-js-app-is-invisible-to-search-1ndk)
+- [OpenAI and the New Cognitive Architecture of Software Repositories](https://dev.to/eleonorarocchi/openai-and-the-new-cognitive-architecture-of-software-repositories-383m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
