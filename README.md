@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;](https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99)
-- [Creating and Configuring an Azure Storage Account for IT Teams](https://dev.to/dev_werne/creating-and-configuring-an-azure-storage-account-for-it-teams-33o9)
-- [How to Use Claude 3.5 Sonnet 2026-02 to Generate Tests for Python 3.13 Codebases](https://dev.to/johalputt/how-to-use-claude-35-sonnet-2026-02-to-generate-tests-for-python-313-codebases-5gn5)
-- [Real-Time Anomaly Detection Engine for a Cloud Storage Platform](https://dev.to/devopstimi/how-i-built-a-real-time-anomaly-detection-engine-for-a-cloud-storage-platform-30o3)
-- [I built Agent Shield an open-source traffic control layer for AI coding agents.](https://dev.to/vaad2/i-built-agent-shield-an-open-source-traffic-control-layer-for-ai-coding-agents-1pjd)
+- [React vs. React Native: The difference, and which is best for you](https://dev.to/hugodev/react-vs-react-native-the-difference-and-which-is-best-for-you-4jm1)
+- [Why I Sign Every .exe With Sigstore - PC Workman v1.7.2 Release, Security-First Open Source](https://dev.to/huckler/why-i-sign-every-exe-with-sigstore-pc-workman-v172-release-security-first-open-source-4pfh)
+- [War Story: A Rust 1.94 Panic Caused Our API Gateway to Crash During Black Friday Traffic](https://dev.to/johalputt/war-story-a-rust-194-panic-caused-our-api-gateway-to-crash-during-black-friday-traffic-cnp)
+- [Your Engineers Aren&#39;t Slow. Your incident response is. Here&#39;s Where the First 20 Minutes Actually Go](https://dev.to/steadwing/your-engineers-arent-slow-your-incident-response-is-heres-where-the-first-20-minutes-actually-go-1911)
+- [Stack vs Heap: Be Sure You Know Where Your Variables Live](https://dev.to/neuraldownload/stack-vs-heap-be-sure-you-know-where-your-variables-live-5aec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
