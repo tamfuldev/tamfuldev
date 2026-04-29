@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Research: Bifrost &lpar;Maxim AI / H3 Labs Inc.&rpar; – Why Its “Governance” Architecture Is a Single Point of Failure for Solo American Web Devs](https://dev.to/bradleymatera/research-bifrost-maxim-ai-h3-labs-inc-why-its-governance-architecture-is-a-single-point-2j43)
-- [Protect Your API Keys: Evaluating AI Tools Like Bifrost and Caveman](https://dev.to/bradleymatera/protect-your-api-keys-evaluating-ai-tools-like-bifrost-and-caveman-2op2)
-- [Research: Why Bifrost &lpar;Maxim AI / H3 Labs Inc.&rpar; Fits the Exact Pattern of API Key Harvesting Services Targeting American Indie Devs](https://dev.to/bradleymatera/research-why-bifrost-maxim-ai-h3-labs-inc-fits-the-exact-pattern-of-api-key-harvesting-2844)
-- [Warning: Bifrost from Maxim AI Is a Real API Key Harvesting Service Targeting American Web Devs &lpar;My Exact Experience&rpar;](https://dev.to/bradleymatera/warning-bifrost-from-maxim-ai-is-a-real-api-key-harvesting-service-targeting-american-web-devs-my-25nf)
-- [Desarrollo de Ambientes Virtuales de Aprendizaje en Unity](https://dev.to/kirkiku/desarrollo-de-ambientes-virtuales-de-aprendizaje-en-unity-2f8h)
+- [Building on Midnight with Windows — A Real Developer&#39;s WSL2 Setup Guide](https://dev.to/midnight-aliit/building-on-midnight-with-windows-a-real-developers-wsl2-setup-guide-om6)
+- [Move Over Python: PHP Is the Sleeping Giant of AI Agents](https://dev.to/zadro/move-over-python-php-is-the-sleeping-giant-of-ai-agents-577b)
+- [The Missing Link: Securing Gemini Agents with the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/milton_gardener_f38223d14/the-missing-link-securing-gemini-agents-with-the-model-context-protocol-mcp-12bj)
+- [Spec Driven Development: Build Software That Actually Does What You Promised](https://dev.to/jefferson_rosas/bbdbdb-431)
+- [Teaching Claude to Stop Reaching for git diff — git-prism v0.7.0](https://dev.to/mikelane/teaching-claude-to-stop-reaching-for-git-diff-git-prism-v070-4nel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
