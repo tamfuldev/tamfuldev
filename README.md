@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Agents SDK Tutorial: Build Multi-Agent AI Systems in Python &lpar;2025&rpar;](https://dev.to/akhileshpothuri/openai-agents-sdk-tutorial-build-multi-agent-ai-systems-in-python-2025-1pe5)
-- [Testing Godot Code Is Harder Than Testing a Webapp. Here&#39;s What Helps.](https://dev.to/ziva/testing-godot-code-is-harder-than-testing-a-webapp-heres-what-helps-5gb1)
-- [Understanding Windows Printing: From Legacy to Modern IPP](https://dev.to/johnmarion60/understanding-windows-printing-from-legacy-to-modern-ipp-1kcp)
-- [Vue vs. React: Which JavaScript UI framework is best?](https://dev.to/hugodev/vue-vs-react-which-javascript-ui-framework-is-best-1coc)
-- [How I Built an AI That Translates Code Between 27 Languages &lpar;Solo, No Budget&rpar;](https://dev.to/jeah84/how-i-built-an-ai-that-translates-code-between-27-languages-solo-no-budget-1ebp)
+- [Indie Dev ASO Complete Guide — Climbing App Store Rankings with Optimization](https://dev.to/kanta13jp1/indie-dev-aso-complete-guide-climbing-app-store-rankings-with-optimization-3089)
+- [Build Your First MCP Server in Python in 10 Minutes](https://dev.to/nebulagg/build-your-first-mcp-server-in-python-in-10-minutes-2eij)
+- [How to build a Salesforce governance framework from scratch](https://dev.to/orgdocdev/how-to-build-a-salesforce-governance-framework-from-scratch-66p)
+- [Common Salesforce admin mistakes that cost companies money](https://dev.to/orgdocdev/common-salesforce-admin-mistakes-that-cost-companies-money-511n)
+- [GitHub Star Growth: 9 Levers That Compound in 2026](https://dev.to/iris1031/github-star-growth-9-levers-that-compound-in-2026-15d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
