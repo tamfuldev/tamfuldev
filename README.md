@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up the perfect Claude Code environment in 2026](https://dev.to/david_bilsonn/setting-up-the-perfect-claude-code-environment-in-2026-3aio)
-- [Building a Local-First Task Manager with Next.js and React — Lessons from Planow](https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm)
-- [How Much VRAM Do You *Actually* Need for Local LLMs?](https://dev.to/thurmon_demich/how-much-vram-do-you-actually-need-for-local-llms-13i7)
-- [🔐 Implementing Least‑Privilege Access in Amazon EKS Using Kubernetes RBAC](https://dev.to/alok_shankar/implementing-least-privilege-access-in-amazon-eks-using-kubernetes-rbac-118i)
-- [Go Circuit Breakers That Fail Friendly: The 94% Cascade Prevention We Measured](https://dev.to/speed_engineer/go-circuit-breakers-that-fail-friendly-the-94-cascade-prevention-we-measured-5akj)
+- [Building a Local AI Agent &lpar;Part 1&rpar;: Six Technical Challenges](https://dev.to/flo1632/building-a-local-ai-agent-part-1-six-technical-challenges-424b)
+- [War Story: We Replaced AWS IAM with Vault 1.16 and Cut Our Permission Error Rate by 60% for 500+ Developers](https://dev.to/johalputt/war-story-we-replaced-aws-iam-with-vault-116-and-cut-our-permission-error-rate-by-60-for-500-5eam)
+- [Beyond configuration drift: how Barbacane reimagines the API gateway with Rust and WASM](https://dev.to/ndreno/beyond-configuration-drift-how-barbacane-reimagines-the-api-gateway-with-rust-and-wasm-god)
+- [Why Firestore Keeps Throwing “Missing Index” Errors — And How to Fix It Like an Engineer](https://dev.to/shantih_palani/why-firestore-keeps-throwing-missing-index-errors-and-how-to-fix-it-like-an-engineer-4m9k)
+- [How Lazarus Used AI Zoom Lures to Drain Wallets in 5 Minutes &lpar;and How to Stop It&rpar;](https://dev.to/rushanksavant/how-lazarus-used-ai-zoom-lures-to-drain-wallets-in-5-minutes-and-how-to-stop-it-36d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
