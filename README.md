@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI to Monitor Servers. Then I Built a Chaos Proxy to Break Them 💥](https://dev.to/ajayagrawal/i-built-an-ai-to-monitor-servers-then-i-built-a-chaos-proxy-to-break-them-pla)
-- [📝 Documentation-as-Code Has Silently Won For Tech Content](https://dev.to/zenika/documentation-as-code-has-silently-won-for-tech-content-e5o)
-- [The 3 things that break first when you integrate a gift card API](https://dev.to/dalia_gifq/the-3-things-that-break-first-when-you-integrate-a-gift-card-api-204h)
-- [Style HTML without writing a single class — introducing classless.css](https://dev.to/njbsaab/style-html-without-writing-a-single-class-introducing-classlesscss-4fcd)
-- [Dart FFI Advanced — C Library Integration, Memory Management, and Flutter Plugin](https://dev.to/kanta13jp1/dart-ffi-advanced-c-library-integration-memory-management-and-flutter-plugin-24fa)
+- [Goodhart’s law is ruining models, a call to &lpar;experienced&rpar; arms.](https://dev.to/justinschroeder/goodharts-law-is-ruining-models-a-call-to-experienced-arms-4lfa)
+- [I Scanned My MacBook and Found 127GB of Developer Junk. Here&#39;s What It Was](https://dev.to/nixeton/i-scanned-my-macbook-and-found-127gb-of-developer-junk-heres-what-it-was-12cf)
+- [How I Built a Vinted Scraper That Survives Datadome &lpar;and 26 Country Redirects&rpar;](https://dev.to/datakaz/how-i-built-a-vinted-scraper-that-survives-datadome-and-26-country-redirects-3gh4)
+- [I Built the First GTM-Native MCP Server — Here&#39;s What I Learned](https://dev.to/boissonneault/i-built-the-first-gtm-native-mcp-server-heres-what-i-learned-1mdi)
+- [I built a running app in 13 days because I kept quitting my training plans](https://dev.to/dev2681/13-days-y-kept-quitting-5ag9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
