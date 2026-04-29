@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local AI Agent &lpar;Part 1&rpar;: Six Technical Challenges](https://dev.to/flo1632/building-a-local-ai-agent-part-1-six-technical-challenges-424b)
-- [War Story: We Replaced AWS IAM with Vault 1.16 and Cut Our Permission Error Rate by 60% for 500+ Developers](https://dev.to/johalputt/war-story-we-replaced-aws-iam-with-vault-116-and-cut-our-permission-error-rate-by-60-for-500-5eam)
-- [Beyond configuration drift: how Barbacane reimagines the API gateway with Rust and WASM](https://dev.to/ndreno/beyond-configuration-drift-how-barbacane-reimagines-the-api-gateway-with-rust-and-wasm-god)
-- [Why Firestore Keeps Throwing “Missing Index” Errors — And How to Fix It Like an Engineer](https://dev.to/shantih_palani/why-firestore-keeps-throwing-missing-index-errors-and-how-to-fix-it-like-an-engineer-4m9k)
-- [How Lazarus Used AI Zoom Lures to Drain Wallets in 5 Minutes &lpar;and How to Stop It&rpar;](https://dev.to/rushanksavant/how-lazarus-used-ai-zoom-lures-to-drain-wallets-in-5-minutes-and-how-to-stop-it-36d2)
+- [Magento 2 AEO Guide: Make Your Store Visible in ChatGPT, Gemini and Perplexity &lpar;2026&rpar;](https://dev.to/angeo/magento-2-aeo-guide-make-your-store-visible-in-chatgpt-gemini-and-perplexity-2026-3mmo)
+- [&#39;AI Wrote It&#39; Is Just the New &#39;Steve Wrote It&#39;](https://dev.to/jonoherrington/ai-wrote-it-is-just-the-new-steve-wrote-it-44h6)
+- [The Token Tax: Why GenAI Billing Makes Minimalist Architecture Mandatory](https://dev.to/dmitryame/the-token-tax-why-genai-billing-makes-minimalist-architecture-mandatory-4fl2)
+- [TradingGoose-Market: canonical ticker identity across market data providers](https://dev.to/bwj2310/tradinggoose-market-canonical-ticker-identity-across-market-data-providers-31g)
+- [When a Tool becomes a GAP TRAP](https://dev.to/onceupontry/when-a-tool-becomes-a-gap-trap-jdb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
