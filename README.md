@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 6.0 Flash: Is the &quot;Speed vs Accuracy&quot; Trade-off Finally Dead?](https://dev.to/susantadeb2020/gemini-60-flash-is-the-speed-vs-accuracy-trade-off-finally-dead-4pjb)
-- [Building Your First Cybersecurity Tool with Spectator: A New Language for Pentesters](https://dev.to/czax225/building-your-first-cybersecurity-tool-with-spectator-a-new-language-for-pentesters-2fm9)
-- [No-Login Online Clipboard Sync: QR Pairing, Burn Mode, &lt;100ms—Built by a 3rd-Sem CS Student](https://dev.to/dhairya_darji_ff0fec19a28/no-login-online-clipboard-sync-qr-pairing-burn-mode-100ms-built-by-a-3rd-sem-cs-student-348b)
-- [Deep Dive: How JetBrains Fleet Indexes 1M Line Codebases with Rust 1.85 and Kotlin 2.0](https://dev.to/johalputt/deep-dive-how-jetbrains-fleet-indexes-1m-line-codebases-with-rust-185-and-kotlin-20-14h2)
-- [Xamarin to Flutter Migration in 2026: An Honest Guide for Teams Past EOL](https://dev.to/devang18/xamarin-to-flutter-migration-in-2026-an-honest-guide-for-teams-past-eol-3o4)
+- [The Accordion Pattern: Why I stopped writing one fat LLM prompt](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb)
+- [Flowise MCP RCE: What CVE-2026-40933 Teaches About Agent Security](https://dev.to/tokenmixai/flowise-mcp-rce-what-cve-2026-40933-teaches-about-agent-security-1p6g)
+- [I Built a Chrome Extension That Turns Long Articles Into Structured Notes, and It Taught Me Two Expensive Lessons](https://dev.to/indie_labs/i-built-a-chrome-extension-that-turns-long-articles-into-structured-notes-and-it-taught-me-two-4gc6)
+- [Caddy 2.8 vs Nginx 1.26: Static File Serving Speed Benchmark 2026](https://dev.to/johalputt/caddy-28-vs-nginx-126-static-file-serving-speed-benchmark-2026-2o1e)
+- [SLSA Provenance Hands-on: Generate with GitHub Actions, Verify with slsa-verifier](https://dev.to/kanywst/slsa-provenance-hands-on-generate-with-github-actions-verify-with-slsa-verifier-56ka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
