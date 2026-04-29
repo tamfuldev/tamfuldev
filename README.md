@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Goodhart’s law is ruining models, a call to &lpar;experienced&rpar; arms.](https://dev.to/justinschroeder/goodharts-law-is-ruining-models-a-call-to-experienced-arms-4lfa)
-- [I Scanned My MacBook and Found 127GB of Developer Junk. Here&#39;s What It Was](https://dev.to/nixeton/i-scanned-my-macbook-and-found-127gb-of-developer-junk-heres-what-it-was-12cf)
-- [How I Built a Vinted Scraper That Survives Datadome &lpar;and 26 Country Redirects&rpar;](https://dev.to/datakaz/how-i-built-a-vinted-scraper-that-survives-datadome-and-26-country-redirects-3gh4)
-- [I Built the First GTM-Native MCP Server — Here&#39;s What I Learned](https://dev.to/boissonneault/i-built-the-first-gtm-native-mcp-server-heres-what-i-learned-1mdi)
-- [I built a running app in 13 days because I kept quitting my training plans](https://dev.to/dev2681/13-days-y-kept-quitting-5ag9)
+- [Setting up the perfect Claude Code environment in 2026](https://dev.to/david_bilsonn/setting-up-the-perfect-claude-code-environment-in-2026-3aio)
+- [Building a Local-First Task Manager with Next.js and React — Lessons from Planow](https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm)
+- [How Much VRAM Do You *Actually* Need for Local LLMs?](https://dev.to/thurmon_demich/how-much-vram-do-you-actually-need-for-local-llms-13i7)
+- [🔐 Implementing Least‑Privilege Access in Amazon EKS Using Kubernetes RBAC](https://dev.to/alok_shankar/implementing-least-privilege-access-in-amazon-eks-using-kubernetes-rbac-118i)
+- [Go Circuit Breakers That Fail Friendly: The 94% Cascade Prevention We Measured](https://dev.to/speed_engineer/go-circuit-breakers-that-fail-friendly-the-94-cascade-prevention-we-measured-5akj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
