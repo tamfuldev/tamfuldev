@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Indie Dev ASO Complete Guide — Climbing App Store Rankings with Optimization](https://dev.to/kanta13jp1/indie-dev-aso-complete-guide-climbing-app-store-rankings-with-optimization-3089)
-- [Build Your First MCP Server in Python in 10 Minutes](https://dev.to/nebulagg/build-your-first-mcp-server-in-python-in-10-minutes-2eij)
-- [How to build a Salesforce governance framework from scratch](https://dev.to/orgdocdev/how-to-build-a-salesforce-governance-framework-from-scratch-66p)
-- [Common Salesforce admin mistakes that cost companies money](https://dev.to/orgdocdev/common-salesforce-admin-mistakes-that-cost-companies-money-511n)
-- [GitHub Star Growth: 9 Levers That Compound in 2026](https://dev.to/iris1031/github-star-growth-9-levers-that-compound-in-2026-15d)
+- [Gemini 6.0 Flash: Is the &quot;Speed vs Accuracy&quot; Trade-off Finally Dead?](https://dev.to/susantadeb2020/gemini-60-flash-is-the-speed-vs-accuracy-trade-off-finally-dead-4pjb)
+- [Building Your First Cybersecurity Tool with Spectator: A New Language for Pentesters](https://dev.to/czax225/building-your-first-cybersecurity-tool-with-spectator-a-new-language-for-pentesters-2fm9)
+- [No-Login Online Clipboard Sync: QR Pairing, Burn Mode, &lt;100ms—Built by a 3rd-Sem CS Student](https://dev.to/dhairya_darji_ff0fec19a28/no-login-online-clipboard-sync-qr-pairing-burn-mode-100ms-built-by-a-3rd-sem-cs-student-348b)
+- [Deep Dive: How JetBrains Fleet Indexes 1M Line Codebases with Rust 1.85 and Kotlin 2.0](https://dev.to/johalputt/deep-dive-how-jetbrains-fleet-indexes-1m-line-codebases-with-rust-185-and-kotlin-20-14h2)
+- [Xamarin to Flutter Migration in 2026: An Honest Guide for Teams Past EOL](https://dev.to/devang18/xamarin-to-flutter-migration-in-2026-an-honest-guide-for-teams-past-eol-3o4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
