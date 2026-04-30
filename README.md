@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a &quot;Synthetic Market&quot; to predict the Soda Wars &lpar;and it actually worked&rpar;](https://dev.to/jason_einstein_4ebad74d6d/i-built-a-synthetic-market-to-predict-the-soda-wars-and-it-actually-worked-1d0o)
-- [Why Senior Python Interviews Test the Wrong Things &lpar;And How to Actually Prepare&rpar;](https://dev.to/alanwest/why-senior-python-interviews-test-the-wrong-things-and-how-to-actually-prepare-26hl)
-- [I Built a 10-Agent AI Product Team in Claude Code](https://dev.to/mirmajeed1/i-built-a-10-agent-ai-product-team-in-claude-code-1hmm)
-- [Fix MCP Timeouts: Async HandleId Pattern](https://dev.to/aws/fix-mcp-timeouts-async-handleid-pattern-8ek)
-- [The Shift from Determinism to Probabilism Is Bigger Than Analog to Digital](https://dev.to/aralroca/the-shift-from-determinism-to-probabilism-is-bigger-than-analog-to-digital-lim)
+- [AI Agent Orchestration &amp; Applied LLMs: Code Search, Workflow Optimization, Document Processing](https://dev.to/soytuber/ai-agent-orchestration-applied-llms-code-search-workflow-optimization-document-processing-39ii)
+- [GPU Hardware, VRAM Optimization &amp; Next-Gen Driver Updates](https://dev.to/soytuber/gpu-hardware-vram-optimization-next-gen-driver-updates-455n)
+- [When Monitoring Becomes “Wrong”: The Limits of Watching Only Ping and Disk in Zabbix](https://dev.to/nicholas_broch_1deee468fe/when-monitoring-becomes-wrong-the-limits-of-watching-only-ping-and-disk-in-zabbix-13gi)
+- [Cursor 3 shipped parallel agents and the community can&#39;t agree on whether that&#39;s good](https://dev.to/onepizzateam/cursor-3-shipped-parallel-agents-and-the-community-cant-agree-on-whether-thats-good-1p3n)
+- [Zero-config Golang Heap Profiling](https://dev.to/coroot/zero-config-golang-heap-profiling-33fi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
