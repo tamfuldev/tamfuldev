@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mapbox GL JS adds support for PMTiles vector and raster sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b)
-- [5 Best Free Web Scraping Tools in 2026](https://dev.to/shittu_olumide_/5-best-free-web-scraping-tools-in-2026-4097)
-- [Part 3: Wiring It Into AWS DevOps Agent — AgentSpace, register-service, and the IAM Trust Policy That Ate My Afternoon](https://dev.to/rajmurugan/part-3-wiring-it-into-aws-devops-agent-agentspace-register-service-and-the-iam-trust-policy-3e8m)
-- [Go 1.24 vs. Java 24: Memory Usage for REST APIs Serving 50k Requests per Second](https://dev.to/johalputt/go-124-vs-java-24-memory-usage-for-rest-apis-serving-50k-requests-per-second-57e4)
-- [My Tiny Rust Utils, Part 5: mod.rs](https://dev.to/icsboyx/my-tiny-rust-utils-part-5-modrs-3nkm)
+- [ASP.NET Middleware: Complete Guide from Basics to Advanced Patterns, Tips, and Performance](https://dev.to/vikrant_bagal_afae3e25ca7/aspnet-middleware-complete-guide-from-basics-to-advanced-patterns-tips-and-performance-4f7e)
+- [RAG - Vector DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-vector-db-ah9)
+- [The Kubernetes Operator Pattern Saved Us More Than Backstage Ever Could](https://dev.to/dspv/the-kubernetes-operator-pattern-saved-us-more-than-backstage-ever-could-171k)
+- [Putting AI-Generated Blocks into Your Working System](https://dev.to/karllui/putting-ai-generated-blocks-into-your-working-system-45p7)
+- [I Got Bored and Cleaned Up 150+ GitHub Repos with a Tool I Built in Go](https://dev.to/christophervistal25/i-got-bored-and-cleaned-up-150-github-repos-with-a-tool-i-built-in-go-1a4i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
