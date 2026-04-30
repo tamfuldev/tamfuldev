@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Middleware: Complete Guide from Basics to Advanced Patterns, Tips, and Performance](https://dev.to/vikrant_bagal_afae3e25ca7/aspnet-middleware-complete-guide-from-basics-to-advanced-patterns-tips-and-performance-4f7e)
-- [RAG - Vector DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-vector-db-ah9)
-- [The Kubernetes Operator Pattern Saved Us More Than Backstage Ever Could](https://dev.to/dspv/the-kubernetes-operator-pattern-saved-us-more-than-backstage-ever-could-171k)
-- [Putting AI-Generated Blocks into Your Working System](https://dev.to/karllui/putting-ai-generated-blocks-into-your-working-system-45p7)
-- [I Got Bored and Cleaned Up 150+ GitHub Repos with a Tool I Built in Go](https://dev.to/christophervistal25/i-got-bored-and-cleaned-up-150-github-repos-with-a-tool-i-built-in-go-1a4i)
+- [I built a &quot;Synthetic Market&quot; to predict the Soda Wars &lpar;and it actually worked&rpar;](https://dev.to/jason_einstein_4ebad74d6d/i-built-a-synthetic-market-to-predict-the-soda-wars-and-it-actually-worked-1d0o)
+- [Why Senior Python Interviews Test the Wrong Things &lpar;And How to Actually Prepare&rpar;](https://dev.to/alanwest/why-senior-python-interviews-test-the-wrong-things-and-how-to-actually-prepare-26hl)
+- [I Built a 10-Agent AI Product Team in Claude Code](https://dev.to/mirmajeed1/i-built-a-10-agent-ai-product-team-in-claude-code-1hmm)
+- [Fix MCP Timeouts: Async HandleId Pattern](https://dev.to/aws/fix-mcp-timeouts-async-handleid-pattern-8ek)
+- [The Shift from Determinism to Probabilism Is Bigger Than Analog to Digital](https://dev.to/aralroca/the-shift-from-determinism-to-probabilism-is-bigger-than-analog-to-digital-lim)
 <!-- BLOG-POST-LIST:END -->
 
 ---
