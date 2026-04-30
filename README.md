@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Perfectionism Is Killing Your Career Before It Even Starts](https://dev.to/karol_modelski/your-perfectionism-is-killing-your-career-before-it-even-starts-2b1m)
-- [5 Levels of AI Code Review — From &#39;Trust Me Bro&#39; to Production Ready](https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4)
-- [Stop Writing Form Glue Code: MUI Components Already Connected to React Hook Form](https://dev.to/kensaadi/stop-writing-form-glue-code-mui-components-already-connected-to-react-hook-form-3k1a)
-- [🔮 Hermes Agent 🤖 — Deep Dive &amp; Build-Your-Own Guide 📘](https://dev.to/truongpx396/hermes-agent-deep-dive-build-your-own-guide-1pcc)
-- [Our whole team was editing URLs by hand every time we switched environments. So I fixed it.](https://dev.to/charmi_soni_95bf0498cc45d/our-whole-team-was-editing-urls-by-hand-every-time-we-switched-environments-so-i-fixed-it-48l7)
+- [Native AA Debate, DES Explores Parallel zkEVM Execution, Affine Metering Targets Higher Throughput, Etherspot Powers Telegram Crypto UX](https://dev.to/etherspot/native-aa-debate-des-explores-parallel-zkevm-execution-affine-metering-targets-higher-throughput-3lbm)
+- [I finally understood compound interest by writing 8 lines of JavaScript](https://dev.to/levent_elik_34b35337d291/i-finally-understood-compound-interest-by-writing-8-lines-of-javascript-3012)
+- [Lambda Multi-tenanted Isolation](https://dev.to/aws-builders/lambda-multi-tenanted-isolation-1ban)
+- [How to Set Up Continuous Profiling for Java 24 Services with Pyroscope 1.0 and OpenTelemetry 1.20](https://dev.to/johalputt/how-to-set-up-continuous-profiling-for-java-24-services-with-pyroscope-10-and-opentelemetry-120-4aa1)
+- [How to Build a Multi-Cloud Storage Layer with Cloudflare R2 and AWS S3 Using Pulumi 3.120](https://dev.to/johalputt/how-to-build-a-multi-cloud-storage-layer-with-cloudflare-r2-and-aws-s3-using-pulumi-3120-13fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
