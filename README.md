@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI coding agent is a while loop with delusions of grandeur](https://dev.to/frr149/your-ai-coding-agent-is-a-while-loop-with-delusions-of-grandeur-1h6e)
-- [Your Terminal is Burning Battery Like It&#39;s Mining Bitcoin](https://dev.to/frr149/your-terminal-is-burning-battery-like-its-mining-bitcoin-4e7l)
-- [How to Scrape Swedish Real Estate Data from Hemnet &lpar;No Code, No API&rpar;](https://dev.to/mayno/how-to-scrape-swedish-real-estate-data-from-hemnet-no-code-no-api-324o)
-- [Advancing Your Own AWS Architect with DrawIO Skills and Living Documentation](https://dev.to/gitaroktato/advancing-your-own-aws-architect-with-drawio-skills-and-living-documentation-3di7)
-- [I spent 5 months building a full-stack e-commerce app from scratch — now I&#39;m selling it for $3,000](https://dev.to/buddhima_ryan_e7a70ea9f83/i-spent-5-months-building-a-full-stack-e-commerce-app-from-scratch-now-im-selling-it-for-3000-fmb)
+- [Mapbox GL JS adds support for PMTiles vector and raster sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b)
+- [5 Best Free Web Scraping Tools in 2026](https://dev.to/shittu_olumide_/5-best-free-web-scraping-tools-in-2026-4097)
+- [Part 3: Wiring It Into AWS DevOps Agent — AgentSpace, register-service, and the IAM Trust Policy That Ate My Afternoon](https://dev.to/rajmurugan/part-3-wiring-it-into-aws-devops-agent-agentspace-register-service-and-the-iam-trust-policy-3e8m)
+- [Go 1.24 vs. Java 24: Memory Usage for REST APIs Serving 50k Requests per Second](https://dev.to/johalputt/go-124-vs-java-24-memory-usage-for-rest-apis-serving-50k-requests-per-second-57e4)
+- [My Tiny Rust Utils, Part 5: mod.rs](https://dev.to/icsboyx/my-tiny-rust-utils-part-5-modrs-3nkm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
