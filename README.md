@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Blazing-Fast Log Analyzer in Rust Because I Got Tired of Slow grep + awk Hacks](https://dev.to/xxnullpointerxx/i-built-a-blazing-fast-log-analyzer-in-rust-because-i-got-tired-of-slow-grep-awk-hacks-2jk4)
-- [In the Age of AI, What Terminal Tools Should We Be Using?](https://dev.to/xunxing_mao_fac71e331fd4b/in-the-age-of-ai-what-terminal-tools-should-we-be-using-5ch6)
-- [I let my AI agents be advisory-only. Here&#39;s the rules-first PR risk engine I shipped instead.](https://dev.to/zoetaka38/i-let-my-ai-agents-be-advisory-only-heres-the-rules-first-pr-risk-engine-i-shipped-instead-5c6k)
-- [Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick](https://dev.to/paudang/slashed-my-automation-suite-from-9-hours-to-1-hour-with-this-simple-caching-trick-22n9)
-- [TextInput sets mobile phone number format input - How to solve the issue of cursor position disorder after modifying data?](https://dev.to/harmonyos/textinput-sets-mobile-phone-number-format-input-how-to-solve-the-issue-of-cursor-position-187n)
+- [The Trojan Horse of Web Design: The Genius Behind Adobe Fireworks&#39; &quot;Vector PNGs&quot;](https://dev.to/rpi1337/the-trojan-horse-of-web-design-the-genius-behind-adobe-fireworks-vector-pngs-5b9f)
+- [HTML Attributes That Do More Than You Think](https://dev.to/web_dev-usman/html-attributes-that-do-more-than-you-think-4l8f)
+- [Building Teams in Laravel &lpar;Ownership &amp; Membership&rpar;](https://dev.to/onlypads/building-teams-in-laravel-ownership-membership-5bg1)
+- [I built a tool to turn boring screenshots into scroll-stopping content 💻](https://dev.to/vasudevsoni/i-built-a-tool-to-turn-boring-screenshots-into-scroll-stopping-content-1c03)
+- [🧠 AI Trust &amp; The Hallucination Gap: Why Smart Systems Still Get Things Wrong](https://dev.to/17j/ai-trust-the-hallucination-gap-why-smart-systems-still-get-things-wrong-bkj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
