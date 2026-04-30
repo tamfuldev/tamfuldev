@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Trojan Horse of Web Design: The Genius Behind Adobe Fireworks&#39; &quot;Vector PNGs&quot;](https://dev.to/rpi1337/the-trojan-horse-of-web-design-the-genius-behind-adobe-fireworks-vector-pngs-5b9f)
-- [HTML Attributes That Do More Than You Think](https://dev.to/web_dev-usman/html-attributes-that-do-more-than-you-think-4l8f)
-- [Building Teams in Laravel &lpar;Ownership &amp; Membership&rpar;](https://dev.to/onlypads/building-teams-in-laravel-ownership-membership-5bg1)
-- [I built a tool to turn boring screenshots into scroll-stopping content 💻](https://dev.to/vasudevsoni/i-built-a-tool-to-turn-boring-screenshots-into-scroll-stopping-content-1c03)
-- [🧠 AI Trust &amp; The Hallucination Gap: Why Smart Systems Still Get Things Wrong](https://dev.to/17j/ai-trust-the-hallucination-gap-why-smart-systems-still-get-things-wrong-bkj)
+- [Your Perfectionism Is Killing Your Career Before It Even Starts](https://dev.to/karol_modelski/your-perfectionism-is-killing-your-career-before-it-even-starts-2b1m)
+- [5 Levels of AI Code Review — From &#39;Trust Me Bro&#39; to Production Ready](https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4)
+- [Stop Writing Form Glue Code: MUI Components Already Connected to React Hook Form](https://dev.to/kensaadi/stop-writing-form-glue-code-mui-components-already-connected-to-react-hook-form-3k1a)
+- [🔮 Hermes Agent 🤖 — Deep Dive &amp; Build-Your-Own Guide 📘](https://dev.to/truongpx396/hermes-agent-deep-dive-build-your-own-guide-1pcc)
+- [Our whole team was editing URLs by hand every time we switched environments. So I fixed it.](https://dev.to/charmi_soni_95bf0498cc45d/our-whole-team-was-editing-urls-by-hand-every-time-we-switched-environments-so-i-fixed-it-48l7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
