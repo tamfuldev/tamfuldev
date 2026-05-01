@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
-- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
-- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
-- [How I Keep My Code up to Date With Zero Effort With Claude](https://dev.to/__f4d90f1f20b8/how-i-keep-my-code-up-to-date-with-zero-effort-with-claude-45gc)
-- [The &#39;Code&#39; was Never the Core: Reimagining the DLC with AI](https://dev.to/dmx/the-code-was-never-the-core-reimagining-the-dlc-with-ai-1i19)
+- [Insomnia vs Rentgen — powerful API platform vs raw API reality](https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o)
+- [I built an AI agent that audits a site&#39;s visibility in both Google AND ChatGPT/Perplexity — here&#39;s how it works](https://dev.to/webfluence_digital/i-built-an-ai-agent-that-audits-a-sites-visibility-in-both-google-and-chatgptperplexity-heres-277o)
+- [A warehouse supervisor&#39;s guide to shipping a SaaS in 3 weeks &lpar;with a lot of AI help&rpar;](https://dev.to/ricardo_diazmiralles/a-warehouse-supervisors-guide-to-shipping-a-saas-in-3-weeks-with-a-lot-of-ai-help-4goi)
+- [Building an Agent that respects User Permissions — With AWS Bedrock AgentCore and Entra ID](https://dev.to/sumanthprasad/building-an-agent-that-respects-user-permissions-with-aws-bedrock-agentcore-and-entra-id-10f9)
+- [AI Generated Commit Messages for free in IntelliJ](https://dev.to/shivamag00/ai-generated-commit-messages-for-free-in-intellij-2lhj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
