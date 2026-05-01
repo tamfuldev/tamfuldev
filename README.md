@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Converted 10 Debugging Techniques into AI Prompts — Here&#39;s the Template](https://dev.to/kenimo49/i-converted-10-debugging-techniques-into-ai-prompts-heres-the-template-23ok)
-- [Understanding How Modern Systems Interpret User Intent](https://dev.to/abdabughazaleh/understanding-how-modern-systems-interpret-user-intent-26ko)
-- [Is Experience overlooked in Tech?](https://dev.to/mmmattos/is-experience-overlooked-in-tech-4dm0)
-- [How I passed the AZ-900 Exam and what I studied](https://dev.to/cinthiabs/how-i-passed-the-az-900-exam-and-what-i-studied-3p3h)
-- [The Factory Must Grow &lpar;Part II&rpar;: From Spaghetti AI Agent Orchestrator to a Main Bus](https://dev.to/logicalicy/the-factory-must-grow-part-ii-from-spaghetti-ai-agent-orchestrator-to-a-main-bus-25hl)
+- [How Zod&#39;s .refine&lpar;&rpar; Can Cause a Denial of Service — And How to Fix It](https://dev.to/rushiii3/how-zods-refine-can-cause-a-denial-of-service-and-how-to-fix-it-25hg)
+- [Prompt Injection Was Stateless. Memory Poisoning Is Persistence](https://dev.to/maninderpreet_singh/prompt-injection-was-stateless-memory-poisoning-is-persistence-57k2)
+- [I Rewrote Our Scraper with asyncio. My CTO Thought I Added Servers.](https://dev.to/_eb7f2a654e97a60ae9f96e/i-rewrote-our-scraper-with-asyncio-my-cto-thought-i-added-servers-1d0)
+- [Concurrency ใน Go ตอนที่ 2: Channel](https://dev.to/perajit/concurrency-ain-go-tnthii-2-channel-417g)
+- [CloudSync MLBridge: Bridging Google Cloud Datastore and BigQuery with ML-Powered Sync](https://dev.to/raghavachellu/cloudsync-mlbridge-bridging-google-cloud-datastore-and-bigquery-with-ml-powered-sync-5ecg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
