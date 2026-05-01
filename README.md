@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Zod&#39;s .refine&lpar;&rpar; Can Cause a Denial of Service — And How to Fix It](https://dev.to/rushiii3/how-zods-refine-can-cause-a-denial-of-service-and-how-to-fix-it-25hg)
-- [Prompt Injection Was Stateless. Memory Poisoning Is Persistence](https://dev.to/maninderpreet_singh/prompt-injection-was-stateless-memory-poisoning-is-persistence-57k2)
-- [I Rewrote Our Scraper with asyncio. My CTO Thought I Added Servers.](https://dev.to/_eb7f2a654e97a60ae9f96e/i-rewrote-our-scraper-with-asyncio-my-cto-thought-i-added-servers-1d0)
-- [Concurrency ใน Go ตอนที่ 2: Channel](https://dev.to/perajit/concurrency-ain-go-tnthii-2-channel-417g)
-- [CloudSync MLBridge: Bridging Google Cloud Datastore and BigQuery with ML-Powered Sync](https://dev.to/raghavachellu/cloudsync-mlbridge-bridging-google-cloud-datastore-and-bigquery-with-ml-powered-sync-5ecg)
+- [Understanding Data Types in Python](https://dev.to/gamya_m/understanding-data-types-in-python-259b)
+- [I is not singular — Multi-Agent Simulation with Cognitive Architecture on a Single 8GB GPU](https://dev.to/as1as/i-is-not-singular-multi-agent-simulation-with-cognitive-architecture-on-a-single-8gb-gpu-198c)
+- [LLM Study Diary #1: Transformer](https://dev.to/zhu_sofia_015552d01df4321/llm-study-dairy-1-transformer-59ip)
+- [Just released Fast API Tester Chrome extension](https://dev.to/ipodovinnikov/just-released-fast-api-tester-chrome-extension-3143)
+- [Stop Installing MCP Servers on Your Laptop — Here&#39;s a One-Click Sandbox for Claude](https://dev.to/rednakta/stop-installing-mcp-servers-on-your-laptop-heres-a-one-click-sandbox-for-claude-71g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
