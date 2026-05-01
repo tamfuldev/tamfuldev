@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Product API &lpar;PA-API&rpar; in 2026: Restrictions, Alternatives, and Web Scraping](https://dev.to/agenthustler/amazon-product-api-pa-api-in-2026-restrictions-alternatives-and-web-scraping-4l35)
-- [Membedah Arsitektur Pengiriman Media Telegram: Membangun Engine Ekstraksi Berkinerja Tinggi dengan MTProto dan Async I/O](https://dev.to/yqqwe/membedah-arsitektur-pengiriman-media-telegram-membangun-engine-ekstraksi-berkinerja-tinggi-dengan-42m0)
-- [Desconstruyendo la Extracción de Media en Telegram: Construyendo un Motor de Descarga de Alto Rendimiento con MTProto y Async I/O](https://dev.to/yqqwe/desconstruyendo-la-extraccion-de-media-en-telegram-construyendo-un-motor-de-descarga-de-alto-3p3n)
-- [Desconstruindo a Extração de Mídia do Telegram: Construindo um Engine de Download de Alta Performance com MTProto e Async I/O](https://dev.to/yqqwe/desconstruindo-a-extracao-de-midia-do-telegram-construindo-um-engine-de-download-de-alta-38n3)
-- [Деконструкция извлечения медиа в Telegram: построение высокопроизводительного загрузчика на базе MTProto и Async I/O](https://dev.to/yqqwe/diekonstruktsiia-izvliechieniia-miedia-v-telegram-postroieniie-vysokoproizvoditielnogho-zaghruzchika-na-bazie-1o95)
+- [LangChain Agents Deep Dive: The Ultimate Guide to Building Intelligent Agents in 2026](https://dev.to/jearick/langchain-agents-deep-dive-the-ultimate-guide-to-building-intelligent-agents-in-2026-4b8p)
+- [Mastering Gemini Nano: The Ultimate Guide to On-Device Prompt Engineering for Android Developers](https://dev.to/programmingcentral/mastering-gemini-nano-the-ultimate-guide-to-on-device-prompt-engineering-for-android-developers-1dk8)
+- [MCP explained: how AI tools connect to real systems](https://dev.to/pcornelissen/mcp-explained-how-ai-tools-connect-to-real-systems-2b1e)
+- [From PDF to MCP: Let AI Agents Query Your Resume On Demand](https://dev.to/leeson_wong_fa777ac94d188/from-pdf-to-mcp-let-ai-agents-query-your-resume-on-demand-530e)
+- [Did you know about sos command?](https://dev.to/jorge_luisruedabeirana_/did-you-know-about-sos-command-l76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
