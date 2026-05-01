@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Common Mistakes in Performance Testing - Running Tests from Your Local Machine](https://dev.to/oleh_koren/part-1-common-mistakes-in-performance-testing-running-tests-from-your-local-machine-4mie)
-- [How React streams UI, React Compiler Rendering, dev3000 CLI, TSRX, Replay, Scroll-Driven Animations, Ship 26 tickets](https://dev.to/erfanebrahimnia/how-react-streams-ui-react-compiler-rendering-dev3000-cli-tsrx-replay-scroll-driven-iig)
-- [Why accessibility overlay widgets don&#39;t actually work &lpar;and the FTC just fined one $1M&rpar;](https://dev.to/asafamos/why-accessibility-overlay-widgets-dont-actually-work-and-the-ftc-just-fined-one-1m-51l0)
-- [Your pytest configuration is lying to you. Not loudly but just quietly running different things in different places.](https://dev.to/michle/your-pytest-configuration-is-lying-to-you-not-loudly-but-just-quietly-running-different-things-in-4m2k)
-- [PeachBot Core: An Early-Stage Edge AI System Prototype &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-core-an-early-stage-edge-ai-system-prototype-how-it-works-how-to-run-11j1)
+- [Donation as Human + Engineering Efficiency](https://dev.to/heyradcode/donation-as-human-engineering-efficiency-khh)
+- [Machine learning Ensemble models.](https://dev.to/murimikelvin/ensemble-models-69p)
+- [Decoding Democracy: How ELARA is Transforming Election Education Through Specialized AI](https://dev.to/aashitanegii/decoding-democracy-how-elara-is-transforming-election-education-through-specialized-ai-12jh)
+- [PeachBot Deploy: A Prototype Deployment Layer for Edge AI Systems &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-deploy-a-prototype-deployment-layer-for-edge-ai-systems-how-it-works-how-to-run-41jn)
+- [Claude-pilled: why complex agent workflows are working against you](https://dev.to/nek12/claude-pilled-why-complex-agent-workflows-are-working-against-you-222j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
