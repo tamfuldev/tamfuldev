@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain Agents Deep Dive: The Ultimate Guide to Building Intelligent Agents in 2026](https://dev.to/jearick/langchain-agents-deep-dive-the-ultimate-guide-to-building-intelligent-agents-in-2026-4b8p)
-- [Mastering Gemini Nano: The Ultimate Guide to On-Device Prompt Engineering for Android Developers](https://dev.to/programmingcentral/mastering-gemini-nano-the-ultimate-guide-to-on-device-prompt-engineering-for-android-developers-1dk8)
-- [MCP explained: how AI tools connect to real systems](https://dev.to/pcornelissen/mcp-explained-how-ai-tools-connect-to-real-systems-2b1e)
-- [From PDF to MCP: Let AI Agents Query Your Resume On Demand](https://dev.to/leeson_wong_fa777ac94d188/from-pdf-to-mcp-let-ai-agents-query-your-resume-on-demand-530e)
-- [Did you know about sos command?](https://dev.to/jorge_luisruedabeirana_/did-you-know-about-sos-command-l76)
+- [Part 1: Common Mistakes in Performance Testing - Running Tests from Your Local Machine](https://dev.to/oleh_koren/part-1-common-mistakes-in-performance-testing-running-tests-from-your-local-machine-4mie)
+- [How React streams UI, React Compiler Rendering, dev3000 CLI, TSRX, Replay, Scroll-Driven Animations, Ship 26 tickets](https://dev.to/erfanebrahimnia/how-react-streams-ui-react-compiler-rendering-dev3000-cli-tsrx-replay-scroll-driven-iig)
+- [Why accessibility overlay widgets don&#39;t actually work &lpar;and the FTC just fined one $1M&rpar;](https://dev.to/asafamos/why-accessibility-overlay-widgets-dont-actually-work-and-the-ftc-just-fined-one-1m-51l0)
+- [Your pytest configuration is lying to you. Not loudly but just quietly running different things in different places.](https://dev.to/michle/your-pytest-configuration-is-lying-to-you-not-loudly-but-just-quietly-running-different-things-in-4m2k)
+- [PeachBot Core: An Early-Stage Edge AI System Prototype &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-core-an-early-stage-edge-ai-system-prototype-how-it-works-how-to-run-11j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
