@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Donation as Human + Engineering Efficiency](https://dev.to/heyradcode/donation-as-human-engineering-efficiency-khh)
-- [Machine learning Ensemble models.](https://dev.to/murimikelvin/ensemble-models-69p)
-- [Decoding Democracy: How ELARA is Transforming Election Education Through Specialized AI](https://dev.to/aashitanegii/decoding-democracy-how-elara-is-transforming-election-education-through-specialized-ai-12jh)
-- [PeachBot Deploy: A Prototype Deployment Layer for Edge AI Systems &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-deploy-a-prototype-deployment-layer-for-edge-ai-systems-how-it-works-how-to-run-41jn)
-- [Claude-pilled: why complex agent workflows are working against you](https://dev.to/nek12/claude-pilled-why-complex-agent-workflows-are-working-against-you-222j)
+- [Zero Trust for IoT: Hardening the Network Perimeter with HookProbe](https://dev.to/hookprobe/zero-trust-for-iot-hardening-the-network-perimeter-with-hookprobe-3k3c)
+- [I built a CVE patch-ops tool for indie SaaS shops in a weekend &lpar;open scan, honest comparison vs vuls.io&rpar;](https://dev.to/aiden_bolin_c3f6ef002625c/i-built-a-cve-patch-ops-tool-for-indie-saas-shops-in-a-weekend-open-scan-honest-comparison-vs-3llk)
+- [agent-sre on PyPI: what SRE for AI agents actually means](https://dev.to/pat9000/agent-sre-on-pypi-what-sre-for-ai-agents-actually-means-56o7)
+- [OpenAI&#39;s guardrails don&#39;t control costs. Here&#39;s the gap.](https://dev.to/pat9000/openais-guardrails-dont-control-costs-heres-the-gap-29j7)
+- [The Twitch Extension JWT Mistake That Causes 401s on Every Request](https://dev.to/gothuncc/the-twitch-extension-jwt-mistake-that-causes-401s-on-every-request-3283)
 <!-- BLOG-POST-LIST:END -->
 
 ---
