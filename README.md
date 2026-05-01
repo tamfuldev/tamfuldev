@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [@ttsc/lint - I made 20x faster TS Lint by building it into typescript-go — one compile catches both](https://dev.to/samchon/ttsclint-i-made-20x-faster-ts-lint-by-building-it-into-typescript-go-one-compile-catches-both-1e42)
-- [MITRE ATT&amp;CK: el mapa del crimen que todo profesional de seguridad debería conocer](https://dev.to/byron_lainez/mitre-attck-el-mapa-del-crimen-que-todo-profesional-de-seguridad-deberia-conocer-2dib)
-- [Bank Tanya Jawab Pengujian](https://dev.to/ariscandra/bank-tanya-jawab-pengujian-j9m)
-- [How to Cut GCP Costs by 50% with Committed Use Discounts and Pulumi 3.130 in 2026](https://dev.to/johalputt/how-to-cut-gcp-costs-by-50-with-committed-use-discounts-and-pulumi-3130-in-2026-135j)
-- [Linux kernel vulnerabilities without distro notice: what this changes in my Ubuntu/Railway stack](https://dev.to/jtorchia/linux-kernel-vulnerabilities-without-distro-notice-what-this-changes-in-my-ubunturailway-stack-45ho)
+- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
+- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
+- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
+- [How I Keep My Code up to Date With Zero Effort With Claude](https://dev.to/__f4d90f1f20b8/how-i-keep-my-code-up-to-date-with-zero-effort-with-claude-45gc)
+- [The &#39;Code&#39; was Never the Core: Reimagining the DLC with AI](https://dev.to/dmx/the-code-was-never-the-core-reimagining-the-dlc-with-ai-1i19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
