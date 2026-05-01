@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Chalk to Rust: Autobiography of a rustacean born from the shell of a History teacher](https://dev.to/lfgranja/from-chalk-to-rust-autobiography-of-a-rustacean-born-from-the-shell-of-a-history-teacher-4fob)
-- [Programming is a job. It&#39;s not a life.](https://dev.to/amandamayfield/programming-is-a-job-its-not-a-life-9m0)
-- [Getting Started with Azure Kubernetes Service &lpar;AKS&rpar;.](https://dev.to/lotanna_obianefo/getting-started-with-azure-kubernetes-service-aks-21fg)
-- [iOS 26 Liquid Glass Gotcha: Adjacent Buttons Silently Swallowing Taps](https://dev.to/daksh-gargas/ios-26-liquid-glass-gotcha-adjacent-buttons-silently-swallowing-taps-3124)
-- [This tiny friction has stolen more developer hours than any bug ever will.](https://dev.to/charmi_soni_95bf0498cc45d/this-tiny-friction-has-stolen-more-developer-hours-than-any-bug-ever-will-5cbo)
+- [Security news weekly round-up - 1st May 2026](https://dev.to/ziizium/security-news-weekly-round-up-1st-may-2026-559c)
+- [OverTheWire: Bandit Level 2](https://dev.to/amandaigwe/overthewire-bandit-level-2-1373)
+- [Agent Skills Are Just Header Files &lpar;And Virtual Memory, And Unix Pipes&rpar;](https://dev.to/botticelli/agent-skills-are-just-header-files-and-virtual-memory-and-unix-pipes-4hcp)
+- [Automating React Router v6 to v7 Migration with AST Codemods](https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888)
+- [Device distinct messaging: why I killed multi-device and how fingerprint hashing enforces it.](https://dev.to/xmkx/device-distinct-messaging-why-i-killed-multi-device-and-how-fingerprint-hashing-enforces-it-333j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
