@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The gay jailbreak: I ran the viral technique against my own production prompts and here&#39;s what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017)
-- [The gay jailbreak: probé la técnica viral sobre mis propios prompts de producción y esto encontré](https://dev.to/jtorchia/the-gay-jailbreak-probe-la-tecnica-viral-sobre-mis-propios-prompts-de-produccion-y-esto-encontre-42h7)
-- [Quark&#39;s Outlines: Python Name Spaces](https://dev.to/mike-vincent/quarks-outlines-python-name-spaces-3a18)
-- [Self Querying Retrieval](https://dev.to/rushanksavant/self-querying-retrieval-4njo)
-- [[PT-BR] Por que troquei meu &quot;Opinionated Linux&quot; autoral &lpar;DIY&rpar; pelo Omarchy](https://dev.to/guilherme44/pt-br-por-que-troquei-meu-opinionated-linux-autoral-diy-pelo-omarchy-5bab)
+- [Spotify Verified for Human Artists: What It Signals for Code, Content, and My Own Blog](https://dev.to/jtorchia/spotify-verified-for-human-artists-what-it-signals-for-code-content-and-my-own-blog-2bk5)
+- [Spotify Verified para artistas humanos: lo que esto anticipa para el código, el contenido y mi propio blog](https://dev.to/jtorchia/spotify-verified-para-artistas-humanos-lo-que-esto-anticipa-para-el-codigo-el-contenido-y-mi-30b8)
+- [Cloudflare agents can now buy domains. The case for runtime spend rails just got concrete.](https://dev.to/pat9000/cloudflare-agents-can-now-buy-domains-the-case-for-runtime-spend-rails-just-got-concrete-539f)
+- [Pagamentos idempotentes: Um Study Case de Arquitetura com Redis e Banco de Dados](https://dev.to/tarcisioaraujo/pagamentos-idempotentes-um-study-case-de-arquitetura-com-redis-e-banco-de-dados-3n06)
+- [How React Works &lpar;Part 6&rpar;? How State Actually Works: useState from the Inside](https://dev.to/samabaasi/how-react-works-part-6-how-state-actually-works-usestate-from-the-inside-1on)
 <!-- BLOG-POST-LIST:END -->
 
 ---
