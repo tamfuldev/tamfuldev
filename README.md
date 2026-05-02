@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Markdown Tips for Developers: Beyond the Basics](https://dev.to/snappy_tools/markdown-tips-for-developers-beyond-the-basics-55ng)
-- [Launching ai-tldr.dev — A Weekly TL;DR of New AI Models, Papers &amp; Dev Tools](https://dev.to/alexmorgan_finwriter/launching-ai-tldrdev-a-weekly-tldr-of-new-ai-models-papers-dev-tools-489i)
-- [How to Parse URLs in JavaScript: The URL API vs Manual Parsing](https://dev.to/snappy_tools/how-to-parse-urls-in-javascript-the-url-api-vs-manual-parsing-1h0m)
-- [From punchlines to public keys](https://dev.to/rajatkriplani/from-punchlines-to-public-keys-1l)
-- [Day 89 of #100DaysOfCode — DevCollab: Building the Projects API with DRF](https://dev.to/m_saad_ahmad/day-89-of-100daysofcode-devcollab-building-the-projects-api-with-drf-5h62)
+- [How I built a production-ready Wazuh SIEM on Docker &lpar;with custom rules for VMware, AWS and GCP&rpar;](https://dev.to/giulio_savini_/how-i-built-a-production-ready-wazuh-siem-on-docker-with-custom-rules-for-vmware-aws-and-gcp-11i3)
+- [Building Jungle Grid: Real AI Workloads You Can Run Without Manually Picking GPUs](https://dev.to/jaguarkyng/building-jungle-grid-real-ai-workloads-you-can-run-without-manually-picking-gpus-eii)
+- [DBX: An Open-Source, 15 MB Database Client for 17+ Databases &lpar;Built with Tauri&rpar;](https://dev.to/t8y2/dbx-an-open-source-15-mb-database-client-for-17-databases-built-with-tauri-45oe)
+- [Hello World of RAG - Day 1](https://dev.to/gokul_kannan_1011/hello-world-of-rag-day-1-15l9)
+- [Building AI Products That People Actually Use](https://dev.to/denis_moroz/building-ai-products-that-people-actually-use-31pp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
