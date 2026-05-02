@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running Multiple MCP Servers with Azure Logic Apps](https://dev.to/imdj/running-multiple-mcp-servers-with-azure-logic-apps-2j6i)
-- [I published my first Python package — a reusable RAG core library](https://dev.to/glemiu6/i-published-my-first-python-package-a-reusable-rag-core-library-ogc)
-- [I built react-native-llm-meter, LLM cost tracking for Expo apps](https://dev.to/ankitvirdi4/i-built-react-native-llm-meter-llm-cost-tracking-for-expo-apps-410h)
-- [I Fixed My LLM OOM Crashes by Shrinking the Draft Model &lpar;Speculative Decoding on Real Hardware&rpar;](https://dev.to/niclydon/i-fixed-my-llm-oom-crashes-by-shrinking-the-draft-model-speculative-decoding-on-real-hardware-1afb)
-- [Building a Community Issue Detection System Using Vehicle Video Feeds and How I Accelerated Development with RocketRide](https://dev.to/adit_mehta_7dd815223144fe/building-a-community-issue-detection-system-using-vehicle-video-feeds-and-how-i-accelerated-lbi)
+- [GhostPilot: Build a GPS-Denied Drone Navigation Stack with Visual SLAM + Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-build-a-gps-denied-drone-navigation-stack-with-visual-slam-agentic-ai-4g21)
+- [Hyperliquid plus Binance — a unified MCP for cross-venue funding rate signals](https://dev.to/algovaultlabs/hyperliquid-plus-binance-a-unified-mcp-for-cross-venue-funding-rate-signals-464f)
+- [AI-Ready Web Design 2026: When Your Website Is Built for Humans AND Machines](https://dev.to/matthias_studiomeyer/ai-ready-web-design-2026-when-your-website-is-built-for-humans-and-machines-44hc)
+- [Why I built a Physical Kill-Switch Protocol for AI Safety &lpar;Open Source&rpar;](https://dev.to/vavor-net/why-i-built-a-physical-kill-switch-protocol-for-ai-safety-open-source-9if)
+- [A Developer&#39;s Checklist for Multi-Model LLM Routing](https://dev.to/alltokenai/a-developers-checklist-for-multi-model-llm-routing-1g7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
