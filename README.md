@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GhostPilot: Build a GPS-Denied Drone Navigation Stack with Visual SLAM + Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-build-a-gps-denied-drone-navigation-stack-with-visual-slam-agentic-ai-4g21)
-- [Hyperliquid plus Binance — a unified MCP for cross-venue funding rate signals](https://dev.to/algovaultlabs/hyperliquid-plus-binance-a-unified-mcp-for-cross-venue-funding-rate-signals-464f)
-- [AI-Ready Web Design 2026: When Your Website Is Built for Humans AND Machines](https://dev.to/matthias_studiomeyer/ai-ready-web-design-2026-when-your-website-is-built-for-humans-and-machines-44hc)
-- [Why I built a Physical Kill-Switch Protocol for AI Safety &lpar;Open Source&rpar;](https://dev.to/vavor-net/why-i-built-a-physical-kill-switch-protocol-for-ai-safety-open-source-9if)
-- [A Developer&#39;s Checklist for Multi-Model LLM Routing](https://dev.to/alltokenai/a-developers-checklist-for-multi-model-llm-routing-1g7a)
+- [Improving Determinism with LLMs: Prompting, Model Selection, Context, and Tools](https://dev.to/derrickpedranti/improving-determinism-with-llms-prompting-model-selection-context-and-tools-21ja)
+- [I built a 57-line asyncpg wrapper because SQLAlchemy was driving me insane](https://dev.to/kernz/i-built-a-57-line-asyncpg-wrapper-because-sqlalchemy-was-driving-me-insane-16jg)
+- [Ports](https://dev.to/hirave_palak/ports-1nj5)
+- [Username Studio — find short Telegram usernames with a local LLM](https://dev.to/sattop_02_a5d8d579b1ccbb7/username-studio-find-short-telegram-usernames-with-a-local-llm-fhf)
+- [Compact Standard Library: A Practical Guide to Every Export](https://dev.to/bosschaos/compact-standard-library-a-practical-guide-to-every-export-11dh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
