@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/k_ivanow/-5enl)
-- [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl)
-- [The Ultimate Guide to Fixing AppImages on Ubuntu 24.04 LTS](https://dev.to/nileshcodehub/the-ultimate-guide-to-fixing-appimages-on-ubuntu-2404-lts-5g00)
-- [What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS](https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal)
-- [Why AI Makes Software Fundamentals More Expensive Than Ever](https://dev.to/ranjancse/why-ai-makes-software-fundamentals-more-expensive-than-ever-48g6)
+- [Building Your First AYW Bot: A Step-by-Step Guide](https://dev.to/leo_laish_25120db350ea449/building-your-first-ayw-bot-a-step-by-step-guide-50mo)
+- [Building Your First AI Chatbot with Guardrails](https://dev.to/leo_laish_25120db350ea449/building-your-first-ai-chatbot-with-guardrails-6ph)
+- [AYW + OpenAI Integration: A Developer&#39;s Guide](https://dev.to/leo_laish_25120db350ea449/ayw-openai-integration-a-developers-guide-4i35)
+- [From Prompt to Production: AYW Workflow Case Study](https://dev.to/leo_laish_25120db350ea449/from-prompt-to-production-ayw-workflow-case-study-3pp5)
+- [Why We Open-Sourced Our AI Safety Layer](https://dev.to/leo_laish_25120db350ea449/why-we-open-sourced-our-ai-safety-layer-1257)
 <!-- BLOG-POST-LIST:END -->
 
 ---
