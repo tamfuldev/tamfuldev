@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Determinism with LLMs: Prompting, Model Selection, Context, and Tools](https://dev.to/derrickpedranti/improving-determinism-with-llms-prompting-model-selection-context-and-tools-21ja)
-- [I built a 57-line asyncpg wrapper because SQLAlchemy was driving me insane](https://dev.to/kernz/i-built-a-57-line-asyncpg-wrapper-because-sqlalchemy-was-driving-me-insane-16jg)
-- [Ports](https://dev.to/hirave_palak/ports-1nj5)
-- [Username Studio — find short Telegram usernames with a local LLM](https://dev.to/sattop_02_a5d8d579b1ccbb7/username-studio-find-short-telegram-usernames-with-a-local-llm-fhf)
-- [Compact Standard Library: A Practical Guide to Every Export](https://dev.to/bosschaos/compact-standard-library-a-practical-guide-to-every-export-11dh)
+- [[Boost]](https://dev.to/k_ivanow/-5enl)
+- [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl)
+- [The Ultimate Guide to Fixing AppImages on Ubuntu 24.04 LTS](https://dev.to/nileshcodehub/the-ultimate-guide-to-fixing-appimages-on-ubuntu-2404-lts-5g00)
+- [What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS](https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal)
+- [Why AI Makes Software Fundamentals More Expensive Than Ever](https://dev.to/ranjancse/why-ai-makes-software-fundamentals-more-expensive-than-ever-48g6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
