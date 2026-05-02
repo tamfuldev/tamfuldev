@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a WhatsApp Booking Agent — The Hard Part Wasn’t AI](https://dev.to/gracesoftdev/i-built-a-whatsapp-booking-agent-the-hard-part-wasnt-ai-1d4n)
-- [Building a streaming AI companion in your own API](https://dev.to/samvanhoutte/building-a-streaming-ai-companion-in-your-own-api-4e3i)
-- [From AI Demo to Production: How to Ship Quality Agentic Applications](https://dev.to/alex_metelli_f22d28dae8de/from-ai-demo-to-production-how-to-ship-quality-agentic-applications-403f)
-- [I tested 4 free 70B-class LLM endpoints for real production work — here&#39;s what each is actually good at](https://dev.to/pcpranav/i-tested-4-free-70b-class-llm-endpoints-for-real-production-work-heres-what-each-is-actually-1if9)
-- [Building an on-prem Kubernetes cluster manager - Part 1: Why, and what it looks like](https://dev.to/ishara_ekanayaka/building-an-on-prem-kubernetes-cluster-manager-part-1-why-and-what-it-looks-like-39k)
+- [Markdown Tips for Developers: Beyond the Basics](https://dev.to/snappy_tools/markdown-tips-for-developers-beyond-the-basics-55ng)
+- [Launching ai-tldr.dev — A Weekly TL;DR of New AI Models, Papers &amp; Dev Tools](https://dev.to/alexmorgan_finwriter/launching-ai-tldrdev-a-weekly-tldr-of-new-ai-models-papers-dev-tools-489i)
+- [How to Parse URLs in JavaScript: The URL API vs Manual Parsing](https://dev.to/snappy_tools/how-to-parse-urls-in-javascript-the-url-api-vs-manual-parsing-1h0m)
+- [From punchlines to public keys](https://dev.to/rajatkriplani/from-punchlines-to-public-keys-1l)
+- [Day 89 of #100DaysOfCode — DevCollab: Building the Projects API with DRF](https://dev.to/m_saad_ahmad/day-89-of-100daysofcode-devcollab-building-the-projects-api-with-drf-5h62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
