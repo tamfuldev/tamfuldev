@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First AYW Bot: A Step-by-Step Guide](https://dev.to/leo_laish_25120db350ea449/building-your-first-ayw-bot-a-step-by-step-guide-50mo)
-- [Building Your First AI Chatbot with Guardrails](https://dev.to/leo_laish_25120db350ea449/building-your-first-ai-chatbot-with-guardrails-6ph)
-- [AYW + OpenAI Integration: A Developer&#39;s Guide](https://dev.to/leo_laish_25120db350ea449/ayw-openai-integration-a-developers-guide-4i35)
-- [From Prompt to Production: AYW Workflow Case Study](https://dev.to/leo_laish_25120db350ea449/from-prompt-to-production-ayw-workflow-case-study-3pp5)
-- [Why We Open-Sourced Our AI Safety Layer](https://dev.to/leo_laish_25120db350ea449/why-we-open-sourced-our-ai-safety-layer-1257)
+- [I Built a WhatsApp Booking Agent — The Hard Part Wasn’t AI](https://dev.to/gracesoftdev/i-built-a-whatsapp-booking-agent-the-hard-part-wasnt-ai-1d4n)
+- [Building a streaming AI companion in your own API](https://dev.to/samvanhoutte/building-a-streaming-ai-companion-in-your-own-api-4e3i)
+- [From AI Demo to Production: How to Ship Quality Agentic Applications](https://dev.to/alex_metelli_f22d28dae8de/from-ai-demo-to-production-how-to-ship-quality-agentic-applications-403f)
+- [I tested 4 free 70B-class LLM endpoints for real production work — here&#39;s what each is actually good at](https://dev.to/pcpranav/i-tested-4-free-70b-class-llm-endpoints-for-real-production-work-heres-what-each-is-actually-1if9)
+- [Building an on-prem Kubernetes cluster manager - Part 1: Why, and what it looks like](https://dev.to/ishara_ekanayaka/building-an-on-prem-kubernetes-cluster-manager-part-1-why-and-what-it-looks-like-39k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
