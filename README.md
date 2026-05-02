@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Journalism](https://dev.to/cheetah100/ai-in-journalism-4k57)
-- [This Week In React #279 : Compiler, TSRX, StyleX, XState, Hook Form | SPM, SimCam, Enriched Markdown, Agent Device | pnpm, Aube, Fresh, Node.js](https://dev.to/sebastienlorber/this-week-in-react-279-compiler-tsrx-stylex-xstate-hook-form-spm-simcam-enriched-44g8)
-- [Hosting Public Website Content with Azure Blob Storage](https://dev.to/degreatkhali/hosting-public-website-content-with-azure-blob-storage-45ln)
-- [From &quot;Just Data&quot; to &quot;A Global Database&quot;: My Second Week Learning Solana](https://dev.to/lymah/from-just-data-to-a-global-database-my-second-week-learning-solana-5f4m)
-- [Explaining CSS Specificity Rules](https://dev.to/drprime01/explaining-css-specificity-rules-58i6)
+- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
+- [From Code to Clouds: Hosting a Professional Resume on GitHub Pages&lpar;2&rpar;](https://dev.to/rahimah_dev/from-code-to-clouds-hosting-a-professional-resume-on-github-pages2-3poi)
+- [I forgot a domain was auto-renewing. So I built a dashboard for my side projects.](https://dev.to/pigeoncodeur/i-forgot-a-domain-was-auto-renewing-so-i-built-a-dashboard-for-my-side-projects-1f9a)
+- [Deleting the “Nice” Anti-Pattern: A Personal Systems Refactor](https://dev.to/khalisollis/deleting-the-nice-anti-pattern-a-personal-systems-refactor-56k)
+- [GitHub: Put Your Work Where Anyone Can See It](https://dev.to/yakhilesh/github-put-your-work-where-anyone-can-see-it-2fkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
