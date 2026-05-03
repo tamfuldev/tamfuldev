@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This Month in Networking - APR 2026](https://dev.to/sruthik_issac/this-month-in-networking-apr-2026-3ech)
-- [Understanding Logic, Reusability and Integrity On SQL ; Procedures, Functions and Transactions.](https://dev.to/braeson_nyahera/understanding-logic-reusability-and-integrity-on-sql-procedures-functions-and-transactions-f7a)
-- [# Introducing Conté UI](https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj)
-- [Understanding Multi-Head Attention in Transformers](https://dev.to/rijultp/understanding-multi-head-attention-in-transformers-gj1)
-- [FastAPI Quickstart in 2026](https://dev.to/dido739/fastapi-quickstart-in-2026-1j93)
+- [Del DDoS que tiraba exchanges al DDoS que silencia oráculos: cómo Lazarus se llevó $292M de KelpDAO en abril 2026](https://dev.to/lu1tr0n/del-ddos-que-tiraba-exchanges-al-ddos-que-silencia-oraculos-como-lazarus-se-llevo-292m-de-kelpdao-4afi)
+- [TestSprite Review: Localization Testing That Actually Works](https://dev.to/bocobobitch100/testsprite-review-localization-testing-that-actually-works-533o)
+- [Lessons from building a multi-platform social sync pipeline](https://dev.to/autoclaw/lessons-from-building-a-multi-platform-social-sync-pipeline-5f22)
+- [The bug your Typescript compiler and SQL migration both miss](https://dev.to/equality_modehouse_9897e/the-bug-your-typescript-compiler-and-sql-migration-both-miss-5165)
+- [TestSprite: The Autonomous Testing Layer AI Development Actually Needed](https://dev.to/aslturnagol/testsprite-the-autonomous-testing-layer-ai-development-actually-needed-2h86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
