@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Coding without Claude and Codex&quot;](https://dev.to/nuculabs_dev/agentic-coding-without-claude-and-codex-4nfh)
-- [Mistral Medium 3.5 Review: A 128B Open-Weight Model With a Coding Agent That Opens PRs For You](https://dev.to/techsifted/mistral-medium-35-review-a-128b-open-weight-model-with-a-coding-agent-that-opens-prs-for-you-5a0i)
-- [Deep Dive: Tailscale 1.60 Subnet Routing and How to Use for Home Lab Access](https://dev.to/johalputt/deep-dive-tailscale-160-subnet-routing-and-how-to-use-for-home-lab-access-460c)
-- [I Built and Launched Theta — A Modern Project Management Platform](https://dev.to/theta_pm/i-built-and-launched-theta-a-modern-project-management-platform-4cmf)
-- [SaaS Won&#39;t Die Because of AI](https://dev.to/theinvariant/saas-wont-die-because-of-ai-10d0)
+- [How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks](https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg)
+- [Specsmaxxing: I Wrote YAML Specs for My AI Agents — Here&#39;s What Changed &lpar;and What Didn&#39;t&rpar;](https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6)
+- [Specsmaxxing: escribí mis specs en YAML para mis agentes y esto cambió &lpar;y esto no&rpar;](https://dev.to/jtorchia/specsmaxxing-escribi-mis-specs-en-yaml-para-mis-agentes-y-esto-cambio-y-esto-no-5fj6)
+- [I Built an npm Package in 6.5 Hours with AI Agents — And It Actually Works](https://dev.to/chriswessells/i-built-an-npm-package-in-65-hours-with-ai-agents-and-it-actually-works-37nc)
+- [I Solved 200 LeetCode Problems and Still Froze in Interviews](https://dev.to/codeintuition/i-solved-200-leetcode-problems-and-still-froze-in-interviews-1hoj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
