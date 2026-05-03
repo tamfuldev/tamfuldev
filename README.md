@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
-- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic)
-- [Why Your ML Model Is Quietly Failing — And How to Catch It Before It Costs You](https://dev.to/jimkat/why-your-ml-model-is-quietly-failing-and-how-to-catch-it-before-it-costs-you-372j)
-- [Why I Removed the Trial Period from GramDeskBot and Replaced It with a Bonus](https://dev.to/petrtcoi/why-i-removed-the-trial-period-from-gramdeskbot-and-replaced-it-with-a-bonus-4ndc)
-- [Kimi K2.6 vs Claude vs GPT-5.5: I ran it against my real coding cases and the numbers surprised me](https://dev.to/jtorchia/kimi-k26-vs-claude-vs-gpt-55-i-ran-it-against-my-real-coding-cases-and-the-numbers-surprised-me-ln6)
+- [ƎUИИ](https://dev.to/sebastiandevelops/-5c89)
+- [I built a free, unlimited cloud storage app](https://dev.to/imaryannn/i-built-a-free-unlimited-cloud-storage-app-2fi0)
+- [3년만에 교내 IT동아리 웹파트 미션을 리팩토링 해보았다.](https://dev.to/algoorgoal/3nyeonmane-kuis-webpateu-misyeoneul-ripaegtoring-haeboja-3i39)
+- [Your Data Isn&#39;t Private. You Just Haven&#39;t Put It On-Chain Yet](https://dev.to/midnight-aliit/your-data-isnt-private-you-just-havent-put-it-on-chain-yet-4oee)
+- [Agents Make Code Cheaper. CodeClone 2.0 Makes Structural Regressions Harder to Ship.](https://dev.to/orenlab/agents-make-code-cheaper-codeclone-20-makes-structural-regressions-harder-to-ship-57p8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
