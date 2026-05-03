@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Restarting HTTP Connections Between AI Models. Here Is What I Use Instead.](https://dev.to/artem_a/i-stopped-restarting-http-connections-between-ai-models-here-is-what-i-use-instead-5f7d)
-- [Retrospective: Adopting Green Software Practices with Graviton4 and Carbon Footprint Tools](https://dev.to/johalputt/retrospective-adopting-green-software-practices-with-graviton4-and-carbon-footprint-tools-4nki)
-- [The &#39;Co-Authored-by Copilot&#39; Tag: Microsoft&#39;s Strategic Power Play in VS Code](https://dev.to/nilesh_kasar_2b00e7247dd5/the-co-authored-by-copilot-tag-microsofts-strategic-power-play-in-vs-code-13mi)
-- [From Next.js 15 to SvelteKit: Why We Rewrote Rsale.net&#39;s Frontend](https://dev.to/rsale/from-nextjs-15-to-sveltekit-why-we-rewrote-rsalenets-frontend-44gh)
-- [CTX: I gave Claude Code a memory that actually works](https://dev.to/jaewon_jang_d63fddcf69ac2/ctx-i-gave-claude-code-a-memory-that-actually-works-45id)
+- [How I added LLM fallback to my OpenAI app in 10 minutes](https://dev.to/jayrai/how-i-added-llm-fallback-to-my-openai-app-in-10-minutes-3d35)
+- [Convert URDF to MuJoCo MJCF Without Installing Anything API + Python SDK](https://dev.to/ravindhar/convert-urdf-to-mujoco-mjcf-without-installing-anything-api-python-sdk-43ge)
+- [shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?](https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml)
+- [Building a Developer Tool on Gemini&#39;s Free Tier — What&#39;s Actually Possible](https://dev.to/hiyoyok/building-a-developer-tool-on-geminis-free-tier-whats-actually-possible-3f33)
+- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
