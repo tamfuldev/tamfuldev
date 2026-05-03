@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Human&quot; Protocol: Why Clarity is the Ultimate Technical Skill](https://dev.to/kate8382/the-human-protocol-why-clarity-is-the-ultimate-technical-skill-4n4l)
-- [Understanding Bastion Hosts: The Quite Gatekeepers of Modern Infrastructure](https://dev.to/amin_haiqal_2b12dc1098e18/understanding-bastion-hosts-the-quite-gatekeepers-of-modern-infrastructure-436m)
-- [We Cut 40% of Our Security Incidents Using Trivy 0.50 and Falco 0.40](https://dev.to/johalputt/we-cut-40-of-our-security-incidents-using-trivy-050-and-falco-040-50hg)
-- [AgentFlow — From Agent Code to Production API in Minutes](https://dev.to/10xscale/agentflow-from-agent-code-to-production-api-in-minutes-p3e)
-- [Connect to RDS &lpar;PostgreSQL&rpar; in a Private Subnet via AWS Client VPN](https://dev.to/1515_1c22035d85e1ae3d/connect-to-rds-postgresql-in-a-private-subnet-via-aws-client-vpn-346o)
+- [How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months](https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n)
+- [I Just Wanted My Text to Look “Better”… Not Boring](https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca)
+- [I built a VS Code extension that gives AI instant context about your codebase - 20+ organic installs in 2 hours.](https://dev.to/charmi_soni_95bf0498cc45d/i-built-a-vs-code-extension-that-gives-ai-instant-context-about-your-codebase-20-organic-4o5d)
+- [Workspace 2026 : one USB-C to charge them all](https://dev.to/hexfloor/workspace-2026-one-usb-c-to-charge-them-all-36of)
+- [عملت Chrome Extension يصلح مشكلة النص العربي في البراوزر](https://dev.to/ezzeldin/mlt-chrome-extension-yslh-mshkl-lns-lrby-fy-lbrwzr-31ld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
