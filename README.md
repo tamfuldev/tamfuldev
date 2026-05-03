@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks](https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg)
-- [Specsmaxxing: I Wrote YAML Specs for My AI Agents — Here&#39;s What Changed &lpar;and What Didn&#39;t&rpar;](https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6)
-- [Specsmaxxing: escribí mis specs en YAML para mis agentes y esto cambió &lpar;y esto no&rpar;](https://dev.to/jtorchia/specsmaxxing-escribi-mis-specs-en-yaml-para-mis-agentes-y-esto-cambio-y-esto-no-5fj6)
-- [I Built an npm Package in 6.5 Hours with AI Agents — And It Actually Works](https://dev.to/chriswessells/i-built-an-npm-package-in-65-hours-with-ai-agents-and-it-actually-works-37nc)
-- [I Solved 200 LeetCode Problems and Still Froze in Interviews](https://dev.to/codeintuition/i-solved-200-leetcode-problems-and-still-froze-in-interviews-1hoj)
+- [The &quot;Human&quot; Protocol: Why Clarity is the Ultimate Technical Skill](https://dev.to/kate8382/the-human-protocol-why-clarity-is-the-ultimate-technical-skill-4n4l)
+- [Understanding Bastion Hosts: The Quite Gatekeepers of Modern Infrastructure](https://dev.to/amin_haiqal_2b12dc1098e18/understanding-bastion-hosts-the-quite-gatekeepers-of-modern-infrastructure-436m)
+- [We Cut 40% of Our Security Incidents Using Trivy 0.50 and Falco 0.40](https://dev.to/johalputt/we-cut-40-of-our-security-incidents-using-trivy-050-and-falco-040-50hg)
+- [AgentFlow — From Agent Code to Production API in Minutes](https://dev.to/10xscale/agentflow-from-agent-code-to-production-api-in-minutes-p3e)
+- [Connect to RDS &lpar;PostgreSQL&rpar; in a Private Subnet via AWS Client VPN](https://dev.to/1515_1c22035d85e1ae3d/connect-to-rds-postgresql-in-a-private-subnet-via-aws-client-vpn-346o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
