@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Modern CSS Features for 2026](https://dev.to/digitalunicon/essential-modern-css-features-for-2026-5835)
-- [Floci &lpar;LocalStack alternative&rpar; storage modes: pick the right tradeoff per service &lpar;and never pay for it&rpar;](https://dev.to/hectorvent/floci-localstack-alternative-storage-modes-pick-the-right-tradeoff-per-service-and-never-pay-3nj5)
-- [Claude + Mobile via MCP: Giving the Model Hands on a Real Phone](https://dev.to/sharminsirajudeen/claude-mobile-via-mcp-giving-the-model-hands-on-a-real-phone-45c0)
-- [AI-Native Mobile Testing: What It Actually Means in 2026](https://dev.to/sharminsirajudeen/ai-native-mobile-testing-what-it-actually-means-in-2026-3nfj)
-- [The Missing Control Plane for Local AI Agents](https://dev.to/sharminsirajudeen/the-missing-control-plane-for-local-ai-agents-232d)
+- [This Month in Networking - APR 2026](https://dev.to/sruthik_issac/this-month-in-networking-apr-2026-3ech)
+- [Understanding Logic, Reusability and Integrity On SQL ; Procedures, Functions and Transactions.](https://dev.to/braeson_nyahera/understanding-logic-reusability-and-integrity-on-sql-procedures-functions-and-transactions-f7a)
+- [# Introducing Conté UI](https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj)
+- [Understanding Multi-Head Attention in Transformers](https://dev.to/rijultp/understanding-multi-head-attention-in-transformers-gj1)
+- [FastAPI Quickstart in 2026](https://dev.to/dido739/fastapi-quickstart-in-2026-1j93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
