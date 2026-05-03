@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
-- [From Code to Clouds: Hosting a Professional Resume on GitHub Pages&lpar;2&rpar;](https://dev.to/rahimah_dev/from-code-to-clouds-hosting-a-professional-resume-on-github-pages2-3poi)
-- [I forgot a domain was auto-renewing. So I built a dashboard for my side projects.](https://dev.to/pigeoncodeur/i-forgot-a-domain-was-auto-renewing-so-i-built-a-dashboard-for-my-side-projects-1f9a)
-- [Deleting the “Nice” Anti-Pattern: A Personal Systems Refactor](https://dev.to/khalisollis/deleting-the-nice-anti-pattern-a-personal-systems-refactor-56k)
-- [GitHub: Put Your Work Where Anyone Can See It](https://dev.to/yakhilesh/github-put-your-work-where-anyone-can-see-it-2fkf)
+- [I always worried my own READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5)
+- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f)
+- [Where Does Your Data Live? Decoding the Modern Data Ecosystem](https://dev.to/cliffe_okoth/where-does-your-data-live-decoding-the-modern-data-ecosystem-2hlg)
+- [Harness engineering: Preparing TypeScript codebases for coding agents](https://dev.to/zeyu2001/harness-engineering-preparing-typescript-codebases-for-coding-agents-5ad0)
+- [How to Convert JSON to YAML &lpar;and Back&rpar; Without Writing a Single Line of Code](https://dev.to/pioneer10/how-to-convert-json-to-yaml-and-back-without-writing-a-single-line-of-code-5655)
 <!-- BLOG-POST-LIST:END -->
 
 ---
