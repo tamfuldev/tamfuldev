@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I always worried my own READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5)
-- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f)
-- [Where Does Your Data Live? Decoding the Modern Data Ecosystem](https://dev.to/cliffe_okoth/where-does-your-data-live-decoding-the-modern-data-ecosystem-2hlg)
-- [Harness engineering: Preparing TypeScript codebases for coding agents](https://dev.to/zeyu2001/harness-engineering-preparing-typescript-codebases-for-coding-agents-5ad0)
-- [How to Convert JSON to YAML &lpar;and Back&rpar; Without Writing a Single Line of Code](https://dev.to/pioneer10/how-to-convert-json-to-yaml-and-back-without-writing-a-single-line-of-code-5655)
+- [Selective Disclosure Patterns in Compact](https://dev.to/akanji_rahman_45ea46f9a7a/selective-disclosure-patterns-in-compact-1745)
+- [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94)
+- [Your .env file should have one line](https://dev.to/arvin_gopi/your-env-file-should-have-one-line-598)
+- [Network Address Translation &lpar;NAT&rpar;](https://dev.to/hirave_palak/network-address-translation-nat-592m)
+- [I wrote a custom CUDA inference engine to run Qwen3.5-27B on $130 mining cards](https://dev.to/haru-neo/i-wrote-a-custom-cuda-inference-engine-to-run-qwen35-27b-on-130-mining-cards-732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
