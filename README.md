@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ƎUИИ](https://dev.to/sebastiandevelops/-5c89)
-- [I built a free, unlimited cloud storage app](https://dev.to/imaryannn/i-built-a-free-unlimited-cloud-storage-app-2fi0)
-- [3년만에 교내 IT동아리 웹파트 미션을 리팩토링 해보았다.](https://dev.to/algoorgoal/3nyeonmane-kuis-webpateu-misyeoneul-ripaegtoring-haeboja-3i39)
-- [Your Data Isn&#39;t Private. You Just Haven&#39;t Put It On-Chain Yet](https://dev.to/midnight-aliit/your-data-isnt-private-you-just-havent-put-it-on-chain-yet-4oee)
-- [Agents Make Code Cheaper. CodeClone 2.0 Makes Structural Regressions Harder to Ship.](https://dev.to/orenlab/agents-make-code-cheaper-codeclone-20-makes-structural-regressions-harder-to-ship-57p8)
+- [Agentic Coding without Claude and Codex&quot;](https://dev.to/nuculabs_dev/agentic-coding-without-claude-and-codex-4nfh)
+- [Mistral Medium 3.5 Review: A 128B Open-Weight Model With a Coding Agent That Opens PRs For You](https://dev.to/techsifted/mistral-medium-35-review-a-128b-open-weight-model-with-a-coding-agent-that-opens-prs-for-you-5a0i)
+- [Deep Dive: Tailscale 1.60 Subnet Routing and How to Use for Home Lab Access](https://dev.to/johalputt/deep-dive-tailscale-160-subnet-routing-and-how-to-use-for-home-lab-access-460c)
+- [I Built and Launched Theta — A Modern Project Management Platform](https://dev.to/theta_pm/i-built-and-launched-theta-a-modern-project-management-platform-4cmf)
+- [SaaS Won&#39;t Die Because of AI](https://dev.to/theinvariant/saas-wont-die-because-of-ai-10d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
