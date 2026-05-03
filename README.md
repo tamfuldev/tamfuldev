@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Selective Disclosure Patterns in Compact](https://dev.to/akanji_rahman_45ea46f9a7a/selective-disclosure-patterns-in-compact-1745)
-- [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94)
-- [Your .env file should have one line](https://dev.to/arvin_gopi/your-env-file-should-have-one-line-598)
-- [Network Address Translation &lpar;NAT&rpar;](https://dev.to/hirave_palak/network-address-translation-nat-592m)
-- [I wrote a custom CUDA inference engine to run Qwen3.5-27B on $130 mining cards](https://dev.to/haru-neo/i-wrote-a-custom-cuda-inference-engine-to-run-qwen35-27b-on-130-mining-cards-732)
+- [I Built a Multi-Agent AI Pen Tester Because AI Coding Tools Are Shipping Vulnerable Code](https://dev.to/aaronsood10/i-built-a-multi-agent-ai-pen-tester-because-ai-coding-tools-are-shipping-vulnerable-code-6bd)
+- [LinkedIn Quietly Migrated From ProseMirror to Quill — and Broke Every Browser Automation Tool That Touched the Composer](https://dev.to/achiya-automation/linkedin-quietly-migrated-from-prosemirror-to-quill-and-broke-every-browser-automation-tool-that-4927)
+- [Why Your Reddit Video Downloads Have No Sound &lpar;And How to Fix It&rpar;](https://dev.to/hiteshm_devapp/why-your-reddit-video-downloads-have-no-sound-and-how-to-fix-it-1ila)
+- [vite-plugin-pack-orchestrator，One Vite Plugin for Compression, Checksums, and Auto Hash-Renaming](https://dev.to/kai000/vite-plugin-pack-orchestratorone-vite-plugin-for-compression-checksums-and-auto-hash-renaming-5di7)
+- [# Why You Abandon Every React Project You Start &lpar;And How to Fix It&rpar;](https://dev.to/devprom/-why-you-abandon-every-react-project-you-start-and-how-to-fix-it-1ed0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
