@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I added LLM fallback to my OpenAI app in 10 minutes](https://dev.to/jayrai/how-i-added-llm-fallback-to-my-openai-app-in-10-minutes-3d35)
-- [Convert URDF to MuJoCo MJCF Without Installing Anything API + Python SDK](https://dev.to/ravindhar/convert-urdf-to-mujoco-mjcf-without-installing-anything-api-python-sdk-43ge)
-- [shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?](https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml)
-- [Building a Developer Tool on Gemini&#39;s Free Tier — What&#39;s Actually Possible](https://dev.to/hiyoyok/building-a-developer-tool-on-geminis-free-tier-whats-actually-possible-3f33)
-- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
+- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
+- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic)
+- [Why Your ML Model Is Quietly Failing — And How to Catch It Before It Costs You](https://dev.to/jimkat/why-your-ml-model-is-quietly-failing-and-how-to-catch-it-before-it-costs-you-372j)
+- [Why I Removed the Trial Period from GramDeskBot and Replaced It with a Bonus](https://dev.to/petrtcoi/why-i-removed-the-trial-period-from-gramdeskbot-and-replaced-it-with-a-bonus-4ndc)
+- [Kimi K2.6 vs Claude vs GPT-5.5: I ran it against my real coding cases and the numbers surprised me](https://dev.to/jtorchia/kimi-k26-vs-claude-vs-gpt-55-i-ran-it-against-my-real-coding-cases-and-the-numbers-surprised-me-ln6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
