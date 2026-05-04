@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to build an LLM wiki with How to build an LLM wiki with Claude and MCP](https://dev.to/hjarni/how-to-build-an-llm-wiki-with-how-to-build-an-llm-wiki-with-claude-and-mcp-52m4)
-- [OpenCode Config Builder](https://dev.to/mikecase/opencode-config-builder-3f6i)
-- [I tracked 4,200 startup GitHub orgs for six months — here&#39;s what actually predicts a fundraise](https://dev.to/data_nerd/i-tracked-4200-startup-github-orgs-for-six-months-heres-what-actually-predicts-a-fundraise-52cd)
-- [The part of building an AI receptionist nobody talks about](https://dev.to/nevermiss/the-part-of-building-an-ai-receptionist-nobody-talks-about-5h85)
-- [CSS Architecture](https://dev.to/eduardocruzpalacios/css-architecture-4kob)
+- [I’m shipping zerocopy, a Flutter package that eliminates the &quot;Copy Tax&quot; between Dart and C++. No serialization, no cloning, and zero GC pressure.](https://dev.to/muhammad_omar_0f70d9ecf59/im-shipping-zerocopy-a-flutter-package-that-eliminates-the-copy-tax-between-dart-and-c-no-2kc3)
+- [You Vibe-Coded Your SaaS Landing Page — Google Can&#39;t See It](https://dev.to/amedinat/you-vibe-coded-your-saas-landing-page-google-cant-see-it-16cj)
+- [I Spent 18 Months Building a WakaTime Alternative Solo — Here&#39;s What I Learned](https://dev.to/niklasschaeffer/i-spent-18-months-building-a-wakatime-alternative-solo-heres-what-i-learned-1im)
+- [Async Embedding Batching, Dev Workflow AI Plugin, &amp; LLM-Powered Game Development](https://dev.to/soytuber/async-embedding-batching-dev-workflow-ai-plugin-llm-powered-game-development-1j27)
+- [SQLite Internals &amp; PostgreSQL Multi-Master Replication Updates](https://dev.to/soytuber/sqlite-internals-postgresql-multi-master-replication-updates-47bh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
