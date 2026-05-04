@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematically Prohibiting &#39;Cheating&#39; in On-Chain RPS: A Midnight ZK dApp Case Study](https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g)
-- [Cognitive Infrastructure: the missing layer between AI and real impact](https://dev.to/allrox/cognitive-infrastructure-the-missing-layer-between-ai-and-real-impact-2ehp)
-- [Serverless Workflow Decomposition: When a Step Function Becomes a Monolith](https://dev.to/aws-builders/serverless-workflow-decomposition-when-a-step-function-becomes-a-monolith-1hch)
-- [The date bug that cost us a $120K contract and what i built to make sure it never happens again](https://dev.to/archie_602b60dff31296530b/the-date-bug-that-cost-us-a-120k-contract-and-what-i-built-to-make-sure-it-never-happens-again-5cb0)
-- [From Visual Studio 2026 to VS Code: Paledev Dark Theme](https://dev.to/jtgmagic/from-visual-studio-2026-to-vs-code-paledev-dark-theme-2j43)
+- [How I Built an Agentic Coding CLI from Scratch](https://dev.to/vigp17/how-i-built-an-agentic-coding-cli-from-scratch-2ob5)
+- [From Script to Browser: Migrating My First Custom Solana Keypair](https://dev.to/gorilaprada/from-script-to-browser-migrating-my-first-custom-solana-keypair-45cg)
+- [Why Your Control Plane Is a Convergence Engine, Not a Policy Engine](https://dev.to/bisdom/why-your-control-plane-is-a-convergence-engine-not-a-policy-engine-5d88)
+- [AI is a Non-Deterministic Guest in a Deterministic House: Stop Building Chatbots, Start Building Sandboxes](https://dev.to/kowshik_jallipalli_a7e0a5/ai-is-a-non-deterministic-guest-in-a-deterministic-house-stop-building-chatbots-start-building-3i1j)
+- [Architecting Resilient Systems: An Applied Guide to Software Design Principles](https://dev.to/eduardo_ginofloresnavar/architecting-resilient-systems-an-applied-guide-to-software-design-principles-413e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
