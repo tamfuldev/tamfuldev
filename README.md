@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Agentic Coding CLI from Scratch](https://dev.to/vigp17/how-i-built-an-agentic-coding-cli-from-scratch-2ob5)
-- [From Script to Browser: Migrating My First Custom Solana Keypair](https://dev.to/gorilaprada/from-script-to-browser-migrating-my-first-custom-solana-keypair-45cg)
-- [Why Your Control Plane Is a Convergence Engine, Not a Policy Engine](https://dev.to/bisdom/why-your-control-plane-is-a-convergence-engine-not-a-policy-engine-5d88)
-- [AI is a Non-Deterministic Guest in a Deterministic House: Stop Building Chatbots, Start Building Sandboxes](https://dev.to/kowshik_jallipalli_a7e0a5/ai-is-a-non-deterministic-guest-in-a-deterministic-house-stop-building-chatbots-start-building-3i1j)
-- [Architecting Resilient Systems: An Applied Guide to Software Design Principles](https://dev.to/eduardo_ginofloresnavar/architecting-resilient-systems-an-applied-guide-to-software-design-principles-413e)
+- [Pourquoi j&#39;ai créé T2DECODE : l&#39;apprentissage technique sans dépendre du Cloud.](https://dev.to/itswinancher/pourquoi-jai-cree-t2decode-lapprentissage-technique-sans-dependre-du-cloud-31d0)
+- [The Myth of Seamless Figma-to-Production Workflows](https://dev.to/bahubali_magadum_/the-myth-of-seamless-figma-to-production-workflows-bj2)
+- [🚗 I built a Conversational Car Marketplace powered by LLMs](https://dev.to/softdev0129/i-built-a-conversational-car-marketplace-powered-by-llms-4d3n)
+- [What Should Humans Design When AI Can Write Most of the Code?](https://dev.to/kotaroyamame/what-should-humans-design-when-ai-can-write-most-of-the-code-pp7)
+- [Six Accessibility Failures We Keep Finding in WooCommerce Stores &lpar;And the Plugins That Cause Them&rpar;](https://dev.to/agentkit/six-accessibility-failures-we-keep-finding-in-woocommerce-stores-and-the-plugins-that-cause-them-1lpf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
