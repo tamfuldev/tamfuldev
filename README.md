@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I’m shipping zerocopy, a Flutter package that eliminates the &quot;Copy Tax&quot; between Dart and C++. No serialization, no cloning, and zero GC pressure.](https://dev.to/muhammad_omar_0f70d9ecf59/im-shipping-zerocopy-a-flutter-package-that-eliminates-the-copy-tax-between-dart-and-c-no-2kc3)
-- [You Vibe-Coded Your SaaS Landing Page — Google Can&#39;t See It](https://dev.to/amedinat/you-vibe-coded-your-saas-landing-page-google-cant-see-it-16cj)
-- [I Spent 18 Months Building a WakaTime Alternative Solo — Here&#39;s What I Learned](https://dev.to/niklasschaeffer/i-spent-18-months-building-a-wakatime-alternative-solo-heres-what-i-learned-1im)
-- [Async Embedding Batching, Dev Workflow AI Plugin, &amp; LLM-Powered Game Development](https://dev.to/soytuber/async-embedding-batching-dev-workflow-ai-plugin-llm-powered-game-development-1j27)
-- [SQLite Internals &amp; PostgreSQL Multi-Master Replication Updates](https://dev.to/soytuber/sqlite-internals-postgresql-multi-master-replication-updates-47bh)
+- [Why MCP Apps are going to be the next big thing](https://dev.to/quotentiroler/why-mcp-apps-are-going-to-be-the-next-big-thing-3611)
+- [Token Consumption Anxiety and the Open Source App I Built to Solve It](https://dev.to/regnard/token-consumption-anxiety-and-the-open-source-app-i-built-to-solve-it-395k)
+- [The smoke tests that never got automated](https://dev.to/luguitoo93/the-smoke-tests-that-never-got-automated-305o)
+- [STRATEGY.md as code — turning a doc nobody reads into an LLM contract](https://dev.to/yoshinaga/strategymd-as-code-turning-a-doc-nobody-reads-into-an-llm-contract-18mm)
+- [Inside Job Logs: What to Look For When Things Break](https://dev.to/zubairakbar/inside-job-logs-what-to-look-for-when-things-break-5gnk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
