@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [mdedit.io - please feedback this no-account markdown editor](https://dev.to/matthiashertel21/mdeditio-please-feedback-this-no-account-markdown-editor-jek)
-- [hosting a public website using azure blob storage](https://dev.to/sammyhigh5/hosting-a-public-website-using-azure-blob-storage-12mh)
-- [I Build Premade FiveM Servers. Here Is Why Most of Them Are Trash &lpar;And What We Do Differently&rpar;](https://dev.to/meteostudios/i-build-premade-fivem-servers-here-is-why-most-of-them-are-trash-and-what-we-do-differently-1lh4)
-- [How I Coordinate Scripts Across Devices Without Open Ports, Firebase, or a VPS](https://dev.to/d_security/how-i-coordinate-scripts-across-devices-without-open-ports-firebase-or-a-vps-1ipi)
-- [Install MongoDB on Ubuntu 24.04: Secure Setup with Authentication and UFW](https://dev.to/sst21/install-mongodb-on-ubuntu-2404-secure-setup-with-authentication-and-ufw-3okh)
+- [[Google Cloud Next &#39;26 Recap #3] Anthropic&#39;s Vision for &quot;After Software&quot;](https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6)
+- [Secure API Calling With Custom GPTs and Descope](https://dev.to/descope/secure-api-calling-with-custom-gpts-and-descope-iig)
+- [What Is an MCP Server &lpar;And What Actually Happens Behind the Scenes&rpar;](https://dev.to/saras_growth_space/what-is-an-mcp-server-and-what-actually-happens-behind-the-scenes-3162)
+- [I Think Ruby Isn’t Dynamic Enough…](https://dev.to/kojix2/i-think-ruby-isnt-dynamic-enough-1ga7)
+- [I have NFC implants in both hands. I only installed one of them myself.](https://dev.to/niclydon/i-have-nfc-implants-in-both-hands-i-only-installed-one-of-them-myself-21ep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
