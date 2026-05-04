@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Google Cloud Next &#39;26 Recap #3] Anthropic&#39;s Vision for &quot;After Software&quot;](https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6)
-- [Secure API Calling With Custom GPTs and Descope](https://dev.to/descope/secure-api-calling-with-custom-gpts-and-descope-iig)
-- [What Is an MCP Server &lpar;And What Actually Happens Behind the Scenes&rpar;](https://dev.to/saras_growth_space/what-is-an-mcp-server-and-what-actually-happens-behind-the-scenes-3162)
-- [I Think Ruby Isn’t Dynamic Enough…](https://dev.to/kojix2/i-think-ruby-isnt-dynamic-enough-1ga7)
-- [I have NFC implants in both hands. I only installed one of them myself.](https://dev.to/niclydon/i-have-nfc-implants-in-both-hands-i-only-installed-one-of-them-myself-21ep)
+- [When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About](https://dev.to/debajyoti_ghosh/when-android-cli-meets-agentforce-the-full-stack-ai-developer-nobody-talked-about-20k2)
+- [I built a free macOS app to mount SFTP, S3, and FTP as real Finder volumes — no macFUSE](https://dev.to/ayonpal/i-built-a-free-macos-app-to-mount-sftp-s3-and-ftp-as-real-finder-volumes-no-macfuse-lcn)
+- [GPU Utilization Is a Counter, Not a Cause](https://dev.to/ingero/gpu-utilization-is-a-counter-not-a-cause-n6e)
+- [🧠 Building Apps That Think: Why Most Developers Are Just Assembling, Not Creating](https://dev.to/anubhavvv___/building-apps-that-think-why-most-developers-are-just-assembling-not-creating-54h7)
+- [Hermes Agent VPS vs Managed Hosting: Which One Makes Sense?](https://dev.to/farrukh_tariq_b2d419a76cf/hermes-agent-vps-vs-managed-hosting-which-one-makes-sense-53pm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
