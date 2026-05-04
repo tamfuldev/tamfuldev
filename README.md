@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail renders at 5fps and nobody cares. Performance culture is a cope.](https://dev.to/adioof/gmail-renders-at-5fps-and-nobody-cares-performance-culture-is-a-cope-4mbc)
-- [Synthadoc: From YouTube to Wiki: How v0.3.0 Turns Any Content into Structured Knowledge](https://dev.to/paul_chen_90371fe7426cb44/synthadoc-from-youtube-to-wiki-how-v030-turns-any-content-into-structured-knowledge-4l38)
-- [How to Localize Prices in React Using Exchange Rates](https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j)
-- [IP Geolocation for Fraud Detection — A Developer&#39;s Guide](https://dev.to/apogeoapi/ip-geolocation-for-fraud-detection-a-developers-guide-40bf)
-- [We Reduced AI Chatbot Latency by 30% with Streaming Responses and FastAPI 0.115](https://dev.to/johalputt/we-reduced-ai-chatbot-latency-by-30-with-streaming-responses-and-fastapi-0115-bi7)
+- [How to build an LLM wiki with How to build an LLM wiki with Claude and MCP](https://dev.to/hjarni/how-to-build-an-llm-wiki-with-how-to-build-an-llm-wiki-with-claude-and-mcp-52m4)
+- [OpenCode Config Builder](https://dev.to/mikecase/opencode-config-builder-3f6i)
+- [I tracked 4,200 startup GitHub orgs for six months — here&#39;s what actually predicts a fundraise](https://dev.to/data_nerd/i-tracked-4200-startup-github-orgs-for-six-months-heres-what-actually-predicts-a-fundraise-52cd)
+- [The part of building an AI receptionist nobody talks about](https://dev.to/nevermiss/the-part-of-building-an-ai-receptionist-nobody-talks-about-5h85)
+- [CSS Architecture](https://dev.to/eduardocruzpalacios/css-architecture-4kob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
