@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why MCP Apps are going to be the next big thing](https://dev.to/quotentiroler/why-mcp-apps-are-going-to-be-the-next-big-thing-3611)
-- [Token Consumption Anxiety and the Open Source App I Built to Solve It](https://dev.to/regnard/token-consumption-anxiety-and-the-open-source-app-i-built-to-solve-it-395k)
-- [The smoke tests that never got automated](https://dev.to/luguitoo93/the-smoke-tests-that-never-got-automated-305o)
-- [STRATEGY.md as code — turning a doc nobody reads into an LLM contract](https://dev.to/yoshinaga/strategymd-as-code-turning-a-doc-nobody-reads-into-an-llm-contract-18mm)
-- [Inside Job Logs: What to Look For When Things Break](https://dev.to/zubairakbar/inside-job-logs-what-to-look-for-when-things-break-5gnk)
+- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
+- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
+- [My site went down for a few hours yesterday and my users knew before me](https://dev.to/bashsnippets/my-site-went-down-for-a-few-hours-yesterday-and-my-users-knew-before-me-1of6)
+- [PortFlow: Bridging Laravel with Serial Hardware, IoT Sensors &amp; Thermal Printers](https://dev.to/hamdyelbatal122/portflow-bridging-laravel-with-the-physical-world-serial-hardware-iot-sensors-thermal-printers-46f8)
+- [I built a CLI that scans, validates and audits your .env files and it works with any stack](https://dev.to/hossiy16/i-built-a-cli-that-scans-validates-and-audits-your-env-files-and-it-works-with-any-stack-2pi4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
