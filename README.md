@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Integration, Transforming Workplaces and Employee Futures - SmarterArticles S1E3](https://dev.to/rawveg/ai-integration-transforming-workplaces-and-employee-futures-smarterarticles-s1e3-3a83)
-- [How Ecodomen.ru Helps Save on Domains](https://dev.to/arezvov/how-ecodomenru-helps-save-on-domains-4k0d)
-- [I built an AI that automatically reviews your GitHub PRs](https://dev.to/murtaztahir2ai/i-built-an-ai-that-automatically-reviews-your-github-prs-4cef)
-- [MCP Ecosystem Week 19: Data Intelligence and Safety Tools Lead New Arrivals](https://dev.to/curatedmcp/mcp-ecosystem-week-19-data-intelligence-and-safety-tools-lead-new-arrivals-33kb)
-- [From a For-Loop to a Fault-Tolerant Payout System &lpar;₹70L/month, 0 Duplicate Payments&rpar;](https://dev.to/miteshvasoya/from-a-for-loop-to-a-fault-tolerant-payout-system-70lmonth-0-duplicate-payments-4cfp)
+- [mdedit.io - please feedback this no-account markdown editor](https://dev.to/matthiashertel21/mdeditio-please-feedback-this-no-account-markdown-editor-jek)
+- [hosting a public website using azure blob storage](https://dev.to/sammyhigh5/hosting-a-public-website-using-azure-blob-storage-12mh)
+- [I Build Premade FiveM Servers. Here Is Why Most of Them Are Trash &lpar;And What We Do Differently&rpar;](https://dev.to/meteostudios/i-build-premade-fivem-servers-here-is-why-most-of-them-are-trash-and-what-we-do-differently-1lh4)
+- [How I Coordinate Scripts Across Devices Without Open Ports, Firebase, or a VPS](https://dev.to/d_security/how-i-coordinate-scripts-across-devices-without-open-ports-firebase-or-a-vps-1ipi)
+- [Install MongoDB on Ubuntu 24.04: Secure Setup with Authentication and UFW](https://dev.to/sst21/install-mongodb-on-ubuntu-2404-secure-setup-with-authentication-and-ufw-3okh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
