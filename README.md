@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pourquoi j&#39;ai créé T2DECODE : l&#39;apprentissage technique sans dépendre du Cloud.](https://dev.to/itswinancher/pourquoi-jai-cree-t2decode-lapprentissage-technique-sans-dependre-du-cloud-31d0)
-- [The Myth of Seamless Figma-to-Production Workflows](https://dev.to/bahubali_magadum_/the-myth-of-seamless-figma-to-production-workflows-bj2)
-- [🚗 I built a Conversational Car Marketplace powered by LLMs](https://dev.to/softdev0129/i-built-a-conversational-car-marketplace-powered-by-llms-4d3n)
-- [What Should Humans Design When AI Can Write Most of the Code?](https://dev.to/kotaroyamame/what-should-humans-design-when-ai-can-write-most-of-the-code-pp7)
-- [Six Accessibility Failures We Keep Finding in WooCommerce Stores &lpar;And the Plugins That Cause Them&rpar;](https://dev.to/agentkit/six-accessibility-failures-we-keep-finding-in-woocommerce-stores-and-the-plugins-that-cause-them-1lpf)
+- [Ingress Migration Strategy: From Deprecated Controllers to Gateway API](https://dev.to/matthiasbruns/ingress-migration-strategy-from-deprecated-controllers-to-gateway-api-1607)
+- [Revolutionize the comparison of Mistral 2 and RAG: What Fails](https://dev.to/johalputt/revolutionize-the-comparison-of-mistral-2-and-rag-what-fails-4jl3)
+- [I built a carbon linter for Terraform PRs — here&#39;s the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p)
+- [Deploy: App Nextjs + Docker + VPS](https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7)
+- [Pricing AI Features in 2026: How To Charge For LLM-Backed Products Without Bleeding Margins](https://dev.to/alexcloudstar/pricing-ai-features-in-2026-how-to-charge-for-llm-backed-products-without-bleeding-margins-57fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
