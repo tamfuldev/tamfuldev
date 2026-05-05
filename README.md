@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
-- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
-- [My site went down for a few hours yesterday and my users knew before me](https://dev.to/bashsnippets/my-site-went-down-for-a-few-hours-yesterday-and-my-users-knew-before-me-1of6)
-- [PortFlow: Bridging Laravel with Serial Hardware, IoT Sensors &amp; Thermal Printers](https://dev.to/hamdyelbatal122/portflow-bridging-laravel-with-the-physical-world-serial-hardware-iot-sensors-thermal-printers-46f8)
-- [I built a CLI that scans, validates and audits your .env files and it works with any stack](https://dev.to/hossiy16/i-built-a-cli-that-scans-validates-and-audits-your-env-files-and-it-works-with-any-stack-2pi4)
+- [The History of Expanso &lpar;Part 6&rpar;: Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c)
+- [Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61)
+- [I Built a 3D Interactive Sales Simulator for Cloud Consultants — Here&#39;s Why](https://dev.to/slimevelli3/i-built-a-3d-interactive-sales-simulator-for-cloud-consultants-heres-why-6l)
+- [Under 30-Minute Setup: AI Coding Guidelines for Your Next.js Project &lpar;Before/After Code&rpar;](https://dev.to/yunbow/under-30-minute-setup-ai-coding-guidelines-for-your-nextjs-project-beforeafter-code-fnp)
+- [I Built a Minecraft Mod Where Every Sword is an AWS Service — Here&#39;s How We Coded It with AI](https://dev.to/aws-heroes/i-built-a-minecraft-mod-where-every-sword-is-an-aws-service-heres-how-we-coded-it-with-ai-4epc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
