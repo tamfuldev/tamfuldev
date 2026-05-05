@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3)
-- [Building Translation Workflows: Technical Implementation for Multi-Linguist Review Processes](https://dev.to/diogoheleno/building-translation-workflows-technical-implementation-for-multi-linguist-review-processes-5910)
-- [1.1.3 Optimizable vs Utility](https://dev.to/joonghyukshin/113-optimizable-vs-utility-51bl)
-- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
-- [Claude Managed Agents: The Layer That Disappears, The Layer That Stays — A View from Business Automation Agents](https://dev.to/aws-builders/claude-managed-agents-the-layer-that-disappears-the-layer-that-stays-a-view-from-business-4n0)
+- [Connecting to SQL Server Using Dapper](https://dev.to/mtyide/connecting-to-sql-server-using-dapper-1d7e)
+- [Parallel Branches in Neuron AI Workflow](https://dev.to/inspector/parallel-branches-in-neuron-ai-workflow-24lc)
+- [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
+- [I got tired of refreshing Telegram. So I built a bot that does it for me](https://dev.to/nomad4tech/i-got-tired-of-refreshing-telegram-so-i-built-a-bot-that-does-it-for-me-4aem)
+- [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
