@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Desktop com duas contas no macOS: como rodar pessoal e empresa lado a lado](https://dev.to/rflpazini/claude-desktop-com-duas-contas-no-macos-como-rodar-pessoal-e-empresa-lado-a-lado-5aik)
-- [How Two 13-Year-Olds Distilled DeepSeek-V4 Reasoning into Qwen3.5-2B](https://dev.to/limen4ik/how-two-13-year-olds-distilled-deepseek-v4-reasoning-into-qwen35-2b-6h3)
-- [PHP #2: Apa itu Variable?](https://dev.to/ryunze/php-2-apa-itu-variable-52mk)
-- [Mnemara — a runtime for the Claude Agent SDK that uses the role doc as a self-monitoring layer](https://dev.to/mekickdemonscreator/mnemara-a-runtime-for-the-claude-agent-sdk-that-uses-the-role-doc-as-a-self-monitoring-layer-46gf)
-- [Let&#39;s Encrypt Wildcard Certs in Kubernetes: cert-manager + DNS-01 &lpar;and When We Skipped It&rpar;](https://dev.to/pavel-hostim/lets-encrypt-wildcard-certs-in-kubernetes-cert-manager-dns-01-and-when-we-skipped-it-5bi8)
+- [🗣️ Change default voice for MacOS &#39;say&#39; command to Siri Voice 1](https://dev.to/krisplatis/change-default-voice-for-macos-say-command-to-siri-voice-1-580j)
+- [Agentic DevOps: Automating Security Remediation on AWS Using AWS DevOps Agent.](https://dev.to/chimera2/agentic-devops-automating-security-remediation-on-aws-using-aws-devops-agent-5hga)
+- [Understanding Shielded Transactions on Midnight](https://dev.to/abhineetbiju/understanding-shielded-transactions-on-midnight-5bc4)
+- [Linux Services Made Simple: Create, Control, and Remove Your First systemd Service](https://dev.to/ubayedbinsufian/linux-services-made-simple-create-control-and-remove-your-first-systemd-service-3aa2)
+- [What Even Is AI? &lpar;I Took a Break &amp; Had to Relearn Everything&rpar;](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
