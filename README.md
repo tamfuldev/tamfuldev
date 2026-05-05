@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [4 Types of Hallucinations: One Detection Pattern Per Type](https://dev.to/gabrielanhaia/4-types-of-hallucinations-one-detection-pattern-per-type-1pjb)
-- [Python Background Tasks — Asyncio Traps, FastAPI &amp; Celery &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-background-tasks-asyncio-traps-fastapi-celery-2026-381i)
-- [errors.Join vs Multi-Return: When to Aggregate, When to Wrap](https://dev.to/gabrielanhaia/errorsjoin-vs-multi-return-when-to-aggregate-when-to-wrap-3b5o)
-- [The Underestimated Problem Silently Draining Trust From Your DeFi App](https://dev.to/92srdjan/the-underestimated-problem-silently-draining-trust-from-your-defi-app-1aj7)
-- [PHP Traits in TypeScript: 4 Idioms That Replace Them](https://dev.to/gabrielanhaia/php-traits-in-typescript-4-idioms-that-replace-them-26d6)
+- [Claude Desktop com duas contas no macOS: como rodar pessoal e empresa lado a lado](https://dev.to/rflpazini/claude-desktop-com-duas-contas-no-macos-como-rodar-pessoal-e-empresa-lado-a-lado-5aik)
+- [How Two 13-Year-Olds Distilled DeepSeek-V4 Reasoning into Qwen3.5-2B](https://dev.to/limen4ik/how-two-13-year-olds-distilled-deepseek-v4-reasoning-into-qwen35-2b-6h3)
+- [PHP #2: Apa itu Variable?](https://dev.to/ryunze/php-2-apa-itu-variable-52mk)
+- [Mnemara — a runtime for the Claude Agent SDK that uses the role doc as a self-monitoring layer](https://dev.to/mekickdemonscreator/mnemara-a-runtime-for-the-claude-agent-sdk-that-uses-the-role-doc-as-a-self-monitoring-layer-46gf)
+- [Let&#39;s Encrypt Wildcard Certs in Kubernetes: cert-manager + DNS-01 &lpar;and When We Skipped It&rpar;](https://dev.to/pavel-hostim/lets-encrypt-wildcard-certs-in-kubernetes-cert-manager-dns-01-and-when-we-skipped-it-5bi8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
