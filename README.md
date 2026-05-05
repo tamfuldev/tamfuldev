@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why your junior engineers are not going anywhere](https://dev.to/liatmoss/why-your-junior-engineers-are-not-going-anywhere-34fp)
-- [Go 1.22 using Vite 5: The Performance Battle scalability for Teams](https://dev.to/johalputt/go-122-using-vite-5-the-performance-battle-scalability-for-teams-3ppi)
-- [Just Launched Free Signature Generator - Codex+Vercel &lpar;in 1.5 hours&rpar;](https://dev.to/furkanmersinli/just-launched-free-signature-generator-codexvercel-in-15-hours-4obh)
-- [Built a Code Diff Tool for Automated Technical Documentation and PR Summaries](https://dev.to/miloholic/built-a-code-diff-tool-for-automated-technical-documentation-and-pr-summaries-g91)
-- [Tailwind CSS: Kyu Ye Har Web Developer Ki Pehli Pasand Ban Rahi Hai?](https://dev.to/it_thum_c4966e633937985f2/tailwind-css-kyu-ye-har-web-developer-ki-pehli-pasand-ban-rahi-hai-738)
+- [AI Citation Registry: Jurisdiction Signal Loss Across City and County Sources](https://dev.to/aigistry/ai-citation-registry-jurisdiction-signal-loss-across-city-and-county-sources-4p9f)
+- [When “Wallet” Stopped Meaning Wallet - My Solana Journey.](https://dev.to/bettyafolabi/when-wallet-stopped-meaning-wallet-my-solana-journey-3ap9)
+- [tech skills vs system design: Unlock case study in Production](https://dev.to/johalputt/tech-skills-vs-system-design-unlock-case-study-in-production-pb4)
+- [Kimi K2.6 vs. Claude Opus 4.7 in a Weird Game Coding Test ✅](https://dev.to/composiodev/kimi-k26-vs-claude-opus-47-in-a-weird-game-coding-test-2ck3)
+- [Stripe Basil Quietly Moved current_period_end Off Subscription — And a Lot of Code Broke](https://dev.to/flarecanary/stripe-basil-quietly-moved-currentperiodend-off-subscription-and-a-lot-of-code-broke-3eo7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
