@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The History of Expanso &lpar;Part 6&rpar;: Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c)
-- [Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61)
-- [I Built a 3D Interactive Sales Simulator for Cloud Consultants — Here&#39;s Why](https://dev.to/slimevelli3/i-built-a-3d-interactive-sales-simulator-for-cloud-consultants-heres-why-6l)
-- [Under 30-Minute Setup: AI Coding Guidelines for Your Next.js Project &lpar;Before/After Code&rpar;](https://dev.to/yunbow/under-30-minute-setup-ai-coding-guidelines-for-your-nextjs-project-beforeafter-code-fnp)
-- [I Built a Minecraft Mod Where Every Sword is an AWS Service — Here&#39;s How We Coded It with AI](https://dev.to/aws-heroes/i-built-a-minecraft-mod-where-every-sword-is-an-aws-service-heres-how-we-coded-it-with-ai-4epc)
+- [Closed-Loop FinOps: Detect, Decide, Act, Verify in 5 Minutes](https://dev.to/muskan_8abedcc7e12/closed-loop-finops-detect-decide-act-verify-in-5-minutes-1kfi)
+- [The Egress Bill: Why Your Multi-Region FinOps Plan Misses $40k/Month](https://dev.to/muskan_8abedcc7e12/the-egress-bill-why-your-multi-region-finops-plan-misses-40kmonth-420k)
+- [LLM FinOps: Per-Feature Cost Attribution and Token Budgets](https://dev.to/muskan_8abedcc7e12/llm-finops-per-feature-cost-attribution-and-token-budgets-445m)
+- [I Built a Batch Validation API That Replaces 10 Different APIs in One Call](https://dev.to/rijulsr/i-built-a-batch-validation-api-that-replaces-10-different-apis-in-one-call-444l)
+- [Snowflake FinOps: The Compute Credit Trap and How to Stop It](https://dev.to/muskan_8abedcc7e12/snowflake-finops-the-compute-credit-trap-and-how-to-stop-it-2b0f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
