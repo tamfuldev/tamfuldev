@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Citation Registry: Jurisdiction Signal Loss Across City and County Sources](https://dev.to/aigistry/ai-citation-registry-jurisdiction-signal-loss-across-city-and-county-sources-4p9f)
-- [When “Wallet” Stopped Meaning Wallet - My Solana Journey.](https://dev.to/bettyafolabi/when-wallet-stopped-meaning-wallet-my-solana-journey-3ap9)
-- [tech skills vs system design: Unlock case study in Production](https://dev.to/johalputt/tech-skills-vs-system-design-unlock-case-study-in-production-pb4)
-- [Kimi K2.6 vs. Claude Opus 4.7 in a Weird Game Coding Test ✅](https://dev.to/composiodev/kimi-k26-vs-claude-opus-47-in-a-weird-game-coding-test-2ck3)
-- [Stripe Basil Quietly Moved current_period_end Off Subscription — And a Lot of Code Broke](https://dev.to/flarecanary/stripe-basil-quietly-moved-currentperiodend-off-subscription-and-a-lot-of-code-broke-3eo7)
+- [4 Types of Hallucinations: One Detection Pattern Per Type](https://dev.to/gabrielanhaia/4-types-of-hallucinations-one-detection-pattern-per-type-1pjb)
+- [Python Background Tasks — Asyncio Traps, FastAPI &amp; Celery &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-background-tasks-asyncio-traps-fastapi-celery-2026-381i)
+- [errors.Join vs Multi-Return: When to Aggregate, When to Wrap](https://dev.to/gabrielanhaia/errorsjoin-vs-multi-return-when-to-aggregate-when-to-wrap-3b5o)
+- [The Underestimated Problem Silently Draining Trust From Your DeFi App](https://dev.to/92srdjan/the-underestimated-problem-silently-draining-trust-from-your-defi-app-1aj7)
+- [PHP Traits in TypeScript: 4 Idioms That Replace Them](https://dev.to/gabrielanhaia/php-traits-in-typescript-4-idioms-that-replace-them-26d6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
