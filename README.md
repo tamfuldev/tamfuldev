@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AlgoExpert vs NeetCode: The Interview Skill Neither One Actually Trains](https://dev.to/codeintuition/algoexpert-vs-neetcode-the-interview-skill-neither-one-actually-trains-567f)
-- [XSS Explained: How Attackers Execute JavaScript Inside Your Application](https://dev.to/sanjayghosh/xss-explained-how-attackers-execute-javascript-inside-your-application-5fc6)
-- [Works With Agents SDK — Python, TypeScript, Go, Rust, Shell, C#](https://dev.to/vystartasv/works-with-agents-sdk-python-typescript-go-rust-shell-c-3dp4)
-- [How to scan your codebase for post-quantum cryptographic risk](https://dev.to/jahanzeb_raja_758df006510/how-to-scan-your-codebase-for-post-quantum-cryptographic-risk-3da9)
-- [Why I&#39;m betting static SSG beats dynamic AI rendering for directory SEO](https://dev.to/morinaga/why-im-betting-static-ssg-beats-dynamic-ai-rendering-for-directory-seo-1pbd)
+- [Understanding SQL Joins and SQL Functions, CTEs and Subqueries.](https://dev.to/josengash/understanding-sql-joins-and-sql-functions-ctes-and-subqueries-5g2)
+- [5 things healthcare engineering teams get wrong about HIPAA CI/CD](https://dev.to/stonebridgetechsolutions/5-things-healthcare-engineering-teams-get-wrong-about-hipaa-cicd-5ao)
+- [I built an MCP server so AI agents can flash 1,000+ embedded boards](https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd)
+- [The Hidden TCO of Self-Hosting Your EC Revenue Dashboard in 2026](https://dev.to/toshihiro_shishido/the-hidden-tco-of-self-hosting-your-ec-revenue-dashboard-in-2026-3d6k)
+- [[Day 3] I Had a Local LLM Analyze a Year of My Credit Card Statements](https://dev.to/peppercorn_llm/day-3-i-had-a-local-llm-analyze-a-year-of-my-credit-card-statements-4eab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
