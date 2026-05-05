@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Closed-Loop FinOps: Detect, Decide, Act, Verify in 5 Minutes](https://dev.to/muskan_8abedcc7e12/closed-loop-finops-detect-decide-act-verify-in-5-minutes-1kfi)
-- [The Egress Bill: Why Your Multi-Region FinOps Plan Misses $40k/Month](https://dev.to/muskan_8abedcc7e12/the-egress-bill-why-your-multi-region-finops-plan-misses-40kmonth-420k)
-- [LLM FinOps: Per-Feature Cost Attribution and Token Budgets](https://dev.to/muskan_8abedcc7e12/llm-finops-per-feature-cost-attribution-and-token-budgets-445m)
-- [I Built a Batch Validation API That Replaces 10 Different APIs in One Call](https://dev.to/rijulsr/i-built-a-batch-validation-api-that-replaces-10-different-apis-in-one-call-444l)
-- [Snowflake FinOps: The Compute Credit Trap and How to Stop It](https://dev.to/muskan_8abedcc7e12/snowflake-finops-the-compute-credit-trap-and-how-to-stop-it-2b0f)
+- [Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3)
+- [Building Translation Workflows: Technical Implementation for Multi-Linguist Review Processes](https://dev.to/diogoheleno/building-translation-workflows-technical-implementation-for-multi-linguist-review-processes-5910)
+- [1.1.3 Optimizable vs Utility](https://dev.to/joonghyukshin/113-optimizable-vs-utility-51bl)
+- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
+- [Claude Managed Agents: The Layer That Disappears, The Layer That Stays — A View from Business Automation Agents](https://dev.to/aws-builders/claude-managed-agents-the-layer-that-disappears-the-layer-that-stays-a-view-from-business-4n0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
