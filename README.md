@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🗣️ Change default voice for MacOS &#39;say&#39; command to Siri Voice 1](https://dev.to/krisplatis/change-default-voice-for-macos-say-command-to-siri-voice-1-580j)
-- [Agentic DevOps: Automating Security Remediation on AWS Using AWS DevOps Agent.](https://dev.to/chimera2/agentic-devops-automating-security-remediation-on-aws-using-aws-devops-agent-5hga)
-- [Understanding Shielded Transactions on Midnight](https://dev.to/abhineetbiju/understanding-shielded-transactions-on-midnight-5bc4)
-- [Linux Services Made Simple: Create, Control, and Remove Your First systemd Service](https://dev.to/ubayedbinsufian/linux-services-made-simple-create-control-and-remove-your-first-systemd-service-3aa2)
-- [What Even Is AI? &lpar;I Took a Break &amp; Had to Relearn Everything&rpar;](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj)
+- [The Workflow Problem That Made Me Stop Trusting Glue Code](https://dev.to/dieshen/the-workflow-problem-that-made-me-stop-trusting-glue-code-bla)
+- [Stop Messy AI Projects: A Clean Folder Structure for Real Agent Systems](https://dev.to/raju_dandigam/stop-messy-ai-projects-a-clean-folder-structure-for-real-agent-systems-502f)
+- [From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software](https://dev.to/remojansen/from-rigidity-to-explicitness-how-ai-changes-the-role-of-constraints-in-software-5cp5)
+- [I Built a Living Brain on a $140 Laptop: Why Your LLM is &quot;Dead&quot;](https://dev.to/taterlabsllc/i-built-a-living-brain-on-a-140-laptop-why-your-llm-is-dead-4mdm)
+- [I have no idea what my AI agents are doing right now. Here is how I fixed that.](https://dev.to/artem_a/i-have-no-idea-what-my-ai-agents-are-doing-right-now-here-is-how-i-fixed-that-13mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
