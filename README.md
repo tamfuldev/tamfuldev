@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting to SQL Server Using Dapper](https://dev.to/mtyide/connecting-to-sql-server-using-dapper-1d7e)
-- [Parallel Branches in Neuron AI Workflow](https://dev.to/inspector/parallel-branches-in-neuron-ai-workflow-24lc)
-- [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
-- [I got tired of refreshing Telegram. So I built a bot that does it for me](https://dev.to/nomad4tech/i-got-tired-of-refreshing-telegram-so-i-built-a-bot-that-does-it-for-me-4aem)
-- [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
+- [Why your junior engineers are not going anywhere](https://dev.to/liatmoss/why-your-junior-engineers-are-not-going-anywhere-34fp)
+- [Go 1.22 using Vite 5: The Performance Battle scalability for Teams](https://dev.to/johalputt/go-122-using-vite-5-the-performance-battle-scalability-for-teams-3ppi)
+- [Just Launched Free Signature Generator - Codex+Vercel &lpar;in 1.5 hours&rpar;](https://dev.to/furkanmersinli/just-launched-free-signature-generator-codexvercel-in-15-hours-4obh)
+- [Built a Code Diff Tool for Automated Technical Documentation and PR Summaries](https://dev.to/miloholic/built-a-code-diff-tool-for-automated-technical-documentation-and-pr-summaries-g91)
+- [Tailwind CSS: Kyu Ye Har Web Developer Ki Pehli Pasand Ban Rahi Hai?](https://dev.to/it_thum_c4966e633937985f2/tailwind-css-kyu-ye-har-web-developer-ki-pehli-pasand-ban-rahi-hai-738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
