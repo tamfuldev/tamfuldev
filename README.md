@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [38% of MCP servers have no auth -- inside the OWASP MCP Top 10](https://dev.to/kenimo49/38-of-mcp-servers-have-no-auth-inside-the-owasp-mcp-top-10-hm)
-- [I Tested 15 LLMs for Web Scraping and Built Heuristics Instead](https://dev.to/rohith_m_a75381d0f1c3a358/i-tested-15-llms-for-web-scraping-and-built-heuristics-instead-1b4f)
-- [Structure Before Bytes: How Metarc Beats tar+zstd on Real Code](https://dev.to/arhuman/structure-before-bytes-how-metarc-beats-tarzstd-on-real-code-19lg)
-- [Two months into Sats Channel, and the hardest part of building hasn’t been the build](https://dev.to/itsevilduck/two-months-into-sats-channel-and-the-hardest-part-of-building-hasnt-been-the-build-3e05)
-- [What I Learned After Working with Real Construction Costs in Vietnam &lpar;And Why Most People Get It Wrong&rpar;](https://dev.to/khanhdangbmt/what-i-learned-after-working-with-real-construction-costs-in-vietnam-and-why-most-people-get-it-5hf1)
+- [5 Type Scales I Use in 2026 &lpar;And the One I Quietly Dropped&rpar;](https://dev.to/raxxostudios/5-type-scales-i-use-in-2026-and-the-one-i-quietly-dropped-4bpo)
+- [Method Overriding in Java](https://dev.to/harini_magesh_fa40041cf8d/method-overriding-in-java-4ca4)
+- [JS fetch&lpar;&rpar;](https://dev.to/nanthini_ammu_ac02ad32802/js-fetch-2193)
+- [New Programming Language for DSA](https://dev.to/pavan_sivasai_6d71190780/new-programming-language-for-dsa-1n4c)
+- [The Retainage Trap: Why Closeout Packet Assembly Could Be an Agent-Native Business](https://dev.to/daloris_cato_192143b22087/the-retainage-trap-why-closeout-packet-assembly-could-be-an-agent-native-business-32gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
