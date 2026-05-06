@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why your next competitor is a small team with AI agents](https://dev.to/zvone187/why-your-next-competitor-is-a-small-team-with-ai-agents-3onn)
-- [Performance and Apache Iceberg&#39;s Metadata](https://dev.to/alexmercedcoder/performance-and-apache-icebergs-metadata-2eka)
-- [Build Secure Multi-Agent Systems With CrewAI and Descope](https://dev.to/descope/build-secure-multi-agent-systems-with-crewai-and-descope-51e3)
-- [Tools vs Resources in MCP &lpar;A Subtle Difference That Matters&rpar;](https://dev.to/saras_growth_space/tools-vs-resources-in-mcp-a-subtle-difference-that-matters-1ogh)
-- [AgentCore Harness runs your agent. ShapeV2 controls what it&#39;s allowed to do](https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab)
+- [The Anatomy of an Action Governance Layer: From Intent to Enforcement](https://dev.to/ttw/-the-anatomy-of-an-action-governance-layer-from-intent-to-enforcement-28em)
+- [Bun Is Porting from Zig to Rust — Here&#39;s Why That Matters If You Run LLM Workloads](https://dev.to/amedinat/bun-is-porting-from-zig-to-rust-heres-why-that-matters-if-you-run-llm-workloads-3kgo)
+- [Offline-First Architecture in a Tauri App — What It Actually Means](https://dev.to/hiyoyok/offline-first-architecture-in-a-tauri-app-what-it-actually-means-4gkj)
+- [how to write launch copy for a side project &lpar;without losing 3 days of your life&rpar;](https://dev.to/r1ck404/how-to-write-launch-copy-for-a-side-project-without-losing-3-days-of-your-life-53ke)
+- [The NPM Audit Trap: A Thursday Morning Tragedy](https://dev.to/proco/the-npm-audit-trap-a-thursday-morning-tragedy-57h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
