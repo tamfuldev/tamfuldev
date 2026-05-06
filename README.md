@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TTS Models for Indian Languages: The Tech Giving Bharat a Voice](https://dev.to/vinodsrajpurohit/tts-models-for-indian-languages-the-tech-giving-bharat-a-voice-1ij7)
-- [What Is TokenMix? One API Key, 171 AI Models, Zero Platform Fee](https://dev.to/tokenmixai/what-is-tokenmix-one-api-key-171-ai-models-zero-platform-fee-3b7l)
-- [How much can a Front-end Developer learn about Machine Learning using only JavaScript?](https://dev.to/developerrsa/how-much-can-a-front-end-developer-learn-about-machine-learning-using-only-javascript-2lc6)
-- [Como Testar Agentes de IA que Chamam suas APIs Sem Perder Dados](https://dev.to/lucas_ferreira/como-testar-agentes-de-ia-que-chamam-suas-apis-sem-perder-dados-355k)
-- [Understanding React Virtual DOM Internally](https://dev.to/shivam_yadav_8e22bf5bf987/understanding-react-virtual-dom-internally-1hjd)
+- [I Built a Tool That Writes Its Own Infrastructure](https://dev.to/devopstimi/i-built-a-tool-that-writes-its-own-infrastructure-5g09)
+- [Athena Cost Kill Switch: Automated IAM Credential Revocation with CloudWatch, EventBridge, and Lambda](https://dev.to/jakops/athena-cost-kill-switch-automated-iam-credential-revocation-with-cloudwatch-eventbridge-and-1a1c)
+- [12 million tokens, linear cost: Subquadratic&#39;s bet against the attention tax](https://dev.to/thegatewayguy/12-million-tokens-linear-cost-subquadratics-bet-against-the-attention-tax-jp7)
+- [The AI-Agent Mood on Reddit This Week: 10 Threads Builders Couldn’t Ignore](https://dev.to/loraine_mccarthy_fb6fb9da/the-ai-agent-mood-on-reddit-this-week-10-threads-builders-couldnt-ignore-e5o)
+- [Markets as Ecosystems: Ecological Succession](https://dev.to/vibeagentmaking/markets-as-ecosystems-ecological-succession-1h42)
 <!-- BLOG-POST-LIST:END -->
 
 ---
