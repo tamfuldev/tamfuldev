@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Anatomy of an Action Governance Layer: From Intent to Enforcement](https://dev.to/ttw/-the-anatomy-of-an-action-governance-layer-from-intent-to-enforcement-28em)
-- [Bun Is Porting from Zig to Rust — Here&#39;s Why That Matters If You Run LLM Workloads](https://dev.to/amedinat/bun-is-porting-from-zig-to-rust-heres-why-that-matters-if-you-run-llm-workloads-3kgo)
-- [Offline-First Architecture in a Tauri App — What It Actually Means](https://dev.to/hiyoyok/offline-first-architecture-in-a-tauri-app-what-it-actually-means-4gkj)
-- [how to write launch copy for a side project &lpar;without losing 3 days of your life&rpar;](https://dev.to/r1ck404/how-to-write-launch-copy-for-a-side-project-without-losing-3-days-of-your-life-53ke)
-- [The NPM Audit Trap: A Thursday Morning Tragedy](https://dev.to/proco/the-npm-audit-trap-a-thursday-morning-tragedy-57h)
+- [Django Ninja Made Simple — 2nd Edition is Now Live](https://dev.to/bensylvester/django-ninja-made-simple-2nd-edition-is-now-live-16aa)
+- [When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬](https://dev.to/shubham_gupta_decf96a6ab2/when-a-simple-streaming-bug-turned-into-a-deep-engineering-lesson-22mi)
+- [Pre GSoC — Finding My Way to CircuitVerse](https://dev.to/magic-peach/pre-gsoc-finding-my-way-to-circuitverse-5045)
+- [How to organize your daily task with Task Warrior](https://dev.to/tjuliu/how-to-organize-your-daily-task-with-task-warrior-2baa)
+- [Stop Letting AI Write Your Database Migrations](https://dev.to/layzerzero105/stop-letting-ai-write-your-database-migrations-alh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
