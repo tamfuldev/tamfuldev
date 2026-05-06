@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SQL Joins and SQL Functions, CTEs and Subqueries.](https://dev.to/josengash/understanding-sql-joins-and-sql-functions-ctes-and-subqueries-5g2)
-- [5 things healthcare engineering teams get wrong about HIPAA CI/CD](https://dev.to/stonebridgetechsolutions/5-things-healthcare-engineering-teams-get-wrong-about-hipaa-cicd-5ao)
-- [I built an MCP server so AI agents can flash 1,000+ embedded boards](https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd)
-- [The Hidden TCO of Self-Hosting Your EC Revenue Dashboard in 2026](https://dev.to/toshihiro_shishido/the-hidden-tco-of-self-hosting-your-ec-revenue-dashboard-in-2026-3d6k)
-- [[Day 3] I Had a Local LLM Analyze a Year of My Credit Card Statements](https://dev.to/peppercorn_llm/day-3-i-had-a-local-llm-analyze-a-year-of-my-credit-card-statements-4eab)
+- [38% of MCP servers have no auth -- inside the OWASP MCP Top 10](https://dev.to/kenimo49/38-of-mcp-servers-have-no-auth-inside-the-owasp-mcp-top-10-hm)
+- [I Tested 15 LLMs for Web Scraping and Built Heuristics Instead](https://dev.to/rohith_m_a75381d0f1c3a358/i-tested-15-llms-for-web-scraping-and-built-heuristics-instead-1b4f)
+- [Structure Before Bytes: How Metarc Beats tar+zstd on Real Code](https://dev.to/arhuman/structure-before-bytes-how-metarc-beats-tarzstd-on-real-code-19lg)
+- [Two months into Sats Channel, and the hardest part of building hasn’t been the build](https://dev.to/itsevilduck/two-months-into-sats-channel-and-the-hardest-part-of-building-hasnt-been-the-build-3e05)
+- [What I Learned After Working with Real Construction Costs in Vietnam &lpar;And Why Most People Get It Wrong&rpar;](https://dev.to/khanhdangbmt/what-i-learned-after-working-with-real-construction-costs-in-vietnam-and-why-most-people-get-it-5hf1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
