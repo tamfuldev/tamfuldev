@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Type Scales I Use in 2026 &lpar;And the One I Quietly Dropped&rpar;](https://dev.to/raxxostudios/5-type-scales-i-use-in-2026-and-the-one-i-quietly-dropped-4bpo)
-- [Method Overriding in Java](https://dev.to/harini_magesh_fa40041cf8d/method-overriding-in-java-4ca4)
-- [JS fetch&lpar;&rpar;](https://dev.to/nanthini_ammu_ac02ad32802/js-fetch-2193)
-- [New Programming Language for DSA](https://dev.to/pavan_sivasai_6d71190780/new-programming-language-for-dsa-1n4c)
-- [The Retainage Trap: Why Closeout Packet Assembly Could Be an Agent-Native Business](https://dev.to/daloris_cato_192143b22087/the-retainage-trap-why-closeout-packet-assembly-could-be-an-agent-native-business-32gh)
+- [How I Set Up Codex for Spec-Driven Development](https://dev.to/reymondyncierto/how-i-set-up-codex-for-spec-driven-development-1nmh)
+- [I Tried Replacing Bash with Amber-Lang — Here&#39;s Where It Actually Helped &lpar;and Where I Went Back&rpar;](https://dev.to/ericwoooo_kr/i-tried-replacing-bash-with-amber-lang-heres-where-it-actually-helped-and-where-i-went-back-2h9d)
+- [Zhipu AI — Deep Dive](https://dev.to/gautammanak1/zhipu-ai-deep-dive-2mhp)
+- [The Decay Curve Nobody Budgets For](https://dev.to/neela_582b5c546f2e2ef65d0/the-decay-curve-nobody-budgets-for-1ol3)
+- [Why Browser Automation Teams Need Account-Aware Execution, Not Just Scripts](https://dev.to/web4browser/why-browser-automation-teams-need-account-aware-execution-not-just-scripts-2jef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
