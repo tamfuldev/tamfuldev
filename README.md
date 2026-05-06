@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tool That Writes Its Own Infrastructure](https://dev.to/devopstimi/i-built-a-tool-that-writes-its-own-infrastructure-5g09)
-- [Athena Cost Kill Switch: Automated IAM Credential Revocation with CloudWatch, EventBridge, and Lambda](https://dev.to/jakops/athena-cost-kill-switch-automated-iam-credential-revocation-with-cloudwatch-eventbridge-and-1a1c)
-- [12 million tokens, linear cost: Subquadratic&#39;s bet against the attention tax](https://dev.to/thegatewayguy/12-million-tokens-linear-cost-subquadratics-bet-against-the-attention-tax-jp7)
-- [The AI-Agent Mood on Reddit This Week: 10 Threads Builders Couldn’t Ignore](https://dev.to/loraine_mccarthy_fb6fb9da/the-ai-agent-mood-on-reddit-this-week-10-threads-builders-couldnt-ignore-e5o)
-- [Markets as Ecosystems: Ecological Succession](https://dev.to/vibeagentmaking/markets-as-ecosystems-ecological-succession-1h42)
+- [Why your next competitor is a small team with AI agents](https://dev.to/zvone187/why-your-next-competitor-is-a-small-team-with-ai-agents-3onn)
+- [Performance and Apache Iceberg&#39;s Metadata](https://dev.to/alexmercedcoder/performance-and-apache-icebergs-metadata-2eka)
+- [Build Secure Multi-Agent Systems With CrewAI and Descope](https://dev.to/descope/build-secure-multi-agent-systems-with-crewai-and-descope-51e3)
+- [Tools vs Resources in MCP &lpar;A Subtle Difference That Matters&rpar;](https://dev.to/saras_growth_space/tools-vs-resources-in-mcp-a-subtle-difference-that-matters-1ogh)
+- [AgentCore Harness runs your agent. ShapeV2 controls what it&#39;s allowed to do](https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
