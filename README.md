@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What a WordPress Specialist Should Bring Beyond Installing Plugins](https://dev.to/elliemiguel/what-a-wordpress-specialist-should-bring-beyond-installing-plugins-2fgh)
-- [The Smart Way to Share State —Master useContext in React](https://dev.to/kathirvel-s/the-smart-way-to-share-state-master-usecontext-in-react-3ehe)
-- [Current Dividers: The Mirror of Voltage Dividers](https://dev.to/researcher_alpha00/current-dividers-the-mirror-of-voltage-dividers-124c)
-- [Introducing XLog: A Static Site Generator Built for Knowledge Bases](https://dev.to/emad__elsaid/introducing-xlog-a-static-site-generator-built-for-knowledge-bases-3pb5)
-- [MCP is the USB-C of AI tools, and most devs are still using their AI assistant like it is 2023](https://dev.to/vineethnkrishnan/mcp-is-the-usb-c-of-ai-tools-and-most-devs-are-still-using-their-ai-assistant-like-it-is-2023-5bpn)
+- [Plans Are the New Code](https://dev.to/jsolano/plans-are-the-new-code-4i8i)
+- [I made a browser-based hub for small games and tools](https://dev.to/hc_7434c96db0010b253/i-made-a-browser-based-hub-for-small-games-and-tools-4gnc)
+- [I open-sourced a 4-agent adversarial code review team. Any coding agent can call it as an MCP server. Built in heym.](https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe)
+- [Running Gemma 4 Locally with LM Studio — Complete Setup Guide &amp; Real Use Cases](https://dev.to/kushang_tailor/running-gemma-4-locally-with-lm-studio-complete-setup-guide-real-use-cases-3np3)
+- [Understanding How Containers Communicate in Docker and Kubernetes](https://dev.to/mordecai_amehson/understanding-how-containers-communicate-in-docker-and-kubernetes-17b4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
