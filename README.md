@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
-- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
-- [I built Alpha-XMD: a free, open-source WhatsApp bot with 200+ commands, Shazam, and AI chat](https://dev.to/alexio1109/i-built-alpha-xmd-a-free-open-source-whatsapp-bot-with-200-commands-shazam-and-ai-chat-5dal)
-- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
-- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
+- [Engineering with AI: A Lever, Not a Replacement](https://dev.to/ranjancse/engineering-with-ai-a-lever-not-a-replacement-1oc9)
+- [Open Claude Design: A Weekend Harness Built on Atomic](https://dev.to/mixture-of-experts/open-claude-design-a-weekend-harness-built-on-atomic-2k22)
+- [ReactJs Performance ~ Memory Leak Prevention ~](https://dev.to/kkr0423/reactjs-performance-memory-leak-prevention--177f)
+- [Atomic&#39;s Workflow SDK: Deterministically Extending Coding Agents](https://dev.to/mixture-of-experts/atomics-workflow-sdk-deterministically-extending-coding-agents-29ph)
+- [Are non-AI dev tools becoming irrelevant?](https://dev.to/catssaymeow/are-non-ai-dev-tools-becoming-irrelevant-poh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
