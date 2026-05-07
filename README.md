@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Looking for a Founding CTO / Core Tech Member for TeslaLab-AI
-
-We’re building an AI-powered platform for GitHub repo customization, automated maintenance, monitoring, dependency upgrades, and security patching for modern AI-built apps.](https://dev.to/teslalabai_b7eb123a189dd/looking-for-a-founding-cto-core-tech-member-for-teslalab-ai-were-building-an-ai-powered-1em6)
-- [The Story Behind GoWatcher: A Tale of F5 Fatigue and Code Flow](https://dev.to/cinfinitedev_engine/the-story-behind-gowatcher-a-tale-of-f5-fatigue-and-code-flow-hf)
-- [# The Hidden Costs of Microfrontends — Interactive Edge Cases](https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6)
-- [How I Built a Personal Work Journal Dashboard with Claude](https://dev.to/mjd/how-i-built-a-personal-work-journal-dashboard-with-claude-4nnk)
-- [Amazon Kiro: The Spec-Driven AI IDE Replacing Amazon Q](https://dev.to/austriasoftwaroftwaredeveloper/amazon-kiro-the-spec-driven-ai-ide-replacing-amazon-q-2f5f)
+- [What a WordPress Specialist Should Bring Beyond Installing Plugins](https://dev.to/elliemiguel/what-a-wordpress-specialist-should-bring-beyond-installing-plugins-2fgh)
+- [The Smart Way to Share State —Master useContext in React](https://dev.to/kathirvel-s/the-smart-way-to-share-state-master-usecontext-in-react-3ehe)
+- [Current Dividers: The Mirror of Voltage Dividers](https://dev.to/researcher_alpha00/current-dividers-the-mirror-of-voltage-dividers-124c)
+- [Introducing XLog: A Static Site Generator Built for Knowledge Bases](https://dev.to/emad__elsaid/introducing-xlog-a-static-site-generator-built-for-knowledge-bases-3pb5)
+- [MCP is the USB-C of AI tools, and most devs are still using their AI assistant like it is 2023](https://dev.to/vineethnkrishnan/mcp-is-the-usb-c-of-ai-tools-and-most-devs-are-still-using-their-ai-assistant-like-it-is-2023-5bpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
