@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built something I think more developers should be using](https://dev.to/the-missing-pink/i-built-something-i-think-more-developers-should-be-using-f7a)
-- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-232l)
-- [Day 7 of 60 — today I stopped doing abstract Python challenges and started solving problems I could see myself automating in the real world.](https://dev.to/mbugua_cessy/day-7-of-60-today-i-stopped-doing-abstract-python-challenges-and-started-solving-problems-i-could-2jgi)
-- [🚀 Building OSSI — An AI-Powered Open Source Intelligence System with Kestra](https://dev.to/mohit5upadhyay/building-ossi-an-ai-powered-open-source-intelligence-system-with-kestra-1i47)
-- [I&#39;m Only Building Dead Simple Apps From Now On](https://dev.to/vientapps/im-only-building-dead-simple-apps-from-now-on-42b)
+- [Building a Local AI SaaS with Gemma 4 + Ollama 🚀](https://dev.to/ian_akiles_58dc727019819c/building-a-local-ai-saas-with-gemma-4-ollama-36pj)
+- [Building a Serverless Language App on AWS: How I Solved the &quot;Resource Desert&quot; for a Niche Dialect](https://dev.to/fulingo/building-a-serverless-language-app-on-aws-how-i-solved-the-resource-desert-for-a-niche-dialect-34lb)
+- [Milestone! 1200th PR Merged to Ruby Core](https://dev.to/burdettelamar/milestone-1200th-pr-merged-to-ruby-core-38eh)
+- [Anthropic&#39;s Models Know When They&#39;re Being Watched](https://dev.to/piiiico/anthropics-models-know-when-theyre-being-watched-1k7g)
+- [Babysitter, Auditor, Prayer. Or Tests.](https://dev.to/michaeltuszynski/babysitter-auditor-prayer-or-tests-3cgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
