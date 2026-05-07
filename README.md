@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local AI SaaS with Gemma 4 + Ollama 🚀](https://dev.to/ian_akiles_58dc727019819c/building-a-local-ai-saas-with-gemma-4-ollama-36pj)
-- [Building a Serverless Language App on AWS: How I Solved the &quot;Resource Desert&quot; for a Niche Dialect](https://dev.to/fulingo/building-a-serverless-language-app-on-aws-how-i-solved-the-resource-desert-for-a-niche-dialect-34lb)
-- [Milestone! 1200th PR Merged to Ruby Core](https://dev.to/burdettelamar/milestone-1200th-pr-merged-to-ruby-core-38eh)
-- [Anthropic&#39;s Models Know When They&#39;re Being Watched](https://dev.to/piiiico/anthropics-models-know-when-theyre-being-watched-1k7g)
-- [Babysitter, Auditor, Prayer. Or Tests.](https://dev.to/michaeltuszynski/babysitter-auditor-prayer-or-tests-3cgi)
+- [I built an Open-Source Flight/Travel Booking Template using React &amp; Firebase](https://dev.to/amiiirafshaaar/i-built-an-open-source-flighttravel-booking-template-using-react-firebase-2lce)
+- [Useful Linux Commands Every System Administrator Should Know](https://dev.to/setu102/useful-linux-commands-every-system-administrator-should-know-3141)
+- [[Boost]](https://dev.to/tacoda/-3jnl)
+- [Bitlocker Bypass, AI Trust Exploits, and FreeBSD RCE Disclosures](https://dev.to/soytuber/bitlocker-bypass-ai-trust-exploits-and-freebsd-rce-disclosures-179i)
+- [Local LLM-Python Code Integration, Data Agent Gaps, &amp; Multi-AI Creative Workflows](https://dev.to/soytuber/local-llm-python-code-integration-data-agent-gaps-multi-ai-creative-workflows-gfb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
