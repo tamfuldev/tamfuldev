@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering with AI: A Lever, Not a Replacement](https://dev.to/ranjancse/engineering-with-ai-a-lever-not-a-replacement-1oc9)
-- [Open Claude Design: A Weekend Harness Built on Atomic](https://dev.to/mixture-of-experts/open-claude-design-a-weekend-harness-built-on-atomic-2k22)
-- [ReactJs Performance ~ Memory Leak Prevention ~](https://dev.to/kkr0423/reactjs-performance-memory-leak-prevention--177f)
-- [Atomic&#39;s Workflow SDK: Deterministically Extending Coding Agents](https://dev.to/mixture-of-experts/atomics-workflow-sdk-deterministically-extending-coding-agents-29ph)
-- [Are non-AI dev tools becoming irrelevant?](https://dev.to/catssaymeow/are-non-ai-dev-tools-becoming-irrelevant-poh)
+- [How to Build a Pay-Per-Call MCP Server with x402 and USDC](https://dev.to/kirothebot/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk)
+- [System Architecture](https://dev.to/pandeyaditya0002/system-architecture-31dh)
+- [Gemma 4 Complete Guide 2026, Architecture, Benchmarks, Deployment and more](https://dev.to/aniruddhaadak/gemma-4-complete-guide-2026-architecture-benchmarks-deployment-3en9)
+- [Rate Limits Are a Feature, Not a Bug](https://dev.to/sian-agency/rate-limits-are-a-feature-not-a-bug-4lnm)
+- [Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture &amp; CQRS in .NET 8](https://dev.to/naimulkarim/building-a-cloud-native-event-ticketing-system-with-ddd-event-driven-architecture-cqrs-in-net-8-2o0n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
