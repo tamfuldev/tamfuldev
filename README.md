@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Plans Are the New Code](https://dev.to/jsolano/plans-are-the-new-code-4i8i)
-- [I made a browser-based hub for small games and tools](https://dev.to/hc_7434c96db0010b253/i-made-a-browser-based-hub-for-small-games-and-tools-4gnc)
-- [I open-sourced a 4-agent adversarial code review team. Any coding agent can call it as an MCP server. Built in heym.](https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe)
-- [Running Gemma 4 Locally with LM Studio — Complete Setup Guide &amp; Real Use Cases](https://dev.to/kushang_tailor/running-gemma-4-locally-with-lm-studio-complete-setup-guide-real-use-cases-3np3)
-- [Understanding How Containers Communicate in Docker and Kubernetes](https://dev.to/mordecai_amehson/understanding-how-containers-communicate-in-docker-and-kubernetes-17b4)
+- [Which No-Code Database in 2026: Tested &amp; Compared](https://dev.to/johalputt/which-no-code-database-in-2026-tested-compared-2a2d)
+- [Build a voice agent that can make outbound calls with AssemblyAI](https://dev.to/martschweiger/build-a-voice-agent-that-can-make-outbound-calls-with-assemblyai-4p9a)
+- [Build a voice agent with LiveKit and AssemblyAI’s Voice Agent API](https://dev.to/martschweiger/build-a-voice-agent-with-livekit-and-assemblyais-voice-agent-api-3mnm)
+- [We Built a Poor Man’s o1 on AWS for $0.25 – And You Can Too](https://dev.to/dhananjay_lakkawar/we-built-a-poor-mans-o1-on-aws-for-025-and-you-can-too-3i14)
+- [Open-source licenses 101: which one to actually pick](https://dev.to/mrviduus/open-source-licenses-101-which-one-to-actually-pick-232f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
