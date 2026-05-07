@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Pay-Per-Call MCP Server with x402 and USDC](https://dev.to/kirothebot/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk)
-- [System Architecture](https://dev.to/pandeyaditya0002/system-architecture-31dh)
-- [Gemma 4 Complete Guide 2026, Architecture, Benchmarks, Deployment and more](https://dev.to/aniruddhaadak/gemma-4-complete-guide-2026-architecture-benchmarks-deployment-3en9)
-- [Rate Limits Are a Feature, Not a Bug](https://dev.to/sian-agency/rate-limits-are-a-feature-not-a-bug-4lnm)
-- [Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture &amp; CQRS in .NET 8](https://dev.to/naimulkarim/building-a-cloud-native-event-ticketing-system-with-ddd-event-driven-architecture-cqrs-in-net-8-2o0n)
+- [Building Safety-Critical APIs: A Guide to Linear Types and Austral Implementation](https://dev.to/fullagenticstack/building-safety-critical-apis-a-guide-to-linear-types-and-austral-implementation-3bcm)
+- [Building a Real-Time Amazon Sales Tracker with Scraper API: Complete Python Guide](https://dev.to/loopsthings/building-a-real-time-amazon-sales-tracker-with-scraper-api-complete-python-guide-519j)
+- [Five chatbot UI mistakes that quietly break user trust](https://dev.to/victor_desg/five-chatbot-ui-mistakes-that-quietly-break-user-trust-4m)
+- [Hỏi ChatGPT Khi Bị Bệnh: Tiện Lợi Hay Đang Tự Đẩy Mình Vào Nguy Hiểm?](https://dev.to/itprepvn/hoi-chatgpt-khi-bi-benh-tien-loi-hay-dang-tu-day-minh-vao-nguy-hiem-4jki)
+- [Stop Using HTTPS for Git — Switch to SSH Before AI Agents Leak Your Credentials](https://dev.to/kenimo49/stop-using-https-for-git-switch-to-ssh-before-ai-agents-leak-your-credentials-1280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
