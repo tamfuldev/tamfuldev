@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Closed Frontier Cyber AI vs Open Defensive Tools: Real-World Comparison 2026](https://dev.to/bean_bean/closed-frontier-cyber-ai-vs-open-defensive-tools-real-world-comparison-2026-gd)
-- [The Definitive Guide to optimization in React Server Components vs GraphQL: What You Need to Know](https://dev.to/johalputt/the-definitive-guide-to-optimization-in-react-server-components-vs-graphql-what-you-need-to-know-468m)
-- [Physics‑based adaptation slashes edge LLM energy](https://dev.to/olaughter/physics-based-adaptation-slashes-edge-llm-energy-484d)
-- [Mood UI](https://dev.to/agpsalgado/mood-ui-2hpa)
-- [How I Fixed Stale Exchange Rate Data on Weekends With a Simple Python Filter](https://dev.to/kalos889/how-i-fixed-stale-exchange-rate-data-on-weekends-with-a-simple-python-filter-4pm0)
+- [What Reddit Can Teach Us About Women’s Watch Preferences &lpar;Python + NLP Project&rpar;](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3)
+- [How SPF Pushes Scam Defence Toward Shared Intelligence](https://dev.to/dylangan/how-spf-pushes-scam-defence-toward-shared-intelligence-g04)
+- [Per-Agent Cost Tracking: Why Your LLM Analytics Are Probably Wrong](https://dev.to/awxglobal/per-agent-cost-tracking-why-your-llm-analytics-are-probably-wrong-4lg)
+- [58. Random Forest: Why One Tree Isn&#39;t Enough](https://dev.to/yakhilesh/58-random-forest-why-one-tree-isnt-enough-1klj)
+- [Angular’s New injectAsync&lpar;&rpar; API Explained](https://dev.to/brianmtreese/angulars-new-injectasync-api-explained-41fh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
