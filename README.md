@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
-- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
-- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
-- [# The Hidden Scalability Problems of x402 and Machine Payments](https://dev.to/ritesh1ds20ee056_83a50af/-the-hidden-scalability-problems-of-x402-and-machine-payments-1j9g)
-- [Full Stack Authentication in 2026 with Better Auth, Drizzle, Neon, Shadcn UI, and Next.js](https://dev.to/iampandit/full-stack-authentication-in-2026-with-better-auth-drizzle-neon-shadcn-ui-and-nextjs-32nb)
+- [Anthropic prompt caching cut our RCA cost by 90%](https://dev.to/stella_lin_82914c71e25769/anthropic-prompt-caching-cut-our-rca-cost-by-90-5gmb)
+- [How to Secure an Ubuntu Linux Server for Production](https://dev.to/sovrab/how-to-secure-an-ubuntu-linux-server-for-production-1j3p)
+- [Designing Resilient Shopify Middleware](https://dev.to/masadashraf/designing-resilient-shopify-middleware-4d6i)
+- [Security news weekly round-up - 8th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-8th-may-2026-1je7)
+- [Optimizing Python AI Inference, Orchestrating Workflows, &amp; Personalized Podcasts with Claude](https://dev.to/soytuber/optimizing-python-ai-inference-orchestrating-workflows-personalized-podcasts-with-claude-3012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
