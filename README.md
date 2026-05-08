@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I just shipped my 50th free browser tool — here&#39;s what building alone at midnight looks like](https://dev.to/dngzihng114379/i-just-shipped-my-50th-free-browser-tool-heres-what-building-alone-at-midnight-looks-like-175m)
-- [Learning AI Out Loud — Full Series Index](https://dev.to/aws/learning-ai-out-loud-full-series-index-kf9)
-- [requestAnimationFrame: The Missing Scheduling Layer](https://dev.to/marshateo/requestanimationframe-the-missing-scheduling-layer-1el0)
-- [Database Which No-Code: A Data-Backed Analysis](https://dev.to/johalputt/database-which-no-code-a-data-backed-analysis-1b34)
-- [Advanced Serverless Architecture Patterns Tutorial: Building Scalable, Modern Applications](https://dev.to/eriklundstrom/advanced-serverless-architecture-patterns-tutorial-building-scalable-modern-applications-f22)
+- [Understanding Reinforcement Learning with Neural Networks Part 1: Learning Without Correct Answers](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-1-learning-without-correct-answers-47ld)
+- [AI-Powered ERP System with Gemma 26B MoE](https://dev.to/kheai/ai-powered-erp-system-with-gemma-26b-moe-2l5i)
+- [Content Creators: for Design for Professionals](https://dev.to/johalputt/content-creators-for-design-for-professionals-4d4g)
+- [When your SaaS API has docs but no real sandbox](https://dev.to/fetchsandbox/when-your-saas-api-has-docs-but-no-real-sandbox-3mfh)
+- [Python logging: Stop Using print&lpar;&rpar; in Your Automation Scripts](https://dev.to/german_yamil_e021eef8710d/python-logging-stop-using-print-in-your-automation-scripts-3c99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
