@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reinforcement Learning with Neural Networks Part 1: Learning Without Correct Answers](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-1-learning-without-correct-answers-47ld)
-- [AI-Powered ERP System with Gemma 26B MoE](https://dev.to/kheai/ai-powered-erp-system-with-gemma-26b-moe-2l5i)
-- [Content Creators: for Design for Professionals](https://dev.to/johalputt/content-creators-for-design-for-professionals-4d4g)
-- [When your SaaS API has docs but no real sandbox](https://dev.to/fetchsandbox/when-your-saas-api-has-docs-but-no-real-sandbox-3mfh)
-- [Python logging: Stop Using print&lpar;&rpar; in Your Automation Scripts](https://dev.to/german_yamil_e021eef8710d/python-logging-stop-using-print-in-your-automation-scripts-3c99)
+- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
+- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
+- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
+- [# The Hidden Scalability Problems of x402 and Machine Payments](https://dev.to/ritesh1ds20ee056_83a50af/-the-hidden-scalability-problems-of-x402-and-machine-payments-1j9g)
+- [Full Stack Authentication in 2026 with Better Auth, Drizzle, Neon, Shadcn UI, and Next.js](https://dev.to/iampandit/full-stack-authentication-in-2026-with-better-auth-drizzle-neon-shadcn-ui-and-nextjs-32nb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
