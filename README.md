@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Local Copilot: Gemma 4 + Open WebUI + OpenHands for Coding Without Leaving My Machine](https://dev.to/theelmix/my-local-copilot-gemma-4-open-webui-openhands-for-coding-without-leaving-my-machine-180j)
-- [Hot Take: Developer Conferences Are Useless — Use YouTube 2026 and Blogs Instead of Paid Courses](https://dev.to/johalputt/hot-take-developer-conferences-are-useless-use-youtube-2026-and-blogs-instead-of-paid-courses-4g30)
-- [AI Content Filter: The Practitioner&#39;s Playbook for Killing Low-Quality LLM Slop at Scale](https://dev.to/ariauser13/ai-content-filter-the-practitioners-playbook-for-killing-low-quality-llm-slop-at-scale-3172)
-- [How I’m Using Agent Harnesses, TDD, and the Seam Model to Improve Development in Legacy Systems](https://dev.to/rafaeltedesco/how-im-using-agent-harnesses-tdd-and-the-seam-model-to-improve-development-in-legacy-systems-1a7)
-- [Why Enterprise Transformation Fails Without System Standardization](https://dev.to/denizceylan_kurt/why-enterprise-transformation-fails-without-system-standardization-3mop)
+- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
+- [Building a Multi-Agent Fleet with No Central Server](https://dev.to/asterview/building-a-multi-agent-fleet-with-no-central-server-12fp)
+- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
+- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
+- [Stop Making Your AI Agent Scrape the Web. There&#39;s a Better Way.](https://dev.to/asterview/stop-making-your-ai-agent-scrape-the-web-theres-a-better-way-36fl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
