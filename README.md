@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-5h4c)
-- [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
-- [Gemma 4 Has Four Models. Here&#39;s Which One You Actually Need](https://dev.to/nirbhay_gautam/gemma-4-has-four-models-heres-which-one-you-actually-need-1057)
-- [ServiceNow MCP: Automate ITSM workflows without leaving your AI agent](https://dev.to/curatedmcp/servicenow-mcp-automate-itsm-workflows-without-leaving-your-ai-agent-cmd)
-- [Beyond Competitors: How to Use ChangeCrab Sonar to Monitor Your Dependencies](https://dev.to/changecrab/beyond-competitors-how-to-use-changecrab-sonar-to-monitor-your-dependencies-3h5d)
+- [Local Guardrails for Secrets Security in the Age of AI Coding Assistants](https://dev.to/gitguardian/local-guardrails-for-secrets-security-in-the-age-of-ai-coding-assistants-3jc8)
+- [Governing AI Agents: Boosting Engineering Productivity with Secure Automation in GitHub Enterprise](https://dev.to/devactivity/governing-ai-agents-boosting-engineering-productivity-with-secure-automation-in-github-enterprise-a0e)
+- [Building an AI Agent with Persistent Memory: A Technical Deep Dive](https://dev.to/manoir_yantai_f22f01340f0/building-an-ai-agent-with-persistent-memory-a-technical-deep-dive-2f24)
+- [ML-DSA vs SLH-DSA: Which to Choose](https://dev.to/quantumsequrity/ml-dsa-vs-slh-dsa-which-to-choose-1c8c)
+- [The Skills Gap Is the Real VMware Exit Risk](https://dev.to/ntctech/the-skills-gap-is-the-real-vmware-exit-risk-150m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
