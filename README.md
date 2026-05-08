@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What LeetCode Optimizes For vs What Actual Production Systems Demand](https://dev.to/kkyser737/what-leetcode-optimizes-for-vs-what-actual-production-systems-demand-4d1a)
-- [Resource-Aware Structured Concurrency in Java 21](https://dev.to/salgotraja/resource-aware-structured-concurrency-in-java-21-4o5n)
-- [Post-Mortem: How a &quot;Performance&quot; PR Introduced 28 New Regressions](https://dev.to/gauntletci/post-mortem-how-a-performance-pr-introduced-28-new-regressions-4pgf)
-- [Agents can pay. They can&#39;t prove they were supposed to.](https://dev.to/piiiico/agents-can-pay-they-cant-prove-they-were-supposed-to-fcj)
-- [How to Deploy NestJS to AWS Lambda Using CDK and GitHub Actions](https://dev.to/ajeetchaulagain/how-to-deploy-nestjs-to-aws-lambda-using-cdk-and-github-actions-3lf8)
+- [Closed Frontier Cyber AI vs Open Defensive Tools: Real-World Comparison 2026](https://dev.to/bean_bean/closed-frontier-cyber-ai-vs-open-defensive-tools-real-world-comparison-2026-gd)
+- [The Definitive Guide to optimization in React Server Components vs GraphQL: What You Need to Know](https://dev.to/johalputt/the-definitive-guide-to-optimization-in-react-server-components-vs-graphql-what-you-need-to-know-468m)
+- [Physics‑based adaptation slashes edge LLM energy](https://dev.to/olaughter/physics-based-adaptation-slashes-edge-llm-energy-484d)
+- [Mood UI](https://dev.to/agpsalgado/mood-ui-2hpa)
+- [How I Fixed Stale Exchange Rate Data on Weekends With a Simple Python Filter](https://dev.to/kalos889/how-i-fixed-stale-exchange-rate-data-on-weekends-with-a-simple-python-filter-4pm0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
