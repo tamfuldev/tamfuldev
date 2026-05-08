@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Local Guardrails for Secrets Security in the Age of AI Coding Assistants](https://dev.to/gitguardian/local-guardrails-for-secrets-security-in-the-age-of-ai-coding-assistants-3jc8)
-- [Governing AI Agents: Boosting Engineering Productivity with Secure Automation in GitHub Enterprise](https://dev.to/devactivity/governing-ai-agents-boosting-engineering-productivity-with-secure-automation-in-github-enterprise-a0e)
-- [Building an AI Agent with Persistent Memory: A Technical Deep Dive](https://dev.to/manoir_yantai_f22f01340f0/building-an-ai-agent-with-persistent-memory-a-technical-deep-dive-2f24)
-- [ML-DSA vs SLH-DSA: Which to Choose](https://dev.to/quantumsequrity/ml-dsa-vs-slh-dsa-which-to-choose-1c8c)
-- [The Skills Gap Is the Real VMware Exit Risk](https://dev.to/ntctech/the-skills-gap-is-the-real-vmware-exit-risk-150m)
+- [📢 Official Ecosystem Declaration: The Launch of KYXGO TECHNOLOGY](https://dev.to/aditya_rai_2f211fe3d3a90f/official-ecosystem-declaration-the-launch-of-kyxgo-technology-2784)
+- [Evaluating RAG Systems: Measuring Retrieval Quality, Grounding, and Hallucinations](https://dev.to/abhi_chatterjee_979801/evaluating-rag-systems-measuring-retrieval-quality-grounding-and-hallucinations-16cn)
+- [Why Your Recurring Agent Task Dies Right Before Delivery](https://dev.to/zvone187/why-your-recurring-agent-task-dies-right-before-delivery-18bb)
+- [OpenClaw without the Node v22 install hell — I put it on Telegram](https://dev.to/voltagegpu/openclaw-without-the-node-v22-install-hell-i-put-it-on-telegram-5bcd)
+- [Why Uploading Your Bank Statement to Random PDF Compressors Is a Financial Privacy Risk](https://dev.to/zerocloudpdf/why-uploading-your-bank-statement-to-random-pdf-compressors-is-a-financial-privacy-risk-5a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
