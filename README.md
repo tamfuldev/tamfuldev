@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Clarity always beats speed when you are learning to code](https://dev.to/samareshdas/clarity-always-beats-speed-when-you-are-learning-to-code-19mg)
-- [The Local Model That Doesn&#39;t Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9)
-- [Claude Code for API Design: How I Stopped Shipping Endpoints I Regret Six Months Later](https://dev.to/nextools/claude-code-for-api-design-how-i-stopped-shipping-endpoints-i-regret-six-months-later-4o49)
-- [Using Claude Code with Docker Model Runner](https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo)
-- [Cache-busting JSON in PHP with filemtime](https://dev.to/ohugonnot/cache-busting-json-in-php-with-filemtime-4l3a)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-5h4c)
+- [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
+- [Gemma 4 Has Four Models. Here&#39;s Which One You Actually Need](https://dev.to/nirbhay_gautam/gemma-4-has-four-models-heres-which-one-you-actually-need-1057)
+- [ServiceNow MCP: Automate ITSM workflows without leaving your AI agent](https://dev.to/curatedmcp/servicenow-mcp-automate-itsm-workflows-without-leaving-your-ai-agent-cmd)
+- [Beyond Competitors: How to Use ChangeCrab Sonar to Monitor Your Dependencies](https://dev.to/changecrab/beyond-competitors-how-to-use-changecrab-sonar-to-monitor-your-dependencies-3h5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
