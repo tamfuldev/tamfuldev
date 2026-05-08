@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Thursday Thought: Chat is the New Source Code](https://dev.to/carryologist/thursday-thought-chat-is-the-new-source-code-4eie)
-- [Your AI Strategy Has a Blind Spot: An SEO and AEO Audit of vibescoder.dev](https://dev.to/carryologist/your-ai-strategy-has-a-blind-spot-an-seo-and-aeo-audit-of-vibescoderdev-379g)
-- [Day 3: Building the Editing Layer](https://dev.to/carryologist/day-3-building-the-editing-layer-53jn)
-- [I Finally Understood Routers and Switches by Connecting Them to Real-Life Examples](https://dev.to/taqq/i-finally-understood-routers-and-switches-by-connecting-them-to-real-life-examples-47d8)
-- [I Built BriefBench: A Gemma 4 Tool That Turns Messy Notes Into Model Decisions](https://dev.to/mukundakatta/i-built-briefbench-a-gemma-4-tool-that-turns-messy-notes-into-model-decisions-3m5p)
+- [What LeetCode Optimizes For vs What Actual Production Systems Demand](https://dev.to/kkyser737/what-leetcode-optimizes-for-vs-what-actual-production-systems-demand-4d1a)
+- [Resource-Aware Structured Concurrency in Java 21](https://dev.to/salgotraja/resource-aware-structured-concurrency-in-java-21-4o5n)
+- [Post-Mortem: How a &quot;Performance&quot; PR Introduced 28 New Regressions](https://dev.to/gauntletci/post-mortem-how-a-performance-pr-introduced-28-new-regressions-4pgf)
+- [Agents can pay. They can&#39;t prove they were supposed to.](https://dev.to/piiiico/agents-can-pay-they-cant-prove-they-were-supposed-to-fcj)
+- [How to Deploy NestJS to AWS Lambda Using CDK and GitHub Actions](https://dev.to/ajeetchaulagain/how-to-deploy-nestjs-to-aws-lambda-using-cdk-and-github-actions-3lf8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
