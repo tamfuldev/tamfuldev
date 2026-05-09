@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Node.js Event Loop Explained](https://dev.to/satyasootar/the-nodejs-event-loop-explained-5bgh)
-- [How computers work: An Overview.](https://dev.to/muzammiltanwar/how-computers-work-an-overview-2o2h)
-- [Why Node.js is Perfect for Building Fast Web Applications](https://dev.to/satyasootar/why-nodejs-is-perfect-for-building-fast-web-applications-3mil)
-- [What 11 big tech companies actually do with AI in 2026](https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58)
-- [Am I Ready for FAANG? A Better Test Than Solving More LeetCode](https://dev.to/codeintuition/am-i-ready-for-faang-a-better-test-than-solving-more-leetcode-im9)
+- [Heimdall MCP: Add OpenTelemetry tracing to any MCP server without touching its code](https://dev.to/enmanuelmag/heimdall-mcp-add-opentelemetry-tracing-to-any-mcp-server-without-touching-its-code-4ae6)
+- [Node.js or PHPহোস্টিং অ্যাকাউন্টের &quot;Number of Processes&quot; লিমিট ১০০% এ পৌঁছে গেলে করনিয় কি ?](https://dev.to/swapnil-ahmmed-shishir/nodejs-or-phphosttin-ayaakaauntter-number-of-processes-limitt-100-e-paunche-gele-krniyy-ki--1jjl)
+- [The Future of AI and Next.js](https://dev.to/pat9000/the-future-of-ai-and-nextjs-21jd)
+- [n8n vs Make vs Custom Scripts: When to Use What for AI Workflow Automation](https://dev.to/pat9000/n8n-vs-make-vs-custom-scripts-when-to-use-what-for-ai-workflow-automation-3pdc)
+- [Run PHP and MySQL in Docker](https://dev.to/raflizocky_/run-php-and-mysql-in-docker-5935)
 <!-- BLOG-POST-LIST:END -->
 
 ---
