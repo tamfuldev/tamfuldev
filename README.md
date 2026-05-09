@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Attractor Engineering: Seeing Software Development as Field Dynamics](https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5)
-- [Get Real Row Counts in GBase 8s Without UPDATE STATISTICS](https://dev.to/michaelfv/get-real-row-counts-in-gbase-8s-without-update-statistics-34le)
-- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
-- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
-- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
+- [The Node.js Event Loop Explained](https://dev.to/satyasootar/the-nodejs-event-loop-explained-5bgh)
+- [How computers work: An Overview.](https://dev.to/muzammiltanwar/how-computers-work-an-overview-2o2h)
+- [Why Node.js is Perfect for Building Fast Web Applications](https://dev.to/satyasootar/why-nodejs-is-perfect-for-building-fast-web-applications-3mil)
+- [What 11 big tech companies actually do with AI in 2026](https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58)
+- [Am I Ready for FAANG? A Better Test Than Solving More LeetCode](https://dev.to/codeintuition/am-i-ready-for-faang-a-better-test-than-solving-more-leetcode-im9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
