@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your RAG can&#39;t answer &#39;why&#39; -- GraphRAG finds what vector search misses](https://dev.to/kenimo49/your-rag-cant-answer-why-graphrag-finds-what-vector-search-misses-16eg)
-- [How We Forecast Pollen at Planetary Scale](https://dev.to/devdavidkarlsson/how-we-forecast-pollen-at-planetary-scale-2m85)
-- [half of x402 volume is gamified — agents need proof-of-real-payment](https://dev.to/t49qnsx7qtkpanks/half-of-x402-volume-is-gamified-agents-need-proof-of-real-payment-6e2)
-- [LangChain issue requests EU AI Act audit logging — frameworks need this now](https://dev.to/t49qnsx7qtkpanks/langchain-issue-requests-eu-ai-act-audit-logging-frameworks-need-this-now-2cin)
-- [From Procrastination to Progress: 4 Years to Finally &quot;Get&quot; Web Development](https://dev.to/kenny_kay/from-procrastination-to-progress-4-years-to-finally-get-web-development-4k1b)
+- [The Floci philosophy: stay tiny, feel like real AWS](https://dev.to/hectorvent/the-floci-philosophy-stay-tiny-feel-like-real-aws-1h3d)
+- [Has AI Already Replaced Me or Do I Still Have a Chance?](https://dev.to/erudito/has-ai-already-replaced-me-or-do-i-still-have-a-chance-3ldm)
+- [Chris Morgan banea query strings sin autorización en su sitio web](https://dev.to/lu1tr0n/chris-morgan-banea-query-strings-sin-autorizacion-en-su-sitio-web-4oaa)
+- [Antennas: The Physics Rabbit Hole Hidden Inside a Piece of Wire](https://dev.to/rushichaudhari/antennas-the-physics-rabbit-hole-hidden-inside-a-piece-of-wire-3ble)
+- [Agents assemble. One agent is a hire. Many agents are a workforce.](https://dev.to/eagleeyethinker/agents-assemble-one-agent-is-a-hire-many-agents-are-a-workforce-49k7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
