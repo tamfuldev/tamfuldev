@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Co-Founder Vetting System Nobody Talks About &lpar;Until It&#39;s Too Late&rpar;](https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79)
-- [How I Built a Multi-Sport AI Coach on iOS as a Solo Developer — Architecture Decisions That Actually Mattered](https://dev.to/benjamin_pires_59127eddff/how-i-built-a-multi-sport-ai-coach-on-ios-as-a-solo-developer-architecture-decisions-that-22l9)
-- [The Auth0 Pricing Trap: Why Upgrading to Paid Gives You Less](https://dev.to/anand_rathnas_d5b608cc3de/the-auth0-pricing-trap-why-upgrading-to-paid-gives-you-less-3m5f)
-- [Building an Experimental TypeScript Cipher Inspired by 8 Dimensions](https://dev.to/mark_id752/building-an-experimental-typescript-cipher-inspired-by-8-dimensions-3fno)
-- [A Grafana dashboard for Claude Code on Prometheus](https://dev.to/rockdarko/a-grafana-dashboard-for-claude-code-on-prometheus-2nbl)
+- [How to Hack the Recruiter ‘Algorithm’ and Boost Your Job Offer Rate by 250%](https://dev.to/_07a306f4bf233eecbc3a/how-to-hack-the-recruiter-algorithm-and-boost-your-job-offer-rate-by-250-5ekm)
+- [I Built an Open Source AI Workspace for Paperless-ngx Because I Wanted Document Intelligence](https://dev.to/zademy/i-built-an-open-source-ai-workspace-for-paperless-ngx-because-i-wanted-document-intelligence-mdf)
+- [I scanned 50 open-source Spring Boot projects. More than half had silent config drift.](https://dev.to/jolle93/i-scanned-50-open-source-spring-boot-projects-more-than-half-had-silent-config-drift-4jci)
+- [Compass v0.9 · LongMemEval-S 56.6% · cross-agent memory federation](https://dev.to/chunxiaoxx/compass-v09-longmemeval-s-566-cross-agent-memory-federation-cog)
+- [Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React](https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
