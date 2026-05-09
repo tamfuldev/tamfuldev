@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The day I realized the shebang matters](https://dev.to/hosni_zaaraoui/the-day-i-realized-the-shebang-matters-3j1h)
-- [Why AI Sandboxing Needs Kubernetes—And Why You Should Care Now](https://dev.to/pratheesh_s/why-ai-sandboxing-needs-kubernetes-and-why-you-should-care-now-5djk)
-- [The Central Nervous System: Scaling the Agentic Radar to 24/7 with FastAPI and Webhooks](https://dev.to/datalaria/the-central-nervous-system-scaling-the-agentic-radar-to-247-with-fastapi-and-webhooks-pcg)
-- [Paint by hours, or how I solved for time tracking](https://dev.to/grantshepert/paint-by-hours-or-how-i-solved-for-time-tracking-2h67)
-- [How Much Does It Cost to Build a SaaS in 2026? AI Changed Everything](https://dev.to/nikhilgarg510/how-much-does-it-cost-to-build-a-saas-in-2026-ai-changed-everything-1lhj)
+- [TinyML on microcontrollers: from prototype to production](https://dev.to/pezzullo/tinyml-on-microcontrollers-from-prototype-to-production-3dd4)
+- [NPUs in embedded SoCs: edge AI without sending everything to the cloud](https://dev.to/pezzullo/npus-in-embedded-socs-edge-ai-without-sending-everything-to-the-cloud-5284)
+- [Qt and QML for embedded HMIs: benefits, limits and trade-offs](https://dev.to/pezzullo/qt-and-qml-for-embedded-hmis-benefits-limits-and-trade-offs-dbi)
+- [Low-cost FPGAs: rapid prototyping with open-source tools](https://dev.to/pezzullo/low-cost-fpgas-rapid-prototyping-with-open-source-tools-n12)
+- [Chiplets and UCIe: why modular processors matter for embedded](https://dev.to/pezzullo/chiplets-and-ucie-why-modular-processors-matter-for-embedded-4gm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
