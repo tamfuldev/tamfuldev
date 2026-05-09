@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Floci philosophy: stay tiny, feel like real AWS](https://dev.to/hectorvent/the-floci-philosophy-stay-tiny-feel-like-real-aws-1h3d)
-- [Has AI Already Replaced Me or Do I Still Have a Chance?](https://dev.to/erudito/has-ai-already-replaced-me-or-do-i-still-have-a-chance-3ldm)
-- [Chris Morgan banea query strings sin autorización en su sitio web](https://dev.to/lu1tr0n/chris-morgan-banea-query-strings-sin-autorizacion-en-su-sitio-web-4oaa)
-- [Antennas: The Physics Rabbit Hole Hidden Inside a Piece of Wire](https://dev.to/rushichaudhari/antennas-the-physics-rabbit-hole-hidden-inside-a-piece-of-wire-3ble)
-- [Agents assemble. One agent is a hire. Many agents are a workforce.](https://dev.to/eagleeyethinker/agents-assemble-one-agent-is-a-hire-many-agents-are-a-workforce-49k7)
+- [This Week In React #280 : TanStack, Remotion, React Router | Expo Go, Ease, Screen Transitions, LegendList| Node.js, Datatype, tsz, Astro](https://dev.to/sebastienlorber/this-week-in-react-280-tanstack-remotion-react-router-expo-go-ease-screen-transitions-18mf)
+- [Cheap Dedicated CI/CD Runners for GitLab: Shared vs Self-Hosted vs Rented](https://dev.to/sepcy/cheap-dedicated-cicd-runners-for-gitlab-shared-vs-self-hosted-vs-rented-2a2a)
+- [Building a Unified Korean Entertainment Database from 10 APIs and Web Scrapers](https://dev.to/carasjung/building-a-unified-korean-entertainment-database-from-10-apis-and-web-scrapers-3n91)
+- [NetSuite Integration Guide](https://dev.to/apideck/netsuite-integration-guide-nap)
+- [Why Gamified CAPTCHAs are quietly disrupting a $90B market](https://dev.to/katie_p/why-gamified-captchas-are-quietly-disrupting-a-90b-market-59dg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
