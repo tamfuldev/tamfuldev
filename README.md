@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
-- [Building a Multi-Agent Fleet with No Central Server](https://dev.to/asterview/building-a-multi-agent-fleet-with-no-central-server-12fp)
-- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
-- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
-- [Stop Making Your AI Agent Scrape the Web. There&#39;s a Better Way.](https://dev.to/asterview/stop-making-your-ai-agent-scrape-the-web-theres-a-better-way-36fl)
+- [The Co-Founder Vetting System Nobody Talks About &lpar;Until It&#39;s Too Late&rpar;](https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79)
+- [How I Built a Multi-Sport AI Coach on iOS as a Solo Developer — Architecture Decisions That Actually Mattered](https://dev.to/benjamin_pires_59127eddff/how-i-built-a-multi-sport-ai-coach-on-ios-as-a-solo-developer-architecture-decisions-that-22l9)
+- [The Auth0 Pricing Trap: Why Upgrading to Paid Gives You Less](https://dev.to/anand_rathnas_d5b608cc3de/the-auth0-pricing-trap-why-upgrading-to-paid-gives-you-less-3m5f)
+- [Building an Experimental TypeScript Cipher Inspired by 8 Dimensions](https://dev.to/mark_id752/building-an-experimental-typescript-cipher-inspired-by-8-dimensions-3fno)
+- [A Grafana dashboard for Claude Code on Prometheus](https://dev.to/rockdarko/a-grafana-dashboard-for-claude-code-on-prometheus-2nbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
