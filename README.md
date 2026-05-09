@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tips to use AI more effectively](https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj)
-- [💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖](https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh)
-- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151)
-- [&quot;My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.&quot;](https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm)
-- [I Found LeetCode for Software Design, and It’s Awesome](https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d)
+- [The day I realized the shebang matters](https://dev.to/hosni_zaaraoui/the-day-i-realized-the-shebang-matters-3j1h)
+- [Why AI Sandboxing Needs Kubernetes—And Why You Should Care Now](https://dev.to/pratheesh_s/why-ai-sandboxing-needs-kubernetes-and-why-you-should-care-now-5djk)
+- [The Central Nervous System: Scaling the Agentic Radar to 24/7 with FastAPI and Webhooks](https://dev.to/datalaria/the-central-nervous-system-scaling-the-agentic-radar-to-247-with-fastapi-and-webhooks-pcg)
+- [Paint by hours, or how I solved for time tracking](https://dev.to/grantshepert/paint-by-hours-or-how-i-solved-for-time-tracking-2h67)
+- [How Much Does It Cost to Build a SaaS in 2026? AI Changed Everything](https://dev.to/nikhilgarg510/how-much-does-it-cost-to-build-a-saas-in-2026-ai-changed-everything-1lhj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
