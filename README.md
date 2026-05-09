@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Heimdall MCP: Add OpenTelemetry tracing to any MCP server without touching its code](https://dev.to/enmanuelmag/heimdall-mcp-add-opentelemetry-tracing-to-any-mcp-server-without-touching-its-code-4ae6)
-- [Node.js or PHPহোস্টিং অ্যাকাউন্টের &quot;Number of Processes&quot; লিমিট ১০০% এ পৌঁছে গেলে করনিয় কি ?](https://dev.to/swapnil-ahmmed-shishir/nodejs-or-phphosttin-ayaakaauntter-number-of-processes-limitt-100-e-paunche-gele-krniyy-ki--1jjl)
-- [The Future of AI and Next.js](https://dev.to/pat9000/the-future-of-ai-and-nextjs-21jd)
-- [n8n vs Make vs Custom Scripts: When to Use What for AI Workflow Automation](https://dev.to/pat9000/n8n-vs-make-vs-custom-scripts-when-to-use-what-for-ai-workflow-automation-3pdc)
-- [Run PHP and MySQL in Docker](https://dev.to/raflizocky_/run-php-and-mysql-in-docker-5935)
+- [Your Backend Should Be a Compiler, Not a Collection of Handlers](https://dev.to/stinklewinks/your-backend-should-be-a-compiler-not-a-collection-of-handlers-5a9c)
+- [Building a Docker debug TUI in Rust with output-aware follow-ups](https://dev.to/nickciolpan/building-a-docker-debug-tui-in-rust-with-output-aware-follow-ups-3oi8)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-3j6g)
+- [Descomplicando GraphQL](https://dev.to/yuripeixinho/descomplicando-graphql-14i8)
+- [step by step crud operation in motoko - how to store and retrieve data](https://dev.to/abdulsalamamtech/step-by-step-crud-operation-in-motoko-how-to-store-and-retrieve-data-34fp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
