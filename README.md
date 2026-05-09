@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hack the Recruiter ‘Algorithm’ and Boost Your Job Offer Rate by 250%](https://dev.to/_07a306f4bf233eecbc3a/how-to-hack-the-recruiter-algorithm-and-boost-your-job-offer-rate-by-250-5ekm)
-- [I Built an Open Source AI Workspace for Paperless-ngx Because I Wanted Document Intelligence](https://dev.to/zademy/i-built-an-open-source-ai-workspace-for-paperless-ngx-because-i-wanted-document-intelligence-mdf)
-- [I scanned 50 open-source Spring Boot projects. More than half had silent config drift.](https://dev.to/jolle93/i-scanned-50-open-source-spring-boot-projects-more-than-half-had-silent-config-drift-4jci)
-- [Compass v0.9 · LongMemEval-S 56.6% · cross-agent memory federation](https://dev.to/chunxiaoxx/compass-v09-longmemeval-s-566-cross-agent-memory-federation-cog)
-- [Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React](https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m)
+- [Tips to use AI more effectively](https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj)
+- [💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖](https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh)
+- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151)
+- [&quot;My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.&quot;](https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm)
+- [I Found LeetCode for Software Design, and It’s Awesome](https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
