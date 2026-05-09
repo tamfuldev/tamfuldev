@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TinyML on microcontrollers: from prototype to production](https://dev.to/pezzullo/tinyml-on-microcontrollers-from-prototype-to-production-3dd4)
-- [NPUs in embedded SoCs: edge AI without sending everything to the cloud](https://dev.to/pezzullo/npus-in-embedded-socs-edge-ai-without-sending-everything-to-the-cloud-5284)
-- [Qt and QML for embedded HMIs: benefits, limits and trade-offs](https://dev.to/pezzullo/qt-and-qml-for-embedded-hmis-benefits-limits-and-trade-offs-dbi)
-- [Low-cost FPGAs: rapid prototyping with open-source tools](https://dev.to/pezzullo/low-cost-fpgas-rapid-prototyping-with-open-source-tools-n12)
-- [Chiplets and UCIe: why modular processors matter for embedded](https://dev.to/pezzullo/chiplets-and-ucie-why-modular-processors-matter-for-embedded-4gm)
+- [Attractor Engineering: Seeing Software Development as Field Dynamics](https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5)
+- [Get Real Row Counts in GBase 8s Without UPDATE STATISTICS](https://dev.to/michaelfv/get-real-row-counts-in-gbase-8s-without-update-statistics-34le)
+- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
+- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
+- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
