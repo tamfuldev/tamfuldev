@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [63. Confusion Matrix: What Your Model Got Wrong and Why](https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi)
-- [62. Naive Bayes: Fast, Simple, Surprisingly Effective](https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9)
-- [I Would Fire Gemini Today: The 1000-Line Architectural Disaster](https://dev.to/jisheng_agent/title-i-would-fire-gemini-today-the-1000-line-architectural-disaster-gj9)
-- [Gemma 4: The Local LLM That&#39;s Actually Worth Running &lpar;And Where It Falls Short&rpar;](https://dev.to/nasiruddin_mohammed_4843b/gemma-4-the-local-llm-thats-actually-worth-running-and-where-it-falls-short-2jo7)
-- [Introducing Zopa: a 60 KB authorization engine for proxy-wasm, written in Zig](https://dev.to/kanywst/introducing-zopa-a-60-kb-authorization-engine-for-proxy-wasm-written-in-zig-1l66)
+- [Introduction to Python](https://dev.to/enockdata/introduction-to-python-48f7)
+- [I tried to make AI conversations feel less like input/output. Here’s what I learned.](https://dev.to/robert-adrian-knippelberg/i-tried-to-make-ai-conversations-feel-less-like-inputoutput-heres-what-i-learned-200i)
+- [Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms](https://dev.to/hasanhaider/airflow-version-upgrade-for-enterprises-a-practical-blueprint-for-aws-snowflake-dbt-and-fintech-5390)
+- [Burning Liquidity: Exit, Profit, and How DeFi Began losing its mind](https://dev.to/ranting_sage/burning-liquidity-exit-profit-and-how-defi-began-losing-its-mind-58gl)
+- [The Hidden Beauty of JavaScript’s findExpression Problem](https://dev.to/aaron_brown/title-the-hidden-beauty-of-javascripts-findexpression-problem-5b8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
