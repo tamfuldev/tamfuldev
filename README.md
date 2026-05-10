@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simple DEV Blog Post Writer with LangGraph Multi Agents with Memory, AWS Bedrock Nova: Generator &amp; Evaluator Pattern](https://dev.to/aws-builders/simple-dev-blog-post-writer-with-langgraph-multi-agents-with-memory-aws-bedrock-nova-generator--5b1)
-- [PHP vs Node.js &lpar;2026&rpar;: I Benchmarked Both — Here&#39;s What Surprised Me](https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj)
-- [Why Node.js Is Perfect for Building Fast Web Applications](https://dev.to/pratham69/why-nodejs-is-perfect-for-building-fast-web-applications-59o1)
-- [Local LLMs in 2026: What Actually Works on Consumer Hardware](https://dev.to/studiomeyer_io/local-llms-in-2026-what-actually-works-on-consumer-hardware-50me)
-- [Cursor Pagination Step by Step](https://dev.to/edriso/cursor-pagination-step-by-step-1iff)
+- [TripSync — A Three-Tier Gemma 4 Travel Planner Running Live on Flask](https://dev.to/nightowl/-tripsync-a-three-tier-gemma-4-travel-planner-running-live-on-flask-3iki)
+- [All Roads Lead to AI Rome](https://dev.to/vektor_memory_43f51a32376/all-roads-lead-to-ai-rome-16f)
+- [When Lean Proved My Durability Definition Too Easily](https://dev.to/iroha1203/when-lean-proved-my-durability-definition-too-easily-20nc)
+- [Months of work on a 3-app Marvel ecosystem — React 19, Three.js globe, PWA, i18n, monorepo](https://dev.to/adsy/months-of-work-on-a-3-app-marvel-ecosystem-react-19-threejs-globe-pwa-i18n-monorepo-2pp)
+- [Jakarta EE vs Spring Boot in 2026: I Migrated a Production Backend and the Tradeoffs Aren&#39;t What You&#39;d Expect](https://dev.to/jtorchia/jakarta-ee-vs-spring-boot-in-2026-i-migrated-a-production-backend-and-the-tradeoffs-arent-what-5hin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
