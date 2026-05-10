@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generation 2 — RAG-Augmented Models &lpar;2022–2023&rpar;](https://dev.to/raghavenreddy/generation-2-rag-augmented-models-2022-2023-l1h)
-- [🚀 React + Vite + Tailwind CSS + Shadcn UI Setup &lpar;vanillaJS&rpar;](https://dev.to/nabinkdl/react-vite-tailwind-css-shadcn-ui-setup-js-version-3c7i)
-- [Can we have a little Phun?](https://dev.to/doug_trier_48bd83065738b1/can-we-have-a-little-phun-4g1l)
-- [Understanding Objects in JavaScript](https://dev.to/pratham69/understanding-objects-in-javascript-4d0c)
-- [Misadventures in Kubernetes: Autoscaling Workers](https://dev.to/alchemicduncan/misadventures-in-kubernetes-autoscaling-workers-2p8o)
+- [¿Por qué Go mató a la herencia?](https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab)
+- [Wireless Networks](https://dev.to/hirave_palak/wireless-networks-52j)
+- [🤖 Building Social Games with AI — The Practitioner&#39;s Guide 📖](https://dev.to/truongpx396/building-social-games-with-ai-the-practitioners-guide-o98)
+- [I built a browser tool that removes small daily frustrations](https://dev.to/shubham_9ea559333065f3f11/i-built-a-browser-tool-that-removes-small-daily-frustrations-1jkm)
+- [Best Crypto APIs for Developers in 2026](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2026-3908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
