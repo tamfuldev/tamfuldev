@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bullwhip: What The Beer Game Teaches Us About Uneven AI Adoption](https://dev.to/keithjmackay/the-ai-bullwhip-what-the-beer-game-teaches-us-about-uneven-ai-adoption-2k9i)
-- [XML Tags Don&#39;t Help Short Prompts — Here&#39;s When They Actually Matter &lpar;2026&rpar;](https://dev.to/manishramavat/xml-tags-dont-help-short-prompts-heres-when-they-actually-matter-2026-25gf)
-- [The Invisible Wall: Hardening Your BI Infrastructure Against Modern Data Breaches](https://dev.to/dattasable/the-invisible-wall-hardening-your-bi-infrastructure-against-modern-data-breaches-1j5)
-- [It’s Not Just the College Kids](https://dev.to/niclydon/its-not-just-the-college-kids-57ha)
-- [Beyond the SELECT: Mastering Advanced SQL for Surgical BI](https://dev.to/dattasable/beyond-the-select-mastering-advanced-sql-for-surgical-bi-k3g)
+- [SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining](https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3)
+- [DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, &amp; V100 LLM Performance](https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2)
+- [Pi Lightsaber Lab](https://dev.to/igoriot/pi-lightsaber-lab-3oba)
+- [Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata](https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm)
+- [Claude Code quota management: a complete guide &lpar;2026&rpar;](https://dev.to/deibygs/claude-code-quota-management-a-complete-guide-2026-1h9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
