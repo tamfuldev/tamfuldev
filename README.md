@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python](https://dev.to/enockdata/introduction-to-python-48f7)
-- [I tried to make AI conversations feel less like input/output. Here’s what I learned.](https://dev.to/robert-adrian-knippelberg/i-tried-to-make-ai-conversations-feel-less-like-inputoutput-heres-what-i-learned-200i)
-- [Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms](https://dev.to/hasanhaider/airflow-version-upgrade-for-enterprises-a-practical-blueprint-for-aws-snowflake-dbt-and-fintech-5390)
-- [Burning Liquidity: Exit, Profit, and How DeFi Began losing its mind](https://dev.to/ranting_sage/burning-liquidity-exit-profit-and-how-defi-began-losing-its-mind-58gl)
-- [The Hidden Beauty of JavaScript’s findExpression Problem](https://dev.to/aaron_brown/title-the-hidden-beauty-of-javascripts-findexpression-problem-5b8n)
+- [Coding Cat Oran S2 Ep1 — The Excel Republic](https://dev.to/syslayer/coding-cat-oran-s2-ep1-the-excel-republic-5g15)
+- [Learning Xahau: Debunking Common Myths About Xahau](https://dev.to/ekiserrepe/learning-xahau-debunking-common-myths-about-xahau-1eke)
+- [Why Your RAG Chatbot Looks Great in Week 1 and Hallucinates by Month 2](https://dev.to/akshay_kumar_bm/why-your-rag-chatbot-looks-great-in-week-1-and-hallucinates-by-month-2-52k5)
+- [I Built Graphode — An AI-Powered GitHub Repository Visualizer](https://dev.to/harshkalia/i-built-graphode-an-ai-powered-github-repository-visualizer-3bpm)
+- [Why We Render Everything in the Browser](https://dev.to/vivian-voss/why-we-render-everything-in-the-browser-bak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
