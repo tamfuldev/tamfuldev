@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why your app feels slow and how we fixed it with PowerSync](https://dev.to/doszhan/why-your-app-feels-slow-and-how-we-fixed-it-with-powersync-ehc)
-- [C# Networking Deep Dive With io_uring part 2 - Bridge the Async Model](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-2-bridge-the-async-model-3cgo)
-- [LLMs broke ad fraud detection. Here&#39;s what that means.](https://dev.to/yisrael_gottlieb/llms-broke-ad-fraud-detection-heres-what-that-means-1i7h)
-- [The Node.js Event Loop Explained](https://dev.to/shivam_yadav_8e22bf5bf987/the-nodejs-event-loop-explained-17k4)
-- [Blocking vs Non-Blocking Code in Node.js](https://dev.to/shivam_yadav_8e22bf5bf987/blocking-vs-non-blocking-code-in-nodejs-2m8j)
+- [How We Built ElderEase: An AI-Powered Healthcare Platform for Seniors](https://dev.to/aadya2901/how-we-built-elderease-an-ai-powered-healthcare-platform-for-seniors-573i)
+- [Why Your Next App Ships Faster From Studio to Deploy](https://dev.to/debajyoti_ghosh/why-your-next-app-ships-faster-from-studio-to-deploy-9bj)
+- [Why AI-Generated Code Makes You Slower &lpar;And How to Fix Your Workflow&rpar;](https://dev.to/alanwest/why-ai-generated-code-makes-you-slower-and-how-to-fix-your-workflow-hf6)
+- [The Late Payment Policy + 4 email scripts that turn 90-day-overdue invoices into 14-day-paid invoices](https://dev.to/acehq/the-late-payment-policy-4-email-scripts-that-turn-90-day-overdue-invoices-into-14-day-paid-36of)
+- [I&#39;d been trying to build my own editor for 20 years. AI finally got me there.](https://dev.to/kyosuke1008/id-been-trying-to-build-my-own-editor-for-20-years-ai-finally-got-me-there-3ge9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
