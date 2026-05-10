@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built ElderEase: An AI-Powered Healthcare Platform for Seniors](https://dev.to/aadya2901/how-we-built-elderease-an-ai-powered-healthcare-platform-for-seniors-573i)
-- [Why Your Next App Ships Faster From Studio to Deploy](https://dev.to/debajyoti_ghosh/why-your-next-app-ships-faster-from-studio-to-deploy-9bj)
-- [Why AI-Generated Code Makes You Slower &lpar;And How to Fix Your Workflow&rpar;](https://dev.to/alanwest/why-ai-generated-code-makes-you-slower-and-how-to-fix-your-workflow-hf6)
-- [The Late Payment Policy + 4 email scripts that turn 90-day-overdue invoices into 14-day-paid invoices](https://dev.to/acehq/the-late-payment-policy-4-email-scripts-that-turn-90-day-overdue-invoices-into-14-day-paid-36of)
-- [I&#39;d been trying to build my own editor for 20 years. AI finally got me there.](https://dev.to/kyosuke1008/id-been-trying-to-build-my-own-editor-for-20-years-ai-finally-got-me-there-3ge9)
+- [Primitive and Reference Values in JavaScript](https://dev.to/rhieger/primitive-and-reference-values-in-javascript-41j0)
+- [Beyond the Buzzword: The Technical Reality of On-Premises, Private Cloud, and Public Cloud](https://dev.to/prathamesh_gawade_16/beyond-the-buzzword-the-technical-reality-of-on-premises-private-cloud-and-public-cloud-102j)
+- [Deep inside the COM: Reading Windows ROT Without Asking Permission. Detective story](https://dev.to/steelfactor/deep-inside-the-com-reading-windows-rot-without-asking-permission-story-about-reverse-1gkp)
+- [Beyond Keywords: Mastering HyDE for Smarter Retrieval 🧠](https://dev.to/rushanksavant/beyond-keywords-mastering-hyde-for-smarter-retrieval-3p5c)
+- [An LLM Walks Into General Relativity - Lessons from a Devoxx Talk](https://dev.to/tasenikol/an-llm-walks-into-general-relativity-lessons-from-a-devoxx-talk-133l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
