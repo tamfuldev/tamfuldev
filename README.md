@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python argparse: Build CLI Tools in 10 Minutes](https://dev.to/german_yamil_e021eef8710d/python-argparse-build-cli-tools-in-10-minutes-4faj)
-- [Generation 1 — Standalone Models &lpar;2018–2022&rpar;](https://dev.to/raghavenreddy/generation-1-standalone-models-2018-2022-3mcl)
-- [We built a kitten care app that surfaces today&#39;s task, not a static guide](https://dev.to/niixolabs/we-built-a-kitten-care-app-that-surfaces-todays-task-not-a-static-guide-54h3)
-- [# How to Build a Multi-Step Form Wizard in Next.js with TypeScript](https://dev.to/nnanyelugo/-how-to-build-a-multi-step-form-wizard-in-nextjs-with-typescript-24jg)
-- [Shipped v2 of go-js-array-methods — JS-style Filter, Map, Reduce for Go slices](https://dev.to/gbubemi_attah_8220489db16/shipped-v2-of-go-js-array-methods-js-style-filter-map-reduce-for-go-slices-1k77)
+- [Generation 2 — RAG-Augmented Models &lpar;2022–2023&rpar;](https://dev.to/raghavenreddy/generation-2-rag-augmented-models-2022-2023-l1h)
+- [🚀 React + Vite + Tailwind CSS + Shadcn UI Setup &lpar;vanillaJS&rpar;](https://dev.to/nabinkdl/react-vite-tailwind-css-shadcn-ui-setup-js-version-3c7i)
+- [Can we have a little Phun?](https://dev.to/doug_trier_48bd83065738b1/can-we-have-a-little-phun-4g1l)
+- [Understanding Objects in JavaScript](https://dev.to/pratham69/understanding-objects-in-javascript-4d0c)
+- [Misadventures in Kubernetes: Autoscaling Workers](https://dev.to/alchemicduncan/misadventures-in-kubernetes-autoscaling-workers-2p8o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
