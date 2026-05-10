@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I Finally Understand About Solana Transactions &lpar;After 20 Days of Learning&rpar;](https://dev.to/fachiny17/what-i-finally-understand-about-solana-transactions-after-20-days-of-learning-34k8)
-- [Micro-SaaS 90-Day Build — Stripe·Supabase·Vercel Free Plan to $1,200 MRR &lpar;2026&rpar;](https://dev.to/brandon-vibestart/micro-saas-90-day-build-stripesupabasevercel-free-plan-to-1200-mrr-2026-2k63)
-- [AI agents could solve crypto&#39;s user problem — and trustless settlement is the missing layer](https://dev.to/barissozen/ai-agents-could-solve-cryptos-user-problem-and-trustless-settlement-is-the-missing-layer-2l1a)
-- [Circuit Breakers Under Stress: Anatomy of a Payment Cascade](https://dev.to/pponali/circuit-breakers-under-stress-anatomy-of-a-payment-cascade-hn0)
-- [URL Parameters vs Query Strings in Express.js](https://dev.to/satyasootar/url-parameters-vs-query-strings-in-expressjs-154o)
+- [Why your app feels slow and how we fixed it with PowerSync](https://dev.to/doszhan/why-your-app-feels-slow-and-how-we-fixed-it-with-powersync-ehc)
+- [C# Networking Deep Dive With io_uring part 2 - Bridge the Async Model](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-2-bridge-the-async-model-3cgo)
+- [LLMs broke ad fraud detection. Here&#39;s what that means.](https://dev.to/yisrael_gottlieb/llms-broke-ad-fraud-detection-heres-what-that-means-1i7h)
+- [The Node.js Event Loop Explained](https://dev.to/shivam_yadav_8e22bf5bf987/the-nodejs-event-loop-explained-17k4)
+- [Blocking vs Non-Blocking Code in Node.js](https://dev.to/shivam_yadav_8e22bf5bf987/blocking-vs-non-blocking-code-in-nodejs-2m8j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
