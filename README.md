@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Primitive and Reference Values in JavaScript](https://dev.to/rhieger/primitive-and-reference-values-in-javascript-41j0)
-- [Beyond the Buzzword: The Technical Reality of On-Premises, Private Cloud, and Public Cloud](https://dev.to/prathamesh_gawade_16/beyond-the-buzzword-the-technical-reality-of-on-premises-private-cloud-and-public-cloud-102j)
-- [Deep inside the COM: Reading Windows ROT Without Asking Permission. Detective story](https://dev.to/steelfactor/deep-inside-the-com-reading-windows-rot-without-asking-permission-story-about-reverse-1gkp)
-- [Beyond Keywords: Mastering HyDE for Smarter Retrieval 🧠](https://dev.to/rushanksavant/beyond-keywords-mastering-hyde-for-smarter-retrieval-3p5c)
-- [An LLM Walks Into General Relativity - Lessons from a Devoxx Talk](https://dev.to/tasenikol/an-llm-walks-into-general-relativity-lessons-from-a-devoxx-talk-133l)
+- [How Python Powers Real-World Data Analytics](https://dev.to/adev3loper/how-python-powers-real-world-data-analytics-3m6m)
+- [Task Manager API in FastAPI](https://dev.to/damian_marchewka_bdf5aec2/task-manager-api-in-fastapi-302a)
+- [JavaScript Modules Explained: From Chaos to Clean Code](https://dev.to/harman_panwar_46de8d9454b/javascript-modules-explained-from-chaos-to-clean-code-ibb)
+- [Your MCP Server Has No Network Identity. Here&#39;s Why That&#39;s a Problem.](https://dev.to/asterview/your-mcp-server-has-no-network-identity-heres-why-thats-a-problem-34lj)
+- [P2P vs. Broker: The Architecture Decision Defining Multi-Agent Systems](https://dev.to/asterview/p2p-vs-broker-the-architecture-decision-defining-multi-agent-systems-54dg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
