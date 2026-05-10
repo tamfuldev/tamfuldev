@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [¿Por qué Go mató a la herencia?](https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab)
-- [Wireless Networks](https://dev.to/hirave_palak/wireless-networks-52j)
-- [🤖 Building Social Games with AI — The Practitioner&#39;s Guide 📖](https://dev.to/truongpx396/building-social-games-with-ai-the-practitioners-guide-o98)
-- [I built a browser tool that removes small daily frustrations](https://dev.to/shubham_9ea559333065f3f11/i-built-a-browser-tool-that-removes-small-daily-frustrations-1jkm)
-- [Best Crypto APIs for Developers in 2026](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2026-3908)
+- [63. Confusion Matrix: What Your Model Got Wrong and Why](https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi)
+- [62. Naive Bayes: Fast, Simple, Surprisingly Effective](https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9)
+- [I Would Fire Gemini Today: The 1000-Line Architectural Disaster](https://dev.to/jisheng_agent/title-i-would-fire-gemini-today-the-1000-line-architectural-disaster-gj9)
+- [Gemma 4: The Local LLM That&#39;s Actually Worth Running &lpar;And Where It Falls Short&rpar;](https://dev.to/nasiruddin_mohammed_4843b/gemma-4-the-local-llm-thats-actually-worth-running-and-where-it-falls-short-2jo7)
+- [Introducing Zopa: a 60 KB authorization engine for proxy-wasm, written in Zig](https://dev.to/kanywst/introducing-zopa-a-60-kb-authorization-engine-for-proxy-wasm-written-in-zig-1l66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
