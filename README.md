@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TripSync — A Three-Tier Gemma 4 Travel Planner Running Live on Flask](https://dev.to/nightowl/-tripsync-a-three-tier-gemma-4-travel-planner-running-live-on-flask-3iki)
-- [All Roads Lead to AI Rome](https://dev.to/vektor_memory_43f51a32376/all-roads-lead-to-ai-rome-16f)
-- [When Lean Proved My Durability Definition Too Easily](https://dev.to/iroha1203/when-lean-proved-my-durability-definition-too-easily-20nc)
-- [Months of work on a 3-app Marvel ecosystem — React 19, Three.js globe, PWA, i18n, monorepo](https://dev.to/adsy/months-of-work-on-a-3-app-marvel-ecosystem-react-19-threejs-globe-pwa-i18n-monorepo-2pp)
-- [Jakarta EE vs Spring Boot in 2026: I Migrated a Production Backend and the Tradeoffs Aren&#39;t What You&#39;d Expect](https://dev.to/jtorchia/jakarta-ee-vs-spring-boot-in-2026-i-migrated-a-production-backend-and-the-tradeoffs-arent-what-5hin)
+- [What I Finally Understand About Solana Transactions &lpar;After 20 Days of Learning&rpar;](https://dev.to/fachiny17/what-i-finally-understand-about-solana-transactions-after-20-days-of-learning-34k8)
+- [Micro-SaaS 90-Day Build — Stripe·Supabase·Vercel Free Plan to $1,200 MRR &lpar;2026&rpar;](https://dev.to/brandon-vibestart/micro-saas-90-day-build-stripesupabasevercel-free-plan-to-1200-mrr-2026-2k63)
+- [AI agents could solve crypto&#39;s user problem — and trustless settlement is the missing layer](https://dev.to/barissozen/ai-agents-could-solve-cryptos-user-problem-and-trustless-settlement-is-the-missing-layer-2l1a)
+- [Circuit Breakers Under Stress: Anatomy of a Payment Cascade](https://dev.to/pponali/circuit-breakers-under-stress-anatomy-of-a-payment-cascade-hn0)
+- [URL Parameters vs Query Strings in Express.js](https://dev.to/satyasootar/url-parameters-vs-query-strings-in-expressjs-154o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
