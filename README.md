@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to detect when GitHub, AWS, or Discord is down — using a free JSON API](https://dev.to/denis_domino_39c139e9375b/how-to-detect-when-github-aws-or-discord-is-down-using-a-free-json-api-864)
-- [The Tool That Finally Helped Me Get My Life &lpar;and Projects&rpar; Together](https://dev.to/mha_mla_de5bc970a79d50286/the-tool-that-finally-helped-me-get-my-life-and-projects-together-3k6a)
-- [“It Works on My Machine”… Until It Doesn’t.](https://dev.to/elizabeth_omito/it-works-on-my-machine-until-it-doesnt-nfh)
-- [The Simple Tool That Helped Me Rebuild My Life &lpar;One Small Step at a Time&rpar;](https://dev.to/mha_mla_de5bc970a79d50286/the-simple-tool-that-helped-me-rebuild-my-life-one-small-step-at-a-time-3in0)
-- [From Zero to Transfer: Showing Off My First Solana CLI Tool](https://dev.to/fachiny17/from-zero-to-transfer-showing-off-my-first-solana-cli-tool-22jn)
+- [I shipped an AI-generated PR that violated four of our own architecture decisions. Nobody caught it](https://dev.to/mnemehq/i-shipped-an-ai-generated-pr-that-violated-four-of-our-own-architecture-decisions-nobody-caught-it-2jcp)
+- [AI-Generated Code Is Merging Into Your Main Branch. Are You Sure It&#39;s Safe?](https://dev.to/vorsken/ai-generated-code-is-merging-into-your-main-branch-are-you-sure-its-safe-14kp)
+- [[CryptoTradingBot] Analyzing 70 Live Trades of My Python Crypto Bot &lpar;v8.04 Post-Mortem&rpar;](https://dev.to/rocketsquirreldev/analyzing-70-live-trades-of-my-python-crypto-bot-v804-post-mortem-5acl)
+- [I migrated 12 client projects off Heroku. Here&#39;s the playbook &lpar;and the 7 things that bit me every single time&rpar;.](https://dev.to/chalom_ellezam_5989bce65e/i-migrated-12-client-projects-off-heroku-heres-the-playbook-and-the-7-things-that-bit-me-every-1j4j)
+- [Cómo conecté Telegram con una base de datos usando n8n, Express y un agente de IA](https://dev.to/evolve-space/como-conecte-telegram-con-una-base-de-datos-usando-n8n-express-y-un-agente-de-ia-1el1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
