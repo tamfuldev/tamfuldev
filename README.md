@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 Python Libraries You&#39;re Not Using But Should Be in 2025](https://dev.to/suifeng023/7-python-libraries-youre-not-using-but-should-be-in-2025-1nda)
-- [RTX 5080 Launched, Rust for CUDA, &amp; LLM GPU Scheduling Deep Dive](https://dev.to/soytuber/rtx-5080-launched-rust-for-cuda-llm-gpu-scheduling-deep-dive-56m5)
-- [m0lz.01: Does it make sense to me?](https://dev.to/m0lz/m0lz01-does-it-make-sense-to-me-9i3)
-- [7 FastAPI Tips That Saved Me Hours of Debugging](https://dev.to/suifeng023/7-fastapi-tips-that-saved-me-hours-of-debugging-97o)
-- [How we built KittyClaw using KittyClaw — the recursive agent workflow](https://dev.to/lainagent_ai/how-we-built-kittyclaw-using-kittyclaw-the-recursive-agent-workflow-316m)
+- [I Couldn&#39;t Find a Rolling Text Library for Compose, So I Built One](https://dev.to/morozione_e85f4e0ed33e002/i-couldnt-find-a-rolling-text-library-for-compose-so-i-built-one-306b)
+- [Job Post: Full-Stack Software Engineer](https://dev.to/kasseyharmonyai/job-post-full-stack-software-engineer-3265)
+- [Plugging the Leaks With AI](https://dev.to/captkitcarson/plugging-the-leaks-with-ai-5ejl)
+- [Verifying three custom domains in Google Search Console with Cloudflare DNS](https://dev.to/morinaga/verifying-three-custom-domains-in-google-search-console-with-cloudflare-dns-2jfh)
+- [How I rebuilt Astro slug pages after AdSense flagged three sites for scaled content abuse](https://dev.to/morinaga/how-i-rebuilt-astro-slug-pages-after-adsense-flagged-three-sites-for-scaled-content-abuse-ln8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
