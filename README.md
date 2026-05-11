@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Couldn&#39;t Find a Rolling Text Library for Compose, So I Built One](https://dev.to/morozione_e85f4e0ed33e002/i-couldnt-find-a-rolling-text-library-for-compose-so-i-built-one-306b)
-- [Job Post: Full-Stack Software Engineer](https://dev.to/kasseyharmonyai/job-post-full-stack-software-engineer-3265)
-- [Plugging the Leaks With AI](https://dev.to/captkitcarson/plugging-the-leaks-with-ai-5ejl)
-- [Verifying three custom domains in Google Search Console with Cloudflare DNS](https://dev.to/morinaga/verifying-three-custom-domains-in-google-search-console-with-cloudflare-dns-2jfh)
-- [How I rebuilt Astro slug pages after AdSense flagged three sites for scaled content abuse](https://dev.to/morinaga/how-i-rebuilt-astro-slug-pages-after-adsense-flagged-three-sites-for-scaled-content-abuse-ln8)
+- [I built an AI planner that turns plain text into tasks](https://dev.to/melyonousi/i-built-an-ai-planner-that-turns-plain-text-into-tasks-3gbb)
+- [How I Use Claude to Build Full-Stack Apps in Under 4 Hours — The Complete Workflow](https://dev.to/suifeng023/how-i-use-claude-to-build-full-stack-apps-in-under-4-hours-the-complete-workflow-3co0)
+- [Secure Data Exchange for Multi-Cloud AI Systems](https://dev.to/artem_a/secure-data-exchange-for-multi-cloud-ai-systems-mcm)
+- [The Schema IS the Prompt: Rethinking AI-Native Software Design](https://dev.to/pessoabuilds/the-schema-is-the-prompt-rethinking-ai-native-software-design-2bl1)
+- [🚀 I Built 40+ Free Web Tools — Here’s What I Learned About SEO, Performance &amp; Growth](https://dev.to/yohendri_valles/i-built-40-free-web-tools-heres-what-i-learned-about-seo-performance-growth-5398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
