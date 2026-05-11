@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Contract-First Event-Driven Architecture on AWS](https://dev.to/aws-builders/contract-first-event-driven-architecture-on-aws-2cf2)
-- [🧟 Level 2: The DNA Blueprints &amp; The Zombie Army &lpar;Solidity Quest&rpar;](https://dev.to/sudip_4dbdbc6116a9aa4316a/level-2-the-dna-blueprints-the-zombie-army-solidity-quest-2jbi)
-- [Part 3: I skipped Power Automate and connected LDX hub directly via MCP. It worked in 2 hours.](https://dev.to/kozo-ki/part-3-i-skipped-power-automate-and-connected-ldx-hub-directly-via-mcp-it-worked-in-2-hours-gdg)
-- [When Analytics Said Nothing, Bots Were 90% of the Traffic](https://dev.to/syswp_br/when-analytics-said-nothing-bots-were-90-of-the-traffic-3bn9)
-- [I scored 492 public CLAUDE.md files against a 12-rule baseline. Median: 3/12.](https://dev.to/sisyphusse1ops/i-scored-92-public-claudemd-files-against-a-12-rule-baseline-median-score-512-2971)
+- [Multi-Paxos vs Strong-Sync Primary/Replica vs Raft: Which HA Model Actually Gets You RPO=0 in 2026?](https://dev.to/seekdb/multi-paxos-vs-strong-sync-primaryreplica-vs-raft-which-ha-model-actually-gets-you-rpo0-in-2026-4aea)
+- [非本科工程師的踩坑心得：環境數據處理，為什麼跟線上課程教的都不一樣？](https://dev.to/arne_env/fei-ben-ke-gong-cheng-shi-de-cai-keng-xin-de-huan-jing-shu-ju-chu-li-wei-shi-mo-gen-xian-shang-ke-cheng-jiao-de-du-bu-yang--144g)
+- [Bypassing Akamai v3 sensor_data with TLS in 2026 — why the deobfuscator is a trap](https://dev.to/xkiian/bypassing-akamai-v3-sensordata-with-tls-in-2026-why-the-deobfuscator-is-a-trap-5cjh)
+- [Why I’m Still Learning to Code Even With AI](https://dev.to/onlypads/why-im-still-learning-to-code-even-with-ai-39ae)
+- [Your CVR Is Up But AOV Dropped. The 4-Domain Fix for EC Revenue](https://dev.to/toshihiro_shishido/your-cvr-is-up-but-aov-dropped-the-4-domain-fix-for-ec-revenue-1e9l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
