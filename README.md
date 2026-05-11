@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I shipped an AI-generated PR that violated four of our own architecture decisions. Nobody caught it](https://dev.to/mnemehq/i-shipped-an-ai-generated-pr-that-violated-four-of-our-own-architecture-decisions-nobody-caught-it-2jcp)
-- [AI-Generated Code Is Merging Into Your Main Branch. Are You Sure It&#39;s Safe?](https://dev.to/vorsken/ai-generated-code-is-merging-into-your-main-branch-are-you-sure-its-safe-14kp)
-- [[CryptoTradingBot] Analyzing 70 Live Trades of My Python Crypto Bot &lpar;v8.04 Post-Mortem&rpar;](https://dev.to/rocketsquirreldev/analyzing-70-live-trades-of-my-python-crypto-bot-v804-post-mortem-5acl)
-- [I migrated 12 client projects off Heroku. Here&#39;s the playbook &lpar;and the 7 things that bit me every single time&rpar;.](https://dev.to/chalom_ellezam_5989bce65e/i-migrated-12-client-projects-off-heroku-heres-the-playbook-and-the-7-things-that-bit-me-every-1j4j)
-- [Cómo conecté Telegram con una base de datos usando n8n, Express y un agente de IA](https://dev.to/evolve-space/como-conecte-telegram-con-una-base-de-datos-usando-n8n-express-y-un-agente-de-ia-1el1)
+- [REPUTATION_THRESHOLD Policy: Only Let High-Rep AI Agents Touch Your Funds](https://dev.to/walletguy/reputationthreshold-policy-only-let-high-rep-ai-agents-touch-your-funds-16o7)
+- [So I built a Figma Design Agent for an Agentic AI Hackathon #kiro #figma #agents #geminicli](https://dev.to/hisukurifu/so-we-built-a-figma-design-agent-for-an-agentic-ai-hackathon-kiro-figma-agents-geminicli-1dff)
+- [RLS sounds great until it isn&#39;t](https://dev.to/planetscale/rls-sounds-great-until-it-isnt-4d5p)
+- [The Great Data Debate: Should You Build Your Warehouse Top-Down or Bottom-Up?](https://dev.to/lawrence_murithi/the-great-data-debate-should-you-build-your-warehouse-top-down-or-bottom-up-4pbe)
+- [Developers switch environments 20 times a day. Why are you still editing URLs manually?](https://dev.to/charmi_soni_95bf0498cc45d/developers-switch-environments-20-times-a-day-why-are-you-still-editing-urls-manually-2gj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
