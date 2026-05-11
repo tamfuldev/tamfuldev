@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Paxos vs Strong-Sync Primary/Replica vs Raft: Which HA Model Actually Gets You RPO=0 in 2026?](https://dev.to/seekdb/multi-paxos-vs-strong-sync-primaryreplica-vs-raft-which-ha-model-actually-gets-you-rpo0-in-2026-4aea)
-- [非本科工程師的踩坑心得：環境數據處理，為什麼跟線上課程教的都不一樣？](https://dev.to/arne_env/fei-ben-ke-gong-cheng-shi-de-cai-keng-xin-de-huan-jing-shu-ju-chu-li-wei-shi-mo-gen-xian-shang-ke-cheng-jiao-de-du-bu-yang--144g)
-- [Bypassing Akamai v3 sensor_data with TLS in 2026 — why the deobfuscator is a trap](https://dev.to/xkiian/bypassing-akamai-v3-sensordata-with-tls-in-2026-why-the-deobfuscator-is-a-trap-5cjh)
-- [Why I’m Still Learning to Code Even With AI](https://dev.to/onlypads/why-im-still-learning-to-code-even-with-ai-39ae)
-- [Your CVR Is Up But AOV Dropped. The 4-Domain Fix for EC Revenue](https://dev.to/toshihiro_shishido/your-cvr-is-up-but-aov-dropped-the-4-domain-fix-for-ec-revenue-1e9l)
+- [Building Real-Time Apps with WebSockets 🚀](https://dev.to/waithaka_dev/building-real-time-apps-with-websockets-44md)
+- [How to Publish Your Content on ShareTXT](https://dev.to/rexthony/how-to-publish-your-content-on-sharetxt-42ok)
+- [I built a social engineering simulator with pixel fire effects and it got out of hand &lpar;in the best way&rpar;](https://dev.to/deosaju/i-built-a-social-engineering-simulator-with-pixel-fire-effects-and-it-got-out-of-hand-in-the-best-4dco)
+- [⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran](https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3)
+- [I Built a Privacy-First AI Platform With Zero Data Logging… Did I Just Undermine My Business by Selling It Once?](https://dev.to/robert-adrian-knippelberg/i-built-a-privacy-first-ai-platform-with-zero-data-logging-did-i-just-undermine-my-business-by-p9d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
