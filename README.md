@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Real-Time Apps with WebSockets 🚀](https://dev.to/waithaka_dev/building-real-time-apps-with-websockets-44md)
-- [How to Publish Your Content on ShareTXT](https://dev.to/rexthony/how-to-publish-your-content-on-sharetxt-42ok)
-- [I built a social engineering simulator with pixel fire effects and it got out of hand &lpar;in the best way&rpar;](https://dev.to/deosaju/i-built-a-social-engineering-simulator-with-pixel-fire-effects-and-it-got-out-of-hand-in-the-best-4dco)
-- [⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran](https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3)
-- [I Built a Privacy-First AI Platform With Zero Data Logging… Did I Just Undermine My Business by Selling It Once?](https://dev.to/robert-adrian-knippelberg/i-built-a-privacy-first-ai-platform-with-zero-data-logging-did-i-just-undermine-my-business-by-p9d)
+- [How to detect when GitHub, AWS, or Discord is down — using a free JSON API](https://dev.to/denis_domino_39c139e9375b/how-to-detect-when-github-aws-or-discord-is-down-using-a-free-json-api-864)
+- [The Tool That Finally Helped Me Get My Life &lpar;and Projects&rpar; Together](https://dev.to/mha_mla_de5bc970a79d50286/the-tool-that-finally-helped-me-get-my-life-and-projects-together-3k6a)
+- [“It Works on My Machine”… Until It Doesn’t.](https://dev.to/elizabeth_omito/it-works-on-my-machine-until-it-doesnt-nfh)
+- [The Simple Tool That Helped Me Rebuild My Life &lpar;One Small Step at a Time&rpar;](https://dev.to/mha_mla_de5bc970a79d50286/the-simple-tool-that-helped-me-rebuild-my-life-one-small-step-at-a-time-3in0)
+- [From Zero to Transfer: Showing Off My First Solana CLI Tool](https://dev.to/fachiny17/from-zero-to-transfer-showing-off-my-first-solana-cli-tool-22jn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
