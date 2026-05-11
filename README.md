@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [E-mail Temporário.: O que é e porque usar](https://dev.to/rafaelbonilha/e-mail-temporario-o-que-e-e-porque-usar-54g3)
-- [I Built a Fully Autonomous Coding Agent for Under $50/Month — Here&#39;s the Exact Setup](https://dev.to/suifeng023/i-built-a-fully-autonomous-coding-agent-for-under-50month-heres-the-exact-setup-5ep5)
-- [AI Just Erased the Gap Between Idea and Implementation](https://dev.to/rohaan_advani_dfaa5d904d8/ai-just-erased-the-gap-between-idea-and-implementation-3fif)
-- [the CSRF token](https://dev.to/rrouwelng/the-csrf-token-593p)
-- [I Built My Own Config Format for Node.js That Separates Server and Client Secrets](https://dev.to/kanishq9/i-built-my-own-config-format-for-nodejs-that-separates-server-and-client-secrets-49hl)
+- [Why Strict &quot;Zero Trust&quot; Breaks Secret Management &lpar;And How We Built a Zero-Persistence Vault Instead&rpar;](https://dev.to/ennote/why-strict-zero-trust-breaks-secret-management-and-how-we-built-a-zero-persistence-vault-instead-4lcg)
+- [I Was About to Rewrite My Chat Router. The Bug Was Two Lines in a Prompt.](https://dev.to/alimafana/i-was-about-to-rewrite-my-chat-router-the-bug-was-two-lines-in-a-prompt-4kco)
+- [I trained a neural network to find exoplanets. Here&#39;s what actually worked.](https://dev.to/debugastrobyte/i-trained-a-neural-network-to-find-exoplanets-heres-what-actually-worked-3p56)
+- [The AI Engineer Illusion: Why Calling LLM APIs Is Not Enough](https://dev.to/dinyangetoh/the-ai-engineer-illusion-why-calling-llm-apis-is-not-enough-4ip5)
+- [I Built a Chrome Extension That Writes LinkedIn DMs Using Claude AI](https://dev.to/sujal_meena_cf186b9b452cd/i-built-a-chrome-extension-that-writes-linkedin-dms-using-claude-ai-42b3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
