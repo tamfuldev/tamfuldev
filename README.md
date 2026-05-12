@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Conversational Infrastructure for AI Agents: Context Forking, Rate Limiting, and Identity Rotation](https://dev.to/innovationsiyu/designing-conversational-infrastructure-for-ai-agents-context-forking-rate-limiting-and-identity-41nj)
-- [The $20,000 &#39;Recruiter Tax&#39;: How I Bypassed Job Boards to Negotiate a 25% Salary Bump](https://dev.to/_07a306f4bf233eecbc3a/the-20000-recruiter-tax-how-i-bypassed-job-boards-to-negotiate-a-25-salary-bump-2e43)
-- [MongoDB Query Practice Guide with Real Job Portal Dataset](https://dev.to/ns_noman/mongodb-query-practice-guide-with-real-job-portal-dataset-5e92)
-- [🌱 Four Years of Growth on GitHub and a Month of Giving Back 🤝](https://dev.to/madhurima_rawat/four-years-of-growth-on-github-and-a-month-of-giving-back-26n)
-- [Why Your Code Breaks in Production &lpar;and How Docker Fixes It&rpar;](https://dev.to/anthony-gicheru/why-your-code-breaks-in-production-and-how-docker-fixes-it-3meo)
+- [Taming Unpredictable User Input: Building a RAG Triage Agent in Node.js](https://dev.to/omar_lashin_2badc08a1ddf9/taming-unpredictable-user-input-building-a-rag-triage-agent-in-nodejs-3pp4)
+- [How to Cut AWS S3 Storage Costs by 40% Using Lifecycle Policies: A Practical Guide](https://dev.to/sudoconsultants/how-to-cut-aws-s3-storage-costs-by-40-using-lifecycle-policies-a-practical-guide-1mlp)
+- [GDPR for Developers: What the Regulation Actually Means in Code](https://dev.to/kubabuilds/gdpr-for-developers-what-the-regulation-actually-means-in-code-3c2g)
+- [How I Built an llms.txt Generator That Actually Works at Scale](https://dev.to/outcomer/how-i-built-an-llmstxt-generator-that-actually-works-at-scale-1hh8)
+- [I Built an llms.txt Generator, Showed It to the Creator of the Standard, and Had to Rewrite Everything](https://dev.to/outcomer/i-built-an-llmstxt-generator-showed-it-to-the-creator-of-the-standard-and-had-to-rewrite-57c2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
