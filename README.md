@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Pre-Execution Gates: Three Architectural Patterns](https://dev.to/ttw/building-pre-execution-gates-three-architectural-patterns-3bo)
-- [Your prompt is getting longer without you knowing it &lpar;and it&#39;s killing your margins&rpar;](https://dev.to/amedinat/your-prompt-is-getting-longer-without-you-knowing-it-and-its-killing-your-margins-1b71)
-- [Win11 Zero-Days, npm Supply Chain, &amp; AI Agent Security Threats](https://dev.to/soytuber/win11-zero-days-npm-supply-chain-ai-agent-security-threats-5h76)
-- [Claude Code &#39;Run Until Done&#39; Mode, AI Concierge, &amp; Mythos Scan for Curl Bugs](https://dev.to/soytuber/claude-code-run-until-done-mode-ai-concierge-mythos-scan-for-curl-bugs-ic1)
-- [SQLite Corruption in Sandboxes, PostgreSQL Caching, &amp; Rust DB Proxy Architecture](https://dev.to/soytuber/sqlite-corruption-in-sandboxes-postgresql-caching-rust-db-proxy-architecture-35hp)
+- [Formspree vs Formgrid in 2026: Which One Actually Helps You Win Customers?](https://dev.to/allenarduino/formspree-vs-formgrid-in-2026-which-one-actually-helps-you-win-customers-5dfc)
+- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-547f)
+- [Your Next Cloud Region Choice Might Be Limited by a Power Grid You&#39;ve Never Heard Of](https://dev.to/lumina_surge_9f23e1b76747/your-next-cloud-region-choice-might-be-limited-by-a-power-grid-youve-never-heard-of-14km)
+- [One Viewer for Every File: A Better Story for React Apps](https://dev.to/naveen_kumar_19/one-viewer-for-every-file-a-better-story-for-react-apps-2cb1)
+- [Why Your WordPress Site Is Slow &lpar;And Google Analytics Has No Idea&rpar;](https://dev.to/syswp_br/why-your-wordpress-site-is-slow-and-google-analytics-has-no-idea-14if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
