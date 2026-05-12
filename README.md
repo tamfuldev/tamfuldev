@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI planner that turns plain text into tasks](https://dev.to/melyonousi/i-built-an-ai-planner-that-turns-plain-text-into-tasks-3gbb)
-- [How I Use Claude to Build Full-Stack Apps in Under 4 Hours — The Complete Workflow](https://dev.to/suifeng023/how-i-use-claude-to-build-full-stack-apps-in-under-4-hours-the-complete-workflow-3co0)
-- [Secure Data Exchange for Multi-Cloud AI Systems](https://dev.to/artem_a/secure-data-exchange-for-multi-cloud-ai-systems-mcm)
-- [The Schema IS the Prompt: Rethinking AI-Native Software Design](https://dev.to/pessoabuilds/the-schema-is-the-prompt-rethinking-ai-native-software-design-2bl1)
-- [🚀 I Built 40+ Free Web Tools — Here’s What I Learned About SEO, Performance &amp; Growth](https://dev.to/yohendri_valles/i-built-40-free-web-tools-heres-what-i-learned-about-seo-performance-growth-5398)
+- [Seven medical terminologies, one MCP server: a practical walkthrough for clinical and research use](https://dev.to/sidneybissoli/seven-medical-terminologies-one-mcp-server-a-practical-walkthrough-for-clinical-and-research-use-5gia)
+- [Why We Removed Ads from Our Free Tools &lpar;And Put Them Only on Blog Posts&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-we-removed-ads-from-our-free-tools-and-put-them-only-on-blog-posts-2k7j)
+- [How I practice Chinese typing as a developer](https://dev.to/tian_83bd87e21f501544588a/how-i-practice-chinese-typing-as-a-developer-4je9)
+- [Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product](https://dev.to/arjun-zosma/why-we-built-dhara-an-open-protocol-standard-for-ai-agents-not-another-product-4n8i)
+- [SQLite and Concurrency: The Lockout Experienced at islistesi.com](https://dev.to/merbayerp/sqlite-and-concurrency-the-lockout-experienced-at-islistesicom-405o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
