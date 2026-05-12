@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch a YouTube channel from first to last video](https://dev.to/ed88_f5dffa506/how-to-watch-a-youtube-channel-from-first-to-last-video-8pi)
-- [DuckDB, Postgres, and Parquet: when one SQL query becomes a workflow](https://dev.to/slotix/duckdb-postgres-and-parquet-when-one-sql-query-becomes-a-workflow-5d71)
-- [How Enterprise Data Governance Supports Security and Efficiency in the AI Agent Era](https://dev.to/hello_arisyn_0dc948aa82b3/how-enterprise-data-governance-supports-security-and-efficiency-in-the-ai-agent-era-19oa)
-- [Designing a Binary Data API for Divooka with PPM and PLY Examples](https://dev.to/methodox/working-with-binary-data-in-divooka-55im)
-- [[Hiring] I am looking for an Account Provider](https://dev.to/liam_lee_8df89caca667cae4/hiring-i-am-looking-for-an-account-provider-9f7)
+- [Building Pre-Execution Gates: Three Architectural Patterns](https://dev.to/ttw/building-pre-execution-gates-three-architectural-patterns-3bo)
+- [Your prompt is getting longer without you knowing it &lpar;and it&#39;s killing your margins&rpar;](https://dev.to/amedinat/your-prompt-is-getting-longer-without-you-knowing-it-and-its-killing-your-margins-1b71)
+- [Win11 Zero-Days, npm Supply Chain, &amp; AI Agent Security Threats](https://dev.to/soytuber/win11-zero-days-npm-supply-chain-ai-agent-security-threats-5h76)
+- [Claude Code &#39;Run Until Done&#39; Mode, AI Concierge, &amp; Mythos Scan for Curl Bugs](https://dev.to/soytuber/claude-code-run-until-done-mode-ai-concierge-mythos-scan-for-curl-bugs-ic1)
+- [SQLite Corruption in Sandboxes, PostgreSQL Caching, &amp; Rust DB Proxy Architecture](https://dev.to/soytuber/sqlite-corruption-in-sandboxes-postgresql-caching-rust-db-proxy-architecture-35hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
