@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [📘 Filesystem vs Storage Area &lpar;Disk or Partition&rpar;](https://dev.to/itsmecharan7/filesystem-vs-storage-area-disk-or-partition-3g0m)
-- [AI as Coordinator: Why SaaS Must Bundle or Die](https://dev.to/tonyspiro/ai-as-coordinator-why-saas-must-bundle-or-die-5c9b)
-- [If AI Writes Your Code, Why Use Python?](https://dev.to/onsen/if-ai-writes-your-code-why-use-python-2p1i)
-- [Rollback Patterns in Offline-First PWAs](https://dev.to/crisiscoresystems/rollback-patterns-in-offline-first-pwas-13f9)
-- [The capability ceiling — how ACT sandboxes third-party tools](https://dev.to/gamepad64/the-capability-ceiling-how-act-sandboxes-third-party-tools-2ib)
+- [ClickHouse JOINs Aren&#39;t Slow Anymore &lpar;You&#39;re Reading 2020&#39;s Docs&rpar;](https://dev.to/aman_puri_115f49d5ad3612d/clickhouse-joins-arent-slow-anymore-youre-reading-2020s-docs-15fe)
+- [Your CI/CD Pipelines Are Your Largest Unmonitored Attack Surface](https://dev.to/aws-builders/your-cicd-pipelines-are-your-largest-unmonitored-attack-surface-59ck)
+- [Pattern Is All You Need: Why NPC Depth Beats Model Size](https://dev.to/dannygerst/pattern-is-all-you-need-why-npc-depth-beats-model-size-4723)
+- [Built a Modern Web Metrics Dashboard for Real-Time Performance Monitoring](https://dev.to/krrishsr4/built-a-modern-web-metrics-dashboard-for-real-time-performance-monitoring-3ba2)
+- [Every AI toolchain is inventing its own safety layer.](https://dev.to/sunilprakash/every-ai-toolchain-is-inventing-its-own-safety-layer-we-shipped-one-that-works-across-all-of-them-1016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
