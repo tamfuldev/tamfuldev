@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Unpredictable User Input: Building a RAG Triage Agent in Node.js](https://dev.to/omar_lashin_2badc08a1ddf9/taming-unpredictable-user-input-building-a-rag-triage-agent-in-nodejs-3pp4)
-- [How to Cut AWS S3 Storage Costs by 40% Using Lifecycle Policies: A Practical Guide](https://dev.to/sudoconsultants/how-to-cut-aws-s3-storage-costs-by-40-using-lifecycle-policies-a-practical-guide-1mlp)
-- [GDPR for Developers: What the Regulation Actually Means in Code](https://dev.to/kubabuilds/gdpr-for-developers-what-the-regulation-actually-means-in-code-3c2g)
-- [How I Built an llms.txt Generator That Actually Works at Scale](https://dev.to/outcomer/how-i-built-an-llmstxt-generator-that-actually-works-at-scale-1hh8)
-- [I Built an llms.txt Generator, Showed It to the Creator of the Standard, and Had to Rewrite Everything](https://dev.to/outcomer/i-built-an-llmstxt-generator-showed-it-to-the-creator-of-the-standard-and-had-to-rewrite-57c2)
+- [CocoIndex Review: Incremental RAG Engine for AI Agents](https://dev.to/andrew-ooo/cocoindex-review-incremental-rag-engine-for-ai-agents-248b)
+- [Introducing GroundQA: AI-Native QA for APIs and AI Agents](https://dev.to/divz_vijay/introducing-groundqa-ai-native-qa-for-apis-and-ai-agents-1iod)
+- [I Let AI Write My Entire App — Here&#39;s What Actually Happened](https://dev.to/sreejit_/i-let-ai-write-my-entire-app-heres-what-actually-happened-3bkg)
+- [Add IP Fraud Scoring to Your Auth Flow](https://dev.to/abdullah_afzal/add-ip-fraud-scoring-to-your-auth-flow-2m16)
+- [How I cut WooCommerce load times by 70% &lpar;A 2026 Case Study&rpar;](https://dev.to/lmdrga/how-i-cut-woocommerce-load-times-by-70-a-2026-case-study-1d7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
