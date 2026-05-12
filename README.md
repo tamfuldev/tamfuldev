@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Browser-Side Document Comparison Tool: Privacy-First .docx Diffing with JavaScript](https://dev.to/bruce_huang_576f71890f95e/building-a-browser-side-document-comparison-tool-privacy-first-docx-diffing-with-javascript-253e)
-- [How Mutation Testing Exposes the Truth &lpar;PHP 2026 Edition&rpar;](https://dev.to/codecraft_diary_3d13677fb/how-mutation-testing-exposes-the-truth-php-2026-edition-1m1l)
-- [I shipped an iOS app with zero third-party dependencies](https://dev.to/simple_memo/i-shipped-an-ios-app-with-zero-third-party-dependencies-2jpd)
-- [🚀 Modern Angular Networking: Why provideHttpClient&lpar;&rpar; Interceptors Change Everything](https://dev.to/abdelaaziz_ouakala/modern-angular-networking-why-providehttpclient-interceptors-change-everything-20n8)
-- [I Burned a Month&#39;s AI Budget in a Week — So I Built a Code Graph](https://dev.to/akhileshpothuri/i-burned-a-months-ai-budget-in-a-week-so-i-built-a-code-graph-262o)
+- [📘 Filesystem vs Storage Area &lpar;Disk or Partition&rpar;](https://dev.to/itsmecharan7/filesystem-vs-storage-area-disk-or-partition-3g0m)
+- [AI as Coordinator: Why SaaS Must Bundle or Die](https://dev.to/tonyspiro/ai-as-coordinator-why-saas-must-bundle-or-die-5c9b)
+- [If AI Writes Your Code, Why Use Python?](https://dev.to/onsen/if-ai-writes-your-code-why-use-python-2p1i)
+- [Rollback Patterns in Offline-First PWAs](https://dev.to/crisiscoresystems/rollback-patterns-in-offline-first-pwas-13f9)
+- [The capability ceiling — how ACT sandboxes third-party tools](https://dev.to/gamepad64/the-capability-ceiling-how-act-sandboxes-third-party-tools-2ib)
 <!-- BLOG-POST-LIST:END -->
 
 ---
