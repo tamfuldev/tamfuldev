@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Seven medical terminologies, one MCP server: a practical walkthrough for clinical and research use](https://dev.to/sidneybissoli/seven-medical-terminologies-one-mcp-server-a-practical-walkthrough-for-clinical-and-research-use-5gia)
-- [Why We Removed Ads from Our Free Tools &lpar;And Put Them Only on Blog Posts&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-we-removed-ads-from-our-free-tools-and-put-them-only-on-blog-posts-2k7j)
-- [How I practice Chinese typing as a developer](https://dev.to/tian_83bd87e21f501544588a/how-i-practice-chinese-typing-as-a-developer-4je9)
-- [Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product](https://dev.to/arjun-zosma/why-we-built-dhara-an-open-protocol-standard-for-ai-agents-not-another-product-4n8i)
-- [SQLite and Concurrency: The Lockout Experienced at islistesi.com](https://dev.to/merbayerp/sqlite-and-concurrency-the-lockout-experienced-at-islistesicom-405o)
+- [Designing Conversational Infrastructure for AI Agents: Context Forking, Rate Limiting, and Identity Rotation](https://dev.to/innovationsiyu/designing-conversational-infrastructure-for-ai-agents-context-forking-rate-limiting-and-identity-41nj)
+- [The $20,000 &#39;Recruiter Tax&#39;: How I Bypassed Job Boards to Negotiate a 25% Salary Bump](https://dev.to/_07a306f4bf233eecbc3a/the-20000-recruiter-tax-how-i-bypassed-job-boards-to-negotiate-a-25-salary-bump-2e43)
+- [MongoDB Query Practice Guide with Real Job Portal Dataset](https://dev.to/ns_noman/mongodb-query-practice-guide-with-real-job-portal-dataset-5e92)
+- [🌱 Four Years of Growth on GitHub and a Month of Giving Back 🤝](https://dev.to/madhurima_rawat/four-years-of-growth-on-github-and-a-month-of-giving-back-26n)
+- [Why Your Code Breaks in Production &lpar;and How Docker Fixes It&rpar;](https://dev.to/anthony-gicheru/why-your-code-breaks-in-production-and-how-docker-fixes-it-3meo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
