@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse JOINs Aren&#39;t Slow Anymore &lpar;You&#39;re Reading 2020&#39;s Docs&rpar;](https://dev.to/aman_puri_115f49d5ad3612d/clickhouse-joins-arent-slow-anymore-youre-reading-2020s-docs-15fe)
-- [Your CI/CD Pipelines Are Your Largest Unmonitored Attack Surface](https://dev.to/aws-builders/your-cicd-pipelines-are-your-largest-unmonitored-attack-surface-59ck)
-- [Pattern Is All You Need: Why NPC Depth Beats Model Size](https://dev.to/dannygerst/pattern-is-all-you-need-why-npc-depth-beats-model-size-4723)
-- [Built a Modern Web Metrics Dashboard for Real-Time Performance Monitoring](https://dev.to/krrishsr4/built-a-modern-web-metrics-dashboard-for-real-time-performance-monitoring-3ba2)
-- [Every AI toolchain is inventing its own safety layer.](https://dev.to/sunilprakash/every-ai-toolchain-is-inventing-its-own-safety-layer-we-shipped-one-that-works-across-all-of-them-1016)
+- [How to watch a YouTube channel from first to last video](https://dev.to/ed88_f5dffa506/how-to-watch-a-youtube-channel-from-first-to-last-video-8pi)
+- [DuckDB, Postgres, and Parquet: when one SQL query becomes a workflow](https://dev.to/slotix/duckdb-postgres-and-parquet-when-one-sql-query-becomes-a-workflow-5d71)
+- [How Enterprise Data Governance Supports Security and Efficiency in the AI Agent Era](https://dev.to/hello_arisyn_0dc948aa82b3/how-enterprise-data-governance-supports-security-and-efficiency-in-the-ai-agent-era-19oa)
+- [Designing a Binary Data API for Divooka with PPM and PLY Examples](https://dev.to/methodox/working-with-binary-data-in-divooka-55im)
+- [[Hiring] I am looking for an Account Provider](https://dev.to/liam_lee_8df89caca667cae4/hiring-i-am-looking-for-an-account-provider-9f7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
