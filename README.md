@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Solved] Windows 11 Failed to Wake from Sleep and Restarts: Fixing a 4-Year-Old Bug with a BIOS Update](https://dev.to/kuroappworks/solved-windows-11-failed-to-wake-from-sleep-and-restarts-fixing-a-4-year-old-bug-with-a-bios-47h2)
-- [📢 Angular Didn’t Become Trendy in 2026. It Became Inevitable 🎯](https://dev.to/abdelaaziz_ouakala/angular-didnt-become-trendy-in-2026-it-became-inevitable-4hkh)
-- [CORS for Beginners: Why the Browser Sometimes Blocks Your Request](https://dev.to/ezeanyim_henry/cors-for-beginners-why-the-browser-sometimes-blocks-your-request-1oei)
-- [Why Even ₹30–40 LPA Tech Salaries No Longer Feel Comfortable in Bangalore](https://dev.to/ashokprasad_niyyam/why-even-30-40-lpa-tech-salaries-no-longer-feel-comfortable-in-bangalore-14hc)
-- [We Built a Pentesting Company Because We Were Tired of Watching Startups Get Burned](https://dev.to/albernaz_/we-built-a-pentesting-company-because-we-were-tired-of-watching-startups-get-burned-10jf)
+- [Replace Zapier With 50 Lines of Python &lpar;Save $50/Month&rpar;](https://dev.to/brad_20095bd4959b60ad2335/replace-zapier-with-50-lines-of-python-save-50month-4nl8)
+- [Dev Log: From Combat MVP to Map Mode - Building the Strategic Core of &quot;CIDER&quot;](https://dev.to/gamedecisiondiagram/dev-log-from-combat-mvp-to-map-mode-building-the-strategic-core-of-cider-55jk)
+- [Six Claude Code Skills That Close the AI Agent Feedback Loop](https://dev.to/eyalb/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-10bb)
+- [Explained Global, Local &amp; Block Scope in JavaScript](https://dev.to/nikita_maharana_879884df2/explained-global-local-block-scope-in-javascript-25e9)
+- [I Thought OOP Was Just &quot;IS-A&quot;… Until an Interview Destroyed My Confidence](https://dev.to/yuktisays/i-thought-oop-was-just-is-a-until-an-interview-destroyed-my-confidence-19p1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
