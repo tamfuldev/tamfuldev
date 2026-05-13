@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You Can Probably Use Claude Code for Free at Work](https://dev.to/louis7/you-can-probably-use-claude-code-for-free-at-work-37mm)
-- [Regulalar Expression](https://dev.to/juma_evans_34e389ef539266/regulalar-expression-1e8p)
-- [[EN] Delegated Resource Identifier &lpar;DRI&rpar;: a pattern for persistent references in microservices](https://dev.to/edgardo_genini/en-delegated-resource-identifier-dri-a-pattern-for-persistent-references-in-microservices-2o52)
-- [[ES] Delegated Resource Identifier &lpar;DRI&rpar;: un patrón para referencias persistentes en microservicios](https://dev.to/edgardo_genini/es-delegated-resource-identifier-dri-un-patron-para-referencias-persistentes-en-microservicios-big)
-- [What if reactive effects are just pausable async tasks?](https://dev.to/chhitt/what-if-reactive-effects-are-just-pausable-async-tasks-5gal)
+- [OpenFields can be the new go-to ACF Plugin for WP &lpar; 2026 &rpar;](https://dev.to/codeideal/openfields-can-be-the-new-go-to-for-acf-plugin-for-wp-2026--4jl)
+- [I Built an Offline AI Career Advisor Using Gemma 4 — Here&#39;s Exactly How It Works](https://dev.to/soohan_abbas/i-built-an-offline-ai-career-advisor-using-gemma-4-heres-exactly-how-it-works-3hgc)
+- [How ChatGPT/Gemini/MS Copilot Understands Your Question: A Step-by-Step Journey from Input to Response](https://dev.to/raghavenreddy/how-chatgptgeminims-copilot-understands-your-question-a-step-by-step-journey-from-input-to-15oo)
+- [Demystifying Smart Traffic Systems: A Developer&#39;s Guide to Configuration](https://dev.to/mike_clarke_50a95013f5c59/demystifying-smart-traffic-systems-a-developers-guide-to-configuration-4595)
+- [git-lrc and the Rise of AI Code Review Anxiety](https://dev.to/pjdeveloper896/git-lrc-and-the-rise-of-ai-code-review-anxiety-5cbg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
