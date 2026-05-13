@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Web Server in Go](https://dev.to/steve_omollo/building-a-simple-web-server-in-go-59hl)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [I have talked to dozens of AI teams about production. The same things keep breaking.](https://dev.to/neethu_eve_/i-have-talked-to-dozens-of-ai-teams-about-production-the-same-things-keep-breaking-1n6b)
-- [Image Compression &amp; Privacy: Why You Shouldn&#39;t Upload Private Photos to Online Tools](https://dev.to/hunkwu/image-compression-privacy-why-you-shouldnt-upload-private-photos-to-online-tools-1aij)
-- [I built a Windows optimizer that refuses to run if Outlook is open](https://dev.to/tiltedlunar123/i-built-a-windows-optimizer-that-refuses-to-run-if-outlook-is-open-1fl5)
+- [Claude Code for Feature Flags: How I Ship Risky Changes Without Losing Sleep](https://dev.to/nextools/claude-code-for-feature-flags-how-i-ship-risky-changes-without-losing-sleep-4he7)
+- [Building DSIE — AI-Powered Disaster Signal Intelligence &amp; Emergency Escalation System with Kestra 🚨](https://dev.to/mohit5upadhyay/building-dsie-ai-powered-disaster-signal-intelligence-emergency-escalation-system-with-kestra-1nl5)
+- [Why JSON.parse&lpar;&rpar; Fails Silently on Truncated LLM Responses &lpar;And What I Did About It&rpar;](https://dev.to/nexadiag_nexa_312a4b5f603/why-jsonparse-fails-silently-on-truncated-llm-responses-and-what-i-did-about-it-3681)
+- [The Story of GoBadge: How It All Started](https://dev.to/cinfinitedev_engine/the-story-of-gobadge-how-it-all-started-1bo9)
+- [MigFlow: Contracts for AI Migrations](https://dev.to/helderberto/migflow-contracts-for-ai-migrations-1f93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
