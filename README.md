@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
-- [AI + BI Convergence: Engineering the 10M-Row AI BI Agent](https://dev.to/dattasable/ai-bi-convergence-engai-businessintelligence-duckdb-datastrategyineering-the-10m-row-ai-bi-agent-531p)
-- [Engineering the Sentinel: Architecting a 10M-Record Fraud Detection System](https://dev.to/dattasable/engineering-the-sentinel-architecting-a-10m-record-fraud-detection-system-53if)
-- [Gemma4 Speculative Decoding with n-gram](https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b)
-- [How I automated stop-loss monitoring with Claude Code and Telegram &lpar;no broker API needed&rpar;](https://dev.to/tellmefrankie/how-i-automated-stop-loss-monitoring-with-claude-code-and-telegram-no-broker-api-needed-1nfh)
+- [Smile Detection With Flutter](https://dev.to/88dev/smile-detection-with-flutter-37pi)
+- [Ontologic 1.5 is out! 🎉](https://dev.to/sacha/ontologic-15-is-out-4beb)
+- [drug-pipeline-mcp: Open-source pharmaceutical R&amp;D intelligence](https://dev.to/dasclown/drug-pipeline-mcp-open-source-pharmaceutical-rd-intelligence-504f)
+- [5 Go Loggers That Will Replace Your Sad Little fmt.Println Habit](https://dev.to/lovestaco/5-go-loggers-that-will-replace-your-sad-little-fmtprintln-habit-512k)
+- [Handling Dirty Frag and Copy Fail with Puppet](https://dev.to/puppet/handling-dirty-frag-and-copy-fail-with-puppet-6ff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
