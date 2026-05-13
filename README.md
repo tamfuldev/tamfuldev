@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Replace Zapier With 50 Lines of Python &lpar;Save $50/Month&rpar;](https://dev.to/brad_20095bd4959b60ad2335/replace-zapier-with-50-lines-of-python-save-50month-4nl8)
-- [Dev Log: From Combat MVP to Map Mode - Building the Strategic Core of &quot;CIDER&quot;](https://dev.to/gamedecisiondiagram/dev-log-from-combat-mvp-to-map-mode-building-the-strategic-core-of-cider-55jk)
-- [Six Claude Code Skills That Close the AI Agent Feedback Loop](https://dev.to/eyalb/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-10bb)
-- [Explained Global, Local &amp; Block Scope in JavaScript](https://dev.to/nikita_maharana_879884df2/explained-global-local-block-scope-in-javascript-25e9)
-- [I Thought OOP Was Just &quot;IS-A&quot;… Until an Interview Destroyed My Confidence](https://dev.to/yuktisays/i-thought-oop-was-just-is-a-until-an-interview-destroyed-my-confidence-19p1)
+- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
+- [AI + BI Convergence: Engineering the 10M-Row AI BI Agent](https://dev.to/dattasable/ai-bi-convergence-engai-businessintelligence-duckdb-datastrategyineering-the-10m-row-ai-bi-agent-531p)
+- [Engineering the Sentinel: Architecting a 10M-Record Fraud Detection System](https://dev.to/dattasable/engineering-the-sentinel-architecting-a-10m-record-fraud-detection-system-53if)
+- [Gemma4 Speculative Decoding with n-gram](https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b)
+- [How I automated stop-loss monitoring with Claude Code and Telegram &lpar;no broker API needed&rpar;](https://dev.to/tellmefrankie/how-i-automated-stop-loss-monitoring-with-claude-code-and-telegram-no-broker-api-needed-1nfh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
