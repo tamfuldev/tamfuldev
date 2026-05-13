@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Formspree vs Formgrid in 2026: Which One Actually Helps You Win Customers?](https://dev.to/allenarduino/formspree-vs-formgrid-in-2026-which-one-actually-helps-you-win-customers-5dfc)
-- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-547f)
-- [Your Next Cloud Region Choice Might Be Limited by a Power Grid You&#39;ve Never Heard Of](https://dev.to/lumina_surge_9f23e1b76747/your-next-cloud-region-choice-might-be-limited-by-a-power-grid-youve-never-heard-of-14km)
-- [One Viewer for Every File: A Better Story for React Apps](https://dev.to/naveen_kumar_19/one-viewer-for-every-file-a-better-story-for-react-apps-2cb1)
-- [Why Your WordPress Site Is Slow &lpar;And Google Analytics Has No Idea&rpar;](https://dev.to/syswp_br/why-your-wordpress-site-is-slow-and-google-analytics-has-no-idea-14if)
+- [You Can Probably Use Claude Code for Free at Work](https://dev.to/louis7/you-can-probably-use-claude-code-for-free-at-work-37mm)
+- [Regulalar Expression](https://dev.to/juma_evans_34e389ef539266/regulalar-expression-1e8p)
+- [[EN] Delegated Resource Identifier &lpar;DRI&rpar;: a pattern for persistent references in microservices](https://dev.to/edgardo_genini/en-delegated-resource-identifier-dri-a-pattern-for-persistent-references-in-microservices-2o52)
+- [[ES] Delegated Resource Identifier &lpar;DRI&rpar;: un patrón para referencias persistentes en microservicios](https://dev.to/edgardo_genini/es-delegated-resource-identifier-dri-un-patron-para-referencias-persistentes-en-microservicios-big)
+- [What if reactive effects are just pausable async tasks?](https://dev.to/chhitt/what-if-reactive-effects-are-just-pausable-async-tasks-5gal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
