@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Compliance Early Warning System](https://dev.to/james12345000/building-a-compliance-early-warning-system-1aee)
-- [Introducing Starling: A User-Friendly Proof Assistant](https://dev.to/ender_minyard/introducing-starling-a-user-friendly-proof-assistant-1j0)
-- [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea)
-- [Stop Giving AI Agents More Prompts. Give Them Skills.](https://dev.to/alex_shevchenko_bf0ee5822/stop-giving-ai-agents-more-prompts-give-them-skills-386a)
-- [What Broke After 10M Realtime Events — and How We Re-architected for Realtime AI Workflows](https://dev.to/smartguy666/what-broke-after-10m-realtime-events-and-how-we-re-architected-for-realtime-ai-workflows-3024)
+- [Building a Menubar App with Tauri v2 — What Nobody Tells You](https://dev.to/hiyoyok/building-a-menubar-app-with-tauri-v2-what-nobody-tells-you-9a2)
+- [Do Open Frontier Models Have A Chance Against Closed Models?](https://dev.to/jagostoni/do-open-frontier-models-have-a-chance-against-closed-models-312p)
+- [Claude Code Isn’t the Only Game in Town](https://dev.to/yvem/claude-code-isnt-the-only-game-in-town-3l5i)
+- [The Hidden Supply Chain Risk in Your `pip install`](https://dev.to/easterndev/the-hidden-supply-chain-risk-in-your-pip-install-25pc)
+- [PWC 373 Task 2: Let&#39;s Dance to List Division](https://dev.to/boblied/pwc-373-task-2-lets-dance-to-list-division-1e0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
