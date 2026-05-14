@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 3 Hours Watching My Benchmark Hang, Then 6 Seconds to Fix It](https://dev.to/motedb/i-spent-3-hours-watching-my-benchmark-hang-then-6-seconds-to-fix-it-2fl9)
-- [Structured Output in .NET Agents](https://dev.to/lukaswalter/structured-output-in-net-agents-26fo)
-- [Architecture in the AI age](https://dev.to/markkazakov/architecture-in-the-ai-age-1cl1)
-- [How Software Engineering Is Changing in AI Era](https://dev.to/msubhro/how-software-engineering-is-changing-in-ai-era-cni)
-- [From Zero to GenLayer: A Beginner&#39;s Mental Model for Trustless Adjudication](https://dev.to/ngh1105/from-zero-to-genlayer-a-beginners-mental-model-for-trustless-adjudication-3iej)
+- [FINAL in ClickHouse Isn’t as Expensive as It Used to Be](https://dev.to/mohhddhassan/final-in-clickhouse-isnt-as-expensive-as-it-used-to-be-1ne9)
+- [Your Observability Is Looking at the Wrong Things](https://dev.to/benard_otieno_cdb9e6d4907/your-observability-is-looking-at-the-wrong-things-4klo)
+- [How I rebuilt my SaaS landing page in 6 weeks: Essential lessons for developer founders](https://dev.to/zenovay/how-i-rebuilt-my-saas-landing-page-in-6-weeks-essential-lessons-for-developer-founders-4ma1)
+- [How to Publish Your Flutter App on F-Droid](https://dev.to/benji377/how-to-publish-your-flutter-app-on-f-droid-3ed5)
+- [AI Coding Agents Are Lowering the Barrier to Building Enterprise Data Apps - But the Real Barrier Is Moving](https://dev.to/hello_arisyn_0dc948aa82b3/ai-coding-agents-are-lowering-the-barrier-to-building-enterprise-data-apps-but-the-real-barrier-19ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
