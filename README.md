@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Menubar App with Tauri v2 — What Nobody Tells You](https://dev.to/hiyoyok/building-a-menubar-app-with-tauri-v2-what-nobody-tells-you-9a2)
-- [Do Open Frontier Models Have A Chance Against Closed Models?](https://dev.to/jagostoni/do-open-frontier-models-have-a-chance-against-closed-models-312p)
-- [Claude Code Isn’t the Only Game in Town](https://dev.to/yvem/claude-code-isnt-the-only-game-in-town-3l5i)
-- [The Hidden Supply Chain Risk in Your `pip install`](https://dev.to/easterndev/the-hidden-supply-chain-risk-in-your-pip-install-25pc)
-- [PWC 373 Task 2: Let&#39;s Dance to List Division](https://dev.to/boblied/pwc-373-task-2-lets-dance-to-list-division-1e0k)
+- [AI Weekly: Voice Models, Custom Silicon, MCP Goes Enterprise &lpar;May 7–13, 2026&rpar;](https://dev.to/alexmercedcoder/ai-weekly-voice-models-custom-silicon-mcp-goes-enterprise-may-7-13-2026-3kg8)
+- [🚀 I Just Launched New Free SEO Tools &lpar;Built Today&rpar;](https://dev.to/yohendri_valles/i-just-launched-new-free-seo-tools-built-today-3g2j)
+- [The Man Who Summoned Ghosts | Chapter 1: The Man Who Stepped Away from the Wheel](https://dev.to/lhua0420/the-man-who-summoned-ghosts-chapter-1-the-man-who-stepped-away-from-the-wheel-356b)
+- [React and User Preferences: Respect the OS Settings Your Users Already Picked](https://dev.to/childrentime/react-and-user-preferences-respect-the-os-settings-your-users-already-picked-5hdp)
+- [Claude Code Stops Pausing Every Turn: /goal, /loop, /batch, /background](https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-24nb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
