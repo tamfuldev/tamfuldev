@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly: Voice Models, Custom Silicon, MCP Goes Enterprise &lpar;May 7–13, 2026&rpar;](https://dev.to/alexmercedcoder/ai-weekly-voice-models-custom-silicon-mcp-goes-enterprise-may-7-13-2026-3kg8)
-- [🚀 I Just Launched New Free SEO Tools &lpar;Built Today&rpar;](https://dev.to/yohendri_valles/i-just-launched-new-free-seo-tools-built-today-3g2j)
-- [The Man Who Summoned Ghosts | Chapter 1: The Man Who Stepped Away from the Wheel](https://dev.to/lhua0420/the-man-who-summoned-ghosts-chapter-1-the-man-who-stepped-away-from-the-wheel-356b)
-- [React and User Preferences: Respect the OS Settings Your Users Already Picked](https://dev.to/childrentime/react-and-user-preferences-respect-the-os-settings-your-users-already-picked-5hdp)
-- [Claude Code Stops Pausing Every Turn: /goal, /loop, /batch, /background](https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-24nb)
+- [79. The Attention Mechanism: Focus on Important Parts](https://dev.to/yakhilesh/79-the-attention-mechanism-focus-on-important-parts-10ge)
+- [Best Replicate Alternatives for AI Inference in 2026](https://dev.to/kevin_wong/best-replicate-alternatives-for-ai-inference-in-2026-48f)
+- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
+- [Generating Sitemaps is Easy](https://dev.to/benkhalife/generating-sitemaps-is-easy-pa0)
+- [Prompts Aren’t Conversation — They’re Code. And That’s Why Programmers Still Matter](https://dev.to/syoleen/prompts-arent-conversation-theyre-code-and-thats-why-programmers-still-matter-3co9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
