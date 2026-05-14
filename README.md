@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Automation ROI: How I Replaced $400/Month in SaaS Tools With Free Scripts](https://dev.to/brad_20095bd4959b60ad2335/python-automation-roi-how-i-replaced-400month-in-saas-tools-with-free-scripts-4jbh)
-- [Python Invoice Generator: Automated PDF Billing With Payment Reminders](https://dev.to/brad_20095bd4959b60ad2335/python-invoice-generator-automated-pdf-billing-with-payment-reminders-16hp)
-- [10 Microservices Concepts Every Developer Should Know &lpar;Before Your System Explodes&rpar; 💣](https://dev.to/mamoor_ahmad/10-microservices-concepts-every-developer-should-know-before-your-system-explodes-562f)
-- [AWS EC2 Fundamentals: Renting Computing Power Without Breaking the Bank](https://dev.to/dinhhuykhanh/aws-ec2-fundamentals-renting-computing-power-without-breaking-the-bank-3mhj)
-- [I Built an AI Islamic Companion App. Here&#39;s What Actually Surprised Me](https://dev.to/inoxx_protocol_0658f35b52/i-built-an-ai-islamic-companion-app-heres-what-actually-surprised-me-4glb)
+- [Hi Ive got a question,
+
+whats better to learn c# or python for long term, high paying career?](https://dev.to/1n_ua/hi-ive-got-a-question-whats-better-to-learn-c-or-python-for-long-term-high-paying-career-if-5cni)
+- [Running Local AI &lpar;Self-hosted&rpar; Coding Assistants in VS Code with Ollama and GitHub Copilot](https://dev.to/safesploit/running-local-ai-self-hosted-coding-assistants-in-vs-code-with-ollama-and-github-copilot-8a8)
+- [Compass MCP: an explainable dietary decision layer for AI agents](https://dev.to/yordan_kavalov/compass-mcp-an-explainable-dietary-decision-layer-for-ai-agents-2i2o)
+- [Stop Staring at Spreadsheets: How a Proper Portfolio Visualizer Kept Me From Panic-Selling](https://dev.to/kevin_menesesgonzlez/stop-staring-at-spreadsheets-how-a-proper-portfolio-visualizer-kept-me-from-panic-selling-27f3)
+- [Your Product Has 30 Features and 0 Paying Users. Here&#39;s the Clinical Reason.](https://dev.to/devprom/your-product-has-30-features-and-0-paying-users-heres-the-clinical-reason-3alf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
