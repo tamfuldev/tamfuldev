@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Datadog&#39;s State of AI Engineering Report Quietly Confirms the Governance Crisis](https://dev.to/mnemehq/datadogs-state-of-ai-engineering-report-quietly-confirms-the-governance-crisis-10ni)
-- [Laravel setp up sample](https://dev.to/hahaha_ulol_26abb4d1bdd18/report-pdf-15h8)
-- [PostgreSQL Benchmarking Tool &amp; SQLite Internals: API Error Handling, Join Optimization](https://dev.to/soytuber/postgresql-benchmarking-tool-sqlite-internals-api-error-handling-join-optimization-dci)
-- [1. Quick Guide to Setting Up PostgreSQL on Mac via CLI with Homebrew](https://dev.to/lorena_dvila_5ab5ef35ec6/1-quick-guide-to-setting-up-postgresql-on-mac-via-cli-with-homebrew-3548)
-- [Are Architecture Diagrams Still Relevant in Modern DevOps?](https://dev.to/davidcage2828/are-architecture-diagrams-still-relevant-in-modern-devops-cc5)
+- [Bug Bounty Mode in Spectrion](https://dev.to/denisbabkevich/bug-bounty-mode-in-spectrion-1i3k)
+- [Useful &amp; Commonly Used HTTP Status Codes for Your Next API Project](https://dev.to/frankstack/useful-commonly-used-http-status-codes-for-your-next-api-project-364p)
+- [RAG - Sliding Window, Token Based Chunking and PDF Chunking Packages](https://dev.to/ramya_perumal_e93721ef2fa/rag-sliding-window-token-based-chunking-and-pdf-chunking-packages-18nd)
+- [I love to build](https://dev.to/rmpasta/i-love-to-build-f27)
+- [The Worst Developers Quit Too Early](https://dev.to/amoreno/the-worst-developers-quit-too-early-6dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
