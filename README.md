@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hi Ive got a question,
-
-whats better to learn c# or python for long term, high paying career?](https://dev.to/1n_ua/hi-ive-got-a-question-whats-better-to-learn-c-or-python-for-long-term-high-paying-career-if-5cni)
-- [Running Local AI &lpar;Self-hosted&rpar; Coding Assistants in VS Code with Ollama and GitHub Copilot](https://dev.to/safesploit/running-local-ai-self-hosted-coding-assistants-in-vs-code-with-ollama-and-github-copilot-8a8)
-- [Compass MCP: an explainable dietary decision layer for AI agents](https://dev.to/yordan_kavalov/compass-mcp-an-explainable-dietary-decision-layer-for-ai-agents-2i2o)
-- [Stop Staring at Spreadsheets: How a Proper Portfolio Visualizer Kept Me From Panic-Selling](https://dev.to/kevin_menesesgonzlez/stop-staring-at-spreadsheets-how-a-proper-portfolio-visualizer-kept-me-from-panic-selling-27f3)
-- [Your Product Has 30 Features and 0 Paying Users. Here&#39;s the Clinical Reason.](https://dev.to/devprom/your-product-has-30-features-and-0-paying-users-heres-the-clinical-reason-3alf)
+- [I Spent 3 Hours Watching My Benchmark Hang, Then 6 Seconds to Fix It](https://dev.to/motedb/i-spent-3-hours-watching-my-benchmark-hang-then-6-seconds-to-fix-it-2fl9)
+- [Structured Output in .NET Agents](https://dev.to/lukaswalter/structured-output-in-net-agents-26fo)
+- [Architecture in the AI age](https://dev.to/markkazakov/architecture-in-the-ai-age-1cl1)
+- [How Software Engineering Is Changing in AI Era](https://dev.to/msubhro/how-software-engineering-is-changing-in-ai-era-cni)
+- [From Zero to GenLayer: A Beginner&#39;s Mental Model for Trustless Adjudication](https://dev.to/ngh1105/from-zero-to-genlayer-a-beginners-mental-model-for-trustless-adjudication-3iej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
