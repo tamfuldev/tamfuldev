@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [79. The Attention Mechanism: Focus on Important Parts](https://dev.to/yakhilesh/79-the-attention-mechanism-focus-on-important-parts-10ge)
-- [Best Replicate Alternatives for AI Inference in 2026](https://dev.to/kevin_wong/best-replicate-alternatives-for-ai-inference-in-2026-48f)
-- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
-- [Generating Sitemaps is Easy](https://dev.to/benkhalife/generating-sitemaps-is-easy-pa0)
-- [Prompts Aren’t Conversation — They’re Code. And That’s Why Programmers Still Matter](https://dev.to/syoleen/prompts-arent-conversation-theyre-code-and-thats-why-programmers-still-matter-3co9)
+- [Python Automation ROI: How I Replaced $400/Month in SaaS Tools With Free Scripts](https://dev.to/brad_20095bd4959b60ad2335/python-automation-roi-how-i-replaced-400month-in-saas-tools-with-free-scripts-4jbh)
+- [Python Invoice Generator: Automated PDF Billing With Payment Reminders](https://dev.to/brad_20095bd4959b60ad2335/python-invoice-generator-automated-pdf-billing-with-payment-reminders-16hp)
+- [10 Microservices Concepts Every Developer Should Know &lpar;Before Your System Explodes&rpar; 💣](https://dev.to/mamoor_ahmad/10-microservices-concepts-every-developer-should-know-before-your-system-explodes-562f)
+- [AWS EC2 Fundamentals: Renting Computing Power Without Breaking the Bank](https://dev.to/dinhhuykhanh/aws-ec2-fundamentals-renting-computing-power-without-breaking-the-bank-3mhj)
+- [I Built an AI Islamic Companion App. Here&#39;s What Actually Surprised Me](https://dev.to/inoxx_protocol_0658f35b52/i-built-an-ai-islamic-companion-app-heres-what-actually-surprised-me-4glb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
