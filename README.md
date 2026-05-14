@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FINAL in ClickHouse Isn’t as Expensive as It Used to Be](https://dev.to/mohhddhassan/final-in-clickhouse-isnt-as-expensive-as-it-used-to-be-1ne9)
-- [Your Observability Is Looking at the Wrong Things](https://dev.to/benard_otieno_cdb9e6d4907/your-observability-is-looking-at-the-wrong-things-4klo)
-- [How I rebuilt my SaaS landing page in 6 weeks: Essential lessons for developer founders](https://dev.to/zenovay/how-i-rebuilt-my-saas-landing-page-in-6-weeks-essential-lessons-for-developer-founders-4ma1)
-- [How to Publish Your Flutter App on F-Droid](https://dev.to/benji377/how-to-publish-your-flutter-app-on-f-droid-3ed5)
-- [AI Coding Agents Are Lowering the Barrier to Building Enterprise Data Apps - But the Real Barrier Is Moving](https://dev.to/hello_arisyn_0dc948aa82b3/ai-coding-agents-are-lowering-the-barrier-to-building-enterprise-data-apps-but-the-real-barrier-19ni)
+- [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc)
+- [I’m Building a Startup Failure Archive With Next.js and Supabase](https://dev.to/hightech89/im-building-a-startup-failure-archive-with-nextjs-and-supabase-4544)
+- [We Built a Platform to Help Beginners in Computer Science Stop Feeling Lost](https://dev.to/dreameater_619/we-built-a-platform-to-help-beginners-in-computer-science-stop-feeling-lost-64c)
+- [How to create a Microsoft Azure storage account for securing private data and file backup](https://dev.to/tjasper/how-to-create-a-microsoft-azure-storage-account-for-securing-private-data-and-file-backup-3ol5)
+- [I built a free AI-powered Linktree alternative that generates your page algorithmically — Xefna](https://dev.to/smshahbaj/i-built-a-free-ai-powered-linktree-alternative-that-generates-your-page-algorithmically-xefna-34ml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
