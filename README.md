@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc)
-- [I’m Building a Startup Failure Archive With Next.js and Supabase](https://dev.to/hightech89/im-building-a-startup-failure-archive-with-nextjs-and-supabase-4544)
-- [We Built a Platform to Help Beginners in Computer Science Stop Feeling Lost](https://dev.to/dreameater_619/we-built-a-platform-to-help-beginners-in-computer-science-stop-feeling-lost-64c)
-- [How to create a Microsoft Azure storage account for securing private data and file backup](https://dev.to/tjasper/how-to-create-a-microsoft-azure-storage-account-for-securing-private-data-and-file-backup-3ol5)
-- [I built a free AI-powered Linktree alternative that generates your page algorithmically — Xefna](https://dev.to/smshahbaj/i-built-a-free-ai-powered-linktree-alternative-that-generates-your-page-algorithmically-xefna-34ml)
+- [Vibe Coding, Demystified](https://dev.to/mlh/vibe-coding-demystified-169b)
+- [Introducing Golt: A Lightweight TypeScript Runtime Powered by Go](https://dev.to/atrox39/introducing-golt-a-lightweight-typescript-runtime-powered-by-go-i2g)
+- [Autospec: Spec-Driven Development for AI Coding Agents](https://dev.to/arielf/autospec-spec-driven-development-for-ai-coding-agents-2a6f)
+- [Build Like the Capex Already Left](https://dev.to/michaeltuszynski/build-like-the-capex-already-left-1nh7)
+- [Stop hand-writing IconData — introducing `icon_font_extractor`](https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
