@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Stopped Doing as a Web Designer - What about you?](https://dev.to/pixelbricks_design/5-things-i-stopped-doing-as-a-web-designer-what-about-you-njj)
-- [How to create a linux virtual machine.](https://dev.to/azuretrailblazer/how-to-create-a-linux-virtual-machine-33me)
-- [Cinderella is in Good Hands — Building an Agentic IoT System with Gemma 4 and ASHA](https://dev.to/piusoblie/cinderella-is-in-good-hands-building-an-agentic-iot-system-with-gemma-4-and-asha-10dn)
-- [Claprec: Frontend - Angular, NgRx, and OpenAPI &lpar;3/6&rpar;](https://dev.to/keno_sej/claprec-frontend-angular-ngrx-and-openapi-36-4pb4)
-- [How AI Agent Observability Changes What You Can Actually Debug](https://dev.to/8080_ai/how-ai-agent-observability-changes-what-you-can-actually-debug-1pml)
+- [How I Set Up MongoDB for Local Development](https://dev.to/orimdominic/how-i-set-up-mongodb-for-local-development-10nb)
+- [Can Claude Code Still Use DeepSeek? A Windows Test with cc-switch](https://dev.to/member_0af6418a/can-claude-code-still-use-deepseek-a-windows-test-with-cc-switch-2ahl)
+- [How do you benchmark an MCP server you built?](https://dev.to/luuuc/how-do-you-benchmark-an-mcp-server-you-built-2e8j)
+- [Metal and Skins](https://dev.to/codenameone/metal-and-skins-4e00)
+- [Offtoco — count GPT, Claude and Gemini tokens offline for web/CLI/desktop](https://dev.to/smartcity_jaen/offtoco-count-gpt-claude-and-gemini-tokens-offline-for-webclidesktop-a5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
