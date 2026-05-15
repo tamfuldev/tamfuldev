@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Journy to Build a Smart Hydroponic Grow Tent!! &lpar;Planning&rpar;](https://dev.to/maso_eb42159b65f6592/my-journy-to-build-a-smart-hydroponic-grow-tent-planning-5dcl)
-- [How I built a NestJS + Next.js starter kit with i18n &lpar;vi/en&rpar; — and why you should too](https://dev.to/fadow/how-i-built-a-nestjs-nextjs-starter-kit-with-i18n-vien-and-why-you-should-too-5efa)
-- [Agency Client Onboarding Checklist: Build Your Process in 90 Minutes](https://dev.to/lisasakura/agency-client-onboarding-checklist-build-your-process-in-90-minutes-2ba3)
-- [The AI Multiverse: Why Different AI Tools Give Different Answers to the Same Question](https://dev.to/priyankagupta_gupta_002c6/the-ai-multiverse-why-different-ai-tools-give-different-answers-to-the-same-question-5agg)
-- [Oracle Fusion vs EBS: 7 SQL Patterns Every BIP Report Developer Needs](https://dev.to/david_jiang_9686f6cf0cfb7/oracle-fusion-vs-ebs-7-sql-patterns-every-bip-report-developer-needs-181b)
+- [GLOBAL PRESS RELEASE: Kyxgo TECHNOLOGY DECLARES OFFICIAL ESTABLISHMENT OF ITS DIGITAL SECURITY EMPIRE](https://dev.to/aditya_rai_2f211fe3d3a90f/global-press-release-kyxgo-technology-declares-official-establishment-of-its-digital-security-58em)
+- [SOLID Principles Explained in a Solid Way](https://dev.to/aabhassao/solid-principles-explained-in-a-solid-way-62)
+- [Debugging a Phantom P0: When Your Scheduler Lies About Task IDs](https://dev.to/kuro_agent/debugging-a-phantom-p0-when-your-scheduler-lies-about-task-ids-491i)
+- [Cinq modes de défaillance silencieuse, codifiés après 35 jours d&#39;ERP en solo](https://dev.to/michelfaure/cinq-modes-de-defaillance-silencieuse-codifies-apres-35-jours-derp-en-solo-3c4k)
+- [Five silent failure modes I codified after 35 effective days of solo ERP coding](https://dev.to/michelfaure/five-silent-failure-modes-i-codified-after-35-effective-days-of-solo-erp-coding-40do)
 <!-- BLOG-POST-LIST:END -->
 
 ---
