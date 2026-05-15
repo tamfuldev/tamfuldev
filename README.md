@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python and How Python Is Used In The Data Analytics Space. A Beginner&#39;s Guide.](https://dev.to/josengash/python-and-how-python-is-used-in-the-data-analytics-space-a-beginners-guide-52dh)
-- [5 Token-Saving Habits From 3 Months With Claude Code](https://dev.to/jessyt/5-token-saving-habits-from-3-months-with-claude-code-41mh)
-- [What makes an AI image workflow useful for real commercial output?](https://dev.to/btsai_identity_market/what-makes-an-ai-image-workflow-useful-for-real-commercial-output-1d6p)
-- [AI shopping agents have no standard way to verify merchants — so we built one &lpar;MCP + verification API&rpar;](https://dev.to/gengeo-ai/ai-shopping-agents-have-no-standard-way-to-verify-merchants-so-we-built-one-mcp-verification-21po)
-- [Palantir: a empresa que transforma dados em decisões operacionais](https://dev.to/felipecezar01/palantir-a-empresa-que-transforma-dados-em-decisoes-operacionais-8i9)
+- [My Journy to Build a Smart Hydroponic Grow Tent!! &lpar;Planning&rpar;](https://dev.to/maso_eb42159b65f6592/my-journy-to-build-a-smart-hydroponic-grow-tent-planning-5dcl)
+- [How I built a NestJS + Next.js starter kit with i18n &lpar;vi/en&rpar; — and why you should too](https://dev.to/fadow/how-i-built-a-nestjs-nextjs-starter-kit-with-i18n-vien-and-why-you-should-too-5efa)
+- [Agency Client Onboarding Checklist: Build Your Process in 90 Minutes](https://dev.to/lisasakura/agency-client-onboarding-checklist-build-your-process-in-90-minutes-2ba3)
+- [The AI Multiverse: Why Different AI Tools Give Different Answers to the Same Question](https://dev.to/priyankagupta_gupta_002c6/the-ai-multiverse-why-different-ai-tools-give-different-answers-to-the-same-question-5agg)
+- [Oracle Fusion vs EBS: 7 SQL Patterns Every BIP Report Developer Needs](https://dev.to/david_jiang_9686f6cf0cfb7/oracle-fusion-vs-ebs-7-sql-patterns-every-bip-report-developer-needs-181b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
