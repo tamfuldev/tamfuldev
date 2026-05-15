@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MCP &lpar;Model Context Protocol&rpar; for .NET Devs — What It Is and Why You&#39;ll Be Using It Soon](https://dev.to/vikrant_bagal_afae3e25ca7/mcp-model-context-protocol-for-net-devs-what-it-is-and-why-youll-be-using-it-soon-a98)
-- [Vibe Architecture](https://dev.to/davidayres/vibe-architecture-262e)
-- [Topogram’s structured graph: concept and implementation](https://dev.to/attebury/topograms-structured-graph-concept-and-implementation-56lj)
-- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-5813)
-- [15 CSS Tricks That Save Me Hours Every Week](https://dev.to/armorbreak/15-css-tricks-that-save-me-hours-every-week-mj2)
+- [Learning the Term “Tool Sprawl” Helped Me Rethink My Distance from Tools &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/learning-the-term-tool-sprawl-helped-me-rethink-my-distance-from-tools-bite-size-article-4if0)
+- [Understanding Reinforcement Learning with Neural Networks Part 5: Connecting Reward, Derivative, and Step Size](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-5-connecting-reward-derivative-2dk)
+- [Swift Protocol Magic II: Designing a Reusable Location Tracking System](https://dev.to/salahamassi/swift-protocol-magic-ii-designing-a-reusable-location-tracking-system-2heh)
+- [AndroidAppLockscreen: drop a PIN lockscreen into any Android app in minutes](https://dev.to/fayazbuilds_n5f2t7/androidapplockscreen-drop-a-pin-lockscreen-into-any-android-app-in-minutes-5dch)
+- [I priced out self-hosted AI agents on a mini PC and realized I was about to spend my weekend, not save money](https://dev.to/lars_winstand/i-priced-out-self-hosted-ai-agents-on-a-mini-pc-and-realized-i-was-about-to-spend-my-weekend-not-367c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
