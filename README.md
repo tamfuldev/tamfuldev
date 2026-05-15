@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Cat Oran S2 Ep6 — The Abstract Table and the Gateway](https://dev.to/syslayer/coding-cat-oran-s2-ep6-the-abstract-table-and-the-gateway-lk5)
-- [Coding Cat Oran S2 Ep5 — The Many-to-Many Disaster](https://dev.to/syslayer/coding-cat-oran-s2-ep5-the-many-to-many-disaster-22jo)
-- [Coding Cat Oran S2 Ep4 — The Voluntary Table](https://dev.to/syslayer/coding-cat-oran-s2-ep4-the-voluntary-table-4dkf)
-- [Day 5 - Chunking continued - RAG](https://dev.to/indumathi_r_afd5683658092/day-5-chunking-continued-rag-78n)
-- [DUST Sponsorship on Midnight: How One Wallet Pays Fees for Another User&#39;s Transaction](https://dev.to/devroy/dust-sponsorship-on-midnight-how-one-wallet-pays-fees-for-another-users-transaction-1gmc)
+- [MCP &lpar;Model Context Protocol&rpar; for .NET Devs — What It Is and Why You&#39;ll Be Using It Soon](https://dev.to/vikrant_bagal_afae3e25ca7/mcp-model-context-protocol-for-net-devs-what-it-is-and-why-youll-be-using-it-soon-a98)
+- [Vibe Architecture](https://dev.to/davidayres/vibe-architecture-262e)
+- [Topogram’s structured graph: concept and implementation](https://dev.to/attebury/topograms-structured-graph-concept-and-implementation-56lj)
+- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-5813)
+- [15 CSS Tricks That Save Me Hours Every Week](https://dev.to/armorbreak/15-css-tricks-that-save-me-hours-every-week-mj2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
