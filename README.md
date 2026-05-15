@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Set Up MongoDB for Local Development](https://dev.to/orimdominic/how-i-set-up-mongodb-for-local-development-10nb)
-- [Can Claude Code Still Use DeepSeek? A Windows Test with cc-switch](https://dev.to/member_0af6418a/can-claude-code-still-use-deepseek-a-windows-test-with-cc-switch-2ahl)
-- [How do you benchmark an MCP server you built?](https://dev.to/luuuc/how-do-you-benchmark-an-mcp-server-you-built-2e8j)
-- [Metal and Skins](https://dev.to/codenameone/metal-and-skins-4e00)
-- [Offtoco — count GPT, Claude and Gemini tokens offline for web/CLI/desktop](https://dev.to/smartcity_jaen/offtoco-count-gpt-claude-and-gemini-tokens-offline-for-webclidesktop-a5c)
+- [The AI Bridge Problem: Why Enterprise AI Integration Is an Architecture Challenge, Not an AI Challenge](https://dev.to/sauloos/the-ai-bridge-problem-why-enterprise-ai-integration-is-an-architecture-challenge-not-an-ai-15en)
+- [Serverless Packet Capture](https://dev.to/aws-builders/serverless-packet-capture-2ogk)
+- [How CoreStory Cuts LLM Costs by 70% While Improving Output Quality](https://dev.to/mozzello/how-corestory-cuts-llm-costs-by-70-while-improving-output-quality-43ap)
+- [I Managed WordPress Security Across 1500+ Clients. The Main Reason WP Sites Get Hacked.](https://dev.to/eliotdill/i-managed-wordpress-security-across-1500-clients-the-main-reason-wp-sites-get-hacked-3nhh)
+- [When dev and prod disagree about your CSS](https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
