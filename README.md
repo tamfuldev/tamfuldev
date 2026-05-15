@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bug Bounty Mode in Spectrion](https://dev.to/denisbabkevich/bug-bounty-mode-in-spectrion-1i3k)
-- [Useful &amp; Commonly Used HTTP Status Codes for Your Next API Project](https://dev.to/frankstack/useful-commonly-used-http-status-codes-for-your-next-api-project-364p)
-- [RAG - Sliding Window, Token Based Chunking and PDF Chunking Packages](https://dev.to/ramya_perumal_e93721ef2fa/rag-sliding-window-token-based-chunking-and-pdf-chunking-packages-18nd)
-- [I love to build](https://dev.to/rmpasta/i-love-to-build-f27)
-- [The Worst Developers Quit Too Early](https://dev.to/amoreno/the-worst-developers-quit-too-early-6dp)
+- [Python and How Python Is Used In The Data Analytics Space. A Beginner&#39;s Guide.](https://dev.to/josengash/python-and-how-python-is-used-in-the-data-analytics-space-a-beginners-guide-52dh)
+- [5 Token-Saving Habits From 3 Months With Claude Code](https://dev.to/jessyt/5-token-saving-habits-from-3-months-with-claude-code-41mh)
+- [What makes an AI image workflow useful for real commercial output?](https://dev.to/btsai_identity_market/what-makes-an-ai-image-workflow-useful-for-real-commercial-output-1d6p)
+- [AI shopping agents have no standard way to verify merchants — so we built one &lpar;MCP + verification API&rpar;](https://dev.to/gengeo-ai/ai-shopping-agents-have-no-standard-way-to-verify-merchants-so-we-built-one-mcp-verification-21po)
+- [Palantir: a empresa que transforma dados em decisões operacionais](https://dev.to/felipecezar01/palantir-a-empresa-que-transforma-dados-em-decisoes-operacionais-8i9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
