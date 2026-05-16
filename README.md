@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a $0 fault-tolerant AI pipeline &lpar;Groq 5 DeepSeek Vertex template&rpar;](https://dev.to/guardlabs_team/i-built-a-0-fault-tolerant-ai-pipeline-groqx5-deepseek-vertex-template-52jh)
-- [Optimizing your Claude Code usage &lpar;and spending less $$&rpar;](https://dev.to/anilmurty/optimizing-your-claude-code-usage-and-spending-less--256i)
-- [I built a Kotlin DSL test automation framework because existing ones kept failing their own standards](https://dev.to/anevisser/i-built-a-kotlin-dsl-test-automation-framework-because-existing-ones-kept-failing-their-own-184n)
-- [Working with Dates and Times in JavaScript &lpar;2026&rpar;](https://dev.to/armorbreak/working-with-dates-and-times-in-javascript-2026-1ghb)
-- [Why we built A11y Studio — WCAG 2.2 accessibility for React developers](https://dev.to/a11ystudio/why-we-built-a11y-studio-wcag-22-accessibility-for-react-developers-4lgg)
+- [Cutting Room Now Available on macOS](https://dev.to/nickvalenciatech/cutting-room-now-available-on-macos-nm9)
+- [Your AI database agent needs dry-run mode](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-database-agent-needs-dry-run-mode-3kdk)
+- [Prisma vs JDBC: the benchmark that almost made me blame the wrong ORM](https://dev.to/jtorchia/prisma-vs-jdbc-the-benchmark-that-almost-made-me-blame-the-wrong-orm-585m)
+- [Prisma vs JDBC: el benchmark que casi me hace culpar al ORM equivocado](https://dev.to/jtorchia/prisma-vs-jdbc-el-benchmark-que-casi-me-hace-culpar-al-orm-equivocado-12hc)
+- [iOS App Store Screenshots and Compliance: The Gotchas After Your Build Succeeds](https://dev.to/anand_rathnas_d5b608cc3de/ios-app-store-screenshots-and-compliance-the-gotchas-after-your-build-succeeds-2aje)
 <!-- BLOG-POST-LIST:END -->
 
 ---
