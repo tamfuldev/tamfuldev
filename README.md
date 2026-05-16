@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Telegram-Based AI Career Agent with Hermes Agent](https://dev.to/sai_22/i-built-a-telegram-based-ai-career-agent-with-hermes-agent-98n)
-- [The Synthesis Wall: Frontier AI Without Sending Your Data](https://dev.to/iwwomi/the-synthesis-wall-frontier-ai-without-sending-your-data-1k92)
-- [From Public Cloud to Self-Hosted PaaS: A Migration Story](https://dev.to/iwwomi/from-public-cloud-to-self-hosted-paas-a-migration-story-311c)
-- [Building a Saju &lpar;Korean Astrology&rpar; Calculator from Scratch in Python](https://dev.to/tarofortune/building-a-saju-korean-astrology-calculator-from-scratch-in-python-3cpc)
-- [Securing the Agentic Supply Chain: Why Provenance is the New Perimeter](https://dev.to/soumia_g_9dc322fc4404cecd/securing-the-agentic-supply-chain-why-provenance-is-the-new-perimeter-137j)
+- [The Model Answered. Nobody Asked Who Authorized That.](https://dev.to/ntctech/the-model-answered-nobody-asked-who-authorized-that-b75)
+- [Building Maintainable WordPress Plugin and Theme Systems](https://dev.to/kunal_pareek/building-maintainable-wordpress-plugin-and-theme-systems-1n23)
+- [How I Built and Launched 2 Commercial APIs in a Single Day](https://dev.to/3three/how-i-built-and-launched-2-commercial-apis-in-a-single-day-4o7i)
+- [Building NSFD-v1: An Algorithm for Detecting Network Signal Failure in Industrial Production Lines](https://dev.to/shieldstring/building-nsfd-v1-an-algorithm-for-detecting-network-signal-failure-in-industrial-production-lines-1bl8)
+- [How To Use Python For SEO Redirect Mapping](https://dev.to/nad14/how-to-use-python-for-seo-redirect-mapping-377h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
