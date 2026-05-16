@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cutting Room Now Available on macOS](https://dev.to/nickvalenciatech/cutting-room-now-available-on-macos-nm9)
-- [Your AI database agent needs dry-run mode](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-database-agent-needs-dry-run-mode-3kdk)
-- [Prisma vs JDBC: the benchmark that almost made me blame the wrong ORM](https://dev.to/jtorchia/prisma-vs-jdbc-the-benchmark-that-almost-made-me-blame-the-wrong-orm-585m)
-- [Prisma vs JDBC: el benchmark que casi me hace culpar al ORM equivocado](https://dev.to/jtorchia/prisma-vs-jdbc-el-benchmark-que-casi-me-hace-culpar-al-orm-equivocado-12hc)
-- [iOS App Store Screenshots and Compliance: The Gotchas After Your Build Succeeds](https://dev.to/anand_rathnas_d5b608cc3de/ios-app-store-screenshots-and-compliance-the-gotchas-after-your-build-succeeds-2aje)
+- [I built free embeddable UI tools for Bubble.io builders — no plugin, no paid plan needed](https://dev.to/rohan_surve_b05e70456c13e/i-built-free-embeddable-ui-tools-for-bubbleio-builders-no-plugin-no-paid-plan-needed-4chk)
+- [Designing a Multi-Step Research Workflow With Hermes Agent](https://dev.to/saras_growth_space/designing-a-multi-step-research-workflow-with-hermes-agent-50ja)
+- [Why every Claude Code-built site looks the same — and the image layer that breaks it](https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-every-claude-code-built-site-looks-the-same-and-the-image-layer-that-breaks-it-37jp)
+- [What If Tracking Money Felt As Easy As Sending a Message?](https://dev.to/diveshjain25/what-if-tracking-money-felt-as-easy-as-sending-a-message-5ag)
+- [Maintaining an Agent-Searchable Profile: Public Impressions, Semantic Tags, and Real-Time Refresh](https://dev.to/innovationsiyu/maintaining-an-agent-searchable-profile-public-impressions-semantic-tags-and-real-time-refresh-2je9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
