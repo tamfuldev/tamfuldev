@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You Were Trained. But Are You Ready to Serve?](https://dev.to/sreeni5018/you-were-trained-but-are-you-ready-to-serve-10j4)
-- [Introducing AgentRisk Trust Badges for AI Agents](https://dev.to/agentrisk/introducing-agentrisk-trust-badges-for-ai-agents-2274)
-- [Building on Base: Sub-Cent Gas for Real-Time Games](https://dev.to/gigavariance/building-on-base-sub-cent-gas-for-real-time-games-m1d)
-- [I got sick of boring AI chatbots, so I built a 1940s detective to roast my dreams 🕵️‍♂️](https://dev.to/aniket_mehra_21b26691abf8/i-got-sick-of-boring-ai-chatbots-so-i-built-a-1940s-detective-to-roast-my-dreams-3efj)
-- [Building Stateful Agricultural AI: The Power of Hindsight Memory and CascadeFlow Routing](https://dev.to/aman_tebriwal/building-stateful-agricultural-ai-the-power-of-hindsight-memory-and-cascadeflow-routing-207n)
+- [Monté un mini-SOC en mi portátil con honeypot, Wazuh e IA local — proyecto del Máster en Evolve](https://dev.to/evolve-space/monte-un-mini-soc-en-mi-portatil-con-honeypot-wazuh-e-ia-local-proyecto-del-master-en-evolve-52mc)
+- [How to Connect a Namecheap Domain to a DigitalOcean Droplet with Nginx](https://dev.to/tahsin000/how-to-connect-a-namecheap-domain-to-a-digitalocean-droplet-with-nginx-2mok)
+- [Hiring a Product Engineering Studio in India in 2026: A Founder&#39;s Checklist](https://dev.to/ujjawal_tyagi_c5a84255da4/hiring-a-product-engineering-studio-in-india-in-2026-a-founders-checklist-14cc)
+- [Why I chose human-edited subtitles over AI auto-captions for vocabulary mining](https://dev.to/qcrao/why-i-chose-human-edited-subtitles-over-ai-auto-captions-for-vocabulary-mining-3lig)
+- [⭐ I gave Claude Code a real Ubuntu computer &lpar;and open-sourced the engine&rpar;](https://dev.to/nghiahsgs/i-gave-claude-code-a-real-ubuntu-computer-and-open-sourced-the-engine-4f3l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
