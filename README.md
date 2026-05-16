@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s energy problem has a software fix. Most teams aren&#39;t using it.](https://dev.to/thegatewayguy/ais-energy-problem-has-a-software-fix-most-teams-arent-using-it-4mca)
-- [We tracked 200K AI requests. Here&#39;s where the money actually goes](https://dev.to/jrmromao/we-tracked-200k-ai-requests-heres-where-the-money-actually-goes-495e)
-- [Your WebSocket says &quot;connected&quot; but stopped sending data. Here&#39;s the bug TCP keepalive can&#39;t catch.](https://dev.to/mixa_dev/your-websocket-says-connected-but-stopped-sending-data-heres-the-bug-tcp-keepalive-cant-catch-5424)
-- [Understanding Importance Derivation](https://dev.to/ganesh-kumar/understanding-importance-derivation-bpe)
-- [What breaks when you ship Next.js on Cloudflare Workers](https://dev.to/m0dus/what-breaks-when-you-ship-nextjs-on-cloudflare-workers-k73)
+- [Understanding Reinforcement Learning with Neural Networks Part 6: Completing the Reinforcement Learning Process](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-6-completing-the-reinforcement-5g8b)
+- [SMM Turbo: Hybrid AI Instagram Editor via Gemma 4](https://dev.to/digital-abetka/smm-turbo-hybrid-ai-instagram-editor-via-gemma-4-5d7o)
+- [Capacitor Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/capacitor-live-updates-a-complete-guide-to-ota-updates-5fco)
+- [ASP .NET Core Bootstrap toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-570)
+- [The First Paid Agent Call Should Be Boring](https://dev.to/supertrained/the-first-paid-agent-call-should-be-boring-3ld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
