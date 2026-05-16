@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Systems 01: Your Verification Process Did Not Break. It Was Replaced.](https://dev.to/chandravanshi/inside-systems-01-your-verification-process-did-not-break-it-was-replaced-4bee)
-- [Deploying Metabase on AWS ECS &lpar;Fargate&rpar; with PostgreSQL &lpar;RDS&rpar;](https://dev.to/ikoh_sylva/deploying-metabase-on-aws-ecs-fargate-with-postgresql-rds-41pa)
-- [I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time](https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd)
-- [jd-gui-duo 2.0.112 Released](https://dev.to/nbauma109/jd-gui-duo-20112-released-3j9f)
-- [I Built the Chrome Feature Google Never Shipped](https://dev.to/muhammad_ali_e2651e45bed9/i-built-the-chrome-feature-google-never-shipped-oko)
+- [📚Why Your Angular App Will Fail Without Domain Boundaries &lpar;DDD for Frontend Engineers&rpar;](https://dev.to/abdelaaziz_ouakala/why-your-angular-app-will-fail-without-domain-boundaries-ddd-for-frontend-engineers-34dk)
+- [Query Filters, UI Design and the CNF/DNF caveat nobody talks about](https://dev.to/manoj1512/query-filters-ui-design-and-the-cnfdnf-caveat-nobody-talks-about-16ef)
+- [Stop Hiring, Start Orchestrating: Running an AI Agent Company with Paperclip on Railway](https://dev.to/alphasec/stop-hiring-start-orchestrating-running-an-ai-agent-company-with-paperclip-on-railway-41bn)
+- [I built a fake Google login because my MVP demo could not wait for the OAuth console](https://dev.to/webjayant/i-built-a-fake-google-login-because-my-mvp-demo-could-not-wait-for-the-oauth-console-3mjc)
+- [Magento 2 MSI Performance Optimization: Taming Multi-Source Inventory](https://dev.to/magevanta/magento-2-msi-performance-optimization-taming-multi-source-inventory-5a1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
