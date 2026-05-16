@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Model Answered. Nobody Asked Who Authorized That.](https://dev.to/ntctech/the-model-answered-nobody-asked-who-authorized-that-b75)
-- [Building Maintainable WordPress Plugin and Theme Systems](https://dev.to/kunal_pareek/building-maintainable-wordpress-plugin-and-theme-systems-1n23)
-- [How I Built and Launched 2 Commercial APIs in a Single Day](https://dev.to/3three/how-i-built-and-launched-2-commercial-apis-in-a-single-day-4o7i)
-- [Building NSFD-v1: An Algorithm for Detecting Network Signal Failure in Industrial Production Lines](https://dev.to/shieldstring/building-nsfd-v1-an-algorithm-for-detecting-network-signal-failure-in-industrial-production-lines-1bl8)
-- [How To Use Python For SEO Redirect Mapping](https://dev.to/nad14/how-to-use-python-for-seo-redirect-mapping-377h)
+- [You Were Trained. But Are You Ready to Serve?](https://dev.to/sreeni5018/you-were-trained-but-are-you-ready-to-serve-10j4)
+- [Introducing AgentRisk Trust Badges for AI Agents](https://dev.to/agentrisk/introducing-agentrisk-trust-badges-for-ai-agents-2274)
+- [Building on Base: Sub-Cent Gas for Real-Time Games](https://dev.to/gigavariance/building-on-base-sub-cent-gas-for-real-time-games-m1d)
+- [I got sick of boring AI chatbots, so I built a 1940s detective to roast my dreams 🕵️‍♂️](https://dev.to/aniket_mehra_21b26691abf8/i-got-sick-of-boring-ai-chatbots-so-i-built-a-1940s-detective-to-roast-my-dreams-3efj)
+- [Building Stateful Agricultural AI: The Power of Hindsight Memory and CascadeFlow Routing](https://dev.to/aman_tebriwal/building-stateful-agricultural-ai-the-power-of-hindsight-memory-and-cascadeflow-routing-207n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
