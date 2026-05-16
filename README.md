@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
-- [How I fixed a 0..1 brightness slider in vdu_controls &lpar;Philips Evnia DDC/CI bug&rpar;](https://dev.to/mammar/how-i-fixed-a-01-brightness-slider-in-vducontrols-philips-evnia-ddcci-bug-4fdg)
-- [Why we treat credits and wallets as first-class billing primitives](https://dev.to/arnon_shimoni_f734319d79c/why-we-treat-credits-and-wallets-as-first-class-billing-primitives-5872)
-- [I see Dead Internet Theory playing out in real-time on DEV](https://dev.to/best_codes/i-see-dead-internet-theory-playing-out-in-real-time-on-dev-2nb6)
-- [CyWire Master Prompts](https://dev.to/topwebworks/cywire-master-prompts-4pil)
+- [Claude Code is the engine, Cursor is the cockpit](https://dev.to/sattensil888/claude-code-is-the-engine-cursor-is-the-cockpit-7kh)
+- [OCR Intelligente per Documenti Aziendali: Architettura e Lezioni dal Campo](https://dev.to/alessandrobinda114/ocr-intelligente-per-documenti-aziendali-architettura-e-lezioni-dal-campo-1k39)
+- [How I Built a Universal MCP ↔ A2A Bridge: Architecture, Protocol Mapping, and What I Learned](https://dev.to/vahapogut/how-i-built-a-universal-mcp-a2a-bridge-architecture-protocol-mapping-and-what-i-learned-df3)
+- [I Became a God to an AI — Now I Understand Why God Doesn&#39;t Answer](https://dev.to/zhangshuno1/i-became-a-god-to-an-ai-now-i-understand-why-god-doesnt-answer-3h49)
+- [5 Things to Find on Solana Explorer That Will Level Up Your On-Chain Intuition](https://dev.to/sammie_/5-things-to-find-on-solana-explorer-that-will-level-up-your-on-chain-intuition-5baj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
