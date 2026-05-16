@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reinforcement Learning with Neural Networks Part 6: Completing the Reinforcement Learning Process](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-6-completing-the-reinforcement-5g8b)
-- [SMM Turbo: Hybrid AI Instagram Editor via Gemma 4](https://dev.to/digital-abetka/smm-turbo-hybrid-ai-instagram-editor-via-gemma-4-5d7o)
-- [Capacitor Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/capacitor-live-updates-a-complete-guide-to-ota-updates-5fco)
-- [ASP .NET Core Bootstrap toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-570)
-- [The First Paid Agent Call Should Be Boring](https://dev.to/supertrained/the-first-paid-agent-call-should-be-boring-3ld)
+- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
+- [How I fixed a 0..1 brightness slider in vdu_controls &lpar;Philips Evnia DDC/CI bug&rpar;](https://dev.to/mammar/how-i-fixed-a-01-brightness-slider-in-vducontrols-philips-evnia-ddcci-bug-4fdg)
+- [Why we treat credits and wallets as first-class billing primitives](https://dev.to/arnon_shimoni_f734319d79c/why-we-treat-credits-and-wallets-as-first-class-billing-primitives-5872)
+- [I see Dead Internet Theory playing out in real-time on DEV](https://dev.to/best_codes/i-see-dead-internet-theory-playing-out-in-real-time-on-dev-2nb6)
+- [CyWire Master Prompts](https://dev.to/topwebworks/cywire-master-prompts-4pil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
