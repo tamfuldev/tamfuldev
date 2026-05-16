@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide on React cleanup function](https://dev.to/jaboarnoldlandry/ultimate-guide-on-react-cleanup-function-293k)
-- [How I Test My Node.js Apps: A Practical Guide &lpar;2026&rpar;](https://dev.to/armorbreak/how-i-test-my-nodejs-apps-a-practical-guide-2026-42i0)
-- [Catch docs-to-code drift in TypeScript PRs before merge](https://dev.to/fabibi/catch-docs-to-code-drift-in-typescript-prs-before-merge-1fkl)
-- [Hello, Donna &lpar;A new Programming Language&rpar;](https://dev.to/nikolas_skyl/hello-donna-a-new-programming-language-2a5k)
-- [Almost 8 Months Building Formgrid From Ghana: $86 MRR, 290+ Users, and What I Actually Learnt](https://dev.to/allenarduino/almost-8-months-building-formgrid-from-ghana-86-mrr-290-users-and-what-i-actually-learnt-4imp)
+- [Mapping the Shadows: RecomendeMe Intelligence and the Revolution in Combating Human Trafficking in Brazil](https://dev.to/sampseiol1/mapping-the-shadows-recomendeme-intelligence-and-the-revolution-in-combating-human-trafficking-in-7mk)
+- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
+- [How I reverse-engineered Playtomic&#39;s mobile payment API to build a padel court booking bot](https://dev.to/hadriel33/how-i-reverse-engineered-playtomics-mobile-payment-api-to-build-a-padel-court-booking-bot-5ehb)
+- [Beyond the Basics: Offline Models, Custom Signs, and Production Scaling &lpar;Part 4&rpar;](https://dev.to/_iametornam/beyond-the-basics-offline-models-custom-signs-and-production-scaling-part-4-b40)
+- [Real-Time APIs Are Simpler Than You Think: Redis, Lua, and 4k Updates/sec](https://dev.to/gauthamram_ravichandran/real-time-apis-are-simpler-than-you-think-redis-lua-and-4k-updatessec-30o3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
