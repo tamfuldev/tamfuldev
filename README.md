@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Scenes: Building &quot;Captain Cool&quot; — The Agentic Multi-Agent IPL Strategist Powered by Gemini](https://dev.to/muzammil_mulla_8f5efce546/behind-the-scenes-building-captain-cool-the-agentic-multi-agent-ipl-strategist-powered-by-4oil)
-- [Captain Cool: Building an Enterprise Multi-Agent IPL Match Strategist with Google Gemini 🏏🏆](https://dev.to/gaurav_shinde_7b5a0679994/captain-cool-building-an-enterprise-multi-agent-ipl-match-strategist-with-google-gemini-4h6m)
-- [🏏 Building “Captain Cool” — A Multi-Agent IPL Strategist Powered by Google Gemini](https://dev.to/prantik_chandra_e81b9b3cd/building-captain-cool-a-multi-agent-ipl-strategist-powered-by-google-gemini-3blo)
-- [I built a multi-agent IPL captain cool AI on Gemini](https://dev.to/uddhav_bhople/i-built-a-multi-agent-ipl-captain-ai-on-gemini-494p)
-- [Captain Cool: A Gemini Multi-Agent IPL Match Strategist](https://dev.to/abhishek_swami_7b02ecfd7c/captain-cool-a-gemini-multi-agent-ipl-match-strategist-4ai2)
+- [Creating Dynamic Lists in React: A Step-by-Step Guide](https://dev.to/amirahnasihah/creating-dynamic-lists-in-react-a-step-by-step-guide-5h33)
+- [Dev Retro 2022: My Story of Switching Careers as a Beginner Developer](https://dev.to/amirahnasihah/dev-retro-2022-my-story-of-switching-careers-as-a-beginner-developer-ldm)
+- [Event Handling for React Beginners - Tutorial Example Code](https://dev.to/amirahnasihah/event-handling-for-react-beginners-tutorial-example-code-2802)
+- [Week in review: a $25M validation, five posts, and the first measurable click](https://dev.to/barissozen/week-in-review-a-25m-validation-five-posts-and-the-first-measurable-click-43dm)
+- [React Tutorial Beginner - `useState` and `useEffect` with Example Code](https://dev.to/amirahnasihah/react-tutorial-beginner-usestate-and-useeffect-with-example-code-2l06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
