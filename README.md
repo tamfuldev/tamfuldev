@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Apply to 100 Jobs in One Afternoon &lpar;Without Sending Junk&rpar;](https://dev.to/amerinator/how-to-apply-to-100-jobs-in-one-afternoon-without-sending-junk-4c29)
-- [How ATS Actually Filters Your Resume &lpar;And What to Do About It&rpar;](https://dev.to/amerinator/how-ats-actually-filters-your-resume-and-what-to-do-about-it-3bbg)
-- [Designing a Production-Oriented RAG System for Technical Documentation](https://dev.to/prajwal_ee759ffa925a7429e/designing-a-production-oriented-rag-system-for-technical-documentation-11p3)
-- [Building in public, week 9: cross-links, positions going up, and 246 new dev.to followers in 7 days](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-9-cross-links-positions-going-up-and-246-new-devto-followers-in-7-days-5pb)
-- [How I keep LLMs on a tight leash and stopped hand-creating 30 GitHub issues in the process](https://dev.to/lfariaus/how-i-keep-llms-on-a-tight-leash-and-stopped-hand-creating-30-github-issues-in-the-process-52go)
+- [Teaching an AI to Pick Its Own Brain: Building Adaptive Model Routing](https://dev.to/wavebro_c996eee478a5ca541/teaching-an-ai-to-pick-its-own-brain-building-adaptive-model-routing-10n9)
+- [Bridging the Gap: My Journey from Curiosity to Full-Stack Engineering](https://dev.to/ayesha_shaik_a7253f323b3e/bridging-the-gap-my-journey-from-curiosity-to-full-stack-engineering-35a1)
+- [GraphQL Authorization Bypass: A Real CVE Code Review](https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh)
+- [La règle du jour-jeté-à-la-poubelle : lis le code avant de laisser ton IA en écrire](https://dev.to/michelfaure/la-regle-du-jour-jete-a-la-poubelle-lis-le-code-avant-de-laisser-ton-ia-en-ecrire-4col)
+- [The 1-day-thrown-away rule: read the code before letting your AI write new code](https://dev.to/michelfaure/the-1-day-thrown-away-rule-read-the-code-before-letting-your-ai-write-new-code-435a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
