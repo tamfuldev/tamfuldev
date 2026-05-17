@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Aggregate Benchmarks Lie. Here&#39;s What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
-- [Database Replication Lag: The Invisible Disaster](https://dev.to/merbayerp/database-replication-lag-the-invisible-disaster-2g3d)
-- [How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews](https://dev.to/ashish_kumarpandey_20a84/the-interview-prep-industry-is-broken-ai-is-finally-fixing-it-3hii)
-- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://dev.to/technoblogger14o3/zerostack-a-unix-inspired-coding-agent-written-in-pure-rust-1m9i)
-- [Why npm supply chain attacks keep happening and how to harden your installs](https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p)
+- [How I Automated Away My Weekly Status Reports with Next.js and Llama 3.1 🐈](https://dev.to/franciscolunadev82/how-i-automated-away-my-weekly-status-reports-with-nextjs-and-llama-31-409)
+- [Why Developers Should Learn How Systems Fail](https://dev.to/gustavowoltmann18/why-developers-should-learn-how-systems-fail-5hkm)
+- [How Misconfigured Docker Ports Bypass Every Firewall You Set Up - Stealthy vulnerability](https://dev.to/fatihsennik/how-misconfigured-docker-ports-bypass-every-firewall-you-set-up-stealthy-vulnerability-hfa)
+- [Per-Section Briefs: How to Stop AI Agents Losing the Plot at 2000 Words](https://dev.to/lukasz_blania_4b7d226fa2a/per-section-briefs-how-to-stop-ai-agents-losing-the-plot-at-2000-words-431o)
+- [Bonus : Règles du standard ERC-20](https://dev.to/amel_in_tech/bonus-regles-du-standard-erc-20-edm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
