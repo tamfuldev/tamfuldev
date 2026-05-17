@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching an AI to Pick Its Own Brain: Building Adaptive Model Routing](https://dev.to/wavebro_c996eee478a5ca541/teaching-an-ai-to-pick-its-own-brain-building-adaptive-model-routing-10n9)
-- [Bridging the Gap: My Journey from Curiosity to Full-Stack Engineering](https://dev.to/ayesha_shaik_a7253f323b3e/bridging-the-gap-my-journey-from-curiosity-to-full-stack-engineering-35a1)
-- [GraphQL Authorization Bypass: A Real CVE Code Review](https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh)
-- [La règle du jour-jeté-à-la-poubelle : lis le code avant de laisser ton IA en écrire](https://dev.to/michelfaure/la-regle-du-jour-jete-a-la-poubelle-lis-le-code-avant-de-laisser-ton-ia-en-ecrire-4col)
-- [The 1-day-thrown-away rule: read the code before letting your AI write new code](https://dev.to/michelfaure/the-1-day-thrown-away-rule-read-the-code-before-letting-your-ai-write-new-code-435a)
+- [The Hidden Cost of Every Query You Send](https://dev.to/talal_ahm2d/the-hidden-cost-of-every-query-you-send-5cnc)
+- [Laravel Starter Kit Localization Is Surprisingly Painful](https://dev.to/catatsumuri/laravel-starter-kit-localization-is-surprisingly-painful-2ipk)
+- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-3dap)
+- [Calling CUDA from Go without cgo](https://dev.to/eitamos_ring_0508146ca448/calling-cuda-from-go-without-cgo-1149)
+- [How to Write a Robots.txt File for Your Small Business Website](https://dev.to/auditmyadmin/how-to-write-a-robotstxt-file-for-your-small-business-website-5b4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
