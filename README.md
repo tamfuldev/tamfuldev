@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Every Query You Send](https://dev.to/talal_ahm2d/the-hidden-cost-of-every-query-you-send-5cnc)
-- [Laravel Starter Kit Localization Is Surprisingly Painful](https://dev.to/catatsumuri/laravel-starter-kit-localization-is-surprisingly-painful-2ipk)
-- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-3dap)
-- [Calling CUDA from Go without cgo](https://dev.to/eitamos_ring_0508146ca448/calling-cuda-from-go-without-cgo-1149)
-- [How to Write a Robots.txt File for Your Small Business Website](https://dev.to/auditmyadmin/how-to-write-a-robotstxt-file-for-your-small-business-website-5b4k)
+- [The AI Ghostwriter Experiment](https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a)
+- [Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective](https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea)
+- [I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes](https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7)
+- [React E-commerce App Is Invisible to Google - Here&#39;s Why &lpar;and the Fix&rpar;](https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f)
+- [Z3 Can Prove Your Cloud is Unsafe. It Can&#39;t Tell You Why.](https://dev.to/bala_paranj_059d338e44e7e/z3-can-prove-your-cloud-is-unsafe-it-cant-tell-you-why-48jh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
