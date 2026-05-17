@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSparrow – open-source admin panel builder, zero dependencies, v2.1 just dropped](https://dev.to/wrobeltomasz/opensparrow-open-source-admin-panel-builder-zero-dependencies-v21-just-dropped-38ag)
-- [Building AI Quality Checks for Construction Billing: Lessons from Real Pay Application Errors](https://dev.to/payapppro/building-ai-quality-checks-for-construction-billing-lessons-from-real-pay-application-errors-11ai)
-- [Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring](https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33)
-- [AWS Cloud Practitioner Exam - The Difficult Parts - Part 3: Storage and &lpar;some&rpar; Compute](https://dev.to/c_claven_03c4a41605f86c8e4/aws-cloud-practitioner-exam-the-difficult-parts-part-3-storage-and-some-compute-4ff8)
-- [Add PoW-skip + Lightning payments to any MCP server in 10 lines](https://dev.to/zekebuilds/add-pow-skip-lightning-payments-to-any-mcp-server-in-10-lines-1nac)
+- [CONNECTING POWER BI TO SQL](https://dev.to/moraa_omwoyo/connecting-power-bi-to-sql-4ocn)
+- [xAI open-sourced their ranker. It doesn&#39;t compile.](https://dev.to/roobie/xai-open-sourced-their-ranker-it-doesnt-compile-2gfj)
+- [Configuration in Go Should Be Typed: Introducing confkit](https://dev.to/alexanderglawk/configuration-in-go-should-be-typed-introducing-confkit-36eo)
+- [De Data-Chaos a Data-Driven Decisions: Pipeline ETL Automatizado en Microsoft Fabric y PowerBI](https://dev.to/evolve-space/de-data-chaos-a-data-driven-decisions-pipeline-etl-automatizado-en-microsoft-fabric-y-powerbi-3ce3)
+- [Title: I Built a Production GPU Energy Optimizer in One Day — From My Phone](https://dev.to/mikebains41debug/titlei-built-a-production-gpu-energy-optimizer-in-one-day-from-my-phone-1d2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
