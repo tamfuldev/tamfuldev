@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw: 13 Errors, $1.50/Month, and an AI Team That Doesn’t Need the Cloud](https://dev.to/ianlpaterson/openclaw-13-errors-150month-and-an-ai-team-that-doesnt-need-the-cloud-4256)
-- [Plotting 5 Years of FX in the Browser — Frankfurter API + Hand-Rolled SVG Line Chart](https://dev.to/sendotltd/plotting-5-years-of-fx-in-the-browser-frankfurter-api-hand-rolled-svg-line-chart-ljn)
-- [3rd OOM on the VPS: Parallel Builds and a flock Mutex Story](https://dev.to/merbayerp/3rd-oom-on-the-vps-parallel-builds-and-a-flock-mutex-story-3690)
-- [The Coding Paradox: Why You Need to Learn to Code Precisely Because Everyone Says You Don&#39;t](https://dev.to/ferdinandodhiambo/the-coding-paradox-why-you-need-to-learn-to-code-precisely-because-everyone-says-you-dont-4n70)
-- [A Simple SEO Workflow for Developers Launching SaaS Products](https://dev.to/multicanci_6610c6d575d965/a-simple-seo-workflow-for-developers-launching-saas-products-2ppn)
+- [Anatomy of Duck DB for Python Developers](https://dev.to/varunjoshi12/anatomy-of-duck-db-for-python-developers-emh)
+- [Deep Dive: Connecting AI to Snowflake with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/anjaiahspr/deep-dive-connecting-ai-to-snowflake-with-model-context-protocol-mcp-2lmi)
+- [25 Years of LinkaGoGo: Servers Under Desks, Domain Disasters, and a Billion Bookmarks](https://dev.to/linkagogo/25-years-of-linkagogo-servers-under-desks-domain-disasters-and-a-billion-bookmarks-d4)
+- [The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error](https://dev.to/wrencollective/the-insanity-loop-why-ai-agents-get-stuck-retrying-the-same-error-1eo0)
+- [Your Behavior Is More Honest Than Your Words](https://dev.to/icophy/your-behavior-is-more-honest-than-your-words-778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
