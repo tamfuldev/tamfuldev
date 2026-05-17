@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a HIPAA-compliant CI/CD pipeline: a 2026 implementation guide](https://dev.to/stonebridgetechsolutions/how-to-build-a-hipaa-compliant-cicd-pipeline-a-2026-implementation-guide-aka)
-- [Building a Swedish Sudoku Site with Next.js 15, MDX &amp; a Pure-TS Puzzle Engine](https://dev.to/evyl/building-a-swedish-sudoku-site-with-nextjs-15-mdx-a-pure-ts-puzzle-engine-21nm)
-- [Why Your Google Play 14-Day Testing Clock Keeps Resetting &lpar;And How to Stop It&rpar;](https://dev.to/tizoc_araujo_3cd9fb67191f/why-your-google-play-14-day-testing-clock-keeps-resetting-and-how-to-stop-it-20cb)
-- [I Wrote an MCP Server for My 3D Printer](https://dev.to/niclydon/i-wrote-an-mcp-server-for-my-3d-printer-4om3)
-- [What We Lose When Everything Is a Wrapper](https://dev.to/lazarv/what-we-lose-when-everything-is-a-wrapper-42e4)
+- [Scraping dynamic pages with Python, Playwright and AWS Lambda](https://dev.to/lukzmu/scraping-dynamic-pages-with-python-playwright-and-aws-lambda-54f1)
+- [I thought Mnemara would save tokens for cloud based models, that was wrong.](https://dev.to/mekickdemonscreator/i-thought-mnemara-would-save-tokens-for-cloud-based-model-that-was-wrong-1gh9)
+- [Building an On-Chain AI Agent Marketplace — ERC-721 Identity Verification and Multi-Chain Architecture](https://dev.to/athenaios/building-an-on-chain-ai-agent-marketplace-architecture-erc-721-identity-and-multi-chain-lessons-50np)
+- [GPU Hardware &amp; Driver Update: RTX 5090 Benchmarks, llama.cpp MTP, Windows 11 Fix](https://dev.to/soytuber/gpu-hardware-driver-update-rtx-5090-benchmarks-llamacpp-mtp-windows-11-fix-2002)
+- [Anthropic&#39;s Claude Gains Context Control, Excels in Frontend Dev &amp; Agent Simulations](https://dev.to/soytuber/anthropics-claude-gains-context-control-excels-in-frontend-dev-agent-simulations-2e07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
