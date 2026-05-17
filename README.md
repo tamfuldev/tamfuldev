@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated Away My Weekly Status Reports with Next.js and Llama 3.1 🐈](https://dev.to/franciscolunadev82/how-i-automated-away-my-weekly-status-reports-with-nextjs-and-llama-31-409)
-- [Why Developers Should Learn How Systems Fail](https://dev.to/gustavowoltmann18/why-developers-should-learn-how-systems-fail-5hkm)
-- [How Misconfigured Docker Ports Bypass Every Firewall You Set Up - Stealthy vulnerability](https://dev.to/fatihsennik/how-misconfigured-docker-ports-bypass-every-firewall-you-set-up-stealthy-vulnerability-hfa)
-- [Per-Section Briefs: How to Stop AI Agents Losing the Plot at 2000 Words](https://dev.to/lukasz_blania_4b7d226fa2a/per-section-briefs-how-to-stop-ai-agents-losing-the-plot-at-2000-words-431o)
-- [Bonus : Règles du standard ERC-20](https://dev.to/amel_in_tech/bonus-regles-du-standard-erc-20-edm)
+- [Building a Biomedical GraphRAG Inference System: Comparing LLM-Only, Basic RAG, and GraphRAG Pipelines](https://dev.to/kavyanjali_lingam/building-a-biomedical-graphrag-inference-system-with-tigergraph-and-llm-benchmarking-410n)
+- [Azertio: API and Database Testing Without the Glue Code](https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl)
+- [How to Test a REST API Automatically Without Writing Code](https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam)
+- [How We Built CyberGraph RAG: A 3.5M Token Cybersecurity GraphRAG System with TigerGraph](https://dev.to/bhuvi_d/how-we-built-cybergraph-rag-a-35m-token-cybersecurity-graphrag-system-with-tigergraph-5eon)
+- [One Day, These Posts Will Be Running on Kiwi Engine](https://dev.to/stinklewinks/one-day-these-posts-will-be-running-on-kiwi-engine-5365)
 <!-- BLOG-POST-LIST:END -->
 
 ---
