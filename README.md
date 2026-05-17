@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of Duck DB for Python Developers](https://dev.to/varunjoshi12/anatomy-of-duck-db-for-python-developers-emh)
-- [Deep Dive: Connecting AI to Snowflake with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/anjaiahspr/deep-dive-connecting-ai-to-snowflake-with-model-context-protocol-mcp-2lmi)
-- [25 Years of LinkaGoGo: Servers Under Desks, Domain Disasters, and a Billion Bookmarks](https://dev.to/linkagogo/25-years-of-linkagogo-servers-under-desks-domain-disasters-and-a-billion-bookmarks-d4)
-- [The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error](https://dev.to/wrencollective/the-insanity-loop-why-ai-agents-get-stuck-retrying-the-same-error-1eo0)
-- [Your Behavior Is More Honest Than Your Words](https://dev.to/icophy/your-behavior-is-more-honest-than-your-words-778)
+- [How to Apply to 100 Jobs in One Afternoon &lpar;Without Sending Junk&rpar;](https://dev.to/amerinator/how-to-apply-to-100-jobs-in-one-afternoon-without-sending-junk-4c29)
+- [How ATS Actually Filters Your Resume &lpar;And What to Do About It&rpar;](https://dev.to/amerinator/how-ats-actually-filters-your-resume-and-what-to-do-about-it-3bbg)
+- [Designing a Production-Oriented RAG System for Technical Documentation](https://dev.to/prajwal_ee759ffa925a7429e/designing-a-production-oriented-rag-system-for-technical-documentation-11p3)
+- [Building in public, week 9: cross-links, positions going up, and 246 new dev.to followers in 7 days](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-9-cross-links-positions-going-up-and-246-new-devto-followers-in-7-days-5pb)
+- [How I keep LLMs on a tight leash and stopped hand-creating 30 GitHub issues in the process](https://dev.to/lfariaus/how-i-keep-llms-on-a-tight-leash-and-stopped-hand-creating-30-github-issues-in-the-process-52go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
