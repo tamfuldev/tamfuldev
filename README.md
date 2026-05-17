@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Ghostwriter Experiment](https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a)
-- [Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective](https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea)
-- [I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes](https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7)
-- [React E-commerce App Is Invisible to Google - Here&#39;s Why &lpar;and the Fix&rpar;](https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f)
-- [Z3 Can Prove Your Cloud is Unsafe. It Can&#39;t Tell You Why.](https://dev.to/bala_paranj_059d338e44e7e/z3-can-prove-your-cloud-is-unsafe-it-cant-tell-you-why-48jh)
+- [Behind the Scenes: Building &quot;Captain Cool&quot; — The Agentic Multi-Agent IPL Strategist Powered by Gemini](https://dev.to/muzammil_mulla_8f5efce546/behind-the-scenes-building-captain-cool-the-agentic-multi-agent-ipl-strategist-powered-by-4oil)
+- [Captain Cool: Building an Enterprise Multi-Agent IPL Match Strategist with Google Gemini 🏏🏆](https://dev.to/gaurav_shinde_7b5a0679994/captain-cool-building-an-enterprise-multi-agent-ipl-match-strategist-with-google-gemini-4h6m)
+- [🏏 Building “Captain Cool” — A Multi-Agent IPL Strategist Powered by Google Gemini](https://dev.to/prantik_chandra_e81b9b3cd/building-captain-cool-a-multi-agent-ipl-strategist-powered-by-google-gemini-3blo)
+- [I built a multi-agent IPL captain cool AI on Gemini](https://dev.to/uddhav_bhople/i-built-a-multi-agent-ipl-captain-ai-on-gemini-494p)
+- [Captain Cool: A Gemini Multi-Agent IPL Match Strategist](https://dev.to/abhishek_swami_7b02ecfd7c/captain-cool-a-gemini-multi-agent-ipl-match-strategist-4ai2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
