@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m tired of managing 4 different API keys for different AI models. Here&#39;s my fix.](https://dev.to/sbt112321321/im-tired-of-managing-4-different-api-keys-for-different-ai-models-heres-my-fix-42jb)
-- [From logic Apps to Workflows and what it means](https://dev.to/wyattdave/from-logic-apps-to-workflows-and-what-it-means-4ook)
-- [I Built PentestScan: A Simple Web &amp; API Security Scanner for Developers and Small Teams](https://dev.to/xil/i-built-pentestscan-a-simple-web-api-security-scanner-for-developers-and-small-teams-38km)
-- [Blazingly Fast Ecommerce Stack for Less Than a Coffee a Month — No Marketplace, No Platform Cut](https://dev.to/dbartalos/blazingly-fast-ecommerce-stack-for-less-than-a-coffee-a-month-no-marketplace-no-platform-cut-59dn)
-- [Chunking in RAG: why your splitter matters more than your embedding model](https://dev.to/saurabh_naik_b213f3bbeafe/chunking-in-rag-why-your-splitter-matters-more-than-your-embedding-model-3o19)
+- [Why Your AI Voiceovers Sounds Robotic &lpar;And How to Fix Them&rpar;](https://dev.to/ezinne_anne/why-your-ai-voiceovers-sounds-robotic-and-how-to-fix-them-4ga3)
+- [How we engineered a better Next.js theme library](https://dev.to/thekadhikari/how-we-engineered-a-better-nextjs-theme-library-34bg)
+- [Why production RAG fails — and the boring metrics that fix it](https://dev.to/saurabh_naik_b213f3bbeafe/why-production-rag-fails-and-the-boring-metrics-that-fix-it-5co4)
+- [I Rebuilt My Next.js Starter From Scratch on Next 16 — Here&#39;s Every Decision I Made &lpar;and Why&rpar;](https://dev.to/thekadhikari/i-rebuilt-my-nextjs-starter-from-scratch-on-next-16-heres-every-decision-i-made-and-why-1j2)
+- [Why Realtime Voice AI Could Be The Next Big Shift After Chatbots](https://dev.to/dhruvjoshi9/why-realtime-voice-ai-could-be-the-next-big-shift-after-chatbots-24mn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
