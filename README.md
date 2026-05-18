@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a super-efficient Valid Palindrome algorithm in C#](https://dev.to/zangassis/creating-a-super-efficient-valid-palindrome-algorithm-in-c-49n0)
-- [I Got Sick of My Claude Code UI Slop, So I Crystallized It into a Go CLI](https://dev.to/alexander_mia_9/i-got-sick-of-my-claude-code-ui-slop-so-i-crystallized-it-into-a-go-cli-2hni)
-- [IBM Bob writes a Vault secrets engine](https://dev.to/joatmon08/ibm-bob-writes-a-vault-secrets-engine-1l7)
-- [# 🚀 Gemma Doc Pro: Privacy-First Codebase Intelligence Dashboard](https://dev.to/sayista_yazdani_3c0e9f4f9/-gemma-doc-pro-privacy-first-codebase-intelligence-dashboard-4c1o)
-- [Trash Compactor](https://dev.to/rmion/trash-compactor-2pe6)
+- [GitHub&#39;s New Billing Model Changes Everything About Agentic Development](https://dev.to/htekdev/githubs-new-billing-model-changes-everything-about-agentic-development-437b)
+- [Codex Chronicle was paying for every frame.](https://dev.to/niclydon/codex-chronicle-was-paying-for-every-frame-i-built-a-four-sensor-gemma-4-replacement-on-a-mac-mini-55e7)
+- [Immutability - Not a Universal Law but a Trade-off part 2](https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-part-2-20c2)
+- [Let Your AI Agent Scaffold Apps With seed4j-mcp](https://dev.to/avdev4j/let-your-ai-agent-scaffold-apps-with-seed4j-mcp-344l)
+- [I built a platform where people compare things and predict the majority](https://dev.to/konrazem/i-built-a-platform-where-people-compare-things-and-predict-the-majority-4mdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
