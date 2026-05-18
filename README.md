@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Voiceovers Sounds Robotic &lpar;And How to Fix Them&rpar;](https://dev.to/ezinne_anne/why-your-ai-voiceovers-sounds-robotic-and-how-to-fix-them-4ga3)
-- [How we engineered a better Next.js theme library](https://dev.to/thekadhikari/how-we-engineered-a-better-nextjs-theme-library-34bg)
-- [Why production RAG fails — and the boring metrics that fix it](https://dev.to/saurabh_naik_b213f3bbeafe/why-production-rag-fails-and-the-boring-metrics-that-fix-it-5co4)
-- [I Rebuilt My Next.js Starter From Scratch on Next 16 — Here&#39;s Every Decision I Made &lpar;and Why&rpar;](https://dev.to/thekadhikari/i-rebuilt-my-nextjs-starter-from-scratch-on-next-16-heres-every-decision-i-made-and-why-1j2)
-- [Why Realtime Voice AI Could Be The Next Big Shift After Chatbots](https://dev.to/dhruvjoshi9/why-realtime-voice-ai-could-be-the-next-big-shift-after-chatbots-24mn)
+- [[.NET] Streamline Your DTOs with DKNet.EfCore.DtoGenerator](https://dev.to/baoduy2412/net-streamline-your-dtos-with-dknetefcoredtogenerator-3kbo)
+- [How I run multiple AI coding agents without destroying my repo](https://dev.to/__6f4df0d6bb599/how-i-run-multiple-ai-coding-agents-without-destroying-my-repo-5a26)
+- [Threat modeling LLM apps with the CIA triad and OWASP Top 10](https://dev.to/toxsec/threat-modeling-llm-apps-with-the-cia-triad-and-owasp-top-10-2nen)
+- [I Used to Love Python&#39;s Magic. Now I Default to Go.](https://dev.to/alexander_mia_9/i-used-to-love-pythons-magic-now-i-default-to-go-4pi0)
+- [[.NET] Aspire, Simplifying Local Development Environment and Testing.](https://dev.to/baoduy2412/net-aspire-simplifying-local-development-environment-and-testing-an8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
