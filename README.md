@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Even Without Typing a Command — Understanding What show vlan Actually Shows](https://dev.to/taqq/even-without-typing-a-command-understanding-what-show-vlan-actually-shows-f82)
-- [Supply Chain Attacks Aren&#39;t Just a Big Library Problem — Here&#39;s What You Can Do Today](https://dev.to/luzaramburo/supply-chain-attacks-arent-just-a-big-library-problem-heres-what-you-can-do-today-1jbg)
-- [Cleaning Messy Phone Numbers in PostgreSQL Using REGEXP_REPLACE](https://dev.to/sharonnyabuto/cleaning-messy-phone-numbers-in-postgresql-using-regexp-replace-3n83)
-- [I don&#39;t want to be a programmer, I want to remind developers that they are failing us and they must take action](https://dev.to/alyghaly2020/i-dont-want-to-be-a-programmer-i-want-to-remind-developers-that-they-are-failing-us-and-they-must-1aj4)
-- [Production Ready NestJS Microservice Setup with Candy-Nest-CLI 🍬](https://dev.to/ashish_kushwaha/automating-nestjs-microservice-setup-with-candy-nest-cli-2ig9)
+- [🧭Diseñando VPCs en AWS: patrones reales &lpar;hub-spoke, mesh, multi-account&rpar;.](https://dev.to/oscar_gaviria_2b862594738/disenando-vpcs-en-aws-patrones-reales-hub-spoke-mesh-multi-account-3953)
+- [CrawlForge v4.2.2: New CLI + 3 Tools for Local AI Scraping](https://dev.to/simon_crawlforge_dev/crawlforge-v422-new-cli-3-tools-for-local-ai-scraping-5954)
+- [Hushh Open Source Hiring Challenge 2026: contribute to Kai or hushhTech](https://dev.to/ankit_kumarsingh_8f19945/hushh-open-source-hiring-challenge-2026-contribute-to-kai-or-hushhtech-2agj)
+- [The second-order cost of a&lpar;nother&rpar; layoff year.](https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl)
+- [FMix: пакетный менеджер для Forth](https://dev.to/ua3mqj/fmix-pakietnyi-mieniedzhier-dlia-forth-o3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
