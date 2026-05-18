@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Web3 Threat Intelligence Oracle Powered by Gemma 4](https://dev.to/james-kabingu/i-built-a-web3-threat-intelligence-oracle-powered-by-gemma-4-283p)
-- [Your ICP Is a Trap](https://dev.to/michal_szalinski_91bf893d/your-icp-is-a-trap-3i3o)
-- [MCP Tool Output Budget Checklist](https://dev.to/supertrained/mcp-tool-output-budget-checklist-47c1)
-- [Open VSX vs VS Code Marketplace — where should you publish your extension first?](https://dev.to/sidikiconde/-open-vsx-vs-vs-code-marketplace-where-should-you-publish-your-extension-first-2eep)
-- [How to Set Up a Free SCADA System in 5 Minutes &lpar;No Installation Required&rpar;](https://dev.to/__b4cc59/how-to-set-up-a-free-scada-system-in-5-minutes-no-installation-required-2opb)
+- [What channel are Email and SMS in GA4 — Google&#39;s official spec has the answer](https://dev.to/toshihiro_shishido/what-channel-are-email-and-sms-in-ga4-googles-official-spec-has-the-answer-5d51)
+- [Stop Re-Explaining Your Codebase to AI Every Single Session](https://dev.to/zephex/stop-re-explaining-your-codebase-to-ai-every-single-session-45o2)
+- [npm Supply Chain Attacks: Why They Keep Happening and How to Defend](https://dev.to/pickuma/npm-supply-chain-attacks-why-they-keep-happening-and-how-to-defend-3dnf)
+- [Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn](https://dev.to/childrentime/timers-in-react-without-settimeout-usetimeout-useinterval-usecountdown-and-useraffn-3oe1)
+- [How I stopped collecting random agent skills and started building reusable workflow collections](https://dev.to/captainchaozi/how-i-stopped-collecting-random-agent-skills-and-started-building-reusable-workflow-collections-55na)
 <!-- BLOG-POST-LIST:END -->
 
 ---
