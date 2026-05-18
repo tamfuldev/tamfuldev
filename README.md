@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What channel are Email and SMS in GA4 — Google&#39;s official spec has the answer](https://dev.to/toshihiro_shishido/what-channel-are-email-and-sms-in-ga4-googles-official-spec-has-the-answer-5d51)
-- [Stop Re-Explaining Your Codebase to AI Every Single Session](https://dev.to/zephex/stop-re-explaining-your-codebase-to-ai-every-single-session-45o2)
-- [npm Supply Chain Attacks: Why They Keep Happening and How to Defend](https://dev.to/pickuma/npm-supply-chain-attacks-why-they-keep-happening-and-how-to-defend-3dnf)
-- [Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn](https://dev.to/childrentime/timers-in-react-without-settimeout-usetimeout-useinterval-usecountdown-and-useraffn-3oe1)
-- [How I stopped collecting random agent skills and started building reusable workflow collections](https://dev.to/captainchaozi/how-i-stopped-collecting-random-agent-skills-and-started-building-reusable-workflow-collections-55na)
+- [I&#39;m tired of managing 4 different API keys for different AI models. Here&#39;s my fix.](https://dev.to/sbt112321321/im-tired-of-managing-4-different-api-keys-for-different-ai-models-heres-my-fix-42jb)
+- [From logic Apps to Workflows and what it means](https://dev.to/wyattdave/from-logic-apps-to-workflows-and-what-it-means-4ook)
+- [I Built PentestScan: A Simple Web &amp; API Security Scanner for Developers and Small Teams](https://dev.to/xil/i-built-pentestscan-a-simple-web-api-security-scanner-for-developers-and-small-teams-38km)
+- [Blazingly Fast Ecommerce Stack for Less Than a Coffee a Month — No Marketplace, No Platform Cut](https://dev.to/dbartalos/blazingly-fast-ecommerce-stack-for-less-than-a-coffee-a-month-no-marketplace-no-platform-cut-59dn)
+- [Chunking in RAG: why your splitter matters more than your embedding model](https://dev.to/saurabh_naik_b213f3bbeafe/chunking-in-rag-why-your-splitter-matters-more-than-your-embedding-model-3o19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
