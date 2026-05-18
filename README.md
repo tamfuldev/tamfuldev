@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub&#39;s New Billing Model Changes Everything About Agentic Development](https://dev.to/htekdev/githubs-new-billing-model-changes-everything-about-agentic-development-437b)
-- [Codex Chronicle was paying for every frame.](https://dev.to/niclydon/codex-chronicle-was-paying-for-every-frame-i-built-a-four-sensor-gemma-4-replacement-on-a-mac-mini-55e7)
-- [Immutability - Not a Universal Law but a Trade-off part 2](https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-part-2-20c2)
-- [Let Your AI Agent Scaffold Apps With seed4j-mcp](https://dev.to/avdev4j/let-your-ai-agent-scaffold-apps-with-seed4j-mcp-344l)
-- [I built a platform where people compare things and predict the majority](https://dev.to/konrazem/i-built-a-platform-where-people-compare-things-and-predict-the-majority-4mdm)
+- [Even Without Typing a Command — Understanding What show vlan Actually Shows](https://dev.to/taqq/even-without-typing-a-command-understanding-what-show-vlan-actually-shows-f82)
+- [Supply Chain Attacks Aren&#39;t Just a Big Library Problem — Here&#39;s What You Can Do Today](https://dev.to/luzaramburo/supply-chain-attacks-arent-just-a-big-library-problem-heres-what-you-can-do-today-1jbg)
+- [Cleaning Messy Phone Numbers in PostgreSQL Using REGEXP_REPLACE](https://dev.to/sharonnyabuto/cleaning-messy-phone-numbers-in-postgresql-using-regexp-replace-3n83)
+- [I don&#39;t want to be a programmer, I want to remind developers that they are failing us and they must take action](https://dev.to/alyghaly2020/i-dont-want-to-be-a-programmer-i-want-to-remind-developers-that-they-are-failing-us-and-they-must-1aj4)
+- [Production Ready NestJS Microservice Setup with Candy-Nest-CLI 🍬](https://dev.to/ashish_kushwaha/automating-nestjs-microservice-setup-with-candy-nest-cli-2ig9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
