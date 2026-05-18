@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [El mito del &quot;Programador Obsoleto&quot; y las promesas de internet](https://dev.to/fulco_dev/el-mito-del-programador-obsoleto-y-las-promesas-de-internet-3eo0)
-- [How We Built Our Own Incident Management System](https://dev.to/samson_tanimawo/how-we-built-our-own-incident-management-system-1i9d)
-- [Open Source MTA Showdown: KumoMTA vs Postfix vs...](https://dev.to/dhiraj_chatpar_e54b46b388/open-source-mta-showdown-kumomta-vs-postfix-vs-35nl)
-- [I red-teamed Oracle APEX 26.1&#39;s new AI Agent feature in the 72 hours after it went GA. Claude refused 7 of my 10 attacks on its own.](https://dev.to/rkondoju/i-red-teamed-oracle-apex-261s-new-ai-agent-feature-in-the-72-hours-after-it-went-ga-claude-455m)
-- [Why Naive RAG is Dead: I built a zero-dependency C# Semantic Tree Parser](https://dev.to/iancowley/why-naive-rag-is-dead-i-built-a-zero-dependency-c-semantic-tree-parser-2ph8)
+- [Creating a super-efficient Valid Palindrome algorithm in C#](https://dev.to/zangassis/creating-a-super-efficient-valid-palindrome-algorithm-in-c-49n0)
+- [I Got Sick of My Claude Code UI Slop, So I Crystallized It into a Go CLI](https://dev.to/alexander_mia_9/i-got-sick-of-my-claude-code-ui-slop-so-i-crystallized-it-into-a-go-cli-2hni)
+- [IBM Bob writes a Vault secrets engine](https://dev.to/joatmon08/ibm-bob-writes-a-vault-secrets-engine-1l7)
+- [# 🚀 Gemma Doc Pro: Privacy-First Codebase Intelligence Dashboard](https://dev.to/sayista_yazdani_3c0e9f4f9/-gemma-doc-pro-privacy-first-codebase-intelligence-dashboard-4c1o)
+- [Trash Compactor](https://dev.to/rmion/trash-compactor-2pe6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
