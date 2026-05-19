@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a 6-node 12-GPU on-prem AI cluster running 1000+ agents](https://dev.to/turbo31150/how-i-built-a-6-node-12-gpu-on-prem-ai-cluster-running-1000-agents-3203)
-- [Launching content-distribution-mcp: one finished post, eight channels](https://dev.to/ratamaha/launching-content-distribution-mcp-one-finished-post-eight-channels-2eme)
-- [How to refine Hope AI output after the initial generation](https://dev.to/hackmamba/how-to-refine-hope-ai-output-after-the-initial-generation-59mn)
-- [The Three-Layer Architecture That Makes Software Production-Ready](https://dev.to/hackmamba/the-three-layer-architecture-that-makes-software-production-ready-2pdh)
-- [[Boost]](https://dev.to/asaoluelijah/-42d)
+- [Anthropic just proved agent commerce works. Their own data shows why verification infrastructure needs to exist.](https://dev.to/gengeo-ai/anthropic-just-proved-agent-commerce-works-their-own-data-shows-why-verification-infrastructure-48fh)
+- [3 takeaways from the IO &#39;26 developer keynote](https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2)
+- [The Engineer Atlassian Laid Off Who Responded with a 38-Minute Documentary: What Every Leader Must Learn](https://dev.to/guayoyo_tech/the-engineer-atlassian-laid-off-who-responded-with-a-38-minute-documentary-what-every-leader-must-552f)
+- [El Ingeniero que Atlassian Despidió y Respondió con un Documental de 38 Minutos: Lo que Todo Líder Debe Aprender](https://dev.to/guayoyo_tech/el-ingeniero-que-atlassian-despidio-y-respondio-con-un-documental-de-38-minutos-lo-que-todo-lider-9he)
+- [Meet @vysmo/text - 243 text animation presets in 3 KB](https://dev.to/thomasdolso/meet-vysmotext-243-text-animation-presets-in-3-kb-2318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
