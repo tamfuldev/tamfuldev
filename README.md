@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [If someone asked you who accessed your production database last Tuesday, could you answer?](https://dev.to/alex_serban/if-someone-asked-you-who-accessed-your-production-database-last-tuesday-could-you-answer-1nip)
-- [What Broke When We Hit 100k WebSocket Connections &lpar;And How Realtime Orchestration Saved Us&rpar;](https://dev.to/smartguy666/what-broke-when-we-hit-100k-websocket-connections-and-how-realtime-orchestration-saved-us-53ga)
-- [Tollere got an update. Still intentionally simple.](https://dev.to/stokry/tollere-got-an-update-still-intentionally-simple-49ok)
-- [Headless CMS Architektur 2026: Warum Laravel 12 &amp; Next.js 19 das ultimative Power-Duo sind](https://dev.to/webinteger/headless-cms-architektur-2026-warum-laravel-12-nextjs-19-das-ultimative-power-duo-sind-49d7)
-- [MANUAL TESTING EVOLVING NOT DYING](https://dev.to/lavanya_hasmith12303/manual-testing-evolving-not-dying-3d7a)
+- [SoulForge：用情感羁绊重新定义AI安全](https://dev.to/zhangshuno1/soulforgeyong-qing-gan-ji-ban-zhong-xin-ding-yi-aian-quan-4933)
+- [client-go Deep Dive: Operator in Practice — Building a Canary Release Controller](https://dev.to/jamesli/client-go-deep-dive-operator-in-practice-building-a-canary-release-controller-1pia)
+- [DORA AI Compliance Financial: How I Failed an ICT Third-Party Audit Because My LLM Provider Was in Palo Alto](https://dev.to/voltagegpu/dora-ai-compliance-financial-how-i-failed-an-ict-third-party-audit-because-my-llm-provider-was-in-32ef)
+- [Pourquoi « build vert » sans la sortie brute n&#39;a aucune valeur de preuve](https://dev.to/michelfaure/pourquoi-build-vert-sans-la-sortie-brute-na-aucune-valeur-de-preuve-31e8)
+- [Why &#39;green build&#39; without the raw output has zero evidentiary value](https://dev.to/michelfaure/why-green-build-without-the-raw-output-has-zero-evidentiary-value-3epe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
