@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking five live translation systems with an open-source eval harness &lpar;including OpenAI&#39;s GPT-Realtime-Translate&rpar;](https://dev.to/yahya_saleh_d157cf3d7fe2e/benchmarking-five-live-translation-systems-with-an-open-source-eval-harness-including-openais-11l7)
-- [Sub-Agents vs Tools: ADK Multi-Agent Decision Framework](https://dev.to/buoyantcloudinc/sub-agents-vs-tools-adk-multi-agent-decision-framework-55ih)
-- [Pick the Right HTDemucs Model in Python — Query 800 MUSDB18-HQ Scores on Hugging Face &lpar;2026&rpar;](https://dev.to/stevecase430/pick-the-right-htdemucs-model-in-python-query-800-musdb18-hq-scores-on-hugging-face-2026-1a47)
-- [Frameworks matter more in the age of AI](https://dev.to/codingnninja/frameworks-matter-more-in-the-age-of-ai-3i62)
-- [I Built a Content Agent That Remembers Everything — Now I Can&#39;t Ghost It](https://dev.to/jdeep1234/i-built-a-content-agent-that-remembers-everything-now-i-cant-ghost-it-3fd2)
+- [# Day 5 of learning AI Engineering: built a small RAG app over a PDF](https://dev.to/suraj_bera/-day-5-of-learning-ai-engineering-built-a-small-rag-app-over-a-pdf-j7p)
+- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
+- [Is productivity understood in the same way by managers and developers?](https://dev.to/matiii_faro/is-productivity-understood-in-the-same-way-by-managers-and-developers-168o)
+- [You Got an ADA Demand Letter. Now What?](https://dev.to/lawebe/you-got-an-ada-demand-letter-now-what-3c5p)
+- [BriefOps AI](https://dev.to/hoangndst/briefops-ai-2a40)
 <!-- BLOG-POST-LIST:END -->
 
 ---
