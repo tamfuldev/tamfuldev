@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧭Diseñando VPCs en AWS: patrones reales &lpar;hub-spoke, mesh, multi-account&rpar;.](https://dev.to/oscar_gaviria_2b862594738/disenando-vpcs-en-aws-patrones-reales-hub-spoke-mesh-multi-account-3953)
-- [CrawlForge v4.2.2: New CLI + 3 Tools for Local AI Scraping](https://dev.to/simon_crawlforge_dev/crawlforge-v422-new-cli-3-tools-for-local-ai-scraping-5954)
-- [Hushh Open Source Hiring Challenge 2026: contribute to Kai or hushhTech](https://dev.to/ankit_kumarsingh_8f19945/hushh-open-source-hiring-challenge-2026-contribute-to-kai-or-hushhtech-2agj)
-- [The second-order cost of a&lpar;nother&rpar; layoff year.](https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl)
-- [FMix: пакетный менеджер для Forth](https://dev.to/ua3mqj/fmix-pakietnyi-mieniedzhier-dlia-forth-o3p)
+- [Deploying StockUp: A Step-by-Step Guide](https://dev.to/puslore/deploying-stockup-a-step-by-step-guide-4nkk)
+- [Linear Search vs Binary Search — Differences, Code &amp; Complexity](https://dev.to/bitveen/linear-search-vs-binary-search-differences-code-complexity-2ken)
+- [Part I: Don&#39;t Wait for Data. Render What You Know.](https://dev.to/pratik_goswami_7f7dd0c3c0/part-i-dont-wait-for-data-render-what-you-know-4gaa)
+- [ให้ AI พูดภาษาไทยได้ด้วย Garudust Agent + iApp TTS](https://dev.to/garudust/aih-ai-phuudphaasaaaithyaiddwy-garudust-agent-iapp-tts-35n2)
+- [AI Red-Teaming Techniques: A Practical Starting Point for Security Teams](https://dev.to/cgivre/ai-red-teaming-techniques-a-practical-starting-point-for-security-teams-4nh9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
