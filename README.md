@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Day 5 of learning AI Engineering: built a small RAG app over a PDF](https://dev.to/suraj_bera/-day-5-of-learning-ai-engineering-built-a-small-rag-app-over-a-pdf-j7p)
-- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
-- [Is productivity understood in the same way by managers and developers?](https://dev.to/matiii_faro/is-productivity-understood-in-the-same-way-by-managers-and-developers-168o)
-- [You Got an ADA Demand Letter. Now What?](https://dev.to/lawebe/you-got-an-ada-demand-letter-now-what-3c5p)
-- [BriefOps AI](https://dev.to/hoangndst/briefops-ai-2a40)
+- [How I built a 6-node 12-GPU on-prem AI cluster running 1000+ agents](https://dev.to/turbo31150/how-i-built-a-6-node-12-gpu-on-prem-ai-cluster-running-1000-agents-3203)
+- [Launching content-distribution-mcp: one finished post, eight channels](https://dev.to/ratamaha/launching-content-distribution-mcp-one-finished-post-eight-channels-2eme)
+- [How to refine Hope AI output after the initial generation](https://dev.to/hackmamba/how-to-refine-hope-ai-output-after-the-initial-generation-59mn)
+- [The Three-Layer Architecture That Makes Software Production-Ready](https://dev.to/hackmamba/the-three-layer-architecture-that-makes-software-production-ready-2pdh)
+- [[Boost]](https://dev.to/asaoluelijah/-42d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
