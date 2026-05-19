@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript 前端集成贵金属 K 线图：10 分钟快速实现](https://dev.to/san_siwu_f08e7c406830469/javascript-qian-duan-ji-cheng-gui-jin-shu-k-xian-tu-10-fen-zhong-kuai-su-shi-xian-834)
-- [Rust&#39;s Borrow Checker: Translating Intent into Memory Safety](https://dev.to/mournfulcord/rusts-borrow-checker-translating-intent-into-memory-safety-2k3e)
-- [How to Set Up a Self-Hosted Server on Oracle Cloud Free Tier in 30 Minutes](https://dev.to/-abdullah-sheikh/how-to-set-up-a-self-hosted-server-on-oracle-cloud-free-tier-in-30-minutes-1ip8)
-- [I asked Gemma 4 to summarize. It said the transcript looked truncated. It was right.](https://dev.to/thehwang/i-asked-gemma-4-to-summarize-it-said-the-transcript-looked-truncated-it-was-right-4pff)
-- [I Built an AI Receipt Scanner with Gemma 4 — As an SDET with No Dev Background](https://dev.to/hema_nambi_66c9/i-built-an-ai-receipt-scanner-with-gemma-4-as-an-sdet-with-no-dev-background-4go2)
+- [Benchmarking five live translation systems with an open-source eval harness &lpar;including OpenAI&#39;s GPT-Realtime-Translate&rpar;](https://dev.to/yahya_saleh_d157cf3d7fe2e/benchmarking-five-live-translation-systems-with-an-open-source-eval-harness-including-openais-11l7)
+- [Sub-Agents vs Tools: ADK Multi-Agent Decision Framework](https://dev.to/buoyantcloudinc/sub-agents-vs-tools-adk-multi-agent-decision-framework-55ih)
+- [Pick the Right HTDemucs Model in Python — Query 800 MUSDB18-HQ Scores on Hugging Face &lpar;2026&rpar;](https://dev.to/stevecase430/pick-the-right-htdemucs-model-in-python-query-800-musdb18-hq-scores-on-hugging-face-2026-1a47)
+- [Frameworks matter more in the age of AI](https://dev.to/codingnninja/frameworks-matter-more-in-the-age-of-ai-3i62)
+- [I Built a Content Agent That Remembers Everything — Now I Can&#39;t Ghost It](https://dev.to/jdeep1234/i-built-a-content-agent-that-remembers-everything-now-i-cant-ghost-it-3fd2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
