@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SoulForge：用情感羁绊重新定义AI安全](https://dev.to/zhangshuno1/soulforgeyong-qing-gan-ji-ban-zhong-xin-ding-yi-aian-quan-4933)
-- [client-go Deep Dive: Operator in Practice — Building a Canary Release Controller](https://dev.to/jamesli/client-go-deep-dive-operator-in-practice-building-a-canary-release-controller-1pia)
-- [DORA AI Compliance Financial: How I Failed an ICT Third-Party Audit Because My LLM Provider Was in Palo Alto](https://dev.to/voltagegpu/dora-ai-compliance-financial-how-i-failed-an-ict-third-party-audit-because-my-llm-provider-was-in-32ef)
-- [Pourquoi « build vert » sans la sortie brute n&#39;a aucune valeur de preuve](https://dev.to/michelfaure/pourquoi-build-vert-sans-la-sortie-brute-na-aucune-valeur-de-preuve-31e8)
-- [Why &#39;green build&#39; without the raw output has zero evidentiary value](https://dev.to/michelfaure/why-green-build-without-the-raw-output-has-zero-evidentiary-value-3epe)
+- [JavaScript 前端集成贵金属 K 线图：10 分钟快速实现](https://dev.to/san_siwu_f08e7c406830469/javascript-qian-duan-ji-cheng-gui-jin-shu-k-xian-tu-10-fen-zhong-kuai-su-shi-xian-834)
+- [Rust&#39;s Borrow Checker: Translating Intent into Memory Safety](https://dev.to/mournfulcord/rusts-borrow-checker-translating-intent-into-memory-safety-2k3e)
+- [How to Set Up a Self-Hosted Server on Oracle Cloud Free Tier in 30 Minutes](https://dev.to/-abdullah-sheikh/how-to-set-up-a-self-hosted-server-on-oracle-cloud-free-tier-in-30-minutes-1ip8)
+- [I asked Gemma 4 to summarize. It said the transcript looked truncated. It was right.](https://dev.to/thehwang/i-asked-gemma-4-to-summarize-it-said-the-transcript-looked-truncated-it-was-right-4pff)
+- [I Built an AI Receipt Scanner with Gemma 4 — As an SDET with No Dev Background](https://dev.to/hema_nambi_66c9/i-built-an-ai-receipt-scanner-with-gemma-4-as-an-sdet-with-no-dev-background-4go2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
