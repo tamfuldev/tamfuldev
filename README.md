@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying StockUp: A Step-by-Step Guide](https://dev.to/puslore/deploying-stockup-a-step-by-step-guide-4nkk)
-- [Linear Search vs Binary Search — Differences, Code &amp; Complexity](https://dev.to/bitveen/linear-search-vs-binary-search-differences-code-complexity-2ken)
-- [Part I: Don&#39;t Wait for Data. Render What You Know.](https://dev.to/pratik_goswami_7f7dd0c3c0/part-i-dont-wait-for-data-render-what-you-know-4gaa)
-- [ให้ AI พูดภาษาไทยได้ด้วย Garudust Agent + iApp TTS](https://dev.to/garudust/aih-ai-phuudphaasaaaithyaiddwy-garudust-agent-iapp-tts-35n2)
-- [AI Red-Teaming Techniques: A Practical Starting Point for Security Teams](https://dev.to/cgivre/ai-red-teaming-techniques-a-practical-starting-point-for-security-teams-4nh9)
+- [If someone asked you who accessed your production database last Tuesday, could you answer?](https://dev.to/alex_serban/if-someone-asked-you-who-accessed-your-production-database-last-tuesday-could-you-answer-1nip)
+- [What Broke When We Hit 100k WebSocket Connections &lpar;And How Realtime Orchestration Saved Us&rpar;](https://dev.to/smartguy666/what-broke-when-we-hit-100k-websocket-connections-and-how-realtime-orchestration-saved-us-53ga)
+- [Tollere got an update. Still intentionally simple.](https://dev.to/stokry/tollere-got-an-update-still-intentionally-simple-49ok)
+- [Headless CMS Architektur 2026: Warum Laravel 12 &amp; Next.js 19 das ultimative Power-Duo sind](https://dev.to/webinteger/headless-cms-architektur-2026-warum-laravel-12-nextjs-19-das-ultimative-power-duo-sind-49d7)
+- [MANUAL TESTING EVOLVING NOT DYING](https://dev.to/lavanya_hasmith12303/manual-testing-evolving-not-dying-3d7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
