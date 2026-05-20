@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Which LLM is the best stock picker? I built a benchmark to find out.](https://dev.to/achaljhawar/which-llm-is-the-best-stock-picker-i-built-a-benchmark-to-find-out-1hco)
-- [Google I/O Just Made MCP Inevitable](https://dev.to/megberts/google-io-just-made-mcp-inevitable-1abf)
-- [kovax-react 0.7: Next.js App Router, kovax-react/server, and jest-axe in every test](https://dev.to/mrkamura/kovax-react-07-nextjs-app-router-kovax-reactserver-and-jest-axe-in-every-test-42d)
-- [Spec Anchor Development: The Methodology That Replaced Our AI Chaos](https://dev.to/vanenshi/spec-anchor-development-the-methodology-that-replaced-our-ai-chaos-40pf)
-- [The Art Of Keeping Business Logic Honest](https://dev.to/juststevemcd/the-art-of-keeping-business-logic-honest-254h)
+- [Choosing the Right RAG Strategy A Complete Decision Guide to Chunking, Agentic RAG, and GraphRAG](https://dev.to/sreeni5018/choosing-the-right-rag-strategy-a-complete-decision-guide-to-chunking-agentic-rag-and-graphrag-386d)
+- [The Egregious Cost of Compliance: One Platform&#39;s Overly Broad Restrictions](https://dev.to/interface-profit/the-egregious-cost-of-compliance-one-platforms-overly-broad-restrictions-5g2g)
+- [GitHub Breach via VSCode Extension, ZTE Router CVE-2026-34472, &amp; Public Repo Secrets Leaks](https://dev.to/soytuber/github-breach-via-vscode-extension-zte-router-cve-2026-34472-public-repo-secrets-leaks-14c4)
+- [Applied AI: From Agent Orchestration to Workflow Automation &amp; Code Generation](https://dev.to/soytuber/applied-ai-from-agent-orchestration-to-workflow-automation-code-generation-7jl)
+- [SQLite Journaling on SMB, TypeGraph for SQL Graphs, Cross-Engine Migrations](https://dev.to/soytuber/sqlite-journaling-on-smb-typegraph-for-sql-graphs-cross-engine-migrations-3elb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
