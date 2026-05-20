@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;How I discovered a hidden 146W power draw on NVIDIA A100 GPUs &lpar;and built an open‑source fix&rpar;”](https://dev.to/mikebains41debug/how-i-discovered-a-hidden-146w-power-draw-on-nvidia-a100-gpus-and-built-an-open-source-fix-1n8h)
-- [How to use feature flags in JavaScript and TypeScript](https://dev.to/flaggy/how-to-use-feature-flags-in-javascript-and-typescript-9k7)
-- [Reducing Pager Fatigue: Why Excessive Alerting Systems Fall Short?](https://dev.to/merbayerp/reducing-pager-fatigue-why-excessive-alerting-systems-fall-short-1bo9)
-- [Zero to Kubernetes Part 5: Two Frontends + Complete Stack](https://dev.to/guayoyo_tech/zero-to-kubernetes-part-5-two-frontends-complete-stack-2cmf)
-- [Zero to Kubernetes Part 4: FastAPI Backend + PostgreSQL in Production](https://dev.to/guayoyo_tech/zero-to-kubernetes-part-4-fastapi-backend-postgresql-in-production-1p6b)
+- [Quilter Project Speedrun: AI-Designed Computer Boots Successfully — Autonomous PCB Layout Validated](https://dev.to/abc_8b09c7009ee0029b85665/quilter-project-speedrun-ai-designed-computer-boots-successfully-autonomous-pcb-layout-validated-9c1)
+- [KV Cache Explained Like You&#39;re an LLM Engineer](https://dev.to/murali8k/kv-cache-explained-like-youre-an-llm-engineer-gbm)
+- [Day 9 — AWS S3](https://dev.to/17j/day-9-aws-s3-baa)
+- [I Built an AI Coding Assistant Because I Got Tired of Context Switching](https://dev.to/maeba96/i-built-an-ai-coding-assistant-because-i-got-tired-of-context-switching-2e9b)
+- [&quot;I Stopped Choosing Between Claude Code and Codex. I Put Both in One Chat Window&quot;](https://dev.to/codekingai/i-stopped-choosing-between-claude-code-and-codex-i-put-both-in-one-chat-window-2jpp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
