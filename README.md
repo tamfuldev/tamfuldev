@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Normalize Audio with FFmpeg &lpar;Volume, Loudnorm, and API&rpar;](https://dev.to/javidjamae/how-to-normalize-audio-with-ffmpeg-volume-loudnorm-and-api-11cb)
-- [Why Your AI Agent Keeps Making the Same Mistakes &lpar;And a Structured Fix&rpar;](https://dev.to/_10e34d2463b4a0aecf191/why-your-ai-agent-keeps-making-the-same-mistakes-and-a-structured-fix-1j43)
-- [𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘀𝗼𝘀 𝗿𝗲𝗽𝗼𝗿𝘁 𝗶𝗻 𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀.](https://dev.to/jorge_luisruedabeirana_/-660)
-- [125 Failures in 15 Days: Why the Hardest Part of Engineering Isn&#39;t the Code](https://dev.to/theape/125-failures-in-15-days-why-the-hardest-part-of-engineering-isnt-the-code-315k)
-- [HEX, RGB, HSL, and CMYK: A Developer&#39;s Colour Format Reference](https://dev.to/snappy_tools/hex-rgb-hsl-and-cmyk-a-developers-colour-format-reference-152l)
+- [A Production Python Telegram Bot Was Crashing Every 2 Hours. The Fix Was 18 Lines.](https://dev.to/lamas51/a-production-python-telegram-bot-was-crashing-every-2-hours-the-fix-was-18-lines-29di)
+- [5 Mistakes I Made Building a Social Media App With 7 AI Systems](https://dev.to/bravo24/5-mistakes-i-made-building-a-social-media-app-with-7-ai-systems-4172)
+- [Yansımalı DLL Enjeksiyonu Rehberi Bellek İçi Saldırılar ve Savunma](https://dev.to/nesil_teknoloji/yansimali-dll-enjeksiyonu-rehberi-bellek-ici-saldirilar-ve-savunma-15kj)
+- [I built a tool to instantly share web projects without deploying](https://dev.to/karthik_c40c3df4bd1e7c38e/i-built-a-tool-to-instantly-share-web-projects-without-deploying-12on)
+- [DevOps Meets Generative AI: Building, Testing, and Deploying LLM-Powered Apps](https://dev.to/sciforce/devops-meets-generative-ai-building-testing-and-deploying-llm-powered-apps-327i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
