@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right RAG Strategy A Complete Decision Guide to Chunking, Agentic RAG, and GraphRAG](https://dev.to/sreeni5018/choosing-the-right-rag-strategy-a-complete-decision-guide-to-chunking-agentic-rag-and-graphrag-386d)
-- [The Egregious Cost of Compliance: One Platform&#39;s Overly Broad Restrictions](https://dev.to/interface-profit/the-egregious-cost-of-compliance-one-platforms-overly-broad-restrictions-5g2g)
-- [GitHub Breach via VSCode Extension, ZTE Router CVE-2026-34472, &amp; Public Repo Secrets Leaks](https://dev.to/soytuber/github-breach-via-vscode-extension-zte-router-cve-2026-34472-public-repo-secrets-leaks-14c4)
-- [Applied AI: From Agent Orchestration to Workflow Automation &amp; Code Generation](https://dev.to/soytuber/applied-ai-from-agent-orchestration-to-workflow-automation-code-generation-7jl)
-- [SQLite Journaling on SMB, TypeGraph for SQL Graphs, Cross-Engine Migrations](https://dev.to/soytuber/sqlite-journaling-on-smb-typegraph-for-sql-graphs-cross-engine-migrations-3elb)
+- [Life after the merge: why publishing an Obsidian plugin is just the beginning](https://dev.to/dimagious/life-after-the-merge-why-publishing-an-obsidian-plugin-is-just-the-beginning-1pga)
+- [The Context Tax: Why Every Cursor Session Costs You 15 Minutes](https://dev.to/agentic_standard/the-context-tax-why-every-cursor-session-costs-you-15-minutes-cl1)
+- [Prompt Physics: Building a Cognitive Steering Layer for Gemma 4](https://dev.to/brendanddev/prompt-physics-building-a-cognitive-steering-layer-for-gemma-4-550j)
+- [Pain Points Will Always Outlive Platforms](https://dev.to/micro-saas-journal/pain-points-will-always-outlive-platforms-2bbd)
+- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
