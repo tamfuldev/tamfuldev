@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My PR Merged Into a Graveyard: On the Rise of Antigravity and the Fall of Open Source](https://dev.to/himanshu_748/my-pr-merged-into-a-graveyard-on-the-rise-of-antigravity-and-the-fall-of-open-source-5cpd)
-- [Private AI on a Normal Android Phone: Building Krexel with Gemma 4 E2B](https://dev.to/krishna_apex/private-ai-on-a-normal-android-phone-building-krexel-with-gemma-4-e2b-473e)
-- [The Best Result This Week Was a Failed Prediction — Phase-3a Doesn&#39;t Transfer](https://dev.to/mxguru1/the-best-result-this-week-was-a-failed-prediction-phase-3a-doesnt-transfer-3ihb)
-- [Embedding 685 million texts in 32 minutes](https://dev.to/artain/embedding-685-million-texts-in-32-minutes-46o7)
-- [I Asked the Top 6 AI Chatbots to Sell Me on Themselves - Then Asked Each One Who Came Second](https://dev.to/gregthevibecoder/i-asked-the-top-6-ai-chatbots-to-sell-me-on-themselves-then-asked-each-one-who-came-second-3if3)
+- [Which LLM is the best stock picker? I built a benchmark to find out.](https://dev.to/achaljhawar/which-llm-is-the-best-stock-picker-i-built-a-benchmark-to-find-out-1hco)
+- [Google I/O Just Made MCP Inevitable](https://dev.to/megberts/google-io-just-made-mcp-inevitable-1abf)
+- [kovax-react 0.7: Next.js App Router, kovax-react/server, and jest-axe in every test](https://dev.to/mrkamura/kovax-react-07-nextjs-app-router-kovax-reactserver-and-jest-axe-in-every-test-42d)
+- [Spec Anchor Development: The Methodology That Replaced Our AI Chaos](https://dev.to/vanenshi/spec-anchor-development-the-methodology-that-replaced-our-ai-chaos-40pf)
+- [The Art Of Keeping Business Logic Honest](https://dev.to/juststevemcd/the-art-of-keeping-business-logic-honest-254h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
