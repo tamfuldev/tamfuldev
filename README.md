@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Quilter Project Speedrun: AI-Designed Computer Boots Successfully — Autonomous PCB Layout Validated](https://dev.to/abc_8b09c7009ee0029b85665/quilter-project-speedrun-ai-designed-computer-boots-successfully-autonomous-pcb-layout-validated-9c1)
-- [KV Cache Explained Like You&#39;re an LLM Engineer](https://dev.to/murali8k/kv-cache-explained-like-youre-an-llm-engineer-gbm)
-- [Day 9 — AWS S3](https://dev.to/17j/day-9-aws-s3-baa)
-- [I Built an AI Coding Assistant Because I Got Tired of Context Switching](https://dev.to/maeba96/i-built-an-ai-coding-assistant-because-i-got-tired-of-context-switching-2e9b)
-- [&quot;I Stopped Choosing Between Claude Code and Codex. I Put Both in One Chat Window&quot;](https://dev.to/codekingai/i-stopped-choosing-between-claude-code-and-codex-i-put-both-in-one-chat-window-2jpp)
+- [How to Normalize Audio with FFmpeg &lpar;Volume, Loudnorm, and API&rpar;](https://dev.to/javidjamae/how-to-normalize-audio-with-ffmpeg-volume-loudnorm-and-api-11cb)
+- [Why Your AI Agent Keeps Making the Same Mistakes &lpar;And a Structured Fix&rpar;](https://dev.to/_10e34d2463b4a0aecf191/why-your-ai-agent-keeps-making-the-same-mistakes-and-a-structured-fix-1j43)
+- [𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘀𝗼𝘀 𝗿𝗲𝗽𝗼𝗿𝘁 𝗶𝗻 𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀.](https://dev.to/jorge_luisruedabeirana_/-660)
+- [125 Failures in 15 Days: Why the Hardest Part of Engineering Isn&#39;t the Code](https://dev.to/theape/125-failures-in-15-days-why-the-hardest-part-of-engineering-isnt-the-code-315k)
+- [HEX, RGB, HSL, and CMYK: A Developer&#39;s Colour Format Reference](https://dev.to/snappy_tools/hex-rgb-hsl-and-cmyk-a-developers-colour-format-reference-152l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
