@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Capture the Reasoning Path, Not the Final State](https://dev.to/niclydon/capture-the-reasoning-path-not-the-final-state-c9d)
-- [AgentThreatBench: The First OWASP Agentic Top 10 Security Benchmark](https://dev.to/vaishnavi_gudur/agentthreatbench-the-first-owasp-agentic-top-10-security-benchmark-6pp)
-- [The Future Guide for Escaping Single-Provider Administrative Failure](https://dev.to/kufre_akpan_e7256f8198803/the-future-guide-for-escaping-single-provider-administrative-failure-33ei)
-- [Day 8 — I scraped 5 freelance Gumroad top sellers. All 5 wrote one thing I didn&#39;t.](https://dev.to/foxck016077/day-8-i-scraped-5-freelance-gumroad-top-sellers-all-5-wrote-one-thing-i-didnt-4o0)
-- [Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀](https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk)
+- [&quot;How I discovered a hidden 146W power draw on NVIDIA A100 GPUs &lpar;and built an open‑source fix&rpar;”](https://dev.to/mikebains41debug/how-i-discovered-a-hidden-146w-power-draw-on-nvidia-a100-gpus-and-built-an-open-source-fix-1n8h)
+- [How to use feature flags in JavaScript and TypeScript](https://dev.to/flaggy/how-to-use-feature-flags-in-javascript-and-typescript-9k7)
+- [Reducing Pager Fatigue: Why Excessive Alerting Systems Fall Short?](https://dev.to/merbayerp/reducing-pager-fatigue-why-excessive-alerting-systems-fall-short-1bo9)
+- [Zero to Kubernetes Part 5: Two Frontends + Complete Stack](https://dev.to/guayoyo_tech/zero-to-kubernetes-part-5-two-frontends-complete-stack-2cmf)
+- [Zero to Kubernetes Part 4: FastAPI Backend + PostgreSQL in Production](https://dev.to/guayoyo_tech/zero-to-kubernetes-part-4-fastapi-backend-postgresql-in-production-1p6b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
