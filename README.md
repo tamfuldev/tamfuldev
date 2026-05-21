@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Logs Deserve Better — Send Claude Code Events to Bronto](https://dev.to/bronto_io/your-llm-logs-deserve-better-send-claude-code-events-to-bronto-1nmk)
-- [Building the TEYZIX CORE Internship Portal — My Full-Stack Development Journey](https://dev.to/yasirawan4831/building-the-teyzix-core-internship-portal-my-full-stack-development-journey-4him)
-- [PocketCFO: a private personal-finance brain that runs entirely in your browser](https://dev.to/chintanonweb/pocketcfo-a-private-personal-finance-brain-that-runs-entirely-in-your-browser-2aoc)
-- [Go Idioms I Wish I Knew Earlier](https://dev.to/francis_cidney_awuor/go-idioms-i-wish-i-knew-earlier-4jo1)
-- [Hey how are you guys 
-I&#39;m newbie web developer , learning wordpress+elementor 
-Right now I don&#39;t know what to make I don&#39;t know what to write or use what color can you tell me about it ?](https://dev.to/ali_vaghefi_62630965ed737/hey-how-are-you-guys-im-newbie-web-developer-learning-wordpresselementor-right-now-i-dont-2al5)
+- [Security Is Important. Automate It](https://dev.to/nicolas_vbgh/security-is-important-automate-it-5ekg)
+- [Apache Kafka for Beginners: Building Real-Time Streaming Systems with Python](https://dev.to/samwel_sam/apache-kafka-for-beginners-building-real-time-streaming-systems-with-python-1f3k)
+- [Dating the Crawler](https://dev.to/nicohartmann/dating-the-crawler-4o7a)
+- [AI-Assisted Frontend Reviews Using Gemma 4](https://dev.to/naomir/ai-assisted-frontend-reviews-using-gemma-4-567c)
+- [Building Secure Multi-Agent Systems: My Takeaways from Google I/O 2026](https://dev.to/tech-vexy/building-secure-multi-agent-systems-my-takeaways-from-google-io-2026-37af)
 <!-- BLOG-POST-LIST:END -->
 
 ---
