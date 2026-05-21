@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Life after the merge: why publishing an Obsidian plugin is just the beginning](https://dev.to/dimagious/life-after-the-merge-why-publishing-an-obsidian-plugin-is-just-the-beginning-1pga)
-- [The Context Tax: Why Every Cursor Session Costs You 15 Minutes](https://dev.to/agentic_standard/the-context-tax-why-every-cursor-session-costs-you-15-minutes-cl1)
-- [Prompt Physics: Building a Cognitive Steering Layer for Gemma 4](https://dev.to/brendanddev/prompt-physics-building-a-cognitive-steering-layer-for-gemma-4-550j)
-- [Pain Points Will Always Outlive Platforms](https://dev.to/micro-saas-journal/pain-points-will-always-outlive-platforms-2bbd)
-- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
+- [Does AI Know How Many Tokens It Is Burning](https://dev.to/jacob_is_surfing/does-ai-know-how-many-tokens-it-is-burning-4h30)
+- [Selling Software in Countries PayPal Can&#39;t Reach - A Cautionary Tale of Crypto and Custom Solutions](https://dev.to/dev-architecture-blog/selling-software-in-countries-paypal-cant-reach-a-cautionary-tale-of-crypto-and-custom-solutions-1bfp)
+- [My Old MacBook Air Couldn&#39;t Handle It — So I Used Google Colab to Train an AI＃1](https://dev.to/hiyoyok/my-old-macbook-air-couldnt-handle-it-so-i-used-google-colab-to-train-an-ai1-6p4)
+- [The Discord.js gotchas that cost me a week each &lpar;so they don&#39;t have to cost you one&rpar;](https://dev.to/vibebot/the-discordjs-gotchas-that-cost-me-a-week-each-so-they-dont-have-to-cost-you-one-2ic7)
+- [Leetcode QOTD:- 3043. Find the Length of the Longest Common Prefix](https://dev.to/shipra_shakya_5ebf9808e2a/leetcode-qotd-3043-find-the-length-of-the-longest-common-prefix-3nb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
