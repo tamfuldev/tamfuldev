@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Security Is Important. Automate It](https://dev.to/nicolas_vbgh/security-is-important-automate-it-5ekg)
-- [Apache Kafka for Beginners: Building Real-Time Streaming Systems with Python](https://dev.to/samwel_sam/apache-kafka-for-beginners-building-real-time-streaming-systems-with-python-1f3k)
-- [Dating the Crawler](https://dev.to/nicohartmann/dating-the-crawler-4o7a)
-- [AI-Assisted Frontend Reviews Using Gemma 4](https://dev.to/naomir/ai-assisted-frontend-reviews-using-gemma-4-567c)
-- [Building Secure Multi-Agent Systems: My Takeaways from Google I/O 2026](https://dev.to/tech-vexy/building-secure-multi-agent-systems-my-takeaways-from-google-io-2026-37af)
+- [Multica: An Open-Source Platform for Managing AI Coding Agents Like Teammates](https://dev.to/arshtechpro/multica-an-open-source-platform-for-managing-ai-coding-agents-like-teammates-2469)
+- [The Death of the Junior Developer](https://dev.to/bojan_josifoski_76e9fd65d/the-death-of-the-junior-developer-1bkb)
+- [System prompts are not a security boundary for AI agents](https://dev.to/enforra/system-prompts-are-not-a-security-boundary-for-ai-agents-2n8)
+- [NIS2 Article 21 in Azure: Implementing Network Security Controls with Terraform](https://dev.to/dwoitzik/nis2-article-21-in-azure-implementing-network-security-controls-with-terraform-3idl)
+- [How I Built My Own Laravel Analytics Package &lpar;and Almost Didn&#39;t Crash Production&rpar;](https://dev.to/alantalex/how-i-built-my-own-laravel-analytics-package-and-almost-didnt-crash-production-l75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
