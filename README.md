@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Used to Get Excited About New Tools Now I Feel Tired.](https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18)
-- [Google I/O 2026 — What I Hoped to See Beyond the Model Announcements](https://dev.to/zoe_lin_0653/google-io-2026-what-i-hoped-to-see-beyond-the-model-announcements-4fga)
-- [Most &#39;AI agents&#39; are just scripts with a marketing budget](https://dev.to/adioof/most-ai-agents-are-just-scripts-with-a-marketing-budget-3m4e)
-- [🚀 Replicating the evasive VoidLink: My Journey Building Cortex C2](https://dev.to/joseph_rominda_f567bfe9d2/replicating-the-evasive-of-voidlink-my-journey-building-cortex-c2-1bhb)
-- [# new stuff dropped in duckkit 🦆](https://dev.to/zura_japoshvili_cccdbbefa/-new-stuff-dropped-in-duckkit-3ke7)
+- [I Built a Payment System for Bangladesh—Heres Why Stripe Failed Us](https://dev.to/exit-own/i-built-a-payment-system-for-bangladesh-heres-why-stripe-failed-us-1elf)
+- [Polyglot Persistence in Microservices: Choosing the Right Database for Each Service](https://dev.to/dancodingbr/polyglot-persistence-in-microservices-choosing-the-right-database-for-each-service-1m8g)
+- [Centralized Authentication for a Multi-Brand Laravel Ecosystem](https://dev.to/laraartisan/centralized-authentication-for-a-multi-brand-laravel-ecosystem-29jp)
+- [How I made a perfect recording button. Simple yet complex thing.](https://dev.to/ofcrsistillloveyou/how-i-made-a-perfect-recording-button-simple-yet-complex-thing-21ed)
+- [Mumbli – my personal Wispr Flow](https://dev.to/fireharp/mumbli-my-personal-wispr-flow-3202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
