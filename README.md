@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Does AI Know How Many Tokens It Is Burning](https://dev.to/jacob_is_surfing/does-ai-know-how-many-tokens-it-is-burning-4h30)
-- [Selling Software in Countries PayPal Can&#39;t Reach - A Cautionary Tale of Crypto and Custom Solutions](https://dev.to/dev-architecture-blog/selling-software-in-countries-paypal-cant-reach-a-cautionary-tale-of-crypto-and-custom-solutions-1bfp)
-- [My Old MacBook Air Couldn&#39;t Handle It — So I Used Google Colab to Train an AI＃1](https://dev.to/hiyoyok/my-old-macbook-air-couldnt-handle-it-so-i-used-google-colab-to-train-an-ai1-6p4)
-- [The Discord.js gotchas that cost me a week each &lpar;so they don&#39;t have to cost you one&rpar;](https://dev.to/vibebot/the-discordjs-gotchas-that-cost-me-a-week-each-so-they-dont-have-to-cost-you-one-2ic7)
-- [Leetcode QOTD:- 3043. Find the Length of the Longest Common Prefix](https://dev.to/shipra_shakya_5ebf9808e2a/leetcode-qotd-3043-find-the-length-of-the-longest-common-prefix-3nb)
+- [Is Grep All You Need? Grep vs Vector Retrieval for Agentic Search](https://dev.to/pueding/is-grep-all-you-need-grep-vs-vector-retrieval-for-agentic-search-534k)
+- [The Test Manager’s Guide: From Chaos to Structure — Part 5: Economic Impact — The Cost of Non-Structure](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-structure-part-5-economic-impact-the-cost-of-45fn)
+- [PCB Shortage Warning: Iran-Saudi Conflict Drives 40% Price Increase — What Hardware Engineers Need to Know](https://dev.to/abc_8b09c7009ee0029b85665/pcb-shortage-warning-iran-saudi-conflict-drives-40-price-increase-what-hardware-engineers-need-3k39)
+- [AI-Powered EDA Tools See 20th Consecutive Quarter of Growth: $4.2B Market in Q1 2026](https://dev.to/abc_8b09c7009ee0029b85665/ai-powered-eda-tools-see-20th-consecutive-quarter-of-growth-42b-market-in-q1-2026-35kc)
+- [How AI is Changing the Way Startups Are Built in 2026](https://dev.to/nasifsid/how-ai-is-changing-the-way-startups-are-built-in-2026-3fd8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
