@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Grep All You Need? Grep vs Vector Retrieval for Agentic Search](https://dev.to/pueding/is-grep-all-you-need-grep-vs-vector-retrieval-for-agentic-search-534k)
-- [The Test Manager’s Guide: From Chaos to Structure — Part 5: Economic Impact — The Cost of Non-Structure](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-structure-part-5-economic-impact-the-cost-of-45fn)
-- [PCB Shortage Warning: Iran-Saudi Conflict Drives 40% Price Increase — What Hardware Engineers Need to Know](https://dev.to/abc_8b09c7009ee0029b85665/pcb-shortage-warning-iran-saudi-conflict-drives-40-price-increase-what-hardware-engineers-need-3k39)
-- [AI-Powered EDA Tools See 20th Consecutive Quarter of Growth: $4.2B Market in Q1 2026](https://dev.to/abc_8b09c7009ee0029b85665/ai-powered-eda-tools-see-20th-consecutive-quarter-of-growth-42b-market-in-q1-2026-35kc)
-- [How AI is Changing the Way Startups Are Built in 2026](https://dev.to/nasifsid/how-ai-is-changing-the-way-startups-are-built-in-2026-3fd8)
+- [I Used to Get Excited About New Tools Now I Feel Tired.](https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18)
+- [Google I/O 2026 — What I Hoped to See Beyond the Model Announcements](https://dev.to/zoe_lin_0653/google-io-2026-what-i-hoped-to-see-beyond-the-model-announcements-4fga)
+- [Most &#39;AI agents&#39; are just scripts with a marketing budget](https://dev.to/adioof/most-ai-agents-are-just-scripts-with-a-marketing-budget-3m4e)
+- [🚀 Replicating the evasive VoidLink: My Journey Building Cortex C2](https://dev.to/joseph_rominda_f567bfe9d2/replicating-the-evasive-of-voidlink-my-journey-building-cortex-c2-1bhb)
+- [# new stuff dropped in duckkit 🦆](https://dev.to/zura_japoshvili_cccdbbefa/-new-stuff-dropped-in-duckkit-3ke7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
