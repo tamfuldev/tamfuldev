@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How React&#39;s Virtual DOM Works Under the Hood](https://dev.to/janmejaisingh/how-reacts-virtual-dom-works-under-the-hood-5g7)
-- [Build a Dropbox Paper-Style Collaborative Editor with Next.js and Velt💥](https://dev.to/astrodevil/build-a-dropbox-paper-style-collaborative-editor-with-nextjs-and-velt-40b9)
-- [Holy Typos, Batman! How I Built &#39;SpellJump&#39;](https://dev.to/prakhar54byte/holy-typos-batman-how-i-built-spelljump-h6h)
-- [How to Test Frontend Error States Without Breaking Your Backend](https://dev.to/rusedev/how-to-test-frontend-error-states-without-breaking-your-backend-1ojd)
-- [A .NET Dinosaur in Web3. Day 8 — Reading &amp; Writing — WishList Chain](https://dev.to/alenadevsoft/a-net-dinosaur-in-web3-day-8-reading-writing-wishlist-chain-4c4o)
+- [Your LLM Logs Deserve Better — Send Claude Code Events to Bronto](https://dev.to/bronto_io/your-llm-logs-deserve-better-send-claude-code-events-to-bronto-1nmk)
+- [Building the TEYZIX CORE Internship Portal — My Full-Stack Development Journey](https://dev.to/yasirawan4831/building-the-teyzix-core-internship-portal-my-full-stack-development-journey-4him)
+- [PocketCFO: a private personal-finance brain that runs entirely in your browser](https://dev.to/chintanonweb/pocketcfo-a-private-personal-finance-brain-that-runs-entirely-in-your-browser-2aoc)
+- [Go Idioms I Wish I Knew Earlier](https://dev.to/francis_cidney_awuor/go-idioms-i-wish-i-knew-earlier-4jo1)
+- [Hey how are you guys 
+I&#39;m newbie web developer , learning wordpress+elementor 
+Right now I don&#39;t know what to make I don&#39;t know what to write or use what color can you tell me about it ?](https://dev.to/ali_vaghefi_62630965ed737/hey-how-are-you-guys-im-newbie-web-developer-learning-wordpresselementor-right-now-i-dont-2al5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
