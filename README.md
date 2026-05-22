@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Should Not Write SQL Against ERP Databases](https://dev.to/foggy-projects/why-ai-should-not-write-sql-against-erp-databases-1ef8)
-- [Vibe coding works until it doesn&#39;t. The debt is real.](https://dev.to/adioof/vibe-coding-works-until-it-doesnt-the-debt-is-real-nbj)
-- [Shipping at the Edge: Migrating a Coffee Subscription Platform to Cloudflare Workers](https://dev.to/oleksandr_devops/shipping-at-the-edge-migrating-a-coffee-subscription-platform-to-cloudflare-workers-3ip4)
-- [Stop Tab-Switching: A Developer&#39;s Guide to Color Tools That Actually Fit the Workflow](https://dev.to/ilovehue_bdaacb4cdd904a14/stop-tab-switching-a-developers-guide-to-color-tools-that-actually-fit-the-workflow-44kg)
-- [DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started](https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g)
+- [I Tested Spam Protection on Formspree vs Formgrid. The Results Were Surprising.](https://dev.to/allenarduino/i-tested-spam-protection-on-formspree-vs-formgrid-the-results-were-surprising-19c6)
+- [May 27 - Video Understanding Workshop](https://dev.to/voxel51/may-27-video-understanding-workshop-3f0e)
+- [Beyond Keywords: How Google&#39;s 2026 Algorithms are Redefining SEO](https://dev.to/ammar_bidehi/beyond-keywords-how-googles-2026-algorithms-are-redefining-seo-2fp)
+- [From Click to Cart: Ensuring an Accessible Customer Journey in WooCommerce](https://dev.to/femiyb/from-click-to-cart-ensuring-an-accessible-customer-journey-in-woocommerce-1eh6)
+- [Your company won&#39;t replace you with good AI. They&#39;ll replace you with bad AI.](https://dev.to/adioof/your-company-wont-replace-you-with-good-ai-theyll-replace-you-with-bad-ai-5bpm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
