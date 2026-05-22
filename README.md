@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide](https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5)
-- [Don&#39;t Make the Agent Re-Run the Test Suite to Find the Failure](https://dev.to/tacoda/dont-make-the-agent-re-run-the-test-suite-to-find-the-failure-427)
-- [Assembly Code to Machine Code &lpar;ARM&rpar;](https://dev.to/hwangs12/assembly-code-to-machine-code-arm-57ga)
-- [Spring boot Interview Questions](https://dev.to/poojithalakkaraju/spring-boot-interview-questions-1eol)
-- [LambdaTest vs BrowserStack : Detail Comparison in 2026](https://dev.to/morrismoses149/lambdatest-vs-browserstack-detail-comparison-in-2026-3adf)
+- [Stop retraining YOLO: a developer’s guide to zero-shot object detection with generative VLMs](https://dev.to/pasquale_molinaro/stop-retraining-yolo-a-developers-guide-to-zero-shot-object-detection-with-generative-vlms-37gd)
+- [AI, the New UI, Not the New API](https://dev.to/justcatdev/ai-the-new-ui-not-the-new-api-3ff5)
+- [Sensors and Guides: Two Ways Your Harness Talks to Your Agent](https://dev.to/tacoda/sensors-and-guides-two-ways-your-harness-talks-to-your-agent-39oh)
+- [Fixing Google BigQuery Auth Proxying](https://dev.to/snargledorf/fixing-google-bigquery-auth-proxying-2hb7)
+- [We didn&#39;t ship a feature, we shipped an agentic opt-in beta](https://dev.to/brian_becker_0b40adcf07f9/we-didnt-ship-a-feature-we-shipped-an-opt-in-beta-271)
 <!-- BLOG-POST-LIST:END -->
 
 ---
