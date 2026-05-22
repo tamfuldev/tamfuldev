@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [https://www.qwertymates.com/marketplace](https://dev.to/acbpay/httpswwwqwertymatescommarketplace-54c5)
-- [DevOps Consulting: How to Evaluate a Partner Before You Engage](https://dev.to/samlongbottom/devops-consulting-how-to-evaluate-a-partner-before-you-engage-34p4)
-- [Zero-Install Tunneling in 2026: The Developer&#39;s Complete Guide to Agentless Localhost Proxies](https://dev.to/instatunnel/zero-install-tunneling-in-2026-the-developers-complete-guide-to-agentless-localhost-proxies-321o)
-- [How an expired SSL cert took down our checkout for six hours &lpar;and what I should have had watching&rpar;](https://dev.to/samreid/how-an-expired-ssl-cert-took-down-our-checkout-for-six-hours-and-what-i-should-have-had-watching-2k17)
-- [Stop Letting AI Agents Break Your Database: Transactional Multi-Agent Workflows with Temporal and Spring AI](https://dev.to/machinecodingmaster/stop-letting-ai-agents-break-your-database-transactional-multi-agent-workflows-with-temporal-and-47dc)
+- [Stop Treating setTimeout&lpar;fn, 0&rpar; Like Magic](https://dev.to/paschaliss/stop-treating-settimeoutfn-0-like-magic-36dn)
+- [Save any webhook data to a database automatically with n8n — free workflow JSON](https://dev.to/flowkithq/save-any-webhook-data-to-a-database-automatically-with-n8n-free-workflow-json-14lh)
+- [Translating an entire multilingual site shouldn&#39;t mean re-prompting an LLM for every file](https://dev.to/sanusihassan/translating-an-entire-multilingual-site-shouldnt-mean-re-prompting-an-llm-for-every-file-17k4)
+- [I built a Vite plugin that uses AI to author Playwright tests, then gets out of the way](https://dev.to/oliver3109/i-built-a-vite-plugin-that-uses-ai-to-author-tests-then-gets-out-of-the-way-mel)
+- [Project: Restaurant Delivery CRUD](https://dev.to/dentrodailha96/project-restaurant-delivery-crud-m1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
