@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
-- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
-- [Per-user cost attribution for your AI APP](https://dev.to/seenfinity/per-user-cost-attribution-for-your-ai-app-16o)
-- [I Built a Safari Extension That Shows When Your YouTube Video Ends](https://dev.to/fluphalicious/i-built-a-safari-extension-that-shows-when-your-youtube-video-ends-1jfh)
-- [What It Actually Takes to Audit Aurora PostgreSQL on AWS](https://dev.to/pranay_raavi/what-it-actually-takes-to-audit-aurora-postgresql-on-aws-l7j)
+- [Overhauling the API for Digital Creators in the Least Connected Regions of the World](https://dev.to/dev-architecture-blog/overhauling-the-api-for-digital-creators-in-the-least-connected-regions-of-the-world-46b4)
+- [AiLang: An AI-First Language Focused on Deterministic Execution](https://dev.to/todd_henderson_e43e8836a7/ailang-an-ai-first-language-focused-on-deterministic-execution-4mio)
+- [The Unsustainable Illusion of Global Payment Platforms](https://dev.to/dev-architecture-blog/the-unsustainable-illusion-of-global-payment-platforms-c1f)
+- [Audited a Popular Python Automation Project. The Biggest Risks Weren&#39;t What I Expected.](https://dev.to/eldor_zufarov_1966/audited-a-popular-python-automation-project-the-biggest-risks-werent-what-i-expected-1l9i)
+- [Idempotency Keys: The Simple Trick That Prevents Duplicate Payments and Ghost Orders](https://dev.to/apikumo/idempotency-keys-the-simple-trick-that-prevents-duplicate-payments-and-ghost-orders-3bfd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
