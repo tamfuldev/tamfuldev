@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop retraining YOLO: a developer’s guide to zero-shot object detection with generative VLMs](https://dev.to/pasquale_molinaro/stop-retraining-yolo-a-developers-guide-to-zero-shot-object-detection-with-generative-vlms-37gd)
-- [AI, the New UI, Not the New API](https://dev.to/justcatdev/ai-the-new-ui-not-the-new-api-3ff5)
-- [Sensors and Guides: Two Ways Your Harness Talks to Your Agent](https://dev.to/tacoda/sensors-and-guides-two-ways-your-harness-talks-to-your-agent-39oh)
-- [Fixing Google BigQuery Auth Proxying](https://dev.to/snargledorf/fixing-google-bigquery-auth-proxying-2hb7)
-- [We didn&#39;t ship a feature, we shipped an agentic opt-in beta](https://dev.to/brian_becker_0b40adcf07f9/we-didnt-ship-a-feature-we-shipped-an-opt-in-beta-271)
+- [Looking for DTMF transceiver module](https://dev.to/r_chris_owen/looking-for-dtmf-transceiver-module-7gg)
+- [DMARC Is Now a Proper Internet Standard: What Changed in RFC 9989/9990/9991](https://dev.to/mikepultz/dmarc-is-now-a-proper-internet-standard-what-changed-in-rfc-998999909991-pj6)
+- [OpenTelemetry Is Now a CNCF Graduate — and It&#39;s Coming for Your AI Stack](https://dev.to/thegatewayguy/opentelemetry-is-now-a-cncf-graduate-and-its-coming-for-your-ai-stack-l8o)
+- [OpenHuman Follows OpenClaw’s Rise, But With an Obsidian Brain](https://dev.to/numbpill3d/openhuman-follows-openclaws-rise-but-with-an-obsidian-brain-5d06)
+- [Build a Live Flight Radar in a Single HTML File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
