@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for DTMF transceiver module](https://dev.to/r_chris_owen/looking-for-dtmf-transceiver-module-7gg)
-- [DMARC Is Now a Proper Internet Standard: What Changed in RFC 9989/9990/9991](https://dev.to/mikepultz/dmarc-is-now-a-proper-internet-standard-what-changed-in-rfc-998999909991-pj6)
-- [OpenTelemetry Is Now a CNCF Graduate — and It&#39;s Coming for Your AI Stack](https://dev.to/thegatewayguy/opentelemetry-is-now-a-cncf-graduate-and-its-coming-for-your-ai-stack-l8o)
-- [OpenHuman Follows OpenClaw’s Rise, But With an Obsidian Brain](https://dev.to/numbpill3d/openhuman-follows-openclaws-rise-but-with-an-obsidian-brain-5d06)
-- [Build a Live Flight Radar in a Single HTML File](https://dev.to/sergeysta/build-a-live-flight-radar-in-a-single-html-file-p9p)
+- [9 in 10 Docker Compose files skip the basic security flags](https://dev.to/tmatens/9-in-10-docker-compose-files-skip-the-basic-security-flags-2dpf)
+- [How to Forward Android SMS to Telegram Automatically](https://dev.to/smssender24/how-to-forward-android-sms-to-telegram-automatically-2j75)
+- [From AI Code Generation to AI System Investigation](https://dev.to/miller-28/from-ai-code-generation-to-ai-system-investigation-4b6e)
+- [I gave Gemini 3.5 Flash a CVE-fix PR to review. It found another bug in the same file.](https://dev.to/vicente_junior_dev/i-gave-gemini-35-flash-a-cve-fix-pr-to-review-it-found-another-bug-in-the-same-file-1g24)
+- [Leveraging the Wrong Scaling Patterns Will Lose You in Production](https://dev.to/nomad-revenue/leveraging-the-wrong-scaling-patterns-will-lose-you-in-production-nk1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
