@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Overhauling the API for Digital Creators in the Least Connected Regions of the World](https://dev.to/dev-architecture-blog/overhauling-the-api-for-digital-creators-in-the-least-connected-regions-of-the-world-46b4)
-- [AiLang: An AI-First Language Focused on Deterministic Execution](https://dev.to/todd_henderson_e43e8836a7/ailang-an-ai-first-language-focused-on-deterministic-execution-4mio)
-- [The Unsustainable Illusion of Global Payment Platforms](https://dev.to/dev-architecture-blog/the-unsustainable-illusion-of-global-payment-platforms-c1f)
-- [Audited a Popular Python Automation Project. The Biggest Risks Weren&#39;t What I Expected.](https://dev.to/eldor_zufarov_1966/audited-a-popular-python-automation-project-the-biggest-risks-werent-what-i-expected-1l9i)
-- [Idempotency Keys: The Simple Trick That Prevents Duplicate Payments and Ghost Orders](https://dev.to/apikumo/idempotency-keys-the-simple-trick-that-prevents-duplicate-payments-and-ghost-orders-3bfd)
+- [https://www.qwertymates.com/marketplace](https://dev.to/acbpay/httpswwwqwertymatescommarketplace-54c5)
+- [DevOps Consulting: How to Evaluate a Partner Before You Engage](https://dev.to/samlongbottom/devops-consulting-how-to-evaluate-a-partner-before-you-engage-34p4)
+- [Zero-Install Tunneling in 2026: The Developer&#39;s Complete Guide to Agentless Localhost Proxies](https://dev.to/instatunnel/zero-install-tunneling-in-2026-the-developers-complete-guide-to-agentless-localhost-proxies-321o)
+- [How an expired SSL cert took down our checkout for six hours &lpar;and what I should have had watching&rpar;](https://dev.to/samreid/how-an-expired-ssl-cert-took-down-our-checkout-for-six-hours-and-what-i-should-have-had-watching-2k17)
+- [Stop Letting AI Agents Break Your Database: Transactional Multi-Agent Workflows with Temporal and Spring AI](https://dev.to/machinecodingmaster/stop-letting-ai-agents-break-your-database-transactional-multi-agent-workflows-with-temporal-and-47dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
