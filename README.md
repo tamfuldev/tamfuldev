@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Spam Protection on Formspree vs Formgrid. The Results Were Surprising.](https://dev.to/allenarduino/i-tested-spam-protection-on-formspree-vs-formgrid-the-results-were-surprising-19c6)
-- [May 27 - Video Understanding Workshop](https://dev.to/voxel51/may-27-video-understanding-workshop-3f0e)
-- [Beyond Keywords: How Google&#39;s 2026 Algorithms are Redefining SEO](https://dev.to/ammar_bidehi/beyond-keywords-how-googles-2026-algorithms-are-redefining-seo-2fp)
-- [From Click to Cart: Ensuring an Accessible Customer Journey in WooCommerce](https://dev.to/femiyb/from-click-to-cart-ensuring-an-accessible-customer-journey-in-woocommerce-1eh6)
-- [Your company won&#39;t replace you with good AI. They&#39;ll replace you with bad AI.](https://dev.to/adioof/your-company-wont-replace-you-with-good-ai-theyll-replace-you-with-bad-ai-5bpm)
+- [Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide](https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5)
+- [Don&#39;t Make the Agent Re-Run the Test Suite to Find the Failure](https://dev.to/tacoda/dont-make-the-agent-re-run-the-test-suite-to-find-the-failure-427)
+- [Assembly Code to Machine Code &lpar;ARM&rpar;](https://dev.to/hwangs12/assembly-code-to-machine-code-arm-57ga)
+- [Spring boot Interview Questions](https://dev.to/poojithalakkaraju/spring-boot-interview-questions-1eol)
+- [LambdaTest vs BrowserStack : Detail Comparison in 2026](https://dev.to/morrismoses149/lambdatest-vs-browserstack-detail-comparison-in-2026-3adf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
