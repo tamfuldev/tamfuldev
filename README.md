@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Treating setTimeout&lpar;fn, 0&rpar; Like Magic](https://dev.to/paschaliss/stop-treating-settimeoutfn-0-like-magic-36dn)
-- [Save any webhook data to a database automatically with n8n — free workflow JSON](https://dev.to/flowkithq/save-any-webhook-data-to-a-database-automatically-with-n8n-free-workflow-json-14lh)
-- [Translating an entire multilingual site shouldn&#39;t mean re-prompting an LLM for every file](https://dev.to/sanusihassan/translating-an-entire-multilingual-site-shouldnt-mean-re-prompting-an-llm-for-every-file-17k4)
-- [I built a Vite plugin that uses AI to author Playwright tests, then gets out of the way](https://dev.to/oliver3109/i-built-a-vite-plugin-that-uses-ai-to-author-tests-then-gets-out-of-the-way-mel)
-- [Project: Restaurant Delivery CRUD](https://dev.to/dentrodailha96/project-restaurant-delivery-crud-m1c)
+- [Why AI Should Not Write SQL Against ERP Databases](https://dev.to/foggy-projects/why-ai-should-not-write-sql-against-erp-databases-1ef8)
+- [Vibe coding works until it doesn&#39;t. The debt is real.](https://dev.to/adioof/vibe-coding-works-until-it-doesnt-the-debt-is-real-nbj)
+- [Shipping at the Edge: Migrating a Coffee Subscription Platform to Cloudflare Workers](https://dev.to/oleksandr_devops/shipping-at-the-edge-migrating-a-coffee-subscription-platform-to-cloudflare-workers-3ip4)
+- [Stop Tab-Switching: A Developer&#39;s Guide to Color Tools That Actually Fit the Workflow](https://dev.to/ilovehue_bdaacb4cdd904a14/stop-tab-switching-a-developers-guide-to-color-tools-that-actually-fit-the-workflow-44kg)
+- [DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started](https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
