@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 108 Commits Building Infrastructure. Google I/O 2026 Shipped It as One API Call.](https://dev.to/sodiqjimoh/i-spent-108-commits-building-infrastructure-google-io-2026-shipped-it-as-one-api-call-bp9)
-- [Stop Letting AI Guess Your Playwright Tests: Use Context7 MCP](https://dev.to/muhammadjon_sanaev/stop-letting-ai-guess-your-playwright-tests-use-context7-mcp-3k0i)
-- [End-to-End &lpar;E2E&rpar; testing pipeline](https://dev.to/kyl67899/end-to-end-e2e-testing-pipeline-dl8)
-- [The AI Coding Assistant Landscape in 2026: Cursor vs GitHub Copilot vs Claude Code vs JetBrains AI](https://dev.to/zny10289/the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai-4h59)
-- [Rust and the Reinvention of Operating Systems](https://dev.to/srijan-xi/rust-and-the-reinvention-of-operating-systems-28ef)
+- [Hexapod agent powered by Gemma4:e4b](https://dev.to/brad_wilson_cf2502dcf07cf/hexapod-agent-powered-by-gemma4e4b-3768)
+- [I Build ML Infrastructure for a Living — Here&#39;s Why Hermes Agent Changes the Game for Platform Engineers](https://dev.to/sodiqjimoh/i-build-ml-infrastructure-for-a-living-heres-why-hermes-agent-changes-the-game-for-platform-1k9h)
+- [# Introduction to Machine Learning: How We Arrive at Linear Regression](https://dev.to/moraa_omwoyo/-introduction-to-machine-learning-how-we-arrive-at-linear-regression-hhc)
+- [Africa Cannot Afford Blind AI Dependence](https://dev.to/nichola1/africa-cannot-afford-blind-ai-dependence-494i)
+- [Reasoning happens before the response](https://dev.to/frank_brsrk/reasoning-happens-before-the-response-3bmb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
