@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 Has Four Variants. Here&#39;s How to Pick the Right One Before You Write a Single Line of Code.](https://dev.to/soumyadeepdey/gemma-4-has-four-variants-heres-how-to-pick-the-right-one-before-you-write-a-single-line-of-code-4f9d)
-- [Log Level Strategies: Balancing Observability and Cost](https://dev.to/merbayerp/log-level-strategies-balancing-observability-and-cost-3gfb)
-- [Why WebMCP Is the Most Important Thing Google Announced at I/O 2026 &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/soumyadeepdey/why-webmcp-is-the-most-important-thing-google-announced-at-io-2026-and-nobodys-talking-about-it-2edf)
-- [Making LLM Calls Reliable: Retry, Semaphore, Cache, and Batch](https://dev.to/orieken/making-llm-calls-reliable-retry-semaphore-cache-and-batch-46fi)
-- [Google&#39;s 2x Energy Efficiency Claim Is Real — But Here&#39;s What They&#39;re Not Measuring](https://dev.to/mikebains41debug/googles-2x-energy-efficiency-claim-is-real-but-heres-what-theyre-not-measuring-nik)
+- [Why Claude Code Sessions Diverge: A Mechanism Catalog](https://dev.to/vainamoinen/why-claude-code-sessions-diverge-a-mechanism-catalog-4j63)
+- [When One AI Agent Is Not Enough: A Practical Delegation Pattern for Enterprise Systems](https://dev.to/amitkayal/when-one-ai-agent-is-not-enough-a-practical-delegation-pattern-for-enterprise-systems-16nb)
+- [Build a &quot;Where to Watch&quot; feature in 50 lines with the StreamWatchHub API](https://dev.to/kavelaltd/build-a-where-to-watch-feature-in-50-lines-with-the-streamwatchhub-api-5aob)
+- [Gemma 4 on Android: Tricks for Faster On-Device Inference](https://dev.to/samdude/gemma-4-on-android-tricks-for-faster-on-device-inference-3kj5)
+- [Your AI agent has amnesia. You&#39;ve just normalized it.](https://dev.to/soumyadeepdey/your-ai-agent-has-amnesia-youve-just-normalized-it-40bj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
