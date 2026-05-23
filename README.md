@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Country/State/City Pickers Are Weirdly Hard](https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1)
-- [Node.js 22 LTS — EOL Date, Support Timeline, and What Comes Next](https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm)
-- [The 7-Layer Memory Architecture Behind Modern AI Agents](https://dev.to/mahmoudz/the-7-layer-memory-architecture-behind-modern-ai-agents-5060)
-- [I Imagined Hermes Agent Running an Entire Smart City — And It Changed How I See AI](https://dev.to/zenrishi/i-imagined-hermes-agent-running-an-entire-smart-city-and-it-changed-how-i-see-ai-43d1)
-- [One backend, four products: why we bet on platform-per-brand](https://dev.to/rhsumon/one-backend-four-products-why-we-bet-on-platform-per-brand-3j2d)
+- [I Built OpenKap — A Loom Alternative for Small Teams Who Just Want to Ship](https://dev.to/gurpreetkait/i-built-openkap-a-loom-alternative-for-small-teams-who-just-want-to-ship-27ij)
+- [Gemma 4 is Here: The Dawn of Local Multimodal Reasoning](https://dev.to/parulmalhotraiitk/gemma-4-is-here-the-dawn-of-local-multimodal-reasoning-6a7)
+- [Offline-First Flutter: How We Built a CRM That Manages 100K+ Leads With No Internet](https://dev.to/saqrelfirgany/offline-first-flutter-how-we-built-a-crm-that-manages-100k-leads-with-no-internet-81g)
+- [Memory for Agents: When Vectors Meet Graphs, Bugs Drop 4](https://dev.to/isabelle_dubuis_d858453d7/memory-for-agents-when-vectors-meet-graphs-bugs-drop-4x-32eo)
+- [The Rise of Production-Grade AI Infrastructure](https://dev.to/gaurav_talesara/the-rise-of-production-grade-ai-infrastructure-3h11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
