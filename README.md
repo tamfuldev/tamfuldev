@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio Just Changed the Shape of App Development](https://dev.to/kanyingidickson-dev/google-ai-studio-just-changed-the-shape-of-app-development-144d)
-- [If you struggle to learn then this is for you.](https://dev.to/wootcot/if-you-struggle-to-learn-then-this-is-for-you-49d0)
-- [Best AI Agent Security &amp; Guardrails Tools in 2026: LLM Guard vs NeMo vs Guardrails AI](https://dev.to/agdex_ai/best-ai-agent-security-guardrails-tools-in-2026-llm-guard-vs-nemo-vs-guardrails-ai-5e5d)
-- [Building Dynamic RBAC in React 19: From Permission Strings to Component-Level Access Control](https://dev.to/uaslimcreate/building-dynamic-rbac-in-react-19-from-permission-strings-to-component-level-access-control-14j9)
-- [How to Build a Self-Hosted AI Code Review Tool in Python](https://dev.to/ayinedjimi-consultants/how-to-build-a-self-hosted-ai-code-review-tool-in-python-45h9)
+- [Nobody Reads Your Code Anymore](https://dev.to/bojan_josifoski_76e9fd65d/nobody-reads-your-code-anymore-9g5)
+- [Why I built a collection of 5 free, zero-signup career finance tools for solo builders](https://dev.to/mahmoud_mahdaali_455e190d/why-i-built-a-collection-of-5-free-zero-signup-career-finance-tools-for-solo-builders-164l)
+- [🚀 New React Challenge: Instant UI with useOptimistic](https://dev.to/reactchallenges/new-react-challenge-instant-ui-with-useoptimistic-16lc)
+- [Resolvendo a Alucinação da IA na Arquitetura de Software com Code Property Graphs e .NET 9](https://dev.to/rodrigo_furlaneti_1b337c6/resolvendo-a-alucinacao-da-ia-na-arquitetura-de-software-com-code-property-graphs-e-net-9-1mbn)
+- [S1 — Clean Backtrace Crashes: How to Diagnose and Fix Them](https://dev.to/legacycpp/debugging-c-clean-backtrace-crashes-16e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
