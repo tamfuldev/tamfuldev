@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Claude Code Sessions Diverge: A Mechanism Catalog](https://dev.to/vainamoinen/why-claude-code-sessions-diverge-a-mechanism-catalog-4j63)
-- [When One AI Agent Is Not Enough: A Practical Delegation Pattern for Enterprise Systems](https://dev.to/amitkayal/when-one-ai-agent-is-not-enough-a-practical-delegation-pattern-for-enterprise-systems-16nb)
-- [Build a &quot;Where to Watch&quot; feature in 50 lines with the StreamWatchHub API](https://dev.to/kavelaltd/build-a-where-to-watch-feature-in-50-lines-with-the-streamwatchhub-api-5aob)
-- [Gemma 4 on Android: Tricks for Faster On-Device Inference](https://dev.to/samdude/gemma-4-on-android-tricks-for-faster-on-device-inference-3kj5)
-- [Your AI agent has amnesia. You&#39;ve just normalized it.](https://dev.to/soumyadeepdey/your-ai-agent-has-amnesia-youve-just-normalized-it-40bj)
+- [Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f)
+- [The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0)
+- [Gemma 4 Runs on a Raspberry Pi. Let That Sink In.](https://dev.to/red-coder-27/gemma-4-runs-on-a-raspberry-pi-let-that-sink-in-2h54)
+- [The Git Filesystem - Recreating the Content-Addressable Database](https://dev.to/arnabsantra2004/the-git-filesystem-recreating-the-content-addressable-database-444h)
+- [Why I Still Believe Our Event-Driven Architecture Was The Right Call For Veltrix](https://dev.to/dev-architecture-blog/why-i-still-believe-our-event-driven-architecture-was-the-right-call-for-veltrix-bi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
