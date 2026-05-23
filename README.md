@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f)
-- [The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0)
-- [Gemma 4 Runs on a Raspberry Pi. Let That Sink In.](https://dev.to/red-coder-27/gemma-4-runs-on-a-raspberry-pi-let-that-sink-in-2h54)
-- [The Git Filesystem - Recreating the Content-Addressable Database](https://dev.to/arnabsantra2004/the-git-filesystem-recreating-the-content-addressable-database-444h)
-- [Why I Still Believe Our Event-Driven Architecture Was The Right Call For Veltrix](https://dev.to/dev-architecture-blog/why-i-still-believe-our-event-driven-architecture-was-the-right-call-for-veltrix-bi)
+- [Dev.to Article Draft #13](https://dev.to/zny10289/devto-article-draft-13-2mkh)
+- [Beyond the Context Window: How to Build a Self-Improving AI Agent with Persistent Memory](https://dev.to/programmingcentral/beyond-the-context-window-how-to-build-a-self-improving-ai-agent-with-persistent-memory-31lh)
+- [Full Agentic Stack - 5 Ideias da Arquitetura &#39;AI-First&#39; que Vão Mudar a Forma Como Você Desenvolve Software](https://dev.to/fullagenticstack/full-agentic-stack-5-ideias-da-arquitetura-ai-first-que-vao-mudar-a-forma-como-voce-desenvolve-21l7)
+- [Supply Chain Attacks + Stale Credentials: Why This Combination Is So Dangerous in 2026](https://dev.to/alifunk/supply-chain-attacks-stale-credentials-why-this-combination-is-so-dangerous-in-2026-208g)
+- [Banning Agent PRs Won&#39;t Save Open Source](https://dev.to/entire/why-banning-agent-prs-wont-save-open-source-4822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
