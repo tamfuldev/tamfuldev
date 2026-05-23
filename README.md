@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PolicyAware vs Guardrails vs AI Gateways vs Model Routers: The Comparison Every AI Engineer Needs to Read](https://dev.to/ktirupati/policyaware-vs-guardrails-vs-ai-gateways-vs-model-routers-the-comparison-every-ai-engineer-needs-289p)
-- [Partner: An AI That Does Research While You Sleep](https://dev.to/zty522/partner-an-ai-that-does-research-while-you-sleep-jfl)
-- [Rugby Fundamentals as Software Concepts - Mapping the Pitch to your Code Base](https://dev.to/opango_timmy14/rugby-fundamentals-as-software-concepts-mapping-the-pitch-to-your-code-base-2fj7)
-- [I Let Claude Code Run Unsupervised for 24 Hours. Here&#39;s What Happened.](https://dev.to/numbpill3d/i-let-claude-code-run-unsupervised-for-24-hours-heres-what-happened-179a)
-- [Why Zed Is Replacing VS Code in My AI-Augmented Workflow](https://dev.to/numbpill3d/why-zed-is-replacing-vs-code-in-my-ai-augmented-workflow-2m9)
+- [Gemma 4 Has Four Variants. Here&#39;s How to Pick the Right One Before You Write a Single Line of Code.](https://dev.to/soumyadeepdey/gemma-4-has-four-variants-heres-how-to-pick-the-right-one-before-you-write-a-single-line-of-code-4f9d)
+- [Log Level Strategies: Balancing Observability and Cost](https://dev.to/merbayerp/log-level-strategies-balancing-observability-and-cost-3gfb)
+- [Why WebMCP Is the Most Important Thing Google Announced at I/O 2026 &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/soumyadeepdey/why-webmcp-is-the-most-important-thing-google-announced-at-io-2026-and-nobodys-talking-about-it-2edf)
+- [Making LLM Calls Reliable: Retry, Semaphore, Cache, and Batch](https://dev.to/orieken/making-llm-calls-reliable-retry-semaphore-cache-and-batch-46fi)
+- [Google&#39;s 2x Energy Efficiency Claim Is Real — But Here&#39;s What They&#39;re Not Measuring](https://dev.to/mikebains41debug/googles-2x-energy-efficiency-claim-is-real-but-heres-what-theyre-not-measuring-nik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
