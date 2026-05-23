@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Field Guide to Human–AI Relations &lpar;For the Newly Bewildered Mortal&rpar;](https://dev.to/narnaiezzsshaa/a-field-guide-to-human-ai-relations-for-the-newly-bewildered-mortal-42k9)
-- [The AI Agent That Learns While It Works — A Complete Guide to Hermes Agent](https://dev.to/aditya_007/the-ai-agent-that-learns-while-it-works-a-complete-guide-to-hermes-agent-n2n)
-- [Gemma 4: Google&#39;s Open-Weight AI Is a Game Changer for Developers](https://dev.to/subraatakumar/gemma-4-googles-open-weight-ai-is-a-game-changer-for-developers-1feg)
-- [Confessions of a Git Beginner: Why the Terminal Stopped Scaring Me](https://dev.to/bram_m/confessions-of-a-git-beginner-why-the-terminal-stopped-scaring-me-26o8)
-- [🚀 I Built a Full Stack Miro Clone with Real-Time Collaboration using Next.js](https://dev.to/prem_gaikwad_316d716c3/i-built-a-full-stack-miro-clone-with-real-time-collaboration-using-nextjs-1gda)
+- [🧠 Hermes Agent Assistant — A Modular AI Agent System with Planner, Executor &amp; Memory](https://dev.to/tanush_326k/hermes-agent-assistant-a-modular-ai-agent-system-with-planner-executor-memory-a49)
+- [Spring Boot Auto-Configuration Source Code: Nail This Interview Question](https://dev.to/ym_z_a211847c2518bf442268/spring-boot-auto-configuration-source-code-nail-this-interview-question-1g36)
+- [The Ultimate Guide to Free AI API Keys: 6 Platforms You Need to Know](https://dev.to/yashkapure06/the-ultimate-guide-to-free-ai-api-keys-6-platforms-you-need-to-know-23mi)
+- [Why 91% of AI Agents Fail in Production &lpar;And What the 9% Do Differently&rpar;](https://dev.to/hari_sathwik/why-91-of-ai-agents-fail-in-production-and-what-the-9-do-differently-3c8j)
+- [TryHackMe | Battery | WALKTHROUGH](https://dev.to/kaaayii/tryhackme-battery-walkthrough-4d4d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
