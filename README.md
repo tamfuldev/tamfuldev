@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VPC CNI en EKS: cómo dejar de pagar nodos que no usás](https://dev.to/aws-builders/vpc-cni-en-eks-como-dejar-de-pagar-nodos-que-no-usas-3de0)
-- [The Future of Text Analysis: Introducing TechnoHelps Semantic Engine](https://dev.to/technohelpsofficial/the-future-of-text-analysis-introducing-technohelps-semantic-engine-2439)
-- [I built a Chrome Extension that saves product images + context directly to Google Drive &amp; Sheets](https://dev.to/chautnus/i-built-a-chrome-extension-that-saves-product-images-context-directly-to-google-drive-sheets-317m)
-- [95+ browser-based dev tools that never touch a server](https://dev.to/fnf_08927f0ffbd60a/95-browser-based-dev-tools-that-never-touch-a-server-3li6)
-- [Ghost Bugs Cost $40K: A Neural Debugging Postmortem](https://dev.to/mihokoto/ghost-bugs-cost-40k-a-neural-debugging-postmortem-1nb3)
+- [Why Country/State/City Pickers Are Weirdly Hard](https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1)
+- [Node.js 22 LTS — EOL Date, Support Timeline, and What Comes Next](https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm)
+- [The 7-Layer Memory Architecture Behind Modern AI Agents](https://dev.to/mahmoudz/the-7-layer-memory-architecture-behind-modern-ai-agents-5060)
+- [I Imagined Hermes Agent Running an Entire Smart City — And It Changed How I See AI](https://dev.to/zenrishi/i-imagined-hermes-agent-running-an-entire-smart-city-and-it-changed-how-i-see-ai-43d1)
+- [One backend, four products: why we bet on platform-per-brand](https://dev.to/rhsumon/one-backend-four-products-why-we-bet-on-platform-per-brand-3j2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
