@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev.to Article Draft #13](https://dev.to/zny10289/devto-article-draft-13-2mkh)
-- [Beyond the Context Window: How to Build a Self-Improving AI Agent with Persistent Memory](https://dev.to/programmingcentral/beyond-the-context-window-how-to-build-a-self-improving-ai-agent-with-persistent-memory-31lh)
-- [Full Agentic Stack - 5 Ideias da Arquitetura &#39;AI-First&#39; que Vão Mudar a Forma Como Você Desenvolve Software](https://dev.to/fullagenticstack/full-agentic-stack-5-ideias-da-arquitetura-ai-first-que-vao-mudar-a-forma-como-voce-desenvolve-21l7)
-- [Supply Chain Attacks + Stale Credentials: Why This Combination Is So Dangerous in 2026](https://dev.to/alifunk/supply-chain-attacks-stale-credentials-why-this-combination-is-so-dangerous-in-2026-208g)
-- [Banning Agent PRs Won&#39;t Save Open Source](https://dev.to/entire/why-banning-agent-prs-wont-save-open-source-4822)
+- [I Spent 108 Commits Building Infrastructure. Google I/O 2026 Shipped It as One API Call.](https://dev.to/sodiqjimoh/i-spent-108-commits-building-infrastructure-google-io-2026-shipped-it-as-one-api-call-bp9)
+- [Stop Letting AI Guess Your Playwright Tests: Use Context7 MCP](https://dev.to/muhammadjon_sanaev/stop-letting-ai-guess-your-playwright-tests-use-context7-mcp-3k0i)
+- [End-to-End &lpar;E2E&rpar; testing pipeline](https://dev.to/kyl67899/end-to-end-e2e-testing-pipeline-dl8)
+- [The AI Coding Assistant Landscape in 2026: Cursor vs GitHub Copilot vs Claude Code vs JetBrains AI](https://dev.to/zny10289/the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai-4h59)
+- [Rust and the Reinvention of Operating Systems](https://dev.to/srijan-xi/rust-and-the-reinvention-of-operating-systems-28ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
