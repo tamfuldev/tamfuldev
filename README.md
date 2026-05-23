@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Reads Your Code Anymore](https://dev.to/bojan_josifoski_76e9fd65d/nobody-reads-your-code-anymore-9g5)
-- [Why I built a collection of 5 free, zero-signup career finance tools for solo builders](https://dev.to/mahmoud_mahdaali_455e190d/why-i-built-a-collection-of-5-free-zero-signup-career-finance-tools-for-solo-builders-164l)
-- [🚀 New React Challenge: Instant UI with useOptimistic](https://dev.to/reactchallenges/new-react-challenge-instant-ui-with-useoptimistic-16lc)
-- [Resolvendo a Alucinação da IA na Arquitetura de Software com Code Property Graphs e .NET 9](https://dev.to/rodrigo_furlaneti_1b337c6/resolvendo-a-alucinacao-da-ia-na-arquitetura-de-software-com-code-property-graphs-e-net-9-1mbn)
-- [S1 — Clean Backtrace Crashes: How to Diagnose and Fix Them](https://dev.to/legacycpp/debugging-c-clean-backtrace-crashes-16e0)
+- [A Field Guide to Human–AI Relations &lpar;For the Newly Bewildered Mortal&rpar;](https://dev.to/narnaiezzsshaa/a-field-guide-to-human-ai-relations-for-the-newly-bewildered-mortal-42k9)
+- [The AI Agent That Learns While It Works — A Complete Guide to Hermes Agent](https://dev.to/aditya_007/the-ai-agent-that-learns-while-it-works-a-complete-guide-to-hermes-agent-n2n)
+- [Gemma 4: Google&#39;s Open-Weight AI Is a Game Changer for Developers](https://dev.to/subraatakumar/gemma-4-googles-open-weight-ai-is-a-game-changer-for-developers-1feg)
+- [Confessions of a Git Beginner: Why the Terminal Stopped Scaring Me](https://dev.to/bram_m/confessions-of-a-git-beginner-why-the-terminal-stopped-scaring-me-26o8)
+- [🚀 I Built a Full Stack Miro Clone with Real-Time Collaboration using Next.js](https://dev.to/prem_gaikwad_316d716c3/i-built-a-full-stack-miro-clone-with-real-time-collaboration-using-nextjs-1gda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
