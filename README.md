@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [9 in 10 Docker Compose files skip the basic security flags](https://dev.to/tmatens/9-in-10-docker-compose-files-skip-the-basic-security-flags-2dpf)
-- [How to Forward Android SMS to Telegram Automatically](https://dev.to/smssender24/how-to-forward-android-sms-to-telegram-automatically-2j75)
-- [From AI Code Generation to AI System Investigation](https://dev.to/miller-28/from-ai-code-generation-to-ai-system-investigation-4b6e)
-- [I gave Gemini 3.5 Flash a CVE-fix PR to review. It found another bug in the same file.](https://dev.to/vicente_junior_dev/i-gave-gemini-35-flash-a-cve-fix-pr-to-review-it-found-another-bug-in-the-same-file-1g24)
-- [Leveraging the Wrong Scaling Patterns Will Lose You in Production](https://dev.to/nomad-revenue/leveraging-the-wrong-scaling-patterns-will-lose-you-in-production-nk1)
+- [VPC CNI en EKS: cómo dejar de pagar nodos que no usás](https://dev.to/aws-builders/vpc-cni-en-eks-como-dejar-de-pagar-nodos-que-no-usas-3de0)
+- [The Future of Text Analysis: Introducing TechnoHelps Semantic Engine](https://dev.to/technohelpsofficial/the-future-of-text-analysis-introducing-technohelps-semantic-engine-2439)
+- [I built a Chrome Extension that saves product images + context directly to Google Drive &amp; Sheets](https://dev.to/chautnus/i-built-a-chrome-extension-that-saves-product-images-context-directly-to-google-drive-sheets-317m)
+- [95+ browser-based dev tools that never touch a server](https://dev.to/fnf_08927f0ffbd60a/95-browser-based-dev-tools-that-never-touch-a-server-3li6)
+- [Ghost Bugs Cost $40K: A Neural Debugging Postmortem](https://dev.to/mihokoto/ghost-bugs-cost-40k-a-neural-debugging-postmortem-1nb3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
