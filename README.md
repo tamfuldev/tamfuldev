@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Second Brain with Gemma 4](https://dev.to/qamar_dev_01/i-built-an-ai-second-brain-with-gemma-4-5370)
-- [The Most Exciting Google I/O 2026 Announcement for Me: HTML-in-Canvas](https://dev.to/goldenthrust/the-most-exciting-google-io-2026-announcement-for-me-html-in-canvas-2jea)
-- [CrisisLens: Compressing Disaster Scenes into 200-Byte Emergency Payloads with Gemma 4](https://dev.to/msteja/crisislens-compressing-disaster-scenes-into-200-byte-emergency-payloads-with-gemma-4-130d)
-- [I&#39;m 15 and I built a todo app with Telegram Stars payments — only legal way for me to monetize before turning 18](https://dev.to/swairit/im-15-and-i-built-a-todo-app-with-telegram-stars-payments-only-legal-way-for-me-to-monetize-1nmd)
-- [Crypto Branding After the Token Launch](https://dev.to/somaryuu/crypto-branding-after-the-token-launch-53d3)
+- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8)
+- [CrowdShield AI — Smart Stadium Operating System &amp; Crowd Intelligence Platform](https://dev.to/abhisek_d36645346a8/crowdshield-ai-smart-stadium-operating-system-crowd-intelligence-platform-4m6e)
+- [I built a free AI observability tool, prove your AI is useful, not just running](https://dev.to/emmao/i-built-a-free-ai-observability-tool-prove-your-ai-is-useful-not-just-running-470a)
+- [Beyond Autocomplete: Why Google Antigravity 2.0 Changes the Rules for Indie Builders](https://dev.to/sandman_sh/beyond-autocomplete-why-google-antigravity-20-changes-the-rules-for-indie-builders-1i4)
+- [터미널 AI 에이전트 구축 &lpar;v12&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v12-42c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
