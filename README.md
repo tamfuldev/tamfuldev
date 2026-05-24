@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wasting Hours: The Production-Ready Laravel 12 + Docker Starter Kit &lpar;CI/CD Included&rpar;](https://dev.to/scriptman27/stop-wasting-hours-the-production-ready-laravel-12-docker-starter-kit-cicd-included-463n)
-- [Deploy Smart Contracts from Claude Desktop: ContractDeploy MCP Tools](https://dev.to/walletguy/deploy-smart-contracts-from-claude-desktop-contractdeploy-mcp-tools-5dpe)
-- [Diagnosing KubeAPIErrorBudgetBurn: When a 7-Year-Old Disk Takes Down Your Control Plane](https://dev.to/kashishtwts/diagnosing-kubeapierrorbudgetburn-when-a-7-year-old-disk-takes-down-your-control-plane-3md6)
-- [I built a demo for email personas – one inbox, multiple identities](https://dev.to/hj503x/i-built-a-demo-for-email-personas-one-inbox-multiple-identities-goi)
-- [Companion — A Privacy-First Health Companion for Diabetes and Hypertension](https://dev.to/passivenotcodecoment/companion-a-privacy-first-health-companion-for-diabetes-and-hypertension-1gjo)
+- [터미널 AI 에이전트 구축 &lpar;v9&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v9-1jme)
+- [What If Your Portfolio Verifier Could Actually See Your UI?](https://dev.to/soham0047/what-if-your-portfolio-verifier-could-actually-see-your-ui-58h2)
+- [Node.js Event Loop Architecture — How a Single-Threaded Runtime Handles Massive Concurrency](https://dev.to/raj_247/nodejs-event-loop-architecture-how-a-single-threaded-runtime-handles-massive-concurrency-53mp)
+- [From Concept to Code: Bringing Your Vision to Life with Michael K. Laweh](https://dev.to/klytron/from-concept-to-code-bringing-your-vision-to-life-with-michael-k-laweh-40pn)
+- [Caching Layers in 2026: CDN, App, DB, Query: What Goes Where](https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
