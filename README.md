@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8)
-- [CrowdShield AI — Smart Stadium Operating System &amp; Crowd Intelligence Platform](https://dev.to/abhisek_d36645346a8/crowdshield-ai-smart-stadium-operating-system-crowd-intelligence-platform-4m6e)
-- [I built a free AI observability tool, prove your AI is useful, not just running](https://dev.to/emmao/i-built-a-free-ai-observability-tool-prove-your-ai-is-useful-not-just-running-470a)
-- [Beyond Autocomplete: Why Google Antigravity 2.0 Changes the Rules for Indie Builders](https://dev.to/sandman_sh/beyond-autocomplete-why-google-antigravity-20-changes-the-rules-for-indie-builders-1i4)
-- [터미널 AI 에이전트 구축 &lpar;v12&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v12-42c9)
+- [I Resurrected a Dead F1 Project and Accidentally Built a Race Intelligence OS](https://dev.to/nilamadhab47/i-resurrected-a-dead-f1-project-and-accidentally-built-a-race-intelligence-os-2886)
+- [Remix Mini PC: After a Year of Dead Ends, the eMMC Finally Talks](https://dev.to/matemiller/remix-mini-pc-after-a-year-of-dead-ends-the-emmc-finally-talks-16p6)
+- [Not All Games Are Equal: The Real Difference Between a Trap and a Tool](https://dev.to/wetcat/not-all-games-are-equal-the-real-difference-between-a-trap-and-a-tool-5gf0)
+- [How to add Peppol e-invoicing to your SaaS without making it your team&#39;s problem](https://dev.to/zerolooplabs/how-to-add-peppol-e-invoicing-to-your-saas-without-making-it-your-teams-problem-1jj7)
+- [I Built a Hermes Agent to Tell Me Which Hackathons to Enter. It Told Me to Enter This One.](https://dev.to/earlgreyhot1701d/i-built-a-hermes-agent-to-tell-me-which-hackathons-to-enter-it-told-me-to-enter-this-one-jh2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
