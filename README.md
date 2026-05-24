@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cell-to-Sentence &lpar;C2S&rpar;: LLM-Powered scRNA-seq Annotation with Gemma 4](https://dev.to/dox45/cell-to-sentence-c2s-llm-powered-scrna-seq-annotation-with-gemma-4-4m9)
-- [GitHub rust-2026-template — my Rust starter in 2026](https://dev.to/d-oit/github-rust-2026-template-my-rust-starter-in-2026-20b5)
-- [Stop Editing JSON by Hand](https://dev.to/seekdb/stop-editing-json-by-hand-pj4)
-- [How I Turned an Old Movie Recommendation Project Into a Cinematic AI Platform](https://dev.to/vishal_kumar_691b5619d0dd/how-i-turned-an-old-movie-recommendation-project-into-a-cinematic-ai-platform-152j)
-- [Linux Command Line: The 25 Commands I Use Every Day &lpar;2026&rpar;](https://dev.to/armorbreak/linux-command-line-the-25-commands-i-use-every-day-2026-3kc9)
+- [I Built an AI Second Brain with Gemma 4](https://dev.to/qamar_dev_01/i-built-an-ai-second-brain-with-gemma-4-5370)
+- [The Most Exciting Google I/O 2026 Announcement for Me: HTML-in-Canvas](https://dev.to/goldenthrust/the-most-exciting-google-io-2026-announcement-for-me-html-in-canvas-2jea)
+- [CrisisLens: Compressing Disaster Scenes into 200-Byte Emergency Payloads with Gemma 4](https://dev.to/msteja/crisislens-compressing-disaster-scenes-into-200-byte-emergency-payloads-with-gemma-4-130d)
+- [I&#39;m 15 and I built a todo app with Telegram Stars payments — only legal way for me to monetize before turning 18](https://dev.to/swairit/im-15-and-i-built-a-todo-app-with-telegram-stars-payments-only-legal-way-for-me-to-monetize-1nmd)
+- [Crypto Branding After the Token Launch](https://dev.to/somaryuu/crypto-branding-after-the-token-launch-53d3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
