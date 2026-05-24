@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When a 200-Line CPQ Quote Takes 30 Seconds: Where to Look First](https://dev.to/sapotacorp/when-a-200-line-cpq-quote-takes-30-seconds-where-to-look-first-434e)
-- [SOQL Selectivity: Avoiding Full Table Scans on Million-Row Objects](https://dev.to/sapotacorp/soql-selectivity-avoiding-full-table-scans-on-million-row-objects-30cn)
-- [Piclu - A button on the kitchen counter that turns drop-in voice notes into a shopping list](https://dev.to/abhishek_borar/piclu-turning-voice-notes-into-a-shopping-list-with-local-gemma-4-1ael)
-- [Building High-Converting E-Commerce Stores for Niche Products: A Developer&#39;s Guide](https://dev.to/alexis_vitre_cd2e187da346/building-high-converting-e-commerce-stores-for-niche-products-a-developers-guide-3d2o)
-- [Monolith vs Modular Monolith vs Microservices: The Honest Decision Framework](https://dev.to/spectredevxyz/monolith-vs-modular-monolith-vs-microservices-the-honest-decision-framework-5bb5)
+- [I Reviewed 9 Web Dev Studios in Kazakhstan Before Picking One — Here&#39;s What I Found &lpar;and Why the Stack Choice Shocked Me](https://dev.to/alterbing/i-reviewed-9-web-dev-studios-in-kazakhstan-before-picking-one-heres-what-i-found-and-why-the-41id)
+- [How Agentic AI Is Changing Cross-Border Payments &lpar;and What It Means for Developers&rpar;](https://dev.to/afriex/how-agentic-ai-is-changing-cross-border-payments-and-what-it-means-for-developers-3m12)
+- [I Didn&#39;t Write a Single Line of Code. I Built It Anyway.](https://dev.to/mikecase/i-didnt-write-a-single-line-of-code-i-built-it-anyway-3ln)
+- [Source Score: Continuing Exploration of LLM Usage in Automated Workflows](https://dev.to/semmet/source-score-continuing-exploration-of-llm-usage-in-automated-workflows-eoi)
+- [Tried using the Claude Platform on AWS](https://dev.to/aws-builders/tried-using-the-claude-platform-on-aws-4dob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
