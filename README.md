@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped uploading my files to random websites and built my own tools instead](https://dev.to/puretools/i-stopped-uploading-my-files-to-random-websites-and-built-my-own-tools-instead-1h5l)
-- [Context window == RAM?](https://dev.to/mekickdemonscreator/context-window-ram-2g14)
-- [A note on building reliability infrastructure for AI agents and why post-incident debugging matters more than pre-flight validation.](https://dev.to/saferunai/a-note-on-building-reliability-infrastructure-for-ai-agents-and-why-post-incident-debugging-matters-1jf8)
-- [Claude Code vs Cursor AI: Which Should You Use in 2026?](https://dev.to/thedevbrief/claude-code-vs-cursor-ai-which-should-you-use-in-2026-18c3)
-- [&quot;I Tried Google Antigravity 2.0 — Here&#39;s Why It&#39;s Not Just Another Cursor Clone&quot;](https://dev.to/zaza_ziro_25a/i-tried-google-antigravity-20-heres-why-its-not-just-another-cursor-clone-ggi)
+- [When a 200-Line CPQ Quote Takes 30 Seconds: Where to Look First](https://dev.to/sapotacorp/when-a-200-line-cpq-quote-takes-30-seconds-where-to-look-first-434e)
+- [SOQL Selectivity: Avoiding Full Table Scans on Million-Row Objects](https://dev.to/sapotacorp/soql-selectivity-avoiding-full-table-scans-on-million-row-objects-30cn)
+- [Piclu - A button on the kitchen counter that turns drop-in voice notes into a shopping list](https://dev.to/abhishek_borar/piclu-turning-voice-notes-into-a-shopping-list-with-local-gemma-4-1ael)
+- [Building High-Converting E-Commerce Stores for Niche Products: A Developer&#39;s Guide](https://dev.to/alexis_vitre_cd2e187da346/building-high-converting-e-commerce-stores-for-niche-products-a-developers-guide-3d2o)
+- [Monolith vs Modular Monolith vs Microservices: The Honest Decision Framework](https://dev.to/spectredevxyz/monolith-vs-modular-monolith-vs-microservices-the-honest-decision-framework-5bb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
