@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [터미널 AI 에이전트 구축 &lpar;v9&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v9-1jme)
-- [What If Your Portfolio Verifier Could Actually See Your UI?](https://dev.to/soham0047/what-if-your-portfolio-verifier-could-actually-see-your-ui-58h2)
-- [Node.js Event Loop Architecture — How a Single-Threaded Runtime Handles Massive Concurrency](https://dev.to/raj_247/nodejs-event-loop-architecture-how-a-single-threaded-runtime-handles-massive-concurrency-53mp)
-- [From Concept to Code: Bringing Your Vision to Life with Michael K. Laweh](https://dev.to/klytron/from-concept-to-code-bringing-your-vision-to-life-with-michael-k-laweh-40pn)
-- [Caching Layers in 2026: CDN, App, DB, Query: What Goes Where](https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m)
+- [Cell-to-Sentence &lpar;C2S&rpar;: LLM-Powered scRNA-seq Annotation with Gemma 4](https://dev.to/dox45/cell-to-sentence-c2s-llm-powered-scrna-seq-annotation-with-gemma-4-4m9)
+- [GitHub rust-2026-template — my Rust starter in 2026](https://dev.to/d-oit/github-rust-2026-template-my-rust-starter-in-2026-20b5)
+- [Stop Editing JSON by Hand](https://dev.to/seekdb/stop-editing-json-by-hand-pj4)
+- [How I Turned an Old Movie Recommendation Project Into a Cinematic AI Platform](https://dev.to/vishal_kumar_691b5619d0dd/how-i-turned-an-old-movie-recommendation-project-into-a-cinematic-ai-platform-152j)
+- [Linux Command Line: The 25 Commands I Use Every Day &lpar;2026&rpar;](https://dev.to/armorbreak/linux-command-line-the-25-commands-i-use-every-day-2026-3kc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
