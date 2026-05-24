@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Server-Sent Events &lpar;SSE&rpar;? A Developer&#39;s Guide for 2026](https://dev.to/napster_rj/what-are-server-sent-events-sse-a-developers-guide-for-2026-4jb6)
-- [How to Test WebSocket Connections Online in 2026 — A Debugging Field Guide](https://dev.to/napster_rj/how-to-test-websocket-connections-online-in-2026-a-debugging-field-guide-1m63)
-- [SSRS reports in F&amp;O: the RDP + Contract + Controller pattern](https://dev.to/sapotacorp/ssrs-reports-in-fo-the-rdp-contract-controller-pattern-1nl2)
-- [Google Built the Perfect Deepfake Engine. Can a Hidden Pixel Signal Stop the Chaos?](https://dev.to/kislay/google-built-the-perfect-deepfake-engine-can-a-hidden-pixel-signal-stop-the-chaos-2bkh)
-- [Welcome to our Organic Coding Future](https://dev.to/sachagreif/welcome-to-our-organic-coding-future-79l)
+- [I built an AI IDE where the AI tries to hack its own code here&#39;s how the swarm works](https://dev.to/malgatyuvraj/i-built-an-ai-ide-where-the-ai-tries-to-hack-its-own-code-heres-how-the-swarm-works-28a5)
+- [From Govhack Win to Something That Actually Matters](https://dev.to/ujja/from-govhack-win-to-something-that-actually-matters-2mmi)
+- [AI Coding &amp; Vibe Coding: Build Faster Without Losing the Plot](https://dev.to/nimay_04/ai-coding-vibe-coding-build-faster-without-losing-the-plot-b2c)
+- [Fine-Tuning Gemma 4 for Function Calling with TRL&#39;s New Multimodal Tool Support](https://dev.to/pulkitgovrani/fine-tuning-gemma-4-for-function-calling-with-trls-new-multimodal-tool-support-4ghf)
+- [Gemma 4 Scored 89.2% on AIME. Here&#39;s Why That Number Should Change How You Think About Open-Source AI](https://dev.to/pulkitgovrani/gemma-4-scored-892-on-aime-heres-why-that-number-should-change-how-you-think-about-open-source-5aem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
