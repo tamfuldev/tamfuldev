@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI IDE where the AI tries to hack its own code here&#39;s how the swarm works](https://dev.to/malgatyuvraj/i-built-an-ai-ide-where-the-ai-tries-to-hack-its-own-code-heres-how-the-swarm-works-28a5)
-- [From Govhack Win to Something That Actually Matters](https://dev.to/ujja/from-govhack-win-to-something-that-actually-matters-2mmi)
-- [AI Coding &amp; Vibe Coding: Build Faster Without Losing the Plot](https://dev.to/nimay_04/ai-coding-vibe-coding-build-faster-without-losing-the-plot-b2c)
-- [Fine-Tuning Gemma 4 for Function Calling with TRL&#39;s New Multimodal Tool Support](https://dev.to/pulkitgovrani/fine-tuning-gemma-4-for-function-calling-with-trls-new-multimodal-tool-support-4ghf)
-- [Gemma 4 Scored 89.2% on AIME. Here&#39;s Why That Number Should Change How You Think About Open-Source AI](https://dev.to/pulkitgovrani/gemma-4-scored-892-on-aime-heres-why-that-number-should-change-how-you-think-about-open-source-5aem)
+- [Stop Wasting Hours: The Production-Ready Laravel 12 + Docker Starter Kit &lpar;CI/CD Included&rpar;](https://dev.to/scriptman27/stop-wasting-hours-the-production-ready-laravel-12-docker-starter-kit-cicd-included-463n)
+- [Deploy Smart Contracts from Claude Desktop: ContractDeploy MCP Tools](https://dev.to/walletguy/deploy-smart-contracts-from-claude-desktop-contractdeploy-mcp-tools-5dpe)
+- [Diagnosing KubeAPIErrorBudgetBurn: When a 7-Year-Old Disk Takes Down Your Control Plane](https://dev.to/kashishtwts/diagnosing-kubeapierrorbudgetburn-when-a-7-year-old-disk-takes-down-your-control-plane-3md6)
+- [I built a demo for email personas – one inbox, multiple identities](https://dev.to/hj503x/i-built-a-demo-for-email-personas-one-inbox-multiple-identities-goi)
+- [Companion — A Privacy-First Health Companion for Diabetes and Hypertension](https://dev.to/passivenotcodecoment/companion-a-privacy-first-health-companion-for-diabetes-and-hypertension-1gjo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
