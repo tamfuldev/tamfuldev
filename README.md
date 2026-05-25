@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [India’s Laws Were Not Built for AI — And Courts Are Filling the Gap](https://dev.to/legalcastlegroup/indias-laws-were-not-built-for-ai-and-courts-are-filling-the-gap-5fm4)
-- [skill-insp: A Skill That Scores Other Skills](https://dev.to/conanttu/skill-insp-a-skill-that-scores-other-skills-3gga)
-- [Clprolf Minimalist](https://dev.to/charles_koffler_bcabc582b/clprolf-minimalist-mf8)
-- [Messaging in the Age of AI](https://dev.to/pravin-khandke/messaging-in-the-age-of-ai-26h7)
-- [Building Strong Python Basics – Loops, Functions and Logic](https://dev.to/vinayagam_6a170db9281d526/building-strong-python-basics-loops-functions-and-logic-285j)
+- [When APIs Lie: A Lesson in Defensive Debugging](https://dev.to/chris_lee_5e58cce05f5d01d/when-apis-lie-a-lesson-in-defensive-debugging-291j)
+- [Why QA Engineers Should Learn Playwright MCP](https://dev.to/muhammadjon_sanaev/why-qa-engineers-should-learn-playwright-mcp-nbf)
+- [El Dilema del Renderizado: Guía de Ingeniería de Software para Dominar Googlebot y los Answer Engines de IA](https://dev.to/carlous1991/el-dilema-del-renderizado-guia-de-ingenieria-de-software-para-dominar-googlebot-y-los-answer-5dgn)
+- [Pope Leo XIV&#39;s AI Encyclical: What Builders Must Know &lpar;2026&rpar;](https://dev.to/akaranjkar08/pope-leo-xivs-ai-encyclical-what-builders-must-know-2026-423c)
+- [Donna v0.3.0](https://dev.to/nikolas_skyl/donna-v030-4kj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
