@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RAG 시스템 실전 구축 &lpar;v38&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v38-437f)
-- [Beyond Pip Install: Why Your AI Agent Needs a &quot;Hermetic&quot; Life-Support System to Survive](https://dev.to/programmingcentral/beyond-pip-install-why-your-ai-agent-needs-a-hermetic-life-support-system-to-survive-3dhn)
-- [Resume Building using HTML &amp; CSS](https://dev.to/annapoo/resume-building-using-html-css-3kf4)
-- [SpecFlow: Multi-Agent SDD in Cursor &lpar;4 phases, /approve, single code writer&rpar;](https://dev.to/matas_espinoza_aaab42da0/specflow-multi-agent-sdd-in-cursor-4-phases-approve-single-code-writer-3nnl)
-- [Running ASR for smart homes in the NPU of Intel processors](https://dev.to/cibernox/running-asr-for-smart-homes-in-the-npu-of-intel-processors-2iec)
+- [A prompt is not a conversation. It&#39;s a component contract.](https://dev.to/csalda3a/a-prompt-is-not-a-conversation-its-a-component-contract-4jk8)
+- [How to Pass the EAA 2025 Accessibility Audit — A Step-by-Step WCAG Checklist](https://dev.to/toolkitonline/how-to-pass-the-eaa-2025-accessibility-audit-a-step-by-step-wcag-checklist-1kl)
+- [Building an Autonomous MCP Lead Generation System with Hermes Agent](https://dev.to/nujovich/building-an-autonomous-mcp-lead-generation-system-with-hermes-agent-gf4)
+- [LangGraph 워크플로우 템플릿 &lpar;v40&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v40-195l)
+- [How I Built 100 Browser-Based Image Tools With No Server &lpar;FFmpeg WASM, PDF-lib, AI Background Removal&rpar;](https://dev.to/imgtoolkit/how-i-built-100-browser-based-image-tools-with-no-server-ffmpeg-wasm-pdf-lib-ai-background-5838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
