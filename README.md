@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t fall for the Claude Mythos hype](https://dev.to/hulkinpublic/dont-fall-for-the-claude-mythos-hype-1lcl)
-- [Vestige: A Gemma 4 Brain Tracker That Won&#39;t Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
-- [Gemminate: Transforming Static Textbooks into Interactive Learning Journeys with Gemma 4](https://dev.to/folefac_martins_44a2bca70/gemminate-transforming-static-textbooks-into-interactive-learning-journeys-with-gemma-4-65g)
-- [Where Did All the Code Playgrounds Go?](https://dev.to/madrigal-a/where-did-all-the-code-playgrounds-go-4lk2)
-- [I built PROOFER - Privacy first Chrome extension that proofreads your texts using Gemma 4](https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7)
+- [Gemma 4: The 128K Multimodal Powerhouse in Your Terminal](https://dev.to/ajaymourya/gemma-4-the-128k-multimodal-powerhouse-in-your-terminal-46id)
+- [How to Consolidate Your QA Toolstack: A Practical Buyer&#39;s Guide](https://dev.to/depapp/how-to-consolidate-your-qa-toolstack-a-practical-buyers-guide-46ao)
+- [The Thank-You Email Almost Nobody Sends &lpar;And Why That&#39;s Your Edge&rpar;](https://dev.to/sarah_m/the-thank-you-email-almost-nobody-sends-and-why-thats-your-edge-4430)
+- [Schema Types 2026](https://dev.to/joseph_anady_214bacedf939/schema-types-2026-26p5)
+- [Idempotency Keys: The API Safety Net You&#39;re Probably Not Using](https://dev.to/apikumo/idempotency-keys-the-api-safety-net-youre-probably-not-using-41gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
