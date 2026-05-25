@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Interview Prep Stack I Used as a Senior Software Engineer Targeting Big Tech](https://dev.to/emily_davis_6bf6e94308541/the-interview-prep-stack-i-used-as-a-senior-software-engineer-targeting-big-tech-kk4)
-- [Gemma4 Challenge](https://dev.to/jowi00000/gemma4-challenge-356b)
-- [OptiLearn - Powered by Google Gemma 4](https://dev.to/sasiru_virajith/optilearn-powered-by-google-gemma-4-2c7m)
-- [Aura — The Gemma 4 Powered Agentic Web Copilot &amp; Self-Healing Accessibility Engine](https://dev.to/keshav_arora_f3092ee91fcc/aura-the-gemma-4-powered-agentic-web-copilot-self-healing-accessibility-engine-5f8l)
-- [I built a tool that catches misleading charts using Gemma 4 running locally](https://dev.to/kumaraswamy_chavvakula_4f/i-built-a-tool-that-catches-misleading-charts-using-gemma-4-running-locally-cao)
+- [Lock Down Your Cloud Shares: A Beginner’s Guide to Azure Files Security.](https://dev.to/degreatkhali/lock-down-your-cloud-shares-a-beginners-guide-to-azure-files-security-1ld3)
+- [Building a Multi-Channel Content Syndication Pipeline with EmDash Plugins](https://dev.to/tuannx/building-a-multi-channel-content-syndication-pipeline-with-emdash-plugins-3934)
+- [Turn Your Phone Into Voice Input for Any React Text Field](https://dev.to/gabor_tatar_2ed46051795f9/turn-your-phone-into-voice-input-for-any-react-text-field-1p52)
+- [Which package is bloating your Docker image?](https://dev.to/mk668a/which-package-is-bloating-your-docker-image-21j6)
+- [Putting Claude Code Under Version Control: Configs Since July, Memory Since April](https://dev.to/heysash/putting-claude-code-under-version-control-configs-since-july-memory-since-april-29b1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
