@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4: The 128K Multimodal Powerhouse in Your Terminal](https://dev.to/ajaymourya/gemma-4-the-128k-multimodal-powerhouse-in-your-terminal-46id)
-- [How to Consolidate Your QA Toolstack: A Practical Buyer&#39;s Guide](https://dev.to/depapp/how-to-consolidate-your-qa-toolstack-a-practical-buyers-guide-46ao)
-- [The Thank-You Email Almost Nobody Sends &lpar;And Why That&#39;s Your Edge&rpar;](https://dev.to/sarah_m/the-thank-you-email-almost-nobody-sends-and-why-thats-your-edge-4430)
-- [Schema Types 2026](https://dev.to/joseph_anady_214bacedf939/schema-types-2026-26p5)
-- [Idempotency Keys: The API Safety Net You&#39;re Probably Not Using](https://dev.to/apikumo/idempotency-keys-the-api-safety-net-youre-probably-not-using-41gh)
+- [The Interview Prep Stack I Used as a Senior Software Engineer Targeting Big Tech](https://dev.to/emily_davis_6bf6e94308541/the-interview-prep-stack-i-used-as-a-senior-software-engineer-targeting-big-tech-kk4)
+- [Gemma4 Challenge](https://dev.to/jowi00000/gemma4-challenge-356b)
+- [OptiLearn - Powered by Google Gemma 4](https://dev.to/sasiru_virajith/optilearn-powered-by-google-gemma-4-2c7m)
+- [Aura — The Gemma 4 Powered Agentic Web Copilot &amp; Self-Healing Accessibility Engine](https://dev.to/keshav_arora_f3092ee91fcc/aura-the-gemma-4-powered-agentic-web-copilot-self-healing-accessibility-engine-5f8l)
+- [I built a tool that catches misleading charts using Gemma 4 running locally](https://dev.to/kumaraswamy_chavvakula_4f/i-built-a-tool-that-catches-misleading-charts-using-gemma-4-running-locally-cao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
