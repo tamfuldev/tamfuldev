@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When APIs Lie: A Lesson in Defensive Debugging](https://dev.to/chris_lee_5e58cce05f5d01d/when-apis-lie-a-lesson-in-defensive-debugging-291j)
-- [Why QA Engineers Should Learn Playwright MCP](https://dev.to/muhammadjon_sanaev/why-qa-engineers-should-learn-playwright-mcp-nbf)
-- [El Dilema del Renderizado: Guía de Ingeniería de Software para Dominar Googlebot y los Answer Engines de IA](https://dev.to/carlous1991/el-dilema-del-renderizado-guia-de-ingenieria-de-software-para-dominar-googlebot-y-los-answer-5dgn)
-- [Pope Leo XIV&#39;s AI Encyclical: What Builders Must Know &lpar;2026&rpar;](https://dev.to/akaranjkar08/pope-leo-xivs-ai-encyclical-what-builders-must-know-2026-423c)
-- [Donna v0.3.0](https://dev.to/nikolas_skyl/donna-v030-4kj1)
+- [RAG 시스템 실전 구축 &lpar;v38&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v38-437f)
+- [Beyond Pip Install: Why Your AI Agent Needs a &quot;Hermetic&quot; Life-Support System to Survive](https://dev.to/programmingcentral/beyond-pip-install-why-your-ai-agent-needs-a-hermetic-life-support-system-to-survive-3dhn)
+- [Resume Building using HTML &amp; CSS](https://dev.to/annapoo/resume-building-using-html-css-3kf4)
+- [SpecFlow: Multi-Agent SDD in Cursor &lpar;4 phases, /approve, single code writer&rpar;](https://dev.to/matas_espinoza_aaab42da0/specflow-multi-agent-sdd-in-cursor-4-phases-approve-single-code-writer-3nnl)
+- [Running ASR for smart homes in the NPU of Intel processors](https://dev.to/cibernox/running-asr-for-smart-homes-in-the-npu-of-intel-processors-2iec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
