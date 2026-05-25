@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A prompt is not a conversation. It&#39;s a component contract.](https://dev.to/csalda3a/a-prompt-is-not-a-conversation-its-a-component-contract-4jk8)
-- [How to Pass the EAA 2025 Accessibility Audit — A Step-by-Step WCAG Checklist](https://dev.to/toolkitonline/how-to-pass-the-eaa-2025-accessibility-audit-a-step-by-step-wcag-checklist-1kl)
-- [Building an Autonomous MCP Lead Generation System with Hermes Agent](https://dev.to/nujovich/building-an-autonomous-mcp-lead-generation-system-with-hermes-agent-gf4)
-- [LangGraph 워크플로우 템플릿 &lpar;v40&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v40-195l)
-- [How I Built 100 Browser-Based Image Tools With No Server &lpar;FFmpeg WASM, PDF-lib, AI Background Removal&rpar;](https://dev.to/imgtoolkit/how-i-built-100-browser-based-image-tools-with-no-server-ffmpeg-wasm-pdf-lib-ai-background-5838)
+- [I Gave My AI Agent the Ability to Research Before It Writes — Here’s What Changed](https://dev.to/ivancazares2k/i-gave-my-ai-agent-the-ability-to-research-before-it-writes-heres-what-changed-d9)
+- [Kubernetes sem Cloud Provider &lpar;Parte 2&rpar;: Criando Operators em Go para automação e self-service de plataforma](https://dev.to/pramos/kubernetes-sem-cloud-provider-parte-2-criando-operators-em-go-para-automacao-e-self-service-de-1pp9)
+- [AI Memory Needs an Authority Policy, Not Just More Context](https://dev.to/zep1997/ai-memory-needs-an-authority-policy-not-just-more-context-2jkk)
+- [You&#39;ve done tutorial after tutorial. Your GitHub is still empty. &lpar;Free 1‑page PDF, no signup&rpar;](https://dev.to/sohail_4/youve-done-tutorial-after-tutorial-your-github-is-still-empty-free-1-page-pdf-no-signup-42gb)
+- [TypeScript 7.0: The Go Compiler That Makes TS 10x Faster](https://dev.to/grimicorn/typescript-70-the-go-compiler-that-makes-ts-10x-faster-4al6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
