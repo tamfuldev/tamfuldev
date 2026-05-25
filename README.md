@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lock Down Your Cloud Shares: A Beginner’s Guide to Azure Files Security.](https://dev.to/degreatkhali/lock-down-your-cloud-shares-a-beginners-guide-to-azure-files-security-1ld3)
-- [Building a Multi-Channel Content Syndication Pipeline with EmDash Plugins](https://dev.to/tuannx/building-a-multi-channel-content-syndication-pipeline-with-emdash-plugins-3934)
-- [Turn Your Phone Into Voice Input for Any React Text Field](https://dev.to/gabor_tatar_2ed46051795f9/turn-your-phone-into-voice-input-for-any-react-text-field-1p52)
-- [Which package is bloating your Docker image?](https://dev.to/mk668a/which-package-is-bloating-your-docker-image-21j6)
-- [Putting Claude Code Under Version Control: Configs Since July, Memory Since April](https://dev.to/heysash/putting-claude-code-under-version-control-configs-since-july-memory-since-april-29b1)
+- [How to Build a High-Performance Image Optimization Pipeline in 5 Minutes](https://dev.to/roman_klymenko_39f1198f16/how-to-build-a-high-performance-image-optimization-pipeline-in-5-minutes-41nc)
+- [50 Linux Commands Every DevOps Engineer Must Know](https://dev.to/pawan_natekar_8b1ab344624/50-linux-commands-every-devops-engineer-must-know-1hke)
+- [Less Toil, More Flow - Automating the Path from Request to Implementation](https://dev.to/dvddpl/less-toil-more-flow-automating-the-path-from-request-to-implementation-328k)
+- [The Code Review Checklist I Actually Use](https://dev.to/pixel-wraith/the-code-review-checklist-i-actually-use-9ok)
+- [How I run a small blog on Astro 5 + Content Collections](https://dev.to/aulvem/how-i-run-a-small-blog-on-astro-5-content-collections-4m3i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
