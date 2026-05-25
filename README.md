@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a High-Performance Image Optimization Pipeline in 5 Minutes](https://dev.to/roman_klymenko_39f1198f16/how-to-build-a-high-performance-image-optimization-pipeline-in-5-minutes-41nc)
-- [50 Linux Commands Every DevOps Engineer Must Know](https://dev.to/pawan_natekar_8b1ab344624/50-linux-commands-every-devops-engineer-must-know-1hke)
-- [Less Toil, More Flow - Automating the Path from Request to Implementation](https://dev.to/dvddpl/less-toil-more-flow-automating-the-path-from-request-to-implementation-328k)
-- [The Code Review Checklist I Actually Use](https://dev.to/pixel-wraith/the-code-review-checklist-i-actually-use-9ok)
-- [How I run a small blog on Astro 5 + Content Collections](https://dev.to/aulvem/how-i-run-a-small-blog-on-astro-5-content-collections-4m3i)
+- [India’s Laws Were Not Built for AI — And Courts Are Filling the Gap](https://dev.to/legalcastlegroup/indias-laws-were-not-built-for-ai-and-courts-are-filling-the-gap-5fm4)
+- [skill-insp: A Skill That Scores Other Skills](https://dev.to/conanttu/skill-insp-a-skill-that-scores-other-skills-3gga)
+- [Clprolf Minimalist](https://dev.to/charles_koffler_bcabc582b/clprolf-minimalist-mf8)
+- [Messaging in the Age of AI](https://dev.to/pravin-khandke/messaging-in-the-age-of-ai-26h7)
+- [Building Strong Python Basics – Loops, Functions and Logic](https://dev.to/vinayagam_6a170db9281d526/building-strong-python-basics-loops-functions-and-logic-285j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
