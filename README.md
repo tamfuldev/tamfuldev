@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built 3 products solo as a CA student using AI — no coding background](https://dev.to/aakashgupta____/how-i-built-3-products-solo-as-a-ca-student-using-ai-no-coding-background-1m88)
-- [What is AEO? How to Get ChatGPT, Perplexity &amp; AI Search Engines to Cite Your Website — 2026 Guide](https://dev.to/ppcvote/what-is-aeo-how-to-get-chatgpt-perplexity-ai-search-engines-to-cite-your-website-2026-guide-nmc)
-- [HTTP rate-control headers: canonical reference](https://dev.to/joseph_anady_214bacedf939/http-rate-control-headers-canonical-reference-419h)
-- [Im attending Manifest 2026!](https://dev.to/1grace/im-attending-manifest-2026-1p73)
-- [AI Music Doesn’t Need Better Prompts — It Needs Better Systems](https://dev.to/wesley_cd57c0eb0d1c550778/ai-music-doesnt-need-better-prompts-it-needs-better-systems-16kg)
+- [Score Big with Power Apps: A Step-by-Step Guide to Custom Football APIs](https://dev.to/niacrisss/score-big-with-power-apps-a-step-by-step-guide-to-custom-football-apis-2mkc)
+- [IaC Drift Is Inevitable — Design for Detection, Not Prevention](https://dev.to/ntctech/iac-drift-is-inevitable-design-for-detection-not-prevention-5ej)
+- [I Built a CLI Tool That Writes Better Git Commits Than I Do](https://dev.to/z_z_c01afd7cf4c3764a2c73d/i-built-a-cli-tool-that-writes-better-git-commits-than-i-do-82f)
+- [Adding Text Selection to Bash](https://dev.to/simonleary42/adding-text-selection-to-bash-4dbc)
+- [I Built an Android App With Zero Backend — Here&#39;s What Happened](https://dev.to/masaji_works/i-built-an-android-app-with-zero-backend-heres-what-happened-1041)
 <!-- BLOG-POST-LIST:END -->
 
 ---
