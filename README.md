@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Big “Cult App” Probably Isn’t Another Social Media Platform](https://dev.to/nish2005karsh/the-next-big-cult-app-probably-isnt-another-social-media-platform-4agf)
-- [From Template to Production-Shaped: An AI-Native Dev Flow for Go Side Projects](https://dev.to/kanchen_lin_331136af621d/from-template-to-production-shaped-an-ai-native-dev-flow-for-go-side-projects-245g)
-- [Idempotency Keys: The API Pattern That Saves You From Duplicate Payments and Phantom Records](https://dev.to/apikumo/idempotency-keys-the-api-pattern-that-saves-you-from-duplicate-payments-and-phantom-records-51b2)
-- [Everyone&#39;s Building Jarvis. Nobody&#39;s Even Close.](https://dev.to/joshadler/everyones-building-jarvis-nobodys-even-close-4jo9)
-- [The Moment the Jaeger Tracer Exhausted Itself and What We Switched To](https://dev.to/built-from-africa/the-moment-the-jaeger-tracer-exhausted-itself-and-what-we-switched-to-15m8)
+- [How I built 3 products solo as a CA student using AI — no coding background](https://dev.to/aakashgupta____/how-i-built-3-products-solo-as-a-ca-student-using-ai-no-coding-background-1m88)
+- [What is AEO? How to Get ChatGPT, Perplexity &amp; AI Search Engines to Cite Your Website — 2026 Guide](https://dev.to/ppcvote/what-is-aeo-how-to-get-chatgpt-perplexity-ai-search-engines-to-cite-your-website-2026-guide-nmc)
+- [HTTP rate-control headers: canonical reference](https://dev.to/joseph_anady_214bacedf939/http-rate-control-headers-canonical-reference-419h)
+- [Im attending Manifest 2026!](https://dev.to/1grace/im-attending-manifest-2026-1p73)
+- [AI Music Doesn’t Need Better Prompts — It Needs Better Systems](https://dev.to/wesley_cd57c0eb0d1c550778/ai-music-doesnt-need-better-prompts-it-needs-better-systems-16kg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
