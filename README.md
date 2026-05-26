@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My AI Agent the Ability to Research Before It Writes — Here’s What Changed](https://dev.to/ivancazares2k/i-gave-my-ai-agent-the-ability-to-research-before-it-writes-heres-what-changed-d9)
-- [Kubernetes sem Cloud Provider &lpar;Parte 2&rpar;: Criando Operators em Go para automação e self-service de plataforma](https://dev.to/pramos/kubernetes-sem-cloud-provider-parte-2-criando-operators-em-go-para-automacao-e-self-service-de-1pp9)
-- [AI Memory Needs an Authority Policy, Not Just More Context](https://dev.to/zep1997/ai-memory-needs-an-authority-policy-not-just-more-context-2jkk)
-- [You&#39;ve done tutorial after tutorial. Your GitHub is still empty. &lpar;Free 1‑page PDF, no signup&rpar;](https://dev.to/sohail_4/youve-done-tutorial-after-tutorial-your-github-is-still-empty-free-1-page-pdf-no-signup-42gb)
-- [TypeScript 7.0: The Go Compiler That Makes TS 10x Faster](https://dev.to/grimicorn/typescript-70-the-go-compiler-that-makes-ts-10x-faster-4al6)
+- [The Next Big “Cult App” Probably Isn’t Another Social Media Platform](https://dev.to/nish2005karsh/the-next-big-cult-app-probably-isnt-another-social-media-platform-4agf)
+- [From Template to Production-Shaped: An AI-Native Dev Flow for Go Side Projects](https://dev.to/kanchen_lin_331136af621d/from-template-to-production-shaped-an-ai-native-dev-flow-for-go-side-projects-245g)
+- [Idempotency Keys: The API Pattern That Saves You From Duplicate Payments and Phantom Records](https://dev.to/apikumo/idempotency-keys-the-api-pattern-that-saves-you-from-duplicate-payments-and-phantom-records-51b2)
+- [Everyone&#39;s Building Jarvis. Nobody&#39;s Even Close.](https://dev.to/joshadler/everyones-building-jarvis-nobodys-even-close-4jo9)
+- [The Moment the Jaeger Tracer Exhausted Itself and What We Switched To](https://dev.to/built-from-africa/the-moment-the-jaeger-tracer-exhausted-itself-and-what-we-switched-to-15m8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
