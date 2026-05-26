@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Blob Storage for Beginners: Private Access, SAS Tokens &amp; Cost Savings Explained](https://dev.to/wokoma/azure-blob-storage-for-beginners-private-access-sas-tokens-cost-savings-explained-43ma)
-- [I&#39;m building a TypeScript data grid where config reads like English](https://dev.to/elitegridhq/im-building-a-typescript-data-grid-where-config-reads-like-english-5b14)
-- [Revamped Proof for Finish-Up-A-Thon](https://dev.to/bee6ix/revamped-proof-for-finish-up-a-thon-ega)
-- [Selectors and its uses in HTML &amp; CSS](https://dev.to/kamalesh_ar_6252544786997/selectors-and-its-uses-in-html-css-4f39)
-- [Bronto for Fastly: Real-Time CDN Logging That Actually Scales](https://dev.to/bronto_io/bronto-for-fastly-real-time-cdn-logging-that-actually-scales-b1k)
+- [Mastering Structured JSON Outputs with Gemini API](https://dev.to/ebendttl/mastering-structured-json-outputs-with-gemini-api-9j)
+- [ATR Implements the Detection Layer the NSA Identified as Missing in MCP](https://dev.to/realadam557/atr-implements-the-detection-layer-the-nsa-identified-as-missing-in-mcp-4c24)
+- [I tried both Cursor and Antigravity&lpar;1.20&rpar; - Switching Context - which one is better?](https://dev.to/elementalsilk/i-tried-both-cursor-and-antigravity120-switching-context-which-one-is-better-peg)
+- [Negative Lookups in Bf-Tree: Caching Things That Don&#39;t Exist](https://dev.to/lovestaco/negative-lookups-in-bf-tree-caching-things-that-dont-exist-23l0)
+- [My Struggles as a Software Engineer in 2026](https://dev.to/callmeizzy/my-struggles-as-a-software-engineer-in-2026-1890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
