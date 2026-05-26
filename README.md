@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scale Wars #5 — Twitter: The Fan-out Pattern and the Architecture Behind 140 Characters](https://dev.to/turacthethinker/scale-wars-5-twitter-the-fan-out-pattern-and-the-architecture-behind-140-characters-bpg)
-- [Retrying HTTP Requests in Go Without Making It Worse](https://dev.to/krishankumar01/retrying-http-requests-in-go-without-making-it-worse-48mj)
-- [Building a Vector Search Engine from Scratch: The Math and Mechanics of HNSW](https://dev.to/ebendttl/building-a-vector-search-engine-from-scratch-the-math-and-mechanics-of-hnsw-4om3)
-- [Technical Due Diligence Checklist for Startup Investors &lpar;2026&rpar;](https://dev.to/themuneebh/technical-due-diligence-checklist-for-startup-investors-2026-2akg)
-- [My AI agent ran overnight and I woke up to a $47 bill — so I built a kill-switch](https://dev.to/robat_das_3c6e956212f6408/my-ai-agent-ran-overnight-and-i-woke-up-to-a-47-bill-so-i-built-a-kill-switch-3c9)
+- [Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds](https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c)
+- [We Asked 10 LLMs to Write Efficient Code. Only 4 Got Better.](https://dev.to/vystartasv/we-asked-10-llms-to-write-efficient-code-only-4-got-better-47gf)
+- [10 Models Tested: From 81.6% to 10%. The Free Tier is a Full-On Gamble.](https://dev.to/vystartasv/10-models-tested-from-816-to-10-the-free-tier-is-a-full-on-gamble-4kfc)
+- [Building a Browser-Based Free Isometric Illustration Maker for Modern UI Animation Workflows](https://dev.to/uianimation/building-a-browser-based-free-isometric-illustration-maker-for-modern-ui-animation-workflows-3ppc)
+- [Use Blunt Prompts and Get Shit Done](https://dev.to/suckup_de/use-blunt-prompts-and-get-shit-done-4mdd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
