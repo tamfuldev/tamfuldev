@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Score Big with Power Apps: A Step-by-Step Guide to Custom Football APIs](https://dev.to/niacrisss/score-big-with-power-apps-a-step-by-step-guide-to-custom-football-apis-2mkc)
-- [IaC Drift Is Inevitable — Design for Detection, Not Prevention](https://dev.to/ntctech/iac-drift-is-inevitable-design-for-detection-not-prevention-5ej)
-- [I Built a CLI Tool That Writes Better Git Commits Than I Do](https://dev.to/z_z_c01afd7cf4c3764a2c73d/i-built-a-cli-tool-that-writes-better-git-commits-than-i-do-82f)
-- [Adding Text Selection to Bash](https://dev.to/simonleary42/adding-text-selection-to-bash-4dbc)
-- [I Built an Android App With Zero Backend — Here&#39;s What Happened](https://dev.to/masaji_works/i-built-an-android-app-with-zero-backend-heres-what-happened-1041)
+- [Azure Blob Storage for Beginners: Private Access, SAS Tokens &amp; Cost Savings Explained](https://dev.to/wokoma/azure-blob-storage-for-beginners-private-access-sas-tokens-cost-savings-explained-43ma)
+- [I&#39;m building a TypeScript data grid where config reads like English](https://dev.to/elitegridhq/im-building-a-typescript-data-grid-where-config-reads-like-english-5b14)
+- [Revamped Proof for Finish-Up-A-Thon](https://dev.to/bee6ix/revamped-proof-for-finish-up-a-thon-ega)
+- [Selectors and its uses in HTML &amp; CSS](https://dev.to/kamalesh_ar_6252544786997/selectors-and-its-uses-in-html-css-4f39)
+- [Bronto for Fastly: Real-Time CDN Logging That Actually Scales](https://dev.to/bronto_io/bronto-for-fastly-real-time-cdn-logging-that-actually-scales-b1k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
