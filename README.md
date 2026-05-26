@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Structured JSON Outputs with Gemini API](https://dev.to/ebendttl/mastering-structured-json-outputs-with-gemini-api-9j)
-- [ATR Implements the Detection Layer the NSA Identified as Missing in MCP](https://dev.to/realadam557/atr-implements-the-detection-layer-the-nsa-identified-as-missing-in-mcp-4c24)
-- [I tried both Cursor and Antigravity&lpar;1.20&rpar; - Switching Context - which one is better?](https://dev.to/elementalsilk/i-tried-both-cursor-and-antigravity120-switching-context-which-one-is-better-peg)
-- [Negative Lookups in Bf-Tree: Caching Things That Don&#39;t Exist](https://dev.to/lovestaco/negative-lookups-in-bf-tree-caching-things-that-dont-exist-23l0)
-- [My Struggles as a Software Engineer in 2026](https://dev.to/callmeizzy/my-struggles-as-a-software-engineer-in-2026-1890)
+- [Scale Wars #5 — Twitter: The Fan-out Pattern and the Architecture Behind 140 Characters](https://dev.to/turacthethinker/scale-wars-5-twitter-the-fan-out-pattern-and-the-architecture-behind-140-characters-bpg)
+- [Retrying HTTP Requests in Go Without Making It Worse](https://dev.to/krishankumar01/retrying-http-requests-in-go-without-making-it-worse-48mj)
+- [Building a Vector Search Engine from Scratch: The Math and Mechanics of HNSW](https://dev.to/ebendttl/building-a-vector-search-engine-from-scratch-the-math-and-mechanics-of-hnsw-4om3)
+- [Technical Due Diligence Checklist for Startup Investors &lpar;2026&rpar;](https://dev.to/themuneebh/technical-due-diligence-checklist-for-startup-investors-2026-2akg)
+- [My AI agent ran overnight and I woke up to a $47 bill — so I built a kill-switch](https://dev.to/robat_das_3c6e956212f6408/my-ai-agent-ran-overnight-and-i-woke-up-to-a-47-bill-so-i-built-a-kill-switch-3c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
