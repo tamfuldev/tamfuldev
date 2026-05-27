@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Superpower Behind Smart Decisions: Python in Data Analytics](https://dev.to/amailuk/a-superpower-behind-smart-decisions-python-in-data-analytics-211d)
-- [Base64 explained — what it is, when to use it, and the gotchas that bite developers](https://dev.to/willivan0706/base64-explained-what-it-is-when-to-use-it-and-the-gotchas-that-bite-developers-p8p)
-- [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l)
-- [I built 39 free browser-based dev tools — here&#39;s every decision I made and why](https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3)
-- [BrowserRouter](https://dev.to/mohandassmani/browserrouter-15jl)
+- [The auth_rls_initplan linter has a blind spot: SECURITY DEFINER bodies](https://dev.to/arvavit/the-authrlsinitplan-linter-has-a-blind-spot-security-definer-bodies-3hn5)
+- [Upgrading OtakuShelf to JHipster 9.1.0](https://dev.to/avdev4j/44-upgrading-otakushelf-to-jhipster-910-242)
+- [Polishing the catalog &lpar;and reading the agent&#39;s receipts&rpar;](https://dev.to/avdev4j/polishing-the-catalog-and-reading-the-agents-receipts-2c0g)
+- [Adding the anime side without holding my breath](https://dev.to/avdev4j/24-adding-the-anime-side-without-holding-my-breath-1617)
+- [Pairing up: scaffolding OtakuShelf with an agent](https://dev.to/avdev4j/14-pairing-up-scaffolding-otakushelf-with-an-agent-4j4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
