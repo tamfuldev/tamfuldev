@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop the Leak: A Developer’s Guide to Taming the AWS RDS Bill in 2026](https://dev.to/sourabhkapoor/stop-the-leak-a-developers-guide-to-taming-the-aws-rds-bill-in-2026-100p)
-- [How to Decode JWT Tokens Without Sending Data to a Server](https://dev.to/aitranxuan/how-to-decode-jwt-tokens-without-sending-data-to-a-server-38mp)
-- [Practical AI Adoption in Test Automation](https://dev.to/bkidiyappa/practical-ai-adoption-in-test-automation-2j8g)
-- [PicoCTF Web Challenge Writeup: NO FA](https://dev.to/exploitnotes/picoctf-web-challenge-writeup-no-fa-13gc)
-- [Building a DAG Workflow Orchestration Engine from Scratch in Python](https://dev.to/hajirufai/building-a-dag-workflow-orchestration-engine-from-scratch-in-python-3j9a)
+- [Why Agentic AI Is the Most Over-Hyped — and Under-Delivering — Trend of 2026](https://dev.to/naciofelix/why-agentic-ai-is-the-most-over-hyped-and-under-delivering-trend-of-2026-9a7)
+- [How teams can add a custom LineageLens adapter — a practical, code-free guide](https://dev.to/pn_28428886923dfc665/how-teams-can-add-a-custom-lineagelens-adapter-a-practical-code-free-guide-4851)
+- [What Engineers Learn After Building Enterprise Chatbots That Actually Go Live](https://dev.to/naresh_chandralohani/what-engineers-learn-after-building-enterprise-chatbots-that-actually-go-live-3n1l)
+- [The case for compiled, typed CSS &lpar;blame AI&rpar;](https://dev.to/slafleche/the-case-for-compiled-typed-css-blame-ai-8m8)
+- [Your Terraform estate documents itself now: meet iac-cartographer](https://dev.to/anderson_leite/your-terraform-estate-documents-itself-now-meet-iac-cartographer-36b4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
