@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Agentic AI Is the Most Over-Hyped — and Under-Delivering — Trend of 2026](https://dev.to/naciofelix/why-agentic-ai-is-the-most-over-hyped-and-under-delivering-trend-of-2026-9a7)
-- [How teams can add a custom LineageLens adapter — a practical, code-free guide](https://dev.to/pn_28428886923dfc665/how-teams-can-add-a-custom-lineagelens-adapter-a-practical-code-free-guide-4851)
-- [What Engineers Learn After Building Enterprise Chatbots That Actually Go Live](https://dev.to/naresh_chandralohani/what-engineers-learn-after-building-enterprise-chatbots-that-actually-go-live-3n1l)
-- [The case for compiled, typed CSS &lpar;blame AI&rpar;](https://dev.to/slafleche/the-case-for-compiled-typed-css-blame-ai-8m8)
-- [Your Terraform estate documents itself now: meet iac-cartographer](https://dev.to/anderson_leite/your-terraform-estate-documents-itself-now-meet-iac-cartographer-36b4)
+- [Securing Azure Storage: A Hands-on Guide to Managed Identities, Key Vaults, and Immutability](https://dev.to/degreatkhali/securing-azure-storage-a-hands-on-guide-to-managed-identities-key-vaults-and-immutability-4b44)
+- [Evaluating Adaptive Warehouses for ETL: Why We Reverted to Standard](https://dev.to/swaroop_krishna_e2f4b83b2/evaluating-adaptive-warehouses-for-etl-why-we-reverted-to-standard-239f)
+- [Building a Dynamic Grades and Report Generation System in Rust](https://dev.to/manjushaps/building-a-dynamic-grades-and-report-generation-system-in-rust-3clc)
+- [Object-Oriented Programming &lpar;OOPs&rpar; in Java](https://dev.to/kathirvel-s/object-oriented-programming-oops-in-java-1noa)
+- [Clear Signing: The End of Blind Signing Attacks on Ethereum](https://dev.to/vaultkeepr_xyz/clear-signing-the-end-of-blind-signing-attacks-on-ethereum-2d64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
