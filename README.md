@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The auth_rls_initplan linter has a blind spot: SECURITY DEFINER bodies](https://dev.to/arvavit/the-authrlsinitplan-linter-has-a-blind-spot-security-definer-bodies-3hn5)
-- [Upgrading OtakuShelf to JHipster 9.1.0](https://dev.to/avdev4j/44-upgrading-otakushelf-to-jhipster-910-242)
-- [Polishing the catalog &lpar;and reading the agent&#39;s receipts&rpar;](https://dev.to/avdev4j/polishing-the-catalog-and-reading-the-agents-receipts-2c0g)
-- [Adding the anime side without holding my breath](https://dev.to/avdev4j/24-adding-the-anime-side-without-holding-my-breath-1617)
-- [Pairing up: scaffolding OtakuShelf with an agent](https://dev.to/avdev4j/14-pairing-up-scaffolding-otakushelf-with-an-agent-4j4h)
+- [Day 7 of trying to get 20 paying customers in 40 days. Currently at 0.](https://dev.to/gthorr/day-7-of-trying-to-get-20-paying-customers-in-40-days-currently-at-0-406d)
+- [How We Blew Up Our Event Pipeline at 3 AM Because the Treasure Hunt Engine Had No Clear Operator Bounds](https://dev.to/dev-architecture-blog/how-we-blew-up-our-event-pipeline-at-3-am-because-the-treasure-hunt-engine-had-no-clear-operator-20c7)
+- [Autograder - Finish-Up-A-Thon](https://dev.to/arthur_carvalho_713e122a1/autograder-finish-up-a-thon-11fd)
+- [Federico@Cursor,Dimma@Fireworks深入探讨Composer2技术](https://dev.to/cognitalk/federicocursordimmafireworksshen-ru-tan-tao-composer2ji-zhu-17kg)
+- [Hermes Memory Providers: A Complete Breakdown for New Users](https://dev.to/paper_scratcher_bafb0086c/hermes-memory-providers-a-complete-breakdown-for-new-users-1ki3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
