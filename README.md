@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds](https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c)
-- [We Asked 10 LLMs to Write Efficient Code. Only 4 Got Better.](https://dev.to/vystartasv/we-asked-10-llms-to-write-efficient-code-only-4-got-better-47gf)
-- [10 Models Tested: From 81.6% to 10%. The Free Tier is a Full-On Gamble.](https://dev.to/vystartasv/10-models-tested-from-816-to-10-the-free-tier-is-a-full-on-gamble-4kfc)
-- [Building a Browser-Based Free Isometric Illustration Maker for Modern UI Animation Workflows](https://dev.to/uianimation/building-a-browser-based-free-isometric-illustration-maker-for-modern-ui-animation-workflows-3ppc)
-- [Use Blunt Prompts and Get Shit Done](https://dev.to/suckup_de/use-blunt-prompts-and-get-shit-done-4mdd)
+- [I Vibe-Coded a Stock Screener Into Production. Then My 2GB Server OOMed and Google De-Indexed Me.](https://dev.to/kiwon_song_1a5298f771b9ef/i-vibe-coded-a-stock-screener-into-production-then-my-2gb-server-oomed-and-google-de-indexed-me-11hi)
+- [Developing WriterzRoom: Governed Multi-Agent AI for Regulated Content Workflows](https://dev.to/jrob77/developing-writerzroom-governed-multi-agent-ai-for-regulated-content-workflows-1fn7)
+- [I Built a Profiler to Audit My Own AI Tool Calls. Here&#39;s What I Learned About Observability](https://dev.to/tarunai/i-built-a-profiler-to-audit-my-own-ai-tool-calls-heres-what-i-learned-about-observability-128b)
+- [What Is Identity on Solana? &lpar;For Web2 Beginners&rpar;](https://dev.to/scotrolex/what-is-identity-on-solana-for-web2-beginners-1k0m)
+- [RAG - Sparse Embedding](https://dev.to/ramya_perumal_e93721ef2fa/rag-sparse-embedding-oc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
