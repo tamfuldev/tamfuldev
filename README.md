@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Vibe-Coded a Stock Screener Into Production. Then My 2GB Server OOMed and Google De-Indexed Me.](https://dev.to/kiwon_song_1a5298f771b9ef/i-vibe-coded-a-stock-screener-into-production-then-my-2gb-server-oomed-and-google-de-indexed-me-11hi)
-- [Developing WriterzRoom: Governed Multi-Agent AI for Regulated Content Workflows](https://dev.to/jrob77/developing-writerzroom-governed-multi-agent-ai-for-regulated-content-workflows-1fn7)
-- [I Built a Profiler to Audit My Own AI Tool Calls. Here&#39;s What I Learned About Observability](https://dev.to/tarunai/i-built-a-profiler-to-audit-my-own-ai-tool-calls-heres-what-i-learned-about-observability-128b)
-- [What Is Identity on Solana? &lpar;For Web2 Beginners&rpar;](https://dev.to/scotrolex/what-is-identity-on-solana-for-web2-beginners-1k0m)
-- [RAG - Sparse Embedding](https://dev.to/ramya_perumal_e93721ef2fa/rag-sparse-embedding-oc5)
+- [Stop the Leak: A Developer’s Guide to Taming the AWS RDS Bill in 2026](https://dev.to/sourabhkapoor/stop-the-leak-a-developers-guide-to-taming-the-aws-rds-bill-in-2026-100p)
+- [How to Decode JWT Tokens Without Sending Data to a Server](https://dev.to/aitranxuan/how-to-decode-jwt-tokens-without-sending-data-to-a-server-38mp)
+- [Practical AI Adoption in Test Automation](https://dev.to/bkidiyappa/practical-ai-adoption-in-test-automation-2j8g)
+- [PicoCTF Web Challenge Writeup: NO FA](https://dev.to/exploitnotes/picoctf-web-challenge-writeup-no-fa-13gc)
+- [Building a DAG Workflow Orchestration Engine from Scratch in Python](https://dev.to/hajirufai/building-a-dag-workflow-orchestration-engine-from-scratch-in-python-3j9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
