@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [RabbitMQ Explained: How It Works, How It Differs from Kafka, and Where It Fits in Real Systems](https://dev.to/cybersaiyam/rabbitmq-explained-how-it-works-how-it-differs-from-kafka-and-where-it-fits-in-real-systems-5ak8)
-- [Alert policies people actually follow &lpar;spoiler: fewer routes win&rpar;](https://dev.to/apogeewatcher/alert-policies-people-actually-follow-spoiler-fewer-routes-win-ald)
-- [React Native и App Store — почему похожие приложения получают отказ](https://dev.to/alexdidi/react-native-i-app-store-pochiemu-pokhozhiie-prilozhieniia-poluchaiut-otkaz-e72)
-- [Injeção e Inversão de Dependência e como o NestJS gerencia tudo isso](https://dev.to/reishenrique/injecao-e-inversao-de-dependencia-e-como-o-nestjs-gerencia-tudo-isso-2oa)
-- [SOLID Principles in C# — I Refactored 60 Ugly Lines, One Rule at a Time](https://dev.to/kirandeepjassalcrypto/solid-principles-in-c-i-refactored-60-ugly-lines-one-rule-at-a-time-1a9m)
+- [I Built a Delhi Metro Route Planner In React with GSAP](https://dev.to/biomathcode/i-built-a-delhi-metro-route-planner-in-react-with-gsap-4g9l)
+- [173 Undocumented Security Findings in TerraGoat: What Standard IaC Scanners Miss &lpar;and Why Post-Quantum Matters&rpar;](https://dev.to/mkscorpiosec/173-undocumented-security-findings-in-terragoat-what-standard-iac-scanners-miss-and-why-f62)
+- [The Dark Art of Veltrix Configuration: How I Learned to Stop Worrying and Love the Metrics](https://dev.to/dev-architecture-blog/the-dark-art-of-veltrix-configuration-how-i-learned-to-stop-worrying-and-love-the-metrics-4290)
+- [Why I built the HuggingFace for RL agents — and why RL needs one](https://dev.to/youngseong/why-i-built-the-huggingface-for-rl-agents-and-why-rl-needs-one-502n)
+- [TRM Grew ChatGPT Referrals 8,337% in 90 Days. I Copied Their 4 LLMO Pillars Onto 3 Indie Sites. Only 1 Moved the Needle.](https://dev.to/kenimo49/trm-grew-chatgpt-referrals-8337-in-90-days-i-copied-their-4-llmo-pillars-onto-3-indie-sites-43e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
