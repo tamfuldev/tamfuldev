@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7 of trying to get 20 paying customers in 40 days. Currently at 0.](https://dev.to/gthorr/day-7-of-trying-to-get-20-paying-customers-in-40-days-currently-at-0-406d)
-- [How We Blew Up Our Event Pipeline at 3 AM Because the Treasure Hunt Engine Had No Clear Operator Bounds](https://dev.to/dev-architecture-blog/how-we-blew-up-our-event-pipeline-at-3-am-because-the-treasure-hunt-engine-had-no-clear-operator-20c7)
-- [Autograder - Finish-Up-A-Thon](https://dev.to/arthur_carvalho_713e122a1/autograder-finish-up-a-thon-11fd)
-- [Federico@Cursor,Dimma@Fireworks深入探讨Composer2技术](https://dev.to/cognitalk/federicocursordimmafireworksshen-ru-tan-tao-composer2ji-zhu-17kg)
-- [Hermes Memory Providers: A Complete Breakdown for New Users](https://dev.to/paper_scratcher_bafb0086c/hermes-memory-providers-a-complete-breakdown-for-new-users-1ki3)
+- [The benchmark that made me change my mind about Jakarta EE in 2026](https://dev.to/jtorchia/the-benchmark-that-made-me-change-my-mind-about-jakarta-ee-in-2026-2feb)
+- [El benchmark que me hizo cambiar de opinión sobre Jakarta EE en 2026](https://dev.to/jtorchia/el-benchmark-que-me-hizo-cambiar-de-opinion-sobre-jakarta-ee-en-2026-11i5)
+- [Building an Offline-First Bushfire Response Platform With Hermes Agent](https://dev.to/ujja/building-an-offline-first-bushfire-response-platform-with-hermes-agent-4m0a)
+- [The Golang Trinity: Functions, Methods, Interfaces](https://dev.to/kev_luciano/the-golang-trinity-functions-methods-interfaces-31pa)
+- [gitwink — a read-only tray git glance for the AI-agent era](https://dev.to/curioustore_48788631d0e2e/gitwink-a-read-only-tray-git-glance-for-the-ai-agent-era-2km0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
