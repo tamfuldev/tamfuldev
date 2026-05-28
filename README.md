@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The benchmark that made me change my mind about Jakarta EE in 2026](https://dev.to/jtorchia/the-benchmark-that-made-me-change-my-mind-about-jakarta-ee-in-2026-2feb)
-- [El benchmark que me hizo cambiar de opinión sobre Jakarta EE en 2026](https://dev.to/jtorchia/el-benchmark-que-me-hizo-cambiar-de-opinion-sobre-jakarta-ee-en-2026-11i5)
-- [Building an Offline-First Bushfire Response Platform With Hermes Agent](https://dev.to/ujja/building-an-offline-first-bushfire-response-platform-with-hermes-agent-4m0a)
-- [The Golang Trinity: Functions, Methods, Interfaces](https://dev.to/kev_luciano/the-golang-trinity-functions-methods-interfaces-31pa)
-- [gitwink — a read-only tray git glance for the AI-agent era](https://dev.to/curioustore_48788631d0e2e/gitwink-a-read-only-tray-git-glance-for-the-ai-agent-era-2km0)
+- [Read-Modify-Write isolation in NoSQL: the distributed-lock hell.](https://dev.to/hugo_vantighem/read-modify-write-isolation-in-nosql-the-distributed-lock-hell-3jo0)
+- [Understanding known_hosts and Host Key Verification: What It Protects Against and How TOFU Works](https://dev.to/mahafuz/understanding-knownhosts-and-host-key-verification-what-it-protects-against-and-how-tofu-works-pid)
+- [A-Z AI Glossary](https://dev.to/preetid/a-z-ai-glossary-3b1j)
+- [From a Forgotten Multiplayer Prototype to a Chaotic Hidden-Object Game — Reviving WhatUsee 🚀](https://dev.to/adothub/from-a-forgotten-multiplayer-prototype-to-a-chaotic-hidden-object-game-reviving-whatusee-2lnf)
+- [Handling Localization in PCF Components: A Practical Walkthrough](https://dev.to/_neronotte/handling-localization-in-pcf-components-a-practical-walkthrough-3cbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
