@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought Coding Was The Job](https://dev.to/itsugo/i-thought-coding-was-the-job-4bo7)
-- [Beginning to market](https://dev.to/rmpasta/beginning-to-market-5b8m)
-- [Why Your Treasure Hunt Engine Kept Crashing at 1.2M Concurrent Connections](https://dev.to/on-chain-commerce/why-your-treasure-hunt-engine-kept-crashing-at-12m-concurrent-connections-4373)
-- [Introducing Batch Processing for ZeroGPU](https://dev.to/josh_zerogpu/introducing-batch-processing-for-zerogpu-1lb1)
-- [Kiln Crisis Management: Controlling Irregular Raw Meal in CCR Using Python](https://dev.to/aminuddinkhan/kiln-crisis-management-controlling-irregular-raw-meal-in-ccr-using-python-5e2k)
+- [Stop Reinventing the Wheel: 5 Hidden Gems in PrestaShop&#39;s Tools.php File](https://dev.to/ndabene/stop-reinventing-the-wheel-5-hidden-gems-in-prestashops-toolsphp-file-25nm)
+- [AI Tools &amp; Products Radar — May 28, 2026](https://dev.to/hongphuc5497/ai-tools-products-radar-may-28-2026-41hj)
+- [New Benchmark Reveals Hidden Trade-offs in AI Model Tuning Methods](https://dev.to/eli_9c82b7dfe52c1bc371ffe/new-benchmark-reveals-hidden-trade-offs-in-ai-model-tuning-methods-280l)
+- [What I Learned Building My First Chrome Extension for Google Calendar](https://dev.to/james7brown/what-i-learned-building-my-first-chrome-extension-for-google-calendar-3m7b)
+- [Trider – The AI Habit Tracker That Actually Gets You &lpar;Free, No Ads&rpar;](https://dev.to/trider/trider-the-ai-habit-tracker-that-actually-gets-you-free-no-ads-3m4n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
