@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Read-Modify-Write isolation in NoSQL: the distributed-lock hell.](https://dev.to/hugo_vantighem/read-modify-write-isolation-in-nosql-the-distributed-lock-hell-3jo0)
-- [Understanding known_hosts and Host Key Verification: What It Protects Against and How TOFU Works](https://dev.to/mahafuz/understanding-knownhosts-and-host-key-verification-what-it-protects-against-and-how-tofu-works-pid)
-- [A-Z AI Glossary](https://dev.to/preetid/a-z-ai-glossary-3b1j)
-- [From a Forgotten Multiplayer Prototype to a Chaotic Hidden-Object Game — Reviving WhatUsee 🚀](https://dev.to/adothub/from-a-forgotten-multiplayer-prototype-to-a-chaotic-hidden-object-game-reviving-whatusee-2lnf)
-- [Handling Localization in PCF Components: A Practical Walkthrough](https://dev.to/_neronotte/handling-localization-in-pcf-components-a-practical-walkthrough-3cbe)
+- [How to Surface License Violations in GitHub Advanced Security with feluda](https://dev.to/anistark/how-to-surface-license-violations-in-github-advanced-security-with-feluda-1m7k)
+- [We Deleted 10 Real Users with a Test-Cleanup Script — RCA](https://dev.to/sm1ck/we-deleted-10-real-users-with-a-test-cleanup-script-rca-1lb1)
+- [The Decision Subtraction Framework: How to Evaluate Any AI Tool](https://dev.to/harryfloyd/the-decision-subtraction-framework-how-to-evaluate-any-ai-tool-1o1l)
+- [How I Access My Home PC From Anywhere Without Spending a Penny](https://dev.to/kevin_scaria_c0af91a296fd/how-i-access-my-home-pc-from-anywhere-without-spending-a-penny-1an5)
+- [# agents.md: Teaching AI Agents How to Scrape &lpar;The Future of Web Automation&rpar;](https://dev.to/ikram_khan/-agentsmd-teaching-ai-agents-how-to-scrape-the-future-of-web-automation-4266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
