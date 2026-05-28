@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Surface License Violations in GitHub Advanced Security with feluda](https://dev.to/anistark/how-to-surface-license-violations-in-github-advanced-security-with-feluda-1m7k)
-- [We Deleted 10 Real Users with a Test-Cleanup Script — RCA](https://dev.to/sm1ck/we-deleted-10-real-users-with-a-test-cleanup-script-rca-1lb1)
-- [The Decision Subtraction Framework: How to Evaluate Any AI Tool](https://dev.to/harryfloyd/the-decision-subtraction-framework-how-to-evaluate-any-ai-tool-1o1l)
-- [How I Access My Home PC From Anywhere Without Spending a Penny](https://dev.to/kevin_scaria_c0af91a296fd/how-i-access-my-home-pc-from-anywhere-without-spending-a-penny-1an5)
-- [# agents.md: Teaching AI Agents How to Scrape &lpar;The Future of Web Automation&rpar;](https://dev.to/ikram_khan/-agentsmd-teaching-ai-agents-how-to-scrape-the-future-of-web-automation-4266)
+- [I Thought Coding Was The Job](https://dev.to/itsugo/i-thought-coding-was-the-job-4bo7)
+- [Beginning to market](https://dev.to/rmpasta/beginning-to-market-5b8m)
+- [Why Your Treasure Hunt Engine Kept Crashing at 1.2M Concurrent Connections](https://dev.to/on-chain-commerce/why-your-treasure-hunt-engine-kept-crashing-at-12m-concurrent-connections-4373)
+- [Introducing Batch Processing for ZeroGPU](https://dev.to/josh_zerogpu/introducing-batch-processing-for-zerogpu-1lb1)
+- [Kiln Crisis Management: Controlling Irregular Raw Meal in CCR Using Python](https://dev.to/aminuddinkhan/kiln-crisis-management-controlling-irregular-raw-meal-in-ccr-using-python-5e2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
