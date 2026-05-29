@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SurrealDB 3.x by the numbers](https://dev.to/surrealdb/surrealdb-3x-by-the-numbers-39ao)
-- [I Built a Fintech Product in 48 Hours, Got Rejected, and Finished It Anyway](https://dev.to/yerramsettysuchita/i-built-a-fintech-product-in-48-hours-got-rejected-and-finished-it-anyway-5a86)
-- [Is UI Dead? Why Chat Is Becoming the Front Door of Your Product](https://dev.to/shieldstring/is-ui-dead-why-chat-is-becoming-the-front-door-of-your-product-2g50)
-- [How I Built an AI Agent That Watches My Logs and Opens Pull Requests While I Sleep 😴🤖](https://dev.to/rajeshbhan82496/how-i-built-an-ai-agent-that-watches-my-logs-and-opens-pull-requests-while-i-sleep-lif)
-- [Bun for AI agents: where the speed actually shows up &lpar;and where it lies&rpar;](https://dev.to/the-hive-collective/bun-for-ai-agents-where-the-speed-actually-shows-up-and-where-it-lies-19g0)
+- [Learning Progress Pt.22](https://dev.to/muhamedmaxhuni/learning-progress-pt22-5f7f)
+- [DuckDB 1.5.3 Iceberg updates, PostgreSQL TDE extension &amp; AI index tuning](https://dev.to/soytuber/duckdb-153-iceberg-updates-postgresql-tde-extension-ai-index-tuning-399o)
+- [5 walls I hit shipping an AI reading app from West Africa &lpar;and what I&#39;d tell past-me&rpar;](https://dev.to/limack0/5-walls-i-hit-shipping-an-ai-reading-app-from-west-africa-and-what-id-tell-past-me-published-4ikh)
+- [Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer](https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1)
+- [I Built a Side Project Selling Pine Script Strategies for Prop Traders](https://dev.to/just-a-guy360/i-built-a-side-project-selling-pine-script-strategies-for-prop-traders-55bj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
