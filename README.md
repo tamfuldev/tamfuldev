@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Progress Pt.22](https://dev.to/muhamedmaxhuni/learning-progress-pt22-5f7f)
-- [DuckDB 1.5.3 Iceberg updates, PostgreSQL TDE extension &amp; AI index tuning](https://dev.to/soytuber/duckdb-153-iceberg-updates-postgresql-tde-extension-ai-index-tuning-399o)
-- [5 walls I hit shipping an AI reading app from West Africa &lpar;and what I&#39;d tell past-me&rpar;](https://dev.to/limack0/5-walls-i-hit-shipping-an-ai-reading-app-from-west-africa-and-what-id-tell-past-me-published-4ikh)
-- [Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer](https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1)
-- [I Built a Side Project Selling Pine Script Strategies for Prop Traders](https://dev.to/just-a-guy360/i-built-a-side-project-selling-pine-script-strategies-for-prop-traders-55bj)
+- [I Built an AI Agent That Earns Money While I Sleep — Here&#39;s What Actually Works](https://dev.to/zeroknowledge0x/i-built-an-ai-agent-that-earns-money-while-i-sleep-heres-what-actually-works-3pkp)
+- [title: From Zero to Hermes Agent in 3 Days — An Honest Beginner&#39;s Journey](https://dev.to/mauriziolisanti/title-from-zero-to-hermes-agent-in-3-days-an-honest-beginners-journey-13l2)
+- [Security news weekly round-up - 29th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-29th-may-2026-15ap)
+- [I Passed Every Coding Interview Then Froze on Day One. Here&#39;s Why.](https://dev.to/ossamagocer/i-passed-every-coding-interview-then-froze-on-day-one-heres-why-155m)
+- [[Day 9] A local Japanese sentiment AI &lpar;BERT&rpar; read 8 years of a LINE chat, and the ups and downs surfaced from numbers alone](https://dev.to/peppercorn_llm/day-9-a-local-japanese-sentiment-ai-bert-read-8-years-of-a-line-chat-and-the-ups-and-downs-4951)
 <!-- BLOG-POST-LIST:END -->
 
 ---
