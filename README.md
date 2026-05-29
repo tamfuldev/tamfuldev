@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fractal Time Generator in Schrödinger equation](https://dev.to/nikolaysuslov/fractal-time-generator-in-schrodinger-equation-1d6l)
-- [Your AI Is Live. But Do You Actually Know If It&#39;s Working?](https://dev.to/yaseen_tech/your-ai-is-live-but-do-you-actually-know-if-its-working-52da)
-- [Claude Wrote a NestJS Service. TypeScript Was Happy. ESLint Found 6 Security Holes.](https://dev.to/ofri-peretz/claude-wrote-a-nestjs-service-typescript-was-happy-eslint-found-6-security-holes-51nj)
-- [What is VPC? Explained for Beginners](https://dev.to/kadhamvj23/what-is-vpc-explained-for-beginners-359)
-- [When Your MCP Publish Channel Is Blocked, Content Becomes Infrastructure](https://dev.to/lazymac2x/when-your-mcp-publish-channel-is-blocked-content-becomes-infrastructure-1m06)
+- [OpenAI vs Anthropic vs Bedrock vs Vertex vs Gemini: True per-token cost in 2026](https://dev.to/muskan_8abedcc7e12/true-per-token-llm-cost-in-2026-5-providers-compared-1kgp)
+- [Building a Production-Style Video Sharing Platform Backend with Node.js, Express &amp; MongoDB](https://dev.to/sairaj_jadhav_affa310a4ef/building-a-production-style-video-sharing-platform-backend-with-nodejs-express-mongodb-48f2)
+- [Re-Engineering My Portfolio: Moving from No-Code to React &amp; Firebase](https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do)
+- [✨📊 🧠 The Ultimate Visual Guide to Large Language Models &lpar;LLMs&rpar;](https://dev.to/yash_kishan_singh_6t/the-ultimate-visual-guide-to-large-language-models-llms-13ie)
+- [Request for Advice on MCP Integration](https://dev.to/risainfo/request-for-advice-on-mcp-integration-2m46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
