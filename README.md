@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle ORA-00022 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00022-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-3lfp)
-- [Claude Opus 4.8 is out. The benchmark isn&#39;t why I&#39;m switching.](https://dev.to/hunter_g_50e2ec233acd07b5/claude-opus-48-is-out-the-benchmark-isnt-why-im-switching-5flo)
-- [SSH Key Management at Scale: Generating, Rotating, and Revoking Keys Across Teams](https://dev.to/mahafuz/ssh-key-management-at-scale-generating-rotating-and-revoking-keys-across-teams-5f73)
-- [You vibe code. Aigent.ly handles the vulnerabilities.](https://dev.to/aigently/you-vibe-code-aigently-handles-the-vulnerabilities-12gb)
-- [I paid for Cursor and Claude Code for 6 months. Here&#39;s the one to keep.](https://dev.to/jouteio/i-paid-for-cursor-and-claude-code-for-6-months-heres-the-one-to-keep-37f0)
+- [Fractal Time Generator in Schrödinger equation](https://dev.to/nikolaysuslov/fractal-time-generator-in-schrodinger-equation-1d6l)
+- [Your AI Is Live. But Do You Actually Know If It&#39;s Working?](https://dev.to/yaseen_tech/your-ai-is-live-but-do-you-actually-know-if-its-working-52da)
+- [Claude Wrote a NestJS Service. TypeScript Was Happy. ESLint Found 6 Security Holes.](https://dev.to/ofri-peretz/claude-wrote-a-nestjs-service-typescript-was-happy-eslint-found-6-security-holes-51nj)
+- [What is VPC? Explained for Beginners](https://dev.to/kadhamvj23/what-is-vpc-explained-for-beginners-359)
+- [When Your MCP Publish Channel Is Blocked, Content Becomes Infrastructure](https://dev.to/lazymac2x/when-your-mcp-publish-channel-is-blocked-content-becomes-infrastructure-1m06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
