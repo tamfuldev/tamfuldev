@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nutanix AHV Operations: What Changes After VMware Migration](https://dev.to/ntctech/nutanix-ahv-operations-what-changes-after-vmware-migration-3lof)
-- [Demystifying the AI Wave: A Backend Engineer&#39;s Guide to LLMs, RAG, and Agents](https://dev.to/shayesta/demystifying-the-ai-wave-a-backend-engineers-guide-to-llms-rag-and-agents-383d)
-- [Why I Ripped Out Supabase for Vercel Blob to Save My Serverless App published: true tags: webdev, nextjs, architecture, serverless, react](https://dev.to/rahul33859111/why-i-ripped-out-supabase-for-vercel-blob-to-save-my-serverless-app-published-true-tags-webdev-7nl)
-- [Claude Opus 4.8 Review: The Dynamic Workflow Tool Changes What&#39;s Possible for AI Agents](https://dev.to/techsifted/claude-opus-48-review-the-dynamic-workflow-tool-changes-whats-possible-for-ai-agents-431o)
-- [Euler Buckling: Why Slender Columns Fail Long Before They Yield](https://dev.to/01888927bd0e8aa92caca/euler-buckling-why-slender-columns-fail-long-before-they-yield-1dj7)
+- [How to Add Memory Security to Your LangChain Agent in 5 Minutes](https://dev.to/vaishnavi_gudur/how-to-add-memory-security-to-your-langchain-agent-in-5-minutes-39gm)
+- [your personal AI newspaper](https://dev.to/anushka_singh09/your-personal-ai-newspaper-3ibk)
+- [Python Functions](https://dev.to/sakthivenkat/function-in-python-3pdo)
+- [Most Flutter Beginners Use TextField Wrong - Here&#39;s the Right Way](https://dev.to/the_flutter_sensei/most-flutter-beginners-use-textfield-wrong-heres-the-right-way-l5g)
+- [Not All Open Source Is Equal: Choosing a PostgreSQL Operator for Kubernetes in 2026](https://dev.to/vyacheslav_sarzhan_3c1767/not-all-open-source-is-equal-choosing-a-postgresql-operator-for-kubernetes-in-2026-1l6c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
