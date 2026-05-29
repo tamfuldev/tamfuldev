@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Delhi Metro Route Planner In React with GSAP](https://dev.to/biomathcode/i-built-a-delhi-metro-route-planner-in-react-with-gsap-4g9l)
-- [173 Undocumented Security Findings in TerraGoat: What Standard IaC Scanners Miss &lpar;and Why Post-Quantum Matters&rpar;](https://dev.to/mkscorpiosec/173-undocumented-security-findings-in-terragoat-what-standard-iac-scanners-miss-and-why-f62)
-- [The Dark Art of Veltrix Configuration: How I Learned to Stop Worrying and Love the Metrics](https://dev.to/dev-architecture-blog/the-dark-art-of-veltrix-configuration-how-i-learned-to-stop-worrying-and-love-the-metrics-4290)
-- [Why I built the HuggingFace for RL agents — and why RL needs one](https://dev.to/youngseong/why-i-built-the-huggingface-for-rl-agents-and-why-rl-needs-one-502n)
-- [TRM Grew ChatGPT Referrals 8,337% in 90 Days. I Copied Their 4 LLMO Pillars Onto 3 Indie Sites. Only 1 Moved the Needle.](https://dev.to/kenimo49/trm-grew-chatgpt-referrals-8337-in-90-days-i-copied-their-4-llmo-pillars-onto-3-indie-sites-43e1)
+- [Oracle ORA-00022 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00022-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-3lfp)
+- [Claude Opus 4.8 is out. The benchmark isn&#39;t why I&#39;m switching.](https://dev.to/hunter_g_50e2ec233acd07b5/claude-opus-48-is-out-the-benchmark-isnt-why-im-switching-5flo)
+- [SSH Key Management at Scale: Generating, Rotating, and Revoking Keys Across Teams](https://dev.to/mahafuz/ssh-key-management-at-scale-generating-rotating-and-revoking-keys-across-teams-5f73)
+- [You vibe code. Aigent.ly handles the vulnerabilities.](https://dev.to/aigently/you-vibe-code-aigently-handles-the-vulnerabilities-12gb)
+- [I paid for Cursor and Claude Code for 6 months. Here&#39;s the one to keep.](https://dev.to/jouteio/i-paid-for-cursor-and-claude-code-for-6-months-heres-the-one-to-keep-37f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
