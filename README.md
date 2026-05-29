@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI vs Anthropic vs Bedrock vs Vertex vs Gemini: True per-token cost in 2026](https://dev.to/muskan_8abedcc7e12/true-per-token-llm-cost-in-2026-5-providers-compared-1kgp)
-- [Building a Production-Style Video Sharing Platform Backend with Node.js, Express &amp; MongoDB](https://dev.to/sairaj_jadhav_affa310a4ef/building-a-production-style-video-sharing-platform-backend-with-nodejs-express-mongodb-48f2)
-- [Re-Engineering My Portfolio: Moving from No-Code to React &amp; Firebase](https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do)
-- [✨📊 🧠 The Ultimate Visual Guide to Large Language Models &lpar;LLMs&rpar;](https://dev.to/yash_kishan_singh_6t/the-ultimate-visual-guide-to-large-language-models-llms-13ie)
-- [Request for Advice on MCP Integration](https://dev.to/risainfo/request-for-advice-on-mcp-integration-2m46)
+- [Nutanix AHV Operations: What Changes After VMware Migration](https://dev.to/ntctech/nutanix-ahv-operations-what-changes-after-vmware-migration-3lof)
+- [Demystifying the AI Wave: A Backend Engineer&#39;s Guide to LLMs, RAG, and Agents](https://dev.to/shayesta/demystifying-the-ai-wave-a-backend-engineers-guide-to-llms-rag-and-agents-383d)
+- [Why I Ripped Out Supabase for Vercel Blob to Save My Serverless App published: true tags: webdev, nextjs, architecture, serverless, react](https://dev.to/rahul33859111/why-i-ripped-out-supabase-for-vercel-blob-to-save-my-serverless-app-published-true-tags-webdev-7nl)
+- [Claude Opus 4.8 Review: The Dynamic Workflow Tool Changes What&#39;s Possible for AI Agents](https://dev.to/techsifted/claude-opus-48-review-the-dynamic-workflow-tool-changes-whats-possible-for-ai-agents-431o)
+- [Euler Buckling: Why Slender Columns Fail Long Before They Yield](https://dev.to/01888927bd0e8aa92caca/euler-buckling-why-slender-columns-fail-long-before-they-yield-1dj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
