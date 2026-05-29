@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Memory Security to Your LangChain Agent in 5 Minutes](https://dev.to/vaishnavi_gudur/how-to-add-memory-security-to-your-langchain-agent-in-5-minutes-39gm)
-- [your personal AI newspaper](https://dev.to/anushka_singh09/your-personal-ai-newspaper-3ibk)
-- [Python Functions](https://dev.to/sakthivenkat/function-in-python-3pdo)
-- [Most Flutter Beginners Use TextField Wrong - Here&#39;s the Right Way](https://dev.to/the_flutter_sensei/most-flutter-beginners-use-textfield-wrong-heres-the-right-way-l5g)
-- [Not All Open Source Is Equal: Choosing a PostgreSQL Operator for Kubernetes in 2026](https://dev.to/vyacheslav_sarzhan_3c1767/not-all-open-source-is-equal-choosing-a-postgresql-operator-for-kubernetes-in-2026-1l6c)
+- [SurrealDB 3.x by the numbers](https://dev.to/surrealdb/surrealdb-3x-by-the-numbers-39ao)
+- [I Built a Fintech Product in 48 Hours, Got Rejected, and Finished It Anyway](https://dev.to/yerramsettysuchita/i-built-a-fintech-product-in-48-hours-got-rejected-and-finished-it-anyway-5a86)
+- [Is UI Dead? Why Chat Is Becoming the Front Door of Your Product](https://dev.to/shieldstring/is-ui-dead-why-chat-is-becoming-the-front-door-of-your-product-2g50)
+- [How I Built an AI Agent That Watches My Logs and Opens Pull Requests While I Sleep 😴🤖](https://dev.to/rajeshbhan82496/how-i-built-an-ai-agent-that-watches-my-logs-and-opens-pull-requests-while-i-sleep-lif)
+- [Bun for AI agents: where the speed actually shows up &lpar;and where it lies&rpar;](https://dev.to/the-hive-collective/bun-for-ai-agents-where-the-speed-actually-shows-up-and-where-it-lies-19g0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
