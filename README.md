@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Fusion Report Scheduling with Skip Conditions](https://dev.to/naveen6735/oracle-fusion-report-scheduling-with-skip-conditions-5051)
-- [AtCoder Beginner Contest 460 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-460-can-jia-ji-lu-tojie-da-li-a-dwen-ti--3jk2)
-- [Your AI Agent Just Crashed at Step 9 of 12. Here&#39;s How to Make That Not Matter.](https://dev.to/piotrwachowski/your-ai-agent-just-crashed-at-step-9-of-12-heres-how-to-make-that-not-matter-1ijb)
-- [Grokking the System Design Interview: Why the Original Course Still Wins](https://dev.to/ritagar947/grokking-the-system-design-interview-why-the-original-course-still-wins-paj)
-- [Outbox Pattern Solves Publishing. Inbox Pattern Solves Processing.](https://dev.to/morpheus-vera/outbox-pattern-solves-publishing-inbox-pattern-solves-processing-4120)
+- [Road To KiwiEngine #4: The Racecar Driver Analogy](https://dev.to/stinklewinks/road-to-kiwiengine-4-the-racecar-driver-analogy-2lj1)
+- [Run Aider on Ollama, Bedrock, or Any LLM Provider — One Gateway, Every Model](https://dev.to/lynkr/run-aider-on-ollama-bedrock-or-any-llm-provider-one-gateway-every-model-3jm4)
+- [BAIXAR VÍDEO DO YOUTUBE](https://dev.to/vinicius_andrade_1826c6db/baixar-video-do-youtube-2a9p)
+- [Releasing HeliosProxy, The programmable Postgres data-plane](https://dev.to/danimoya/releasing-heliosproxy-the-programmable-postgres-data-plane-18n5)
+- [Append-only doesn&#39;t mean what you&#39;d hope](https://dev.to/norbert_rosenwinkel_3eb41/append-only-doesnt-mean-what-youd-hope-41go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
