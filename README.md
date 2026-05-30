@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Road To KiwiEngine #4: The Racecar Driver Analogy](https://dev.to/stinklewinks/road-to-kiwiengine-4-the-racecar-driver-analogy-2lj1)
-- [Run Aider on Ollama, Bedrock, or Any LLM Provider — One Gateway, Every Model](https://dev.to/lynkr/run-aider-on-ollama-bedrock-or-any-llm-provider-one-gateway-every-model-3jm4)
-- [BAIXAR VÍDEO DO YOUTUBE](https://dev.to/vinicius_andrade_1826c6db/baixar-video-do-youtube-2a9p)
-- [Releasing HeliosProxy, The programmable Postgres data-plane](https://dev.to/danimoya/releasing-heliosproxy-the-programmable-postgres-data-plane-18n5)
-- [Append-only doesn&#39;t mean what you&#39;d hope](https://dev.to/norbert_rosenwinkel_3eb41/append-only-doesnt-mean-what-youd-hope-41go)
+- [Designing Coding Agent Skills That Actually Work](https://dev.to/erfankashani/designing-coding-agent-skills-that-actually-work-5bjl)
+- [Three Ways to Set Up CDC from Postgres to ClickHouse](https://dev.to/hsnmnr/three-ways-to-set-up-cdc-from-postgres-to-clickhouse-2fob)
+- [I Built a Chrome Extension to Block Distracting Sites and Fix My Pomodoro Timer — Here&#39;s What I Learned](https://dev.to/promise_uzoechi/i-built-a-chrome-extension-because-i-couldnt-stop-opening-twitter-between-pomodoro-sessions-1gnj)
+- [AI cheating in technical interviews is invisible to interviewers — here&#39;s how we detect it](https://dev.to/vaibhav_devere/ai-cheating-in-technical-interviews-is-invisible-to-interviewers-heres-how-we-detect-it-4bdo)
+- [Prompt versioning: how I learned the hard way](https://dev.to/eternalsix/prompt-versioning-how-i-learned-the-hard-way-3a9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
