@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
-- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
-- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
-- [Python pytest: Write Tests That Actually Help You](https://dev.to/german_yamil_e021eef8710d/python-pytest-write-tests-that-actually-help-you-3546)
-- [How I bypassed Vercel Serverless timeouts to build a decoupled document ingestion pipeline](https://dev.to/edwin_93a122d31bc978aa64a/how-i-bypassed-vercel-serverless-timeouts-to-build-a-decoupled-document-ingestion-pipeline-2p0j)
+- [Stop Shipping AI Slop: Build an Anti-Slop Harness Around Your LLM](https://dev.to/turacthethinker/stop-shipping-ai-slop-build-an-anti-slop-harness-around-your-llm-273b)
+- [Great Stack to Doesn&#39;t Work #3 — Redis: &quot;99% Cache Hit Ratio, System Down&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-3-redis-99-cache-hit-ratio-system-down-3lh2)
+- [Virtual Parliament — a Polish Sejm simulation built on 25 Hermes Agent skills](https://dev.to/msadlok/virtual-parliament-a-polish-sejm-simulation-built-on-25-hermes-agent-skills-40fm)
+- [Payload CMS Has 508 Circular Dependencies in 675 Files. Here&#39;s How Every Codebase Accumulates Them.](https://dev.to/ofri-peretz/what-are-circular-dependencies-in-javascript-and-why-they-break-things-51jd)
+- [Great Stack to Doesn&#39;t Work Bonus: SQL vs NoSQL: Which One in 2026?](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-sql-vs-nosql-which-one-in-2026-3lcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
