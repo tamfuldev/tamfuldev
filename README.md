@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Didn&#39;t Want to Open Excel Just to Generate Sequential Numbers in VS Code](https://dev.to/almiraj/i-didnt-want-to-open-excel-just-to-generate-sequential-numbers-in-vs-code-508h)
-- [I Built a Q&amp;A Bot for My Docs and Almost Gave Up &lpar;Here&#39;s What Worked&rpar;](https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-qa-bot-for-my-docs-and-almost-gave-up-heres-what-worked-1kgj)
-- [The Real Moat Isn&#39;t Software](https://dev.to/joshadler/the-real-moat-isnt-software-5eoo)
-- [How to Transfer Files Between iPhone and Android &lpar;No Apps, No Cables&rpar;](https://dev.to/kaidev-dev/how-to-transfer-files-between-iphone-and-android-no-apps-no-cables-3e75)
-- [Code review](https://dev.to/r8hitpatil/code-review-1mff)
+- [PostgreSQL 08003 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/postgresql-08003-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-361i)
+- [JDK 26 Pitfalls: Why CPU-Bound Tasks are Killing Your Virtual Threads](https://dev.to/machinecodingmaster/jdk-26-pitfalls-why-cpu-bound-tasks-are-killing-your-virtual-threads-5545)
+- [Oracle ORA-00057 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00057-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-38co)
+- [When the Event Log Became a Liability: What Happened When We Treated Events Like Garbage](https://dev.to/dev-architecture-blog/when-the-event-log-became-a-liability-what-happened-when-we-treated-events-like-garbage-91k)
+- [Linkedlist leetcode](https://dev.to/naveensivam_s_767bb5c8004/linkedlist-leetcode-fc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
