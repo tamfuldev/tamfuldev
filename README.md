@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Shipping AI Slop: Build an Anti-Slop Harness Around Your LLM](https://dev.to/turacthethinker/stop-shipping-ai-slop-build-an-anti-slop-harness-around-your-llm-273b)
-- [Great Stack to Doesn&#39;t Work #3 — Redis: &quot;99% Cache Hit Ratio, System Down&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-3-redis-99-cache-hit-ratio-system-down-3lh2)
-- [Virtual Parliament — a Polish Sejm simulation built on 25 Hermes Agent skills](https://dev.to/msadlok/virtual-parliament-a-polish-sejm-simulation-built-on-25-hermes-agent-skills-40fm)
-- [Payload CMS Has 508 Circular Dependencies in 675 Files. Here&#39;s How Every Codebase Accumulates Them.](https://dev.to/ofri-peretz/what-are-circular-dependencies-in-javascript-and-why-they-break-things-51jd)
-- [Great Stack to Doesn&#39;t Work Bonus: SQL vs NoSQL: Which One in 2026?](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-sql-vs-nosql-which-one-in-2026-3lcp)
+- [I built Snipworth a Chrome extension to turn code into shareable images — and keep them for later](https://dev.to/alextdev/i-built-snipworth-a-chrome-extension-to-turn-code-into-shareable-images-and-keep-them-for-later-13nl)
+- [Need your attention on my current project](https://dev.to/dshaw0004/need-your-attention-on-my-current-project-2i27)
+- [Deterministic Telemetry Ingestion Pipeline for GridLoqer](https://dev.to/zoey_zoe/deterministic-telemetry-ingestion-pipeline-for-gridloqer-2bn3)
+- [Your Deployments Are Causing Downtime. Mine Do Not. Here Is Why](https://dev.to/gbadedata/your-deployments-are-causing-downtime-mine-do-not-here-is-why-39b2)
+- [How I Built a 7-Layer NL2SQL Guardrail Stack for a Fortune 500 Enterprise](https://dev.to/soham__11/how-i-built-a-7-layer-nl2sql-guardrail-stack-for-a-fortune-500-enterprise-2jgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
