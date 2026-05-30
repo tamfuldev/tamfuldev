@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent That Earns Money While I Sleep — Here&#39;s What Actually Works](https://dev.to/zeroknowledge0x/i-built-an-ai-agent-that-earns-money-while-i-sleep-heres-what-actually-works-3pkp)
-- [title: From Zero to Hermes Agent in 3 Days — An Honest Beginner&#39;s Journey](https://dev.to/mauriziolisanti/title-from-zero-to-hermes-agent-in-3-days-an-honest-beginners-journey-13l2)
-- [Security news weekly round-up - 29th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-29th-may-2026-15ap)
-- [I Passed Every Coding Interview Then Froze on Day One. Here&#39;s Why.](https://dev.to/ossamagocer/i-passed-every-coding-interview-then-froze-on-day-one-heres-why-155m)
-- [[Day 9] A local Japanese sentiment AI &lpar;BERT&rpar; read 8 years of a LINE chat, and the ups and downs surfaced from numbers alone](https://dev.to/peppercorn_llm/day-9-a-local-japanese-sentiment-ai-bert-read-8-years-of-a-line-chat-and-the-ups-and-downs-4951)
+- [I Didn&#39;t Want to Open Excel Just to Generate Sequential Numbers in VS Code](https://dev.to/almiraj/i-didnt-want-to-open-excel-just-to-generate-sequential-numbers-in-vs-code-508h)
+- [I Built a Q&amp;A Bot for My Docs and Almost Gave Up &lpar;Here&#39;s What Worked&rpar;](https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-qa-bot-for-my-docs-and-almost-gave-up-heres-what-worked-1kgj)
+- [The Real Moat Isn&#39;t Software](https://dev.to/joshadler/the-real-moat-isnt-software-5eoo)
+- [How to Transfer Files Between iPhone and Android &lpar;No Apps, No Cables&rpar;](https://dev.to/kaidev-dev/how-to-transfer-files-between-iphone-and-android-no-apps-no-cables-3e75)
+- [Code review](https://dev.to/r8hitpatil/code-review-1mff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
