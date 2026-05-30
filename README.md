@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Coding Agent Skills That Actually Work](https://dev.to/erfankashani/designing-coding-agent-skills-that-actually-work-5bjl)
-- [Three Ways to Set Up CDC from Postgres to ClickHouse](https://dev.to/hsnmnr/three-ways-to-set-up-cdc-from-postgres-to-clickhouse-2fob)
-- [I Built a Chrome Extension to Block Distracting Sites and Fix My Pomodoro Timer — Here&#39;s What I Learned](https://dev.to/promise_uzoechi/i-built-a-chrome-extension-because-i-couldnt-stop-opening-twitter-between-pomodoro-sessions-1gnj)
-- [AI cheating in technical interviews is invisible to interviewers — here&#39;s how we detect it](https://dev.to/vaibhav_devere/ai-cheating-in-technical-interviews-is-invisible-to-interviewers-heres-how-we-detect-it-4bdo)
-- [Prompt versioning: how I learned the hard way](https://dev.to/eternalsix/prompt-versioning-how-i-learned-the-hard-way-3a9m)
+- [[Boost]](https://dev.to/itsaryanchauhan/-5d98)
+- [Awesomeness!](https://dev.to/ifeanyi_okolo_d6fe7d0406b/awesomeness-43mc)
+- [We built a lightweight, 100% local File Integrity Monitor &lpar;FIM&rpar; with zero telemetry](https://dev.to/sunny_night/we-built-a-lightweight-100-local-file-integrity-monitor-fim-with-zero-telemetry-4p35)
+- [Your AI Agent Should Text You First](https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b)
+- [Built free app for game design and worldbuilding](https://dev.to/imsc/built-free-app-for-game-design-and-worldbuilding-38n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
