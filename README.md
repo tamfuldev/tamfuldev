@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built Snipworth a Chrome extension to turn code into shareable images — and keep them for later](https://dev.to/alextdev/i-built-snipworth-a-chrome-extension-to-turn-code-into-shareable-images-and-keep-them-for-later-13nl)
-- [Need your attention on my current project](https://dev.to/dshaw0004/need-your-attention-on-my-current-project-2i27)
-- [Deterministic Telemetry Ingestion Pipeline for GridLoqer](https://dev.to/zoey_zoe/deterministic-telemetry-ingestion-pipeline-for-gridloqer-2bn3)
-- [Your Deployments Are Causing Downtime. Mine Do Not. Here Is Why](https://dev.to/gbadedata/your-deployments-are-causing-downtime-mine-do-not-here-is-why-39b2)
-- [How I Built a 7-Layer NL2SQL Guardrail Stack for a Fortune 500 Enterprise](https://dev.to/soham__11/how-i-built-a-7-layer-nl2sql-guardrail-stack-for-a-fortune-500-enterprise-2jgi)
+- [Have Antigravity review prompts update themselves when your codebase changes](https://dev.to/thmoje/built-a-system-where-antigravity-review-prompts-update-themselves-when-your-codebase-changes-283b)
+- [Building a Cloud SIEM from Scratch with AWS Lambda and EventBridge](https://dev.to/antonio-1313/building-a-cloud-siem-from-scratch-with-aws-lambda-and-eventbridge-59id)
+- [Compound Engineering: A Plugin That Makes Your AI Coding Agent Smarter Over Time](https://dev.to/arshtechpro/compound-engineering-a-plugin-that-makes-your-ai-coding-agent-smarter-over-time-2pp0)
+- [&quot;I Reviewed 50 Dev Resumes — These 5 Mistakes Killed Their Chances&quot;](https://dev.to/devraj_singh7/i-reviewed-50-dev-resumes-these-5-mistakes-killed-their-chances-3l92)
+- [How to Test Your SPF Record for Common Mistakes &lpar;Step by Step&rpar;](https://dev.to/rronyecz/how-to-test-your-spf-record-for-common-mistakes-step-by-step-4g3p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
