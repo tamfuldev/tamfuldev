@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why my single Next.js app runs 4 different domains &lpar;and how the proxy.ts decides who sees what&rpar;](https://dev.to/youssefroop/why-my-single-nextjs-app-runs-4-different-domains-and-how-the-proxyts-decides-who-sees-what-3lmk)
-- [Coding agents should not hold write credentials.](https://dev.to/davidloibner/coding-agents-should-not-hold-write-credentials-3eod)
-- [Making Codex CLI and Codex.app Use mise-managed Ruby and Node.js](https://dev.to/masutaka/making-codex-cli-and-codexapp-use-mise-managed-ruby-and-nodejs-4fm6)
-- [Top CLI AI Coding Agents to Use in 2026](https://dev.to/moksh/top-cli-ai-coding-agents-to-use-in-2026-11nn)
-- [Stop Using LLMs to Audit Other LLMs: You Are Bricking Your Production Latency](https://dev.to/vaxoni/stop-using-llms-to-audit-other-llms-you-are-bricking-your-production-latency-39i2)
+- [Oracle Fusion Report Scheduling with Skip Conditions](https://dev.to/naveen6735/oracle-fusion-report-scheduling-with-skip-conditions-5051)
+- [AtCoder Beginner Contest 460 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-460-can-jia-ji-lu-tojie-da-li-a-dwen-ti--3jk2)
+- [Your AI Agent Just Crashed at Step 9 of 12. Here&#39;s How to Make That Not Matter.](https://dev.to/piotrwachowski/your-ai-agent-just-crashed-at-step-9-of-12-heres-how-to-make-that-not-matter-1ijb)
+- [Grokking the System Design Interview: Why the Original Course Still Wins](https://dev.to/ritagar947/grokking-the-system-design-interview-why-the-original-course-still-wins-paj)
+- [Outbox Pattern Solves Publishing. Inbox Pattern Solves Processing.](https://dev.to/morpheus-vera/outbox-pattern-solves-publishing-inbox-pattern-solves-processing-4120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
