@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
-- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
-- [Today My Portfolio Started Talking Back 👀](https://dev.to/casperday11/today-my-portfolio-started-talking-back-3ehb)
-- [“Extensions by Bunny” hub launch](https://dev.to/codebunny20/extensions-by-bunny-hub-launch-51gd)
-- [Transducers in JavaScript: When `reduce&lpar;&rpar;` Is Not the End of the Story](https://dev.to/amrishkhan05/transducers-in-javascript-when-reduce-is-not-the-end-of-the-story-3h6j)
+- [Why my single Next.js app runs 4 different domains &lpar;and how the proxy.ts decides who sees what&rpar;](https://dev.to/youssefroop/why-my-single-nextjs-app-runs-4-different-domains-and-how-the-proxyts-decides-who-sees-what-3lmk)
+- [Coding agents should not hold write credentials.](https://dev.to/davidloibner/coding-agents-should-not-hold-write-credentials-3eod)
+- [Making Codex CLI and Codex.app Use mise-managed Ruby and Node.js](https://dev.to/masutaka/making-codex-cli-and-codexapp-use-mise-managed-ruby-and-nodejs-4fm6)
+- [Top CLI AI Coding Agents to Use in 2026](https://dev.to/moksh/top-cli-ai-coding-agents-to-use-in-2026-11nn)
+- [Stop Using LLMs to Audit Other LLMs: You Are Bricking Your Production Latency](https://dev.to/vaxoni/stop-using-llms-to-audit-other-llms-you-are-bricking-your-production-latency-39i2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
