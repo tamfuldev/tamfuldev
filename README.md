@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Google Search Console reporting with Python](https://dev.to/dylan_parker123/automating-google-search-console-reporting-with-python-12h9)
-- [AI + TMDB: 3 Passes to Match Torrent Posters — Prompt Iteration With Real Numbers](https://dev.to/ohugonnot/ai-tmdb-3-passes-to-match-torrent-posters-prompt-iteration-with-real-numbers-bl7)
-- [Great Stack to Doesn&#39;t Work Bonus: 10 PostgreSQL Features You Didn&#39;t Know Existed](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-postgresql-features-you-didnt-know-existed-on)
-- [Selenium Automation](https://dev.to/renuga_devaraj_656b15ba3e/selenium-automation-5581)
-- [Your Test Suite Now Mostly Proves the AI Agrees With Itself](https://dev.to/dqa/your-test-suite-now-mostly-proves-the-ai-agrees-with-itself-7mh)
+- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
+- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
+- [Today My Portfolio Started Talking Back 👀](https://dev.to/casperday11/today-my-portfolio-started-talking-back-3ehb)
+- [“Extensions by Bunny” hub launch](https://dev.to/codebunny20/extensions-by-bunny-hub-launch-51gd)
+- [Transducers in JavaScript: When `reduce&lpar;&rpar;` Is Not the End of the Story](https://dev.to/amrishkhan05/transducers-in-javascript-when-reduce-is-not-the-end-of-the-story-3h6j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
