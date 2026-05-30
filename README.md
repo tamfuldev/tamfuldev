@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 08003 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/postgresql-08003-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-361i)
-- [JDK 26 Pitfalls: Why CPU-Bound Tasks are Killing Your Virtual Threads](https://dev.to/machinecodingmaster/jdk-26-pitfalls-why-cpu-bound-tasks-are-killing-your-virtual-threads-5545)
-- [Oracle ORA-00057 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00057-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-38co)
-- [When the Event Log Became a Liability: What Happened When We Treated Events Like Garbage](https://dev.to/dev-architecture-blog/when-the-event-log-became-a-liability-what-happened-when-we-treated-events-like-garbage-91k)
-- [Linkedlist leetcode](https://dev.to/naveensivam_s_767bb5c8004/linkedlist-leetcode-fc3)
+- [Automating Google Search Console reporting with Python](https://dev.to/dylan_parker123/automating-google-search-console-reporting-with-python-12h9)
+- [AI + TMDB: 3 Passes to Match Torrent Posters — Prompt Iteration With Real Numbers](https://dev.to/ohugonnot/ai-tmdb-3-passes-to-match-torrent-posters-prompt-iteration-with-real-numbers-bl7)
+- [Great Stack to Doesn&#39;t Work Bonus: 10 PostgreSQL Features You Didn&#39;t Know Existed](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-postgresql-features-you-didnt-know-existed-on)
+- [Selenium Automation](https://dev.to/renuga_devaraj_656b15ba3e/selenium-automation-5581)
+- [Your Test Suite Now Mostly Proves the AI Agrees With Itself](https://dev.to/dqa/your-test-suite-now-mostly-proves-the-ai-agrees-with-itself-7mh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
