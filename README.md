@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/itsaryanchauhan/-5d98)
-- [Awesomeness!](https://dev.to/ifeanyi_okolo_d6fe7d0406b/awesomeness-43mc)
-- [We built a lightweight, 100% local File Integrity Monitor &lpar;FIM&rpar; with zero telemetry](https://dev.to/sunny_night/we-built-a-lightweight-100-local-file-integrity-monitor-fim-with-zero-telemetry-4p35)
-- [Your AI Agent Should Text You First](https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b)
-- [Built free app for game design and worldbuilding](https://dev.to/imsc/built-free-app-for-game-design-and-worldbuilding-38n8)
+- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
+- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
+- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
+- [Python pytest: Write Tests That Actually Help You](https://dev.to/german_yamil_e021eef8710d/python-pytest-write-tests-that-actually-help-you-3546)
+- [How I bypassed Vercel Serverless timeouts to build a decoupled document ingestion pipeline](https://dev.to/edwin_93a122d31bc978aa64a/how-i-bypassed-vercel-serverless-timeouts-to-build-a-decoupled-document-ingestion-pipeline-2p0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
