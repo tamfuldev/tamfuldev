@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Developer will need to understand lambda by 2026](https://dev.to/hamza_rafique_ee4b2091ff6/developer-will-need-to-understand-lambda-by-2026-4gg)
-- [App Size: A Battle for Every Kilobyte, or Prioritizing Functionality?](https://dev.to/merbayerp/app-size-a-battle-for-every-kilobyte-or-prioritizing-functionality-3275)
-- [How AI reads your website, and what that means for the people who build it](https://dev.to/onecaratlabs/how-ai-reads-your-website-and-what-that-means-for-the-people-who-build-it-3h64)
-- [How I Built a Live Football Platform That Doesn&#39;t Fall Apart Under Load](https://dev.to/inthejava/how-i-built-a-live-football-platform-that-doesnt-fall-apart-under-load-439e)
-- [From 0 to 27K Search Impressions on a Developer Portfolio in 90 Days](https://dev.to/metsander/from-0-to-27k-search-impressions-on-a-developer-portfolio-in-90-days-j0i)
+- [Building in public, week 11: 143 pages indexed, a TinyPNG alternative in Rust](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-11-143-pages-indexed-a-tinypng-alternative-in-rust-4n35)
+- [Python Programming for Beginners – Day 4](https://dev.to/augustineowino357design/python-programming-for-beginners-day-4-249f)
+- [How I built a World Cup prediction app with 0 frameworks, 100% privacy, and hit #1 on ChatGPT](https://dev.to/aviatorpo/title-how-i-built-a-world-cup-prediction-app-with-0-frameworks-100-privacy-and-hit-1-on-chatgpt-38bp)
+- [What I Learned Building a Redis Clone in C++](https://dev.to/drishtitripathi2230/what-i-learned-building-a-redis-clone-in-c-450m)
+- [When the Corporation Is the Regulator](https://dev.to/rawveg/when-the-corporation-is-the-regulator-51np)
 <!-- BLOG-POST-LIST:END -->
 
 ---
