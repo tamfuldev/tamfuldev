@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Have Antigravity review prompts update themselves when your codebase changes](https://dev.to/thmoje/built-a-system-where-antigravity-review-prompts-update-themselves-when-your-codebase-changes-283b)
-- [Building a Cloud SIEM from Scratch with AWS Lambda and EventBridge](https://dev.to/antonio-1313/building-a-cloud-siem-from-scratch-with-aws-lambda-and-eventbridge-59id)
-- [Compound Engineering: A Plugin That Makes Your AI Coding Agent Smarter Over Time](https://dev.to/arshtechpro/compound-engineering-a-plugin-that-makes-your-ai-coding-agent-smarter-over-time-2pp0)
-- [&quot;I Reviewed 50 Dev Resumes — These 5 Mistakes Killed Their Chances&quot;](https://dev.to/devraj_singh7/i-reviewed-50-dev-resumes-these-5-mistakes-killed-their-chances-3l92)
-- [How to Test Your SPF Record for Common Mistakes &lpar;Step by Step&rpar;](https://dev.to/rronyecz/how-to-test-your-spf-record-for-common-mistakes-step-by-step-4g3p)
+- [Run Gemma-4 E2B-it with llama.cpp on Raspberry Pi4](https://dev.to/0xkoji/run-gemma-4-e2b-it-with-llamacpp-on-raspberry-pi4-3a1m)
+- [How to test your code effectively: a practical testing tutorial](https://dev.to/therizwansaleem/how-to-test-your-code-effectively-a-practical-testing-tutorial-3028)
+- [How does VuReact compile Vue&#39;s KeepAlive component to React?](https://dev.to/smirk9581/how-does-vureact-compile-vues-keepalive-component-to-react-2hp5)
+- [Why We Bet on MCP &lpar;And What We&#39;re Still Figuring Out&rpar;](https://dev.to/dataworkersteam/why-we-bet-on-mcp-and-what-were-still-figuring-out-50n6)
+- [China Payment Terms: T/T, LC, Escrow](https://dev.to/china-sourcing-agents/china-payment-terms-tt-lc-escrow-3di1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
