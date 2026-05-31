@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Used Technology in the World Has Zero Marketing and Product People](https://dev.to/himanshu_kumar_8d8c6d1525/the-most-used-technology-in-the-world-has-zero-marketing-and-product-people-388b)
-- [The Principle of Least Privilege: Operational Speed&#39;s Security Cost](https://dev.to/merbayerp/the-principle-of-least-privilege-operational-speeds-security-cost-9b5)
-- [Your AI Sucks at Math. Fix It With One Command.](https://dev.to/wholiver/your-ai-sucks-at-math-fix-it-with-one-command-2f98)
-- [How Zone01 Kisumu &quot;Build from Scratch&quot; Approach Transformed Me from a Framework User to a Problem Solver](https://dev.to/kev_luciano/how-zone01-kisumu-build-from-scratch-approach-transformed-me-from-a-framework-user-to-a-problem-4gb1)
-- [Bringing MongoDB Atlas and Voyage AI to Dify: Build RAG Workflows and Data Agents Without Heavy Glue Code](https://dev.to/mongodb/bringing-mongodb-atlas-and-voyage-ai-to-dify-build-rag-workflows-and-data-agents-without-heavy-1l22)
+- [Developer will need to understand lambda by 2026](https://dev.to/hamza_rafique_ee4b2091ff6/developer-will-need-to-understand-lambda-by-2026-4gg)
+- [App Size: A Battle for Every Kilobyte, or Prioritizing Functionality?](https://dev.to/merbayerp/app-size-a-battle-for-every-kilobyte-or-prioritizing-functionality-3275)
+- [How AI reads your website, and what that means for the people who build it](https://dev.to/onecaratlabs/how-ai-reads-your-website-and-what-that-means-for-the-people-who-build-it-3h64)
+- [How I Built a Live Football Platform That Doesn&#39;t Fall Apart Under Load](https://dev.to/inthejava/how-i-built-a-live-football-platform-that-doesnt-fall-apart-under-load-439e)
+- [From 0 to 27K Search Impressions on a Developer Portfolio in 90 Days](https://dev.to/metsander/from-0-to-27k-search-impressions-on-a-developer-portfolio-in-90-days-j0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
