@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Emails Were Failing Silently on DigitalOcean. Here&#39;s What Broke.](https://dev.to/itsmikekipruto/wordpress-emails-were-failing-silently-on-digitalocean-heres-what-broke-hal)
-- [Reading Belgium&#39;s KBO/CBE registry: what the live API returns](https://dev.to/openregistry/reading-belgiums-kbocbe-registry-what-the-live-api-returns-3410)
-- [🤫 I Built CodeMoji: A VS Code Extension That Turns Code Into Emojis](https://dev.to/vignesh_k_5002/i-built-codemoji-a-vs-code-extension-that-turns-code-into-emojis-241j)
-- [5 AI Pair Programming Patterns That Actually Speed Up Development](https://dev.to/learnairesource/5-ai-pair-programming-patterns-that-actually-speed-up-development-1jad)
-- [LLD Object-Oriented Design: From Requirements to Classes &lpar;Bridging Thinking to Domain Modeling&rpar;](https://dev.to/saras_growth_space/lld-object-oriented-design-from-requirements-to-classes-bridging-thinking-to-domain-modeling-ko9)
+- [Getting Started with eslint-plugin-mongodb-security](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-mongodb-security-ol6)
+- [Modern Web Security Attacks Every Developer Must Know &lpar;2026 Guide&rpar; Clickjacking](https://dev.to/homayounmmdy/modern-web-security-attacks-every-developer-must-know-2026-guide-clickjacking-onc)
+- [COMPUTER ARCHITECTURE: THEORIES](https://dev.to/bradleymaina/computer-architecture-theories-3pfi)
+- [A plugin for Observability + Budget Guardrails built with Hermes Agent](https://dev.to/nujovich/a-plugin-for-observability-budget-guardrails-built-with-hermes-agent-4b63)
+- [Vendor Chunking: The React Optimization I Wish I&#39;d Known Earlier](https://dev.to/shubhamram/vendor-chunking-the-react-optimization-i-wish-id-known-earlier-j7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
