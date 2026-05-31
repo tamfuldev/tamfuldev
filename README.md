@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LangGraph Production, RAG Memory Challenges, and AI Agent Patterns](https://dev.to/soytuber/langgraph-production-rag-memory-challenges-and-ai-agent-patterns-1bae)
-- [known_hosts](https://dev.to/erixero/knownhosts-40f0)
-- [UbuCon26 Kenya](https://dev.to/markngugi/ubucon26-2g91)
-- [The Engineering Manager Is the Most Informed Person in the AI Room](https://dev.to/pixari/the-engineering-manager-is-the-most-informed-person-in-the-ai-room-54g1)
-- [I built PhysioFlow — clinic software for Indian physiotherapists, solo in a week](https://dev.to/amarguptatech/i-built-physioflow-clinic-software-for-indian-physiotherapists-solo-in-a-week-3k0k)
+- [Breathing Life into the Pi: Deploying Gemma 4 2B on a Raspberry Pi 5](https://dev.to/hey_atharva/breathing-life-into-the-pi-deploying-gemma-4-2b-on-a-raspberry-pi-5-5gn2)
+- [I Sent 240 PRs to Open Source Repos Using an AI Agent — Here&#39;s the Brutal Truth About What Actually Gets Merged](https://dev.to/zeroknowledge0x/i-sent-240-prs-to-open-source-repos-using-an-ai-agent-heres-the-brutal-truth-about-what-actually-16ic)
+- [Odoo Website Promo Bars Without Custom Theme Code Every Black Friday](https://dev.to/zackbm/odoo-website-promo-bars-without-custom-theme-code-every-black-friday-2f41)
+- [12 Engineering Habits That Cut LLM Token Spend at Production Scale](https://dev.to/shakti_mishra_308e9f36b5d/12-engineering-habits-that-cut-llm-token-spend-at-production-scale-24jp)
+- [Your AI&#39;s tests pass. That doesn&#39;t mean the code works.](https://dev.to/moonrunnerkc/your-ais-tests-pass-that-doesnt-mean-the-code-works-239c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
