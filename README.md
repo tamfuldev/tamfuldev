@@ -6,11 +6,17 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building in public, week 11: 143 pages indexed, a TinyPNG alternative in Rust](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-11-143-pages-indexed-a-tinypng-alternative-in-rust-4n35)
-- [Python Programming for Beginners – Day 4](https://dev.to/augustineowino357design/python-programming-for-beginners-day-4-249f)
-- [How I built a World Cup prediction app with 0 frameworks, 100% privacy, and hit #1 on ChatGPT](https://dev.to/aviatorpo/title-how-i-built-a-world-cup-prediction-app-with-0-frameworks-100-privacy-and-hit-1-on-chatgpt-38bp)
-- [What I Learned Building a Redis Clone in C++](https://dev.to/drishtitripathi2230/what-i-learned-building-a-redis-clone-in-c-450m)
-- [When the Corporation Is the Regulator](https://dev.to/rawveg/when-the-corporation-is-the-regulator-51np)
+- [PgBouncer: Effectively Managing Your PostgreSQL Connection Pool](https://dev.to/gouranga-das-khulna/pgbouncer-effectively-managing-your-postgresql-connection-pool-587m)
+- [How much should I charge for 3D prints? A complete pricing breakdown for Etsy sellers](https://dev.to/polyformprints/how-much-should-i-charge-for-3d-prints-a-complete-pricing-breakdown-for-etsy-sellers-2kpl)
+- [How I Built Hidden Collector Game in Unity](https://dev.to/sinxcos07/how-i-built-hidden-collector-in-unity-541g)
+- [Moving Beyond the Context Window: The Agentic Memory Architecture](https://dev.to/dhruvagg/moving-beyond-the-context-window-the-agentic-memory-architecture-2lgo)
+- [🚀 Building an open-source email blast tool — free, self-hosted, no Mailchimp needed.
+
+Looking for contributors to help add:
+📊 Open &amp; click tracking
+🐳 Docker support
+ All issues are open. Jump in 👇
+https://github.com/nikhilt101/email-blast-tool](https://dev.to/tech2nikhil_e0c26b10c6113/building-an-open-source-email-blast-tool-free-self-hosted-no-mailchimp-needed-looking-for-1k97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
