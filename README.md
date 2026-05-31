@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Run Gemma-4 E2B-it with llama.cpp on Raspberry Pi4](https://dev.to/0xkoji/run-gemma-4-e2b-it-with-llamacpp-on-raspberry-pi4-3a1m)
-- [How to test your code effectively: a practical testing tutorial](https://dev.to/therizwansaleem/how-to-test-your-code-effectively-a-practical-testing-tutorial-3028)
-- [How does VuReact compile Vue&#39;s KeepAlive component to React?](https://dev.to/smirk9581/how-does-vureact-compile-vues-keepalive-component-to-react-2hp5)
-- [Why We Bet on MCP &lpar;And What We&#39;re Still Figuring Out&rpar;](https://dev.to/dataworkersteam/why-we-bet-on-mcp-and-what-were-still-figuring-out-50n6)
-- [China Payment Terms: T/T, LC, Escrow](https://dev.to/china-sourcing-agents/china-payment-terms-tt-lc-escrow-3di1)
+- [The Most Used Technology in the World Has Zero Marketing and Product People](https://dev.to/himanshu_kumar_8d8c6d1525/the-most-used-technology-in-the-world-has-zero-marketing-and-product-people-388b)
+- [The Principle of Least Privilege: Operational Speed&#39;s Security Cost](https://dev.to/merbayerp/the-principle-of-least-privilege-operational-speeds-security-cost-9b5)
+- [Your AI Sucks at Math. Fix It With One Command.](https://dev.to/wholiver/your-ai-sucks-at-math-fix-it-with-one-command-2f98)
+- [How Zone01 Kisumu &quot;Build from Scratch&quot; Approach Transformed Me from a Framework User to a Problem Solver](https://dev.to/kev_luciano/how-zone01-kisumu-build-from-scratch-approach-transformed-me-from-a-framework-user-to-a-problem-4gb1)
+- [Bringing MongoDB Atlas and Voyage AI to Dify: Build RAG Workflows and Data Agents Without Heavy Glue Code](https://dev.to/mongodb/bringing-mongodb-atlas-and-voyage-ai-to-dify-build-rag-workflows-and-data-agents-without-heavy-1l22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
