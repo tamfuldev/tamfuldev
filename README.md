@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with eslint-plugin-mongodb-security](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-mongodb-security-ol6)
-- [Modern Web Security Attacks Every Developer Must Know &lpar;2026 Guide&rpar; Clickjacking](https://dev.to/homayounmmdy/modern-web-security-attacks-every-developer-must-know-2026-guide-clickjacking-onc)
-- [COMPUTER ARCHITECTURE: THEORIES](https://dev.to/bradleymaina/computer-architecture-theories-3pfi)
-- [A plugin for Observability + Budget Guardrails built with Hermes Agent](https://dev.to/nujovich/a-plugin-for-observability-budget-guardrails-built-with-hermes-agent-4b63)
-- [Vendor Chunking: The React Optimization I Wish I&#39;d Known Earlier](https://dev.to/shubhamram/vendor-chunking-the-react-optimization-i-wish-id-known-earlier-j7f)
+- [Hermes Agent Challenge](https://dev.to/geek-cheth/hermes-agent-challenge-1l9o)
+- [Build a Production RAG System on AWS Bedrock from Scratch](https://dev.to/joysonfernandes/build-a-production-rag-system-on-aws-bedrock-from-scratch-kn1)
+- [MSW vs Hosted Mock APIs: When To Use Each](https://dev.to/sanjayselvaraj/msw-vs-hosted-mock-apis-when-to-use-each-3d7)
+- [How to Build Long-Running AI Agents with Google Gen AI SDK](https://dev.to/gateofai/how-to-build-long-running-ai-agents-with-google-gen-ai-sdk-419p)
+- [The Statistical Casino](https://dev.to/erenozguney/the-statistical-casino-2e7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
