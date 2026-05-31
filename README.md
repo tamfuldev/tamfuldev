@@ -6,17 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PgBouncer: Effectively Managing Your PostgreSQL Connection Pool](https://dev.to/gouranga-das-khulna/pgbouncer-effectively-managing-your-postgresql-connection-pool-587m)
-- [How much should I charge for 3D prints? A complete pricing breakdown for Etsy sellers](https://dev.to/polyformprints/how-much-should-i-charge-for-3d-prints-a-complete-pricing-breakdown-for-etsy-sellers-2kpl)
-- [How I Built Hidden Collector Game in Unity](https://dev.to/sinxcos07/how-i-built-hidden-collector-in-unity-541g)
-- [Moving Beyond the Context Window: The Agentic Memory Architecture](https://dev.to/dhruvagg/moving-beyond-the-context-window-the-agentic-memory-architecture-2lgo)
-- [🚀 Building an open-source email blast tool — free, self-hosted, no Mailchimp needed.
-
-Looking for contributors to help add:
-📊 Open &amp; click tracking
-🐳 Docker support
- All issues are open. Jump in 👇
-https://github.com/nikhilt101/email-blast-tool](https://dev.to/tech2nikhil_e0c26b10c6113/building-an-open-source-email-blast-tool-free-self-hosted-no-mailchimp-needed-looking-for-1k97)
+- [WordPress Emails Were Failing Silently on DigitalOcean. Here&#39;s What Broke.](https://dev.to/itsmikekipruto/wordpress-emails-were-failing-silently-on-digitalocean-heres-what-broke-hal)
+- [Reading Belgium&#39;s KBO/CBE registry: what the live API returns](https://dev.to/openregistry/reading-belgiums-kbocbe-registry-what-the-live-api-returns-3410)
+- [🤫 I Built CodeMoji: A VS Code Extension That Turns Code Into Emojis](https://dev.to/vignesh_k_5002/i-built-codemoji-a-vs-code-extension-that-turns-code-into-emojis-241j)
+- [5 AI Pair Programming Patterns That Actually Speed Up Development](https://dev.to/learnairesource/5-ai-pair-programming-patterns-that-actually-speed-up-development-1jad)
+- [LLD Object-Oriented Design: From Requirements to Classes &lpar;Bridging Thinking to Domain Modeling&rpar;](https://dev.to/saras_growth_space/lld-object-oriented-design-from-requirements-to-classes-bridging-thinking-to-domain-modeling-ko9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
