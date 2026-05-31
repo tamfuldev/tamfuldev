@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent Challenge](https://dev.to/geek-cheth/hermes-agent-challenge-1l9o)
-- [Build a Production RAG System on AWS Bedrock from Scratch](https://dev.to/joysonfernandes/build-a-production-rag-system-on-aws-bedrock-from-scratch-kn1)
-- [MSW vs Hosted Mock APIs: When To Use Each](https://dev.to/sanjayselvaraj/msw-vs-hosted-mock-apis-when-to-use-each-3d7)
-- [How to Build Long-Running AI Agents with Google Gen AI SDK](https://dev.to/gateofai/how-to-build-long-running-ai-agents-with-google-gen-ai-sdk-419p)
-- [The Statistical Casino](https://dev.to/erenozguney/the-statistical-casino-2e7f)
+- [peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1)
+- [Building a Friendly Data Assistant](https://dev.to/hopebestworld/building-a-friendly-data-assistant-4gd2)
+- [RAG Architecture Deep Dive](https://dev.to/white_oak_intel/rag-architecture-deep-dive-195f)
+- [The Monty Hall Problem: Why Switching Wins 2/3 of the Time](https://dev.to/white_oak_intel/the-monty-hall-problem-why-switching-wins-23-of-the-time-4hpk)
+- [The Do-Over Game: Nash Equilibrium at the Golden Ratio](https://dev.to/white_oak_intel/the-do-over-game-nash-equilibrium-at-the-golden-ratio-phf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
