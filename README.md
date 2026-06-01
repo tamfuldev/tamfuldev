@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Web3: Automating Blockchain Workflows with Hermes](https://dev.to/sandman_sh/agentic-web3-automating-blockchain-workflows-with-hermes-3ej4)
-- [How I Made My First Dollar with Python Automation - A Practical Guide](https://dev.to/wdsega/how-i-made-my-first-dollar-with-python-automation-a-practical-guide-56be)
-- [How to Find a Prime Number in Python — A Thinking Journey](https://dev.to/kathirvel-s/how-to-find-a-prime-number-in-python-a-thinking-journey-29d)
-- [Our PriceCloud - GitHub Finish-Up-A-Thon Challenge](https://dev.to/kevin_fry_a6a9c0af10aba83/our-pricecloud-github-finish-up-a-thon-challenge-lf3)
-- [Testing JavaScript: A Practical Guide to TDD with Jest &lpar;2026&rpar;](https://dev.to/armorbreak/testing-javascript-a-practical-guide-to-tdd-with-jest-2026-c79)
+- [Simplifying Deployment with Docker Multi-Stage Builds for Production](https://dev.to/naveenmalothu/simplifying-deployment-with-docker-multi-stage-builds-for-production-1c5l)
+- [DevLog #4](https://dev.to/atiksh_gupta_7/devlog-4-3p94)
+- [How to turn your random ideas into actual apps](https://dev.to/samareshdas/how-to-turn-your-random-ideas-into-actual-apps-57jn)
+- [Guilt by automation](https://dev.to/paulnonatomic/guilt-by-automation-1cp0)
+- [8 Concrete Ways I Use AI During a Normal Engineering Workday &lpar;Week 4 Roundup&rpar;](https://dev.to/leveragenotes/8-concrete-ways-i-use-ai-during-a-normal-engineering-workday-week-4-roundup-3hc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
