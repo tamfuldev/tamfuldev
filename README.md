@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on AI &lpar;large language models&rpar; in various fields](https://dev.to/keliumju/reflections-on-ai-large-language-models-in-various-fields-816)
-- [RAG - Hybrid search and RAG pipeline using FAISS DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-hybrid-search-and-rag-pipeline-using-faiss-db-3hhk)
-- [Why ROU Asset Depreciation Checks Fail When Schedule And Journal Logic Drift](https://dev.to/adamjomi222/why-rou-asset-depreciation-checks-fail-when-schedule-and-journal-logic-drift-2bk9)
-- [Tossed The T.V. but Kept the Remote? Here&#39;s how to NOT generate more E-Waste.](https://dev.to/brisk4t/tossed-the-tv-but-kept-the-remote-heres-how-to-not-generate-more-e-waste-8ha)
-- [The Architecture Decisions That Actually Mattered: Building a Production-Ready Multi-Service Backend](https://dev.to/vix1209/the-architecture-decisions-that-actually-mattered-building-a-production-ready-multi-service-backend-4ekj)
+- [Agentic Web3: Automating Blockchain Workflows with Hermes](https://dev.to/sandman_sh/agentic-web3-automating-blockchain-workflows-with-hermes-3ej4)
+- [How I Made My First Dollar with Python Automation - A Practical Guide](https://dev.to/wdsega/how-i-made-my-first-dollar-with-python-automation-a-practical-guide-56be)
+- [How to Find a Prime Number in Python — A Thinking Journey](https://dev.to/kathirvel-s/how-to-find-a-prime-number-in-python-a-thinking-journey-29d)
+- [Our PriceCloud - GitHub Finish-Up-A-Thon Challenge](https://dev.to/kevin_fry_a6a9c0af10aba83/our-pricecloud-github-finish-up-a-thon-challenge-lf3)
+- [Testing JavaScript: A Practical Guide to TDD with Jest &lpar;2026&rpar;](https://dev.to/armorbreak/testing-javascript-a-practical-guide-to-tdd-with-jest-2026-c79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
