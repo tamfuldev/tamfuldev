@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Self-Refactoring AI Agent: Inside the &quot;Memory Garbage Collector&quot; of Hermes](https://dev.to/programmingcentral/how-we-built-a-self-refactoring-ai-agent-inside-the-memory-garbage-collector-of-hermes-1pg7)
-- [Microfrontends Are Deployment Boundaries](https://dev.to/lazarv/microfrontends-are-deployment-boundaries-6nm)
-- [Setting up Azure MCP with Service Principal](https://dev.to/richard_nye_d7f0293c269fd/setting-up-azure-mcp-with-service-principal-1hoe)
-- [Astro vs Next.js vs SvelteKit for content sites in 2026](https://dev.to/contrite42/astro-vs-nextjs-vs-sveltekit-for-content-sites-in-2026-5hia)
-- [Introducing StartupBase 2 🎉](https://dev.to/attacomsian/introducing-startupbase-2-288p)
+- [Treat AI coding sessions as project infrastructure](https://dev.to/uzoma_uche_3ec83974b4a8a5/treat-ai-coding-sessions-as-project-infrastructure-4o51)
+- [Your Deleted Google API Key Is Still Working — Here&#39;s Why That&#39;s a Security Crisis](https://dev.to/walosha/your-deleted-google-api-key-is-still-working-heres-why-thats-a-security-crisis-4mg7)
+- [WAF Bypass Testing: A Defensive Playbook for Blue Teams](https://dev.to/paulorigonato/waf-bypass-testing-a-defensive-playbook-for-blue-teams-283b)
+- [I didn&#39;t like any terminal, so I built one in 3 days](https://dev.to/fbrzlarosa/i-didnt-like-any-terminal-so-i-built-one-in-3-days-4f1)
+- [Testing email flows in Playwright without a mail server](https://dev.to/zerodrop/testing-email-flows-in-playwright-without-a-mail-server-2ll7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
