@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Review With AI Before You Open the PR — A Practical Workflow with branchdiff](https://dev.to/mir_mursalin_ankur/self-review-with-ai-before-you-open-the-pr-a-practical-workflow-with-branchdiff-2bn)
-- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-1603)
-- [HTML](https://dev.to/surya_960b9a895415589fa9e/html-2e9m)
-- [I Built and Released My First Windows Productivity App with Python](https://dev.to/dinnos303/i-built-and-released-my-first-windows-productivity-app-with-python-2jeo)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 7 Implement scheduled scaling](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-7-implement-scheduled-scaling-4df9)
+- [How We Built a Self-Refactoring AI Agent: Inside the &quot;Memory Garbage Collector&quot; of Hermes](https://dev.to/programmingcentral/how-we-built-a-self-refactoring-ai-agent-inside-the-memory-garbage-collector-of-hermes-1pg7)
+- [Microfrontends Are Deployment Boundaries](https://dev.to/lazarv/microfrontends-are-deployment-boundaries-6nm)
+- [Setting up Azure MCP with Service Principal](https://dev.to/richard_nye_d7f0293c269fd/setting-up-azure-mcp-with-service-principal-1hoe)
+- [Astro vs Next.js vs SvelteKit for content sites in 2026](https://dev.to/contrite42/astro-vs-nextjs-vs-sveltekit-for-content-sites-in-2026-5hia)
+- [Introducing StartupBase 2 🎉](https://dev.to/attacomsian/introducing-startupbase-2-288p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
