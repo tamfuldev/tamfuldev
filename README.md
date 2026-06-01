@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Deployment with Docker Multi-Stage Builds for Production](https://dev.to/naveenmalothu/simplifying-deployment-with-docker-multi-stage-builds-for-production-1c5l)
-- [DevLog #4](https://dev.to/atiksh_gupta_7/devlog-4-3p94)
-- [How to turn your random ideas into actual apps](https://dev.to/samareshdas/how-to-turn-your-random-ideas-into-actual-apps-57jn)
-- [Guilt by automation](https://dev.to/paulnonatomic/guilt-by-automation-1cp0)
-- [8 Concrete Ways I Use AI During a Normal Engineering Workday &lpar;Week 4 Roundup&rpar;](https://dev.to/leveragenotes/8-concrete-ways-i-use-ai-during-a-normal-engineering-workday-week-4-roundup-3hc3)
+- [Self-Review With AI Before You Open the PR — A Practical Workflow with branchdiff](https://dev.to/mir_mursalin_ankur/self-review-with-ai-before-you-open-the-pr-a-practical-workflow-with-branchdiff-2bn)
+- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-1603)
+- [HTML](https://dev.to/surya_960b9a895415589fa9e/html-2e9m)
+- [I Built and Released My First Windows Productivity App with Python](https://dev.to/dinnos303/i-built-and-released-my-first-windows-productivity-app-with-python-2jeo)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 7 Implement scheduled scaling](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-7-implement-scheduled-scaling-4df9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
