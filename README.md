@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Moving my SAAS away from React &lpar;and Inertia&rpar; to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
-- [How to Write a Ticket an Agent Can Act On](https://dev.to/tacoda/how-to-write-a-ticket-an-agent-can-act-on-52ic)
-- [Mathematical Intuition of Linear Regression](https://dev.to/ganesh-kumar/mathematical-intuition-of-linear-regression-3n5j)
-- [GitHub Copilot Token Billing 2026: Full Cost Guide and Alternatives](https://dev.to/akaranjkar08/github-copilot-token-billing-2026-full-cost-guide-and-alternatives-3bcf)
-- [Installing Netskope Client on Ubuntu 20.04, 22.04, 24.04, and 26.04 &lpar;2026 Guide&rpar;](https://dev.to/sysadmin_desk/installing-netskope-client-on-ubuntu-2004-2204-2404-and-2604-2026-guide-121p)
+- [Escudo](https://dev.to/sugarhashira/escudo-232b)
+- [Hybrid RAG, No-Code AI Agent Memory, &amp; Google Workspace CLI for Agents](https://dev.to/soytuber/hybrid-rag-no-code-ai-agent-memory-google-workspace-cli-for-agents-2h18)
+- [Presentation Slides for RubyConf Austria 2026 Talk &quot;Frontend Ruby on Rails with Glimmer DSL for Web&quot;](https://dev.to/andyobtiva/presentation-slides-for-rubyconf-austria-2026-talk-frontend-ruby-on-rails-with-glimmer-dsl-for-web-2hi)
+- [I built an open-source AirDrop alternative that works in any browser — no app, no account, no cloud](https://dev.to/akshay_kumardadheech_14f/i-built-an-open-source-airdrop-alternative-that-works-in-any-browser-no-app-no-account-no-cloud-1af4)
+- [Full Stack Developer Portfolio Lessons: What I Learned Building 10+ Projects](https://dev.to/harshdeepsingh13/full-stack-developer-portfolio-lessons-what-i-learned-building-10-projects-2bdi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
