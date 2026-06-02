@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Operating a Production-Style Kubernetes Platform on AWS Using kubeadm](https://dev.to/keneojiteli/building-and-operating-a-production-style-kubernetes-platform-on-aws-using-kubeadm-110k)
-- [I Abandoned an MCP Server for 3 Months. Then I Finished It in 48 Hours with GitHub Copilot](https://dev.to/zeroknowledge0x/i-abandoned-an-mcp-server-for-3-months-then-i-finished-it-in-48-hours-with-github-copilot-40pd)
-- [The Conflict Vacuum: When Alignment Becomes Indistinguishable from Correctness](https://dev.to/abdulosman/the-conflict-vacuum-when-alignment-becomes-indistinguishable-from-correctness-18lf)
-- [Server-Side Tracking on Shopify Plus: GTM + Stape &lpar;2026&rpar;](https://dev.to/no7software-uk/server-side-tracking-on-shopify-plus-gtm-stape-2026-4k7j)
-- [I built a tool that gives Claude Code permanent memory of your codebase](https://dev.to/productmechanics_1a75e594/i-built-a-tool-that-gives-claude-code-permanent-memory-of-your-codebase-1p9o)
+- [Gated Frontiers: Inside OpenAI’s Rosalind Biodefense Initiative and the Shift Toward Controlled AI Distribution](https://dev.to/om_shree_0709/gated-frontiers-inside-openais-rosalind-biodefense-initiative-and-the-shift-toward-controlled-ai-1mdp)
+- [Part 10: Deep Dive into Atomic Modesetting](https://dev.to/deleon_karen_2216eb5888b3/part-10-deep-dive-into-atomic-modesetting-1lf2)
+- [Best MCP Servers for AI Coding in 2026: The 7 Worth Installing in Cursor, Claude Code, and Windsurf](https://dev.to/jovan_chan_9500711396d4e6/best-mcp-servers-for-ai-coding-in-2026-the-7-worth-installing-in-cursor-claude-code-and-windsurf-4j3l)
+- [AnythingLLM vs Open WebUI vs LibreChat in 2026: Which Self-Hosted AI Interface Should You Use?](https://dev.to/jovan_chan_9500711396d4e6/anythingllm-vs-open-webui-vs-librechat-in-2026-which-self-hosted-ai-interface-should-you-use-24cl)
+- [How Terraform and Helm Split Responsibilities in a Kubernetes CI/CD Pipeline](https://dev.to/dancodingbr/how-terraform-and-helm-split-responsibilities-in-a-kubernetes-cicd-pipeline-h59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
