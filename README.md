@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Treat AI coding sessions as project infrastructure](https://dev.to/uzoma_uche_3ec83974b4a8a5/treat-ai-coding-sessions-as-project-infrastructure-4o51)
-- [Your Deleted Google API Key Is Still Working — Here&#39;s Why That&#39;s a Security Crisis](https://dev.to/walosha/your-deleted-google-api-key-is-still-working-heres-why-thats-a-security-crisis-4mg7)
-- [WAF Bypass Testing: A Defensive Playbook for Blue Teams](https://dev.to/paulorigonato/waf-bypass-testing-a-defensive-playbook-for-blue-teams-283b)
-- [I didn&#39;t like any terminal, so I built one in 3 days](https://dev.to/fbrzlarosa/i-didnt-like-any-terminal-so-i-built-one-in-3-days-4f1)
-- [Testing email flows in Playwright without a mail server](https://dev.to/zerodrop/testing-email-flows-in-playwright-without-a-mail-server-2ll7)
+- [Web accessibility overlays don&#39;t work — here&#39;s what actually does](https://dev.to/vaibhav_jain_3b62a5510248/web-accessibility-overlays-dont-work-heres-what-actually-does-2a9b)
+- [Fixed Before Anyone Notices, Stronger After Every Fix: Self-Healing + Recurrence Prevention &lpar;Series Part 4&rpar;](https://dev.to/ryantsuji/fixed-before-anyone-notices-stronger-after-every-fix-self-healing-recurrence-prevention-series-1e86)
+- [What Is an AI Agent Harness?](https://dev.to/cwilkins507/what-is-an-ai-agent-harness-2fce)
+- [Typescript - several sub-projects + schemas &lpar;VTS&rpar;](https://dev.to/stefanwerfling/typescript-several-sub-projects-schemas-vts-2fa3)
+- [Process Isn&#39;t the Enemy](https://dev.to/aaiezza/process-isnt-the-enemy-425p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
