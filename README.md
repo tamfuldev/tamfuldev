@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gated Frontiers: Inside OpenAI’s Rosalind Biodefense Initiative and the Shift Toward Controlled AI Distribution](https://dev.to/om_shree_0709/gated-frontiers-inside-openais-rosalind-biodefense-initiative-and-the-shift-toward-controlled-ai-1mdp)
-- [Part 10: Deep Dive into Atomic Modesetting](https://dev.to/deleon_karen_2216eb5888b3/part-10-deep-dive-into-atomic-modesetting-1lf2)
-- [Best MCP Servers for AI Coding in 2026: The 7 Worth Installing in Cursor, Claude Code, and Windsurf](https://dev.to/jovan_chan_9500711396d4e6/best-mcp-servers-for-ai-coding-in-2026-the-7-worth-installing-in-cursor-claude-code-and-windsurf-4j3l)
-- [AnythingLLM vs Open WebUI vs LibreChat in 2026: Which Self-Hosted AI Interface Should You Use?](https://dev.to/jovan_chan_9500711396d4e6/anythingllm-vs-open-webui-vs-librechat-in-2026-which-self-hosted-ai-interface-should-you-use-24cl)
-- [How Terraform and Helm Split Responsibilities in a Kubernetes CI/CD Pipeline](https://dev.to/dancodingbr/how-terraform-and-helm-split-responsibilities-in-a-kubernetes-cicd-pipeline-h59)
+- [Moving my SAAS away from React &lpar;and Inertia&rpar; to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
+- [How to Write a Ticket an Agent Can Act On](https://dev.to/tacoda/how-to-write-a-ticket-an-agent-can-act-on-52ic)
+- [Mathematical Intuition of Linear Regression](https://dev.to/ganesh-kumar/mathematical-intuition-of-linear-regression-3n5j)
+- [GitHub Copilot Token Billing 2026: Full Cost Guide and Alternatives](https://dev.to/akaranjkar08/github-copilot-token-billing-2026-full-cost-guide-and-alternatives-3bcf)
+- [Installing Netskope Client on Ubuntu 20.04, 22.04, 24.04, and 26.04 &lpar;2026 Guide&rpar;](https://dev.to/sysadmin_desk/installing-netskope-client-on-ubuntu-2004-2204-2404-and-2604-2026-guide-121p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
