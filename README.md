@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web accessibility overlays don&#39;t work — here&#39;s what actually does](https://dev.to/vaibhav_jain_3b62a5510248/web-accessibility-overlays-dont-work-heres-what-actually-does-2a9b)
-- [Fixed Before Anyone Notices, Stronger After Every Fix: Self-Healing + Recurrence Prevention &lpar;Series Part 4&rpar;](https://dev.to/ryantsuji/fixed-before-anyone-notices-stronger-after-every-fix-self-healing-recurrence-prevention-series-1e86)
-- [What Is an AI Agent Harness?](https://dev.to/cwilkins507/what-is-an-ai-agent-harness-2fce)
-- [Typescript - several sub-projects + schemas &lpar;VTS&rpar;](https://dev.to/stefanwerfling/typescript-several-sub-projects-schemas-vts-2fa3)
-- [Process Isn&#39;t the Enemy](https://dev.to/aaiezza/process-isnt-the-enemy-425p)
+- [I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.](https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh)
+- [Understanding Solana Accounts: The Blockchain Filesystem](https://dev.to/akeempalmer/understanding-solana-accounts-the-blockchain-filesystem-49d9)
+- [BoxAgnts Runtime &lpar;2&rpar; — Prompt-Driven, Fundamentally Unsafe](https://dev.to/guyoung/boxagnts-runtime-2-prompt-driven-fundamentally-unsafe-3k19)
+- [User Session Tool: The Silent Guardian of Role-Based Security in Oracle AI Agent Studio](https://dev.to/halton_chen/user-session-tool-the-silent-guardian-of-role-based-security-in-oracle-ai-agent-studio-5fkd)
+- [Stop Paying for URL Shorteners —This Free Tool Does Everything Bitly Charges $35/Month For](https://dev.to/darshanchauhan/stop-paying-for-url-shorteners-this-free-tool-does-everything-bitly-charges-35month-for-392c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
