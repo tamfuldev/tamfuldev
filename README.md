@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Escudo](https://dev.to/sugarhashira/escudo-232b)
-- [Hybrid RAG, No-Code AI Agent Memory, &amp; Google Workspace CLI for Agents](https://dev.to/soytuber/hybrid-rag-no-code-ai-agent-memory-google-workspace-cli-for-agents-2h18)
-- [Presentation Slides for RubyConf Austria 2026 Talk &quot;Frontend Ruby on Rails with Glimmer DSL for Web&quot;](https://dev.to/andyobtiva/presentation-slides-for-rubyconf-austria-2026-talk-frontend-ruby-on-rails-with-glimmer-dsl-for-web-2hi)
-- [I built an open-source AirDrop alternative that works in any browser — no app, no account, no cloud](https://dev.to/akshay_kumardadheech_14f/i-built-an-open-source-airdrop-alternative-that-works-in-any-browser-no-app-no-account-no-cloud-1af4)
-- [Full Stack Developer Portfolio Lessons: What I Learned Building 10+ Projects](https://dev.to/harshdeepsingh13/full-stack-developer-portfolio-lessons-what-i-learned-building-10-projects-2bdi)
+- [I Built a Live UK Electricity Price Dashboard. Here&#39;s What Went Wrong &lpar;and Right&rpar;](https://dev.to/subhashreeayyappan/i-built-a-live-uk-electricity-price-dashboard-heres-what-went-wrong-and-right-19l2)
+- [The #1 Developer Skill in the Agentic Era](https://dev.to/entire/the-1-developer-skill-in-the-agentic-era-21d7)
+- [SVG Icon Accessibility: Decorative vs Meaningful Icons](https://dev.to/svgicons/svg-icon-accessibility-decorative-vs-meaningful-icons-2430)
+- [How TradingAgents &lpar;82K★&rpar; could slash 70% of LLM costs with a gateway layer](https://dev.to/lynkr/how-tradingagents-82k-could-slash-70-of-llm-costs-with-a-gateway-layer-40p5)
+- [Data Architectures Powering Agentic AI](https://dev.to/shieldstring/data-architectures-powering-agentic-ai-4ll1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
