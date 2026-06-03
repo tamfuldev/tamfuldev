@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Live UK Electricity Price Dashboard. Here&#39;s What Went Wrong &lpar;and Right&rpar;](https://dev.to/subhashreeayyappan/i-built-a-live-uk-electricity-price-dashboard-heres-what-went-wrong-and-right-19l2)
-- [The #1 Developer Skill in the Agentic Era](https://dev.to/entire/the-1-developer-skill-in-the-agentic-era-21d7)
-- [SVG Icon Accessibility: Decorative vs Meaningful Icons](https://dev.to/svgicons/svg-icon-accessibility-decorative-vs-meaningful-icons-2430)
-- [How TradingAgents &lpar;82K★&rpar; could slash 70% of LLM costs with a gateway layer](https://dev.to/lynkr/how-tradingagents-82k-could-slash-70-of-llm-costs-with-a-gateway-layer-40p5)
-- [Data Architectures Powering Agentic AI](https://dev.to/shieldstring/data-architectures-powering-agentic-ai-4ll1)
+- [Why WP-CLI Won&#39;t Start on Some Shared Hosts — A Field Investigation Across Four Architectures](https://dev.to/susumun/why-wp-cli-wont-start-on-some-shared-hosts-a-field-investigation-across-four-architectures-2n7f)
+- [I made a CLI tool that replaces the first 15 minutes of exploring any new codebase](https://dev.to/mansoor_mamnoon/i-made-a-cli-tool-that-replaces-the-first-15-minutes-of-exploring-any-new-codebase-2p10)
+- [I built 21 free dev tools that never upload your data](https://dev.to/liljonjohnsoncrypto/i-built-21-free-dev-tools-that-never-upload-your-data-p56)
+- [Buscadores sin resúmenes de IA: el caso técnico para volver a los enlaces](https://dev.to/lu1tr0n/buscadores-sin-resumenes-de-ia-el-caso-tecnico-para-volver-a-los-enlaces-1kfp)
+- [How I Built a Real-Time Fraud Detection System That Handles 71,000 RPS at p95 &lt;6ms](https://dev.to/sameer_ahmed_/how-i-built-a-real-time-fraud-detection-system-that-handles-71000-rps-at-p95-6ms-205k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
