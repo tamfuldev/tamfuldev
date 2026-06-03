@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You can run Gemma on just about anything!](https://dev.to/xbill/you-can-run-gemma-on-just-about-anything-35fo)
-- [Our CTO Built an AI Gateway Processing $2.8B. It Took Me 8 Months to Prove It Would Approve Illegal Loans. Then the Regulators Called.](https://dev.to/xulingfeng/our-cto-built-an-ai-gateway-processing-28b-it-took-me-8-months-to-prove-it-would-approve-illegal-235l)
-- [My OpenClaw Setup in 2026: The Agent Stack I Run 24/7](https://dev.to/mrclaw207/my-openclaw-setup-in-2026-the-agent-stack-i-run-247-914)
-- [ThreatWire: A Python Library for Real-Time Network Threat Detection.](https://dev.to/abhishakereddy/threatwire-a-python-library-for-real-time-network-threat-detection-boe)
-- [Building Lookspan: local-first observability &amp; replay for LLM apps &lpar;v0.4.0&rpar;](https://dev.to/jonimatiin/building-lookspan-local-first-observability-replay-for-llm-apps-v040-441a)
+- [Rebuilding a HIPAA CI/CD pipeline: signed promotion, OPA admission, and audit-grade evidence](https://dev.to/stonebridgetechsolutions/rebuilding-a-hipaa-cicd-pipeline-signed-promotion-opa-admission-and-audit-grade-evidence-39p3)
+- [Ley 21.719: el problema no es solo legal, también es arquitectónico](https://dev.to/ltorresu82/ley-21719-el-problema-no-es-solo-legal-tambien-es-arquitectonico-41g6)
+- [Your Retention Problem Is a Manager Problem.](https://dev.to/thepractitionerfiles/your-retention-problem-is-a-manager-problem-iae)
+- [Building a Local-First Frontend State Sync with Conflict-Free Replicated Data Types &lpar;CRDTs&rpar;](https://dev.to/therizwansaleem/building-a-local-first-frontend-state-sync-with-conflict-free-replicated-data-types-crdts-1k55)
+- [Cognizant AI Labs 副总裁 Risto Miikkulainen谈神经演化（Neuroevolution）与进化AI（Evolutionary AI）](https://dev.to/cognitalk/cognizant-ai-labs-fu-zong-cai-risto-miikkulainentan-shen-jing-yan-hua-neuroevolutionyu-jin-hua-aievolutionary-ai-44ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
