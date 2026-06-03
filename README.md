@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hello dev — I ship AI voice + web chat on PHP sites &lpar;elionmusic.com&rpar;](https://dev.to/elionreigns/hello-dev-i-ship-ai-voice-web-chat-on-php-sites-elionmusiccom-56b5)
-- [Docker on Proxmox LXC: What Actually Works &lpar;and Why Unprivileged Doesn&#39;t&rpar;](https://dev.to/mattercoder/docker-on-proxmox-lxc-what-actually-works-and-why-unprivileged-doesnt-45km)
-- [Your ATT&amp;CK Heatmap Is Counting Rules, Not Coverage](https://dev.to/chrisray/your-attck-heatmap-is-counting-rules-not-coverage-2gh3)
-- [WSL 2: Die wichtigsten Befehle für deinen Entwickler-Alltag &lpar;Cheatsheet&rpar;](https://dev.to/webinteger/wsl-2-die-wichtigsten-befehle-fur-deinen-entwickler-alltag-cheatsheet-11)
-- [React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching](https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj)
+- [You can run Gemma on just about anything!](https://dev.to/xbill/you-can-run-gemma-on-just-about-anything-35fo)
+- [Our CTO Built an AI Gateway Processing $2.8B. It Took Me 8 Months to Prove It Would Approve Illegal Loans. Then the Regulators Called.](https://dev.to/xulingfeng/our-cto-built-an-ai-gateway-processing-28b-it-took-me-8-months-to-prove-it-would-approve-illegal-235l)
+- [My OpenClaw Setup in 2026: The Agent Stack I Run 24/7](https://dev.to/mrclaw207/my-openclaw-setup-in-2026-the-agent-stack-i-run-247-914)
+- [ThreatWire: A Python Library for Real-Time Network Threat Detection.](https://dev.to/abhishakereddy/threatwire-a-python-library-for-real-time-network-threat-detection-boe)
+- [Building Lookspan: local-first observability &amp; replay for LLM apps &lpar;v0.4.0&rpar;](https://dev.to/jonimatiin/building-lookspan-local-first-observability-replay-for-llm-apps-v040-441a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
