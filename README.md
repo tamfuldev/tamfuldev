@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why WP-CLI Won&#39;t Start on Some Shared Hosts — A Field Investigation Across Four Architectures](https://dev.to/susumun/why-wp-cli-wont-start-on-some-shared-hosts-a-field-investigation-across-four-architectures-2n7f)
-- [I made a CLI tool that replaces the first 15 minutes of exploring any new codebase](https://dev.to/mansoor_mamnoon/i-made-a-cli-tool-that-replaces-the-first-15-minutes-of-exploring-any-new-codebase-2p10)
-- [I built 21 free dev tools that never upload your data](https://dev.to/liljonjohnsoncrypto/i-built-21-free-dev-tools-that-never-upload-your-data-p56)
-- [Buscadores sin resúmenes de IA: el caso técnico para volver a los enlaces](https://dev.to/lu1tr0n/buscadores-sin-resumenes-de-ia-el-caso-tecnico-para-volver-a-los-enlaces-1kfp)
-- [How I Built a Real-Time Fraud Detection System That Handles 71,000 RPS at p95 &lt;6ms](https://dev.to/sameer_ahmed_/how-i-built-a-real-time-fraud-detection-system-that-handles-71000-rps-at-p95-6ms-205k)
+- [Побудова справжніх AI Agent для торгових ботів на Polymarket: від чат-вікон до production-систем](https://dev.to/fatherson/pobudova-spravzhnikh-ai-agent-dlia-torghovikh-botiv-na-polymarket-vid-chat-vikon-do-production-sistiem-4k68)
+- [AI and Enterprise Software Development](https://dev.to/leonpennings/ai-and-enterprise-software-development-1611)
+- [I Struggled to Get AI to Write Useful Code — Here&#39;s What Finally Worked](https://dev.to/__c1b9e06dc90a7e0a676b/i-struggled-to-get-ai-to-write-useful-code-heres-what-finally-worked-432c)
+- [Building a Custom Tailwind CSS Theme System for Multi-Tenant Branding: Dynamic Colors Without CSS-in-JS](https://dev.to/uaslimcreate/building-a-custom-tailwind-css-theme-system-for-multi-tenant-branding-dynamic-colors-without-6pk)
+- [Temporal vs n8n vs Zapier API Automation Costs](https://dev.to/chasebot/temporal-vs-n8n-vs-zapier-api-automation-costs-4eik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
