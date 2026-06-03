@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Побудова справжніх AI Agent для торгових ботів на Polymarket: від чат-вікон до production-систем](https://dev.to/fatherson/pobudova-spravzhnikh-ai-agent-dlia-torghovikh-botiv-na-polymarket-vid-chat-vikon-do-production-sistiem-4k68)
-- [AI and Enterprise Software Development](https://dev.to/leonpennings/ai-and-enterprise-software-development-1611)
-- [I Struggled to Get AI to Write Useful Code — Here&#39;s What Finally Worked](https://dev.to/__c1b9e06dc90a7e0a676b/i-struggled-to-get-ai-to-write-useful-code-heres-what-finally-worked-432c)
-- [Building a Custom Tailwind CSS Theme System for Multi-Tenant Branding: Dynamic Colors Without CSS-in-JS](https://dev.to/uaslimcreate/building-a-custom-tailwind-css-theme-system-for-multi-tenant-branding-dynamic-colors-without-6pk)
-- [Temporal vs n8n vs Zapier API Automation Costs](https://dev.to/chasebot/temporal-vs-n8n-vs-zapier-api-automation-costs-4eik)
+- [Hello dev — I ship AI voice + web chat on PHP sites &lpar;elionmusic.com&rpar;](https://dev.to/elionreigns/hello-dev-i-ship-ai-voice-web-chat-on-php-sites-elionmusiccom-56b5)
+- [Docker on Proxmox LXC: What Actually Works &lpar;and Why Unprivileged Doesn&#39;t&rpar;](https://dev.to/mattercoder/docker-on-proxmox-lxc-what-actually-works-and-why-unprivileged-doesnt-45km)
+- [Your ATT&amp;CK Heatmap Is Counting Rules, Not Coverage](https://dev.to/chrisray/your-attck-heatmap-is-counting-rules-not-coverage-2gh3)
+- [WSL 2: Die wichtigsten Befehle für deinen Entwickler-Alltag &lpar;Cheatsheet&rpar;](https://dev.to/webinteger/wsl-2-die-wichtigsten-befehle-fur-deinen-entwickler-alltag-cheatsheet-11)
+- [React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching](https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
