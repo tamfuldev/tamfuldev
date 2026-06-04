@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Cut 769 Database Queries With One Window Function](https://dev.to/secona/how-i-cut-769-database-queries-with-one-window-function-27oi)
-- [Understanding Puppeteer Stealth: How to Manage Browser Fingerprints for Reliable AI Web Agents](https://dev.to/alterlab/understanding-puppeteer-stealth-how-to-manage-browser-fingerprints-for-reliable-ai-web-agents-2km)
-- [LLD Domain Modeling: Business Rules &amp; Invariants &lpar;The Rules Your System Must Never Break&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-business-rules-invariants-the-rules-your-system-must-never-break-13o6)
-- [Teaching Pascal in 2026 with CrabPascal | Ensinando Pascal em 2026](https://dev.to/crabpascal/teaching-pascal-in-2026-with-crabpascal-ensinando-pascal-em-2026-kkg)
-- [Building a Self-Cheering Microservice: Observability-Driven Resilience in a Real-Time Analytics Pipe](https://dev.to/therizwansaleem/building-a-self-cheering-microservice-observability-driven-resilience-in-a-real-time-analytics-pipe-f36)
+- [Org rules and project rules need different homes](https://dev.to/tacoda/org-rules-and-project-rules-need-different-homes-4n0h)
+- [Building a Real Cybersecurity Lab on Your Laptop](https://dev.to/arashad_dodhiya_0e4bdba5a/building-a-real-cybersecurity-lab-on-your-laptop-5hcg)
+- [Observability untuk Developer: Kenapa Log Saja Tidak Cukup di 2026](https://dev.to/ai_code_5c8f03cd630c072b1/observability-untuk-developer-kenapa-log-saja-tidak-cukup-di-2026-3jg0)
+- [🚀 Hermes Agent Just Added a Kanban Board — And It Changes Everything](https://dev.to/vivek_shetye/hermes-agent-just-added-a-kanban-board-and-it-changes-everything-4dp3)
+- [[Boost]](https://dev.to/romiisromie/-4jnm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
