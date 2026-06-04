@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The $1 Test That Can Save You Months of Wasted Time](https://dev.to/abhay03/the-1-test-that-can-save-you-months-of-wasted-time-3hff)
-- [A practical checklist for deciding whether an AI automation project is worth building](https://dev.to/mindtrovert_labs_4be5feba/a-practical-checklist-for-deciding-whether-an-ai-automation-project-is-worth-building-32ke)
-- [Scroll Debt: The Anti-Workaround Pattern for App Blockers](https://dev.to/nexusdriftstudio/scroll-debt-the-anti-workaround-pattern-for-app-blockers-4bm7)
-- [How the SAL claim handshake binds humans to agents without key custody](https://dev.to/steveemmerich/how-the-sal-claim-handshake-binds-humans-to-agents-without-key-custody-3ppo)
-- [Your Company Banned Claude Code the Week Workflows Shipped. The Gap Is Now 1,000 Agents Wide.](https://dev.to/rentierdigital/your-company-banned-claude-code-the-week-workflows-shipped-the-gap-is-now-1000-agents-wide-7ha)
+- [How I Cut 769 Database Queries With One Window Function](https://dev.to/secona/how-i-cut-769-database-queries-with-one-window-function-27oi)
+- [Understanding Puppeteer Stealth: How to Manage Browser Fingerprints for Reliable AI Web Agents](https://dev.to/alterlab/understanding-puppeteer-stealth-how-to-manage-browser-fingerprints-for-reliable-ai-web-agents-2km)
+- [LLD Domain Modeling: Business Rules &amp; Invariants &lpar;The Rules Your System Must Never Break&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-business-rules-invariants-the-rules-your-system-must-never-break-13o6)
+- [Teaching Pascal in 2026 with CrabPascal | Ensinando Pascal em 2026](https://dev.to/crabpascal/teaching-pascal-in-2026-with-crabpascal-ensinando-pascal-em-2026-kkg)
+- [Building a Self-Cheering Microservice: Observability-Driven Resilience in a Real-Time Analytics Pipe](https://dev.to/therizwansaleem/building-a-self-cheering-microservice-observability-driven-resilience-in-a-real-time-analytics-pipe-f36)
 <!-- BLOG-POST-LIST:END -->
 
 ---
