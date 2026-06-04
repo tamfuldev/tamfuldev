@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Thinking - When QA Becomes the New Bottleneck](https://dev.to/flytebittechnologies/vibe-thinking-when-qa-becomes-the-new-bottleneck-22en)
-- [File Handling in Java](https://dev.to/harini_magesh_fa40041cf8d/file-handling-in-java-56lj)
-- [My browser tool returned &quot;[object Promise]&quot; as a webpage. One grep later, 10 more tools had the same bug.](https://dev.to/achiya-automation/my-browser-tool-returned-object-promise-as-a-webpage-one-grep-later-10-more-tools-had-the-37p8)
-- [Stop Blocking Virtual Threads: Building Asynchronous Human-in-the-Loop AI Agents with Spring AI](https://dev.to/machinecodingmaster/stop-blocking-virtual-threads-building-asynchronous-human-in-the-loop-ai-agents-with-spring-ai-49pp)
-- [How AI Is Quietly Changing the Way Pakistanis Think About Taxes](https://dev.to/fakharu/how-ai-is-quietly-changing-the-way-pakistanis-think-about-taxes-2nae)
+- [Testing Horse APIs with Postman | Testando APIs Horse com Postman](https://dev.to/crabpascal/testing-horse-apis-with-postman-testando-apis-horse-com-postman-1fbe)
+- [Meet PageZERO: an open source SaaS starter kit on Cloudflare for the AI era](https://dev.to/pawelgalazka/meet-pagezero-an-open-source-saas-starter-kit-on-cloudflare-for-the-ai-era-1la1)
+- [Give your AI memory in one parameter](https://dev.to/backboardio/give-your-ai-memory-in-one-parameter-4n76)
+- [I just shipped a meditation feature. Here&#39;s exactly where I used AI — and where I didn&#39;t.](https://dev.to/joaquin_brown_ywu/i-just-shipped-a-meditation-feature-heres-exactly-where-i-used-ai-and-where-i-didnt-2mjo)
+- [A Crash Course in MCP: A Beginners Guide Using TypeScript](https://dev.to/callmeizzy/a-crash-course-in-mcp-a-beginners-guide-using-typescript-2nhh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
