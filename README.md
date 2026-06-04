@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Horse APIs with Postman | Testando APIs Horse com Postman](https://dev.to/crabpascal/testing-horse-apis-with-postman-testando-apis-horse-com-postman-1fbe)
-- [Meet PageZERO: an open source SaaS starter kit on Cloudflare for the AI era](https://dev.to/pawelgalazka/meet-pagezero-an-open-source-saas-starter-kit-on-cloudflare-for-the-ai-era-1la1)
-- [Give your AI memory in one parameter](https://dev.to/backboardio/give-your-ai-memory-in-one-parameter-4n76)
-- [I just shipped a meditation feature. Here&#39;s exactly where I used AI — and where I didn&#39;t.](https://dev.to/joaquin_brown_ywu/i-just-shipped-a-meditation-feature-heres-exactly-where-i-used-ai-and-where-i-didnt-2mjo)
-- [A Crash Course in MCP: A Beginners Guide Using TypeScript](https://dev.to/callmeizzy/a-crash-course-in-mcp-a-beginners-guide-using-typescript-2nhh)
+- [The $1 Test That Can Save You Months of Wasted Time](https://dev.to/abhay03/the-1-test-that-can-save-you-months-of-wasted-time-3hff)
+- [A practical checklist for deciding whether an AI automation project is worth building](https://dev.to/mindtrovert_labs_4be5feba/a-practical-checklist-for-deciding-whether-an-ai-automation-project-is-worth-building-32ke)
+- [Scroll Debt: The Anti-Workaround Pattern for App Blockers](https://dev.to/nexusdriftstudio/scroll-debt-the-anti-workaround-pattern-for-app-blockers-4bm7)
+- [How the SAL claim handshake binds humans to agents without key custody](https://dev.to/steveemmerich/how-the-sal-claim-handshake-binds-humans-to-agents-without-key-custody-3ppo)
+- [Your Company Banned Claude Code the Week Workflows Shipped. The Gap Is Now 1,000 Agents Wide.](https://dev.to/rentierdigital/your-company-banned-claude-code-the-week-workflows-shipped-the-gap-is-now-1000-agents-wide-7ha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
