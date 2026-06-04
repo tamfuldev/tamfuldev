@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2](https://dev.to/aneesh_lade_2605/week-2-hm9)
-- [How to Onboard a New Client for Performance Monitoring](https://dev.to/apogeewatcher/how-to-onboard-a-new-client-for-performance-monitoring-24dn)
-- [Ghostty: A GPU-Accelerated Terminal That Works With Zero Config](https://dev.to/jessyt/ghostty-a-gpu-accelerated-terminal-that-works-with-zero-config-3ij5)
-- [AI tool evaluation framework](https://dev.to/eternalsix/ai-tool-evaluation-framework-4kni)
-- [Per-project LLM cost attribution with OTel spans: the wiring](https://dev.to/jasmine_park_dev/per-project-llm-cost-attribution-with-otel-spans-the-wiring-3897)
+- [Estou criando minha própria linguagem de programação em Python](https://dev.to/callebe_josuecantu/estou-criando-minha-propria-linguagem-de-programacao-em-python-57e2)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel)
+- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-i5m)
+- [AI at the Crossroads: Between the Profitability Mirage and the Reality of Efficiency](https://dev.to/ndabene/ai-at-the-crossroads-between-the-profitability-mirage-and-the-reality-of-efficiency-1m0)
+- [Bridging the Rigidity Gap: Deploying Secure Agentic RAG in Healthcare Governance](https://dev.to/mindy_jen_phd/bridging-the-rigidity-gap-deploying-secure-agentic-rag-in-healthcare-governance-462n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
