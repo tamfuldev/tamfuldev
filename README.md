@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CodeSynth 2.0👩🏽‍💻: Rebuilding My Hackathon Prototype into a CRDT-Powered Coding Playground🚀](https://dev.to/nupoorshetye/codesynth-20-rebuilding-my-hackathon-prototype-into-a-crdt-powered-collaborative-coding-5pc)
-- [I Built a Terminal Dashboard to Keep Track of All My Local Projects](https://dev.to/roie/i-built-a-terminal-dashboard-to-keep-track-of-all-my-local-projects-19k3)
-- [I audited 6,762 MCP servers. Here&#39;s the state of the ecosystem and the trust gap nobody&#39;s filling.](https://dev.to/new1direction/i-audited-6762-mcp-servers-heres-the-state-of-the-ecosystem-and-the-trust-gap-nobodys-filling-2lkj)
-- [An Introduction to Alternate Data Streams &lpar;ADS&rpar;](https://dev.to/coded_parts/an-introduction-to-alternate-data-streams-ads-3ne3)
-- [Managed Hosting vs a VPS: Which One Professionals Actually Need](https://dev.to/alexdev13/managed-hosting-vs-a-vps-which-one-professionals-actually-need-1m4n)
+- [Why I built a free, offline pet weight tracker &lpar;no account, kg/lb, runs on your phone&rpar;](https://dev.to/kunstudio/why-i-built-a-free-offline-pet-weight-tracker-no-account-kglb-runs-on-your-phone-4448)
+- [Why I Built an Open-Source Online Judge Instead of Maintaining a Legacy One](https://dev.to/werlang/why-i-built-an-open-source-online-judge-instead-of-maintaining-a-legacy-one-51gh)
+- [I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.](https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9)
+- [Designing a scalable event-sourced analytics platform](https://dev.to/therizwansaleem/designing-a-scalable-event-sourced-analytics-platform-10lf)
+- [Weekly Dev Log 2026-W08](https://dev.to/umitomo-lab/weekly-dev-log-2026-w08-d2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
