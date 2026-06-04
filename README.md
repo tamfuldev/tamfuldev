@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Org rules and project rules need different homes](https://dev.to/tacoda/org-rules-and-project-rules-need-different-homes-4n0h)
-- [Building a Real Cybersecurity Lab on Your Laptop](https://dev.to/arashad_dodhiya_0e4bdba5a/building-a-real-cybersecurity-lab-on-your-laptop-5hcg)
-- [Observability untuk Developer: Kenapa Log Saja Tidak Cukup di 2026](https://dev.to/ai_code_5c8f03cd630c072b1/observability-untuk-developer-kenapa-log-saja-tidak-cukup-di-2026-3jg0)
-- [🚀 Hermes Agent Just Added a Kanban Board — And It Changes Everything](https://dev.to/vivek_shetye/hermes-agent-just-added-a-kanban-board-and-it-changes-everything-4dp3)
-- [[Boost]](https://dev.to/romiisromie/-4jnm)
+- [Week 2](https://dev.to/aneesh_lade_2605/week-2-hm9)
+- [How to Onboard a New Client for Performance Monitoring](https://dev.to/apogeewatcher/how-to-onboard-a-new-client-for-performance-monitoring-24dn)
+- [Ghostty: A GPU-Accelerated Terminal That Works With Zero Config](https://dev.to/jessyt/ghostty-a-gpu-accelerated-terminal-that-works-with-zero-config-3ij5)
+- [AI tool evaluation framework](https://dev.to/eternalsix/ai-tool-evaluation-framework-4kni)
+- [Per-project LLM cost attribution with OTel spans: the wiring](https://dev.to/jasmine_park_dev/per-project-llm-cost-attribution-with-otel-spans-the-wiring-3897)
 <!-- BLOG-POST-LIST:END -->
 
 ---
