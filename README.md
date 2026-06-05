@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Estou criando minha própria linguagem de programação em Python](https://dev.to/callebe_josuecantu/estou-criando-minha-propria-linguagem-de-programacao-em-python-57e2)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-i5m)
-- [AI at the Crossroads: Between the Profitability Mirage and the Reality of Efficiency](https://dev.to/ndabene/ai-at-the-crossroads-between-the-profitability-mirage-and-the-reality-of-efficiency-1m0)
-- [Bridging the Rigidity Gap: Deploying Secure Agentic RAG in Healthcare Governance](https://dev.to/mindy_jen_phd/bridging-the-rigidity-gap-deploying-secure-agentic-rag-in-healthcare-governance-462n)
+- [Using Microsoft Fabric Shortcuts to Avoid Duplicate Data Copies](https://dev.to/ravikiranpagidi/using-microsoft-fabric-shortcuts-to-avoid-duplicate-data-copies-327e)
+- [From Soundwaves to Stress Levels: Building an Affective Computing Pipeline with Wav2Vec 2.0](https://dev.to/wellallytech/from-soundwaves-to-stress-levels-building-an-affective-computing-pipeline-with-wav2vec-20-17b7)
+- [The 27-Day Runway Problem: Why Most Solopreneurs Are 4 Weeks From Closing &lpar;And the Forecasting Fix&rpar;](https://dev.to/wilsonhoe/the-27-day-runway-problem-why-most-solopreneurs-are-4-weeks-from-closing-and-the-forecasting-fix-41i2)
+- [The Faster AI Gets, the Bigger the Gap It Creates for Non-Technical Users](https://dev.to/backrun/the-faster-ai-gets-the-bigger-the-gap-it-creates-for-non-technical-users-344k)
+- [How to Build a Competitor Monitoring Pipeline in 30 Minutes](https://dev.to/charles_90891cea4a1800830/how-to-build-a-competitor-monitoring-pipeline-in-30-minutes-3p13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
