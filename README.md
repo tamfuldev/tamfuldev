@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your Own Polymarket](https://dev.to/crevelop/how-to-build-your-own-polymarket-8g8)
-- [The libraries I actually reach for — and the rule I use to decide](https://dev.to/dimonb19a/the-libraries-i-actually-reach-for-and-the-rule-i-use-to-decide-2f82)
-- [Generating High-Quality PDFs in Django with Playwright &lpar;When Other Libraries Fall Short&rpar;](https://dev.to/gbengacode/generating-high-quality-pdfs-in-django-with-playwright-when-other-libraries-fall-short-58gk)
-- [Your Copilot Just Got a Local Brain](https://dev.to/oneinfer/your-copilot-just-got-a-local-brain-2i2j)
-- [AI Coding Workflow 2026: What a YC Founder&#39;s Stack Taught Me About the Hard Parts [Guide]](https://dev.to/kunal_d6a8fea2309e1571ee7/ai-coding-workflow-2026-what-a-yc-founders-stack-taught-me-about-the-hard-parts-guide-28hl)
+- [Maybe Coding Agents Don&#39;t Need a Bigger Memory. Maybe They Need Continuity.](https://dev.to/oldskultxo/maybe-coding-agents-dont-need-a-bigger-memory-maybe-they-need-continuity-3327)
+- [Taxonomy Surgery, Cosine = 1.0000, and Making Routing Disappear into Infrastructure](https://dev.to/wavebro_c996eee478a5ca541/taxonomy-surgery-cosine-10000-and-making-routing-disappear-into-infrastructure-c20)
+- [From an Abandoned To-Do App to a Smart Productivity Engine: Upgrading Taskr into Solomon&#39;s Taskr](https://dev.to/solomon1029/from-an-abandoned-to-do-app-to-a-smart-productivity-engine-upgrading-taskr-into-solomons-taskr-apj)
+- [I Finally Shipped FlowDesk — My All-in-One Productivity Dashboard Built with GitHub Copilot ⚡](https://dev.to/red-coder-27/i-finally-shipped-flowdesk-my-all-in-one-productivity-dashboard-built-with-github-copilot-2oie)
+- [Gemma 4 12B: Google&#39;s encoder-free multimodal AI now runs on a laptop](https://dev.to/thegatewayguy/gemma-4-12b-googles-encoder-free-multimodal-ai-now-runs-on-a-laptop-23d5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
