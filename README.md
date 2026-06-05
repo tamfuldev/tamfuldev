@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe Coding Agents Don&#39;t Need a Bigger Memory. Maybe They Need Continuity.](https://dev.to/oldskultxo/maybe-coding-agents-dont-need-a-bigger-memory-maybe-they-need-continuity-3327)
-- [Taxonomy Surgery, Cosine = 1.0000, and Making Routing Disappear into Infrastructure](https://dev.to/wavebro_c996eee478a5ca541/taxonomy-surgery-cosine-10000-and-making-routing-disappear-into-infrastructure-c20)
-- [From an Abandoned To-Do App to a Smart Productivity Engine: Upgrading Taskr into Solomon&#39;s Taskr](https://dev.to/solomon1029/from-an-abandoned-to-do-app-to-a-smart-productivity-engine-upgrading-taskr-into-solomons-taskr-apj)
-- [I Finally Shipped FlowDesk — My All-in-One Productivity Dashboard Built with GitHub Copilot ⚡](https://dev.to/red-coder-27/i-finally-shipped-flowdesk-my-all-in-one-productivity-dashboard-built-with-github-copilot-2oie)
-- [Gemma 4 12B: Google&#39;s encoder-free multimodal AI now runs on a laptop](https://dev.to/thegatewayguy/gemma-4-12b-googles-encoder-free-multimodal-ai-now-runs-on-a-laptop-23d5)
+- [Great Stack to Doesn&#39;t Work #6 — CI/CD: &quot;Pipeline Green, Production Red&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-6-cicd-pipeline-green-production-red-5a5m)
+- [Keep the Credit Ledger Off-Chain. Checkpoint It On-Chain.](https://dev.to/newtorob/keep-the-credit-ledger-off-chain-checkpoint-it-on-chain-4acf)
+- [Why a Short Task List Can Still Feel Heavy &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-a-short-task-list-can-still-feel-heavy-bite-size-article-43bc)
+- [How to Back Up Your Server Files and Database &lpar;Before You Learn the Hard Way&rpar;](https://dev.to/christophchi/how-to-back-up-your-server-files-and-database-before-you-learn-the-hard-way-2962)
+- [38 Domains, One Session. What the DNS Migration Tools Didn&#39;t Show Me.](https://dev.to/ladiajy2g/38-domains-one-session-what-the-dns-migration-tools-didnt-show-me-12m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
