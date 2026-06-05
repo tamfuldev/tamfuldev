@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TaskTrack — A Specify Spec for Agent Task Management](https://dev.to/newadventuresinit/tasktrack-a-specify-spec-for-agent-task-management-2bhh)
-- [Understanding Underfitting and Overfitting: An Introduction](https://dev.to/phylis/understanding-underfitting-and-overfitting-an-introduction-1agh)
-- [My VPS Crashed at 3 AM: A Sysadmin&#39;s Confession](https://dev.to/merbayerp/my-vps-crashed-at-3-am-a-sysadmins-confession-1km7)
-- [Building a Local, GPU-Accelerated Background Remover MCP Server in Python](https://dev.to/arunmozhi_varman_k/building-a-local-gpu-accelerated-background-remover-mcp-server-in-python-53hk)
-- [Building Custom WHMCS Modules with Modern Web Technologies](https://dev.to/whmcsexpert/building-custom-whmcs-modules-with-modern-web-technologies-3bdm)
+- [What an AI Wants: A Temporal &amp; Infra-Aware Roadmap](https://dev.to/laurent_pavarino_95880cfc/what-an-ai-wants-a-temporal-infra-aware-roadmap-18a0)
+- [Echo Protocol eBTC Admin Key Attack Investigation](https://dev.to/qanzhi111/echo-protocol-ebtc-admin-key-attack-investigation-4oc7)
+- [Data Engineer vs. Data Scientist: What&#39;s the Difference? &lpar;2026 Guide for Beginners&rpar;](https://dev.to/phylis/data-engineer-vs-data-scientist-whats-the-difference-2026-guide-for-beginners-46md)
+- [Best AI Tools for Developers in India &lpar;2026&rpar; — Tried, Tested &amp; Ranked](https://dev.to/zyvop/best-ai-tools-for-developers-in-india-2026-tried-tested-ranked-2eea)
+- [Automate Social Media With Python and the Zernio API](https://dev.to/kevin_menesesgonzlez/automate-social-media-with-python-and-the-zernio-api-36mn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
