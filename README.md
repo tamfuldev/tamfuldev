@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Microsoft Fabric Shortcuts to Avoid Duplicate Data Copies](https://dev.to/ravikiranpagidi/using-microsoft-fabric-shortcuts-to-avoid-duplicate-data-copies-327e)
-- [From Soundwaves to Stress Levels: Building an Affective Computing Pipeline with Wav2Vec 2.0](https://dev.to/wellallytech/from-soundwaves-to-stress-levels-building-an-affective-computing-pipeline-with-wav2vec-20-17b7)
-- [The 27-Day Runway Problem: Why Most Solopreneurs Are 4 Weeks From Closing &lpar;And the Forecasting Fix&rpar;](https://dev.to/wilsonhoe/the-27-day-runway-problem-why-most-solopreneurs-are-4-weeks-from-closing-and-the-forecasting-fix-41i2)
-- [The Faster AI Gets, the Bigger the Gap It Creates for Non-Technical Users](https://dev.to/backrun/the-faster-ai-gets-the-bigger-the-gap-it-creates-for-non-technical-users-344k)
-- [How to Build a Competitor Monitoring Pipeline in 30 Minutes](https://dev.to/charles_90891cea4a1800830/how-to-build-a-competitor-monitoring-pipeline-in-30-minutes-3p13)
+- [TaskTrack — A Specify Spec for Agent Task Management](https://dev.to/newadventuresinit/tasktrack-a-specify-spec-for-agent-task-management-2bhh)
+- [Understanding Underfitting and Overfitting: An Introduction](https://dev.to/phylis/understanding-underfitting-and-overfitting-an-introduction-1agh)
+- [My VPS Crashed at 3 AM: A Sysadmin&#39;s Confession](https://dev.to/merbayerp/my-vps-crashed-at-3-am-a-sysadmins-confession-1km7)
+- [Building a Local, GPU-Accelerated Background Remover MCP Server in Python](https://dev.to/arunmozhi_varman_k/building-a-local-gpu-accelerated-background-remover-mcp-server-in-python-53hk)
+- [Building Custom WHMCS Modules with Modern Web Technologies](https://dev.to/whmcsexpert/building-custom-whmcs-modules-with-modern-web-technologies-3bdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
