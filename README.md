@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Colab, but in your favourite terminal](https://dev.to/gde/google-colab-but-in-your-favourite-terminal-5hf8)
-- [Open Source, Co-Ops and a History of Bias in Corporate America](https://dev.to/glind/open-source-co-ops-and-a-history-of-bias-in-corporate-america-3k60)
-- [AI Code Security: Claude&#39;s rsync Bugs; Europe&#39;s GNSS Interference &amp; GPS Anomalies](https://dev.to/soytuber/ai-code-security-claudes-rsync-bugs-europes-gnss-interference-gps-anomalies-5acf)
-- [Dropbox Nova for AI Coding Agents, OpenAI&#39;s Codex Sandbox, &amp; Puppeteer MCP Server](https://dev.to/soytuber/dropbox-nova-for-ai-coding-agents-openais-codex-sandbox-puppeteer-mcp-server-3ff5)
-- [DuckDB Integrates Lance Lakehouse; SQLite CVE Fix; Postgres 19 Beta on K8s](https://dev.to/soytuber/duckdb-integrates-lance-lakehouse-sqlite-cve-fix-postgres-19-beta-on-k8s-4m91)
+- [SEO en 2026, cuando la mitad de tu tráfico llega por ChatGPT](https://dev.to/aws-builders/seo-en-2026-cuando-la-mitad-de-tu-trafico-llega-por-chatgpt-una-reescritura-en-cuatro-fases-2obo)
+- [AI agents don&#39;t crash. They fail silently. Here&#39;s how to catch it in Claude Code.](https://dev.to/luffyfanonepiece/ai-agents-dont-crash-they-fail-silently-heres-how-to-catch-it-in-claude-code-13nh)
+- [RubyConf has joined RailsConf &amp; RailsWorld as another exclusive discriminatory unexcellent conference](https://dev.to/andyobtiva/rubyconf-has-joined-railsconf-railsworld-as-another-exclusive-discriminatory-unexcellent-3h65)
+- [From PaaS to VPS: My Roadmap to Self-Hosting My SaaS](https://dev.to/umudabbasli/from-paas-to-vps-my-roadmap-to-self-hosting-my-saas-125)
+- [How I Built Two iOS Games in 3 Months as a Solo Developer](https://dev.to/risola_me_a79eac9d2622b19/how-i-built-two-ios-games-in-3-months-as-a-solo-developer-574f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
