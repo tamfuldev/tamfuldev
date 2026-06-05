@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Stereo Algorithms &lpar;Evolution&rpar;](https://dev.to/apostbollas/basic-stereo-algorithms-evolution-2fb0)
-- [I gave my notes a cache hierarchy: phone L1, vault L2](https://dev.to/simple_memo/i-gave-my-notes-a-cache-hierarchy-phone-l1-vault-l2-73m)
-- [I built a self-hosted AI workspace for macOS — meet Odysee](https://dev.to/alexdesign420/i-cleaned-up-a-self-hosted-ai-workspace-and-put-it-on-github-meet-odysee-macos-4291)
-- [Mastering Laravel Performance: A Deep Dive into Eager Loading for N+1 Query Prevention](https://dev.to/prabashanadev/mastering-laravel-performance-a-deep-dive-into-eager-loading-for-n1-query-prevention-23j2)
-- [My Kubernetes Learning Roadmap: From Beginner to CKA](https://dev.to/shahzadahmad91/my-kubernetes-learning-roadmap-from-beginner-to-cka-1e82)
+- [How to Build Your Own Polymarket](https://dev.to/crevelop/how-to-build-your-own-polymarket-8g8)
+- [The libraries I actually reach for — and the rule I use to decide](https://dev.to/dimonb19a/the-libraries-i-actually-reach-for-and-the-rule-i-use-to-decide-2f82)
+- [Generating High-Quality PDFs in Django with Playwright &lpar;When Other Libraries Fall Short&rpar;](https://dev.to/gbengacode/generating-high-quality-pdfs-in-django-with-playwright-when-other-libraries-fall-short-58gk)
+- [Your Copilot Just Got a Local Brain](https://dev.to/oneinfer/your-copilot-just-got-a-local-brain-2i2j)
+- [AI Coding Workflow 2026: What a YC Founder&#39;s Stack Taught Me About the Hard Parts [Guide]](https://dev.to/kunal_d6a8fea2309e1571ee7/ai-coding-workflow-2026-what-a-yc-founders-stack-taught-me-about-the-hard-parts-guide-28hl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
