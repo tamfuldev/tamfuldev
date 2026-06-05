@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Great Stack to Doesn&#39;t Work #6 — CI/CD: &quot;Pipeline Green, Production Red&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-6-cicd-pipeline-green-production-red-5a5m)
-- [Keep the Credit Ledger Off-Chain. Checkpoint It On-Chain.](https://dev.to/newtorob/keep-the-credit-ledger-off-chain-checkpoint-it-on-chain-4acf)
-- [Why a Short Task List Can Still Feel Heavy &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-a-short-task-list-can-still-feel-heavy-bite-size-article-43bc)
-- [How to Back Up Your Server Files and Database &lpar;Before You Learn the Hard Way&rpar;](https://dev.to/christophchi/how-to-back-up-your-server-files-and-database-before-you-learn-the-hard-way-2962)
-- [38 Domains, One Session. What the DNS Migration Tools Didn&#39;t Show Me.](https://dev.to/ladiajy2g/38-domains-one-session-what-the-dns-migration-tools-didnt-show-me-12m7)
+- [Google Colab, but in your favourite terminal](https://dev.to/gde/google-colab-but-in-your-favourite-terminal-5hf8)
+- [Open Source, Co-Ops and a History of Bias in Corporate America](https://dev.to/glind/open-source-co-ops-and-a-history-of-bias-in-corporate-america-3k60)
+- [AI Code Security: Claude&#39;s rsync Bugs; Europe&#39;s GNSS Interference &amp; GPS Anomalies](https://dev.to/soytuber/ai-code-security-claudes-rsync-bugs-europes-gnss-interference-gps-anomalies-5acf)
+- [Dropbox Nova for AI Coding Agents, OpenAI&#39;s Codex Sandbox, &amp; Puppeteer MCP Server](https://dev.to/soytuber/dropbox-nova-for-ai-coding-agents-openais-codex-sandbox-puppeteer-mcp-server-3ff5)
+- [DuckDB Integrates Lance Lakehouse; SQLite CVE Fix; Postgres 19 Beta on K8s](https://dev.to/soytuber/duckdb-integrates-lance-lakehouse-sqlite-cve-fix-postgres-19-beta-on-k8s-4m91)
 <!-- BLOG-POST-LIST:END -->
 
 ---
