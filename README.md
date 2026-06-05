@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What an AI Wants: A Temporal &amp; Infra-Aware Roadmap](https://dev.to/laurent_pavarino_95880cfc/what-an-ai-wants-a-temporal-infra-aware-roadmap-18a0)
-- [Echo Protocol eBTC Admin Key Attack Investigation](https://dev.to/qanzhi111/echo-protocol-ebtc-admin-key-attack-investigation-4oc7)
-- [Data Engineer vs. Data Scientist: What&#39;s the Difference? &lpar;2026 Guide for Beginners&rpar;](https://dev.to/phylis/data-engineer-vs-data-scientist-whats-the-difference-2026-guide-for-beginners-46md)
-- [Best AI Tools for Developers in India &lpar;2026&rpar; — Tried, Tested &amp; Ranked](https://dev.to/zyvop/best-ai-tools-for-developers-in-india-2026-tried-tested-ranked-2eea)
-- [Automate Social Media With Python and the Zernio API](https://dev.to/kevin_menesesgonzlez/automate-social-media-with-python-and-the-zernio-api-36mn)
+- [Basic Stereo Algorithms &lpar;Evolution&rpar;](https://dev.to/apostbollas/basic-stereo-algorithms-evolution-2fb0)
+- [I gave my notes a cache hierarchy: phone L1, vault L2](https://dev.to/simple_memo/i-gave-my-notes-a-cache-hierarchy-phone-l1-vault-l2-73m)
+- [I built a self-hosted AI workspace for macOS — meet Odysee](https://dev.to/alexdesign420/i-cleaned-up-a-self-hosted-ai-workspace-and-put-it-on-github-meet-odysee-macos-4291)
+- [Mastering Laravel Performance: A Deep Dive into Eager Loading for N+1 Query Prevention](https://dev.to/prabashanadev/mastering-laravel-performance-a-deep-dive-into-eager-loading-for-n1-query-prevention-23j2)
+- [My Kubernetes Learning Roadmap: From Beginner to CKA](https://dev.to/shahzadahmad91/my-kubernetes-learning-roadmap-from-beginner-to-cka-1e82)
 <!-- BLOG-POST-LIST:END -->
 
 ---
