@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed)
-- [Show DEV: AIPDFKit -&gt; Free AI-Powered PDF Tools for Developers &lpar;No Account Needed&rpar;](https://dev.to/karamanbk/show-dev-aipdfkit-free-ai-powered-pdf-tools-for-developers-no-account-needed-4h9l)
-- [Learn Leetcode daily with Claude code mentor](https://dev.to/stewie-pixel/learn-leetcode-daily-with-claude-code-mentor-f52)
-- [Quark&#39;s Outlines: Python User-defined Methods](https://dev.to/mike-vincent/quarks-outlines-python-user-defined-methods-4aj5)
-- [Teaching Networking? The OSI Simulator Is Your Best Classroom Tool](https://dev.to/roboticela/series-01-1620-teaching-networking-the-osi-simulator-is-your-best-classroom-tool-22jh)
+- [Can&#39;t change favicon.ico](https://dev.to/boylesg/cant-change-faviconico-3kb)
+- [How Excel is used in Real-World Data Analysis](https://dev.to/datawithian/how-excel-is-used-in-real-world-data-analysis-3hig)
+- [Compliance Just Got Real: Navigating the Post-Honeymoon Era of AI](https://dev.to/prabashanadev/compliance-just-got-real-navigating-the-post-honeymoon-era-of-ai-2idb)
+- [Length Conversion in Audio Signal Processing](https://dev.to/lorishu/length-conversion-in-audio-signal-processing-4lph)
+- [Ahmad Awais，WordPress和API的专家谈如何妙用DeepSeek和自己的AI助手Command C](https://dev.to/cognitalk/ahmad-awaiswordpresshe-apide-zhuan-jia-tan-ru-he-miao-yong-deepseekhe-zi-ji-de-aizhu-shou-command-c-9a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
