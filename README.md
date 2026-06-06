@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building MIL-STD-Compliant ATE with LabVIEW: Architecture and Best Practices](https://dev.to/robinyadav8180/building-mil-std-compliant-ate-with-labview-architecture-and-best-practices-3p39)
-- [FastAPI for AI Engineers - Part 3: Connecting to a database](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-3-connecting-to-a-database-30ca)
-- [Ideogram 4.0 is Good. Just Good.](https://dev.to/igorgridel/ideogram-40-is-good-just-good-660)
-- [Ideogram 4.0 is on 7 Platforms. Here&#39;s What It Actually Costs.](https://dev.to/igorgridel/ideogram-40-is-on-7-platforms-heres-what-it-actually-costs-1np9)
-- [The Interview Prep Mistake That Kept Holding Me Back](https://dev.to/ujjwal3769/the-interview-prep-mistake-that-kept-holding-me-back-1fap)
+- [Three checks that separate an agent demo from a production agent](https://dev.to/alex_duch/three-checks-that-separate-an-agent-demo-from-a-production-agent-5a8b)
+- [Building a Middle School Quiz App in React: Gamification, Accessibility and Adaptive Questions](https://dev.to/ohugonnot/building-a-middle-school-quiz-app-in-react-gamification-accessibility-and-adaptive-questions-2dd1)
+- [Crucible v1.1.0 — Generate UI components you actually own &lpar;React/Vue/Angular&rpar;](https://dev.to/naveen2070/crucible-v110-generate-ui-components-you-actually-own-reactvueangular-49eo)
+- [I Built 121+ Free Browser-Based Dev Tools — Here Are My 10 Favorites](https://dev.to/sylar_837ff17f3f5697f8305/i-built-121-free-browser-based-dev-tools-here-are-my-10-favorites-3lg8)
+- [Majority Element II](https://dev.to/jaspreet_singh_86ae1740ac/majority-element-ii-e2g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
