@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Self-Hosted Newsletter Setup with n8n &amp; Gemini](https://dev.to/the_peripheral_stack/building-a-self-hosted-newsletter-setup-with-n8n-gemini-10n2)
-- [Presentando Fitz: un lenguaje donde HTTP, Postgres, JWT y WebSockets son parte de la sintaxis](https://dev.to/martin_palopoli/presentando-fitz-un-lenguaje-donde-http-postgres-jwt-y-websockets-son-parte-de-la-sintaxis-3la8)
-- [Building an AI game engine with Three.js](https://dev.to/mario_jgoestarosso_5c91/building-an-ai-game-engine-with-threejs-5162)
-- [Introducing Fitz: a language where HTTP, Postgres, JWT, and WebSockets are part of the syntax](https://dev.to/martin_palopoli/introducing-fitz-a-language-where-http-postgres-jwt-and-websockets-are-part-of-the-syntax-4if0)
-- [Why Trae Keeps Topping the Juejin AI Coding Tools List](https://dev.to/ninghonggang/why-trae-keeps-topping-the-juejin-ai-coding-tools-list-3ka0)
+- [ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed)
+- [Show DEV: AIPDFKit -&gt; Free AI-Powered PDF Tools for Developers &lpar;No Account Needed&rpar;](https://dev.to/karamanbk/show-dev-aipdfkit-free-ai-powered-pdf-tools-for-developers-no-account-needed-4h9l)
+- [Learn Leetcode daily with Claude code mentor](https://dev.to/stewie-pixel/learn-leetcode-daily-with-claude-code-mentor-f52)
+- [Quark&#39;s Outlines: Python User-defined Methods](https://dev.to/mike-vincent/quarks-outlines-python-user-defined-methods-4aj5)
+- [Teaching Networking? The OSI Simulator Is Your Best Classroom Tool](https://dev.to/roboticela/series-01-1620-teaching-networking-the-osi-simulator-is-your-best-classroom-tool-22jh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
