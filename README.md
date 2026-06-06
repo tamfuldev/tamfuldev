@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [106. LangGraph: Stateful Agent Workflows](https://dev.to/yakhilesh/106-langgraph-stateful-agent-workflows-2oh3)
-- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-47en)
-- [Your file-sharing server shouldn&#39;t be able to read your files. Here&#39;s how I made sure mine can&#39;t.](https://dev.to/onokashino/your-file-sharing-server-shouldnt-be-able-to-read-your-files-heres-how-i-made-sure-mine-cant-58m)
-- [peektea brews on WSL 👀🍵 &lpar;and installs in one line&rpar;](https://dev.to/lovestaco/peektea-brews-on-wsl-and-installs-in-one-line-34ef)
-- [From Governance Scaffold to Runtime Foundation: A Milestone for HHI Runtime Core](https://dev.to/hollowhouse/from-governance-scaffold-to-runtime-foundation-a-milestone-for-hhi-runtime-core-25lj)
+- [Introducing aislop: The Quality Gate for AI-Written Code](https://dev.to/scanaislop/introducing-aislop-the-quality-gate-for-ai-written-code-326g)
+- [Better Data Beats Better Algorithms: Before Changing the Model, Change the Data](https://dev.to/vineet_chauhan_a828338181/better-data-beats-better-algorithms-before-changing-the-model-change-the-data-107k)
+- [What Is AI Slop in Code?](https://dev.to/heavykenny/what-is-ai-slop-in-code-235a)
+- [MindPal: finishing the AI support app that remembers what matters](https://dev.to/m1rw/mindpal-finishing-the-ai-support-app-that-remembers-what-matters-4ne5)
+- [Scraping Real Estate &amp; Job Data with Python: Zillow, Indeed &amp; More &lpar;2026&rpar;](https://dev.to/zyvop/scraping-real-estate-job-data-with-python-zillow-indeed-more-2026-2pbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
