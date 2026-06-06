@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First React Project &lpar;Part 3&rpar;: Reusable Components, Framer Motion Animation, and Key Lessons Learned](https://dev.to/ayra_austine/my-first-react-project-part-3-reusable-components-framer-motion-animation-and-key-lessons-d95)
-- [I built a free SQL practice game where you work at a fictional Singapore bank](https://dev.to/martinl5/i-built-a-free-sql-practice-game-where-you-work-at-a-fictional-singapore-bank-4728)
-- [SpaceX&#39;s IPO Will Make Elon Musk Earth&#39;s First Trillionaire. That&#39;s Not Actually a Finance Story.](https://dev.to/om_shree_0709/spacexs-ipo-will-make-elon-musk-earths-first-trillionaire-thats-not-actually-a-finance-story-4fhi)
-- [What Is Ollama? The Complete Guide to Running LLMs Locally in 2026](https://dev.to/mustafa_ehsan_27a8198830f/what-is-ollama-the-complete-guide-to-running-llms-locally-in-2026-2fe4)
-- [CI/CD Build Cache Management: Time Savings and Infrastructure Costs](https://dev.to/merbayerp/cicd-build-cache-management-time-savings-and-infrastructure-costs-3ap1)
+- [Building MIL-STD-Compliant ATE with LabVIEW: Architecture and Best Practices](https://dev.to/robinyadav8180/building-mil-std-compliant-ate-with-labview-architecture-and-best-practices-3p39)
+- [FastAPI for AI Engineers - Part 3: Connecting to a database](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-3-connecting-to-a-database-30ca)
+- [Ideogram 4.0 is Good. Just Good.](https://dev.to/igorgridel/ideogram-40-is-good-just-good-660)
+- [Ideogram 4.0 is on 7 Platforms. Here&#39;s What It Actually Costs.](https://dev.to/igorgridel/ideogram-40-is-on-7-platforms-heres-what-it-actually-costs-1np9)
+- [The Interview Prep Mistake That Kept Holding Me Back](https://dev.to/ujjwal3769/the-interview-prep-mistake-that-kept-holding-me-back-1fap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
