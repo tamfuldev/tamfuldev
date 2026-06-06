@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can&#39;t change favicon.ico](https://dev.to/boylesg/cant-change-faviconico-3kb)
-- [How Excel is used in Real-World Data Analysis](https://dev.to/datawithian/how-excel-is-used-in-real-world-data-analysis-3hig)
-- [Compliance Just Got Real: Navigating the Post-Honeymoon Era of AI](https://dev.to/prabashanadev/compliance-just-got-real-navigating-the-post-honeymoon-era-of-ai-2idb)
-- [Length Conversion in Audio Signal Processing](https://dev.to/lorishu/length-conversion-in-audio-signal-processing-4lph)
-- [Ahmad Awais，WordPress和API的专家谈如何妙用DeepSeek和自己的AI助手Command C](https://dev.to/cognitalk/ahmad-awaiswordpresshe-apide-zhuan-jia-tan-ru-he-miao-yong-deepseekhe-zi-ji-de-aizhu-shou-command-c-9a7)
+- [AI Agents: The Future of Autonomous Intelligence](https://dev.to/kielltampubolon/ai-agents-the-future-of-autonomous-intelligence-onp)
+- [CloakBrowser MCP: Playwright MCP tools with a CloakBrowser Chromium runtime](https://dev.to/swimmwatch/cloakbrowser-mcp-playwright-mcp-tools-with-a-cloakbrowser-chromium-runtime-3ec8)
+- [7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output](https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd)
+- [84% of crypto traders lost money last year. Their analysis wasn&#39;t the problem.](https://dev.to/jerry_chen_dbaa6838e17336/84-of-crypto-traders-lost-money-last-year-their-analysis-wasnt-the-problem-4o3l)
+- [Your trading bot automated the wrong thing](https://dev.to/jerry_chen_dbaa6838e17336/your-trading-bot-automated-the-wrong-thing-13m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
