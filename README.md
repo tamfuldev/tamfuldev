@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: The Future of Autonomous Intelligence](https://dev.to/kielltampubolon/ai-agents-the-future-of-autonomous-intelligence-onp)
-- [CloakBrowser MCP: Playwright MCP tools with a CloakBrowser Chromium runtime](https://dev.to/swimmwatch/cloakbrowser-mcp-playwright-mcp-tools-with-a-cloakbrowser-chromium-runtime-3ec8)
-- [7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output](https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd)
-- [84% of crypto traders lost money last year. Their analysis wasn&#39;t the problem.](https://dev.to/jerry_chen_dbaa6838e17336/84-of-crypto-traders-lost-money-last-year-their-analysis-wasnt-the-problem-4o3l)
-- [Your trading bot automated the wrong thing](https://dev.to/jerry_chen_dbaa6838e17336/your-trading-bot-automated-the-wrong-thing-13m7)
+- [106. LangGraph: Stateful Agent Workflows](https://dev.to/yakhilesh/106-langgraph-stateful-agent-workflows-2oh3)
+- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-47en)
+- [Your file-sharing server shouldn&#39;t be able to read your files. Here&#39;s how I made sure mine can&#39;t.](https://dev.to/onokashino/your-file-sharing-server-shouldnt-be-able-to-read-your-files-heres-how-i-made-sure-mine-cant-58m)
+- [peektea brews on WSL 👀🍵 &lpar;and installs in one line&rpar;](https://dev.to/lovestaco/peektea-brews-on-wsl-and-installs-in-one-line-34ef)
+- [From Governance Scaffold to Runtime Foundation: A Milestone for HHI Runtime Core](https://dev.to/hollowhouse/from-governance-scaffold-to-runtime-foundation-a-milestone-for-hhi-runtime-core-25lj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
