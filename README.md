@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing aislop: The Quality Gate for AI-Written Code](https://dev.to/scanaislop/introducing-aislop-the-quality-gate-for-ai-written-code-326g)
-- [Better Data Beats Better Algorithms: Before Changing the Model, Change the Data](https://dev.to/vineet_chauhan_a828338181/better-data-beats-better-algorithms-before-changing-the-model-change-the-data-107k)
-- [What Is AI Slop in Code?](https://dev.to/heavykenny/what-is-ai-slop-in-code-235a)
-- [MindPal: finishing the AI support app that remembers what matters](https://dev.to/m1rw/mindpal-finishing-the-ai-support-app-that-remembers-what-matters-4ne5)
-- [Scraping Real Estate &amp; Job Data with Python: Zillow, Indeed &amp; More &lpar;2026&rpar;](https://dev.to/zyvop/scraping-real-estate-job-data-with-python-zillow-indeed-more-2026-2pbb)
+- [How to Uninstall Hermes Desktop from macOS](https://dev.to/0xkoji/how-to-uninstall-hermes-desktop-from-macos-366j)
+- [We built a coding harness that beats frontier models using open ones. It&#39;s in open beta.](https://dev.to/jon_at_backboardio/we-built-a-coding-harness-that-beats-frontier-models-using-open-ones-its-in-open-beta-15g3)
+- [5 micro-SaaS ideas devs are asking for on Reddit](https://dev.to/notomarsol/5-micro-saas-ideas-devs-are-asking-for-on-reddit-5ce2)
+- [DuckDB 1.5.3 &amp; Quack Protocol Release; PostgreSQL File Descriptor Tuning](https://dev.to/soytuber/duckdb-153-quack-protocol-release-postgresql-file-descriptor-tuning-2jhj)
+- [Scarab Diagnostic Suite Field Test #013: Kubernetes Watch Cache Critical-Section Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-013-kubernetes-watch-cache-critical-section-boundary-284o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
