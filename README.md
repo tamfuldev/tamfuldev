@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Three checks that separate an agent demo from a production agent](https://dev.to/alex_duch/three-checks-that-separate-an-agent-demo-from-a-production-agent-5a8b)
-- [Building a Middle School Quiz App in React: Gamification, Accessibility and Adaptive Questions](https://dev.to/ohugonnot/building-a-middle-school-quiz-app-in-react-gamification-accessibility-and-adaptive-questions-2dd1)
-- [Crucible v1.1.0 — Generate UI components you actually own &lpar;React/Vue/Angular&rpar;](https://dev.to/naveen2070/crucible-v110-generate-ui-components-you-actually-own-reactvueangular-49eo)
-- [I Built 121+ Free Browser-Based Dev Tools — Here Are My 10 Favorites](https://dev.to/sylar_837ff17f3f5697f8305/i-built-121-free-browser-based-dev-tools-here-are-my-10-favorites-3lg8)
-- [Majority Element II](https://dev.to/jaspreet_singh_86ae1740ac/majority-element-ii-e2g)
+- [Building a Self-Hosted Newsletter Setup with n8n &amp; Gemini](https://dev.to/the_peripheral_stack/building-a-self-hosted-newsletter-setup-with-n8n-gemini-10n2)
+- [Presentando Fitz: un lenguaje donde HTTP, Postgres, JWT y WebSockets son parte de la sintaxis](https://dev.to/martin_palopoli/presentando-fitz-un-lenguaje-donde-http-postgres-jwt-y-websockets-son-parte-de-la-sintaxis-3la8)
+- [Building an AI game engine with Three.js](https://dev.to/mario_jgoestarosso_5c91/building-an-ai-game-engine-with-threejs-5162)
+- [Introducing Fitz: a language where HTTP, Postgres, JWT, and WebSockets are part of the syntax](https://dev.to/martin_palopoli/introducing-fitz-a-language-where-http-postgres-jwt-and-websockets-are-part-of-the-syntax-4if0)
+- [Why Trae Keeps Topping the Juejin AI Coding Tools List](https://dev.to/ninghonggang/why-trae-keeps-topping-the-juejin-ai-coding-tools-list-3ka0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
