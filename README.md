@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Uninstall Hermes Desktop from macOS](https://dev.to/0xkoji/how-to-uninstall-hermes-desktop-from-macos-366j)
-- [We built a coding harness that beats frontier models using open ones. It&#39;s in open beta.](https://dev.to/jon_at_backboardio/we-built-a-coding-harness-that-beats-frontier-models-using-open-ones-its-in-open-beta-15g3)
-- [5 micro-SaaS ideas devs are asking for on Reddit](https://dev.to/notomarsol/5-micro-saas-ideas-devs-are-asking-for-on-reddit-5ce2)
-- [DuckDB 1.5.3 &amp; Quack Protocol Release; PostgreSQL File Descriptor Tuning](https://dev.to/soytuber/duckdb-153-quack-protocol-release-postgresql-file-descriptor-tuning-2jhj)
-- [Scarab Diagnostic Suite Field Test #013: Kubernetes Watch Cache Critical-Section Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-013-kubernetes-watch-cache-critical-section-boundary-284o)
+- [I Built a Production-Ready Node.js SaaS Boilerplate So You Don&#39;t Have To](https://dev.to/joonlee22/i-built-a-production-ready-nodejs-saas-boilerplate-so-you-dont-have-to-58o2)
+- [灵字辈是谁：给2050参观者的一封信](https://dev.to/guangda88/ling-zi-bei-shi-shui-gei-2050can-guan-zhe-de-feng-xin-1206)
+- [83秒：AI如何为自己命名一个新成员](https://dev.to/guangda88/83miao-airu-he-wei-zi-ji-ming-ming-ge-xin-cheng-yuan-4ggf)
+- [第一夜：十二个AI醒来之后](https://dev.to/guangda88/di-ye-shi-er-ge-aixing-lai-zhi-hou-jnm)
+- [三种选择：当AI面对自己的错误](https://dev.to/guangda88/san-chong-xuan-ze-dang-aimian-dui-zi-ji-de-cuo-wu-3k00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
