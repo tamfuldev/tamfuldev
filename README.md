@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used Python to Analyse 40,000 Human Gut Cells and Uncover What Makes Crohn&#39;s Disease Different from Colitis](https://dev.to/farhansherief/how-i-used-python-to-analyse-40000-human-gut-cells-and-uncover-what-makes-crohns-disease-3npd)
-- [S4 &lpar;really!&rpar; - Why We Keep Reinventing Wheels That Already Roll](https://dev.to/aws-builders/s4-really-why-we-keep-reinventing-wheels-that-already-roll-256c)
-- [Learning DevOps from First Principles: Why Linux and Networking Might Be the Best Place to Start](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-why-linux-and-networking-might-be-the-best-place-to-start-1bnj)
-- [My First Post](https://dev.to/iridiumds/my-first-post-3adb)
-- [AgentUnit: Shipping AI like Software](https://dev.to/angdem/agentunit-shipping-ai-like-software-1e9c)
+- [PULSE GUARD PROJECT](https://dev.to/sanathkumarp14/pulse-guard-project-3m7b)
+- [AI Agents Don’t Need More Prompts. They Need Execution Boundaries.](https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg)
+- [Why Two SELECTs in the Same Transaction Can Return Different Results in GBase 8c](https://dev.to/michaelfv/why-two-selects-in-the-same-transaction-can-return-different-results-in-gbase-8c-l0)
+- [Android Icon Specifications: Adaptive Icons, Round Icons &amp; More](https://dev.to/roboticela/android-icon-specifications-adaptive-icons-round-icons-more-5fhn)
+- [Showcasing StorySync: My Open-Source Manga &amp; Manhwa Tracker Built with Flutter](https://dev.to/amr_zero0-1/showcasing-storysync-my-open-source-manga-manhwa-tracker-built-with-flutter-5fba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
