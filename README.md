@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PULSE GUARD PROJECT](https://dev.to/sanathkumarp14/pulse-guard-project-3m7b)
-- [AI Agents Don’t Need More Prompts. They Need Execution Boundaries.](https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg)
-- [Why Two SELECTs in the Same Transaction Can Return Different Results in GBase 8c](https://dev.to/michaelfv/why-two-selects-in-the-same-transaction-can-return-different-results-in-gbase-8c-l0)
-- [Android Icon Specifications: Adaptive Icons, Round Icons &amp; More](https://dev.to/roboticela/android-icon-specifications-adaptive-icons-round-icons-more-5fhn)
-- [Showcasing StorySync: My Open-Source Manga &amp; Manhwa Tracker Built with Flutter](https://dev.to/amr_zero0-1/showcasing-storysync-my-open-source-manga-manhwa-tracker-built-with-flutter-5fba)
+- [How to Write a Cold Email to Investors That Gets Replies](https://dev.to/sclaydon/how-to-write-a-cold-email-to-investors-that-gets-replies-i9d)
+- [2026年中盘点：国内外十大AI大模型全能横评，谁才是真正的“六边形战士“？](https://dev.to/guangying8hao/2026nian-zhong-pan-dian-guo-nei-wai-shi-da-aida-mo-xing-quan-neng-heng-ping-shui-cai-shi-zhen-zheng-de-liu-bian-xing-zhan-shi--4mlo)
+- [I’m working on configuring Tailwind CSS with React. I’ve followed the steps, but I’m stuck and can’t get it to work fully. If anyone could assist me or walk me through the setup, it would be a huge help. I’d really appreciate any guidance.](https://dev.to/asesh_mondal_ceab74b798bc/im-working-on-configuring-tailwind-css-with-react-ive-followed-the-steps-but-im-stuck-and-hl7)
+- [simple-rate-limiter: polished and publish-ready](https://dev.to/amarpreetbhatia/simple-rate-limiter-polished-and-publish-ready-1jc7)
+- [从LLM视角重新思考熵的定义](https://dev.to/cognitalk/cong-llmshi-jiao-zhong-xin-si-kao-shang-de-ding-yi-1n7o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
