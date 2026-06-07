@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a ReAct Chat Agent with the Laravel AI SDK](https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6)
-- [Windows and Linux Sensitive Directory Path Summary](https://dev.to/excalibra/windows-and-linux-sensitive-directory-path-summary-3b1o)
-- [Architecture Breakdown: Building an Enterprise-Grade Legal RAG System &lpar;From Ingestion to RAGAS Evaluation&rpar;](https://dev.to/ayanpal98/architecture-breakdown-building-an-enterprise-grade-legal-rag-system-from-ingestion-to-ragas-4m0c)
-- [Atlassian Admin v1 APIs Go Dark on June 30 — Your User-Provisioning Script Probably Hits Eleven of Them](https://dev.to/flarecanary/atlassian-admin-v1-apis-go-dark-on-june-30-your-user-provisioning-script-probably-hits-eleven-of-l0n)
-- [Two Sum | HashMap Pattern](https://dev.to/jaspreet_singh_86ae1740ac/two-sum-hashmap-pattern-3k2i)
+- [Preventing context bloat and agent loops in database MCP servers](https://dev.to/snss5312/preventing-context-bloat-and-agent-loops-in-database-mcp-servers-3o43)
+- [How to send email from Cloudflare Workers, Deno, and Bun &lpar;Nodemailer won&#39;t&rpar;](https://dev.to/alialnaghmoush/how-to-send-email-from-cloudflare-workers-deno-and-bun-nodemailer-wont-3j00)
+- [Lottie Animations with Tailwind CSS: The Complete Integration Guide](https://dev.to/fazalshah/lottie-animations-with-tailwind-css-the-complete-integration-guide-1hl1)
+- [What is the most efficient way to evaluate poker hands at scale?](https://dev.to/stojankojo/what-is-the-most-efficient-way-to-evaluate-poker-hands-at-scale-4dpn)
+- [Lottie Animations in Gatsby.js: A Complete Guide](https://dev.to/fazalshah/lottie-animations-in-gatsbyjs-a-complete-guide-58pm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
