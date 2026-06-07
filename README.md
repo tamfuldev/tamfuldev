@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Built a Lockdown Mode Because Tool-Based Data Exfiltration Is Real — Here&#39;s What Catches It Earlier](https://dev.to/coridev/openai-built-a-lockdown-mode-because-tool-based-data-exfiltration-is-real-heres-what-catches-it-342e)
-- [AI Shrinkflation: Your AI Model Was Quietly Dialed Back](https://dev.to/keithjmackay/ai-shrinkflation-your-ai-model-was-quietly-dialed-back-3p2a)
-- [Syncing AI agents across Claude, Gemini, and Cursor](https://dev.to/mustafa_bahaa/syncing-ai-agents-across-claude-gemini-and-cursor-3d0j)
-- [I Died, Just Not Physically...](https://dev.to/itsweshy/i-died-just-not-physically-29h1)
-- [40-Year-Old Bug. Claude Found It Before the Author Did.](https://dev.to/keithjmackay/40-year-old-bug-claude-found-it-before-the-author-did-50ga)
+- [Building a ReAct Chat Agent with the Laravel AI SDK](https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6)
+- [Windows and Linux Sensitive Directory Path Summary](https://dev.to/excalibra/windows-and-linux-sensitive-directory-path-summary-3b1o)
+- [Architecture Breakdown: Building an Enterprise-Grade Legal RAG System &lpar;From Ingestion to RAGAS Evaluation&rpar;](https://dev.to/ayanpal98/architecture-breakdown-building-an-enterprise-grade-legal-rag-system-from-ingestion-to-ragas-4m0c)
+- [Atlassian Admin v1 APIs Go Dark on June 30 — Your User-Provisioning Script Probably Hits Eleven of Them](https://dev.to/flarecanary/atlassian-admin-v1-apis-go-dark-on-june-30-your-user-provisioning-script-probably-hits-eleven-of-l0n)
+- [Two Sum | HashMap Pattern](https://dev.to/jaspreet_singh_86ae1740ac/two-sum-hashmap-pattern-3k2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
