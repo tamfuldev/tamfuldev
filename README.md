@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling in Node.js: Beyond Try/Catch &lpar;2026&rpar;](https://dev.to/armorbreak/error-handling-in-nodejs-beyond-trycatch-2026-2048)
-- [Clean Architecture on the Frontend: Beyond Smart and Dumb Components](https://dev.to/djblackett/clean-architecture-on-the-frontend-beyond-smart-and-dumb-components-1abj)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-62n)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-4g7f)
-- [The Five Faculties: A Tour of SAFi&#39;s Cognitive Architecture](https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0)
+- [Multi-Cloud Deployment in Production: Cloud Run, Railway, Oracle Cloud](https://dev.to/justjinoit/multi-cloud-deployment-in-production-cloud-run-railway-oracle-cloud-3-month-report-2pdp)
+- [Writing Code Is Now The Easiest Part](https://dev.to/merbayerp/writing-code-is-now-the-easiest-part-m9n)
+- [I Tried NotebookLM as a Study Tool and It&#39;s Actually Changed How I Learn](https://dev.to/ctahirih/i-tried-notebooklm-as-a-study-tool-and-its-actually-changed-how-i-learn-248l)
+- [Run ASP Classic on Linux, macOS and Windows](https://dev.to/lucas_guimaraes/run-asp-classic-on-linux-macos-and-windows-5d7m)
+- [I Built the Resume-vs-JD Scorer Every ATS Uses — In 30 Lines of JavaScript](https://dev.to/dev48v/i-built-the-resume-vs-jd-scorer-every-ats-uses-in-30-lines-of-javascript-328b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
