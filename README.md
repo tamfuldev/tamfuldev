@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing context bloat and agent loops in database MCP servers](https://dev.to/snss5312/preventing-context-bloat-and-agent-loops-in-database-mcp-servers-3o43)
-- [How to send email from Cloudflare Workers, Deno, and Bun &lpar;Nodemailer won&#39;t&rpar;](https://dev.to/alialnaghmoush/how-to-send-email-from-cloudflare-workers-deno-and-bun-nodemailer-wont-3j00)
-- [Lottie Animations with Tailwind CSS: The Complete Integration Guide](https://dev.to/fazalshah/lottie-animations-with-tailwind-css-the-complete-integration-guide-1hl1)
-- [What is the most efficient way to evaluate poker hands at scale?](https://dev.to/stojankojo/what-is-the-most-efficient-way-to-evaluate-poker-hands-at-scale-4dpn)
-- [Lottie Animations in Gatsby.js: A Complete Guide](https://dev.to/fazalshah/lottie-animations-in-gatsbyjs-a-complete-guide-58pm)
+- [How I Used Python to Analyse 40,000 Human Gut Cells and Uncover What Makes Crohn&#39;s Disease Different from Colitis](https://dev.to/farhansherief/how-i-used-python-to-analyse-40000-human-gut-cells-and-uncover-what-makes-crohns-disease-3npd)
+- [S4 &lpar;really!&rpar; - Why We Keep Reinventing Wheels That Already Roll](https://dev.to/aws-builders/s4-really-why-we-keep-reinventing-wheels-that-already-roll-256c)
+- [Learning DevOps from First Principles: Why Linux and Networking Might Be the Best Place to Start](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-why-linux-and-networking-might-be-the-best-place-to-start-1bnj)
+- [My First Post](https://dev.to/iridiumds/my-first-post-3adb)
+- [AgentUnit: Shipping AI like Software](https://dev.to/angdem/agentunit-shipping-ai-like-software-1e9c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
