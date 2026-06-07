@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personal Study Planner Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-study-planner-agent-in-typescript-with-hazeljs-12g0)
-- [Simple A2A implementation with Strands](https://dev.to/aws-builders/simple-a2a-implementation-with-strands-2n7)
-- [Roast my portfolio](https://dev.to/waliimran/roast-my-portfolio-fop)
-- [I Thought Harmonics Were a Grid Problem, Then I Realized They Were Everywhere](https://dev.to/salma_aga/i-thought-harmonics-were-a-grid-problem-then-i-realized-they-were-everywhere-4emf)
-- [Detecting PII in Real-World Text](https://dev.to/bspann/detecting-pii-in-real-world-text-310p)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/patrickomondi/-how-excel-is-used-in-real-world-data-analysis-o0)
+- [Six months of AI in 2026, and a whole lot of noise](https://dev.to/jatniel/six-months-of-ai-in-2026-and-a-whole-lot-of-noise-23lg)
+- [DomainFlip AI — How I Started With an Empty Repo and Built a Full Domain Investment Platform](https://dev.to/aliasgarsogiawala/domainflip-ai-how-i-started-with-an-empty-repo-and-built-a-full-domain-investment-platform-2o6a)
+- [Remote Terminal – Control Your PC from Phone](https://dev.to/w3sourcecode/remote-terminal-control-your-pc-from-phone-583h)
+- [Handwritten Digit Recognition System with Cloud and AI Enhancements](https://dev.to/yohannesah/handwritten-digit-recognition-system-with-cloud-and-ai-enhancements-i4e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
