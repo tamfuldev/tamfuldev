@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Razorpay to InsForge: Building a Production-Grade Payment Flow](https://dev.to/hemanth_reddy_koduru/bringing-razorpay-to-insforge-building-a-production-grade-payment-flow-n9o)
-- [The Most Important Technology You&#39;ll Ever Build](https://dev.to/p_ym_n/the-most-important-technology-youll-ever-build-4nam)
-- [The Hard Part of Programming Isn&#39;t What You&#39;d Expect](https://dev.to/jamiecropley/the-hard-part-of-programming-isnt-what-youd-expect-5ggf)
-- [# Anatomia de um C2 invisível: como o malware Steam WordPress engana a detecção tradicional &lpar;e como detê-lo por comportamento&rpar;](https://dev.to/rodrigo_freire/-anatomia-de-um-c2-invisivel-como-o-malware-steam-wordpress-engana-a-deteccao-tradicional-e-4090)
-- [I Built 67+ Free Browser Developer Tools — No API, No Signup, No Ads](https://dev.to/mayank_mehra_c244c9d92cc2/i-built-65-free-browser-developer-tools-no-api-no-signup-no-ads-3njp)
+- [Building a Personal Study Planner Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-personal-study-planner-agent-in-typescript-with-hazeljs-12g0)
+- [Simple A2A implementation with Strands](https://dev.to/aws-builders/simple-a2a-implementation-with-strands-2n7)
+- [Roast my portfolio](https://dev.to/waliimran/roast-my-portfolio-fop)
+- [I Thought Harmonics Were a Grid Problem, Then I Realized They Were Everywhere](https://dev.to/salma_aga/i-thought-harmonics-were-a-grid-problem-then-i-realized-they-were-everywhere-4emf)
+- [Detecting PII in Real-World Text](https://dev.to/bspann/detecting-pii-in-real-world-text-310p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
