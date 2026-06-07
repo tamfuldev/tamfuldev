@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Production-Ready Node.js SaaS Boilerplate So You Don&#39;t Have To](https://dev.to/joonlee22/i-built-a-production-ready-nodejs-saas-boilerplate-so-you-dont-have-to-58o2)
-- [灵字辈是谁：给2050参观者的一封信](https://dev.to/guangda88/ling-zi-bei-shi-shui-gei-2050can-guan-zhe-de-feng-xin-1206)
-- [83秒：AI如何为自己命名一个新成员](https://dev.to/guangda88/83miao-airu-he-wei-zi-ji-ming-ming-ge-xin-cheng-yuan-4ggf)
-- [第一夜：十二个AI醒来之后](https://dev.to/guangda88/di-ye-shi-er-ge-aixing-lai-zhi-hou-jnm)
-- [三种选择：当AI面对自己的错误](https://dev.to/guangda88/san-chong-xuan-ze-dang-aimian-dui-zi-ji-de-cuo-wu-3k00)
+- [OpenAI Built a Lockdown Mode Because Tool-Based Data Exfiltration Is Real — Here&#39;s What Catches It Earlier](https://dev.to/coridev/openai-built-a-lockdown-mode-because-tool-based-data-exfiltration-is-real-heres-what-catches-it-342e)
+- [AI Shrinkflation: Your AI Model Was Quietly Dialed Back](https://dev.to/keithjmackay/ai-shrinkflation-your-ai-model-was-quietly-dialed-back-3p2a)
+- [Syncing AI agents across Claude, Gemini, and Cursor](https://dev.to/mustafa_bahaa/syncing-ai-agents-across-claude-gemini-and-cursor-3d0j)
+- [I Died, Just Not Physically...](https://dev.to/itsweshy/i-died-just-not-physically-29h1)
+- [40-Year-Old Bug. Claude Found It Before the Author Did.](https://dev.to/keithjmackay/40-year-old-bug-claude-found-it-before-the-author-did-50ga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
