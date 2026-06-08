@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Cloud Deployment in Production: Cloud Run, Railway, Oracle Cloud](https://dev.to/justjinoit/multi-cloud-deployment-in-production-cloud-run-railway-oracle-cloud-3-month-report-2pdp)
-- [Writing Code Is Now The Easiest Part](https://dev.to/merbayerp/writing-code-is-now-the-easiest-part-m9n)
-- [I Tried NotebookLM as a Study Tool and It&#39;s Actually Changed How I Learn](https://dev.to/ctahirih/i-tried-notebooklm-as-a-study-tool-and-its-actually-changed-how-i-learn-248l)
-- [Run ASP Classic on Linux, macOS and Windows](https://dev.to/lucas_guimaraes/run-asp-classic-on-linux-macos-and-windows-5d7m)
-- [I Built the Resume-vs-JD Scorer Every ATS Uses — In 30 Lines of JavaScript](https://dev.to/dev48v/i-built-the-resume-vs-jd-scorer-every-ats-uses-in-30-lines-of-javascript-328b)
+- [CDK Deploy-Twice: When Your Infrastructure Needs to Know About Itself](https://dev.to/aws-builders/cdk-deploy-twice-when-your-infrastructure-needs-to-know-about-itself-573g)
+- [I Built a Quote Generator Because Sometimes Finding the Right Words Is Hard](https://dev.to/bhavin-allinonetools/i-built-a-quote-generator-because-sometimes-finding-the-right-words-is-hard-19k0)
+- [Day 28 — 🔭 Monitoring &amp; Observability Part One](https://dev.to/17j/day-28-monitoring-observability-part-one-1f13)
+- [I Built a Feature That Automatically Switches Android from USB to Wi-Fi — Here&#39;s How It Works](https://dev.to/hiyoyok/i-built-a-feature-that-automatically-switches-android-from-usb-to-wi-fi-heres-how-it-works-56dc)
+- [Odysseus: The Self-Hosted AI Workspace That Bundles Everything &lpar;59k ⭐&rpar;](https://dev.to/divyesh5981/odysseus-the-self-hosted-ai-workspace-that-bundles-everything-59k--5cln)
 <!-- BLOG-POST-LIST:END -->
 
 ---
