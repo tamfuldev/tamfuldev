@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CDK Deploy-Twice: When Your Infrastructure Needs to Know About Itself](https://dev.to/aws-builders/cdk-deploy-twice-when-your-infrastructure-needs-to-know-about-itself-573g)
-- [I Built a Quote Generator Because Sometimes Finding the Right Words Is Hard](https://dev.to/bhavin-allinonetools/i-built-a-quote-generator-because-sometimes-finding-the-right-words-is-hard-19k0)
-- [Day 28 — 🔭 Monitoring &amp; Observability Part One](https://dev.to/17j/day-28-monitoring-observability-part-one-1f13)
-- [I Built a Feature That Automatically Switches Android from USB to Wi-Fi — Here&#39;s How It Works](https://dev.to/hiyoyok/i-built-a-feature-that-automatically-switches-android-from-usb-to-wi-fi-heres-how-it-works-56dc)
-- [Odysseus: The Self-Hosted AI Workspace That Bundles Everything &lpar;59k ⭐&rpar;](https://dev.to/divyesh5981/odysseus-the-self-hosted-ai-workspace-that-bundles-everything-59k--5cln)
+- [5 awesome OSS products launched on Product Hunt in 2026](https://dev.to/fmerian/5-awesome-oss-products-launched-on-product-hunt-in-2026-2p9)
+- [Paddle is not a serious service](https://dev.to/v0id_lab/paddle-4op0)
+- [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg)
+- [Build a multi-platform Design System, step by step](https://dev.to/ibrahimdans/ets-build-a-multi-platform-design-system-step-by-step-poc-4a7d)
+- [Dynamic Programming for Coding Interviews: The Execution Gap Nobody Talks About](https://dev.to/expora/dynamic-programming-for-coding-interviews-the-execution-gap-nobody-talks-about-3c8h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
