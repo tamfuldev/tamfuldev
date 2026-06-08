@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Forms &amp; Native Dialogs &lpar;Playwright + TypeScript, Ch.5&rpar;](https://dev.to/aktibaba/forms-native-dialogs-playwright-typescript-ch5-3nnk)
-- [Post-Quantum Cryptography and DNS: What&#39;s Changing and How to Prepare](https://dev.to/dnsassistant/post-quantum-cryptography-and-dns-whats-changing-and-how-to-prepare-547g)
-- [Beyond the Screen: How AI Agents Are Replacing Apps in 2026](https://dev.to/dattasable/beyond-the-screen-how-ai-agents-are-replacing-apps-in-2026-1jh2)
-- [How I Engineered a 10M-Row Autonomous AI-BI Agent Using DuckDB](https://dev.to/dattasable/how-i-engineered-a-10m-row-autonomous-ai-bi-agent-using-duckdb-26n7)
-- [GBase 8a Data Migration: Standardizing Export, Load, and Verification](https://dev.to/michaelfv/gbase-8a-data-migration-standardizing-export-load-and-verification-8l3)
+- [AI Augmentation: Amazing. Replacement: A Rarity &lpar;AI Can&#39;t Do Your Whole Job&rpar;.](https://dev.to/keithjmackay/ai-augmentation-amazing-replacement-a-rarity-ai-cant-do-your-whole-job-4p7i)
+- [Test Data Factories &amp; Environment Config &lpar;Playwright + TypeScript, Ch.17&rpar;](https://dev.to/aktibaba/test-data-factories-environment-config-playwright-typescript-ch17-b7o)
+- [The &#39;John Smith&#39; problem: detecting podcast guest appearances without false positives](https://dev.to/paul_reaney_c6c80b43a48b2/the-john-smith-problem-detecting-podcast-guest-appearances-without-false-positives-125p)
+- [Your Logs Have the Answer. You Just Can&#39;t Find It Fast Enough.](https://dev.to/steadwing/your-logs-have-the-answer-you-just-cant-find-it-fast-enough-15bh)
+- [DeepSeek-V4-Flash in Claude Code not reading images](https://dev.to/browny66/deepseek-v4-flash-in-claude-code-not-reading-images-4c2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
