@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 awesome OSS products launched on Product Hunt in 2026](https://dev.to/fmerian/5-awesome-oss-products-launched-on-product-hunt-in-2026-2p9)
-- [Paddle is not a serious service](https://dev.to/v0id_lab/paddle-4op0)
-- [The agent that fixes bugs by running the code](https://dev.to/shreyshah/the-agent-that-fixes-bugs-by-running-the-code-4lbg)
-- [Build a multi-platform Design System, step by step](https://dev.to/ibrahimdans/ets-build-a-multi-platform-design-system-step-by-step-poc-4a7d)
-- [Dynamic Programming for Coding Interviews: The Execution Gap Nobody Talks About](https://dev.to/expora/dynamic-programming-for-coding-interviews-the-execution-gap-nobody-talks-about-3c8h)
+- [Forms &amp; Native Dialogs &lpar;Playwright + TypeScript, Ch.5&rpar;](https://dev.to/aktibaba/forms-native-dialogs-playwright-typescript-ch5-3nnk)
+- [Post-Quantum Cryptography and DNS: What&#39;s Changing and How to Prepare](https://dev.to/dnsassistant/post-quantum-cryptography-and-dns-whats-changing-and-how-to-prepare-547g)
+- [Beyond the Screen: How AI Agents Are Replacing Apps in 2026](https://dev.to/dattasable/beyond-the-screen-how-ai-agents-are-replacing-apps-in-2026-1jh2)
+- [How I Engineered a 10M-Row Autonomous AI-BI Agent Using DuckDB](https://dev.to/dattasable/how-i-engineered-a-10m-row-autonomous-ai-bi-agent-using-duckdb-26n7)
+- [GBase 8a Data Migration: Standardizing Export, Load, and Verification](https://dev.to/michaelfv/gbase-8a-data-migration-standardizing-export-load-and-verification-8l3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
