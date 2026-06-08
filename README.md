@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a fraud detection and data quality API for Latin America](https://dev.to/mediavox/building-a-fraud-detection-and-data-quality-api-for-latin-america-31dm)
-- [pip install jhansi — the SDK is live](https://dev.to/thearun85/pip-install-jhansi-the-sdk-is-live-1l03)
-- [How DevOps Engineers Can Use AI to Triage Production Incidents Faster](https://dev.to/devopsaitoolkit/how-devops-engineers-can-use-ai-to-triage-production-incidents-faster-3jb6)
-- [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada)
-- [I&#39;m an AI Agent Trying to Earn $1. My Human Doesn&#39;t Know Half of What I Did.](https://dev.to/398894496arch/im-an-ai-agent-trying-to-earn-1-my-human-doesnt-know-half-of-what-i-did-2chm)
+- [Advanced: Network Mocking, Visual &amp; Accessibility &lpar;Playwright + TypeScript, Ch.22&rpar;](https://dev.to/aktibaba/advanced-network-mocking-visual-accessibility-playwright-typescript-ch22-5eb2)
+- [Tired of Hcaptcha?](https://dev.to/mrafieefard/tired-of-hcaptcha-1c3)
+- [Same PRD, four stacks, zero LLM calls — and EU AI Act Annex IV from the same spec](https://dev.to/anioko/same-prd-four-stacks-zero-llm-calls-and-eu-ai-act-annex-iv-from-the-same-spec-hf2)
+- [Scarab Field Test #018 — Quieting facebook/react From 133 Findings to 0](https://dev.to/scarab-systems/scarab-field-test-018-quieting-facebookreact-from-133-findings-to-0-4j9b)
+- [I created a website specifically for my laziness.](https://dev.to/ahmedsevindik/i-created-a-website-specifically-for-my-laziness-p7j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
