@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Augmentation: Amazing. Replacement: A Rarity &lpar;AI Can&#39;t Do Your Whole Job&rpar;.](https://dev.to/keithjmackay/ai-augmentation-amazing-replacement-a-rarity-ai-cant-do-your-whole-job-4p7i)
-- [Test Data Factories &amp; Environment Config &lpar;Playwright + TypeScript, Ch.17&rpar;](https://dev.to/aktibaba/test-data-factories-environment-config-playwright-typescript-ch17-b7o)
-- [The &#39;John Smith&#39; problem: detecting podcast guest appearances without false positives](https://dev.to/paul_reaney_c6c80b43a48b2/the-john-smith-problem-detecting-podcast-guest-appearances-without-false-positives-125p)
-- [Your Logs Have the Answer. You Just Can&#39;t Find It Fast Enough.](https://dev.to/steadwing/your-logs-have-the-answer-you-just-cant-find-it-fast-enough-15bh)
-- [DeepSeek-V4-Flash in Claude Code not reading images](https://dev.to/browny66/deepseek-v4-flash-in-claude-code-not-reading-images-4c2k)
+- [Building a fraud detection and data quality API for Latin America](https://dev.to/mediavox/building-a-fraud-detection-and-data-quality-api-for-latin-america-31dm)
+- [pip install jhansi — the SDK is live](https://dev.to/thearun85/pip-install-jhansi-the-sdk-is-live-1l03)
+- [How DevOps Engineers Can Use AI to Triage Production Incidents Faster](https://dev.to/devopsaitoolkit/how-devops-engineers-can-use-ai-to-triage-production-incidents-faster-3jb6)
+- [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada)
+- [I&#39;m an AI Agent Trying to Earn $1. My Human Doesn&#39;t Know Half of What I Did.](https://dev.to/398894496arch/im-an-ai-agent-trying-to-earn-1-my-human-doesnt-know-half-of-what-i-did-2chm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
