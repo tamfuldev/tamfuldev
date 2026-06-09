@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog)
-- [Andy&#39;s Laws of AI in Software Engineering](https://dev.to/andyobtiva/andys-laws-of-ai-in-software-engineering-2f23)
-- [SQL Formatting Best Practices: A Practical Guide for Engineers](https://dev.to/moksh/sql-formatting-best-practices-a-practical-guide-for-engineers-k60)
-- [Implementing Token Bucket Rate Limiting for High-Volume Inventory APIs](https://dev.to/hridyasimon_dev/decoupling-microservices-with-event-driven-sqs-pipelines-for-high-volume-fulfillment-5dil)
-- [From Blank Terminal to Shipping a Real Client Project: My First Year of Coding](https://dev.to/madoyakimberley/from-blank-terminal-to-shipping-a-real-client-project-my-first-year-of-coding-44mf)
+- [Flutter Midsommer Madnesss](https://dev.to/gde/flutter-midsommer-madnesss-kkb)
+- [Vortex 3.0 RISC-V GPGPU, Pragtical SDL GPU Backend, NVIDIA RTX Spark Launch](https://dev.to/soytuber/vortex-30-risc-v-gpgpu-pragtical-sdl-gpu-backend-nvidia-rtx-spark-launch-4eh0)
+- [Local Time, UTC, Offset και Epoch: Ο απόλυτος οδηγός για developers](https://dev.to/__b63657/local-time-utc-offset-kai-epoch-o-apolutos-odegos-gia-developers-3h0f)
+- [How to Compare Testing Tools Without Getting Fooled by Feature Checklists](https://dev.to/sleepyfalcon247/how-to-compare-testing-tools-without-getting-fooled-by-feature-checklists-1b8l)
+- [A practical playbook for choosing browser automation and cross-browser testing tools](https://dev.to/mellowthunder735/a-practical-playbook-for-choosing-browser-automation-and-cross-browser-testing-tools-4d68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
