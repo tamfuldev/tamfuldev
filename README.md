@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Technical requirements for a website to be &#39;AI-crawlable&#39; and &#39;LLM-ready&#39; in 2026](https://dev.to/amara_wallis_2f533953a6ac/technical-requirements-for-a-website-to-be-ai-crawlable-and-llm-ready-in-2026-23bj)
-- [UUIDs Explained: Versions, Use Cases, and When to Use Auto-Increment Instead](https://dev.to/snappy_tools/uuids-explained-versions-use-cases-and-when-to-use-auto-increment-instead-2o4b)
-- [Foghorn : a blunt non-DNS solution](https://dev.to/taikedz/foghorn-a-blunt-non-dns-solution-5736)
-- [Construí tu primera API con Fitz: un acortador de URLs con Postgres y auth en 30 minutos](https://dev.to/martin_palopoli/construi-tu-primera-api-con-fitz-un-acortador-de-urls-con-postgres-y-auth-en-30-minutos-33ed)
-- [Build a URL shortener with Fitz: HTTP + Postgres + auth in 30 minutes](https://dev.to/martin_palopoli/build-a-url-shortener-with-fitz-http-postgres-auth-in-30-minutes-68k)
+- [iOS 26 SpeechAnalyzer: what I learned wiring it to a mic](https://dev.to/simple_memo/ios-26-speechanalyzer-what-i-learned-wiring-it-to-a-mic-f7p)
+- [Write Swift and Kotlin directly in your React Native app with Expo SDK 56](https://dev.to/expo/write-swift-and-kotlin-directly-in-your-react-native-app-with-expo-sdk-56-anh)
+- [How I Built a WhatsApp AI Assistant That Answers Questions From a Live Database](https://dev.to/hussain_mirza_86996572c15/how-i-built-a-whatsapp-ai-assistant-that-answers-questions-from-a-live-database-34if)
+- [I Built a Real-Time Dashboard for My Polymarket Trading Bot - Here Are Problems Nobody Warned Me About](https://dev.to/roswelly/i-built-a-real-time-dashboard-for-my-polymarket-trading-bot-here-are-problems-nobody-warned-me-2ho8)
+- [How I Built an AI-Powered Stack Overflow Alternative With Zero Server Costs](https://dev.to/mobin_poursalami_f30352a2/how-i-built-an-ai-powered-stack-overflow-alternative-with-zero-server-costs-4c9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
