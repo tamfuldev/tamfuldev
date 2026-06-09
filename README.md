@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy by Design in Your API: How to Collect Less Data Without Breaking UX](https://dev.to/samiatakande11/privacy-by-design-in-your-api-how-to-collect-less-data-without-breaking-ux-4l4i)
-- [Deploying Hermes WebUI with Docker — The 8 Errors I Hit and How to Fix Them](https://dev.to/vigoss_luke_3604c1d0e9b4a/deploying-hermes-webui-with-docker-the-8-errors-i-hit-and-how-to-fix-them-4iip)
-- [Do You Actually Need a Multi-Agent System?](https://dev.to/tuomo_pisama/do-you-actually-need-a-multi-agent-system-3a3j)
-- [The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script](https://dev.to/gde/the-1-second-timeout-hack-running-infinite-parallel-workloads-natively-on-google-apps-script-2ge4)
-- [WebSocket Authentication Deep Dive — Tokens, Stateful Connections, and the CORS Bypass Nobody Warns You About](https://dev.to/kr_yashwanthreddy_f5b78/websocket-authentication-deep-dive-tokens-stateful-connections-and-the-cors-bypass-nobody-warns-4pap)
+- [Technical requirements for a website to be &#39;AI-crawlable&#39; and &#39;LLM-ready&#39; in 2026](https://dev.to/amara_wallis_2f533953a6ac/technical-requirements-for-a-website-to-be-ai-crawlable-and-llm-ready-in-2026-23bj)
+- [UUIDs Explained: Versions, Use Cases, and When to Use Auto-Increment Instead](https://dev.to/snappy_tools/uuids-explained-versions-use-cases-and-when-to-use-auto-increment-instead-2o4b)
+- [Foghorn : a blunt non-DNS solution](https://dev.to/taikedz/foghorn-a-blunt-non-dns-solution-5736)
+- [Construí tu primera API con Fitz: un acortador de URLs con Postgres y auth en 30 minutos](https://dev.to/martin_palopoli/construi-tu-primera-api-con-fitz-un-acortador-de-urls-con-postgres-y-auth-en-30-minutos-33ed)
+- [Build a URL shortener with Fitz: HTTP + Postgres + auth in 30 minutes](https://dev.to/martin_palopoli/build-a-url-shortener-with-fitz-http-postgres-auth-in-30-minutes-68k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
