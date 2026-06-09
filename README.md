@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Product Hunt Launch for an Indie Mac App — What I Did and What Happened](https://dev.to/hiyoyok/product-hunt-launch-for-an-indie-mac-app-what-i-did-and-what-happened-5d6f)
-- [Rust Ownership Made Practical — Patterns I Use in Every Tauri App](https://dev.to/hiyoyok/rust-ownership-made-practical-patterns-i-use-in-every-tauri-app-5fdk)
-- [Classes, Enums, and Records Look Like Simple Language Features — Until You Realize They Define Your Entire Domain Model](https://dev.to/cristiansifuentes/classes-enums-and-records-look-like-simple-language-features-until-you-realize-they-define-your-3d6m)
-- [From Vibe Coding to Vibe Everything: How Xiaomi SoloEngine Is Rewriting the Agent Playbook](https://dev.to/notalex1001/from-vibe-coding-to-vibe-everything-how-xiaomi-soloengine-is-rewriting-the-agent-playbook-13eb)
-- [A crude workaround for fixing stale static asset caching](https://dev.to/bmpddnbk/a-crude-workaround-for-fixing-stale-static-asset-caching-3j0h)
+- [Privacy by Design in Your API: How to Collect Less Data Without Breaking UX](https://dev.to/samiatakande11/privacy-by-design-in-your-api-how-to-collect-less-data-without-breaking-ux-4l4i)
+- [Deploying Hermes WebUI with Docker — The 8 Errors I Hit and How to Fix Them](https://dev.to/vigoss_luke_3604c1d0e9b4a/deploying-hermes-webui-with-docker-the-8-errors-i-hit-and-how-to-fix-them-4iip)
+- [Do You Actually Need a Multi-Agent System?](https://dev.to/tuomo_pisama/do-you-actually-need-a-multi-agent-system-3a3j)
+- [The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script](https://dev.to/gde/the-1-second-timeout-hack-running-infinite-parallel-workloads-natively-on-google-apps-script-2ge4)
+- [WebSocket Authentication Deep Dive — Tokens, Stateful Connections, and the CORS Bypass Nobody Warns You About](https://dev.to/kr_yashwanthreddy_f5b78/websocket-authentication-deep-dive-tokens-stateful-connections-and-the-cors-bypass-nobody-warns-4pap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
