@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Agile Octopus Pricing Actually Works &lpar;And Is It Worth the Hassle?&rpar;](https://dev.to/subhashreeayyappan/how-agile-octopus-pricing-actually-works-and-is-it-worth-the-hassle-4bh6)
-- [Mobile Midsommer Madness](https://dev.to/xbill/mobile-midsommer-madness-ohe)
-- [The Author Doesn&#39;t Have to Be an Engineer: How the Harness Holds Quality &lpar;Series Part 5&rpar;](https://dev.to/ryantsuji/the-author-doesnt-have-to-be-an-engineer-how-the-harness-holds-quality-series-part-5-12e4)
-- [I built a hardware-inspired UI component library in pure Vanilla JS — here&#39;s how](https://dev.to/prince_4rvin/i-built-a-hardware-inspired-ui-component-library-in-pure-vanilla-js-heres-how-2hcn)
-- [Top 10 Free Online Tools Every Developer Should Bookmark](https://dev.to/azam-akram/top-10-free-online-tools-every-developer-should-bookmark-120c)
+- [Product Hunt Launch for an Indie Mac App — What I Did and What Happened](https://dev.to/hiyoyok/product-hunt-launch-for-an-indie-mac-app-what-i-did-and-what-happened-5d6f)
+- [Rust Ownership Made Practical — Patterns I Use in Every Tauri App](https://dev.to/hiyoyok/rust-ownership-made-practical-patterns-i-use-in-every-tauri-app-5fdk)
+- [Classes, Enums, and Records Look Like Simple Language Features — Until You Realize They Define Your Entire Domain Model](https://dev.to/cristiansifuentes/classes-enums-and-records-look-like-simple-language-features-until-you-realize-they-define-your-3d6m)
+- [From Vibe Coding to Vibe Everything: How Xiaomi SoloEngine Is Rewriting the Agent Playbook](https://dev.to/notalex1001/from-vibe-coding-to-vibe-everything-how-xiaomi-soloengine-is-rewriting-the-agent-playbook-13eb)
+- [A crude workaround for fixing stale static asset caching](https://dev.to/bmpddnbk/a-crude-workaround-for-fixing-stale-static-asset-caching-3j0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
