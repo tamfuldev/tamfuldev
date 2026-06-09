@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 26 SpeechAnalyzer: what I learned wiring it to a mic](https://dev.to/simple_memo/ios-26-speechanalyzer-what-i-learned-wiring-it-to-a-mic-f7p)
-- [Write Swift and Kotlin directly in your React Native app with Expo SDK 56](https://dev.to/expo/write-swift-and-kotlin-directly-in-your-react-native-app-with-expo-sdk-56-anh)
-- [How I Built a WhatsApp AI Assistant That Answers Questions From a Live Database](https://dev.to/hussain_mirza_86996572c15/how-i-built-a-whatsapp-ai-assistant-that-answers-questions-from-a-live-database-34if)
-- [I Built a Real-Time Dashboard for My Polymarket Trading Bot - Here Are Problems Nobody Warned Me About](https://dev.to/roswelly/i-built-a-real-time-dashboard-for-my-polymarket-trading-bot-here-are-problems-nobody-warned-me-2ho8)
-- [How I Built an AI-Powered Stack Overflow Alternative With Zero Server Costs](https://dev.to/mobin_poursalami_f30352a2/how-i-built-an-ai-powered-stack-overflow-alternative-with-zero-server-costs-4c9k)
+- [Building a stateless process supervisor in Go: what the OS fights you on](https://dev.to/justadev/building-a-stateless-process-supervisor-in-go-what-the-os-fights-you-on-5f9j)
+- [Solana NFTs Without Metaplex: What I Built with Token Extensions published](https://dev.to/lymah/solana-nfts-without-metaplex-what-i-built-with-token-extensionspublished-7do)
+- [I built a local dead-man&#39;s-switch for cron jobs &lpar;no server, no signup&rpar;](https://dev.to/_06a3df6b50aec966668fb/i-built-a-local-dead-mans-switch-for-cron-jobs-no-server-no-signup-3j1m)
+- [The math of multi-model consensus: when 3 cheap reviews beat 1 expensive one](https://dev.to/brianmello/the-math-of-multi-model-consensus-when-3-cheap-reviews-beat-1-expensive-one-5997)
+- [AI coding evolves from autocomplete to running the full development process](https://dev.to/davekurian/ai-coding-evolves-from-autocomplete-to-running-the-full-development-process-1db6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
