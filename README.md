@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Deep Dive IV — TLB, Huge Pages, and Memory-Level Parallelism](https://dev.to/tyler_tan_13b1f742020d35a/cache-deep-dive-iv-tlb-huge-pages-and-memory-level-parallelism-5lf)
-- [How to Transcribe a YouTube Video &lpar;Free, in Under a Minute&rpar;](https://dev.to/terryshine/how-to-transcribe-a-youtube-video-free-in-under-a-minute-co7)
-- [Headless CMS Security: Why Decoupled Is Safer](https://dev.to/hamed_pakdaman_c724e294d9/headless-cms-security-why-decoupled-is-safer-5c75)
-- [WordPress Market Share Declining &lpar;2026 Data&rpar;](https://dev.to/hamed_pakdaman_c724e294d9/wordpress-market-share-declining-2026-data-3k8g)
-- [🤖 Your AI Agent Is Failing in Prod — You Just Don&#39;t Know It Yet](https://dev.to/cypriantinasheaarons/your-ai-agent-is-failing-in-prod-you-just-dont-know-it-yet-4je8)
+- [How I built a switchable AI provider system in Next.js &lpar;Gemini GPT-4 Claude, one workspace setting&rpar;](https://dev.to/__615f3acc0/how-i-built-a-switchable-ai-provider-system-in-nextjs-gemini-gpt-4-claude-one-workspace-pjk)
+- [Securing the AI supply chain 🛡️](https://dev.to/upsun/securing-the-ai-supply-chain-4dkf)
+- [The 5 Conditional Access Mistakes That Lock Users Out &lpar;And How to Fix Them&rpar;](https://dev.to/exactey/the-5-conditional-access-mistakes-that-lock-users-out-and-how-to-fix-them-45a8)
+- [Technical SEO for developers: the checklist you should run before your site goes live](https://dev.to/nilshan_5719f91/technical-seo-for-developers-the-checklist-you-should-run-before-your-site-goes-live-1on6)
+- [The Day I Broke Production Because of an Icon](https://dev.to/belgamo/the-day-i-broke-production-because-of-an-icon-1h5h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
