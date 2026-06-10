@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Flying Blind: How to Build a Production-Grade Telemetry Layer for Self-Improving AI Agents](https://dev.to/programmingcentral/stop-flying-blind-how-to-build-a-production-grade-telemetry-layer-for-self-improving-ai-agents-3lc6)
-- [The Companies Disrupting Your Job Are Now Proposing Rules to Protect It](https://dev.to/keithjmackay/the-companies-disrupting-your-job-are-now-proposing-rules-to-protect-it-54bf)
-- [Claude Fable 5 review: I let Anthropic&#39;s new &quot;bazooka&quot; loose on my SaaS](https://dev.to/danielbergholz/claude-fable-5-review-i-let-anthropics-new-bazooka-loose-on-my-saas-41co)
-- [My first data analytics projects](https://dev.to/mohammad_meezan/my-first-data-analytics-projects-1ejh)
-- [teamOS Bare Metal x86 Kernel](https://dev.to/saoodahmed198stack/teamos-bare-metal-x86-kernel-317j)
+- [tabs UI](https://dev.to/marius_lancha/tabs-ui-mj7)
+- [The Real AI Coding Breakthrough Is Not More Context. It Is Better Diagnostics.](https://dev.to/scarab-systems/the-real-ai-coding-breakthrough-is-not-more-context-it-is-better-diagnostics-1b3d)
+- [Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04](https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4)
+- [I love vibecoding](https://dev.to/irina64/i-love-vibecoding-in2)
+- [Deploying Dokku Lightweight Open-Source PaaS on Ubuntu 24.04](https://dev.to/vultr/deploying-dokku-lightweight-open-source-paas-on-ubuntu-2404-17eg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
