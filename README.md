@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a switchable AI provider system in Next.js &lpar;Gemini GPT-4 Claude, one workspace setting&rpar;](https://dev.to/__615f3acc0/how-i-built-a-switchable-ai-provider-system-in-nextjs-gemini-gpt-4-claude-one-workspace-pjk)
-- [Securing the AI supply chain 🛡️](https://dev.to/upsun/securing-the-ai-supply-chain-4dkf)
-- [The 5 Conditional Access Mistakes That Lock Users Out &lpar;And How to Fix Them&rpar;](https://dev.to/exactey/the-5-conditional-access-mistakes-that-lock-users-out-and-how-to-fix-them-45a8)
-- [Technical SEO for developers: the checklist you should run before your site goes live](https://dev.to/nilshan_5719f91/technical-seo-for-developers-the-checklist-you-should-run-before-your-site-goes-live-1on6)
-- [The Day I Broke Production Because of an Icon](https://dev.to/belgamo/the-day-i-broke-production-because-of-an-icon-1h5h)
+- [Building for Indonesia? What UU PDP Actually Requires From Developers &lpar;a Practical Checklist&rpar;](https://dev.to/hem_081a27fed379/building-for-indonesia-what-uu-pdp-actually-requires-from-developers-a-practical-checklist-1i0o)
+- [How I Turned Claude Into a Disciplined Senior Developer &lpar;Not Just a Fast One&rpar;](https://dev.to/panditabhis/how-i-turned-claude-into-a-disciplined-senior-developer-not-just-a-fast-one-1a59)
+- [Localizing SaaS Applications: What Developers and Writers Get Wrong](https://dev.to/gunkev/localizing-saas-applications-what-developers-and-writers-get-wrong-4286)
+- [We Will Not Sabotage Your Code](https://dev.to/codenameone/we-will-not-sabotage-your-code-1k4k)
+- [AI Writes the Code Now — Which Is Exactly Why Architecture Matters More](https://dev.to/mehartung/ai-writes-the-code-now-which-is-exactly-why-architecture-matters-more-193c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
