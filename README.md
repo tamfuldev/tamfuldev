@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building for Indonesia? What UU PDP Actually Requires From Developers &lpar;a Practical Checklist&rpar;](https://dev.to/hem_081a27fed379/building-for-indonesia-what-uu-pdp-actually-requires-from-developers-a-practical-checklist-1i0o)
-- [How I Turned Claude Into a Disciplined Senior Developer &lpar;Not Just a Fast One&rpar;](https://dev.to/panditabhis/how-i-turned-claude-into-a-disciplined-senior-developer-not-just-a-fast-one-1a59)
-- [Localizing SaaS Applications: What Developers and Writers Get Wrong](https://dev.to/gunkev/localizing-saas-applications-what-developers-and-writers-get-wrong-4286)
-- [We Will Not Sabotage Your Code](https://dev.to/codenameone/we-will-not-sabotage-your-code-1k4k)
-- [AI Writes the Code Now — Which Is Exactly Why Architecture Matters More](https://dev.to/mehartung/ai-writes-the-code-now-which-is-exactly-why-architecture-matters-more-193c)
+- [I Built 300+ Free Web Tools at 18 Here&#39;s What Actually Drove Traffic &lpar;Hint: Not Google&rpar;](https://dev.to/alberto_miller_f44a8880a3/i-built-300-free-web-tools-at-18-heres-what-actually-drove-traffic-hint-not-google-5gei)
+- [Claude Fable 5: Features, Pricing, and Fallbacks](https://dev.to/mudassirworks/claude-fable-5-features-pricing-and-fallbacks-4dkl)
+- [Play-First Programming: A New Way to Learn, A New Way to Belong](https://dev.to/gregthevibecoder/play-first-programming-a-new-way-to-learn-a-new-way-to-belong-2mpg)
+- [How to Enable Strict Mode and Why You Should Always Use It](https://dev.to/krunalkanojiya/how-to-enable-strict-mode-and-why-you-should-always-use-it-4fc1)
+- [Citation-Guard: Production RAG Patterns for Regulated Fintech](https://dev.to/justsoftlab_x01/citation-guard-production-rag-patterns-for-regulated-fintech-1fel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
