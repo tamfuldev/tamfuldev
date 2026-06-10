@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 300+ Free Web Tools at 18 Here&#39;s What Actually Drove Traffic &lpar;Hint: Not Google&rpar;](https://dev.to/alberto_miller_f44a8880a3/i-built-300-free-web-tools-at-18-heres-what-actually-drove-traffic-hint-not-google-5gei)
-- [Claude Fable 5: Features, Pricing, and Fallbacks](https://dev.to/mudassirworks/claude-fable-5-features-pricing-and-fallbacks-4dkl)
-- [Play-First Programming: A New Way to Learn, A New Way to Belong](https://dev.to/gregthevibecoder/play-first-programming-a-new-way-to-learn-a-new-way-to-belong-2mpg)
-- [How to Enable Strict Mode and Why You Should Always Use It](https://dev.to/krunalkanojiya/how-to-enable-strict-mode-and-why-you-should-always-use-it-4fc1)
-- [Citation-Guard: Production RAG Patterns for Regulated Fintech](https://dev.to/justsoftlab_x01/citation-guard-production-rag-patterns-for-regulated-fintech-1fel)
+- [Stop Flying Blind: How to Build a Production-Grade Telemetry Layer for Self-Improving AI Agents](https://dev.to/programmingcentral/stop-flying-blind-how-to-build-a-production-grade-telemetry-layer-for-self-improving-ai-agents-3lc6)
+- [The Companies Disrupting Your Job Are Now Proposing Rules to Protect It](https://dev.to/keithjmackay/the-companies-disrupting-your-job-are-now-proposing-rules-to-protect-it-54bf)
+- [Claude Fable 5 review: I let Anthropic&#39;s new &quot;bazooka&quot; loose on my SaaS](https://dev.to/danielbergholz/claude-fable-5-review-i-let-anthropics-new-bazooka-loose-on-my-saas-41co)
+- [My first data analytics projects](https://dev.to/mohammad_meezan/my-first-data-analytics-projects-1ejh)
+- [teamOS Bare Metal x86 Kernel](https://dev.to/saoodahmed198stack/teamos-bare-metal-x86-kernel-317j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
