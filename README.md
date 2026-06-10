@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free File Conversion Platform That Runs Entirely in Your Browser — No Uploads, No Tracking, No Login](https://dev.to/_a8713d0e55d9f9acdead31/i-built-a-free-file-conversion-platform-that-runs-entirely-in-your-browser-no-uploads-no-236g)
-- [How Pact Contract Testing Catches Breaking Changes That WireMock Misses](https://dev.to/diyaburman/how-pact-contract-testing-catches-breaking-changes-that-wiremock-misses-3ge6)
-- [The Prefill Wall: Why MTP&#39;s 2 Barely Moves Long-Context Latency &lpar;Qwen3.6-27B, RTX 3090&rpar;](https://dev.to/sysoft/the-prefill-wall-why-mtps-2x-barely-moves-long-context-latency-qwen36-27b-rtx-3090-185i)
-- [Two Ways to Deploy a Website on Netlify in 2026](https://dev.to/backrun/two-ways-to-deploy-a-website-on-netlify-in-2026-2i0p)
-- [How I Gave My AI Agent a Real Memory Without Touching Its Internals](https://dev.to/manoir_yantai_f22f01340f0/how-i-gave-my-ai-agent-a-real-memory-without-touching-its-internals-4h09)
+- [Cache Deep Dive IV — TLB, Huge Pages, and Memory-Level Parallelism](https://dev.to/tyler_tan_13b1f742020d35a/cache-deep-dive-iv-tlb-huge-pages-and-memory-level-parallelism-5lf)
+- [How to Transcribe a YouTube Video &lpar;Free, in Under a Minute&rpar;](https://dev.to/terryshine/how-to-transcribe-a-youtube-video-free-in-under-a-minute-co7)
+- [Headless CMS Security: Why Decoupled Is Safer](https://dev.to/hamed_pakdaman_c724e294d9/headless-cms-security-why-decoupled-is-safer-5c75)
+- [WordPress Market Share Declining &lpar;2026 Data&rpar;](https://dev.to/hamed_pakdaman_c724e294d9/wordpress-market-share-declining-2026-data-3k8g)
+- [🤖 Your AI Agent Is Failing in Prod — You Just Don&#39;t Know It Yet](https://dev.to/cypriantinasheaarons/your-ai-agent-is-failing-in-prod-you-just-dont-know-it-yet-4je8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
