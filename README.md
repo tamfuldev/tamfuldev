@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [tabs UI](https://dev.to/marius_lancha/tabs-ui-mj7)
-- [The Real AI Coding Breakthrough Is Not More Context. It Is Better Diagnostics.](https://dev.to/scarab-systems/the-real-ai-coding-breakthrough-is-not-more-context-it-is-better-diagnostics-1b3d)
-- [Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04](https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4)
-- [I love vibecoding](https://dev.to/irina64/i-love-vibecoding-in2)
-- [Deploying Dokku Lightweight Open-Source PaaS on Ubuntu 24.04](https://dev.to/vultr/deploying-dokku-lightweight-open-source-paas-on-ubuntu-2404-17eg)
+- [What a Mailman service shutdown reveals about the state of mailing lists in 2026](https://dev.to/wadco/what-a-mailman-service-shutdown-reveals-about-the-state-of-mailing-lists-in-2026-5g5i)
+- [Clifford’s &lpar;aka, Claire’s&rpar; Device in C and C++](https://dev.to/pauljlucas/cliffords-aka-claires-device-in-c-and-c-2p33)
+- [Bizbox Build Log — Week of 2026-05-31](https://dev.to/joincitro/bizbox-build-log-week-of-2026-05-31-57cg)
+- [How to Get Hermes Agent to Use AgentMail &lpar;And Why It&#39;s Harder Than It Should Be&rpar;](https://dev.to/saintchris_21/how-to-get-hermes-agent-to-use-agentmail-and-why-its-harder-than-it-should-be-1f4n)
+- [[Boost]](https://dev.to/thosss/-2ajk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
