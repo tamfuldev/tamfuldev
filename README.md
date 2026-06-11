@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What a Mailman service shutdown reveals about the state of mailing lists in 2026](https://dev.to/wadco/what-a-mailman-service-shutdown-reveals-about-the-state-of-mailing-lists-in-2026-5g5i)
-- [Clifford’s &lpar;aka, Claire’s&rpar; Device in C and C++](https://dev.to/pauljlucas/cliffords-aka-claires-device-in-c-and-c-2p33)
-- [Bizbox Build Log — Week of 2026-05-31](https://dev.to/joincitro/bizbox-build-log-week-of-2026-05-31-57cg)
-- [How to Get Hermes Agent to Use AgentMail &lpar;And Why It&#39;s Harder Than It Should Be&rpar;](https://dev.to/saintchris_21/how-to-get-hermes-agent-to-use-agentmail-and-why-its-harder-than-it-should-be-1f4n)
-- [[Boost]](https://dev.to/thosss/-2ajk)
+- [We Invented an Oil Company &lpar;On Purpose&rpar;](https://dev.to/hari_menath/we-invented-an-oil-company-on-purpose-158c)
+- [Python Projects for Raspberry Pi: PIO, Sensors, and ML on Pico](https://dev.to/circuitrocks/python-projects-for-raspberry-pi-pio-sensors-and-ml-on-pico-1d2i)
+- [SwarmLens Cognitive Index](https://dev.to/hari_menath/swarmlens-cognitive-index-243i)
+- [BoxAgnts Tool System &lpar;4&rpar; — The Tool Trait and Concurrency Context Model](https://dev.to/guyoung/boxagnts-tool-system-4-the-tool-trait-and-concurrency-context-model-5g3b)
+- [8 Best YouTubers Every Developer &amp; Linux Enthusiast Should Watch in 2026](https://dev.to/sijanvusal/8-best-youtubers-every-developer-linux-enthusiast-should-watch-in-2026-4b95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
