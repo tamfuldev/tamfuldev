@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Transactions Aren&#39;t API Calls .. So what are they?](https://dev.to/jriffs/solana-transactions-arent-api-calls-so-what-are-they-4elf)
-- [Workflow Engine NEO trials are self-serve now, and your coding agent can grab one too](https://dev.to/optimajet/workflow-engine-neo-trials-are-self-serve-now-and-your-coding-agent-can-grab-one-too-38am)
-- [Trying Out AWS FinOps Agent with Slack Integration](https://dev.to/aws-builders/trying-out-aws-finops-agent-with-slack-integration-h07)
-- [My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8)
-- [Angular prompt](https://dev.to/msraj50/angular-prompt-6b6)
+- [Technical Debt in AI Agent Repositories Lives at the Boundaries](https://dev.to/clearcodeintel/technical-debt-in-ai-agent-repositories-lives-at-the-boundaries-4hha)
+- [Word Document Editing for AI Agents - Introducing OfficeAgent.NET 0.1](https://dev.to/ilia-sokolov/word-document-editing-for-ai-agents-introducing-officeagentnet-01-2cc)
+- [Linux Hardening Guide: 10 unverzichtbare Maßnahmen für mehr Sicherheit](https://dev.to/uhltak/linux-hardening-guide-10-unverzichtbare-massnahmen-fur-mehr-sicherheit-3mnf)
+- [I made Claude, GPT and Gemini predict the entire 2026 World Cup. Here&#39;s the experiment design.](https://dev.to/willianpinho/i-made-claude-gpt-and-gemini-predict-the-entire-2026-world-cup-heres-the-experiment-design-2nm1)
+- [How Senior Software Engineers Use AI](https://dev.to/octave_nkurunziza_afb0512/how-senior-software-engineers-use-ai-3enc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
