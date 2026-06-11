@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SkillSpector — Vendor-Backed Security Scanner for AI Agent Skills, Well-Scoped but Dependent on Static Patterns](https://dev.to/alya_mahalini_f05d9953cfa/skillspector-vendor-backed-security-scanner-for-ai-agent-skills-well-scoped-but-dependent-on-4530)
-- [Create a Smaller Video File with H.264 Encoding](https://dev.to/wow2006/create-a-smaller-video-file-with-h264-encoding-472i)
-- [Are We Going to an AI-First Frameworks Era?](https://dev.to/amrzlabs/are-we-going-to-an-ai-first-frameworks-era-dcg)
-- [How to Turn a Recipe Screenshot into Structured JSON](https://dev.to/isaiahgunther/how-to-turn-a-recipe-screenshot-into-structured-json-532d)
-- [I got hit with a $400 AI agent bill overnight. Here&#39;s the 5-line fix.](https://dev.to/billionaire664/i-got-hit-with-a-400-ai-agent-bill-overnight-heres-the-5-line-fix-611)
+- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
+- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
+- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
+- [Event-Driven Algos: Mastering Webhooks and Order Lifecycle Event Triggers](https://dev.to/mountek/event-driven-algos-mastering-webhooks-and-order-lifecycle-event-triggers-1c0b)
+- [Combien coûte un site web au Maroc en 2026 ?](https://dev.to/hamzasehouli/rerferferfer-4pa8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
