@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [System Design - 17. Service Discovery &amp; Service Mesh: How Thousands of Services Find Each Other](https://dev.to/rajkiran_389/system-design-16-service-discovery-service-mesh-how-thousands-of-services-find-each-other-4g0b)
-- [Mobile Game Power Optimization: Why 30 FPS vs 60 FPS Can Double Energy Usage &lpar;Real Data Breakdown&rpar;](https://dev.to/gameoptim/mobile-game-power-optimization-why-30-fps-vs-60-fps-can-double-energy-usage-real-data-breakdown-110n)
-- [Building a Mac Screen Recorder That Adds Zoom Animations from Click Data](https://dev.to/snazarofff/building-a-mac-screen-recorder-that-adds-zoom-animations-from-click-data-528m)
-- [ip-api.com vs ipify vs IPPubblico — which free IP API should you use in 2026?](https://dev.to/vix_2f14d2f56c1/ip-apicom-vs-ipify-vs-ippubblico-which-free-ip-api-should-you-use-in-2026-4hll)
-- [AI-Powered Node.js: Why Node.js + AI Is Becoming a Powerful Combination](https://dev.to/slk5611/ai-powered-nodejs-why-nodejs-ai-is-becoming-a-powerful-combination-5hih)
+- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7)
+- [Day 14 of #100DaysOfClickHouse: Understanding Nodes, Shards, and Replicas](https://dev.to/kanishga_subramani_49ad73/day-14-of-100daysofclickhouse-understanding-nodes-shards-and-replicas-12h5)
+- [Helicone is in maintenance mode. So I built the lightweight alternative I wanted.](https://dev.to/jkhusanov/helicone-is-in-maintenance-mode-so-i-built-the-lightweight-alternative-i-wanted-1abl)
+- [The Dependency Security Workflow Your Node.js Project Is Missing](https://dev.to/raju_dandigam/the-dependency-security-workflow-your-nodejs-project-is-missing-2b32)
+- [A Data Scientist&#39;s DeepSeek + Next.js Integration Guide](https://dev.to/gentlenode/a-data-scientists-deepseek-nextjs-integration-guide-1781)
 <!-- BLOG-POST-LIST:END -->
 
 ---
