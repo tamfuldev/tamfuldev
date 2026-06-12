@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI for AI Engineers - Part 5: Authentication vs Authorization &lpar;And Why Most Beginners Confuse Them&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-5-authentication-vs-authorization-and-why-most-beginners-confuse-42ma)
-- [Every Step Was Allowed. The Sequence Was the Attack. &lpar;AI Memory Judgment, CLAIM-30&rpar;](https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc)
-- [You Are Not Being Rejected. You Are Invisible.](https://dev.to/czechdevusa/you-are-not-being-rejected-you-are-invisible-999)
-- [Stop Rebuilding Your Backend: A Better AI-Assisted Development Workflow](https://dev.to/buildbasekit/stop-rebuilding-your-backend-a-better-ai-assisted-development-workflow-4l69)
-- [Deep Dive: Node.js Worker Threads Under the Hood](https://dev.to/aabiskar/deep-dive-nodejs-worker-threads-under-the-hood-16ge)
+- [How I Integrated Specmatic Contract Testing into a Real Banking API &lpar;ValueMeters&rpar;](https://dev.to/krameshr/how-i-integrated-specmatic-contract-testing-into-a-real-banking-api-valuemeters-cak)
+- [.NET 11 vs .NET 10: We Benchmarked Both on a Real Production App &lpar;Should You Upgrade?&rpar;](https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh)
+- [What Makes An Agent Loop Useful?](https://dev.to/ebonyl/what-makes-an-agent-loop-useful-d5e)
+- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
+- [Web Testing in 2026 Is Less About Tools and More About Trust](https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
