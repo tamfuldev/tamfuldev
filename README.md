@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Integrated Specmatic Contract Testing into a Real Banking API &lpar;ValueMeters&rpar;](https://dev.to/krameshr/how-i-integrated-specmatic-contract-testing-into-a-real-banking-api-valuemeters-cak)
-- [.NET 11 vs .NET 10: We Benchmarked Both on a Real Production App &lpar;Should You Upgrade?&rpar;](https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh)
-- [What Makes An Agent Loop Useful?](https://dev.to/ebonyl/what-makes-an-agent-loop-useful-d5e)
-- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
-- [Web Testing in 2026 Is Less About Tools and More About Trust](https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3)
+- [The First Message Sent Over the Internet Was &#39;LO&#39;](https://dev.to/fluidwire/the-first-message-sent-over-the-internet-was-lo-3032)
+- [What We Learned Scanning Netflix Atlas](https://dev.to/clearcodeintel/what-we-learned-scanning-netflix-atlas-38i)
+- [Why You Need to Become a Neuro-Punk Right Now](https://dev.to/imperius_903049e65aa91ec5/why-you-need-to-become-a-neuro-punk-right-now-48ob)
+- [AI Customer Service Chatbot with Demo Link](https://dev.to/gesner_deslandes_11161c9a/ai-customer-service-chatbot-with-demo-link-4ndd)
+- [I tested 50 AI tools in May - the 7 I kept](https://dev.to/eternalsix/i-tested-50-ai-tools-in-may-the-7-i-kept-3im1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
