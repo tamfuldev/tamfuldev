@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mac Studio M4 Max vs Mac Mini M4 Pro for Local AI in 2026: Is the $600 Upgrade to 546 GB/s Worth It?](https://dev.to/jovan_chan_9500711396d4e6/mac-studio-m4-max-vs-mac-mini-m4-pro-for-local-ai-in-2026-is-the-600-upgrade-to-546-gbs-worth-it-1mi2)
-- [Startup Automation in 2026: The Opportunities, Risks, and Limits of AI-Driven Growth](https://dev.to/nasifsid/startup-automation-in-2026-the-opportunities-risks-and-limits-of-ai-driven-growth-2npc)
-- [Kimi K2.6 for Local AI in 2026: What VRAM and System RAM You Need to Actually Run the 1T-Parameter MoE Coding Leader](https://dev.to/jovan_chan_9500711396d4e6/kimi-k26-for-local-ai-in-2026-what-vram-and-system-ram-you-need-to-actually-run-the-1t-parameter-3hnd)
-- [Open-Source Coding Agents 2026: Which One to Run](https://dev.to/jovan_chan_9500711396d4e6/open-source-coding-agents-2026-which-one-to-run-5g14)
-- [Cline + LM Studio 2026: complete setup guide, the 32k context trap, and which coding models actually hold up](https://dev.to/jovan_chan_9500711396d4e6/cline-lm-studio-2026-complete-setup-guide-the-32k-context-trap-and-which-coding-models-3430)
+- [System Design - 17. Service Discovery &amp; Service Mesh: How Thousands of Services Find Each Other](https://dev.to/rajkiran_389/system-design-16-service-discovery-service-mesh-how-thousands-of-services-find-each-other-4g0b)
+- [Mobile Game Power Optimization: Why 30 FPS vs 60 FPS Can Double Energy Usage &lpar;Real Data Breakdown&rpar;](https://dev.to/gameoptim/mobile-game-power-optimization-why-30-fps-vs-60-fps-can-double-energy-usage-real-data-breakdown-110n)
+- [Building a Mac Screen Recorder That Adds Zoom Animations from Click Data](https://dev.to/snazarofff/building-a-mac-screen-recorder-that-adds-zoom-animations-from-click-data-528m)
+- [ip-api.com vs ipify vs IPPubblico — which free IP API should you use in 2026?](https://dev.to/vix_2f14d2f56c1/ip-apicom-vs-ipify-vs-ippubblico-which-free-ip-api-should-you-use-in-2026-4hll)
+- [AI-Powered Node.js: Why Node.js + AI Is Becoming a Powerful Combination](https://dev.to/slk5611/ai-powered-nodejs-why-nodejs-ai-is-becoming-a-powerful-combination-5hih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
