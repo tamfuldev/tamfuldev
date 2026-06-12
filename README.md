@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Defining Autism: The Shadow and the Object](https://dev.to/raphink/defining-autism-the-shadow-and-the-object-3ca7)
-- [Day 14 of #100DaysOfClickHouse: Understanding Nodes, Shards, and Replicas](https://dev.to/kanishga_subramani_49ad73/day-14-of-100daysofclickhouse-understanding-nodes-shards-and-replicas-12h5)
-- [Helicone is in maintenance mode. So I built the lightweight alternative I wanted.](https://dev.to/jkhusanov/helicone-is-in-maintenance-mode-so-i-built-the-lightweight-alternative-i-wanted-1abl)
-- [The Dependency Security Workflow Your Node.js Project Is Missing](https://dev.to/raju_dandigam/the-dependency-security-workflow-your-nodejs-project-is-missing-2b32)
-- [A Data Scientist&#39;s DeepSeek + Next.js Integration Guide](https://dev.to/gentlenode/a-data-scientists-deepseek-nextjs-integration-guide-1781)
+- [FastAPI for AI Engineers - Part 5: Authentication vs Authorization &lpar;And Why Most Beginners Confuse Them&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-5-authentication-vs-authorization-and-why-most-beginners-confuse-42ma)
+- [Every Step Was Allowed. The Sequence Was the Attack. &lpar;AI Memory Judgment, CLAIM-30&rpar;](https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc)
+- [You Are Not Being Rejected. You Are Invisible.](https://dev.to/czechdevusa/you-are-not-being-rejected-you-are-invisible-999)
+- [Stop Rebuilding Your Backend: A Better AI-Assisted Development Workflow](https://dev.to/buildbasekit/stop-rebuilding-your-backend-a-better-ai-assisted-development-workflow-4l69)
+- [Deep Dive: Node.js Worker Threads Under the Hood](https://dev.to/aabiskar/deep-dive-nodejs-worker-threads-under-the-hood-16ge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
