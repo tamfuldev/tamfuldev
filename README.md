@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I audit a SaaS homepage before changing the design](https://dev.to/mt211211/how-i-audit-a-saas-homepage-before-changing-the-design-1ec2)
-- [Why Testing MCP Servers With Real AI Models Matters &lpar;2026&rpar;](https://dev.to/rupa_tiwari_dd308948d710f/why-testing-mcp-servers-with-real-ai-models-matters-2026-55e9)
-- [Evaluating Self-Hosted Apps: Balancing Utility and Long-Term Maintenance Costs for Optimal Savings](https://dev.to/elenbit/evaluating-self-hosted-apps-balancing-utility-and-long-term-maintenance-costs-for-optimal-savings-90m)
-- [Building an Interactive System Design Simulator to Better Understand Distributed Systems](https://dev.to/navnath_kadam_a9cd52a9411/building-an-interactive-system-design-simulator-to-better-understand-distributed-systems-3o6h)
-- [How I Built a Free WooCommerce Developer Toolkit to Save 10+ Hours Per Project](https://dev.to/md_abubakkersiddik_db78/how-i-built-a-free-woocommerce-developer-toolkit-to-save-10-hours-per-project-350b)
+- [I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev](https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi)
+- [Types of loops in JS](https://dev.to/annapoo/types-of-loops-in-js-2135)
+- [Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam](https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07)
+- [How API Testing Levelled Up My QA Career &lpar;And Why Most Engineers Skip It&rpar;](https://dev.to/sshhfaiz/how-api-testing-levelled-up-my-qa-career-and-why-most-engineers-skip-it-262g)
+- [I built a free extension to track Claude&#39;s usage limits before you hit them](https://dev.to/martin_511ea87a455763cb29/i-built-a-free-extension-to-track-claudes-usage-limits-before-you-hit-them-4h74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
