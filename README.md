@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev](https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi)
-- [Types of loops in JS](https://dev.to/annapoo/types-of-loops-in-js-2135)
-- [Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam](https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07)
-- [How API Testing Levelled Up My QA Career &lpar;And Why Most Engineers Skip It&rpar;](https://dev.to/sshhfaiz/how-api-testing-levelled-up-my-qa-career-and-why-most-engineers-skip-it-262g)
-- [I built a free extension to track Claude&#39;s usage limits before you hit them](https://dev.to/martin_511ea87a455763cb29/i-built-a-free-extension-to-track-claudes-usage-limits-before-you-hit-them-4h74)
+- [A safer OpenConnect workflow for Cisco AnyConnect VPNs on macOS and Linux](https://dev.to/sorinipate/a-safer-openconnect-workflow-for-cisco-anyconnect-vpns-on-macos-and-linux-5g7o)
+- [I Watched a COD Streamer Suffer Through Tournament Admin and Then Spent A Month Fixing It](https://dev.to/scythe2/-i-watched-a-cod-streamer-suffer-through-tournament-admin-and-then-spent-a-month-fixing-it-k8d)
+- [WWDC 2026 - Apple&#39;s new server LLM on Private Cloud Compute: what&#39;s in it for developers](https://dev.to/arshtechpro/wwdc-2026-apples-new-server-llm-on-private-cloud-compute-whats-in-it-for-developers-2edd)
+- [My video generation pipeline that built itself](https://dev.to/hiper2d/my-video-generation-pipeline-that-built-itself-459n)
+- [The Cookie That Never Expires](https://dev.to/wadco/the-cookie-that-never-expires-4677)
 <!-- BLOG-POST-LIST:END -->
 
 ---
