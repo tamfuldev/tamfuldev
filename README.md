@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Support Threads That Span Days: Agent Memory via Email](https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj)
-- [I Shipped One Messy Python Script. Here&#39;s the 10-Point Checklist That Got It There.](https://dev.to/2glitch/i-shipped-one-messy-python-script-heres-the-10-point-checklist-that-got-it-there-58jo)
-- [Event Reminders From an Agent&#39;s Calendar](https://dev.to/qasim157/event-reminders-from-an-agents-calendar-5b6c)
-- [Meeting Follow-Ups Without a Human in the Loop](https://dev.to/qasim157/meeting-follow-ups-without-a-human-in-the-loop-1m84)
-- [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-during-1phc)
+- [You wouldn&#39;t download a waterfall. So I coded one with Claude.](https://dev.to/tyler_warburton/you-wouldnt-download-a-waterfall-so-i-coded-one-with-claude-430c)
+- [TypeScript Mapped Types: The Feature That Changes How You Design Types](https://dev.to/kaithorne/typescript-mapped-types-the-feature-that-changes-how-you-design-types-5dep)
+- [Vibe coding fades as Karpathy pioneers agentic engineering in AI evolution](https://dev.to/davekurian/vibe-coding-fades-as-karpathy-pioneers-agentic-engineering-in-ai-evolution-5451)
+- [Essential Skills to Put on a Resume in 2026 &lpar;With Examples&rpar;](https://dev.to/saraah/essential-skills-to-put-on-a-resume-in-2026-with-examples-1n0b)
+- [The awkward middle ground between full-stack and cloud infrastructure](https://dev.to/jay_patel/the-awkward-middle-ground-between-full-stack-and-cloud-infrastructure-23d7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
