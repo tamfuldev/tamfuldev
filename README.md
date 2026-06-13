@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect MEV in Your Trades 2026: A Practical Guide](https://dev.to/frb_research/how-to-detect-mev-in-your-trades-2026-a-practical-guide-1okd)
-- [The Multi-Tenant Fortress: Bank-Grade Data Isolation in PostgreSQL](https://dev.to/matt_rose_9d0fe88d3533a4f/the-multi-tenant-fortress-bank-grade-data-isolation-in-postgresql-1f6i)
-- [I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple](https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd)
-- [I rebuilt Zo Computer&#39;s seven subsystems in 800 lines of Python — here&#39;s the architecture, the tradeoffs, and what I cut](https://dev.to/aman_sachan_126d19c4a2773/i-rebuilt-zo-computers-seven-subsystems-in-800-lines-of-python-heres-the-architecture-the-2757)
-- [I Built AlgDevs: A Free Directory of 4,200+ Resources](https://dev.to/marwangpt237/i-built-algdevs-a-free-directory-of-4200-resources-9oj)
+- [What Nobody Told Me About Maintaining an Open Source Project](https://dev.to/motionmind2007/what-nobody-told-me-about-maintaining-an-open-source-project-307m)
+- [Your agent finished at 3 a.m. Where did the report go?](https://dev.to/mmmikael/your-agent-finished-at-3-am-where-did-the-report-go-m8a)
+- [I Built a Coding Mascot Generator with Google AI Studio — Meet Octo-Byte! 🐙](https://dev.to/gamya_m/i-built-a-coding-mascot-generator-with-google-ai-studio-meet-octo-byte-5abi)
+- [My AI-agent waste detector scored zero false positives. Then I ran it on a real trace.](https://dev.to/jeonsewon/my-ai-agent-waste-detector-scored-zero-false-positives-then-i-ran-it-on-a-real-trace-96o)
+- [Sorting Encrypted Strings with a Leaked-Order Index](https://dev.to/artabramov/sorting-encrypted-strings-with-a-leaked-order-index-2dc4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
