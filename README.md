@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From a Simple Web App to a Production-Style Platform: My DevOps Learning Journey](https://dev.to/shashank0701byte/from-a-simple-web-app-to-a-production-style-platform-my-devops-learning-journey-29km)
-- [I Built a Search Engine That Understands Meaning — in ~150 Lines, Zero API Keys](https://dev.to/dev48v/i-built-a-search-engine-that-understands-meaning-in-150-lines-zero-api-keys-m5a)
-- [Context Compression Before the LLM: Cutting Tokens Without Cutting Recall](https://dev.to/gabrielanhaia/context-compression-before-the-llm-cutting-tokens-without-cutting-recall-9hh)
-- [Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip](https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1)
-- [CRM Enrichment From an Agent-Owned Inbox](https://dev.to/qasim157/crm-enrichment-from-an-agent-owned-inbox-3k66)
+- [DDD Is Not Dying. Cargo-Cult DDD Is.](https://dev.to/terum/ddd-is-not-dying-cargo-cult-ddd-is-l1p)
+- [Don’t trust me, verify me: openunit, a unit of account you can recompute byte-for-byte](https://dev.to/hiroshi_ichiyanagi/dont-trust-me-verify-me-openunit-a-unit-of-account-you-can-recompute-byte-for-byte-4d9h)
+- [1.Generate Commit Messages with AI](https://dev.to/thukhakyawe_cloud/1generate-commit-messages-with-ai-2e2j)
+- [The Data Scientist&#39;s Guide to AI Summarization in 2026](https://dev.to/gentlenode/the-data-scientists-guide-to-ai-summarization-in-2026-f4j)
+- [Your AI agent remembers what sounds related, not what worked](https://dev.to/agentmemory-dev/your-ai-agent-remembers-what-sounds-related-not-what-worked-3392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
