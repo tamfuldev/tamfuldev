@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A safer OpenConnect workflow for Cisco AnyConnect VPNs on macOS and Linux](https://dev.to/sorinipate/a-safer-openconnect-workflow-for-cisco-anyconnect-vpns-on-macos-and-linux-5g7o)
-- [I Watched a COD Streamer Suffer Through Tournament Admin and Then Spent A Month Fixing It](https://dev.to/scythe2/-i-watched-a-cod-streamer-suffer-through-tournament-admin-and-then-spent-a-month-fixing-it-k8d)
-- [WWDC 2026 - Apple&#39;s new server LLM on Private Cloud Compute: what&#39;s in it for developers](https://dev.to/arshtechpro/wwdc-2026-apples-new-server-llm-on-private-cloud-compute-whats-in-it-for-developers-2edd)
-- [My video generation pipeline that built itself](https://dev.to/hiper2d/my-video-generation-pipeline-that-built-itself-459n)
-- [The Cookie That Never Expires](https://dev.to/wadco/the-cookie-that-never-expires-4677)
+- [From a Simple Web App to a Production-Style Platform: My DevOps Learning Journey](https://dev.to/shashank0701byte/from-a-simple-web-app-to-a-production-style-platform-my-devops-learning-journey-29km)
+- [I Built a Search Engine That Understands Meaning — in ~150 Lines, Zero API Keys](https://dev.to/dev48v/i-built-a-search-engine-that-understands-meaning-in-150-lines-zero-api-keys-m5a)
+- [Context Compression Before the LLM: Cutting Tokens Without Cutting Recall](https://dev.to/gabrielanhaia/context-compression-before-the-llm-cutting-tokens-without-cutting-recall-9hh)
+- [Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip](https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1)
+- [CRM Enrichment From an Agent-Owned Inbox](https://dev.to/qasim157/crm-enrichment-from-an-agent-owned-inbox-3k66)
 <!-- BLOG-POST-LIST:END -->
 
 ---
