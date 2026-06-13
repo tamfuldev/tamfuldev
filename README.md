@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Observability in NestJS with RedisX Metrics](https://dev.to/sur-ser/boosting-observability-in-nestjs-with-redisx-metrics-a2c)
-- [AI Agent Architecture: Why Process-Level Resilience Beats Proxy Gateways](https://dev.to/hhhfs9s7y9code/ai-agent-architecture-why-process-level-resilience-beats-proxy-gateways-1io6)
-- [LLM API Reliability in Production: What 10,000 Calls Taught Us About Failure Patterns](https://dev.to/hhhfs9s7y9code/llm-api-reliability-in-production-what-10000-calls-taught-us-about-failure-patterns-1pg8)
-- [Show HN: NeuralBridge - Self-Healing SDK for LLM-Powered AI Agents](https://dev.to/hhhfs9s7y9code/show-hn-neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-309o)
-- [NeuralBridge: Self-Healing SDK for LLM-Powered AI Agents - Getting Started in 5 Minutes](https://dev.to/hhhfs9s7y9code/neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes-1677)
+- [Support Threads That Span Days: Agent Memory via Email](https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj)
+- [I Shipped One Messy Python Script. Here&#39;s the 10-Point Checklist That Got It There.](https://dev.to/2glitch/i-shipped-one-messy-python-script-heres-the-10-point-checklist-that-got-it-there-58jo)
+- [Event Reminders From an Agent&#39;s Calendar](https://dev.to/qasim157/event-reminders-from-an-agents-calendar-5b6c)
+- [Meeting Follow-Ups Without a Human in the Loop](https://dev.to/qasim157/meeting-follow-ups-without-a-human-in-the-loop-1m84)
+- [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-during-1phc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
