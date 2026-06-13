@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You wouldn&#39;t download a waterfall. So I coded one with Claude.](https://dev.to/tyler_warburton/you-wouldnt-download-a-waterfall-so-i-coded-one-with-claude-430c)
-- [TypeScript Mapped Types: The Feature That Changes How You Design Types](https://dev.to/kaithorne/typescript-mapped-types-the-feature-that-changes-how-you-design-types-5dep)
-- [Vibe coding fades as Karpathy pioneers agentic engineering in AI evolution](https://dev.to/davekurian/vibe-coding-fades-as-karpathy-pioneers-agentic-engineering-in-ai-evolution-5451)
-- [Essential Skills to Put on a Resume in 2026 &lpar;With Examples&rpar;](https://dev.to/saraah/essential-skills-to-put-on-a-resume-in-2026-with-examples-1n0b)
-- [The awkward middle ground between full-stack and cloud infrastructure](https://dev.to/jay_patel/the-awkward-middle-ground-between-full-stack-and-cloud-infrastructure-23d7)
+- [SQLite in a Tauri v2 App — Simple, Reliable, Zero Regrets](https://dev.to/hiyoyok/sqlite-in-a-tauri-v2-app-simple-reliable-zero-regrets-391h)
+- [I built an interactive tracker for my 25-week GenAI engineering roadmap &lpar;instead of using Notion&rpar;](https://dev.to/poseidonrage/i-built-an-interactive-tracker-for-my-25-week-genai-engineering-roadmap-instead-of-using-notion-1ji0)
+- [I built my own 2D game engine from scratch using TypeScript](https://dev.to/eiturhan/i-built-my-own-2d-game-engine-from-scratch-using-typescript-41d2)
+- [Debugging OOMKilled errors and fixing memory leaks in serverless-like environments.](https://dev.to/sohanaakbar7/debugging-oomkilled-errors-and-fixing-memory-leaks-in-serverless-like-environments-24d)
+- [How Much RAM Do You Really Need to Run LLMs Locally? 2026 Benchmarks](https://dev.to/pavelespitia/how-much-ram-do-you-really-need-to-run-llms-locally-2026-benchmarks-3kd2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
