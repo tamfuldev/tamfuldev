@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a web dev who has never touched 3D. Here&#39;s my first creature.](https://dev.to/aurinaileandot/im-a-web-dev-who-has-never-touched-3d-heres-my-first-creature-3p88)
-- [6 months later: Apple Finally Shipped Local Multimodal in Xcode 27 Beta](https://dev.to/fosteman/100-years-later-apple-finally-shipped-local-multimodal-in-xcode-27-beta-nmc)
-- [Prompt Caching in LLMs: The Hidden Optimization Saving Millions of GPU Hours](https://dev.to/shrsv/prompt-caching-in-llms-the-hidden-optimization-saving-millions-of-gpu-hours-4gmm)
-- [I Built the Tool I Wish I Had When Learning DSA](https://dev.to/imrishuroy/i-built-the-tool-i-wish-i-had-when-learning-dsa-i4g)
-- [3- AWS Serverless: REST API vs. HTTP API](https://dev.to/hash01/rest-api-vs-http-api-aws-architecture-3pea)
+- [Launching BonVoyage: From Travel Problem to Public Launch](https://dev.to/jesse_boudreau_237c1f0ba1/launching-bonvoyage-from-travel-problem-to-public-launch-3dfk)
+- [The spec is in the wrong place](https://dev.to/paul_schneider_06ad61671a/the-spec-is-in-the-wrong-place-2ai4)
+- [Incident Automation: What to Automate, What to Leave to Humans](https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91)
+- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
+- [How to Build One Web App That Works on iOS, Android, and Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
