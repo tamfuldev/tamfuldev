@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Shrinkray: a free, 100% in-browser image compressor &lpar;no uploads, open source&rpar;](https://dev.to/member_250fe3f1/shrinkray-a-free-100-in-browser-image-compressor-no-uploads-open-source-4fa2)
-- [What Juejin&#39;s 2025 Tool Lists Got Right About the Multi-Tool Stack](https://dev.to/ninghonggang/what-juejins-2025-tool-lists-got-right-about-the-multi-tool-stack-3lgp)
-- [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
-- [Decoding Hoisting in JS](https://dev.to/annapoo/decoding-hoisting-in-js-gkp)
-- [Dev tools that run 100% in your browser — your data never leaves the page](https://dev.to/aipredictions_dev/dev-tools-that-run-100-in-your-browser-your-data-never-leaves-the-page-2m22)
+- [I built Reclaim: an AI tool that finds medical billing errors and writes your appeal letters](https://dev.to/kyisaiah47/i-built-reclaim-an-ai-tool-that-finds-medical-billing-errors-and-writes-your-appeal-letters-43ph)
+- [n8n: Fix HTTP Request Node Returning Success With No Data &lpar;+ Execution Timeout Guide&rpar;](https://dev.to/trigger-workflow/n8n-fix-http-request-node-returning-success-with-no-data-execution-timeout-guide-495d)
+- [I was fine-tuning a language model on Arabic. The loss was perfect. It spoke Chinese.](https://dev.to/ammarhassona/i-was-fine-tuning-a-language-model-on-arabic-the-loss-was-perfect-it-spoke-chinese-5ln)
+- [Bun rewrote itself from Zig to Rust using an LLM in 9 days. That should terrify you.](https://dev.to/adioof/bun-rewrote-itself-from-zig-to-rust-using-an-llm-in-9-days-that-should-terrify-you-5om)
+- [Understanding Memory Usage in Django Webserver Workers](https://dev.to/djangotricks/understanding-memory-usage-in-django-webserver-workers-3opk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
