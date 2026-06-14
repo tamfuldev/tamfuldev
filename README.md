@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DDD Is Not Dying. Cargo-Cult DDD Is.](https://dev.to/terum/ddd-is-not-dying-cargo-cult-ddd-is-l1p)
-- [Don’t trust me, verify me: openunit, a unit of account you can recompute byte-for-byte](https://dev.to/hiroshi_ichiyanagi/dont-trust-me-verify-me-openunit-a-unit-of-account-you-can-recompute-byte-for-byte-4d9h)
-- [1.Generate Commit Messages with AI](https://dev.to/thukhakyawe_cloud/1generate-commit-messages-with-ai-2e2j)
-- [The Data Scientist&#39;s Guide to AI Summarization in 2026](https://dev.to/gentlenode/the-data-scientists-guide-to-ai-summarization-in-2026-f4j)
-- [Your AI agent remembers what sounds related, not what worked](https://dev.to/agentmemory-dev/your-ai-agent-remembers-what-sounds-related-not-what-worked-3392)
+- [Run Real Docker on Android — No Root, No Tricks, Just QEMU](https://dev.to/sulthonzh/run-real-docker-on-android-no-root-no-tricks-just-qemu-15jn)
+- [Building an Interactive &#39;Festa Junina&#39; with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p)
+- [Agent Series &lpar;20&rpar;: Harness in Production — From Single File to Reusable Package](https://dev.to/wonderlab/agent-series-20-harness-in-production-from-single-file-to-reusable-package-2chd)
+- [AI For Debugging Production Issues](https://dev.to/nazar_boyko/ai-for-debugging-production-issues-3m23)
+- [Generating valid .ics calendar feeds at build time](https://dev.to/mark_b5f4ffdd8e7cd58/generating-valid-ics-calendar-feeds-at-build-time-50lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
