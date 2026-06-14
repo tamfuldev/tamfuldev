@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launching BonVoyage: From Travel Problem to Public Launch](https://dev.to/jesse_boudreau_237c1f0ba1/launching-bonvoyage-from-travel-problem-to-public-launch-3dfk)
-- [The spec is in the wrong place](https://dev.to/paul_schneider_06ad61671a/the-spec-is-in-the-wrong-place-2ai4)
-- [Incident Automation: What to Automate, What to Leave to Humans](https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91)
-- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
-- [How to Build One Web App That Works on iOS, Android, and Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)
+- [AR4 Mark 5: This Open-Source 6-Axis Robot Arm Is Finally Done](https://dev.to/circuitrocks/ar4-mark-5-this-open-source-6-axis-robot-arm-is-finally-done-44jm)
+- [AI Pair Programming in Your Terminal with Aider and Ollama](https://dev.to/everylocalai/ai-pair-programming-in-your-terminal-with-aider-and-ollama-4hdi)
+- [Telegram Stars Economics for Bot Developers: What Your Stars Are Actually Worth in 2026](https://dev.to/starsearn/telegram-stars-economics-for-bot-developers-what-your-stars-are-actually-worth-in-2026-2742)
+- [Build a Unified AI Gateway with LiteLLM and Ollama](https://dev.to/everylocalai/build-a-unified-ai-gateway-with-litellm-and-ollama-387a)
+- [While My Friends Were Playing Games, I Was Pressing BREAK](https://dev.to/__b4cc59/while-my-friends-were-playing-games-i-was-pressing-break-521a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
