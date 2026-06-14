@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Run Real Docker on Android — No Root, No Tricks, Just QEMU](https://dev.to/sulthonzh/run-real-docker-on-android-no-root-no-tricks-just-qemu-15jn)
-- [Building an Interactive &#39;Festa Junina&#39; with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p)
-- [Agent Series &lpar;20&rpar;: Harness in Production — From Single File to Reusable Package](https://dev.to/wonderlab/agent-series-20-harness-in-production-from-single-file-to-reusable-package-2chd)
-- [AI For Debugging Production Issues](https://dev.to/nazar_boyko/ai-for-debugging-production-issues-3m23)
-- [Generating valid .ics calendar feeds at build time](https://dev.to/mark_b5f4ffdd8e7cd58/generating-valid-ics-calendar-feeds-at-build-time-50lp)
+- [Building Modular AI Agent Features with Pydantic AI Capabilities](https://dev.to/joxiahdev/building-modular-ai-agent-features-with-pydantic-ai-capabilities-39d5)
+- [The Hidden Economics of AI: What It Actually Costs to Run LLMs in Production &lpar;With Real Data&rpar;](https://dev.to/datalaria/the-hidden-economics-of-ai-what-it-actually-costs-to-run-llms-in-production-with-real-data-40h9)
+- [I Built a Number-to-Words Converter Because I Kept Double-Checking Numbers](https://dev.to/bhavin-allinonetools/i-built-a-number-to-words-converter-because-i-kept-double-checking-numbers-ba0)
+- [I Switched from VS Code to Cursor — Here&#39;s What Actually Changed](https://dev.to/promptmaster/i-switched-from-vs-code-to-cursor-heres-what-actually-changed-2i7g)
+- [What an AI Agent Actually Is &lpar;Minus the Hype&rpar;](https://dev.to/promptmaster/what-an-ai-agent-actually-is-minus-the-hype-5a7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
