@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built Reclaim: an AI tool that finds medical billing errors and writes your appeal letters](https://dev.to/kyisaiah47/i-built-reclaim-an-ai-tool-that-finds-medical-billing-errors-and-writes-your-appeal-letters-43ph)
-- [n8n: Fix HTTP Request Node Returning Success With No Data &lpar;+ Execution Timeout Guide&rpar;](https://dev.to/trigger-workflow/n8n-fix-http-request-node-returning-success-with-no-data-execution-timeout-guide-495d)
-- [I was fine-tuning a language model on Arabic. The loss was perfect. It spoke Chinese.](https://dev.to/ammarhassona/i-was-fine-tuning-a-language-model-on-arabic-the-loss-was-perfect-it-spoke-chinese-5ln)
-- [Bun rewrote itself from Zig to Rust using an LLM in 9 days. That should terrify you.](https://dev.to/adioof/bun-rewrote-itself-from-zig-to-rust-using-an-llm-in-9-days-that-should-terrify-you-5om)
-- [Understanding Memory Usage in Django Webserver Workers](https://dev.to/djangotricks/understanding-memory-usage-in-django-webserver-workers-3opk)
+- [I’m 17, and I’m teaching 6,000+ students to build apps without getting stuck in syntax hell](https://dev.to/yashwardhan_sharma/im-17-and-im-teaching-6000-students-to-build-apps-without-getting-stuck-in-syntax-hell-3f1h)
+- [Building a focused 2026 World Cup schedule tracker](https://dev.to/justlovemaki/building-a-focused-2026-world-cup-schedule-tracker-1nn3)
+- [How WSO2 API Manager Transforms API Analytics &amp; Monitoring](https://dev.to/chamath_gunawardhana_e13e/how-wso2-api-manager-transforms-api-analytics-monitoring-2aof)
+- [The Best Abstractions Arrive Late](https://dev.to/stinklewinks/the-best-abstractions-arrive-late-1h1o)
+- [AI Claim Verification Pipeline: Stop Hallucinations Before They Reach Customers](https://dev.to/jackm-singularity/ai-claim-verification-pipeline-stop-hallucinations-before-they-reach-customers-3kn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
