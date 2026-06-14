@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Built 50 privacy-first web tools that run entirely in your browser—no servers, no tracking, just useful tools. Tooljar.app](https://dev.to/burak_eldek_f6fdf098a7cd8/built-50-privacy-first-web-tools-that-run-entirely-in-your-browser-no-servers-no-tracking-just-4pnb)
-- [Talkis - an opensource alternative to wispr flow](https://dev.to/david_perov_7963d06e094d3/talkis-an-opensource-alternative-to-wispr-flow-10nn)
-- [Build Your Own Claude Code Marketplace: Scaffold, Structure, and Auto-Updates](https://dev.to/nagell/build-your-own-claude-code-marketplace-scaffold-structure-and-auto-updates-4n3f)
-- [Replacing Fragile CSS Selectors with LLM-Powered Zero-Shot JSON Extraction](https://dev.to/alterlab/replacing-fragile-css-selectors-with-llm-powered-zero-shot-json-extraction-39j2)
-- [If you can decode it, it was never encryption: untangling encoding, hashing, and encryption for Security+](https://dev.to/tiltedlunar123/if-you-can-decode-it-it-was-never-encryption-untangling-encoding-hashing-and-encryption-for-384k)
+- [I&#39;m a web dev who has never touched 3D. Here&#39;s my first creature.](https://dev.to/aurinaileandot/im-a-web-dev-who-has-never-touched-3d-heres-my-first-creature-3p88)
+- [6 months later: Apple Finally Shipped Local Multimodal in Xcode 27 Beta](https://dev.to/fosteman/100-years-later-apple-finally-shipped-local-multimodal-in-xcode-27-beta-nmc)
+- [Prompt Caching in LLMs: The Hidden Optimization Saving Millions of GPU Hours](https://dev.to/shrsv/prompt-caching-in-llms-the-hidden-optimization-saving-millions-of-gpu-hours-4gmm)
+- [I Built the Tool I Wish I Had When Learning DSA](https://dev.to/imrishuroy/i-built-the-tool-i-wish-i-had-when-learning-dsa-i4g)
+- [3- AWS Serverless: REST API vs. HTTP API](https://dev.to/hash01/rest-api-vs-http-api-aws-architecture-3pea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
