@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check If an Online JSON Formatter Uploads Your Data](https://dev.to/_6a9b7b682ef6dfb20e506/how-to-check-if-an-online-json-formatter-uploads-your-data-2hkd)
-- [Connecting Hermes AI Agent to an MCP Gateway: Setup and Use Cases](https://dev.to/hoe_shilee_b3aa96e0da49e/connecting-hermes-ai-agent-to-an-mcp-gateway-setup-and-use-cases-3ofp)
-- [AI Tooling on OpenShift: A Practitioner&#39;s Evaluation Framework](https://dev.to/agenticdevops/ai-tooling-on-openshift-a-practitioners-evaluation-framework-17aa)
-- [Build a RAG Pipeline for Internal Runbooks with FastAPI and Chroma](https://dev.to/agenticdevops/build-a-rag-pipeline-for-internal-runbooks-with-fastapi-and-chroma-25hb)
-- [How Do You Integrate Penetration Testing into CI/CD?](https://dev.to/varunvarde/how-do-you-integrate-penetration-testing-into-cicd-1795)
+- [Stop Rolling Your Own VPN Configs: Practical WireGuard with systemd-networkd on Linux](https://dev.to/lyraalishaikh/stop-rolling-your-own-vpn-configs-practical-wireguard-with-systemd-networkd-on-linux-22lp)
+- [From 0 to 20 organic Google clicks: the engineering behind my solo SaaS](https://dev.to/muhayminbinmehmood/from-0-to-20-organic-google-clicks-the-engineering-behind-my-solo-saas-3kg2)
+- [How I Tested 5 Small LLMs on a Weak PC &lpar;Intel i5, No GPU&rpar; – And Found a Winner](https://dev.to/ymir/how-i-tested-5-small-llms-on-a-weak-pc-intel-i5-no-gpu-and-found-a-winner-55cm)
+- [Your Spec Files Are Lying to You. Mine Were Too.](https://dev.to/diyaburman/your-spec-files-are-lying-to-you-mine-were-too-1nie)
+- [Governance-first AI gateway for teams that aren&#39;t ready for enterprise tooling](https://dev.to/zakaulhaque/governance-first-ai-gateway-for-teams-that-arent-ready-for-enterprise-tooling-2hdl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
