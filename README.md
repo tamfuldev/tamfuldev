@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned Building Fintech Frontends: Things Nobody Teaches You About Handling Money, State, and User Trust](https://dev.to/bezzy_j/lessons-learned-building-fintech-frontends-things-nobody-teaches-you-about-handling-money-state-27p1)
-- [Azure cost anomalies hide above and below the subscription line, so ZopNight now watches all three](https://dev.to/muskan_8abedcc7e12/azure-cost-anomalies-hide-above-and-below-the-subscription-line-so-zopnight-now-watches-all-three-2398)
-- [AI writes 60% of your work but you can only hand off 20% — that gap is the real enterprise problem](https://dev.to/cpengc1984/ai-writes-60-of-your-work-but-you-can-only-hand-off-20-that-gap-is-the-real-enterprise-problem-1i9f)
-- [ChromaDB Helm values.yaml: the 2026 production setup](https://dev.to/muskan_8abedcc7e12/chromadb-helm-valuesyaml-the-2026-production-setup-45hh)
-- [Building a knowledge network in public](https://dev.to/steverodrigue/building-a-knowledge-network-in-public-2plg)
+- [How to Check If an Online JSON Formatter Uploads Your Data](https://dev.to/_6a9b7b682ef6dfb20e506/how-to-check-if-an-online-json-formatter-uploads-your-data-2hkd)
+- [Connecting Hermes AI Agent to an MCP Gateway: Setup and Use Cases](https://dev.to/hoe_shilee_b3aa96e0da49e/connecting-hermes-ai-agent-to-an-mcp-gateway-setup-and-use-cases-3ofp)
+- [AI Tooling on OpenShift: A Practitioner&#39;s Evaluation Framework](https://dev.to/agenticdevops/ai-tooling-on-openshift-a-practitioners-evaluation-framework-17aa)
+- [Build a RAG Pipeline for Internal Runbooks with FastAPI and Chroma](https://dev.to/agenticdevops/build-a-rag-pipeline-for-internal-runbooks-with-fastapi-and-chroma-25hb)
+- [How Do You Integrate Penetration Testing into CI/CD?](https://dev.to/varunvarde/how-do-you-integrate-penetration-testing-into-cicd-1795)
 <!-- BLOG-POST-LIST:END -->
 
 ---
