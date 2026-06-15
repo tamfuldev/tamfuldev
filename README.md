@@ -6,11 +6,21 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Rolling Your Own VPN Configs: Practical WireGuard with systemd-networkd on Linux](https://dev.to/lyraalishaikh/stop-rolling-your-own-vpn-configs-practical-wireguard-with-systemd-networkd-on-linux-22lp)
-- [From 0 to 20 organic Google clicks: the engineering behind my solo SaaS](https://dev.to/muhayminbinmehmood/from-0-to-20-organic-google-clicks-the-engineering-behind-my-solo-saas-3kg2)
-- [How I Tested 5 Small LLMs on a Weak PC &lpar;Intel i5, No GPU&rpar; – And Found a Winner](https://dev.to/ymir/how-i-tested-5-small-llms-on-a-weak-pc-intel-i5-no-gpu-and-found-a-winner-55cm)
-- [Your Spec Files Are Lying to You. Mine Were Too.](https://dev.to/diyaburman/your-spec-files-are-lying-to-you-mine-were-too-1nie)
-- [Governance-first AI gateway for teams that aren&#39;t ready for enterprise tooling](https://dev.to/zakaulhaque/governance-first-ai-gateway-for-teams-that-arent-ready-for-enterprise-tooling-2hdl)
+- [How I Built a Zero-Dependency Token Compressor for AI Coding Agents &lpar;During My High School Exams&rpar;](https://dev.to/raxyl00/how-i-built-a-zero-dependency-token-compressor-for-ai-coding-agents-during-my-high-school-exams-3ihh)
+- [End of the Year idea for DEV?](https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p)
+- [What is DevOps? A Plain English Guide](https://dev.to/agenticdevops/what-is-devops-a-plain-english-guide-chd)
+- [Retry Logic and Tiered Alerting in GitHub Actions](https://dev.to/agenticdevops/retry-logic-and-tiered-alerting-in-github-actions-4408)
+- [How I Built an AI Resume Builder with Next.js and OpenAI
+Intro
+ The problem: resumes are generic, jobs are specific
+ I built CVpilotX to fix this
+
+What it does
+ Paste job description
+ AI rewrites your CV to match it
+ Download as PDF instantly
+
+Tech st](https://dev.to/subashbelina_c7085b13f7a7/how-i-built-an-ai-resume-builder-with-nextjs-and-openai-intro-the-problem-resumes-are-4l78)
 <!-- BLOG-POST-LIST:END -->
 
 ---
