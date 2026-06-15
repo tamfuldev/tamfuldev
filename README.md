@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AR4 Mark 5: This Open-Source 6-Axis Robot Arm Is Finally Done](https://dev.to/circuitrocks/ar4-mark-5-this-open-source-6-axis-robot-arm-is-finally-done-44jm)
-- [AI Pair Programming in Your Terminal with Aider and Ollama](https://dev.to/everylocalai/ai-pair-programming-in-your-terminal-with-aider-and-ollama-4hdi)
-- [Telegram Stars Economics for Bot Developers: What Your Stars Are Actually Worth in 2026](https://dev.to/starsearn/telegram-stars-economics-for-bot-developers-what-your-stars-are-actually-worth-in-2026-2742)
-- [Build a Unified AI Gateway with LiteLLM and Ollama](https://dev.to/everylocalai/build-a-unified-ai-gateway-with-litellm-and-ollama-387a)
-- [While My Friends Were Playing Games, I Was Pressing BREAK](https://dev.to/__b4cc59/while-my-friends-were-playing-games-i-was-pressing-break-521a)
+- [hello, world](https://dev.to/rshade/hello-world-507n)
+- [UVS: a draw&#39;s fairness as a fact you can recompute — not a certificate you trust](https://dev.to/constantin_razinsky_bb7f0/uvs-a-draws-fairness-as-a-fact-you-can-recompute-not-a-certificate-you-trust-54ec)
+- [Pinpoint rollback — building per-plugin revert with WP-CLI](https://dev.to/susumun/pinpoint-rollback-building-per-plugin-revert-with-wp-cli-5go5)
+- [I tried &quot;GEO&quot; on my indie tool — it was just SEO &lpar;here&#39;s the GSC data&rpar;](https://dev.to/_9848c5582063b42abecb7/i-tried-geo-on-my-indie-tool-it-was-just-seo-heres-the-gsc-data-59gn)
+- [I built a free cybersecurity scanner that gives any website a security score — here&#39;s how](https://dev.to/ghana_cyber_31c4e6b67e573/i-built-a-free-cybersecurity-scanner-that-gives-any-website-a-security-score-heres-how-1p2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
