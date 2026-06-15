@@ -6,21 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Zero-Dependency Token Compressor for AI Coding Agents &lpar;During My High School Exams&rpar;](https://dev.to/raxyl00/how-i-built-a-zero-dependency-token-compressor-for-ai-coding-agents-during-my-high-school-exams-3ihh)
-- [End of the Year idea for DEV?](https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p)
-- [What is DevOps? A Plain English Guide](https://dev.to/agenticdevops/what-is-devops-a-plain-english-guide-chd)
-- [Retry Logic and Tiered Alerting in GitHub Actions](https://dev.to/agenticdevops/retry-logic-and-tiered-alerting-in-github-actions-4408)
-- [How I Built an AI Resume Builder with Next.js and OpenAI
-Intro
- The problem: resumes are generic, jobs are specific
- I built CVpilotX to fix this
-
-What it does
- Paste job description
- AI rewrites your CV to match it
- Download as PDF instantly
-
-Tech st](https://dev.to/subashbelina_c7085b13f7a7/how-i-built-an-ai-resume-builder-with-nextjs-and-openai-intro-the-problem-resumes-are-4l78)
+- [Google&#39;s Open Knowledge Format is just Markdown in folders &lpar;and that&#39;s the point&rpar;](https://dev.to/hjarni/googles-open-knowledge-format-is-just-markdown-in-folders-and-thats-the-point-4gnc)
+- [Status updates that write themselves from your git activity](https://dev.to/aidan_urbina/status-updates-that-write-themselves-from-your-git-activity-13pe)
+- [🎯 The STAR Quest: Level‑Up Your Behavioral Interview Like Neo Seeing the Code](https://dev.to/timevolt/the-star-quest-level-up-your-behavioral-interview-like-neo-seeing-the-code-1n9)
+- [I shipped 35 bugs in my AI chatbot. The scariest one was on the output side.](https://dev.to/rapls/i-shipped-35-bugs-in-my-ai-chatbot-the-scariest-one-was-on-the-output-side-hjg)
+- [How Much Does Data Observability Cost in 2026?](https://dev.to/iblaine/how-much-does-data-observability-cost-in-2026-58e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
