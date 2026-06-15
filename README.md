@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [hello, world](https://dev.to/rshade/hello-world-507n)
-- [UVS: a draw&#39;s fairness as a fact you can recompute — not a certificate you trust](https://dev.to/constantin_razinsky_bb7f0/uvs-a-draws-fairness-as-a-fact-you-can-recompute-not-a-certificate-you-trust-54ec)
-- [Pinpoint rollback — building per-plugin revert with WP-CLI](https://dev.to/susumun/pinpoint-rollback-building-per-plugin-revert-with-wp-cli-5go5)
-- [I tried &quot;GEO&quot; on my indie tool — it was just SEO &lpar;here&#39;s the GSC data&rpar;](https://dev.to/_9848c5582063b42abecb7/i-tried-geo-on-my-indie-tool-it-was-just-seo-heres-the-gsc-data-59gn)
-- [I built a free cybersecurity scanner that gives any website a security score — here&#39;s how](https://dev.to/ghana_cyber_31c4e6b67e573/i-built-a-free-cybersecurity-scanner-that-gives-any-website-a-security-score-heres-how-1p2b)
+- [Lessons Learned Building Fintech Frontends: Things Nobody Teaches You About Handling Money, State, and User Trust](https://dev.to/bezzy_j/lessons-learned-building-fintech-frontends-things-nobody-teaches-you-about-handling-money-state-27p1)
+- [Azure cost anomalies hide above and below the subscription line, so ZopNight now watches all three](https://dev.to/muskan_8abedcc7e12/azure-cost-anomalies-hide-above-and-below-the-subscription-line-so-zopnight-now-watches-all-three-2398)
+- [AI writes 60% of your work but you can only hand off 20% — that gap is the real enterprise problem](https://dev.to/cpengc1984/ai-writes-60-of-your-work-but-you-can-only-hand-off-20-that-gap-is-the-real-enterprise-problem-1i9f)
+- [ChromaDB Helm values.yaml: the 2026 production setup](https://dev.to/muskan_8abedcc7e12/chromadb-helm-valuesyaml-the-2026-production-setup-45hh)
+- [Building a knowledge network in public](https://dev.to/steverodrigue/building-a-knowledge-network-in-public-2plg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
