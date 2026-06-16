@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Open Knowledge Format is just Markdown in folders &lpar;and that&#39;s the point&rpar;](https://dev.to/hjarni/googles-open-knowledge-format-is-just-markdown-in-folders-and-thats-the-point-4gnc)
-- [Status updates that write themselves from your git activity](https://dev.to/aidan_urbina/status-updates-that-write-themselves-from-your-git-activity-13pe)
-- [🎯 The STAR Quest: Level‑Up Your Behavioral Interview Like Neo Seeing the Code](https://dev.to/timevolt/the-star-quest-level-up-your-behavioral-interview-like-neo-seeing-the-code-1n9)
-- [I shipped 35 bugs in my AI chatbot. The scariest one was on the output side.](https://dev.to/rapls/i-shipped-35-bugs-in-my-ai-chatbot-the-scariest-one-was-on-the-output-side-hjg)
-- [How Much Does Data Observability Cost in 2026?](https://dev.to/iblaine/how-much-does-data-observability-cost-in-2026-58e1)
+- [Why traditional AI chatbots are boring, and what we are building instead](https://dev.to/gaotusai/why-traditional-ai-chatbots-are-boring-and-what-we-are-building-instead-3ipm)
+- [CloudNativePG: Running PostgreSQL in Kubernetes Without the Pain](https://dev.to/futhgar/cloudnativepg-running-postgresql-in-kubernetes-without-the-pain-32pj)
+- [Your Automation Hits a 403 That Will Never Resolve. Now What?](https://dev.to/arihantdeva/your-automation-hits-a-403-that-will-never-resolve-now-what-ni8)
+- [PostgreSQL 2200S Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200s-error-causes-and-solutions-complete-guide-i5f)
+- [🐍 Python Power Moves: 5 Tricks to Level Up Your Code Today](https://dev.to/leechon/python-power-moves-5-tricks-to-level-up-your-code-today-4l00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
