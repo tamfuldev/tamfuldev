@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What kind of Claude collaborator are you, actually?](https://dev.to/palo_alto_ai/what-kind-of-claude-collaborator-are-you-actually-30c4)
-- [Why no text-to-speech tool can read Kindle Cloud Reader — and how I fixed it with OCR](https://dev.to/vin_xu_e23f6af14388f72812/why-no-text-to-speech-tool-can-read-kindle-cloud-reader-and-how-i-fixed-it-with-ocr-5f81)
-- [ZCode vs MiMo Code vs DevEco Code: Who Really Solves Developer Pain Points in China&#39;s AI Coding Tools Race?](https://dev.to/mininglamp/zcode-vs-mimo-code-vs-deveco-code-who-really-solves-developer-pain-points-in-chinas-ai-coding-1n6a)
-- [How I Architected a 99.9% Uptime RAG Stack with DeepSeek — 2026 Guide](https://dev.to/gentleforge/how-i-architected-a-999-uptime-rag-stack-with-deepseek-2026-guide-3438)
-- [The Architecture of Dreams: A Deep Dive into Text-to-Video AI in 2026](https://dev.to/amarildo_ferrari_d2ad8cf1/the-architecture-of-dreams-a-deep-dive-into-text-to-video-ai-in-2026-1602)
+- [The LLM Is Not the Final Authority: Building Trust Infrastructure for AI Agents](https://dev.to/sriram7737/the-llm-is-not-the-final-authority-building-trust-infrastructure-for-ai-agents-221i)
+- [Stop Reinventing Boilerplate: Modern Web Development Is About Orchestration](https://dev.to/eugene_maiorov/stop-reinventing-boilerplate-modern-web-development-is-about-orchestration-41k5)
+- [AI agents hallucinate. Here is how to cryptographically notarize their output for $0.01](https://dev.to/gitsergecrypto/ai-agents-hallucinate-here-is-how-to-cryptographically-notarize-their-outputfor-001-4eop)
+- [AWS Cost Optimization Hub Cloud Cost Management](https://dev.to/khushi_dubey/aws-cost-optimization-hub-cloud-cost-management-44bc)
+- [The Great Language Smackdown: 54 Languages Through the IVP Lens](https://dev.to/yannick555/the-great-language-smackdown-54-languages-through-the-ivp-lens-24ji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
