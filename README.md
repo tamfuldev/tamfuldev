@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The LLM Is Not the Final Authority: Building Trust Infrastructure for AI Agents](https://dev.to/sriram7737/the-llm-is-not-the-final-authority-building-trust-infrastructure-for-ai-agents-221i)
-- [Stop Reinventing Boilerplate: Modern Web Development Is About Orchestration](https://dev.to/eugene_maiorov/stop-reinventing-boilerplate-modern-web-development-is-about-orchestration-41k5)
-- [AI agents hallucinate. Here is how to cryptographically notarize their output for $0.01](https://dev.to/gitsergecrypto/ai-agents-hallucinate-here-is-how-to-cryptographically-notarize-their-outputfor-001-4eop)
-- [AWS Cost Optimization Hub Cloud Cost Management](https://dev.to/khushi_dubey/aws-cost-optimization-hub-cloud-cost-management-44bc)
-- [The Great Language Smackdown: 54 Languages Through the IVP Lens](https://dev.to/yannick555/the-great-language-smackdown-54-languages-through-the-ivp-lens-24ji)
+- [Building AI agents with LangChain](https://dev.to/zsevic/building-ai-agents-with-langchain-5e69)
+- [Stop using AI as a search engine with extra steps.](https://dev.to/gmoustakas/stop-using-ai-as-a-search-engine-with-extra-steps-49oo)
+- [I Built a Local Apex Runtime - Nimbus](https://dev.to/oblitus/i-built-a-local-apex-runtime-nimbus-596o)
+- [Valkey vs Redis: API Protocol, Data Format &amp; Compatibility — The Technical Deep-Dive](https://dev.to/deploynix/valkey-vs-redis-api-protocol-data-format-compatibility-the-technical-deep-dive-4m2e)
+- [Notion AI&#39;s Pricing Trap: Why I Went Open Source Instead](https://dev.to/loyaldash/notion-ais-pricing-trap-why-i-went-open-source-instead-4e4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
