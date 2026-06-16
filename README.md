@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic QA Pipelines in 2026: Why Test Scripts Are Already Dead &lpar;And What Replaces Them&rpar;](https://dev.to/ailoitte_sk/agentic-qa-pipelines-in-2026-why-test-scripts-are-already-dead-and-what-replaces-them-4og8)
-- [Grok Build Agent Dashboard: Run 8 Parallel Coding Agents From One Screen](https://dev.to/akaranjkar08/grok-build-agent-dashboard-run-8-parallel-coding-agents-from-one-screen-32bf)
-- [The exact math that made $40,000,000 out of Polymarket &lpar;Full roadmap&rpar;](https://dev.to/xniiinx/the-exact-math-that-made-40000000-out-of-polymarket-full-roadmap-1il6)
-- [I got tired of hand-rolling message queues in FreeRTOS. So I built embedmq.](https://dev.to/w4ysonch/i-got-tired-of-hand-rolling-message-queues-in-freertos-so-i-built-embedmq-47l3)
-- [Is FAANG Becoming MANGO in the AI Era?](https://dev.to/coderboy_11/is-faang-becoming-mango-in-the-ai-era-31me)
+- [What kind of Claude collaborator are you, actually?](https://dev.to/palo_alto_ai/what-kind-of-claude-collaborator-are-you-actually-30c4)
+- [Why no text-to-speech tool can read Kindle Cloud Reader — and how I fixed it with OCR](https://dev.to/vin_xu_e23f6af14388f72812/why-no-text-to-speech-tool-can-read-kindle-cloud-reader-and-how-i-fixed-it-with-ocr-5f81)
+- [ZCode vs MiMo Code vs DevEco Code: Who Really Solves Developer Pain Points in China&#39;s AI Coding Tools Race?](https://dev.to/mininglamp/zcode-vs-mimo-code-vs-deveco-code-who-really-solves-developer-pain-points-in-chinas-ai-coding-1n6a)
+- [How I Architected a 99.9% Uptime RAG Stack with DeepSeek — 2026 Guide](https://dev.to/gentleforge/how-i-architected-a-999-uptime-rag-stack-with-deepseek-2026-guide-3438)
+- [The Architecture of Dreams: A Deep Dive into Text-to-Video AI in 2026](https://dev.to/amarildo_ferrari_d2ad8cf1/the-architecture-of-dreams-a-deep-dive-into-text-to-video-ai-in-2026-1602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
