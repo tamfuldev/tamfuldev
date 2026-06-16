@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI agents with LangChain](https://dev.to/zsevic/building-ai-agents-with-langchain-5e69)
-- [Stop using AI as a search engine with extra steps.](https://dev.to/gmoustakas/stop-using-ai-as-a-search-engine-with-extra-steps-49oo)
-- [I Built a Local Apex Runtime - Nimbus](https://dev.to/oblitus/i-built-a-local-apex-runtime-nimbus-596o)
-- [Valkey vs Redis: API Protocol, Data Format &amp; Compatibility — The Technical Deep-Dive](https://dev.to/deploynix/valkey-vs-redis-api-protocol-data-format-compatibility-the-technical-deep-dive-4m2e)
-- [Notion AI&#39;s Pricing Trap: Why I Went Open Source Instead](https://dev.to/loyaldash/notion-ais-pricing-trap-why-i-went-open-source-instead-4e4l)
+- [Preview Auth0 Changes Safely with Deploy CLI Dry Run](https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn)
+- [How are you handling financial controls for autonomous AI agents?](https://dev.to/billionaire664/how-are-you-handling-financial-controls-for-autonomous-ai-agents-2op2)
+- [x402 hit 119M transactions — here&#39;s the layer that still isn&#39;t built](https://dev.to/t49qnsx7qtkpanks/x402-hit-119m-transactions-heres-the-layer-that-still-isnt-built-d0b)
+- [Open Graph Image Sizes and Dimensions: The Complete 2026 Guide](https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16)
+- [We get feedback too late](https://dev.to/bjornno/we-get-feedback-too-late-3kap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
