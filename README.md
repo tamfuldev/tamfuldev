@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;ve all pressed Ctrl+C a million times. Linux solved this in the 1980s — the rest of us didn&#39;t.](https://dev.to/parth_dixit/weve-all-pressed-ctrlc-a-million-times-linux-solved-this-in-the-1980s-the-rest-of-us-didnt-5bd9)
-- [Introduction to LLMs for Beginners](https://dev.to/shashank_ms_6a35baa4be138/introduction-to-llms-for-beginners-197a)
-- [Building and Deploying Spring Petclinic Microservices on AWS: My Experience as Co-Project Lead and App &amp; Docker Lead](https://dev.to/ebelechukwu_lucyokafor/building-and-deploying-spring-petclinic-microservices-on-aws-my-experience-as-co-project-lead-and-402f)
-- [CBC Bit Flipping Explained: Why Encryption Alone Doesn&#39;t Guarantee Integrity](https://dev.to/arashad_dodhiya_0e4bdba5a/cbc-bit-flipping-explained-why-encryption-alone-doesnt-guarantee-integrity-5aje)
-- [Building Better Product Experiences Through Quiet Improvements](https://dev.to/ogeobubu/building-better-product-experiences-through-quiet-improvements-1dii)
+- [Combination Sum | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/combination-sum-backtracking-31ip)
+- [NestJS: The Backend Framework That Makes Node.js Feel Grown-Up 🚀](https://dev.to/hamidrazadev/nestjs-the-backend-framework-that-makes-nodejs-feel-grown-up-o4o)
+- [Hardening a Replit AI MVP for Production](https://dev.to/alex_mev/hardening-a-replit-ai-mvp-for-production-5775)
+- [How I Built a Restaurant Waitlist App on Amazon Aurora DSQL That Cannot Double-Book a Table](https://dev.to/ekpenyong_mfon_504ac7ca05/how-i-built-a-restaurant-waitlist-app-on-amazon-aurora-dsql-that-cannot-double-book-a-table-i22)
+- [agent-browser or mare-browser? Here is how I actually choose.](https://dev.to/emad_omar_5311e0e328be24c/agent-browser-or-mare-browser-here-is-how-i-actually-choose-4l97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
