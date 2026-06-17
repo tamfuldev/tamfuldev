@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Documentation Tools in 2026: Mintlify vs Document360 vs GitBook — Which Turns Your Code Into Live Docs?](https://dev.to/storm_son_b44db572b250b68/ai-documentation-tools-in-2026-mintlify-vs-document360-vs-gitbook-which-turns-your-code-into-110i)
-- [Building a Polymarket Trading Bot for Copy Trading &amp; Wallet Analytics](https://dev.to/chumba_24/building-a-polymarket-trading-bot-for-copy-trading-wallet-analytics-2e48)
-- [Manutenção preditiva no carro: o que os sensores e a telemetria já avisam antes da pane](https://dev.to/pneuscarmg_centroautomot/manutencao-preditiva-no-carro-o-que-os-sensores-e-a-telemetria-ja-avisam-antes-da-pane-fo)
-- [All In or Not At All](https://dev.to/codegax/all-in-or-not-at-all-4khl)
-- [10 Shopify Development Tricks That Saved Me Hundreds of Hours](https://dev.to/ecom_digital_a911992dbb89/10-shopify-development-tricks-that-saved-me-hundreds-of-hours-33bk)
+- [Why We Don&#39;t Call Cosmic an &quot;AI CMS&quot;](https://dev.to/tonyspiro/why-we-dont-call-cosmic-an-ai-cms-gci)
+- [When No Answer Beats a Wrong Answer: Designing Precision-First Systems](https://dev.to/matt_rose_9d0fe88d3533a4f/when-no-answer-beats-a-wrong-answer-designing-precision-first-systems-3hh5)
+- [I run a 28,000-file codebase solo with four different AI agents.](https://dev.to/shivamkamat579/i-run-a-28000-file-codebase-solo-with-four-different-ai-agents-587d)
+- [Stop Using process.env Directly — Here&#39;s Why](https://dev.to/ctrotech/stop-using-processenv-directly-heres-why-47be)
+- [Seeking Advice: Best Practices for SaaS Development 🛠️](https://dev.to/sanchitbarjibhe/seeking-advice-best-practices-for-saas-development-4f17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
