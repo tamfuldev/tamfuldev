@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Combination Sum | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/combination-sum-backtracking-31ip)
-- [NestJS: The Backend Framework That Makes Node.js Feel Grown-Up 🚀](https://dev.to/hamidrazadev/nestjs-the-backend-framework-that-makes-nodejs-feel-grown-up-o4o)
-- [Hardening a Replit AI MVP for Production](https://dev.to/alex_mev/hardening-a-replit-ai-mvp-for-production-5775)
-- [How I Built a Restaurant Waitlist App on Amazon Aurora DSQL That Cannot Double-Book a Table](https://dev.to/ekpenyong_mfon_504ac7ca05/how-i-built-a-restaurant-waitlist-app-on-amazon-aurora-dsql-that-cannot-double-book-a-table-i22)
-- [agent-browser or mare-browser? Here is how I actually choose.](https://dev.to/emad_omar_5311e0e328be24c/agent-browser-or-mare-browser-here-is-how-i-actually-choose-4l97)
+- [AI Documentation Tools in 2026: Mintlify vs Document360 vs GitBook — Which Turns Your Code Into Live Docs?](https://dev.to/storm_son_b44db572b250b68/ai-documentation-tools-in-2026-mintlify-vs-document360-vs-gitbook-which-turns-your-code-into-110i)
+- [Building a Polymarket Trading Bot for Copy Trading &amp; Wallet Analytics](https://dev.to/chumba_24/building-a-polymarket-trading-bot-for-copy-trading-wallet-analytics-2e48)
+- [Manutenção preditiva no carro: o que os sensores e a telemetria já avisam antes da pane](https://dev.to/pneuscarmg_centroautomot/manutencao-preditiva-no-carro-o-que-os-sensores-e-a-telemetria-ja-avisam-antes-da-pane-fo)
+- [All In or Not At All](https://dev.to/codegax/all-in-or-not-at-all-4khl)
+- [10 Shopify Development Tricks That Saved Me Hundreds of Hours](https://dev.to/ecom_digital_a911992dbb89/10-shopify-development-tricks-that-saved-me-hundreds-of-hours-33bk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
