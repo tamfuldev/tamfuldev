@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python](https://dev.to/divyanshusinha136/how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python-1e2j)
-- [How I Saved My Bootcamp Project Budget Using AI Data Extraction &lpar;A...](https://dev.to/loyaldash/how-i-saved-my-bootcamp-project-budget-using-ai-data-extraction-a-c1k)
-- [5 Production Mistakes That Changed How I Build Express APIs](https://dev.to/manolito99/5-production-mistakes-that-changed-how-i-build-express-apis-133e)
-- [Leetcode 150 | Day 4: Majority Element - Naive vs. Optimized](https://dev.to/afuji/leetcode-150-day-4-majority-element-naive-vs-optimized-eo6)
-- [AWS SAA: 10 Core Concepts &lpar;Explained for Infrastructure Engineers&rpar;](https://dev.to/shivam_singh_8a9ada1e8b88/aws-saa-10-core-concepts-explained-for-infrastructure-engineers-4p7)
+- [Event Loop - Entendendo uma das bases do Node](https://dev.to/joaovictor6/event-loop-entendendo-uma-das-bases-do-node-41a)
+- [Stop Picking Dashboard Icons by Keyword](https://dev.to/svgicons/stop-picking-dashboard-icons-by-keyword-ij2)
+- [Using LLM for Dialogue Management](https://dev.to/shashank_ms_6a35baa4be138/using-llm-for-dialogue-management-1lgk)
+- [WIP - Glossário DevOps #1](https://dev.to/joaovictor6/wip-glossario-devops-1-171e)
+- [FIFA Hack Authentication Flaw, Chrome Ad Blocker End, AI Supply Chain Security](https://dev.to/soytuber/fifa-hack-authentication-flaw-chrome-ad-blocker-end-ai-supply-chain-security-4nme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
