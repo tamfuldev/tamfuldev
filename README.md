@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Don&#39;t Call Cosmic an &quot;AI CMS&quot;](https://dev.to/tonyspiro/why-we-dont-call-cosmic-an-ai-cms-gci)
-- [When No Answer Beats a Wrong Answer: Designing Precision-First Systems](https://dev.to/matt_rose_9d0fe88d3533a4f/when-no-answer-beats-a-wrong-answer-designing-precision-first-systems-3hh5)
-- [I run a 28,000-file codebase solo with four different AI agents.](https://dev.to/shivamkamat579/i-run-a-28000-file-codebase-solo-with-four-different-ai-agents-587d)
-- [Stop Using process.env Directly — Here&#39;s Why](https://dev.to/ctrotech/stop-using-processenv-directly-heres-why-47be)
-- [Seeking Advice: Best Practices for SaaS Development 🛠️](https://dev.to/sanchitbarjibhe/seeking-advice-best-practices-for-saas-development-4f17)
+- [How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python](https://dev.to/divyanshusinha136/how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python-1e2j)
+- [How I Saved My Bootcamp Project Budget Using AI Data Extraction &lpar;A...](https://dev.to/loyaldash/how-i-saved-my-bootcamp-project-budget-using-ai-data-extraction-a-c1k)
+- [5 Production Mistakes That Changed How I Build Express APIs](https://dev.to/manolito99/5-production-mistakes-that-changed-how-i-build-express-apis-133e)
+- [Leetcode 150 | Day 4: Majority Element - Naive vs. Optimized](https://dev.to/afuji/leetcode-150-day-4-majority-element-naive-vs-optimized-eo6)
+- [AWS SAA: 10 Core Concepts &lpar;Explained for Infrastructure Engineers&rpar;](https://dev.to/shivam_singh_8a9ada1e8b88/aws-saa-10-core-concepts-explained-for-infrastructure-engineers-4p7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
