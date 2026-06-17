@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Preview Auth0 Changes Safely with Deploy CLI Dry Run](https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn)
-- [How are you handling financial controls for autonomous AI agents?](https://dev.to/billionaire664/how-are-you-handling-financial-controls-for-autonomous-ai-agents-2op2)
-- [x402 hit 119M transactions — here&#39;s the layer that still isn&#39;t built](https://dev.to/t49qnsx7qtkpanks/x402-hit-119m-transactions-heres-the-layer-that-still-isnt-built-d0b)
-- [Open Graph Image Sizes and Dimensions: The Complete 2026 Guide](https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16)
-- [We get feedback too late](https://dev.to/bjornno/we-get-feedback-too-late-3kap)
+- [Smart Resume for File Transfers in Rust — Never Start Over](https://dev.to/hiyoyok/smart-resume-for-file-transfers-in-rust-never-start-over-hp0)
+- [Python interview questions: what each one actually predicts on the job &lpar;2026&rpar;](https://dev.to/fourleaf/python-interview-questions-what-each-one-actually-predicts-on-the-job-2026-27nc)
+- [Cloud Architect&#39;s 2026 Guide to Cheaper, Faster LLM Inference](https://dev.to/eagerspark/cloud-architects-2026-guide-to-cheaper-faster-llm-inference-5enh)
+- [[System Design] Uber RAMEN: How Ride-Hailing Apps Push Real-Time Notifications to Millions of Devices](https://dev.to/vesviet/system-design-uber-ramen-how-ride-hailing-apps-push-real-time-notifications-to-millions-of-2156)
+- [Qtractor Usage Bible - Summary](https://dev.to/suntong/qtractor-bible-summary-4g0p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
