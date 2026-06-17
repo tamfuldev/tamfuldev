@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Resume for File Transfers in Rust — Never Start Over](https://dev.to/hiyoyok/smart-resume-for-file-transfers-in-rust-never-start-over-hp0)
-- [Python interview questions: what each one actually predicts on the job &lpar;2026&rpar;](https://dev.to/fourleaf/python-interview-questions-what-each-one-actually-predicts-on-the-job-2026-27nc)
-- [Cloud Architect&#39;s 2026 Guide to Cheaper, Faster LLM Inference](https://dev.to/eagerspark/cloud-architects-2026-guide-to-cheaper-faster-llm-inference-5enh)
-- [[System Design] Uber RAMEN: How Ride-Hailing Apps Push Real-Time Notifications to Millions of Devices](https://dev.to/vesviet/system-design-uber-ramen-how-ride-hailing-apps-push-real-time-notifications-to-millions-of-2156)
-- [Qtractor Usage Bible - Summary](https://dev.to/suntong/qtractor-bible-summary-4g0p)
+- [We&#39;ve all pressed Ctrl+C a million times. Linux solved this in the 1980s — the rest of us didn&#39;t.](https://dev.to/parth_dixit/weve-all-pressed-ctrlc-a-million-times-linux-solved-this-in-the-1980s-the-rest-of-us-didnt-5bd9)
+- [Introduction to LLMs for Beginners](https://dev.to/shashank_ms_6a35baa4be138/introduction-to-llms-for-beginners-197a)
+- [Building and Deploying Spring Petclinic Microservices on AWS: My Experience as Co-Project Lead and App &amp; Docker Lead](https://dev.to/ebelechukwu_lucyokafor/building-and-deploying-spring-petclinic-microservices-on-aws-my-experience-as-co-project-lead-and-402f)
+- [CBC Bit Flipping Explained: Why Encryption Alone Doesn&#39;t Guarantee Integrity](https://dev.to/arashad_dodhiya_0e4bdba5a/cbc-bit-flipping-explained-why-encryption-alone-doesnt-guarantee-integrity-5aje)
+- [Building Better Product Experiences Through Quiet Improvements](https://dev.to/ogeobubu/building-better-product-experiences-through-quiet-improvements-1dii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
