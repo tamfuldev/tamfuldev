@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: GNEISS – GNN-powered CLI that detects architectural decay in Java repos](https://dev.to/rockybalboan19/show-hn-gneiss-gnn-powered-cli-that-detects-architectural-decay-in-java-repos-117g)
-- [The Free Cron Scheduler Hiding in Every GitHub Repo You Own](https://dev.to/aaronphilip2003/the-free-cron-scheduler-hiding-in-every-github-repo-you-own-2h0c)
-- [Stealer logs in XposedOrNot](https://dev.to/devaonbreaches/stealer-logs-in-xposedornot-4an3)
-- [Flutter File Uploads Made Easy: Working with Multipart APIs](https://dev.to/codexlancers/flutter-file-uploads-made-easy-working-with-multipart-apis-3pgi)
-- [Long Day, Tiny Vampire](https://dev.to/anika_jha_33ae1d9afc69178/long-day-tiny-vampire-4je6)
+- [AMD Quietly Kills Memory Encryption on Consumer Ryzen CPUs](https://dev.to/techmag/amd-quietly-kills-memory-encryption-on-consumer-ryzen-cpus-b4)
+- [My First Week on DEV — Badges, Game Jams, and Way More Than I Expected](https://dev.to/gamya_m/my-first-week-on-dev-badges-game-jams-and-way-more-than-i-expected-3ec2)
+- [I Replaced 5 Social Media APIs With One Key &lpar;and My Code Got Way Simpler&rpar;](https://dev.to/olams/i-replaced-5-social-media-apis-with-one-key-and-my-code-got-way-simpler-10k0)
+- [HLD Fundamentals #4: How Systems Scale: From 0 to 100 Million Users](https://dev.to/jaspreet_singh_86ae1740ac/how-systems-scale-from-0-to-100-million-users-3nm)
+- [Testing GLM-5.2 on OpenCode: I&#39;m impressed!](https://dev.to/danielbergholz/testing-glm-52-on-opencode-im-impressed-1780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
