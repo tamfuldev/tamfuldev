@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Event Loop - Entendendo uma das bases do Node](https://dev.to/joaovictor6/event-loop-entendendo-uma-das-bases-do-node-41a)
-- [Stop Picking Dashboard Icons by Keyword](https://dev.to/svgicons/stop-picking-dashboard-icons-by-keyword-ij2)
-- [Using LLM for Dialogue Management](https://dev.to/shashank_ms_6a35baa4be138/using-llm-for-dialogue-management-1lgk)
-- [WIP - Glossário DevOps #1](https://dev.to/joaovictor6/wip-glossario-devops-1-171e)
-- [FIFA Hack Authentication Flaw, Chrome Ad Blocker End, AI Supply Chain Security](https://dev.to/soytuber/fifa-hack-authentication-flaw-chrome-ad-blocker-end-ai-supply-chain-security-4nme)
+- [I Stopped Asking &quot;what will say&quot;](https://dev.to/sahiravoice/i-stopped-asking-what-will-say-31bk)
+- [Mastering Design Principles: Dependency Inversion in Kotlin](https://dev.to/renzo_fernandoloyolavil/mastering-design-principles-dependency-inversion-in-kotlin-4mp8)
+- [Stop telling your RAG bot not to hallucinate. Make it impossible.](https://dev.to/kaydenletk/stop-telling-your-rag-bot-not-to-hallucinate-make-it-impossible-1a11)
+- [Most Engineers Use AI. Few Engineer With It.](https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd)
+- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
