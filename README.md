@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Asking &quot;what will say&quot;](https://dev.to/sahiravoice/i-stopped-asking-what-will-say-31bk)
-- [Mastering Design Principles: Dependency Inversion in Kotlin](https://dev.to/renzo_fernandoloyolavil/mastering-design-principles-dependency-inversion-in-kotlin-4mp8)
-- [Stop telling your RAG bot not to hallucinate. Make it impossible.](https://dev.to/kaydenletk/stop-telling-your-rag-bot-not-to-hallucinate-make-it-impossible-1a11)
-- [Most Engineers Use AI. Few Engineer With It.](https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd)
-- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
+- [Show HN: GNEISS – GNN-powered CLI that detects architectural decay in Java repos](https://dev.to/rockybalboan19/show-hn-gneiss-gnn-powered-cli-that-detects-architectural-decay-in-java-repos-117g)
+- [The Free Cron Scheduler Hiding in Every GitHub Repo You Own](https://dev.to/aaronphilip2003/the-free-cron-scheduler-hiding-in-every-github-repo-you-own-2h0c)
+- [Stealer logs in XposedOrNot](https://dev.to/devaonbreaches/stealer-logs-in-xposedornot-4an3)
+- [Flutter File Uploads Made Easy: Working with Multipart APIs](https://dev.to/codexlancers/flutter-file-uploads-made-easy-working-with-multipart-apis-3pgi)
+- [Long Day, Tiny Vampire](https://dev.to/anika_jha_33ae1d9afc69178/long-day-tiny-vampire-4je6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
