@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Most Repos Look Fine. Until They Don’t.](https://dev.to/mobasshir_khan_eaf8ec5cf3/most-repos-look-fine-until-they-dont-137n)
-- [Turn Woo catalog into an AI-ready API — now on WordPress.org](https://dev.to/kalicart-bridge/turn-woo-catalog-into-an-ai-ready-api-now-on-wordpressorg-jdo)
-- [A Quick Setup for NestJS 11 + Prisma 7 + PostgreSQL backend in seconds.](https://dev.to/nabinkdl/a-quick-setup-for-nestjs-11-prisma-7-postgresql-backend-in-seconds-3d39)
-- [A rival to my open-source tool shipped. I read all of it — then ported its 4 best ideas the same afternoon.](https://dev.to/achiya-automation/a-rival-to-my-open-source-tool-shipped-i-read-all-of-it-then-ported-its-4-best-ideas-the-same-1nbe)
-- [Deploying Envoy Gateway on AWS EKS: The Right Way](https://dev.to/ajinkya_a3/deploying-envoy-gateway-on-aws-eks-the-right-way-24dc)
+- [A small open-source library for scoped, budgeted, time-bounded API keys](https://dev.to/kat_laszlo/a-small-open-source-library-for-scoped-budgeted-time-bounded-api-keys-1nb1)
+- [What It Took to Actually Govern Claude Code Across Our Engineering Team](https://dev.to/sahajmeet_kaur_/what-it-took-to-actually-govern-claude-code-across-our-engineering-team-4jp6)
+- [Building a real-time drone ground control station in React](https://dev.to/jaya_chapparam/building-a-real-time-drone-ground-control-station-in-react-3nbm)
+- [Por que todo Desenvolvedor deveria respeitar o Excel &lpar;e como usá-lo de forma avançada&rpar;](https://dev.to/daniel_diegosilva_c54b25/por-que-todo-desenvolvedor-deveria-respeitar-o-excel-e-como-usa-lo-de-forma-avancada-3bhc)
+- [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
