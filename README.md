@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a high-school student and I built a free app to stop forgetting everything over the summer](https://dev.to/samot428/im-a-high-school-student-and-i-built-a-free-app-to-stop-forgetting-everything-over-the-summer-249b)
-- [How to Access 50+ Chinese AI Models Through One API](https://dev.to/aiwave/how-to-access-50-chinese-ai-models-through-one-api-2hbn)
-- [I&#39;m a high-school student and I built a free app to stop forgetting everything over the summer](https://dev.to/samot428/im-a-high-school-student-and-i-built-a-free-app-to-stop-forgetting-everything-over-the-summer-3dfk)
-- [Building AI Agents, Breaking Code, and the Quest for &quot;Zero-Slop&quot; Engineering](https://dev.to/acmezone/building-ai-agents-breaking-code-and-the-quest-for-zero-slop-engineering-29gn)
-- [Testing Email Flows in Cypress Without a Mail Server](https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik)
+- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
+- [Create field using JooqFields](https://dev.to/javaer/create-field-using-jooqfields-3em7)
+- [What is AWS Blocks? How it differs from Amplify and App Studio, and what each one is aiming for](https://dev.to/aws-builders/what-is-aws-blocks-how-it-differs-from-amplify-and-app-studio-and-what-each-one-is-aiming-for-2kn0)
+- [I Read Anthropic&#39;s 40-Page AI Pause Report. It&#39;s A](https://dev.to/lamingsrb/i-read-anthropics-40-page-ai-pause-report-its-a-484c)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-70b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
