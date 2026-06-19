@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When adding a feature broke a dozen classes](https://dev.to/lavkeshdwivedi/when-adding-a-feature-broke-a-dozen-classes-fk6)
-- [Last Light: The Demon Lord Awaits at Dawn](https://dev.to/reet_singh_ee97da2986538e/last-light-the-demon-lord-awaits-at-dawn-44ob)
-- [I gave Tailwind typed props. Then it ate React Hook Form.](https://dev.to/kensaadi/i-gave-tailwind-typed-props-then-it-ate-react-hook-form-1dlj)
-- [The Core Ideas Behind Cloud Native Development](https://dev.to/lavkeshdwivedi/the-core-ideas-behind-cloud-native-development-9bp)
-- [NoSQL databases solve specific problems](https://dev.to/lavkeshdwivedi/nosql-databases-solve-specific-problems-1568)
+- [AI Is Exposing Technical Debt We Learned to Ignore](https://dev.to/orashus/ai-is-exposing-technical-debt-we-learned-to-ignore-3nfa)
+- [Prepare for behavioral interviews](https://dev.to/lavkeshdwivedi/prepare-for-behavioral-interviews-3h7b)
+- [Devs say AI killed their joy. The rot started before ChatGPT.](https://dev.to/adioof/devs-say-ai-killed-their-joy-the-rot-started-before-chatgpt-4856)
+- [Self-Evolving AI Agents: The Optimizer Is the Easy Part](https://dev.to/studiomeyer_io/self-evolving-ai-agents-the-optimizer-is-the-easy-part-3i84)
+- [Software Tradeoffs](https://dev.to/lavkeshdwivedi/software-tradeoffs-44e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
