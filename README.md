@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How has my relationship with AI evolved?](https://dev.to/alfchee/how-has-my-relationship-with-ai-evolved-42el)
-- [Vultr Vs Digitalocean: Which Is Better in 2026?](https://dev.to/rociogarciavf/vultr-vs-digitalocean-which-is-better-in-2026-3h31)
-- [BFS: The Jedi’s Shortcut Through the Graph Galaxy](https://dev.to/timevolt/bfs-the-jedis-shortcut-through-the-graph-galaxy-54j5)
-- [How We Translate Entire Books with LLMs Without Losing Context](https://dev.to/jacob_gong/how-we-translate-entire-books-with-llms-without-losing-context-2em5)
-- [Browser Automation for AI Agents: What Actually Works](https://dev.to/dylanworrall/browser-automation-for-ai-agents-what-actually-works-100m)
+- [How to Download TikTok Captions, Hashtags, and Metadata — The Complete Data Export Guide](https://dev.to/bulkdl/how-to-download-tiktok-captions-hashtags-and-metadata-the-complete-data-export-guide-37md)
+- [How I Got Upwork Rising Talent in a Short Time &lpar;My Experience &amp; Approach&rpar;](https://dev.to/topstar_ai/how-i-got-upwork-rising-talent-in-a-short-time-my-experience-approach-29n4)
+- [The Honour System Running Your Phone&#39;s Speaker](https://dev.to/maxi_debug/the-honour-system-running-your-phones-speaker-5b64)
+- [Building a Production-Grade 3-Tier AWS Architecture with Terraform: Design Decisions, Trade-offs, and Lessons Learned](https://dev.to/vatul16/building-a-production-grade-3-tier-aws-architecture-with-terraform-design-decisions-trade-offs-370f)
+- [I built free browser-based tools for devs – no sign-up, no server uploads](https://dev.to/online_toolprovider/i-built-free-browser-based-tools-for-devs-no-sign-up-no-server-uploads-12dj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
