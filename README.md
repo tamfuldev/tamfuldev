@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I stopped reading my own backlog.md &lpar;and what I read instead&rpar;](https://dev.to/michelfaure/why-i-stopped-reading-my-own-backlogmd-and-what-i-read-instead-3gke)
-- [Ship an AI agent without a kill switch and you are the incident](https://dev.to/mjmirza/ship-an-ai-agent-without-a-kill-switch-and-you-are-the-incident-34k4)
-- [How I Got a $340 AWS Bill from a Side Project &lpar;And What I Built to Prevent It&rpar;](https://dev.to/muhammed_aliceylan_db433/how-i-got-a-340-aws-bill-from-a-side-project-and-what-i-built-to-prevent-it-gi3)
-- [Lo que aprendí cuando dejé de pensar solo en código y empecé a pensar en arquitectura](https://dev.to/santiagobrahim/lo-que-aprendi-cuando-deje-de-pensar-solo-en-codigo-y-empece-a-pensar-en-arquitectura-4fnm)
-- [Introducing Cronos: A New Framework for Human-Validated Vibe Coding](https://dev.to/ovidiu/introducing-cronos-a-new-framework-for-human-validated-vibe-coding-16dp)
+- [When adding a feature broke a dozen classes](https://dev.to/lavkeshdwivedi/when-adding-a-feature-broke-a-dozen-classes-fk6)
+- [Last Light: The Demon Lord Awaits at Dawn](https://dev.to/reet_singh_ee97da2986538e/last-light-the-demon-lord-awaits-at-dawn-44ob)
+- [I gave Tailwind typed props. Then it ate React Hook Form.](https://dev.to/kensaadi/i-gave-tailwind-typed-props-then-it-ate-react-hook-form-1dlj)
+- [The Core Ideas Behind Cloud Native Development](https://dev.to/lavkeshdwivedi/the-core-ideas-behind-cloud-native-development-9bp)
+- [NoSQL databases solve specific problems](https://dev.to/lavkeshdwivedi/nosql-databases-solve-specific-problems-1568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
