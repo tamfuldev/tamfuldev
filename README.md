@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a mind map that&#39;s just a Markdown list &lpar;and why that makes AI streaming almost free&rpar;](https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30)
-- [I built a Claude Code skill that finds customers, not competitors, on Reddit &amp; LinkedIn](https://dev.to/newan2001/i-built-a-claude-code-skill-that-finds-customers-not-competitors-on-reddit-linkedin-4h82)
-- [DeepSeek V4 Pro vs GPT-4o: Real Benchmark Comparison &lpar;June 2026&rpar;](https://dev.to/aiwave/deepseek-v4-pro-vs-gpt-4o-real-benchmark-comparison-june-2026-3aof)
-- [DiffusionGemma 26B 挑戰 GH200 效能極限](https://dev.to/jh5_pulse/diffusiongemma-26b-tiao-zhan-gh200-xiao-neng-ji-xian-1b24)
-- [Workflow การพัฒนา Software ด้วย AI อย่างมืออาชีพ](https://dev.to/11_thanyathonr1ack__b2/workflow-kaarphathnaa-software-dwy-ai-yaangmuueaachiiph-25mp)
+- [Your RAG Retrieved the Right Documents but Still Gave the Wrong Answer](https://dev.to/mofuteq/your-rag-retrieved-the-right-documents-but-still-gave-the-wrong-answer-5fdo)
+- [Using a locked-down WordPress as the form backend for my static sites](https://dev.to/mrpsiho/using-a-locked-down-wordpress-as-the-form-backend-for-my-static-sites-4d9c)
+- [Humanoid Robots Hit Factory Lines in 2026](https://dev.to/indra_gustiprasetya_a80a/humanoid-robots-hit-factory-lines-in-2026-32fj)
+- [A Few Months Ago, Agentic Development Felt Overwhelming](https://dev.to/amantekim/a-few-months-ago-agentic-development-felt-overwhelming-13nn)
+- [How to Access 50+ Chinese AI Models Through One API](https://dev.to/aiwave/how-to-access-50-chinese-ai-models-through-one-api-36hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
