@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Download TikTok Captions, Hashtags, and Metadata — The Complete Data Export Guide](https://dev.to/bulkdl/how-to-download-tiktok-captions-hashtags-and-metadata-the-complete-data-export-guide-37md)
-- [How I Got Upwork Rising Talent in a Short Time &lpar;My Experience &amp; Approach&rpar;](https://dev.to/topstar_ai/how-i-got-upwork-rising-talent-in-a-short-time-my-experience-approach-29n4)
-- [The Honour System Running Your Phone&#39;s Speaker](https://dev.to/maxi_debug/the-honour-system-running-your-phones-speaker-5b64)
-- [Building a Production-Grade 3-Tier AWS Architecture with Terraform: Design Decisions, Trade-offs, and Lessons Learned](https://dev.to/vatul16/building-a-production-grade-3-tier-aws-architecture-with-terraform-design-decisions-trade-offs-370f)
-- [I built free browser-based tools for devs – no sign-up, no server uploads](https://dev.to/online_toolprovider/i-built-free-browser-based-tools-for-devs-no-sign-up-no-server-uploads-12dj)
+- [How I built a mind map that&#39;s just a Markdown list &lpar;and why that makes AI streaming almost free&rpar;](https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30)
+- [I built a Claude Code skill that finds customers, not competitors, on Reddit &amp; LinkedIn](https://dev.to/newan2001/i-built-a-claude-code-skill-that-finds-customers-not-competitors-on-reddit-linkedin-4h82)
+- [DeepSeek V4 Pro vs GPT-4o: Real Benchmark Comparison &lpar;June 2026&rpar;](https://dev.to/aiwave/deepseek-v4-pro-vs-gpt-4o-real-benchmark-comparison-june-2026-3aof)
+- [DiffusionGemma 26B 挑戰 GH200 效能極限](https://dev.to/jh5_pulse/diffusiongemma-26b-tiao-zhan-gh200-xiao-neng-ji-xian-1b24)
+- [Workflow การพัฒนา Software ด้วย AI อย่างมืออาชีพ](https://dev.to/11_thanyathonr1ack__b2/workflow-kaarphathnaa-software-dwy-ai-yaangmuueaachiiph-25mp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
