@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Exposing Technical Debt We Learned to Ignore](https://dev.to/orashus/ai-is-exposing-technical-debt-we-learned-to-ignore-3nfa)
-- [Prepare for behavioral interviews](https://dev.to/lavkeshdwivedi/prepare-for-behavioral-interviews-3h7b)
-- [Devs say AI killed their joy. The rot started before ChatGPT.](https://dev.to/adioof/devs-say-ai-killed-their-joy-the-rot-started-before-chatgpt-4856)
-- [Self-Evolving AI Agents: The Optimizer Is the Easy Part](https://dev.to/studiomeyer_io/self-evolving-ai-agents-the-optimizer-is-the-easy-part-3i84)
-- [Software Tradeoffs](https://dev.to/lavkeshdwivedi/software-tradeoffs-44e7)
+- [I&#39;m a high-school student and I built a free app to stop forgetting everything over the summer](https://dev.to/samot428/im-a-high-school-student-and-i-built-a-free-app-to-stop-forgetting-everything-over-the-summer-249b)
+- [How to Access 50+ Chinese AI Models Through One API](https://dev.to/aiwave/how-to-access-50-chinese-ai-models-through-one-api-2hbn)
+- [I&#39;m a high-school student and I built a free app to stop forgetting everything over the summer](https://dev.to/samot428/im-a-high-school-student-and-i-built-a-free-app-to-stop-forgetting-everything-over-the-summer-3dfk)
+- [Building AI Agents, Breaking Code, and the Quest for &quot;Zero-Slop&quot; Engineering](https://dev.to/acmezone/building-ai-agents-breaking-code-and-the-quest-for-zero-slop-engineering-29gn)
+- [Testing Email Flows in Cypress Without a Mail Server](https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
