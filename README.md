@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your RAG Retrieved the Right Documents but Still Gave the Wrong Answer](https://dev.to/mofuteq/your-rag-retrieved-the-right-documents-but-still-gave-the-wrong-answer-5fdo)
-- [Using a locked-down WordPress as the form backend for my static sites](https://dev.to/mrpsiho/using-a-locked-down-wordpress-as-the-form-backend-for-my-static-sites-4d9c)
-- [Humanoid Robots Hit Factory Lines in 2026](https://dev.to/indra_gustiprasetya_a80a/humanoid-robots-hit-factory-lines-in-2026-32fj)
-- [A Few Months Ago, Agentic Development Felt Overwhelming](https://dev.to/amantekim/a-few-months-ago-agentic-development-felt-overwhelming-13nn)
-- [How to Access 50+ Chinese AI Models Through One API](https://dev.to/aiwave/how-to-access-50-chinese-ai-models-through-one-api-36hk)
+- [Why I stopped reading my own backlog.md &lpar;and what I read instead&rpar;](https://dev.to/michelfaure/why-i-stopped-reading-my-own-backlogmd-and-what-i-read-instead-3gke)
+- [Ship an AI agent without a kill switch and you are the incident](https://dev.to/mjmirza/ship-an-ai-agent-without-a-kill-switch-and-you-are-the-incident-34k4)
+- [How I Got a $340 AWS Bill from a Side Project &lpar;And What I Built to Prevent It&rpar;](https://dev.to/muhammed_aliceylan_db433/how-i-got-a-340-aws-bill-from-a-side-project-and-what-i-built-to-prevent-it-gi3)
+- [Lo que aprendí cuando dejé de pensar solo en código y empecé a pensar en arquitectura](https://dev.to/santiagobrahim/lo-que-aprendi-cuando-deje-de-pensar-solo-en-codigo-y-empece-a-pensar-en-arquitectura-4fnm)
+- [Introducing Cronos: A New Framework for Human-Validated Vibe Coding](https://dev.to/ovidiu/introducing-cronos-a-new-framework-for-human-validated-vibe-coding-16dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
