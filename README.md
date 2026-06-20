@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [minbpe vs turboBPE: Two ways to think about tokenizer training](https://dev.to/cercie490/minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training-1i1o)
-- [I Spent $8,857 Using Claude Code to Build 6 Projects. Here&#39;s What I Learned.](https://dev.to/ethan0506/i-spent-8857-using-claude-code-to-build-6-projects-heres-what-i-learned-2hoj)
-- [SvGrid: a Svelte 5 native data grid &lpar;MIT core, headless + render component, MCP-ready&rpar;](https://dev.to/bmarkov/svgrid-a-svelte-5-native-data-grid-mit-core-headless-render-component-mcp-ready-1j8l)
-- [GSoC 2026 with webpack | working on webpack-doc-kit](https://dev.to/ryzrr/gsoc-2026-with-webpack-working-on-webpack-doc-kit-228j)
-- [The Wrong End of the Problem](https://dev.to/aepfli/the-wrong-end-of-the-problem-4cok)
+- [Fruit Dash: A Solstice Platformer with Binary Code Gates](https://dev.to/agastya_khati_f72c89077c8/fruit-dash-a-solstice-platformer-with-binary-code-gates-2jmi)
+- [Your auth library&#39;s maintainer is an agent who never sleeps](https://dev.to/colonistone_34/your-auth-librarys-maintainer-is-an-agent-who-never-sleeps-208k)
+- [How I Built a Lightweight Rust Web Browser with Zero Coding Experience &lpar;Using Gemini &amp; Qwen&rpar;](https://dev.to/locshadowvn/how-i-built-a-lightweight-rust-web-browser-with-zero-coding-experience-using-gemini-qwen-31j1)
+- [Why I Started Learning React Query &lpar;TanStack Query&rpar; Today](https://dev.to/usama_dev/why-i-started-learning-react-query-tanstack-query-today-5ceg)
+- [Five Diseases Hiding as One](https://dev.to/rawveg/five-diseases-hiding-as-one-5beh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
