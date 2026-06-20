@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Investigating a Hybrid LLM-GNN Model to Enhance the Efficiency of ADAPT-QAOA for Quantum Circuit Optimization](https://dev.to/mrzaizai2k/investigating-a-hybrid-llm-gnn-model-to-enhance-the-efficiency-of-adapt-qaoa-for-quantum-circuit-379j)
-- [I Open-Sourced My AI Agent&#39;s Brain. It&#39;s 18 Markdown Files.](https://dev.to/pini_solomon_cd97eed9f213/i-open-sourced-my-ai-agents-brain-its-18-markdown-files-86k)
-- [Unlocking UK Vehicle Data: Inside the Architecture of MOT History Free](https://dev.to/deiv46/unlocking-uk-vehicle-data-inside-the-architecture-of-mot-history-free-27b3)
-- [I built a dead code forensics CLI because &quot;this file is unused&quot; is never enough](https://dev.to/iamvvekverma/i-built-a-dead-code-forensics-cli-because-this-file-is-unused-is-never-enough-4klo)
-- [My Journey as a Full-Stack Developer](https://dev.to/jayesh_aswani_d9481379b88/my-journey-as-a-full-stack-developer-4k12)
+- [La biblioteca di Borges:digitale.](https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f)
+- [Built a portfolio creator website, looking for feedback](https://dev.to/lorisgamer/built-a-portfolio-creator-website-looking-for-feedback-16d0)
+- [React 19.2 Activity Component: Keeping Unmounted Trees Alive for Faster Tab Switching](https://dev.to/jsmanifest/react-192-activity-component-keeping-unmounted-trees-alive-for-faster-tab-switching-4962)
+- [Building Cost-Effective AI Workflows: Open Source + Paid Tools Done Right](https://dev.to/learnairesource/building-cost-effective-ai-workflows-open-source-paid-tools-done-right-4e4j)
+- [Is the upstream fix released yet?](https://dev.to/lukaso/is-the-upstream-fix-released-yet-1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
