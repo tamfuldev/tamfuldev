@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Rust Performance Trap I Hit While Sorting Small Network Datasets](https://dev.to/amirsefati/the-rust-performance-trap-i-hit-while-sorting-small-network-datasets-2gj5)
-- [GB10 實測 DiffusionGemma 26B 挑戰 32K 極限](https://dev.to/jh5_pulse/gb10-shi-ce-diffusiongemma-26b-tiao-zhan-32k-ji-xian-43gj)
-- [I Built 18 Free Developer Tools - Here&#39;s What I Learned](https://dev.to/darshik_italiya_35cda323e/i-built-18-free-developer-tools-heres-what-i-learned-3pem)
-- [Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam](https://dev.to/fanioz/solstice-cipher-routing-light-to-crack-codes-a-puzzle-game-for-the-june-solstice-game-jam-lcc)
-- [Quick-Start-Guide](https://dev.to/tengxgfyrz67s/quick-start-guide-4oh8)
+- [minbpe vs turboBPE: Two ways to think about tokenizer training](https://dev.to/cercie490/minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training-1i1o)
+- [I Spent $8,857 Using Claude Code to Build 6 Projects. Here&#39;s What I Learned.](https://dev.to/ethan0506/i-spent-8857-using-claude-code-to-build-6-projects-heres-what-i-learned-2hoj)
+- [SvGrid: a Svelte 5 native data grid &lpar;MIT core, headless + render component, MCP-ready&rpar;](https://dev.to/bmarkov/svgrid-a-svelte-5-native-data-grid-mit-core-headless-render-component-mcp-ready-1j8l)
+- [GSoC 2026 with webpack | working on webpack-doc-kit](https://dev.to/ryzrr/gsoc-2026-with-webpack-working-on-webpack-doc-kit-228j)
+- [The Wrong End of the Problem](https://dev.to/aepfli/the-wrong-end-of-the-problem-4cok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
