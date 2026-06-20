@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Software Is Built Backwards](https://dev.to/stinklewinks/why-most-software-is-built-backwards-46i)
-- [The Enter key that quietly breaks Japanese input &lpar;and how to test if your app does it&rpar;](https://dev.to/greymothjp/the-enter-key-that-quietly-breaks-japanese-input-and-how-to-test-if-your-app-does-it-25ep)
-- [From Delivery Rider to Building My First AI System — Here&#39;s My Story](https://dev.to/ammorick/from-delivery-rider-to-building-my-first-ai-system-heres-my-story-3d9c)
-- [Anonymous membership proofs on Midnight: allowlists, voter rolls, and gated access](https://dev.to/iamharrie/anonymous-membership-proofs-on-midnight-allowlists-voter-rolls-and-gated-access-49bc)
-- [Title: How I Built ZenPlan: A Premium AI Habit Tracker with Next.js, Vercel OIDC, and Amazon DynamoDB](https://dev.to/divinefavour1234567/title-how-i-built-zenplan-a-premium-ai-habit-tracker-with-nextjs-vercel-oidc-and-amazon-314l)
+- [Pandas and Data Visualization Using Matplotlib and Seaborn](https://dev.to/josengash/pandas-and-data-visualization-using-matplotlib-and-seaborn-1ek7)
+- [I deployed my backend on Render and almost immediately hit a wall.](https://dev.to/thdr/i-deployed-my-backend-on-render-and-almost-immediately-hit-a-wall-2mhb)
+- [Building a Kernel-Integrated AI that Doesn&#39;t Hallucinate](https://dev.to/ionablokchain/building-a-kernel-integrated-ai-that-doesnt-hallucinate-1aik)
+- [proven-python: make your AI agent prove its Python before calling it done](https://dev.to/shan_wijenayaka_ecbe5dc32/proven-python-make-your-ai-agent-prove-its-python-before-calling-it-done-3kj1)
+- [Australian ABN validation for SaaS developers](https://dev.to/bitowl/australian-abn-validation-for-saas-developers-15jp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
