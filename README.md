@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fruit Dash: A Solstice Platformer with Binary Code Gates](https://dev.to/agastya_khati_f72c89077c8/fruit-dash-a-solstice-platformer-with-binary-code-gates-2jmi)
-- [Your auth library&#39;s maintainer is an agent who never sleeps](https://dev.to/colonistone_34/your-auth-librarys-maintainer-is-an-agent-who-never-sleeps-208k)
-- [How I Built a Lightweight Rust Web Browser with Zero Coding Experience &lpar;Using Gemini &amp; Qwen&rpar;](https://dev.to/locshadowvn/how-i-built-a-lightweight-rust-web-browser-with-zero-coding-experience-using-gemini-qwen-31j1)
-- [Why I Started Learning React Query &lpar;TanStack Query&rpar; Today](https://dev.to/usama_dev/why-i-started-learning-react-query-tanstack-query-today-5ceg)
-- [Five Diseases Hiding as One](https://dev.to/rawveg/five-diseases-hiding-as-one-5beh)
+- [Investigating a Hybrid LLM-GNN Model to Enhance the Efficiency of ADAPT-QAOA for Quantum Circuit Optimization](https://dev.to/mrzaizai2k/investigating-a-hybrid-llm-gnn-model-to-enhance-the-efficiency-of-adapt-qaoa-for-quantum-circuit-379j)
+- [I Open-Sourced My AI Agent&#39;s Brain. It&#39;s 18 Markdown Files.](https://dev.to/pini_solomon_cd97eed9f213/i-open-sourced-my-ai-agents-brain-its-18-markdown-files-86k)
+- [Unlocking UK Vehicle Data: Inside the Architecture of MOT History Free](https://dev.to/deiv46/unlocking-uk-vehicle-data-inside-the-architecture-of-mot-history-free-27b3)
+- [I built a dead code forensics CLI because &quot;this file is unused&quot; is never enough](https://dev.to/iamvvekverma/i-built-a-dead-code-forensics-cli-because-this-file-is-unused-is-never-enough-4klo)
+- [My Journey as a Full-Stack Developer](https://dev.to/jayesh_aswani_d9481379b88/my-journey-as-a-full-stack-developer-4k12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
