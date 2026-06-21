@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Closing Chapter 1: From Query to Data](https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb)
-- [1.5.3 Join Nodes: NestLoop, HashJoin, MergeJoin](https://dev.to/joonghyukshin/153-join-nodes-nestloop-hashjoin-mergejoin-2fek)
-- [I Fixed the &quot;AI Commit Messages&quot; Problem in 20 Lines of Python](https://dev.to/enjoy_kumawat/i-fixed-the-ai-commit-messages-problem-in-50-lines-of-python-3a5a)
-- [1.5 Executor: How Results Come Back](https://dev.to/joonghyukshin/15-executor-how-results-come-back-5978)
-- [1.4.10 Planner Hook: When It Fires, How to Use It](https://dev.to/joonghyukshin/1410-planner-hook-when-it-fires-how-to-use-it-1nec)
+- [Real World Tailwind CSS: Controlling the Special Cases &lpar;Part 2/2&rpar;](https://dev.to/cathylai/real-world-tailwind-css-controlling-the-special-cases-part-22-mdd)
+- [Day 56 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-56-of-learning-mern-stack-206k)
+- [Nice custom Svelte animations](https://dev.to/dimonb19a/nice-custom-svelte-animations-4ab1)
+- [Solstice Turing Simulation: An Interactive 3D Imitation Game](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-1gag)
+- [Solstice Turing Simulation: An Interactive 3D Imitation Game Powered by Google Gemini](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-powered-by-google-gemini-4lgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
