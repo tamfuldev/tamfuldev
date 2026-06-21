@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Monaco’s RCI registry: what you actually get from the data](https://dev.to/openregistry/monacos-rci-registry-what-you-actually-get-from-the-data-2k92)
-- [Codex 5.4 vs 5.5 pricing and quality](https://dev.to/tomerbendavid/codex-54-vs-55-pricing-and-quality-3a1n)
-- [Front-Running and MEV: Writing Contracts That Don&#39;t Leak Money to the Mempool](https://dev.to/pavelespitia/front-running-and-mev-writing-contracts-that-dont-leak-money-to-the-mempool-5fe3)
-- [Why Your Claude-Generated Code Works But Feels Wrong &lpar;And What to Do About It&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-generated-code-works-but-feels-wrong-and-what-to-do-about-it-4407)
-- [What Is an Array, Really? I&#39;m Writing a Book to Find Out](https://dev.to/m__mdy__m/what-is-an-array-really-im-writing-a-book-to-find-out-pf1)
+- [Every agent passport layer is grading its own exam](https://dev.to/mspro3210/every-agent-passport-layer-is-grading-its-own-exam-20do)
+- [How to Pass AWS SAA-C03 in 30 Days: The Study Plan I Wish I Had](https://dev.to/glenmiracle18/how-to-pass-aws-saa-c03-in-30-days-the-study-plan-i-wish-i-had-4bb6)
+- [Every Framework Eventually Becomes a Language](https://dev.to/stinklewinks/every-framework-eventually-becomes-a-language-1b4h)
+- [The scrollHeight Lie: How I Finally Got Full-Page Screenshots Right with Playwright](https://dev.to/knallhartdev/the-scrollheight-lie-how-i-finally-got-full-page-screenshots-right-with-playwright-4emn)
+- [Audio Testing for AI Chatbots: Key QA Techniques and Best Practices](https://dev.to/irniaqa/audio-testing-for-ai-chatbots-key-qa-techniques-and-best-practices-14gh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
