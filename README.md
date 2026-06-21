@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Now Recommends Local Businesses. Most Are Invisible.](https://dev.to/studiomeyer_io/ai-now-recommends-local-businesses-most-are-invisible-3cb6)
-- [Your agent takes orders from the web pages it reads](https://dev.to/mjmirza/your-agent-takes-orders-from-the-web-pages-it-reads-43ep)
-- [Build Financial Analysis into Your Hermes AI Agent with the FMP Skill](https://dev.to/robinberaud/build-financial-analysis-into-your-hermes-ai-agent-with-the-fmp-skill-2bj6)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-3fi0)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-590e)
+- [Banger from one of the squad 💪🏻😂](https://dev.to/jon_at_backboardio/banger-from-one-of-the-squad-4a28)
+- [Mounting Your First Application](https://dev.to/tengxgfyrz67s/mounting-your-first-application-kl6)
+- [North Korean Hackers Poisoned 140+ npm Packages in an AI Dev Tooling Attack. Here&#39;s What Would Have Caught It.](https://dev.to/coridev/north-korean-hackers-poisoned-140-npm-packages-in-an-ai-dev-tooling-attack-heres-what-would-have-4c25)
+- [Evolution of NFT](https://dev.to/charles_otugeh/evolution-of-nft-272f)
+- [I built a 5-second CLI to check if your site is ready for the Japanese market](https://dev.to/greymothjp/i-built-a-5-second-cli-to-check-if-your-site-is-ready-for-the-japanese-market-3dlp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
