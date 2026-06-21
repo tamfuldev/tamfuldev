@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Banger from one of the squad 💪🏻😂](https://dev.to/jon_at_backboardio/banger-from-one-of-the-squad-4a28)
-- [Mounting Your First Application](https://dev.to/tengxgfyrz67s/mounting-your-first-application-kl6)
-- [North Korean Hackers Poisoned 140+ npm Packages in an AI Dev Tooling Attack. Here&#39;s What Would Have Caught It.](https://dev.to/coridev/north-korean-hackers-poisoned-140-npm-packages-in-an-ai-dev-tooling-attack-heres-what-would-have-4c25)
-- [Evolution of NFT](https://dev.to/charles_otugeh/evolution-of-nft-272f)
-- [I built a 5-second CLI to check if your site is ready for the Japanese market](https://dev.to/greymothjp/i-built-a-5-second-cli-to-check-if-your-site-is-ready-for-the-japanese-market-3dlp)
+- [🤖 The Forward-Deployed Engineer 💻 Playbook 📘](https://dev.to/truongpx396/the-forward-deployed-engineer-playbook-23d9)
+- [What Is an Agent Loop? How AI Agents Reason, Act, and Iterate](https://dev.to/rish_poddar/what-is-an-agent-loop-how-ai-agents-reason-act-and-iterate-1675)
+- [How AI engines actually decide what to cite &lpar;ChatGPT, Perplexity, Gemini, AI Overviews&rpar;](https://dev.to/nitishyadav/how-ai-engines-actually-decide-what-to-cite-chatgpt-perplexity-gemini-ai-overviews-6bh)
+- [DNS is weird inside k8s on AWS](https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c)
+- [Vector Databases Compared: pgvector, Qdrant, Pinecone, Weaviate](https://dev.to/nazar_boyko/vector-databases-compared-pgvector-qdrant-pinecone-weaviate-57an)
 <!-- BLOG-POST-LIST:END -->
 
 ---
