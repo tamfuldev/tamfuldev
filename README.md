@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 The Forward-Deployed Engineer 💻 Playbook 📘](https://dev.to/truongpx396/the-forward-deployed-engineer-playbook-23d9)
-- [What Is an Agent Loop? How AI Agents Reason, Act, and Iterate](https://dev.to/rish_poddar/what-is-an-agent-loop-how-ai-agents-reason-act-and-iterate-1675)
-- [How AI engines actually decide what to cite &lpar;ChatGPT, Perplexity, Gemini, AI Overviews&rpar;](https://dev.to/nitishyadav/how-ai-engines-actually-decide-what-to-cite-chatgpt-perplexity-gemini-ai-overviews-6bh)
-- [DNS is weird inside k8s on AWS](https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c)
-- [Vector Databases Compared: pgvector, Qdrant, Pinecone, Weaviate](https://dev.to/nazar_boyko/vector-databases-compared-pgvector-qdrant-pinecone-weaviate-57an)
+- [Closing Chapter 1: From Query to Data](https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb)
+- [1.5.3 Join Nodes: NestLoop, HashJoin, MergeJoin](https://dev.to/joonghyukshin/153-join-nodes-nestloop-hashjoin-mergejoin-2fek)
+- [I Fixed the &quot;AI Commit Messages&quot; Problem in 20 Lines of Python](https://dev.to/enjoy_kumawat/i-fixed-the-ai-commit-messages-problem-in-50-lines-of-python-3a5a)
+- [1.5 Executor: How Results Come Back](https://dev.to/joonghyukshin/15-executor-how-results-come-back-5978)
+- [1.4.10 Planner Hook: When It Fires, How to Use It](https://dev.to/joonghyukshin/1410-planner-hook-when-it-fires-how-to-use-it-1nec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
