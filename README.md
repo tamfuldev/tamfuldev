@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Real World Tailwind CSS: Controlling the Special Cases &lpar;Part 2/2&rpar;](https://dev.to/cathylai/real-world-tailwind-css-controlling-the-special-cases-part-22-mdd)
-- [Day 56 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-56-of-learning-mern-stack-206k)
-- [Nice custom Svelte animations](https://dev.to/dimonb19a/nice-custom-svelte-animations-4ab1)
-- [Solstice Turing Simulation: An Interactive 3D Imitation Game](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-1gag)
-- [Solstice Turing Simulation: An Interactive 3D Imitation Game Powered by Google Gemini](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-powered-by-google-gemini-4lgd)
+- [Monaco’s RCI registry: what you actually get from the data](https://dev.to/openregistry/monacos-rci-registry-what-you-actually-get-from-the-data-2k92)
+- [Codex 5.4 vs 5.5 pricing and quality](https://dev.to/tomerbendavid/codex-54-vs-55-pricing-and-quality-3a1n)
+- [Front-Running and MEV: Writing Contracts That Don&#39;t Leak Money to the Mempool](https://dev.to/pavelespitia/front-running-and-mev-writing-contracts-that-dont-leak-money-to-the-mempool-5fe3)
+- [Why Your Claude-Generated Code Works But Feels Wrong &lpar;And What to Do About It&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-generated-code-works-but-feels-wrong-and-what-to-do-about-it-4407)
+- [What Is an Array, Really? I&#39;m Writing a Book to Find Out](https://dev.to/m__mdy__m/what-is-an-array-really-im-writing-a-book-to-find-out-pf1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
