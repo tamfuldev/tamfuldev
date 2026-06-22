@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Switching Between Swift and AI Studio in the Same Week](https://dev.to/gamya_m/what-i-learned-switching-between-swift-and-ai-studio-in-the-same-week-3jn6)
-- [Using Mise as a tool development manager when installing Apache Airflow.](https://dev.to/zawadi_mwikali_f3257dcf58/using-mise-as-a-tool-development-manager-when-installing-apache-airflow-1l18)
-- [AI isn&#39;t a software upgrade. It&#39;s an organizational redesign.](https://dev.to/dimitrisk_cyclopt/ai-isnt-a-software-upgrade-its-an-organizational-redesign-1flc)
-- [CF7 Brevo Integration Adds Contacts But Never Sends the Welcome Email - Here Is Why](https://dev.to/rahul_sharma_15bd129bc69e/cf7-brevo-integration-adds-contacts-but-never-sends-the-welcome-email-here-is-why-1e18)
-- [The end of a Azure Data Platforms era is here, and the future is Databricks- and Fabric-centric architectures](https://dev.to/adammarczak/the-end-of-a-azure-data-platforms-era-is-here-and-the-future-is-databricks-and-fabric-centric-4ge2)
+- [Markdown isn&#39;t just for documentation—it&#39;s the backbone of clean, portable, and AI-friendly content. Learn the essential Markdown best practices every developer should follow, plus the tools that help enforce consistency and save time.](https://dev.to/99tools/markdown-isnt-just-for-documentation-its-the-backbone-of-clean-portable-and-ai-friendly-4khh)
+- [Auto Assign JIRA Bugs &amp; Fix Them Using AI Agents in Minutes!](https://dev.to/pavanbelagatti/auto-assign-jira-bugs-fix-them-using-ai-agents-in-minutes-4mif)
+- [Markdown Best Practices Every Developer Should Know &lpar;And Tools to Enforce Them&rpar;](https://dev.to/99tools/markdown-best-practices-every-developer-should-know-and-tools-to-enforce-them-481c)
+- [Home Server with N100: The Trade-offs of Low Power](https://dev.to/merbayerp/home-server-with-n100-the-trade-offs-of-low-power-18o0)
+- [When AI Says &quot;Done&quot;, Whose &quot;Done&quot; Is It?](https://dev.to/synthaicode_commander/when-ai-says-done-whose-done-is-it-21jf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
