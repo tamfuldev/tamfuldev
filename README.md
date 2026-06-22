@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Does It Actually Cost to Run a Local LLM? &lpar;€ per Million Tokens, Measured&rpar;](https://dev.to/sikamikanikobg/how-much-does-it-actually-cost-to-run-a-local-llm-eu-per-million-tokens-measured-jih)
-- [&quot;ভালো টিম&quot; আর &quot;দুর্দান্ত টিম&quot; এর মধ্যে পার্থক্য কোথায়?](https://dev.to/jamilxt/bhaalo-ttim-aar-durdaant-ttimer-mdhye-paarthky-kothaay-4fi1)
-- [What Prime Day Taught Me About Prompt Engineering](https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek)
-- [I built a local AI memory gate on a CPU, and my 7B model scored worse than my 1.5B model because it was too smart](https://dev.to/roandejager/i-built-a-local-ai-memory-gate-on-a-cpu-and-my-7b-model-scored-worse-than-my-15b-model-because-it-330n)
-- [Coordinating multiple AI coding agents on one repo or multiple in your own ecosystem — without git worktrees](https://dev.to/anulum/coordinating-multiple-ai-coding-agents-on-one-repo-or-multiple-in-your-own-ecosystem-without-git-3fde)
+- [Automated Accessibility Testing: axe-core, Keyboard Navigation, and WCAG in the Browser](https://dev.to/kevinccbsg/automated-accessibility-testing-axe-core-keyboard-navigation-and-wcag-in-the-browser-2eib)
+- [The real cost of &#39;free&#39; AMD](https://dev.to/amdy/the-real-cost-of-free-amd-g9c)
+- [The Svelte 5 bugs your AI code reviewer misses](https://dev.to/isabelle_hue/the-svelte-5-bugs-your-ai-code-reviewer-misses-4i6b)
+- [Real-Time vs Batch: Why Live Sports Highlights Need a Different Architecture](https://dev.to/zentagai/real-time-vs-batch-why-live-sports-highlights-need-a-different-architecture-2m24)
+- [Your locale files are drifting behind English and nobody reviews it](https://dev.to/isabelle_hue/your-locale-files-are-drifting-behind-english-and-nobody-reviews-it-1b5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
