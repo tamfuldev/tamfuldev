@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Markdown isn&#39;t just for documentation—it&#39;s the backbone of clean, portable, and AI-friendly content. Learn the essential Markdown best practices every developer should follow, plus the tools that help enforce consistency and save time.](https://dev.to/99tools/markdown-isnt-just-for-documentation-its-the-backbone-of-clean-portable-and-ai-friendly-4khh)
-- [Auto Assign JIRA Bugs &amp; Fix Them Using AI Agents in Minutes!](https://dev.to/pavanbelagatti/auto-assign-jira-bugs-fix-them-using-ai-agents-in-minutes-4mif)
-- [Markdown Best Practices Every Developer Should Know &lpar;And Tools to Enforce Them&rpar;](https://dev.to/99tools/markdown-best-practices-every-developer-should-know-and-tools-to-enforce-them-481c)
-- [Home Server with N100: The Trade-offs of Low Power](https://dev.to/merbayerp/home-server-with-n100-the-trade-offs-of-low-power-18o0)
-- [When AI Says &quot;Done&quot;, Whose &quot;Done&quot; Is It?](https://dev.to/synthaicode_commander/when-ai-says-done-whose-done-is-it-21jf)
+- [How Much Does It Actually Cost to Run a Local LLM? &lpar;€ per Million Tokens, Measured&rpar;](https://dev.to/sikamikanikobg/how-much-does-it-actually-cost-to-run-a-local-llm-eu-per-million-tokens-measured-jih)
+- [&quot;ভালো টিম&quot; আর &quot;দুর্দান্ত টিম&quot; এর মধ্যে পার্থক্য কোথায়?](https://dev.to/jamilxt/bhaalo-ttim-aar-durdaant-ttimer-mdhye-paarthky-kothaay-4fi1)
+- [What Prime Day Taught Me About Prompt Engineering](https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek)
+- [I built a local AI memory gate on a CPU, and my 7B model scored worse than my 1.5B model because it was too smart](https://dev.to/roandejager/i-built-a-local-ai-memory-gate-on-a-cpu-and-my-7b-model-scored-worse-than-my-15b-model-because-it-330n)
+- [Coordinating multiple AI coding agents on one repo or multiple in your own ecosystem — without git worktrees](https://dev.to/anulum/coordinating-multiple-ai-coding-agents-on-one-repo-or-multiple-in-your-own-ecosystem-without-git-3fde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
