@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Most AI Agents Aren&#39;t in Production. Here&#39;s What Works.](https://dev.to/studiomeyer_io/most-ai-agents-arent-in-production-heres-what-works-4ni9)
-- [Migrating from NextAuth to Better Auth in Next.js &lpar;and What the Boring Parts Actually Are&rpar;](https://dev.to/authlayerdev/migrating-from-nextauth-to-better-auth-in-nextjs-and-what-the-boring-parts-actually-are-4lf3)
-- [I built a production ready NEXT.JS starter so you dont have to!](https://dev.to/salmanshahriar/i-built-a-production-ready-nextjs-starter-so-you-dont-have-to-2khp)
-- [Load Balancing: The Matrix](https://dev.to/timevolt/load-balancing-the-matrix-1ih8)
-- [Why I Migrated From GPT-4o to DeepSeek — A Backend Engineer&#39;s Notes](https://dev.to/swift-logic-io218/why-i-migrated-from-gpt-4o-to-deepseek-a-backend-engineers-notes-18md)
+- [Why Module Federation in React Native](https://dev.to/warrendeleon/why-module-federation-in-react-native-k1l)
+- [CHE MCP — Building Argentina&#39;s First National MCP Ecosystem: 5-Stage Classifier, WMA Online Learning, 748 Datasets](https://dev.to/albanoschz/asdas-3107)
+- [Migration Playbook: Cron Script Actor. Six Steps, No Rewrites.](https://dev.to/sian-agency/migration-playbook-cron-script-actor-six-steps-no-rewrites-38o6)
+- [How you zip larger files in ruby](https://dev.to/luizfilipecosta/how-you-zip-larger-files-in-ruby-133n)
+- [Manticore Search 27.1.5: Authentication, sharded tables, conversational search and faster vector search](https://dev.to/sanikolaev/manticore-search-2715-authentication-sharded-tables-conversational-search-and-faster-vector-204g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
