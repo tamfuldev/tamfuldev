@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Module Federation in React Native](https://dev.to/warrendeleon/why-module-federation-in-react-native-k1l)
-- [CHE MCP — Building Argentina&#39;s First National MCP Ecosystem: 5-Stage Classifier, WMA Online Learning, 748 Datasets](https://dev.to/albanoschz/asdas-3107)
-- [Migration Playbook: Cron Script Actor. Six Steps, No Rewrites.](https://dev.to/sian-agency/migration-playbook-cron-script-actor-six-steps-no-rewrites-38o6)
-- [How you zip larger files in ruby](https://dev.to/luizfilipecosta/how-you-zip-larger-files-in-ruby-133n)
-- [Manticore Search 27.1.5: Authentication, sharded tables, conversational search and faster vector search](https://dev.to/sanikolaev/manticore-search-2715-authentication-sharded-tables-conversational-search-and-faster-vector-204g)
+- [What I Learned Switching Between Swift and AI Studio in the Same Week](https://dev.to/gamya_m/what-i-learned-switching-between-swift-and-ai-studio-in-the-same-week-3jn6)
+- [Using Mise as a tool development manager when installing Apache Airflow.](https://dev.to/zawadi_mwikali_f3257dcf58/using-mise-as-a-tool-development-manager-when-installing-apache-airflow-1l18)
+- [AI isn&#39;t a software upgrade. It&#39;s an organizational redesign.](https://dev.to/dimitrisk_cyclopt/ai-isnt-a-software-upgrade-its-an-organizational-redesign-1flc)
+- [CF7 Brevo Integration Adds Contacts But Never Sends the Welcome Email - Here Is Why](https://dev.to/rahul_sharma_15bd129bc69e/cf7-brevo-integration-adds-contacts-but-never-sends-the-welcome-email-here-is-why-1e18)
+- [The end of a Azure Data Platforms era is here, and the future is Databricks- and Fabric-centric architectures](https://dev.to/adammarczak/the-end-of-a-azure-data-platforms-era-is-here-and-the-future-is-databricks-and-fabric-centric-4ge2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
