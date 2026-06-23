@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Python Calculator](https://dev.to/mu54mm4d/simple-python-calculator-58pe)
-- [Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh)
-- [Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04](https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn)
-- [Deploying Qdrant Open-Source Vector Database for AI Applications on Ubuntu 24.04](https://dev.to/vultr/deploying-qdrant-open-source-vector-database-for-ai-applications-on-ubuntu-2404-5235)
-- [Deploying Paperless-ngx Open-Source Document Management System on Ubuntu 24.04](https://dev.to/vultr/deploying-paperless-ngx-open-source-document-management-system-on-ubuntu-2404-1og5)
+- [The First Integrated Circuit Was Built in 1958](https://dev.to/fluidwire/the-first-integrated-circuit-was-built-in-1958-5cfl)
+- [The Polling API Is the Most Underrated RFC PHP Has Shipped in Years](https://dev.to/juststevemcd/the-polling-api-is-the-most-underrated-rfc-php-has-shipped-in-years-2d32)
+- [Tarotas by Inithouse: What We Learned Launching a Tarot App in Five Languages Across Europe](https://dev.to/jakub_inithouse/tarotas-by-inithouse-what-we-learned-launching-a-tarot-app-in-five-languages-across-europe-4pkc)
+- [Semantic HTML and Accessibility](https://dev.to/priestrivers/semantic-html-and-accessibility-fbl)
+- [How I Built a Production WhatsApp AI Assistant for Mexican SMBs with Claude and n8n](https://dev.to/proxxamx/how-i-built-a-production-whatsapp-ai-assistant-for-mexican-smbs-with-claude-and-n8n-ef1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
