@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Team Already Knows](https://dev.to/jonoherrington/the-team-already-knows-1cba)
-- [How to Prove Your AI Did What It Said: A Developer&#39;s Guide to Verifiable AI Outputs](https://dev.to/adeolaokunola/how-to-prove-your-ai-did-what-it-said-a-developers-guide-to-verifiable-ai-outputs-3ik3)
-- [When a Constructor Became a Security Boundary](https://dev.to/rabeh_arch/when-a-constructor-became-a-security-boundary-1caj)
-- [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here&#39;s what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na)
-- [The ADHD app launches in 22 hours. Here&#39;s what the AI marketing agent built overnight.](https://dev.to/nyx_software/the-adhd-app-launches-in-22-hours-heres-what-the-ai-marketing-agent-built-overnight-1j2k)
+- [Your .env.example Is Lying to You, Here&#39;s How to Fix It](https://dev.to/ctrotech/your-envexample-is-lying-to-you-heres-how-to-fix-it-4n0p)
+- [The Knowledge I Kept to Myself Helped No One](https://dev.to/lflucasferreira/the-knowledge-i-kept-to-myself-helped-no-one-21jk)
+- [We security-graded 117,854 AI agent skills. Here&#39;s what we found.](https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh)
+- [262k tokens + agent deployment platforms level up](https://dev.to/devsignal/262k-tokens-agent-deployment-platforms-level-up-4hen)
+- [A Tiered Playwright E2E Strategy: From PR Smoke to Production Validation](https://dev.to/demi_jiang_3bfb65a7d28774/a-tiered-playwright-e2e-strategy-from-pr-smoke-to-production-validation-4o01)
 <!-- BLOG-POST-LIST:END -->
 
 ---
