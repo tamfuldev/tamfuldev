@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Made Our Attendance API 75% Faster By Fixing One Stupid Mistake](https://dev.to/imran_tech/i-made-our-attendance-api-75-faster-by-fixing-one-stupid-mistake-3e7i)
-- [Understanding Apache Airflow DAGs: Structure, Communication, and Deployment](https://dev.to/sudoruss/understanding-apache-airflow-dags-structure-communication-and-deployment-1cnj)
-- [[Boost]](https://dev.to/ndrone/-3c17)
-- [Why Your AI Agents Keep Stepping on Each Others Toes](https://dev.to/elenarevicheva/why-your-ai-agents-keep-stepping-on-each-others-toes-4g7d)
-- [How We Built a Multi-Cloud Terraform Orchestrator: The TerraX Architecture](https://dev.to/bader_eddineelouerghi_5/how-we-built-a-multi-cloud-terraform-orchestrator-the-terrax-architecture-5g00)
+- [AI coding made me fall back in love with PHP](https://dev.to/dev_t_293d8acab4747d/ai-coding-made-me-fall-back-in-love-with-php-2d4k)
+- [Cicada Crowdsolving as Externalized Insight: Distributed Puzzles and the Neuroscience of the Aha](https://dev.to/vibeagentmaking/cicada-crowdsolving-as-externalized-insight-distributed-puzzles-and-the-neuroscience-of-the-aha-3aam)
+- [What Happens When Your AI Agent Gets Stuck in Production?](https://dev.to/milancharan/what-happens-when-your-ai-agent-gets-stuck-in-production-3327)
+- [Lineage, not logs: why autonomous agents need cryptographic provenance](https://dev.to/steveemmerich/lineage-not-logs-why-autonomous-agents-need-cryptographic-provenance-2g31)
+- [Optimizing Image Upload Performance for Large Files: Lessons From Building an AI Image Platform](https://dev.to/makemyvisuals/optimizing-image-upload-performance-for-large-files-lessons-from-building-an-ai-image-platform-2a76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
