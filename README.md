@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI coding made me fall back in love with PHP](https://dev.to/dev_t_293d8acab4747d/ai-coding-made-me-fall-back-in-love-with-php-2d4k)
-- [Cicada Crowdsolving as Externalized Insight: Distributed Puzzles and the Neuroscience of the Aha](https://dev.to/vibeagentmaking/cicada-crowdsolving-as-externalized-insight-distributed-puzzles-and-the-neuroscience-of-the-aha-3aam)
-- [What Happens When Your AI Agent Gets Stuck in Production?](https://dev.to/milancharan/what-happens-when-your-ai-agent-gets-stuck-in-production-3327)
-- [Lineage, not logs: why autonomous agents need cryptographic provenance](https://dev.to/steveemmerich/lineage-not-logs-why-autonomous-agents-need-cryptographic-provenance-2g31)
-- [Optimizing Image Upload Performance for Large Files: Lessons From Building an AI Image Platform](https://dev.to/makemyvisuals/optimizing-image-upload-performance-for-large-files-lessons-from-building-an-ai-image-platform-2a76)
+- [Simple Python Calculator](https://dev.to/mu54mm4d/simple-python-calculator-58pe)
+- [Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh)
+- [Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04](https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn)
+- [Deploying Qdrant Open-Source Vector Database for AI Applications on Ubuntu 24.04](https://dev.to/vultr/deploying-qdrant-open-source-vector-database-for-ai-applications-on-ubuntu-2404-5235)
+- [Deploying Paperless-ngx Open-Source Document Management System on Ubuntu 24.04](https://dev.to/vultr/deploying-paperless-ngx-open-source-document-management-system-on-ubuntu-2404-1og5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
