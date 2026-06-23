@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The First Integrated Circuit Was Built in 1958](https://dev.to/fluidwire/the-first-integrated-circuit-was-built-in-1958-5cfl)
-- [The Polling API Is the Most Underrated RFC PHP Has Shipped in Years](https://dev.to/juststevemcd/the-polling-api-is-the-most-underrated-rfc-php-has-shipped-in-years-2d32)
-- [Tarotas by Inithouse: What We Learned Launching a Tarot App in Five Languages Across Europe](https://dev.to/jakub_inithouse/tarotas-by-inithouse-what-we-learned-launching-a-tarot-app-in-five-languages-across-europe-4pkc)
-- [Semantic HTML and Accessibility](https://dev.to/priestrivers/semantic-html-and-accessibility-fbl)
-- [How I Built a Production WhatsApp AI Assistant for Mexican SMBs with Claude and n8n](https://dev.to/proxxamx/how-i-built-a-production-whatsapp-ai-assistant-for-mexican-smbs-with-claude-and-n8n-ef1)
+- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
+- [How LLM Tokens Work &lpar;And Why They Explain Your AI Bill&rpar;](https://dev.to/thestackunderflow_3b3b3b6/how-llm-tokens-work-and-why-they-explain-your-ai-bill-46b)
+- [GCodex — A Free G-Code Viewer &amp; Machine Simulator for 3D Printing and Bioprinting](https://dev.to/hafizmuhammadfawadshakil/gcodex-a-free-g-code-viewer-machine-simulator-for-3d-printing-and-bioprinting-5d96)
+- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3442)
+- [Personality Quiz SEO: How We Index Result Pages for Origin Of You at Inithouse](https://dev.to/jakub_inithouse/personality-quiz-seo-how-we-index-result-pages-for-origin-of-you-at-inithouse-1925)
 <!-- BLOG-POST-LIST:END -->
 
 ---
