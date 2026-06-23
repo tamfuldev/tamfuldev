@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your .env.example Is Lying to You, Here&#39;s How to Fix It](https://dev.to/ctrotech/your-envexample-is-lying-to-you-heres-how-to-fix-it-4n0p)
-- [The Knowledge I Kept to Myself Helped No One](https://dev.to/lflucasferreira/the-knowledge-i-kept-to-myself-helped-no-one-21jk)
-- [We security-graded 117,854 AI agent skills. Here&#39;s what we found.](https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh)
-- [262k tokens + agent deployment platforms level up](https://dev.to/devsignal/262k-tokens-agent-deployment-platforms-level-up-4hen)
-- [A Tiered Playwright E2E Strategy: From PR Smoke to Production Validation](https://dev.to/demi_jiang_3bfb65a7d28774/a-tiered-playwright-e2e-strategy-from-pr-smoke-to-production-validation-4o01)
+- [How to check whether AI recommends your site — the honest AEO audit I run for clients](https://dev.to/alex-isa/how-to-check-whether-ai-recommends-your-site-the-honest-aeo-audit-i-run-for-clients-1ok5)
+- [We log into our own admin console with our own SAML. Here&#39;s what it caught.](https://dev.to/authagonal/we-log-into-our-own-admin-console-with-our-own-saml-heres-what-it-caught-239i)
+- [Vector Databases: Search by Meaning, at Scale](https://dev.to/dev48v/vector-databases-search-by-meaning-at-scale-2mfn)
+- [The Circular Progress Ring Is Just One SVG Circle + Two CSS Props](https://dev.to/dev48v/the-circular-progress-ring-is-just-one-svg-circle-two-css-props-4dd2)
+- [I Built Simon &lpar;the Memory Game&rpar; in Vanilla JS + Web Audio](https://dev.to/dev48v/i-built-simon-the-memory-game-in-vanilla-js-web-audio-2p0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
