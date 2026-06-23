@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Left Postman — The Real Cost of a Cloud-First API Client](https://dev.to/flutwiz/why-i-left-postman-the-real-cost-of-a-cloud-first-api-client-3gfd)
-- [Cloud TTS Chirp3-HD with Caching: Fixing Voice Readout for Accessibility](https://dev.to/junhee916/cloud-tts-chirp3-hd-with-caching-fixing-voice-readout-for-accessibility-3paf)
-- [Como Números de Telefone Secundários Realmente Melhoram Sua Privacidade Digital](https://dev.to/kairox_940d8228041f8f941b/como-numeros-de-telefone-secundarios-realmente-melhoram-sua-privacidade-digital-eb)
-- [OpenMontage Review: Open-Source Agentic Video Production](https://dev.to/andrew-ooo/openmontage-review-open-source-agentic-video-production-296l)
-- [color-zone — A React Color Picker with Gradient Support, EyeDropper, and a Headless Hook](https://dev.to/devnax/color-zone-a-react-color-picker-with-gradient-support-eyedropper-and-a-headless-hook-ohl)
+- [I Made Our Attendance API 75% Faster By Fixing One Stupid Mistake](https://dev.to/imran_tech/i-made-our-attendance-api-75-faster-by-fixing-one-stupid-mistake-3e7i)
+- [Understanding Apache Airflow DAGs: Structure, Communication, and Deployment](https://dev.to/sudoruss/understanding-apache-airflow-dags-structure-communication-and-deployment-1cnj)
+- [[Boost]](https://dev.to/ndrone/-3c17)
+- [Why Your AI Agents Keep Stepping on Each Others Toes](https://dev.to/elenarevicheva/why-your-ai-agents-keep-stepping-on-each-others-toes-4g7d)
+- [How We Built a Multi-Cloud Terraform Orchestrator: The TerraX Architecture](https://dev.to/bader_eddineelouerghi_5/how-we-built-a-multi-cloud-terraform-orchestrator-the-terrax-architecture-5g00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
