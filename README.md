@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
-- [How LLM Tokens Work &lpar;And Why They Explain Your AI Bill&rpar;](https://dev.to/thestackunderflow_3b3b3b6/how-llm-tokens-work-and-why-they-explain-your-ai-bill-46b)
-- [GCodex — A Free G-Code Viewer &amp; Machine Simulator for 3D Printing and Bioprinting](https://dev.to/hafizmuhammadfawadshakil/gcodex-a-free-g-code-viewer-machine-simulator-for-3d-printing-and-bioprinting-5d96)
-- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3442)
-- [Personality Quiz SEO: How We Index Result Pages for Origin Of You at Inithouse](https://dev.to/jakub_inithouse/personality-quiz-seo-how-we-index-result-pages-for-origin-of-you-at-inithouse-1925)
+- [I trusted my CLAUDE.md. WordPress.org rejected the exact thing it was supposed to prevent.](https://dev.to/rapls/i-trusted-my-claudemd-wordpressorg-rejected-the-exact-thing-it-was-supposed-to-prevent-o1g)
+- [Evaluating LLM Output Quality In Production](https://dev.to/nazar_boyko/evaluating-llm-output-quality-in-production-39an)
+- [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://dev.to/rosgluk/mermaid-diagrams-quickstart-and-cheatsheet-for-developers-54p9)
+- [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://dev.to/rosgluk/implementing-cqrs-in-go-a-practical-guide-to-scalable-architecture-3iik)
+- [Want AI to work in parallel? First give each one its own workspace](https://dev.to/kanfu-panda/want-ai-to-work-in-parallel-first-give-each-one-its-own-workspace-40ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
