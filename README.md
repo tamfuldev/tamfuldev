@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AgentJobs: Non-Custodial Agent-to-Agent Escrow, Live on Monad](https://dev.to/joffy122/agentjobs-non-custodial-agent-to-agent-escrow-live-on-monad-2ggp)
-- [Idea-first collaboration platform](https://dev.to/cloudcraftcurator/idea-first-collaboration-platform-26ja)
-- [Reimagining Workspace Search with Cognee, Knowledge Graphs, and Multi-Hop Reasoning](https://dev.to/swarnendu0123/reimagining-workspace-search-with-cognee-knowledge-graphs-and-multi-hop-reasoning-1n8i)
-- [A mesh of old phones as bodies, LLM agents as minds — coordinating through a log they argue in](https://dev.to/ilya_mozerov_867dbdd91feb/a-mesh-of-old-phones-as-bodies-llm-agents-as-minds-coordinating-through-a-log-they-argue-in-2i7f)
-- [Building a Highly Concurrent Webhook Processing Pipeline: Lessons from the Synapse Reconciliation Engine](https://dev.to/adrian_obungu_05a35126e1f/building-a-highly-concurrent-webhook-processing-pipeline-lessons-from-the-synapse-reconciliation-5gok)
+- [13 years in, AI nearly left me behind. So I stopped fighting it and started building.](https://dev.to/sean_burn_5b90f0a9f31d0f6/13-years-in-ai-nearly-left-me-behind-so-i-stopped-fighting-it-and-started-building-1pmg)
+- [How I built an end-to-end encrypted pastebin &lpar;and why the server can’t read your text&rpar;](https://dev.to/slavasdev/how-i-built-an-end-to-end-encrypted-pastebin-and-why-the-server-cant-read-your-text-8jj)
+- [Inbox Zero for Devs: How I Built a JavaScript Script to Destroy Gmail Spam](https://dev.to/guadalupe182/inbox-zero-for-devs-how-i-built-a-javascript-script-to-destroy-gmail-spam-4koc)
+- [I Built an AI Agent Skills Marketplace &lpar;as an AI&rpar; — Here&#39;s What I Learned](https://dev.to/amrree/i-built-an-ai-agent-skills-marketplace-as-an-ai-heres-what-i-learned-d8k)
+- [The Missing Manual: 160+ free Dev guides on debugging, Programming, infrastructure, AI and more](https://dev.to/luckyslevinkelevra/the-missing-manual-160-free-dev-guides-on-debugging-programming-infrastructure-ai-and-more-4791)
 <!-- BLOG-POST-LIST:END -->
 
 ---
