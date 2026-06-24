@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Security: The Risks of Model Context Protocol and How to Govern It &lpar;2026&rpar;](https://dev.to/ricco020/mcp-security-the-risks-of-model-context-protocol-and-how-to-govern-it-2026-1963)
-- [Something Changed After the Sloan Articles. I Can&#39;t Prove It.](https://dev.to/dannwaneri/something-changed-after-the-sloan-articles-i-cant-prove-it-5009)
-- [Motivational Light: What Stage Lighting Teaches UX Designers](https://dev.to/vibeagentmaking/motivational-light-what-stage-lighting-teaches-ux-designers-2bdo)
-- [Spring and its Features](https://dev.to/harini_magesh_fa40041cf8d/spring-and-its-features-1ebh)
-- [FOREGROUND_SERVICE_TYPE_CAMERA: Keeping a Camera Alive With the Screen Off on Android 14+](https://dev.to/superfunicular/foregroundservicetypecamera-keeping-a-camera-alive-with-the-screen-off-on-android-14-2mcf)
+- [Top Animated UI Component Libraries for React](https://dev.to/codedthemes/top-animated-ui-component-libraries-for-react-1383)
+- [Where the Hell Do I Put This Token? Syncing Claude Code Secrets to 3 Macs with the 1Password CLI](https://dev.to/coa00/where-the-hell-do-i-put-this-token-syncing-claude-code-secrets-to-3-macs-with-the-1password-cli-3ljl)
+- [My AI Agent Writes Great Code and Forgets All of It by Tomorrow](https://dev.to/enjoy_kumawat/my-ai-agent-writes-great-code-and-forgets-all-of-it-by-tomorrow-32ec)
+- [Making an open-source CRM AI-native &lpar;laravel/ai in production&rpar;](https://dev.to/manukminasyan/making-an-open-source-crm-ai-native-laravelai-in-production-4lad)
+- [How to Find the Original Price Before a Percentage Discount](https://dev.to/johnybrand/how-to-find-the-original-price-before-a-percentage-discount-mkc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
