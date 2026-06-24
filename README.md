@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LunarSite: An end-to-end ML pipeline for lunar south pole landing site selection](https://dev.to/alan_scottencinas/lunarsite-an-end-to-end-ml-pipeline-for-lunar-south-pole-landing-site-selection-2lda)
-- [Your JSON Is Valid... Until It&#39;s Not: Common Parse Errors and How to Fix Them](https://dev.to/zhihu_wu_dea1d82af01a04d7/your-json-is-valid-until-its-not-common-parse-errors-and-how-to-fix-them-3epg)
-- [AI agents need tiered approval escalation, not one big confirm button](https://dev.to/armorer_labs/ai-agents-need-tiered-approval-escalation-not-one-big-confirm-button-2id0)
-- [Inteligência Artificial no Dia a Dia: 10 Casos de Uso Práticos e Reais [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/inteligencia-artificial-no-dia-a-dia-10-casos-de-uso-praticos-e-reais-pt-br-46ji)
-- [Real photos in ChatGPT, 30-second AI video, and AI inside A24 — 3 stories that blur &quot;real vs AI&quot; media](https://dev.to/danio_dev/real-photos-in-chatgpt-30-second-ai-video-and-ai-inside-a24-3-stories-that-blur-real-vs-ai-1p2m)
+- [How I Built a Carbon Footprint Tracker with Django + NVIDIA NIM](https://dev.to/divyansh0208/how-i-built-a-carbon-footprint-tracker-with-django-nvidia-nim-4jp3)
+- [Protective Computing: Software Should Fail Safely Under Stress](https://dev.to/crisiscoresystems/protective-computing-software-should-fail-safely-under-stress-4egb)
+- [Why Prompt Injection Won&#39;t Be &quot;Fixed&quot;](https://dev.to/arthurpro/why-prompt-injection-wont-be-fixed-1n0h)
+- [Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.](https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh)
+- [Why RAG Isn&#39;t Enough: Building RationaleVault for Cognitive Continuity](https://dev.to/satyaanudeep/why-rag-isnt-enough-building-rationalevault-for-cognitive-continuity-57e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
