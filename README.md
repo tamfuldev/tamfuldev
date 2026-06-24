@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CDK Update - April/May 2026](https://dev.to/pahud/cdk-update-aprilmay-2026-1k8h)
-- [Why API Breaking Changes Still Reach Production Even With CI/CD](https://dev.to/deepaksatyam/why-api-breaking-changes-still-reach-production-even-with-cicd-4hmo)
-- [Omnia Ipsum: Unified placeholder content for Symfony](https://dev.to/serotoninja/omnia-ipsum-unified-placeholder-content-for-symfony-4oid)
-- [Font Manager: Multi-format Font export for Symfony](https://dev.to/serotoninja/font-manager-multi-format-font-export-for-symfony-41le)
-- [I built a tool that turns any GitHub repo URL into a shareable social card &lpar;free, no login&rpar;](https://dev.to/jarvis38dev/i-built-a-tool-that-turns-any-github-repo-url-into-a-shareable-social-card-free-no-login-49a7)
+- [AgentJobs: Non-Custodial Agent-to-Agent Escrow, Live on Monad](https://dev.to/joffy122/agentjobs-non-custodial-agent-to-agent-escrow-live-on-monad-2ggp)
+- [Idea-first collaboration platform](https://dev.to/cloudcraftcurator/idea-first-collaboration-platform-26ja)
+- [Reimagining Workspace Search with Cognee, Knowledge Graphs, and Multi-Hop Reasoning](https://dev.to/swarnendu0123/reimagining-workspace-search-with-cognee-knowledge-graphs-and-multi-hop-reasoning-1n8i)
+- [A mesh of old phones as bodies, LLM agents as minds — coordinating through a log they argue in](https://dev.to/ilya_mozerov_867dbdd91feb/a-mesh-of-old-phones-as-bodies-llm-agents-as-minds-coordinating-through-a-log-they-argue-in-2i7f)
+- [Building a Highly Concurrent Webhook Processing Pipeline: Lessons from the Synapse Reconciliation Engine](https://dev.to/adrian_obungu_05a35126e1f/building-a-highly-concurrent-webhook-processing-pipeline-lessons-from-the-synapse-reconciliation-5gok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
