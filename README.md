@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GEO: Wie du dafür sorgst, dass ChatGPT &amp; Co. deine Seite zitieren](https://dev.to/slawanextlevels/geo-wie-du-dafur-sorgst-dass-chatgpt-co-deine-seite-zitieren-417i)
-- [How to Automate Your Business Workflows Without Hiring a Full Dev Team](https://dev.to/ajay_mudettula/how-to-automate-your-business-workflows-without-hiring-a-full-dev-team-544h)
-- [How Solana Processes Transactions — And How to Make Them Faster](https://dev.to/froglabs/how-solana-processes-transactions-and-how-to-make-them-faster-4cp5)
-- [Notes on adversarial paraphrasing: a paper review](https://dev.to/deitch83919/notes-on-adversarial-paraphrasing-a-paper-review-214o)
-- [Shopware vs Shopify: a developer&#39;s case for the open platform](https://dev.to/slawanextlevels/shopware-vs-shopify-a-developers-case-for-the-open-platform-10kd)
+- [MCP Security: The Risks of Model Context Protocol and How to Govern It &lpar;2026&rpar;](https://dev.to/ricco020/mcp-security-the-risks-of-model-context-protocol-and-how-to-govern-it-2026-1963)
+- [Something Changed After the Sloan Articles. I Can&#39;t Prove It.](https://dev.to/dannwaneri/something-changed-after-the-sloan-articles-i-cant-prove-it-5009)
+- [Motivational Light: What Stage Lighting Teaches UX Designers](https://dev.to/vibeagentmaking/motivational-light-what-stage-lighting-teaches-ux-designers-2bdo)
+- [Spring and its Features](https://dev.to/harini_magesh_fa40041cf8d/spring-and-its-features-1ebh)
+- [FOREGROUND_SERVICE_TYPE_CAMERA: Keeping a Camera Alive With the Screen Off on Android 14+](https://dev.to/superfunicular/foregroundservicetypecamera-keeping-a-camera-alive-with-the-screen-off-on-android-14-2mcf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
