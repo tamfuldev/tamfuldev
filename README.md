@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Animated UI Component Libraries for React](https://dev.to/codedthemes/top-animated-ui-component-libraries-for-react-1383)
-- [Where the Hell Do I Put This Token? Syncing Claude Code Secrets to 3 Macs with the 1Password CLI](https://dev.to/coa00/where-the-hell-do-i-put-this-token-syncing-claude-code-secrets-to-3-macs-with-the-1password-cli-3ljl)
-- [My AI Agent Writes Great Code and Forgets All of It by Tomorrow](https://dev.to/enjoy_kumawat/my-ai-agent-writes-great-code-and-forgets-all-of-it-by-tomorrow-32ec)
-- [Making an open-source CRM AI-native &lpar;laravel/ai in production&rpar;](https://dev.to/manukminasyan/making-an-open-source-crm-ai-native-laravelai-in-production-4lad)
-- [How to Find the Original Price Before a Percentage Discount](https://dev.to/johnybrand/how-to-find-the-original-price-before-a-percentage-discount-mkc)
+- [LunarSite: An end-to-end ML pipeline for lunar south pole landing site selection](https://dev.to/alan_scottencinas/lunarsite-an-end-to-end-ml-pipeline-for-lunar-south-pole-landing-site-selection-2lda)
+- [Your JSON Is Valid... Until It&#39;s Not: Common Parse Errors and How to Fix Them](https://dev.to/zhihu_wu_dea1d82af01a04d7/your-json-is-valid-until-its-not-common-parse-errors-and-how-to-fix-them-3epg)
+- [AI agents need tiered approval escalation, not one big confirm button](https://dev.to/armorer_labs/ai-agents-need-tiered-approval-escalation-not-one-big-confirm-button-2id0)
+- [Inteligência Artificial no Dia a Dia: 10 Casos de Uso Práticos e Reais [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/inteligencia-artificial-no-dia-a-dia-10-casos-de-uso-praticos-e-reais-pt-br-46ji)
+- [Real photos in ChatGPT, 30-second AI video, and AI inside A24 — 3 stories that blur &quot;real vs AI&quot; media](https://dev.to/danio_dev/real-photos-in-chatgpt-30-second-ai-video-and-ai-inside-a24-3-stories-that-blur-real-vs-ai-1p2m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
