@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I trusted my CLAUDE.md. WordPress.org rejected the exact thing it was supposed to prevent.](https://dev.to/rapls/i-trusted-my-claudemd-wordpressorg-rejected-the-exact-thing-it-was-supposed-to-prevent-o1g)
-- [Evaluating LLM Output Quality In Production](https://dev.to/nazar_boyko/evaluating-llm-output-quality-in-production-39an)
-- [Mermaid Diagrams Quickstart and Cheatsheet for Developers](https://dev.to/rosgluk/mermaid-diagrams-quickstart-and-cheatsheet-for-developers-54p9)
-- [Implementing CQRS in Go: A Practical Guide to Scalable Architecture](https://dev.to/rosgluk/implementing-cqrs-in-go-a-practical-guide-to-scalable-architecture-3iik)
-- [Want AI to work in parallel? First give each one its own workspace](https://dev.to/kanfu-panda/want-ai-to-work-in-parallel-first-give-each-one-its-own-workspace-40ch)
+- [GEO: Wie du dafür sorgst, dass ChatGPT &amp; Co. deine Seite zitieren](https://dev.to/slawanextlevels/geo-wie-du-dafur-sorgst-dass-chatgpt-co-deine-seite-zitieren-417i)
+- [How to Automate Your Business Workflows Without Hiring a Full Dev Team](https://dev.to/ajay_mudettula/how-to-automate-your-business-workflows-without-hiring-a-full-dev-team-544h)
+- [How Solana Processes Transactions — And How to Make Them Faster](https://dev.to/froglabs/how-solana-processes-transactions-and-how-to-make-them-faster-4cp5)
+- [Notes on adversarial paraphrasing: a paper review](https://dev.to/deitch83919/notes-on-adversarial-paraphrasing-a-paper-review-214o)
+- [Shopware vs Shopify: a developer&#39;s case for the open platform](https://dev.to/slawanextlevels/shopware-vs-shopify-a-developers-case-for-the-open-platform-10kd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
