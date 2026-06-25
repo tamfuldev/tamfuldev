@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React useIsomorphicLayoutEffect: Fix the SSR useLayoutEffect Warning &lpar;2026&rpar;](https://dev.to/childrentime/react-useisomorphiclayouteffect-fix-the-ssr-uselayouteffect-warning-2026-57m0)
-- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-16d7)
-- [Top Open Source Coding Agents to Replace Claude Code in 2026](https://dev.to/moksh/top-open-source-coding-agents-to-replace-claude-code-in-2026-10f7)
-- [The Real Reason Prompt Engineering Isn&#39;t Going Away](https://dev.to/jaideepparashar/the-real-reason-prompt-engineering-isnt-going-away-2koo)
-- [OpenCode&#39;s 5 Hidden Uses: The 178K-Star Terminal AI Agent That Swaps Providers Mid-Session](https://dev.to/_cbd692d476c5faf3b61bcf/opencodes-5-hidden-uses-the-178k-star-terminal-ai-agent-that-swaps-providers-mid-session-2e55)
+- [🌍 Exposing Your Hermes Agent to the Internet with Tailscale Funnel &lpar;Safely&rpar;](https://dev.to/charan_gutti_cf60c6185074/exposing-your-hermes-agent-to-the-internet-with-tailscale-funnel-safely-3m7h)
+- [Java Revision](https://dev.to/_bhupeshk_/java-revision-36nf)
+- [Why Your Browser Should Do the Heavy Lifting: A Guide to Local Data Sanitization](https://dev.to/will_indie/why-your-browser-should-do-the-heavy-lifting-a-guide-to-local-data-sanitization-1k02)
+- [Demystifying SVG to React Component: Stop Breaking Your Build Pipelines](https://dev.to/will_indie/demystifying-svg-to-react-component-stop-breaking-your-build-pipelines-31dc)
+- [Colocate Your API Layer: A Next.js App Router Pattern That Scales](https://dev.to/tegadaniel/colocate-your-api-layer-a-nextjs-app-router-pattern-that-scales-5126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
