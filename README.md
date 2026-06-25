@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Southwest Airlines Embraces Cloud and AI Architecture. Are They Setting a New Standard for the Industry?](https://dev.to/georgekobaidze/southwest-airlines-embraces-cloud-and-ai-architecture-are-they-setting-a-new-standard-for-the-3m04)
-- [How I built a free tool that shows where Claude Code burns tokens](https://dev.to/davi_6869ffcaf10967a32fe2/how-i-built-a-free-tool-that-shows-where-claude-code-burns-tokens-2hj0)
-- [How to Stream &amp; Flatten 1GB+ JSON to CSV in the Browser Without Memory Leaks](https://dev.to/thesilentkiller07/how-to-stream-flatten-1gb-json-to-csv-in-the-browser-without-memory-leaks-16nj)
-- [Creating Short Links with PHP: A Practical Guide](https://dev.to/deneiz/creating-short-links-with-php-a-practical-guide-5blm)
-- [I Let My AI Agent Build a Bedrock RAG Knowledge Base, Here Are the 2 Mistakes the AWS Agent Toolkit Caught](https://dev.to/raabdahl/i-let-my-ai-agent-build-a-bedrock-rag-knowledge-base-here-are-the-2-mistakes-the-aws-agent-toolkit-3l49)
+- [Misdirection Proxy: cómo llevar el ASR de ataques a LLMs del 20% al mínimo](https://dev.to/magopredator/le-dije-a-un-atacante-de-ia-que-gano-perdio-aga)
+- [Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do](https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4)
+- [The People v. ASP.NET Core: A C#-Only HTTP Benchmark Trial](https://dev.to/fbio_reis_355b87b508598e/the-people-v-aspnet-core-a-c-only-http-benchmark-trial-b2)
+- [Building Hardware-Accelerated FFmpeg on NVIDIA Jetson AGX Orin 64GB](https://dev.to/vonusma/building-hardware-accelerated-ffmpeg-on-nvidia-jetson-agx-orin-64gb-3gg)
+- [Reducing Complexity: Replacing Entity-Based Services and Repositories with Purposeful Layers in Software Design](https://dev.to/kornilovconstru/reducing-complexity-replacing-entity-based-services-and-repositories-with-purposeful-layers-in-3ike)
 <!-- BLOG-POST-LIST:END -->
 
 ---
