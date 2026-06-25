@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a private, 100% in-browser JPEG XL converter &lpar;no upload, no server&rpar;](https://dev.to/robertcasschdot/i-built-a-private-100-in-browser-jpeg-xl-converter-no-upload-no-server-493i)
-- [Evaluating a C# LLM Eventparser with Promptfoo](https://dev.to/bigboybamo/evaluating-a-c-llm-eventparser-with-promptfoo-4b87)
-- [From Angular.js to Fine-Grained Reactivity: Compiling Templates at Build-Time](https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-compiling-templates-at-build-time-k41)
-- [Your Data Engineering Learning Path: 2026 Edition](https://dev.to/krunalkanojiya/your-data-engineering-learning-path-2026-edition-218h)
-- [Tailwind laid off 75% of engineering. AI didn&#39;t do that, shadcn did.](https://dev.to/adioof/tailwind-laid-off-75-of-engineering-ai-didnt-do-that-shadcn-did-1njm)
+- [How to build a budget, self-hosted video surveillance system on a Raspberry Pi](https://dev.to/xeoma/how-to-build-a-budget-self-hosted-video-surveillance-system-on-a-raspberry-pi-45jl)
+- [I backtested the most popular Binance grid bots on 4 years of real data](https://dev.to/aduenasdev/i-backtested-the-most-popular-binance-grid-bots-on-4-years-of-real-data-1gnb)
+- [Building a Cloud Application Locally: Lessons in Backend Architecture and AWS](https://dev.to/micheal_angelo_41cea4e81a/building-a-cloud-application-locally-lessons-in-backend-architecture-and-aws-501)
+- [Mermaid Diagrams in Markdown: The Complete Developer Guide Written by](https://dev.to/kritika_yadav_b6bf58baaa5/mermaid-diagrams-in-markdown-the-complete-developer-guidewritten-by-1ebo)
+- [Agent runs need their own session identity, not the human&#39;s](https://dev.to/armorer_labs/agent-runs-need-their-own-session-identity-not-the-humans-4inc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
