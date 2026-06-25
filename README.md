@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hub-and-spoke SEO for comparison pages — fielding &quot;alternative&quot; search intent from multiple angles](https://dev.to/susumun/hub-and-spoke-seo-for-comparison-pages-fielding-alternative-search-intent-from-multiple-angles-3gk)
-- [The 1.4 Seconds That Weren&#39;t on Any Span](https://dev.to/realmarcuschen/the-14-seconds-that-werent-on-any-span-483m)
-- [Exit intent that works on mobile, not just desktop](https://dev.to/arafat_islam_8831144b8c8f/exit-intent-that-works-on-mobile-not-just-desktop-3kdn)
-- [Stop building custom wrappers for your ML models.](https://dev.to/renato_marinho/stop-building-custom-wrappers-for-your-ml-models-1bk)
-- [Collect client feedback on a website without endless revision rounds](https://dev.to/matttdamon/collect-client-feedback-on-a-website-without-endless-revision-rounds-jc)
+- [React useIsomorphicLayoutEffect: Fix the SSR useLayoutEffect Warning &lpar;2026&rpar;](https://dev.to/childrentime/react-useisomorphiclayouteffect-fix-the-ssr-uselayouteffect-warning-2026-57m0)
+- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-16d7)
+- [Top Open Source Coding Agents to Replace Claude Code in 2026](https://dev.to/moksh/top-open-source-coding-agents-to-replace-claude-code-in-2026-10f7)
+- [The Real Reason Prompt Engineering Isn&#39;t Going Away](https://dev.to/jaideepparashar/the-real-reason-prompt-engineering-isnt-going-away-2koo)
+- [OpenCode&#39;s 5 Hidden Uses: The 178K-Star Terminal AI Agent That Swaps Providers Mid-Session](https://dev.to/_cbd692d476c5faf3b61bcf/opencodes-5-hidden-uses-the-178k-star-terminal-ai-agent-that-swaps-providers-mid-session-2e55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
