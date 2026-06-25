@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a budget, self-hosted video surveillance system on a Raspberry Pi](https://dev.to/xeoma/how-to-build-a-budget-self-hosted-video-surveillance-system-on-a-raspberry-pi-45jl)
-- [I backtested the most popular Binance grid bots on 4 years of real data](https://dev.to/aduenasdev/i-backtested-the-most-popular-binance-grid-bots-on-4-years-of-real-data-1gnb)
-- [Building a Cloud Application Locally: Lessons in Backend Architecture and AWS](https://dev.to/micheal_angelo_41cea4e81a/building-a-cloud-application-locally-lessons-in-backend-architecture-and-aws-501)
-- [Mermaid Diagrams in Markdown: The Complete Developer Guide Written by](https://dev.to/kritika_yadav_b6bf58baaa5/mermaid-diagrams-in-markdown-the-complete-developer-guidewritten-by-1ebo)
-- [Agent runs need their own session identity, not the human&#39;s](https://dev.to/armorer_labs/agent-runs-need-their-own-session-identity-not-the-humans-4inc)
+- [Building My AI SaaS Developer Portfolio 🚀](https://dev.to/foxilittlethin29arch/building-my-ai-saas-developer-portfolio-e3l)
+- [Why I Built a Markdown-First CMS Instead of Another Headless CMS](https://dev.to/thmarx/why-i-built-a-markdown-first-cms-instead-of-another-headless-cms-400c)
+- [How to Run Out of Senior Engineers Without Firing Any](https://dev.to/arthurpro/how-to-run-out-of-senior-engineers-without-firing-any-23nd)
+- [The Architecture of a Local-First Pain Tracker](https://dev.to/crisiscoresystems/the-architecture-of-a-local-first-pain-tracker-2pe0)
+- [Offline video subtitles on Android — FFmpegKit + WhisperKit, 99 languages, no cloud](https://dev.to/lucquebec/offline-video-subtitles-on-android-ffmpegkit-whisperkit-99-languages-no-cloud-2384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
