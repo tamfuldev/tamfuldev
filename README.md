@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Encrypt PDFs in the Browser with Vue 3 and @pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61)
-- [Ethereum ou Stellar: Quem Vence a Tokenização de Ativos no Brasil? [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/ethereum-ou-stellar-quem-vence-a-tokenizacao-de-ativos-no-brasil-pt-br-3bkb)
-- [How to Fine-Tune an LLM: A Complete Step-by-Step Guide](https://dev.to/prateek23/how-to-fine-tune-an-llm-a-complete-step-by-step-guide-5cop)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1)
-- [Two Hours of Deliberation](https://dev.to/arthurpro/two-hours-of-deliberation-16f3)
+- [Transfer Learning: Stand on a Pretrained Model](https://dev.to/dev48v/transfer-learning-stand-on-a-pretrained-model-4hba)
+- [I made a small RF Online Next guide site](https://dev.to/vibe_coding_starter_myr/i-made-a-small-rf-online-next-guide-site-28ca)
+- [I Rebuilt Instagram Stories&#39; Segmented Progress Bars](https://dev.to/dev48v/i-rebuilt-instagram-stories-segmented-progress-bars-4bil)
+- [On-premises AI coding tools - safeguarding data privacy in software development](https://dev.to/codeqa/on-premises-ai-coding-tools-safeguarding-data-privacy-in-software-development-2hf)
+- [Seu código de validação de CPF tá gritando por socorro &lpar;e você nem percebeu&rpar;](https://dev.to/denisgusto1/seu-codigo-de-validacao-de-cpf-ta-gritando-por-socorro-e-voce-nem-percebeu-ni2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
