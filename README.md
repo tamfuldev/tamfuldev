@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dotsync – A zero-knowledge CLI to sync dotfiles and secrets in Go](https://dev.to/death_wolf/dotsync-a-zero-knowledge-cli-to-sync-dotfiles-and-secrets-in-go-49jf)
-- [Stop using the model as your memory](https://dev.to/greymothjp/stop-using-the-model-as-your-memory-4nbi)
-- [Cybersecurity Roadmap](https://dev.to/cybervulnx/cybersecurity-roadmap-4f83)
-- [AI is not replacing developers anytime soon](https://dev.to/czmirek/ai-is-not-replacing-developers-anytime-soon-2l26)
-- [What I keep seeing working with crypto companies under MiCA](https://dev.to/m1kedigital/what-i-keep-seeing-working-with-crypto-companies-under-mica-1hmh)
+- [GDPR Document Fraud Detection API: EU Fintech Compliance Guide](https://dev.to/iurii_rogulia/gdpr-document-fraud-detection-api-eu-fintech-compliance-guide-14im)
+- [AI Coding Tools Enter Price War Era: Free Is No Longer a Selling Point, Deep Integration Is](https://dev.to/wdsega/ai-coding-tools-enter-price-war-era-free-is-no-longer-a-selling-point-deep-integration-is-aaj)
+- [Protocol Buffers in Elixir](https://dev.to/niamtokik/protocol-buffers-in-elixir-4daa)
+- [Startups Don&#39;t Need &quot;Perfect&quot; Code. They Need &quot;Malleable&quot; Code](https://dev.to/ufomadu_nnaemeka_89/startups-dont-need-perfect-code-they-need-malleable-code-3e1)
+- [I Almost Didn&#39;t Learn Programming Because I Was Bad at Math](https://dev.to/technogamerz/i-almost-didnt-learn-programming-because-i-was-bad-at-math-f16)
 <!-- BLOG-POST-LIST:END -->
 
 ---
