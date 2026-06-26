@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I lost months of Google indexing to a single missing UA pattern](https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9)
-- [Bizbox Q3 2026 Public Roadmap Update](https://dev.to/joincitro/bizbox-q3-2026-public-roadmap-update-137a)
-- [We Built a 2048 Clone, Then Taught It to Play Itself](https://dev.to/anand_rathnas_d5b608cc3de/we-built-a-2048-clone-then-taught-it-to-play-itself-13nd)
-- [Trace-to-Training: how agent runs become learning data](https://dev.to/telleroutlook/trace-to-training-how-agent-runs-become-learning-data-31c4)
-- [I Built a Serverless Stranger-Matching Tool with Zero Database — Here is the Architecture](https://dev.to/wendurai433/i-built-a-serverless-stranger-matching-tool-with-zero-database-here-is-the-architecture-m6n)
+- [Dotsync – A zero-knowledge CLI to sync dotfiles and secrets in Go](https://dev.to/death_wolf/dotsync-a-zero-knowledge-cli-to-sync-dotfiles-and-secrets-in-go-49jf)
+- [Stop using the model as your memory](https://dev.to/greymothjp/stop-using-the-model-as-your-memory-4nbi)
+- [Cybersecurity Roadmap](https://dev.to/cybervulnx/cybersecurity-roadmap-4f83)
+- [AI is not replacing developers anytime soon](https://dev.to/czmirek/ai-is-not-replacing-developers-anytime-soon-2l26)
+- [What I keep seeing working with crypto companies under MiCA](https://dev.to/m1kedigital/what-i-keep-seeing-working-with-crypto-companies-under-mica-1hmh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
