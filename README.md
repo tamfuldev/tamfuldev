@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Empire Strikes Back: Mastering Database Backups &amp; Disaster Recovery](https://dev.to/timevolt/the-empire-strikes-back-mastering-database-backups-disaster-recovery-fib)
-- [I Scanned 1,200 MCP Configs From GitHub. Here&#39;s What I Found.](https://dev.to/ad_0846/i-scanned-1200-mcp-configs-from-github-heres-what-i-found-45b3)
-- [How I built a YouTube performance classifier that adjusts tomorrow&#39;s video script bias](https://dev.to/morinaga/how-i-built-a-youtube-performance-classifier-that-adjusts-tomorrows-video-script-bias-19ba)
-- [Notable releases I&#39;m watching: Deno 2.8, Models.dev, DeepSeek V4 Pro permanent pricing](https://dev.to/morinaga/notable-releases-im-watching-deno-28-modelsdev-deepseek-v4-pro-permanent-pricing-2g26)
-- [Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets](https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d)
+- [I lost months of Google indexing to a single missing UA pattern](https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9)
+- [Bizbox Q3 2026 Public Roadmap Update](https://dev.to/joincitro/bizbox-q3-2026-public-roadmap-update-137a)
+- [We Built a 2048 Clone, Then Taught It to Play Itself](https://dev.to/anand_rathnas_d5b608cc3de/we-built-a-2048-clone-then-taught-it-to-play-itself-13nd)
+- [Trace-to-Training: how agent runs become learning data](https://dev.to/telleroutlook/trace-to-training-how-agent-runs-become-learning-data-31c4)
+- [I Built a Serverless Stranger-Matching Tool with Zero Database — Here is the Architecture](https://dev.to/wendurai433/i-built-a-serverless-stranger-matching-tool-with-zero-database-here-is-the-architecture-m6n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
