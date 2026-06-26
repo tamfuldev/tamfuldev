@@ -6,11 +6,15 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Transfer Learning: Stand on a Pretrained Model](https://dev.to/dev48v/transfer-learning-stand-on-a-pretrained-model-4hba)
-- [I made a small RF Online Next guide site](https://dev.to/vibe_coding_starter_myr/i-made-a-small-rf-online-next-guide-site-28ca)
-- [I Rebuilt Instagram Stories&#39; Segmented Progress Bars](https://dev.to/dev48v/i-rebuilt-instagram-stories-segmented-progress-bars-4bil)
-- [On-premises AI coding tools - safeguarding data privacy in software development](https://dev.to/codeqa/on-premises-ai-coding-tools-safeguarding-data-privacy-in-software-development-2hf)
-- [Seu código de validação de CPF tá gritando por socorro &lpar;e você nem percebeu&rpar;](https://dev.to/denisgusto1/seu-codigo-de-validacao-de-cpf-ta-gritando-por-socorro-e-voce-nem-percebeu-ni2)
+- [AI writes code in seconds. Architecture debt takes months to notice.](https://dev.to/archpilot-labs/ai-writes-code-in-seconds-architecture-debt-takes-months-to-notice-38bk)
+- [How I Built a Live-Updating Line Chart Widget for Tkinter Without Any External Dependencies](https://dev.to/thisald/how-i-built-a-live-updating-line-chart-widget-for-tkinter-without-any-external-dependencies-1pj6)
+- [Excited to share my developer portfolio! It showcases my projects, skills, and experience in React, Next.js, TypeScript, and modern frontend development.
+
+🌐 https://saurabhpatil84.netlify.app/
+
+Feedback is always welcome!](https://dev.to/saurabho536/excited-to-share-my-developer-portfolio-it-showcases-my-projects-skills-and-experience-in-react-2lng)
+- [My AI agent built a feature that already existed 15 times](https://dev.to/nomurasan/my-ai-agent-built-a-feature-that-already-existed-15-times-2eic)
+- [I built a GitHub Action that fails CI when your meta tags are broken](https://dev.to/hey_atlas_5d684863e9b069a/i-built-a-github-action-that-fails-ci-when-your-meta-tags-are-broken-3e9h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
