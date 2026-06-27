@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vetting an Investor Before You Pitch Them: A Solo Founder&#39;s Workflow](https://dev.to/osakasaul/vetting-an-investor-before-you-pitch-them-a-solo-founders-workflow-463g)
-- [Adding Release Gates to AI Browser Automation Runs With Real Profiles](https://dev.to/web4browser/adding-release-gates-to-ai-browser-automation-runs-with-real-profiles-p72)
-- [Memory Sidecar v3.5.1: Operational Hardening for Agent-Agnostic Memory](https://dev.to/manoir_yantai_f22f01340f0/memory-sidecar-v351-operational-hardening-for-agent-agnostic-memory-3f5o)
-- [A RUBE&#39;S CUBE](https://dev.to/scythe2/a-rubes-cube-4pa)
-- [Day 42: Exploring ClickHouse® Table Engines Beyond MergeTree](https://dev.to/kanishga_subramani_49ad73/day-42-exploring-clickhouser-table-engines-beyond-mergetree-1cni)
+- [StoreKit 2 subscriptions + a screenshot mode that bypasses purchases](https://dev.to/netflowers/storekit-2-subscriptions-a-screenshot-mode-that-bypasses-purchases-105)
+- [Bun v1.3.14: The Update That Actually Speeds Up Development](https://dev.to/frank_signorini/bun-v1314-the-update-that-actually-speeds-up-development-5g98)
+- [Custom Automation for SMEs: 5 real cases, EUR 500 to 5000](https://dev.to/ohugonnot/custom-automation-for-smes-5-real-cases-eur-500-to-5000-3jf5)
+- [GUI or CLI? Why We Built Both](https://dev.to/ancer/gui-or-cli-why-we-built-both-5mn)
+- [I built a link shortener with a real API &lpar;and QR codes that don&#39;t look like 2009&rpar;](https://dev.to/chathrika/i-built-a-link-shortener-with-a-real-api-and-qr-codes-that-dont-look-like-2009-1p9n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
