@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your product can answer questions about itself now](https://dev.to/dezsirazvan/your-product-can-answer-questions-about-itself-now-394a)
-- [The Market Isn&#39;t Just Competitive Anymore](https://dev.to/orashus/the-market-isnt-just-competitive-anymore-9e6)
-- [Why I&#39;m Building a Decentralized Anti-Cheat Instead of Another Plugin](https://dev.to/ahad_progamer_2aea1ee468/why-im-building-a-decentralized-anti-cheat-instead-of-another-plugin-3c8h)
-- [HttpClient Socket Exhaustion](https://dev.to/noumanberlas/httpclient-socket-exhaustion-3fln)
-- [5 Things Your LLM Bill Is Hiding From You &lpar;And How to Find Them&rpar;](https://dev.to/arpitstack/5-things-your-llm-bill-is-hiding-from-you-and-how-to-find-them-5ala)
+- [My test had a comment that said &#39;in memory fallback&#39;. It wasn&#39;t.](https://dev.to/arihantdeva/my-test-had-a-comment-that-said-in-memory-fallback-it-wasnt-cij)
+- [AI Agent Development for UAE Enterprises](https://dev.to/anas_kanafani/ai-agent-development-for-uae-enterprises-51dm)
+- [Stop Manual Code Reviews: Build Your AI-Powered Review Workflow](https://dev.to/learnairesource/stop-manual-code-reviews-build-your-ai-powered-review-workflow-51nn)
+- [I Backtested My Polymarket Bot Against Real Order Book Data. Here&#39;s What I Found.](https://dev.to/casatrick/i-backtested-my-polymarket-bot-against-real-order-book-data-heres-what-i-found-52gp)
+- [PostCSS Adopted Staged Publishing. 685M Weekly Downloads Now Gated.](https://dev.to/piiiico/postcss-adopted-staged-publishing-685m-weekly-downloads-now-gated-8cj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
