@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My test had a comment that said &#39;in memory fallback&#39;. It wasn&#39;t.](https://dev.to/arihantdeva/my-test-had-a-comment-that-said-in-memory-fallback-it-wasnt-cij)
-- [AI Agent Development for UAE Enterprises](https://dev.to/anas_kanafani/ai-agent-development-for-uae-enterprises-51dm)
-- [Stop Manual Code Reviews: Build Your AI-Powered Review Workflow](https://dev.to/learnairesource/stop-manual-code-reviews-build-your-ai-powered-review-workflow-51nn)
-- [I Backtested My Polymarket Bot Against Real Order Book Data. Here&#39;s What I Found.](https://dev.to/casatrick/i-backtested-my-polymarket-bot-against-real-order-book-data-heres-what-i-found-52gp)
-- [PostCSS Adopted Staged Publishing. 685M Weekly Downloads Now Gated.](https://dev.to/piiiico/postcss-adopted-staged-publishing-685m-weekly-downloads-now-gated-8cj)
+- [I Built a Free Browser-Based Urdu Writing and Design Platform](https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169)
+- [How to build a production-ready app with Claude Code](https://dev.to/grepzero/how-to-build-a-production-ready-app-with-claude-code-me5)
+- [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
+- [7 AI-Native Shifts Beyond the Horseless Carriage](https://dev.to/turtleand/7-ai-native-shifts-beyond-the-horseless-carriage-4kbe)
+- [Monitoring Tools for React Apps — Which One Do You Actually Need?](https://dev.to/kushang_tailor/monitoring-tools-for-react-apps-which-one-do-you-actually-need-234e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
