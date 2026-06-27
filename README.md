@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Wish I Had Started Documenting My Tech Journey Earlier](https://dev.to/restuananda/i-wish-i-had-started-documenting-my-tech-journey-earlier-4be6)
-- [Beyond the Basics: Building Accessible, SSR-Ready Carousels with Pagiflow](https://dev.to/pagiflow/beyond-the-basics-building-accessible-ssr-ready-carousels-with-pagiflow-513f)
-- [Web Architecture Patterns for Full-Stack TypeScript Applications](https://dev.to/uaslimcreate/web-architecture-patterns-for-full-stack-typescript-applications-2oik)
-- [AI Won&#39;t Replace You, But An Engineer Using AI Will](https://dev.to/ufomadu_nnaemeka_89/ai-wont-replace-you-but-an-engineer-using-ai-will-4olm)
-- [I open-sourced Solana Web3 Jackpot Casino A fully decentralized jackpot casino game on Solana](https://dev.to/xniiinx/i-open-sourced-solana-web3-jackpot-casino-a-fully-decentralized-jackpot-casino-game-on-solana-ck1)
+- [We Didn&#39;t Need Another AI Tool. We Needed Better Processes.](https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254)
+- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound Tokens](https://dev.to/neocarvajal/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-tokens-j4j)
+- [Cursor Rules That Actually Improve AI Output &lpar;.mdc Project Rules&rpar;](https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg)
+- [I open-sourced DeltaPulse Bot — $500 Per Day Momentum-Driven Polymarket Trader](https://dev.to/soulcrancerdev/i-open-sourced-deltapulse-bot-500-per-day-momentum-driven-polymarket-trader-ppd)
+- [what room to breathe makes room for](https://dev.to/shrouwoods/what-room-to-breathe-makes-room-for-g1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
