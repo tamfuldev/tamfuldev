@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 AI Context Engineering — Why Great AI Systems Need More Than Great Prompts &lpar;Part 1&rpar;](https://dev.to/fazal_mansuri_/ai-context-engineering-why-great-ai-systems-need-more-than-great-prompts-part-1-25dd)
-- [Voilaa! — Turning Any YouTube Video into an Interactive Learning App with Google Gemini](https://dev.to/miii/voilaa-turning-any-youtube-video-into-an-interactive-learning-app-with-google-gemini-2kl5)
-- [From Source Control to Supplier Control: Building TPRM Through a Developer Lens](https://dev.to/max-b-grc/from-source-control-to-supplier-control-building-tprm-through-a-developer-lens-468i)
-- [Pet Imagination by Inithouse: our AI pet portrait pipeline, 9 styles under 60 seconds](https://dev.to/jakub_inithouse/pet-imagination-by-inithouse-our-ai-pet-portrait-pipeline-9-styles-under-60-seconds-2b1o)
-- [FacetLab: an open-source WebGL diamond 4Cs simulator](https://dev.to/facetlab/facetlab-an-open-source-webgl-diamond-4cs-simulator-4km)
+- [Your product can answer questions about itself now](https://dev.to/dezsirazvan/your-product-can-answer-questions-about-itself-now-394a)
+- [The Market Isn&#39;t Just Competitive Anymore](https://dev.to/orashus/the-market-isnt-just-competitive-anymore-9e6)
+- [Why I&#39;m Building a Decentralized Anti-Cheat Instead of Another Plugin](https://dev.to/ahad_progamer_2aea1ee468/why-im-building-a-decentralized-anti-cheat-instead-of-another-plugin-3c8h)
+- [HttpClient Socket Exhaustion](https://dev.to/noumanberlas/httpclient-socket-exhaustion-3fln)
+- [5 Things Your LLM Bill Is Hiding From You &lpar;And How to Find Them&rpar;](https://dev.to/arpitstack/5-things-your-llm-bill-is-hiding-from-you-and-how-to-find-them-5ala)
 <!-- BLOG-POST-LIST:END -->
 
 ---
