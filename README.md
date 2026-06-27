@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Browser-Based Urdu Writing and Design Platform](https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169)
-- [How to build a production-ready app with Claude Code](https://dev.to/grepzero/how-to-build-a-production-ready-app-with-claude-code-me5)
-- [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
-- [7 AI-Native Shifts Beyond the Horseless Carriage](https://dev.to/turtleand/7-ai-native-shifts-beyond-the-horseless-carriage-4kbe)
-- [Monitoring Tools for React Apps — Which One Do You Actually Need?](https://dev.to/kushang_tailor/monitoring-tools-for-react-apps-which-one-do-you-actually-need-234e)
+- [I Wish I Had Started Documenting My Tech Journey Earlier](https://dev.to/restuananda/i-wish-i-had-started-documenting-my-tech-journey-earlier-4be6)
+- [Beyond the Basics: Building Accessible, SSR-Ready Carousels with Pagiflow](https://dev.to/pagiflow/beyond-the-basics-building-accessible-ssr-ready-carousels-with-pagiflow-513f)
+- [Web Architecture Patterns for Full-Stack TypeScript Applications](https://dev.to/uaslimcreate/web-architecture-patterns-for-full-stack-typescript-applications-2oik)
+- [AI Won&#39;t Replace You, But An Engineer Using AI Will](https://dev.to/ufomadu_nnaemeka_89/ai-wont-replace-you-but-an-engineer-using-ai-will-4olm)
+- [I open-sourced Solana Web3 Jackpot Casino A fully decentralized jackpot casino game on Solana](https://dev.to/xniiinx/i-open-sourced-solana-web3-jackpot-casino-a-fully-decentralized-jackpot-casino-game-on-solana-ck1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
