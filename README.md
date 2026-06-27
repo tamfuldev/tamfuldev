@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Authentication: Best Practices for iOS and Android Developers &lpar;2026&rpar;](https://dev.to/securecodinghub/mobile-app-authentication-best-practices-for-ios-and-android-developers-2026-3aah)
-- [Malware on Your Machine: A Developer&#39;s Complete Incident Response Guide](https://dev.to/masilrg/malware-on-your-machine-a-developers-complete-incident-response-guide-4hph)
-- [Total System Dominance: Chaining RFID, Sub-GHz, and Infrared Exploits](https://dev.to/numbpill3d/total-system-dominance-chaining-rfid-sub-ghz-and-infrared-exploits-18f)
-- [How I Built a Personal AI Knowledge Base with Amazon Aurora pgvector and Next.js — AWS H0 Hackathon](https://dev.to/hamzanabdev/how-i-built-a-personal-ai-knowledge-base-with-amazon-aurora-pgvector-and-nextjs-aws-h0-hackathon-19jf)
-- [How We Built a P2P Crypto Wallet for Ethiopian Remittances — And Why We Started With Africa](https://dev.to/sem_wallet/how-we-built-a-p2p-crypto-wallet-for-ethiopian-remittances-and-why-we-started-with-africa-56pm)
+- [2026年版・ReactエージェントへのCLAUDE.md実践ガイド](https://dev.to/_7fb6011b57d383122b5a/2026nian-ban-reactezientohenoclaudemdshi-jian-gaido-55n0)
+- [Setting Up VS Code for Java Development](https://dev.to/jamilxt/setting-up-vs-code-for-java-development-cmp)
+- [Your LLM Prompts Are Running Ungoverned in Production. Here&#39;s the Architecture Fix.](https://dev.to/jachinsaikiasonowal/your-llm-prompts-are-running-ungoverned-in-production-heres-the-architecture-fix-3512)
+- [ভালো টিম আর দুর্দান্ত টিমের মধ্যে পার্থক্য কোথায়?](https://dev.to/jamilxt/bhaalo-ttim-aar-durdaant-ttimer-mdhye-paarthky-kothaay-4e08)
+- [【2026】Notion 代替の開発者向けドキュメントツール：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-notion-dai-ti-nokai-fa-zhe-xiang-kedokiyumentoturuliao-jin-yi-xing-kosutodexuan-bu-3g93)
 <!-- BLOG-POST-LIST:END -->
 
 ---
