@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Didn&#39;t Need Another AI Tool. We Needed Better Processes.](https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254)
-- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound Tokens](https://dev.to/neocarvajal/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-tokens-j4j)
-- [Cursor Rules That Actually Improve AI Output &lpar;.mdc Project Rules&rpar;](https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg)
-- [I open-sourced DeltaPulse Bot — $500 Per Day Momentum-Driven Polymarket Trader](https://dev.to/soulcrancerdev/i-open-sourced-deltapulse-bot-500-per-day-momentum-driven-polymarket-trader-ppd)
-- [what room to breathe makes room for](https://dev.to/shrouwoods/what-room-to-breathe-makes-room-for-g1l)
+- [Database Rate Limiting: The Missing Piece After a Circuit Breaker](https://dev.to/daksh-gargas/database-rate-limiting-the-missing-piece-after-a-circuit-breaker-2bp7)
+- [How to prove an AI agent output existed — x402 + NEAR anchoring in practice](https://dev.to/gitsergecrypto/how-to-prove-an-ai-agent-output-existed-x402-near-anchoring-in-practice-2ede)
+- [A Circuit Breaker Alone Won&#39;t Save Your Database](https://dev.to/daksh-gargas/a-circuit-breaker-alone-wont-save-your-database-3d0i)
+- [AI Coding Agents Are the New Attack Surface Nobody&#39;s Ready For](https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1)
+- [Docker -Networking and Best Practices](https://dev.to/ramya_perumal_e93721ef2fa/docker-networking-and-best-practices-17ji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
