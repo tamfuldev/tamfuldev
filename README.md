@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2026年版・ReactエージェントへのCLAUDE.md実践ガイド](https://dev.to/_7fb6011b57d383122b5a/2026nian-ban-reactezientohenoclaudemdshi-jian-gaido-55n0)
-- [Setting Up VS Code for Java Development](https://dev.to/jamilxt/setting-up-vs-code-for-java-development-cmp)
-- [Your LLM Prompts Are Running Ungoverned in Production. Here&#39;s the Architecture Fix.](https://dev.to/jachinsaikiasonowal/your-llm-prompts-are-running-ungoverned-in-production-heres-the-architecture-fix-3512)
-- [ভালো টিম আর দুর্দান্ত টিমের মধ্যে পার্থক্য কোথায়?](https://dev.to/jamilxt/bhaalo-ttim-aar-durdaant-ttimer-mdhye-paarthky-kothaay-4e08)
-- [【2026】Notion 代替の開発者向けドキュメントツール：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-notion-dai-ti-nokai-fa-zhe-xiang-kedokiyumentoturuliao-jin-yi-xing-kosutodexuan-bu-3g93)
+- [Vetting an Investor Before You Pitch Them: A Solo Founder&#39;s Workflow](https://dev.to/osakasaul/vetting-an-investor-before-you-pitch-them-a-solo-founders-workflow-463g)
+- [Adding Release Gates to AI Browser Automation Runs With Real Profiles](https://dev.to/web4browser/adding-release-gates-to-ai-browser-automation-runs-with-real-profiles-p72)
+- [Memory Sidecar v3.5.1: Operational Hardening for Agent-Agnostic Memory](https://dev.to/manoir_yantai_f22f01340f0/memory-sidecar-v351-operational-hardening-for-agent-agnostic-memory-3f5o)
+- [A RUBE&#39;S CUBE](https://dev.to/scythe2/a-rubes-cube-4pa)
+- [Day 42: Exploring ClickHouse® Table Engines Beyond MergeTree](https://dev.to/kanishga_subramani_49ad73/day-42-exploring-clickhouser-table-engines-beyond-mergetree-1cni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
