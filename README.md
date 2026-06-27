@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic pricing on Shopify is not a pricing problem. It is a blast-radius problem.](https://dev.to/macmcfall/dynamic-pricing-on-shopify-is-not-a-pricing-problem-it-is-a-blast-radius-problem-2phm)
-- [n8n Expressions: How to Use Dynamic Data in Your Workflows &lpar;Free Examples&rpar;](https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j)
-- [A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Supply Chain Attack](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h)
-- [Building an Artist Attribution Model with PyTorch and ResNet-50](https://dev.to/ghazy001/building-an-artist-attribution-model-with-pytorch-and-resnet-50-2pde)
-- [Building a RAG System from Scratch — Wrap-up and What Comes Next](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-wrap-up-and-what-comes-next-2821)
+- [The Codebase Is the Prompt](https://dev.to/timon_krebs_c89f82a68ba4c/the-codebase-is-the-prompt-2llh)
+- [Keyless by Default: Securing FarmOps Desk without a Single Static Secret](https://dev.to/captjay98/keyless-by-default-securing-farmops-desk-without-a-single-static-secret-6p1)
+- [When the Free Executor Cost More: 40 Trials on Opus + Local Qwen Ended Up the Most Expensive Cloud Arm](https://dev.to/kenimo49/when-the-free-executor-cost-more-40-trials-on-opus-local-qwen-ended-up-the-most-expensive-cloud-4kpe)
+- [How FinTech APIs Are Powering Africa&#39;s Digital Payment Revolution](https://dev.to/aniekanwrites/how-fintech-apis-are-powering-africas-digital-payment-revolution-1gnh)
+- [I broke my own governed MCP server by hand, then built the scanner that catches the class](https://dev.to/alexlaguardia/i-broke-my-own-governed-mcp-server-by-hand-then-built-the-scanner-that-catches-the-class-1ip7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
