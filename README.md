@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Countdown Timer CLI in Python — time, finally, mock, and Testing Exceptions](https://dev.to/uya0526design/building-a-countdown-timer-cli-in-python-time-finally-mock-and-testing-exceptions-da4)
-- [n8n Notion Node: Read, Create, Update, and Search Database Pages &lpar;+ Free JSON&rpar;](https://dev.to/pirateprentice/n8n-notion-node-read-create-update-and-search-database-pages-free-json-1ho3)
-- [Stable Screenshot Tests and Flow Benchmarks in KMP](https://dev.to/theaxcode/stable-screenshot-tests-and-flow-benchmarks-in-kmp-20pb)
-- [Qwen-AgentWorld Trains a Language Model as a World Model for RL Agents: World Model as a Decoupled RL Simulator](https://dev.to/pueding/qwen-agentworld-trains-a-language-model-as-a-world-model-for-rl-agents-world-model-as-a-decoupled-3ea2)
-- [Testing Zyloo as an OpenAI-Compatible AI Gateway](https://dev.to/henriquejsza/testing-zyloo-as-an-openai-compatible-ai-gateway-18cn)
+- [A flat per-call endpoint for summarize / classify / extract in your n8n and Make automations](https://dev.to/chenxiao5580cmd/a-flat-per-call-endpoint-for-summarize-classify-extract-in-your-n8n-and-make-automations-548h)
+- [A homemade CI/CD pipeline with GitHub Actions](https://dev.to/riusmax/a-homemade-cicd-pipeline-with-github-actions-1bl5)
+- [How I Built GitPulse: A Cinematic Developer Storyteller &lpar;and why standard GitHub profiles are boring&rpar;](https://dev.to/rahul_agarwal18/how-i-built-gitpulse-a-cinematic-developer-storyteller-and-why-standard-github-profiles-are-1ano)
+- [I built a free UAE calculator platform that runs on live government data](https://dev.to/adadae/i-built-a-free-uae-calculator-platform-that-runs-on-live-government-data-573e)
+- [Quitter Vercel : héberger son app Next.js sur un VPS](https://dev.to/riusmax/quitter-vercel-heberger-son-app-nextjs-sur-un-vps-1k7l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
