@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrity Problem](https://dev.to/jaspreet_singh_86ae1740ac/celebrity-problem-2kma)
-- [Building a Low-Level ICMP Sniffer in x64 Assembly &lpar;Raw Sockets&rpar;](https://dev.to/jm00nj/building-a-low-level-icmp-sniffer-in-x64-assembly-raw-sockets-5128)
-- [7 months building an open-source chess tool. Here&#39;s what actually happened.](https://dev.to/bilgegates/7-months-building-an-open-source-chess-tool-heres-what-actually-happened-1g60)
-- [I put Cloudflare in front of my site, then found my origin one DNS record away from undoing it](https://dev.to/blackneuron/i-put-cloudflare-in-front-of-my-site-then-found-my-origin-one-dns-record-away-from-undoing-it-49bf)
-- [Linux Process Evasion: ptrace &amp; prctl](https://dev.to/jm00nj/linux-process-evasion-ptrace-prctl-4ae)
+- [The German Tank Problem: Why You Need UUIDs](https://dev.to/towernter/the-german-tank-problem-why-you-need-uuids-85p)
+- [Making of Tiny RPG Studio](https://dev.to/andredarcie/making-of-tiny-rpg-studio-45oh)
+- [5 Linux Commands Every Cybersecurity Student Must Know](https://dev.to/ayesha_abbas/5-linux-commands-every-cybersecurity-student-must-know-n2c)
+- [How I Built a RAG System Over more than 100 USCIS Administrative Appeals Office Decisions with Gemini](https://dev.to/heartlinmachado/how-i-built-a-rag-system-over-more-than-100-uscis-administrative-appeals-office-decisions-with-1gl8)
+- [Ignore All Previous Instructions: A Dev&#39;s Guide to Prompt Injection](https://dev.to/lovestaco/ignore-all-previous-instructions-a-devs-guide-to-prompt-injection-1naj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
