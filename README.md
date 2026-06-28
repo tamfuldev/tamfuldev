@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A flat per-call endpoint for summarize / classify / extract in your n8n and Make automations](https://dev.to/chenxiao5580cmd/a-flat-per-call-endpoint-for-summarize-classify-extract-in-your-n8n-and-make-automations-548h)
-- [A homemade CI/CD pipeline with GitHub Actions](https://dev.to/riusmax/a-homemade-cicd-pipeline-with-github-actions-1bl5)
-- [How I Built GitPulse: A Cinematic Developer Storyteller &lpar;and why standard GitHub profiles are boring&rpar;](https://dev.to/rahul_agarwal18/how-i-built-gitpulse-a-cinematic-developer-storyteller-and-why-standard-github-profiles-are-1ano)
-- [I built a free UAE calculator platform that runs on live government data](https://dev.to/adadae/i-built-a-free-uae-calculator-platform-that-runs-on-live-government-data-573e)
-- [Quitter Vercel : héberger son app Next.js sur un VPS](https://dev.to/riusmax/quitter-vercel-heberger-son-app-nextjs-sur-un-vps-1k7l)
+- [Optimizing Guitar Chord Tab Rendering: Simplifying Web and App Display with Efficient, Code-Light Solutions](https://dev.to/maxgeris/optimizing-guitar-chord-tab-rendering-simplifying-web-and-app-display-with-efficient-code-light-4oo4)
+- [Branch Agent: Git-Style Branching for LLM Conversations](https://dev.to/harishkotra/branch-agent-git-style-branching-for-llm-conversations-5c61)
+- [Frugal Architect for SIers: Reflections from AWS GameDay](https://dev.to/rbcn/frugal-architect-for-siers-reflections-from-aws-gameday-2lbe)
+- [You Don&#39;t Have To Build Everything Yourself](https://dev.to/stinklewinks/you-dont-have-to-build-everything-yourself-2fk6)
+- [Cutting Through the Noise: The 2026 AI Coding Subscription Guide](https://dev.to/youxufkhan/cutting-through-the-noise-the-2026-ai-coding-subscription-guide-2kb4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
