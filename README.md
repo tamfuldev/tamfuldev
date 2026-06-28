@@ -6,11 +6,15 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An AI &quot;migrated&quot; my site — and left it publicly exposed to the world &lpar;#71882&rpar;](https://dev.to/yurukusa/an-ai-migrated-my-site-and-left-it-publicly-exposed-to-the-world-71882-2pg0)
-- [同樣是 50 行程式碼，為什麼做出來的東西像藝術品？](https://dev.to/_0c004e5fde78250aee362/tong-yang-shi-50-xing-cheng-shi-ma-wei-shi-mo-zuo-chu-lai-de-dong-xi-xiang-yi-shu-pin--2jnn)
-- [When Your AI API Budget Blew Up: Multi-Provider Routing](https://dev.to/__c1b9e06dc90a7e0a676b/when-your-ai-api-budget-blew-up-multi-provider-routing-m00)
-- [The CompTIA concepts people keep confusing &lpar;and how to actually tell them apart&rpar;](https://dev.to/the_leon_odor/the-comptia-concepts-people-keep-confusing-and-how-to-actually-tell-them-apart-2cb2)
-- [Your AI agent isn&#39;t scraping; it&#39;s just failing to read.](https://dev.to/renato_marinho/your-ai-agent-isnt-scraping-its-just-failing-to-read-53kp)
+- [I&#39;ve been thinking about building a vehicle rental platform, but I&#39;m hesitant because there are already so many established apps in the market.
+
+I&#39;m curious to hear from people who have actually rented bikes or cars.
+
+What do you dislike about the current](https://dev.to/krish_dhola_012f8a804c52c/ive-been-thinking-about-building-a-vehicle-rental-platform-but-im-hesitant-because-there-are-4iok)
+- [Absolute Revolution in Assistants, ChuroAI.](https://dev.to/mathobsession/absolute-revolution-in-assistants-churoai-p7b)
+- [Context Engineering Is the New Prompt Engineering](https://dev.to/yash_sonawane25/context-engineering-is-the-new-prompt-engineering-556h)
+- [The n8n bug that took three tries to find &lpar;and the free workflow it broke&rpar;](https://dev.to/ibrh96prog/the-n8n-bug-that-took-three-tries-to-find-and-the-free-workflow-it-broke-21ei)
+- [A no-hype AI literacy framework for working professionals](https://dev.to/ankulr_wtw6/a-no-hype-ai-literacy-framework-for-working-professionals-3ncg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
