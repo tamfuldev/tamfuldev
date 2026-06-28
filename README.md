@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [PDF::Make - PDF Generation, Extraction and Modification.](https://dev.to/lnation/pdfmake-pdf-generation-extraction-and-modification-4696)
-- [FastAPI Crash Course: Build a CRUD REST API in ~40 Lines of Python](https://dev.to/mihirmohapatra/fastapi-crash-course-build-a-crud-rest-api-in-40-lines-of-python-2m0)
-- [How to Fix Messy Markdown from Notion or Obsidian](https://dev.to/utilitylab/how-to-fix-messy-markdown-from-notion-or-obsidian-3pp2)
-- [My first vibe coding project taught me I didn&#39;t actually know what I was building](https://dev.to/kraizman/my-first-vibe-coding-project-taught-me-i-didnt-actually-know-what-i-was-building-1af8)
-- [What ChatGPT Actually Sees When It Reads Your Website &lpar;And Why It Skips You&rpar;](https://dev.to/wegotthistogether/what-chatgpt-actually-sees-when-it-reads-your-website-and-why-it-skips-you-1328)
+- [Building a Countdown Timer CLI in Python — time, finally, mock, and Testing Exceptions](https://dev.to/uya0526design/building-a-countdown-timer-cli-in-python-time-finally-mock-and-testing-exceptions-da4)
+- [n8n Notion Node: Read, Create, Update, and Search Database Pages &lpar;+ Free JSON&rpar;](https://dev.to/pirateprentice/n8n-notion-node-read-create-update-and-search-database-pages-free-json-1ho3)
+- [Stable Screenshot Tests and Flow Benchmarks in KMP](https://dev.to/theaxcode/stable-screenshot-tests-and-flow-benchmarks-in-kmp-20pb)
+- [Qwen-AgentWorld Trains a Language Model as a World Model for RL Agents: World Model as a Decoupled RL Simulator](https://dev.to/pueding/qwen-agentworld-trains-a-language-model-as-a-world-model-for-rl-agents-world-model-as-a-decoupled-3ea2)
+- [Testing Zyloo as an OpenAI-Compatible AI Gateway](https://dev.to/henriquejsza/testing-zyloo-as-an-openai-compatible-ai-gateway-18cn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
