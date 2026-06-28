@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Guitar Chord Tab Rendering: Simplifying Web and App Display with Efficient, Code-Light Solutions](https://dev.to/maxgeris/optimizing-guitar-chord-tab-rendering-simplifying-web-and-app-display-with-efficient-code-light-4oo4)
-- [Branch Agent: Git-Style Branching for LLM Conversations](https://dev.to/harishkotra/branch-agent-git-style-branching-for-llm-conversations-5c61)
-- [Frugal Architect for SIers: Reflections from AWS GameDay](https://dev.to/rbcn/frugal-architect-for-siers-reflections-from-aws-gameday-2lbe)
-- [You Don&#39;t Have To Build Everything Yourself](https://dev.to/stinklewinks/you-dont-have-to-build-everything-yourself-2fk6)
-- [Cutting Through the Noise: The 2026 AI Coding Subscription Guide](https://dev.to/youxufkhan/cutting-through-the-noise-the-2026-ai-coding-subscription-guide-2kb4)
+- [Celebrity Problem](https://dev.to/jaspreet_singh_86ae1740ac/celebrity-problem-2kma)
+- [Building a Low-Level ICMP Sniffer in x64 Assembly &lpar;Raw Sockets&rpar;](https://dev.to/jm00nj/building-a-low-level-icmp-sniffer-in-x64-assembly-raw-sockets-5128)
+- [7 months building an open-source chess tool. Here&#39;s what actually happened.](https://dev.to/bilgegates/7-months-building-an-open-source-chess-tool-heres-what-actually-happened-1g60)
+- [I put Cloudflare in front of my site, then found my origin one DNS record away from undoing it](https://dev.to/blackneuron/i-put-cloudflare-in-front-of-my-site-then-found-my-origin-one-dns-record-away-from-undoing-it-49bf)
+- [Linux Process Evasion: ptrace &amp; prctl](https://dev.to/jm00nj/linux-process-evasion-ptrace-prctl-4ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
