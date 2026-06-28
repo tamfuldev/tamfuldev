@@ -6,15 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve been thinking about building a vehicle rental platform, but I&#39;m hesitant because there are already so many established apps in the market.
-
-I&#39;m curious to hear from people who have actually rented bikes or cars.
-
-What do you dislike about the current](https://dev.to/krish_dhola_012f8a804c52c/ive-been-thinking-about-building-a-vehicle-rental-platform-but-im-hesitant-because-there-are-4iok)
-- [Absolute Revolution in Assistants, ChuroAI.](https://dev.to/mathobsession/absolute-revolution-in-assistants-churoai-p7b)
-- [Context Engineering Is the New Prompt Engineering](https://dev.to/yash_sonawane25/context-engineering-is-the-new-prompt-engineering-556h)
-- [The n8n bug that took three tries to find &lpar;and the free workflow it broke&rpar;](https://dev.to/ibrh96prog/the-n8n-bug-that-took-three-tries-to-find-and-the-free-workflow-it-broke-21ei)
-- [A no-hype AI literacy framework for working professionals](https://dev.to/ankulr_wtw6/a-no-hype-ai-literacy-framework-for-working-professionals-3ncg)
+- [PDF::Make - PDF Generation, Extraction and Modification.](https://dev.to/lnation/pdfmake-pdf-generation-extraction-and-modification-4696)
+- [FastAPI Crash Course: Build a CRUD REST API in ~40 Lines of Python](https://dev.to/mihirmohapatra/fastapi-crash-course-build-a-crud-rest-api-in-40-lines-of-python-2m0)
+- [How to Fix Messy Markdown from Notion or Obsidian](https://dev.to/utilitylab/how-to-fix-messy-markdown-from-notion-or-obsidian-3pp2)
+- [My first vibe coding project taught me I didn&#39;t actually know what I was building](https://dev.to/kraizman/my-first-vibe-coding-project-taught-me-i-didnt-actually-know-what-i-was-building-1af8)
+- [What ChatGPT Actually Sees When It Reads Your Website &lpar;And Why It Skips You&rpar;](https://dev.to/wegotthistogether/what-chatgpt-actually-sees-when-it-reads-your-website-and-why-it-skips-you-1328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
