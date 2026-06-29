@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your README Is More Than Documentation](https://dev.to/neithergalax/your-readme-is-more-than-documentation-578m)
-- [Angular Reactive Forms Validation — Complete Guide &lpar;2026&rpar;](https://dev.to/alkademy/angular-reactive-forms-validation-complete-guide-2026-l69)
-- [Angular CRUD Tutorial &lpar;2026 Edition&rpar; — Part 1: Setup with Spring Boot](https://dev.to/alkademy/angular-crud-tutorial-2026-edition-part-1-setup-with-spring-boot-372h)
-- [I find Japan-shaped holes in global software](https://dev.to/greymothjp/i-find-japan-shaped-holes-in-global-software-5dnf)
-- [KV Cache Is Eating Your VRAM — Here&#39;s How to Estimate It Before You Run Out](https://dev.to/zxpmail/kv-cache-is-eating-your-vram-heres-how-to-estimate-it-before-you-run-out-4oia)
+- [Trade-off: The First Word I Was Told to Carry for Life](https://dev.to/chaesang/trade-off-the-first-word-i-was-told-to-carry-for-life-2mjk)
+- [Streamlining Gladly Task Creation with Apex Code](https://dev.to/sahil_khurana_486f374ecf2/streamlining-gladly-task-creation-with-apex-code-c79)
+- [Title](https://dev.to/binarywarrior365/title-4n2n)
+- [How I built a Milvus ALTER command in Django &lpar;before native support existed&rpar;](https://dev.to/anuj66283/how-i-built-a-milvus-alter-command-in-django-before-native-support-existed-5g6f)
+- [Two audits of my own knowledge graph found two unrelated silent failures](https://dev.to/ernesto_arias_148b35bc25d/two-audits-of-my-own-knowledge-graph-found-two-unrelated-silent-failures-4nfp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
