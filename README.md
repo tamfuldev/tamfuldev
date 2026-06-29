@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Modeling a Creator SaaS in a Single DynamoDB Table](https://dev.to/jwambui/exploring-single-h38)
-- [Common Security Vulnerabilities in Nigerian Web Apps — And How to Fix Them](https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8)
-- [I Hoped Spending Less Would Solve It. The Data Said Otherwise.](https://dev.to/robert_floyddugger_6f9a4/i-hoped-spending-less-would-solve-it-the-data-said-otherwise-la2)
-- [Reactive Forms](https://dev.to/atilla_baspinar_c5c68ec63/reactive-forms-430a)
-- [I Was Tired of Downloading the Same npm Packages—So I Built PackVault](https://dev.to/rishibyte/i-was-tired-of-downloading-the-same-npm-packages-so-i-built-packvault-3cal)
+- [POWER BI - FIRST FLIGHT](https://dev.to/brian_kiprop/power-bi-first-flight-3249)
+- [Structured Output in LangChain](https://dev.to/abhishekjaiswal_4896/structured-output-in-langchain-665)
+- [Build a Stock Dashboard from Three Keyless Public Data Feeds](https://dev.to/scrapemint/build-a-stock-dashboard-from-three-keyless-public-data-feeds-lc6)
+- [I Built a Global Opinion Platform in 72 Hours — Here Is What Actually Went Wrong](https://dev.to/hafiz_muhammadsalman_f28/i-built-a-global-opinion-platform-in-72-hours-here-is-what-actually-went-wrong-40b6)
+- [I built a Python ORM with a Rust engine — here&#39;s how the GIL, PyO3, and asyncio actually cooperate](https://dev.to/vsdudakov/i-built-a-python-orm-with-a-rust-engine-heres-how-the-gil-pyo3-and-asyncio-actually-cooperate-4fkj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
