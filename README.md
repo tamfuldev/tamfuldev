@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Affiliate Marketing for Developers](https://dev.to/alexmarker1231/affiliate-marketing-for-developers-1mj)
-- [Designing a strongly-consistent event exchange on Amazon Aurora DSQL](https://dev.to/saatwik_kumaryadav_8b656/designing-a-strongly-consistent-event-exchange-on-amazon-aurora-dsql-2bi)
-- [Is AI making us better developers, or is it just making us lazy reviewers? 🤖⚠️](https://dev.to/__rahul_singh__/is-ai-making-us-better-developers-or-is-it-just-making-us-lazy-reviewers-lc1)
-- [The Code Review Metrics No One Is Tracking..](https://dev.to/dev_kiran/the-code-review-metrics-no-one-is-tracking-2mm6)
-- [How to Build a Telegram Bot in 30 Minutes &lpar;That Actually Does Something Useful&rpar;](https://dev.to/automate_ai/how-to-build-a-telegram-bot-in-30-minutes-that-actually-does-something-useful-58fd)
+- [How I Built a Civic Traffic App on DynamoDB + Vercel — ChowkChakra &lpar;#H0Hackathon&rpar;](https://dev.to/omkar598/how-i-built-a-civic-traffic-app-on-dynamodb-vercel-chowkchakra-h0hackathon-3oon)
+- [Why Most AI Trading Bots Fail &lpar;And What Ours Did Wrong Too&rpar;](https://dev.to/cart0ne/why-most-ai-trading-bots-fail-and-what-ours-did-wrong-too-57j6)
+- [100k lines of TypeScript to Rust with zero Rust experience. That&#39;s not engineering.](https://dev.to/adioof/100k-lines-of-typescript-to-rust-with-zero-rust-experience-thats-not-engineering-3ii4)
+- [Why Most AI Automation Projects Fail Before Development Starts](https://dev.to/vaibhav_jain_ai/why-most-ai-automation-projects-fail-before-development-starts-4hla)
+- [Building a Self-Hosted Remote Desktop with Cloudflare Workers and WebRTC](https://dev.to/huo_huo_ba0fc42b443732322/building-a-self-hosted-remote-desktop-with-cloudflare-workers-and-webrtc-kka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
