@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Execution Context — Hoisting](https://dev.to/vyhuit/execution-context-hoisting-4d0e)
-- [Adding Google Login to IdentityServer](https://dev.to/josephndungi/adding-google-login-to-identityserver-3g30)
-- [Execution Context — Call Stack](https://dev.to/vyhuit/execution-context-call-stack-45e3)
-- [I Built 9 Production-Ready Telegram Bots in Python — Full Open Source](https://dev.to/castanderness/i-built-9-production-ready-telegram-bots-in-python-full-open-source-1mco)
-- [Your Next.js Deploy Was Green. Did Signup Get Worse?](https://dev.to/jakexkim/your-nextjs-deploy-was-green-did-signup-get-worse-5hf6)
+- [Affiliate Marketing for Developers](https://dev.to/alexmarker1231/affiliate-marketing-for-developers-1mj)
+- [Designing a strongly-consistent event exchange on Amazon Aurora DSQL](https://dev.to/saatwik_kumaryadav_8b656/designing-a-strongly-consistent-event-exchange-on-amazon-aurora-dsql-2bi)
+- [Is AI making us better developers, or is it just making us lazy reviewers? 🤖⚠️](https://dev.to/__rahul_singh__/is-ai-making-us-better-developers-or-is-it-just-making-us-lazy-reviewers-lc1)
+- [The Code Review Metrics No One Is Tracking..](https://dev.to/dev_kiran/the-code-review-metrics-no-one-is-tracking-2mm6)
+- [How to Build a Telegram Bot in 30 Minutes &lpar;That Actually Does Something Useful&rpar;](https://dev.to/automate_ai/how-to-build-a-telegram-bot-in-30-minutes-that-actually-does-something-useful-58fd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
