@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Civic Traffic App on DynamoDB + Vercel — ChowkChakra &lpar;#H0Hackathon&rpar;](https://dev.to/omkar598/how-i-built-a-civic-traffic-app-on-dynamodb-vercel-chowkchakra-h0hackathon-3oon)
-- [Why Most AI Trading Bots Fail &lpar;And What Ours Did Wrong Too&rpar;](https://dev.to/cart0ne/why-most-ai-trading-bots-fail-and-what-ours-did-wrong-too-57j6)
-- [100k lines of TypeScript to Rust with zero Rust experience. That&#39;s not engineering.](https://dev.to/adioof/100k-lines-of-typescript-to-rust-with-zero-rust-experience-thats-not-engineering-3ii4)
-- [Why Most AI Automation Projects Fail Before Development Starts](https://dev.to/vaibhav_jain_ai/why-most-ai-automation-projects-fail-before-development-starts-4hla)
-- [Building a Self-Hosted Remote Desktop with Cloudflare Workers and WebRTC](https://dev.to/huo_huo_ba0fc42b443732322/building-a-self-hosted-remote-desktop-with-cloudflare-workers-and-webrtc-kka)
+- [Modeling a Creator SaaS in a Single DynamoDB Table](https://dev.to/jwambui/exploring-single-h38)
+- [Common Security Vulnerabilities in Nigerian Web Apps — And How to Fix Them](https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8)
+- [I Hoped Spending Less Would Solve It. The Data Said Otherwise.](https://dev.to/robert_floyddugger_6f9a4/i-hoped-spending-less-would-solve-it-the-data-said-otherwise-la2)
+- [Reactive Forms](https://dev.to/atilla_baspinar_c5c68ec63/reactive-forms-430a)
+- [I Was Tired of Downloading the Same npm Packages—So I Built PackVault](https://dev.to/rishibyte/i-was-tired-of-downloading-the-same-npm-packages-so-i-built-packvault-3cal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
