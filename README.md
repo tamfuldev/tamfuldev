@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here&#39;s the Playbook](https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4)
-- [I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.](https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd)
-- [The State of Startups 2026: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4)
-- [Building Phinq: How a Cronjob Failure Forced Me to Redesign Agent Governance From Scratch](https://dev.to/hythamh/building-phinq-how-a-cronjob-failure-forced-me-to-redesign-agent-governance-from-scratch-47og)
-- [Building an Omegle Alternative in 2026: What I Learned from Creating a Real-Time Chat Platform](https://dev.to/gowrishankar_rangasamy_f9/building-an-omegle-alternative-in-2026-what-i-learned-from-creating-a-real-time-chat-platform-2nh1)
+- [Claude Sonnet 5 Just Made Running Agents Cheap — What Builders Actually Need to Know](https://dev.to/galian/claude-sonnet-5-just-made-running-agents-cheap-what-builders-actually-need-to-know-11j7)
+- [Why your monitoring is missing the dumbest outages](https://dev.to/selllami/why-your-monitoring-is-missing-the-dumbest-outages-41hi)
+- [[GCD] Gestionando hilos de forma segura y optimizada](https://dev.to/david_goyes_a488f58a17a53/gcd-gestionando-hilos-de-forma-segura-y-optimizada-4f28)
+- [Sonnet 5 dropped today. Watch the other hand.](https://dev.to/vinimabreu/sonnet-5-dropped-today-watch-the-other-hand-p50)
+- [I almost gave my product the wrong message. The data saved me.](https://dev.to/payableat/i-almost-gave-my-product-the-wrong-message-the-data-saved-me-3782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
