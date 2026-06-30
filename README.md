@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced Image AI for Technical Diagrams with an 8-Tool Code-First Matrix](https://dev.to/nomurasan/i-replaced-image-ai-for-technical-diagrams-with-an-8-tool-code-first-matrix-3f9n)
-- [Why Organizations Need an AI Gateway](https://dev.to/truefoundry/why-organizations-need-an-ai-gateway-2obl)
-- [🚦 Meet Kueue: Smart Job Queueing for Kubernetes 🧠⚙️](https://dev.to/hkhelil/meet-kueue-smart-job-queueing-for-kubernetes-3gj)
-- [The Illusion of the Clean Slate](https://dev.to/adamthedeveloper/the-illusion-of-the-clean-slate-2di0)
-- [A Prompt Is a Wish. A Tool Is a Law.](https://dev.to/ouvarov/a-prompt-is-a-wish-a-tool-is-a-law-54pl)
+- [Let Aurora Sleep: Multi-Tenant SaaS Cost, Reconsidered with AI IaC](https://dev.to/gyu07/let-aurora-sleep-multi-tenant-saas-cost-reconsidered-with-ai-x-iac-3c1o)
+- [Your Dedicated Server Benchmark Looks Great. Your Production Database Disagrees. Here&#39;s Why.](https://dev.to/hostrunway/your-dedicated-server-benchmark-looks-great-your-production-database-disagrees-heres-why-2iei)
+- [I Forgot Which AI Tool Built My Project — So I Investigated Like a Detective](https://dev.to/jvicmaina/i-forgot-which-ai-tool-built-my-project-so-i-investigated-like-a-detective-3ooa)
+- [I Tested 7 Self-Hosted AI Project Tracking Tools - Here&#39;s What Actually Works](https://dev.to/danielbrooks1980/i-tested-7-self-hosted-ai-project-tracking-tools-heres-what-actually-works-2ei8)
+- [Shelved Projects #1: Windows Automata](https://dev.to/unitbuilds/shelved-projects-1-windows-automata-4ji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
