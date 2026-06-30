@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building BrewCore: Espresso Tracking on Vercel, DynamoDB, and Amazon Bedrock](https://dev.to/himaatluri/building-brewcore-espresso-tracking-on-vercel-dynamodb-and-amazon-bedrock-3hmf)
-- [Deploy AI agents in 5 lines of code.](https://dev.to/custodianlabs/deploy-ai-agents-in-5-lines-of-code-3fji)
-- [Building a passwordless, Gemini-advised dashboard on the &quot;zero stack&quot;](https://dev.to/kajotainc/building-a-passwordless-gemini-advised-dashboard-on-the-zero-stack-3di2)
-- [Why I Built &quot;WIN RAK&quot;: A Privacy-First Alternative to Passive Location Tracking](https://dev.to/omarelhaitoum/why-i-built-win-rak-a-privacy-first-alternative-to-passive-location-tracking-3pgn)
-- [LLM Integration in CI/CD: Real Use Cases Beyond Code Completion](https://dev.to/manikanta_suru_92/llm-integration-in-cicd-real-use-cases-beyond-code-completion-e8f)
+- [Improving JavaScript Bundler Performance with Rust-Based Glob Pattern Matching to Overcome Picomatch Limitations](https://dev.to/pavkode/improving-javascript-bundler-performance-with-rust-based-glob-pattern-matching-to-overcome-1ekn)
+- [CTE vs Temporary Tables in SQL: Which One Should You Use?](https://dev.to/akbatra567/cte-vs-temporary-tables-in-sql-which-one-should-you-use-1cpf)
+- [2026: HR is Dead — Build Your Own AI to Process 310 Resumes in Half an Hour](https://dev.to/fikacx/2026-hr-is-dead-build-your-own-ai-to-process-310-resumes-in-half-an-hour-24l1)
+- [【2026】Postman 代替の軽量APIクライアント比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-postman-dai-ti-noqing-liang-apikuraiantobi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1n3m)
+- [2026年版：FastAPIエージェントに渡すCLAUDE.md/AGENTS.mdの実例と書き方](https://dev.to/_7fb6011b57d383122b5a/2026nian-ban-fastapiezientonidu-suclaudemdagentsmdnoshi-li-toshu-kifang-2mp7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
