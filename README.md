@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Let Aurora Sleep: Multi-Tenant SaaS Cost, Reconsidered with AI IaC](https://dev.to/gyu07/let-aurora-sleep-multi-tenant-saas-cost-reconsidered-with-ai-x-iac-3c1o)
-- [Your Dedicated Server Benchmark Looks Great. Your Production Database Disagrees. Here&#39;s Why.](https://dev.to/hostrunway/your-dedicated-server-benchmark-looks-great-your-production-database-disagrees-heres-why-2iei)
-- [I Forgot Which AI Tool Built My Project — So I Investigated Like a Detective](https://dev.to/jvicmaina/i-forgot-which-ai-tool-built-my-project-so-i-investigated-like-a-detective-3ooa)
-- [I Tested 7 Self-Hosted AI Project Tracking Tools - Here&#39;s What Actually Works](https://dev.to/danielbrooks1980/i-tested-7-self-hosted-ai-project-tracking-tools-heres-what-actually-works-2ei8)
-- [Shelved Projects #1: Windows Automata](https://dev.to/unitbuilds/shelved-projects-1-windows-automata-4ji)
+- [I spent a week trying to make AI-assisted development less chaotic.](https://dev.to/davidvk89/i-spent-a-week-trying-to-make-ai-assisted-development-less-chaotic-366h)
+- [Nobody Gets Paid for Knowing Syntax. They Get Paid for Solving Problems.](https://dev.to/astonishbuddy/nobody-gets-paid-for-knowing-syntax-they-get-paid-for-solving-problems-46ff)
+- [Cutting Idle Agent Costs by 90% with Agent Substrate](https://dev.to/thenjdevopsguy/cutting-idle-agent-costs-by-90-with-agent-substrate-18en)
+- [From one blocking accept&lpar;&rpar; to epoll: a C TCP server up the I/O ladder, measured](https://dev.to/valentynkit/from-one-blocking-accept-to-epoll-a-c-tcp-server-up-the-io-ladder-measured-3bi9)
+- [Shifting Left: How TDD Became the Foundation of SokoFlow&#39;s Core Engine](https://dev.to/paulmurithi/shifting-left-how-tdd-became-the-foundation-of-sokoflows-core-engine-485f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
