@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Terraform Awakens: Infrastructure as Code Quest](https://dev.to/timevolt/the-terraform-awakens-infrastructure-as-code-quest-1mgb)
-- [Learn to code.](https://dev.to/hunterwbuilds/learn-to-code-4pck)
-- [Your agent stops obeying your rules halfway through the session. Here&#39;s the structural reason — and the fix.](https://dev.to/anisa_agenticai/your-agent-stops-obeying-your-rules-halfway-through-the-session-heres-the-structural-reason-and-h6m)
-- [Choosing a Testing Orchestration Tool: A Loyalty-Discount Module Tested Across GitHub Actions, GitLab CI/CD, Jenkins, and CircleCI](https://dev.to/diego_fabrizioandianava/cicd-tools-comparison-github-actions-vs-jenkins-vs-gitlab-ci-3928)
-- [Feature engineering didn&#39;t die. Engineers just stopped doing it](https://dev.to/jignesh_maheshwari_93e21d/feature-engineering-didnt-die-engineers-just-stopped-doing-it-17dg)
+- [Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here&#39;s the Playbook](https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4)
+- [I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.](https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd)
+- [The State of Startups 2026: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4)
+- [Building Phinq: How a Cronjob Failure Forced Me to Redesign Agent Governance From Scratch](https://dev.to/hythamh/building-phinq-how-a-cronjob-failure-forced-me-to-redesign-agent-governance-from-scratch-47og)
+- [Building an Omegle Alternative in 2026: What I Learned from Creating a Real-Time Chat Platform](https://dev.to/gowrishankar_rangasamy_f9/building-an-omegle-alternative-in-2026-what-i-learned-from-creating-a-real-time-chat-platform-2nh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
