@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I spent a week trying to make AI-assisted development less chaotic.](https://dev.to/davidvk89/i-spent-a-week-trying-to-make-ai-assisted-development-less-chaotic-366h)
-- [Nobody Gets Paid for Knowing Syntax. They Get Paid for Solving Problems.](https://dev.to/astonishbuddy/nobody-gets-paid-for-knowing-syntax-they-get-paid-for-solving-problems-46ff)
-- [Cutting Idle Agent Costs by 90% with Agent Substrate](https://dev.to/thenjdevopsguy/cutting-idle-agent-costs-by-90-with-agent-substrate-18en)
-- [From one blocking accept&lpar;&rpar; to epoll: a C TCP server up the I/O ladder, measured](https://dev.to/valentynkit/from-one-blocking-accept-to-epoll-a-c-tcp-server-up-the-io-ladder-measured-3bi9)
-- [Shifting Left: How TDD Became the Foundation of SokoFlow&#39;s Core Engine](https://dev.to/paulmurithi/shifting-left-how-tdd-became-the-foundation-of-sokoflows-core-engine-485f)
+- [The TypeScript `satisfies` Operator in 2026: Patterns You&#39;re Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
+- [Introducing USPS ZIP+4 Postal Code Support for the Geocoding API](https://dev.to/erwin_soekianto/introducing-usps-zip4-postal-code-support-for-the-geocoding-api-5eg1)
+- [browser-search — three tools, zero cost, and your AI agent learns to search and browse the web](https://dev.to/johell_53f6d09d8a4c3ce7b8/browser-search-three-tools-zero-cost-and-your-ai-agent-learns-to-search-and-browse-the-web-4im)
+- [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o)
+- [Your AI Agent Does Not Need More Chat History. It Needs Real Memory 🧠✨](https://dev.to/ecd5a/your-ai-agent-does-not-need-more-chat-history-it-needs-real-memory-2c13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
