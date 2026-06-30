@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The TypeScript `satisfies` Operator in 2026: Patterns You&#39;re Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
-- [Introducing USPS ZIP+4 Postal Code Support for the Geocoding API](https://dev.to/erwin_soekianto/introducing-usps-zip4-postal-code-support-for-the-geocoding-api-5eg1)
-- [browser-search — three tools, zero cost, and your AI agent learns to search and browse the web](https://dev.to/johell_53f6d09d8a4c3ce7b8/browser-search-three-tools-zero-cost-and-your-ai-agent-learns-to-search-and-browse-the-web-4im)
-- [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o)
-- [Your AI Agent Does Not Need More Chat History. It Needs Real Memory 🧠✨](https://dev.to/ecd5a/your-ai-agent-does-not-need-more-chat-history-it-needs-real-memory-2c13)
+- [The Terraform Awakens: Infrastructure as Code Quest](https://dev.to/timevolt/the-terraform-awakens-infrastructure-as-code-quest-1mgb)
+- [Learn to code.](https://dev.to/hunterwbuilds/learn-to-code-4pck)
+- [Your agent stops obeying your rules halfway through the session. Here&#39;s the structural reason — and the fix.](https://dev.to/anisa_agenticai/your-agent-stops-obeying-your-rules-halfway-through-the-session-heres-the-structural-reason-and-h6m)
+- [Choosing a Testing Orchestration Tool: A Loyalty-Discount Module Tested Across GitHub Actions, GitLab CI/CD, Jenkins, and CircleCI](https://dev.to/diego_fabrizioandianava/cicd-tools-comparison-github-actions-vs-jenkins-vs-gitlab-ci-3928)
+- [Feature engineering didn&#39;t die. Engineers just stopped doing it](https://dev.to/jignesh_maheshwari_93e21d/feature-engineering-didnt-die-engineers-just-stopped-doing-it-17dg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
