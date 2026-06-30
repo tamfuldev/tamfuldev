@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Improving JavaScript Bundler Performance with Rust-Based Glob Pattern Matching to Overcome Picomatch Limitations](https://dev.to/pavkode/improving-javascript-bundler-performance-with-rust-based-glob-pattern-matching-to-overcome-1ekn)
-- [CTE vs Temporary Tables in SQL: Which One Should You Use?](https://dev.to/akbatra567/cte-vs-temporary-tables-in-sql-which-one-should-you-use-1cpf)
-- [2026: HR is Dead — Build Your Own AI to Process 310 Resumes in Half an Hour](https://dev.to/fikacx/2026-hr-is-dead-build-your-own-ai-to-process-310-resumes-in-half-an-hour-24l1)
-- [【2026】Postman 代替の軽量APIクライアント比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-postman-dai-ti-noqing-liang-apikuraiantobi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1n3m)
-- [2026年版：FastAPIエージェントに渡すCLAUDE.md/AGENTS.mdの実例と書き方](https://dev.to/_7fb6011b57d383122b5a/2026nian-ban-fastapiezientonidu-suclaudemdagentsmdnoshi-li-toshu-kifang-2mp7)
+- [I Replaced Image AI for Technical Diagrams with an 8-Tool Code-First Matrix](https://dev.to/nomurasan/i-replaced-image-ai-for-technical-diagrams-with-an-8-tool-code-first-matrix-3f9n)
+- [Why Organizations Need an AI Gateway](https://dev.to/truefoundry/why-organizations-need-an-ai-gateway-2obl)
+- [🚦 Meet Kueue: Smart Job Queueing for Kubernetes 🧠⚙️](https://dev.to/hkhelil/meet-kueue-smart-job-queueing-for-kubernetes-3gj)
+- [The Illusion of the Clean Slate](https://dev.to/adamthedeveloper/the-illusion-of-the-clean-slate-2di0)
+- [A Prompt Is a Wish. A Tool Is a Law.](https://dev.to/ouvarov/a-prompt-is-a-wish-a-tool-is-a-law-54pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
