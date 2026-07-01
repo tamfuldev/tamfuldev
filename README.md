@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Pages Aren&#39;t Showing Up on Google &lpar;And How I Fixed It&rpar;](https://dev.to/momen_abdelhafez_7bdf38eb/why-your-pages-arent-showing-up-on-google-and-how-i-fixed-it-4pii)
-- [Corvorum OS 1.0 - Sistema Operativo Tecnomántico](https://dev.to/technomantus_corvi/corvorum-os-10-sistema-operativo-tecnomantico-68h)
-- [Building Better Power BI Models; A Guide to Relationships, Fact Tables, Star Schema, and Joins](https://dev.to/mugendi_mungathia_ad20ca/building-better-power-bi-models-a-guide-to-relationships-fact-tables-star-schema-and-joins-12g5)
-- [Sprint 4 closed: GitHub Integration](https://dev.to/meronq/sprint-4-closed-github-integration-5be)
-- [NVIDIA&#39;s warm-water fix for AI&#39;s thirsty data centers](https://dev.to/breachprotocol/nvidias-warm-water-fix-for-ais-thirsty-data-centers-4h89)
+- [Why Do Token-2022 Extensions Have to Be Added at Mint Creation?](https://dev.to/devduchess/why-do-token-2022-extensions-have-to-be-added-at-mint-creation-1m58)
+- [Claude Code hooks are the seatbelt nobody buckles — here&#39;s the 10-hook setup that makes agent disasters impossible](https://dev.to/solemness/claude-code-hooks-are-the-seatbelt-nobody-buckles-heres-the-10-hook-setup-that-makes-agent-4p7m)
+- [Two labs race to make AI write whole paragraphs at once instead of word by word](https://dev.to/breachprotocol/two-labs-race-to-make-ai-write-whole-paragraphs-at-once-instead-of-word-by-word-51ao)
+- [Why Your LLM Doesn&#39;t Re-Read the Prompt: The KV-Cache](https://dev.to/dev48v/why-your-llm-doesnt-re-read-the-prompt-the-kv-cache-5je)
+- [One &quot;+x&quot; That Made 100-Layer Networks Trainable: ResNet Skip Connections](https://dev.to/dev48v/one-x-that-made-100-layer-networks-trainable-resnet-skip-connections-69c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
