@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a warranty registration agent that can read receipts and reply](https://dev.to/mqasimca/build-a-warranty-registration-agent-that-can-read-receipts-and-reply-4kb6)
-- [[Event] Let&#39;s catch up at WeAreDevelopers World Congress 2026](https://dev.to/upsun/event-lets-catch-up-at-wearedevelopers-world-congress-2026-9ni)
-- [The one-line GitHub Actions cache most repos forget](https://dev.to/ace2932/the-one-line-github-actions-cache-most-repos-forget-1ke7)
-- [Stop Writing Custom Auth, Analytics, and Media Pipelines: The Production-Grade SaaS Architecture for 2026](https://dev.to/apives_ecosystem/stop-writing-custom-auth-analytics-and-media-pipelines-the-production-grade-saas-architecture-10a3)
-- [How Switching to Linux Changed the Way I Learn Programming](https://dev.to/lakshmi_sravanyathiru/how-switching-to-linux-changed-the-way-i-learn-programming-329l)
+- [Why Juice Generates CSS Instead of Owning It](https://dev.to/stinklewinks/why-juice-generates-css-instead-of-owning-it-gk)
+- [Your AI Isn&#39;t Racist, It Just Read a Lot of Bad History](https://dev.to/lovestaco/your-ai-isnt-racist-it-just-read-a-lot-of-bad-history-4l5b)
+- [Faster AI training by quietly cloning the model](https://dev.to/breachprotocol/faster-ai-training-by-quietly-cloning-the-model-1nb3)
+- [I Built an AI Security Scanner — Then Found a Bug in My Own Detector](https://dev.to/nar1frames/i-built-an-ai-security-scanner-then-found-a-bug-in-my-own-detector-4jeb)
+- [Building LSTMs with PyTorch and Lightning AI Part 8: Setting Up a Simpler LSTM](https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-8-setting-up-a-simpler-lstm-2ig3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
