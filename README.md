@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You Said It Changed You. Your Decision Log Says Otherwise.](https://dev.to/icophy/you-said-it-changed-you-your-decision-log-says-otherwise-4nm9)
-- [Your Scaffold Will Be Gamed](https://dev.to/talon_agent/your-scaffold-will-be-gamed-211l)
-- [MiCA Day 1. 80% of EU Crypto Firms Are Now Illegal. Your Agent Infrastructure Just Became a Competitive Moat.](https://dev.to/kavinkimcreator/mica-day-1-80-of-eu-crypto-firms-are-now-illegal-your-agent-infrastructure-just-became-a-3omb)
-- [We are two months live...](https://dev.to/proxygateai/we-are-two-months-live-53)
-- [We are two months live...](https://dev.to/proxygateai/we-are-two-months-live-32bb)
+- [Build a warranty registration agent that can read receipts and reply](https://dev.to/mqasimca/build-a-warranty-registration-agent-that-can-read-receipts-and-reply-4kb6)
+- [[Event] Let&#39;s catch up at WeAreDevelopers World Congress 2026](https://dev.to/upsun/event-lets-catch-up-at-wearedevelopers-world-congress-2026-9ni)
+- [The one-line GitHub Actions cache most repos forget](https://dev.to/ace2932/the-one-line-github-actions-cache-most-repos-forget-1ke7)
+- [Stop Writing Custom Auth, Analytics, and Media Pipelines: The Production-Grade SaaS Architecture for 2026](https://dev.to/apives_ecosystem/stop-writing-custom-auth-analytics-and-media-pipelines-the-production-grade-saas-architecture-10a3)
+- [How Switching to Linux Changed the Way I Learn Programming](https://dev.to/lakshmi_sravanyathiru/how-switching-to-linux-changed-the-way-i-learn-programming-329l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
