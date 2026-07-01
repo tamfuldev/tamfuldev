@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps for Homelab DNS &lpar;Dnsmasq&rpar;](https://dev.to/safesploit/gitops-for-homelab-dns-dnsmasq-5ep1)
-- [Detekt Explained: Enhance Kotlin Projects with Static Analysis - part 1](https://dev.to/willyshakes/detekt-explained-enhance-kotlin-projects-with-static-analysis-part-1-165k)
-- [Pull Live Crypto Market Data Without a Rate Limited Key](https://dev.to/scrapemint/pull-live-crypto-market-data-without-a-rate-limited-key-n06)
-- [Automating Dev.to Cross-Posts with n8n: From Manual to Hands-Free in 10 Minutes](https://dev.to/erwin_wilsonceniza2_adf9/automating-devto-cross-posts-with-n8n-from-manual-to-hands-free-in-10-minutes-4f6)
-- [philliant on youtube is the companion to the writing](https://dev.to/shrouwoods/philliant-on-youtube-is-the-companion-to-the-writing-315f)
+- [Memory Chips](https://dev.to/hknova/memory-chips-4am)
+- [Shielded Token Contracts on Midnight: Real Errors, Real Fixes](https://dev.to/codebigint_01/shielded-token-contracts-on-midnight-real-errors-real-fixes-4fc7)
+- [Web Scraping with Python in 2026: Best Libraries and Anti-Bot Strategies](https://dev.to/etriti00_19/web-scraping-with-python-in-2026-best-libraries-and-anti-bot-strategies-4p62)
+- [I found 10 bugs in my own security scanner. Here&#39;s what they taught me about false positives.](https://dev.to/zein_saleh_866d073614f017/i-found-10-bugs-in-my-own-security-scanner-heres-what-they-taught-me-about-false-positives-4o8m)
+- [The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic](https://dev.to/copyleftdev/the-ai-cost-modeling-handbook-i-let-claude-do-the-modeling-but-never-the-arithmetic-3h95)
 <!-- BLOG-POST-LIST:END -->
 
 ---
