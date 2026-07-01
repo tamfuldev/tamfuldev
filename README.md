@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Chips](https://dev.to/hknova/memory-chips-4am)
-- [Shielded Token Contracts on Midnight: Real Errors, Real Fixes](https://dev.to/codebigint_01/shielded-token-contracts-on-midnight-real-errors-real-fixes-4fc7)
-- [Web Scraping with Python in 2026: Best Libraries and Anti-Bot Strategies](https://dev.to/etriti00_19/web-scraping-with-python-in-2026-best-libraries-and-anti-bot-strategies-4p62)
-- [I found 10 bugs in my own security scanner. Here&#39;s what they taught me about false positives.](https://dev.to/zein_saleh_866d073614f017/i-found-10-bugs-in-my-own-security-scanner-heres-what-they-taught-me-about-false-positives-4o8m)
-- [The AI Cost-Modeling Handbook: I let Claude do the modeling, but never the arithmetic](https://dev.to/copyleftdev/the-ai-cost-modeling-handbook-i-let-claude-do-the-modeling-but-never-the-arithmetic-3h95)
+- [A Claude Skill That Makes Images Smaller](https://dev.to/dalirnet/a-claude-skill-that-makes-images-smaller-348b)
+- [I Built a Live Video Streaming Engine That Heals Itself](https://dev.to/chaitaneya/i-built-a-live-video-streaming-engine-that-heals-itself-3oji)
+- [We built a portal to the weird side of YouTube](https://dev.to/ninijacob/we-built-a-portal-to-the-weird-side-of-youtube-22pa)
+- [Multi-Agent Systems in Production: When One Agent Isn&#39;t Enough and How We Coordinate Them](https://dev.to/lycore/multi-agent-systems-in-production-when-one-agent-isnt-enough-and-how-we-coordinate-them-12di)
+- [What Is an MCP Registry? &lpar;And the NxM Problem It Solves&rpar;](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-registry-and-the-nxm-problem-it-solves-4ogm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
