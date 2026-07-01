@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Claude Skill That Makes Images Smaller](https://dev.to/dalirnet/a-claude-skill-that-makes-images-smaller-348b)
-- [I Built a Live Video Streaming Engine That Heals Itself](https://dev.to/chaitaneya/i-built-a-live-video-streaming-engine-that-heals-itself-3oji)
-- [We built a portal to the weird side of YouTube](https://dev.to/ninijacob/we-built-a-portal-to-the-weird-side-of-youtube-22pa)
-- [Multi-Agent Systems in Production: When One Agent Isn&#39;t Enough and How We Coordinate Them](https://dev.to/lycore/multi-agent-systems-in-production-when-one-agent-isnt-enough-and-how-we-coordinate-them-12di)
-- [What Is an MCP Registry? &lpar;And the NxM Problem It Solves&rpar;](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-registry-and-the-nxm-problem-it-solves-4ogm)
+- [You can index every repo in Cursor. It still can&#39;t tell you what breaks.](https://dev.to/danielwe/you-can-index-every-repo-in-cursor-it-still-cant-tell-you-what-breaks-4j5i)
+- [5 Telegram Bot Patterns Every Python Developer Should Know](https://dev.to/castanderness/5-telegram-bot-patterns-every-python-developer-should-know-3iip)
+- [How &quot;Vibe Coding&quot; Accidentally Turned My EC2 Instance Into a Cryptominer](https://dev.to/aws-builders/how-vibe-coding-accidentally-turned-my-ec2-instance-into-a-cryptominer-52n2)
+- [From Scratch to a Million Users — Part 2: What Breaks After Launch](https://dev.to/surajrkhonde/from-scratch-to-a-million-users-part-2-what-breaks-after-launch-39gd)
+- [AI Deep Learning: Explained Simply](https://dev.to/nigape/ai-deep-learning-explained-simply-43an)
 <!-- BLOG-POST-LIST:END -->
 
 ---
