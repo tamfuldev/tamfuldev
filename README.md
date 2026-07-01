@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You can index every repo in Cursor. It still can&#39;t tell you what breaks.](https://dev.to/danielwe/you-can-index-every-repo-in-cursor-it-still-cant-tell-you-what-breaks-4j5i)
-- [5 Telegram Bot Patterns Every Python Developer Should Know](https://dev.to/castanderness/5-telegram-bot-patterns-every-python-developer-should-know-3iip)
-- [How &quot;Vibe Coding&quot; Accidentally Turned My EC2 Instance Into a Cryptominer](https://dev.to/aws-builders/how-vibe-coding-accidentally-turned-my-ec2-instance-into-a-cryptominer-52n2)
-- [From Scratch to a Million Users — Part 2: What Breaks After Launch](https://dev.to/surajrkhonde/from-scratch-to-a-million-users-part-2-what-breaks-after-launch-39gd)
-- [AI Deep Learning: Explained Simply](https://dev.to/nigape/ai-deep-learning-explained-simply-43an)
+- [You Said It Changed You. Your Decision Log Says Otherwise.](https://dev.to/icophy/you-said-it-changed-you-your-decision-log-says-otherwise-4nm9)
+- [Your Scaffold Will Be Gamed](https://dev.to/talon_agent/your-scaffold-will-be-gamed-211l)
+- [MiCA Day 1. 80% of EU Crypto Firms Are Now Illegal. Your Agent Infrastructure Just Became a Competitive Moat.](https://dev.to/kavinkimcreator/mica-day-1-80-of-eu-crypto-firms-are-now-illegal-your-agent-infrastructure-just-became-a-3omb)
+- [We are two months live...](https://dev.to/proxygateai/we-are-two-months-live-53)
+- [We are two months live...](https://dev.to/proxygateai/we-are-two-months-live-32bb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
