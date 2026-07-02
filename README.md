@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [網紅程式設計師回應炒股一年虧130萬：當流量主體走進散戶敘事，虧損也成了內容](https://dev.to/cindyching0101/wang-hong-cheng-shi-she-ji-shi-hui-ying-chao-gu-nian-kui-130wan-dang-liu-liang-zhu-ti-zou-jin-san-hu-xu-shi-kui-sun-ye-cheng-liao-nei-rong-3ld4)
-- [5 REST API Mistakes That Cost Me Users — and How to Fix Them](https://dev.to/sirmax/5-rest-api-mistakes-that-cost-me-users-and-how-to-fix-them-57gi)
-- [PostgreSQL vs MongoDB vs Cassandra: Multi-Node and How to Choose](https://dev.to/priteshsurana/postgresql-vs-mongodb-vs-cassandra-multi-node-and-how-to-choose-370a)
-- [AI Agents Don&#39;t Need a Monorepo. They Need a Readable Codebase](https://dev.to/gyu07/ai-agents-dont-need-a-monorepo-they-need-a-readable-codebase-4c6f)
-- [[Databricks on AWS #5] Fixing Databricks BOOTSTRAP_TIMEOUT with AWS PrivateLink: Control Plane Over the Backbone, Zero New Subnets](https://dev.to/javaking1129/databricks-on-aws-5-fixing-databricks-bootstraptimeout-with-aws-privatelink-control-plane-over-pm9)
+- [AI Engineer Yol Haritası: Temelden Uzmanlığa Katman Katman](https://dev.to/ismail_hakki_eren/ai-engineer-yol-haritasi-temelden-uzmanliga-katman-katman-394h)
+- [System Design From Zero: An Engineering Head Teaches His Nephew](https://dev.to/surajrkhonde/system-design-from-zero-an-engineering-head-teaches-his-nephew-3l50)
+- [I built this for myself. Then realised other devs probably had the same problem.](https://dev.to/rayanahmax/i-built-this-for-myself-then-realised-other-devs-probably-had-the-same-problem-19gk)
+- [AI Assistants Are Quietly Sending You Customers — and Your CRM Can&#39;t See Them](https://dev.to/eyal_jacobymiller_5573b9/ai-assistants-are-quietly-sending-you-customers-and-your-crm-cant-see-them-4jj7)
+- [Coherent vs Streaming DMA: A Deep Dive into the Linux DMA Mapping API](https://dev.to/raghu_bharadwaj_404e60eb0c/coherent-vs-streaming-dma-a-deep-dive-into-the-linux-dma-mapping-api-5ej8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
