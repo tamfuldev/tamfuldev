@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [These Founders Skipped Graduation To Be Here](https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d)
-- [Reading a Verified Contract You Didn&#39;t Write: A Systematic Approach](https://dev.to/pavelespitia/reading-a-verified-contract-you-didnt-write-a-systematic-approach-54d4)
-- [Google VP of Technology says he’s given up on coding](https://dev.to/dailycontext/google-vp-of-technology-says-hes-given-up-on-coding-4j6c)
-- [Specs, not prompts: from harness engineering to hive mind](https://dev.to/blake_aber_f8c344d227aa82/specs-not-prompts-from-harness-engineering-to-hive-mind-3j90)
-- [How does Spring Boot simplify the development of Java applications?](https://dev.to/realnamehidden1_61/how-does-spring-boot-simplify-the-development-of-java-applications-454k)
+- [Dockeriser une API Flask de zéro sur Ubuntu : le guide complet pour ingénieurs africains](https://dev.to/romeo_dossou_b9a9ace7ba7c/dockeriser-une-api-flask-de-zero-sur-ubuntu-le-guide-complet-pour-ingenieurs-africains-kgi)
+- [Strix: Give Your App a Free AI Pentester Before It Ships](https://dev.to/arshtechpro/strix-give-your-app-a-free-ai-pentester-before-it-ships-1p5f)
+- [Layered Architecture: la semplicità degli strati ben definiti](https://dev.to/dev_iadicola/layered-architecture-la-semplicita-degli-strati-ben-definiti-3pff)
+- [翁荔Scaling Law博文解读](https://dev.to/cognitalk/weng-li-scaling-lawbo-wen-jie-du-lia)
+- [Coordinating Video Region Routers With etcd Distributed Configuration](https://dev.to/ahmet_gedik778845/coordinating-video-region-routers-with-etcd-distributed-configuration-ncn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
