@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Persism 2.4 - A zero ceremony ORM for Java](https://dev.to/dan_howard/persism-24-a-zero-ceremony-orm-for-java-33le)
-- [External and internal attention: one selective move in two directions](https://dev.to/poushwell/external-and-internal-attention-one-selective-move-in-two-directions-2o9c)
-- [Symfony: Validating &amp; Secure your API Requests](https://dev.to/johndivam/symfony-validating-secure-your-api-requests-45i8)
-- [Your AI agent just took an action in production. Can you answer five questions about it?](https://dev.to/sirinivask/your-ai-agent-just-took-an-action-in-production-can-you-answer-five-questions-about-it-17dp)
-- [Every Major ATS Has a Public JSON API for Job Openings. Nobody Uses Them.](https://dev.to/scrapemint/every-major-ats-has-a-public-json-api-for-job-openings-nobody-uses-them-f9j)
+- [&quot;I built an AI agent that pays its own bills — and you can fork it for $0&quot;](https://dev.to/razel369/i-built-an-ai-agent-that-pays-its-own-bills-and-you-can-fork-it-for-0-2ifk)
+- [Ng-News 26/16: OpenNG Foundation, spartan/ui](https://dev.to/playfulprogramming-angular/ng-news-2616-openng-foundation-spartanui-1aim)
+- [Auto Sound Recorder AI 的 5 个隐藏用法 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/auto-sound-recorder-ai-de-5-ge-yin-cang-yong-fa-o17)
+- [Eloquent Events vs Domain Events: Why the Framework Hook Isn&#39;t Enough](https://dev.to/gabrielanhaia/eloquent-events-vs-domain-events-why-the-framework-hook-isnt-enough-3mbg)
+- [Fable 5 got jailbroken again](https://dev.to/alexgetmancom/fable-5-got-jailbroken-again-2k97)
 <!-- BLOG-POST-LIST:END -->
 
 ---
