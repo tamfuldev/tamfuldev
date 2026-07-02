@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I built an AI agent that pays its own bills — and you can fork it for $0&quot;](https://dev.to/razel369/i-built-an-ai-agent-that-pays-its-own-bills-and-you-can-fork-it-for-0-2ifk)
-- [Ng-News 26/16: OpenNG Foundation, spartan/ui](https://dev.to/playfulprogramming-angular/ng-news-2616-openng-foundation-spartanui-1aim)
-- [Auto Sound Recorder AI 的 5 个隐藏用法 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/auto-sound-recorder-ai-de-5-ge-yin-cang-yong-fa-o17)
-- [Eloquent Events vs Domain Events: Why the Framework Hook Isn&#39;t Enough](https://dev.to/gabrielanhaia/eloquent-events-vs-domain-events-why-the-framework-hook-isnt-enough-3mbg)
-- [Fable 5 got jailbroken again](https://dev.to/alexgetmancom/fable-5-got-jailbroken-again-2k97)
+- [I got tired of rebuilding my diagnostic USB on every machine, so I fixed it once](https://dev.to/systems_byreg/i-got-tired-of-rebuilding-my-diagnostic-usb-on-every-machine-so-i-fixed-it-once-2d62)
+- [Stop Asking AI to &quot;Write Code&quot;. Teach It How to Work.](https://dev.to/joedev090/stop-asking-ai-to-write-code-teach-it-how-to-work-1m47)
+- [Shipping a libmpv-based video player on the Mac App Store](https://dev.to/yamayu-dev/shipping-a-libmpv-based-video-player-on-the-mac-app-store-1f2l)
+- [You Don&#39;t Need MIDI-OX Anymore: Building a SysEx Librarian with the Web MIDI API](https://dev.to/knobmonster/you-dont-need-midi-ox-anymore-building-a-sysex-librarian-with-the-web-midi-api-3pii)
+- [Phantom Squatting: When AI Hallucinated Domains Become Attacker Infrastructure](https://dev.to/coridev/phantom-squatting-when-ai-hallucinated-domains-become-attacker-infrastructure-1i67)
 <!-- BLOG-POST-LIST:END -->
 
 ---
