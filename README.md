@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Token-2022 Extensions Have to Be Added at Mint Creation?](https://dev.to/devduchess/why-do-token-2022-extensions-have-to-be-added-at-mint-creation-1m58)
-- [Claude Code hooks are the seatbelt nobody buckles — here&#39;s the 10-hook setup that makes agent disasters impossible](https://dev.to/solemness/claude-code-hooks-are-the-seatbelt-nobody-buckles-heres-the-10-hook-setup-that-makes-agent-4p7m)
-- [Two labs race to make AI write whole paragraphs at once instead of word by word](https://dev.to/breachprotocol/two-labs-race-to-make-ai-write-whole-paragraphs-at-once-instead-of-word-by-word-51ao)
-- [Why Your LLM Doesn&#39;t Re-Read the Prompt: The KV-Cache](https://dev.to/dev48v/why-your-llm-doesnt-re-read-the-prompt-the-kv-cache-5je)
-- [One &quot;+x&quot; That Made 100-Layer Networks Trainable: ResNet Skip Connections](https://dev.to/dev48v/one-x-that-made-100-layer-networks-trainable-resnet-skip-connections-69c)
+- [網紅程式設計師回應炒股一年虧130萬：當流量主體走進散戶敘事，虧損也成了內容](https://dev.to/cindyching0101/wang-hong-cheng-shi-she-ji-shi-hui-ying-chao-gu-nian-kui-130wan-dang-liu-liang-zhu-ti-zou-jin-san-hu-xu-shi-kui-sun-ye-cheng-liao-nei-rong-3ld4)
+- [5 REST API Mistakes That Cost Me Users — and How to Fix Them](https://dev.to/sirmax/5-rest-api-mistakes-that-cost-me-users-and-how-to-fix-them-57gi)
+- [PostgreSQL vs MongoDB vs Cassandra: Multi-Node and How to Choose](https://dev.to/priteshsurana/postgresql-vs-mongodb-vs-cassandra-multi-node-and-how-to-choose-370a)
+- [AI Agents Don&#39;t Need a Monorepo. They Need a Readable Codebase](https://dev.to/gyu07/ai-agents-dont-need-a-monorepo-they-need-a-readable-codebase-4c6f)
+- [[Databricks on AWS #5] Fixing Databricks BOOTSTRAP_TIMEOUT with AWS PrivateLink: Control Plane Over the Backbone, Zero New Subnets](https://dev.to/javaking1129/databricks-on-aws-5-fixing-databricks-bootstraptimeout-with-aws-privatelink-control-plane-over-pm9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
