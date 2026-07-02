@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dockeriser une API Flask de zéro sur Ubuntu : le guide complet pour ingénieurs africains](https://dev.to/romeo_dossou_b9a9ace7ba7c/dockeriser-une-api-flask-de-zero-sur-ubuntu-le-guide-complet-pour-ingenieurs-africains-kgi)
-- [Strix: Give Your App a Free AI Pentester Before It Ships](https://dev.to/arshtechpro/strix-give-your-app-a-free-ai-pentester-before-it-ships-1p5f)
-- [Layered Architecture: la semplicità degli strati ben definiti](https://dev.to/dev_iadicola/layered-architecture-la-semplicita-degli-strati-ben-definiti-3pff)
-- [翁荔Scaling Law博文解读](https://dev.to/cognitalk/weng-li-scaling-lawbo-wen-jie-du-lia)
-- [Coordinating Video Region Routers With etcd Distributed Configuration](https://dev.to/ahmet_gedik778845/coordinating-video-region-routers-with-etcd-distributed-configuration-ncn)
+- [Who actually feels lost about Germany&#39;s new automatic platform and crypto tax reporting? &lpar;a pandas cut&rpar;](https://dev.to/mlvolkmar/who-actually-feels-lost-about-germanys-new-automatic-platform-and-crypto-tax-reporting-a-pandas-5fc4)
+- [I built hundreds of AI-generated websites. Here&#39;s what surprised me.](https://dev.to/theindielocal/i-built-hundreds-of-ai-generated-websites-heres-what-surprised-me-mg3)
+- [Does the month you start predict whether you keep a habit? 1.1M piano learners say yes](https://dev.to/mlvolkmar/does-the-month-you-start-predict-whether-you-keep-a-habit-11m-piano-learners-say-yes-4970)
+- [Block Google&#39;s AI Overviews at the Network Layer, Not the DOM](https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii)
+- [The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key](https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
