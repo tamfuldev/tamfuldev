@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An SBOM Proves What You Installed. It Can&#39;t Prove You Should Have.](https://dev.to/alex_spinov/an-sbom-proves-what-you-installed-it-cant-prove-you-should-have-117c)
-- [Ethlabs Launch, the EF Restructures, Starknet Brings Private USDC, Crypto Neobanks Go Mainstream](https://dev.to/etherspot/ethlabs-launch-the-ef-restructures-starknet-brings-private-usdc-crypto-neobanks-go-mainstream-5dcb)
-- [[Real Experience] Auditing My Indie SaaS Subscriptions: 5 Alternatives That Cut $800/Year](https://dev.to/_7fb6011b57d383122b5a/real-experience-auditing-my-indie-saas-subscriptions-5-alternatives-that-cut-800year-262h)
-- [Self healing and secure. Good combo.](https://dev.to/lalasava/self-healing-and-secure-good-combo-1k4l)
-- [Why block.timestamp Is an NFT Mint Exploit Waiting to Happen &lpar;And What VRF Actually Does Instead&rpar;](https://dev.to/0xramprasad/why-blocktimestamp-is-an-nft-mint-exploit-waiting-to-happen-and-what-vrf-actually-does-instead-4en9)
+- [tgo Dev log #7: The Hubris of Moving Too Fast and How AI Erased My Hardest Win](https://dev.to/mtleadership/tgo-dev-log-7-the-hubris-of-moving-too-fast-and-how-ai-erased-my-hardest-win-54gb)
+- [How I&#39;m Building MCP Servers for a Language Claude Doesn&#39;t Know Well](https://dev.to/gabrielmahia/how-im-building-mcp-servers-for-a-language-claude-doesnt-know-well-d0g)
+- [SWIFT GO — Building a Smarter Corporate Transportation Platform from Scratch 🚍](https://dev.to/fadydesokysaeedabdelaziz/swift-go-building-a-smarter-corporate-transportation-platform-from-scratch-4f0g)
+- [$30 and a Lifetime of Liability](https://dev.to/dannwaneri/30-and-a-lifetime-of-liability-19fl)
+- [I Built &quot;seoextract&quot;: A Python CLI Tool That Audits Website SEO from the Terminal](https://dev.to/britto_k_cf70d50bf023d5ba/i-built-seoextract-a-python-cli-tool-that-audits-website-seo-from-the-terminal-4o3n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
