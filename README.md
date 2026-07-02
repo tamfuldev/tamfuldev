@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who actually feels lost about Germany&#39;s new automatic platform and crypto tax reporting? &lpar;a pandas cut&rpar;](https://dev.to/mlvolkmar/who-actually-feels-lost-about-germanys-new-automatic-platform-and-crypto-tax-reporting-a-pandas-5fc4)
-- [I built hundreds of AI-generated websites. Here&#39;s what surprised me.](https://dev.to/theindielocal/i-built-hundreds-of-ai-generated-websites-heres-what-surprised-me-mg3)
-- [Does the month you start predict whether you keep a habit? 1.1M piano learners say yes](https://dev.to/mlvolkmar/does-the-month-you-start-predict-whether-you-keep-a-habit-11m-piano-learners-say-yes-4970)
-- [Block Google&#39;s AI Overviews at the Network Layer, Not the DOM](https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii)
-- [The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key](https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb)
+- [Persism 2.4 - A zero ceremony ORM for Java](https://dev.to/dan_howard/persism-24-a-zero-ceremony-orm-for-java-33le)
+- [External and internal attention: one selective move in two directions](https://dev.to/poushwell/external-and-internal-attention-one-selective-move-in-two-directions-2o9c)
+- [Symfony: Validating &amp; Secure your API Requests](https://dev.to/johndivam/symfony-validating-secure-your-api-requests-45i8)
+- [Your AI agent just took an action in production. Can you answer five questions about it?](https://dev.to/sirinivask/your-ai-agent-just-took-an-action-in-production-can-you-answer-five-questions-about-it-17dp)
+- [Every Major ATS Has a Public JSON API for Job Openings. Nobody Uses Them.](https://dev.to/scrapemint/every-major-ats-has-a-public-json-api-for-job-openings-nobody-uses-them-f9j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
