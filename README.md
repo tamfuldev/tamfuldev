@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adversarial Testing 101: Break Your Model Before Your Users Do](https://dev.to/lovestaco/adversarial-testing-101-break-your-model-before-your-users-do-2jne)
-- [Are Your GitHub Stats Worthy of a FIFA Card?](https://dev.to/konark_13/are-your-github-stats-worthy-of-a-fifa-card-3p1p)
-- [CPIs and PDA Signers: What I Built and What Actually Clicked](https://dev.to/lymah/cpis-and-pda-signers-what-i-built-and-what-actually-clicked-m6d)
-- [Build Your First AI Agent in 30 Minutes - CrewAI + AWS Bedrock](https://dev.to/aws-builders/build-your-first-ai-agent-in-30-minutes-crewai-aws-bedrock-40lo)
-- [AI Agent Observability Runs on Conversation IDs | Focused Labs](https://dev.to/focused_dot_io/ai-agent-observability-runs-on-conversation-ids-focused-labs-4g23)
+- [Beyond the .tflite File: Mastering High-Performance Edge AI with MediaPipe Tasks and AICore](https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e)
+- [Software Development Changed. Good Engineering Didn’t.](https://dev.to/techbarsw/software-development-changed-good-engineering-didnt-2g7)
+- [Small open-source fixes are a better signal than a big portfolio claim](https://dev.to/morganlabs/small-open-source-fixes-are-a-better-signal-than-a-big-portfolio-claim-507d)
+- [Waymap v7.2.1: Thread-Safe Results, Hardened Security, and a Dozen Bug Fixes](https://dev.to/trixsec/waymap-v721-thread-safe-results-hardened-security-and-a-dozen-bug-fixes-548a)
+- [In the AI era, your company will look like a law firm](https://dev.to/lingchongeng/in-the-ai-era-your-company-will-look-like-a-law-firm-39e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
