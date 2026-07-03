@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript `using` Keyword and Explicit Resource Management: Done Right](https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg)
-- [hermes-memory-installer Fix: Loading Memory Sidecar Modules from Runtime Scripts](https://dev.to/mage0535/hermes-memory-installer-fix-loading-memory-sidecar-modules-from-runtime-scripts-17ig)
-- [I turned a messy author workflow into a small digital product](https://dev.to/david_bob/i-turned-a-messy-author-workflow-into-a-small-digital-product-bf3)
-- [I Took My DApp Off My Laptop. The Internet Did Not Care, But I Was Thrilled.](https://dev.to/srashti_a3904fc69ca75e7dd/i-took-my-dapp-off-my-laptop-the-internet-did-not-care-but-i-was-thrilled-3lpp)
-- [Your rug scanner says clean. The token still won&#39;t sell.](https://dev.to/cryptonite_cryptonite_0dd/your-rug-scanner-says-clean-the-token-still-wont-sell-5c9i)
+- [Workflow Series &lpar;05&rpar;: Evaluation Framework — Three-Layer Testing and Trace Tracking](https://dev.to/wonderlab/workflow-series-05-evaluation-framework-three-layer-testing-and-trace-tracking-2857)
+- [The hard part of attacking an AI isn&#39;t breaking it. It&#39;s telling real harm from fake.](https://dev.to/sara_bezjak/the-hard-part-of-attacking-an-ai-isnt-breaking-it-its-telling-real-harm-from-fake-9ca)
+- [Model Context Protocol &lpar;MCP&rpar; is the Biggest AI Breakthrough Since ChatGPT](https://dev.to/rahul_agarwal18/model-context-protocol-mcp-is-the-biggest-ai-breakthrough-since-chatgpt-45ai)
+- [7 Hidden VS Code Extensions That Feel Like Cheating](https://dev.to/rahul_agarwal18/7-hidden-vs-code-extensions-that-feel-like-cheating-2ngf)
+- [Who&#39;s Online on the Site, Without Tidio: Live Presence and Visitor History with Firebase](https://dev.to/androve2k/whos-online-on-the-site-without-tidio-live-presence-and-visitor-history-with-firebase-37il)
 <!-- BLOG-POST-LIST:END -->
 
 ---
