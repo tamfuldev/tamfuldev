@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the .tflite File: Mastering High-Performance Edge AI with MediaPipe Tasks and AICore](https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e)
-- [Software Development Changed. Good Engineering Didn’t.](https://dev.to/techbarsw/software-development-changed-good-engineering-didnt-2g7)
-- [Small open-source fixes are a better signal than a big portfolio claim](https://dev.to/morganlabs/small-open-source-fixes-are-a-better-signal-than-a-big-portfolio-claim-507d)
-- [Waymap v7.2.1: Thread-Safe Results, Hardened Security, and a Dozen Bug Fixes](https://dev.to/trixsec/waymap-v721-thread-safe-results-hardened-security-and-a-dozen-bug-fixes-548a)
-- [In the AI era, your company will look like a law firm](https://dev.to/lingchongeng/in-the-ai-era-your-company-will-look-like-a-law-firm-39e1)
+- [Not many know which part of the process needs AI!](https://dev.to/yadu989/ai-context-and-memory-management-chapter-2-3ihn)
+- [How We Vectorize 33.7M Ukrainian Court Decisions via Voyage AI](https://dev.to/overthelex/how-we-vectorize-337m-ukrainian-court-decisions-via-voyage-ai-3hlc)
+- [2 TB of Ukrainian Law + DeepSeek V3 860B on GCP: What We&#39;d Get](https://dev.to/overthelex/2-tb-of-ukrainian-law-deepseek-v3-860b-on-gcp-what-wed-get-2jj5)
+- [Local LLM Deployment, Agent Handbook, &amp; LLM Cost Reduction: Applied AI Workflows](https://dev.to/soytuber/local-llm-deployment-agent-handbook-llm-cost-reduction-applied-ai-workflows-24hf)
+- [The Best Free AI Generators in 2026: 9 Tools Actually Worth Using](https://dev.to/bachalorcoder/the-best-free-ai-generators-in-2026-9-tools-actually-worth-using-kig)
 <!-- BLOG-POST-LIST:END -->
 
 ---
