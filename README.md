@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Zone 2 Cardio: Why Endurance Coaches Bring It Up Constantly &lpar;and What the Data Shows&rpar;](https://dev.to/jonas_prenissl_5eb6eaa63c/zone-2-cardio-why-endurance-coaches-bring-it-up-constantly-and-what-the-data-shows-1b69)
-- [Vulnerability Management is a Workaround for a Missing Call Graph](https://dev.to/bala_paranj_059d338e44e7e/vulnerability-management-is-a-workaround-for-a-missing-call-graph-3bp1)
-- [Launch Day!](https://dev.to/marcin_perlak_7878711509d/launch-day-17e9)
-- [Stop Writing Every Job Application Email from Scratch](https://dev.to/myogeshchavan97/stop-writing-every-job-application-email-from-scratch-2pla)
-- [The Production Bug You Can&#39;t Reproduce by Clicking](https://dev.to/kevinccbsg/the-production-bug-you-cant-reproduce-by-clicking-1k4d)
+- [You Have More Power Than You Think: EU Consumer Complaints Explained](https://dev.to/wendygostudio/you-have-more-power-than-you-think-eu-consumer-complaints-explained-8c0)
+- [Microsoft Azure DevOps Engineer &lpar;AZ-400&rpar;: What&#39;s Actually Tested](https://dev.to/nerdexam/microsoft-azure-devops-engineer-az-400-whats-actually-tested-53e6)
+- [I scanned 670 MCP servers and 78% have significant security issues](https://dev.to/pfenil286/i-scanned-670-mcp-servers-and-78-have-significant-security-issues-32h)
+- [The Persistence Trap: Why Autonomous Agents are a New Security Nightmare](https://dev.to/o96a/the-persistence-trap-why-autonomous-agents-are-a-new-security-nightmare-1h58)
+- [Your Fraud Detection Cannot Tell a Legitimate Agent From a Bot. Identity Is the Only Fix.](https://dev.to/kavinkimcreator/your-fraud-detection-cannot-tell-a-legitimate-agent-from-a-bot-identity-is-the-only-fix-3o2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
