@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of rebuilding my diagnostic USB on every machine, so I fixed it once](https://dev.to/systems_byreg/i-got-tired-of-rebuilding-my-diagnostic-usb-on-every-machine-so-i-fixed-it-once-2d62)
-- [Stop Asking AI to &quot;Write Code&quot;. Teach It How to Work.](https://dev.to/joedev090/stop-asking-ai-to-write-code-teach-it-how-to-work-1m47)
-- [Shipping a libmpv-based video player on the Mac App Store](https://dev.to/yamayu-dev/shipping-a-libmpv-based-video-player-on-the-mac-app-store-1f2l)
-- [You Don&#39;t Need MIDI-OX Anymore: Building a SysEx Librarian with the Web MIDI API](https://dev.to/knobmonster/you-dont-need-midi-ox-anymore-building-a-sysex-librarian-with-the-web-midi-api-3pii)
-- [Phantom Squatting: When AI Hallucinated Domains Become Attacker Infrastructure](https://dev.to/coridev/phantom-squatting-when-ai-hallucinated-domains-become-attacker-infrastructure-1i67)
+- [I put 300+ free web tools in one place, with no ads and no signup](https://dev.to/codelong888/i-put-300-free-web-tools-in-one-place-with-no-ads-and-no-signup-1cf6)
+- [Steal my prompt to turn Codex into an Orchestration Manager](https://dev.to/shreyshah/steal-my-prompt-to-turn-codex-into-an-orchestration-manager-53fe)
+- [50 Low-Level Primitives to Master Linux Systems &amp; Kernel Engineering](https://dev.to/shaifurcodes/50-low-level-primitives-to-master-linux-systems-kernel-engineering-543m)
+- [Customizing D365 Sales — For Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;5&rpar; Reorganizing the Dashboard Views](https://dev.to/tecturajpndx/customizing-d365-sales-for-our-own-sales-team-customer-zero-5-reorganizing-the-dashboard-views-5b1a)
+- [The SSO tax, in dollars: what SAML actually costs at Auth0, WorkOS, and Clerk](https://dev.to/authagonal/the-sso-tax-in-dollars-what-saml-actually-costs-at-auth0-workos-and-clerk-3437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
