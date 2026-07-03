@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I put 300+ free web tools in one place, with no ads and no signup](https://dev.to/codelong888/i-put-300-free-web-tools-in-one-place-with-no-ads-and-no-signup-1cf6)
-- [Steal my prompt to turn Codex into an Orchestration Manager](https://dev.to/shreyshah/steal-my-prompt-to-turn-codex-into-an-orchestration-manager-53fe)
-- [50 Low-Level Primitives to Master Linux Systems &amp; Kernel Engineering](https://dev.to/shaifurcodes/50-low-level-primitives-to-master-linux-systems-kernel-engineering-543m)
-- [Customizing D365 Sales — For Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;5&rpar; Reorganizing the Dashboard Views](https://dev.to/tecturajpndx/customizing-d365-sales-for-our-own-sales-team-customer-zero-5-reorganizing-the-dashboard-views-5b1a)
-- [The SSO tax, in dollars: what SAML actually costs at Auth0, WorkOS, and Clerk](https://dev.to/authagonal/the-sso-tax-in-dollars-what-saml-actually-costs-at-auth0-workos-and-clerk-3437)
+- [TypeScript `using` Keyword and Explicit Resource Management: Done Right](https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg)
+- [hermes-memory-installer Fix: Loading Memory Sidecar Modules from Runtime Scripts](https://dev.to/mage0535/hermes-memory-installer-fix-loading-memory-sidecar-modules-from-runtime-scripts-17ig)
+- [I turned a messy author workflow into a small digital product](https://dev.to/david_bob/i-turned-a-messy-author-workflow-into-a-small-digital-product-bf3)
+- [I Took My DApp Off My Laptop. The Internet Did Not Care, But I Was Thrilled.](https://dev.to/srashti_a3904fc69ca75e7dd/i-took-my-dapp-off-my-laptop-the-internet-did-not-care-but-i-was-thrilled-3lpp)
+- [Your rug scanner says clean. The token still won&#39;t sell.](https://dev.to/cryptonite_cryptonite_0dd/your-rug-scanner-says-clean-the-token-still-wont-sell-5c9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
