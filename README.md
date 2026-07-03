@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You Have More Power Than You Think: EU Consumer Complaints Explained](https://dev.to/wendygostudio/you-have-more-power-than-you-think-eu-consumer-complaints-explained-8c0)
-- [Microsoft Azure DevOps Engineer &lpar;AZ-400&rpar;: What&#39;s Actually Tested](https://dev.to/nerdexam/microsoft-azure-devops-engineer-az-400-whats-actually-tested-53e6)
-- [I scanned 670 MCP servers and 78% have significant security issues](https://dev.to/pfenil286/i-scanned-670-mcp-servers-and-78-have-significant-security-issues-32h)
-- [The Persistence Trap: Why Autonomous Agents are a New Security Nightmare](https://dev.to/o96a/the-persistence-trap-why-autonomous-agents-are-a-new-security-nightmare-1h58)
-- [Your Fraud Detection Cannot Tell a Legitimate Agent From a Bot. Identity Is the Only Fix.](https://dev.to/kavinkimcreator/your-fraud-detection-cannot-tell-a-legitimate-agent-from-a-bot-identity-is-the-only-fix-3o2p)
+- [I pointed my routing tester at a server I didn&#39;t build. One tool was quietly stealing two others&#39; jobs.](https://dev.to/hex_tracker/i-pointed-my-routing-tester-at-a-server-i-didnt-build-one-tool-was-quietly-stealing-two-others-5d3e)
+- [I Built a Minimal Android Task Manager Because Most To-Do Apps Felt Too Complicated](https://dev.to/karthiksrin18/i-built-a-minimal-android-task-manager-because-most-to-do-apps-felt-too-complicated-5b6f)
+- [Stop pasting your API keys into ChatGPT: a safer way to feed a codebase to an LLM](https://dev.to/cu_thinvreview_b2/stop-pasting-your-api-keys-into-chatgpt-a-safer-way-to-feed-a-codebase-to-an-llm-3j35)
+- [Test Management Compliance: Cloud SaaS vs Local-First](https://dev.to/weiwen-weng/test-management-compliance-cloud-saas-vs-local-first-57p8)
+- [Define Interfaces Where You Use Them: The Go Rule That Shrinks Your API](https://dev.to/gabrielanhaia/define-interfaces-where-you-use-them-the-go-rule-that-shrinks-your-api-2jc1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
