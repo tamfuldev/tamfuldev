@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I pointed my routing tester at a server I didn&#39;t build. One tool was quietly stealing two others&#39; jobs.](https://dev.to/hex_tracker/i-pointed-my-routing-tester-at-a-server-i-didnt-build-one-tool-was-quietly-stealing-two-others-5d3e)
-- [I Built a Minimal Android Task Manager Because Most To-Do Apps Felt Too Complicated](https://dev.to/karthiksrin18/i-built-a-minimal-android-task-manager-because-most-to-do-apps-felt-too-complicated-5b6f)
-- [Stop pasting your API keys into ChatGPT: a safer way to feed a codebase to an LLM](https://dev.to/cu_thinvreview_b2/stop-pasting-your-api-keys-into-chatgpt-a-safer-way-to-feed-a-codebase-to-an-llm-3j35)
-- [Test Management Compliance: Cloud SaaS vs Local-First](https://dev.to/weiwen-weng/test-management-compliance-cloud-saas-vs-local-first-57p8)
-- [Define Interfaces Where You Use Them: The Go Rule That Shrinks Your API](https://dev.to/gabrielanhaia/define-interfaces-where-you-use-them-the-go-rule-that-shrinks-your-api-2jc1)
+- [Adversarial Testing 101: Break Your Model Before Your Users Do](https://dev.to/lovestaco/adversarial-testing-101-break-your-model-before-your-users-do-2jne)
+- [Are Your GitHub Stats Worthy of a FIFA Card?](https://dev.to/konark_13/are-your-github-stats-worthy-of-a-fifa-card-3p1p)
+- [CPIs and PDA Signers: What I Built and What Actually Clicked](https://dev.to/lymah/cpis-and-pda-signers-what-i-built-and-what-actually-clicked-m6d)
+- [Build Your First AI Agent in 30 Minutes - CrewAI + AWS Bedrock](https://dev.to/aws-builders/build-your-first-ai-agent-in-30-minutes-crewai-aws-bedrock-40lo)
+- [AI Agent Observability Runs on Conversation IDs | Focused Labs](https://dev.to/focused_dot_io/ai-agent-observability-runs-on-conversation-ids-focused-labs-4g23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
