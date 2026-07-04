@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Silent Drift in Agent Decision Quality: Catching It Before Your Users Do](https://dev.to/gabrielanhaia/silent-drift-in-agent-decision-quality-catching-it-before-your-users-do-1ha1)
-- [The Accidental Architect](https://dev.to/claireg/the-accidental-architect-2jeh)
-- [💿 The Death of the Disc: Why Sony&#39;s 2028 Digital Monopolisation Was Inevitable](https://dev.to/stevenwleung/the-death-of-the-disc-why-sonys-2028-digital-monopolisation-was-inevitable-4c42)
-- [Multi-Agent Coordination: Message-Bus Patterns That Keep Agents Sane](https://dev.to/gabrielanhaia/multi-agent-coordination-message-bus-patterns-that-keep-agents-sane-57gd)
-- [Deploying Agents: Containers, Orchestration, and Scaling the Loop](https://dev.to/gabrielanhaia/deploying-agents-containers-orchestration-and-scaling-the-loop-44go)
+- [MCP Deep Dive, Part 1: Why Model Context Protocol Kills Integration Glue Code for Good](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-1-why-model-context-protocol-kills-integration-glue-code-for-good-3jcp)
+- [The True Classification of AI: Part 2 - Agentic AI](https://dev.to/claireg/the-true-classification-of-ai-part-2-agentic-ai-1c6j)
+- [Stop calling a service that&#39;s already down: circuit breakers with Resilience4j](https://dev.to/dev48v/stop-calling-a-service-thats-already-down-circuit-breakers-with-resilience4j-906)
+- [LoRA: Fine-Tune a Giant Model by Training 1% of It](https://dev.to/dev48v/lora-fine-tune-a-giant-model-by-training-1-of-it-2025)
+- [How I got LCP under 2s on a 38-page Blazor WebAssembly site &lpar;Cloudflare Pages&rpar;](https://dev.to/chetansanghani/how-i-got-lcp-under-2s-on-a-38-page-blazor-webassembly-site-cloudflare-pages-4hec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
