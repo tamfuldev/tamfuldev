@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wan Monitor - Tiny Failover Controller for OpenWrt](https://dev.to/ng256/wan-monitor-tiny-failover-controller-for-openwrt-4o8e)
-- [Modern Flutter Best Practices for 2026](https://dev.to/hamberluo/modern-flutter-best-practices-for-2026-56o3)
-- [Agentic AI Security: Risks, OWASP Agentic Top 10, and Defensive Patterns &lpar;2026&rpar;](https://dev.to/securecodinghub/agentic-ai-security-risks-owasp-agentic-top-10-and-defensive-patterns-2026-4a2a)
-- [Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD &lpar;2026&rpar;](https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm)
-- [Web Components vs. Iframes: A Hard Lesson in DOM Isolation Barriers](https://dev.to/bonzai2carn/web-components-vs-iframes-a-hard-lesson-in-dom-isolation-barriers-1icm)
+- [The Hidden Danger in Your n8n RAG Pipeline: What Happens When You Send Internal Docs to ChatGPT?](https://dev.to/rifatkasikci/the-hidden-danger-in-your-n8n-rag-pipeline-what-happens-when-you-send-internal-docs-to-chatgpt-2b6b)
+- [purefetch: a fastfetch-style system info tool in Rust with zero dependencies](https://dev.to/ooonea/purefetch-a-fastfetch-style-system-info-tool-in-rust-with-zero-dependencies-19f0)
+- [CAI.com — a custodial @cai.com email, multi-chain stablecoin wallet, and MCP-installable agent API](https://dev.to/cailab/caicom-a-custodial-caicom-email-multi-chain-stablecoin-wallet-and-mcp-installable-agent-api-6m3)
+- [The bottleneck might be the air in the room](https://dev.to/technoblogger14o3/the-bottleneck-might-be-the-air-in-the-room-56d9)
+- [I Spent 20+ Years in Industrial Maintenance. Now I’m Learning to Build Software.](https://dev.to/ken_morgan_8bd73936169638/i-spent-20-years-in-industrial-maintenance-now-im-learning-to-build-software-2490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
