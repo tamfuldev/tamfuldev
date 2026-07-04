@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Creating a React Project Just to Preview a JSX File](https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6)
-- [LOOM: a language that proves what AI-written code is allowed to do](https://dev.to/umbraaeternaa/loom-a-language-that-proves-what-ai-written-code-is-allowed-to-do-3f0i)
-- [Your Guardrails Are a Firewall. Your Failures Are a Cascade](https://dev.to/aiexplore369zoho/your-guardrails-are-a-firewall-your-failures-are-a-cascade-3j0a)
-- [I built a neutral benchmarking layer for quantum simulators in Rust — and it revealed a silent disagreement between two backends](https://dev.to/cleiton_augusto_/i-built-a-neutral-benchmarking-layer-for-quantum-simulators-in-rust-and-it-revealed-a-silent-2i59)
-- [Moving Beyond Chat: Why AI Agents and MCP Are the Next Big Shift for Developers](https://dev.to/idan_dev/moving-beyond-chat-why-ai-agents-and-mcp-are-the-next-big-shift-for-developers-p7i)
+- [Stop Guessing, Start Profiling: Mastering Edge AI Performance and Power on Android](https://dev.to/programmingcentral/stop-guessing-start-profiling-mastering-edge-ai-performance-and-power-on-android-2p4i)
+- [Wanted a quick way to find working MTProto proxies for Teleg](https://dev.to/humja_jaan_fca09049ae97d5/wanted-a-quick-way-to-find-working-mtproto-proxies-for-teleg-23le)
+- [A API pública de catálogo da VTEX &lpar;que quase ninguém usa&rpar;](https://dev.to/antonio_fernandorincond/a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa-40li)
+- [We open-sourced our security audit. Here&#39;s what we found &lpar;and fixed&rpar;.](https://dev.to/edison_flores_6d2cd381b13/we-open-sourced-our-security-audit-heres-what-we-found-and-fixed-3ne5)
+- [What a Backend Frameworks Mini-Conference Taught Me About Choosing the Right Tool](https://dev.to/michaelochieng0/what-a-backend-frameworks-mini-conference-taught-me-about-choosing-the-right-tool-2jnf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
