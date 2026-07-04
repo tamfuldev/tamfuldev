@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A New Personal Best: What Six Months of Locking In Can Do](https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k)
-- [am I on the hook for a Private Jet?](https://dev.to/jon_at_backboardio/am-i-on-the-hook-for-a-private-jet-29bh)
-- [Your AI agent is the most over-privileged account you own](https://dev.to/kielltampubolon/your-ai-agent-is-the-most-over-privileged-account-you-own-2cle)
-- [How to Install Proxmox VE &lpar;2026&rpar;: Install + Update Reference](https://dev.to/techfuelhq/how-to-install-proxmox-ve-2026-install-update-reference-2ak8)
-- [The MCP attack your code review cannot see](https://dev.to/kielltampubolon/the-mcp-attack-your-code-review-cannot-see-25b8)
+- [Stop Creating a React Project Just to Preview a JSX File](https://dev.to/robin_hood_991fffecf68062/stop-creating-a-react-project-just-to-preview-a-jsx-file-5gm6)
+- [LOOM: a language that proves what AI-written code is allowed to do](https://dev.to/umbraaeternaa/loom-a-language-that-proves-what-ai-written-code-is-allowed-to-do-3f0i)
+- [Your Guardrails Are a Firewall. Your Failures Are a Cascade](https://dev.to/aiexplore369zoho/your-guardrails-are-a-firewall-your-failures-are-a-cascade-3j0a)
+- [I built a neutral benchmarking layer for quantum simulators in Rust — and it revealed a silent disagreement between two backends](https://dev.to/cleiton_augusto_/i-built-a-neutral-benchmarking-layer-for-quantum-simulators-in-rust-and-it-revealed-a-silent-2i59)
+- [Moving Beyond Chat: Why AI Agents and MCP Are the Next Big Shift for Developers](https://dev.to/idan_dev/moving-beyond-chat-why-ai-agents-and-mcp-are-the-next-big-shift-for-developers-p7i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
