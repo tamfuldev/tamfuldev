@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Danger in Your n8n RAG Pipeline: What Happens When You Send Internal Docs to ChatGPT?](https://dev.to/rifatkasikci/the-hidden-danger-in-your-n8n-rag-pipeline-what-happens-when-you-send-internal-docs-to-chatgpt-2b6b)
-- [purefetch: a fastfetch-style system info tool in Rust with zero dependencies](https://dev.to/ooonea/purefetch-a-fastfetch-style-system-info-tool-in-rust-with-zero-dependencies-19f0)
-- [CAI.com — a custodial @cai.com email, multi-chain stablecoin wallet, and MCP-installable agent API](https://dev.to/cailab/caicom-a-custodial-caicom-email-multi-chain-stablecoin-wallet-and-mcp-installable-agent-api-6m3)
-- [The bottleneck might be the air in the room](https://dev.to/technoblogger14o3/the-bottleneck-might-be-the-air-in-the-room-56d9)
-- [I Spent 20+ Years in Industrial Maintenance. Now I’m Learning to Build Software.](https://dev.to/ken_morgan_8bd73936169638/i-spent-20-years-in-industrial-maintenance-now-im-learning-to-build-software-2490)
+- [A New Personal Best: What Six Months of Locking In Can Do](https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k)
+- [am I on the hook for a Private Jet?](https://dev.to/jon_at_backboardio/am-i-on-the-hook-for-a-private-jet-29bh)
+- [Your AI agent is the most over-privileged account you own](https://dev.to/kielltampubolon/your-ai-agent-is-the-most-over-privileged-account-you-own-2cle)
+- [How to Install Proxmox VE &lpar;2026&rpar;: Install + Update Reference](https://dev.to/techfuelhq/how-to-install-proxmox-ve-2026-install-update-reference-2ak8)
+- [The MCP attack your code review cannot see](https://dev.to/kielltampubolon/the-mcp-attack-your-code-review-cannot-see-25b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
