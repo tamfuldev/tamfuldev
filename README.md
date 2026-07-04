@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [In Pursuit of the Ideal Developer Experience](https://dev.to/ljtn/in-pursuit-of-the-ideal-developer-experience-2gp8)
-- [UI Kernel: Design Tokens as Symfony infrastructure](https://dev.to/symfinity/ui-kernel-design-tokens-as-symfony-infrastructure-31m)
-- [AI Field Notes 2026](https://dev.to/nullabletype/ai-field-notes-2026-53ap)
-- [Your Coding Agent Is a New Attack Surface and Most Devs Aren&#39;t Ready for It](https://dev.to/coridev/your-coding-agent-is-a-new-attack-surface-and-most-devs-arent-ready-for-it-1b92)
-- [AI coding agents don&#39;t have a workspace. Here&#39;s what that costs you.](https://dev.to/memeri/ai-coding-agents-dont-have-a-workspace-heres-what-that-costs-you-d6)
+- [Vanna AI &lpar;El estándar de la industria para Text-to-SQL&rpar;](https://dev.to/julio_samuelcortezmaman/vanna-ai-el-estandar-de-la-industria-para-text-to-sql-6k2)
+- [Google Autocomplete Is a Free Keyword Research API](https://dev.to/scrapemint/google-autocomplete-is-a-free-keyword-research-api-5f7j)
+- [Big update on The Missing Manual](https://dev.to/luckyslevinkelevra/big-update-on-the-missing-manual-19g1)
+- [Injecting Version Info at Build Time in Go With -ldflags](https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j)
+- [How I Built a 6,000-Game Web Portal with Next.js 14 &lpar;and Kept Hosting Nearly Free&rpar;](https://dev.to/anil34anil/how-i-built-a-6000-game-web-portal-with-nextjs-14-and-kept-hosting-nearly-free-2n3n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
