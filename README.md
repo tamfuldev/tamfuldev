@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vanna AI &lpar;El estándar de la industria para Text-to-SQL&rpar;](https://dev.to/julio_samuelcortezmaman/vanna-ai-el-estandar-de-la-industria-para-text-to-sql-6k2)
-- [Google Autocomplete Is a Free Keyword Research API](https://dev.to/scrapemint/google-autocomplete-is-a-free-keyword-research-api-5f7j)
-- [Big update on The Missing Manual](https://dev.to/luckyslevinkelevra/big-update-on-the-missing-manual-19g1)
-- [Injecting Version Info at Build Time in Go With -ldflags](https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j)
-- [How I Built a 6,000-Game Web Portal with Next.js 14 &lpar;and Kept Hosting Nearly Free&rpar;](https://dev.to/anil34anil/how-i-built-a-6000-game-web-portal-with-nextjs-14-and-kept-hosting-nearly-free-2n3n)
+- [Scale React Teams: Micro-Frontends via Module Federation ⚡](https://dev.to/iprajapatiparesh/scale-react-teams-micro-frontends-via-module-federation-5781)
+- [Smart Node: the Self-Hosted AI Crew I&#39;ve Been Building](https://dev.to/klymentiev/smart-node-the-self-hosted-ai-crew-ive-been-building-2m0m)
+- [KENSAT: A Home-Built CubeSat Running a TinyLlama LLM in Orbit](https://dev.to/circuitrocks/kensat-a-home-built-cubesat-running-a-tinyllama-llm-in-orbit-3i59)
+- [How to Validate a Product Idea Without Writing a Single Line of Code](https://dev.to/ao_wang_c7e69eec7b4e6fd78/how-to-validate-a-product-idea-without-writing-a-single-line-of-code-5c7i)
+- [godzilla.dev — AI x Quant Trader Series — Day 2](https://dev.to/kx_31eaa481780171271d692f/godzilladev-ai-x-quant-trader-series-day-2-57m4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
