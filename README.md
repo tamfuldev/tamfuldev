@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Deep Dive, Part 1: Why Model Context Protocol Kills Integration Glue Code for Good](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-1-why-model-context-protocol-kills-integration-glue-code-for-good-3jcp)
-- [The True Classification of AI: Part 2 - Agentic AI](https://dev.to/claireg/the-true-classification-of-ai-part-2-agentic-ai-1c6j)
-- [Stop calling a service that&#39;s already down: circuit breakers with Resilience4j](https://dev.to/dev48v/stop-calling-a-service-thats-already-down-circuit-breakers-with-resilience4j-906)
-- [LoRA: Fine-Tune a Giant Model by Training 1% of It](https://dev.to/dev48v/lora-fine-tune-a-giant-model-by-training-1-of-it-2025)
-- [How I got LCP under 2s on a 38-page Blazor WebAssembly site &lpar;Cloudflare Pages&rpar;](https://dev.to/chetansanghani/how-i-got-lcp-under-2s-on-a-38-page-blazor-webassembly-site-cloudflare-pages-4hec)
+- [Sematic Coherance](https://dev.to/claireg/sematic-coherance-23c1)
+- [Chasing the Light: How the June Solstice Game Jam Turned One Prompt Into a Hundred Different Games](https://dev.to/xenocoregiger31/chasing-the-light-how-the-june-solstice-game-jam-turned-one-prompt-into-a-hundred-different-games-4of)
+- [Why Good Developers Write Less Code, Not More](https://dev.to/ultramodern_01/why-good-developers-write-less-code-not-more-4j61)
+- [What Is MCP &lpar;Model Context Protocol&rpar; and Why Everyone Is Talking About It](https://dev.to/lephuongtrung/what-is-mcp-model-context-protocol-and-why-everyone-is-talking-about-it-m70)
+- [wa.me/username doesn&#39;t work yet — I verified it two ways](https://dev.to/inside_dc_pulse/wameusername-doesnt-work-yet-i-verified-it-two-ways-20fn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
