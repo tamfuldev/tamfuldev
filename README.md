@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scale React Teams: Micro-Frontends via Module Federation ⚡](https://dev.to/iprajapatiparesh/scale-react-teams-micro-frontends-via-module-federation-5781)
-- [Smart Node: the Self-Hosted AI Crew I&#39;ve Been Building](https://dev.to/klymentiev/smart-node-the-self-hosted-ai-crew-ive-been-building-2m0m)
-- [KENSAT: A Home-Built CubeSat Running a TinyLlama LLM in Orbit](https://dev.to/circuitrocks/kensat-a-home-built-cubesat-running-a-tinyllama-llm-in-orbit-3i59)
-- [How to Validate a Product Idea Without Writing a Single Line of Code](https://dev.to/ao_wang_c7e69eec7b4e6fd78/how-to-validate-a-product-idea-without-writing-a-single-line-of-code-5c7i)
-- [godzilla.dev — AI x Quant Trader Series — Day 2](https://dev.to/kx_31eaa481780171271d692f/godzilladev-ai-x-quant-trader-series-day-2-57m4)
+- [From GitHub Repo to Live App: What Can Go Wrong](https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i)
+- [Yapay Zekanın Geleceği: Küresel Ambargolar ve Erişim Eşitsizliği](https://dev.to/ismail_hakki_eren/yapay-zekanin-gelecegi-kuresel-ambargolar-ve-erisim-esitsizligi-29go)
+- [How to vet a senior Sanity CMS developer: a practical buyer&#39;s guide](https://dev.to/nayankyada/how-to-vet-a-senior-sanity-cms-developer-a-practical-buyers-guide-2m9c)
+- [How to Run a Full OSINT Recon on Any Domain in One Command](https://dev.to/trulysoulless/how-to-run-a-full-osint-recon-on-any-domain-in-one-command-5hic)
+- [Uber Burned Its 2026 AI Budget by April — The Agentic Cost Crisis](https://dev.to/akaranjkar08/uber-burned-its-2026-ai-budget-by-april-the-agentic-cost-crisis-5531)
 <!-- BLOG-POST-LIST:END -->
 
 ---
