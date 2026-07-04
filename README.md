@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sematic Coherance](https://dev.to/claireg/sematic-coherance-23c1)
-- [Chasing the Light: How the June Solstice Game Jam Turned One Prompt Into a Hundred Different Games](https://dev.to/xenocoregiger31/chasing-the-light-how-the-june-solstice-game-jam-turned-one-prompt-into-a-hundred-different-games-4of)
-- [Why Good Developers Write Less Code, Not More](https://dev.to/ultramodern_01/why-good-developers-write-less-code-not-more-4j61)
-- [What Is MCP &lpar;Model Context Protocol&rpar; and Why Everyone Is Talking About It](https://dev.to/lephuongtrung/what-is-mcp-model-context-protocol-and-why-everyone-is-talking-about-it-m70)
-- [wa.me/username doesn&#39;t work yet — I verified it two ways](https://dev.to/inside_dc_pulse/wameusername-doesnt-work-yet-i-verified-it-two-ways-20fn)
+- [Wan Monitor - Tiny Failover Controller for OpenWrt](https://dev.to/ng256/wan-monitor-tiny-failover-controller-for-openwrt-4o8e)
+- [Modern Flutter Best Practices for 2026](https://dev.to/hamberluo/modern-flutter-best-practices-for-2026-56o3)
+- [Agentic AI Security: Risks, OWASP Agentic Top 10, and Defensive Patterns &lpar;2026&rpar;](https://dev.to/securecodinghub/agentic-ai-security-risks-owasp-agentic-top-10-and-defensive-patterns-2026-4a2a)
+- [Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD &lpar;2026&rpar;](https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm)
+- [Web Components vs. Iframes: A Hard Lesson in DOM Isolation Barriers](https://dev.to/bonzai2carn/web-components-vs-iframes-a-hard-lesson-in-dom-isolation-barriers-1icm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
