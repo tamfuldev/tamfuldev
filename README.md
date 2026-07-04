@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From GitHub Repo to Live App: What Can Go Wrong](https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i)
-- [Yapay Zekanın Geleceği: Küresel Ambargolar ve Erişim Eşitsizliği](https://dev.to/ismail_hakki_eren/yapay-zekanin-gelecegi-kuresel-ambargolar-ve-erisim-esitsizligi-29go)
-- [How to vet a senior Sanity CMS developer: a practical buyer&#39;s guide](https://dev.to/nayankyada/how-to-vet-a-senior-sanity-cms-developer-a-practical-buyers-guide-2m9c)
-- [How to Run a Full OSINT Recon on Any Domain in One Command](https://dev.to/trulysoulless/how-to-run-a-full-osint-recon-on-any-domain-in-one-command-5hic)
-- [Uber Burned Its 2026 AI Budget by April — The Agentic Cost Crisis](https://dev.to/akaranjkar08/uber-burned-its-2026-ai-budget-by-april-the-agentic-cost-crisis-5531)
+- [Silent Drift in Agent Decision Quality: Catching It Before Your Users Do](https://dev.to/gabrielanhaia/silent-drift-in-agent-decision-quality-catching-it-before-your-users-do-1ha1)
+- [The Accidental Architect](https://dev.to/claireg/the-accidental-architect-2jeh)
+- [💿 The Death of the Disc: Why Sony&#39;s 2028 Digital Monopolisation Was Inevitable](https://dev.to/stevenwleung/the-death-of-the-disc-why-sonys-2028-digital-monopolisation-was-inevitable-4c42)
+- [Multi-Agent Coordination: Message-Bus Patterns That Keep Agents Sane](https://dev.to/gabrielanhaia/multi-agent-coordination-message-bus-patterns-that-keep-agents-sane-57gd)
+- [Deploying Agents: Containers, Orchestration, and Scaling the Loop](https://dev.to/gabrielanhaia/deploying-agents-containers-orchestration-and-scaling-the-loop-44go)
 <!-- BLOG-POST-LIST:END -->
 
 ---
