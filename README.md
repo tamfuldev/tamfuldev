@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Speaker Changes with Pyannote Segmentation 3.0 and ONNX Runtime](https://dev.to/kiarina/detecting-speaker-changes-with-pyannote-segmentation-30-and-onnx-runtime-1hh7)
-- [How I improved BMAD with one simple skill](https://dev.to/popiol/how-i-improved-bmad-with-one-simple-skill-1bl3)
-- [Your web app is invisible to AI search &lpar;and ranking on Google won&#39;t fix it&rpar;](https://dev.to/nata_dev/your-web-app-is-invisible-to-ai-search-and-ranking-on-google-wont-fix-it-2nfd)
-- [what&#39;s all this hype about &quot;loop engineering&quot;](https://dev.to/shravanjain/whats-all-this-hype-about-loop-engineering-3elh)
-- [5 mistakes I made building an AI Chrome extension — and the readers who caught them](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64)
+- [Context Mode Review 2026 — The Missing Half of the AI Agent Context Problem](https://dev.to/yihui_zhang_d783406caddd7/context-mode-review-2026-the-missing-half-of-the-ai-agent-context-problem-9g3)
+- [Stop letting AI agents click the expensive buttons](https://dev.to/sphillips1337/stop-letting-ai-agents-click-the-expensive-buttons-247f)
+- [Solana&#39;s Throughput Advantage: What It Actually Means for AI Agent Development](https://dev.to/claudia-ve/solanas-throughput-advantage-what-it-actually-means-for-ai-agent-development-1if3)
+- [[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution](https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856)
+- [Stop Building Chatbots: Moving Toward Agentic Content Workflows](https://dev.to/ntty/stop-building-chatbots-moving-toward-agentic-content-workflows-48ie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
