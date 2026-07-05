@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Salam is a general-purpose and systems programming language designed for efficient software development](https://dev.to/salamlang/salam-is-a-general-purpose-and-systems-programming-language-designed-for-efficient-software-3904)
-- [The Backdoor in Your Browser: Why You Are the Product &lpar;And How to Opt Out&rpar;](https://dev.to/numbpill3d/the-backdoor-in-your-browser-why-you-are-the-product-and-how-to-opt-out-4jg9)
-- [GitHub Actions SEO: gate PRs on broken links and schema](https://dev.to/mitrasish/github-actions-seo-gate-prs-on-broken-links-and-schema-4eo3)
-- [[Boost]](https://dev.to/subhansh/-5819)
-- [A Cron-Friendly Email Smoke Test for Staging](https://dev.to/mrdapperx/a-cron-friendly-email-smoke-test-for-staging-1p6e)
+- [What AGENTS.md Gives Coding Agents That README Files Do Not](https://dev.to/anilmuppalla/what-agentsmd-gives-coding-agents-that-readme-files-do-not-412k)
+- [Sakana Fugu: How Collaborative AI is Changing the Game](https://dev.to/terminalchai/sakana-fugu-how-collaborative-ai-is-changing-the-game-2ja6)
+- [Tokens](https://dev.to/tahaboussaden/tokens-27h4)
+- [How a Hollywood Star Helped Invent Wi-Fi](https://dev.to/fluidwire/how-a-hollywood-star-helped-invent-wi-fi-31bb)
+- [Behind the Curtain: APE-QIL QUANTUM SUPREME OCTOPUS and the 3-Tier Sovereign Auth Pipeline](https://dev.to/blacknobilityenterprisellcarch/behind-the-curtain-ape-qil-quantum-supreme-octopus-and-the-3-tier-sovereign-auth-pipeline-545p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
