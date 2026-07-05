@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dead Man&#39;s Switch + USB Kill Switch for Linux - Open source defensive security project](https://dev.to/qxnode/dead-mans-switch-usb-kill-switch-for-linux-open-source-defensive-security-project-c8n)
-- [Agentes que se auto-corrigen: Text-to-SQL con smolagents &lpar;Hugging Face&rpar;](https://dev.to/mauchoquenachoque/agentes-que-se-auto-corrigen-text-to-sql-con-smolagents-hugging-face-4dig)
-- [Building DetectiveAI: Giving Crime Investigation an AI That Never Forgets with Cognee](https://dev.to/tanya_garg_5315/building-detectiveai-giving-crime-investigation-an-ai-that-never-forgets-with-cognee-3bjk)
-- [Nobody Told Me Motors Needed Software Too](https://dev.to/karthi_keyan03/nobody-told-me-motors-needed-software-too-1goh)
-- [Vertical Order Traversal](https://dev.to/jaspreet_singh_86ae1740ac/vertical-order-traversal-40fa)
+- [I Built a Free Browser Gaming Platform – FizGame](https://dev.to/playfizgame/i-built-a-free-browser-gaming-platform-fizgame-2l8)
+- [PostgreSQL query planner parameters and prepared statements](https://dev.to/franckpachot/postgresql-query-planner-parameters-and-prepared-statements-3o5a)
+- [Building in public, week 17: turning one feature into a page cluster &lpar;and the internal-linking layer nobody sees&rpar;](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-17-turning-one-feature-into-a-page-cluster-and-the-internal-linking-2nap)
+- [CNTRL by Omnikon Org Selected for Elite Coders Summer of Code &lpar;ECSoC&rpar; 2026](https://dev.to/rishibyte/cntrl-by-omnikon-org-selected-for-elite-coders-summer-of-code-ecsoc-2026-3kag)
+- [Guardrails for LLM Apps in Python](https://dev.to/gpuneet/guardrails-for-llm-apps-in-python-3h0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
