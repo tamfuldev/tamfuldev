@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c)
-- [Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi)
-- [Let&#39;s Talk Relationships and Joins](https://dev.to/gikonyov/lets-talk-relationships-and-joins-40k2)
-- [Connecting Traditional Banks to Web3 With Stellar — by André Dias Moreira Prol](https://dev.to/andr_diasmoreiraprol_b/connecting-traditional-banks-to-web3-with-stellar-by-andre-dias-moreira-prol-2kg6)
-- [The Mean Is Lying to You: Benchmarks Hide the Variance That Breaks Prod](https://dev.to/aiexplore369zoho/the-mean-is-lying-to-you-benchmarks-hide-the-variance-that-breaks-prod-1oil)
+- [AWS-native Observability for EC2 với CloudWatch Agent](https://dev.to/truong_an_cornduck/aws-native-observability-for-ec2-voi-cloudwatch-agent-275h)
+- [What Is Project Glasswing, Really? Inside Anthropic&#39;s Big Bet on AI-Powered Cyber Defense](https://dev.to/arashad_dodhiya_0e4bdba5a/what-is-project-glasswing-really-inside-anthropics-big-bet-on-ai-powered-cyber-defense-5e7k)
+- [Grouping Utterances by Speaker with ECAPA-TDNN and ONNX Runtime](https://dev.to/kiarina/grouping-utterances-by-speaker-with-ecapa-tdnn-and-onnx-runtime-411b)
+- [Self-Updating Crypto Infrastructure: Watchtower + GHCR for AI Agent Wallets](https://dev.to/walletguy/self-updating-crypto-infrastructure-watchtower-ghcr-for-ai-agent-wallets-5a4g)
+- [Unix Timestamp Cheat Sheet: Convert, Read, and Debug Like a Pro](https://dev.to/kingfujing/unix-timestamp-cheat-sheet-convert-read-and-debug-like-a-pro-1p3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
