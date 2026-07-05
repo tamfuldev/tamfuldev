@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Safari MCP Server Could Change How Developers Debug Websites](https://dev.to/ksparth12/the-safari-mcp-server-could-change-how-developers-debug-websites-223g)
-- [Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov &lpar;IaC SAST&rpar;](https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk)
-- [Agentic Software Development Explained: A Frontend Developer&#39;s Learning Journey](https://dev.to/kalpick_sharma_d32ace423a/agentic-software-development-explained-a-frontend-developers-learning-journey-28a1)
-- [PaperQuire v0.3.0 — Your AI Agent&#39;s PDF Tool](https://dev.to/paperquire_e3fdb510bbe49c/paperquire-v030-your-ai-agents-pdf-tool-3c1n)
-- [Network service based on ZeroTier](https://dev.to/yumik0_chan/network-service-based-on-zerotier-4047)
+- [How I Built an MT5 Trading Bot with Python and Smart Money Concept](https://dev.to/nimnambui/how-i-built-an-mt5-trading-bot-with-python-and-smart-money-concept-2j5i)
+- [AI Guard Gateway v0.1.0: Mitigando el Secuestro de Endpoints de IA y la Inyección de Prompts](https://dev.to/magopredator/ai-guard-gateway-v010-mitigando-el-secuestro-de-endpoints-de-ia-y-la-inyeccion-de-prompts-o0a)
+- [Mastering Production Reliability: Practical Observability with OpenTelemetry, Prometheus, and GitHub Actions](https://dev.to/julio_samuelcortezmaman/mastering-production-reliability-practical-observability-with-opentelemetry-prometheus-and-29l8)
+- [Java While vs. Do-While Loops: The Critical Difference](https://dev.to/irza_hashim/java-while-vs-do-while-loops-the-critical-difference-396f)
+- [Solon 4.0.3 Released: AI Loop, Code Talent, JDK 25 Prep](https://dev.to/solonjava/solon-403-released-ai-loop-code-talent-jdk-25-prep-5hmo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
