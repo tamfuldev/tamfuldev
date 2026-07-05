@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an MT5 Trading Bot with Python and Smart Money Concept](https://dev.to/nimnambui/how-i-built-an-mt5-trading-bot-with-python-and-smart-money-concept-2j5i)
-- [AI Guard Gateway v0.1.0: Mitigando el Secuestro de Endpoints de IA y la Inyección de Prompts](https://dev.to/magopredator/ai-guard-gateway-v010-mitigando-el-secuestro-de-endpoints-de-ia-y-la-inyeccion-de-prompts-o0a)
-- [Mastering Production Reliability: Practical Observability with OpenTelemetry, Prometheus, and GitHub Actions](https://dev.to/julio_samuelcortezmaman/mastering-production-reliability-practical-observability-with-opentelemetry-prometheus-and-29l8)
-- [Java While vs. Do-While Loops: The Critical Difference](https://dev.to/irza_hashim/java-while-vs-do-while-loops-the-critical-difference-396f)
-- [Solon 4.0.3 Released: AI Loop, Code Talent, JDK 25 Prep](https://dev.to/solonjava/solon-403-released-ai-loop-code-talent-jdk-25-prep-5hmo)
+- [Bundling a CLI Binary as a Tauri v2 Sidecar: Lessons from Building a Desktop App](https://dev.to/chenxxpro/bundling-a-cli-binary-as-a-tauri-v2-sidecar-lessons-from-building-a-desktop-app-5po)
+- [The Push Notification Bug That Took Three Layers to Find](https://dev.to/muhammadniazali/the-push-notification-bug-that-took-three-layers-to-find-24d)
+- [TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters](https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716)
+- [Core Concept: Leader Election via Consensus](https://dev.to/rishabh_pahwa_1a2b93e60b0/core-concept-leader-election-via-consensus-246l)
+- [誠品線上庫存查詢工具 — 技術報告](https://dev.to/codemee/cheng-pin-xian-shang-ku-cun-cha-xun-gong-ju-ji-shu-bao-gao-3mnk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
