@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Browser Gaming Platform – FizGame](https://dev.to/playfizgame/i-built-a-free-browser-gaming-platform-fizgame-2l8)
-- [PostgreSQL query planner parameters and prepared statements](https://dev.to/franckpachot/postgresql-query-planner-parameters-and-prepared-statements-3o5a)
-- [Building in public, week 17: turning one feature into a page cluster &lpar;and the internal-linking layer nobody sees&rpar;](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-17-turning-one-feature-into-a-page-cluster-and-the-internal-linking-2nap)
-- [CNTRL by Omnikon Org Selected for Elite Coders Summer of Code &lpar;ECSoC&rpar; 2026](https://dev.to/rishibyte/cntrl-by-omnikon-org-selected-for-elite-coders-summer-of-code-ecsoc-2026-3kag)
-- [Guardrails for LLM Apps in Python](https://dev.to/gpuneet/guardrails-for-llm-apps-in-python-3h0j)
+- [Salam is a general-purpose and systems programming language designed for efficient software development](https://dev.to/salamlang/salam-is-a-general-purpose-and-systems-programming-language-designed-for-efficient-software-3904)
+- [The Backdoor in Your Browser: Why You Are the Product &lpar;And How to Opt Out&rpar;](https://dev.to/numbpill3d/the-backdoor-in-your-browser-why-you-are-the-product-and-how-to-opt-out-4jg9)
+- [GitHub Actions SEO: gate PRs on broken links and schema](https://dev.to/mitrasish/github-actions-seo-gate-prs-on-broken-links-and-schema-4eo3)
+- [[Boost]](https://dev.to/subhansh/-5819)
+- [A Cron-Friendly Email Smoke Test for Staging](https://dev.to/mrdapperx/a-cron-friendly-email-smoke-test-for-staging-1p6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
