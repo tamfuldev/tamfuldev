@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 02: I Automated Before Testing. And Delayed the Delivery](https://dev.to/lflucasferreira/episode-02-i-automated-before-testing-and-delayed-the-delivery-52pa)
-- [How We Gave CLI Coding Agents Persistent Memory Using a Proxy and Cognee](https://dev.to/gowtham_adithyavurukuti_/how-we-gave-cli-coding-agents-persistent-memory-using-a-proxy-and-cognee-2063)
-- [Building BLT HackerHouse: An Open Source Journey!](https://dev.to/owaspblt/building-blt-hackerhouse-an-open-source-journey-4cdj)
-- [Build a Local Services App with Flutter and HosteDay — Part 1](https://dev.to/mustafa3max/build-a-local-services-app-with-flutter-and-hosteday-part-1-3e95)
-- [HTTP/2: The Protocol That Stopped the Connection Explosion](https://dev.to/anik_sikder_313/http2-the-protocol-that-stopped-the-connection-explosion-4123)
+- [Dead Man&#39;s Switch + USB Kill Switch for Linux - Open source defensive security project](https://dev.to/qxnode/dead-mans-switch-usb-kill-switch-for-linux-open-source-defensive-security-project-c8n)
+- [Agentes que se auto-corrigen: Text-to-SQL con smolagents &lpar;Hugging Face&rpar;](https://dev.to/mauchoquenachoque/agentes-que-se-auto-corrigen-text-to-sql-con-smolagents-hugging-face-4dig)
+- [Building DetectiveAI: Giving Crime Investigation an AI That Never Forgets with Cognee](https://dev.to/tanya_garg_5315/building-detectiveai-giving-crime-investigation-an-ai-that-never-forgets-with-cognee-3bjk)
+- [Nobody Told Me Motors Needed Software Too](https://dev.to/karthi_keyan03/nobody-told-me-motors-needed-software-too-1goh)
+- [Vertical Order Traversal](https://dev.to/jaspreet_singh_86ae1740ac/vertical-order-traversal-40fa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
