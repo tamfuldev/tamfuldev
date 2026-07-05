@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EKS Security Deep Dive: IRSA vs. EKS Pod Identity](https://dev.to/himaatluri/eks-security-deep-dive-irsa-vs-eks-pod-identity-4562)
-- [built a self-deploying DNS Firewall Appliance for ISPs &lpar;ISO + 3D Dashboard&rpar;](https://dev.to/devair_fernandes_0051b209/built-a-self-deploying-dns-firewall-appliance-for-isps-iso-3d-dashboard-3b36)
-- [The day my GitHub token stopped being mine](https://dev.to/codedibia/the-day-my-github-token-stopped-being-mine-ga0)
-- [The Enterprise MCP Gateway Buyer&#39;s Guide: SSO, SCIM, Audit, and Governance Requirements](https://dev.to/dumebii/the-enterprise-mcp-gateway-buyers-guide-sso-scim-audit-and-governance-requirements-ho7)
-- [I built a privacy-first JSON formatter that runs entirely in your browser](https://dev.to/jeremy_s_6f68cbb97b8065cf/i-built-a-privacy-first-json-formatter-that-runs-entirely-in-your-browser-fi3)
+- [How to Actually Get a Tech Job in 2026: Every Method That Works, Ranked](https://dev.to/avinash201199/how-to-actually-get-a-tech-job-in-2026-every-method-that-works-ranked-57nl)
+- [Migrating off the OpenAI Assistants API before it shuts off &lpar;Aug 26, 2026&rpar;](https://dev.to/fernforge/migrating-off-the-openai-assistants-api-before-it-shuts-off-aug-26-2026-mfn)
+- [Debugging a BSONVersionError in Mongoose: What It Actually Means and How I Fixed It](https://dev.to/justwonder/debugging-a-bsonversionerror-in-mongoose-what-it-actually-means-and-how-i-fixed-it-2jfe)
+- [I Left My Day Job to Teach My Kids How to Build Businesses With AI](https://dev.to/mattsenter/i-left-my-day-job-to-teach-my-kids-how-to-build-businesses-with-ai-5h8o)
+- [Building Your First AI Agent with MCP: A Step-by-Step Guide](https://dev.to/sushyam_n/building-your-first-ai-agent-with-mcp-a-step-by-step-guide-58mk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
