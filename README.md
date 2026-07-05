@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What AGENTS.md Gives Coding Agents That README Files Do Not](https://dev.to/anilmuppalla/what-agentsmd-gives-coding-agents-that-readme-files-do-not-412k)
-- [Sakana Fugu: How Collaborative AI is Changing the Game](https://dev.to/terminalchai/sakana-fugu-how-collaborative-ai-is-changing-the-game-2ja6)
-- [Tokens](https://dev.to/tahaboussaden/tokens-27h4)
-- [How a Hollywood Star Helped Invent Wi-Fi](https://dev.to/fluidwire/how-a-hollywood-star-helped-invent-wi-fi-31bb)
-- [Behind the Curtain: APE-QIL QUANTUM SUPREME OCTOPUS and the 3-Tier Sovereign Auth Pipeline](https://dev.to/blacknobilityenterprisellcarch/behind-the-curtain-ape-qil-quantum-supreme-octopus-and-the-3-tier-sovereign-auth-pipeline-545p)
+- [EKS Security Deep Dive: IRSA vs. EKS Pod Identity](https://dev.to/himaatluri/eks-security-deep-dive-irsa-vs-eks-pod-identity-4562)
+- [built a self-deploying DNS Firewall Appliance for ISPs &lpar;ISO + 3D Dashboard&rpar;](https://dev.to/devair_fernandes_0051b209/built-a-self-deploying-dns-firewall-appliance-for-isps-iso-3d-dashboard-3b36)
+- [The day my GitHub token stopped being mine](https://dev.to/codedibia/the-day-my-github-token-stopped-being-mine-ga0)
+- [The Enterprise MCP Gateway Buyer&#39;s Guide: SSO, SCIM, Audit, and Governance Requirements](https://dev.to/dumebii/the-enterprise-mcp-gateway-buyers-guide-sso-scim-audit-and-governance-requirements-ho7)
+- [I built a privacy-first JSON formatter that runs entirely in your browser](https://dev.to/jeremy_s_6f68cbb97b8065cf/i-built-a-privacy-first-json-formatter-that-runs-entirely-in-your-browser-fi3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
