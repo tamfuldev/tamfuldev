@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Context Mode Review 2026 — The Missing Half of the AI Agent Context Problem](https://dev.to/yihui_zhang_d783406caddd7/context-mode-review-2026-the-missing-half-of-the-ai-agent-context-problem-9g3)
-- [Stop letting AI agents click the expensive buttons](https://dev.to/sphillips1337/stop-letting-ai-agents-click-the-expensive-buttons-247f)
-- [Solana&#39;s Throughput Advantage: What It Actually Means for AI Agent Development](https://dev.to/claudia-ve/solanas-throughput-advantage-what-it-actually-means-for-ai-agent-development-1if3)
-- [[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution](https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856)
-- [Stop Building Chatbots: Moving Toward Agentic Content Workflows](https://dev.to/ntty/stop-building-chatbots-moving-toward-agentic-content-workflows-48ie)
+- [Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c)
+- [Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi)
+- [Let&#39;s Talk Relationships and Joins](https://dev.to/gikonyov/lets-talk-relationships-and-joins-40k2)
+- [Connecting Traditional Banks to Web3 With Stellar — by André Dias Moreira Prol](https://dev.to/andr_diasmoreiraprol_b/connecting-traditional-banks-to-web3-with-stellar-by-andre-dias-moreira-prol-2kg6)
+- [The Mean Is Lying to You: Benchmarks Hide the Variance That Breaks Prod](https://dev.to/aiexplore369zoho/the-mean-is-lying-to-you-benchmarks-hide-the-variance-that-breaks-prod-1oil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
