@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A practical regression test case template for bug fixes](https://dev.to/david_bob/a-practical-regression-test-case-template-for-bug-fixes-2h39)
-- [Loop Engineering Explained for Developers!](https://dev.to/pavanbelagatti/loop-engineering-explained-for-developers-40m2)
-- [Decoupling Async State from UI Lifecycles](https://dev.to/luciano0322/decoupling-async-state-from-ui-lifecycles-pac)
-- [As SpaceX deal looms, Cursor partners with Chainguard to secure open-source dependencies in AI-built code](https://dev.to/tessl-io/as-spacex-deal-looms-cursor-partners-with-chainguard-to-secure-open-source-dependencies-in-59jo)
-- [How I Built a Secondhand Clothes Marketplace for Kisumu, Kenya — As a First-Year Developer](https://dev.to/kahenda/how-i-built-a-secondhand-clothes-marketplace-for-kisumu-kenya-as-a-first-year-developer-17lb)
+- [Send and update travel itineraries with an email agent](https://dev.to/mqasimca/send-and-update-travel-itineraries-with-an-email-agent-5c68)
+- [I Built an AI Agent That Breaks Your API and Fixes It Automatically](https://dev.to/jason_yakubu_cea140854a5b/i-built-an-ai-agent-that-breaks-your-api-and-fixes-it-automatically-3e2h)
+- [My Strawman Baseline Beat My Own Scheme on Half the Gate Classes](https://dev.to/p0rt/my-strawman-baseline-beat-my-own-scheme-on-half-the-gate-classes-177h)
+- [The Abilities API: Teaching Your Site to Say &#39;Here&#39;s What I Can Do&#39;](https://dev.to/kushang_tailor/the-abilities-api-teaching-your-site-to-say-heres-what-i-can-do-42hh)
+- [The Performance Illusion](https://dev.to/ezmu/the-performance-illusion-m9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
