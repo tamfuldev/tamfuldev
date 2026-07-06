@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB vs PostgreSQL: Which Database Should You Choose in 2026?](https://dev.to/code_withlogs_15bb21d46a/mongodb-vs-postgresql-which-database-should-you-choose-in-2026-2pd1)
-- [WebSocket closed with 1006: why trading bots lose connection without an error code](https://dev.to/matrixtrak/websocket-closed-with-1006-why-trading-bots-lose-connection-without-an-error-code-26ld)
-- [How to Verify Paddle Billing Webhook Signatures &lpar;and the Raw-Body Bug That Breaks Them&rpar;](https://dev.to/eventdock/how-to-verify-paddle-billing-webhook-signatures-and-the-raw-body-bug-that-breaks-them-2a14)
-- [RAG Chatbot Development for B2B: Why We Stopped Hard-Coding One LLM Vendor](https://dev.to/duskel/rag-chatbot-development-for-b2b-why-we-stopped-hard-coding-one-llm-vendor-4f8j)
-- [How to Build a Point-in-Time Fundamentals Database from SEC EDGAR &lpar;and When Not To&rpar;](https://dev.to/tradevodata/how-to-build-a-point-in-time-fundamentals-database-from-sec-edgar-and-when-not-to-2gn6)
+- [The Simplest Explanation: What a 700-Year-Old Idea Teaches Us About AI](https://dev.to/scott_peterson/the-simplest-explanation-what-a-700-year-old-idea-teaches-us-about-ai-10f4)
+- [DynamoDB adaptive capacity](https://dev.to/dynotable/dynamodb-adaptive-capacity-gif)
+- [Kafka addressing &amp; VPC peering](https://dev.to/conduktor/kafka-addressing-vpc-peering-5f3j)
+- [AI ROBOTICS Coding Discourse](https://dev.to/blazx0/ai-robotics-coding-discourse-449l)
+- [8 AI Agents, 0 Sleep: A Day in the Life of Our Autonomous OS](https://dev.to/zwiserfit/8-ai-agents-0-sleep-a-day-in-the-life-of-our-autonomous-os-2ooi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
