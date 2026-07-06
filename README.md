@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Simplest Explanation: What a 700-Year-Old Idea Teaches Us About AI](https://dev.to/scott_peterson/the-simplest-explanation-what-a-700-year-old-idea-teaches-us-about-ai-10f4)
-- [DynamoDB adaptive capacity](https://dev.to/dynotable/dynamodb-adaptive-capacity-gif)
-- [Kafka addressing &amp; VPC peering](https://dev.to/conduktor/kafka-addressing-vpc-peering-5f3j)
-- [AI ROBOTICS Coding Discourse](https://dev.to/blazx0/ai-robotics-coding-discourse-449l)
-- [8 AI Agents, 0 Sleep: A Day in the Life of Our Autonomous OS](https://dev.to/zwiserfit/8-ai-agents-0-sleep-a-day-in-the-life-of-our-autonomous-os-2ooi)
+- [No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh)
+- [GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co)
+- [Automating Flutter Android Releases to Google Play using GitHub Actions](https://dev.to/madhan_gannarapu/automating-flutter-android-releases-to-google-play-using-github-actions-9lj)
+- [Your Postgres already knows why it&#39;s slow — you just have to ask it](https://dev.to/kalpesh_parihar/your-postgres-already-knows-why-its-slow-you-just-have-to-ask-it-2d06)
+- [What Is an MCP Server? A Plain-English Guide for Builders &lpar;2026&rpar;](https://dev.to/buywhere/what-is-an-mcp-server-a-plain-english-guide-for-builders-2026-2jm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
