@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;1&rpar; Setting Up Customer Insights - Data](https://dev.to/tecturajpndx/d365-customer-insights-for-our-own-sales-team-customer-zero-1-setting-up-customer-insights--3mng)
-- [We Got Zero Upvotes on Product Hunt — And Learned More Than Any Launch Spike](https://dev.to/zwiserfit/we-got-zero-upvotes-on-product-hunt-and-learned-more-than-any-launch-spike-18ki)
-- [The overlooked PDF problem in upload forms: fixed file-size limits](https://dev.to/nikoo_li_06a1e02c73785324/the-overlooked-pdf-problem-in-upload-forms-fixed-file-size-limits-5b65)
-- [# Compila e Reza? — Segurança e Qualidade na Prática: O Papel do SAST, DAST e Testes Automatizados no Ciclo de Vida do Software Moderno](https://dev.to/matheusarmando/-compila-e-reza-seguranca-e-qualidade-na-pratica-o-papel-do-sast-dast-e-testes-automatizados-omm)
-- [How to Get Canadian Charity Data by API &lpar;2026&rpar;](https://dev.to/truenorthdata/how-to-get-canadian-charity-data-by-api-2026-2cc9)
+- [A practical regression test case template for bug fixes](https://dev.to/david_bob/a-practical-regression-test-case-template-for-bug-fixes-2h39)
+- [Loop Engineering Explained for Developers!](https://dev.to/pavanbelagatti/loop-engineering-explained-for-developers-40m2)
+- [Decoupling Async State from UI Lifecycles](https://dev.to/luciano0322/decoupling-async-state-from-ui-lifecycles-pac)
+- [As SpaceX deal looms, Cursor partners with Chainguard to secure open-source dependencies in AI-built code](https://dev.to/tessl-io/as-spacex-deal-looms-cursor-partners-with-chainguard-to-secure-open-source-dependencies-in-59jo)
+- [How I Built a Secondhand Clothes Marketplace for Kisumu, Kenya — As a First-Year Developer](https://dev.to/kahenda/how-i-built-a-secondhand-clothes-marketplace-for-kisumu-kenya-as-a-first-year-developer-17lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
