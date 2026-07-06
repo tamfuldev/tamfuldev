@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Actually Get a Tech Job in 2026: Every Method That Works, Ranked](https://dev.to/avinash201199/how-to-actually-get-a-tech-job-in-2026-every-method-that-works-ranked-57nl)
-- [Migrating off the OpenAI Assistants API before it shuts off &lpar;Aug 26, 2026&rpar;](https://dev.to/fernforge/migrating-off-the-openai-assistants-api-before-it-shuts-off-aug-26-2026-mfn)
-- [Debugging a BSONVersionError in Mongoose: What It Actually Means and How I Fixed It](https://dev.to/justwonder/debugging-a-bsonversionerror-in-mongoose-what-it-actually-means-and-how-i-fixed-it-2jfe)
-- [I Left My Day Job to Teach My Kids How to Build Businesses With AI](https://dev.to/mattsenter/i-left-my-day-job-to-teach-my-kids-how-to-build-businesses-with-ai-5h8o)
-- [Building Your First AI Agent with MCP: A Step-by-Step Guide](https://dev.to/sushyam_n/building-your-first-ai-agent-with-mcp-a-step-by-step-guide-58mk)
+- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;1&rpar; Setting Up Customer Insights - Data](https://dev.to/tecturajpndx/d365-customer-insights-for-our-own-sales-team-customer-zero-1-setting-up-customer-insights--3mng)
+- [We Got Zero Upvotes on Product Hunt — And Learned More Than Any Launch Spike](https://dev.to/zwiserfit/we-got-zero-upvotes-on-product-hunt-and-learned-more-than-any-launch-spike-18ki)
+- [The overlooked PDF problem in upload forms: fixed file-size limits](https://dev.to/nikoo_li_06a1e02c73785324/the-overlooked-pdf-problem-in-upload-forms-fixed-file-size-limits-5b65)
+- [# Compila e Reza? — Segurança e Qualidade na Prática: O Papel do SAST, DAST e Testes Automatizados no Ciclo de Vida do Software Moderno](https://dev.to/matheusarmando/-compila-e-reza-seguranca-e-qualidade-na-pratica-o-papel-do-sast-dast-e-testes-automatizados-omm)
+- [How to Get Canadian Charity Data by API &lpar;2026&rpar;](https://dev.to/truenorthdata/how-to-get-canadian-charity-data-by-api-2026-2cc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
