@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Playbook: Architecting Defenses Against Autonomous AI Threats](https://dev.to/alifunk/beyond-the-playbook-architecting-defenses-against-autonomous-ai-threats-2obe)
-- [How to Create Strong Passwords &lpar;and Why Length Beats Complexity&rpar;](https://dev.to/bitran/how-to-create-strong-passwords-and-why-length-beats-complexity-4mih)
-- [Our AI agents fabricated &quot;done&quot; five times in 17 days. Here is what actually reduced it.](https://dev.to/nexuslabzen/our-ai-agents-fabricated-done-five-times-in-17-days-here-is-what-actually-reduced-it-3pbm)
-- [await doesn&#39;t mean &#39;meanwhile&#39;: the bug every JavaScript engineer writes in Python](https://dev.to/r9v/await-doesnt-mean-meanwhile-the-bug-every-javascript-engineer-writes-in-python-2k14)
-- [Your ChatGPT Traffic Is Hiding in &#39;Direct&#39; — How to Track AI Search Referrals in Magento 2](https://dev.to/angeo/your-chatgpt-traffic-is-hiding-in-direct-how-to-track-ai-search-referrals-in-magento-2-54eg)
+- [Corvorum OS Server Edition](https://dev.to/technomantus_corvi/corvorum-os-server-edition-2d94)
+- [Meta Pixel not firing? The 6 real causes, in the order to check them](https://dev.to/rytisbalys/meta-pixel-not-firing-the-6-real-causes-in-the-order-to-check-them-4d0f)
+- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
+- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
+- [Punto de partida: tecnología y mejora humana](https://dev.to/carlos_arturocastaog_/punto-de-partida-tecnologia-y-mejora-humana-3jnd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
