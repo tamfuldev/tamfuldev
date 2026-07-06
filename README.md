@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Send and update travel itineraries with an email agent](https://dev.to/mqasimca/send-and-update-travel-itineraries-with-an-email-agent-5c68)
-- [I Built an AI Agent That Breaks Your API and Fixes It Automatically](https://dev.to/jason_yakubu_cea140854a5b/i-built-an-ai-agent-that-breaks-your-api-and-fixes-it-automatically-3e2h)
-- [My Strawman Baseline Beat My Own Scheme on Half the Gate Classes](https://dev.to/p0rt/my-strawman-baseline-beat-my-own-scheme-on-half-the-gate-classes-177h)
-- [The Abilities API: Teaching Your Site to Say &#39;Here&#39;s What I Can Do&#39;](https://dev.to/kushang_tailor/the-abilities-api-teaching-your-site-to-say-heres-what-i-can-do-42hh)
-- [The Performance Illusion](https://dev.to/ezmu/the-performance-illusion-m9i)
+- [MongoDB vs PostgreSQL: Which Database Should You Choose in 2026?](https://dev.to/code_withlogs_15bb21d46a/mongodb-vs-postgresql-which-database-should-you-choose-in-2026-2pd1)
+- [WebSocket closed with 1006: why trading bots lose connection without an error code](https://dev.to/matrixtrak/websocket-closed-with-1006-why-trading-bots-lose-connection-without-an-error-code-26ld)
+- [How to Verify Paddle Billing Webhook Signatures &lpar;and the Raw-Body Bug That Breaks Them&rpar;](https://dev.to/eventdock/how-to-verify-paddle-billing-webhook-signatures-and-the-raw-body-bug-that-breaks-them-2a14)
+- [RAG Chatbot Development for B2B: Why We Stopped Hard-Coding One LLM Vendor](https://dev.to/duskel/rag-chatbot-development-for-b2b-why-we-stopped-hard-coding-one-llm-vendor-4f8j)
+- [How to Build a Point-in-Time Fundamentals Database from SEC EDGAR &lpar;and When Not To&rpar;](https://dev.to/tradevodata/how-to-build-a-point-in-time-fundamentals-database-from-sec-edgar-and-when-not-to-2gn6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
