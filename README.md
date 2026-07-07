@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Beginner Developer Trap: Learning Forever Instead of Creating!](https://dev.to/the_mj_super/the-beginner-developer-trap-learning-forever-instead-of-creating-4k1f)
-- [🔥 I Built an ESP32 Smart Bike Control System with an Android App &lpar;Open Source&rpar;](https://dev.to/igwestarking/i-built-an-esp32-smart-bike-control-system-with-an-android-app-open-source-11pn)
-- [GPT-5.6 Is Showing Up Around Codex. The Launch Problem Is Still Bigger Than the Model.](https://dev.to/kallee-si/gpt-56-is-showing-up-around-codex-the-launch-problem-is-still-bigger-than-the-model-3npd)
-- [Architecting persistent background tasks against Android Doze mode](https://dev.to/haseebthedev0/architecting-persistent-background-tasks-against-android-doze-mode-1ngm)
-- [We Stress-Tested a Live AI Chatbot. It Invented a Fake Identity, Cited Fake Statistics, and Scored 55/100.](https://dev.to/amjad_shaik_2828b1b61d731/we-stress-tested-a-live-ai-chatbot-it-invented-a-fake-identity-cited-fake-statistics-and-scored-30fb)
+- [We read 5 \&quot;free credits\&quot; Terms of Service so you don&#39;t have to](https://dev.to/thefreetier/we-read-5-free-credits-terms-of-service-so-you-dont-have-to-542b)
+- [Your Coding Agents Are Drowning in Context: You Pay Twice, in Tokens and in Precision](https://dev.to/cleberdelima/your-coding-agents-are-drowning-in-context-you-pay-twice-in-tokens-and-in-precision-1pp7)
+- [Check out my new blog post on cheap AI inference for Hermes
+
+https://medium.com/@elinaberz0/building-an-mvp-research-wiki-with-hermes-agent-and-gonka-router-e2735ab3d932](https://dev.to/elinaber/check-out-my-new-blog-post-on-cheap-ai-inference-for-hermes-5n4)
+- [Release-Ready Email Checks](https://dev.to/mrdapperx/release-ready-email-checks-3nam)
+- [Why I chose PGMQ over Redis for IoT sensor ingestion](https://dev.to/growerzer0/why-i-chose-pgmq-over-redis-for-iot-sensor-ingestion-idl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
