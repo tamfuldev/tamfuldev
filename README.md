@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev log #10 Kanagawa Dreams and Test Suites: A Week of Refactoring my Neovim and Hardening the Backend](https://dev.to/yashksaini/dev-log-11-kanagawa-dreams-and-test-suites-a-week-of-refactoring-my-neovim-and-hardening-the-nb3)
-- [Fable 5 just left your Claude subscription. Here&#39;s how I keep Opus at that tier.](https://dev.to/clomia_d9be33fb6dacd82fa1/fable-5-just-left-your-claude-subscription-heres-how-i-keep-opus-at-that-tier-3b3j)
-- [What Makes a Residential Proxy Actually &quot;Enterprise-Grade&quot; &lpar;A Technical Buyer&#39;s Checklist&rpar;](https://dev.to/danielk_automat/what-makes-a-residential-proxy-actually-enterprise-grade-a-technical-buyers-checklist-3h9)
-- [完美的平庸](https://dev.to/yuta_tu_df870be227e99357a/wan-mei-de-ping-yong-3b7j)
-- [The Most Dangerous Kind of Good](https://dev.to/yuta_tu_df870be227e99357a/the-most-dangerous-kind-of-good-2lpa)
+- [The Agent That Knows When Not to Act — Building NeuroScale Autopilot on Qwen Cloud](https://dev.to/sodiqjimoh/the-agent-that-knows-when-not-to-act-building-neuroscale-autopilot-on-qwen-cloud-1lld)
+- [I Have an App Idea — Now What? A Step-by-Step Guide](https://dev.to/dajilabs/i-have-an-app-idea-now-what-a-step-by-step-guide-30l7)
+- [I turned a static HTML page into an editable CMS site with one prompt](https://dev.to/neletomartin/i-turned-a-static-html-page-into-an-editable-cms-site-with-one-prompt-4ajl)
+- [Four AI agents re-checked the guides](https://dev.to/turva-dev/four-ai-agents-re-checked-the-guides-3j1a)
+- [Smart Contract Security: Lessons Learned from Building Fintech Payment Systems](https://dev.to/seoperfectiongeeks/smart-contract-security-lessons-learned-from-building-fintech-payment-systems-eak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
