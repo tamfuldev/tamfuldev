@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring DeepSpec: Insights for Developers in Speculative Decoding](https://dev.to/dd8888/exploring-deepspec-insights-for-developers-in-speculative-decoding-490p)
-- [&quot;Every US Nonprofit&#39;s Budget Is Public. Here Is How to Build Lead Lists From It&quot;](https://dev.to/scrapemint/every-us-nonprofits-budget-is-public-here-is-how-to-build-lead-lists-from-it-bbg)
-- [Building Sluice: A Settlement Layer for the Agent-Paid Web](https://dev.to/majesticfranc/building-sluice-a-settlement-layer-for-the-agent-paid-web-55op)
-- [Guia Completo: Transcrição de Áudio do WhatsApp com Google Cloud API](https://dev.to/jesusia/guia-completo-transcricao-de-audio-do-whatsapp-com-google-cloud-api-3ji8)
-- [GSoC Midterm Update: Rebuilding BLT for a Cloudflare-First Future](https://dev.to/mdkaifansari04/gsoc-midterm-update-rebuilding-blt-for-a-cloudflare-first-future-14h)
+- [Deploying Ngrok Ingress Controller on Kubernetes](https://dev.to/vultr/deploying-ngrok-ingress-controller-on-kubernetes-j70)
+- [Getting Selected for the LFX Mentorship, and What I&#39;ve Learned So Far About OpenSSL](https://dev.to/siddhartha_bhattarai_a084/getting-selected-for-the-lfx-mentorship-and-what-ive-learned-so-far-about-openssl-k0f)
+- [Deploying PocketBase - Open-Source Go Backend Platform on Linux](https://dev.to/vultr/deploying-pocketbase-open-source-go-backend-platform-on-linux-27bl)
+- [Differential Testing Revealed What Conformance Testing Missed: A Case Study with Open-Source eMRTD Libraries](https://dev.to/kazuru_73322ef9a7d6ed2b18/differential-testing-revealed-what-conformance-testing-missed-a-case-study-with-open-source-emrtd-1nie)
+- [Deploying Neko - Self-Hosted Virtual Browser Platform on Linux](https://dev.to/vultr/deploying-neko-self-hosted-virtual-browser-platform-on-linux-3i9n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
