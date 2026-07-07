@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Agentic Workflows Vulnerable to GitLost Data Leak Exploit](https://dev.to/davekurian/github-agentic-workflows-vulnerable-to-gitlost-data-leak-exploit-4i6m)
-- [We Rewrote VictoriaMetrics in Rust. It Now Beats the Original on Every Benchmark Metric](https://dev.to/softalink/we-rewrote-victoriametrics-in-rust-it-now-beats-the-original-on-every-benchmark-metric-2g62)
-- [Fixing iPhone HEVC Videos That Telegram Silently Rejects](https://dev.to/liveavabot/fixing-iphone-hevc-videos-that-telegram-silently-rejects-2mji)
-- [Mi asistente lleva 5 meses aprendiendo a programar conmigo y aún NO sabe programar](https://dev.to/carlos_arturocastaog_/mi-asistente-lleva-5-meses-aprendiendo-a-programar-conmigo-y-aun-no-sabe-programar-cpa)
-- [Check If a Password Was Breached Without Sending It &lpar;HIBP k-Anonymity&rpar;](https://dev.to/orthogonalinfo/check-if-a-password-was-breached-without-sending-it-hibp-k-anonymity-5j1)
+- [Exploring DeepSpec: Insights for Developers in Speculative Decoding](https://dev.to/dd8888/exploring-deepspec-insights-for-developers-in-speculative-decoding-490p)
+- [&quot;Every US Nonprofit&#39;s Budget Is Public. Here Is How to Build Lead Lists From It&quot;](https://dev.to/scrapemint/every-us-nonprofits-budget-is-public-here-is-how-to-build-lead-lists-from-it-bbg)
+- [Building Sluice: A Settlement Layer for the Agent-Paid Web](https://dev.to/majesticfranc/building-sluice-a-settlement-layer-for-the-agent-paid-web-55op)
+- [Guia Completo: Transcrição de Áudio do WhatsApp com Google Cloud API](https://dev.to/jesusia/guia-completo-transcricao-de-audio-do-whatsapp-com-google-cloud-api-3ji8)
+- [GSoC Midterm Update: Rebuilding BLT for a Cloudflare-First Future](https://dev.to/mdkaifansari04/gsoc-midterm-update-rebuilding-blt-for-a-cloudflare-first-future-14h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
