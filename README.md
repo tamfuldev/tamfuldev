@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Ngrok Ingress Controller on Kubernetes](https://dev.to/vultr/deploying-ngrok-ingress-controller-on-kubernetes-j70)
-- [Getting Selected for the LFX Mentorship, and What I&#39;ve Learned So Far About OpenSSL](https://dev.to/siddhartha_bhattarai_a084/getting-selected-for-the-lfx-mentorship-and-what-ive-learned-so-far-about-openssl-k0f)
-- [Deploying PocketBase - Open-Source Go Backend Platform on Linux](https://dev.to/vultr/deploying-pocketbase-open-source-go-backend-platform-on-linux-27bl)
-- [Differential Testing Revealed What Conformance Testing Missed: A Case Study with Open-Source eMRTD Libraries](https://dev.to/kazuru_73322ef9a7d6ed2b18/differential-testing-revealed-what-conformance-testing-missed-a-case-study-with-open-source-emrtd-1nie)
-- [Deploying Neko - Self-Hosted Virtual Browser Platform on Linux](https://dev.to/vultr/deploying-neko-self-hosted-virtual-browser-platform-on-linux-3i9n)
+- [The Beginner Developer Trap: Learning Forever Instead of Creating!](https://dev.to/the_mj_super/the-beginner-developer-trap-learning-forever-instead-of-creating-4k1f)
+- [🔥 I Built an ESP32 Smart Bike Control System with an Android App &lpar;Open Source&rpar;](https://dev.to/igwestarking/i-built-an-esp32-smart-bike-control-system-with-an-android-app-open-source-11pn)
+- [GPT-5.6 Is Showing Up Around Codex. The Launch Problem Is Still Bigger Than the Model.](https://dev.to/kallee-si/gpt-56-is-showing-up-around-codex-the-launch-problem-is-still-bigger-than-the-model-3npd)
+- [Architecting persistent background tasks against Android Doze mode](https://dev.to/haseebthedev0/architecting-persistent-background-tasks-against-android-doze-mode-1ngm)
+- [We Stress-Tested a Live AI Chatbot. It Invented a Fake Identity, Cited Fake Statistics, and Scored 55/100.](https://dev.to/amjad_shaik_2828b1b61d731/we-stress-tested-a-live-ai-chatbot-it-invented-a-fake-identity-cited-fake-statistics-and-scored-30fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
