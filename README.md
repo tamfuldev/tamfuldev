@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave AI Agents Actual Job Descriptions. My Team&#39;s Delivery Speed Went Up 300%. Here&#39;s the Setup](https://dev.to/sergii-kravtsov/i-gave-ai-agents-actual-job-descriptions-my-teams-delivery-speed-went-up-300-heres-the-setup-52jd)
-- [Linux Basics: File Viewing and Management Commands](https://dev.to/yunasong/linux-basics-file-viewing-and-management-commands-mbm)
-- [Building a Multi-Contact TUI in Rust with Ratatui: Tabs, Consoles, and UX](https://dev.to/mdenda/building-a-multi-contact-tui-in-rust-with-ratatui-tabs-consoles-and-ux-kmo)
-- [Why We Built MicroLeague Sports Vol. 2](https://dev.to/esolar07/why-we-built-microleague-sports-lp3)
-- [The best AI models cite retracted papers, and they cannot know it](https://dev.to/mikeeus/the-best-ai-models-cite-retracted-papers-and-they-cannot-know-it-5acj)
+- [GitHub Agentic Workflows Vulnerable to GitLost Data Leak Exploit](https://dev.to/davekurian/github-agentic-workflows-vulnerable-to-gitlost-data-leak-exploit-4i6m)
+- [We Rewrote VictoriaMetrics in Rust. It Now Beats the Original on Every Benchmark Metric](https://dev.to/softalink/we-rewrote-victoriametrics-in-rust-it-now-beats-the-original-on-every-benchmark-metric-2g62)
+- [Fixing iPhone HEVC Videos That Telegram Silently Rejects](https://dev.to/liveavabot/fixing-iphone-hevc-videos-that-telegram-silently-rejects-2mji)
+- [Mi asistente lleva 5 meses aprendiendo a programar conmigo y aún NO sabe programar](https://dev.to/carlos_arturocastaog_/mi-asistente-lleva-5-meses-aprendiendo-a-programar-conmigo-y-aun-no-sabe-programar-cpa)
+- [Check If a Password Was Breached Without Sending It &lpar;HIBP k-Anonymity&rpar;](https://dev.to/orthogonalinfo/check-if-a-password-was-breached-without-sending-it-hibp-k-anonymity-5j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
