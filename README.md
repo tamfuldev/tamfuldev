@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Personalisation Actually Does to Conversion — Lessons From Indian Gifting E-Commerce](https://dev.to/suhail1234567/what-personalisation-actually-does-to-conversion-lessons-from-indian-gifting-e-commerce-2jcg)
-- [# I Built a Legal OS for a Zimbabwean Law Firm — Here&#39;s What AI-Assisted Legal Research Actually Looks Like](https://dev.to/tandemmedia/-i-built-a-legal-os-for-a-zimbabwean-law-firm-heres-what-ai-assisted-legal-research-actually-22pl)
-- [enable AI&#39;s Full Potential: Structure Your Codebase for Agent Success](https://dev.to/davekurian/enable-ais-full-potential-structure-your-codebase-for-agent-success-38g6)
-- [Stop Putting Everything in useState](https://dev.to/ysndmr/stop-putting-everything-in-usestate-4oeg)
-- [Reskilling Will Not Save Us](https://dev.to/rawveg/reskilling-will-not-save-us-39f3)
+- [I Gave AI Agents Actual Job Descriptions. My Team&#39;s Delivery Speed Went Up 300%. Here&#39;s the Setup](https://dev.to/sergii-kravtsov/i-gave-ai-agents-actual-job-descriptions-my-teams-delivery-speed-went-up-300-heres-the-setup-52jd)
+- [Linux Basics: File Viewing and Management Commands](https://dev.to/yunasong/linux-basics-file-viewing-and-management-commands-mbm)
+- [Building a Multi-Contact TUI in Rust with Ratatui: Tabs, Consoles, and UX](https://dev.to/mdenda/building-a-multi-contact-tui-in-rust-with-ratatui-tabs-consoles-and-ux-kmo)
+- [Why We Built MicroLeague Sports Vol. 2](https://dev.to/esolar07/why-we-built-microleague-sports-lp3)
+- [The best AI models cite retracted papers, and they cannot know it](https://dev.to/mikeeus/the-best-ai-models-cite-retracted-papers-and-they-cannot-know-it-5acj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
