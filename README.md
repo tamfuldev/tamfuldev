@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Observability Design for the AI Era — Application / Infrastructure / CI / LLM, Each in Its Own Shape &lpar;Part 1&rpar;](https://dev.to/ryantsuji/observability-design-for-the-ai-era-application-infrastructure-ci-llm-each-in-its-own-56eg)
-- [O imposto de SSO, em dólares: quanto SAML custa de verdade na Auth0, WorkOS e Clerk](https://dev.to/authagonal/o-imposto-de-sso-em-dolares-quanto-saml-custa-de-verdade-na-auth0-workos-e-clerk-395n)
-- [An identity provider told us who you were, and we believed it](https://dev.to/authagonal/an-identity-provider-told-us-who-you-were-and-we-believed-it-1b9)
-- [Rattribute.js](https://dev.to/williamtroup/rattributejs-2cmm)
-- [If You Know CSS, You Already Know Yumma CSS](https://dev.to/rrenildopereiraa/if-you-know-css-you-already-know-yumma-css-4hok)
+- [Dev log #10 Kanagawa Dreams and Test Suites: A Week of Refactoring my Neovim and Hardening the Backend](https://dev.to/yashksaini/dev-log-11-kanagawa-dreams-and-test-suites-a-week-of-refactoring-my-neovim-and-hardening-the-nb3)
+- [Fable 5 just left your Claude subscription. Here&#39;s how I keep Opus at that tier.](https://dev.to/clomia_d9be33fb6dacd82fa1/fable-5-just-left-your-claude-subscription-heres-how-i-keep-opus-at-that-tier-3b3j)
+- [What Makes a Residential Proxy Actually &quot;Enterprise-Grade&quot; &lpar;A Technical Buyer&#39;s Checklist&rpar;](https://dev.to/danielk_automat/what-makes-a-residential-proxy-actually-enterprise-grade-a-technical-buyers-checklist-3h9)
+- [完美的平庸](https://dev.to/yuta_tu_df870be227e99357a/wan-mei-de-ping-yong-3b7j)
+- [The Most Dangerous Kind of Good](https://dev.to/yuta_tu_df870be227e99357a/the-most-dangerous-kind-of-good-2lpa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
