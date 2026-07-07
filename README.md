@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent That Knows When Not to Act — Building NeuroScale Autopilot on Qwen Cloud](https://dev.to/sodiqjimoh/the-agent-that-knows-when-not-to-act-building-neuroscale-autopilot-on-qwen-cloud-1lld)
-- [I Have an App Idea — Now What? A Step-by-Step Guide](https://dev.to/dajilabs/i-have-an-app-idea-now-what-a-step-by-step-guide-30l7)
-- [I turned a static HTML page into an editable CMS site with one prompt](https://dev.to/neletomartin/i-turned-a-static-html-page-into-an-editable-cms-site-with-one-prompt-4ajl)
-- [Four AI agents re-checked the guides](https://dev.to/turva-dev/four-ai-agents-re-checked-the-guides-3j1a)
-- [Smart Contract Security: Lessons Learned from Building Fintech Payment Systems](https://dev.to/seoperfectiongeeks/smart-contract-security-lessons-learned-from-building-fintech-payment-systems-eak)
+- [What Personalisation Actually Does to Conversion — Lessons From Indian Gifting E-Commerce](https://dev.to/suhail1234567/what-personalisation-actually-does-to-conversion-lessons-from-indian-gifting-e-commerce-2jcg)
+- [# I Built a Legal OS for a Zimbabwean Law Firm — Here&#39;s What AI-Assisted Legal Research Actually Looks Like](https://dev.to/tandemmedia/-i-built-a-legal-os-for-a-zimbabwean-law-firm-heres-what-ai-assisted-legal-research-actually-22pl)
+- [enable AI&#39;s Full Potential: Structure Your Codebase for Agent Success](https://dev.to/davekurian/enable-ais-full-potential-structure-your-codebase-for-agent-success-38g6)
+- [Stop Putting Everything in useState](https://dev.to/ysndmr/stop-putting-everything-in-usestate-4oeg)
+- [Reskilling Will Not Save Us](https://dev.to/rawveg/reskilling-will-not-save-us-39f3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
