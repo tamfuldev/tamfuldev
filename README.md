@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Corvorum OS Server Edition](https://dev.to/technomantus_corvi/corvorum-os-server-edition-2d94)
-- [Meta Pixel not firing? The 6 real causes, in the order to check them](https://dev.to/rytisbalys/meta-pixel-not-firing-the-6-real-causes-in-the-order-to-check-them-4d0f)
-- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
-- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
-- [Punto de partida: tecnología y mejora humana](https://dev.to/carlos_arturocastaog_/punto-de-partida-tecnologia-y-mejora-humana-3jnd)
+- [Observability Design for the AI Era — Application / Infrastructure / CI / LLM, Each in Its Own Shape &lpar;Part 1&rpar;](https://dev.to/ryantsuji/observability-design-for-the-ai-era-application-infrastructure-ci-llm-each-in-its-own-56eg)
+- [O imposto de SSO, em dólares: quanto SAML custa de verdade na Auth0, WorkOS e Clerk](https://dev.to/authagonal/o-imposto-de-sso-em-dolares-quanto-saml-custa-de-verdade-na-auth0-workos-e-clerk-395n)
+- [An identity provider told us who you were, and we believed it](https://dev.to/authagonal/an-identity-provider-told-us-who-you-were-and-we-believed-it-1b9)
+- [Rattribute.js](https://dev.to/williamtroup/rattributejs-2cmm)
+- [If You Know CSS, You Already Know Yumma CSS](https://dev.to/rrenildopereiraa/if-you-know-css-you-already-know-yumma-css-4hok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
