@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j)
-- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo)
-- [I built on-device workout rep counting in Flutter — here&#39;s what actually worked](https://dev.to/y_taka_1d8059437251d47bcc/i-built-on-device-workout-rep-counting-in-flutter-heres-what-actually-worked-18ei)
-- [You Don&#39;t Need an LLM to Route Agent Context: Regex Beats Classifiers by 45 Points](https://dev.to/jgravelle/you-dont-need-an-llm-to-route-agent-context-regex-beats-classifiers-by-45-points-1hb6)
-- [Mounting a Mac&#39;s SMB share from Linux without gutting the Mac&#39;s security](https://dev.to/tmlr/mounting-a-macs-smb-share-from-linux-without-gutting-the-macs-security-4ih5)
+- [How AI is Changing the Work of Blockchain Engineers: Writing Code Faster or Making Mistakes Faster?](https://dev.to/vlad_prtrovich_ebf76a4c6f/how-ai-is-changing-the-work-of-blockchain-engineers-writing-code-faster-or-making-mistakes-faster-44an)
+- [Why We Open-Sourced Identity Lifecycle Management &lpar;ILM&rpar;](https://dev.to/carolineilm/why-we-open-sourced-identity-lifecycle-management-ilm-5f6g)
+- [I Built a PDF Report Generator for NVIDIA SkillSpector Because AI Skills Need Better Security Reviews](https://dev.to/mbahubaishi/i-built-a-pdf-report-generator-for-nvidia-skillspector-because-ai-skills-need-better-security-8c9)
+- [Evident: Proving Digital Ownership Without Revealing Your Content](https://dev.to/vesmot_dev/evident-proving-digital-ownership-without-revealing-your-content-286h)
+- [A low-tech repo context pattern for AI coding agents](https://dev.to/mpashka/a-low-tech-repo-context-pattern-for-ai-coding-agents-4k25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
