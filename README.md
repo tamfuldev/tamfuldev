@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We read 5 \&quot;free credits\&quot; Terms of Service so you don&#39;t have to](https://dev.to/thefreetier/we-read-5-free-credits-terms-of-service-so-you-dont-have-to-542b)
-- [Your Coding Agents Are Drowning in Context: You Pay Twice, in Tokens and in Precision](https://dev.to/cleberdelima/your-coding-agents-are-drowning-in-context-you-pay-twice-in-tokens-and-in-precision-1pp7)
-- [Check out my new blog post on cheap AI inference for Hermes
-
-https://medium.com/@elinaberz0/building-an-mvp-research-wiki-with-hermes-agent-and-gonka-router-e2735ab3d932](https://dev.to/elinaber/check-out-my-new-blog-post-on-cheap-ai-inference-for-hermes-5n4)
-- [Release-Ready Email Checks](https://dev.to/mrdapperx/release-ready-email-checks-3nam)
-- [Why I chose PGMQ over Redis for IoT sensor ingestion](https://dev.to/growerzer0/why-i-chose-pgmq-over-redis-for-iot-sensor-ingestion-idl)
+- [The Agentic Cost Bottleneck: How Kotro Solves the AI Productivity Paradox](https://dev.to/rameshpandian/the-agentic-cost-bottleneck-how-kotro-solves-the-ai-productivity-paradox-mmb)
+- [PostureGuard: Stop the &quot;Tech Neck&quot; with MediaPipe, Electron, and Real-Time Vision 🚀](https://dev.to/wellallytech/postureguard-stop-the-tech-neck-with-mediapipe-electron-and-real-time-vision-4e1h)
+- [Being a Good Developer Doesn&#39;t Make You a Hireable Freelancer — Here&#39;s the Actual Gap](https://dev.to/evan_landrum_26e39f9f34fd/being-a-good-developer-doesnt-make-you-a-hireable-freelancer-heres-the-actual-gap-54c7)
+- [Cómo me preparé para la GH-600 &lpar;GitHub Agentic AI Developer&rpar; armando mis propios apuntes en español](https://dev.to/mgbeltramone/como-me-prepare-para-la-gh-600-github-agentic-ai-developer-armando-mis-propios-apuntes-en-espanol-235c)
+- [When a `for...of` Loop Is Better Than `reduce&lpar;&rpar;`](https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
