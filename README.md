@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Did you ever face &quot;stale singleton httpx connection&quot; and &quot;cold-start connection problem&quot; problem, Well I did tonight.](https://dev.to/raqeeb_26/did-you-ever-face-stale-singleton-httpx-connection-and-cold-start-connection-problem-problem-8i3)
-- [My favourite zsh/bash shortcuts &lpar;functions and aliases&rpar;](https://dev.to/emmadscodes/my-favourite-zshbash-shortcuts-functions-and-aliases-35n8)
-- [I replaced the chat window for my local AI agent with a face](https://dev.to/ghostvessel/i-replaced-the-chat-window-for-my-local-ai-agent-with-a-face-3e1k)
-- [OpenBSD Privilege Escalation, GitHub AI Agent Leaks, &amp; CDN Supply Chain Risks](https://dev.to/soytuber/openbsd-privilege-escalation-github-ai-agent-leaks-cdn-supply-chain-risks-c16)
-- [Try out IsItCrashing.com](https://dev.to/mahmed74/try-out-isitcrashingcom-31e3)
+- [What Is Vibe Coding? How AI Builds Games From Scratch](https://dev.to/vibearcade/what-is-vibe-coding-how-ai-builds-games-from-scratch-40bh)
+- [HalluSquatting: How Attackers Turn AI Coding Agents Into a Botnet Without Touching a Single Victim](https://dev.to/coridev/hallusquatting-how-attackers-turn-ai-coding-agents-into-a-botnet-without-touching-a-single-victim-3fpm)
+- [DEV&#39;s Summer Bug Smash Launches on July 14. Register Now!](https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n)
+- [Tanstack Router + Vite race condition in filewatcher &lpar;EPERM&rpar;](https://dev.to/flyingduck92/tanstack-router-vite-race-condition-in-filewatcher-2lmh)
+- [🎬 O Guia basico sobre Optimistic vs Pessimistic Lock no Spring Boot 🍿](https://dev.to/fabiothomazrocha/o-guia-basico-sobre-optimistic-vs-pessimistic-lock-no-spring-boot-1b4b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
