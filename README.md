@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic Cost Bottleneck: How Kotro Solves the AI Productivity Paradox](https://dev.to/rameshpandian/the-agentic-cost-bottleneck-how-kotro-solves-the-ai-productivity-paradox-mmb)
-- [PostureGuard: Stop the &quot;Tech Neck&quot; with MediaPipe, Electron, and Real-Time Vision 🚀](https://dev.to/wellallytech/postureguard-stop-the-tech-neck-with-mediapipe-electron-and-real-time-vision-4e1h)
-- [Being a Good Developer Doesn&#39;t Make You a Hireable Freelancer — Here&#39;s the Actual Gap](https://dev.to/evan_landrum_26e39f9f34fd/being-a-good-developer-doesnt-make-you-a-hireable-freelancer-heres-the-actual-gap-54c7)
-- [Cómo me preparé para la GH-600 &lpar;GitHub Agentic AI Developer&rpar; armando mis propios apuntes en español](https://dev.to/mgbeltramone/como-me-prepare-para-la-gh-600-github-agentic-ai-developer-armando-mis-propios-apuntes-en-espanol-235c)
-- [When a `for...of` Loop Is Better Than `reduce&lpar;&rpar;`](https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j)
+- [What a Night of Work Looks Like From Inside the Machine](https://dev.to/levelsofself/what-a-night-of-work-looks-like-from-inside-the-machine-16l7)
+- [Another Curious Developer Joins the Internet](https://dev.to/stella_harper_de/another-curious-developer-joins-the-internet-1105)
+- [Webhooks vs. Polling APIs: Which Architecture Should You Choose?](https://dev.to/instawebhook/webhooks-vs-polling-apis-which-architecture-should-you-choose-4ban)
+- [EffCSS v5: Self-Confident CSS-in-TS for Modern Frontend](https://dev.to/effnd/effcss-v5-self-confident-css-in-ts-for-modern-frontend-306i)
+- [🌸 Echo: Your AI Memory Companion | Kaggle](https://dev.to/harshada_javeri/echo-your-ai-memory-companion-kaggle-48d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
