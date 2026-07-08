@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What a Night of Work Looks Like From Inside the Machine](https://dev.to/levelsofself/what-a-night-of-work-looks-like-from-inside-the-machine-16l7)
-- [Another Curious Developer Joins the Internet](https://dev.to/stella_harper_de/another-curious-developer-joins-the-internet-1105)
-- [Webhooks vs. Polling APIs: Which Architecture Should You Choose?](https://dev.to/instawebhook/webhooks-vs-polling-apis-which-architecture-should-you-choose-4ban)
-- [EffCSS v5: Self-Confident CSS-in-TS for Modern Frontend](https://dev.to/effnd/effcss-v5-self-confident-css-in-ts-for-modern-frontend-306i)
-- [🌸 Echo: Your AI Memory Companion | Kaggle](https://dev.to/harshada_javeri/echo-your-ai-memory-companion-kaggle-48d8)
+- [Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top](https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h)
+- [Local AI Pipeline: Why Certain Workloads Never Leave the Machine](https://dev.to/ben-witt/local-ai-pipeline-why-certain-workloads-never-leave-the-machine-1393)
+- [The bug wasn&#39;t in my AI agent](https://dev.to/mayank609/the-bug-wasnt-in-my-ai-agent-4mi)
+- [My GSoC 2026 Mid-Term: How Building Webpack&#39;s Blog Led Me to Patch Node.js Core Tools 👀](https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk)
+- [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
