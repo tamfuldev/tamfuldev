@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Pipelines That Actually Work: My Quest Like a DevOps Jedi](https://dev.to/timevolt/cicd-pipelines-that-actually-work-my-quest-like-a-devops-jedi-42le)
-- [AI Gateway Fees Compared: Who Marks Up Your Tokens?](https://dev.to/smakosh/ai-gateway-fees-compared-who-marks-up-your-tokens-19)
-- [Prompt Caching Explained: How to Cut LLM Costs by 30–99%](https://dev.to/smakosh/prompt-caching-explained-how-to-cut-llm-costs-by-30-99-1kad)
-- [LLM Guardrails Explained: Prompt Injection, PII Detection &amp; Content Moderation](https://dev.to/smakosh/llm-guardrails-explained-prompt-injection-pii-detection-content-moderation-1f7p)
-- [What Is LLM Orchestration? Patterns, Tools &amp; When You Need One](https://dev.to/smakosh/what-is-llm-orchestration-patterns-tools-when-you-need-one-1l8m)
+- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j)
+- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo)
+- [I built on-device workout rep counting in Flutter — here&#39;s what actually worked](https://dev.to/y_taka_1d8059437251d47bcc/i-built-on-device-workout-rep-counting-in-flutter-heres-what-actually-worked-18ei)
+- [You Don&#39;t Need an LLM to Route Agent Context: Regex Beats Classifiers by 45 Points](https://dev.to/jgravelle/you-dont-need-an-llm-to-route-agent-context-regex-beats-classifiers-by-45-points-1hb6)
+- [Mounting a Mac&#39;s SMB share from Linux without gutting the Mac&#39;s security](https://dev.to/tmlr/mounting-a-macs-smb-share-from-linux-without-gutting-the-macs-security-4ih5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
