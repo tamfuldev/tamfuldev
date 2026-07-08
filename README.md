@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top](https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h)
-- [Local AI Pipeline: Why Certain Workloads Never Leave the Machine](https://dev.to/ben-witt/local-ai-pipeline-why-certain-workloads-never-leave-the-machine-1393)
-- [The bug wasn&#39;t in my AI agent](https://dev.to/mayank609/the-bug-wasnt-in-my-ai-agent-4mi)
-- [My GSoC 2026 Mid-Term: How Building Webpack&#39;s Blog Led Me to Patch Node.js Core Tools 👀](https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk)
-- [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
+- [Tools vs Raw Commands - The Token Cost Theory](https://dev.to/ev3lynx727/tools-vs-raw-commands-the-token-cost-theory-d1g)
+- [HOW TO MANAGE AN IT PROJECT IN THE AGE OF AI: IS IT STILL AGILE?](https://dev.to/alfia/how-to-manage-an-it-project-in-the-age-of-ai-is-it-still-agile-32ai)
+- [Cohort 1: A Few Months In](https://dev.to/kahenda/cohort-1-a-few-months-in-3h7a)
+- [Chainlink Staking Isn&#39;t a Yield Farm. It&#39;s Cryptoeconomic Security With Real Consequences.](https://dev.to/0xramprasad/chainlink-staking-isnt-a-yield-farm-its-cryptoeconomic-security-with-real-consequences-41m2)
+- [ZeroRelay: Direct Browser-to-Browser Sharing - No Server Ever Sees Your Data](https://dev.to/kushal1o1/zerorelay-direct-browser-to-browser-sharing-no-server-ever-sees-your-data-4bn3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
