@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built PenDown — a live quiz app named after &#39;pens down!&#39; Come break it](https://dev.to/nullstring/i-built-pendown-a-live-quiz-app-named-after-pens-down-come-break-it-29cn)
-- [Design Tokens as AI Guardrails: Keeping AI-Generated Screens On-Brand](https://dev.to/davekurian/design-tokens-as-ai-guardrails-keeping-ai-generated-screens-on-brand-59n9)
-- [Managing GBase 8a Sync Recovery with gcadmin recover: VC Prioritization and Pause/Resume](https://dev.to/michaelfv/managing-gbase-8a-sync-recovery-with-gcadmin-recover-vc-prioritization-and-pauseresume-4bn1)
-- [[Boost]](https://dev.to/acol/-3n0k)
-- [Gemma 2 is here. The architectural tweaks are what matter.](https://dev.to/albertomontagnese/gemma-2-is-here-the-architectural-tweaks-are-what-matter-477f)
+- [CI/CD Pipelines That Actually Work: My Quest Like a DevOps Jedi](https://dev.to/timevolt/cicd-pipelines-that-actually-work-my-quest-like-a-devops-jedi-42le)
+- [AI Gateway Fees Compared: Who Marks Up Your Tokens?](https://dev.to/smakosh/ai-gateway-fees-compared-who-marks-up-your-tokens-19)
+- [Prompt Caching Explained: How to Cut LLM Costs by 30–99%](https://dev.to/smakosh/prompt-caching-explained-how-to-cut-llm-costs-by-30-99-1kad)
+- [LLM Guardrails Explained: Prompt Injection, PII Detection &amp; Content Moderation](https://dev.to/smakosh/llm-guardrails-explained-prompt-injection-pii-detection-content-moderation-1f7p)
+- [What Is LLM Orchestration? Patterns, Tools &amp; When You Need One](https://dev.to/smakosh/what-is-llm-orchestration-patterns-tools-when-you-need-one-1l8m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
