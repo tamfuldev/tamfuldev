@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ADHD Waiting Mode — Why One 3 PM Appointment Ruins Your Whole Day](https://dev.to/assindo/adhd-waiting-mode-why-one-3-pm-appointment-ruins-your-whole-day-pn1)
-- [Architecting 21-Service E-commerce with Golang &amp; DDD](https://dev.to/vesviet/architecting-21-service-e-commerce-with-golang-ddd-3ocj)
-- [Building a local-first network scanner in Go, Wails and Flutter](https://dev.to/deviceshelf/building-a-local-first-network-scanner-in-go-wails-and-flutter-4f87)
-- [Incident Communication: The Status Page That Builds Trust](https://dev.to/samson_tanimawo/incident-communication-the-status-page-that-builds-trust-2doj)
-- [What actually happens when you &quot;convert&quot; a file](https://dev.to/pankaj_gdg_1395bc486f0909/what-actually-happens-when-you-convert-a-file-40cj)
+- [From Turbo Pascal to TypeScript: A 35-Year-Old Maze Algorithm Comes Back to Life](https://dev.to/lkovari/from-turbo-pascal-to-typescript-a-35-year-old-maze-algorithm-comes-back-to-life-4j6b)
+- [Entire Launches Distributed Git Network for Global Code Hosting](https://dev.to/davekurian/entire-launches-distributed-git-network-for-global-code-hosting-5b59)
+- [Build a Real-Time Dashboard with Python, FastAPI, and WebSockets](https://dev.to/turboline_ai_/build-a-real-time-dashboard-with-python-fastapi-and-websockets-2lb)
+- [How Vector Search Actually Works: IVF and HNSW](https://dev.to/arthurpro/how-vector-search-actually-works-ivf-and-hnsw-1hnb)
+- [“PostgreSQL resolves uniqueness through heap tuple visibility”](https://dev.to/franckpachot/postgresql-resolves-uniqueness-through-heap-tuple-visibility-bkp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
