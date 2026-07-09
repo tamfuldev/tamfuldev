@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why ccRewind never writes to ~/.claude/](https://dev.to/tznthou/why-ccrewind-never-writes-to-claude-2k6b)
-- [HPA vs VPA vs KEDA: Which Kubernetes Autoscaler Actually Cuts Your Cloud Bill](https://dev.to/muskan_bandta/hpa-vs-vpa-vs-keda-which-kubernetes-autoscaler-actually-cuts-your-cloud-bill-2d3h)
-- [7 Best WhatsApp APIs for Developers in 2026 &lpar;Compared&rpar;](https://dev.to/kevin_menesesgonzlez/7-best-whatsapp-apis-for-developers-in-2026-compared-f6)
-- [Batch PDF Verification at Scale: Async Queue Patterns for the HTPBE API](https://dev.to/iurii_rogulia/batch-pdf-verification-at-scale-async-queue-patterns-for-the-htpbe-api-3jam)
-- [QubeOS Tips and Tricks](https://dev.to/niamtokik/qubeos-tips-and-tricks-399h)
+- [ADHD Waiting Mode — Why One 3 PM Appointment Ruins Your Whole Day](https://dev.to/assindo/adhd-waiting-mode-why-one-3-pm-appointment-ruins-your-whole-day-pn1)
+- [Architecting 21-Service E-commerce with Golang &amp; DDD](https://dev.to/vesviet/architecting-21-service-e-commerce-with-golang-ddd-3ocj)
+- [Building a local-first network scanner in Go, Wails and Flutter](https://dev.to/deviceshelf/building-a-local-first-network-scanner-in-go-wails-and-flutter-4f87)
+- [Incident Communication: The Status Page That Builds Trust](https://dev.to/samson_tanimawo/incident-communication-the-status-page-that-builds-trust-2doj)
+- [What actually happens when you &quot;convert&quot; a file](https://dev.to/pankaj_gdg_1395bc486f0909/what-actually-happens-when-you-convert-a-file-40cj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
