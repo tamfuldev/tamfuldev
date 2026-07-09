@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WCAG 2.2 Accessibility for React Developers — Practical Guide](https://dev.to/safdarali25/wcag-22-accessibility-for-react-developers-practical-guide-1b7o)
-- [I Migrated 26 AI Models to Google Cloud Agent Platform &lpar;And Cut Costs 90%&rpar;66](https://dev.to/blacknobilityenterprisellcarch/i-migrated-26-ai-models-to-google-cloud-agent-platform-and-cut-costs-9066-1k9d)
-- [Why I Chose Neon &lpar;dev.to Database Partner&rpar; for My AI Routing Platform](https://dev.to/blacknobilityenterprisellcarch/why-i-chose-neon-devto-database-partner-for-my-ai-routing-platform-2egf)
-- [Beyond One-Shot: The Recursive Reflection Framework for Polished AI Outputs](https://dev.to/blobxiaoyao/beyond-one-shot-the-recursive-reflection-framework-for-polished-ai-outputs-a4i)
-- [Monitoring Python RQ jobs: what to watch and how to get alerted](https://dev.to/piperadar/monitoring-python-rq-jobs-what-to-watch-and-how-to-get-alerted-3h07)
+- [Ophis: an intent-based DEX aggregator for humans and AI agents](https://dev.to/san-npm/ophis-an-intent-based-dex-aggregator-for-humans-and-ai-agents-4bda)
+- [Quick reminder: Stop putting heavy logic in Unity&#39;s Update&lpar;&rpar;](https://dev.to/carlosmaemo/quick-reminder-stop-putting-heavy-logic-in-unitys-update-ih5)
+- [Deterministic Guardrails: Prompts Steer, Hooks Enforce](https://dev.to/reporails/deterministic-guardrails-prompts-steer-hooks-enforce-14ag)
+- [From Raw Prices to Real Signals: Financial Metrics for a Data Pipeline &lpar;Daily Return, MA, RSI, MACD, Volatility&rpar;](https://dev.to/arthurtorres/from-raw-prices-to-real-signals-financial-metrics-for-a-data-pipeline-daily-return-ma-rsi-1m31)
+- [We built a SOC 2 reviewer for AI sessions, and kept AI out of the execution path](https://dev.to/sirinivask/we-built-a-soc-2-reviewer-for-ai-sessions-and-kept-ai-out-of-the-execution-path-2pic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
