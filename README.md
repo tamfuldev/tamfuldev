@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Turbo Pascal to TypeScript: A 35-Year-Old Maze Algorithm Comes Back to Life](https://dev.to/lkovari/from-turbo-pascal-to-typescript-a-35-year-old-maze-algorithm-comes-back-to-life-4j6b)
-- [Entire Launches Distributed Git Network for Global Code Hosting](https://dev.to/davekurian/entire-launches-distributed-git-network-for-global-code-hosting-5b59)
-- [Build a Real-Time Dashboard with Python, FastAPI, and WebSockets](https://dev.to/turboline_ai_/build-a-real-time-dashboard-with-python-fastapi-and-websockets-2lb)
-- [How Vector Search Actually Works: IVF and HNSW](https://dev.to/arthurpro/how-vector-search-actually-works-ivf-and-hnsw-1hnb)
-- [“PostgreSQL resolves uniqueness through heap tuple visibility”](https://dev.to/franckpachot/postgresql-resolves-uniqueness-through-heap-tuple-visibility-bkp)
+- [WCAG 2.2 Accessibility for React Developers — Practical Guide](https://dev.to/safdarali25/wcag-22-accessibility-for-react-developers-practical-guide-1b7o)
+- [I Migrated 26 AI Models to Google Cloud Agent Platform &lpar;And Cut Costs 90%&rpar;66](https://dev.to/blacknobilityenterprisellcarch/i-migrated-26-ai-models-to-google-cloud-agent-platform-and-cut-costs-9066-1k9d)
+- [Why I Chose Neon &lpar;dev.to Database Partner&rpar; for My AI Routing Platform](https://dev.to/blacknobilityenterprisellcarch/why-i-chose-neon-devto-database-partner-for-my-ai-routing-platform-2egf)
+- [Beyond One-Shot: The Recursive Reflection Framework for Polished AI Outputs](https://dev.to/blobxiaoyao/beyond-one-shot-the-recursive-reflection-framework-for-polished-ai-outputs-a4i)
+- [Monitoring Python RQ jobs: what to watch and how to get alerted](https://dev.to/piperadar/monitoring-python-rq-jobs-what-to-watch-and-how-to-get-alerted-3h07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
