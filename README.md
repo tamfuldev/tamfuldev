@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Feeling behind never left me, even after 16 years and four titles](https://dev.to/mjmirza/feeling-behind-never-left-me-even-after-16-years-and-four-titles-5coi)
-- [Signal vs. Noise in Code Evaluations: How to Accurately Measure Developer Skill](https://dev.to/tamizuddin/signal-vs-noise-in-code-evaluations-how-to-accurately-measure-developer-skill-13pc)
-- [Prompt Engineering Mastery: The Art of Getting Better AI Responses](https://dev.to/mzunain/prompt-engineering-mastery-the-art-of-getting-better-ai-responses-hk1)
-- [Postgres vs ClickHouse? I use both. 4 tricks from the split.](https://dev.to/slima4/postgres-vs-clickhouse-i-use-both-4-tricks-from-the-split-4420)
-- [I built a 27-point trust scanner for product pages after launching products nobody bought](https://dev.to/xinchenwan/i-built-a-27-point-trust-scanner-for-product-pages-after-launching-products-nobody-bought-26gj)
+- [Why ccRewind never writes to ~/.claude/](https://dev.to/tznthou/why-ccrewind-never-writes-to-claude-2k6b)
+- [HPA vs VPA vs KEDA: Which Kubernetes Autoscaler Actually Cuts Your Cloud Bill](https://dev.to/muskan_bandta/hpa-vs-vpa-vs-keda-which-kubernetes-autoscaler-actually-cuts-your-cloud-bill-2d3h)
+- [7 Best WhatsApp APIs for Developers in 2026 &lpar;Compared&rpar;](https://dev.to/kevin_menesesgonzlez/7-best-whatsapp-apis-for-developers-in-2026-compared-f6)
+- [Batch PDF Verification at Scale: Async Queue Patterns for the HTPBE API](https://dev.to/iurii_rogulia/batch-pdf-verification-at-scale-async-queue-patterns-for-the-htpbe-api-3jam)
+- [QubeOS Tips and Tricks](https://dev.to/niamtokik/qubeos-tips-and-tricks-399h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
