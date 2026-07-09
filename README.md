@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ophis: an intent-based DEX aggregator for humans and AI agents](https://dev.to/san-npm/ophis-an-intent-based-dex-aggregator-for-humans-and-ai-agents-4bda)
-- [Quick reminder: Stop putting heavy logic in Unity&#39;s Update&lpar;&rpar;](https://dev.to/carlosmaemo/quick-reminder-stop-putting-heavy-logic-in-unitys-update-ih5)
-- [Deterministic Guardrails: Prompts Steer, Hooks Enforce](https://dev.to/reporails/deterministic-guardrails-prompts-steer-hooks-enforce-14ag)
-- [From Raw Prices to Real Signals: Financial Metrics for a Data Pipeline &lpar;Daily Return, MA, RSI, MACD, Volatility&rpar;](https://dev.to/arthurtorres/from-raw-prices-to-real-signals-financial-metrics-for-a-data-pipeline-daily-return-ma-rsi-1m31)
-- [We built a SOC 2 reviewer for AI sessions, and kept AI out of the execution path](https://dev.to/sirinivask/we-built-a-soc-2-reviewer-for-ai-sessions-and-kept-ai-out-of-the-execution-path-2pic)
+- [&lpar;Spanish&rpar; Dash: Monitoreo del Fenómeno El Niño](https://dev.to/ckomiya/dash-monitoreo-del-fenomeno-el-nino-2fd6)
+- [How to Anonymize PII in Text with an API](https://dev.to/mmichele1/how-to-anonymize-pii-in-text-with-an-api-1p69)
+- [CubeSandbox: Tencent Cloud Open-Sources an Ultra-Fast Secure Sandbox for AI Agents](https://dev.to/terminalchai/cubesandbox-tencent-cloud-open-sources-an-ultra-fast-secure-sandbox-for-ai-agents-h1c)
+- [From Optimization to Protection: Adding a Security and Governance Agent to Your Snowflake Multi-Agent Team &lpar;Part 3&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-optimization-to-protection-adding-a-security-and-governance-agent-to-your-snowflake-369f)
+- [Why I Love the Word &quot;Pivot&quot;](https://dev.to/an12s3/why-i-love-the-word-pivot-2f69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
