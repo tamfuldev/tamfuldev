@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Spanish&rpar; Dash: Monitoreo del Fenómeno El Niño](https://dev.to/ckomiya/dash-monitoreo-del-fenomeno-el-nino-2fd6)
-- [How to Anonymize PII in Text with an API](https://dev.to/mmichele1/how-to-anonymize-pii-in-text-with-an-api-1p69)
-- [CubeSandbox: Tencent Cloud Open-Sources an Ultra-Fast Secure Sandbox for AI Agents](https://dev.to/terminalchai/cubesandbox-tencent-cloud-open-sources-an-ultra-fast-secure-sandbox-for-ai-agents-h1c)
-- [From Optimization to Protection: Adding a Security and Governance Agent to Your Snowflake Multi-Agent Team &lpar;Part 3&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-optimization-to-protection-adding-a-security-and-governance-agent-to-your-snowflake-369f)
-- [Why I Love the Word &quot;Pivot&quot;](https://dev.to/an12s3/why-i-love-the-word-pivot-2f69)
+- [CI/CD Testing Pipelines Compared: A Real GitHub Actions Walkthrough](https://dev.to/marymar_danytzacallotico/cicd-testing-pipelines-compared-a-real-github-actions-walkthrough-26gb)
+- [Data warehouse for startups: picking BigQuery or Snowflake](https://dev.to/topalternativesto/data-warehouse-for-startups-picking-bigquery-or-snowflake-10m0)
+- [Redbelly Network Troubleshooting: Fixes for the 21 Most Common Developer Errors](https://dev.to/rahmandefi/redbelly-network-troubleshooting-fixes-for-the-21-most-common-developer-errors-17i)
+- [When ACF Pro Custom Tables Met WordPress Multisite: Building a Network-Level Learner System](https://dev.to/aasimghaffar/when-acf-pro-custom-tables-met-wordpress-multisite-building-a-network-level-learner-system-2oki)
+- [AI Agents That Speak SQL: Text-to-SQL with Hugging Face smolagents](https://dev.to/marymar_danytzacallotico/agentes-de-ia-que-hablan-sql-text-to-sql-con-hugging-face-smolagents-5gmd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
