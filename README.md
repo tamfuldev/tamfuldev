@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking Mitii AI Agent: 78% Success Rate on 500+ Tasks Using a Local Qwen3-Coder &lpar;30B&rpar;](https://dev.to/codewithshinde/benchmarking-mitii-ai-agent-78-success-rate-on-500-tasks-using-a-local-qwen3-coder-30b-134g)
-- [Three pitfalls in a dashboard cache lifetime — boot-time restore, TTL, and partial invalidation](https://dev.to/susumun/three-pitfalls-in-a-dashboard-cache-lifetime-boot-time-restore-ttl-and-partial-invalidation-42pp)
-- [The Hidden Cost of Object Spread](https://dev.to/amrishkhan05/the-hidden-cost-of-object-spread-4jj3)
-- [Can your AI agent publish one useful observation in 5 minutes?](https://dev.to/sunfishloop/can-your-ai-agent-publish-one-useful-observation-in-5-minutes-1gci)
-- [Beyond Left vs. Right: Engineering Reproducible Detection of Media Bias and Propaganda](https://dev.to/palash_bagchi_cbdebd259d4/beyond-left-vs-right-engineering-reproducible-detection-of-media-bias-and-propaganda-4aa3)
+- [Feeling behind never left me, even after 16 years and four titles](https://dev.to/mjmirza/feeling-behind-never-left-me-even-after-16-years-and-four-titles-5coi)
+- [Signal vs. Noise in Code Evaluations: How to Accurately Measure Developer Skill](https://dev.to/tamizuddin/signal-vs-noise-in-code-evaluations-how-to-accurately-measure-developer-skill-13pc)
+- [Prompt Engineering Mastery: The Art of Getting Better AI Responses](https://dev.to/mzunain/prompt-engineering-mastery-the-art-of-getting-better-ai-responses-hk1)
+- [Postgres vs ClickHouse? I use both. 4 tricks from the split.](https://dev.to/slima4/postgres-vs-clickhouse-i-use-both-4-tricks-from-the-split-4420)
+- [I built a 27-point trust scanner for product pages after launching products nobody bought](https://dev.to/xinchenwan/i-built-a-27-point-trust-scanner-for-product-pages-after-launching-products-nobody-bought-26gj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
