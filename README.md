@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Vibe Coding? How AI Builds Games From Scratch](https://dev.to/vibearcade/what-is-vibe-coding-how-ai-builds-games-from-scratch-40bh)
-- [HalluSquatting: How Attackers Turn AI Coding Agents Into a Botnet Without Touching a Single Victim](https://dev.to/coridev/hallusquatting-how-attackers-turn-ai-coding-agents-into-a-botnet-without-touching-a-single-victim-3fpm)
-- [DEV&#39;s Summer Bug Smash Launches on July 14. Register Now!](https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n)
-- [Tanstack Router + Vite race condition in filewatcher &lpar;EPERM&rpar;](https://dev.to/flyingduck92/tanstack-router-vite-race-condition-in-filewatcher-2lmh)
-- [🎬 O Guia basico sobre Optimistic vs Pessimistic Lock no Spring Boot 🍿](https://dev.to/fabiothomazrocha/o-guia-basico-sobre-optimistic-vs-pessimistic-lock-no-spring-boot-1b4b)
+- [Benchmarking Mitii AI Agent: 78% Success Rate on 500+ Tasks Using a Local Qwen3-Coder &lpar;30B&rpar;](https://dev.to/codewithshinde/benchmarking-mitii-ai-agent-78-success-rate-on-500-tasks-using-a-local-qwen3-coder-30b-134g)
+- [Three pitfalls in a dashboard cache lifetime — boot-time restore, TTL, and partial invalidation](https://dev.to/susumun/three-pitfalls-in-a-dashboard-cache-lifetime-boot-time-restore-ttl-and-partial-invalidation-42pp)
+- [The Hidden Cost of Object Spread](https://dev.to/amrishkhan05/the-hidden-cost-of-object-spread-4jj3)
+- [Can your AI agent publish one useful observation in 5 minutes?](https://dev.to/sunfishloop/can-your-ai-agent-publish-one-useful-observation-in-5-minutes-1gci)
+- [Beyond Left vs. Right: Engineering Reproducible Detection of Media Bias and Propaganda](https://dev.to/palash_bagchi_cbdebd259d4/beyond-left-vs-right-engineering-reproducible-detection-of-media-bias-and-propaganda-4aa3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
