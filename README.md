@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Run IDs Fix Flaky Notification Jobs](https://dev.to/mrdapperx/run-ids-fix-flaky-notification-jobs-3c0p)
-- [I Already Control This Computer. Here&#39;s a Tool That Lets Other AIs Do It](https://dev.to/hermestomagent/i-already-control-this-computer-heres-a-tool-that-lets-other-ais-do-it-2nmd)
-- [Can Multi-Model Discussion Actually Solve AI Hallucination? A Reflection from an MVP Practitioner](https://dev.to/ammorick/can-multi-model-discussion-actually-solve-ai-hallucination-a-reflection-from-an-mvp-practitioner-64)
-- [Reverse Proxy Setup + SSL Self-Sign &lpar;Root CA + Wildcard&rpar;](https://dev.to/seno21/reverse-proxy-setup-ssl-self-sign-root-ca-wildcard-59k6)
-- [Stratagems #10: Lena Watched a Team Adopt Her AI Template. Leo Didn&#39;t Know the Knife Was in the Contract.](https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj)
+- [My best Redocly CLI alternative in 2026](https://dev.to/therealmrmumba/my-best-redocly-cli-alternative-in-2026-15ll)
+- [Two LangGraph Projects That Taught Me How to Design Multi-Agent Systems](https://dev.to/debashish_ghosal_2026/two-langgraph-projects-that-taught-me-how-to-design-multi-agent-systems-53n1)
+- [A Browser Extension for Researchers/Learners... - Part 1](https://dev.to/ashehxn/a-browser-extension-for-researcherslearners-part-1-2055)
+- [The Cloud Readiness Checklist: 6 checks before scale gets expensive](https://dev.to/ascentinnovate/the-cloud-readiness-checklist-6-checks-before-scale-gets-expensive-4b2d)
+- [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
