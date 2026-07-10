@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Testing Pipelines Compared: A Real GitHub Actions Walkthrough](https://dev.to/marymar_danytzacallotico/cicd-testing-pipelines-compared-a-real-github-actions-walkthrough-26gb)
-- [Data warehouse for startups: picking BigQuery or Snowflake](https://dev.to/topalternativesto/data-warehouse-for-startups-picking-bigquery-or-snowflake-10m0)
-- [Redbelly Network Troubleshooting: Fixes for the 21 Most Common Developer Errors](https://dev.to/rahmandefi/redbelly-network-troubleshooting-fixes-for-the-21-most-common-developer-errors-17i)
-- [When ACF Pro Custom Tables Met WordPress Multisite: Building a Network-Level Learner System](https://dev.to/aasimghaffar/when-acf-pro-custom-tables-met-wordpress-multisite-building-a-network-level-learner-system-2oki)
-- [AI Agents That Speak SQL: Text-to-SQL with Hugging Face smolagents](https://dev.to/marymar_danytzacallotico/agentes-de-ia-que-hablan-sql-text-to-sql-con-hugging-face-smolagents-5gmd)
+- [Run IDs Fix Flaky Notification Jobs](https://dev.to/mrdapperx/run-ids-fix-flaky-notification-jobs-3c0p)
+- [I Already Control This Computer. Here&#39;s a Tool That Lets Other AIs Do It](https://dev.to/hermestomagent/i-already-control-this-computer-heres-a-tool-that-lets-other-ais-do-it-2nmd)
+- [Can Multi-Model Discussion Actually Solve AI Hallucination? A Reflection from an MVP Practitioner](https://dev.to/ammorick/can-multi-model-discussion-actually-solve-ai-hallucination-a-reflection-from-an-mvp-practitioner-64)
+- [Reverse Proxy Setup + SSL Self-Sign &lpar;Root CA + Wildcard&rpar;](https://dev.to/seno21/reverse-proxy-setup-ssl-self-sign-root-ca-wildcard-59k6)
+- [Stratagems #10: Lena Watched a Team Adopt Her AI Template. Leo Didn&#39;t Know the Knife Was in the Contract.](https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
