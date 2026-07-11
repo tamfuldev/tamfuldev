@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement](https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao)
-- [Stop Paying AWS Just to Test Your Code Locally](https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die)
-- [Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali](https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l)
-- [Git: The Fellowship of the Commit – Best Practices for Solo Devs and Teams](https://dev.to/timevolt/git-the-fellowship-of-the-commit-best-practices-for-solo-devs-and-teams-4o47)
-- [AI News Roundup: Grok 4.5 Hits Tesla, Perplexity&#39;s Orchestrator Beats Opus, and Meta Undercuts Pricing](https://dev.to/terminalblog/ai-news-roundup-grok-45-hits-tesla-perplexitys-orchestrator-beats-opus-and-meta-undercuts-43dl)
+- [Day 15: My AI agent just completed its first multi-app task. It copied my bank balance from my banking app and sent it to Mom on WhatsApp. Two apps. One task. Fully autonomous. Task memory is the key.
+
+👉 github.com/Dexter2344/phone-agent](https://dev.to/okeke_chukwudubem_5f3bf49/day-15-my-ai-agent-just-completed-its-first-multi-app-task-it-copied-my-bank-balance-from-my-4eid)
+- [Project Log #15: My AI Agent Just Completed Its First Multi-App Task](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-15-my-ai-agent-just-completed-its-first-multi-app-task-38n7)
+- [How to Spot Phishing Emails — The NZ-Specific Guide for 2026](https://dev.to/feroze_ashraff_e952c5a67a/how-to-spot-phishing-emails-the-nz-specific-guide-for-2026-411j)
+- [GPT-5.6 Sol vs Terra vs Luna: which tier should you actually use?](https://dev.to/amdmsz/gpt-56-sol-vs-terra-vs-luna-which-tier-should-you-actually-use-2elm)
+- [AI Daily Digest — July 12, 2026: GPT-5.6 Goes Public, Muse Spark 1.1 Arrives, Open Robotics Pipeline](https://dev.to/hiroki-ii-ai/ai-daily-digest-july-12-2026-gpt-56-goes-public-muse-spark-11-arrives-open-robotics-pipeline-5di2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
