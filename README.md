@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Aesthetic Developer Portfolio with a Pixel-Perfect GitHub Graph](https://dev.to/ankurz/how-i-built-an-aesthetic-developer-portfolio-with-a-pixel-perfect-github-graph-3ng)
-- [Building a Transparent Proxy in Rust: The Foundation Behind Lens](https://dev.to/dpsyfk/building-a-transparent-proxy-in-rust-the-foundation-behind-lens-1190)
-- [How Disabling Javascript Leads me to a Higher Lighthouse Score for My Personal Website](https://dev.to/faranaiki/how-disabling-javascript-leads-me-to-a-higher-lighthouse-score-for-my-personal-website-230a)
-- [The Token Economy Is Real - And I&#39;m Building Systems on Top of It — 2026-07-11](https://dev.to/michael_kidd_255722160288/the-token-economy-is-real-and-im-building-systems-on-top-of-it-2026-07-11-5f4n)
-- [Code Challenge of the Day — Evaluate reverse Polish &lpar;medium&rpar;](https://dev.to/iwtlp/code-challenge-of-the-day-evaluate-reverse-polish-medium-22p4)
+- [How to Add Evals to an LLM Feature](https://dev.to/techpotions/how-to-add-evals-to-an-llm-feature-3c20)
+- [Memprediksi Peluang Klub Promosi Bertahan di Liga Top Eropa — Part 1: Kickoff &amp; Rencana](https://dev.to/daggermaster/memprediksi-peluang-klub-promosi-bertahan-di-liga-top-eropa-part-1-kickoff-rencana-256c)
+- [Open Knowledge Format: Google quiere estandarizar cómo le damos contexto a la IA &lpar;y varios dicen que reinventó la wiki&rpar;](https://dev.to/gustavo_theler_f6dc645659/open-knowledge-format-google-quiere-estandarizar-como-le-damos-contexto-a-la-ia-y-varios-dicen-4972)
+- [Conditional Statements in JavaScript](https://dev.to/pranay_7424/javascript-conditional-statements-2f1a)
+- [What a Refinery Taught Me About CI Pipelines](https://dev.to/ken_morgan_8bd73936169638/what-a-refinery-taught-me-about-ci-pipelines-baf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
