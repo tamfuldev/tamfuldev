@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting a background-controlled sound manager that actually survives Doze mode](https://dev.to/haseebthedev0/architecting-a-background-controlled-sound-manager-that-actually-survives-doze-mode-505m)
-- [Stop Building Beautiful Frontends. Build Fast Ones Instead.](https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49)
-- [Azure AI Search in 2026, how to build a RAG pipeline](https://dev.to/carlosjcastrog/azure-ai-search-in-2026-how-to-build-a-rag-pipeline-43h8)
-- [6 Months For Sentence Lab](https://dev.to/highdesertapps/6-months-for-sentence-lab-5h7p)
-- [Autonomous Quantum Computer Calibration](https://dev.to/vpodk/autonomous-quantum-computer-calibration-2p9m)
+- [Building an LLM System from Scratch in Pure Python &amp; NumPy: Architecture, Invariants, and Clean Code](https://dev.to/ducnguyen-creator/building-an-llm-system-from-scratch-in-pure-python-numpy-architecture-invariants-and-clean-code-5a8c)
+- [Franklin: a coffee-shop AI that treats neurodivergent customers as regulars](https://dev.to/brewhubphl/franklin-a-coffee-shop-ai-that-treats-neurodivergent-customers-as-regulars-58oe)
+- [The AI Senior Dev Dilemma: Am I Coding or Just Prompting?](https://dev.to/agentic_architect/the-ai-senior-dev-dilemma-am-i-coding-or-just-prompting-2j78)
+- [I couldn&#39;t find how much heat my PC puts in the room, so I built a widget](https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7)
+- [Bringing Back the Older Internet: A Website for Juma](https://dev.to/thaisavieira/bringing-back-the-older-internet-a-website-for-juma-3a88)
 <!-- BLOG-POST-LIST:END -->
 
 ---
