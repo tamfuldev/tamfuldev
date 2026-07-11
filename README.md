@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Day 15: My AI agent just completed its first multi-app task. It copied my bank balance from my banking app and sent it to Mom on WhatsApp. Two apps. One task. Fully autonomous. Task memory is the key.
-
-👉 github.com/Dexter2344/phone-agent](https://dev.to/okeke_chukwudubem_5f3bf49/day-15-my-ai-agent-just-completed-its-first-multi-app-task-it-copied-my-bank-balance-from-my-4eid)
-- [Project Log #15: My AI Agent Just Completed Its First Multi-App Task](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-15-my-ai-agent-just-completed-its-first-multi-app-task-38n7)
-- [How to Spot Phishing Emails — The NZ-Specific Guide for 2026](https://dev.to/feroze_ashraff_e952c5a67a/how-to-spot-phishing-emails-the-nz-specific-guide-for-2026-411j)
-- [GPT-5.6 Sol vs Terra vs Luna: which tier should you actually use?](https://dev.to/amdmsz/gpt-56-sol-vs-terra-vs-luna-which-tier-should-you-actually-use-2elm)
-- [AI Daily Digest — July 12, 2026: GPT-5.6 Goes Public, Muse Spark 1.1 Arrives, Open Robotics Pipeline](https://dev.to/hiroki-ii-ai/ai-daily-digest-july-12-2026-gpt-56-goes-public-muse-spark-11-arrives-open-robotics-pipeline-5di2)
+- [Cómo revisar emails de reactivación trial](https://dev.to/hannahdev56/como-revisar-emails-de-reactivacion-trial-7d)
+- [How to Forward WhatsApp Messages to Telegram &lpar;Without Losing Your Media&rpar;](https://dev.to/alex_gv_24192032990395354/how-to-forward-whatsapp-messages-to-telegram-without-losing-your-media-c4e)
+- [How a &quot;safe&quot; shipping change silently disapproved 621 products in Google Merchant Center](https://dev.to/jasonpun/how-a-safe-shipping-change-silently-disapproved-621-products-in-google-merchant-center-i12)
+- [Service Level Objectives for Complex Microservices](https://dev.to/samson_tanimawo/service-level-objectives-for-complex-microservices-42i7)
+- [Modernising a legacy AS/400 &lpar;IBM i&rpar; system without rewriting it](https://dev.to/custralis/modernising-a-legacy-as400-ibm-i-system-without-rewriting-it-4k9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
