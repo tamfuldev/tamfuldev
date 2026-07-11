@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tiny permission-checking library because our backend&#39;s permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
-- [Building a Telemetry Ingestion API for eVTOL Prototyping with FastAPI and Pydantic](https://dev.to/mohammedfayazahamed/building-a-telemetry-ingestion-api-for-evtol-prototyping-with-fastapi-and-pydantic-2l8)
-- [PowerPulse: Building a Crowd-Sourced Outage Tracker for Ghana &lpar;and Losing a Fight With My Own Stack&rpar;](https://dev.to/suzzanenhyira/powerpulse-building-a-crowd-sourced-outage-tracker-for-ghana-and-losing-a-fight-with-my-own-31kd)
-- [Designing an API Gateway: Routing, Auth, and the Filter Chain](https://dev.to/roni_das_b1b76c5ee6583027/designing-an-api-gateway-routing-auth-and-the-filter-chain-f28)
-- [Designing a Rate Limiter: Token Bucket vs Sliding Window, and Making It Distributed](https://dev.to/roni_das_b1b76c5ee6583027/designing-a-rate-limiter-token-bucket-vs-sliding-window-and-making-it-distributed-1lh5)
+- [How to Prove a Prediction Was Made Before the Event &lpar;with OpenTimestamps&rpar;](https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d)
+- [A Beginner&#39;s Guide to Installing and Using Node.js on Windows](https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc)
+- [A RabbitMQ Upgrade Exposed the Reliability Assumptions Hidden in Our Messaging System](https://dev.to/daemonicc/a-rabbitmq-upgrade-exposed-the-reliability-assumptions-hidden-in-our-messaging-system-3c77)
+- [Integrating Lambda Durable Functions into a Step Functions Workflow](https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o)
+- [GDPR retention and erasure for an agent mailbox](https://dev.to/mqasimca/gdpr-retention-and-erasure-for-an-agent-mailbox-1ejh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
