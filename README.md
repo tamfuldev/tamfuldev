@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Server Components: Under the Hood of Streaming and Client Boundaries](https://dev.to/mspk97/react-server-components-under-the-hood-of-streaming-and-client-boundaries-57po)
-- [the finger, the moon and the idle T4 a pre-flight linter for ML environment mismatches](https://dev.to/marsonp/the-finger-the-moon-and-the-idle-t4-a-pre-flight-linter-for-ml-environment-mismatches-3jj4)
-- [Tablas STRICT en SQLite: fin a los bugs de tipos desde la 3.37](https://dev.to/lu1tr0n/tablas-strict-en-sqlite-fin-a-los-bugs-de-tipos-desde-la-337-24m7)
-- [Stop Moving Pixels: Mastering Zero-Copy Image Processing for High-Performance Edge AI](https://dev.to/programmingcentral/stop-moving-pixels-mastering-zero-copy-image-processing-for-high-performance-edge-ai-3n46)
-- [Exploded: Break it and learn it](https://dev.to/ananth_ram_omkar/exploded-break-it-and-learn-it-4663)
+- [AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement](https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao)
+- [Stop Paying AWS Just to Test Your Code Locally](https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die)
+- [Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali](https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l)
+- [Git: The Fellowship of the Commit – Best Practices for Solo Devs and Teams](https://dev.to/timevolt/git-the-fellowship-of-the-commit-best-practices-for-solo-devs-and-teams-4o47)
+- [AI News Roundup: Grok 4.5 Hits Tesla, Perplexity&#39;s Orchestrator Beats Opus, and Meta Undercuts Pricing](https://dev.to/terminalblog/ai-news-roundup-grok-45-hits-tesla-perplexitys-orchestrator-beats-opus-and-meta-undercuts-43dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
