@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Configure Docker Macvlan and Ipvlan for Dedicated LAN IPs](https://dev.to/oleksandr_kuryzhev_42873f/configure-docker-macvlan-and-ipvlan-for-dedicated-lan-ips-2lam)
-- [ReskPoints: AI Agent Logging with Sampling, Masking, and Multi-Export](https://dev.to/resk/reskpoints-ai-agent-logging-with-sampling-masking-and-multi-export-5g88)
-- [Cutting juniors is the most expensive way to cut costs](https://dev.to/mjmirza/cutting-juniors-is-the-most-expensive-way-to-cut-costs-4fo)
-- [Stop Asking. Start Delegating: How I Actually Use AI On My Site](https://dev.to/richardlemon/stop-asking-start-delegating-how-i-actually-use-ai-on-my-site-4bmd)
-- [Batch Audio and Video Conversion in Your Browser](https://dev.to/gregzeng95/batch-audio-and-video-conversion-in-your-browser-5534)
+- [35% of Workers Say AI Will Do Most of Their Job Within a Year. Anthropic&#39;s Own Data Proves Them Right.](https://dev.to/jamilxt/35-of-workers-say-ai-will-do-most-of-their-job-within-a-year-anthropics-own-data-proves-them-1dg4)
+- [What Switching From C# to Rust Actually Taught Me](https://dev.to/khaja_hussain_db1f84efe83/what-switching-from-c-to-rust-actually-taught-me-27do)
+- [How My Plan to Get 100 Users With No Ads Fell Apart in 3 Weeks](https://dev.to/moonshot_1341/how-my-plan-to-get-100-users-with-no-ads-fell-apart-in-3-weeks-19bm)
+- [Fix OpenTofu Registry Timeout Errors](https://dev.to/devopsstart/fix-opentofu-registry-timeout-errors-3j0p)
+- [Build an MCP Server in Go &lpar;for Claude Code&rpar;](https://dev.to/ohugonnot/build-an-mcp-server-in-go-for-claude-code-2o2i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
