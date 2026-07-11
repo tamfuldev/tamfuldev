@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an LLM System from Scratch in Pure Python &amp; NumPy: Architecture, Invariants, and Clean Code](https://dev.to/ducnguyen-creator/building-an-llm-system-from-scratch-in-pure-python-numpy-architecture-invariants-and-clean-code-5a8c)
-- [Franklin: a coffee-shop AI that treats neurodivergent customers as regulars](https://dev.to/brewhubphl/franklin-a-coffee-shop-ai-that-treats-neurodivergent-customers-as-regulars-58oe)
-- [The AI Senior Dev Dilemma: Am I Coding or Just Prompting?](https://dev.to/agentic_architect/the-ai-senior-dev-dilemma-am-i-coding-or-just-prompting-2j78)
-- [I couldn&#39;t find how much heat my PC puts in the room, so I built a widget](https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7)
-- [Bringing Back the Older Internet: A Website for Juma](https://dev.to/thaisavieira/bringing-back-the-older-internet-a-website-for-juma-3a88)
+- [The day a user told me &quot;the running site looks weak&quot; — rebuilding the three-state visual hierarchy with background color](https://dev.to/susumun/the-day-a-user-told-me-the-running-site-looks-weak-rebuilding-the-three-state-visual-hierarchy-49kp)
+- [AI Agents Need Runtime State Checks, Not Just Better Prompts](https://dev.to/assili_salim_e3c07f9954de/ai-agents-need-runtime-state-checks-not-just-better-prompts-5cdp)
+- [Stop Learning Machine Learning Before GenAI 🤖](https://dev.to/pandeyc005/stop-learning-machine-learning-before-genai-22gm)
+- [GoalPulse AI: The Ultra-Passionate World Cup WhatsApp Companion Built with PHP &amp; Google AI](https://dev.to/dicky_gaming_b4e3f44b4458/goalpulse-ai-the-ultra-passionate-world-cup-whatsapp-companion-built-with-php-google-ai-33fh)
+- [## Building a File Encryption Tool in Python: What I Learned From My Own Bugs](https://dev.to/nikunjcyber/-building-a-file-encryption-tool-in-python-what-i-learned-from-my-own-bugs-4jbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
