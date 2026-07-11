@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The day a user told me &quot;the running site looks weak&quot; — rebuilding the three-state visual hierarchy with background color](https://dev.to/susumun/the-day-a-user-told-me-the-running-site-looks-weak-rebuilding-the-three-state-visual-hierarchy-49kp)
-- [AI Agents Need Runtime State Checks, Not Just Better Prompts](https://dev.to/assili_salim_e3c07f9954de/ai-agents-need-runtime-state-checks-not-just-better-prompts-5cdp)
-- [Stop Learning Machine Learning Before GenAI 🤖](https://dev.to/pandeyc005/stop-learning-machine-learning-before-genai-22gm)
-- [GoalPulse AI: The Ultra-Passionate World Cup WhatsApp Companion Built with PHP &amp; Google AI](https://dev.to/dicky_gaming_b4e3f44b4458/goalpulse-ai-the-ultra-passionate-world-cup-whatsapp-companion-built-with-php-google-ai-33fh)
-- [## Building a File Encryption Tool in Python: What I Learned From My Own Bugs](https://dev.to/nikunjcyber/-building-a-file-encryption-tool-in-python-what-i-learned-from-my-own-bugs-4jbe)
+- [Configure Docker Macvlan and Ipvlan for Dedicated LAN IPs](https://dev.to/oleksandr_kuryzhev_42873f/configure-docker-macvlan-and-ipvlan-for-dedicated-lan-ips-2lam)
+- [ReskPoints: AI Agent Logging with Sampling, Masking, and Multi-Export](https://dev.to/resk/reskpoints-ai-agent-logging-with-sampling-masking-and-multi-export-5g88)
+- [Cutting juniors is the most expensive way to cut costs](https://dev.to/mjmirza/cutting-juniors-is-the-most-expensive-way-to-cut-costs-4fo)
+- [Stop Asking. Start Delegating: How I Actually Use AI On My Site](https://dev.to/richardlemon/stop-asking-start-delegating-how-i-actually-use-ai-on-my-site-4bmd)
+- [Batch Audio and Video Conversion in Your Browser](https://dev.to/gregzeng95/batch-audio-and-video-conversion-in-your-browser-5534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
