@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your OpenAPI spec is already your documentation](https://dev.to/jkballa/your-openapi-spec-is-already-your-documentation-4bch)
-- [Co-Development vs Freelancers vs Full-Time Hires: Which Is Right for Your Studio?](https://dev.to/oceanviewgames/co-development-vs-freelancers-vs-full-time-hires-which-is-right-for-your-studio-3pjn)
-- [How I Built an Informational Android App Website for Bangladeshi Users](https://dev.to/gomezdrako/how-i-built-an-informational-android-app-website-for-bangladeshi-users-34od)
-- [Gaussian Process Classification](https://dev.to/davisethan/gaussian-process-classification-3291)
-- [I built a CLI toolkit](https://dev.to/nexusforg/i-built-a-cli-toolkit-11gk)
+- [The Key That Unlocks Everything: Prototype Pollution in JavaScript](https://dev.to/khuepm/the-key-that-unlocks-everything-prototype-pollution-in-javascript-307o)
+- [PassionQA: Turning My Passion for Software Quality into AI-Powered Test Intelligence](https://dev.to/dhanashri_ugalmugale_6528/passionqa-turning-my-passion-for-software-quality-into-ai-powered-test-intelligence-lpo)
+- [The 8-Week AWS Solutions Architect Associate Study Plan I Actually Used &lpar;No Fluff&rpar;](https://dev.to/certsrise/the-8-week-aws-solutions-architect-associate-study-plan-i-actually-used-no-fluff-58pe)
+- [THE STAND: Keep the Chant Alive!](https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb)
+- [Bidwatch - Search Live Ebay Auctions Ending Soon](https://dev.to/hacksore/bidwatch-search-live-ebay-auctions-ending-soon-1393)
 <!-- BLOG-POST-LIST:END -->
 
 ---
