@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prove a Prediction Was Made Before the Event &lpar;with OpenTimestamps&rpar;](https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d)
-- [A Beginner&#39;s Guide to Installing and Using Node.js on Windows](https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc)
-- [A RabbitMQ Upgrade Exposed the Reliability Assumptions Hidden in Our Messaging System](https://dev.to/daemonicc/a-rabbitmq-upgrade-exposed-the-reliability-assumptions-hidden-in-our-messaging-system-3c77)
-- [Integrating Lambda Durable Functions into a Step Functions Workflow](https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o)
-- [GDPR retention and erasure for an agent mailbox](https://dev.to/mqasimca/gdpr-retention-and-erasure-for-an-agent-mailbox-1ejh)
+- [How I Built an Aesthetic Developer Portfolio with a Pixel-Perfect GitHub Graph](https://dev.to/ankurz/how-i-built-an-aesthetic-developer-portfolio-with-a-pixel-perfect-github-graph-3ng)
+- [Building a Transparent Proxy in Rust: The Foundation Behind Lens](https://dev.to/dpsyfk/building-a-transparent-proxy-in-rust-the-foundation-behind-lens-1190)
+- [How Disabling Javascript Leads me to a Higher Lighthouse Score for My Personal Website](https://dev.to/faranaiki/how-disabling-javascript-leads-me-to-a-higher-lighthouse-score-for-my-personal-website-230a)
+- [The Token Economy Is Real - And I&#39;m Building Systems on Top of It — 2026-07-11](https://dev.to/michael_kidd_255722160288/the-token-economy-is-real-and-im-building-systems-on-top-of-it-2026-07-11-5f4n)
+- [Code Challenge of the Day — Evaluate reverse Polish &lpar;medium&rpar;](https://dev.to/iwtlp/code-challenge-of-the-day-evaluate-reverse-polish-medium-22p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
