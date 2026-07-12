@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Closed World Innovation: Stop Telling People to &quot;Think Outside the Box.&quot; There Is No Box.](https://dev.to/towernter/closed-world-innovation-stop-telling-people-to-think-outside-the-box-there-is-no-box-50bk)
-- [Fervor: Turn Your Passion into a Personalized Learning Roadmap with Google Gemini AI](https://dev.to/sadeeq64/fervor-turn-your-passion-into-a-personalized-learning-roadmap-with-google-gemini-ai-4ekm)
-- [One Header, Full Admin: Attackers Exploit Critical Auth Bypass in Gitea Docker Images](https://dev.to/etairos/one-header-full-admin-attackers-exploit-critical-auth-bypass-in-gitea-docker-images-38ek)
-- [PassionProof — A Soulbound NFT for Consistent Open Source Contribution](https://dev.to/lymah/passionproof-a-soulbound-nft-for-consistent-open-source-contribution-667)
-- [I Open-Sourced My AI Agent Framework: Agents With Character, Rules, and the Ability to Build Their Own Tools](https://dev.to/zhangzeyu/i-open-sourced-my-ai-agent-framework-agents-with-character-rules-and-the-ability-to-build-their-jaa)
+- [Enhancing CI/CD and E2E Testing with Sentry Integration in tvview](https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-tvview-2e8a)
+- [Stop Guessing: How I Pick AI API Architecture at Every Scale](https://dev.to/bolddeck/stop-guessing-how-i-pick-ai-api-architecture-at-every-scale-2jn7)
+- [Enhancing CraveView&#39;s CI/CD Pipeline with Sentry and E2E Tests](https://dev.to/zaerohell/enhancing-craveviews-cicd-pipeline-with-sentry-and-e2e-tests-51ml)
+- [Upgrading CI Workflows: From Node 20 to Node 22 and Actions v5/v6](https://dev.to/zaerohell/upgrading-ci-workflows-from-node-20-to-node-22-and-actions-v5v6-13n)
+- [Blocking AI crawlers earns you nothing. Here&#39;s how to price them instead](https://dev.to/fernforge/blocking-ai-crawlers-earns-you-nothing-heres-how-to-price-them-instead-1j6k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
