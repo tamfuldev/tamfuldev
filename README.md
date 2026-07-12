@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin &amp; Eli Shohat, co-founders of D-Band* ---](https://dev.to/dband-drm/-why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-1bnc)
-- [Meta-Analysis: Motivation and Limitations](https://dev.to/davisethan/meta-analysis-motivation-and-limitations-26m2)
-- [SQL Keyword, Tipos de Dados &amp; Operators](https://dev.to/yuripeixinho/sql-keyword-tipos-de-dados-operators-2a1c)
-- [Dev Log 01: Optimizing Worker Memory Footprints Using Hono.js](https://dev.to/joop-t/dev-log-01-optimizing-worker-memory-footprints-using-honojs-171g)
-- [Connecting Sigrow sensors to your climate computer via API](https://dev.to/sigrow1/connecting-sigrow-sensors-to-your-climate-computer-via-api-3bij)
+- [DesiDash: Celebrating the Passion of Indian Festivals on Solana!✨](https://dev.to/aayushi_goel_56f2e6e461f6/desidash-celebrating-the-passion-of-indian-festivals-on-solana-72e)
+- [Do We Actually Need Fable 5? A Reality Check on Frontier AI](https://dev.to/agentic_architect/do-we-actually-need-fable-5-a-reality-check-on-frontier-ai-2434)
+- [SQL: Normalização e Formas Normais](https://dev.to/yuripeixinho/sql-normalizacao-e-formas-normais-3e5j)
+- [Data Manipulation Language &lpar;DML&rpar;](https://dev.to/yuripeixinho/data-manipulation-language-dml-2eh6)
+- [Data Definition Language &lpar;DDL&rpar;](https://dev.to/yuripeixinho/data-definition-language-ddl-o5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
