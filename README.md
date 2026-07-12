@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Poked a 10-Year-Old Chat Protocol With a Stick](https://dev.to/lovestaco/i-poked-a-10-year-old-chat-protocol-with-a-stick-2g4h)
-- [Build a FootBall Dribbler Game Using Google AI Studio](https://dev.to/biomathcode/build-a-football-dribbler-game-using-google-ai-studio-3cod)
-- [BroncoCTF : Unblur me Writeup](https://dev.to/exploitnotes/broncoctf-unblur-me-writeup-27a2)
-- [We Did Not Define Our Category — We Ran a Gym Until It Defined Itself](https://dev.to/zwiserfit/we-did-not-define-our-category-we-ran-a-gym-until-it-defined-itself-40ej)
-- [Simplicity Over Complexity: How I Built My Minimalist Developer Portfolio](https://dev.to/karthick_07/simplicity-over-complexity-how-i-built-my-minimalist-developer-portfolio-4556)
+- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn&#39;t Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2)
+- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
+- [Be the right Platform Team](https://dev.to/pouja/be-the-right-platform-team-2nn0)
+- [Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k](https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7)
+- [I scanned 15 public Lovable apps. 40% load their database in the browser.](https://dev.to/romain_durieux_f617a147f5/i-scanned-15-public-lovable-apps-40-load-their-database-in-the-browser-3c2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
