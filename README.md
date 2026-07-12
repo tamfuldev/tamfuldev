@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2022 FIFA Dünya Kupası Finali: Arjantin - Fransa Maçının Taktiksel ve Psikolojik Analizi](https://dev.to/ironman7/2022-fifa-dunya-kupasi-finali-arjantin-fransa-macinin-taktiksel-ve-psikolojik-analizi-2b3e)
-- [Instrument Like a Learning Scientist](https://dev.to/michaeltuszynski/instrument-like-a-learning-scientist-4o47)
-- [Stop Prompting and Start Engineering: Treating LLMs as Unreliable Functions](https://dev.to/ntty/stop-prompting-and-start-engineering-treating-llms-as-unreliable-functions-12fp)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-1oal)
-- [Deploying Your First Production App the Right Way](https://dev.to/sri2614/deploying-your-first-production-app-the-right-way-4i14)
+- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop)
+- [Every AI tool, agent, and site builder a developer should know in 2026](https://dev.to/aniruddhaadak/every-ai-tool-agent-and-builder-a-developer-should-know-in-2026-40i1)
+- [I built HostShift to migrate Linux servers](https://dev.to/oguzhankrcb/i-built-hostshift-to-migrate-linux-servers-1nje)
+- [AWS Just Made Claude Code Cloud-Native: The Official AWS MCP Server Plugin](https://dev.to/terminalblog/aws-just-made-claude-code-cloud-native-the-official-aws-mcp-server-plugin-3442)
+- [I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
