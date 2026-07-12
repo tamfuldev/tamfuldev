@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop)
-- [Every AI tool, agent, and site builder a developer should know in 2026](https://dev.to/aniruddhaadak/every-ai-tool-agent-and-builder-a-developer-should-know-in-2026-40i1)
-- [I built HostShift to migrate Linux servers](https://dev.to/oguzhankrcb/i-built-hostshift-to-migrate-linux-servers-1nje)
-- [AWS Just Made Claude Code Cloud-Native: The Official AWS MCP Server Plugin](https://dev.to/terminalblog/aws-just-made-claude-code-cloud-native-the-official-aws-mcp-server-plugin-3442)
-- [I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
+- [Closed World Innovation: Stop Telling People to &quot;Think Outside the Box.&quot; There Is No Box.](https://dev.to/towernter/closed-world-innovation-stop-telling-people-to-think-outside-the-box-there-is-no-box-50bk)
+- [Fervor: Turn Your Passion into a Personalized Learning Roadmap with Google Gemini AI](https://dev.to/sadeeq64/fervor-turn-your-passion-into-a-personalized-learning-roadmap-with-google-gemini-ai-4ekm)
+- [One Header, Full Admin: Attackers Exploit Critical Auth Bypass in Gitea Docker Images](https://dev.to/etairos/one-header-full-admin-attackers-exploit-critical-auth-bypass-in-gitea-docker-images-38ek)
+- [PassionProof — A Soulbound NFT for Consistent Open Source Contribution](https://dev.to/lymah/passionproof-a-soulbound-nft-for-consistent-open-source-contribution-667)
+- [I Open-Sourced My AI Agent Framework: Agents With Character, Rules, and the Ability to Build Their Own Tools](https://dev.to/zhangzeyu/i-open-sourced-my-ai-agent-framework-agents-with-character-rules-and-the-ability-to-build-their-jaa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
