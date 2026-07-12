@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building PocketPilot and Archangel Security Suite: My Journey Into Practical Developer Tools](https://dev.to/nishrico0098/building-pocketpilot-and-archangel-security-suite-my-journey-into-practical-developer-tools-19b4)
-- [Part 1: Authentication Hell: Getting AWS Lambda Talking to X](https://dev.to/amastr92/part-1-authentication-hell-getting-aws-lambda-talking-to-x-ba7)
-- [Stop Juggling SSH Keys: Manage Multiple Git Profiles](https://dev.to/umesh_saini_52c7e55d9989b/stop-juggling-ssh-keys-manage-multiple-git-profiles-4gil)
-- [Agent Skills for newbies](https://dev.to/aloisseckar/agent-skills-for-newbies-h7j)
-- [The First Ransomware Attack With No Humans in the Loop Just Happened — and Your Playbook Isn’t Ready](https://dev.to/nithiyarajesh/the-first-ransomware-attack-with-no-humans-in-the-loop-just-happened-and-your-playbook-isnt-ready-2ph5)
+- [The Physics of Bounded Rationality: Why AI Needs a &quot;Cognitive Mechanics&quot; Engine &lpar;Virtual Intelligence&rpar;](https://dev.to/kungfufk/the-physics-of-bounded-rationality-why-ai-needs-a-cognitive-mechanics-engine-g6k)
+- [Checkpoint-Skip Gate: Task Success 100%, Checkpoint Never Ran](https://dev.to/alex_spinov/checkpoint-skip-gate-task-success-100-checkpoint-never-ran-3k7p)
+- [Extracting Invoices From WhatsApp Photos With AI Vision &lpar;Apps Script + Google Sheets&rpar;](https://dev.to/hayrullahkar/extracting-invoices-from-whatsapp-photos-with-ai-vision-apps-script-google-sheets-4nh5)
+- [Turning WhatsApp Into a Mobile ERP for Field Logistics &lpar;Apps Script + Google Sheets&rpar;](https://dev.to/hayrullahkar/turning-whatsapp-into-a-mobile-erp-for-field-logistics-apps-script-google-sheets-3if)
+- [Handling Lazy-Loaded Content in Automated Screenshots](https://dev.to/webmox/handling-lazy-loaded-content-in-automated-screenshots-2k2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
