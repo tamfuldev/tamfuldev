@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop logging PII: a configurable Node.js sanitizer logger](https://dev.to/saschadev/stop-logging-pii-a-configurable-nodejs-sanitizer-logger-3c99)
-- [Turning Conversation Logs into Obsidian Long-Term Memory: A Pipeline That Distills Them Every Night](https://dev.to/bokuwalily/turning-conversation-logs-into-obsidian-long-term-memory-a-pipeline-that-distills-them-every-night-18c2)
-- [Reflection in C#: What It Is, Why It Exists](https://dev.to/alimurrazi/reflection-in-c-what-it-is-why-it-exists-3m90)
-- [Building the Credit System for My AI Prompt Optimizer](https://dev.to/sayyed_amaanali_8633c4ce/building-the-credit-system-for-my-ai-prompt-optimizer-59ee)
-- [Why I built an image processor when Photoshop and GIMP already exist](https://dev.to/akhourianmolkumar/why-i-built-an-image-processor-when-photoshop-and-gimp-already-exist-5d73)
+- [Building PocketPilot and Archangel Security Suite: My Journey Into Practical Developer Tools](https://dev.to/nishrico0098/building-pocketpilot-and-archangel-security-suite-my-journey-into-practical-developer-tools-19b4)
+- [Part 1: Authentication Hell: Getting AWS Lambda Talking to X](https://dev.to/amastr92/part-1-authentication-hell-getting-aws-lambda-talking-to-x-ba7)
+- [Stop Juggling SSH Keys: Manage Multiple Git Profiles](https://dev.to/umesh_saini_52c7e55d9989b/stop-juggling-ssh-keys-manage-multiple-git-profiles-4gil)
+- [Agent Skills for newbies](https://dev.to/aloisseckar/agent-skills-for-newbies-h7j)
+- [The First Ransomware Attack With No Humans in the Loop Just Happened — and Your Playbook Isn’t Ready](https://dev.to/nithiyarajesh/the-first-ransomware-attack-with-no-humans-in-the-loop-just-happened-and-your-playbook-isnt-ready-2ph5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
