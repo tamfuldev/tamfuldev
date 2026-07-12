@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Physics of Bounded Rationality: Why AI Needs a &quot;Cognitive Mechanics&quot; Engine &lpar;Virtual Intelligence&rpar;](https://dev.to/kungfufk/the-physics-of-bounded-rationality-why-ai-needs-a-cognitive-mechanics-engine-g6k)
-- [Checkpoint-Skip Gate: Task Success 100%, Checkpoint Never Ran](https://dev.to/alex_spinov/checkpoint-skip-gate-task-success-100-checkpoint-never-ran-3k7p)
-- [Extracting Invoices From WhatsApp Photos With AI Vision &lpar;Apps Script + Google Sheets&rpar;](https://dev.to/hayrullahkar/extracting-invoices-from-whatsapp-photos-with-ai-vision-apps-script-google-sheets-4nh5)
-- [Turning WhatsApp Into a Mobile ERP for Field Logistics &lpar;Apps Script + Google Sheets&rpar;](https://dev.to/hayrullahkar/turning-whatsapp-into-a-mobile-erp-for-field-logistics-apps-script-google-sheets-3if)
-- [Handling Lazy-Loaded Content in Automated Screenshots](https://dev.to/webmox/handling-lazy-loaded-content-in-automated-screenshots-2k2f)
+- [2022 FIFA Dünya Kupası Finali: Arjantin - Fransa Maçının Taktiksel ve Psikolojik Analizi](https://dev.to/ironman7/2022-fifa-dunya-kupasi-finali-arjantin-fransa-macinin-taktiksel-ve-psikolojik-analizi-2b3e)
+- [Instrument Like a Learning Scientist](https://dev.to/michaeltuszynski/instrument-like-a-learning-scientist-4o47)
+- [Stop Prompting and Start Engineering: Treating LLMs as Unreliable Functions](https://dev.to/ntty/stop-prompting-and-start-engineering-treating-llms-as-unreliable-functions-12fp)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-1oal)
+- [Deploying Your First Production App the Right Way](https://dev.to/sri2614/deploying-your-first-production-app-the-right-way-4i14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
