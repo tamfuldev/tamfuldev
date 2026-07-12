@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn&#39;t Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2)
-- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
-- [Be the right Platform Team](https://dev.to/pouja/be-the-right-platform-team-2nn0)
-- [Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k](https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7)
-- [I scanned 15 public Lovable apps. 40% load their database in the browser.](https://dev.to/romain_durieux_f617a147f5/i-scanned-15-public-lovable-apps-40-load-their-database-in-the-browser-3c2p)
+- [I Taught an AI to Measure Passion — Then Pointed It at the World Cup](https://dev.to/soham0047/i-taught-an-ai-to-measure-passion-then-pointed-it-at-the-world-cup-27b7)
+- [Scaffolding Business Domain Models with Dynamic Schemas](https://dev.to/homeless-coder/scaffolding-business-domain-models-with-dynamic-schemas-1ic0)
+- [Gnome GJS - ActiveRecord ORM](https://dev.to/softwareishappiness/gnome-gjs-activerecord-orm-234e)
+- [C# Async/Await Made Simple](https://dev.to/lovelacecoding/c-asyncawait-made-simple-2bo0)
+- [NarraMeuGol: the AI that calls your street-football goal 🎙️⚽](https://dev.to/rotirotirafa/narrameugol-the-ai-that-calls-your-street-football-goal-4loc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
