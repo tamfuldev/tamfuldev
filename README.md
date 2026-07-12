@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Taught an AI to Measure Passion — Then Pointed It at the World Cup](https://dev.to/soham0047/i-taught-an-ai-to-measure-passion-then-pointed-it-at-the-world-cup-27b7)
-- [Scaffolding Business Domain Models with Dynamic Schemas](https://dev.to/homeless-coder/scaffolding-business-domain-models-with-dynamic-schemas-1ic0)
-- [Gnome GJS - ActiveRecord ORM](https://dev.to/softwareishappiness/gnome-gjs-activerecord-orm-234e)
-- [C# Async/Await Made Simple](https://dev.to/lovelacecoding/c-asyncawait-made-simple-2bo0)
-- [NarraMeuGol: the AI that calls your street-football goal 🎙️⚽](https://dev.to/rotirotirafa/narrameugol-the-ai-that-calls-your-street-football-goal-4loc)
+- [Buzzword Bingo: An Experiment in Spec-Driven AI Development](https://dev.to/ldrscke/buzzword-bingo-an-experiment-in-spec-driven-ai-development-1m88)
+- [I built Regdrift, a CLI and GitHub Action for detecting breaking CMSIS-SVD changes](https://dev.to/pranav-s79/i-built-regdrift-a-cli-and-github-action-for-detecting-breaking-cmsis-svd-changes-51j3)
+- [dev contest: Telecom RCA Automation System](https://dev.to/tony_dev/dev-contest-telecom-rca-automation-system-pk5)
+- [The monitoring agent that cannot be told what to do](https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd)
+- [The First Microcontroller Was the TI TMS1000 &lpar;1974&rpar;](https://dev.to/fluidwire/the-first-microcontroller-was-the-ti-tms1000-1974-2hb0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
