@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Buzzword Bingo: An Experiment in Spec-Driven AI Development](https://dev.to/ldrscke/buzzword-bingo-an-experiment-in-spec-driven-ai-development-1m88)
-- [I built Regdrift, a CLI and GitHub Action for detecting breaking CMSIS-SVD changes](https://dev.to/pranav-s79/i-built-regdrift-a-cli-and-github-action-for-detecting-breaking-cmsis-svd-changes-51j3)
-- [dev contest: Telecom RCA Automation System](https://dev.to/tony_dev/dev-contest-telecom-rca-automation-system-pk5)
-- [The monitoring agent that cannot be told what to do](https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd)
-- [The First Microcontroller Was the TI TMS1000 &lpar;1974&rpar;](https://dev.to/fluidwire/the-first-microcontroller-was-the-ti-tms1000-1974-2hb0)
+- [# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin &amp; Eli Shohat, co-founders of D-Band* ---](https://dev.to/dband-drm/-why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-1bnc)
+- [Meta-Analysis: Motivation and Limitations](https://dev.to/davisethan/meta-analysis-motivation-and-limitations-26m2)
+- [SQL Keyword, Tipos de Dados &amp; Operators](https://dev.to/yuripeixinho/sql-keyword-tipos-de-dados-operators-2a1c)
+- [Dev Log 01: Optimizing Worker Memory Footprints Using Hono.js](https://dev.to/joop-t/dev-log-01-optimizing-worker-memory-footprints-using-honojs-171g)
+- [Connecting Sigrow sensors to your climate computer via API](https://dev.to/sigrow1/connecting-sigrow-sensors-to-your-climate-computer-via-api-3bij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
