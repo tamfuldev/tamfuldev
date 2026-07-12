@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj)
-- [Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn)
-- [The &quot;Just One More Prompt&quot; Loop: The Neurobiology of AI-Induced Burnout](https://dev.to/khalisollis/the-just-one-more-prompt-loop-the-neurobiology-of-ai-induced-burnout-2kan)
-- [Building Telemetry Tracker](https://dev.to/unjica/building-telemetry-tracker-3h2m)
-- [Hello, World! Launching my Developer YouTube Channel &lpar;@devkingov&rpar; 🚀](https://dev.to/karleeov/hello-world-launching-my-developer-youtube-channel-devkingov-cc6)
+- [Stop logging PII: a configurable Node.js sanitizer logger](https://dev.to/saschadev/stop-logging-pii-a-configurable-nodejs-sanitizer-logger-3c99)
+- [Turning Conversation Logs into Obsidian Long-Term Memory: A Pipeline That Distills Them Every Night](https://dev.to/bokuwalily/turning-conversation-logs-into-obsidian-long-term-memory-a-pipeline-that-distills-them-every-night-18c2)
+- [Reflection in C#: What It Is, Why It Exists](https://dev.to/alimurrazi/reflection-in-c-what-it-is-why-it-exists-3m90)
+- [Building the Credit System for My AI Prompt Optimizer](https://dev.to/sayyed_amaanali_8633c4ce/building-the-credit-system-for-my-ai-prompt-optimizer-59ee)
+- [Why I built an image processor when Photoshop and GIMP already exist](https://dev.to/akhourianmolkumar/why-i-built-an-image-processor-when-photoshop-and-gimp-already-exist-5d73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
