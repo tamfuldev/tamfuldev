@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo revisar emails de reactivación trial](https://dev.to/hannahdev56/como-revisar-emails-de-reactivacion-trial-7d)
-- [How to Forward WhatsApp Messages to Telegram &lpar;Without Losing Your Media&rpar;](https://dev.to/alex_gv_24192032990395354/how-to-forward-whatsapp-messages-to-telegram-without-losing-your-media-c4e)
-- [How a &quot;safe&quot; shipping change silently disapproved 621 products in Google Merchant Center](https://dev.to/jasonpun/how-a-safe-shipping-change-silently-disapproved-621-products-in-google-merchant-center-i12)
-- [Service Level Objectives for Complex Microservices](https://dev.to/samson_tanimawo/service-level-objectives-for-complex-microservices-42i7)
-- [Modernising a legacy AS/400 &lpar;IBM i&rpar; system without rewriting it](https://dev.to/custralis/modernising-a-legacy-as400-ibm-i-system-without-rewriting-it-4k9k)
+- [For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj)
+- [Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn)
+- [The &quot;Just One More Prompt&quot; Loop: The Neurobiology of AI-Induced Burnout](https://dev.to/khalisollis/the-just-one-more-prompt-loop-the-neurobiology-of-ai-induced-burnout-2kan)
+- [Building Telemetry Tracker](https://dev.to/unjica/building-telemetry-tracker-3h2m)
+- [Hello, World! Launching my Developer YouTube Channel &lpar;@devkingov&rpar; 🚀](https://dev.to/karleeov/hello-world-launching-my-developer-youtube-channel-devkingov-cc6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
