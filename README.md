@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BronoCTF : Custom Cipher Writeup](https://dev.to/exploitnotes/bronoctf-custom-cipher-writeup-19po)
-- [Your embedding axes can move while cosine neighbours stay put](https://dev.to/billiem/your-embedding-axes-can-move-while-cosine-neighbours-stay-put-377f)
-- [Whether you&#39;re debugging, testing a new implementation, or temporarily disabling code, there are times when you need to comment out an entire file in Vim. While many developers rely on plugins, Vim already provides powerful built-in commands that make this incredibly fast.](https://dev.to/saint_vandora/-2jpi)
-- [Why Distributed Systems Become Essential Beyond 100K+ MAU](https://dev.to/ankit_rattan/why-distributed-systems-become-essential-beyond-100k-mau-12d3)
-- [DDD &amp; More: Is Software Design Dead in the Age of Automatons?](https://dev.to/bridgingthegapeucom/ddd-more-is-software-design-dead-in-the-age-of-automatons-5ba9)
+- [I Poked a 10-Year-Old Chat Protocol With a Stick](https://dev.to/lovestaco/i-poked-a-10-year-old-chat-protocol-with-a-stick-2g4h)
+- [Build a FootBall Dribbler Game Using Google AI Studio](https://dev.to/biomathcode/build-a-football-dribbler-game-using-google-ai-studio-3cod)
+- [BroncoCTF : Unblur me Writeup](https://dev.to/exploitnotes/broncoctf-unblur-me-writeup-27a2)
+- [We Did Not Define Our Category — We Ran a Gym Until It Defined Itself](https://dev.to/zwiserfit/we-did-not-define-our-category-we-ran-a-gym-until-it-defined-itself-40ej)
+- [Simplicity Over Complexity: How I Built My Minimalist Developer Portfolio](https://dev.to/karthick_07/simplicity-over-complexity-how-i-built-my-minimalist-developer-portfolio-4556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
