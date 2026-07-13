@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is My Store WebMCP and UCP Ready? What Agent Checkout Actually Needs](https://dev.to/benjifisher/is-my-store-webmcp-and-ucp-ready-what-agent-checkout-actually-needs-48pk)
-- [Setting Up a Production CI/CD Pipeline for a Python/Django App](https://dev.to/saint_vandora/setting-up-a-production-cicd-pipeline-for-a-pythondjango-app-593d)
-- [Android Battery Draining After Update&#39; 7 Fixes That Work](https://dev.to/youngones/android-battery-draining-after-update-7-fixes-that-work-5hci)
-- [Demonstrating Backup System Reliability: Evidence-Based Restore Testing for Stakeholder Confidence](https://dev.to/elenbit/demonstrating-backup-system-reliability-evidence-based-restore-testing-for-stakeholder-confidence-47pi)
-- [What broke in the modern web stack this week &lpar;issue 2&rpar;](https://dev.to/stacktraceweekly/what-broke-in-the-modern-web-stack-this-week-issue-2-114k)
+- [Claude Code worktrees: parallel agents without the conflicts](https://dev.to/jcamarate/claude-code-worktrees-parallel-agents-without-the-conflicts-3fnl)
+- [We let an AI write code inside our no-code platform. Generating it was the easy part.](https://dev.to/dsiacci/we-let-an-ai-write-code-inside-our-no-code-platform-generating-it-was-the-easy-part-1p65)
+- [Implementing RFC 8693 Token Exchange in AgentGateway: A Complete Tutorial](https://dev.to/mgonzalezo/implementing-rfc-8693-token-exchange-in-agentgateway-a-complete-tutorial-3g3p)
+- [Quick system design question: Do you actually know the structural difference between a Reverse Proxy, a Load Balancer, and an API Gateway? &lpar;Hint: They aren&#39;t the same thing!&rpar;.](https://dev.to/saint_vandora/quick-system-design-question-do-you-actually-know-the-structural-difference-between-a-reverse-5fga)
+- [Reverse Proxy vs Load Balancer vs API Gateway: The Real Difference](https://dev.to/saint_vandora/reverse-proxy-vs-load-balancer-vs-api-gateway-the-real-difference-4afl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
