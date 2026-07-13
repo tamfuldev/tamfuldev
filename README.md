@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code worktrees: parallel agents without the conflicts](https://dev.to/jcamarate/claude-code-worktrees-parallel-agents-without-the-conflicts-3fnl)
-- [We let an AI write code inside our no-code platform. Generating it was the easy part.](https://dev.to/dsiacci/we-let-an-ai-write-code-inside-our-no-code-platform-generating-it-was-the-easy-part-1p65)
-- [Implementing RFC 8693 Token Exchange in AgentGateway: A Complete Tutorial](https://dev.to/mgonzalezo/implementing-rfc-8693-token-exchange-in-agentgateway-a-complete-tutorial-3g3p)
-- [Quick system design question: Do you actually know the structural difference between a Reverse Proxy, a Load Balancer, and an API Gateway? &lpar;Hint: They aren&#39;t the same thing!&rpar;.](https://dev.to/saint_vandora/quick-system-design-question-do-you-actually-know-the-structural-difference-between-a-reverse-5fga)
-- [Reverse Proxy vs Load Balancer vs API Gateway: The Real Difference](https://dev.to/saint_vandora/reverse-proxy-vs-load-balancer-vs-api-gateway-the-real-difference-4afl)
+- [Hybrid Cloud – the Worst Possible Option](https://dev.to/leonadato/hybrid-cloud-the-worst-possible-option-1f4n)
+- [Guarding Your Gray Matter: What Developers Should Know About &quot;Popcorn Brain&quot;](https://dev.to/khalisollis/guarding-your-gray-matter-what-developers-should-know-about-popcorn-brain-4h9m)
+- [What are your goals for the week? #187](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-187-37l9)
+- [The Psychology Behind Great Software](https://dev.to/emekaugbanu/the-psychology-behind-great-software-1g6o)
+- [What I learned trying to revoke an AI agent mid-task](https://dev.to/anee769/what-i-learned-trying-to-revoke-an-ai-agent-mid-task-m80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
