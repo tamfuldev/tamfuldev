@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DesiDash: Celebrating the Passion of Indian Festivals on Solana!✨](https://dev.to/aayushi_goel_56f2e6e461f6/desidash-celebrating-the-passion-of-indian-festivals-on-solana-72e)
-- [Do We Actually Need Fable 5? A Reality Check on Frontier AI](https://dev.to/agentic_architect/do-we-actually-need-fable-5-a-reality-check-on-frontier-ai-2434)
-- [SQL: Normalização e Formas Normais](https://dev.to/yuripeixinho/sql-normalizacao-e-formas-normais-3e5j)
-- [Data Manipulation Language &lpar;DML&rpar;](https://dev.to/yuripeixinho/data-manipulation-language-dml-2eh6)
-- [Data Definition Language &lpar;DDL&rpar;](https://dev.to/yuripeixinho/data-definition-language-ddl-o5g)
+- [Position Evaluator — A Chess Diagnostic for Your Daily Decisions](https://dev.to/semtione/position-evaluator-a-chess-diagnostic-for-your-daily-decisions-3omj)
+- [I Built a Memory Layer for LLM Agents That Knows Which Facts Go Stale](https://dev.to/rouche01/i-built-a-memory-layer-for-llm-agents-that-knows-which-facts-go-stale-1mg5)
+- [Brute forcing my way to better HTML &gt; DOCX conversion](https://dev.to/blair_googer_8e41a7d338d2/brute-forcing-my-way-to-better-html-docx-conversion-4ffj)
+- [Rivalry Roast 🔥 — AI-Powered World Cup Banter Generator](https://dev.to/baruna_abirawa_374ef1f781/rivalry-roast-ai-powered-world-cup-banter-generator-4j0e)
+- [The File Format Renaissance: Parquet, Lance, Vortex, Nimble, BtrBlocks, and the New Physics of Columnar Storage](https://dev.to/alexmercedcoder/the-file-format-renaissance-parquet-lance-vortex-nimble-btrblocks-and-the-new-physics-of-32oj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
