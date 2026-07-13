@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Where usability files actually break — and what I do about it](https://dev.to/jwithfield_qa/where-usability-files-actually-break-and-what-i-do-about-it-27aa)
-- [How to Use AI for Sprint Planning &lpar;And Stop Guessing Deadlines&rpar;](https://dev.to/muhammad_azhar_3826652565/how-to-use-ai-for-sprint-planning-and-stop-guessing-deadlines-40ln)
-- [Let Me Show You Which AI Model Actually Writes the Best Code](https://dev.to/gentlenode/let-me-show-you-which-ai-model-actually-writes-the-best-code-3epa)
-- [Serving Agent Traffic Without Breaking Your Origin](https://dev.to/abdalsalaam_halawa_bdca77/serving-agent-traffic-without-breaking-your-origin-fhf)
-- [They Asked for My AI Rules. But I Could Not Just Hand Them Over.](https://dev.to/jeelvankhede/they-asked-for-my-ai-rules-but-i-could-not-just-hand-them-over-3lhb)
+- [Podman in Production: The Book, and the Pipeline Behind It](https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie)
+- [Bootcamp Grad Explores Open-Source AI APIs: What I Learned](https://dev.to/purecast/bootcamp-grad-explores-open-source-ai-apis-what-i-learned-3pc)
+- [SINGLE RESPONSIBILITY PRINCIPLE](https://dev.to/victorlisbronzo/single-responsibility-principle-1g20)
+- [PRINCÍPIO DA RESPONSABILIDADE ÚNICA](https://dev.to/victorlisbronzo/principio-da-responsabilidade-unica-301d)
+- [Validate Your LLM Workflow Before It Runs &lpar;Python + YAML Topology Checks&rpar;](https://dev.to/dobybaxter127/validate-your-llm-workflow-before-it-runs-python-yaml-topology-checks-35l1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
