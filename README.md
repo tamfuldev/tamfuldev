@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-Time Server Dashboard with Python &amp; WebSockets](https://dev.to/marop2/build-a-real-time-server-dashboard-with-python-websockets-1jag)
-- [Ruby Open-Source Innovation Process Expectation vs Reality](https://dev.to/andyobtiva/ruby-open-source-innovation-process-expectation-vs-reality-4lo9)
-- [I built a Claude skill that reviews your SvelteKit project structure like a senior architect](https://dev.to/poolcamacho/i-built-a-claude-skill-that-reviews-your-sveltekit-project-structure-like-a-senior-architect-44g9)
-- [Tracking LLM Latency &amp; Cost: How I Instrumented an AI Agent Pipeline Using OpenTelemetry and SigNoz](https://dev.to/vishesh_aggarwal_a44c2c8c/tracking-llm-latency-cost-how-i-instrumented-an-ai-agent-pipeline-using-opentelemetry-and-signoz-3mkc)
-- [Supabase Queues in Production: Dead-Letter Queues, Retries, and Poison Messages with pgmq](https://dev.to/mwiginton/supabase-queues-in-production-dead-letter-queues-retries-and-poison-messages-with-pgmq-28dp)
+- [Where usability files actually break — and what I do about it](https://dev.to/jwithfield_qa/where-usability-files-actually-break-and-what-i-do-about-it-27aa)
+- [How to Use AI for Sprint Planning &lpar;And Stop Guessing Deadlines&rpar;](https://dev.to/muhammad_azhar_3826652565/how-to-use-ai-for-sprint-planning-and-stop-guessing-deadlines-40ln)
+- [Let Me Show You Which AI Model Actually Writes the Best Code](https://dev.to/gentlenode/let-me-show-you-which-ai-model-actually-writes-the-best-code-3epa)
+- [Serving Agent Traffic Without Breaking Your Origin](https://dev.to/abdalsalaam_halawa_bdca77/serving-agent-traffic-without-breaking-your-origin-fhf)
+- [They Asked for My AI Rules. But I Could Not Just Hand Them Over.](https://dev.to/jeelvankhede/they-asked-for-my-ai-rules-but-i-could-not-just-hand-them-over-3lhb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
