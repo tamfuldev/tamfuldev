@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Podman in Production: The Book, and the Pipeline Behind It](https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie)
-- [Bootcamp Grad Explores Open-Source AI APIs: What I Learned](https://dev.to/purecast/bootcamp-grad-explores-open-source-ai-apis-what-i-learned-3pc)
-- [SINGLE RESPONSIBILITY PRINCIPLE](https://dev.to/victorlisbronzo/single-responsibility-principle-1g20)
-- [PRINCÍPIO DA RESPONSABILIDADE ÚNICA](https://dev.to/victorlisbronzo/principio-da-responsabilidade-unica-301d)
-- [Validate Your LLM Workflow Before It Runs &lpar;Python + YAML Topology Checks&rpar;](https://dev.to/dobybaxter127/validate-your-llm-workflow-before-it-runs-python-yaml-topology-checks-35l1)
+- [Audit-log every email your AI agent sends](https://dev.to/mqasimca/audit-log-every-email-your-ai-agent-sends-57bl)
+- [How I export 1.2-gigapixel images on an iPhone without running out of memory](https://dev.to/toffy/how-i-export-12-gigapixel-images-on-an-iphone-without-running-out-of-memory-1hkk)
+- [One agent mailbox per tenant in a multi-tenant SaaS](https://dev.to/mqasimca/one-agent-mailbox-per-tenant-in-a-multi-tenant-saas-37ne)
+- [Spin up ephemeral test inboxes for email integration tests](https://dev.to/mqasimca/spin-up-ephemeral-test-inboxes-for-email-integration-tests-3bdg)
+- [Escalate an AI email agent&#39;s thread to a human](https://dev.to/mqasimca/escalate-an-ai-email-agents-thread-to-a-human-3akc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
