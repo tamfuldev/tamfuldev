@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Position Evaluator — A Chess Diagnostic for Your Daily Decisions](https://dev.to/semtione/position-evaluator-a-chess-diagnostic-for-your-daily-decisions-3omj)
-- [I Built a Memory Layer for LLM Agents That Knows Which Facts Go Stale](https://dev.to/rouche01/i-built-a-memory-layer-for-llm-agents-that-knows-which-facts-go-stale-1mg5)
-- [Brute forcing my way to better HTML &gt; DOCX conversion](https://dev.to/blair_googer_8e41a7d338d2/brute-forcing-my-way-to-better-html-docx-conversion-4ffj)
-- [Rivalry Roast 🔥 — AI-Powered World Cup Banter Generator](https://dev.to/baruna_abirawa_374ef1f781/rivalry-roast-ai-powered-world-cup-banter-generator-4j0e)
-- [The File Format Renaissance: Parquet, Lance, Vortex, Nimble, BtrBlocks, and the New Physics of Columnar Storage](https://dev.to/alexmercedcoder/the-file-format-renaissance-parquet-lance-vortex-nimble-btrblocks-and-the-new-physics-of-32oj)
+- [Building Secure APIs in 2026: Threats Developers Can&#39;t Ignore](https://dev.to/eva_clari_289d85ecc68da48/building-secure-apis-in-2026-threats-developers-cant-ignore-1enc)
+- [I kept losing my own ideas, so I built a VS Code todo list that reminds me before I forget](https://dev.to/gitandrundev/i-kept-losing-my-own-ideas-so-i-built-a-vs-code-todo-list-that-reminds-me-before-i-forget-5af2)
+- [My curl smoke test passed. Why does Cline / Continue still fail?](https://dev.to/seven7763/my-curl-smoke-test-passed-why-does-cline-continue-still-fail-52p4)
+- [Your AI-built app works in the builder but breaks on deploy with a Supabase &quot;permission denied&quot; error. Here is why, and how to fix it.](https://dev.to/toritic/your-ai-built-app-works-in-the-builder-but-breaks-on-deploy-with-a-supabase-permission-denied-45ik)
+- [Learning AI orchestration and harness engineering by building an autonomous engineer for a bank](https://dev.to/ayush_dubey_83/learning-ai-orchestration-and-harness-engineering-by-building-an-autonomous-engineer-for-a-bank-31jb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
