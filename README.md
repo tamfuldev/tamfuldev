@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Cloud – the Worst Possible Option](https://dev.to/leonadato/hybrid-cloud-the-worst-possible-option-1f4n)
-- [Guarding Your Gray Matter: What Developers Should Know About &quot;Popcorn Brain&quot;](https://dev.to/khalisollis/guarding-your-gray-matter-what-developers-should-know-about-popcorn-brain-4h9m)
-- [What are your goals for the week? #187](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-187-37l9)
-- [The Psychology Behind Great Software](https://dev.to/emekaugbanu/the-psychology-behind-great-software-1g6o)
-- [What I learned trying to revoke an AI agent mid-task](https://dev.to/anee769/what-i-learned-trying-to-revoke-an-ai-agent-mid-task-m80)
+- [Build a Real-Time Server Dashboard with Python &amp; WebSockets](https://dev.to/marop2/build-a-real-time-server-dashboard-with-python-websockets-1jag)
+- [Ruby Open-Source Innovation Process Expectation vs Reality](https://dev.to/andyobtiva/ruby-open-source-innovation-process-expectation-vs-reality-4lo9)
+- [I built a Claude skill that reviews your SvelteKit project structure like a senior architect](https://dev.to/poolcamacho/i-built-a-claude-skill-that-reviews-your-sveltekit-project-structure-like-a-senior-architect-44g9)
+- [Tracking LLM Latency &amp; Cost: How I Instrumented an AI Agent Pipeline Using OpenTelemetry and SigNoz](https://dev.to/vishesh_aggarwal_a44c2c8c/tracking-llm-latency-cost-how-i-instrumented-an-ai-agent-pipeline-using-opentelemetry-and-signoz-3mkc)
+- [Supabase Queues in Production: Dead-Letter Queues, Retries, and Poison Messages with pgmq](https://dev.to/mwiginton/supabase-queues-in-production-dead-letter-queues-retries-and-poison-messages-with-pgmq-28dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
