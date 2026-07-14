@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Supply Chain: The Next Evolution of Third Party Risk](https://dev.to/alifunk/the-ai-supply-chain-the-next-evolution-of-third-party-risk-1ek)
-- [Building a production AI agent in TypeScript with Mastra: a 2026 step-by-step.](https://dev.to/thegdsks/building-a-production-ai-agent-in-typescript-with-mastra-a-2026-step-by-step-37dc)
-- [Disaster Recovery Drills That Actually Work](https://dev.to/samson_tanimawo/disaster-recovery-drills-that-actually-work-534m)
-- [SSG vs SSR vs CSR in Next.js: Choosing the Right Rendering Strategy for SEO](https://dev.to/malik_taleebshahbaz14/ssg-vs-ssr-vs-csr-in-nextjs-choosing-the-right-rendering-strategy-for-seo-5fpe)
-- [Your rules file only grows. Here&#39;s how to find the rules that do nothing](https://dev.to/rulestack/your-rules-file-only-grows-heres-how-to-find-the-rules-that-do-nothing-4n2m)
+- [How Zero-Knowledge Encryption Actually Works &lpar;with the Web Crypto API&rpar;](https://dev.to/sudeepbhandari/how-zero-knowledge-encryption-actually-works-with-the-web-crypto-api-1f53)
+- [Cut Memory Store Tests from 3 Hours to 10 Minutes: 18x Efficiency with pytest + Docker](https://dev.to/_eb7f2a654e97a60ae9f96e/cut-memory-store-tests-from-3-hours-to-10-minutes-18x-efficiency-with-pytest-docker-55d1)
+- [Practical Guide: Integrating Claude Code with NanoBanana MCP for Image Generation and Editing](https://dev.to/germey/practical-guide-integrating-claude-code-with-nanobanana-mcp-for-image-generation-and-editing-8ij)
+- [Squeezing Every Megabyte: Optimizing an 8GB NVIDIA Jetson Orin Nano for Headless ROS 2 and Edge-AI](https://dev.to/shaifurcodes/squeezing-every-megabyte-optimizing-an-8gb-nvidia-jetson-orin-nano-for-headless-ros-2-and-edge-ai-3cch)
+- [&quot;Is it alive?&quot; is the wrong question. Ask &quot;is it working?&quot;](https://dev.to/chemy_pvl/is-it-alive-is-the-wrong-question-ask-is-it-working-5g36)
 <!-- BLOG-POST-LIST:END -->
 
 ---
