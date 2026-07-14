@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in AI: GPT-5.6 Lands, Agent Infrastructure Matures, and the Model War Heats Up](https://dev.to/nerdhead_01/this-week-in-ai-gpt-56-lands-agent-infrastructure-matures-and-the-model-war-heats-up-17dg)
-- [How I Eliminated 19,494 Duplicate MongoDB Records &lpar;And What I&#39;d Do Differently Today&rpar;](https://dev.to/david_essien/how-i-eliminated-19494-duplicate-mongodb-records-and-what-id-do-differently-today-36bh)
-- [7 ways to drain an ERC-4626 vault &lpar;and how a good protocol closes each one&rpar;](https://dev.to/juan23z/7-ways-to-drain-an-erc-4626-vault-and-how-a-good-protocol-closes-each-one-2h48)
-- [Why Early MVPs Fail Before Launch](https://dev.to/kavitasystems/why-early-mvps-fail-before-launch-11ag)
-- [React Native + Expo JWT Auth with FastAPI — A Complete Working Example](https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf)
+- [Seven Free Node.js Hosting Platforms Worth Trying in 2026](https://dev.to/sparrowhawk705/seven-free-nodejs-hosting-platforms-worth-trying-in-2026-25c1)
+- [I Asked in a Chainlink Discord: &quot;Is Chainlink Building Any AI?&quot; The Answer Sent Me Down a Rabbit Hole for Three Days.](https://dev.to/0xramprasad/i-asked-in-a-chainlink-discord-is-chainlink-building-any-ai-the-answer-sent-me-down-a-rabbit-5b7j)
+- [A lightweight workflow for keeping up with AI conference papers](https://dev.to/linqiao4173/a-lightweight-workflow-for-keeping-up-with-ai-conference-papers-31e3)
+- [Load Balancing &amp; Auto-Scaling Explained](https://dev.to/sri2614/load-balancing-auto-scaling-explained-370c)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-3ojc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
