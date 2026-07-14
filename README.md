@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Zero-Knowledge Encryption Actually Works &lpar;with the Web Crypto API&rpar;](https://dev.to/sudeepbhandari/how-zero-knowledge-encryption-actually-works-with-the-web-crypto-api-1f53)
-- [Cut Memory Store Tests from 3 Hours to 10 Minutes: 18x Efficiency with pytest + Docker](https://dev.to/_eb7f2a654e97a60ae9f96e/cut-memory-store-tests-from-3-hours-to-10-minutes-18x-efficiency-with-pytest-docker-55d1)
-- [Practical Guide: Integrating Claude Code with NanoBanana MCP for Image Generation and Editing](https://dev.to/germey/practical-guide-integrating-claude-code-with-nanobanana-mcp-for-image-generation-and-editing-8ij)
-- [Squeezing Every Megabyte: Optimizing an 8GB NVIDIA Jetson Orin Nano for Headless ROS 2 and Edge-AI](https://dev.to/shaifurcodes/squeezing-every-megabyte-optimizing-an-8gb-nvidia-jetson-orin-nano-for-headless-ros-2-and-edge-ai-3cch)
-- [&quot;Is it alive?&quot; is the wrong question. Ask &quot;is it working?&quot;](https://dev.to/chemy_pvl/is-it-alive-is-the-wrong-question-ask-is-it-working-5g36)
+- [How To Actually Get Hired as a Quantum Software Engineer &lpar;The Real Paths&rpar;](https://dev.to/futureisnowtech/how-to-actually-get-hired-as-a-quantum-software-engineer-the-real-paths-44aa)
+- [Before Adding Gemma 4 to MonkeyCode, Run a Model Capability Contract](https://dev.to/kongkong1/before-adding-gemma-4-to-monkeycode-run-a-model-capability-contract-4d07)
+- [Making AI-written content sound less like, well, AI](https://dev.to/hatabish/making-ai-written-content-sound-less-like-well-ai-15nd)
+- [The MCP Confused Deputy: Provenance Gaps, Instruction Injection, and DNS Rebinding in the Model Context Protocol](https://dev.to/alejandxr/the-mcp-confused-deputy-provenance-gaps-instruction-injection-and-dns-rebinding-in-the-model-918)
+- [Valid Parentheses and Stack &lpar;Easy&rpar; | LeetCode Practice #5](https://dev.to/secondlastsleep/valid-parentheses-and-stack-easy-leetcode-practice-5-2e6a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
