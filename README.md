@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How To Actually Get Hired as a Quantum Software Engineer &lpar;The Real Paths&rpar;](https://dev.to/futureisnowtech/how-to-actually-get-hired-as-a-quantum-software-engineer-the-real-paths-44aa)
-- [Before Adding Gemma 4 to MonkeyCode, Run a Model Capability Contract](https://dev.to/kongkong1/before-adding-gemma-4-to-monkeycode-run-a-model-capability-contract-4d07)
-- [Making AI-written content sound less like, well, AI](https://dev.to/hatabish/making-ai-written-content-sound-less-like-well-ai-15nd)
-- [The MCP Confused Deputy: Provenance Gaps, Instruction Injection, and DNS Rebinding in the Model Context Protocol](https://dev.to/alejandxr/the-mcp-confused-deputy-provenance-gaps-instruction-injection-and-dns-rebinding-in-the-model-918)
-- [Valid Parentheses and Stack &lpar;Easy&rpar; | LeetCode Practice #5](https://dev.to/secondlastsleep/valid-parentheses-and-stack-easy-leetcode-practice-5-2e6a)
+- [I Wish I Ran the Numbers on Open Source AI APIs Sooner](https://dev.to/truelane/i-wish-i-ran-the-numbers-on-open-source-ai-apis-sooner-i63)
+- [--- title: Day 1: Starting My Web Dev Journey published: true description: Learning HTML from scratch ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-published-true-description-learning-html-from-eg1)
+- [My MCP Server Kept Crashing. Here&#39;s the Error Recovery Pattern That Saved It.](https://dev.to/chenyuan20509/my-mcp-server-kept-crashing-heres-the-error-recovery-pattern-that-saved-it-nd5)
+- [Building an AI-Powered Lead Qualification API with Next.js 15 and Gemini 3.5 Flash](https://dev.to/shahdinsalman/building-an-ai-powered-lead-qualification-api-with-nextjs-15-and-gemini-35-flash-ag9)
+- [Business Automation Architect: Turn Your AI Agent Into an Automation Engine](https://dev.to/amrree/business-automation-architect-turn-your-ai-agent-into-an-automation-engine-2faj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
