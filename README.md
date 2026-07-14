@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DiffusionGemma: 4x faster text generation](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd)
-- [Meet Fiza Rashid: A Software Engineering Student Passionate About Web Development](https://dev.to/fiza_rashid_291926391f9cc/meet-fiza-rashid-a-software-engineering-student-passionate-about-web-development-3flh)
-- [CLI Ownership Management: master, owner, and session Commands for Self-Hosted Wallets](https://dev.to/walletguy/cli-ownership-management-master-owner-and-session-commands-for-self-hosted-wallets-20l4)
-- [#1. Detach yourself from your code](https://dev.to/canro91/1-detach-yourself-from-your-code-4g6a)
-- [Stop Writing Boilerplate: How I Automated My Entire Workflow with LLM APIs](https://dev.to/learnairesource/stop-writing-boilerplate-how-i-automated-my-entire-workflow-with-llm-apis-eil)
+- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
+- [Chasing the Sentry prize for DEV&#39;s Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506)
+- [Why Rust allows many readers but only One Writer](https://dev.to/0xlozi/why-rust-allows-many-readers-but-only-one-writer-4b6p)
+- [Navigating Intellectual Property in Kenya](https://dev.to/bwanachairman/navigating-intellectual-property-in-kenya-3iem)
+- [Understanding Data Models: Benefits, Trade-offs, and History](https://dev.to/vdk0987/understanding-data-models-benefits-trade-offs-and-history-46dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
