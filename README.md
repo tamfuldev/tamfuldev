@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to QR Codes: Error Correction, Logos, and Best Practices](https://dev.to/bitran/the-complete-guide-to-qr-codes-error-correction-logos-and-best-practices-54o5)
-- [LLM-as-Judge Shouldn&#39;t Aggregate Scores: Binary Checks as Evidence, One Holistic Verdict](https://dev.to/shimo4228/llm-as-judge-shouldnt-aggregate-scores-binary-checks-as-evidence-one-holistic-verdict-822)
-- [Claude Code Review Blast Radius: Token Bill Dropped 8-49x With a Tree-sitter Graph](https://dev.to/kenimo49/claude-code-review-blast-radius-token-bill-dropped-8-49x-with-a-tree-sitter-graph-3cdc)
-- [We curated ~14,000 AI tools for 3 years. Here are the failure rates by category.](https://dev.to/aitoolsexplorer/we-curated-14000-ai-tools-for-3-years-here-are-the-failure-rates-by-category-10in)
-- [When AI can&#39;t read, it invents — but it still sees the shape](https://dev.to/hidekimori/when-ai-cant-read-it-invents-but-it-still-sees-the-shape-18ac)
+- [DiffusionGemma: 4x faster text generation](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd)
+- [Meet Fiza Rashid: A Software Engineering Student Passionate About Web Development](https://dev.to/fiza_rashid_291926391f9cc/meet-fiza-rashid-a-software-engineering-student-passionate-about-web-development-3flh)
+- [CLI Ownership Management: master, owner, and session Commands for Self-Hosted Wallets](https://dev.to/walletguy/cli-ownership-management-master-owner-and-session-commands-for-self-hosted-wallets-20l4)
+- [#1. Detach yourself from your code](https://dev.to/canro91/1-detach-yourself-from-your-code-4g6a)
+- [Stop Writing Boilerplate: How I Automated My Entire Workflow with LLM APIs](https://dev.to/learnairesource/stop-writing-boilerplate-how-i-automated-my-entire-workflow-with-llm-apis-eil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
