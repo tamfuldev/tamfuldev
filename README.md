@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Wish I Ran the Numbers on Open Source AI APIs Sooner](https://dev.to/truelane/i-wish-i-ran-the-numbers-on-open-source-ai-apis-sooner-i63)
-- [--- title: Day 1: Starting My Web Dev Journey published: true description: Learning HTML from scratch ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-published-true-description-learning-html-from-eg1)
-- [My MCP Server Kept Crashing. Here&#39;s the Error Recovery Pattern That Saved It.](https://dev.to/chenyuan20509/my-mcp-server-kept-crashing-heres-the-error-recovery-pattern-that-saved-it-nd5)
-- [Building an AI-Powered Lead Qualification API with Next.js 15 and Gemini 3.5 Flash](https://dev.to/shahdinsalman/building-an-ai-powered-lead-qualification-api-with-nextjs-15-and-gemini-35-flash-ag9)
-- [Business Automation Architect: Turn Your AI Agent Into an Automation Engine](https://dev.to/amrree/business-automation-architect-turn-your-ai-agent-into-an-automation-engine-2faj)
+- [This Week in AI: GPT-5.6 Lands, Agent Infrastructure Matures, and the Model War Heats Up](https://dev.to/nerdhead_01/this-week-in-ai-gpt-56-lands-agent-infrastructure-matures-and-the-model-war-heats-up-17dg)
+- [How I Eliminated 19,494 Duplicate MongoDB Records &lpar;And What I&#39;d Do Differently Today&rpar;](https://dev.to/david_essien/how-i-eliminated-19494-duplicate-mongodb-records-and-what-id-do-differently-today-36bh)
+- [7 ways to drain an ERC-4626 vault &lpar;and how a good protocol closes each one&rpar;](https://dev.to/juan23z/7-ways-to-drain-an-erc-4626-vault-and-how-a-good-protocol-closes-each-one-2h48)
+- [Why Early MVPs Fail Before Launch](https://dev.to/kavitasystems/why-early-mvps-fail-before-launch-11ag)
+- [React Native + Expo JWT Auth with FastAPI — A Complete Working Example](https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
