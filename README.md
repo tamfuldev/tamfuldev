@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation Order of Java Operands](https://dev.to/rajeshbhola1/evaluation-order-of-java-operands-1c7m)
-- [From Idea to Terminal: How I Built My First LLM-Powered CLI Tool &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/george_panos_607e125c9161/from-idea-to-terminal-how-i-built-my-first-llm-powered-cli-tool-and-what-id-do-differently-5efi)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-4231)
-- [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
-- [How I Built a Multi-Page AI Website Generator for Nigerian SMBs — Architecture, LLM Prompting, and Lessons Learned](https://dev.to/innocodes/how-i-built-a-multi-page-ai-website-generator-for-nigerian-smbs-architecture-llm-prompting-and-4pb5)
+- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48)
+- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8)
+- [3 ways to add link previews to a React app &lpar;with and without a backend&rpar;](https://dev.to/daviscodesbugs/3-ways-to-add-link-previews-to-a-react-app-with-and-without-a-backend-35hb)
+- [I Pitted China&#39;s Best Open AI Models Against Each Other](https://dev.to/rarenode/i-pitted-chinas-best-open-ai-models-against-each-other-23lm)
+- [A plugin can pass validation and still fail after install](https://dev.to/nekoautomata/a-plugin-can-pass-validation-and-still-fail-after-install-570j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
