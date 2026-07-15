@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Test Automation Tool Is the One Your Team Still Uses a Year Later](https://dev.to/mellowthunder735/the-best-test-automation-tool-is-the-one-your-team-still-uses-a-year-later-o22)
-- [AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.](https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe)
-- [HTML Attributes](https://dev.to/tamizh_k_e988ae0908c352ae/html-attributes-2e64)
-- [Line simplification algorithms](https://dev.to/aryaglekshmi/line-simplification-algorithms-cm4)
-- [DeepSeek vs Qwen vs Kimi vs GLM: Which One Wins My Freelance Budget?](https://dev.to/purecast/deepseek-vs-qwen-vs-kimi-vs-glm-which-one-wins-my-freelance-budget-1gcb)
+- [Evaluation Order of Java Operands](https://dev.to/rajeshbhola1/evaluation-order-of-java-operands-1c7m)
+- [From Idea to Terminal: How I Built My First LLM-Powered CLI Tool &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/george_panos_607e125c9161/from-idea-to-terminal-how-i-built-my-first-llm-powered-cli-tool-and-what-id-do-differently-5efi)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-4231)
+- [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
+- [How I Built a Multi-Page AI Website Generator for Nigerian SMBs — Architecture, LLM Prompting, and Lessons Learned](https://dev.to/innocodes/how-i-built-a-multi-page-ai-website-generator-for-nigerian-smbs-architecture-llm-prompting-and-4pb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
