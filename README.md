@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
-- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
-- [Access to Claude in China sells for 70-90% below the official API price](https://dev.to/prosvirnin/access-to-claude-in-china-sells-for-70-90-below-the-official-api-price-54ma)
-- [The AI Revolution: 2026 FIFA World Cup](https://dev.to/jimmoriarty/the-ai-revolution-2026-fifa-world-cup-37jl)
-- [Your Codex model shuts off July 23 — a 7-day migration map](https://dev.to/amdmsz/your-codex-model-shuts-off-july-23-a-7-day-migration-map-nm8)
+- [Your AI Coding Assistant Isn&#39;t Reading Your Code, It&#39;s Mailing It Home](https://dev.to/coridev/your-ai-coding-assistant-isnt-reading-your-code-its-mailing-it-home-3blg)
+- [Your AI Agent&#39;s Memory Is Now an Attack Surface, and Nobody Designed for That](https://dev.to/coridev/your-ai-agents-memory-is-now-an-attack-surface-and-nobody-designed-for-that-34p4)
+- [Laravel 13.20 Image Processing: A Production Guide](https://dev.to/gurinderchauhan/laravel-1320-image-processing-a-production-guide-381n)
+- [Stop Uninstalling Your App to Test Staging and Production: A Proper Multi-Environment Setup for Mobile Development](https://dev.to/jocanola/stop-uninstalling-your-app-to-test-staging-and-production-a-proper-multi-environment-setup-for-50j0)
+- [Building a False-Positive-Resilient Challenge Architecture with AWS WAF Dynamic Label Interpolation](https://dev.to/aws-builders/building-a-false-positive-resilient-challenge-architecture-with-aws-waf-dynamic-label-interpolation-e96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
