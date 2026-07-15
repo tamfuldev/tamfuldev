@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Codex subagents are almost great. So I finished the orchestration layer myself.](https://dev.to/vvitovec/codex-subagents-are-almost-great-so-i-finished-the-orchestration-layer-myself-1lkk)
-- [Terraform Cloudflare DNS Checklist Before Every Apply](https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m)
-- [Your AI Agent Doesn&#39;t Have a Code Problem. It Has a Specs Problem.](https://dev.to/theodordiaconu/your-ai-agent-doesnt-have-a-code-problem-it-has-a-specs-problem-3hk)
-- [Microsoft said the patches would get bigger. I measured how much bigger.](https://dev.to/turva-dev/microsoft-said-the-patches-would-get-bigger-i-measured-how-much-bigger-2moa)
-- [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+- [The Best Test Automation Tool Is the One Your Team Still Uses a Year Later](https://dev.to/mellowthunder735/the-best-test-automation-tool-is-the-one-your-team-still-uses-a-year-later-o22)
+- [AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.](https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe)
+- [HTML Attributes](https://dev.to/tamizh_k_e988ae0908c352ae/html-attributes-2e64)
+- [Line simplification algorithms](https://dev.to/aryaglekshmi/line-simplification-algorithms-cm4)
+- [DeepSeek vs Qwen vs Kimi vs GLM: Which One Wins My Freelance Budget?](https://dev.to/purecast/deepseek-vs-qwen-vs-kimi-vs-glm-which-one-wins-my-freelance-budget-1gcb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
