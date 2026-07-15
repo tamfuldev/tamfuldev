@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48)
-- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8)
-- [3 ways to add link previews to a React app &lpar;with and without a backend&rpar;](https://dev.to/daviscodesbugs/3-ways-to-add-link-previews-to-a-react-app-with-and-without-a-backend-35hb)
-- [I Pitted China&#39;s Best Open AI Models Against Each Other](https://dev.to/rarenode/i-pitted-chinas-best-open-ai-models-against-each-other-23lm)
-- [A plugin can pass validation and still fail after install](https://dev.to/nekoautomata/a-plugin-can-pass-validation-and-still-fail-after-install-570j)
+- [I Spent 3 Weeks Reverse-Engineering Newsletter Platforms — Here’s What Matters for Developers](https://dev.to/videovfy/i-spent-3-weeks-reverse-engineering-newsletter-platforms-heres-what-matters-for-developers-1b88)
+- [Strong TypeScript contracts turn refactors into checklists](https://dev.to/lksvn/strong-typescript-contracts-turn-refactors-into-checklists-40h4)
+- [Realtime Without a WebSocket Service](https://dev.to/devopsdaily/realtime-without-a-websocket-service-1gk3)
+- [Cursor has an unpatched 0-day. It&#39;s been 7 months.](https://dev.to/thegatewayguy/cursor-has-an-unpatched-0-day-its-been-7-months-59mk)
+- [AI Replaced Me -- Just Not the Way You Think](https://dev.to/javedharis/ai-replaced-me-just-not-the-way-you-think-53lm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
