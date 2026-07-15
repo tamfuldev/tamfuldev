@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested ChatGPT vs. Perplexity for Research &lpar;Here is my winner&rpar;](https://dev.to/hari_haran_144973263df174/i-tested-chatgpt-vs-perplexity-for-research-here-is-my-winner-2432)
-- [Idempotency: Why &quot;Just Retry It&quot; Breaks More Than It Fixes](https://dev.to/tech_queen/idempotency-why-just-retry-it-breaks-more-than-it-fixes-27cb)
-- [10 Things You Can Build with Identity Lifecycle Management](https://dev.to/carolineilm/10-things-you-can-build-with-identity-lifecycle-management-35ho)
-- [Why I Don&#39;t Want to Be &quot;Just&quot; a Software Developer Forever](https://dev.to/preeti_yadav/-why-i-dont-want-to-be-just-a-software-developer-forever-442b)
-- [Building a Production-Ready Position Manager for Algorithmic Trading](https://dev.to/pydevtop/building-a-production-ready-position-manager-for-algorithmic-trading-55n4)
+- [Five Local-First Mac Apps I Built to Fix Everyday Workflow Problems](https://dev.to/quietware/five-local-first-mac-apps-i-built-to-fix-everyday-workflow-problems-4e8o)
+- [find command finds things](https://dev.to/echen4628/find-command-finds-things-506)
+- [Built an autonomous dependency upgrader using Loop Engineering and LangGraph](https://dev.to/sagar_sr_65f558d4eef3b46b/built-an-autonomous-dependency-upgrader-using-loop-engineering-and-langgraph-22a3)
+- [✅ O&lpar;N&rpar; Manacher&#39;s Algorithm with Mirror Boundary Optimization](https://dev.to/dipadityadas/beats-9944-on-manachers-algorithm-with-mirror-boundary-optimization-3lec)
+- [A diagram is data, not a drawing](https://dev.to/msteja/a-diagram-is-data-not-a-drawing-4ej6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
