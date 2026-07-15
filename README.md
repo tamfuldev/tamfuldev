@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Open Science Desktop: A Local-First Experimental Tool for AI Research](https://dev.to/dd8888/open-science-desktop-a-local-first-experimental-tool-for-ai-research-3lnd)
-- [7 advanced Claude Code tips from 17 months of intense use](https://dev.to/ykdap/7-advanced-claude-code-tips-from-17-months-of-intense-use-13ik)
-- [TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`](https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523)
-- [Non-determinism is the job](https://dev.to/raleighschickel/non-determinism-is-the-job-2omf)
-- [When fastembed silently rotted my worker: anchor your caches, don&#39;t trust /tmp](https://dev.to/yogeshchavan2008/when-fastembed-silently-rotted-my-worker-anchor-your-caches-dont-trust-tmp-3ab3)
+- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
+- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
+- [Access to Claude in China sells for 70-90% below the official API price](https://dev.to/prosvirnin/access-to-claude-in-china-sells-for-70-90-below-the-official-api-price-54ma)
+- [The AI Revolution: 2026 FIFA World Cup](https://dev.to/jimmoriarty/the-ai-revolution-2026-fifa-world-cup-37jl)
+- [Your Codex model shuts off July 23 — a 7-day migration map](https://dev.to/amdmsz/your-codex-model-shuts-off-july-23-a-7-day-migration-map-nm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
