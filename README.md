@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Coding Assistant Isn&#39;t Reading Your Code, It&#39;s Mailing It Home](https://dev.to/coridev/your-ai-coding-assistant-isnt-reading-your-code-its-mailing-it-home-3blg)
-- [Your AI Agent&#39;s Memory Is Now an Attack Surface, and Nobody Designed for That](https://dev.to/coridev/your-ai-agents-memory-is-now-an-attack-surface-and-nobody-designed-for-that-34p4)
-- [Laravel 13.20 Image Processing: A Production Guide](https://dev.to/gurinderchauhan/laravel-1320-image-processing-a-production-guide-381n)
-- [Stop Uninstalling Your App to Test Staging and Production: A Proper Multi-Environment Setup for Mobile Development](https://dev.to/jocanola/stop-uninstalling-your-app-to-test-staging-and-production-a-proper-multi-environment-setup-for-50j0)
-- [Building a False-Positive-Resilient Challenge Architecture with AWS WAF Dynamic Label Interpolation](https://dev.to/aws-builders/building-a-false-positive-resilient-challenge-architecture-with-aws-waf-dynamic-label-interpolation-e96)
+- [Off-Screen Hobbies Every Developer Should Explore](https://dev.to/flurryfieldnotes/off-screen-hobbies-every-developer-should-explore-5bjl)
+- [Build a Natural Language to SQL API in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-natural-language-to-sql-api-in-python-3a7p)
+- [[Boost]](https://dev.to/atrandafir/-26cp)
+- [zapier/marketplace fresh off the press!](https://dev.to/benmcgit/zapiermarketplace-fresh-off-the-press-20m9)
+- [Made a small set of Playwright skills for myself and coding agents. Figured I&#39;d share!](https://dev.to/hzijad/made-a-small-set-of-playwright-skills-for-myself-and-coding-agents-figured-id-share-4icm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
