@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools: Fundamentals of Optimizing Expenditures](https://dev.to/merbayerp/ai-tools-fundamentals-of-optimizing-expenditures-537l)
-- [I built a free set of subtitle tools that run entirely in your browser &lpar;no upload&rpar;](https://dev.to/ravinirban876/i-built-a-free-set-of-subtitle-tools-that-run-entirely-in-your-browser-no-upload-h5h)
-- [I built an n8n agent that reads a lead&#39;s website before writing the cold email — and refuses to write when it can&#39;t](https://dev.to/modeaicreator/i-built-an-n8n-agent-that-reads-a-leads-website-before-writing-the-cold-email-and-refuses-to-p02)
-- [Failure Engineering Explained by Uncle to Nephew — Episode 5: Recovery — How Systems Heal Themselves](https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-5-recovery-how-systems-heal-themselves-26po)
-- [Exim CVE-2026-45185 — Unauthenticated RCE in the World&#39;s Most Deployed Mail Server](https://dev.to/alejandxr/exim-cve-2026-45185-unauthenticated-rce-in-the-worlds-most-deployed-mail-server-4m68)
+- [Codex subagents are almost great. So I finished the orchestration layer myself.](https://dev.to/vvitovec/codex-subagents-are-almost-great-so-i-finished-the-orchestration-layer-myself-1lkk)
+- [Terraform Cloudflare DNS Checklist Before Every Apply](https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m)
+- [Your AI Agent Doesn&#39;t Have a Code Problem. It Has a Specs Problem.](https://dev.to/theodordiaconu/your-ai-agent-doesnt-have-a-code-problem-it-has-a-specs-problem-3hk)
+- [Microsoft said the patches would get bigger. I measured how much bigger.](https://dev.to/turva-dev/microsoft-said-the-patches-would-get-bigger-i-measured-how-much-bigger-2moa)
+- [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
