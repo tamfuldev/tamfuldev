@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Receipt Is Not Proof Forever. It Is a Promise to Reopen the Claim.](https://dev.to/kenielzep97/a-receipt-is-not-proof-forever-it-is-a-promise-to-reopen-the-claim-2b57)
-- [HTML na Prática: 7 fundamentos essências para todos os iniciantes](https://dev.to/candidonkuerten346/html-na-pratica-7-fundamentos-essencias-para-todos-os-iniciantes-260p)
-- [Proof-Adjusted Autonomy: The 90% Agent Is a 61.6% Agent](https://dev.to/pich/proof-adjusted-autonomy-the-90-agent-is-a-616-agent-42jh)
-- [Why I’m building Zbloue: Making complex codebases easy to understand](https://dev.to/seyedjafar/why-im-building-zbloue-making-complex-codebases-easy-to-understand-3l7p)
-- [Implementing a JA4H-Equivalent Fingerprint with Amazon CloudFront Functions to Mitigate Bot Traffic](https://dev.to/aws-builders/implementing-a-ja4h-equivalent-fingerprint-with-amazon-cloudfront-functions-to-mitigate-bot-traffic-4jbm)
+- [Building a LINE First Fitness Agent with AI Cost Gates](https://dev.to/kevincoto/building-a-line-first-fitness-agent-with-ai-cost-gates-8e5)
+- [A Polyglot Feedback Platform: Django, Next.js, and Elixir Working Together](https://dev.to/kevincoto/a-polyglot-feedback-platform-django-nextjs-and-elixir-working-together-b9c)
+- [Building an AI Accountability Coach That Knows Your Habits](https://dev.to/kevincoto/building-an-ai-accountability-coach-that-knows-your-habits-28fh)
+- [Building a Multi Platform AI Budget Coach](https://dev.to/kevincoto/building-a-multi-platform-ai-budget-coach-1f72)
+- [82% of Ad MCP Servers Are Single-Platform: We Surveyed the Landscape](https://dev.to/tj_v_b04dbd6f4957aa83a196/82-of-ad-mcp-servers-are-single-platform-we-surveyed-the-landscape-541g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
