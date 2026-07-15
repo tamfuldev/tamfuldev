@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 3 Weeks Reverse-Engineering Newsletter Platforms — Here’s What Matters for Developers](https://dev.to/videovfy/i-spent-3-weeks-reverse-engineering-newsletter-platforms-heres-what-matters-for-developers-1b88)
-- [Strong TypeScript contracts turn refactors into checklists](https://dev.to/lksvn/strong-typescript-contracts-turn-refactors-into-checklists-40h4)
-- [Realtime Without a WebSocket Service](https://dev.to/devopsdaily/realtime-without-a-websocket-service-1gk3)
-- [Cursor has an unpatched 0-day. It&#39;s been 7 months.](https://dev.to/thegatewayguy/cursor-has-an-unpatched-0-day-its-been-7-months-59mk)
-- [AI Replaced Me -- Just Not the Way You Think](https://dev.to/javedharis/ai-replaced-me-just-not-the-way-you-think-53lm)
+- [I Tested ChatGPT vs. Perplexity for Research &lpar;Here is my winner&rpar;](https://dev.to/hari_haran_144973263df174/i-tested-chatgpt-vs-perplexity-for-research-here-is-my-winner-2432)
+- [Idempotency: Why &quot;Just Retry It&quot; Breaks More Than It Fixes](https://dev.to/tech_queen/idempotency-why-just-retry-it-breaks-more-than-it-fixes-27cb)
+- [10 Things You Can Build with Identity Lifecycle Management](https://dev.to/carolineilm/10-things-you-can-build-with-identity-lifecycle-management-35ho)
+- [Why I Don&#39;t Want to Be &quot;Just&quot; a Software Developer Forever](https://dev.to/preeti_yadav/-why-i-dont-want-to-be-just-a-software-developer-forever-442b)
+- [Building a Production-Ready Position Manager for Algorithmic Trading](https://dev.to/pydevtop/building-a-production-ready-position-manager-for-algorithmic-trading-55n4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
