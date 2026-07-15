@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a LINE First Fitness Agent with AI Cost Gates](https://dev.to/kevincoto/building-a-line-first-fitness-agent-with-ai-cost-gates-8e5)
-- [A Polyglot Feedback Platform: Django, Next.js, and Elixir Working Together](https://dev.to/kevincoto/a-polyglot-feedback-platform-django-nextjs-and-elixir-working-together-b9c)
-- [Building an AI Accountability Coach That Knows Your Habits](https://dev.to/kevincoto/building-an-ai-accountability-coach-that-knows-your-habits-28fh)
-- [Building a Multi Platform AI Budget Coach](https://dev.to/kevincoto/building-a-multi-platform-ai-budget-coach-1f72)
-- [82% of Ad MCP Servers Are Single-Platform: We Surveyed the Landscape](https://dev.to/tj_v_b04dbd6f4957aa83a196/82-of-ad-mcp-servers-are-single-platform-we-surveyed-the-landscape-541g)
+- [AI Tools: Fundamentals of Optimizing Expenditures](https://dev.to/merbayerp/ai-tools-fundamentals-of-optimizing-expenditures-537l)
+- [I built a free set of subtitle tools that run entirely in your browser &lpar;no upload&rpar;](https://dev.to/ravinirban876/i-built-a-free-set-of-subtitle-tools-that-run-entirely-in-your-browser-no-upload-h5h)
+- [I built an n8n agent that reads a lead&#39;s website before writing the cold email — and refuses to write when it can&#39;t](https://dev.to/modeaicreator/i-built-an-n8n-agent-that-reads-a-leads-website-before-writing-the-cold-email-and-refuses-to-p02)
+- [Failure Engineering Explained by Uncle to Nephew — Episode 5: Recovery — How Systems Heal Themselves](https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-5-recovery-how-systems-heal-themselves-26po)
+- [Exim CVE-2026-45185 — Unauthenticated RCE in the World&#39;s Most Deployed Mail Server](https://dev.to/alejandxr/exim-cve-2026-45185-unauthenticated-rce-in-the-worlds-most-deployed-mail-server-4m68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
