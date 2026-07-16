@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Tab State Sync Made Easy: Introducing useSharedState in react-hook-lab!](https://dev.to/saurav_tb_pandey/multi-tab-state-sync-made-easy-introducing-usesharedstate-in-react-hook-lab-2422)
-- [Two Workers Both Held the &#39;Only One&#39; Lock. The Clock Was Never Synced.](https://dev.to/speed_engineer/two-workers-both-held-the-only-one-lock-the-clock-was-never-synced-h5k)
-- [Scope creep is a state machine, not a difficult-client problem](https://dev.to/scopeshieldops/scope-creep-is-a-state-machine-not-a-difficult-client-problem-54do)
-- [Email Verification Bots with Playwright](https://dev.to/francofuji/email-verification-bots-with-playwright-1dc7)
-- [Canary Agentic Autofix With Failure Classes and Reliability Gates](https://dev.to/robinzzz/canary-agentic-autofix-with-failure-classes-and-reliability-gates-id0)
+- [I stopped trusting my own app&#39;s encryption, so I rebuilt it — ATLOCK v4 is Here.](https://dev.to/akhourianmolkumar/i-stopped-trusting-my-own-apps-encryption-so-i-rebuilt-it-atlock-v4-is-here-426a)
+- [How to Verify an Email Is Real Without Sending One &lpar;Dev Guide&rpar; Published](https://dev.to/muhammad_asadarshad_6098/how-to-verify-an-email-is-real-without-sending-one-dev-guide-published-1k86)
+- [Secure Your Python LLM Pipeline with Resk-LLM — 11 Threat Detectors in One pip Install](https://dev.to/resk/secure-your-python-llm-pipeline-with-resk-llm-11-threat-detectors-in-one-pip-install-5djh)
+- [3 WireGuard VPN Mistakes That Broke Our Remote Server Access](https://dev.to/oleksandr_kuryzhev_42873f/3-wireguard-vpn-mistakes-that-broke-our-remote-server-access-4ogi)
+- [The Number Nobody Shows You: Lessons from Reddit Brand Monitoring](https://dev.to/signalmelo/the-number-nobody-shows-you-lessons-from-reddit-brand-monitoring-5dfb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
