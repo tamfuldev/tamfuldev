@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Painted That Rectangle Black](https://dev.to/lovestaco/nobody-painted-that-rectangle-black-a3)
-- [I got tired of not knowing what my AI agents were doing, so I built a tiny observability tool](https://dev.to/remdore/i-got-tired-of-not-knowing-what-my-ai-agents-were-doing-so-i-built-a-tiny-observability-tool-3p67)
-- [Pourquoi j&#39;ai cessé de lire mon propre backlog.md &lpar;et ce que je lis à la place&rpar;](https://dev.to/michelfaure/pourquoi-jai-cesse-de-lire-mon-propre-backlogmd-et-ce-que-je-lis-a-la-place-5fgk)
-- [Ce que 74 ADR en 70 jours achètent vraiment à un dev solo &lpar;pas d&#39;embauche, pas de client, juste le fichier&rpar;](https://dev.to/michelfaure/ce-que-74-adr-en-70-jours-achetent-vraiment-a-un-dev-solo-pas-dembauche-pas-de-client-juste-le-1444)
-- [How to Save Tokens in Claude Code: Practical Habits for Test Automation Sessions](https://dev.to/aswani25/how-to-save-tokens-in-claude-code-practical-habits-for-test-automation-sessions-2mic)
+- [Give your Laravel AI agent real-time web knowledge](https://dev.to/juststevemcd/give-your-laravel-ai-agent-real-time-web-knowledge-478h)
+- [Simplifying Authorization in NestJS: A New Approach](https://dev.to/gsmithun4/simplifying-authorization-in-nestjs-a-new-approach-1ahg)
+- [I Kept Losing the &quot;Why&quot; Behind My Code Every Time I Closed an AI Chat, So I Built a Tiny Tool to Save It](https://dev.to/alpheonsolutions/i-kept-losing-the-why-behind-my-code-every-time-i-closed-an-ai-chat-so-i-built-a-tiny-tool-to-49mg)
+- [Wanted: Beginners-Friendly Open Source Projects](https://dev.to/adiatiayu/wanted-beginners-friendly-open-source-projects-59k9)
+- [Next.js App Router, there are always things that get forgotten. Let&#39;s anticipate its errors!](https://dev.to/javapixastudio/nextjs-app-router-there-are-always-things-that-get-forgotten-lets-anticipate-its-errors-4cng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
