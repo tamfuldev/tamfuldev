@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped trusting my own app&#39;s encryption, so I rebuilt it — ATLOCK v4 is Here.](https://dev.to/akhourianmolkumar/i-stopped-trusting-my-own-apps-encryption-so-i-rebuilt-it-atlock-v4-is-here-426a)
-- [How to Verify an Email Is Real Without Sending One &lpar;Dev Guide&rpar; Published](https://dev.to/muhammad_asadarshad_6098/how-to-verify-an-email-is-real-without-sending-one-dev-guide-published-1k86)
-- [Secure Your Python LLM Pipeline with Resk-LLM — 11 Threat Detectors in One pip Install](https://dev.to/resk/secure-your-python-llm-pipeline-with-resk-llm-11-threat-detectors-in-one-pip-install-5djh)
-- [3 WireGuard VPN Mistakes That Broke Our Remote Server Access](https://dev.to/oleksandr_kuryzhev_42873f/3-wireguard-vpn-mistakes-that-broke-our-remote-server-access-4ogi)
-- [The Number Nobody Shows You: Lessons from Reddit Brand Monitoring](https://dev.to/signalmelo/the-number-nobody-shows-you-lessons-from-reddit-brand-monitoring-5dfb)
+- [5 Things I Learned Building a Chrome Extension That Watches ChatGPT, Claude &amp; Gemini](https://dev.to/juliedechili/5-things-i-learned-building-a-chrome-extension-that-watches-chatgpt-claude-gemini-4a4i)
+- [**# 🐛 The Bug That Made Me Stop Blaming Python**](https://dev.to/tanzeel_urrehmanakhtar_/-the-bug-that-made-me-stop-blaming-python-3iah)
+- [Prompt Injection: The AI Security Hole Every Builder Should Know](https://dev.to/basavaraj_sh_1ea7d95f0f2e/prompt-injection-the-ai-security-hole-every-builder-should-know-11kh)
+- [Parallel Routes in Next.js App Router — Rendering Multiple Pages in One Layout](https://dev.to/aon_infotech_3a1b6ff525fc/parallel-routes-in-nextjs-app-router-rendering-multiple-pages-in-one-layout-2e0g)
+- [Distill Coding Agent Learnings](https://dev.to/suckup_de/distill-coding-agent-learnings-31og)
 <!-- BLOG-POST-LIST:END -->
 
 ---
