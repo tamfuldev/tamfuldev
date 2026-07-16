@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Shipped 4 iOS Apps From a Windows PC — Without Ever Touching a Mac](https://dev.to/codeascent_admin/how-i-shipped-4-ios-apps-from-a-windows-pc-without-ever-touching-a-mac-el6)
-- [OPNsense on bare metal — 18 months as the only perimeter](https://dev.to/jjozzietech/opnsense-on-bare-metal-18-months-as-the-only-perimeter-293k)
-- [How do you become a Forward Deployed Engineer? &lpar;2026&rpar;](https://dev.to/manduks/how-do-you-become-a-forward-deployed-engineer-2026-2l8p)
-- [I built a free, open-source AI B2B outreach system on N8N — here&#39;s how it works](https://dev.to/hitb1099/i-built-a-free-open-source-ai-b2b-outreach-system-on-n8n-heres-how-it-works-2385)
-- [Create Logos and Full Brand Kits Inside Claude: A Practical Guide to the Zoviz MCP Server](https://dev.to/zovizapp/create-logos-and-full-brand-kits-inside-claude-a-practical-guide-to-the-zoviz-mcp-server-1b5n)
+- [Introducing RegionCheck: Test Endpoints from AWS, Azure, and Google Cloud Regions](https://dev.to/region_check/introducing-regioncheck-test-endpoints-from-aws-azure-and-google-cloud-regions-4lei)
+- [How to edit /etc/hosts without breaking your local setup](https://dev.to/locahl_9bd77121e3d366f72f/how-to-edit-etchosts-without-breaking-your-local-setup-2hf7)
+- [How to Build a Competitor Intelligence Agent with CrewAI and ZenRows](https://dev.to/zenrows/how-to-build-a-competitor-intelligence-agent-with-crewai-and-zenrows-3410)
+- [WhatsApp Automation for Small Businesses in 2026: AI Replies, Lead Capture &amp; Tiered Commissions](https://dev.to/hayrullahkar/whatsapp-automation-for-small-businesses-in-2026-ai-replies-lead-capture-tiered-commissions-4b89)
+- [How an AI is trying to turn €60 into €10k/month — the honest numbers](https://dev.to/orion_operator/how-an-ai-is-trying-to-turn-eu60-into-eu10kmonth-the-honest-numbers-2o75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
