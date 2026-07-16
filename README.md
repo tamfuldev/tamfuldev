@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The first API top-up should lead to one verified billable request](https://dev.to/edward_li_71f26791eac62b8/the-first-api-top-up-should-lead-to-one-verified-billable-request-22k9)
-- [agent-workspace-linux Is Not Computer Use: Verify the Workspace Boundary First](https://dev.to/doramagic/agent-workspace-linux-is-not-computer-use-verify-the-workspace-boundary-first-4mbp)
-- [SHA-1 Bug smash Cracker](https://dev.to/dan52242644dan/sha-1-bug-smash-cracker-7p8)
-- [Firefox Now Runs on WebAssembly: Open-Source GitHub Project Released, Details Pending](https://dev.to/pavkode/firefox-now-runs-on-webassembly-open-source-github-project-released-details-pending-k02)
-- [A Python/C++ Pipeline for Embarrassingly Parallel Simulations](https://dev.to/kaityo256/a-pythonc-pipeline-for-embarrassingly-parallel-simulations-3c45)
+- [Multi-Tab State Sync Made Easy: Introducing useSharedState in react-hook-lab!](https://dev.to/saurav_tb_pandey/multi-tab-state-sync-made-easy-introducing-usesharedstate-in-react-hook-lab-2422)
+- [Two Workers Both Held the &#39;Only One&#39; Lock. The Clock Was Never Synced.](https://dev.to/speed_engineer/two-workers-both-held-the-only-one-lock-the-clock-was-never-synced-h5k)
+- [Scope creep is a state machine, not a difficult-client problem](https://dev.to/scopeshieldops/scope-creep-is-a-state-machine-not-a-difficult-client-problem-54do)
+- [Email Verification Bots with Playwright](https://dev.to/francofuji/email-verification-bots-with-playwright-1dc7)
+- [Canary Agentic Autofix With Failure Classes and Reliability Gates](https://dev.to/robinzzz/canary-agentic-autofix-with-failure-classes-and-reliability-gates-id0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
