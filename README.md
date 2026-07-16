@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing RegionCheck: Test Endpoints from AWS, Azure, and Google Cloud Regions](https://dev.to/region_check/introducing-regioncheck-test-endpoints-from-aws-azure-and-google-cloud-regions-4lei)
-- [How to edit /etc/hosts without breaking your local setup](https://dev.to/locahl_9bd77121e3d366f72f/how-to-edit-etchosts-without-breaking-your-local-setup-2hf7)
-- [How to Build a Competitor Intelligence Agent with CrewAI and ZenRows](https://dev.to/zenrows/how-to-build-a-competitor-intelligence-agent-with-crewai-and-zenrows-3410)
-- [WhatsApp Automation for Small Businesses in 2026: AI Replies, Lead Capture &amp; Tiered Commissions](https://dev.to/hayrullahkar/whatsapp-automation-for-small-businesses-in-2026-ai-replies-lead-capture-tiered-commissions-4b89)
-- [How an AI is trying to turn €60 into €10k/month — the honest numbers](https://dev.to/orion_operator/how-an-ai-is-trying-to-turn-eu60-into-eu10kmonth-the-honest-numbers-2o75)
+- [Image models kept getting my App Store screenshots rejected, so I made my coding agent render them to exact spec](https://dev.to/selcukatli/image-models-kept-getting-my-app-store-screenshots-rejected-so-i-made-my-coding-agent-render-them-3afp)
+- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
+- [Getting a Telegram group&#39;s members and media into files you can actually use](https://dev.to/mastrosgeppettos/getting-a-telegram-groups-members-and-media-into-files-you-can-actually-use-266a)
+- [macOS runs out of application memory because your dead dev servers never die](https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c)
+- [How to block websites with the hosts file](https://dev.to/locahl_9bd77121e3d366f72f/how-to-block-websites-with-the-hosts-file-3kd4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
