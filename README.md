@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Factory Pattern: Simplified](https://dev.to/madhukar_vissapragad/the-factory-pattern-simplified-i1j)
-- [Exceptions To The Rescue in Micropython](https://dev.to/kevinasaria/exceptions-to-the-rescue-in-micropython-o63)
-- [Your Browser Is a Supercomputer. Stop Sending Your Data to Someone Else&#39;s server.](https://dev.to/debasish_debroy_c77a16df9/your-browser-is-a-supercomputer-stop-sending-your-data-to-someone-elses-server-2j98)
-- [I wrote a script to check 40 domains because every good name was taken](https://dev.to/shaojie/i-wrote-a-script-to-check-40-domains-because-every-good-name-was-taken-bf4)
-- [How to Measure the Revenue Impact of Security Hardening Projects with a Simple Formula](https://dev.to/mosbat/how-to-measure-the-revenue-impact-of-security-hardening-projects-with-a-simple-formula-2fj1)
+- [Nobody Painted That Rectangle Black](https://dev.to/lovestaco/nobody-painted-that-rectangle-black-a3)
+- [I got tired of not knowing what my AI agents were doing, so I built a tiny observability tool](https://dev.to/remdore/i-got-tired-of-not-knowing-what-my-ai-agents-were-doing-so-i-built-a-tiny-observability-tool-3p67)
+- [Pourquoi j&#39;ai cessé de lire mon propre backlog.md &lpar;et ce que je lis à la place&rpar;](https://dev.to/michelfaure/pourquoi-jai-cesse-de-lire-mon-propre-backlogmd-et-ce-que-je-lis-a-la-place-5fgk)
+- [Ce que 74 ADR en 70 jours achètent vraiment à un dev solo &lpar;pas d&#39;embauche, pas de client, juste le fichier&rpar;](https://dev.to/michelfaure/ce-que-74-adr-en-70-jours-achetent-vraiment-a-un-dev-solo-pas-dembauche-pas-de-client-juste-le-1444)
+- [How to Save Tokens in Claude Code: Practical Habits for Test Automation Sessions](https://dev.to/aswani25/how-to-save-tokens-in-claude-code-practical-habits-for-test-automation-sessions-2mic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
