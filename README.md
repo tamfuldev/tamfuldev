@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SlaveCode Featured in the Official Judge0 Repository](https://dev.to/phero20/slavecode-featured-in-the-official-judge0-repository-1eoc)
-- [Stop Writing .isnull&lpar;&rpar; — Audit Your Dataset in One Line with OMR](https://dev.to/omar_alshafai/stop-writing-isnull-audit-your-dataset-in-one-line-with-omr-4l91)
-- [5 Signs Your Regex Is Wrong &lpar;and How to Spot Them in Seconds&rpar;](https://dev.to/zhihu_wu_dea1d82af01a04d7/5-signs-your-regex-is-wrong-and-how-to-spot-them-in-seconds-13ba)
-- [How I Built a Browser-Based Batch QR Code Generator for 1,000 Items](https://dev.to/jason_sean_dd94c374d0a643/how-i-built-a-browser-based-batch-qr-code-generator-for-1000-items-5309)
-- [Naming Lies and Frozen Tails](https://dev.to/glad_labs/naming-lies-and-frozen-tails-2e3j)
+- [The Factory Pattern: Simplified](https://dev.to/madhukar_vissapragad/the-factory-pattern-simplified-i1j)
+- [Exceptions To The Rescue in Micropython](https://dev.to/kevinasaria/exceptions-to-the-rescue-in-micropython-o63)
+- [Your Browser Is a Supercomputer. Stop Sending Your Data to Someone Else&#39;s server.](https://dev.to/debasish_debroy_c77a16df9/your-browser-is-a-supercomputer-stop-sending-your-data-to-someone-elses-server-2j98)
+- [I wrote a script to check 40 domains because every good name was taken](https://dev.to/shaojie/i-wrote-a-script-to-check-40-domains-because-every-good-name-was-taken-bf4)
+- [How to Measure the Revenue Impact of Security Hardening Projects with a Simple Formula](https://dev.to/mosbat/how-to-measure-the-revenue-impact-of-security-hardening-projects-with-a-simple-formula-2fj1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
