@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Off-Screen Hobbies Every Developer Should Explore](https://dev.to/flurryfieldnotes/off-screen-hobbies-every-developer-should-explore-5bjl)
-- [Build a Natural Language to SQL API in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-natural-language-to-sql-api-in-python-3a7p)
-- [[Boost]](https://dev.to/atrandafir/-26cp)
-- [zapier/marketplace fresh off the press!](https://dev.to/benmcgit/zapiermarketplace-fresh-off-the-press-20m9)
-- [Made a small set of Playwright skills for myself and coding agents. Figured I&#39;d share!](https://dev.to/hzijad/made-a-small-set-of-playwright-skills-for-myself-and-coding-agents-figured-id-share-4icm)
+- [The first API top-up should lead to one verified billable request](https://dev.to/edward_li_71f26791eac62b8/the-first-api-top-up-should-lead-to-one-verified-billable-request-22k9)
+- [agent-workspace-linux Is Not Computer Use: Verify the Workspace Boundary First](https://dev.to/doramagic/agent-workspace-linux-is-not-computer-use-verify-the-workspace-boundary-first-4mbp)
+- [SHA-1 Bug smash Cracker](https://dev.to/dan52242644dan/sha-1-bug-smash-cracker-7p8)
+- [Firefox Now Runs on WebAssembly: Open-Source GitHub Project Released, Details Pending](https://dev.to/pavkode/firefox-now-runs-on-webassembly-open-source-github-project-released-details-pending-k02)
+- [A Python/C++ Pipeline for Embarrassingly Parallel Simulations](https://dev.to/kaityo256/a-pythonc-pipeline-for-embarrassingly-parallel-simulations-3c45)
 <!-- BLOG-POST-LIST:END -->
 
 ---
