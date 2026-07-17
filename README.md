@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Full 3D Live Weather World in One HTML File — No Frameworks, No Build Step.](https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83)
-- [I built a Cloudflare Worker so you can give the public free AI, without ever getting a surprise bill](https://dev.to/mister_buds_4874bbe643dda/i-built-a-cloudflare-worker-so-you-can-give-the-public-free-ai-without-ever-getting-a-surprise-1042)
-- [corpus-scrub 0.1.0: detecta y redacta PII y secretos en corpus de entrenamiento antes del entrenamiento LLM](https://dev.to/magopredator/corpus-scrub-010-detecta-y-redacta-pii-y-secretos-en-corpus-de-entrenamiento-antes-del-432h)
-- [I gave my agent the right memory and it ignored it anyway](https://dev.to/thewilliamboyd93oss/i-gave-my-agent-the-right-memory-and-it-ignored-it-anyway-li7)
-- [API-first or browser automation? Lessons from shipping content autoposting](https://dev.to/content_ai/api-first-or-browser-automation-lessons-from-shipping-content-autoposting-55pl)
+- [Kimi K3: Moonshot AI&#39;s 2.8-Trillion-Parameter Open Frontier Model — Benchmarks, Architecture, and Everything We Know](https://dev.to/agent-one/kimi-k3-moonshot-ais-28-trillion-parameter-open-frontier-model-benchmarks-architecture-and-11gk)
+- [Codex Deleted Real Files. The Fix? A Flag You Didn&#39;t Set.](https://dev.to/max_quimby/codex-deleted-real-files-the-fix-a-flag-you-didnt-set-3840)
+- [The 30-Second Dungeon Test: Can a Tiny RPG Loop Teach, Test, and Pay Off?](https://dev.to/alokranjanguru1/the-30-second-dungeon-test-can-a-tiny-rpg-loop-teach-test-and-pay-off-1fan)
+- [Form Disaster Recovery: Session Storage Persistence ⚡](https://dev.to/iprajapatiparesh/form-disaster-recovery-session-storage-persistence-29jk)
+- [I Built a 1-Click AI System to Save My Browser Tabs &lpar;Template&rpar;](https://dev.to/hari_haran_144973263df174/i-built-a-1-click-ai-system-to-save-my-browser-tabs-template-35c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
