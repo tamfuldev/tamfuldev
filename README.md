@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-Time Inventory Dashboard in Google Sheets &lpar;Reorder Points + Low-Stock Alerts&rpar;](https://dev.to/hayrullahkar/build-a-real-time-inventory-dashboard-in-google-sheets-reorder-points-low-stock-alerts-30ef)
-- [Em 2026, alguém ainda usa Blade? Deveria — e tem um motivo escondido](https://dev.to/denisgusto1/em-2026-alguem-ainda-usa-blade-deveria-e-tem-um-motivo-escondido-2dml)
-- [Let&#39;s talk about Deno Desktop](https://dev.to/ilys_c1b01a929bd0815f07f/lets-talk-about-deno-desktop-2i6p)
-- [Deepening Your Career or Becoming Versatile in the Age of AI Tools](https://dev.to/merbayerp/deepening-your-career-or-becoming-versatile-in-the-age-of-ai-tools-4341)
-- [Rise of DIY Developer](https://dev.to/yan-yan/rise-of-diy-developer-3f4k)
+- [My first post on DEV! A guide to EF Core migration bundles: the concurrency problem they solve, .bat scripts to create and run them, CI/CD stuff &amp; more!](https://dev.to/johnntirintis/my-first-post-on-dev-a-guide-to-ef-core-migration-bundles-the-concurrency-problem-they-solve-396a)
+- [AgentLedger: Audit Trails for AI Agents That Matter](https://dev.to/forgeflows/agentledger-audit-trails-for-ai-agents-that-matter-57c8)
+- [EF Core Migration Bundles: What They Are &amp; Why They Matter](https://dev.to/johnntirintis/ef-core-migration-bundles-what-they-are-why-they-matter-3896)
+- [My OpenClaw Agent Got Slow and Expensive. I Split It Into Three Sub-Agents — Here&#39;s What Happened](https://dev.to/mrclaw207/my-openclaw-agent-got-slow-and-expensive-i-split-it-into-three-sub-agents-heres-what-happened-51l1)
+- [Analyzing Real-Time SSH Honeypot Bot Behavior: Decoding Show HN Security Insights](https://dev.to/tamizuddin/analyzing-real-time-ssh-honeypot-bot-behavior-decoding-show-hn-security-insights-18f8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
