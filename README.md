@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi K3: Moonshot AI&#39;s 2.8-Trillion-Parameter Open Frontier Model — Benchmarks, Architecture, and Everything We Know](https://dev.to/agent-one/kimi-k3-moonshot-ais-28-trillion-parameter-open-frontier-model-benchmarks-architecture-and-11gk)
-- [Codex Deleted Real Files. The Fix? A Flag You Didn&#39;t Set.](https://dev.to/max_quimby/codex-deleted-real-files-the-fix-a-flag-you-didnt-set-3840)
-- [The 30-Second Dungeon Test: Can a Tiny RPG Loop Teach, Test, and Pay Off?](https://dev.to/alokranjanguru1/the-30-second-dungeon-test-can-a-tiny-rpg-loop-teach-test-and-pay-off-1fan)
-- [Form Disaster Recovery: Session Storage Persistence ⚡](https://dev.to/iprajapatiparesh/form-disaster-recovery-session-storage-persistence-29jk)
-- [I Built a 1-Click AI System to Save My Browser Tabs &lpar;Template&rpar;](https://dev.to/hari_haran_144973263df174/i-built-a-1-click-ai-system-to-save-my-browser-tabs-template-35c9)
+- [Turning a System of Record into an AI Agent: Building MCP Tools on Azure](https://dev.to/vignesh_athiappan_818c9e0/turning-a-system-of-record-into-an-ai-agent-building-mcp-tools-on-azure-291f)
+- [Put Copilot OpenTelemetry Export Behind an Isolated Collector](https://dev.to/odd_background_328/put-copilot-opentelemetry-export-behind-an-isolated-collector-f9a)
+- [If 30% of Coding Tasks May Be Broken, Your Leaderboard Needs an Uncertainty Budget](https://dev.to/robinzzz/if-30-of-coding-tasks-may-be-broken-your-leaderboard-needs-an-uncertainty-budget-4992)
+- [I Spent Two Years Deleting My Backend. This Is What&#39;s Left](https://dev.to/vbilopav/i-spent-two-years-deleting-my-backend-this-is-whats-left-500a)
+- [“Safe AI for Teens” Needs a Recoverable Escalation Flow, Not One Generic Refusal](https://dev.to/haaaaaley/safe-ai-for-teens-needs-a-recoverable-escalation-flow-not-one-generic-refusal-ep6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
