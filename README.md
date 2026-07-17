@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Blind Spot: Why &quot;It Works&quot; Isn&#39;t the Same as &quot;It&#39;s Safe to Launch&quot;](https://dev.to/nokazehayato/the-ai-blind-spot-why-it-works-isnt-the-same-as-its-safe-to-launch-37h2)
-- [Introduction to Probo-ui — Write HTML Entirely in Python series](https://dev.to/mojahid0youness/introduction-to-probo-ui-write-html-entirely-in-python-series-5185)
-- [Why Static Accessibility Scanners Miss What AI Agents Hit](https://dev.to/a11ysolutions/why-static-accessibility-scanners-miss-what-ai-agents-hit-2bg0)
-- [Add newsletter subscriptions to Rails 8 signups](https://dev.to/railsdesigner/add-newsletter-subscriptions-to-rails-8-signups-1lbc)
-- [Two Bugs, Two Strangers, One Week: What Shipping Early Actually Buys You](https://dev.to/chriscompiles/two-bugs-two-strangers-one-week-what-shipping-early-actually-buys-you-16im)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-706)
+- [Catch the 5-Hour Cap Before You Hit It: token-budget-advisor and Status-Line Integration](https://dev.to/bokuwalily/catch-the-5-hour-cap-before-you-hit-it-token-budget-advisor-and-status-line-integration-14ab)
+- [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
+- [Why Map Shape Icons Beat Flag Emojis for Country Selectors](https://dev.to/rushan123/why-map-shape-icons-beat-flag-emojis-for-country-selectors-2oce)
+- [How to Build Rich Link Previews Without Maintaining a Browser Instance](https://dev.to/webmox/how-to-build-rich-link-previews-without-maintaining-a-browser-instance-4jp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
