@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
-- [Modern Frontend Testing Is Mostly About State, Timing, and Geometry](https://dev.to/mellowthunder735/modern-frontend-testing-is-mostly-about-state-timing-and-geometry-4f7g)
-- [What a One-Line CSS Fix Taught Me About Code Review &lpar;My First Firefox Patch Feedback Loop&rpar;](https://dev.to/chukwukarosemary23/what-a-one-line-css-fix-taught-me-about-code-review-my-first-firefox-patch-feedback-loop-848)
-- [Give your voice agent an email address for follow-ups](https://dev.to/mqasimca/give-your-voice-agent-an-email-address-for-follow-ups-30bm)
-- [Build a webhook-driven email pipeline for your AI agent](https://dev.to/mqasimca/build-a-webhook-driven-email-pipeline-for-your-ai-agent-211m)
+- [Security news weekly round-up - 17th July 2026](https://dev.to/ziizium/security-news-weekly-round-up-17th-july-2026-2a1l)
+- [AI Worked Both Sides of the Security Ledger This Week. Here&#39;s What to Actually Run](https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071)
+- [Project Idea: On-the-fly preset switching between different plugins inside Pro Tools &lpar;Workflow Tool&rpar;](https://dev.to/ach_vibe-code/project-idea-on-the-fly-preset-switching-between-different-plugins-inside-pro-tools-workflow-tool-52c9)
+- [Anxious About the Tech Market? Try Digging a New Hole](https://dev.to/theoriginalbpc/anxious-about-the-tech-market-try-digging-a-new-hole-1c5)
+- [I Built an AI Face-Analysis Suite From Scratch — Here&#39;s What I Learned](https://dev.to/star_doppel_b782d4e097c70/i-built-an-ai-face-analysis-suite-from-scratch-heres-what-i-learned-35mk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
