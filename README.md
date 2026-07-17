@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My first post on DEV! A guide to EF Core migration bundles: the concurrency problem they solve, .bat scripts to create and run them, CI/CD stuff &amp; more!](https://dev.to/johnntirintis/my-first-post-on-dev-a-guide-to-ef-core-migration-bundles-the-concurrency-problem-they-solve-396a)
-- [AgentLedger: Audit Trails for AI Agents That Matter](https://dev.to/forgeflows/agentledger-audit-trails-for-ai-agents-that-matter-57c8)
-- [EF Core Migration Bundles: What They Are &amp; Why They Matter](https://dev.to/johnntirintis/ef-core-migration-bundles-what-they-are-why-they-matter-3896)
-- [My OpenClaw Agent Got Slow and Expensive. I Split It Into Three Sub-Agents — Here&#39;s What Happened](https://dev.to/mrclaw207/my-openclaw-agent-got-slow-and-expensive-i-split-it-into-three-sub-agents-heres-what-happened-51l1)
-- [Analyzing Real-Time SSH Honeypot Bot Behavior: Decoding Show HN Security Insights](https://dev.to/tamizuddin/analyzing-real-time-ssh-honeypot-bot-behavior-decoding-show-hn-security-insights-18f8)
+- [Wardrobe: Revolutionizing Fashion Management with AI-Powered Image Extraction](https://dev.to/dd8888/wardrobe-revolutionizing-fashion-management-with-ai-powered-image-extraction-4794)
+- [Building AI Agents in PHP: Tool Calling with Laravel](https://dev.to/adityakdevin/building-ai-agents-in-php-tool-calling-with-laravel-4fji)
+- [Keep Your AI Agent Traces on Your Machine: A Local-First Approach](https://dev.to/raju_dandigam/keep-your-ai-agent-traces-on-your-machine-a-local-first-approach-5b9l)
+- [Frontend Standards Into an Installable AI Skill — for React, Next.js, Vue, Angular, Svelte, Nuxt, Astro, and Plain HTML/CSS](https://dev.to/abayomijohn273/frontend-standards-into-an-installable-ai-skill-for-react-nextjs-vue-angular-svelte-nuxt-17md)
+- [Best Railway alternatives for enterprises in 2026: Governance, reliability, and why Railway is not the default](https://dev.to/engineeringjournal/best-railway-alternatives-for-enterprises-in-2026-governance-reliability-and-why-railway-is-not-212m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
