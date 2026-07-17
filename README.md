@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-706)
-- [Catch the 5-Hour Cap Before You Hit It: token-budget-advisor and Status-Line Integration](https://dev.to/bokuwalily/catch-the-5-hour-cap-before-you-hit-it-token-budget-advisor-and-status-line-integration-14ab)
-- [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
-- [Why Map Shape Icons Beat Flag Emojis for Country Selectors](https://dev.to/rushan123/why-map-shape-icons-beat-flag-emojis-for-country-selectors-2oce)
-- [How to Build Rich Link Previews Without Maintaining a Browser Instance](https://dev.to/webmox/how-to-build-rich-link-previews-without-maintaining-a-browser-instance-4jp8)
+- [Structured Output Gives You Syntax. It Doesn&#39;t Give You Semantics](https://dev.to/aiexplore369zoho/structured-output-gives-you-syntax-it-doesnt-give-you-semantics-3c13)
+- [Data Consistency in Real-Time Systems: Notes From a Trading Infrastructure Article](https://dev.to/mehmet_yildiz/data-consistency-in-real-time-systems-notes-from-a-trading-infrastructure-article-3co5)
+- [Open Source Free GitHub-Hosted BI Tools Comparison &lpar;2026&rpar;: Helical Insight vs Apache Superset vs Metabase vs Lightdash vs Redash](https://dev.to/nikitiwari/open-source-free-github-hosted-bi-tools-comparison-2026-helical-insight-vs-apache-superset-vs-j1j)
+- [How to Compare JSON Files the Easy Way &lpar;Without False Positives&rpar;](https://dev.to/digitechgenai/how-to-compare-json-files-the-easy-way-without-false-positives-23g1)
+- [Why Your Best Engineers Keep Fighting Fires Instead of Shipping Features](https://dev.to/techstrategy/why-your-best-engineers-keep-fighting-fires-instead-of-shipping-features-29ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
