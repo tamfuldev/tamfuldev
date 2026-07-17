@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built LIWICODE: A Lightweight Code Analysis Tool &amp; How It Holds Up Against Heavyweight Visual Studio](https://dev.to/liwiunxdo/why-i-built-liwicode-a-lightweight-code-analysis-tool-how-it-holds-up-against-heavyweight-visual-207)
-- [The Bus Factor: How to Actually Find It and Fix It on Your Team](https://dev.to/betterengineer/the-bus-factor-how-to-actually-find-it-and-fix-it-on-your-team-478j)
-- [Are You Missing Out on Agent Skills? Here&#39;s How They Work](https://dev.to/rijultp/are-you-missing-out-on-agent-skills-heres-how-they-work-4dk5)
-- [How I Survived the Silent AI Upgrades &lpar;And Shifted My Workflow&rpar;](https://dev.to/sothiss/how-i-survived-the-silent-ai-upgrades-and-shifted-my-workflow-44ff)
-- [GitHub Shows 2.7K Followers, But the API Knows the Exact Number 👀](https://dev.to/joodi/github-shows-27k-followers-but-the-api-knows-the-exact-number-34go)
+- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
+- [Modern Frontend Testing Is Mostly About State, Timing, and Geometry](https://dev.to/mellowthunder735/modern-frontend-testing-is-mostly-about-state-timing-and-geometry-4f7g)
+- [What a One-Line CSS Fix Taught Me About Code Review &lpar;My First Firefox Patch Feedback Loop&rpar;](https://dev.to/chukwukarosemary23/what-a-one-line-css-fix-taught-me-about-code-review-my-first-firefox-patch-feedback-loop-848)
+- [Give your voice agent an email address for follow-ups](https://dev.to/mqasimca/give-your-voice-agent-an-email-address-for-follow-ups-30bm)
+- [Build a webhook-driven email pipeline for your AI agent](https://dev.to/mqasimca/build-a-webhook-driven-email-pipeline-for-your-ai-agent-211m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
