@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Five failure patterns from past WordPress major upgrades — what 5.0 Gutenberg through 6.0 FSE taught maintenance teams](https://dev.to/susumun/five-failure-patterns-from-past-wordpress-major-upgrades-what-50-gutenberg-through-60-fse-ocb)
-- [Ask HN: What process should I use to find SMB prospects for a B2B SaaS product?](https://dev.to/brino666/ask-hn-what-process-should-i-use-to-find-smb-prospects-for-a-b2b-saas-product-1fg6)
-- [Simple Email SaaS? Here&#39;s What Actually Works in 2024](https://dev.to/brino666/simple-email-saas-heres-what-actually-works-in-2024-3j3b)
-- [Why There&#39;s No Example Code for B2B SaaS Apps &lpar;And What to Do About It&rpar;](https://dev.to/brino666/why-theres-no-example-code-for-b2b-saas-apps-and-what-to-do-about-it-2oma)
-- [5 JavaScript Features I Wish I Had Learned Earlier](https://dev.to/codexsavage6s/5-javascript-features-i-wish-i-had-learned-earlier-1lpa)
+- [A Full 3D Live Weather World in One HTML File — No Frameworks, No Build Step.](https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83)
+- [I built a Cloudflare Worker so you can give the public free AI, without ever getting a surprise bill](https://dev.to/mister_buds_4874bbe643dda/i-built-a-cloudflare-worker-so-you-can-give-the-public-free-ai-without-ever-getting-a-surprise-1042)
+- [corpus-scrub 0.1.0: detecta y redacta PII y secretos en corpus de entrenamiento antes del entrenamiento LLM](https://dev.to/magopredator/corpus-scrub-010-detecta-y-redacta-pii-y-secretos-en-corpus-de-entrenamiento-antes-del-432h)
+- [I gave my agent the right memory and it ignored it anyway](https://dev.to/thewilliamboyd93oss/i-gave-my-agent-the-right-memory-and-it-ignored-it-anyway-li7)
+- [API-first or browser automation? Lessons from shipping content autoposting](https://dev.to/content_ai/api-first-or-browser-automation-lessons-from-shipping-content-autoposting-55pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
