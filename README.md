@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turning a System of Record into an AI Agent: Building MCP Tools on Azure](https://dev.to/vignesh_athiappan_818c9e0/turning-a-system-of-record-into-an-ai-agent-building-mcp-tools-on-azure-291f)
-- [Put Copilot OpenTelemetry Export Behind an Isolated Collector](https://dev.to/odd_background_328/put-copilot-opentelemetry-export-behind-an-isolated-collector-f9a)
-- [If 30% of Coding Tasks May Be Broken, Your Leaderboard Needs an Uncertainty Budget](https://dev.to/robinzzz/if-30-of-coding-tasks-may-be-broken-your-leaderboard-needs-an-uncertainty-budget-4992)
-- [I Spent Two Years Deleting My Backend. This Is What&#39;s Left](https://dev.to/vbilopav/i-spent-two-years-deleting-my-backend-this-is-whats-left-500a)
-- [“Safe AI for Teens” Needs a Recoverable Escalation Flow, Not One Generic Refusal](https://dev.to/haaaaaley/safe-ai-for-teens-needs-a-recoverable-escalation-flow-not-one-generic-refusal-ep6)
+- [The AI Blind Spot: Why &quot;It Works&quot; Isn&#39;t the Same as &quot;It&#39;s Safe to Launch&quot;](https://dev.to/nokazehayato/the-ai-blind-spot-why-it-works-isnt-the-same-as-its-safe-to-launch-37h2)
+- [Introduction to Probo-ui — Write HTML Entirely in Python series](https://dev.to/mojahid0youness/introduction-to-probo-ui-write-html-entirely-in-python-series-5185)
+- [Why Static Accessibility Scanners Miss What AI Agents Hit](https://dev.to/a11ysolutions/why-static-accessibility-scanners-miss-what-ai-agents-hit-2bg0)
+- [Add newsletter subscriptions to Rails 8 signups](https://dev.to/railsdesigner/add-newsletter-subscriptions-to-rails-8-signups-1lbc)
+- [Two Bugs, Two Strangers, One Week: What Shipping Early Actually Buys You](https://dev.to/chriscompiles/two-bugs-two-strangers-one-week-what-shipping-early-actually-buys-you-16im)
 <!-- BLOG-POST-LIST:END -->
 
 ---
