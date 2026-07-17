@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;My AI engineer has a second AI that tells it NO. Three times, it was right.&quot;](https://dev.to/nunc/my-ai-engineer-has-a-second-ai-that-tells-it-no-three-times-it-was-right-162l)
-- [Why a password is not a security architecture for connected building devices](https://dev.to/zoranstankovic/why-a-password-is-not-a-security-architecture-for-connected-building-devices-5241)
-- [How to run Codex with GPT-5.6 on Amazon Bedrock](https://dev.to/aws/how-to-run-codex-with-gpt-56-on-amazon-bedrock-12f4)
-- [Ship Your Own Social Listening Agent in ~200 Lines of TypeScript](https://dev.to/tmoreton/ship-your-own-social-listening-agent-in-200-lines-of-typescript-49a6)
-- [A firmware fix instead of a recall: root-cause engineering for a deployed wearable](https://dev.to/zoranstankovic/a-firmware-fix-instead-of-a-recall-root-cause-engineering-for-a-deployed-wearable-4o9i)
+- [Build a Real-Time Inventory Dashboard in Google Sheets &lpar;Reorder Points + Low-Stock Alerts&rpar;](https://dev.to/hayrullahkar/build-a-real-time-inventory-dashboard-in-google-sheets-reorder-points-low-stock-alerts-30ef)
+- [Em 2026, alguém ainda usa Blade? Deveria — e tem um motivo escondido](https://dev.to/denisgusto1/em-2026-alguem-ainda-usa-blade-deveria-e-tem-um-motivo-escondido-2dml)
+- [Let&#39;s talk about Deno Desktop](https://dev.to/ilys_c1b01a929bd0815f07f/lets-talk-about-deno-desktop-2i6p)
+- [Deepening Your Career or Becoming Versatile in the Age of AI Tools](https://dev.to/merbayerp/deepening-your-career-or-becoming-versatile-in-the-age-of-ai-tools-4341)
+- [Rise of DIY Developer](https://dev.to/yan-yan/rise-of-diy-developer-3f4k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
