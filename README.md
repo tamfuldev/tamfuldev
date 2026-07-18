@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The accessibility failure your CI can&#39;t catch — and the media query that fixes most of it](https://dev.to/kevinfroeba/the-accessibility-failure-your-ci-cant-catch-and-the-media-query-that-fixes-most-of-it-2pi2)
-- [Reverse Engineering a BLE Body Scale on Android: GATT Queues, Handshakes, and BIA Packets](https://dev.to/fedor-pasynkov/reverse-engineering-a-ble-body-scale-on-android-gatt-queues-handshakes-and-bia-packets-27eg)
-- [A Takeout sidecar is not automatically the photo it describes: audit pairings with TakePair](https://dev.to/nekoautomata/a-takeout-sidecar-is-not-automatically-the-photo-it-describes-audit-pairings-with-takepair-3aea)
-- [Introduction to Probo-ui — Write HTML Entirely in Python series Part: 02](https://dev.to/mojahid0youness/introduction-to-probo-ui-write-html-entirely-in-python-series-part-02-5809)
-- [Releasing revera@1.0.0](https://dev.to/aaravmaloo/releasing-revera100-2llo)
+- [My Publishing Task Said &quot;Commit the Drafts.&quot; My .gitignore Had Other Plans.](https://dev.to/enjoy_kumawat/my-publishing-task-said-commit-the-drafts-my-gitignore-had-other-plans-3jnp)
+- [Clear the Lineup — doesNotEqual was always true for single-select survey answers in Formbricks](https://dev.to/jiwonyoondev/clear-the-lineup-doesnotequal-was-always-true-for-single-select-survey-answers-in-formbricks-702)
+- [FAM CTF : The Vault Door Writeup](https://dev.to/exploitnotes/fam-ctf-the-vault-door-writeup-4dgc)
+- [Stashr has officially launched](https://dev.to/stashr/stashr-has-officially-launched-4ic)
+- [Clear the Lineup — Chasing a Stack Overflow in Typst&#39;s `#eval` Down to One Wrong Word](https://dev.to/jiwonyoondev/clear-the-lineup-chasing-a-stack-overflow-in-typsts-eval-down-to-one-wrong-word-5427)
 <!-- BLOG-POST-LIST:END -->
 
 ---
