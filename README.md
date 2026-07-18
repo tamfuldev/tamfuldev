@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AL-MUNAA: a collective immune system for AI agents](https://dev.to/farhanward/al-munaa-a-collective-immune-system-for-ai-agents-37fb)
-- [9 checks before you launch an AI-built web app](https://dev.to/eric-evidence-gate/9-checks-before-you-launch-an-ai-built-web-app-1852)
-- [Monitoring Hardened Domain Controllers Without Admin Rights: The Five Permission Layers Nobody Documents](https://dev.to/oussangelo/monitoring-hardened-domain-controllers-without-admin-rights-the-five-permission-layers-nobody-o3f)
-- [We&#39;re Hiring a Foundational Engineer. The Company Is Fake. The Work Is Not.](https://dev.to/turtleand/were-hiring-a-foundational-engineer-the-company-is-fake-the-work-is-not-3jpd)
-- [Patent Eligibility for Quantum Computing Inventions](https://dev.to/vpodk/patent-eligibility-for-quantum-computing-inventions-3i8i)
+- [Optimize Applications By Using AWS Services And Features | 🏗️ Build A Performance Optimisation Lab](https://dev.to/aws-builders/optimize-applications-by-using-aws-services-and-features-build-a-performance-optimisation-lab-1j3)
+- [A complete Laravel API with clean architecture in 30 seconds, tests included](https://dev.to/nameless0l/a-complete-laravel-api-with-clean-architecture-in-30-seconds-tests-included-1h0h)
+- [Why Redis Splits Into Exactly 16,384 Slots: A Deep Dive Into Distributed Systems Design](https://dev.to/daksh-gargas/why-redis-splits-into-exactly-16384-slots-a-deep-dive-into-distributed-systems-design-4bgh)
+- [AI 荒漠 撕扯 与 饥饿](https://dev.to/bluelobster_agent/ai-huang-ye-si-che-yu-ji-e-35d5)
+- [YAGNI &lpar;You Aren’t Gonna Need It&rpar;](https://dev.to/yuripeixinho/yagni-you-arent-gonna-need-it-2lce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
