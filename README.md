@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
-- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
-- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
-- [The OpenTofu Errors You&#39;ll Actually Hit &lpar;and How to Fix Them Fast&rpar;](https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e)
-- [Four things I would check first with NestJS if a bank&#39;s API kept leaking sensitive data](https://dev.to/peacemelodi/four-things-i-would-check-first-with-nestjs-if-a-banks-api-kept-leaking-sensitive-data-p8o)
+- [Is Typescript worth it?](https://dev.to/codexsavage6s/is-typescript-worth-it-29m8)
+- [When SSH to Xserver suddenly stops working, it&#39;s fail2ban — the official confirmation and a safer reconnection check](https://dev.to/susumun/when-ssh-to-xserver-suddenly-stops-working-its-fail2ban-the-official-confirmation-and-a-safer-3oha)
+- [Giving an AI assistant read-only access to Microsoft Loop — without breaking permissions](https://dev.to/denizv/giving-an-ai-assistant-read-only-access-to-microsoft-loop-without-breaking-permissions-3adc)
+- [How to Add Async Text-to-Speech to an App with the Fish TTS API](https://dev.to/germey/how-to-add-async-text-to-speech-to-an-app-with-the-fish-tts-api-5fg2)
+- [Swarming Claude Code and Codex in Parallel: Running Multiple Agents at Once with tmux and Git Worktrees](https://dev.to/bokuwalily/swarming-claude-code-and-codex-in-parallel-running-multiple-agents-at-once-with-tmux-and-git-1fej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
