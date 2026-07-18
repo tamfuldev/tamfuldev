@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Typescript worth it?](https://dev.to/codexsavage6s/is-typescript-worth-it-29m8)
-- [When SSH to Xserver suddenly stops working, it&#39;s fail2ban — the official confirmation and a safer reconnection check](https://dev.to/susumun/when-ssh-to-xserver-suddenly-stops-working-its-fail2ban-the-official-confirmation-and-a-safer-3oha)
-- [Giving an AI assistant read-only access to Microsoft Loop — without breaking permissions](https://dev.to/denizv/giving-an-ai-assistant-read-only-access-to-microsoft-loop-without-breaking-permissions-3adc)
-- [How to Add Async Text-to-Speech to an App with the Fish TTS API](https://dev.to/germey/how-to-add-async-text-to-speech-to-an-app-with-the-fish-tts-api-5fg2)
-- [Swarming Claude Code and Codex in Parallel: Running Multiple Agents at Once with tmux and Git Worktrees](https://dev.to/bokuwalily/swarming-claude-code-and-codex-in-parallel-running-multiple-agents-at-once-with-tmux-and-git-1fej)
+- [Your AI Agent MVP Does Not Need More Autonomy](https://dev.to/rffanlab/your-ai-agent-mvp-does-not-need-more-autonomy-26oe)
+- [The Notification That Ate My MacBook: A Debugging Story](https://dev.to/bijayadhs/the-notification-that-ate-my-macbook-a-debugging-story-9fb)
+- [RocheDB: Data Locality as a First-Stage Retrieval Index](https://dev.to/puffball1567/rochedb-data-locality-as-a-first-stage-retrieval-index-237k)
+- [Recruited by a shady Russian hosting company](https://dev.to/jun_uen0/recruited-by-a-shady-russian-hosting-company-2j1f)
+- [AWS Weekend Agent Challenge: Daybreak](https://dev.to/earlgreyhot1701d/aws-weekend-agent-challenge-daybreak-45dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
