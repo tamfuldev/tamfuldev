@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Death by Amnesia: Your Agent Said Got It and Forgot Everything — Until a Lawsuit Arrived](https://dev.to/wzg0911/death-by-amnesia-your-agent-said-got-it-and-forgot-everything-until-a-lawsuit-arrived-4nfa)
-- [Transforming Your First Repo Prompt with AI Config Kits](https://dev.to/davekurian/transforming-your-first-repo-prompt-with-ai-config-kits-4ope)
-- [Whisper on Mobile Is Better Than I Expected, So I Built an Offline Notes App](https://dev.to/turnkit-dev/whisper-on-mobile-is-better-than-i-expected-so-i-built-an-offline-notes-app-41d7)
-- [Cleaning up Repository Bloat: Removing Redundant requirements.txt](https://dev.to/rohithtp/cleaning-up-repository-bloat-removing-redundant-requirementstxt-3akk)
-- [5 Things I Learned Doing AI Evaluation for 2 Years](https://dev.to/abdullahi_ibrahim/5-things-i-learned-doing-ai-evaluation-for-2-years-3kgh)
+- [LLD Domain Modeling: How to Debug Your Design When It Feels “Wrong”](https://dev.to/saras_growth_space/lld-domain-modeling-how-to-debug-your-design-when-it-feels-wrong-iap)
+- [Server-Side A/B Testing with Optimizely: A Practical Guide](https://dev.to/david_sert/server-side-ab-testing-with-optimizely-a-practical-guide-426k)
+- [Source View Technology: Combining the Strengths of APT and AST](https://dev.to/shiou/source-view-technology-combining-the-strengths-of-apt-and-ast-7jl)
+- [Memoria – A Self‑Evolving Personal AI with Human‑like Memory](https://dev.to/imawais/memoria-a-self-evolving-personal-ai-with-human-like-memory-34p)
+- [Why Search Isn&#39;t Enough for Team Docs — What We Learned Building a Knowledge Graph Layer](https://dev.to/gwmage/why-search-isnt-enough-for-team-docs-what-we-learned-building-a-knowledge-graph-layer-5b17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
