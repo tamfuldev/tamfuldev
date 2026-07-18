@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/renolu/-1h7c)
-- [Just use Deno](https://dev.to/hdzilyes/just-use-deno-2ai9)
-- [A* Search Algorithm: Game Pathfinding Explained](https://dev.to/doogal/a-search-algorithm-game-pathfinding-explained-4jmj)
-- [Where Exploratory Testing Earns Its Keep](https://dev.to/jeffthoensen/where-exploratory-testing-earns-its-keep-1id6)
-- [Quantum Supremacy vs Quantum Advantage: Understanding the Future of Quantum Computing](https://dev.to/quantumlearny/quantum-supremacy-vs-quantum-advantage-understanding-the-future-of-quantum-computing-4bda)
+- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo)
+- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m)
+- [$20/Month: The Price Ceiling Every AI Company Copied](https://dev.to/qainsights/20month-the-price-ceiling-every-ai-company-copied-1jej)
+- [Customizable workout app](https://dev.to/pawlee/customizable-workout-app-184l)
+- [Stop Rebasing Every Time: A Safer Way to Keep Your Git Branch Updated with `master`](https://dev.to/mrajaeim/stop-rebasing-every-time-a-safer-way-to-keep-your-git-branch-updated-with-master-4ojh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
