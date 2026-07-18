@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Predictive Maintenance Systems for Aircraft Using Machine Learning](https://dev.to/samsuseelan/building-predictive-maintenance-systems-for-aircraft-using-machine-learning-5dcb)
-- [What is Django? A Complete Guide to the Django Framework, Benefits, Use Cases &amp; Getting Started](https://dev.to/amkarimi/what-is-django-a-complete-guide-to-the-django-framework-benefits-use-cases-getting-started-oh0)
-- [Trust the Calculator](https://dev.to/nabbilkhan/trust-the-calculator-3aef)
-- [Tesla Built the First Wireless Remote Control](https://dev.to/fluidwire/tesla-built-the-first-wireless-remote-control-5fbn)
-- [LOD &lpar;Law of Demeter&rpar;](https://dev.to/yuripeixinho/lod-law-of-demeter-8bi)
+- [An AI agent exported a patient record. Your logs can&#39;t say who told it to.](https://dev.to/alexlaguardia/an-ai-agent-exported-a-patient-record-your-logs-cant-say-who-told-it-to-1al8)
+- [Watching or Working](https://dev.to/nabbilkhan/watching-or-working-f0n)
+- [Why I created MATH-X LMS&lpar;for Entry tests&rpar;](https://dev.to/shuja_waras_66cc8152e8905/why-i-created-math-x-lmsfor-entry-tests-12k5)
+- [Why Your LLM Pipeline Is Burning 60% of Its Token Budget on Noise &lpar;and How to Fix It&rpar;](https://dev.to/yashvardhan_thanvi_6762e7/why-your-llm-pipeline-is-burning-60-of-its-token-budget-on-noise-and-how-to-fix-it-27gp)
+- [Building a 15-Second Teaser for The Odyssey Illustrated — in Go, Not Python](https://dev.to/ibmendoza/building-a-15-second-teaser-for-the-odyssey-illustrated-in-go-not-python-2c2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
