@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent MVP Does Not Need More Autonomy](https://dev.to/rffanlab/your-ai-agent-mvp-does-not-need-more-autonomy-26oe)
-- [The Notification That Ate My MacBook: A Debugging Story](https://dev.to/bijayadhs/the-notification-that-ate-my-macbook-a-debugging-story-9fb)
-- [RocheDB: Data Locality as a First-Stage Retrieval Index](https://dev.to/puffball1567/rochedb-data-locality-as-a-first-stage-retrieval-index-237k)
-- [Recruited by a shady Russian hosting company](https://dev.to/jun_uen0/recruited-by-a-shady-russian-hosting-company-2j1f)
-- [AWS Weekend Agent Challenge: Daybreak](https://dev.to/earlgreyhot1701d/aws-weekend-agent-challenge-daybreak-45dc)
+- [I tried to trick my own AI-skill signing tool. Here&#39;s what happened.](https://dev.to/csinye/i-tried-to-trick-my-own-ai-skill-signing-tool-heres-what-happened-1e2d)
+- [AI coding agents: everyone harnesses the agent&#39;s loop. Here&#39;s the human&#39;s.](https://dev.to/idnk2203/ai-coding-agents-everyone-harnesses-the-agents-loop-heres-the-humans-55j3)
+- [stoneChat: An LLM Web Chat Built Natively for IE6/Windows XP](https://dev.to/water_run_305f6dfd401fdaf/stonechat-an-llm-web-chat-built-natively-for-ie6windows-xp-2i93)
+- [I Was Spending Hours on Bluesky Engagement, So I Built a Serverless AI Bot for Free](https://dev.to/procwire/i-was-spending-hours-on-bluesky-engagement-so-i-built-a-serverless-ai-bot-for-free-19g2)
+- [The Architectural Trap: Accessing CONST Attributes Across a Series of Classes](https://dev.to/nextbigcreative/the-architectural-trap-accessing-const-attributes-across-a-series-of-classes-31cm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
