@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment &lpar;Setup Guide&rpar;](https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h)
-- [What Is a Pointer in C? A Beginner&#39;s Guide](https://dev.to/codefacility_54ecdc081e01/what-is-a-pointer-in-c-a-beginners-guide-3ddb)
-- [Multi-Agent Interview Coach](https://dev.to/mitrakumar/multi-agent-interview-coach-5glm)
-- [Does Prisma respect Supabase RLS? No — here&#39;s why](https://dev.to/emil_alander_7c/does-prisma-respect-supabase-rls-no-heres-why-k53)
-- [Error Analysis](https://dev.to/fadialatia/error-analysis-83a)
+- [Automate Spotify and YouTube Playlists - The Complete Series](https://dev.to/towernter/automate-spotify-and-youtube-playlists-the-complete-series-1b9o)
+- [I Stopped Reinventing the Wheel: Building Modular Python Foundations](https://dev.to/alexdevtools/i-stopped-reinventing-the-wheel-building-modular-python-foundations-3l8k)
+- [Focus Sessions That Stick: The Complete 25-Minute Protocol](https://dev.to/codebybryant/focus-sessions-that-stick-the-complete-25-minute-protocol-2j7b)
+- [Migrating from Terraform to OpenTofu: A Low-Risk Playbook](https://dev.to/jjoyneriv/migrating-from-terraform-to-opentofu-a-low-risk-playbook-1g)
+- [Teaching a phone to disbelieve its own GPS](https://dev.to/darkpandawarrior/teaching-a-phone-to-disbelieve-its-own-gps-cip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
