@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resolviendo los 404 de Google Search Console](https://dev.to/aws-builders/resolviendo-los-404-de-google-search-console-3bc3)
-- [Web-Accessibility](https://dev.to/palakjain21/-46nn)
-- [trajectory-sentinel v0.1.0: correlación de señales de defensa de agentes](https://dev.to/magopredator/trajectory-sentinel-v010-correlacion-de-senales-de-defensa-de-agentes-4jmh)
-- [goal-anchor v0.1.0: integridad de objetivo para agentes multi-paso](https://dev.to/magopredator/goal-anchor-v010-integridad-de-objetivo-para-agentes-multi-paso-1cic)
-- [wallet-guard v0.1.0: guardrails de bucle y presupuesto para agentes](https://dev.to/magopredator/wallet-guard-v010-guardrails-de-bucle-y-presupuesto-para-agentes-3p0h)
+- [Detecting AI Agent Behavioral Drift with OpenTelemetry and SigNoz](https://dev.to/codewithveek/detecting-ai-agent-behavioral-drift-with-opentelemetry-and-signoz-3d98)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4mm)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-26h3)
+- [Running Local LLMs in Java: Introducing jllm – A Minimalist Ollama Alternative](https://dev.to/hpscript/running-local-llms-in-java-introducing-jllm-a-minimalist-ollama-alternative-3ic6)
+- [One API key, three terminals: driving many models from the shell with llm, mods and aichat](https://dev.to/seven7763/one-api-key-three-terminals-driving-many-models-from-the-shell-with-llm-mods-and-aichat-c0b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
