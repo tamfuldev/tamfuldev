@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Spotify and YouTube Playlists - The Complete Series](https://dev.to/towernter/automate-spotify-and-youtube-playlists-the-complete-series-1b9o)
-- [I Stopped Reinventing the Wheel: Building Modular Python Foundations](https://dev.to/alexdevtools/i-stopped-reinventing-the-wheel-building-modular-python-foundations-3l8k)
-- [Focus Sessions That Stick: The Complete 25-Minute Protocol](https://dev.to/codebybryant/focus-sessions-that-stick-the-complete-25-minute-protocol-2j7b)
-- [Migrating from Terraform to OpenTofu: A Low-Risk Playbook](https://dev.to/jjoyneriv/migrating-from-terraform-to-opentofu-a-low-risk-playbook-1g)
-- [Teaching a phone to disbelieve its own GPS](https://dev.to/darkpandawarrior/teaching-a-phone-to-disbelieve-its-own-gps-cip)
+- [Resolviendo los 404 de Google Search Console](https://dev.to/aws-builders/resolviendo-los-404-de-google-search-console-3bc3)
+- [Web-Accessibility](https://dev.to/palakjain21/-46nn)
+- [trajectory-sentinel v0.1.0: correlación de señales de defensa de agentes](https://dev.to/magopredator/trajectory-sentinel-v010-correlacion-de-senales-de-defensa-de-agentes-4jmh)
+- [goal-anchor v0.1.0: integridad de objetivo para agentes multi-paso](https://dev.to/magopredator/goal-anchor-v010-integridad-de-objetivo-para-agentes-multi-paso-1cic)
+- [wallet-guard v0.1.0: guardrails de bucle y presupuesto para agentes](https://dev.to/magopredator/wallet-guard-v010-guardrails-de-bucle-y-presupuesto-para-agentes-3p0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
