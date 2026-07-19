@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Generic Constraints in Depth: `extends`, `keyof`, and the Patterns That Prevent Runtime Errors](https://dev.to/jsmanifest/typescript-generic-constraints-in-depth-extends-keyof-and-the-patterns-that-prevent-runtime-40cb)
-- [Deploying MySQL on RDS and Joining Tables Like It&#39;s Production](https://dev.to/hashirsaudkhan/deploying-mysql-on-rds-and-joining-tables-like-its-production-ck)
-- [Building SmartStock AI: An AI-Powered Inventory Management Platform with Django, LangChain &amp; Multi-Agent Workflows](https://dev.to/ayman_kasim/building-smartstock-ai-an-ai-powered-inventory-management-platform-with-django-langchain--mhk)
-- [How I Let an AI Agent Save a Draft on DEV](https://dev.to/protostatis/how-i-let-an-ai-agent-save-a-draft-on-dev-am5)
-- [How Do You Evaluate People Who Are &quot;Good at AI&quot;? The ABCD2 Framework](https://dev.to/casamia918/how-do-you-evaluate-people-who-are-good-at-ai-the-abcd2-framework-iad)
+- [Why Your Git History Isn&#39;t Enough as Proof](https://dev.to/vesmot_dev/why-your-git-history-isnt-enough-as-proof-58m7)
+- [🚑 Creating a Self-Healing Automation Framework with Playwright](https://dev.to/aswani25/creating-a-self-healing-automation-framework-with-playwright-26k0)
+- [Stop Counting Devices: Measure Whether an Android Multi-Phone Desk Saves Time](https://dev.to/laicaiapp/stop-counting-devices-measure-whether-an-android-multi-phone-desk-saves-time-5c4b)
+- [gRPC over QUIC: faster seeks, slower bulk](https://dev.to/mfc_keibisoft/grpc-over-quic-faster-seeks-slower-bulk-3ia6)
+- [wp2shell: how a route confusion + a reachable SQLi become pre-auth RCE in WordPress core](https://dev.to/maxime_letheoricien_7fbbe/wp2shell-how-a-route-confusion-a-reachable-sqli-become-pre-auth-rce-in-wordpress-core-3mkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
