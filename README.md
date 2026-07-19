@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Keycloak SPIs with Testcontainers — the part every tutorial skips](https://dev.to/jihedbfrart/testing-keycloak-spis-with-testcontainers-the-part-every-tutorial-skips-4loe)
-- [Your Keycloak roles aren&#39;t working in Spring Security. Here&#39;s the actual reason.](https://dev.to/jihedbfrart/your-keycloak-roles-arent-working-in-spring-security-heres-the-actual-reason-8fo)
-- [Build a Pear Protocol DeFi trading agent with MCP](https://dev.to/marvelcodes/build-a-pear-protocol-defi-trading-agent-with-mcp-499o)
-- [I Built What I Benchmark. Here&#39;s How I Try Not to Cheat.](https://dev.to/ofri-peretz/i-built-what-i-benchmark-heres-how-i-try-not-to-cheat-3k3n)
-- [I Maintain 23 Benchmark Suites Across My Own Packages. Only 1 of the Serverless Ones Has Real Numbers Yet.](https://dev.to/ofri-peretz/i-maintain-23-benchmark-suites-across-my-own-packages-only-1-of-the-serverless-ones-has-real-54fp)
+- [# Colibri Made Me Rethink How We Run LLMs — And There Might Be a Next Step](https://dev.to/lhabacuc/-colibri-made-me-rethink-how-we-run-llms-and-there-might-be-a-next-step-52bj)
+- [Why Python is the Uncontested King of AI Development in 2026](https://dev.to/oviawe_nosa_78bf57cb51e41/why-python-is-the-uncontested-king-of-ai-development-in-2026-5h4h)
+- [Building Your First AI Agent with Python: A Beginner&#39;s Guide](https://dev.to/oviawe_nosa_78bf57cb51e41/building-your-first-ai-agent-with-python-a-beginners-guide-fe9)
+- [Building a Self-Healing GitHub Trending API in One Day](https://dev.to/pool_guard_603fe0cb4809a4/building-a-self-healing-github-trending-api-in-one-day-1h9i)
+- [Build a support triage agent that owns its own inbox](https://dev.to/mqasimca/build-a-support-triage-agent-that-owns-its-own-inbox-2aml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
