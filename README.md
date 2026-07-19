@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Retiring a Claude Code Model Unattended with launchd: A Self-Destructing Job That Auto-Patches settings.json](https://dev.to/bokuwalily/retiring-a-claude-code-model-unattended-with-launchd-a-self-destructing-job-that-auto-patches-4jee)
-- [Your app has two caches. What if it only needed one?](https://dev.to/akosidencio/your-app-has-two-caches-what-if-it-only-needed-one-3d1j)
-- [Eastern Philosophy for Developers: Using Wang Yangming to Combat Burnout](https://dev.to/cxtao/eastern-philosophy-for-developers-using-wang-yangming-to-combat-burnout-o3j)
-- [The Missing Layer for Autonomous Agents: Introducing the Autonomous Company Interface &lpar;ACI&rpar;](https://dev.to/narko4u/the-missing-layer-for-autonomous-agents-introducing-the-autonomous-company-interface-aci-2d75)
-- [Kimi Code CLI: A Beginner-Friendly Guide to Moonshot AI&#39;s Terminal Coding Agent](https://dev.to/arshtechpro/kimi-code-cli-a-beginner-friendly-guide-to-moonshot-ais-terminal-coding-agent-39db)
+- [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c)
+- [One line of math froze my AI agent forever. The timeout watched and did nothing.](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma)
+- [Constrained Decoding vs Post-hoc Validation: Production LLM Extraction Needs Both](https://dev.to/hitarthbuilds/constrained-decoding-vs-post-hoc-validation-production-llm-extraction-needs-both-4cf)
+- [Your n8n Workflow Passed Schema Validation—and Updated the Wrong Customer](https://dev.to/moonshot_1341/your-n8n-workflow-passed-schema-validation-and-updated-the-wrong-customer-1570)
+- [PyGo: A Deep Learning Framework Where Go Calls Python Calls C++](https://dev.to/sarkaragi/pygo-a-deep-learning-framework-where-go-calls-python-calls-c-4amo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
