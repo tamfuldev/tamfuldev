@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah)
-- [Everyone Says Bitcoin Has Been Decentralized Since Block Zero. Block 74638 Says Otherwise.](https://dev.to/bitcoin_devto/everyone-says-bitcoin-has-been-decentralized-since-block-zero-block-74638-says-otherwise-6oc)
-- [My Solana Program Launch Checklist &lpar;Written the Day After I Actually Did It&rpar;](https://dev.to/lymah/my-solana-program-launch-checklist-written-the-day-after-i-actually-did-it-1f2d)
-- [Teaching Agents to Slow Down Where It Matters](https://dev.to/mjodeh/teaching-agents-to-slow-down-where-it-matters-39fa)
-- [Maybe not microservice: The Case for Pipes, Pipelines, and Functional Isolation](https://dev.to/veer66/maybe-not-microservice-the-case-for-pipes-pipelines-and-functional-isolation-4hg5)
+- [The Quiet Acceleration](https://dev.to/rawveg/the-quiet-acceleration-32k6)
+- [Engineering for Speed: Lessons from ReBALKAN’s Four-Platform Performance Tests](https://dev.to/cengiz_zaylan_baf3ecdfb/engineering-for-speed-lessons-from-rebalkans-four-platform-performance-tests-29h4)
+- [The Convergence of Linguistic Mimicry and Reward Optimization: An Analysis of the Mechanisms of Defensive Behavior in Large Language Models](https://dev.to/oleg_kholin_551a551b/the-convergence-of-linguistic-mimicry-and-reward-optimization-an-analysis-of-the-mechanisms-of-151f)
+- [Build a Commission Attribution Engine in Google Sheets &lpar;Matching, Splits &amp; Clawbacks&rpar;](https://dev.to/hayrullahkar/build-a-commission-attribution-engine-in-google-sheets-matching-splits-clawbacks-35jl)
+- [Z80: 50 años han pasado ya](https://dev.to/baltasarq/z80-50-anos-han-pasado-ya-1fc5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
