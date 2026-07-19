@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Quiet Acceleration](https://dev.to/rawveg/the-quiet-acceleration-32k6)
-- [Engineering for Speed: Lessons from ReBALKAN’s Four-Platform Performance Tests](https://dev.to/cengiz_zaylan_baf3ecdfb/engineering-for-speed-lessons-from-rebalkans-four-platform-performance-tests-29h4)
-- [The Convergence of Linguistic Mimicry and Reward Optimization: An Analysis of the Mechanisms of Defensive Behavior in Large Language Models](https://dev.to/oleg_kholin_551a551b/the-convergence-of-linguistic-mimicry-and-reward-optimization-an-analysis-of-the-mechanisms-of-151f)
-- [Build a Commission Attribution Engine in Google Sheets &lpar;Matching, Splits &amp; Clawbacks&rpar;](https://dev.to/hayrullahkar/build-a-commission-attribution-engine-in-google-sheets-matching-splits-clawbacks-35jl)
-- [Z80: 50 años han pasado ya](https://dev.to/baltasarq/z80-50-anos-han-pasado-ya-1fc5)
+- [I Built a Fully Autonomous AI Reverse-Engineering Agent in Go](https://dev.to/abdulm/i-built-a-fully-autonomous-ai-reverse-engineering-agent-in-go-257k)
+- [Python quickstart: nutrition data in 10 lines](https://dev.to/dietly/python-quickstart-nutrition-data-in-10-lines-5ff4)
+- [Day 10 Part 2 Linux File System Hierarchy](https://dev.to/faizan-nazir/day-9-linux-file-system-hierarchy-2ac2)
+- [The AI hype is a mass psychosis echo chamber of incompetent individuals](https://dev.to/aob2f/the-ai-hype-is-a-mass-psychosis-echo-chamber-of-incompetent-individuals-450o)
+- [I Fixed Unbounded Shell Output in an Open Source Agent. My First Draft Would Have Corrupted Text.](https://dev.to/enjoy_kumawat/i-fixed-unbounded-shell-output-in-an-open-source-agent-my-first-draft-would-have-corrupted-text-3egp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
