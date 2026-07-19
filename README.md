@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [# Colibri Made Me Rethink How We Run LLMs — And There Might Be a Next Step](https://dev.to/lhabacuc/-colibri-made-me-rethink-how-we-run-llms-and-there-might-be-a-next-step-52bj)
-- [Why Python is the Uncontested King of AI Development in 2026](https://dev.to/oviawe_nosa_78bf57cb51e41/why-python-is-the-uncontested-king-of-ai-development-in-2026-5h4h)
-- [Building Your First AI Agent with Python: A Beginner&#39;s Guide](https://dev.to/oviawe_nosa_78bf57cb51e41/building-your-first-ai-agent-with-python-a-beginners-guide-fe9)
-- [Building a Self-Healing GitHub Trending API in One Day](https://dev.to/pool_guard_603fe0cb4809a4/building-a-self-healing-github-trending-api-in-one-day-1h9i)
-- [Build a support triage agent that owns its own inbox](https://dev.to/mqasimca/build-a-support-triage-agent-that-owns-its-own-inbox-2aml)
+- [Retiring a Claude Code Model Unattended with launchd: A Self-Destructing Job That Auto-Patches settings.json](https://dev.to/bokuwalily/retiring-a-claude-code-model-unattended-with-launchd-a-self-destructing-job-that-auto-patches-4jee)
+- [Your app has two caches. What if it only needed one?](https://dev.to/akosidencio/your-app-has-two-caches-what-if-it-only-needed-one-3d1j)
+- [Eastern Philosophy for Developers: Using Wang Yangming to Combat Burnout](https://dev.to/cxtao/eastern-philosophy-for-developers-using-wang-yangming-to-combat-burnout-o3j)
+- [The Missing Layer for Autonomous Agents: Introducing the Autonomous Company Interface &lpar;ACI&rpar;](https://dev.to/narko4u/the-missing-layer-for-autonomous-agents-introducing-the-autonomous-company-interface-aci-2d75)
+- [Kimi Code CLI: A Beginner-Friendly Guide to Moonshot AI&#39;s Terminal Coding Agent](https://dev.to/arshtechpro/kimi-code-cli-a-beginner-friendly-guide-to-moonshot-ais-terminal-coding-agent-39db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
