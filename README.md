@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c)
-- [One line of math froze my AI agent forever. The timeout watched and did nothing.](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma)
-- [Constrained Decoding vs Post-hoc Validation: Production LLM Extraction Needs Both](https://dev.to/hitarthbuilds/constrained-decoding-vs-post-hoc-validation-production-llm-extraction-needs-both-4cf)
-- [Your n8n Workflow Passed Schema Validation—and Updated the Wrong Customer](https://dev.to/moonshot_1341/your-n8n-workflow-passed-schema-validation-and-updated-the-wrong-customer-1570)
-- [PyGo: A Deep Learning Framework Where Go Calls Python Calls C++](https://dev.to/sarkaragi/pygo-a-deep-learning-framework-where-go-calls-python-calls-c-4amo)
+- [The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah)
+- [Everyone Says Bitcoin Has Been Decentralized Since Block Zero. Block 74638 Says Otherwise.](https://dev.to/bitcoin_devto/everyone-says-bitcoin-has-been-decentralized-since-block-zero-block-74638-says-otherwise-6oc)
+- [My Solana Program Launch Checklist &lpar;Written the Day After I Actually Did It&rpar;](https://dev.to/lymah/my-solana-program-launch-checklist-written-the-day-after-i-actually-did-it-1f2d)
+- [Teaching Agents to Slow Down Where It Matters](https://dev.to/mjodeh/teaching-agents-to-slow-down-where-it-matters-39fa)
+- [Maybe not microservice: The Case for Pipes, Pipelines, and Functional Isolation](https://dev.to/veer66/maybe-not-microservice-the-case-for-pipes-pipelines-and-functional-isolation-4hg5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
