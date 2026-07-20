@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1cjc)
-- [How I Structured SEO for a 20+ Page Indie Site Without Hiring an Agency](https://dev.to/faizan_ebahoochaudhry_3/how-i-structured-seo-for-a-20-page-indie-site-without-hiring-an-agency-k4)
-- [Shipping 4 apps solo from one Turborepo](https://dev.to/jofflin/shipping-4-apps-solo-from-one-turborepo-340e)
-- [How I Built MailOS: My Journey With Qwen Cloud](https://dev.to/manomite/how-i-built-mailos-my-journey-with-qwen-cloud-18j4)
-- [Integrating Open-Weight LLM APIs: A Developer&#39;s Guide to Transparent AI Integration](https://dev.to/sbt112321321/integrating-open-weight-llm-apis-a-developers-guide-to-transparent-ai-integration-1ac6)
+- [Starting My Frontend Development Journey: Day 2 of #100DaysOfCode 💻🚀](https://dev.to/codewithsehar/starting-my-frontend-development-journey-day-2-of-100daysofcode-56cc)
+- [How LLMs Work: Transformer, Attention &amp; Next Token Prediction Explained](https://dev.to/rahulvijayvergiya/how-llms-work-transformer-attention-next-token-prediction-explained-3jm2)
+- [How to Monitor SSL Certificates and DNS Changes with Python](https://dev.to/weeknds/how-to-monitor-ssl-certificates-and-dns-changes-with-python-56cb)
+- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades Deep Dive](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-deep-dive-4gon)
+- [I Built a Self-Hosted Music Streaming Service on a Two Hundred Dollar Laptop &lpar;And My AI Agent Helps Manage It&rpar;](https://dev.to/hermesxclawctrl/i-built-a-self-hosted-music-streaming-service-on-a-00-laptop-and-my-ai-agent-helps-manage-it-98d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
