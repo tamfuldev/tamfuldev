@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [One login to rule them all: centralized auth for internal tools with Caddy](https://dev.to/hypertesto/one-login-to-rule-them-all-centralized-auth-for-internal-tools-with-caddy-3fof)
-- [5 &#39;Cloud-Ghosts&#39;: Vulnerabilidades Docker en Serverless HOY](https://dev.to/angelh/5-cloud-ghosts-vulnerabilidades-docker-en-serverless-hoy-dkp)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5264)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-37o9)
-- [We built one AI tutor for five completely different subjects — here&#39;s the routing layer that keeps it from falling over](https://dev.to/devadath_hk/we-built-one-ai-tutor-for-five-completely-different-subjects-heres-the-routing-layer-that-keeps-15f4)
+- [Better Problems: The Power of Abstraction](https://dev.to/mckeondev/better-problems-the-power-of-abstraction-1dei)
+- [Clean quoted replies from email with the Nylas API](https://dev.to/mqasimca/clean-quoted-replies-from-email-with-the-nylas-api-22mf)
+- [Connect a mailbox with Nylas hosted OAuth](https://dev.to/mqasimca/connect-a-mailbox-with-nylas-hosted-oauth-3cgg)
+- [Search a mailbox with the Nylas Email API](https://dev.to/mqasimca/search-a-mailbox-with-the-nylas-email-api-3bkj)
+- [Record and transcribe meetings with Nylas Notetaker](https://dev.to/mqasimca/record-and-transcribe-meetings-with-nylas-notetaker-2ai9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
