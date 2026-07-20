@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Infrastructure Tool Silently Drops Functions Past 200 — And So Might Yours](https://dev.to/siddharth_pandey_27/your-infrastructure-tool-silently-drops-functions-past-200-and-so-might-yours-1eke)
-- [Auto-Optimize Images in a Git Pre-Commit Hook &lpar;Local, No Upload&rpar;](https://dev.to/orthogonalinfo/auto-optimize-images-in-a-git-pre-commit-hook-local-no-upload-m28)
-- [How We Scaled to 1 Million Connections — and the Silent Kernel Bug That Almost Broke It](https://dev.to/vinaykumarbu/how-we-scaled-to-1-million-connections-and-the-silent-kernel-bug-that-almost-broke-it-3omm)
-- [Locator-based vs vision-based mobile app testing](https://dev.to/noqa/locator-based-vs-vision-based-mobile-app-testing-3edi)
-- [One backend, three environments: the 4 KiB limit that redesigned my EAS setup](https://dev.to/hokagedemehin/one-backend-three-environments-the-4-kib-limit-that-redesigned-my-eas-setup-35cl)
+- [Need a different partition key in Azure Cosmos DB? Pick the right approach](https://dev.to/abhirockzz/need-a-different-partition-key-in-azure-cosmos-db-pick-the-right-approach-gji)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4n7p)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-58of)
+- [AI agents, meet the Azure Cosmos DB vNext emulator](https://dev.to/abhirockzz/ai-agents-meet-the-azure-cosmos-db-vnext-emulator-3b7)
+- [Ask me anything!](https://dev.to/canro91/ask-me-anything-3omb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
