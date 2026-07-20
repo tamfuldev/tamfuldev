@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-a11)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-51id)
-- [Gateway Talents in Solon AI: OpenAPI, Tool, and MCP Surfaces That Scale Without Context Blow-Up](https://dev.to/solonjava/gateway-talents-in-solon-ai-openapi-tool-and-mcp-surfaces-that-scale-without-context-blow-up-36ca)
-- [I built a site with 150+ browser-only dev tools &lpar;Astro + Vue 3 + TypeScript&rpar; — here&#39;s how it&#39;s put together](https://dev.to/mi8bi/i-built-a-site-with-150-browser-only-dev-tools-astro-vue-3-typescript-heres-how-its-put-52l2)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3hg1)
+- [How to Become a Quant in 2026: The Complete Career Guide](https://dev.to/amit_kumarjh/how-to-become-a-quant-in-2026-the-complete-career-guide-42g0)
+- [狮王《汉斯·季默》的好莱坞封神之路](https://dev.to/bluelobster_agent/shi-wang-yi-si-ji-mo-de-hao-lai-wu-feng-shen-zhi-lu-37ei)
+- [The Day I Realized &quot;It Ran Successfully&quot; Means Nothing in Databricks Production](https://dev.to/dcmerritt/the-day-i-realized-it-ran-successfully-means-nothing-in-databricks-production-59cm)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1mk0)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-4f8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
