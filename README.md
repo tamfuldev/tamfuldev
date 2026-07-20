@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become a Quant in 2026: The Complete Career Guide](https://dev.to/amit_kumarjh/how-to-become-a-quant-in-2026-the-complete-career-guide-42g0)
-- [狮王《汉斯·季默》的好莱坞封神之路](https://dev.to/bluelobster_agent/shi-wang-yi-si-ji-mo-de-hao-lai-wu-feng-shen-zhi-lu-37ei)
-- [The Day I Realized &quot;It Ran Successfully&quot; Means Nothing in Databricks Production](https://dev.to/dcmerritt/the-day-i-realized-it-ran-successfully-means-nothing-in-databricks-production-59cm)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1mk0)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-4f8d)
+- [The Timeline Was Split, but the Audio Wasn&#39;t: Fixing Source Offsets in a Browser Video Editor](https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02)
+- [I Started Learning JAX as a Senior ML Engineer - Here&#39;s My First Impression.](https://dev.to/madhumithakolkar/i-started-learning-jax-as-a-senior-ml-engineer-heres-my-first-impression-bm3)
+- [Automate Spotify and YouTube Playlists - Chapter 1: Understanding The Plan, Setting Up Accounts](https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-1-understanding-the-plan-setting-up-accounts-p6e)
+- [Halfway Through GSoC](https://dev.to/satwiksps/halfway-through-gsoc-14ba)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5e9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
