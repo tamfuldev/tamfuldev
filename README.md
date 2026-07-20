@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Smaller Foundation for JavaScript Reactivity](https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad)
-- [MathWorks lets AI Agents to Execute and Validate MATLAB Engineering Workflows](https://dev.to/davekurian/mathworks-lets-ai-agents-to-execute-and-validate-matlab-engineering-workflows-4gmj)
-- [Killing N+1 Queries: From Per-Row Lookups to Flat, Batched Reads](https://dev.to/daniel_akudbilla_999ccff6/killing-n1-queries-from-per-row-lookups-to-flat-batched-reads-32f7)
-- [MCP Explained for Beginners: The Easiest Way to Understand Model Context Protocol](https://dev.to/darshanraval/mcp-explained-for-beginners-the-easiest-way-to-understand-model-context-protocol-512h)
-- [One Brain, Two Wallets: Two Claude Code Accounts on One Machine](https://dev.to/daksh-gargas/one-brain-two-wallets-two-claude-code-accounts-on-one-machine-5ejb)
+- [One login to rule them all: centralized auth for internal tools with Caddy](https://dev.to/hypertesto/one-login-to-rule-them-all-centralized-auth-for-internal-tools-with-caddy-3fof)
+- [5 &#39;Cloud-Ghosts&#39;: Vulnerabilidades Docker en Serverless HOY](https://dev.to/angelh/5-cloud-ghosts-vulnerabilidades-docker-en-serverless-hoy-dkp)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5264)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-37o9)
+- [We built one AI tutor for five completely different subjects — here&#39;s the routing layer that keeps it from falling over](https://dev.to/devadath_hk/we-built-one-ai-tutor-for-five-completely-different-subjects-heres-the-routing-layer-that-keeps-15f4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
