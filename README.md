@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Better Problems: The Power of Abstraction](https://dev.to/mckeondev/better-problems-the-power-of-abstraction-1dei)
-- [Clean quoted replies from email with the Nylas API](https://dev.to/mqasimca/clean-quoted-replies-from-email-with-the-nylas-api-22mf)
-- [Connect a mailbox with Nylas hosted OAuth](https://dev.to/mqasimca/connect-a-mailbox-with-nylas-hosted-oauth-3cgg)
-- [Search a mailbox with the Nylas Email API](https://dev.to/mqasimca/search-a-mailbox-with-the-nylas-email-api-3bkj)
-- [Record and transcribe meetings with Nylas Notetaker](https://dev.to/mqasimca/record-and-transcribe-meetings-with-nylas-notetaker-2ai9)
+- [How Does an LLM Request and Response Cycle Work? A Full Walkthrough](https://dev.to/qainsights/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough-2k7j)
+- [When a human edits an agent&#39;s output, where does that decision go?](https://dev.to/arsalan_shahid116/when-a-human-edits-an-agents-output-where-does-that-decision-go-30pj)
+- [I Tried Kimi K3 for a Week. Here’s What Happened.](https://dev.to/joodi/i-tried-kimi-k3-for-a-week-heres-what-happened-3867)
+- [We built Multi-Repo Workspaces for AI coding](https://dev.to/devswarm/we-built-multi-repo-workspaces-for-ai-coding-2ib1)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2cfc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
