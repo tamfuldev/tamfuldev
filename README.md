@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Need a different partition key in Azure Cosmos DB? Pick the right approach](https://dev.to/abhirockzz/need-a-different-partition-key-in-azure-cosmos-db-pick-the-right-approach-gji)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4n7p)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-58of)
-- [AI agents, meet the Azure Cosmos DB vNext emulator](https://dev.to/abhirockzz/ai-agents-meet-the-azure-cosmos-db-vnext-emulator-3b7)
-- [Ask me anything!](https://dev.to/canro91/ask-me-anything-3omb)
+- [A Smaller Foundation for JavaScript Reactivity](https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad)
+- [MathWorks lets AI Agents to Execute and Validate MATLAB Engineering Workflows](https://dev.to/davekurian/mathworks-lets-ai-agents-to-execute-and-validate-matlab-engineering-workflows-4gmj)
+- [Killing N+1 Queries: From Per-Row Lookups to Flat, Batched Reads](https://dev.to/daniel_akudbilla_999ccff6/killing-n1-queries-from-per-row-lookups-to-flat-batched-reads-32f7)
+- [MCP Explained for Beginners: The Easiest Way to Understand Model Context Protocol](https://dev.to/darshanraval/mcp-explained-for-beginners-the-easiest-way-to-understand-model-context-protocol-512h)
+- [One Brain, Two Wallets: Two Claude Code Accounts on One Machine](https://dev.to/daksh-gargas/one-brain-two-wallets-two-claude-code-accounts-on-one-machine-5ejb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
