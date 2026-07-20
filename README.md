@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Timeline Was Split, but the Audio Wasn&#39;t: Fixing Source Offsets in a Browser Video Editor](https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02)
-- [I Started Learning JAX as a Senior ML Engineer - Here&#39;s My First Impression.](https://dev.to/madhumithakolkar/i-started-learning-jax-as-a-senior-ml-engineer-heres-my-first-impression-bm3)
-- [Automate Spotify and YouTube Playlists - Chapter 1: Understanding The Plan, Setting Up Accounts](https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-1-understanding-the-plan-setting-up-accounts-p6e)
-- [Halfway Through GSoC](https://dev.to/satwiksps/halfway-through-gsoc-14ba)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5e9p)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1cjc)
+- [How I Structured SEO for a 20+ Page Indie Site Without Hiring an Agency](https://dev.to/faizan_ebahoochaudhry_3/how-i-structured-seo-for-a-20-page-indie-site-without-hiring-an-agency-k4)
+- [Shipping 4 apps solo from one Turborepo](https://dev.to/jofflin/shipping-4-apps-solo-from-one-turborepo-340e)
+- [How I Built MailOS: My Journey With Qwen Cloud](https://dev.to/manomite/how-i-built-mailos-my-journey-with-qwen-cloud-18j4)
+- [Integrating Open-Weight LLM APIs: A Developer&#39;s Guide to Transparent AI Integration](https://dev.to/sbt112321321/integrating-open-weight-llm-apis-a-developers-guide-to-transparent-ai-integration-1ac6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
