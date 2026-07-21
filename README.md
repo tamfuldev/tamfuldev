@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Does an LLM Request and Response Cycle Work? A Full Walkthrough](https://dev.to/qainsights/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough-2k7j)
-- [When a human edits an agent&#39;s output, where does that decision go?](https://dev.to/arsalan_shahid116/when-a-human-edits-an-agents-output-where-does-that-decision-go-30pj)
-- [I Tried Kimi K3 for a Week. Here’s What Happened.](https://dev.to/joodi/i-tried-kimi-k3-for-a-week-heres-what-happened-3867)
-- [We built Multi-Repo Workspaces for AI coding](https://dev.to/devswarm/we-built-multi-repo-workspaces-for-ai-coding-2ib1)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2cfc)
+- [From &quot;You Have a Bug&quot; to &quot;Here&#39;s the Root Cause&quot; - Adding AI Code Analysis to My App Review Pipeline](https://dev.to/ashish_mishra_8491c3b9912/from-you-have-a-bug-to-heres-the-root-cause-adding-ai-code-analysis-to-my-app-review-pipeline-51f1)
+- [[Boost]](https://dev.to/atrandafir/-5b8m)
+- [Spec-Driven Development: quando a especificação vira a fonte da verdade &lpar;não o código&rpar;](https://dev.to/wildrik/spec-driven-development-quando-a-especificacao-vira-a-fonte-da-verdade-nao-o-codigo-f7d)
+- [Your hallucination checker only sees the final paragraph](https://dev.to/amin_parva_ab01ff398fd341/your-hallucination-checker-only-sees-the-final-paragraph-416m)
+- [Every AWS project starts with copy-pasting last repo&#39;s Terraform. I built a generator instead.](https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
