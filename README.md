@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Real-Time Perception Stack on CARLA. Here Is What Actually Happened.](https://dev.to/iyanuoluwa007/i-built-a-real-time-perception-stack-on-carla-here-is-what-actually-happened-5abl)
-- [MCP Deep Dive, Part 10: When the Agent Feels Off — Debugging and Observability for MCP in Production](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-10-when-the-agent-feels-off-debugging-and-observability-for-mcp-in-production-1c43)
-- [Memory Isn&#39;t Just Storage: Why Persistent Agent Memory Becomes Your Liability Without Infrastructure](https://dev.to/paultwist/memory-isnt-just-storage-why-persistent-agent-memory-becomes-your-liability-without-infrastructure-4gn8)
-- [How I Built a UK-Focused Converter Site with Astro 5, React 19, and Tailwind 4 — Zero JS by Default, 100% Private](https://dev.to/jsidiot/how-i-built-a-uk-focused-converter-site-with-astro-5-react-19-and-tailwind-4-zero-js-by-2bp)
-- [ECMP Explained: Two Equal Paths, and the Kernel Hashes Flows Across Them](https://dev.to/pathvector-dev/ecmp-explained-two-equal-paths-and-the-kernel-hashes-flows-across-them-1cbo)
+- [How We Built an AI-Native Real Estate Platform for Northern Cyprus](https://dev.to/onur_dokuzolu_ae3db85aa9/how-we-built-an-ai-native-real-estate-platform-for-northern-cyprus-31h0)
+- [WeasyPrint Alternative: HTML to PDF in Python &lpar;When You Need JavaScript&rpar;](https://dev.to/accreditly/weasyprint-alternative-html-to-pdf-in-python-when-you-need-javascript-1965)
+- [*This is a submission for [DEV&#39;s Summer Bug Smash: Smash Stories]&lpar;https://dev.to/bugsmash&rpar; powered by [Sentry]&lpar;https://sentry.io/&rpar;.*](https://dev.to/sachittav/this-is-a-submission-for-devs-summer-bug-smash-smash-storieshttpsdevtobugsmash-powered-473m)
+- [Dominando Transações de Banco de Dados: Do Conceito à Prática com Laravel](https://dev.to/moreiraandre/dominando-transacoes-de-banco-de-dados-do-conceito-a-pratica-com-laravel-k26)
+- [VS Code Shortcuts Every Developer Should Know](https://dev.to/chrisebuberoland/vs-code-shortcuts-every-developer-should-know-5833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
