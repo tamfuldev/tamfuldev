@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Google Translate Crashes Your React App &lpar;and How to Fix It&rpar;](https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391)
-- [Building explicit data-flow graphs in TypeScript: Introducing Transferum](https://dev.to/smoren/building-explicit-data-flow-graphs-in-typescript-introducing-transferum-3f23)
-- [Refactoring Legacy Code: The Matrix of Clean Code](https://dev.to/timevolt/refactoring-legacy-code-the-matrix-of-clean-code-4fb7)
-- [Your Agent&#39;s Bill Jumped 40%. It Never Errored Once.](https://dev.to/opsveritas/your-agents-bill-jumped-40-it-never-errored-once-34p2)
-- [A Jump That Should Not Kill You: Fixing a False Game Over in a Three.js Arcade Game](https://dev.to/sunnhappy/a-jump-that-should-not-kill-you-fixing-a-false-game-over-in-a-threejs-arcade-game-1fgi)
+- [CCIP Doesn&#39;t Run Two DONs Anymore. Here&#39;s What v1.6 Actually Changed.](https://dev.to/0xramprasad/ccip-doesnt-run-two-dons-anymore-heres-what-v16-actually-changed-63a)
+- [I REBUILT MY SITE WITH ASTRO &amp; SANITY](https://dev.to/mjblount_design/i-rebuilt-my-site-with-astro-sanity-1b7c)
+- [Stop Using Generic AI Review. Build Your Own Board of Experts.](https://dev.to/yuhaolin2005/stop-using-generic-ai-review-build-your-own-board-of-experts-196n)
+- [I Shipped 5 Products Using These 11 AI Prompts &lpar;Open-Sourced, With Outputs&rpar;](https://dev.to/draftkit/i-shipped-5-products-using-these-11-ai-prompts-open-sourced-with-outputs-3k3c)
+- [Docker for the Developer Who Actually Has to Ship: Secrets, Multi-Stage Builds, Live Reload, and Why Your Container Just Died](https://dev.to/surajrkhonde/docker-for-the-developer-who-actually-has-to-ship-secrets-multi-stage-builds-live-reload-and-57m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
