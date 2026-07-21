@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [De Node à Go : le même POST /register, côte à côte](https://dev.to/_notbu7ch/de-node-a-go-le-meme-post-register-cote-a-cote-2igd)
-- [Can ClickHouse Replace a Vector Database?](https://dev.to/mohhddhassan/can-clickhouse-replace-a-vector-database-4h45)
-- [10 Production Mistakes Developers Make While Building AI Agents](https://dev.to/the-tisa/10-production-mistakes-developers-make-while-building-ai-agents-57de)
-- [Top AI Papers on Hugging Face - 2026-07-21](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-21-2h0c)
-- [10 AI Prompts I Use as an Engineering Manager &lpar;1:1s, Postmortems, Performance Reviews&rpar;](https://dev.to/draftkit/10-ai-prompts-i-use-as-an-engineering-manager-11s-postmortems-performance-reviews-gg7)
+- [Argus: Reviewing Defense Contracts in Hours, With Every Verdict Backed by Evidence](https://dev.to/avirabino/argus-reviewing-defense-contracts-in-hours-with-every-verdict-backed-by-evidence-2i2p)
+- [The Door I Forgot to Lock, How One Missing Check Nearly Exposed Every Resume in My App](https://dev.to/aniruddhaadak/the-door-i-forgot-to-lock-how-one-missing-check-nearly-exposed-every-resume-in-my-app-mlf)
+- [The Career Isn&#39;t Eroding. It&#39;s Relocating.](https://dev.to/o96a/the-career-isnt-eroding-its-relocating-51hc)
+- [Build a Website Tech Stack Scanner CLI in Go Using Wappalyzergo](https://dev.to/toolsura/build-a-website-tech-stack-scanner-cli-in-go-using-wappalyzergo-1anp)
+- [Putting It All Together: Your Agentic AI Security Playbook for AWS](https://dev.to/aws/putting-it-all-together-your-agentic-ai-security-playbook-for-aws-14ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
