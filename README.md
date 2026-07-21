@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CCIP Doesn&#39;t Run Two DONs Anymore. Here&#39;s What v1.6 Actually Changed.](https://dev.to/0xramprasad/ccip-doesnt-run-two-dons-anymore-heres-what-v16-actually-changed-63a)
-- [I REBUILT MY SITE WITH ASTRO &amp; SANITY](https://dev.to/mjblount_design/i-rebuilt-my-site-with-astro-sanity-1b7c)
-- [Stop Using Generic AI Review. Build Your Own Board of Experts.](https://dev.to/yuhaolin2005/stop-using-generic-ai-review-build-your-own-board-of-experts-196n)
-- [I Shipped 5 Products Using These 11 AI Prompts &lpar;Open-Sourced, With Outputs&rpar;](https://dev.to/draftkit/i-shipped-5-products-using-these-11-ai-prompts-open-sourced-with-outputs-3k3c)
-- [Docker for the Developer Who Actually Has to Ship: Secrets, Multi-Stage Builds, Live Reload, and Why Your Container Just Died](https://dev.to/surajrkhonde/docker-for-the-developer-who-actually-has-to-ship-secrets-multi-stage-builds-live-reload-and-57m7)
+- [De Node à Go : le même POST /register, côte à côte](https://dev.to/_notbu7ch/de-node-a-go-le-meme-post-register-cote-a-cote-2igd)
+- [Can ClickHouse Replace a Vector Database?](https://dev.to/mohhddhassan/can-clickhouse-replace-a-vector-database-4h45)
+- [10 Production Mistakes Developers Make While Building AI Agents](https://dev.to/the-tisa/10-production-mistakes-developers-make-while-building-ai-agents-57de)
+- [Top AI Papers on Hugging Face - 2026-07-21](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-21-2h0c)
+- [10 AI Prompts I Use as an Engineering Manager &lpar;1:1s, Postmortems, Performance Reviews&rpar;](https://dev.to/draftkit/10-ai-prompts-i-use-as-an-engineering-manager-11s-postmortems-performance-reviews-gg7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
