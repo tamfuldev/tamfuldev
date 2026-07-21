@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MTTR vs. SLA Compliance: Which Security Metrics Actually Matter?](https://dev.to/instasla/mttr-vs-sla-compliance-which-security-metrics-actually-matter-2k8k)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3fd7)
-- [Distributed Metadata Migration](https://dev.to/ai_cloud_data_handling/distributed-metadata-migration-1pf6)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-ah)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-i7d)
+- [Why Google Translate Crashes Your React App &lpar;and How to Fix It&rpar;](https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391)
+- [Building explicit data-flow graphs in TypeScript: Introducing Transferum](https://dev.to/smoren/building-explicit-data-flow-graphs-in-typescript-introducing-transferum-3f23)
+- [Refactoring Legacy Code: The Matrix of Clean Code](https://dev.to/timevolt/refactoring-legacy-code-the-matrix-of-clean-code-4fb7)
+- [Your Agent&#39;s Bill Jumped 40%. It Never Errored Once.](https://dev.to/opsveritas/your-agents-bill-jumped-40-it-never-errored-once-34p2)
+- [A Jump That Should Not Kill You: Fixing a False Game Over in a Three.js Arcade Game](https://dev.to/sunnhappy/a-jump-that-should-not-kill-you-fixing-a-false-game-over-in-a-threejs-arcade-game-1fgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
