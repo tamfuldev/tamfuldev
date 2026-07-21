@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From &quot;You Have a Bug&quot; to &quot;Here&#39;s the Root Cause&quot; - Adding AI Code Analysis to My App Review Pipeline](https://dev.to/ashish_mishra_8491c3b9912/from-you-have-a-bug-to-heres-the-root-cause-adding-ai-code-analysis-to-my-app-review-pipeline-51f1)
-- [[Boost]](https://dev.to/atrandafir/-5b8m)
-- [Spec-Driven Development: quando a especificação vira a fonte da verdade &lpar;não o código&rpar;](https://dev.to/wildrik/spec-driven-development-quando-a-especificacao-vira-a-fonte-da-verdade-nao-o-codigo-f7d)
-- [Your hallucination checker only sees the final paragraph](https://dev.to/amin_parva_ab01ff398fd341/your-hallucination-checker-only-sees-the-final-paragraph-416m)
-- [Every AWS project starts with copy-pasting last repo&#39;s Terraform. I built a generator instead.](https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg)
+- [MTTR vs. SLA Compliance: Which Security Metrics Actually Matter?](https://dev.to/instasla/mttr-vs-sla-compliance-which-security-metrics-actually-matter-2k8k)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3fd7)
+- [Distributed Metadata Migration](https://dev.to/ai_cloud_data_handling/distributed-metadata-migration-1pf6)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-ah)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-i7d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
