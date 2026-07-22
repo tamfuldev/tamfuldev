@@ -6,17 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code MCP Setup: A Practical 2026 Guide](https://dev.to/stravukarl/claude-code-mcp-setup-a-practical-2026-guide-424f)
-- [How to Set Up Claude Code for Your Team](https://dev.to/stravukarl/how-to-set-up-claude-code-for-your-team-5ahk)
-- [The agent should not choose its own state view](https://dev.to/davidloibner/the-agent-should-not-choose-its-own-state-view-12hl)
-- [Most GitHub README Generators out there feel identical and lacking. 🤦‍♂️
-
-I&#39;m building a modern, highly customizable open-source tool.
-
-What’s that ONE feature you always wished a profile README generator had? Drop your thoughts below! 👇
-
-#buildinpublic](https://dev.to/yusufcanozan/most-github-readme-generators-out-there-feel-identical-and-lacking-im-building-a-modern-f7k)
-- [What to restore when LiteLLM holds team keys, budgets and spend data](https://dev.to/ynvar/what-to-restore-when-litellm-holds-team-keys-budgets-and-spend-data-4fac)
+- [From Prompting to Production: A Practical Framework for AI-Assisted Software Development](https://dev.to/aswani_nayak_cdcb2fe8ee38/from-prompting-to-production-a-practical-framework-for-ai-assisted-software-development-37pp)
+- [Simple Factory, Factory Method, Abstract Factory — Which One Do You Need?](https://dev.to/madhukar_vissapragad/simple-factory-factory-method-abstract-factory-which-one-do-you-need-2fio)
+- [🔒 Inside ATLOCK v4: Building a Windows Security Suite Beyond Simple Password Protection](https://dev.to/akhourianmolkumar/inside-atlock-v4-building-a-windows-security-suite-beyond-simple-password-protection-3mpe)
+- [Never Create an Invalid Object Again — The Builder Pattern](https://dev.to/madhukar_vissapragad/never-create-an-invalid-object-again-the-builder-pattern-1ig6)
+- [I turned my phone into a remote deck for my Windows laptop — no cloud, no accounts, one npm start](https://dev.to/ronak_parmar_033c50d168b5/i-turned-my-phone-into-a-remote-deck-for-my-windows-laptop-no-cloud-no-accounts-one-npm-start-34hb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
