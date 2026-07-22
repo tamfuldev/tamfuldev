@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🦀 Rust’s Real Win: It Didn’t Make Our App Faster, It Made Us Less Terrified](https://dev.to/rainer_montalvo_2026/rusts-real-win-it-didnt-make-our-app-faster-it-made-us-less-terrified-4293)
-- [Is AI Product Engineering Becoming More Important Than AI Model Selection?](https://dev.to/adam762/is-ai-product-engineering-becoming-more-important-than-ai-model-selection-548)
-- [A2P 10DLC, Explained for Developers Who Just Want Their SMS to Send](https://dev.to/sam112/a2p-10dlc-explained-for-developers-who-just-want-their-sms-to-send-53je)
-- [The design work you must finish before Google Play&#39;s 14-day closed test](https://dev.to/nikolas_mi_5f4aa63cc4080/the-design-work-you-must-finish-before-google-plays-14-day-closed-test-p73)
-- [Late Night Shipping Safi Budget Engine Updates &amp; Render Deployment published](https://dev.to/shakipkorir/late-night-shipping-safi-budget-engine-updates-render-deployment-published-1j3g)
+- [What I learned about PDAs in a week of building on Solana #solana #rust #anchor #webdev](https://dev.to/babydriver/what-i-learned-about-pdas-in-a-week-of-building-on-solana-solana-rust-anchor-webdev-3cmn)
+- [Top AI Papers on Hugging Face - 2026-07-22](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-22-5je)
+- [Part 5 - synchronized Keyword: Methods, Blocks, Thread Safety](https://dev.to/rajeshbhola1/part-5-synchronized-keyword-methods-blocks-thread-safety-2b9j)
+- [I Stopped Running Playwright in Cron and Built a Screenshot Archive Instead](https://dev.to/weeknds/i-stopped-running-playwright-in-cron-and-built-a-screenshot-archive-instead-4jhg)
+- [DeepSeek API in TypeScript: secure integration and honest model evaluation for code](https://dev.to/jtorchia/deepseek-api-in-typescript-secure-integration-and-honest-model-evaluation-for-code-4m90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
