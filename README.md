@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini&#39;s Interactions API and MCP](https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g)
-- [🚀 I Built Tooltify360 – A Free Collection of Developer Tools &lpar;No Sign-Up Required&rpar;](https://dev.to/m_haroon_b06f2f509ad0e20/i-built-tooltify360-a-free-collection-of-developer-tools-no-sign-up-required-2o65)
-- [Build an AI Moderation Classifier in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-ai-moderation-classifier-in-python-3p2)
-- [An ESP32 and Eight ToF Sensors Give This Antique Lamp a Sixth Sense](https://dev.to/circuitrocks/an-esp32-and-eight-tof-sensors-give-this-antique-lamp-a-sixth-sense-2824)
-- [QuantzAI: Wie ich eine Machine-Learning-Forschungsplattform für Marktdaten entwickle](https://dev.to/yonesit/quantzai-wie-ich-eine-machine-learning-forschungsplattform-fur-marktdaten-entwickle-2ooi)
+- [Your budgeting app is lying to you about last month](https://dev.to/sssselfmade/your-budgeting-app-is-lying-to-you-about-last-month-3kn8)
+- [My app&#39;s anti-theft feature locked every user out](https://dev.to/sssselfmade/my-apps-anti-theft-feature-locked-every-user-out-48mf)
+- [Automate FOMC and CPI Alerts with n8n and a Free Economic Calendar API](https://dev.to/ichigowa/automate-fomc-and-cpi-alerts-with-n8n-and-a-free-economic-calendar-api-3j87)
+- [How Reading a Design Patterns Book Led Me to Audit My Rust Framework with UML and Merise](https://dev.to/seballiot/how-reading-a-design-patterns-book-led-me-to-audit-my-rust-framework-with-uml-and-merise-45dj)
+- [Implementing UUID v7 by hand: time-sortable primary keys &lpar;and the same-millisecond trap&rpar;](https://dev.to/takahiro_hashito_a1f3f0dc/implementing-uuid-v7-by-hand-time-sortable-primary-keys-and-the-same-millisecond-trap-1l71)
 <!-- BLOG-POST-LIST:END -->
 
 ---
