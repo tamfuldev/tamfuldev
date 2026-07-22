@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [gRPC moved into Spring Boot 4.1: the new starters, the property renames, and what we measured](https://dev.to/davebrown1975/grpc-moved-into-spring-boot-41-the-new-starters-the-property-renames-and-what-we-measured-1mne)
-- [I Built a Roman Numeral Tattoo Generator, Then Realized Conversion Was the Easy Part](https://dev.to/warrenshi/i-built-a-roman-numeral-tattoo-generator-then-realized-conversion-was-the-easy-part-5ac)
-- [SQLazy: Querying the Start Timestamp of the Next Group from the Event Table](https://dev.to/esproc_spl/sqlazy-querying-the-start-timestamp-of-the-next-group-from-the-event-table-4ja4)
-- [I Built a Video Editor That Doesn&#39;t Upload Your Files or Ask for Your Email](https://dev.to/gguixer1/i-built-a-video-editor-that-doesnt-upload-your-files-or-ask-for-your-email-2e3m)
-- [Arrays vs Slices in Go: The Concept Every Beginner Struggles With &lpar;Until It Finally Clicks&rpar;](https://dev.to/perezodiyo/-arrays-vs-slices-in-go-the-concept-every-beginner-struggles-with-until-it-finally-clicks-37mo)
+- [🦀 Rust’s Real Win: It Didn’t Make Our App Faster, It Made Us Less Terrified](https://dev.to/rainer_montalvo_2026/rusts-real-win-it-didnt-make-our-app-faster-it-made-us-less-terrified-4293)
+- [Is AI Product Engineering Becoming More Important Than AI Model Selection?](https://dev.to/adam762/is-ai-product-engineering-becoming-more-important-than-ai-model-selection-548)
+- [A2P 10DLC, Explained for Developers Who Just Want Their SMS to Send](https://dev.to/sam112/a2p-10dlc-explained-for-developers-who-just-want-their-sms-to-send-53je)
+- [The design work you must finish before Google Play&#39;s 14-day closed test](https://dev.to/nikolas_mi_5f4aa63cc4080/the-design-work-you-must-finish-before-google-plays-14-day-closed-test-p73)
+- [Late Night Shipping Safi Budget Engine Updates &amp; Render Deployment published](https://dev.to/shakipkorir/late-night-shipping-safi-budget-engine-updates-render-deployment-published-1j3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
