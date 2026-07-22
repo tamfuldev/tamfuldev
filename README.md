@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Funções Avançadas em SQL](https://dev.to/yuripeixinho/funcoes-avancadas-em-sql-10d1)
-- [I Ran 10+ AI Coding Agents in Parallel. The Bottleneck Wasn&#39;t the AI.](https://dev.to/kikakkz/i-ran-10-ai-coding-agents-in-parallel-the-bottleneck-wasnt-the-ai-12e3)
-- [Read-only Postgres access can still take down your application](https://dev.to/mads_hansen_27b33ebfee4c9/read-only-postgres-access-can-still-take-down-your-application-3l6m)
-- [Nuxt vs SvelteKit: What works better?](https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h)
-- [Not Every Productive Day Looks Like Writing Code](https://dev.to/lksvn/not-every-productive-day-looks-like-writing-code-91h)
+- [Stop Overwriting Your Data: Event Sourcing in Laravel 🕰️](https://dev.to/iprajapatiparesh/stop-overwriting-your-data-event-sourcing-in-laravel-5eee)
+- [AI Agentic Workflow Explained: A Quick Tour of Harness, Tools, Skills, MCP, and Memory](https://dev.to/naimulkarim/ai-agentic-workflow-explained-a-quick-tour-of-harness-tools-skills-mcp-and-memory-n8g)
+- [Test OmniRoute Fallbacks for Semantic Consistency, Not Just Availability](https://dev.to/robinzzz/test-omniroute-fallbacks-for-semantic-consistency-not-just-availability-4kah)
+- [agency-agents Needs a Role Handoff Card Before It Needs More Personas](https://dev.to/haaaaaley/agency-agents-needs-a-role-handoff-card-before-it-needs-more-personas-521)
+- [Test Voicebox Across Permission Loss, Bluetooth Handoff, and Backgrounding](https://dev.to/roronoa_/test-voicebox-across-permission-loss-bluetooth-handoff-and-backgrounding-1pgk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
