@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
-- [I built the cross-platform Nostr desktop client I always wanted](https://dev.to/hoornet/i-built-the-cross-platform-nostr-desktop-client-i-always-wanted-1fkk)
-- [OpenRouter vs Vercel vs LLMGateway Performance](https://dev.to/smakosh/openrouter-vs-vercel-vs-llmgateway-performance-1f6a)
-- [SQL for Beginners: Building a Mini School Database from Scratch!](https://dev.to/neema_kirui/sql-for-beginners-building-a-mini-school-database-from-scratch-3d39)
-- [Kimi K3: Open Frontier Intelligence 글 읽고](https://dev.to/yoon/kimi-k3-open-frontier-intelligence-geul-ilggo-4cgp)
+- [The Eternal Legacy &lpar;2006-2008&rpar;: The Modern Surveillance Aftermath](https://dev.to/bioshistory/the-eternal-legacy-2006-2008-the-modern-surveillance-aftermath-1lh1)
+- [A Lei de Gall: Por que todo sistema complexo que funciona evoluiu de um sistema simples que funcionava ⚙️](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-gall-por-que-todo-sistema-complexo-que-funciona-evoluiu-de-um-sistema-simples-que-bep)
+- [Securing SaaS Signup Forms: Stop Bot Attacks With CAPTCHA](https://dev.to/silverw_dot_ing/securing-saas-signup-forms-stop-bot-attacks-with-captcha-2f15)
+- [Single-table DynamoDB in TypeScript, made simple — meet Dynatable](https://dev.to/ftschopp/single-table-dynamodb-in-typescript-made-simple-meet-dynatable-gn5)
+- [How I Solved Claude Code Silently Missing the SQS Trigger on My Lambda](https://dev.to/siddharth_pandey_27/how-i-solved-claude-code-silently-missing-the-sqs-trigger-on-my-lambda-5a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
