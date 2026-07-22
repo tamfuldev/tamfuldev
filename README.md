@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MergeForge: Resolve Git Conflicts in VS Code or Cursor Like in JetBrains](https://dev.to/ognjenmarcheta/mergeforge-resolve-git-conflicts-in-vs-code-or-cursor-like-in-jetbrains-3oj1)
-- [How to Actually Protect Yourself From wp2shell &lpar;Not Just &quot;Update WordPress&quot;&rpar;](https://dev.to/adityapidurkar/how-to-actually-protect-yourself-from-wp2shell-not-just-update-wordpress-4ead)
-- [Request validation with Zod in Express](https://dev.to/zsevic/request-validation-with-zod-in-express-4gj0)
-- [Unity&#39;s Path to CoreCLR: What the Mono Cutover Means for Your Studio](https://dev.to/oceanviewgames/unitys-path-to-coreclr-what-the-mono-cutover-means-for-your-studio-49p1)
-- [Unity 6.5 Is Here: Should Your Studio Upgrade?](https://dev.to/oceanviewgames/unity-65-is-here-should-your-studio-upgrade-1hef)
+- [Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini&#39;s Interactions API and MCP](https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g)
+- [🚀 I Built Tooltify360 – A Free Collection of Developer Tools &lpar;No Sign-Up Required&rpar;](https://dev.to/m_haroon_b06f2f509ad0e20/i-built-tooltify360-a-free-collection-of-developer-tools-no-sign-up-required-2o65)
+- [Build an AI Moderation Classifier in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-ai-moderation-classifier-in-python-3p2)
+- [An ESP32 and Eight ToF Sensors Give This Antique Lamp a Sixth Sense](https://dev.to/circuitrocks/an-esp32-and-eight-tof-sensors-give-this-antique-lamp-a-sixth-sense-2824)
+- [QuantzAI: Wie ich eine Machine-Learning-Forschungsplattform für Marktdaten entwickle](https://dev.to/yonesit/quantzai-wie-ich-eine-machine-learning-forschungsplattform-fur-marktdaten-entwickle-2ooi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
