@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompting to Production: A Practical Framework for AI-Assisted Software Development](https://dev.to/aswani_nayak_cdcb2fe8ee38/from-prompting-to-production-a-practical-framework-for-ai-assisted-software-development-37pp)
-- [Simple Factory, Factory Method, Abstract Factory — Which One Do You Need?](https://dev.to/madhukar_vissapragad/simple-factory-factory-method-abstract-factory-which-one-do-you-need-2fio)
-- [🔒 Inside ATLOCK v4: Building a Windows Security Suite Beyond Simple Password Protection](https://dev.to/akhourianmolkumar/inside-atlock-v4-building-a-windows-security-suite-beyond-simple-password-protection-3mpe)
-- [Never Create an Invalid Object Again — The Builder Pattern](https://dev.to/madhukar_vissapragad/never-create-an-invalid-object-again-the-builder-pattern-1ig6)
-- [I turned my phone into a remote deck for my Windows laptop — no cloud, no accounts, one npm start](https://dev.to/ronak_parmar_033c50d168b5/i-turned-my-phone-into-a-remote-deck-for-my-windows-laptop-no-cloud-no-accounts-one-npm-start-34hb)
+- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
+- [I built the cross-platform Nostr desktop client I always wanted](https://dev.to/hoornet/i-built-the-cross-platform-nostr-desktop-client-i-always-wanted-1fkk)
+- [OpenRouter vs Vercel vs LLMGateway Performance](https://dev.to/smakosh/openrouter-vs-vercel-vs-llmgateway-performance-1f6a)
+- [SQL for Beginners: Building a Mini School Database from Scratch!](https://dev.to/neema_kirui/sql-for-beginners-building-a-mini-school-database-from-scratch-3d39)
+- [Kimi K3: Open Frontier Intelligence 글 읽고](https://dev.to/yoon/kimi-k3-open-frontier-intelligence-geul-ilggo-4cgp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
