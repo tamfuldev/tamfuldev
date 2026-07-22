@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Eternal Legacy &lpar;2006-2008&rpar;: The Modern Surveillance Aftermath](https://dev.to/bioshistory/the-eternal-legacy-2006-2008-the-modern-surveillance-aftermath-1lh1)
-- [A Lei de Gall: Por que todo sistema complexo que funciona evoluiu de um sistema simples que funcionava ⚙️](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-gall-por-que-todo-sistema-complexo-que-funciona-evoluiu-de-um-sistema-simples-que-bep)
-- [Securing SaaS Signup Forms: Stop Bot Attacks With CAPTCHA](https://dev.to/silverw_dot_ing/securing-saas-signup-forms-stop-bot-attacks-with-captcha-2f15)
-- [Single-table DynamoDB in TypeScript, made simple — meet Dynatable](https://dev.to/ftschopp/single-table-dynamodb-in-typescript-made-simple-meet-dynatable-gn5)
-- [How I Solved Claude Code Silently Missing the SQS Trigger on My Lambda](https://dev.to/siddharth_pandey_27/how-i-solved-claude-code-silently-missing-the-sqs-trigger-on-my-lambda-5a)
+- [MergeForge: Resolve Git Conflicts in VS Code or Cursor Like in JetBrains](https://dev.to/ognjenmarcheta/mergeforge-resolve-git-conflicts-in-vs-code-or-cursor-like-in-jetbrains-3oj1)
+- [How to Actually Protect Yourself From wp2shell &lpar;Not Just &quot;Update WordPress&quot;&rpar;](https://dev.to/adityapidurkar/how-to-actually-protect-yourself-from-wp2shell-not-just-update-wordpress-4ead)
+- [Request validation with Zod in Express](https://dev.to/zsevic/request-validation-with-zod-in-express-4gj0)
+- [Unity&#39;s Path to CoreCLR: What the Mono Cutover Means for Your Studio](https://dev.to/oceanviewgames/unitys-path-to-coreclr-what-the-mono-cutover-means-for-your-studio-49p1)
+- [Unity 6.5 Is Here: Should Your Studio Upgrade?](https://dev.to/oceanviewgames/unity-65-is-here-should-your-studio-upgrade-1hef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
