@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Feedback Channel That Does Not Become Another Abandoned Inbox](https://dev.to/susiewang/build-a-feedback-channel-that-does-not-become-another-abandoned-inbox-ijl)
-- [&quot;Sistemas não transacionais? Sim, dá pra ter consistência &lpar;sem surtar&rpar;&quot; – O guia do Saga Pattern, Outbox e idempotência](https://dev.to/fabiothomazrocha/sistemas-nao-transacionais-sim-da-pra-ter-consistencia-sem-surtar-o-guia-do-saga-pattern-407c)
-- [Is Your AI Agent Eval Set Actually Testing Anything?](https://dev.to/sara_mo/ai-agent-evals-your-eval-set-is-the-product-4iid)
-- [Android root](https://dev.to/hgff_dkhn_caddf994a8f811a/android-root-1ba6)
-- [Build an Image Budget That Your Website Can Actually Keep](https://dev.to/lizechengnet/build-an-image-budget-that-your-website-can-actually-keep-2jee)
+- [AgentScaffold: Memory, Peer Review, and Continuous Improvement for AI Coding Agents](https://dev.to/dr_data/agentscaffold-memory-peer-review-and-continuous-improvement-for-ai-coding-agents-43fb)
+- [From Zero to Building My Own WireGuard VPN Server: My Learning Journey](https://dev.to/srijan-xi/from-zero-to-building-my-own-wireguard-vpn-server-my-learning-journey-4le3)
+- [🚀 16 Days, 5 Frontier AI Models: How to Survive the AI Release Firehose](https://dev.to/usman_awan/16-days-5-frontier-ai-models-how-to-survive-the-ai-release-firehose-2kb8)
+- [Game networking for a slow strategy game](https://dev.to/arjen_/game-networking-for-a-slow-strategy-game-3mdi)
+- [Celtrix - A modern flexible cli tool to scaffold applications with one command](https://dev.to/joe_celaster_123/celtrix-a-modern-flexible-cli-tool-to-scaffold-applications-with-one-command-44n7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
