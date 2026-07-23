@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AKS and Near-Bare-Metal Workloads: What Platform Teams Can Responsibly Plan For](https://dev.to/sathpal_singh/aks-and-near-bare-metal-workloads-what-platform-teams-can-responsibly-plan-for-5927)
-- [I Built CodeComplex: A Real-Time Competitive Coding Platform with AI Rivals and Bug-Fix Arenas](https://dev.to/umangsisodia/i-built-codecomplex-a-real-time-competitive-coding-platform-with-ai-rivals-and-bug-fix-arenas-4j3p)
-- [I built an AI-first bank statement converter. The one rule that stopped it lying to me.](https://dev.to/statementdecoder/i-built-an-ai-first-bank-statement-converter-the-one-rule-that-stopped-it-lying-to-me-24ik)
-- [O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina](https://dev.to/lincoln_romais/-o-dia-em-que-coloquei-um-agente-de-ia-pra-fiscalizar-debito-tecnico-no-maior-banco-da-america-2734)
-- [Beyond the Form Tester: Building a Skill Pack for Your Whole Playwright Suite](https://dev.to/aswani25/beyond-the-form-tester-building-a-skill-pack-for-your-whole-playwright-suite-gk5)
+- [Preview and edit material-kit-react without a build step](https://dev.to/linb/preview-and-edit-material-kit-react-without-a-build-step-1hc9)
+- [How I replaced if statements with a Dictionary delegate in C#](https://dev.to/mirzaleka/how-i-replaced-if-statements-with-a-dictionary-delegate-in-c-42ma)
+- [I built a browser-based pixel-art &amp; animation editor with Vue, Laravel and AI](https://dev.to/yanbess/i-built-a-browser-based-pixel-art-animation-editor-with-vue-laravel-and-ai-2l58)
+- [There was no independent, measured view of AI-API latency by region — so I built one](https://dev.to/max_bob_bfcc3b3f9bf1ab1f3/there-was-no-independent-measured-view-of-ai-api-latency-by-region-so-i-built-one-14ce)
+- [We Don’t Have a Software Engineering Problem. We Have a Platform Engineering Problem.](https://dev.to/sagar_jha_9602020718acbde/we-dont-have-a-software-engineering-problem-we-have-a-platform-engineering-problem-1bm1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
