@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mixture of Experts &lpar;MoE&rpar; Explained](https://dev.to/qainsights/mixture-of-experts-moe-explained-44np)
-- [I Was Building a Platform… Then Ended Up Creating My Own Validation Library 🤯](https://dev.to/drax_/i-was-building-a-platform-then-ended-up-creating-my-own-validation-library-27b0)
-- [🔒 How I Built ATLOCK v4 — A Deep Technical Breakdown of a Windows Security Suite](https://dev.to/akhourianmolkumar/how-i-built-atlock-v4-a-deep-technical-breakdown-of-a-windows-security-suite-3e2j)
-- [Your AI agent dies when the chat ends. That is the real architecture bug.](https://dev.to/talon_agent/your-ai-agent-dies-when-the-chat-ends-that-is-the-real-architecture-bug-cm1)
-- [Hi DEV, we&#39;re 301. Yes, like the status code](https://dev.to/301st/hi-dev-were-301-yes-like-the-status-code-53dl)
+- [AKS and Near-Bare-Metal Workloads: What Platform Teams Can Responsibly Plan For](https://dev.to/sathpal_singh/aks-and-near-bare-metal-workloads-what-platform-teams-can-responsibly-plan-for-5927)
+- [I Built CodeComplex: A Real-Time Competitive Coding Platform with AI Rivals and Bug-Fix Arenas](https://dev.to/umangsisodia/i-built-codecomplex-a-real-time-competitive-coding-platform-with-ai-rivals-and-bug-fix-arenas-4j3p)
+- [I built an AI-first bank statement converter. The one rule that stopped it lying to me.](https://dev.to/statementdecoder/i-built-an-ai-first-bank-statement-converter-the-one-rule-that-stopped-it-lying-to-me-24ik)
+- [O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina](https://dev.to/lincoln_romais/-o-dia-em-que-coloquei-um-agente-de-ia-pra-fiscalizar-debito-tecnico-no-maior-banco-da-america-2734)
+- [Beyond the Form Tester: Building a Skill Pack for Your Whole Playwright Suite](https://dev.to/aswani25/beyond-the-form-tester-building-a-skill-pack-for-your-whole-playwright-suite-gk5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
