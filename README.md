@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Advancing AI 2026: Software, Hardware &amp; Framework, Unified](https://dev.to/earlgreyhot1701d/amd-advancing-ai-2026-software-hardware-framework-unified-2d2j)
-- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
-- [3 Assumptions That Broke Before I Got gpt-oss-120b Working Through the Anthropic SDK](https://dev.to/nomurasan/3-assumptions-that-broke-before-i-got-gpt-oss-120b-working-through-the-anthropic-sdk-m55)
-- [I built a terminal tool to see your AI coding limits before they stop you](https://dev.to/pawfromoz/i-built-a-terminal-tool-to-see-your-ai-coding-limits-before-they-stop-you-3a93)
-- [I built a local-first CLI to track what I&#39;m actually spending on AI APIs](https://dev.to/pawfromoz/i-built-a-local-first-cli-to-track-what-im-actually-spending-on-ai-apis-2ajo)
+- [How I use Claude Code without becoming its passenger](https://dev.to/jeremiafourie/how-i-use-claude-code-without-becoming-its-passenger-63d)
+- [Detect in the Application, Block at the Edge: A Feedback Loop with AWS WAF and CloudFront KVS](https://dev.to/aws-builders/detect-in-the-application-block-at-the-edge-a-feedback-loop-with-aws-waf-and-cloudfront-kvs-5ck3)
+- [One Copy, Two Engines: Architecting a Governed Lakehouse Across Fabric and Azure Databricks](https://dev.to/gabrielhca/one-copy-two-engines-architecting-a-governed-lakehouse-across-fabric-and-azure-databricks-351f)
+- [How TDS Classic Decides What to Deploy, Update, and Delete](https://dev.to/alden_menzalji/how-tds-classic-decides-what-to-deploy-update-and-delete-242g)
+- [Migrating Storage Gateways from Amazon Linux 2 to AL2023 After the EOL Deadline](https://dev.to/aws-builders/migrating-storage-gateways-from-amazon-linux-2-to-al2023-after-the-eol-deadline-24fb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
