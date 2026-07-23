@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your budgeting app is lying to you about last month](https://dev.to/sssselfmade/your-budgeting-app-is-lying-to-you-about-last-month-3kn8)
-- [My app&#39;s anti-theft feature locked every user out](https://dev.to/sssselfmade/my-apps-anti-theft-feature-locked-every-user-out-48mf)
-- [Automate FOMC and CPI Alerts with n8n and a Free Economic Calendar API](https://dev.to/ichigowa/automate-fomc-and-cpi-alerts-with-n8n-and-a-free-economic-calendar-api-3j87)
-- [How Reading a Design Patterns Book Led Me to Audit My Rust Framework with UML and Merise](https://dev.to/seballiot/how-reading-a-design-patterns-book-led-me-to-audit-my-rust-framework-with-uml-and-merise-45dj)
-- [Implementing UUID v7 by hand: time-sortable primary keys &lpar;and the same-millisecond trap&rpar;](https://dev.to/takahiro_hashito_a1f3f0dc/implementing-uuid-v7-by-hand-time-sortable-primary-keys-and-the-same-millisecond-trap-1l71)
+- [Build a Feedback Channel That Does Not Become Another Abandoned Inbox](https://dev.to/susiewang/build-a-feedback-channel-that-does-not-become-another-abandoned-inbox-ijl)
+- [&quot;Sistemas não transacionais? Sim, dá pra ter consistência &lpar;sem surtar&rpar;&quot; – O guia do Saga Pattern, Outbox e idempotência](https://dev.to/fabiothomazrocha/sistemas-nao-transacionais-sim-da-pra-ter-consistencia-sem-surtar-o-guia-do-saga-pattern-407c)
+- [Is Your AI Agent Eval Set Actually Testing Anything?](https://dev.to/sara_mo/ai-agent-evals-your-eval-set-is-the-product-4iid)
+- [Android root](https://dev.to/hgff_dkhn_caddf994a8f811a/android-root-1ba6)
+- [Build an Image Budget That Your Website Can Actually Keep](https://dev.to/lizechengnet/build-an-image-budget-that-your-website-can-actually-keep-2jee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
