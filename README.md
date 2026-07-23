@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mxlliana/-47hf)
-- [Build a Terraform provider for your side project&#39;s API &lpar;it&#39;s smaller than you think&rpar;](https://dev.to/devopsdaily/build-a-terraform-provider-for-your-side-projects-api-its-smaller-than-you-think-5bg8)
-- [From Arcade Cabinets to AI: How the GPU Changed Computing Forever](https://dev.to/rrouwelng/from-arcade-cabinets-to-ai-how-the-gpu-changed-computing-forever-a7m)
-- [I Deployed a Purple Team Inside My Kubernetes Cluster. The Scanners Never Saw It Coming.](https://dev.to/le_beltagy/i-deployed-a-purple-team-inside-my-kubernetes-cluster-the-scanners-never-saw-it-coming-3igh)
-- [DevOps na Prática: Como Reduzir Problemas com Servidores e Rede](https://dev.to/luiscruzcwb/devops-na-pratica-como-reduzir-problemas-com-servidores-e-rede-91a)
+- [Croc GUI: Encrypted Peer-to-Peer File Transfer Without the Terminal &lpar;Cross-Platform&rpar;](https://dev.to/interfluve-wav/croc-gui-encrypted-peer-to-peer-file-transfer-without-the-terminal-cross-platform-3ifd)
+- [Shipping a Solidity contract to mainnet? Do this 20-minute self-check first](https://dev.to/juan23z/shipping-a-solidity-contract-to-mainnet-do-this-20-minute-self-check-first-399o)
+- [Claude Opus/Sonnet Voice Mode, Open-Weight Model Cost Savings, &amp; GitHub AI Agent Security](https://dev.to/soytuber/claude-opussonnet-voice-mode-open-weight-model-cost-savings-github-ai-agent-security-4pmc)
+- [B+tree height after delete: PostgreSQL fast root](https://dev.to/franckpachot/btree-height-after-delete-oracle-rebuild-vs-postgresql-fastroot-1ia4)
+- [I Spent 3 Weeks Debugging Rate Limits Before I Realized the Problem Wasn&#39;t My Code](https://dev.to/raisereturn/i-spent-3-weeks-debugging-rate-limits-before-i-realized-the-problem-wasnt-my-code-51i1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
