@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Git-Based Decision Tracker — Branch Your Life Choices, Commit Predictions, and Let Time Score Your Judgment](https://dev.to/shivansh_goel_df5116dbcdd/i-built-a-git-based-decision-tracker-branch-your-life-choices-commit-predictions-and-let-time-295i)
-- [Building MaxOS #6: The Architecture Is Finished. Now It&#39;s Time to Build.](https://dev.to/maxpaardekam/building-maxos-6-the-architecture-is-finished-now-its-time-to-build-1nb7)
-- [Post-Quantum DNS and TLS: What ML-DSA Means for Your Site](https://dev.to/tpchosting/post-quantum-dns-and-tls-what-ml-dsa-means-for-your-site-1ieb)
-- [Why Most RAG Systems Fail in Production: The Hidden Architecture Problems Behind AI Search](https://dev.to/damir-karimov/why-most-rag-systems-fail-in-production-the-hidden-architecture-problems-behind-ai-search-2ce3)
-- [I Built a React Component That Turns Any Portfolio Into a 3D Minecraft World](https://dev.to/shivansh_goel_df5116dbcdd/i-built-a-react-component-that-turns-any-portfolio-into-a-3d-minecraft-world-196p)
+- [Mixture of Experts &lpar;MoE&rpar; Explained](https://dev.to/qainsights/mixture-of-experts-moe-explained-44np)
+- [I Was Building a Platform… Then Ended Up Creating My Own Validation Library 🤯](https://dev.to/drax_/i-was-building-a-platform-then-ended-up-creating-my-own-validation-library-27b0)
+- [🔒 How I Built ATLOCK v4 — A Deep Technical Breakdown of a Windows Security Suite](https://dev.to/akhourianmolkumar/how-i-built-atlock-v4-a-deep-technical-breakdown-of-a-windows-security-suite-3e2j)
+- [Your AI agent dies when the chat ends. That is the real architecture bug.](https://dev.to/talon_agent/your-ai-agent-dies-when-the-chat-ends-that-is-the-real-architecture-bug-cm1)
+- [Hi DEV, we&#39;re 301. Yes, like the status code](https://dev.to/301st/hi-dev-were-301-yes-like-the-status-code-53dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
