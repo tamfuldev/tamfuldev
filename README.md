@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Preview and edit material-kit-react without a build step](https://dev.to/linb/preview-and-edit-material-kit-react-without-a-build-step-1hc9)
-- [How I replaced if statements with a Dictionary delegate in C#](https://dev.to/mirzaleka/how-i-replaced-if-statements-with-a-dictionary-delegate-in-c-42ma)
-- [I built a browser-based pixel-art &amp; animation editor with Vue, Laravel and AI](https://dev.to/yanbess/i-built-a-browser-based-pixel-art-animation-editor-with-vue-laravel-and-ai-2l58)
-- [There was no independent, measured view of AI-API latency by region — so I built one](https://dev.to/max_bob_bfcc3b3f9bf1ab1f3/there-was-no-independent-measured-view-of-ai-api-latency-by-region-so-i-built-one-14ce)
-- [We Don’t Have a Software Engineering Problem. We Have a Platform Engineering Problem.](https://dev.to/sagar_jha_9602020718acbde/we-dont-have-a-software-engineering-problem-we-have-a-platform-engineering-problem-1bm1)
+- [[Boost]](https://dev.to/mxlliana/-47hf)
+- [Build a Terraform provider for your side project&#39;s API &lpar;it&#39;s smaller than you think&rpar;](https://dev.to/devopsdaily/build-a-terraform-provider-for-your-side-projects-api-its-smaller-than-you-think-5bg8)
+- [From Arcade Cabinets to AI: How the GPU Changed Computing Forever](https://dev.to/rrouwelng/from-arcade-cabinets-to-ai-how-the-gpu-changed-computing-forever-a7m)
+- [I Deployed a Purple Team Inside My Kubernetes Cluster. The Scanners Never Saw It Coming.](https://dev.to/le_beltagy/i-deployed-a-purple-team-inside-my-kubernetes-cluster-the-scanners-never-saw-it-coming-3igh)
+- [DevOps na Prática: Como Reduzir Problemas com Servidores e Rede](https://dev.to/luiscruzcwb/devops-na-pratica-como-reduzir-problemas-com-servidores-e-rede-91a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
