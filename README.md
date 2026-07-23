@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Software That Gets Faster as It Gets Bigger](https://dev.to/derekmwale/designing-software-that-gets-faster-as-it-gets-bigger-3mih)
-- [Your career doesn&#39;t have to stand still just because you&#39;re happy at work!](https://dev.to/gabriel1/your-career-doesnt-have-to-stand-still-just-because-youre-happy-at-work-44nc)
-- [Code Review Habits That Actually Stick](https://dev.to/codeatlas/code-review-habits-that-actually-stick-56a9)
-- [Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b)
-- [How I reduced AI coding context by 95%](https://dev.to/pioner92/how-i-reduced-ai-coding-context-by-95-5ao5)
+- [How to Audit Website Links Before Deployment: A Developer Checklist](https://dev.to/talad/how-to-audit-website-links-before-deployment-a-developer-checklist-4nk8)
+- [A CORS Mismatch That Broke DocMind AI on a Fresh Netlify Deploy](https://dev.to/codewithurooj/a-cors-mismatch-that-broke-docmind-ai-on-a-fresh-netlify-deploy-published-79c)
+- [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09)
+- [MCP Just Killed the Handshake &lpar;Your Server Is Next&rpar;](https://dev.to/temrel/mcp-just-killed-the-handshake-your-server-is-next-47gj)
+- [An AI &quot;Escaped Its Sandbox&quot; — Or We Just Built a Bad Sandbox](https://dev.to/coridev/an-ai-escaped-its-sandbox-or-we-just-built-a-bad-sandbox-352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
