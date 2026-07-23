@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Audit Website Links Before Deployment: A Developer Checklist](https://dev.to/talad/how-to-audit-website-links-before-deployment-a-developer-checklist-4nk8)
-- [A CORS Mismatch That Broke DocMind AI on a Fresh Netlify Deploy](https://dev.to/codewithurooj/a-cors-mismatch-that-broke-docmind-ai-on-a-fresh-netlify-deploy-published-79c)
-- [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09)
-- [MCP Just Killed the Handshake &lpar;Your Server Is Next&rpar;](https://dev.to/temrel/mcp-just-killed-the-handshake-your-server-is-next-47gj)
-- [An AI &quot;Escaped Its Sandbox&quot; — Or We Just Built a Bad Sandbox](https://dev.to/coridev/an-ai-escaped-its-sandbox-or-we-just-built-a-bad-sandbox-352)
+- [I Built a Git-Based Decision Tracker — Branch Your Life Choices, Commit Predictions, and Let Time Score Your Judgment](https://dev.to/shivansh_goel_df5116dbcdd/i-built-a-git-based-decision-tracker-branch-your-life-choices-commit-predictions-and-let-time-295i)
+- [Building MaxOS #6: The Architecture Is Finished. Now It&#39;s Time to Build.](https://dev.to/maxpaardekam/building-maxos-6-the-architecture-is-finished-now-its-time-to-build-1nb7)
+- [Post-Quantum DNS and TLS: What ML-DSA Means for Your Site](https://dev.to/tpchosting/post-quantum-dns-and-tls-what-ml-dsa-means-for-your-site-1ieb)
+- [Why Most RAG Systems Fail in Production: The Hidden Architecture Problems Behind AI Search](https://dev.to/damir-karimov/why-most-rag-systems-fail-in-production-the-hidden-architecture-problems-behind-ai-search-2ce3)
+- [I Built a React Component That Turns Any Portfolio Into a 3D Minecraft World](https://dev.to/shivansh_goel_df5116dbcdd/i-built-a-react-component-that-turns-any-portfolio-into-a-3d-minecraft-world-196p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
