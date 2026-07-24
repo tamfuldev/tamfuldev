@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Explain the Concept of &quot;Convention over Configuration&quot; in Spring Boot](https://dev.to/realnamehidden1_61/explain-the-concept-of-convention-over-configuration-in-spring-boot-2gal)
-- [Do Not Invent a 5-Hour Window in a Codex Usage Tracker](https://dev.to/agentis/do-not-invent-a-5-hour-window-in-a-codex-usage-tracker-44od)
-- [10 Python Libraries Every AI Builder Should Know](https://dev.to/jaideepparashar/10-python-libraries-every-ai-builder-should-know-825)
-- [When Claude Detects &quot;Why Isn&#39;t This Fixed Yet?&quot; and Repairs Its Own CLAUDE.md: A Self-Improvement Loop Driven by Frustration Signals in Transcripts](https://dev.to/bokuwalily/when-claude-detects-why-isnt-this-fixed-yet-and-repairs-its-own-claudemd-a-self-improvement-4pla)
-- [Building ByteMentor AI: An Always-On Learning Agent with AWS Serverless](https://dev.to/abdullah_haroon_092cf10d3/building-bytementor-ai-an-always-on-learning-agent-with-aws-serverless-46d)
+- [The Person Who Fixed the Bugs Just Vanished](https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm)
+- [How to get started with Web Accessibility in 2026](https://dev.to/josefine/how-to-get-started-with-web-accessibility-in-2026-2o6p)
+- [I Was Optimizing Ranking While the Real Problem Was Selection](https://dev.to/valerykot/i-was-optimizing-ranking-while-the-real-problem-was-selection-3p0k)
+- [The Complete Guide to File Compression: PDF, Image, Video &amp; Document Compression Explained](https://dev.to/uglypeardata/the-complete-guide-to-file-compression-pdf-image-video-document-compression-explained-5dh3)
+- [I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline](https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
