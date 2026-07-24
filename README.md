@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Read-Through and Write-Through Caching with Redis](https://dev.to/moose978/read-through-and-write-through-caching-with-redis-4fm8)
-- [How to Create a Linux Virtual Machine on Azure &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/smayowa10/how-to-create-a-linux-virtual-machine-on-azure-step-by-step-for-beginners-23cg)
-- [Redis Sets and Set Operations](https://dev.to/moose978/redis-sets-and-set-operations-3a48)
-- [Redis Lists and Simple Queues](https://dev.to/moose978/redis-lists-and-simple-queues-d6p)
-- [Build a Feedback Channel That Doesn&#39;t Become Another Abandoned Inbox](https://dev.to/susiewang/build-a-feedback-channel-that-doesnt-become-another-abandoned-inbox-3n3a)
+- [Explain the Concept of &quot;Convention over Configuration&quot; in Spring Boot](https://dev.to/realnamehidden1_61/explain-the-concept-of-convention-over-configuration-in-spring-boot-2gal)
+- [Do Not Invent a 5-Hour Window in a Codex Usage Tracker](https://dev.to/agentis/do-not-invent-a-5-hour-window-in-a-codex-usage-tracker-44od)
+- [10 Python Libraries Every AI Builder Should Know](https://dev.to/jaideepparashar/10-python-libraries-every-ai-builder-should-know-825)
+- [When Claude Detects &quot;Why Isn&#39;t This Fixed Yet?&quot; and Repairs Its Own CLAUDE.md: A Self-Improvement Loop Driven by Frustration Signals in Transcripts](https://dev.to/bokuwalily/when-claude-detects-why-isnt-this-fixed-yet-and-repairs-its-own-claudemd-a-self-improvement-4pla)
+- [Building ByteMentor AI: An Always-On Learning Agent with AWS Serverless](https://dev.to/abdullah_haroon_092cf10d3/building-bytementor-ai-an-always-on-learning-agent-with-aws-serverless-46d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
