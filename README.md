@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I use Claude Code without becoming its passenger](https://dev.to/jeremiafourie/how-i-use-claude-code-without-becoming-its-passenger-63d)
-- [Detect in the Application, Block at the Edge: A Feedback Loop with AWS WAF and CloudFront KVS](https://dev.to/aws-builders/detect-in-the-application-block-at-the-edge-a-feedback-loop-with-aws-waf-and-cloudfront-kvs-5ck3)
-- [One Copy, Two Engines: Architecting a Governed Lakehouse Across Fabric and Azure Databricks](https://dev.to/gabrielhca/one-copy-two-engines-architecting-a-governed-lakehouse-across-fabric-and-azure-databricks-351f)
-- [How TDS Classic Decides What to Deploy, Update, and Delete](https://dev.to/alden_menzalji/how-tds-classic-decides-what-to-deploy-update-and-delete-242g)
-- [Migrating Storage Gateways from Amazon Linux 2 to AL2023 After the EOL Deadline](https://dev.to/aws-builders/migrating-storage-gateways-from-amazon-linux-2-to-al2023-after-the-eol-deadline-24fb)
+- [Read-Through and Write-Through Caching with Redis](https://dev.to/moose978/read-through-and-write-through-caching-with-redis-4fm8)
+- [How to Create a Linux Virtual Machine on Azure &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/smayowa10/how-to-create-a-linux-virtual-machine-on-azure-step-by-step-for-beginners-23cg)
+- [Redis Sets and Set Operations](https://dev.to/moose978/redis-sets-and-set-operations-3a48)
+- [Redis Lists and Simple Queues](https://dev.to/moose978/redis-lists-and-simple-queues-d6p)
+- [Build a Feedback Channel That Doesn&#39;t Become Another Abandoned Inbox](https://dev.to/susiewang/build-a-feedback-channel-that-doesnt-become-another-abandoned-inbox-3n3a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
