@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Vague Understanding to Working Truth: Governed Externalized Sensemaking](https://dev.to/davidvk89/from-vague-understanding-to-working-truth-governed-externalized-sensemaking-18n7)
-- [Integrating LLMs into Production: Practical Patterns and Pitfalls](https://dev.to/developerzai/integrating-llms-into-production-practical-patterns-and-pitfalls-596j)
-- [Why I Built a Browser Audio Workspace That Shows Its Internal Signal](https://dev.to/bifrostbinaural/why-i-built-a-browser-audio-workspace-that-shows-its-internal-signal-2da9)
-- [I wanted free subdomains for my project. Ended up building my own registry in Python &lpar;and fighting DNS, Git and Cloudflare along the way&rpar;](https://dev.to/ilyap358/i-wanted-free-subdomains-for-my-project-ended-up-building-my-own-registry-in-python-and-fighting-2hnl)
-- [Deploying Kubernetes Dashboard and Managing Cluster Resources](https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426)
+- [Your coding agent knows your codebase. It knows nothing about your users.](https://dev.to/scatterlabz/your-coding-agent-knows-your-codebase-it-knows-nothing-about-your-users-5339)
+- [『画面を飛び出したAIスウォーム』：バンコクの物理世界（IoT・都市物流）を無人で侵食する「O2O物理ハック仕様書」 Sofi_Log #040](https://dev.to/sofi_works_2a97535d1a93dc/hua-mian-wofei-bichu-sitaaisuuomu-bankokunowu-li-shi-jie-iotdu-shi-wu-liu-wowu-ren-deqin-shi-suruo2owu-li-hatukushi-yang-shu-sofilog-040-5f14)
+- [Camunda 7 - Processamento assíncrono global e testes](https://dev.to/denisgmarques/camunda-7-processamento-assincrono-global-e-testes-4gp1)
+- [🚀 Backend Internals #4: exports vs module.exports — What&#39;s the Difference?](https://dev.to/joshikrati03/backend-internals-4-exports-vs-moduleexports-whats-the-difference-5740)
+- [Why Your Regex Works in Testing But Breaks in Production](https://dev.to/99tools/why-your-regex-works-in-testing-but-breaks-in-production-4jng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
