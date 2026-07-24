@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Some Next.js Sites Show Empty HTML in Page Source &lpar;It&#39;s Not a Bug&rpar;](https://dev.to/joodi/why-some-nextjs-sites-show-empty-html-in-page-source-its-not-a-bug-gjb)
-- [From JavaScript to Node.js: Understanding What Really Happens Behind the Scenes &lpar;Part 3&rpar;](https://dev.to/sudhanshu_code_b8ef988ceb/from-javascript-to-nodejs-understanding-what-really-happens-behind-the-scenes-part-3-34gj)
-- [What actually breaks when you deploy an AI-built app](https://dev.to/actuant/what-actually-happens-when-you-ship-an-ai-built-app-50f3)
-- [Top AI Papers on Hugging Face - 2026-07-24](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-24-152k)
-- [Introducing Sheetmusic4J, a Java&lpar;FX&rpar; Library to Render and Interact with Sheet Music](https://dev.to/fdelporte/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music-48dk)
+- [From Vague Understanding to Working Truth: Governed Externalized Sensemaking](https://dev.to/davidvk89/from-vague-understanding-to-working-truth-governed-externalized-sensemaking-18n7)
+- [Integrating LLMs into Production: Practical Patterns and Pitfalls](https://dev.to/developerzai/integrating-llms-into-production-practical-patterns-and-pitfalls-596j)
+- [Why I Built a Browser Audio Workspace That Shows Its Internal Signal](https://dev.to/bifrostbinaural/why-i-built-a-browser-audio-workspace-that-shows-its-internal-signal-2da9)
+- [I wanted free subdomains for my project. Ended up building my own registry in Python &lpar;and fighting DNS, Git and Cloudflare along the way&rpar;](https://dev.to/ilyap358/i-wanted-free-subdomains-for-my-project-ended-up-building-my-own-registry-in-python-and-fighting-2hnl)
+- [Deploying Kubernetes Dashboard and Managing Cluster Resources](https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
