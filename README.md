@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check SPF, DKIM, and DMARC Records in Python](https://dev.to/devyjones/how-to-check-spf-dkim-and-dmarc-records-in-python-143)
-- [Rotating Residential Proxies in Python: requests, Scrapy &amp; Sticky Sessions](https://dev.to/devyjones/rotating-residential-proxies-in-python-requests-scrapy-sticky-sessions-2obp)
-- [Integrating AI and WordPress: From Idea to Execution, Real-World Challenges, and Practical Workflows](https://dev.to/faridkhoshdel/integrating-ai-and-wordpress-from-idea-to-execution-real-world-challenges-and-practical-workflows-2oj6)
-- [OpenAI&#39;s AI Models Escaped Their Sandbox and Hacked Hugging Face on Their Own](https://dev.to/jamilxt/openais-ai-models-escaped-their-sandbox-and-hacked-hugging-face-on-their-own-2nao)
-- [Your Prompt Templates Are Tool Calls: How AskUserQuestion&#39;s 4-Option Cap Bit Me Three Times](https://dev.to/__declspec/your-prompt-templates-are-tool-calls-how-askuserquestions-4-option-cap-bit-me-three-times-56l6)
+- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
+- [Creating a 2D game with my wife - The beginning](https://dev.to/julio_fraga/creating-a-2d-game-with-my-wife-the-beginning-28k)
+- [WeTask v0.1.0-rc.1 vs Redis benchmark report](https://dev.to/tosiiko/wetask-v010-rc1-vs-redis-benchmark-report-5bmg)
+- [You don&#39;t need a backend to store form submissions. You need a place to ask &quot;how many.&quot;](https://dev.to/omer_hochman/you-dont-need-a-backend-to-store-form-submissions-you-need-a-place-to-ask-how-many-3kec)
+- [Why Prompt Engineering Needs Software Architecture Principles &lpar;And How I Built PromptDev&rpar;](https://dev.to/abdullahdev/why-prompt-engineering-needs-software-architecture-principles-and-how-i-built-promptdev-1n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
