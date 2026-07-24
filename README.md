@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Alignment for Icons and Labels in Tailwind CSS](https://dev.to/rushan123/visual-alignment-for-icons-and-labels-in-tailwind-css-58jo)
-- [The Hard Reality of Deploying AI Agents in Production Beyond the Demo: What Happens When AI Agents Meet Real-World Infrastructure?](https://dev.to/maya_573/the-hard-reality-of-deploying-ai-agents-in-production-beyond-the-demo-what-happens-when-ai-agents-5a20)
-- [The agency premium in India is 20% or 42% - and it depends on your GST registration, not their price](https://dev.to/preciousky_45d956626d31c3/the-agency-premium-in-india-is-20-or-42-and-it-depends-on-your-gst-registration-not-their-price-4fbg)
-- [Your Brain Is a Rendering Engine. So Is Every LLM.](https://dev.to/whetlan/your-brain-is-a-rendering-engine-so-is-every-llm-4kjd)
-- [Codex can now read Claude Code&#39;s memory](https://dev.to/_548fe7f9c7fcd1125fd/codex-can-now-read-claude-codes-memory-3ek7)
+- [Why Some Next.js Sites Show Empty HTML in Page Source &lpar;It&#39;s Not a Bug&rpar;](https://dev.to/joodi/why-some-nextjs-sites-show-empty-html-in-page-source-its-not-a-bug-gjb)
+- [From JavaScript to Node.js: Understanding What Really Happens Behind the Scenes &lpar;Part 3&rpar;](https://dev.to/sudhanshu_code_b8ef988ceb/from-javascript-to-nodejs-understanding-what-really-happens-behind-the-scenes-part-3-34gj)
+- [What actually breaks when you deploy an AI-built app](https://dev.to/actuant/what-actually-happens-when-you-ship-an-ai-built-app-50f3)
+- [Top AI Papers on Hugging Face - 2026-07-24](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-24-152k)
+- [Introducing Sheetmusic4J, a Java&lpar;FX&rpar; Library to Render and Interact with Sheet Music](https://dev.to/fdelporte/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music-48dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
