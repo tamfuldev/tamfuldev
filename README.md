@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP server in Python &lpar;and connecting it to Claude Code&rpar;](https://dev.to/dsplce-co/building-an-mcp-server-in-python-and-connecting-it-to-claude-code-4ibk)
-- [How I Processed 666K Pages of Flattened PDFs into a Full Text Search Engine](https://dev.to/andreimerlescu/how-i-processed-666k-pages-of-flattened-pdfs-into-a-full-text-search-engine-4db3)
-- [Stop Asking AI Coding Agents to Fix Vague Bugs](https://dev.to/skyestrela/stop-asking-ai-coding-agents-to-fix-vague-bugs-4ji6)
-- [Two coding agents editing the same issue, no merge conflict. Here is how git refs make that work](https://dev.to/dipankar_sarkar/two-coding-agents-editing-the-same-issue-no-merge-conflict-here-is-how-git-refs-make-that-work-325k)
-- [The Two-Map Party Game Server: Building GameNight Without a Database](https://dev.to/abhijat_chaturvedi/the-two-map-party-game-server-building-gamenight-without-a-database-4phb)
+- [From Bug Found to Bug Filed: A Bug-Reporter Skill for Claude Code](https://dev.to/aswani25/from-bug-found-to-bug-filed-a-bug-reporter-skill-for-claude-code-5ih)
+- [What I learned on my first week of TryHackMe](https://dev.to/quinticus/what-i-learned-on-my-first-week-of-cybersecurity-ded)
+- [How I Built a Free Image Downloader &amp; Collector Extension for Designers &amp; Graphic Apparel Creators](https://dev.to/alex_nguyen/how-i-built-a-free-image-downloader-collector-extension-for-designers-graphic-apparel-creators-39li)
+- [Your proxy connected. That doesn&#39;t mean it hid your IP.](https://dev.to/roamproxy/your-proxy-connected-that-doesnt-mean-it-hid-your-ip-28e5)
+- [The Open-Source vs. Proprietary War: Why Meta and Mistral Are Giving Away Models—and What They Gain](https://dev.to/velocityai/the-open-source-vs-proprietary-war-why-meta-and-mistral-are-giving-away-models-and-what-they-gain-3geo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
