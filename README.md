@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Samba File Sharing on Linux: Setting Up Shares With and Without Authentication](https://dev.to/sara_xd_60faa231e7be/samba-file-sharing-on-linux-setting-up-shares-with-and-without-authentication-ld2)
-- [I Found the LeetCode for System Design Interview, and It&#39;s Awesome](https://dev.to/somadevtoo/i-found-the-leetcode-for-system-design-interview-and-its-awesome-10l)
-- [📐 Mathematics for AI — Foundation Course](https://dev.to/ajmal_hasan/mathematics-for-ai-foundation-course-18dk)
-- [Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3](https://dev.to/silentcarry/teaching-my-backend-to-lock-the-door-fastapi-auth-phase-3-5b9o)
-- [What a HIPAA-Compliant AI Voice Agent Actually Costs](https://dev.to/pykero/what-a-hipaa-compliant-ai-voice-agent-actually-costs-14ch)
+- [Bringing Game Design Concepts to the Web with Three.js](https://dev.to/matteosant_dev/bringing-game-design-concepts-to-the-web-with-threejs-1c06)
+- [Your AI Is &quot;In Production.&quot; That Doesn&#39;t Mean It&#39;s Production-Ready.](https://dev.to/prasoonanand/your-ai-is-in-production-that-doesnt-mean-its-production-ready-3ka)
+- [Parsing documents for air-gapped RAG: no cloud, no JVM, no Python](https://dev.to/alexpua/parsing-documents-for-air-gapped-rag-no-cloud-no-jvm-no-python-3a13)
+- [I Thought More Features Meant Better Software. I Was Completely Wrong.](https://dev.to/akhourianmolkumar/i-thought-more-features-meant-better-software-i-was-completely-wrong-h9g)
+- [How I Built a Portfolio Risk &amp; Return Tracker with EODHD](https://dev.to/kevin_menesesgonzlez/how-i-built-a-portfolio-risk-return-tracker-with-eodhd-5gkl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
