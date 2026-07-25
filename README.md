@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Game Design Concepts to the Web with Three.js](https://dev.to/matteosant_dev/bringing-game-design-concepts-to-the-web-with-threejs-1c06)
-- [Your AI Is &quot;In Production.&quot; That Doesn&#39;t Mean It&#39;s Production-Ready.](https://dev.to/prasoonanand/your-ai-is-in-production-that-doesnt-mean-its-production-ready-3ka)
-- [Parsing documents for air-gapped RAG: no cloud, no JVM, no Python](https://dev.to/alexpua/parsing-documents-for-air-gapped-rag-no-cloud-no-jvm-no-python-3a13)
-- [I Thought More Features Meant Better Software. I Was Completely Wrong.](https://dev.to/akhourianmolkumar/i-thought-more-features-meant-better-software-i-was-completely-wrong-h9g)
-- [How I Built a Portfolio Risk &amp; Return Tracker with EODHD](https://dev.to/kevin_menesesgonzlez/how-i-built-a-portfolio-risk-return-tracker-with-eodhd-5gkl)
+- [Node.js 26.5.0: What&#39;s New for Web Streams and Error Handling](https://dev.to/frank_signorini/nodejs-2650-whats-new-for-web-streams-and-error-handling-1faa)
+- [My STL Post Sparked a Real Discussion — Here&#39;s Where It Landed](https://dev.to/alanwu/my-stl-post-sparked-a-real-discussion-heres-where-it-landed-2jfj)
+- [Transport, Surface, Skin: Building MCP Plugins That Survive the Spec](https://dev.to/quotentiroler/transport-surface-skin-building-mcp-plugins-that-survive-the-spec-5dln)
+- [Como crear Roles de Usuarios RBAC Plano PHP MySQL](https://dev.to/evilnapsis/como-crear-roles-de-usuarios-rbac-plano-php-mysql-p0h)
+- [Swagger docs from your existing TypeScript types — no framework required](https://dev.to/seyves_02123877c1b6b0f3a7/swagger-docs-from-your-existing-typescript-types-no-framework-required-1215)
 <!-- BLOG-POST-LIST:END -->
 
 ---
