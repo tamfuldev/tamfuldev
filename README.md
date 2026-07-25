@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion](https://dev.to/danielioni/myzubster-ecosystem-docker-integration-monero-mainnet-and-nft-expansion-1d30)
-- [Sally in the Classroom: A $58K Humanoid Is Not an Education Strategy](https://dev.to/james_lin/sally-in-the-classroom-a-58k-humanoid-is-not-an-education-strategy-13cf)
-- [AI Agent Security Audit Checklist: 8 Critical Tests for Production Deployments](https://dev.to/correctover_15/ai-agent-security-audit-checklist-8-critical-tests-for-production-deployments-448o)
-- [Claude Opus 5: Hands-On with Code Generation, Agent Orchestration, and Cost Analysis](https://dev.to/yanmoheluo/claude-opus-5-hands-on-with-code-generation-agent-orchestration-and-cost-analysis-38b7)
-- [MCP Protocol Security: Why the readOnlyHint Vulnerability Exposes a Fundamental Flaw in AI Agent Tool Calls](https://dev.to/correctover_15/mcp-protocol-security-why-the-readonlyhint-vulnerability-exposes-a-fundamental-flaw-in-ai-agent-4630)
+- [Samba File Sharing on Linux: Setting Up Shares With and Without Authentication](https://dev.to/sara_xd_60faa231e7be/samba-file-sharing-on-linux-setting-up-shares-with-and-without-authentication-ld2)
+- [I Found the LeetCode for System Design Interview, and It&#39;s Awesome](https://dev.to/somadevtoo/i-found-the-leetcode-for-system-design-interview-and-its-awesome-10l)
+- [📐 Mathematics for AI — Foundation Course](https://dev.to/ajmal_hasan/mathematics-for-ai-foundation-course-18dk)
+- [Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3](https://dev.to/silentcarry/teaching-my-backend-to-lock-the-door-fastapi-auth-phase-3-5b9o)
+- [What a HIPAA-Compliant AI Voice Agent Actually Costs](https://dev.to/pykero/what-a-hipaa-compliant-ai-voice-agent-actually-costs-14ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
