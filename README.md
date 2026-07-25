@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Bug Found to Bug Filed: A Bug-Reporter Skill for Claude Code](https://dev.to/aswani25/from-bug-found-to-bug-filed-a-bug-reporter-skill-for-claude-code-5ih)
-- [What I learned on my first week of TryHackMe](https://dev.to/quinticus/what-i-learned-on-my-first-week-of-cybersecurity-ded)
-- [How I Built a Free Image Downloader &amp; Collector Extension for Designers &amp; Graphic Apparel Creators](https://dev.to/alex_nguyen/how-i-built-a-free-image-downloader-collector-extension-for-designers-graphic-apparel-creators-39li)
-- [Your proxy connected. That doesn&#39;t mean it hid your IP.](https://dev.to/roamproxy/your-proxy-connected-that-doesnt-mean-it-hid-your-ip-28e5)
-- [The Open-Source vs. Proprietary War: Why Meta and Mistral Are Giving Away Models—and What They Gain](https://dev.to/velocityai/the-open-source-vs-proprietary-war-why-meta-and-mistral-are-giving-away-models-and-what-they-gain-3geo)
+- [Before You Train the Model: What My First ML Project Taught Me About Data Cleaning](https://dev.to/weenaithdev/before-you-train-the-model-what-my-first-ml-project-taught-me-about-data-cleaning-16i3)
+- [Building My Developer Portfolio with React and Vite](https://dev.to/dikeshsapkota/building-my-developer-portfolio-with-react-and-vite-21g9)
+- [Long Polling : The First Time the Web Tried to Feel Alive](https://dev.to/anik_sikder_313/long-polling-the-first-time-the-web-tried-to-feel-alive-2f67)
+- [The Age of AI Requires Standard Ten: One Unified Code for All Software](https://dev.to/adi_cohen_6e0b7bbd528660e/the-age-of-ai-requires-standard-ten-one-unified-code-for-all-software-el2)
+- [How We Solved Agent Auth Without a Single PAT](https://dev.to/m_v2n2x/how-we-solved-agent-auth-without-a-single-pat-1fnd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
