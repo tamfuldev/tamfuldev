@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js 26.5.0: What&#39;s New for Web Streams and Error Handling](https://dev.to/frank_signorini/nodejs-2650-whats-new-for-web-streams-and-error-handling-1faa)
-- [My STL Post Sparked a Real Discussion — Here&#39;s Where It Landed](https://dev.to/alanwu/my-stl-post-sparked-a-real-discussion-heres-where-it-landed-2jfj)
-- [Transport, Surface, Skin: Building MCP Plugins That Survive the Spec](https://dev.to/quotentiroler/transport-surface-skin-building-mcp-plugins-that-survive-the-spec-5dln)
-- [Como crear Roles de Usuarios RBAC Plano PHP MySQL](https://dev.to/evilnapsis/como-crear-roles-de-usuarios-rbac-plano-php-mysql-p0h)
-- [Swagger docs from your existing TypeScript types — no framework required](https://dev.to/seyves_02123877c1b6b0f3a7/swagger-docs-from-your-existing-typescript-types-no-framework-required-1215)
+- [Building a Single-File Offline Prompt Tool With Vanilla JS](https://dev.to/promptmaster/building-a-single-file-offline-prompt-tool-with-vanilla-js-4h64)
+- [Built an AI Document Assistant That Runs Code in a Sandbox](https://dev.to/emmanuel_mirekumensah_96/built-an-ai-document-assistant-that-runs-code-in-a-sandbox-15kb)
+- [The LeetCode Matrix: How I leveled up my coding skills](https://dev.to/timevolt/the-leetcode-matrix-how-i-leveled-up-my-coding-skills-190m)
+- [Politica de privacidade e promessa que o codigo precisa cumprir](https://dev.to/alessandronuunes/politica-de-privacidade-e-promessa-que-o-codigo-precisa-cumprir-5n5)
+- [I Built a Local RAG Assistant with Ollama, ChromaDB and LangChain. Here&#39;s What I Learned](https://dev.to/josaphatstar/i-built-a-local-rag-assistant-with-ollama-chromadb-and-langchain-heres-what-i-learned-5a2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
