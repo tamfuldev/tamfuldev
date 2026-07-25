@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🐈‍⬛Check Out Catbot&#39;s New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)
-- [Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja)
-- [India&#39;s First Private Rocket Reaches Orbit in Historic Launch](https://dev.to/onsen/indias-first-private-rocket-reaches-orbit-in-historic-launch-5i7)
-- [Composing micro-frontends with import maps and native ES modules](https://dev.to/vageez/composing-micro-frontends-with-import-maps-and-native-es-modules-397o)
-- [Open Source Is More Than Code, What Every WordPress Contributor Should Know](https://dev.to/alaminfirdows/open-source-is-more-than-code-what-every-wordpress-contributor-should-know-4od3)
+- [Docker Storage Mounts and Best Practices](https://dev.to/kai-wen-the-parrot/docker-storage-mounts-and-best-practices-4eeg)
+- [Async Traits in Rust Still Aren&#39;t Object-Safe. Here&#39;s What Actually Works](https://dev.to/dev_encyclopedia/async-traits-in-rust-still-arent-object-safe-heres-what-actually-works-ild)
+- [Stop manually logging your AI API calls — one-line auto-logging for OpenAI and Anthropic](https://dev.to/pawfromoz/stop-manually-logging-your-ai-api-calls-one-line-auto-logging-for-openai-and-anthropic-1b5m)
+- [LeetCode Journal # 1](https://dev.to/fatimaaqaisar/leetcode-journal-1-ja)
+- [When Your SPA Eats Your API Routes: Fixing the Cloudflare Worker vs React Router Conflict](https://dev.to/anand_rathnas_d5b608cc3de/when-your-spa-eats-your-api-routes-fixing-the-cloudflare-worker-vs-react-router-conflict-3p0j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
