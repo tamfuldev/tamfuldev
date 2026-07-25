@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Storage Mounts and Best Practices](https://dev.to/kai-wen-the-parrot/docker-storage-mounts-and-best-practices-4eeg)
-- [Async Traits in Rust Still Aren&#39;t Object-Safe. Here&#39;s What Actually Works](https://dev.to/dev_encyclopedia/async-traits-in-rust-still-arent-object-safe-heres-what-actually-works-ild)
-- [Stop manually logging your AI API calls — one-line auto-logging for OpenAI and Anthropic](https://dev.to/pawfromoz/stop-manually-logging-your-ai-api-calls-one-line-auto-logging-for-openai-and-anthropic-1b5m)
-- [LeetCode Journal # 1](https://dev.to/fatimaaqaisar/leetcode-journal-1-ja)
-- [When Your SPA Eats Your API Routes: Fixing the Cloudflare Worker vs React Router Conflict](https://dev.to/anand_rathnas_d5b608cc3de/when-your-spa-eats-your-api-routes-fixing-the-cloudflare-worker-vs-react-router-conflict-3p0j)
+- [🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion](https://dev.to/danielioni/myzubster-ecosystem-docker-integration-monero-mainnet-and-nft-expansion-1d30)
+- [Sally in the Classroom: A $58K Humanoid Is Not an Education Strategy](https://dev.to/james_lin/sally-in-the-classroom-a-58k-humanoid-is-not-an-education-strategy-13cf)
+- [AI Agent Security Audit Checklist: 8 Critical Tests for Production Deployments](https://dev.to/correctover_15/ai-agent-security-audit-checklist-8-critical-tests-for-production-deployments-448o)
+- [Claude Opus 5: Hands-On with Code Generation, Agent Orchestration, and Cost Analysis](https://dev.to/yanmoheluo/claude-opus-5-hands-on-with-code-generation-agent-orchestration-and-cost-analysis-38b7)
+- [MCP Protocol Security: Why the readOnlyHint Vulnerability Exposes a Fundamental Flaw in AI Agent Tool Calls](https://dev.to/correctover_15/mcp-protocol-security-why-the-readonlyhint-vulnerability-exposes-a-fundamental-flaw-in-ai-agent-4630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
