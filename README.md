@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vibium Under the Hood](https://dev.to/majdizlitni/vibium-under-the-hood-4k5i)
-- [A Small, Annoying Reminder About MySQL, Next.js, and Reality](https://dev.to/nahamaalochi/a-small-annoying-reminder-about-mysql-nextjs-and-reality-2aln)
-- [Mastering Node.js Transport Layers in MCP: Stdio vs. Server-Sent Events &lpar;SSE&rpar;](https://dev.to/programmingcentral/mastering-nodejs-transport-layers-in-mcp-stdio-vs-server-sent-events-sse-245h)
-- [My Solana Program Security Checklist](https://dev.to/babydriver/my-solana-program-security-checklist-3kgf)
-- [MCP versus API: what assistants need that your REST endpoints do not spell out](https://dev.to/apogeewatcher/mcp-versus-api-what-assistants-need-that-your-rest-endpoints-do-not-spell-out-2n5j)
+- [I created a Laravel package to generate clean API modules](https://dev.to/strides_hovo/i-created-a-laravel-package-to-generate-clean-api-modules-118h)
+- [I built a CLI that tells you if your codebase fits an LLM&#39;s context window](https://dev.to/deklain4ik/i-built-a-cli-that-tells-you-if-your-codebase-fits-an-llms-context-window-164d)
+- [Bundler Quiz!](https://dev.to/gemmaro/bundler-quiz-3fkh)
+- [🔄 The JavaScript Event Loop: From &quot;What?&quot; to &quot;Oh, NOW I Get It!&quot; &lpar;A Deep Dive&rpar;](https://dev.to/a7mad1112/the-javascript-event-loop-from-what-to-oh-now-i-get-it-a-deep-dive-49h2)
+- [Building a desktop client for an AI coding agent](https://dev.to/timexingxin/building-a-desktop-client-for-an-ai-coding-agent-147n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
