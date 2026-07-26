@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hardcoding AI Tools: Dynamic Tool Discovery and Schema Validation with Zod &amp; MCP](https://dev.to/programmingcentral/stop-hardcoding-ai-tools-dynamic-tool-discovery-and-schema-validation-with-zod-mcp-3e9j)
-- [I shipped a neural-network opponent into the browser: no backend, no accounts, 120 ms per move](https://dev.to/selectany/i-shipped-a-neural-network-opponent-into-the-browser-no-backend-no-accounts-120-ms-per-move-3l09)
-- [🤖 The Copilot’s Honest Opinion about Rullst!](https://dev.to/venelouis/the-copilots-honest-opinion-about-rullst-hce)
-- [When to Rebuild vs When to Refactor: A Decision Framework for Founders](https://dev.to/makumi/when-to-rebuild-vs-when-to-refactor-a-decision-framework-for-founders-20go)
-- [The technical debt of others](https://dev.to/tracygjg/the-technical-debt-of-others-1gp8)
+- [Following ROWIDs Through an Oracle Unique Index Update](https://dev.to/franckpachot/following-rowids-through-an-oracle-unique-index-update-2lc)
+- [Building a browser game with client-side Groth16 proofs](https://dev.to/heindauven/building-a-browser-game-with-client-side-groth16-proofs-26g9)
+- [Vibe Coding Won&#39;t Kill Developers. It&#39;ll Kill the Middle.](https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61)
+- [Next.js Middleware in 2026: Auth Guards, A/B Tests, and What Belongs at the Edge](https://dev.to/ahmed_mahmoud360/nextjs-middleware-in-2026-auth-guards-ab-tests-and-what-belongs-at-the-edge-10f5)
+- [The Distributed Systems Challenge of Post-Quantum Cryptography](https://dev.to/shubham_shaw_63d2b4bec156/the-distributed-systems-challenge-of-post-quantum-cryptography-25ho)
 <!-- BLOG-POST-LIST:END -->
 
 ---
