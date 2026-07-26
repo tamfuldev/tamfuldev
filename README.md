@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408)
-- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-242f)
-- [Fixing Cache Stampede &amp; API Latency Spike in Redis-Backed Dashboards](https://dev.to/prashant_singh428/fixing-cache-stampede-api-latency-spike-in-redis-backed-dashboards-lha)
-- [Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises](https://dev.to/abhijat_chaturvedi/fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises-3ife)
-- [Building Light: What I Learned After 9 Months](https://dev.to/aswinmrajeev/building-light-what-i-learned-after-9-months-10bn)
+- [How to Scope Custom Software Without Overspending](https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj)
+- [How to Implement SQLite-Backed Shell History with Stinkpot](https://dev.to/solomon_dev/how-to-implement-sqlite-backed-shell-history-with-stinkpot-a6p)
+- [What 4-20mA actually means &lpar;and why your zero is at 4&rpar;](https://dev.to/mariusgjerd/what-4-20ma-actually-means-and-why-your-zero-is-at-4-7fh)
+- [Feeling lost as a Software Engineer in the age of AI. What’s next?](https://dev.to/akashpixel/feeling-lost-as-a-software-engineer-in-the-age-of-ai-whats-next-4lpa)
+- [Claude Opus 5 vs Fable 5: Which Tier Earns the Money](https://dev.to/raxxostudios/claude-opus-5-vs-fable-5-which-tier-earns-the-money-4of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
