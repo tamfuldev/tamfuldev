@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Empire LLM for Codex: AI Code Review Without the Chaos](https://dev.to/davekurian/empire-llm-for-codex-ai-code-review-without-the-chaos-838)
-- [A Smarter Workflow for Debugging and Problem-Solving](https://dev.to/fuadhusnan_f44f3e13/a-smarter-workflow-for-debugging-and-problem-solving-l3m)
-- [Closing Angular&#39;s aesthetic gap](https://dev.to/kishan_hadiyal_8cf48e733d/closing-angulars-aesthetic-gap-1d26)
-- [AI-Assisted Debugging: Speed Boost or Chaos?](https://dev.to/fuadhusnan_f44f3e13/ai-assisted-debugging-speed-boost-or-chaos-aih)
-- [Modern Debugging: The Art of Finding a Needle in a Haystack](https://dev.to/fuadhusnan_f44f3e13/modern-debugging-the-art-of-finding-a-needle-in-a-haystack-e3h)
+- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408)
+- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-242f)
+- [Fixing Cache Stampede &amp; API Latency Spike in Redis-Backed Dashboards](https://dev.to/prashant_singh428/fixing-cache-stampede-api-latency-spike-in-redis-backed-dashboards-lha)
+- [Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises](https://dev.to/abhijat_chaturvedi/fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises-3ife)
+- [Building Light: What I Learned After 9 Months](https://dev.to/aswinmrajeev/building-light-what-i-learned-after-9-months-10bn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
