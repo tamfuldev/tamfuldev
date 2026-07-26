@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Automated Developer Pipelines](https://dev.to/zukliod/building-automated-developer-pipelines-17k5)
-- [just build a music streaming app for windows and androids](https://dev.to/geethudinoyt/just-build-a-music-streaming-app-for-windows-and-androids-3j51)
-- [Single-file INI editor for .NET that preserves formatting by editing the original text](https://dev.to/ng256/single-file-ini-editor-for-net-that-preserves-formatting-by-editing-the-original-text-k2b)
-- [A Weekly AI Coding Report Is an Activity Ledger, Not a Productivity Score](https://dev.to/agentis/a-weekly-ai-coding-report-is-an-activity-ledger-not-a-productivity-score-43eo)
-- [An AI Coding Cost Tracker Needs a Measurement Contract](https://dev.to/agentis/an-ai-coding-cost-tracker-needs-a-measurement-contract-15pj)
+- [The Most Useful Support Agent Is the One That Cannot Send](https://dev.to/susiewang/the-most-useful-support-agent-is-the-one-that-cannot-send-4bdn)
+- [Specs rot. Running code doesn&#39;t. How I restructured my AI agent skills around live references](https://dev.to/mxhlix/specs-rot-running-code-doesnt-how-i-restructured-my-ai-agent-skills-around-live-references-2eae)
+- [Tired of Refreshing? Building a Smart Medical Appointment Agent with Playwright and LLM Function Calling 🏥🤖](https://dev.to/wellallytech/tired-of-refreshing-building-a-smart-medical-appointment-agent-with-playwright-and-llm-function-69j)
+- [CNPJ alfanumérico chegou: como validar o novo formato em JavaScript &lpar;com o algoritmo oficial&rpar;](https://dev.to/andrehenrique311085debug/cnpj-alfanumerico-chegou-como-validar-o-novo-formato-em-javascript-com-o-algoritmo-oficial-570g)
+- [The Spanish Empire of Abstraction strikes back 🇪🇸](https://dev.to/yosoyignicion/the-spanish-empire-of-abstraction-strikes-back-2gpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
