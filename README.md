@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Amazon Bedrock Prompt Caching for Claude 4.6](https://dev.to/nitheesh_gaddam_e36ec4aa4/a-deep-dive-into-amazon-bedrock-prompt-caching-for-claude-46-28ob)
-- [🛠️ How to Run a Privacy-First, Browser-Based Stream Downloader &lpar;FlowPick&rpar; — A Hands-On Tutorial](https://dev.to/flowpick/how-to-run-a-privacy-first-browser-based-stream-downloader-flowpick-a-hands-on-tutorial-ljd)
-- [We Audited Our Claude Code Setup Against Anthropic&#39;s Own Context-Engineering Rules — Here&#39;s What We Found](https://dev.to/pponali/we-audited-our-claude-code-setup-against-anthropics-own-context-engineering-rules-heres-what-we-3mme)
-- [Don&#39;t Wait. Fork It.](https://dev.to/arjunagiarehman/dont-wait-fork-it-5dcj)
-- [I built 185 free browser tools that never upload your files](https://dev.to/apurba_kumar_29e325530643/i-built-185-free-browser-tools-that-never-upload-your-files-3hic)
+- [How to Self-Host an AI API Gateway With Sub2API](https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99)
+- [I built a security layer for applications that developers can install in seconds](https://dev.to/one_fancyapps_71e15a2dea/i-built-a-security-layer-for-applications-that-developers-can-install-in-seconds-3c3j)
+- [Conducting agents like an orchestra: how agents-concerto works](https://dev.to/moruno21/conducting-agents-like-an-orchestra-how-agents-concerto-works-1b2c)
+- [Build a Price Monitoring Bot with Python and Telegram](https://dev.to/qingluan/build-a-price-monitoring-bot-with-python-and-telegram-5d0l)
+- [What I Mean When I Compare the Process to a Quantum State](https://dev.to/davidvk89/what-i-mean-when-i-compare-the-process-to-a-quantum-state-24ij)
 <!-- BLOG-POST-LIST:END -->
 
 ---
