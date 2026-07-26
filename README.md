@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scope Custom Software Without Overspending](https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj)
-- [How to Implement SQLite-Backed Shell History with Stinkpot](https://dev.to/solomon_dev/how-to-implement-sqlite-backed-shell-history-with-stinkpot-a6p)
-- [What 4-20mA actually means &lpar;and why your zero is at 4&rpar;](https://dev.to/mariusgjerd/what-4-20ma-actually-means-and-why-your-zero-is-at-4-7fh)
-- [Feeling lost as a Software Engineer in the age of AI. What’s next?](https://dev.to/akashpixel/feeling-lost-as-a-software-engineer-in-the-age-of-ai-whats-next-4lpa)
-- [Claude Opus 5 vs Fable 5: Which Tier Earns the Money](https://dev.to/raxxostudios/claude-opus-5-vs-fable-5-which-tier-earns-the-money-4of)
+- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
+- [Amazon S3 Alternatives in 2026: A Self-Hosted, S3-Compatible Shortlist](https://dev.to/ethan-carter/amazon-s3-alternatives-in-2026-a-self-hosted-s3-compatible-shortlist-3nmk)
+- [Stop staring at dashboards: Let your Go API diagnose itself](https://dev.to/arhuman/stop-staring-at-dashboards-let-your-go-api-diagnose-itself-1m9e)
+- [SonicJS Auth Gotchas on Cloudflare: Signup, Credentials, and RBAC - Part 3](https://dev.to/infinitezone/sonicjs-auth-gotchas-on-cloudflare-signup-credentials-and-rbac-10ki)
+- [The Frame Keeps Snapping Back to One-Way Control](https://dev.to/davidvk89/the-frame-keeps-snapping-back-to-one-way-control-41l0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
