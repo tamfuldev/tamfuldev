@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
-- [Amazon S3 Alternatives in 2026: A Self-Hosted, S3-Compatible Shortlist](https://dev.to/ethan-carter/amazon-s3-alternatives-in-2026-a-self-hosted-s3-compatible-shortlist-3nmk)
-- [Stop staring at dashboards: Let your Go API diagnose itself](https://dev.to/arhuman/stop-staring-at-dashboards-let-your-go-api-diagnose-itself-1m9e)
-- [SonicJS Auth Gotchas on Cloudflare: Signup, Credentials, and RBAC - Part 3](https://dev.to/infinitezone/sonicjs-auth-gotchas-on-cloudflare-signup-credentials-and-rbac-10ki)
-- [The Frame Keeps Snapping Back to One-Way Control](https://dev.to/davidvk89/the-frame-keeps-snapping-back-to-one-way-control-41l0)
+- [A Deep Dive into Amazon Bedrock Prompt Caching for Claude 4.6](https://dev.to/nitheesh_gaddam_e36ec4aa4/a-deep-dive-into-amazon-bedrock-prompt-caching-for-claude-46-28ob)
+- [🛠️ How to Run a Privacy-First, Browser-Based Stream Downloader &lpar;FlowPick&rpar; — A Hands-On Tutorial](https://dev.to/flowpick/how-to-run-a-privacy-first-browser-based-stream-downloader-flowpick-a-hands-on-tutorial-ljd)
+- [We Audited Our Claude Code Setup Against Anthropic&#39;s Own Context-Engineering Rules — Here&#39;s What We Found](https://dev.to/pponali/we-audited-our-claude-code-setup-against-anthropics-own-context-engineering-rules-heres-what-we-3mme)
+- [Don&#39;t Wait. Fork It.](https://dev.to/arjunagiarehman/dont-wait-fork-it-5dcj)
+- [I built 185 free browser tools that never upload your files](https://dev.to/apurba_kumar_29e325530643/i-built-185-free-browser-tools-that-never-upload-your-files-3hic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
