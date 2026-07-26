@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Self-Host an AI API Gateway With Sub2API](https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99)
-- [I built a security layer for applications that developers can install in seconds](https://dev.to/one_fancyapps_71e15a2dea/i-built-a-security-layer-for-applications-that-developers-can-install-in-seconds-3c3j)
-- [Conducting agents like an orchestra: how agents-concerto works](https://dev.to/moruno21/conducting-agents-like-an-orchestra-how-agents-concerto-works-1b2c)
-- [Build a Price Monitoring Bot with Python and Telegram](https://dev.to/qingluan/build-a-price-monitoring-bot-with-python-and-telegram-5d0l)
-- [What I Mean When I Compare the Process to a Quantum State](https://dev.to/davidvk89/what-i-mean-when-i-compare-the-process-to-a-quantum-state-24ij)
+- [I never ran ESXi in production](https://dev.to/captkay/i-never-ran-esxi-in-production-22e4)
+- [Widgets, Live Activities, and Dynamic Island From One Java API](https://dev.to/codenameone/widgets-live-activities-and-dynamic-island-from-one-java-api-5166)
+- [A Codex Skill That Generates Editable Draw.io Diagrams Instead of Screenshots](https://dev.to/codecow/a-codex-skill-that-generates-editable-drawio-diagrams-instead-of-screenshots-41oa)
+- [The 50KB Problem: Why Government Forms Keep Rejecting Your Photo](https://dev.to/vijay_kanna_56/the-50kb-problem-why-government-forms-keep-rejecting-your-photo-1hfa)
+- [How to Build an LLM Eval Pipeline for Your AI App in 2026](https://dev.to/moksh/how-to-build-an-llm-eval-pipeline-for-your-ai-app-in-2026-4f2b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
