@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Useful Support Agent Is the One That Cannot Send](https://dev.to/susiewang/the-most-useful-support-agent-is-the-one-that-cannot-send-4bdn)
-- [Specs rot. Running code doesn&#39;t. How I restructured my AI agent skills around live references](https://dev.to/mxhlix/specs-rot-running-code-doesnt-how-i-restructured-my-ai-agent-skills-around-live-references-2eae)
-- [Tired of Refreshing? Building a Smart Medical Appointment Agent with Playwright and LLM Function Calling 🏥🤖](https://dev.to/wellallytech/tired-of-refreshing-building-a-smart-medical-appointment-agent-with-playwright-and-llm-function-69j)
-- [CNPJ alfanumérico chegou: como validar o novo formato em JavaScript &lpar;com o algoritmo oficial&rpar;](https://dev.to/andrehenrique311085debug/cnpj-alfanumerico-chegou-como-validar-o-novo-formato-em-javascript-com-o-algoritmo-oficial-570g)
-- [The Spanish Empire of Abstraction strikes back 🇪🇸](https://dev.to/yosoyignicion/the-spanish-empire-of-abstraction-strikes-back-2gpn)
+- [Empire LLM for Codex: AI Code Review Without the Chaos](https://dev.to/davekurian/empire-llm-for-codex-ai-code-review-without-the-chaos-838)
+- [A Smarter Workflow for Debugging and Problem-Solving](https://dev.to/fuadhusnan_f44f3e13/a-smarter-workflow-for-debugging-and-problem-solving-l3m)
+- [Closing Angular&#39;s aesthetic gap](https://dev.to/kishan_hadiyal_8cf48e733d/closing-angulars-aesthetic-gap-1d26)
+- [AI-Assisted Debugging: Speed Boost or Chaos?](https://dev.to/fuadhusnan_f44f3e13/ai-assisted-debugging-speed-boost-or-chaos-aih)
+- [Modern Debugging: The Art of Finding a Needle in a Haystack](https://dev.to/fuadhusnan_f44f3e13/modern-debugging-the-art-of-finding-a-needle-in-a-haystack-e3h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
