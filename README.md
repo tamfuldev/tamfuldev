@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I needed Markdown JSON in four pipelines, so I shipped one endpoint that does it once](https://dev.to/mcgatya09/i-needed-markdown-json-in-four-pipelines-so-i-shipped-one-endpoint-that-does-it-once-46l1)
-- [I wrote an article about enforcing rules with machines. Two days later one of the rules enforced me](https://dev.to/olegkostrikindev/i-wrote-an-article-about-enforcing-rules-with-machines-two-days-later-one-of-the-rules-enforced-me-2a4n)
-- [Node.js has plenty of circuit breakers. So why did I build another one?](https://dev.to/pinceladasdaweb/nodejs-has-plenty-of-circuit-breakers-so-why-did-i-build-another-one-3k66)
-- [Enterprise Cloud Migration: Key Considerations for Indian Businesses](https://dev.to/prateek_navani_157c1ed2b7/enterprise-cloud-migration-key-considerations-for-indian-businesses-33l)
-- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-ethical-3njh)
+- [CodeBerg Bans Cryptocurrency and LLM-generated code projects](https://dev.to/andreimerlescu/codeberg-bans-cryptocurrency-and-llm-generated-code-projects-3aj0)
+- [What I scan for in Framer code components](https://dev.to/thunkle/what-i-scan-for-in-framer-code-components-45la)
+- [Stratagems #19: Mark Found His AI Audit Method in a Training Manual. He Left a Trap in His Report.](https://dev.to/xulingfeng/stratagems-19-mark-found-his-ai-audit-method-in-a-training-manual-he-left-a-trap-in-his-report-3lpi)
+- [The Day I Learned to Respect Database Indexes &lpar;The Hard Way&rpar;](https://dev.to/uddipan_bhattacharyya/the-day-i-learned-to-respect-database-indexes-the-hard-way-29k9)
+- [I Grepped My Own Claude Code Logs and Found the Hidden Tag Anthropic Never Shows You](https://dev.to/nomurasan/i-grepped-my-own-claude-code-logs-and-found-the-hidden-tag-anthropic-never-shows-you-17c0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
