@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CodeBerg Bans Cryptocurrency and LLM-generated code projects](https://dev.to/andreimerlescu/codeberg-bans-cryptocurrency-and-llm-generated-code-projects-3aj0)
-- [What I scan for in Framer code components](https://dev.to/thunkle/what-i-scan-for-in-framer-code-components-45la)
-- [Stratagems #19: Mark Found His AI Audit Method in a Training Manual. He Left a Trap in His Report.](https://dev.to/xulingfeng/stratagems-19-mark-found-his-ai-audit-method-in-a-training-manual-he-left-a-trap-in-his-report-3lpi)
-- [The Day I Learned to Respect Database Indexes &lpar;The Hard Way&rpar;](https://dev.to/uddipan_bhattacharyya/the-day-i-learned-to-respect-database-indexes-the-hard-way-29k9)
-- [I Grepped My Own Claude Code Logs and Found the Hidden Tag Anthropic Never Shows You](https://dev.to/nomurasan/i-grepped-my-own-claude-code-logs-and-found-the-hidden-tag-anthropic-never-shows-you-17c0)
+- [Harness Engineering: The Missing Framework for AI-Native Development](https://dev.to/jacobjerryarackal/harness-engineering-the-missing-framework-for-ai-native-development-3mjl)
+- [Building AI Agents with the TypeScript Agent Development Kit &lpar;ADK&rpar;](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
+- [My JavaScript Learning Journey:Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/harshith_gaddam/my-javascript-learning-journey4-pillars-of-oops-350)
+- [Your Secure Boot Keys Expired in June — Here&#39;s How to Check](https://dev.to/schiff_heimlich/your-secure-boot-keys-expired-in-june-heres-how-to-check-a22)
+- [Your agent memory probably isn&#39;t portable. Here&#39;s the test that proves it.](https://dev.to/mjfekri/your-agent-memory-probably-isnt-portable-heres-the-test-that-proves-it-7lj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
