@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e)
-- [I once found a silicon bug in a protocol spec — not in the RTL.](https://dev.to/mritunjay_biharisingh/i-once-found-a-silicon-bug-in-a-protocol-spec-not-in-the-rtl-1aid)
-- [Most UVM testbenches fail coverage closure for one reason nobody talks about — and it&#39;s not your constraints.](https://dev.to/mritunjay_biharisingh/most-uvm-testbenches-fail-coverage-closure-for-one-reason-nobody-talks-about-and-its-not-your-png)
-- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
-- [I Burned My £20 Cursor Budget on Opus 5 &lpar;And All I Got Was 44 Files of Absolute Garbage&rpar;](https://dev.to/agentic_architect/i-burned-my-ps20-cursor-budget-on-opus-5-and-all-i-got-was-44-files-of-absolute-garbage-je2)
+- [Closure: o que o JavaScript se recusa a deixar pra trás](https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c)
+- [Beyond Binary Input: The Engineering Cost of the Analog Keyboard Paradigm Shift](https://dev.to/james_lin/beyond-binary-input-the-engineering-cost-of-the-analog-keyboard-paradigm-shift-4ccg)
+- [The Laws That Quietly Govern Good Software &lpar;Part One&rpar;](https://dev.to/prof001/the-laws-that-quietly-govern-good-software-part-one-4054)
+- [Paving the wrong Path: What a Broken Government System Taught Me About Feedback Loops](https://dev.to/dobybaxter127/paving-the-wrong-path-what-a-broken-government-system-taught-me-about-feedback-loops-2h24)
+- [Replacing spaCy&#39;s Sentencizer with yasbd: From 55.4% to 98.9% Accuracy](https://dev.to/speed_k_7e1b449706e59e433/replacing-spacys-sentencizer-with-yasbd-from-554-to-989-accuracy-5f0d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
