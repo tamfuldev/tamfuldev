@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Harness Engineering: The Missing Framework for AI-Native Development](https://dev.to/jacobjerryarackal/harness-engineering-the-missing-framework-for-ai-native-development-3mjl)
-- [Building AI Agents with the TypeScript Agent Development Kit &lpar;ADK&rpar;](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
-- [My JavaScript Learning Journey:Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/harshith_gaddam/my-javascript-learning-journey4-pillars-of-oops-350)
-- [Your Secure Boot Keys Expired in June — Here&#39;s How to Check](https://dev.to/schiff_heimlich/your-secure-boot-keys-expired-in-june-heres-how-to-check-a22)
-- [Your agent memory probably isn&#39;t portable. Here&#39;s the test that proves it.](https://dev.to/mjfekri/your-agent-memory-probably-isnt-portable-heres-the-test-that-proves-it-7lj)
+- [Why Sanity is the Best CMS for the Healthcare Industry](https://dev.to/maniekm/why-sanity-is-the-best-cms-for-the-healthcare-industry-4k6i)
+- [The rollback endpoint took a deployment ID and did nothing with it](https://dev.to/jonny2k26/the-rollback-endpoint-took-a-deployment-id-and-did-nothing-with-it-3nad)
+- [The five primitives I run a whole company on](https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl)
+- [I Replaced ESLint and Prettier with Biome](https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5)
+- [How to Start Bug Bounty Hunting in 2026: The Complete Beginner&#39;s Guide](https://dev.to/b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-3cn4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
