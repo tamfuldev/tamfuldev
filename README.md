@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36)
-- [Ego-Lite: The Open-Source Browser Built for Humans and AI Agents](https://dev.to/terminalchai/ego-lite-the-open-source-browser-built-for-humans-and-ai-agents-3cp)
-- [AI Changes the Tools, Not the Fundamentals](https://dev.to/ron_moon_dev/ai-changes-the-tools-not-the-fundamentals-cef)
-- [Usando o Claude como um recrutador técnico pessoal para encontrar minha próxima vaga](https://dev.to/obelucca__/usando-o-claude-como-um-recrutador-tecnico-pessoal-para-encontrar-minha-proxima-vaga-154k)
-- [My LLM Kept Making Stuff Up on Resumes. Here’s How I Shut It Down.](https://dev.to/risola_me_a79eac9d2622b19/my-llm-kept-making-stuff-up-on-resumes-heres-how-i-shut-it-down-15d2)
+- [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e)
+- [I once found a silicon bug in a protocol spec — not in the RTL.](https://dev.to/mritunjay_biharisingh/i-once-found-a-silicon-bug-in-a-protocol-spec-not-in-the-rtl-1aid)
+- [Most UVM testbenches fail coverage closure for one reason nobody talks about — and it&#39;s not your constraints.](https://dev.to/mritunjay_biharisingh/most-uvm-testbenches-fail-coverage-closure-for-one-reason-nobody-talks-about-and-its-not-your-png)
+- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
+- [I Burned My £20 Cursor Budget on Opus 5 &lpar;And All I Got Was 44 Files of Absolute Garbage&rpar;](https://dev.to/agentic_architect/i-burned-my-ps20-cursor-budget-on-opus-5-and-all-i-got-was-44-files-of-absolute-garbage-je2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
