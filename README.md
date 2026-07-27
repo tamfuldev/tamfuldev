@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Sanity is the Best CMS for the Healthcare Industry](https://dev.to/maniekm/why-sanity-is-the-best-cms-for-the-healthcare-industry-4k6i)
-- [The rollback endpoint took a deployment ID and did nothing with it](https://dev.to/jonny2k26/the-rollback-endpoint-took-a-deployment-id-and-did-nothing-with-it-3nad)
-- [The five primitives I run a whole company on](https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl)
-- [I Replaced ESLint and Prettier with Biome](https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5)
-- [How to Start Bug Bounty Hunting in 2026: The Complete Beginner&#39;s Guide](https://dev.to/b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-3cn4)
+- [Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36)
+- [Ego-Lite: The Open-Source Browser Built for Humans and AI Agents](https://dev.to/terminalchai/ego-lite-the-open-source-browser-built-for-humans-and-ai-agents-3cp)
+- [AI Changes the Tools, Not the Fundamentals](https://dev.to/ron_moon_dev/ai-changes-the-tools-not-the-fundamentals-cef)
+- [Usando o Claude como um recrutador técnico pessoal para encontrar minha próxima vaga](https://dev.to/obelucca__/usando-o-claude-como-um-recrutador-tecnico-pessoal-para-encontrar-minha-proxima-vaga-154k)
+- [My LLM Kept Making Stuff Up on Resumes. Here’s How I Shut It Down.](https://dev.to/risola_me_a79eac9d2622b19/my-llm-kept-making-stuff-up-on-resumes-heres-how-i-shut-it-down-15d2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
