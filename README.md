@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides](https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0)
-- [I Planned 10 LLM Evaluation Experiments And Only Ran 1. It Was Enough.](https://dev.to/debashish_ghosal/i-planned-10-llm-evaluation-experiments-and-only-ran-1-it-was-enough-2gjf)
-- [I got tired of juggling apps in my workflow, so I built Termo](https://dev.to/biplab_pokhrel_0224753da6/i-got-tired-of-juggling-apps-in-my-workflow-so-i-built-termo-42hf)
-- [Using Claude to decrypt Carmageddon](https://dev.to/esmesm/using-claude-to-decrypt-carmageddon-dkk)
-- [How to Render Web Pages with JavaScript and Caddy using AxonASP: Step-by-Step](https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d)
+- [How the Amazon ECS deployment circuit breaker detects failures](https://dev.to/aws-builders/how-the-amazon-ecs-deployment-circuit-breaker-detects-failures-3onl)
+- [4 Best LinkedIn NFC Keychains for Professional Networking in 2026](https://dev.to/nigelsilonero/4-best-linkedin-nfc-keychains-for-professional-networking-in-2026-57do)
+- [Building a Dice Roller That Teaches Probability: Batches, Histograms, and CSV](https://dev.to/dngzihng114379/building-a-dice-roller-that-teaches-probability-batches-histograms-and-csv-4jpa)
+- [Lemonade Second Squeeze: Model Archeology on 2019&#39;s GPT-2XL](https://dev.to/earlgreyhot1701d/lemonade-second-squeeze-model-archeology-on-2019s-gpt-2xl-32jm)
+- [Why Your AI Agent Drowns in 50,000 Tokens of Tool Definitions](https://dev.to/hypernexus/why-your-ai-agent-drowns-in-50000-tokens-of-tool-definitions-52d4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
