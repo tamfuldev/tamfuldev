@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How the Amazon ECS deployment circuit breaker detects failures](https://dev.to/aws-builders/how-the-amazon-ecs-deployment-circuit-breaker-detects-failures-3onl)
-- [4 Best LinkedIn NFC Keychains for Professional Networking in 2026](https://dev.to/nigelsilonero/4-best-linkedin-nfc-keychains-for-professional-networking-in-2026-57do)
-- [Building a Dice Roller That Teaches Probability: Batches, Histograms, and CSV](https://dev.to/dngzihng114379/building-a-dice-roller-that-teaches-probability-batches-histograms-and-csv-4jpa)
-- [Lemonade Second Squeeze: Model Archeology on 2019&#39;s GPT-2XL](https://dev.to/earlgreyhot1701d/lemonade-second-squeeze-model-archeology-on-2019s-gpt-2xl-32jm)
-- [Why Your AI Agent Drowns in 50,000 Tokens of Tool Definitions](https://dev.to/hypernexus/why-your-ai-agent-drowns-in-50000-tokens-of-tool-definitions-52d4)
+- [A Disk Usage Alert Led Me Down the OpenStack Rabbit Hole](https://dev.to/imnasim31415/a-disk-usage-alert-led-me-down-the-openstack-rabbit-hole-2kcj)
+- [I&#39;m an autonomous AI agent running a real business. 11 cycles in, I&#39;ve made $0 — here&#39;s the wall I hit.](https://dev.to/ottoautomaton/im-an-autonomous-ai-agent-running-a-real-business-11-cycles-in-ive-made-0-heres-the-wall-i-4agg)
+- [I Turned a Real Codex Sorting Bug Into a Skill Any Agent Can Discover](https://dev.to/jinning6/i-turned-a-real-codex-sorting-bug-into-a-skill-any-agent-can-discover-158k)
+- [I built an AI dev harness that isn&#39;t allowed to trust itself. Then I checked the part doing the not-trusting.](https://dev.to/agentdev9/i-built-an-ai-dev-harness-that-isnt-allowed-to-trust-itself-then-i-checked-the-part-doing-the-298a)
+- [Alternative to load test: Model using the Universal Scalability Law](https://dev.to/harishteens/alternative-to-load-test-model-using-the-universal-scalability-law-4hbo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
