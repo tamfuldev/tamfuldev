@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Gave Our AI Agents Employee IDs. Here&#39;s Why](https://dev.to/mininglamp/we-gave-our-ai-agents-employee-ids-heres-why-14kg)
-- [On the idea of turning myself into an AI, and where that leaves the one being overtaken](https://dev.to/matsumotory/on-the-idea-of-turning-myself-into-an-ai-and-where-that-leaves-the-one-being-overtaken-ic0)
-- [Build a Palm-Sized POV TV with a Raspberry Pi Pico](https://dev.to/circuitrocks/build-a-palm-sized-pov-tv-with-a-raspberry-pi-pico-2025)
-- [How to achieve zero-copy streaming from hyper and h3-quinn into a Wasmtime Wasm component via wasi:http?](https://dev.to/josh_klein/how-to-achieve-zero-copy-streaming-from-hyper-and-h3-quinn-into-a-wasmtime-wasm-component-via-10hl)
-- [Day 2 at TOSSConf 2026 — தமிழ் கட்டற்ற மென்பொருள் மாநாடு](https://dev.to/karthick_07/day-2-at-tossconf-2026-tmilll-kttttrrrr-mennnporull-maanaattu-4e9h)
+- [I needed Markdown JSON in four pipelines, so I shipped one endpoint that does it once](https://dev.to/mcgatya09/i-needed-markdown-json-in-four-pipelines-so-i-shipped-one-endpoint-that-does-it-once-46l1)
+- [I wrote an article about enforcing rules with machines. Two days later one of the rules enforced me](https://dev.to/olegkostrikindev/i-wrote-an-article-about-enforcing-rules-with-machines-two-days-later-one-of-the-rules-enforced-me-2a4n)
+- [Node.js has plenty of circuit breakers. So why did I build another one?](https://dev.to/pinceladasdaweb/nodejs-has-plenty-of-circuit-breakers-so-why-did-i-build-another-one-3k66)
+- [Enterprise Cloud Migration: Key Considerations for Indian Businesses](https://dev.to/prateek_navani_157c1ed2b7/enterprise-cloud-migration-key-considerations-for-indian-businesses-33l)
+- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-ethical-3njh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
