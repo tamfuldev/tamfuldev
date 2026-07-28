@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SRE Playbook: A Guide to Discover and Catalog Non-Human Identities &lpar;NHI&rpar;](https://dev.to/gitguardian/sre-playbook-a-guide-to-discover-and-catalog-non-human-identities-nhi-195o)
-- [Docusaurus i18n: How to keep translations in sync &lpar;manual vs Crowdin vs GitHub Action&rpar;](https://dev.to/pennypanshdotcom/docusaurus-i18n-how-to-keep-translations-in-sync-manual-vs-crowdin-vs-github-action-3h5)
-- [My MCP Server Holds Two API Keys. Every Tool Call Runs in the Same Process as Both.](https://dev.to/enjoy_kumawat/my-mcp-server-holds-two-api-keys-every-tool-call-runs-in-the-same-process-as-both-58a9)
-- [Building with AI: Our Approach to Responsible Agentic Development in Open Source](https://dev.to/jasonstcyr/building-with-ai-our-approach-to-responsible-agentic-development-in-open-source-5f2b)
-- [The Exorcism Lang project is out!](https://dev.to/hunterszone/the-exorcism-lang-project-is-out-3b4d)
+- [Software Evolves Like Ecosystems](https://dev.to/derekmwale/software-evolves-like-ecosystems-3ji1)
+- [I built a UK data API platform with 37 endpoints. Here&#39;s how it works](https://dev.to/staticcreation/i-built-a-uk-data-api-platform-with-37-endpoints-heres-how-it-works-1c28)
+- [OpenRouter solved one problem. I still had four more](https://dev.to/manolito99/openrouter-solved-one-problem-i-still-had-four-more-2c89)
+- [Debug Your PHP App From Your Phone, Through Your AI Assistant](https://dev.to/inspector/debug-your-php-app-from-your-phone-through-your-ai-assistant-3mhb)
+- [In case you missed it:](https://dev.to/canro91/in-case-you-missed-it-3flg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
