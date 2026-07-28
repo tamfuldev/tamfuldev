@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l)
-- [Foreman 101: agentic coding as Kubernetes resources](https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33)
-- [Building an MCP Server on 31 Million Rows of Financial Data](https://dev.to/crichter/building-an-mcp-server-on-31-million-rows-of-financial-data-1p8f)
-- [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/aws-builders/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-53cp)
-- [Are AI agents going to kill dashboards?
-
-Let me know what you think.](https://dev.to/nadaverell/are-ai-agents-going-to-kill-dashboardslet-me-know-what-you-think-2pi7)
+- [I built a CLI to stop myself from committing API keys &lpar;and broken .env files&rpar;](https://dev.to/amitfeldman/i-built-a-cli-to-stop-myself-from-committing-api-keys-and-broken-env-filesi-built-a-cli-to-stop-5eg8)
+- [When your name is also a thing: entity SEO for an ambiguous name](https://dev.to/claytoncamera/when-your-name-is-also-a-thing-entity-seo-for-an-ambiguous-name-3f2g)
+- [Local Kubernetes Dev — Part 3: Tooling overview — who does what](https://dev.to/gaberialsofie/local-kubernetes-dev-part-3-tooling-overview-who-does-what-3an1)
+- [Industrial Heater Sizing Calculator with JavaScript](https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o)
+- [Common Solana Program Vulnerabilities and How to Catch Them](https://dev.to/vandriichuk/common-solana-program-vulnerabilities-and-how-to-catch-them-2fc7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
