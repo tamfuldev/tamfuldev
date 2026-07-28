@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Shared-Database Multi-Tenancy in Laravel: The Foundation Layer](https://dev.to/nasrulhazim/shared-database-multi-tenancy-in-laravel-the-foundation-layer-4oej)
-- [Dev Log: 2026-07-23 — a portfolio-wide SEO pass](https://dev.to/nasrulhazim/dev-log-2026-07-23-a-portfolio-wide-seo-pass-51b0)
-- [Admin-editable SEO &amp; analytics without touching .env](https://dev.to/nasrulhazim/admin-editable-seo-analytics-without-touching-env-37m0)
-- [The Warning That Took My Site Down Was in the Log the Whole Time](https://dev.to/pixel-wraith/the-warning-that-took-my-site-down-was-in-the-log-the-whole-time-mi2)
-- [The AI Summary Said &quot;It&#39;s Not a Scam.&quot; The Springboard Was Your Site&#39;s Search Box](https://dev.to/kenimo49/the-ai-summary-said-its-not-a-scam-the-springboard-was-your-sites-search-box-3iao)
+- [Building an Automated Token Allowance Scanner: Detect and Revoke Risky ERC-20 Approvals with Python](https://dev.to/byaigo/building-an-automated-token-allowance-scanner-detect-and-revoke-risky-erc-20-approvals-with-python-mf9)
+- [DEV WEEKEND with AWS Student Builder Group, QAU Islamabad](https://dev.to/zilleali12/dev-weekend-with-aws-student-builder-group-qau-islamabad-3pp1)
+- [Stop the Blank Screen: Next.js Streaming &amp; Suspense ⏳](https://dev.to/iprajapatiparesh/stop-the-blank-screen-nextjs-streaming-suspense-35f0)
+- [Separate Reads from Writes: CQRS in Laravel 🔀](https://dev.to/iprajapatiparesh/separate-reads-from-writes-cqrs-in-laravel-5kj)
+- [The Security Audit That Found 4 Issues in One Weekend](https://dev.to/anand_rathnas_d5b608cc3de/the-security-audit-that-found-4-issues-in-one-weekend-1928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
