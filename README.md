@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Closure: o que o JavaScript se recusa a deixar pra trás](https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c)
-- [Beyond Binary Input: The Engineering Cost of the Analog Keyboard Paradigm Shift](https://dev.to/james_lin/beyond-binary-input-the-engineering-cost-of-the-analog-keyboard-paradigm-shift-4ccg)
-- [The Laws That Quietly Govern Good Software &lpar;Part One&rpar;](https://dev.to/prof001/the-laws-that-quietly-govern-good-software-part-one-4054)
-- [Paving the wrong Path: What a Broken Government System Taught Me About Feedback Loops](https://dev.to/dobybaxter127/paving-the-wrong-path-what-a-broken-government-system-taught-me-about-feedback-loops-2h24)
-- [Replacing spaCy&#39;s Sentencizer with yasbd: From 55.4% to 98.9% Accuracy](https://dev.to/speed_k_7e1b449706e59e433/replacing-spacys-sentencizer-with-yasbd-from-554-to-989-accuracy-5f0d)
+- [Shared-Database Multi-Tenancy in Laravel: The Foundation Layer](https://dev.to/nasrulhazim/shared-database-multi-tenancy-in-laravel-the-foundation-layer-4oej)
+- [Dev Log: 2026-07-23 — a portfolio-wide SEO pass](https://dev.to/nasrulhazim/dev-log-2026-07-23-a-portfolio-wide-seo-pass-51b0)
+- [Admin-editable SEO &amp; analytics without touching .env](https://dev.to/nasrulhazim/admin-editable-seo-analytics-without-touching-env-37m0)
+- [The Warning That Took My Site Down Was in the Log the Whole Time](https://dev.to/pixel-wraith/the-warning-that-took-my-site-down-was-in-the-log-the-whole-time-mi2)
+- [The AI Summary Said &quot;It&#39;s Not a Scam.&quot; The Springboard Was Your Site&#39;s Search Box](https://dev.to/kenimo49/the-ai-summary-said-its-not-a-scam-the-springboard-was-your-sites-search-box-3iao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
