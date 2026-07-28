@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI to stop myself from committing API keys &lpar;and broken .env files&rpar;](https://dev.to/amitfeldman/i-built-a-cli-to-stop-myself-from-committing-api-keys-and-broken-env-filesi-built-a-cli-to-stop-5eg8)
-- [When your name is also a thing: entity SEO for an ambiguous name](https://dev.to/claytoncamera/when-your-name-is-also-a-thing-entity-seo-for-an-ambiguous-name-3f2g)
-- [Local Kubernetes Dev — Part 3: Tooling overview — who does what](https://dev.to/gaberialsofie/local-kubernetes-dev-part-3-tooling-overview-who-does-what-3an1)
-- [Industrial Heater Sizing Calculator with JavaScript](https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o)
-- [Common Solana Program Vulnerabilities and How to Catch Them](https://dev.to/vandriichuk/common-solana-program-vulnerabilities-and-how-to-catch-them-2fc7)
+- [Top 5 Node.js ORMs Every Developer Should Know in 2026](https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p)
+- [Your eval&#39;s confidence interval assumes independent examples. Yours are clustered.](https://dev.to/maya_andersson_dev/your-evals-confidence-interval-assumes-independent-examples-yours-are-clustered-292c)
+- [Starting Terraria modding &lpar;again&rpar;](https://dev.to/uniformic/starting-terraria-modding-again-4g6a)
+- [Building Local AI Agents in Java with Tools4AI and Ollama: An Insurance Claims Use Case](https://dev.to/vishalmysore/building-local-ai-agents-in-java-with-tools4ai-and-ollama-an-insurance-claims-use-case-2m0m)
+- [Running Shape Up in Jira or Linear quietly turns it back into Scrum](https://dev.to/rob_walden/running-shape-up-in-jira-or-linear-quietly-turns-it-back-into-scrum-10i8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
