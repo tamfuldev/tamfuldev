@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Software Evolves Like Ecosystems](https://dev.to/derekmwale/software-evolves-like-ecosystems-3ji1)
-- [I built a UK data API platform with 37 endpoints. Here&#39;s how it works](https://dev.to/staticcreation/i-built-a-uk-data-api-platform-with-37-endpoints-heres-how-it-works-1c28)
-- [OpenRouter solved one problem. I still had four more](https://dev.to/manolito99/openrouter-solved-one-problem-i-still-had-four-more-2c89)
-- [Debug Your PHP App From Your Phone, Through Your AI Assistant](https://dev.to/inspector/debug-your-php-app-from-your-phone-through-your-ai-assistant-3mhb)
-- [In case you missed it:](https://dev.to/canro91/in-case-you-missed-it-3flg)
+- [Google Play Requires Android 16 &lpar;API Level 36&rpar; by August 31, 2026 — React Native Migration Guide](https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51)
+- [VS Code &amp; Codespaces iPadOS](https://dev.to/pierreperrin/vs-code-codespaces-ipados-3omo)
+- [I Had Zero Programming Experience. Two Months Later, I Built My First Real-World Solution.](https://dev.to/hanayo/i-had-zero-programming-experience-two-months-later-i-built-my-first-real-world-solution-4840)
+- [One Repo Became Three — Quietly, Then Publicl](https://dev.to/yujisuzuki/one-repo-became-three-quietly-then-publicl-4ofd)
+- [Beyond Cyclic Polling: Objects, Classes, and Outstation State in DNP3](https://dev.to/null_saint/beyond-cyclic-polling-objects-classes-and-outstation-state-in-dnp3-be9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
