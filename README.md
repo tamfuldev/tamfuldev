@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Node.js ORMs Every Developer Should Know in 2026](https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p)
-- [Your eval&#39;s confidence interval assumes independent examples. Yours are clustered.](https://dev.to/maya_andersson_dev/your-evals-confidence-interval-assumes-independent-examples-yours-are-clustered-292c)
-- [Starting Terraria modding &lpar;again&rpar;](https://dev.to/uniformic/starting-terraria-modding-again-4g6a)
-- [Building Local AI Agents in Java with Tools4AI and Ollama: An Insurance Claims Use Case](https://dev.to/vishalmysore/building-local-ai-agents-in-java-with-tools4ai-and-ollama-an-insurance-claims-use-case-2m0m)
-- [Running Shape Up in Jira or Linear quietly turns it back into Scrum](https://dev.to/rob_walden/running-shape-up-in-jira-or-linear-quietly-turns-it-back-into-scrum-10i8)
+- [Your AI Agents Need Finite State Machines &lpar;FSMs&rpar;](https://dev.to/remojansen/your-ai-agents-need-finite-state-machines-fsms-2i9j)
+- [I built a free full-stack auth starter so you can skip &quot;auth week&quot; &lpar;Flutter + FastAPI&rpar;](https://dev.to/yusuf_kzlkan_bec8219b13/i-built-a-free-full-stack-auth-starter-so-you-can-skip-auth-week-flutter-fastapi-4e51)
+- [Your AI Agent Can Call Every API — Except Your Bank. Here&#39;s Why.](https://dev.to/johnfrandsen/your-ai-agent-can-call-every-api-except-your-bank-heres-why-46gi)
+- [The Silent Outage: Monitoring What You Can&#39;t See](https://dev.to/samson_tanimawo/the-silent-outage-monitoring-what-you-cant-see-323n)
+- [𝗪𝗵𝘆 𝘁𝗵𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝘁𝗵𝗲 𝗥𝗲𝘀𝘂𝗹𝘁](https://dev.to/yoditdevn8n/-9ce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
