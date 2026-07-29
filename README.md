@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4n8l)
-- [Building with mini, Part 8/9: Health commands — changelog and doctor](https://dev.to/stkremen/building-with-mini-part-8-health-commands-changelog-and-doctor-5b5j)
-- [Reliable Corporate Transportation Services for Business Travel](https://dev.to/seattlecarserviceinc_9a31/reliable-corporate-transportation-services-for-business-travel-flb)
-- [Document pseudonymization for AI assistants: sending the spreadsheet without sending the customers](https://dev.to/genevieve_breton_cb795f52/document-pseudonymization-for-ai-assistants-sending-the-spreadsheet-without-sending-the-customers-1lf9)
-- [One analytics codebase, three runtimes &lpar;web, native, offline&rpar;](https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2)
+- [Anthropic Says Claude Mythos Preview Found Cryptography Implementation Weaknesses](https://dev.to/alifar/anthropic-says-claude-mythos-preview-found-cryptography-implementation-weaknesses-2dhk)
+- [Se eu pudesse recomeçar em TI, evitaria estes erros.](https://dev.to/he4rt/se-eu-pudesse-recomecar-em-ti-evitaria-estes-erros-3bl8)
+- [How to check if an IP is blacklisted &lpar;DNSBL&rpar;, from raw DNS to one curl](https://dev.to/codelong888/how-to-check-if-an-ip-is-blacklisted-dnsbl-from-raw-dns-to-one-curl-4jl5)
+- [Building Form-Associated Custom Elements with ElementInternals](https://dev.to/korial29/building-form-associated-custom-elements-with-elementinternals-24f0)
+- [7 REST API Best Practices Every Backend Developer Should Follow](https://dev.to/toolbenchapp/7-rest-api-best-practices-every-backend-developer-should-follow-33ch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
