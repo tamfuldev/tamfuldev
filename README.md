@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming vs JSON: Trade-offs in AI-Powered Apps](https://dev.to/david_essien/streaming-vs-json-trade-offs-in-ai-powered-apps-4oac)
-- [Stop Trading Like It&#39;s 1999 — I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13](https://dev.to/qrak/-stop-trading-like-its-1999-an-llm-crypto-bot-that-sees-charts-remembers-trades-and-learns-1cd1)
-- [Installing Apache Hadoop 3.4.2 on Linux 2026 &lpar;Single Node Cluster&rpar; Complete Step-by-Step Guide](https://dev.to/adityapidurkar/installing-apache-hadoop-342-on-linux-2026-single-node-cluster-complete-step-by-step-guide-2bnl)
-- [Supporting Multiple iOS Versions in SwiftUI Without Turning Your Views Into a Mess](https://dev.to/emadbeyrami/supporting-multiple-ios-versions-in-swiftui-without-turning-your-views-into-a-mess-52oc)
-- [Solution to Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/solution-to-challenge-2-data-grid-validation-and-crud-operations-3bdl)
+- [El Despertar de NERA como infraestructura: Por qué el Negrooverso es más una necesidad técnica que un sueño](https://dev.to/viistorrr/el-despertar-de-nera-como-infraestructura-por-que-el-negrooverso-es-mas-una-necesidad-tecnica-que-5c4a)
+- [LLM TRADER BOT](https://dev.to/qrak/llm-trader-bot-3625)
+- [Your AI Subagents Are Lying to You: 4 Silent Failure Modes](https://dev.to/__declspec/your-ai-subagents-are-lying-to-you-4-silent-failure-modes-oc4)
+- [How to write technical posts that survive AI noise](https://dev.to/nahamaalochi/how-to-write-technical-posts-that-survive-ai-noise-875)
+- [DSA | Random Generator | Can you come up with a solution?](https://dev.to/cgs-9/dsa-random-generator-can-you-come-up-with-a-solution-31gn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
