@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized](https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md)
-- [Why Your Playwright Tests Keep Breaking &lpar;And How Vision LLMs Are Fixing Web Automation Forever&rpar;](https://dev.to/programmingcentral/why-your-playwright-tests-keep-breaking-and-how-vision-llms-are-fixing-web-automation-forever-2393)
-- [I Taught 200+ Beginners to Code. Here Is What It Taught Me About Writing Better Software](https://dev.to/ctrotech/i-taught-200-beginners-to-code-here-is-what-it-taught-me-about-writing-better-software-2kkh)
-- [What a Decade in Software Taught Me About Technology](https://dev.to/mgebrov/what-a-decade-in-software-taught-me-about-technology-49pf)
-- [Claude Fable 5 vs GPT-4o for TypeScript Codegen](https://dev.to/mudassirworks/claude-fable-5-vs-gpt-4o-for-typescript-codegen-3665)
+- [From RAG to Agentic AI. How I Added LangGraph to My Local](https://dev.to/josaphatstar/from-rag-to-agentic-ai-how-i-added-langgraph-to-my-local-a6e)
+- [Mastering Hive in Flutter: A Step by Step Beginner&#39;s Guide to Fast Local Storage](https://dev.to/vmodal_ai/mastering-hive-in-flutter-a-step-by-step-beginners-guide-to-fast-local-storage-1cj8)
+- [Latency Is the Real UX Problem in AI Avatars, Not the Voice](https://dev.to/__d34ca/latency-is-the-real-ux-problem-in-ai-avatars-not-the-voice-937)
+- [Your Software Architecture Is Quietly Copying Your Team](https://dev.to/marcel-bundle/your-software-architecture-is-quietly-copying-your-team-4g2d)
+- [I’ve been working on an open-source P2P file sharing app called MeshDrop &lpar;early beta, looking for honest feedback&rpar;](https://dev.to/aamirali51/ive-been-working-on-an-open-source-p2p-file-sharing-app-called-meshdrop-early-beta-looking-for-2keg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
