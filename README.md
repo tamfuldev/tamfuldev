@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What If Your Business Had an Immune System?](https://dev.to/alirezaai/what-if-your-business-had-an-immune-system-3lod)
-- [The 4 Notification Categories Users Actually Whitelist &lpar;Based on 60 App Interviews&rpar;](https://dev.to/hugo_rus_630dd942fcf7cc62/the-4-notification-categories-users-actually-whitelist-based-on-60-app-interviews-3ao4)
-- [TalaDB - database ToolKit for php](https://dev.to/noobgreggy/taladb-database-toolkit-for-php-9h1)
-- [Fast at Lunch. Slow at Scale: Why Your App Gets Slow When Real Data Arrives](https://dev.to/qodors/fast-at-lunch-slow-at-scale-why-your-app-gets-slow-when-real-data-arrives-191k)
-- [[Boost]](https://dev.to/anthonymax/-5a04)
+- [How to Build Reliable n8n Workflows: Logic, Data Handling, and Error Recovery](https://dev.to/emma_watson_0022f7f6e6406/how-to-build-reliable-n8n-workflows-logic-data-handling-and-error-recovery-3o93)
+- [Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60)
+- [Kimi K3: A New Benchmark for Open-Weights Mixture-of-Experts](https://dev.to/pneumetron/kimi-k3-a-new-benchmark-for-open-weights-mixture-of-experts-3fla)
+- [Three rules my Bluesky non-mutual unfollow script uses to avoid churn flags](https://dev.to/morinaga/three-rules-my-bluesky-non-mutual-unfollow-script-uses-to-avoid-churn-flags-47ee)
+- [How I built AI model comparison pages: pairwise grouping, Claude content, libSQL dedup](https://dev.to/morinaga/how-i-built-ai-model-comparison-pages-pairwise-grouping-claude-content-libsql-dedup-3o7m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
