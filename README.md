@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agents Need Finite State Machines &lpar;FSMs&rpar;](https://dev.to/remojansen/your-ai-agents-need-finite-state-machines-fsms-2i9j)
-- [I built a free full-stack auth starter so you can skip &quot;auth week&quot; &lpar;Flutter + FastAPI&rpar;](https://dev.to/yusuf_kzlkan_bec8219b13/i-built-a-free-full-stack-auth-starter-so-you-can-skip-auth-week-flutter-fastapi-4e51)
-- [Your AI Agent Can Call Every API — Except Your Bank. Here&#39;s Why.](https://dev.to/johnfrandsen/your-ai-agent-can-call-every-api-except-your-bank-heres-why-46gi)
-- [The Silent Outage: Monitoring What You Can&#39;t See](https://dev.to/samson_tanimawo/the-silent-outage-monitoring-what-you-cant-see-323n)
-- [𝗪𝗵𝘆 𝘁𝗵𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝘁𝗵𝗲 𝗥𝗲𝘀𝘂𝗹𝘁](https://dev.to/yoditdevn8n/-9ce)
+- [Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131)
+- [My eval said a perfect MCP server was broken. It was the eval that was lying.](https://dev.to/tengbyte/my-eval-said-a-perfect-mcp-server-was-broken-it-was-the-eval-that-was-lying-4fbm)
+- [Traceroute devlog #1](https://dev.to/thkim5937/numberlink-devlog-1-mp5)
+- [I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments](https://dev.to/xenocoregiger31/i-built-a-security-tool-that-proves-its-own-exploits-then-got-a-better-threat-model-in-the-42e1)
+- [Learning to Learn: The Biggest Lesson I&#39;ve Gained at Zone01 Kisumu](https://dev.to/paowuor/learning-to-learn-the-biggest-lesson-ive-gained-at-zone01-kisumu-26j0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
