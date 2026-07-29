@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131)
-- [My eval said a perfect MCP server was broken. It was the eval that was lying.](https://dev.to/tengbyte/my-eval-said-a-perfect-mcp-server-was-broken-it-was-the-eval-that-was-lying-4fbm)
-- [Traceroute devlog #1](https://dev.to/thkim5937/numberlink-devlog-1-mp5)
-- [I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments](https://dev.to/xenocoregiger31/i-built-a-security-tool-that-proves-its-own-exploits-then-got-a-better-threat-model-in-the-42e1)
-- [Learning to Learn: The Biggest Lesson I&#39;ve Gained at Zone01 Kisumu](https://dev.to/paowuor/learning-to-learn-the-biggest-lesson-ive-gained-at-zone01-kisumu-26j0)
+- [What If Your Business Had an Immune System?](https://dev.to/alirezaai/what-if-your-business-had-an-immune-system-3lod)
+- [The 4 Notification Categories Users Actually Whitelist &lpar;Based on 60 App Interviews&rpar;](https://dev.to/hugo_rus_630dd942fcf7cc62/the-4-notification-categories-users-actually-whitelist-based-on-60-app-interviews-3ao4)
+- [TalaDB - database ToolKit for php](https://dev.to/noobgreggy/taladb-database-toolkit-for-php-9h1)
+- [Fast at Lunch. Slow at Scale: Why Your App Gets Slow When Real Data Arrives](https://dev.to/qodors/fast-at-lunch-slow-at-scale-why-your-app-gets-slow-when-real-data-arrives-191k)
+- [[Boost]](https://dev.to/anthonymax/-5a04)
 <!-- BLOG-POST-LIST:END -->
 
 ---
