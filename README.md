@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Reliable n8n Workflows: Logic, Data Handling, and Error Recovery](https://dev.to/emma_watson_0022f7f6e6406/how-to-build-reliable-n8n-workflows-logic-data-handling-and-error-recovery-3o93)
-- [Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60)
-- [Kimi K3: A New Benchmark for Open-Weights Mixture-of-Experts](https://dev.to/pneumetron/kimi-k3-a-new-benchmark-for-open-weights-mixture-of-experts-3fla)
-- [Three rules my Bluesky non-mutual unfollow script uses to avoid churn flags](https://dev.to/morinaga/three-rules-my-bluesky-non-mutual-unfollow-script-uses-to-avoid-churn-flags-47ee)
-- [How I built AI model comparison pages: pairwise grouping, Claude content, libSQL dedup](https://dev.to/morinaga/how-i-built-ai-model-comparison-pages-pairwise-grouping-claude-content-libsql-dedup-3o7m)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4n8l)
+- [Building with mini, Part 8/9: Health commands — changelog and doctor](https://dev.to/stkremen/building-with-mini-part-8-health-commands-changelog-and-doctor-5b5j)
+- [Reliable Corporate Transportation Services for Business Travel](https://dev.to/seattlecarserviceinc_9a31/reliable-corporate-transportation-services-for-business-travel-flb)
+- [Document pseudonymization for AI assistants: sending the spreadsheet without sending the customers](https://dev.to/genevieve_breton_cb795f52/document-pseudonymization-for-ai-assistants-sending-the-spreadsheet-without-sending-the-customers-1lf9)
+- [One analytics codebase, three runtimes &lpar;web, native, offline&rpar;](https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
