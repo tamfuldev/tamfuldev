@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Data Lakehouse Weekly: July 21 to July 29, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-21-to-july-29-2026-p73)
-- [Every Session Starts From Zero. I Kept Forgetting That.](https://dev.to/jeelvankhede/every-session-starts-from-zero-i-kept-forgetting-that-1gj6)
-- [Block AI Crawlers: The 15 Bots That Matter](https://dev.to/techpotions/block-ai-crawlers-the-15-bots-that-matter-3nb4)
-- [Internet &amp; Networking Explained, The Foundation Every DevOps Engineer Should Know.](https://dev.to/promzy/internet-networking-explained-the-foundation-every-devops-engineer-should-know-b51)
-- [Next.js Sitemap Not Updating? Here&#39;s the Real Fix](https://dev.to/techpotions/nextjs-sitemap-not-updating-heres-the-real-fix-2257)
+- [Kimi K3 Open Weights: What Shipped and How the Repository Is Actually Organized](https://dev.to/openk3/kimi-k3-open-weights-what-shipped-and-how-the-repository-is-actually-organized-48md)
+- [Why Your Playwright Tests Keep Breaking &lpar;And How Vision LLMs Are Fixing Web Automation Forever&rpar;](https://dev.to/programmingcentral/why-your-playwright-tests-keep-breaking-and-how-vision-llms-are-fixing-web-automation-forever-2393)
+- [I Taught 200+ Beginners to Code. Here Is What It Taught Me About Writing Better Software](https://dev.to/ctrotech/i-taught-200-beginners-to-code-here-is-what-it-taught-me-about-writing-better-software-2kkh)
+- [What a Decade in Software Taught Me About Technology](https://dev.to/mgebrov/what-a-decade-in-software-taught-me-about-technology-49pf)
+- [Claude Fable 5 vs GPT-4o for TypeScript Codegen](https://dev.to/mudassirworks/claude-fable-5-vs-gpt-4o-for-typescript-codegen-3665)
 <!-- BLOG-POST-LIST:END -->
 
 ---
