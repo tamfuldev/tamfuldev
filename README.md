@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The memory layer that never calls an LLM: what that buys, and what it costs](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch)
-- [OpenAI Says AI Benchmark Scores Depend on Harnesses, Budgets, and Memory Design](https://dev.to/alifar/openai-says-ai-benchmark-scores-depend-on-harnesses-budgets-and-memory-design-448k)
-- [How to Verify an AI Crawler Is Who It Says It Is](https://dev.to/inxprncd/how-to-verify-an-ai-crawler-is-who-it-says-it-is-470e)
-- [“Does your agent know what it doesn’t know?” has no answer. It has a coordinate.](https://dev.to/gde03/does-your-agent-know-what-it-doesnt-know-has-no-answer-it-has-a-coordinate-1p4f)
-- [Relevance is not answerability: six signals, and none of them beat plain cosine](https://dev.to/gde03/relevance-is-not-answerability-six-signals-and-none-of-them-beat-plain-cosine-2f14)
+- [Use Google Sheets as a Translation Database for Your Web App &lpar;Apps Script + Next.js&rpar;](https://dev.to/hayrullahkar/use-google-sheets-as-a-translation-database-for-your-web-app-apps-script-nextjs-406i)
+- [AI coding agents in a German company: the layer everyone forgets](https://dev.to/dominik_ddd/ai-coding-agents-in-a-german-company-the-layer-everyone-forgets-2kpc)
+- [OpenAI’s National Science Initiative Brings Frontier AI Into Research Workflows](https://dev.to/alifar/openais-national-science-initiative-brings-frontier-ai-into-research-workflows-2g1m)
+- [Designing a Community Skill for AWS Transform Custom: AWS Glue 5.0 Upgrade Readiness](https://dev.to/dipayan_das/designing-a-community-skill-for-aws-transform-custom-aws-glue-50-upgrade-readiness-4m5n)
+- [Whizz: Your Esoteric Language that&#39;s Short as BF, but Easier to Write](https://dev.to/splotdev/whizz-short-as-bf-but-easier-to-write-1fa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
