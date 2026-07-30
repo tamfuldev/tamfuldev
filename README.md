@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Profitable No-Code Tool as a Developer](https://dev.to/qingluan/how-to-build-a-profitable-no-code-tool-as-a-developer-36ai)
-- [Rand Fishkin on Zero-Click Search and Why Web Discovery Is Becoming More Concentrated](https://dev.to/alifar/rand-fishkin-on-zero-click-search-and-why-web-discovery-is-becoming-more-concentrated-3fkm)
-- [If Claude Code is expensive or hard to access for you, try OpenCode](https://dev.to/joodi/if-claude-code-is-expensive-or-hard-to-access-for-you-try-opencode-5hfj)
-- [I tried to compile TypeScript into a native binary with scriptc](https://dev.to/remojansen/i-tried-to-compile-typescript-into-a-native-binary-with-scriptc-5d07)
-- [Coding Doesn&#39;t Make You a Software Engineer](https://dev.to/rjshree/coding-doesnt-make-you-a-software-engineer-5a27)
+- [DSCI series / Rakulang CI, part2. Cro Application](https://dev.to/sp1983/dsci-series-rakulang-ci-part2-cro-application-4ini)
+- [The 300px Canvas Bug That Shrunk My React Image Editor](https://dev.to/brian_liu_85cead238ea16be/the-300px-canvas-bug-that-shrunk-my-react-image-editor-508k)
+- [Emergent Design &amp; Gall&#39;s Law: When Complex Coding Problems Dissolve Instead of Being Solved](https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok)
+- [How to store AI-generated images per user in object storage and delete the old ones](https://dev.to/dawnli2026/how-to-store-ai-generated-images-per-user-in-object-storage-and-delete-the-old-ones-3cgo)
+- [How to Catch AI Hallucinations: A Copy-Paste Hallucination Checker Prompt &lpar;Tested&rpar;](https://dev.to/yvoolab/how-to-catch-ai-hallucinations-a-copy-paste-hallucination-checker-prompt-tested-3bh1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
