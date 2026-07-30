@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Combined Offense + Defense &lpar;Engineering Edition&rpar; — Cross-Project Reuse Matrix and When Not to Use](https://dev.to/dexterlung/combined-offense-defense-engineering-edition-cross-project-reuse-matrix-and-when-not-to-use-1c6j)
-- [Your Scraper Works Locally but Returns 403 on a Server. Here&#39;s Why.](https://dev.to/tonywangca/your-scraper-works-locally-but-returns-403-on-a-server-heres-why-4ehe)
-- [What actually belongs in CLAUDE.md — and what to move to skills, hooks, or docs](https://dev.to/rulestack/what-actually-belongs-in-claudemd-and-what-to-move-to-skills-hooks-or-docs-34id)
-- [Everything Wrong With Zenovay, In Order](https://dev.to/rashar/everything-wrong-with-zenovay-in-order-4n0c)
-- [GPTBot is hammering your API. Block it, or charge it?](https://dev.to/gibrancorbin11hub/gptbot-is-hammering-your-api-block-it-or-charge-it-16mp)
+- [What Fable 5&#39;s Chaotic Rollout Means for Your Wallet](https://dev.to/rameshkumarramu/what-fable-5s-chaotic-rollout-means-for-your-wallet-55h1)
+- [How to Build an E-commerce Platform Using Python?](https://dev.to/sahil_khurana_486f374ecf2/how-to-build-an-e-commerce-platform-using-python-1581)
+- [How to Run Async Standups From Your GitHub Activity](https://dev.to/oskarreyesdev/how-to-run-async-standups-from-your-github-activity-4o3k)
+- [StayPresent vs Supervisor vs PM2 for Python Bot Process Management](https://dev.to/codenamew/staypresent-vs-supervisor-vs-pm2-for-python-bot-process-management-4527)
+- [The AWS AI Services Map: Choosing the Right Service for Every Use Case in 2026](https://dev.to/alpeshkumbhare/the-aws-ai-services-map-choosing-the-right-service-for-every-use-case-in-2026-1cmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
