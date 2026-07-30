@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DSCI series / Rakulang CI, part2. Cro Application](https://dev.to/sp1983/dsci-series-rakulang-ci-part2-cro-application-4ini)
-- [The 300px Canvas Bug That Shrunk My React Image Editor](https://dev.to/brian_liu_85cead238ea16be/the-300px-canvas-bug-that-shrunk-my-react-image-editor-508k)
-- [Emergent Design &amp; Gall&#39;s Law: When Complex Coding Problems Dissolve Instead of Being Solved](https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok)
-- [How to store AI-generated images per user in object storage and delete the old ones](https://dev.to/dawnli2026/how-to-store-ai-generated-images-per-user-in-object-storage-and-delete-the-old-ones-3cgo)
-- [How to Catch AI Hallucinations: A Copy-Paste Hallucination Checker Prompt &lpar;Tested&rpar;](https://dev.to/yvoolab/how-to-catch-ai-hallucinations-a-copy-paste-hallucination-checker-prompt-tested-3bh1)
+- [# Beyond Chatbots: Why Developers Should Start Building AI + IoT Applications](https://dev.to/rohit124/-beyond-chatbots-why-developers-should-start-building-ai-iot-applications-k08)
+- [Windows Said No: The Long Path Bug That Broke Vector Storage in Cognee](https://dev.to/aniruddha_adak/windows-said-no-the-long-path-bug-that-broke-vector-storage-in-cognee-4oeb)
+- [Copilot for Word Will Copy Its Own Poison Into Every Document It Touches](https://dev.to/coridev/copilot-for-word-will-copy-its-own-poison-into-every-document-it-touches-509e)
+- [You Know What Happens When There&#39;s a Bug in Authentication? Absolutely Nothing.](https://dev.to/ujja/you-know-what-happens-when-theres-a-bug-in-authentication-absolutely-nothing-g0m)
+- [How to pick object storage for browser direct uploads with presigned URLs in Node.js](https://dev.to/milohastings5316/how-to-pick-object-storage-for-browser-direct-uploads-with-presigned-urls-in-nodejs-2894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
