@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [El Despertar de NERA como infraestructura: Por qué el Negrooverso es más una necesidad técnica que un sueño](https://dev.to/viistorrr/el-despertar-de-nera-como-infraestructura-por-que-el-negrooverso-es-mas-una-necesidad-tecnica-que-5c4a)
-- [LLM TRADER BOT](https://dev.to/qrak/llm-trader-bot-3625)
-- [Your AI Subagents Are Lying to You: 4 Silent Failure Modes](https://dev.to/__declspec/your-ai-subagents-are-lying-to-you-4-silent-failure-modes-oc4)
-- [How to write technical posts that survive AI noise](https://dev.to/nahamaalochi/how-to-write-technical-posts-that-survive-ai-noise-875)
-- [DSA | Random Generator | Can you come up with a solution?](https://dev.to/cgs-9/dsa-random-generator-can-you-come-up-with-a-solution-31gn)
+- [Combined Offense + Defense &lpar;Engineering Edition&rpar; — Cross-Project Reuse Matrix and When Not to Use](https://dev.to/dexterlung/combined-offense-defense-engineering-edition-cross-project-reuse-matrix-and-when-not-to-use-1c6j)
+- [Your Scraper Works Locally but Returns 403 on a Server. Here&#39;s Why.](https://dev.to/tonywangca/your-scraper-works-locally-but-returns-403-on-a-server-heres-why-4ehe)
+- [What actually belongs in CLAUDE.md — and what to move to skills, hooks, or docs](https://dev.to/rulestack/what-actually-belongs-in-claudemd-and-what-to-move-to-skills-hooks-or-docs-34id)
+- [Everything Wrong With Zenovay, In Order](https://dev.to/rashar/everything-wrong-with-zenovay-in-order-4n0c)
+- [GPTBot is hammering your API. Block it, or charge it?](https://dev.to/gibrancorbin11hub/gptbot-is-hammering-your-api-block-it-or-charge-it-16mp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
