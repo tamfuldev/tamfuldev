@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Fable 5&#39;s Chaotic Rollout Means for Your Wallet](https://dev.to/rameshkumarramu/what-fable-5s-chaotic-rollout-means-for-your-wallet-55h1)
-- [How to Build an E-commerce Platform Using Python?](https://dev.to/sahil_khurana_486f374ecf2/how-to-build-an-e-commerce-platform-using-python-1581)
-- [How to Run Async Standups From Your GitHub Activity](https://dev.to/oskarreyesdev/how-to-run-async-standups-from-your-github-activity-4o3k)
-- [StayPresent vs Supervisor vs PM2 for Python Bot Process Management](https://dev.to/codenamew/staypresent-vs-supervisor-vs-pm2-for-python-bot-process-management-4527)
-- [The AWS AI Services Map: Choosing the Right Service for Every Use Case in 2026](https://dev.to/alpeshkumbhare/the-aws-ai-services-map-choosing-the-right-service-for-every-use-case-in-2026-1cmi)
+- [Agentic Workflows That Survive Real Inputs](https://dev.to/lamingsrb/agentic-workflows-that-survive-real-inputs-4emd)
+- [AI Agent Stack in 2026: LangGraph vs Custom vs DIY](https://dev.to/lamingsrb/ai-agent-stack-in-2026-langgraph-vs-custom-vs-diy-39gg)
+- [Implementing EN 16931 national rules in PHP — and the trap that faked a bug on every credit note](https://dev.to/boris-stiner/implementing-en-16931-national-rules-in-php-and-the-trap-that-faked-a-bug-on-every-credit-note-4c76)
+- [What I Learned Building an AI Tutor: RAG, Prompt Design, and Its Limits](https://dev.to/adarshinternx/what-i-learned-building-an-ai-tutor-rag-prompt-design-and-its-limits-3pme)
+- [Building a Community-Driven Testing Program for AI Search APIs](https://dev.to/muwen_xu_5f4e82383dfcaf97/building-a-community-driven-testing-program-for-ai-search-apis-1k4c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
