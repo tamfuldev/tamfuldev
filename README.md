@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Use Google Sheets as a Translation Database for Your Web App &lpar;Apps Script + Next.js&rpar;](https://dev.to/hayrullahkar/use-google-sheets-as-a-translation-database-for-your-web-app-apps-script-nextjs-406i)
-- [AI coding agents in a German company: the layer everyone forgets](https://dev.to/dominik_ddd/ai-coding-agents-in-a-german-company-the-layer-everyone-forgets-2kpc)
-- [OpenAI’s National Science Initiative Brings Frontier AI Into Research Workflows](https://dev.to/alifar/openais-national-science-initiative-brings-frontier-ai-into-research-workflows-2g1m)
-- [Designing a Community Skill for AWS Transform Custom: AWS Glue 5.0 Upgrade Readiness](https://dev.to/dipayan_das/designing-a-community-skill-for-aws-transform-custom-aws-glue-50-upgrade-readiness-4m5n)
-- [Whizz: Your Esoteric Language that&#39;s Short as BF, but Easier to Write](https://dev.to/splotdev/whizz-short-as-bf-but-easier-to-write-1fa)
+- [I solved a 5 year old bug](https://dev.to/ifeanyichima/i-solved-a-5-year-old-bug-356h)
+- [CamBridge: giving the iOS Simulator a real, moving camera image](https://dev.to/engelon/cambridge-giving-the-ios-simulator-a-real-moving-camera-image-1hdb)
+- [Solon File Upload: UploadedFile Over MultipartFile](https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf)
+- [Building a C++ HTTP Server from Scratch &lpar;Part 1&rpar;: Setting Up TCP Sockets](https://dev.to/devtan/building-a-c-http-server-from-scratch-part-1-setting-up-tcp-sockets-26id)
+- [Summer Log #4](https://dev.to/vobinax/summer-log-4-1mih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
