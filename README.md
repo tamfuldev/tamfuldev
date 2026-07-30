@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Workflows That Survive Real Inputs](https://dev.to/lamingsrb/agentic-workflows-that-survive-real-inputs-4emd)
-- [AI Agent Stack in 2026: LangGraph vs Custom vs DIY](https://dev.to/lamingsrb/ai-agent-stack-in-2026-langgraph-vs-custom-vs-diy-39gg)
-- [Implementing EN 16931 national rules in PHP — and the trap that faked a bug on every credit note](https://dev.to/boris-stiner/implementing-en-16931-national-rules-in-php-and-the-trap-that-faked-a-bug-on-every-credit-note-4c76)
-- [What I Learned Building an AI Tutor: RAG, Prompt Design, and Its Limits](https://dev.to/adarshinternx/what-i-learned-building-an-ai-tutor-rag-prompt-design-and-its-limits-3pme)
-- [Building a Community-Driven Testing Program for AI Search APIs](https://dev.to/muwen_xu_5f4e82383dfcaf97/building-a-community-driven-testing-program-for-ai-search-apis-1k4c)
+- [How to Build a Profitable No-Code Tool as a Developer](https://dev.to/qingluan/how-to-build-a-profitable-no-code-tool-as-a-developer-36ai)
+- [Rand Fishkin on Zero-Click Search and Why Web Discovery Is Becoming More Concentrated](https://dev.to/alifar/rand-fishkin-on-zero-click-search-and-why-web-discovery-is-becoming-more-concentrated-3fkm)
+- [If Claude Code is expensive or hard to access for you, try OpenCode](https://dev.to/joodi/if-claude-code-is-expensive-or-hard-to-access-for-you-try-opencode-5hfj)
+- [I tried to compile TypeScript into a native binary with scriptc](https://dev.to/remojansen/i-tried-to-compile-typescript-into-a-native-binary-with-scriptc-5d07)
+- [Coding Doesn&#39;t Make You a Software Engineer](https://dev.to/rjshree/coding-doesnt-make-you-a-software-engineer-5a27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
