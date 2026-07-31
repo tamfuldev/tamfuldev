@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I solved a 5 year old bug](https://dev.to/ifeanyichima/i-solved-a-5-year-old-bug-356h)
-- [CamBridge: giving the iOS Simulator a real, moving camera image](https://dev.to/engelon/cambridge-giving-the-ios-simulator-a-real-moving-camera-image-1hdb)
-- [Solon File Upload: UploadedFile Over MultipartFile](https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf)
-- [Building a C++ HTTP Server from Scratch &lpar;Part 1&rpar;: Setting Up TCP Sockets](https://dev.to/devtan/building-a-c-http-server-from-scratch-part-1-setting-up-tcp-sockets-26id)
-- [Summer Log #4](https://dev.to/vobinax/summer-log-4-1mih)
+- [Solon Cache: Three Annotations, One Interface, and a Tags Trick You&amp;#39;ll Use Every Day](https://dev.to/solonjava/solon-cache-three-annotations-one-interface-and-a-tags-trick-you39ll-use-every-day-4aa0)
+- [How to Generate Short Videos from Claude.ai with a Seedance MCP Connector](https://dev.to/germey/how-to-generate-short-videos-from-claudeai-with-a-seedance-mcp-connector-4dna)
+- [Your Agent&#39;s Deadline Is a Correctness Test, Not an SLO](https://dev.to/saurav_bhattacharya/your-agents-deadline-is-a-correctness-test-not-an-slo-56g1)
+- [A league season is not a long tournament: four product bugs my test suite could never catch](https://dev.to/mollenthiel/a-league-season-is-not-a-long-tournament-four-product-bugs-my-test-suite-could-never-catch-1ih4)
+- [Why I Validate Angular Compatibility Using the Published npm Package &lpar;Not the Source Code&rpar;](https://dev.to/ismailzahir/why-i-validate-angular-compatibility-using-the-published-npm-package-not-the-source-code-808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
