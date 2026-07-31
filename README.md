@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Will MCP Become the REST of AI Agents? What Developers Should Watch](https://dev.to/pointchecknote/will-mcp-become-the-rest-of-ai-agents-what-developers-should-watch-4i24)
-- [Essential Angular Features Every Developer Should Know](https://dev.to/sahil_khurana_486f374ecf2/essential-angular-features-every-developer-should-know-4l7)
-- [How I Built an AI Recipe Generator to Solve the Daily &quot;What&#39;s for Dinner?&quot;](https://dev.to/nathan_melesha/how-i-built-an-ai-recipe-generator-to-solve-the-daily-whats-for-dinner-22l0)
-- [1,756 hand drawn icons, and nobody drew them](https://dev.to/fantomiald/1756-hand-drawn-icons-and-nobody-drew-them-1cpi)
-- [When Hook Scripts Die Silently — Three macOS Traps](https://dev.to/bokuwalily/when-hook-scripts-die-silently-three-macos-traps-3cgh)
+- [Migrating a Next.js app from node:sqlite to Cloudflare D1](https://dev.to/hirodeath/migrating-a-nextjs-app-from-nodesqlite-to-cloudflare-d1-225i)
+- [Your AI Coding Agent Is LYING When It Says &quot;Done&quot;](https://dev.to/gemyago/your-ai-coding-agent-is-lying-when-it-says-done-2a85)
+- [How I Crashed My TCS Prime Interview and Talked My Way Out of Hell Mode](https://dev.to/ayushwrite63/how-i-crashed-my-tcs-prime-interview-and-talked-my-way-out-of-hell-mode-499j)
+- [Spring AI: Bringing Generative AI into Spring Boot Applications](https://dev.to/abhay_srivastava_22/spring-ai-bringing-generative-ai-into-spring-boot-applications-2ah3)
+- [Traceroute devlog #2](https://dev.to/thkim5937/traceroute-devlog-2-11kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
