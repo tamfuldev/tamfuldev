@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The gate for an agent belongs in the environment, not in the agent](https://dev.to/alex_amanciocandoa_49c/the-gate-for-an-agent-belongs-in-the-environment-not-in-the-agent-1g69)
-- [Hello World! 👋 A Computer Science Student &amp; Technical Writer on a Journey](https://dev.to/hilda_tshiyembe/hello-world-a-computer-science-student-technical-writer-on-a-journey-5gn8)
-- [&quot;Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill&quot;](https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po)
-- [&quot;Your GitOps Hub Will Become the Bottleneck Long Before Cluster Count Tells You&quot;](https://dev.to/da-li-at-pl/your-gitops-hub-will-become-the-bottleneck-long-before-cluster-count-tells-you-31id)
-- [雲吞麵 Midnight Wonton Noodle — Pure CSS Art](https://dev.to/karleeov/yun-tun-mian-midnight-wonton-noodle-pure-css-art-85c)
+- [From Source Code to Execution: The Mental Model Behind Compilers and Interpreters](https://dev.to/odingaval/from-source-code-to-execution-the-mental-model-behind-compilers-and-interpreters-45on)
+- [Preparing for AWS CI/CD Hands-On Project - Prerequisites](https://dev.to/kadhamvj23/preparing-for-aws-cicd-hands-on-project-prerequisites-3h5o)
+- [AWS CI/CD Explained for Beginners | Understanding AWS CodeCommit, CodePipeline, CodeBuild &amp; CodeDeploy](https://dev.to/kadhamvj23/aws-cicd-explained-for-beginners-understanding-aws-codecommit-codepipeline-codebuild--1j3e)
+- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p)
+- [Your robots.txt decides whether ChatGPT can cite you. Here&#39;s the 5-minute check.](https://dev.to/siccscha/your-robotstxt-decides-whether-chatgpt-can-cite-you-heres-the-5-minute-check-185l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
