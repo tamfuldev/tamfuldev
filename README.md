@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [**Soul &amp; Spoon — Comfort Food Landing Page**](https://dev.to/dan52242644dan/soul-spoon-comfort-food-landing-page-4njp)
-- [# Backend Engineers Learning AI: The Fundamentals Still Matter](https://dev.to/codewithishwar/-backend-engineers-learning-ai-the-fundamentals-still-matter-15a7)
-- [My Similarity Check Let the Same Story Through 3 Times. Here&#39;s How I Killed It.](https://dev.to/chenyuan20509/my-similarity-check-let-the-same-story-through-3-times-heres-how-i-killed-it-3ge6)
-- [Astro Is Built for Thousands of Static Pages. So Why Does Nobody Talk About It That Way?](https://dev.to/rachido_sama/astro-is-built-for-thousands-of-static-pages-so-why-does-nobody-talk-about-it-that-way-2pc4)
-- [The July Model Wave Is Not a Race You Need to Win](https://dev.to/promptway/the-july-model-wave-is-not-a-race-you-need-to-win-4ii)
+- [Nine Seconds](https://dev.to/mainulspace/nine-seconds-13jb)
+- [They Said &#39;Learn to Code.&#39; Nobody Warned You About This.](https://dev.to/festverse/they-said-learn-to-code-nobody-warned-you-about-this-2dck)
+- [Your Tests Are Green. Your Distributed System Still Has a Bottleneck.](https://dev.to/amirmarcel/your-tests-are-green-your-distributed-system-still-has-a-bottleneck-1eim)
+- [UrlFetchApp Quotas &amp; Retries in Apps Script: Backoff, Rate Limits &amp; a Dead-Letter Queue](https://dev.to/hayrullahkar/urlfetchapp-quotas-retries-in-apps-script-backoff-rate-limits-a-dead-letter-queue-2d)
+- [Layered Architecture in Flutter with BlocSignal: Bringing BLoC Discipline and Signals Speed to CodeWithAndrea’s Pattern](https://dev.to/gde/layered-architecture-in-flutter-with-blocsignal-bringing-bloc-discipline-and-signals-speed-to-2c25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
