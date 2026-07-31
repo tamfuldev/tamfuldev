@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a Next.js app from node:sqlite to Cloudflare D1](https://dev.to/hirodeath/migrating-a-nextjs-app-from-nodesqlite-to-cloudflare-d1-225i)
-- [Your AI Coding Agent Is LYING When It Says &quot;Done&quot;](https://dev.to/gemyago/your-ai-coding-agent-is-lying-when-it-says-done-2a85)
-- [How I Crashed My TCS Prime Interview and Talked My Way Out of Hell Mode](https://dev.to/ayushwrite63/how-i-crashed-my-tcs-prime-interview-and-talked-my-way-out-of-hell-mode-499j)
-- [Spring AI: Bringing Generative AI into Spring Boot Applications](https://dev.to/abhay_srivastava_22/spring-ai-bringing-generative-ai-into-spring-boot-applications-2ah3)
-- [Traceroute devlog #2](https://dev.to/thkim5937/traceroute-devlog-2-11kc)
+- [Your Data Warehouse Is Not Your Data Pipeline](https://dev.to/andrew_tan_layline/your-data-warehouse-is-not-your-data-pipeline-4n6)
+- [A user spent four days designing a feature for my project. The right answer was zero lines of code.](https://dev.to/achiya-automation/a-user-spent-four-days-designing-a-feature-for-my-project-the-right-answer-was-zero-lines-of-code-bff)
+- [Why agents ignore negative instructions](https://dev.to/makeitrun/why-agents-ignore-negative-instructions-3dna)
+- [How BrowserAct Fixed the Stale-Selector Failures Breaking My Browser Tasks](https://dev.to/dannwaneri/how-browseract-fixed-the-stale-selector-failures-breaking-my-browser-tasks-52b5)
+- [A Consent-First Phone Privacy Triage Flow for Support Teams](https://dev.to/davidplaha/a-consent-first-phone-privacy-triage-flow-for-support-teams-4ego)
 <!-- BLOG-POST-LIST:END -->
 
 ---
