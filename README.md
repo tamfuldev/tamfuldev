@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Data Warehouse Is Not Your Data Pipeline](https://dev.to/andrew_tan_layline/your-data-warehouse-is-not-your-data-pipeline-4n6)
-- [A user spent four days designing a feature for my project. The right answer was zero lines of code.](https://dev.to/achiya-automation/a-user-spent-four-days-designing-a-feature-for-my-project-the-right-answer-was-zero-lines-of-code-bff)
-- [Why agents ignore negative instructions](https://dev.to/makeitrun/why-agents-ignore-negative-instructions-3dna)
-- [How BrowserAct Fixed the Stale-Selector Failures Breaking My Browser Tasks](https://dev.to/dannwaneri/how-browseract-fixed-the-stale-selector-failures-breaking-my-browser-tasks-52b5)
-- [A Consent-First Phone Privacy Triage Flow for Support Teams](https://dev.to/davidplaha/a-consent-first-phone-privacy-triage-flow-for-support-teams-4ego)
+- [Building a Linux Kernel Module in Pure x86](https://dev.to/danielpetrovic/building-a-linux-kernel-module-in-pure-x86-i7l)
+- [Nova: Your friendly and not-so-average extraterrestrial life coach.](https://dev.to/tanay_dwivedi9098/nova-your-friendly-and-not-so-average-extraterrestrial-life-coach-1jc8)
+- [Your AI Agent Shouldn’t Have to Read an Entire Website Just to Click a Button](https://dev.to/gr3p1p3/your-ai-agent-shouldnt-have-to-read-an-entire-website-just-to-click-a-button-50l0)
+- [Intuit OA 2026 Guide: Code, SQL &amp; Bash Questions Explained](https://dev.to/interviewshow-cs/intuit-oa-2026-guide-code-sql-bash-questions-explained-3leg)
+- [Nine Red Tests and No Way to Tell Which Ones Matter](https://dev.to/henry_messiahtmt_099ca84/nine-red-tests-and-no-way-to-tell-which-ones-matter-2kmf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
