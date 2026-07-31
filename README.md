@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Source Code to Execution: The Mental Model Behind Compilers and Interpreters](https://dev.to/odingaval/from-source-code-to-execution-the-mental-model-behind-compilers-and-interpreters-45on)
-- [Preparing for AWS CI/CD Hands-On Project - Prerequisites](https://dev.to/kadhamvj23/preparing-for-aws-cicd-hands-on-project-prerequisites-3h5o)
-- [AWS CI/CD Explained for Beginners | Understanding AWS CodeCommit, CodePipeline, CodeBuild &amp; CodeDeploy](https://dev.to/kadhamvj23/aws-cicd-explained-for-beginners-understanding-aws-codecommit-codepipeline-codebuild--1j3e)
-- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p)
-- [Your robots.txt decides whether ChatGPT can cite you. Here&#39;s the 5-minute check.](https://dev.to/siccscha/your-robotstxt-decides-whether-chatgpt-can-cite-you-heres-the-5-minute-check-185l)
+- [Your AI agent framework probably isn&#39;t your security problem &lpar;7,020 trials say so&rpar;](https://dev.to/iamwaqarjaved/your-ai-agent-framework-probably-isnt-your-security-problem-7020-trials-say-so-456f)
+- [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
+- [Poutine: the true food of the gods](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep)
+- [Gravy Boat — a landing page with a CSS poutine you can drown in!](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12)
+- [Memory Leak &amp; 8-Second Diagnostic Crush](https://dev.to/zenieverse/memory-leak-8-second-diagnostic-crush-4nlc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
