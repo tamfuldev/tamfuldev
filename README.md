@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solon Cache: Three Annotations, One Interface, and a Tags Trick You&amp;#39;ll Use Every Day](https://dev.to/solonjava/solon-cache-three-annotations-one-interface-and-a-tags-trick-you39ll-use-every-day-4aa0)
-- [How to Generate Short Videos from Claude.ai with a Seedance MCP Connector](https://dev.to/germey/how-to-generate-short-videos-from-claudeai-with-a-seedance-mcp-connector-4dna)
-- [Your Agent&#39;s Deadline Is a Correctness Test, Not an SLO](https://dev.to/saurav_bhattacharya/your-agents-deadline-is-a-correctness-test-not-an-slo-56g1)
-- [A league season is not a long tournament: four product bugs my test suite could never catch](https://dev.to/mollenthiel/a-league-season-is-not-a-long-tournament-four-product-bugs-my-test-suite-could-never-catch-1ih4)
-- [Why I Validate Angular Compatibility Using the Published npm Package &lpar;Not the Source Code&rpar;](https://dev.to/ismailzahir/why-i-validate-angular-compatibility-using-the-published-npm-package-not-the-source-code-808)
+- [Will MCP Become the REST of AI Agents? What Developers Should Watch](https://dev.to/pointchecknote/will-mcp-become-the-rest-of-ai-agents-what-developers-should-watch-4i24)
+- [Essential Angular Features Every Developer Should Know](https://dev.to/sahil_khurana_486f374ecf2/essential-angular-features-every-developer-should-know-4l7)
+- [How I Built an AI Recipe Generator to Solve the Daily &quot;What&#39;s for Dinner?&quot;](https://dev.to/nathan_melesha/how-i-built-an-ai-recipe-generator-to-solve-the-daily-whats-for-dinner-22l0)
+- [1,756 hand drawn icons, and nobody drew them](https://dev.to/fantomiald/1756-hand-drawn-icons-and-nobody-drew-them-1cpi)
+- [When Hook Scripts Die Silently — Three macOS Traps](https://dev.to/bokuwalily/when-hook-scripts-die-silently-three-macos-traps-3cgh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
