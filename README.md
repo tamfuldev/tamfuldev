@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A JSON-configurable Git alias wrapper](https://dev.to/enbis/a-json-configurable-git-alias-wrapper-498e)
-- [My AI makes YouTube videos. It&#39;s only allowed to publish after 21 automated checks.](https://dev.to/mishkavids/my-ai-makes-youtube-videos-its-only-allowed-to-publish-after-21-automated-checks-4ebb)
-- [The Requests library for AI one Unified Python SDK for every LLM provider](https://dev.to/6t9/the-requests-library-for-ai-one-unified-python-sdk-for-every-llm-provider-3job)
-- [Zero-Downtime Deploy to a VPS with GitHub Actions](https://dev.to/dineshstack/zero-downtime-deploy-to-a-vps-with-github-actions-15a9)
-- [Failure Friday: Digital Dream Labs and the Cost of Losing Customer Trust](https://dev.to/hightech89/failure-friday-digital-dream-labs-and-the-cost-of-losing-customer-trust-502j)
+- [The gate for an agent belongs in the environment, not in the agent](https://dev.to/alex_amanciocandoa_49c/the-gate-for-an-agent-belongs-in-the-environment-not-in-the-agent-1g69)
+- [Hello World! 👋 A Computer Science Student &amp; Technical Writer on a Journey](https://dev.to/hilda_tshiyembe/hello-world-a-computer-science-student-technical-writer-on-a-journey-5gn8)
+- [&quot;Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill&quot;](https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po)
+- [&quot;Your GitOps Hub Will Become the Bottleneck Long Before Cluster Count Tells You&quot;](https://dev.to/da-li-at-pl/your-gitops-hub-will-become-the-bottleneck-long-before-cluster-count-tells-you-31id)
+- [雲吞麵 Midnight Wonton Noodle — Pure CSS Art](https://dev.to/karleeov/yun-tun-mian-midnight-wonton-noodle-pure-css-art-85c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
