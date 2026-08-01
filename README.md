@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e)
-- [Can AI Handle KYC? Grounding LLMs For Due Diligence Tools](https://dev.to/onizuka/can-ai-handle-kyc-grounding-llms-for-due-diligence-tools-4i7f)
-- [Google Expands Gemini With 3.6 Flash, Flash-Lite and Gemini Robotics 2](https://dev.to/alifar/google-expands-gemini-with-36-flash-flash-lite-and-gemini-robotics-2-3npj)
-- [Module 3: Information Gathering and Vulnerability Scanning](https://dev.to/rencberakman/module-3-information-gathering-and-vulnerability-scanning-2ag8)
-- [Building Fast Websites for Pakistan&#39;s Real Network Conditions &lpar;Not Just a Lighthouse Score&rpar;](https://dev.to/muhammadfarzan0/building-fast-websites-for-pakistans-real-network-conditions-not-just-a-lighthouse-score-1lah)
+- [How One Missing Assert Drained $1.14M From Aftermath Finance — A Signed Integer Exploit on Sui](https://dev.to/mehvetero/how-one-missing-assert-drained-114m-from-aftermath-finance-a-signed-integer-exploit-on-sui-1db3)
+- [How I Built a Flat-Rate Reverse Geocoding API for Japan to Escape Google Maps Bill Shock](https://dev.to/tarkun55/how-i-built-a-flat-rate-reverse-geocoding-api-for-japan-to-escape-google-maps-bill-shock-1hol)
+- [Code First, Specs After: A Practical Guide to AI-Driven Development](https://dev.to/nishifeoda/code-first-specs-after-a-practical-guide-to-ai-driven-development-6c)
+- [Unify AI Reasoning with UI: smoothly Integrate Ontologies with OTF Kits](https://dev.to/davekurian/unify-ai-reasoning-with-ui-smoothly-integrate-ontologies-with-otf-kits-4k22)
+- [Evolution of Language Models - Every LLM Breakthrough Was Just a Bug Fix](https://dev.to/marjia_029/evolution-of-language-models-every-llm-breakthrough-was-just-a-bug-fix-1dj3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
