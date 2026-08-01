@@ -6,11 +6,15 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How One Missing Assert Drained $1.14M From Aftermath Finance — A Signed Integer Exploit on Sui](https://dev.to/mehvetero/how-one-missing-assert-drained-114m-from-aftermath-finance-a-signed-integer-exploit-on-sui-1db3)
-- [How I Built a Flat-Rate Reverse Geocoding API for Japan to Escape Google Maps Bill Shock](https://dev.to/tarkun55/how-i-built-a-flat-rate-reverse-geocoding-api-for-japan-to-escape-google-maps-bill-shock-1hol)
-- [Code First, Specs After: A Practical Guide to AI-Driven Development](https://dev.to/nishifeoda/code-first-specs-after-a-practical-guide-to-ai-driven-development-6c)
-- [Unify AI Reasoning with UI: smoothly Integrate Ontologies with OTF Kits](https://dev.to/davekurian/unify-ai-reasoning-with-ui-smoothly-integrate-ontologies-with-otf-kits-4k22)
-- [Evolution of Language Models - Every LLM Breakthrough Was Just a Bug Fix](https://dev.to/marjia_029/evolution-of-language-models-every-llm-breakthrough-was-just-a-bug-fix-1dj3)
+- [LLD Data Structures in Design Context: Heap — A Data Structure Built for Continuous Decision Making](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-heap-the-mental-model-every-software-engineer-should-know-372e)
+- [LLD Data Structures in Design Context: Why Some Problems Need the &quot;Best&quot; Result Instead of Any Result](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-the-best-result-instead-of-any-4afd)
+- [¡Hola a todos! 👋
+
+Si están cansados de las típicas herramientas pesadas o llenas de publicidad para manejar JSON, les comparto un proyecto en el que he estado trabajando: My JSON Studio &lpar;https://myjsonstudio.online/&rpar;.
+
+Es una utilidad web súper ligera y d](https://dev.to/franc_zorh_703c720567fad7/hola-a-todos-si-estan-cansados-de-las-tipicas-herramientas-pesadas-o-llenas-de-publicidad-1l36)
+- [My determinism test passed for months while the two builds played different games](https://dev.to/agentdev9/my-determinism-test-passed-for-months-while-the-two-builds-played-different-games-1if4)
+- [What Is Model Context Protocol &lpar;MCP&rpar;?](https://dev.to/rameshkumarramu/what-is-model-context-protocol-mcp-24kf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
