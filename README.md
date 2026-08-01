@@ -6,15 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLD Data Structures in Design Context: Heap — A Data Structure Built for Continuous Decision Making](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-heap-the-mental-model-every-software-engineer-should-know-372e)
-- [LLD Data Structures in Design Context: Why Some Problems Need the &quot;Best&quot; Result Instead of Any Result](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-the-best-result-instead-of-any-4afd)
-- [¡Hola a todos! 👋
-
-Si están cansados de las típicas herramientas pesadas o llenas de publicidad para manejar JSON, les comparto un proyecto en el que he estado trabajando: My JSON Studio &lpar;https://myjsonstudio.online/&rpar;.
-
-Es una utilidad web súper ligera y d](https://dev.to/franc_zorh_703c720567fad7/hola-a-todos-si-estan-cansados-de-las-tipicas-herramientas-pesadas-o-llenas-de-publicidad-1l36)
-- [My determinism test passed for months while the two builds played different games](https://dev.to/agentdev9/my-determinism-test-passed-for-months-while-the-two-builds-played-different-games-1if4)
-- [What Is Model Context Protocol &lpar;MCP&rpar;?](https://dev.to/rameshkumarramu/what-is-model-context-protocol-mcp-24kf)
+- [Localized routes in Laravel with Laralang](https://dev.to/edulazaro/localized-routes-un-laravel-with-laralang-4g0o)
+- [Clean Architecture Project Setup From Scratch With .NET 10](https://dev.to/muhammad_waqasanwar_ddbf/clean-architecture-project-setup-from-scratch-with-net-10-434n)
+- [How Much Does AI Actually Cost? The Field Guide to 12 AI Economics Calculators](https://dev.to/pich/how-much-does-ai-actually-cost-the-field-guide-to-12-ai-economics-calculators-17bp)
+- [Uploading and Storing Multipart/Form-Data Using Multer and Cloudinary](https://dev.to/jat97/uploading-and-storing-multipartform-data-using-multer-and-cloudinary-k4f)
+- [AI Is Moving From Finding Bugs to Fixing Them](https://dev.to/numbpill3d/ai-is-moving-from-finding-bugs-to-fixing-them-5bif)
 <!-- BLOG-POST-LIST:END -->
 
 ---
