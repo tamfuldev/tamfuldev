@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Forward Marketing Teams Are Hiring More, Not Less, Survey Data Shows](https://dev.to/alifar/ai-forward-marketing-teams-are-hiring-more-not-less-survey-data-shows-129a)
-- [Why Your Web Scrapers Keep Breaking &lpar;And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright&rpar;](https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2)
-- [⚡ Why Integer no longer stores its value as a String](https://dev.to/kotools/kotools-types-520-why-integer-no-longer-stores-its-value-as-a-string-nd3)
-- [Why RAG Docs Chatbots Answer Wrong: Embeddings, Chunking, and Context Fixes](https://dev.to/tony_chen_2026/why-rag-docs-chatbots-answer-wrong-embeddings-chunking-and-context-fixes-3l9c)
-- [I counted the sources in 13 of Google&#39;s AI answers. 168 citations, and not one domain appeared twice.](https://dev.to/oguzhantusen/i-counted-the-sources-in-13-of-googles-ai-answers-168-citations-and-not-one-domain-appeared-1a1b)
+- [Lucide vs Tabler vs Phosphor: Which Free Icon Set Fits Your UI?](https://dev.to/svgicons/lucide-vs-tabler-vs-phosphor-which-free-icon-set-fits-your-ui-4ocl)
+- [AI collapsed my job into three roles and I had to relearn all of them](https://dev.to/mjmirza/ai-collapsed-my-job-into-three-roles-and-i-had-to-relearn-all-of-them-509g)
+- [How to Use SVG Icons in React, Next.js, and Tailwind CSS](https://dev.to/svgicons/how-to-use-svg-icons-in-react-nextjs-and-tailwind-css-3o1c)
+- [From Skewer to Screen — A Tandoori Paneer Landing Page](https://dev.to/jogadiyadipak28art/from-skewer-to-screen-a-tandoori-paneer-landing-page-3la1)
+- [The Comfort Atlas: What Does Home Taste Like?](https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
