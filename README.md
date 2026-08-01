@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a State Machine for My AI Agent&#39;s Publishing Pipeline. Here&#39;s the Pattern That Survived 50 Consecutive Runs.](https://dev.to/chenyuan20509/i-built-a-state-machine-for-my-ai-agents-publishing-pipeline-heres-the-pattern-that-survived-50-36a9)
-- [I audited 249 of my own AI coding sessions. The problem wasn&#39;t lying.](https://dev.to/sjh9714/i-audited-249-of-my-own-ai-coding-sessions-the-problem-wasnt-lying-4f42)
-- [Design Engineer is the title that quietly ends your career](https://dev.to/adioof/design-engineer-is-the-title-that-quietly-ends-your-career-7lg)
-- [Deep-Dive Technical Write-up by Huynh Kien Minh: CVE-2026-13157 — Theme Demo Import Arbitrary File Upload to Remote Code Execution](https://dev.to/minhhk68/deep-dive-technical-write-up-by-huynh-kien-minh-cve-2026-13157-theme-demo-import-arbitrary-file-2kfc)
-- [Verify AI Output Before You Ship It: 3 Prompts to Check AI Accuracy](https://dev.to/yvoolab/verify-ai-output-before-you-ship-it-3-prompts-to-check-ai-accuracy-3dhi)
+- [Which job schedulers fire on time? We tested ten.](https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42)
+- [AI Code Generation Tools 2025: Which One Actually Saves Time?](https://dev.to/the-tisa/ai-code-generation-tools-2025-which-one-actually-saves-time-4f1j)
+- [SQL vs NoSQL: A Simple Guide to Picking the Right Database](https://dev.to/danishrazabangash/sql-vs-nosql-a-simple-guide-to-picking-the-right-database-5e6b)
+- [Kmemo 2.0 is out, and the two gaps I admitted to in the first post are closed](https://dev.to/tonytonycoder11/kmemo-20-is-out-and-the-two-gaps-i-admitted-to-in-the-first-post-are-closed-4hbg)
+- [5 Best Free AI Courses in 2026 &lpar;With Certificates&rpar;](https://dev.to/kevin_menesesgonzlez/5-best-free-ai-courses-in-2026-with-certificates-igp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
