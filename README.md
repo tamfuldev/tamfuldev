@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Turn Trip Photos and Metadata into a Self-Contained HTML Story](https://dev.to/_862f933aa9477a9d2d/how-to-turn-trip-photos-and-metadata-into-a-self-contained-html-story-2koo)
-- [I Built a Custom MCP Server That Publishes My Blogs for Me: A Debugging Log](https://dev.to/d1n35h_v/i-built-a-custom-mcp-server-that-publishes-my-blogs-for-me-a-debugging-log-2p5j)
-- [Sunday at 2, Thursday at 8](https://dev.to/kritim_krijal/sunday-at-2-thursday-at-8-2f15)
-- [How to put a hard daily cap on your LangChain.js API costs](https://dev.to/kimbeomgyu/how-to-put-a-hard-daily-cap-on-your-langchainjs-api-costs-5gm7)
-- [Demystifying Next.js Caching Strategies ⚡](https://dev.to/iprajapatiparesh/demystifying-nextjs-caching-strategies-1i)
+- [Offline Table Builder: Build Tables Without an Internet Connection](https://dev.to/olayiwola_akinnagbe/offline-table-builder-build-tables-without-an-internet-connection-4igg)
+- [Complex Requirements Are Not the Biggest Problem Anymore: Why Workflow Quality Matters More in the AI Era](https://dev.to/ahikmah/complex-requirements-are-not-the-biggest-problem-anymore-why-workflow-quality-matters-more-in-the-33oi)
+- [[Boost]](https://dev.to/key_master1/-1mc9)
+- [Two of my projects were about to jump a grade. Nobody had fixed anything.](https://dev.to/fromzerotoship/two-of-my-projects-were-about-to-jump-a-grade-nobody-had-fixed-anything-2med)
+- [What UK Bootstrapped SaaS Founders Actually Pay for Business Banking](https://dev.to/benten_clifford/what-uk-bootstrapped-saas-founders-actually-pay-for-business-banking-mk6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
