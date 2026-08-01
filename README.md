@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Agent Evaluation Is Harder Than Model Evaluation](https://dev.to/debashish_ghosal/why-agent-evaluation-is-harder-than-model-evaluation-poe)
-- [Chess Doesn’t Need Another Engine. It Needs Eye Contact](https://dev.to/siyahtonu/chess-doesnt-need-another-engine-it-needs-eye-contact-4oo9)
-- [You warmed the domain up right and reputation held. Six months on it started sliding again. It was the list.](https://dev.to/basictechnology/you-warmed-the-domain-up-right-and-reputation-held-six-months-on-it-started-sliding-again-it-was-hj5)
-- [When 10 Carbons Lose to 3 Nitrogens](https://dev.to/dagger_shoe/when-10-carbons-lose-to-3-nitrogens-2kah)
-- [Building a Pinterest Clone Solo, From Scratch, in Node.js](https://dev.to/ivca_ivan/building-a-pinterest-clone-solo-from-scratch-in-nodejs-51mh)
+- [How to Turn Trip Photos and Metadata into a Self-Contained HTML Story](https://dev.to/_862f933aa9477a9d2d/how-to-turn-trip-photos-and-metadata-into-a-self-contained-html-story-2koo)
+- [I Built a Custom MCP Server That Publishes My Blogs for Me: A Debugging Log](https://dev.to/d1n35h_v/i-built-a-custom-mcp-server-that-publishes-my-blogs-for-me-a-debugging-log-2p5j)
+- [Sunday at 2, Thursday at 8](https://dev.to/kritim_krijal/sunday-at-2-thursday-at-8-2f15)
+- [How to put a hard daily cap on your LangChain.js API costs](https://dev.to/kimbeomgyu/how-to-put-a-hard-daily-cap-on-your-langchainjs-api-costs-5gm7)
+- [Demystifying Next.js Caching Strategies ⚡](https://dev.to/iprajapatiparesh/demystifying-nextjs-caching-strategies-1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
