@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building create-next-mui: Small Improvements That Made a Big Difference](https://dev.to/thatonevikash/building-create-next-mui-small-improvements-that-made-a-big-difference-4k8f)
-- [Minimal Homelab Server with Alpine Linux](https://dev.to/pizidavi/minimal-alpine-linux-homelab-server-n7i)
-- [Release notes answer the wrong question](https://dev.to/deployconfidence/release-notes-answer-the-wrong-question-5afa)
-- [Benchmarking AI Coding Agents on Real Pull Requests](https://dev.to/donk8r/benchmarking-ai-coding-agents-on-real-pull-requests-22k9)
-- [I Built Hundreds of Pages With Templates. Here&#39;s Why It Didn&#39;t Work](https://dev.to/ravindrachitla/i-built-hundreds-of-pages-with-templates-heres-why-it-didnt-work-11ki)
+- [React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42)
+- [Your DEX tool is probably overstating Uniswap v3 TVL by 25x](https://dev.to/donnyautomation/your-dex-tool-is-probably-overstating-uniswap-v3-tvl-by-25x-og6)
+- [Where the guardrail lives](https://dev.to/to21as/where-the-guardrail-lives-329p)
+- [60 AI-written WordPress plugins, and JavaScript escaping that is safe by accident](https://dev.to/lunetrax/60-ai-written-wordpress-plugins-and-javascript-escaping-that-is-safe-by-accident-4592)
+- [Stop Unnecessary Re-renders in React: A Practical Guide to Faster Applications](https://dev.to/biteglitz/stop-unnecessary-re-renders-in-react-a-practical-guide-to-faster-applications-c7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
