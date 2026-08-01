@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42)
-- [Your DEX tool is probably overstating Uniswap v3 TVL by 25x](https://dev.to/donnyautomation/your-dex-tool-is-probably-overstating-uniswap-v3-tvl-by-25x-og6)
-- [Where the guardrail lives](https://dev.to/to21as/where-the-guardrail-lives-329p)
-- [60 AI-written WordPress plugins, and JavaScript escaping that is safe by accident](https://dev.to/lunetrax/60-ai-written-wordpress-plugins-and-javascript-escaping-that-is-safe-by-accident-4592)
-- [Stop Unnecessary Re-renders in React: A Practical Guide to Faster Applications](https://dev.to/biteglitz/stop-unnecessary-re-renders-in-react-a-practical-guide-to-faster-applications-c7)
+- [AI-Forward Marketing Teams Are Hiring More, Not Less, Survey Data Shows](https://dev.to/alifar/ai-forward-marketing-teams-are-hiring-more-not-less-survey-data-shows-129a)
+- [Why Your Web Scrapers Keep Breaking &lpar;And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright&rpar;](https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2)
+- [⚡ Why Integer no longer stores its value as a String](https://dev.to/kotools/kotools-types-520-why-integer-no-longer-stores-its-value-as-a-string-nd3)
+- [Why RAG Docs Chatbots Answer Wrong: Embeddings, Chunking, and Context Fixes](https://dev.to/tony_chen_2026/why-rag-docs-chatbots-answer-wrong-embeddings-chunking-and-context-fixes-3l9c)
+- [I counted the sources in 13 of Google&#39;s AI answers. 168 citations, and not one domain appeared twice.](https://dev.to/oguzhantusen/i-counted-the-sources-in-13-of-googles-ai-answers-168-citations-and-not-one-domain-appeared-1a1b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
