@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Skill and checker for MCP&#39;s breaking change 2026-08-26. Then the checker was wrong about it.](https://dev.to/vertigo91/i-built-a-skill-and-checker-for-mcps-breaking-change-2026-08-26-then-the-checker-was-wrong-about-1kb4)
-- [Solving Riverpod’s Family Provider Cache Dilemma with Signals &amp; mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474)
-- [The Golden Rule of Payout Systems: Why &quot;Pending&quot; is Never a Failure](https://dev.to/shubham399/the-golden-rule-of-payout-systems-why-pending-is-never-a-failure-3n6)
-- [What an AI Engineer job actually tests](https://dev.to/kayashaolu/what-an-ai-engineer-job-actually-tests-4mch)
-- [Designing Edit Operations for AI Agents](https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8)
+- [What I learned building an agent platform that actually ships](https://dev.to/gad_ofir_076c468dd15d483b/what-i-learned-building-an-agent-platform-that-actually-ships-5ab7)
+- [The one design-review question that would have caught our APIM naming collision](https://dev.to/webruster/the-one-design-review-question-that-would-have-caught-our-apim-naming-collision-4eho)
+- [A lint that crashes before it asserts is worse than no lint](https://dev.to/gad_ofir_076c468dd15d483b/a-lint-that-crashes-before-it-asserts-is-worse-than-no-lint-1k0o)
+- [AI Won&#39;t Replace DevOps Engineers—But These 7 Skills Will Make You Irreplaceable in 2026](https://dev.to/yash_sonawane25/ai-wont-replace-devops-engineers-but-these-7-skills-will-make-you-irreplaceable-in-2026-46hh)
+- [How to Setup NFS Sharing on Debian 13 and Mount on macOS, Linux, and Windows &lpar;with Performance Tuning&rpar;](https://dev.to/josh_klein/how-to-setup-nfs-sharing-on-debian-13-and-mount-on-macos-linux-and-windows-with-performance-2em)
 <!-- BLOG-POST-LIST:END -->
 
 ---
