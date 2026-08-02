@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned building an agent platform that actually ships](https://dev.to/gad_ofir_076c468dd15d483b/what-i-learned-building-an-agent-platform-that-actually-ships-5ab7)
-- [The one design-review question that would have caught our APIM naming collision](https://dev.to/webruster/the-one-design-review-question-that-would-have-caught-our-apim-naming-collision-4eho)
-- [A lint that crashes before it asserts is worse than no lint](https://dev.to/gad_ofir_076c468dd15d483b/a-lint-that-crashes-before-it-asserts-is-worse-than-no-lint-1k0o)
-- [AI Won&#39;t Replace DevOps Engineers—But These 7 Skills Will Make You Irreplaceable in 2026](https://dev.to/yash_sonawane25/ai-wont-replace-devops-engineers-but-these-7-skills-will-make-you-irreplaceable-in-2026-46hh)
-- [How to Setup NFS Sharing on Debian 13 and Mount on macOS, Linux, and Windows &lpar;with Performance Tuning&rpar;](https://dev.to/josh_klein/how-to-setup-nfs-sharing-on-debian-13-and-mount-on-macos-linux-and-windows-with-performance-2em)
+- [Five things I noticed this week: GPT-5.6, Gemini Robotics 2, and GitHub stacked PRs](https://dev.to/morinaga/five-things-i-noticed-this-week-gpt-56-gemini-robotics-2-and-github-stacked-prs-4jdp)
+- [Make agent-callable writes idempotent, or lose data](https://dev.to/frihet/make-agent-callable-writes-idempotent-or-lose-data-2n5m)
+- [&#39;Deploy succeeded.&#39; Four of my nine pages were still 404.](https://dev.to/fromzerotoship/deploy-succeeded-four-of-my-nine-pages-were-still-404-5bke)
+- [6 Questions Every Enterprise Has to Answer About AI](https://dev.to/hunter_g_50e2ec233acd07b5/6-questions-every-enterprise-has-to-answer-about-ai-2f9k)
+- [Turning TravelAI.Core Into a Real Production System](https://dev.to/aftabkh4n/turning-travelaicore-into-a-real-production-system-3npm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
