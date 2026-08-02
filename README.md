@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What “Team Humanity” Could Signal for OpenAI Governance and Enterprise AI Planning](https://dev.to/alifar/what-team-humanity-could-signal-for-openai-governance-and-enterprise-ai-planning-59jh)
-- [AI Makes Bad Developers Faster Too](https://dev.to/suckup_de/ai-makes-bad-developers-faster-too-2o10)
-- [Stop Leaking Secrets into your LLM Context Windows](https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5)
-- [React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture](https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd)
-- [The Autonomy Paradox: When an AI Agent Can&#39;t Follow Its Own Rules](https://dev.to/wharsojo/the-autonomy-paradox-when-an-ai-agent-cant-follow-its-own-rules-1a11)
+- [Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi)
+- [Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)
+- [My Comment-Reply Queue Draft One Reply to a Thread and It Went Deaf to Every Follow-Up After That](https://dev.to/enjoy_kumawat/my-comment-reply-queue-draft-one-reply-to-a-thread-and-it-went-deaf-to-every-follow-up-after-that-2dlc)
+- [5 Common CSS Mistakes Beginners Make and How to Fix Them](https://dev.to/kinuri_mahoshadhiedirisi/5-common-css-mistakes-beginners-make-and-how-to-fix-them-1b42)
+- [AI Search Creates a Measurement Gap as Brand Influence Extends Beyond Clicks](https://dev.to/alifar/ai-search-creates-a-measurement-gap-as-brand-influence-extends-beyond-clicks-12dn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
