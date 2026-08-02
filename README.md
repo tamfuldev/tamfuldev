@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Makes Developers Faster. Why Can It Make Teams Slower?](https://dev.to/_3ffb5be7950c3a975b5d/ai-makes-developers-faster-why-can-it-make-teams-slower-13kl)
-- [Building Your First MCP Server for Network Devices - Part 2](https://dev.to/uzi_golan_98cbec5e54e377e/building-your-first-mcp-server-for-network-devices-part-2-3h07)
-- [anyone experience with vibe coding platforms?](https://dev.to/elnaz_40f0c7a89ce30a415c5/anyone-experience-with-vibe-coding-platforms-k5p)
-- [Treat prompts like code: skills, evals, and ship-gate CI for Cursor slash commands](https://dev.to/emaraschio/treat-prompts-like-code-skills-evals-and-ship-gate-ci-for-cursor-slash-commands-1o03)
-- [Crypto-Agility Without a Redesign: The &quot;Soft-Fade-Out&quot; Pattern for Legacy IoT Silicon](https://dev.to/artkeller/crypto-agility-without-a-redesign-the-soft-fade-out-pattern-for-legacy-iot-silicon-2oc6)
+- [I Built 7 Idle Games in 30 Days: What I Learned About Incremental Design](https://dev.to/aguier/i-built-7-idle-games-in-30-days-what-i-learned-about-incremental-design-5d3f)
+- [I Built Kikar — An AI Messaging Platform That Creates Digital Versions of People](https://dev.to/bhavya4907/i-built-kikar-an-ai-messaging-platform-that-creates-digital-versions-of-people-52i9)
+- [Getting FTDC out of MongoDB Atlas](https://dev.to/zelmario/getting-ftdc-out-of-mongodb-atlas-12mo)
+- [I ran Lighthouse on 269 Shopify stores. The median mobile score was 48.](https://dev.to/bkocdur/i-ran-lighthouse-on-269-shopify-stores-the-median-mobile-score-was-48-3p3e)
+- [Did the client read my proposal? What an open tells you, and the one thing you must never do with it](https://dev.to/blueticks/did-the-client-read-my-proposal-what-an-open-tells-you-and-the-one-thing-you-must-never-do-with-it-13f8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
