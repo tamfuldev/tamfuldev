@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bluetooth Support Across Every Codename One Target](https://dev.to/codenameone/bluetooth-support-across-every-codename-one-target-4om5)
-- [How AI Is Changing Ecommerce Photography: Creativity, Scale and the Trust Problem](https://dev.to/designrise/how-ai-is-changing-ecommerce-photography-creativity-scale-and-the-trust-problem-4e43)
-- [Docker Model Runner vs Ollama — ใครควรย้าย ใครไม่ควร &lpar;และทำไม&rpar;](https://dev.to/sarantoon/docker-model-runner-vs-ollama-aikhrkhwryaay-aikhraimkhwr-aelathamaim-1175)
-- [Make your AI assistant predict the result before it runs it](https://dev.to/gde03/make-your-ai-assistant-predict-the-result-before-it-runs-it-2abo)
-- [How I cut a 1.1 GB image gallery to 30 MB without touching a single database row](https://dev.to/prompt_pin/how-i-cut-a-11-gb-image-gallery-to-30-mb-without-touching-a-single-database-row-1j59)
+- [Why I created PyBotchi &lpar;v4.1.4&rpar;?](https://dev.to/boyong/why-i-created-pybotchi-v414-1pmc)
+- [How to Prove Every Company Laptop Is Managed: An Endpoint Audit Evidence Checklist](https://dev.to/snipermm/how-to-prove-every-company-laptop-is-managed-an-endpoint-audit-evidence-checklist-383k)
+- [Microsoft Up 15%. Me? 100% Down.](https://dev.to/taqui/the-ai-trade-split-bruh-even-wall-street-is-confused-about-ai-aek)
+- [npx hosting — deploy any folder to a live URL in one command, no account](https://dev.to/fordnox/npx-hosting-deploy-any-folder-to-a-live-url-in-one-command-no-account-3h65)
+- [TypeScript Just Got 10x Faster by Not Being TypeScript](https://dev.to/georgekobaidze/typescript-just-got-10x-faster-by-not-being-typescript-1n86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
