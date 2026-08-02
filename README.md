@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify&#39;s Open Secret: Every Store Exposes /products.json](https://dev.to/shan_yun_ab0c7ad30b46ad2d/shopifys-open-secret-every-store-exposes-productsjson-30ni)
-- [Sprite Sheets 101: A Practical Guide for Indie 2D Game Devs](https://dev.to/basquiat/how-to-make-sprite-sheets-4bi1)
-- [Ouma, Nonna &amp; Teta — one table, three kitchens](https://dev.to/piwe/ouma-nonna-teta-one-table-three-kitchens-1ibo)
-- [Why Your $300 Freelance Project Might Pay Less Than $20 an Hour](https://dev.to/altasksstudio/why-your-300-freelance-project-might-pay-less-than-20-an-hour-1hpf)
-- [AI Agent Governance Gets Audited in the Trace | Focused Labs](https://dev.to/focused_dot_io/ai-agent-governance-gets-audited-in-the-trace-focused-labs-4n31)
+- [I built a Skill and checker for MCP&#39;s breaking change 2026-08-26. Then the checker was wrong about it.](https://dev.to/vertigo91/i-built-a-skill-and-checker-for-mcps-breaking-change-2026-08-26-then-the-checker-was-wrong-about-1kb4)
+- [Solving Riverpod’s Family Provider Cache Dilemma with Signals &amp; mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474)
+- [The Golden Rule of Payout Systems: Why &quot;Pending&quot; is Never a Failure](https://dev.to/shubham399/the-golden-rule-of-payout-systems-why-pending-is-never-a-failure-3n6)
+- [What an AI Engineer job actually tests](https://dev.to/kayashaolu/what-an-ai-engineer-job-actually-tests-4mch)
+- [Designing Edit Operations for AI Agents](https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
