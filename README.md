@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying fully static Next.js websites on Vercel](https://dev.to/esmesm/deploying-fully-static-nextjs-websites-on-vercel-47hi)
-- [Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)
-- [My Comment-Reply Queue Draft One Reply to a Thread and It Went Deaf to Every Follow-Up After That](https://dev.to/enjoy_kumawat/my-comment-reply-queue-draft-one-reply-to-a-thread-and-it-went-deaf-to-every-follow-up-after-that-2dlc)
-- [5 Common CSS Mistakes Beginners Make and How to Fix Them](https://dev.to/kinuri_mahoshadhiedirisi/5-common-css-mistakes-beginners-make-and-how-to-fix-them-1b42)
-- [AI Search Creates a Measurement Gap as Brand Influence Extends Beyond Clicks](https://dev.to/alifar/ai-search-creates-a-measurement-gap-as-brand-influence-extends-beyond-clicks-12dn)
+- [Bluetooth Support Across Every Codename One Target](https://dev.to/codenameone/bluetooth-support-across-every-codename-one-target-4om5)
+- [How AI Is Changing Ecommerce Photography: Creativity, Scale and the Trust Problem](https://dev.to/designrise/how-ai-is-changing-ecommerce-photography-creativity-scale-and-the-trust-problem-4e43)
+- [Docker Model Runner vs Ollama — ใครควรย้าย ใครไม่ควร &lpar;และทำไม&rpar;](https://dev.to/sarantoon/docker-model-runner-vs-ollama-aikhrkhwryaay-aikhraimkhwr-aelathamaim-1175)
+- [Make your AI assistant predict the result before it runs it](https://dev.to/gde03/make-your-ai-assistant-predict-the-result-before-it-runs-it-2abo)
+- [How I cut a 1.1 GB image gallery to 30 MB without touching a single database row](https://dev.to/prompt_pin/how-i-cut-a-11-gb-image-gallery-to-30-mb-without-touching-a-single-database-row-1j59)
 <!-- BLOG-POST-LIST:END -->
 
 ---
