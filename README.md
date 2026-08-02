@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [No More nodemon or dotenv? Node.js Can Handle It Now](https://dev.to/joodi/no-more-nodemon-or-dotenv-nodejs-can-handle-it-now-2inb)
-- [Scaling AI Beyond the Monolith: Multi-Agent Coordination via Federated MCP Servers](https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7)
-- [Dollars and rupees without Stripe: what building Skill Exchange&#39;s checkout taught me &lpar;PayPal + UPI&rpar;](https://dev.to/mohanvenkatakrishnan/dollars-and-rupees-without-stripe-what-building-skill-exchanges-checkout-taught-me-paypal-upi-3i8p)
-- [Emotional AI for Relationships: Goutoujunshi&#39;s New Approach](https://dev.to/dd8888/emotional-ai-for-relationships-goutoujunshis-new-approach-54hc)
-- [GitHub finds your vulnerabilities. Something still has to manage them.](https://dev.to/shahidfoy/github-finds-your-vulnerabilities-something-still-has-to-manage-them-3noh)
+- [AI Makes Developers Faster. Why Can It Make Teams Slower?](https://dev.to/_3ffb5be7950c3a975b5d/ai-makes-developers-faster-why-can-it-make-teams-slower-13kl)
+- [Building Your First MCP Server for Network Devices - Part 2](https://dev.to/uzi_golan_98cbec5e54e377e/building-your-first-mcp-server-for-network-devices-part-2-3h07)
+- [anyone experience with vibe coding platforms?](https://dev.to/elnaz_40f0c7a89ce30a415c5/anyone-experience-with-vibe-coding-platforms-k5p)
+- [Treat prompts like code: skills, evals, and ship-gate CI for Cursor slash commands](https://dev.to/emaraschio/treat-prompts-like-code-skills-evals-and-ship-gate-ci-for-cursor-slash-commands-1o03)
+- [Crypto-Agility Without a Redesign: The &quot;Soft-Fade-Out&quot; Pattern for Legacy IoT Silicon](https://dev.to/artkeller/crypto-agility-without-a-redesign-the-soft-fade-out-pattern-for-legacy-iot-silicon-2oc6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
