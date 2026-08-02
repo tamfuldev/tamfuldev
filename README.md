@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I created PyBotchi &lpar;v4.1.4&rpar;?](https://dev.to/boyong/why-i-created-pybotchi-v414-1pmc)
-- [How to Prove Every Company Laptop Is Managed: An Endpoint Audit Evidence Checklist](https://dev.to/snipermm/how-to-prove-every-company-laptop-is-managed-an-endpoint-audit-evidence-checklist-383k)
-- [Microsoft Up 15%. Me? 100% Down.](https://dev.to/taqui/the-ai-trade-split-bruh-even-wall-street-is-confused-about-ai-aek)
-- [npx hosting — deploy any folder to a live URL in one command, no account](https://dev.to/fordnox/npx-hosting-deploy-any-folder-to-a-live-url-in-one-command-no-account-3h65)
-- [TypeScript Just Got 10x Faster by Not Being TypeScript](https://dev.to/georgekobaidze/typescript-just-got-10x-faster-by-not-being-typescript-1n86)
+- [Your agent doesn&#39;t need more tools, it needs better tool descriptions](https://dev.to/nitish-builds/your-agent-doesnt-need-more-tools-it-needs-better-tool-descriptions-4d28)
+- [What Are DevOps Engineers, Really? Roles, Skills, and How to Become One](https://dev.to/ilyas_elaissi/what-are-devops-engineers-really-roles-skills-and-how-to-become-one-2ma0)
+- [My quest to learn Assembly programming ; Introduction](https://dev.to/baldrtheking/my-quest-to-learn-assembly-programming-introduction-1ok9)
+- [YAML Test Cases in Git: What r/QualityAssurance Actually Said](https://dev.to/weiwen-weng/yaml-test-cases-in-git-what-rqualityassurance-actually-said-1kc5)
+- [Pick Your AI by the Task, Not the Hype &lpar;A Simple Routing Framework&rpar;](https://dev.to/academy_agineai/pick-your-ai-by-the-task-not-the-hype-a-simple-routing-framework-563e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
