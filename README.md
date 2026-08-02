@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)
-- [[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18)
-- [[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…](https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o)
-- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
-- [When Your Homelab Grows Up: How SQLite Took Down My k3s Control Plane](https://dev.to/tomaszwostal/when-your-homelab-grows-up-how-sqlite-took-down-my-k3s-control-plane-1kdp)
+- [No More nodemon or dotenv? Node.js Can Handle It Now](https://dev.to/joodi/no-more-nodemon-or-dotenv-nodejs-can-handle-it-now-2inb)
+- [Scaling AI Beyond the Monolith: Multi-Agent Coordination via Federated MCP Servers](https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7)
+- [Dollars and rupees without Stripe: what building Skill Exchange&#39;s checkout taught me &lpar;PayPal + UPI&rpar;](https://dev.to/mohanvenkatakrishnan/dollars-and-rupees-without-stripe-what-building-skill-exchanges-checkout-taught-me-paypal-upi-3i8p)
+- [Emotional AI for Relationships: Goutoujunshi&#39;s New Approach](https://dev.to/dd8888/emotional-ai-for-relationships-goutoujunshis-new-approach-54hc)
+- [GitHub finds your vulnerabilities. Something still has to manage them.](https://dev.to/shahidfoy/github-finds-your-vulnerabilities-something-still-has-to-manage-them-3noh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
