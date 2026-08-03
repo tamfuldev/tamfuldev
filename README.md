@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?](https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh)
-- [Tokens por Segundo: Cómo medir y optimizar la velocidad en modelos de IA](https://dev.to/pivelcode/tokens-por-segundo-como-medir-y-optimizar-la-velocidad-en-modelos-de-ia-46h5)
-- [I Built an Open-Source AI Agent That Actually Controls Your Computer](https://dev.to/safiyevmarat/i-built-an-open-source-ai-agent-that-actually-controls-your-computer-51a6)
-- [A Chinese Name Generator Tool](https://dev.to/karma_digitalsolutions_c/a-chinese-name-generator-tool-3667)
-- [Untitled](https://dev.to/tracepilot_2841f1db6718a1/untitled-3a63)
+- [Enterprise Knowledge Graphs: Unlocking AI-Driven Insights](https://dev.to/beehivestrategy/enterprise-knowledge-graphs-unlocking-ai-driven-insights-4g38)
+- [How to Overcome TestFlight User Limits](https://dev.to/kaushalrola/how-to-overcome-testflight-user-limits-48b9)
+- [Qwen 3.8 Max API Pricing: 16 Thinking Tokens Beat the Off Switch](https://dev.to/synthorai/qwen-38-max-api-pricing-16-thinking-tokens-beat-the-off-switch-2298)
+- [Implementing MCP in Your Enterprise: A Step-by-Step Guide](https://dev.to/beehivestrategy/implementing-mcp-in-your-enterprise-a-step-by-step-guide-2mio)
+- [Securing LLMs in Enterprise Deployments: Threats &amp;](https://dev.to/beehivestrategy/securing-llms-in-enterprise-deployments-threats--4jgf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
