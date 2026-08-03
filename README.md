@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Gemini AI fixes 1,072 Chrome bugs in 60 days – How it happened](https://dev.to/10x/googles-gemini-ai-fixes-1072-chrome-bugs-in-60-days-how-it-happened-1kb4)
-- [My deploy check waits 60 seconds. My outage alarm waits 5. I measured neither.](https://dev.to/fromzerotoship/my-deploy-check-waits-60-seconds-my-outage-alarm-waits-5-i-measured-neither-3cid)
-- [What 102 Portable Power Stations Tell Us About Buying One in 2026](https://dev.to/sunsee/what-102-portable-power-stations-tell-us-about-buying-one-in-2026-4h13)
-- [Why you should Homelab as a developer](https://dev.to/w3ndo/why-you-should-homelab-as-a-developer-4i5h)
-- [I Stopped Reading About SEO and Built a Password Generator Instead](https://dev.to/_63f383d3ef7194bca9b64/i-stopped-reading-about-seo-and-built-a-password-generator-instead-5clb)
+- [We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?](https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh)
+- [Tokens por Segundo: Cómo medir y optimizar la velocidad en modelos de IA](https://dev.to/pivelcode/tokens-por-segundo-como-medir-y-optimizar-la-velocidad-en-modelos-de-ia-46h5)
+- [I Built an Open-Source AI Agent That Actually Controls Your Computer](https://dev.to/safiyevmarat/i-built-an-open-source-ai-agent-that-actually-controls-your-computer-51a6)
+- [A Chinese Name Generator Tool](https://dev.to/karma_digitalsolutions_c/a-chinese-name-generator-tool-3667)
+- [Untitled](https://dev.to/tracepilot_2841f1db6718a1/untitled-3a63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
