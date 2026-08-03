@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816)
-- [Prompt Injection Is an Authorization Problem](https://dev.to/y11t0/prompt-injection-is-an-authorization-problem-1ojh)
-- [Introduction to Python Module Four Part Three: Slicing](https://dev.to/theoriginalbpc/introduction-to-python-module-four-part-three-slicing-477g)
-- [Provenance Belongs in the Image Table](https://dev.to/romiteld/provenance-belongs-in-the-image-table-4d30)
-- [I used Spring Boot daily but never really understood what happened after pressing Enter in Postman.](https://dev.to/curious_niloufer/i-used-spring-boot-daily-but-never-really-understood-what-happened-after-pressing-enter-in-postman-5cej)
+- [Docker Proves Your App Runs. Kubernetes Proves It&#39;s Operable.](https://dev.to/arbythecoder/docker-proves-your-app-runs-kubernetes-proves-its-operable-439i)
+- [Practice Real-World Testing Scenarios for QA: Challenge 3 - Visual Testing with API Mocking](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-5f6i)
+- [Building Deterministic Multi Agent Workflows with LangGraph](https://dev.to/muhammad_aslam_ff65e35553/building-deterministic-multi-agent-workflows-with-langgraph-4m0i)
+- [Qwen3.8-Max Just Went GA: A Developer&#39;s Guide to Alibaba&#39;s 2.4T Model](https://dev.to/arshtechpro/qwen38-max-just-went-ga-a-developers-guide-to-alibabas-24t-model-ff3)
+- [The server rejected the norepinephrine — and that was the best thing that happened](https://dev.to/jesuspantojap/the-server-rejected-the-norepinephrine-and-that-was-the-best-thing-that-happened-tags-fhir-4jmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
