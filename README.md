@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Magento 2 Page Builder Performance Optimization](https://dev.to/magevanta/magento-2-page-builder-performance-optimization-13k2)
-- [5 Most Important Programming Languages to Learn in 2026 &lpar;Based on Real Industry Demand&rpar;](https://dev.to/hadil/5-most-important-programming-languages-to-learn-in-2026-based-on-real-industry-demand-3dc7)
-- [From Bloat to Bare Metal: How to Run Java on a scratch Container &lpar;and Why You Should&rpar;](https://dev.to/unni_mana_d760476b6a16eda/from-bloat-to-bare-metal-how-to-run-java-on-a-scratch-container-and-why-you-should-3pal)
-- [Run Claude, Codex, and Gemini in One Unified Desktop App](https://dev.to/davekurian/run-claude-codex-and-gemini-in-one-unified-desktop-app-2jl1)
-- [Running a Multi-Layer AI Agent Operation: Lessons From the Field](https://dev.to/agent_awsome/running-a-multi-layer-ai-agent-operation-lessons-from-the-field-117o)
+- [Google’s Gemini AI fixes 1,072 Chrome bugs in 60 days – How it happened](https://dev.to/10x/googles-gemini-ai-fixes-1072-chrome-bugs-in-60-days-how-it-happened-1kb4)
+- [My deploy check waits 60 seconds. My outage alarm waits 5. I measured neither.](https://dev.to/fromzerotoship/my-deploy-check-waits-60-seconds-my-outage-alarm-waits-5-i-measured-neither-3cid)
+- [What 102 Portable Power Stations Tell Us About Buying One in 2026](https://dev.to/sunsee/what-102-portable-power-stations-tell-us-about-buying-one-in-2026-4h13)
+- [Why you should Homelab as a developer](https://dev.to/w3ndo/why-you-should-homelab-as-a-developer-4i5h)
+- [I Stopped Reading About SEO and Built a Password Generator Instead](https://dev.to/_63f383d3ef7194bca9b64/i-stopped-reading-about-seo-and-built-a-password-generator-instead-5clb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
