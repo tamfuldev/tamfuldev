@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Knowledge Graphs: Unlocking AI-Driven Insights](https://dev.to/beehivestrategy/enterprise-knowledge-graphs-unlocking-ai-driven-insights-4g38)
-- [How to Overcome TestFlight User Limits](https://dev.to/kaushalrola/how-to-overcome-testflight-user-limits-48b9)
-- [Qwen 3.8 Max API Pricing: 16 Thinking Tokens Beat the Off Switch](https://dev.to/synthorai/qwen-38-max-api-pricing-16-thinking-tokens-beat-the-off-switch-2298)
-- [Implementing MCP in Your Enterprise: A Step-by-Step Guide](https://dev.to/beehivestrategy/implementing-mcp-in-your-enterprise-a-step-by-step-guide-2mio)
-- [Securing LLMs in Enterprise Deployments: Threats &amp;](https://dev.to/beehivestrategy/securing-llms-in-enterprise-deployments-threats--4jgf)
+- [Your Secrets Need a VDP, Not Just a Bug Bounty](https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei)
+- [How I built a 2-agent code review loop for local Ollama workflows](https://dev.to/haichi_ops_861a9ec315b1e7/how-i-built-a-2-agent-code-review-loop-for-local-ollama-workflows-le2)
+- [Every Way to Export LinkedIn and Sales Navigator Data &lpar;and When Each One Actually Works&rpar;](https://dev.to/mastrosgeppettos/every-way-to-export-linkedin-and-sales-navigator-data-and-when-each-one-actually-works-35dp)
+- [7 Production Issues Every Spring Boot Developer Should Learn Before Becoming Senior](https://dev.to/vinod_erramsetty_191b3e05/7-production-issues-every-spring-boot-developer-should-learn-before-becoming-senior-1nk5)
+- [Sellar un archivo para que nadie pueda discutir que no lo tocaste](https://dev.to/isazajuancarlos/sellar-un-archivo-para-que-nadie-pueda-discutir-que-no-lo-tocaste-4788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
