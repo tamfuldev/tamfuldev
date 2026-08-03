@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Llamar a un teléfono real desde el navegador: WebRTC, SIP y lo que nadie te cuenta de la facturación](https://dev.to/ivanindiv/llamar-a-un-telefono-real-desde-el-navegador-webrtc-sip-y-lo-que-nadie-te-cuenta-de-la-facturacion-3nmp)
-- [Your AI Agent&#39;s Chat History Is User Input](https://dev.to/y11t0/your-ai-agents-chat-history-is-user-input-fl6)
-- [Jollof, Sunday Special — A Bowl of Jollof Rice in Pure CSS](https://dev.to/charleseze322/jollof-sunday-special-a-bowl-of-jollof-rice-in-pure-css-540)
-- [5 New Dev Tools You Should Learn This Week](https://dev.to/karleeov/5-new-dev-tools-you-should-learn-this-week-12in)
-- [PITCH: 2 em 1](https://dev.to/iamthiago/pitch-2-em-1-35n0)
+- [React useInfiniteScroll Hook: Infinite Scrolling Made Simple &lpar;2026&rpar;](https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4)
+- [You don&#39;t have to choose between Shopify updates and accessibility fixes](https://dev.to/praiztech/you-dont-have-to-choose-between-shopify-updates-and-accessibility-fixes-fm8)
+- [You Won’t Know How Much to Delegate to AI Until You Use It Extensively](https://dev.to/tom-takeru/you-wont-know-how-much-to-delegate-to-ai-until-you-use-it-extensively-30dh)
+- [A Day in the Life of a Brazilian Dev: $1K Salaries and 5-Hour Commutes](https://dev.to/guilherme_galanti/a-day-in-the-life-of-a-brazilian-dev-1k-salaries-and-5-hour-commutes-2jai)
+- [Plaid Alternatives in Europe: A PSD2 Developer&#39;s Comparison for 2026](https://dev.to/johnfrandsen/plaid-alternatives-in-europe-a-psd2-developers-comparison-for-2026-3gak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
