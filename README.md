@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React useInfiniteScroll Hook: Infinite Scrolling Made Simple &lpar;2026&rpar;](https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4)
-- [You don&#39;t have to choose between Shopify updates and accessibility fixes](https://dev.to/praiztech/you-dont-have-to-choose-between-shopify-updates-and-accessibility-fixes-fm8)
-- [You Won’t Know How Much to Delegate to AI Until You Use It Extensively](https://dev.to/tom-takeru/you-wont-know-how-much-to-delegate-to-ai-until-you-use-it-extensively-30dh)
-- [A Day in the Life of a Brazilian Dev: $1K Salaries and 5-Hour Commutes](https://dev.to/guilherme_galanti/a-day-in-the-life-of-a-brazilian-dev-1k-salaries-and-5-hour-commutes-2jai)
-- [Plaid Alternatives in Europe: A PSD2 Developer&#39;s Comparison for 2026](https://dev.to/johnfrandsen/plaid-alternatives-in-europe-a-psd2-developers-comparison-for-2026-3gak)
+- [The MCP 2026-07-28 spec is final - check your server in one command!](https://dev.to/mcpscore/the-mcp-2026-07-28-spec-is-final-check-your-server-in-one-command-438k)
+- [Warm Table — A Taiwanese Comfort Soup Landing Page](https://dev.to/zoe_lin_0653/warm-table-a-taiwanese-comfort-soup-landing-page-fnl)
+- [git log tricks you really should know](https://dev.to/pikotutorial/git-log-tricks-you-really-should-know-30gp)
+- [I&#39;m Launching Street-Smart Coding Manifesto: A Case Against Syntax Obsession &lpar;Book 2 of My Trilogy&rpar;](https://dev.to/canro91/im-launching-street-smart-coding-manifesto-a-case-against-syntax-obsession-book-2-of-my-trilogy-44bk)
+- [Kernel &amp; Embedded News: Hazard Pointers Proposed for the Kernel](https://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-hazard-pointers-proposed-for-the-kernel-b3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
