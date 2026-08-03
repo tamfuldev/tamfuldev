@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Secrets Need a VDP, Not Just a Bug Bounty](https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei)
-- [How I built a 2-agent code review loop for local Ollama workflows](https://dev.to/haichi_ops_861a9ec315b1e7/how-i-built-a-2-agent-code-review-loop-for-local-ollama-workflows-le2)
-- [Every Way to Export LinkedIn and Sales Navigator Data &lpar;and When Each One Actually Works&rpar;](https://dev.to/mastrosgeppettos/every-way-to-export-linkedin-and-sales-navigator-data-and-when-each-one-actually-works-35dp)
-- [7 Production Issues Every Spring Boot Developer Should Learn Before Becoming Senior](https://dev.to/vinod_erramsetty_191b3e05/7-production-issues-every-spring-boot-developer-should-learn-before-becoming-senior-1nk5)
-- [Sellar un archivo para que nadie pueda discutir que no lo tocaste](https://dev.to/isazajuancarlos/sellar-un-archivo-para-que-nadie-pueda-discutir-que-no-lo-tocaste-4788)
+- [XML Tagging in Prompts: The Secret to Getting Better Output from Claude and GPT](https://dev.to/maryam_saba_792cdbcdb46fd/xml-tagging-in-prompts-the-secret-to-getting-better-output-from-claude-and-gpt-54e1)
+- [Building a security posture scanner with Next.js and Python](https://dev.to/dkls7777/building-a-security-posture-scanner-with-nextjs-and-python-5g5c)
+- [Why GitHub Cannot Paginate Through Millions of Repositories - Deep Pagination Explained](https://dev.to/mayank7924/why-github-silently-caps-your-search-at-1000-results-and-whats-actually-happening-underneath-1oik)
+- [A comment can be marked done without changing Word text](https://dev.to/sybilgambleyyu/a-comment-can-be-marked-done-without-changing-word-text-512o)
+- [Building ephemeral encrypted chat with Cloudflare Durable Objects](https://dev.to/shawnbure/building-ephemeral-encrypted-chat-with-cloudflare-durable-objects-aaf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
