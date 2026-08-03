@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The MCP 2026-07-28 spec is final - check your server in one command!](https://dev.to/mcpscore/the-mcp-2026-07-28-spec-is-final-check-your-server-in-one-command-438k)
-- [Warm Table — A Taiwanese Comfort Soup Landing Page](https://dev.to/zoe_lin_0653/warm-table-a-taiwanese-comfort-soup-landing-page-fnl)
-- [git log tricks you really should know](https://dev.to/pikotutorial/git-log-tricks-you-really-should-know-30gp)
-- [I&#39;m Launching Street-Smart Coding Manifesto: A Case Against Syntax Obsession &lpar;Book 2 of My Trilogy&rpar;](https://dev.to/canro91/im-launching-street-smart-coding-manifesto-a-case-against-syntax-obsession-book-2-of-my-trilogy-44bk)
-- [Kernel &amp; Embedded News: Hazard Pointers Proposed for the Kernel](https://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-hazard-pointers-proposed-for-the-kernel-b3b)
+- [Magento 2 Page Builder Performance Optimization](https://dev.to/magevanta/magento-2-page-builder-performance-optimization-13k2)
+- [5 Most Important Programming Languages to Learn in 2026 &lpar;Based on Real Industry Demand&rpar;](https://dev.to/hadil/5-most-important-programming-languages-to-learn-in-2026-based-on-real-industry-demand-3dc7)
+- [From Bloat to Bare Metal: How to Run Java on a scratch Container &lpar;and Why You Should&rpar;](https://dev.to/unni_mana_d760476b6a16eda/from-bloat-to-bare-metal-how-to-run-java-on-a-scratch-container-and-why-you-should-3pal)
+- [Run Claude, Codex, and Gemini in One Unified Desktop App](https://dev.to/davekurian/run-claude-codex-and-gemini-in-one-unified-desktop-app-2jl1)
+- [Running a Multi-Layer AI Agent Operation: Lessons From the Field](https://dev.to/agent_awsome/running-a-multi-layer-ai-agent-operation-lessons-from-the-field-117o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
