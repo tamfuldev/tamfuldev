@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [XML Tagging in Prompts: The Secret to Getting Better Output from Claude and GPT](https://dev.to/maryam_saba_792cdbcdb46fd/xml-tagging-in-prompts-the-secret-to-getting-better-output-from-claude-and-gpt-54e1)
-- [Building a security posture scanner with Next.js and Python](https://dev.to/dkls7777/building-a-security-posture-scanner-with-nextjs-and-python-5g5c)
-- [Why GitHub Cannot Paginate Through Millions of Repositories - Deep Pagination Explained](https://dev.to/mayank7924/why-github-silently-caps-your-search-at-1000-results-and-whats-actually-happening-underneath-1oik)
-- [A comment can be marked done without changing Word text](https://dev.to/sybilgambleyyu/a-comment-can-be-marked-done-without-changing-word-text-512o)
-- [Building ephemeral encrypted chat with Cloudflare Durable Objects](https://dev.to/shawnbure/building-ephemeral-encrypted-chat-with-cloudflare-durable-objects-aaf)
+- [Google&#39;s AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816)
+- [Prompt Injection Is an Authorization Problem](https://dev.to/y11t0/prompt-injection-is-an-authorization-problem-1ojh)
+- [Introduction to Python Module Four Part Three: Slicing](https://dev.to/theoriginalbpc/introduction-to-python-module-four-part-three-slicing-477g)
+- [Provenance Belongs in the Image Table](https://dev.to/romiteld/provenance-belongs-in-the-image-table-4d30)
+- [I used Spring Boot daily but never really understood what happened after pressing Enter in Postman.](https://dev.to/curious_niloufer/i-used-spring-boot-daily-but-never-really-understood-what-happened-after-pressing-enter-in-postman-5cej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
