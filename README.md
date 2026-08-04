@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Evidence-Backed SaaS Opportunity Pipeline](https://dev.to/jason_huang/how-i-built-an-evidence-backed-saas-opportunity-pipeline-3gmo)
-- [How I Built an AI Agent System for a Corporate Law Firm — During My Internship](https://dev.to/m0rtal13/how-i-built-an-ai-agent-system-for-a-corporate-law-firm-during-my-internship-3aeh)
-- [AI Agents and Apps With No API: The Real Engineering Tradeoffs](https://dev.to/nataiden/ai-agents-and-apps-with-no-api-the-real-engineering-tradeoffs-20ho)
-- [A formula can be implemented perfectly and still give the wrong answer](https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37)
-- [A signature declaration needs one home](https://dev.to/sybilgambleyyu/a-signature-declaration-needs-one-home-2p7f)
+- [Voice Emotion Control Moves From SSML to Prompts](https://dev.to/lukeocodes/voice-emotion-control-moves-from-ssml-to-prompts-506b)
+- [Taming 70 Flutter Flavors: flavorizr + Batch CI for White-Label Releases](https://dev.to/kamero/taming-70-flutter-flavors-flavorizr-batch-ci-for-white-label-releases-54fl)
+- [Qwen3.8-Max Beat Claude on Three Benchmarks. The Full Story Is Less Convenient](https://dev.to/aditi_gupta_8d81622a592aa/qwen38-max-vs-claude-what-the-16-day-coding-run-and-benchmarks-really-show-3bje)
+- [&quot;5 Python mistakes I keep making as a beginner &lpar;and how I fixed them&rpar;&quot;](https://dev.to/asma_dua_34/5-python-mistakes-i-keep-making-as-a-beginner-and-how-i-fixed-them-2mnc)
+- [LinkedIn gave everyone a &#39;this looks like AI&#39; button. I won&#39;t press it.](https://dev.to/eugeniya_ivanova_4a58eadc/linkedin-gave-everyone-a-this-looks-like-ai-button-i-wont-press-it-114m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
