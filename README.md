@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs on Consumer Hardware — Part 2: Prefill and the Failure of the AI PC](https://dev.to/sven_welack/llms-on-consumer-hardware-part-2-prefill-and-the-failure-of-the-ai-pc-bd7)
-- [I made a web framework](https://dev.to/banana_cool/i-made-a-web-framework-2obn)
-- [Architecture Decisions Before Writing a Single Line](https://dev.to/travon_bazil/architecture-decisions-before-writing-a-single-line-17mp)
-- [I built a tool that roasts your code with regex — no AI involved](https://dev.to/adamya_singhshengar_998/i-built-a-tool-that-roasts-your-code-with-regex-no-ai-involved-38ag)
-- [How I built the Appwrite MCP server &lpar;and decided to hide most of its capabilities&rpar;](https://dev.to/chiragagg5k/how-i-built-the-appwrite-mcp-server-and-decided-to-hide-most-of-its-capabilities-4jm8)
+- [Linux Troubleshooting Workflow for Beginners: A Step-by-Step Guide](https://dev.to/sreekanth_kuruba_91721e5d/linux-troubleshooting-workflow-for-beginners-a-step-by-step-guide-427c)
+- [How to Make Claude Code and AI Coding Agents Smarter with Spec-Driven Development](https://dev.to/tarrantro/how-to-make-claude-code-and-ai-coding-agents-smarter-with-spec-driven-development-46dl)
+- [Stop hls.js from flapping between quality levels on cellular &lpar;with abrSwitchInterval&rpar;](https://dev.to/masonwritescode/stop-hlsjs-from-flapping-between-quality-levels-on-cellular-with-abrswitchinterval-2ch)
+- [AV2 shipped its 1.0 encoder. Here&#39;s what to actually run in your pipeline instead.](https://dev.to/masonwritescode/av2-shipped-its-10-encoder-heres-what-to-actually-run-in-your-pipeline-instead-pfa)
+- [Benchmark video APIs yourself: upload to playable, measured across five providers](https://dev.to/masonwritescode/benchmark-video-apis-yourself-upload-to-playable-measured-across-five-providers-3ap0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
