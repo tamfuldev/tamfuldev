@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Does It Cost to Self-Host Open Models on AWS?](https://dev.to/aws/how-much-does-it-cost-to-self-host-open-models-on-aws-2n7o)
-- [One Rails request, one event: production context for coding agents](https://dev.to/adammiribyan/one-rails-request-one-event-production-context-for-coding-agents-47n3)
-- [Claude Code shipped a sandbox. Here&#39;s what it protects — and what it doesn&#39;t.](https://dev.to/termaxa/claude-code-shipped-a-sandbox-heres-what-it-protects-and-what-it-doesnt-4o8h)
-- [Liquid Glass on the Web: 6 Ways to Build It with CSS and SVG](https://dev.to/devyatov/liquid-glass-on-the-web-6-ways-to-build-it-with-css-and-svg-3m07)
-- [I Built a Server Agent Because Uptime Checks Tell You What Failed, Not Why](https://dev.to/dragstor/i-built-a-server-agent-because-uptime-checks-tell-you-what-failed-not-why-20hn)
+- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
+- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
+- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
+- [ROI of my 100$ Claude Code Subscription](https://dev.to/nenadmit/roi-of-my-100-claude-code-subscription-1iin)
+- [LISP — ภาษา 67 ปีก่อน ที่ยังมีชีวิตอยู่ในทุกภาษาที่คุณเขียน](https://dev.to/gophernment/lisp-phaasaa-67-piikn-thiiyangmiichiiwityuuainthukphaasaathiikhunekhiiyn-1cfe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
