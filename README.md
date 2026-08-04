@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Voice Emotion Control Moves From SSML to Prompts](https://dev.to/lukeocodes/voice-emotion-control-moves-from-ssml-to-prompts-506b)
-- [Taming 70 Flutter Flavors: flavorizr + Batch CI for White-Label Releases](https://dev.to/kamero/taming-70-flutter-flavors-flavorizr-batch-ci-for-white-label-releases-54fl)
-- [Qwen3.8-Max Beat Claude on Three Benchmarks. The Full Story Is Less Convenient](https://dev.to/aditi_gupta_8d81622a592aa/qwen38-max-vs-claude-what-the-16-day-coding-run-and-benchmarks-really-show-3bje)
-- [&quot;5 Python mistakes I keep making as a beginner &lpar;and how I fixed them&rpar;&quot;](https://dev.to/asma_dua_34/5-python-mistakes-i-keep-making-as-a-beginner-and-how-i-fixed-them-2mnc)
-- [LinkedIn gave everyone a &#39;this looks like AI&#39; button. I won&#39;t press it.](https://dev.to/eugeniya_ivanova_4a58eadc/linkedin-gave-everyone-a-this-looks-like-ai-button-i-wont-press-it-114m)
+- [🚀 How AI Is Reshaping Software Development in 2026](https://dev.to/codexlancers/how-ai-is-reshaping-software-development-in-2026-4e2l)
+- [Adaptive Bitrate Streaming for Mobile API Responses: Dynamic Payload Shaping Under Network Pressure](https://dev.to/software_mvp-factory/adaptive-bitrate-streaming-for-mobile-api-responses-dynamic-payload-shaping-under-network-pressure-25il)
+- [No, Claude Didn&#39;t &#39;Go Rogue.&#39; Someone Gave It Root and Wi-Fi.](https://dev.to/coridev/no-claude-didnt-go-rogue-someone-gave-it-root-and-wi-fi-28b0)
+- [Designing REST APIs That Are Easy to Maintain](https://dev.to/dakshan_reddym_3a8b0a952/designing-rest-apis-that-are-easy-to-maintain-337g)
+- [[Boost]](https://dev.to/kitarp29/-1jca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
