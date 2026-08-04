@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your agent&#39;s audit log is a story, not evidence](https://dev.to/marcinmarzeta/your-agents-audit-log-is-a-story-not-evidence-406o)
-- [Why Does This Download End in .tar.zst?](https://dev.to/atec-systems/why-does-this-download-end-in-tarzst-3mpl)
-- [The OpenAI loop tests a view on AI, not just your coding bar](https://dev.to/fourleaf/the-openai-loop-tests-a-view-on-ai-not-just-your-coding-bar-3mk0)
-- [25 Programming Mistakes I Learned After 10 Years of Software Engineering](https://dev.to/codexlancers/25-programming-mistakes-i-learned-after-10-years-of-software-engineering-51c)
-- [Ilish Polao: Bringing My Ultimate Comfort Food to Life with Pure CSS](https://dev.to/mahbuba_sultana_/ilish-polao-bringing-my-ultimate-comfort-food-to-life-with-pure-css-4fi2)
+- [I nearly fooled myself validating a wearable IMU classifier — here&#39;s the bug and the fix](https://dev.to/vaasx/i-nearly-fooled-myself-validating-a-wearable-imu-classifier-heres-the-bug-and-the-fix-52lm)
+- [Surviving the Shai-Hulud: Why Agent Eval Harnesses and Local LLMs Are the New Supply Chain Defense](https://dev.to/tamizuddin/surviving-the-shai-hulud-why-agent-eval-harnesses-and-local-llms-are-the-new-supply-chain-defense-1aib)
+- [Digital Souveränität: Warum EU-Firmen IT-Infrastruktur überdenken](https://dev.to/uhltak/digital-souveranitat-warum-eu-firmen-it-infrastruktur-uberdenken-1jk0)
+- [You Cannot Tell Which of Your ERD Files Are Under Version Control](https://dev.to/tbson87/you-cannot-tell-which-of-your-erd-files-are-under-version-control-2o6c)
+- [How I normalize benchmark scores across chip generations &lpar;and why raw AnTuTu numbers lie&rpar;](https://dev.to/stufently/how-i-normalize-benchmark-scores-across-chip-generations-and-why-raw-antutu-numbers-lie-2i1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
