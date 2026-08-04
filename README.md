@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Troubleshooting Workflow for Beginners: A Step-by-Step Guide](https://dev.to/sreekanth_kuruba_91721e5d/linux-troubleshooting-workflow-for-beginners-a-step-by-step-guide-427c)
-- [How to Make Claude Code and AI Coding Agents Smarter with Spec-Driven Development](https://dev.to/tarrantro/how-to-make-claude-code-and-ai-coding-agents-smarter-with-spec-driven-development-46dl)
-- [Stop hls.js from flapping between quality levels on cellular &lpar;with abrSwitchInterval&rpar;](https://dev.to/masonwritescode/stop-hlsjs-from-flapping-between-quality-levels-on-cellular-with-abrswitchinterval-2ch)
-- [AV2 shipped its 1.0 encoder. Here&#39;s what to actually run in your pipeline instead.](https://dev.to/masonwritescode/av2-shipped-its-10-encoder-heres-what-to-actually-run-in-your-pipeline-instead-pfa)
-- [Benchmark video APIs yourself: upload to playable, measured across five providers](https://dev.to/masonwritescode/benchmark-video-apis-yourself-upload-to-playable-measured-across-five-providers-3ap0)
+- [How I Built an Evidence-Backed SaaS Opportunity Pipeline](https://dev.to/jason_huang/how-i-built-an-evidence-backed-saas-opportunity-pipeline-3gmo)
+- [How I Built an AI Agent System for a Corporate Law Firm — During My Internship](https://dev.to/m0rtal13/how-i-built-an-ai-agent-system-for-a-corporate-law-firm-during-my-internship-3aeh)
+- [AI Agents and Apps With No API: The Real Engineering Tradeoffs](https://dev.to/nataiden/ai-agents-and-apps-with-no-api-the-real-engineering-tradeoffs-20ho)
+- [A formula can be implemented perfectly and still give the wrong answer](https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37)
+- [A signature declaration needs one home](https://dev.to/sybilgambleyyu/a-signature-declaration-needs-one-home-2p7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
