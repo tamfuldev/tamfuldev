@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How AI Is Reshaping Software Development in 2026](https://dev.to/codexlancers/how-ai-is-reshaping-software-development-in-2026-4e2l)
-- [Adaptive Bitrate Streaming for Mobile API Responses: Dynamic Payload Shaping Under Network Pressure](https://dev.to/software_mvp-factory/adaptive-bitrate-streaming-for-mobile-api-responses-dynamic-payload-shaping-under-network-pressure-25il)
-- [No, Claude Didn&#39;t &#39;Go Rogue.&#39; Someone Gave It Root and Wi-Fi.](https://dev.to/coridev/no-claude-didnt-go-rogue-someone-gave-it-root-and-wi-fi-28b0)
-- [Designing REST APIs That Are Easy to Maintain](https://dev.to/dakshan_reddym_3a8b0a952/designing-rest-apis-that-are-easy-to-maintain-337g)
-- [[Boost]](https://dev.to/kitarp29/-1jca)
+- [Your agent&#39;s audit log is a story, not evidence](https://dev.to/marcinmarzeta/your-agents-audit-log-is-a-story-not-evidence-406o)
+- [Why Does This Download End in .tar.zst?](https://dev.to/atec-systems/why-does-this-download-end-in-tarzst-3mpl)
+- [The OpenAI loop tests a view on AI, not just your coding bar](https://dev.to/fourleaf/the-openai-loop-tests-a-view-on-ai-not-just-your-coding-bar-3mk0)
+- [25 Programming Mistakes I Learned After 10 Years of Software Engineering](https://dev.to/codexlancers/25-programming-mistakes-i-learned-after-10-years-of-software-engineering-51c)
+- [Ilish Polao: Bringing My Ultimate Comfort Food to Life with Pure CSS](https://dev.to/mahbuba_sultana_/ilish-polao-bringing-my-ultimate-comfort-food-to-life-with-pure-css-4fi2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
