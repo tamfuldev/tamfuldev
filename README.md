@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I nearly fooled myself validating a wearable IMU classifier — here&#39;s the bug and the fix](https://dev.to/vaasx/i-nearly-fooled-myself-validating-a-wearable-imu-classifier-heres-the-bug-and-the-fix-52lm)
-- [Surviving the Shai-Hulud: Why Agent Eval Harnesses and Local LLMs Are the New Supply Chain Defense](https://dev.to/tamizuddin/surviving-the-shai-hulud-why-agent-eval-harnesses-and-local-llms-are-the-new-supply-chain-defense-1aib)
-- [Digital Souveränität: Warum EU-Firmen IT-Infrastruktur überdenken](https://dev.to/uhltak/digital-souveranitat-warum-eu-firmen-it-infrastruktur-uberdenken-1jk0)
-- [You Cannot Tell Which of Your ERD Files Are Under Version Control](https://dev.to/tbson87/you-cannot-tell-which-of-your-erd-files-are-under-version-control-2o6c)
-- [How I normalize benchmark scores across chip generations &lpar;and why raw AnTuTu numbers lie&rpar;](https://dev.to/stufently/how-i-normalize-benchmark-scores-across-chip-generations-and-why-raw-antutu-numbers-lie-2i1l)
+- [Self-Hosting AI Models on a Raspberry Pi 5: A Complete Guide to Free, Private, Local AI Inference](https://dev.to/trismegistus/self-hosting-ai-models-on-a-raspberry-pi-5-a-complete-guide-to-free-private-local-ai-inference-24p3)
+- [Your Middleware Is Not a Security Boundary &lpar;59,000 Servers Just Found That Out&rpar;](https://dev.to/janardhan_reddy_8ae708fe0/your-middleware-is-not-a-security-boundary-59000-servers-just-found-that-out-3ao0)
+- [I built a &quot;real job&quot; simulator for Spring Boot learners, free &amp; open source](https://dev.to/waleed2660/i-built-a-real-job-simulator-for-spring-boot-learners-free-open-source-n0e)
+- [Connecting Enterprise Databases &lpar;Postgres, Redis, Neo4j&rpar; to AI Agents via MCP](https://dev.to/programmingcentral/connecting-enterprise-databases-postgres-redis-neo4j-to-ai-agents-via-mcp-36ik)
+- [Google Renames NotebookLM as Gemini Notebook, Expanding Its Role Across Gemini](https://dev.to/alifar/google-renames-notebooklm-as-gemini-notebook-expanding-its-role-across-gemini-2485)
 <!-- BLOG-POST-LIST:END -->
 
 ---
