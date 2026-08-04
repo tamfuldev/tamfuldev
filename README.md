@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running Celery in Production: What We Do Differently After Years of Real Projects](https://dev.to/lycore/running-celery-in-production-what-we-do-differently-after-years-of-real-projects-3en5)
-- [REST vs GraphQL in Practice](https://dev.to/stackhorizon/rest-vs-graphql-in-practice-5bhc)
-- [From Agent Hallucinations to Token Economics: How &#39;Codeburn&#39; and LSPs Are Solving the AI Coding Crisis](https://dev.to/tamizuddin/from-agent-hallucinations-to-token-economics-how-codeburn-and-lsps-are-solving-the-ai-coding-3abj)
-- [An OSPF Hello has to match before it can mean anything](https://dev.to/pathvector-dev/an-ospf-hello-has-to-match-before-it-can-mean-anything-2jgl)
-- [How to Add PDF Annotations in Vue.js: PDF.js, vue-pdf-embed, @tato30/vue-pdf, and Vue PDF Viewer &lpar;2026&rpar;](https://dev.to/9haroon/how-to-add-pdf-annotations-in-vuejs-pdfjs-vue-pdf-embed-tato30vue-pdf-and-vue-pdf-viewer-5b40)
+- [LLMs on Consumer Hardware — Part 2: Prefill and the Failure of the AI PC](https://dev.to/sven_welack/llms-on-consumer-hardware-part-2-prefill-and-the-failure-of-the-ai-pc-bd7)
+- [I made a web framework](https://dev.to/banana_cool/i-made-a-web-framework-2obn)
+- [Architecture Decisions Before Writing a Single Line](https://dev.to/travon_bazil/architecture-decisions-before-writing-a-single-line-17mp)
+- [I built a tool that roasts your code with regex — no AI involved](https://dev.to/adamya_singhshengar_998/i-built-a-tool-that-roasts-your-code-with-regex-no-ai-involved-38ag)
+- [How I built the Appwrite MCP server &lpar;and decided to hide most of its capabilities&rpar;](https://dev.to/chiragagg5k/how-i-built-the-appwrite-mcp-server-and-decided-to-hide-most-of-its-capabilities-4jm8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
