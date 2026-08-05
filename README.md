@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turn an old Android phone into a screen-off security camera &lpar;no cloud, LAN-only&rpar;](https://dev.to/superfunicular/turn-an-old-android-phone-into-a-screen-off-security-camera-no-cloud-lan-only-5cll)
-- [From meeting audio to structured minutes in health settings](https://dev.to/gatapia/from-meeting-audio-to-structured-minutes-in-health-settings-1kp5)
-- [Mining patient feedback and complaints for themes](https://dev.to/gatapia/mining-patient-feedback-and-complaints-for-themes-1g32)
-- [PassiveDx: The Body&#39;s API](https://dev.to/alirezaai/passivedx-the-bodys-api-4f3c)
-- [AI Won’t Replace Software Engineers—But It Will Change the Job](https://dev.to/wydumn/ai-wont-replace-software-engineers-but-it-will-change-the-job-34o)
+- [Your 12-Minute Frontend Build Is Now Your AI Agent&#39;s Bottleneck](https://dev.to/siddharth_pandey_27/your-12-minute-frontend-build-is-now-your-ai-agents-bottleneck-2ilb)
+- [The Zero Context Token Donor Protocol](https://dev.to/solomonic/the-zero-context-token-donor-protocol-4b58)
+- [Strengthening the Moravian-Silesian Region’s Codebase](https://dev.to/michalsimon/strengthening-the-moravian-silesian-regions-codebase-4p41)
+- [How to let an AI agent deploy to your server — without handing it your SSH keys](https://dev.to/wolfhound1995/how-to-let-an-ai-agent-deploy-to-your-server-without-handing-it-your-ssh-keys-4blo)
+- [Linxr | Part 7 — Merging Docker Engine &amp; Container Dashboard into Flutter](https://dev.to/ai2th/linxr-part-7-merging-docker-engine-container-dashboard-into-flutter-56o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
