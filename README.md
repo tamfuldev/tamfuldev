@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Minimalist LaTeX + VSCode Setup &lpar;macOS&rpar;](https://dev.to/moefqy/minimalist-latex-vscode-setup-macos-4c4p)
-- [Build Resilient Web3 Data Pipelines in Go with tokenterminal-go](https://dev.to/tigusigalpa/build-resilient-web3-data-pipelines-in-go-with-tokenterminal-go-1lef)
-- [Picking a managed metrics dashboard for a small Node.js startup](https://dev.to/seraphinalyn7139/picking-a-managed-metrics-dashboard-for-a-small-nodejs-startup-8i5)
-- [My gate rejected the useless indicator instantly. Then it certified the worst one I own, at p=.001.](https://dev.to/fromzerotoship/my-gate-rejected-the-useless-indicator-instantly-then-it-certified-the-worst-one-i-own-at-p001-4j6e)
-- [Tailscale as an ngrok / local tunnel / Cloudflare Tunnel alternative](https://dev.to/chrisshennan/tailscale-as-an-ngrok-local-tunnel-cloudflare-tunnel-alternative-4bd7)
+- [MCP retrieval cost 4x more tokens than grep, until repo size flipped it](https://dev.to/pranav_raj_dae81effb8b57d/mcp-retrieval-cost-4x-more-tokens-than-grep-until-repo-size-flipped-it-5cfj)
+- [How I Turned a Technical Writing Team Upside Down...Or, Downside Up?](https://dev.to/tina_kocharian_11/how-i-turned-a-technical-writing-team-upside-downor-downside-up-1mhd)
+- [Why Angular, Vue, and ESLint Can&#39;t Upgrade to TypeScript 7.0 &lpar;Yet&rpar; — And Why TS 7.1 Changes Everything](https://dev.to/the-modern-web/why-angular-vue-and-eslint-cant-upgrade-to-typescript-70-yet-and-why-ts-71-changes-441g)
+- [LLD Data Structures in Design Context: Why Some Problems Need Prefix Matching Instead of Exact Lookup](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-prefix-matching-instead-of-exact-16il)
+- [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
