@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
-- [Mecha, my first AI agent](https://dev.to/kuyawa/mecha-my-firt-ai-agent-cii)
-- [🥈 React Performance Tips: 12 Ways to Make Your App Faster](https://dev.to/joodi/react-performance-tips-12-ways-to-make-your-app-faster-5bop)
-- [Breaking the Browser Sandbox: How to Build Native Desktop Automation Agents with Node.js and C++](https://dev.to/programmingcentral/breaking-the-browser-sandbox-how-to-build-native-desktop-automation-agents-with-nodejs-and-c-3h81)
-- [Keyv and Cacheable npm Supply Chain Compromise](https://dev.to/informertech/keyv-and-cacheable-npm-supply-chain-compromise-4n6e)
+- [Github Stacked PR](https://dev.to/dixitgurv/github-stacked-pr-l26)
+- [Taking feedback - so essential for AWS every other tech company or startups](https://dev.to/lockhead/taking-feedback-so-essential-for-aws-every-other-tech-company-or-startups-53ho)
+- [[Boost]](https://dev.to/anthonymax/-28h6)
+- [Resize One Image into 6 Social Media Formats Automatically Using Cloudinary Claimable Clouds](https://dev.to/cloudinary/resize-one-image-into-6-social-media-formats-automatically-using-cloudinary-claimable-clouds-3gfc)
+- [Zapier vs Make vs n8n: When Paying Per Task Stops Making Sense](https://dev.to/libme/zapier-vs-make-vs-n8n-when-paying-per-task-stops-making-sense-327b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
