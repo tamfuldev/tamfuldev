@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
-- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
-- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
-- [ROI of my 100$ Claude Code Subscription](https://dev.to/nenadmit/roi-of-my-100-claude-code-subscription-1iin)
-- [LISP — ภาษา 67 ปีก่อน ที่ยังมีชีวิตอยู่ในทุกภาษาที่คุณเขียน](https://dev.to/gophernment/lisp-phaasaa-67-piikn-thiiyangmiichiiwityuuainthukphaasaathiikhunekhiiyn-1cfe)
+- [Cursor Google Workspace Plugin Security Checklist](https://dev.to/ahab_indieseek/cursor-google-workspace-plugin-security-checklist-3e4i)
+- [Contributing a GCP Cloud Spanner Scaler to KEDA](https://dev.to/n0rm4l/contributing-a-gcp-cloud-spanner-scaler-to-keda-j6c)
+- [How to generate a valid file of any exact size, in the browser](https://dev.to/byterivet/how-to-generate-a-valid-file-of-any-exact-size-in-the-browser-296k)
+- [Every key failed in exactly the same way](https://dev.to/dhseadev/every-key-failed-in-exactly-the-same-way-21mi)
+- [Focus on Root Cause Resolution Rather Than Quick Fixes: A Collection of Bug Investigation Case Studies](https://dev.to/orca_forge/focus-on-root-cause-resolution-rather-than-quick-fixes-a-collection-of-bug-investigation-case-h8p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
