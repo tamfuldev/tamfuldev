@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MCP retrieval cost 4x more tokens than grep, until repo size flipped it](https://dev.to/pranav_raj_dae81effb8b57d/mcp-retrieval-cost-4x-more-tokens-than-grep-until-repo-size-flipped-it-5cfj)
-- [How I Turned a Technical Writing Team Upside Down...Or, Downside Up?](https://dev.to/tina_kocharian_11/how-i-turned-a-technical-writing-team-upside-downor-downside-up-1mhd)
-- [Why Angular, Vue, and ESLint Can&#39;t Upgrade to TypeScript 7.0 &lpar;Yet&rpar; — And Why TS 7.1 Changes Everything](https://dev.to/the-modern-web/why-angular-vue-and-eslint-cant-upgrade-to-typescript-70-yet-and-why-ts-71-changes-441g)
-- [LLD Data Structures in Design Context: Why Some Problems Need Prefix Matching Instead of Exact Lookup](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-prefix-matching-instead-of-exact-16il)
-- [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8)
+- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
+- [DevHealth - Developers First](https://dev.to/melody_kelly/devhealth-developers-first-129k)
+- [State Pattern: oggetti che cambiano comportamento in base al proprio stato](https://dev.to/dev_iadicola/state-pattern-oggetti-che-cambiano-comportamento-in-base-al-proprio-stato-16ep)
+- [Google Expands Gemini Notebook With Visible Thinking Steps and Workspace Integration](https://dev.to/alifar/google-expands-gemini-notebook-with-visible-thinking-steps-and-workspace-integration-2913)
+- [Measuring real LAN speed from a phone with iperf3](https://dev.to/chamav/measuring-real-lan-speed-from-a-phone-with-iperf3-3644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
