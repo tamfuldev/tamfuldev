@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Google Workspace Plugin Security Checklist](https://dev.to/ahab_indieseek/cursor-google-workspace-plugin-security-checklist-3e4i)
-- [Contributing a GCP Cloud Spanner Scaler to KEDA](https://dev.to/n0rm4l/contributing-a-gcp-cloud-spanner-scaler-to-keda-j6c)
-- [How to generate a valid file of any exact size, in the browser](https://dev.to/byterivet/how-to-generate-a-valid-file-of-any-exact-size-in-the-browser-296k)
-- [Every key failed in exactly the same way](https://dev.to/dhseadev/every-key-failed-in-exactly-the-same-way-21mi)
-- [Focus on Root Cause Resolution Rather Than Quick Fixes: A Collection of Bug Investigation Case Studies](https://dev.to/orca_forge/focus-on-root-cause-resolution-rather-than-quick-fixes-a-collection-of-bug-investigation-case-h8p)
+- [Turn an old Android phone into a screen-off security camera &lpar;no cloud, LAN-only&rpar;](https://dev.to/superfunicular/turn-an-old-android-phone-into-a-screen-off-security-camera-no-cloud-lan-only-5cll)
+- [From meeting audio to structured minutes in health settings](https://dev.to/gatapia/from-meeting-audio-to-structured-minutes-in-health-settings-1kp5)
+- [Mining patient feedback and complaints for themes](https://dev.to/gatapia/mining-patient-feedback-and-complaints-for-themes-1g32)
+- [PassiveDx: The Body&#39;s API](https://dev.to/alirezaai/passivedx-the-bodys-api-4f3c)
+- [AI Won’t Replace Software Engineers—But It Will Change the Job](https://dev.to/wydumn/ai-wont-replace-software-engineers-but-it-will-change-the-job-34o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
