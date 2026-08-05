@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Github Stacked PR](https://dev.to/dixitgurv/github-stacked-pr-l26)
-- [Taking feedback - so essential for AWS every other tech company or startups](https://dev.to/lockhead/taking-feedback-so-essential-for-aws-every-other-tech-company-or-startups-53ho)
-- [[Boost]](https://dev.to/anthonymax/-28h6)
-- [Resize One Image into 6 Social Media Formats Automatically Using Cloudinary Claimable Clouds](https://dev.to/cloudinary/resize-one-image-into-6-social-media-formats-automatically-using-cloudinary-claimable-clouds-3gfc)
-- [Zapier vs Make vs n8n: When Paying Per Task Stops Making Sense](https://dev.to/libme/zapier-vs-make-vs-n8n-when-paying-per-task-stops-making-sense-327b)
+- [AI Memory Is Not a Trust Model for Team Knowledge](https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j)
+- [What I Learned Trying to Make AI-Agent Decisions Testable](https://dev.to/kikashy/what-i-learned-trying-to-make-ai-agent-decisions-testable-5h6h)
+- [My X &lpar;Twitter&rpar; Weekly Report Bot Showed &#39;0 Followers&#39; for Two Months—The Culprit Was a Non-Existent Account Name in My .env File](https://dev.to/masaoshimadaopen/my-x-twitter-weekly-report-bot-showed-0-followers-for-two-months-the-culprit-was-a-non-existent-1edl)
+- [Notion vs Obsidian for Engineering Docs: What Breaks at Team Scale](https://dev.to/libme/notion-vs-obsidian-for-engineering-docs-what-breaks-at-team-scale-4aa0)
+- [Yt-watch-party](https://dev.to/arhamkabir/yt-watch-party-kca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
