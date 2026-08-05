@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
-- [DevHealth - Developers First](https://dev.to/melody_kelly/devhealth-developers-first-129k)
-- [State Pattern: oggetti che cambiano comportamento in base al proprio stato](https://dev.to/dev_iadicola/state-pattern-oggetti-che-cambiano-comportamento-in-base-al-proprio-stato-16ep)
-- [Google Expands Gemini Notebook With Visible Thinking Steps and Workspace Integration](https://dev.to/alifar/google-expands-gemini-notebook-with-visible-thinking-steps-and-workspace-integration-2913)
-- [Measuring real LAN speed from a phone with iperf3](https://dev.to/chamav/measuring-real-lan-speed-from-a-phone-with-iperf3-3644)
+- [My smart-contract scanner reports almost nothing — and that&#39;s the whole point](https://dev.to/juan23z/my-smart-contract-scanner-reports-almost-nothing-and-thats-the-whole-point-1gkk)
+- [The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5)
+- [Why Redis Is Essential in Enterprise Applications](https://dev.to/thuve104/why-redis-is-essential-in-enterprise-applications-4o2p)
+- [Stop Paying for the Same Tokens Twice: A Practical Guide to Prompt Caching](https://dev.to/mukul_sharma_61fc4dd6f9d8/stop-paying-for-the-same-tokens-twice-a-practical-guide-to-prompt-caching-4938)
+- [GPT vs Gemini vs Claude vs DeepSeek: The Complete 2026 Model Comparison for Indian Builders](https://dev.to/shaktitiwari/gpt-vs-gemini-vs-claude-vs-deepseek-the-complete-2026-model-comparison-for-indian-builders-blg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
