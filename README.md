@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your 12-Minute Frontend Build Is Now Your AI Agent&#39;s Bottleneck](https://dev.to/siddharth_pandey_27/your-12-minute-frontend-build-is-now-your-ai-agents-bottleneck-2ilb)
-- [The Zero Context Token Donor Protocol](https://dev.to/solomonic/the-zero-context-token-donor-protocol-4b58)
-- [Strengthening the Moravian-Silesian Region’s Codebase](https://dev.to/michalsimon/strengthening-the-moravian-silesian-regions-codebase-4p41)
-- [How to let an AI agent deploy to your server — without handing it your SSH keys](https://dev.to/wolfhound1995/how-to-let-an-ai-agent-deploy-to-your-server-without-handing-it-your-ssh-keys-4blo)
-- [Linxr | Part 7 — Merging Docker Engine &amp; Container Dashboard into Flutter](https://dev.to/ai2th/linxr-part-7-merging-docker-engine-container-dashboard-into-flutter-56o6)
+- [REPL — วิธีคุยกับคอมพิวเตอร์ที่ LISP สอนโลก](https://dev.to/gophernment/repl-withiikhuykabkhmphiwetrthii-lisp-snolk-31dg)
+- [Auditability vs. Forced Determinism : Future of Agentic AI](https://dev.to/mir_arshadalitalpur_1b3/auditability-vs-forced-determinism-future-of-agentic-ai-55ae)
+- [Audit an AI Coding Agent&#39;s Network Egress Before It Gets a Shell](https://dev.to/jaryn_123/audit-an-ai-coding-agents-network-egress-before-it-gets-a-shell-4k69)
+- [Persistent Memory for On-Chain AI Agents: A Solana Deep-Dive](https://dev.to/claudia-ve/persistent-memory-for-on-chain-ai-agents-a-solana-deep-dive-3o5c)
+- [Canary Agent Tool Calls With Duplicate Deliveries and an Idempotency Gate](https://dev.to/robinzzz/canary-agent-tool-calls-with-duplicate-deliveries-and-an-idempotency-gate-55jo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
