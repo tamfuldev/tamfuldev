@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [REPL — วิธีคุยกับคอมพิวเตอร์ที่ LISP สอนโลก](https://dev.to/gophernment/repl-withiikhuykabkhmphiwetrthii-lisp-snolk-31dg)
-- [Auditability vs. Forced Determinism : Future of Agentic AI](https://dev.to/mir_arshadalitalpur_1b3/auditability-vs-forced-determinism-future-of-agentic-ai-55ae)
-- [Audit an AI Coding Agent&#39;s Network Egress Before It Gets a Shell](https://dev.to/jaryn_123/audit-an-ai-coding-agents-network-egress-before-it-gets-a-shell-4k69)
-- [Persistent Memory for On-Chain AI Agents: A Solana Deep-Dive](https://dev.to/claudia-ve/persistent-memory-for-on-chain-ai-agents-a-solana-deep-dive-3o5c)
-- [Canary Agent Tool Calls With Duplicate Deliveries and an Idempotency Gate](https://dev.to/robinzzz/canary-agent-tool-calls-with-duplicate-deliveries-and-an-idempotency-gate-55jo)
+- [Minimalist LaTeX + VSCode Setup &lpar;macOS&rpar;](https://dev.to/moefqy/minimalist-latex-vscode-setup-macos-4c4p)
+- [Build Resilient Web3 Data Pipelines in Go with tokenterminal-go](https://dev.to/tigusigalpa/build-resilient-web3-data-pipelines-in-go-with-tokenterminal-go-1lef)
+- [Picking a managed metrics dashboard for a small Node.js startup](https://dev.to/seraphinalyn7139/picking-a-managed-metrics-dashboard-for-a-small-nodejs-startup-8i5)
+- [My gate rejected the useless indicator instantly. Then it certified the worst one I own, at p=.001.](https://dev.to/fromzerotoship/my-gate-rejected-the-useless-indicator-instantly-then-it-certified-the-worst-one-i-own-at-p001-4j6e)
+- [Tailscale as an ngrok / local tunnel / Cloudflare Tunnel alternative](https://dev.to/chrisshennan/tailscale-as-an-ngrok-local-tunnel-cloudflare-tunnel-alternative-4bd7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
