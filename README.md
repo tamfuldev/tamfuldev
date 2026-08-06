@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The check that could not fail](https://dev.to/nazarii-ahapevych/the-check-that-could-not-fail-55n4)
-- [When Your AI Assistant Starts Sounding Like Someone Who Knows You](https://dev.to/ayush_singh_9b0d83152be5b/when-your-ai-assistant-starts-sounding-like-someone-who-knows-you-3aok)
-- [I Tested Every JSON Viewer After the Formatter Scandal. Here&#39;s What I Found.](https://dev.to/wayknow123/i-tested-every-json-viewer-after-the-formatter-scandal-heres-what-i-found-4dcl)
-- [Building Aiden: a physical AI agent device that plugs into any phone/computer over USB and operates it like a human would. Go + C++ + Python stack, no API needed. https://github.com/AidenAI-IO/aiden-firmware, AMA on the architecture if curious.](https://dev.to/natalie_seeklab_4ce72aa3b/building-aiden-a-physical-ai-agent-device-that-plugs-into-any-phonecomputer-over-usb-and-operates-4ca8)
-- [We already have Kiro IDE, Kiro CLI, Kiro Web - What exactly Kiro Crew is?](https://dev.to/ericpham03/we-already-have-kiro-ide-kiro-cli-kiro-web-what-exactly-kiro-crew-is-5hca)
+- [The Intermediate Representation of Content: Why Your Media Pipeline Needs a Compiler](https://dev.to/claudia-ve/the-intermediate-representation-of-content-why-your-media-pipeline-needs-a-compiler-4k3n)
+- [Building a Production AI Agent in Spring Boot: The Supervisor Pattern with Specialist Agents &lpar;Part 5&rpar;](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-the-supervisor-pattern-with-specialist-agents-part-27h0)
+- [What Advisory Rules Actually Do in an Agent Loop](https://dev.to/lexosi/what-advisory-rules-actually-do-in-an-agent-loop-bke)
+- [Implementing TOTP Two-Factor Authentication from Scratch in Python](https://dev.to/ayinedjimi-consultants/implementing-totp-two-factor-authentication-from-scratch-in-python-4j9)
+- [What If Your Jacket Could Help You See?](https://dev.to/shahzebalipirzada/what-if-your-jacket-could-help-you-see-b5i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
