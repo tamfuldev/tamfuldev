@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sidewalk to Summit: reviving my founder-year idea by building it in public](https://dev.to/ohkpond/sidewalk-to-summit-reviving-my-founder-year-idea-by-building-it-in-public-1i0d)
-- [Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc &lpar;2026&rpar;](https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm)
-- [How a 176 KB C Binary Runs a 2.78-Trillion-Parameter Model on One CPU with 8 GB of RAM](https://dev.to/euk_ela_a3e7ed01aa3f7314e/how-a-176-kb-c-binary-runs-a-278-trillion-parameter-model-on-one-cpu-with-8-gb-of-ram-1ime)
-- [Recording Spec-Compliant WAV Files &lpar;16-bit/Mono/Uncompressed&rpar; Using Only Web Audio](https://dev.to/orca_forge/recording-spec-compliant-wav-files-16-bitmonouncompressed-using-only-web-audio-40n8)
-- [Cloudflare AI Gateway User Insights: Spend Checklist](https://dev.to/ahab_indieseek/cloudflare-ai-gateway-user-insights-spend-checklist-4jp8)
+- [Rotate AWS IAM Access Keys by script](https://dev.to/gerardo_leon/rotate-aws-iam-access-keys-by-script-4g8g)
+- [EU AI Act Article 50 Transparency Rules Take Effect for Chatbots and Deepfakes](https://dev.to/alifar/eu-ai-act-article-50-transparency-rules-take-effect-for-chatbots-and-deepfakes-58if)
+- [Saving a tweet as a PDF is harder than it looks &lpar;CORS, tokens, and Unicode&rpar;](https://dev.to/simran_kaur_9eda1e242c31f/saving-a-tweet-as-a-pdf-is-harder-than-it-looks-cors-tokens-and-unicode-10hf)
+- [Agentic, But Only Semi-Autonomous: Designing an EDA Pipeline You Can Trust](https://dev.to/sraveend/agentic-but-only-semi-autonomous-designing-an-eda-pipeline-you-can-trust-4ha9)
+- [What Developer Experience Actually Means](https://dev.to/robat_das_3c6e956212f6408/what-developer-experience-actually-means-339j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
