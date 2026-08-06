@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rotate AWS IAM Access Keys by script](https://dev.to/gerardo_leon/rotate-aws-iam-access-keys-by-script-4g8g)
-- [EU AI Act Article 50 Transparency Rules Take Effect for Chatbots and Deepfakes](https://dev.to/alifar/eu-ai-act-article-50-transparency-rules-take-effect-for-chatbots-and-deepfakes-58if)
-- [Saving a tweet as a PDF is harder than it looks &lpar;CORS, tokens, and Unicode&rpar;](https://dev.to/simran_kaur_9eda1e242c31f/saving-a-tweet-as-a-pdf-is-harder-than-it-looks-cors-tokens-and-unicode-10hf)
-- [Agentic, But Only Semi-Autonomous: Designing an EDA Pipeline You Can Trust](https://dev.to/sraveend/agentic-but-only-semi-autonomous-designing-an-eda-pipeline-you-can-trust-4ha9)
-- [What Developer Experience Actually Means](https://dev.to/robat_das_3c6e956212f6408/what-developer-experience-actually-means-339j)
+- [The check that could not fail](https://dev.to/nazarii-ahapevych/the-check-that-could-not-fail-55n4)
+- [When Your AI Assistant Starts Sounding Like Someone Who Knows You](https://dev.to/ayush_singh_9b0d83152be5b/when-your-ai-assistant-starts-sounding-like-someone-who-knows-you-3aok)
+- [I Tested Every JSON Viewer After the Formatter Scandal. Here&#39;s What I Found.](https://dev.to/wayknow123/i-tested-every-json-viewer-after-the-formatter-scandal-heres-what-i-found-4dcl)
+- [Building Aiden: a physical AI agent device that plugs into any phone/computer over USB and operates it like a human would. Go + C++ + Python stack, no API needed. https://github.com/AidenAI-IO/aiden-firmware, AMA on the architecture if curious.](https://dev.to/natalie_seeklab_4ce72aa3b/building-aiden-a-physical-ai-agent-device-that-plugs-into-any-phonecomputer-over-usb-and-operates-4ca8)
+- [We already have Kiro IDE, Kiro CLI, Kiro Web - What exactly Kiro Crew is?](https://dev.to/ericpham03/we-already-have-kiro-ide-kiro-cli-kiro-web-what-exactly-kiro-crew-is-5hca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
