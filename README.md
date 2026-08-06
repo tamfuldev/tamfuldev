@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Intermediate Representation of Content: Why Your Media Pipeline Needs a Compiler](https://dev.to/claudia-ve/the-intermediate-representation-of-content-why-your-media-pipeline-needs-a-compiler-4k3n)
-- [Building a Production AI Agent in Spring Boot: The Supervisor Pattern with Specialist Agents &lpar;Part 5&rpar;](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-the-supervisor-pattern-with-specialist-agents-part-27h0)
-- [What Advisory Rules Actually Do in an Agent Loop](https://dev.to/lexosi/what-advisory-rules-actually-do-in-an-agent-loop-bke)
-- [Implementing TOTP Two-Factor Authentication from Scratch in Python](https://dev.to/ayinedjimi-consultants/implementing-totp-two-factor-authentication-from-scratch-in-python-4j9)
-- [What If Your Jacket Could Help You See?](https://dev.to/shahzebalipirzada/what-if-your-jacket-could-help-you-see-b5i)
+- [Is Java still relevant today?](https://dev.to/kumarabhinav-codes/is-java-still-relevant-today-en6)
+- [Why Flaky Tests Are Rarely About the Test](https://dev.to/marxjenes/why-flaky-tests-are-rarely-about-the-test-3951)
+- [I Recreated Management With AI: 9 Things I Do Differently](https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g)
+- [Build a Deterministic Multi-Agent Pipeline with A2A in Python](https://dev.to/paladini/build-a-deterministic-multi-agent-pipeline-with-a2a-in-python-1gh)
+- [Your agent writes Python. The Ruby rule cuts that by a third.](https://dev.to/svyatov/your-agent-writes-python-the-ruby-rule-cuts-that-by-a-third-476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
