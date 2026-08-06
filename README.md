@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Memory Is Not a Trust Model for Team Knowledge](https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j)
-- [What I Learned Trying to Make AI-Agent Decisions Testable](https://dev.to/kikashy/what-i-learned-trying-to-make-ai-agent-decisions-testable-5h6h)
-- [My X &lpar;Twitter&rpar; Weekly Report Bot Showed &#39;0 Followers&#39; for Two Months—The Culprit Was a Non-Existent Account Name in My .env File](https://dev.to/masaoshimadaopen/my-x-twitter-weekly-report-bot-showed-0-followers-for-two-months-the-culprit-was-a-non-existent-1edl)
-- [Notion vs Obsidian for Engineering Docs: What Breaks at Team Scale](https://dev.to/libme/notion-vs-obsidian-for-engineering-docs-what-breaks-at-team-scale-4aa0)
-- [Yt-watch-party](https://dev.to/arhamkabir/yt-watch-party-kca)
+- [Sidewalk to Summit: reviving my founder-year idea by building it in public](https://dev.to/ohkpond/sidewalk-to-summit-reviving-my-founder-year-idea-by-building-it-in-public-1i0d)
+- [Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc &lpar;2026&rpar;](https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm)
+- [How a 176 KB C Binary Runs a 2.78-Trillion-Parameter Model on One CPU with 8 GB of RAM](https://dev.to/euk_ela_a3e7ed01aa3f7314e/how-a-176-kb-c-binary-runs-a-278-trillion-parameter-model-on-one-cpu-with-8-gb-of-ram-1ime)
+- [Recording Spec-Compliant WAV Files &lpar;16-bit/Mono/Uncompressed&rpar; Using Only Web Audio](https://dev.to/orca_forge/recording-spec-compliant-wav-files-16-bitmonouncompressed-using-only-web-audio-40n8)
+- [Cloudflare AI Gateway User Insights: Spend Checklist](https://dev.to/ahab_indieseek/cloudflare-ai-gateway-user-insights-spend-checklist-4jp8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
