@@ -6,11 +6,14 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Software Factory Is a Workflow, Not a Product. Build One in 20 Minutes.](https://dev.to/vsavkin/a-software-factory-is-a-workflow-not-a-product-build-one-in-20-minutes-3ka1)
-- [LLD Data Structures in Design Context: Why Some Problems Are About Relationships, Not Individual Objects](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-are-about-relationships-not-individual-llc)
-- [Python Asyncio Library](https://dev.to/michal_puzanov_1a085094b3/python-asyncio-library-3d02)
-- [Google DeepMind Leadership Shake-Up: What It Means for AI Developers](https://dev.to/trismegistus/google-deepmind-leadership-shake-up-what-it-means-for-ai-developers-2b6e)
-- [I Built the Product. Made It Open Source. Deployed It Cheaply. Then... 7 Users Signed Up.](https://dev.to/puneetkumar2010/i-built-the-product-made-it-open-source-deployed-it-cheaply-then-7-users-signed-up-51h8)
+- [Every vendor says they detect AI agents. None of them can.](https://dev.to/layercall/every-vendor-says-they-detect-ai-agents-none-of-them-can-222m)
+- [Your bot detection works perfectly. That&#39;s the problem.](https://dev.to/layercall/your-bot-detection-works-perfectly-thats-the-problem-3h87)
+- [No Backtesting Needed! I Punched My Hypothesis&#39;s &quot;Heart&quot; Directly with Raw Data and It Died Before I Even Measured Returns](https://dev.to/masaoshimadaopen/no-backtesting-needed-i-punched-my-hypothesiss-heart-directly-with-raw-data-and-it-died-before-166e)
+- [# Hello 👋,
+Hi everyone! My name is Fouad Elhamra.
+I&#39;m passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
+Looking forward to being part of the community. Thanks for having me! 🚀](https://dev.to/fouad_elhamra_9d355787cd1/-hello-hi-everyone-my-name-is-fouad-elhamra-im-passionate-about-artificial-intelligence-33ea)
+- [How to Count Parameters in Artificial Neural Networks &lpar;ANNs&rpar;](https://dev.to/fouad_elhamra_9d355787cd1/how-to-count-parameters-in-artificial-neural-networks-anns-28g2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
