@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Java still relevant today?](https://dev.to/kumarabhinav-codes/is-java-still-relevant-today-en6)
-- [Why Flaky Tests Are Rarely About the Test](https://dev.to/marxjenes/why-flaky-tests-are-rarely-about-the-test-3951)
-- [I Recreated Management With AI: 9 Things I Do Differently](https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g)
-- [Build a Deterministic Multi-Agent Pipeline with A2A in Python](https://dev.to/paladini/build-a-deterministic-multi-agent-pipeline-with-a2a-in-python-1gh)
-- [Your agent writes Python. The Ruby rule cuts that by a third.](https://dev.to/svyatov/your-agent-writes-python-the-ruby-rule-cuts-that-by-a-third-476)
+- [A Software Factory Is a Workflow, Not a Product. Build One in 20 Minutes.](https://dev.to/vsavkin/a-software-factory-is-a-workflow-not-a-product-build-one-in-20-minutes-3ka1)
+- [LLD Data Structures in Design Context: Why Some Problems Are About Relationships, Not Individual Objects](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-are-about-relationships-not-individual-llc)
+- [Python Asyncio Library](https://dev.to/michal_puzanov_1a085094b3/python-asyncio-library-3d02)
+- [Google DeepMind Leadership Shake-Up: What It Means for AI Developers](https://dev.to/trismegistus/google-deepmind-leadership-shake-up-what-it-means-for-ai-developers-2b6e)
+- [I Built the Product. Made It Open Source. Deployed It Cheaply. Then... 7 Users Signed Up.](https://dev.to/puneetkumar2010/i-built-the-product-made-it-open-source-deployed-it-cheaply-then-7-users-signed-up-51h8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
