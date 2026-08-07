@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Sitewide Outages: Which Misconfigurations Actually Cause Them, Ranked by Frequency and Recovery Time](https://dev.to/jachin_ocacio_e8de2a25158/wordpress-sitewide-outages-which-misconfigurations-actually-cause-them-ranked-by-frequency-and-5d79)
-- [RAG Database with VLM as Extractor](https://dev.to/kai-wen-the-parrot/rag-database-with-vlm-as-extractor-50df)
-- [Building a Production AI Agent in Spring Boot: Testing the Agent Loop Without an LLM &lpar;Part 6&rpar;](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-testing-the-agent-loop-without-an-llm-part-6-204h)
-- [Give Your AI Voice Companion a User-Controlled Operating Mode](https://dev.to/susiewang/give-your-ai-voice-companion-a-user-controlled-operating-mode-233f)
-- [Your theme toggle does not need a System button](https://dev.to/leobaniak/your-theme-toggle-does-not-need-a-system-button-ej7)
+- [Why Claude-generated screens are missing their states](https://dev.to/phongdesigns/why-claude-generated-screens-are-missing-their-states-45gd)
+- [LiveAvaBot Developer API: Embed Telegram Video Avatar Conversion in Your App](https://dev.to/liveavabot/liveavabot-developer-api-embed-telegram-video-avatar-conversion-in-your-app-36gh)
+- [Getting Typed JSON Out of LLMs: Field Notes on generateObject](https://dev.to/ahmed_mahmoud360/getting-typed-json-out-of-llms-field-notes-on-generateobject-45hk)
+- [Beyond LeetCode: Why Tasting Code Beats Memorizing Algorithms in the Age of AI Agents](https://dev.to/tamizuddin/beyond-leetcode-why-tasting-code-beats-memorizing-algorithms-in-the-age-of-ai-agents-5bl9)
+- [Prototype &amp; Factory Method Design Patterns in Java - ClauseGuard](https://dev.to/iniyan_17/prototype-factory-method-design-patterns-in-java-clauseguard-2alp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
