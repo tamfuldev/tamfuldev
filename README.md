@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Colour Palette Generator with Vanilla JavaScript](https://dev.to/praise-04-dev/i-built-a-colour-palette-generator-with-vanilla-javascript-3nf8)
-- [FINRA-Compliant Storage with S3 Object Lock: A Practical Guide for 2026](https://dev.to/ethan-carter/finra-compliant-storage-with-s3-object-lock-a-practical-guide-for-2026-53m1)
-- [Claude Code&#39;s Weekly Limit, Explained &lpar;and How to See It Coming&rpar;](https://dev.to/pederaa/claude-codes-weekly-limit-explained-and-how-to-see-it-coming-4a59)
-- [Your Contact Form Created the Deal... Just in the Wrong Pipeline](https://dev.to/rahul_sharma_15bd129bc69e/your-contact-form-created-the-deal-just-in-the-wrong-pipeline-2mb8)
-- [Google DeepMind’s Gemini Robotics 2 Puts Cross-Embodiment Robot Control at the Center](https://dev.to/alifar/google-deepminds-gemini-robotics-2-puts-cross-embodiment-robot-control-at-the-center-e7)
+- [[Boost]](https://dev.to/yatindavra/-j13)
+- [I Kept Retrying a Local Model Into the Right Shape. Turns Out I Didn&#39;t Have To Retry At All.](https://dev.to/naitik_kapatel_f96f1fb424/i-kept-retrying-a-local-model-into-the-right-shape-turns-out-i-didnt-have-to-retry-at-all-44d9)
+- [I Queried 50 Company Profiles — Here&#39;s What I Learned About AMD](https://dev.to/onizuka/i-queried-50-company-profiles-heres-what-i-learned-about-amd-21oe)
+- [Ed25519 vs ECDSA: Why the Nonce Decides Everything](https://dev.to/havenmessenger/ed25519-vs-ecdsa-why-the-nonce-decides-everything-4260)
+- [Filtering, and Pagination in Next.js 15 The Pattern I Actually Use](https://dev.to/anas_sheikh_2/filtering-and-pagination-in-nextjs-15-the-pattern-i-actually-use-57jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
