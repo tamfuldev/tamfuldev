@@ -6,14 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every vendor says they detect AI agents. None of them can.](https://dev.to/layercall/every-vendor-says-they-detect-ai-agents-none-of-them-can-222m)
-- [Your bot detection works perfectly. That&#39;s the problem.](https://dev.to/layercall/your-bot-detection-works-perfectly-thats-the-problem-3h87)
-- [No Backtesting Needed! I Punched My Hypothesis&#39;s &quot;Heart&quot; Directly with Raw Data and It Died Before I Even Measured Returns](https://dev.to/masaoshimadaopen/no-backtesting-needed-i-punched-my-hypothesiss-heart-directly-with-raw-data-and-it-died-before-166e)
-- [# Hello 👋,
-Hi everyone! My name is Fouad Elhamra.
-I&#39;m passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
-Looking forward to being part of the community. Thanks for having me! 🚀](https://dev.to/fouad_elhamra_9d355787cd1/-hello-hi-everyone-my-name-is-fouad-elhamra-im-passionate-about-artificial-intelligence-33ea)
-- [How to Count Parameters in Artificial Neural Networks &lpar;ANNs&rpar;](https://dev.to/fouad_elhamra_9d355787cd1/how-to-count-parameters-in-artificial-neural-networks-anns-28g2)
+- [We Turned Down Google&#39;s AI Weather Model](https://dev.to/predictandprofit/we-turned-down-googles-ai-weather-model-1blc)
+- [Store and search chunks in Laravel with Meilisearch and Larameili](https://dev.to/edulazaro/store-and-search-chunks-in-laravel-with-meilisearch-and-larameili-1e3m)
+- [Compilation Is Not Assurance: What Agentic Rust Needs After the First Green Build](https://dev.to/wernerk_au/compilation-is-not-assurance-what-agentic-rust-needs-after-the-first-green-build-3ipk)
+- [Your text-to-SQL model isn&#39;t as wrong as your benchmark says. The gold SQL is.](https://dev.to/omer_hochman/your-text-to-sql-model-isnt-as-wrong-as-your-benchmark-says-the-gold-sql-is-p16)
+- [Cloudflare just put WebMCP at the edge — what it does, and what&#39;s still on you](https://dev.to/r0bertini/cloudflare-just-put-webmcp-at-the-edge-what-it-does-and-whats-still-on-you-2pgm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
