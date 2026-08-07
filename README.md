@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Insecure Default Was the Configuration](https://dev.to/henry_dan_81513dd35a2f540/the-insecure-default-was-the-configuration-14pp)
-- [API Pagination Patterns: Offset, Cursor, and Keyset Explained](https://dev.to/stackhorizon/api-pagination-patterns-offset-cursor-and-keyset-explained-1cgk)
-- [How I Built an AI-Readable Second Brain with Obsidian, Git, and a VS Code AI Agent](https://dev.to/dev_next4i/how-i-built-an-ai-readable-second-brain-with-obsidian-git-and-a-vs-code-ai-agent-5hep)
-- [How I built a highly profitable web platform, but wrote zero backend code to keep my server costs at $0.](https://dev.to/begoodtool/how-i-built-a-highly-profitable-web-platform-but-wrote-zero-backend-code-to-keep-my-server-costs-1n5l)
-- [HELO vs EHLO: Why Your SMTP Greeting Can Hurt Email Delivery](https://dev.to/petr_michal_178dc4f87ad91/helo-vs-ehlo-why-your-smtp-greeting-can-hurt-email-delivery-3226)
+- [Understanding Raft by Building a Minimal Consensus Cluster](https://dev.to/turalmu95150474/understanding-raft-by-building-a-minimal-consensus-cluster-39a4)
+- [The rate limiter that was &quot;on&quot; without Redis — and panicking our smoke tests](https://dev.to/kantik001/the-rate-limiter-that-was-on-without-redis-and-panicking-our-smoke-tests-30g0)
+- [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box &lpar;And Why You Should Care&rpar;](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4)
+- [41,088 divergences, and four tests that were lying to me](https://dev.to/aniket_3001/41088-divergences-and-four-tests-that-were-lying-to-me-169h)
+- [Idempotency: The Bug You Don&#39;t Notice Until Production](https://dev.to/shashankpandey04/idempotency-the-bug-you-dont-notice-until-production-17aj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
