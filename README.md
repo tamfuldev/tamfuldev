@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-5.6 Expands Reasoning Controls While Free and Go Default to Terra](https://dev.to/alifar/openai-gpt-56-expands-reasoning-controls-while-free-and-go-default-to-terra-4mfa)
-- [Interactive Algorithm Playground](https://dev.to/owaisnoor/interactive-algorithm-playground-5gaj)
-- [Claude Code 2.1.224 Self-Hosted Environments Checklist](https://dev.to/ahab_indieseek/claude-code-21224-self-hosted-environments-checklist-2ck9)
-- [Offline-First, Encrypted, Audit-Ready: Building CalibKeep with .NET 8 + Avalonia](https://dev.to/remrah/offline-first-encrypted-audit-ready-building-calibkeep-with-net-8-avalonia-9ka)
-- [The Staff engineer with 4 years of experience is a hiring problem we made](https://dev.to/adioof/the-staff-engineer-with-4-years-of-experience-is-a-hiring-problem-we-made-52pa)
+- [I Built a Colour Palette Generator with Vanilla JavaScript](https://dev.to/praise-04-dev/i-built-a-colour-palette-generator-with-vanilla-javascript-3nf8)
+- [FINRA-Compliant Storage with S3 Object Lock: A Practical Guide for 2026](https://dev.to/ethan-carter/finra-compliant-storage-with-s3-object-lock-a-practical-guide-for-2026-53m1)
+- [Claude Code&#39;s Weekly Limit, Explained &lpar;and How to See It Coming&rpar;](https://dev.to/pederaa/claude-codes-weekly-limit-explained-and-how-to-see-it-coming-4a59)
+- [Your Contact Form Created the Deal... Just in the Wrong Pipeline](https://dev.to/rahul_sharma_15bd129bc69e/your-contact-form-created-the-deal-just-in-the-wrong-pipeline-2mb8)
+- [Google DeepMind’s Gemini Robotics 2 Puts Cross-Embodiment Robot Control at the Center](https://dev.to/alifar/google-deepminds-gemini-robotics-2-puts-cross-embodiment-robot-control-at-the-center-e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
