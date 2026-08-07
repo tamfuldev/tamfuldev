@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yatindavra/-j13)
-- [I Kept Retrying a Local Model Into the Right Shape. Turns Out I Didn&#39;t Have To Retry At All.](https://dev.to/naitik_kapatel_f96f1fb424/i-kept-retrying-a-local-model-into-the-right-shape-turns-out-i-didnt-have-to-retry-at-all-44d9)
-- [I Queried 50 Company Profiles — Here&#39;s What I Learned About AMD](https://dev.to/onizuka/i-queried-50-company-profiles-heres-what-i-learned-about-amd-21oe)
-- [Ed25519 vs ECDSA: Why the Nonce Decides Everything](https://dev.to/havenmessenger/ed25519-vs-ecdsa-why-the-nonce-decides-everything-4260)
-- [Filtering, and Pagination in Next.js 15 The Pattern I Actually Use](https://dev.to/anas_sheikh_2/filtering-and-pagination-in-nextjs-15-the-pattern-i-actually-use-57jk)
+- [Why iperf3 Says “Bad File Descriptor” and What to Check First](https://dev.to/chamav/why-iperf3-says-bad-file-descriptor-and-what-to-check-first-2f2c)
+- [I Built a Free GPS Altitude Finder — Here&#39;s What I Learned Shipping a PWA With No Backend](https://dev.to/imamovelay0hue/i-built-a-free-gps-altitude-finder-heres-what-i-learned-shipping-a-pwa-with-no-backend-40fa)
+- [Your Subprocesses Outlive Your Program. Here&#39;s How to Kill Them for Real.](https://dev.to/chenyuan20509/your-subprocesses-outlive-your-program-heres-how-to-kill-them-for-real-4npp)
+- [Beyond the Hype: An Honest Take on AI for Software Engineers](https://dev.to/jodaut/beyond-the-hype-an-honest-take-on-ai-for-software-engineers-5aaj)
+- [Testing AI Agents in TypeScript Without Calling the Model](https://dev.to/gabrielanhaia/testing-ai-agents-in-typescript-without-calling-the-model-1ip3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
