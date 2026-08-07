@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Turned Down Google&#39;s AI Weather Model](https://dev.to/predictandprofit/we-turned-down-googles-ai-weather-model-1blc)
-- [Store and search chunks in Laravel with Meilisearch and Larameili](https://dev.to/edulazaro/store-and-search-chunks-in-laravel-with-meilisearch-and-larameili-1e3m)
-- [Compilation Is Not Assurance: What Agentic Rust Needs After the First Green Build](https://dev.to/wernerk_au/compilation-is-not-assurance-what-agentic-rust-needs-after-the-first-green-build-3ipk)
-- [Your text-to-SQL model isn&#39;t as wrong as your benchmark says. The gold SQL is.](https://dev.to/omer_hochman/your-text-to-sql-model-isnt-as-wrong-as-your-benchmark-says-the-gold-sql-is-p16)
-- [Cloudflare just put WebMCP at the edge — what it does, and what&#39;s still on you](https://dev.to/r0bertini/cloudflare-just-put-webmcp-at-the-edge-what-it-does-and-whats-still-on-you-2pgm)
+- [WordPress Sitewide Outages: Which Misconfigurations Actually Cause Them, Ranked by Frequency and Recovery Time](https://dev.to/jachin_ocacio_e8de2a25158/wordpress-sitewide-outages-which-misconfigurations-actually-cause-them-ranked-by-frequency-and-5d79)
+- [RAG Database with VLM as Extractor](https://dev.to/kai-wen-the-parrot/rag-database-with-vlm-as-extractor-50df)
+- [Building a Production AI Agent in Spring Boot: Testing the Agent Loop Without an LLM &lpar;Part 6&rpar;](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-testing-the-agent-loop-without-an-llm-part-6-204h)
+- [Give Your AI Voice Companion a User-Controlled Operating Mode](https://dev.to/susiewang/give-your-ai-voice-companion-a-user-controlled-operating-mode-233f)
+- [Your theme toggle does not need a System button](https://dev.to/leobaniak/your-theme-toggle-does-not-need-a-system-button-ej7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
