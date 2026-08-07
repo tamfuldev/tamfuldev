@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Claude-generated screens are missing their states](https://dev.to/phongdesigns/why-claude-generated-screens-are-missing-their-states-45gd)
-- [LiveAvaBot Developer API: Embed Telegram Video Avatar Conversion in Your App](https://dev.to/liveavabot/liveavabot-developer-api-embed-telegram-video-avatar-conversion-in-your-app-36gh)
-- [Getting Typed JSON Out of LLMs: Field Notes on generateObject](https://dev.to/ahmed_mahmoud360/getting-typed-json-out-of-llms-field-notes-on-generateobject-45hk)
-- [Beyond LeetCode: Why Tasting Code Beats Memorizing Algorithms in the Age of AI Agents](https://dev.to/tamizuddin/beyond-leetcode-why-tasting-code-beats-memorizing-algorithms-in-the-age-of-ai-agents-5bl9)
-- [Prototype &amp; Factory Method Design Patterns in Java - ClauseGuard](https://dev.to/iniyan_17/prototype-factory-method-design-patterns-in-java-clauseguard-2alp)
+- [The Insecure Default Was the Configuration](https://dev.to/henry_dan_81513dd35a2f540/the-insecure-default-was-the-configuration-14pp)
+- [API Pagination Patterns: Offset, Cursor, and Keyset Explained](https://dev.to/stackhorizon/api-pagination-patterns-offset-cursor-and-keyset-explained-1cgk)
+- [How I Built an AI-Readable Second Brain with Obsidian, Git, and a VS Code AI Agent](https://dev.to/dev_next4i/how-i-built-an-ai-readable-second-brain-with-obsidian-git-and-a-vs-code-ai-agent-5hep)
+- [How I built a highly profitable web platform, but wrote zero backend code to keep my server costs at $0.](https://dev.to/begoodtool/how-i-built-a-highly-profitable-web-platform-but-wrote-zero-backend-code-to-keep-my-server-costs-1n5l)
+- [HELO vs EHLO: Why Your SMTP Greeting Can Hurt Email Delivery](https://dev.to/petr_michal_178dc4f87ad91/helo-vs-ehlo-why-your-smtp-greeting-can-hurt-email-delivery-3226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
