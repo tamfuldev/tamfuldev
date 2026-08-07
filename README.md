@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why iperf3 Says “Bad File Descriptor” and What to Check First](https://dev.to/chamav/why-iperf3-says-bad-file-descriptor-and-what-to-check-first-2f2c)
-- [I Built a Free GPS Altitude Finder — Here&#39;s What I Learned Shipping a PWA With No Backend](https://dev.to/imamovelay0hue/i-built-a-free-gps-altitude-finder-heres-what-i-learned-shipping-a-pwa-with-no-backend-40fa)
-- [Your Subprocesses Outlive Your Program. Here&#39;s How to Kill Them for Real.](https://dev.to/chenyuan20509/your-subprocesses-outlive-your-program-heres-how-to-kill-them-for-real-4npp)
-- [Beyond the Hype: An Honest Take on AI for Software Engineers](https://dev.to/jodaut/beyond-the-hype-an-honest-take-on-ai-for-software-engineers-5aaj)
-- [Testing AI Agents in TypeScript Without Calling the Model](https://dev.to/gabrielanhaia/testing-ai-agents-in-typescript-without-calling-the-model-1ip3)
+- [Which EU countries let you check a company for free: a status table](https://dev.to/jose_pollman_fa7c6ec43cdd/which-eu-countries-let-you-check-a-company-for-free-a-status-table-2jfe)
+- [Why We Built MicroLeague Sports Vol. 3](https://dev.to/esolar07/why-we-built-microleague-sports-vol-3-3l5p)
+- [I Built a Self-Hosted AI Support Widget with Spring Boot &lpar;No Monthly SaaS Fees&rpar;](https://dev.to/sweety717/i-built-a-self-hosted-ai-support-widget-with-spring-boot-no-monthly-saas-fees-53m2)
+- [The Same Setting, Three Different Answers: Why 0.0.0.0 Isn&#39;t Always What You Want](https://dev.to/cicikus_niyazi/the-same-setting-three-different-answers-why-0000-isnt-always-what-you-want-58h5)
+- [The Cut You&#39;ll Make Twice](https://dev.to/ninochavez/the-cut-youll-make-twice-308b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
