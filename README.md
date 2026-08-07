@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Raft by Building a Minimal Consensus Cluster](https://dev.to/turalmu95150474/understanding-raft-by-building-a-minimal-consensus-cluster-39a4)
-- [The rate limiter that was &quot;on&quot; without Redis — and panicking our smoke tests](https://dev.to/kantik001/the-rate-limiter-that-was-on-without-redis-and-panicking-our-smoke-tests-30g0)
-- [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box &lpar;And Why You Should Care&rpar;](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4)
-- [41,088 divergences, and four tests that were lying to me](https://dev.to/aniket_3001/41088-divergences-and-four-tests-that-were-lying-to-me-169h)
-- [Idempotency: The Bug You Don&#39;t Notice Until Production](https://dev.to/shashankpandey04/idempotency-the-bug-you-dont-notice-until-production-17aj)
+- [OpenAI GPT-5.6 Expands Reasoning Controls While Free and Go Default to Terra](https://dev.to/alifar/openai-gpt-56-expands-reasoning-controls-while-free-and-go-default-to-terra-4mfa)
+- [Interactive Algorithm Playground](https://dev.to/owaisnoor/interactive-algorithm-playground-5gaj)
+- [Claude Code 2.1.224 Self-Hosted Environments Checklist](https://dev.to/ahab_indieseek/claude-code-21224-self-hosted-environments-checklist-2ck9)
+- [Offline-First, Encrypted, Audit-Ready: Building CalibKeep with .NET 8 + Avalonia](https://dev.to/remrah/offline-first-encrypted-audit-ready-building-calibkeep-with-net-8-avalonia-9ka)
+- [The Staff engineer with 4 years of experience is a hiring problem we made](https://dev.to/adioof/the-staff-engineer-with-4-years-of-experience-is-a-hiring-problem-we-made-52pa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
