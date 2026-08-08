@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Caching: How Backend Systems Get Faster with Redis](https://dev.to/juma_evans_34e389ef539266/caching-how-backend-systems-get-faster-with-redis-387c)
-- [How I Simplified My Backend Architecture for Business Applications](https://dev.to/akintunde_morakinyo_db6b2/how-i-simplified-my-backend-architecture-for-business-applications-161l)
-- [The Kernel Underneath Kubernetes: nftables, netfilter, and Why svclb-traefik Kept Crash-Looping](https://dev.to/audu97/the-kernel-underneath-kubernetes-nftables-netfilter-and-why-svclb-traefik-kept-crash-looping-5cgi)
-- [How I Built a 60 FPS 404 Page With Live Video Background Removal](https://dev.to/amirhosseindehghanazar/how-i-built-a-60-fps-404-page-with-live-video-background-removal-25bb)
-- [Your Browser Test Failed. The Browser Test Might Be Innocent.](https://dev.to/sleepyfalcon247/your-browser-test-failed-the-browser-test-might-be-innocent-23l4)
+- [How I Built Browser-Based Tools Without Sending User Data to a Server](https://dev.to/mdp88/how-i-built-browser-based-tools-without-sending-user-data-to-a-server-1852)
+- [Build Direct-to-Disk Web Editors with the New useFileSystem Hook](https://dev.to/saurav_tb_pandey/build-direct-to-disk-web-editors-with-the-new-usefilesystem-hook-3k6e)
+- [How to Find and Fix Slow Components](https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7)
+- [How I mine App Store reviews to find &quot;copy+10%&quot; opportunities &lpar;open Actor&rpar;](https://dev.to/_6d01b2eaf1075c95aafb5/how-i-mine-app-store-reviews-to-find-copy10-opportunities-open-actor-39kf)
+- [Advanced GPU Optimization: How can I tech an LLM with CUDA and ROCm? - Part 2](https://dev.to/javadinteger/advanced-gpu-optimization-how-can-i-tech-an-llm-with-cuda-and-rocm-part-2-2ah7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
