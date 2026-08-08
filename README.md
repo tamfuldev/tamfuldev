@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
-- [How to Build AI Evals for Tool-Calling Agents](https://dev.to/dhanushreddy29/how-to-build-ai-evals-for-tool-calling-agents-3h9d)
-- [Your agent doesn&#39;t have a memory problem. It has an uptime problem.](https://dev.to/coderluii/your-agent-doesnt-have-a-memory-problem-it-has-an-uptime-problem-505l)
-- [How to Build a Stock Market Trading Bot in Python: Channeling Your Inner Neo](https://dev.to/timevolt/how-to-build-a-stock-market-trading-bot-in-python-channeling-your-inner-neo-5e0i)
-- [I Built a Crypto-Native Craigslist with Manual Escrow — Here&#39;s Why and How](https://dev.to/dimabsvg/i-built-a-crypto-native-craigslist-with-manual-escrow-heres-why-and-how-4j8b)
+- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
+- [Why Basic RAG Fails in Production and How Adaptive Query Routing Fixes It](https://dev.to/mithxcode/why-basic-rag-fails-in-production-and-how-adaptive-query-routing-fixes-it-5c1n)
+- [The Invisible Threat: Defending Against Indirect Prompt Injections in Web Content &amp; Data Feeds](https://dev.to/programmingcentral/the-invisible-threat-defending-against-indirect-prompt-injections-in-web-content-data-feeds-3ekn)
+- [Data-Driven Thresholds: Picking Cutoffs You Can Defend](https://dev.to/michaelnocito/data-driven-thresholds-picking-cutoffs-you-can-defend-lf)
+- [How to Handle Large Datasets](https://dev.to/michaelnocito/how-to-handle-large-datasets-4olg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
