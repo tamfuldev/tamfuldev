@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Model Memory: Why 16 GB of RAM Isn&#39;t 16 GB](https://dev.to/dilip_v_p/ai-model-memory-why-16-gb-of-ram-isnt-16-gb-7d2)
-- [Platform teams became the new gatekeepers we said we hated](https://dev.to/adioof/platform-teams-became-the-new-gatekeepers-we-said-we-hated-2d3o)
-- [Move business logic out of your Laravel controllers with Laractions](https://dev.to/edulazaro/move-business-logic-out-of-your-laravel-controllers-with-laractions-5a1o)
-- [Model field keepers in Laravel with Larakeep](https://dev.to/edulazaro/model-field-keepers-in-laravel-with-larakeep-4ikp)
-- [Angular WebMCP — Your App is Now an AI Tool 🔥🚀](https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4)
+- [Vox Pupuli Container Statistics](https://dev.to/voxpupuli/vox-pupuli-container-statistics-ph3)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-28fi)
+- [Building CSRF Double-Submit Cookie Protection in PHP Video Admin Panels](https://dev.to/ahmet_gedik778845/building-csrf-double-submit-cookie-protection-in-php-video-admin-panels-5agd)
+- [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
+- [I made a 100% offline dev toolkit in one HTML file - no dependencies, no ads](https://dev.to/unpro_gamer_141/i-made-a-100-offline-dev-toolkit-in-one-html-file-no-dependencies-no-ads-2h3h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
