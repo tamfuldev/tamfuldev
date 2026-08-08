@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: 2026-08-07 — scrubbing secrets, reconciling drift, and extracting a book engine](https://dev.to/nasrulhazim/dev-log-2026-08-07-scrubbing-secrets-reconciling-drift-and-extracting-a-book-engine-11g1)
-- [Building an AI-native Second Brain with Multi-RAG, Knowledge Graphs, and MCP](https://dev.to/nishikantaray/building-an-ai-native-second-brain-with-multi-rag-knowledge-graphs-and-mcp-fmg)
-- [Into the void](https://dev.to/pauljlucas/into-the-void-4h69)
-- [How do you organize your frontend?](https://dev.to/rafael_arantes_9833461dce/how-do-you-organize-your-frontend-2g3n)
-- [My tests passed 18 out of 18. The service deletes your database on startup.](https://dev.to/tyson_cung/my-tests-passed-18-out-of-18-the-service-deletes-your-database-on-startup-4nhc)
+- [BIP 110 and the Cost of Policing Bitcoin&#39;s Block Space](https://dev.to/invisiblehill/bip-110-and-the-cost-of-policing-bitcoins-block-space-577f)
+- [2.Self-Hosted AI: n8n + Ollama, local AI workflows on your Mac](https://dev.to/lorena_dvila_5ab5ef35ec6/2self-hosted-ai-n8n-ollama-local-ai-workflows-on-your-mac-239k)
+- [Metabase Unauthenticated SQL Injection: From Admin Privilege Heist to Connected DB Data Theft](https://dev.to/anoymask/metabase-unauthenticated-sql-injection-from-admin-privilege-heist-to-connected-db-data-theft-2akb)
+- [VMware ESX Shell Obfuscation: 21 Techniques Work with BusyBox and Bypass Plaintext Keyword Detection](https://dev.to/anoymask/vmware-esx-shell-obfuscation-21-techniques-work-with-busybox-and-bypass-plaintext-keyword-detection-419)
+- [LLD Design Patterns: How We&#39;ll Learn Design Patterns Throughout This Series](https://dev.to/saras_growth_space/lld-design-patterns-how-well-learn-design-patterns-throughout-this-series-3i7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
