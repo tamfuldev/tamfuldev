@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does a New Windows Process Appear Every Time I Start My PC?](https://dev.to/darkssel/why-does-a-new-windows-process-appear-every-time-i-start-my-pc-19ml)
-- [Integrating AgentRouter with Tauric Research TradingAgents](https://dev.to/arpandhara/integrating-agentrouter-with-tauric-research-tradingagents-3m6h)
-- [After Shipping 8 Chrome Extensions, These Are the 5 Rules I Always Give AI Agents](https://dev.to/k-wada/after-shipping-8-chrome-extensions-these-are-the-5-rules-i-always-give-ai-agents-13al)
-- [Compressing PDFs in the browser, and the bug that shipped empty files](https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9)
-- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-2ab8)
+- [Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p)
+- [Understanding the CSS Box Model, Cascade &amp; Specificity](https://dev.to/deepika_pusala/understanding-the-css-box-model-cascade-specificity-1l92)
+- [The Matrix of Machine Learning for Stock Prediction: Separating Hype from Reality](https://dev.to/timevolt/the-matrix-of-machine-learning-for-stock-prediction-separating-hype-from-reality-2g93)
+- [My most profitable actor was silently failing most of its runs. The bug was one unprotected line.](https://dev.to/0xgollum/my-most-profitable-actor-was-silently-failing-most-of-its-runs-the-bug-was-one-unprotected-line-3n2f)
+- [I Built Persistent Memory for Claude Code Because My AI Kept Forgetting My Codebase](https://dev.to/abhinav_d6cf32291c8d21f69/i-built-persistent-memory-for-claude-code-because-my-ai-kept-forgetting-my-codebase-49pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
