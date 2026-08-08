@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Field Guide to LLM API Error Messages](https://dev.to/multigrid/a-field-guide-to-llm-api-error-messages-4gi6)
-- [Date and Time Reasoning Bugs](https://dev.to/multigrid/date-and-time-reasoning-bugs-1ek2)
-- [Data Analysis With LLMs: Where It Breaks](https://dev.to/multigrid/data-analysis-with-llms-where-it-breaks-51ej)
-- [Building an LLM Cost Dashboard](https://dev.to/multigrid/building-an-llm-cost-dashboard-1e12)
-- [Confidence and Calibration: Does the Model Know It&#39;s Wrong?](https://dev.to/multigrid/confidence-and-calibration-does-the-model-know-its-wrong-3cnb)
+- [Dev Log: 2026-08-07 — scrubbing secrets, reconciling drift, and extracting a book engine](https://dev.to/nasrulhazim/dev-log-2026-08-07-scrubbing-secrets-reconciling-drift-and-extracting-a-book-engine-11g1)
+- [Building an AI-native Second Brain with Multi-RAG, Knowledge Graphs, and MCP](https://dev.to/nishikantaray/building-an-ai-native-second-brain-with-multi-rag-knowledge-graphs-and-mcp-fmg)
+- [Into the void](https://dev.to/pauljlucas/into-the-void-4h69)
+- [How do you organize your frontend?](https://dev.to/rafael_arantes_9833461dce/how-do-you-organize-your-frontend-2g3n)
+- [My tests passed 18 out of 18. The service deletes your database on startup.](https://dev.to/tyson_cung/my-tests-passed-18-out-of-18-the-service-deletes-your-database-on-startup-4nhc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
