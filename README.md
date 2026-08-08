@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [BIP 110 and the Cost of Policing Bitcoin&#39;s Block Space](https://dev.to/invisiblehill/bip-110-and-the-cost-of-policing-bitcoins-block-space-577f)
-- [2.Self-Hosted AI: n8n + Ollama, local AI workflows on your Mac](https://dev.to/lorena_dvila_5ab5ef35ec6/2self-hosted-ai-n8n-ollama-local-ai-workflows-on-your-mac-239k)
-- [Metabase Unauthenticated SQL Injection: From Admin Privilege Heist to Connected DB Data Theft](https://dev.to/anoymask/metabase-unauthenticated-sql-injection-from-admin-privilege-heist-to-connected-db-data-theft-2akb)
-- [VMware ESX Shell Obfuscation: 21 Techniques Work with BusyBox and Bypass Plaintext Keyword Detection](https://dev.to/anoymask/vmware-esx-shell-obfuscation-21-techniques-work-with-busybox-and-bypass-plaintext-keyword-detection-419)
-- [LLD Design Patterns: How We&#39;ll Learn Design Patterns Throughout This Series](https://dev.to/saras_growth_space/lld-design-patterns-how-well-learn-design-patterns-throughout-this-series-3i7c)
+- [How Can AI Help Lazy Programmers?](https://dev.to/zijianhuang/how-can-ai-help-lazy-programmers-3c5o)
+- [Foxy Mail Wire: an open format for compressed &amp; encrypted email](https://dev.to/atec-systems/foxy-mail-wire-an-open-format-for-compressed-encrypted-email-402m)
+- [&quot;I won&#39;t post without your approval&quot; — my dutiful AI died after two minutes](https://dev.to/jun_uen0/i-wont-post-without-your-approval-my-dutiful-ai-died-after-two-minutes-2cbe)
+- [Seedance 2.5 vs MiniMax H3 &lpar;Hailuo 03&rpar;: a spec-level comparison for builders](https://dev.to/lee_315dd1e13420e63e2b813/seedance-25-vs-minimax-h3-hailuo-03-a-spec-level-comparison-for-builders-53oe)
+- [Who Named This ReAct? I&#39;d Like to Speak to the Manager.](https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
