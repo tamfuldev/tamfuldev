@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Selective Attention: Filtering Before You Fill](https://dev.to/multigrid/selective-attention-filtering-before-you-fill-57id)
-- [Context Compression: Making 100k Tokens Fit in 10k](https://dev.to/multigrid/context-compression-making-100k-tokens-fit-in-10k-4aam)
-- [Context Caching Strategy: Ordering for Cache Hits](https://dev.to/multigrid/context-caching-strategy-ordering-for-cache-hits-1omo)
-- [Budgeting the Context Window Across a Session](https://dev.to/multigrid/budgeting-the-context-window-across-a-session-251m)
-- [Context Windows as an Architectural Constraint](https://dev.to/multigrid/context-windows-as-an-architectural-constraint-4bmp)
+- [A Field Guide to LLM API Error Messages](https://dev.to/multigrid/a-field-guide-to-llm-api-error-messages-4gi6)
+- [Date and Time Reasoning Bugs](https://dev.to/multigrid/date-and-time-reasoning-bugs-1ek2)
+- [Data Analysis With LLMs: Where It Breaks](https://dev.to/multigrid/data-analysis-with-llms-where-it-breaks-51ej)
+- [Building an LLM Cost Dashboard](https://dev.to/multigrid/building-an-llm-cost-dashboard-1e12)
+- [Confidence and Calibration: Does the Model Know It&#39;s Wrong?](https://dev.to/multigrid/confidence-and-calibration-does-the-model-know-its-wrong-3cnb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
