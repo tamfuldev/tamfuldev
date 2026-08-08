@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Can AI Help Lazy Programmers?](https://dev.to/zijianhuang/how-can-ai-help-lazy-programmers-3c5o)
-- [Foxy Mail Wire: an open format for compressed &amp; encrypted email](https://dev.to/atec-systems/foxy-mail-wire-an-open-format-for-compressed-encrypted-email-402m)
-- [&quot;I won&#39;t post without your approval&quot; — my dutiful AI died after two minutes](https://dev.to/jun_uen0/i-wont-post-without-your-approval-my-dutiful-ai-died-after-two-minutes-2cbe)
-- [Seedance 2.5 vs MiniMax H3 &lpar;Hailuo 03&rpar;: a spec-level comparison for builders](https://dev.to/lee_315dd1e13420e63e2b813/seedance-25-vs-minimax-h3-hailuo-03-a-spec-level-comparison-for-builders-53oe)
-- [Who Named This ReAct? I&#39;d Like to Speak to the Manager.](https://dev.to/earlgreyhot1701d/who-named-this-react-id-like-to-speak-to-the-manager-4akg)
+- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7)
+- [I built a pricing API for LLMs — then realized the real users might not be human](https://dev.to/adrasmussen/i-built-a-pricing-api-for-llms-then-realized-the-real-users-might-not-be-human-4b8j)
+- [Your firewall is your AI policy — I probed 18 major sites to read it](https://dev.to/abouchard11/your-firewall-is-your-ai-policy-i-probed-18-major-sites-to-read-it-5552)
+- [Docker for Beginners: Images, Containers, Ports, and Volumes Explained](https://dev.to/chetancodelrca/docker-for-beginners-images-containers-ports-and-volumes-explained-ee6)
+- [Building an offline-first travel app in .NET MAUI &lpar;on-device OCR, currency &amp; maps, no backend&rpar;](https://dev.to/horizonsoftware/building-an-offline-first-travel-app-in-net-maui-on-device-ocr-currency-maps-no-backend-ecd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
