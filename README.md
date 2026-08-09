@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Our AI Agent Failed 5 Times in One Day. Here is Why It Never Happened Again.](https://dev.to/zwiserfit/our-ai-agent-failed-5-times-in-one-day-here-is-why-it-never-happened-again-1e5p)
-- [Technical Documentation Template: Build Product Docs With a Tested Structure](https://dev.to/ninadpathak/technical-documentation-template-build-product-docs-with-a-tested-structure-39m7)
-- [Beyond the Black Box: Reclaiming Developer Agency in an Era of AI-Assisted Coding](https://dev.to/tamizuddin/beyond-the-black-box-reclaiming-developer-agency-in-an-era-of-ai-assisted-coding-2mf0)
-- [A backup you haven&#39;t restored isn&#39;t a backup](https://dev.to/takiuddinahmed/a-backup-you-havent-restored-isnt-a-backup-4lj)
-- [ChronicleOps: Autonomous Chaos Engineering &amp; Self-Healing Telemetry Engine published](https://dev.to/siddarth_ns_addc7115cec1e/chronicleops-autonomous-chaos-engineering-self-healing-telemetry-enginepublished-2hdm)
+- [Ahrefs API Units: What 1,100 Calls Actually Cost](https://dev.to/studiomeyer_io/ahrefs-api-units-what-1100-calls-actually-cost-2m35)
+- [Microsoft SC-900: How I Replaced Memorization With Reasoning and Passed in Under a Month](https://dev.to/camruthav/microsoft-sc-900-how-i-replaced-memorization-with-reasoning-and-passed-in-under-a-month-2ddp)
+- [The Jharkhand Kitchen — A Heritage Culinary Landing Page](https://dev.to/rafia_minhaj_2659f96470d2/the-jharkhand-kitchen-a-heritage-culinary-landing-page-3b7g)
+- [Your first enterprise security questionnaire, and you have no SOC 2](https://dev.to/plainanswer/your-first-enterprise-security-questionnaire-and-you-have-no-soc-2-19mc)
+- [Restate&#39;s Single Binary vs Temporal&#39;s Cluster: When the Lighter Engine Wins](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635)
 <!-- BLOG-POST-LIST:END -->
 
 ---
