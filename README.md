@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a small one-time secret sharing app with AdonisJS 6](https://dev.to/oguzhankrcb/i-built-a-small-one-time-secret-sharing-app-with-adonisjs-6-cmj)
-- [Voice-to-code 100 % local : Whisper + Claude Code, zéro octet au cloud](https://dev.to/hernanz/voice-to-code-100-local-whisper-claude-code-zero-octet-au-cloud-3420)
-- [Best-of-N is prepaid retries: the cost math of racing parallel attempts](https://dev.to/loopandretry/best-of-n-is-prepaid-retries-the-cost-math-of-racing-parallel-attempts-2h9i)
-- [OpenAI’s Plan Puts Affordable, Accountable AI Access at the Center of Its Strategy](https://dev.to/alifar/openais-plan-puts-affordable-accountable-ai-access-at-the-center-of-its-strategy-5023)
-- [Trace Any TypeScript Agent Framework With Adapters](https://dev.to/raju_dandigam/trace-any-typescript-agent-framework-with-adapters-3d7l)
+- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
+- [A whiteboard that can&#39;t upload your drawing, because the browser won&#39;t let it](https://dev.to/pop3_zxcv/a-whiteboard-that-cant-upload-your-drawing-because-the-browser-wont-let-it-302f)
+- [Rasa Kenangan — Immersive Scroll Narrative Landing Page](https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0)
+- [Type Less, Discover More: Building Self-Contained Objects in Angular](https://dev.to/the-modern-web/type-less-discover-more-building-self-contained-objects-in-angular-1gkf)
+- [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
