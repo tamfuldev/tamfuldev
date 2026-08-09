@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating HTTP Request Smuggling](https://dev.to/aniketbhatia28/mitigating-http-request-smuggling-be6)
-- [How I Built a $0/Month Ecommerce MVP Without Shopify](https://dev.to/haseeb_sheikh_0f627e74ba7/how-i-built-a-0month-ecommerce-mvp-without-shopify-7hh)
-- [Why Exact Transaction Matching Breaks on 1 Relationships](https://dev.to/quickrecon/why-exact-transaction-matching-breaks-on-1-relationships-5eho)
-- [What Happens When You Type a URL in the Browser?](https://dev.to/darshan_dev/what-happens-when-you-type-a-url-in-the-browser-4epo)
-- [I Built an IP Geo Phone Server — 5 Things I Actually Used](https://dev.to/onizuka/i-built-an-ip-geo-phone-server-5-things-i-actually-used-2cn1)
+- [Upgrading React Native 0.76 0.86 Without Losing a Month](https://dev.to/arbab-io/upgrading-react-native-076-086-without-losing-a-month-mpj)
+- [How to Audit AI Agents: From Mutable Logs to Tamper-Evident History](https://dev.to/ghostfactory/how-to-audit-ai-agents-from-mutable-logs-to-tamper-evident-history-5b7h)
+- [RAG Chunking Strategies That Survive Production: Beyond the 512-Token Default](https://dev.to/numb_code_07/rag-chunking-strategies-that-survive-production-beyond-the-512-token-default-1hkk)
+- [Top Frequently Used AWS Services: A Beginner-Friendly Guide](https://dev.to/blackwatch021/top-frequently-used-aws-services-a-beginner-friendly-guide-5df1)
+- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-3fml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
