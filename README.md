@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Swapping Across 25 Models With One Line](https://dev.to/devopsdaily/swapping-across-25-models-with-one-line-3je8)
-- [What We Check Before Shipping an LLM Integration to a Client](https://dev.to/lycore/what-we-check-before-shipping-an-llm-integration-to-a-client-39fl)
-- [Per-Branch AI Endpoints: Isolating Model Spend Across Prod, Preview, and CI](https://dev.to/devopsdaily/per-branch-ai-endpoints-isolating-model-spend-across-prod-preview-and-ci-45bn)
-- [Trending Azure Dev Tools &amp; Tutorials: August 2026 Edition](https://dev.to/karleeov/trending-azure-dev-tools-tutorials-august-2026-edition-29jd)
-- [Designing sleep apps that people don&#39;t abandon after three nights](https://dev.to/sleeptrace/designing-sleep-apps-that-people-dont-abandon-after-three-nights-27n1)
+- [Building a Production WhatsApp AI Agent: Architecture That Actually Works](https://dev.to/alessandrobinda114/building-a-production-whatsapp-ai-agent-architecture-that-actually-works-2gfd)
+- [We generated ~32,000 self-contained build prompts for Midnight &lpar;and learned the hard way&rpar;](https://dev.to/socialprescribing/we-generated-32000-self-contained-build-prompts-for-midnight-and-learned-the-hard-way-2koa)
+- [How the IO-Link IODD checksum works](https://dev.to/calumk/how-the-io-link-iodd-checksum-works-2jbp)
+- [Why Your Reusable Components Keep Breaking &lpar;And How to Fix Your API Design&rpar;](https://dev.to/joemetry/why-your-reusable-components-keep-breaking-and-how-to-fix-your-api-design-3pld)
+- [Async-First Doesn’t Mean Async-Only](https://dev.to/tohru_yaginuma_4f041533c6/async-first-doesnt-mean-async-only-ebm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
