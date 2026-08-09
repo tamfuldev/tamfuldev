@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
-- [A broken heading hierarchy is an architecture problem, not a markup one](https://dev.to/praiztech/a-broken-heading-hierarchy-is-an-architecture-problem-not-a-markup-one-489n)
-- [Your AI Agent Changed Its Config. Can You Roll It Back Safely?](https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk)
-- [Four ICPC Habits That Survived Production, and Two I Had to Unlearn](https://dev.to/nabeelbaghoor/four-icpc-habits-that-survived-production-and-two-i-had-to-unlearn-4554)
-- [Pattern Recognition: The Matrix Mindset for Top Coders](https://dev.to/timevolt/pattern-recognition-the-matrix-mindset-for-top-coders-2aee)
+- [Claude Code Can&#39;t Draw — This Plugin Borrows Your Codex CLI Login](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-code-cant-draw-this-plugin-borrows-your-codex-cli-login-559c)
+- [Architecting Battery-Efficient Geofencing for Android Automation](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-android-automation-55mo)
+- [Structured Context vs Pixel Context: What Coding Agents Actually Need](https://dev.to/romantsisyk/structured-context-vs-pixel-context-what-coding-agents-actually-need-4fl8)
+- [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
+- [How I Wired Up Fully-Automated Cross-Posting Between Blogger and dev.to &lpar;With Working Code&rpar;](https://dev.to/just_a_side_project/how-i-wired-up-fully-automated-cross-posting-between-blogger-and-devto-with-working-code-41ak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
