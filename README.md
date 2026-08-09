@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying and committing to git are not the same &quot;done&quot; — the trap of assuming uploaded means synced](https://dev.to/susumun/deploying-and-committing-to-git-are-not-the-same-done-the-trap-of-assuming-uploaded-means-synced-4jjc)
-- [Local LLMs in 2026: What Actually Runs Well on a Laptop Now](https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1)
-- [MCP in 2026: How the Model Context Protocol Became the USB-C of AI Tooling](https://dev.to/ai_maya_063fc568e157562fd/mcp-in-2026-how-the-model-context-protocol-became-the-usb-c-of-ai-tooling-3bfi)
-- [Default-to-Flagship Is Now a Cost Bug: Tiered Model Routing for Agentic Workloads](https://dev.to/ai_maya_063fc568e157562fd/default-to-flagship-is-now-a-cost-bug-tiered-model-routing-for-agentic-workloads-2gk4)
-- [How much to share in a monorepo when building common features for web and mobile](https://dev.to/hirodeath/how-much-to-share-in-a-monorepo-when-building-common-features-for-web-and-mobile-2481)
+- [Why Most Software Marketplace Listings Are Useless to Developers](https://dev.to/esde_site/why-most-software-marketplace-listings-are-useless-to-developers-eb9)
+- [How to Convert Time to Decimal Hours: The Simple Formula Behind Timesheet Calculations](https://dev.to/joy_zhang_416a71128c140c9/how-to-convert-time-to-decimal-hours-the-simple-formula-behind-timesheet-calculations-47f1)
+- [AI Can Build Your Website. Done Is Still a Claim.](https://dev.to/studiomeyer_io/ai-can-build-your-website-done-is-still-a-claim-4a0p)
+- [What AI Agents Actually Are, and Where the Word Ends](https://dev.to/studiomeyer_io/what-ai-agents-actually-are-and-where-the-word-ends-3olh)
+- [Twelve Agents, One Memory - Persistent Recall for an Autonomous Agent Fleet](https://dev.to/narko4u/twelve-agents-one-memory-persistent-recall-for-an-autonomous-agent-fleet-57j6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
