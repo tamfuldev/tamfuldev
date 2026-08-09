@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading React Native 0.76 0.86 Without Losing a Month](https://dev.to/arbab-io/upgrading-react-native-076-086-without-losing-a-month-mpj)
-- [How to Audit AI Agents: From Mutable Logs to Tamper-Evident History](https://dev.to/ghostfactory/how-to-audit-ai-agents-from-mutable-logs-to-tamper-evident-history-5b7h)
-- [RAG Chunking Strategies That Survive Production: Beyond the 512-Token Default](https://dev.to/numb_code_07/rag-chunking-strategies-that-survive-production-beyond-the-512-token-default-1hkk)
-- [Top Frequently Used AWS Services: A Beginner-Friendly Guide](https://dev.to/blackwatch021/top-frequently-used-aws-services-a-beginner-friendly-guide-5df1)
-- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-3fml)
+- [🛻CSS Art: Smoothie Food Truck](https://dev.to/annavi11arrea1/css-art-smoothie-food-truck-36gg)
+- [The Silent Killer of Engineering Teams: Scope Creep &lpar;And How to Defeat It&rpar;](https://dev.to/mealiclay01/the-silent-killer-of-engineering-teams-scope-creep-and-how-to-defeat-it-nge)
+- [The &quot;Works on My Machine&quot; Syndrome &lpar;And How to Cure It&rpar;](https://dev.to/mealiclay01/the-works-on-my-machine-syndrome-and-how-to-cure-it-44f7)
+- [Debugging Fatigue: How to Stop Chasing Ghosts in Your Code](https://dev.to/mealiclay01/debugging-fatigue-how-to-stop-chasing-ghosts-in-your-code-2ocl)
+- [Building ApexCalculators: How I Built a Suite of 150+ Free Web Calculators with Zero Paywalls](https://dev.to/abdel_iddi/building-apexcalculators-how-i-built-a-suite-of-150-free-web-calculators-with-zero-paywalls-4i9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
