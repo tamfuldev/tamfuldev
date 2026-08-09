@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [EU BirdWatch Uses Copernicus Data and AI to Target Farmland Bird Conservation](https://dev.to/alifar/eu-birdwatch-uses-copernicus-data-and-ai-to-target-farmland-bird-conservation-4il4)
-- [☕ Hot Tea &amp; Crispy Samosa – Interactive Comfort Food Experience](https://dev.to/bhavnish_e35294bf0fd0b2df/hot-tea-crispy-samosa-interactive-comfort-food-experience-1ccp)
-- [AVCaptureMultiCamSession: the real limits, and why the stock Camera app doesn&#39;t offer dual recording](https://dev.to/tbds_2dadf2b626f315902eae/avcapturemulticamsession-the-real-limits-and-why-the-stock-camera-app-doesnt-offer-dual-recording-4o7e)
-- [The three hard constraints of an iOS keyboard extension](https://dev.to/tbds_2dadf2b626f315902eae/the-three-hard-constraints-of-an-ios-keyboard-extension-46af)
-- [Angular Dependency Injection vs React Context + Hooks — Who Does It Better?](https://dev.to/rigole/angular-dependency-injection-vs-react-context-hooks-who-does-it-better-1o0m)
+- [Zero backend, zero cost — and three silent bugs I didn&#39;t see coming](https://dev.to/seqat/zero-backend-zero-cost-and-three-silent-bugs-i-didnt-see-coming-pa1)
+- [Your token bill is the cheap part: dimensioning the real cost of an agent](https://dev.to/loopandretry/your-token-bill-is-the-cheap-part-dimensioning-the-real-cost-of-an-agent-2bfn)
+- [Swagger Isn&#39;t Just API Documentation](https://dev.to/sam090/swagger-isnt-just-api-documentation-1dn7)
+- [How I Estimate AI Coding Agent Costs Before Long Sessions](https://dev.to/kevin_zhang_5045713ea4589/how-i-estimate-ai-coding-agent-costs-before-long-sessions-41cj)
+- [AI Didn&#39;t Replace My DevOps Workflow. It Shortened the Path to a Hypothesis.](https://dev.to/akhil_anil/ai-didnt-replace-my-devops-workflow-it-shortened-the-path-to-a-hypothesis-47b9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
