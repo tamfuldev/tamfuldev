@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Software Marketplace Listings Are Useless to Developers](https://dev.to/esde_site/why-most-software-marketplace-listings-are-useless-to-developers-eb9)
-- [How to Convert Time to Decimal Hours: The Simple Formula Behind Timesheet Calculations](https://dev.to/joy_zhang_416a71128c140c9/how-to-convert-time-to-decimal-hours-the-simple-formula-behind-timesheet-calculations-47f1)
-- [AI Can Build Your Website. Done Is Still a Claim.](https://dev.to/studiomeyer_io/ai-can-build-your-website-done-is-still-a-claim-4a0p)
-- [What AI Agents Actually Are, and Where the Word Ends](https://dev.to/studiomeyer_io/what-ai-agents-actually-are-and-where-the-word-ends-3olh)
-- [Twelve Agents, One Memory - Persistent Recall for an Autonomous Agent Fleet](https://dev.to/narko4u/twelve-agents-one-memory-persistent-recall-for-an-autonomous-agent-fleet-57j6)
+- [Safeguarding Your Systems: An Introduction to the Circuit Breaker Pattern](https://dev.to/saurav_tb_pandey/safeguarding-your-systems-an-introduction-to-the-circuit-breaker-pattern-5dp)
+- [Thinking and Decision Making: Cognitive Processes Explained](https://dev.to/extinctsion/thinking-and-decision-making-cognitive-processes-explained-2hl3)
+- [What if the main coding-agent session was intentionally dumb?](https://dev.to/justjov/what-if-the-main-coding-agent-session-was-intentionally-dumb-2n90)
+- [Linux Memory Region Data Structures](https://dev.to/kai-wen-the-parrot/linux-memory-region-data-structures-1dnl)
+- [Can a Startup Audio Transcription API Prove EU Processing, GDPR Controls, and SOC 2 Scope?](https://dev.to/donovanpierce4012/can-a-startup-audio-transcription-api-prove-eu-processing-gdpr-controls-and-soc-2-scope-1oj7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
