@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Distress Signal: Let Stuck Workflows Ask for Help](https://dev.to/jackm-singularity/ai-agent-distress-signal-let-stuck-workflows-ask-for-help-46hi)
-- [React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4)
-- [Build, Buy, or Call an API: How We Actually Decide](https://dev.to/sagar_jain4010/build-buy-or-call-an-api-how-we-actually-decide-4hdi)
-- [Designing MCP tools an agent won&#39;t misuse](https://dev.to/frihet/designing-mcp-tools-an-agent-wont-misuse-1ah1)
-- [Never Let Migration Tooling Guess the Database](https://dev.to/iqtechsolutions/never-let-migration-tooling-guess-the-database-3ehf)
+- [EU BirdWatch Uses Copernicus Data and AI to Target Farmland Bird Conservation](https://dev.to/alifar/eu-birdwatch-uses-copernicus-data-and-ai-to-target-farmland-bird-conservation-4il4)
+- [☕ Hot Tea &amp; Crispy Samosa – Interactive Comfort Food Experience](https://dev.to/bhavnish_e35294bf0fd0b2df/hot-tea-crispy-samosa-interactive-comfort-food-experience-1ccp)
+- [AVCaptureMultiCamSession: the real limits, and why the stock Camera app doesn&#39;t offer dual recording](https://dev.to/tbds_2dadf2b626f315902eae/avcapturemulticamsession-the-real-limits-and-why-the-stock-camera-app-doesnt-offer-dual-recording-4o7e)
+- [The three hard constraints of an iOS keyboard extension](https://dev.to/tbds_2dadf2b626f315902eae/the-three-hard-constraints-of-an-ios-keyboard-extension-46af)
+- [Angular Dependency Injection vs React Context + Hooks — Who Does It Better?](https://dev.to/rigole/angular-dependency-injection-vs-react-context-hooks-who-does-it-better-1o0m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
