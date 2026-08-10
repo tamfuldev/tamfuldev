@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Launching on Product Hunt Today - Calisthenics Rep Tracker](https://dev.to/wwolfson97/launching-on-product-hunt-today-khl)
-- [Low-Code vs High-Code Development: What Should Developers Choose in 2026?](https://dev.to/synfinity-dynamics-pvt-ltd/low-code-vs-high-code-development-what-should-developers-choose-in-2026-elm)
-- [EU Digital Services Act Ad Rules Raise Compliance Stakes for Platforms and Ad Tech](https://dev.to/alifar/eu-digital-services-act-ad-rules-raise-compliance-stakes-for-platforms-and-ad-tech-4k3j)
-- [The End of Scattered Apps: Why You Need a Digital Workspace Kernel](https://dev.to/abdullahahmad/the-end-of-scattered-apps-why-you-need-a-digital-workspace-kernel-1i3h)
-- [Browser Garbage Collection: What Frontend Engineers Should Know](https://dev.to/mspk97/browser-garbage-collection-what-frontend-engineers-should-know-3kdp)
+- [How I listed my MCP on the official MCP Registery and how you can do yours too ?](https://dev.to/jay_elsheikh_59b14ad67922/how-i-listed-my-mcp-on-the-official-mcp-registery-and-how-you-can-do-yours-too--1lp)
+- [Custom Promise in JS](https://dev.to/sai_swaroopbijinapalli_5/custom-promise-in-js-80)
+- [SQLite FTS5 is faster than Whoosh. So why would you ever use a pure-Python search engine?](https://dev.to/priyasundaram/sqlite-fts5-is-faster-than-whoosh-so-why-would-you-ever-use-a-pure-python-search-engine-3o6g)
+- [I Stopped Trusting My Gut on New Open Models. A 30-Minute Scoring Loop Replaced It.](https://dev.to/datacpp_8185/i-stopped-trusting-my-gut-on-new-open-models-a-30-minute-scoring-loop-replaced-it-5dba)
+- [I built an MCP server that gives AI agents exact, high-precision finance math](https://dev.to/datanestdigital/i-built-an-mcp-server-that-gives-ai-agents-exact-high-precision-finance-math-40pl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
