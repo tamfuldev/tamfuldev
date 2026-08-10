@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Can&#39;t Draw — This Plugin Borrows Your Codex CLI Login](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-code-cant-draw-this-plugin-borrows-your-codex-cli-login-559c)
-- [Architecting Battery-Efficient Geofencing for Android Automation](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-android-automation-55mo)
-- [Structured Context vs Pixel Context: What Coding Agents Actually Need](https://dev.to/romantsisyk/structured-context-vs-pixel-context-what-coding-agents-actually-need-4fl8)
-- [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
-- [How I Wired Up Fully-Automated Cross-Posting Between Blogger and dev.to &lpar;With Working Code&rpar;](https://dev.to/just_a_side_project/how-i-wired-up-fully-automated-cross-posting-between-blogger-and-devto-with-working-code-41ak)
+- [Stop Slouching! Build a Real-Time Spine Posture Monitor using MediaPipe and Python](https://dev.to/beck_moulton/stop-slouching-build-a-real-time-spine-posture-monitor-using-mediapipe-and-python-41h0)
+- [Stop googling cron syntax. Read it in plain English instead](https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-5712)
+- [Three ways my grouped train/test split leaked anyway...](https://dev.to/cayllahuapedro/three-ways-my-grouped-traintest-split-leaked-anyway-3bf9)
+- [Why Spark Couldn&#39;t Read from Kafka: A Real Debugging Journey Across PySpark, Hadoop, Docker, and Kafka](https://dev.to/lee_yao_cfeb14fb9b141b8c5/why-spark-couldnt-read-from-kafka-a-real-debugging-journey-across-pyspark-hadoop-docker-and-6fg)
+- [I checked a dozen startup directories for real backlinks. Most free tiers give you nothing.](https://dev.to/autocomp/i-checked-a-dozen-startup-directories-for-real-backlinks-most-free-tiers-give-you-nothing-4bag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
