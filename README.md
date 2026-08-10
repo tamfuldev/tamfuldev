@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Distilling Kimi Into Qwen Doesn&#39;t Give You Kimi. It Gives You Qwen With Kimi&#39;s Handwriting](https://dev.to/p0rt/distilling-kimi-into-qwen-doesnt-give-you-kimi-it-gives-you-qwen-with-kimis-handwriting-284p)
-- [想自己跟著養一隻會操盤的 AI?從安裝 DuDuClaw 桌面版開始](https://dev.to/_2ab71a79dd36101e6be89/xiang-zi-ji-gen-zhu-yang-zhi-hui-cao-pan-de-aicong-an-zhuang-duduclaw-zhuo-mian-ban-kai-shi-557l)
-- [怎麼用一套開源系統，把 LLM 逼近世界模型（實驗技術篇）](https://dev.to/_2ab71a79dd36101e6be89/zen-mo-yong-tao-kai-yuan-xi-tong-ba-llm-bi-jin-shi-jie-mo-xing-shi-yan-ji-shu-pian--2856)
-- [I Backtested a Macro Scenario Classifier. The Signal Was Backwards.](https://dev.to/473185670/i-backtested-a-macro-scenario-classifier-the-signal-was-backwards-2pb)
-- [I Built My First AI Tool Site in 17 Days: From MVP to Payments and SEO](https://dev.to/lily-builds/i-built-my-first-ai-tool-site-in-17-days-from-mvp-to-payments-and-seo-15mf)
+- [10 Open-Source GitHub Repositories That Challenge Expensive Paid Apps](https://dev.to/syed_anzar/10-open-source-github-repositories-that-challenge-expensive-paid-apps-546g)
+- [Building a data-driven Clash Royale site: honest stats at small scale](https://dev.to/max179/building-a-data-driven-clash-royale-site-honest-stats-at-small-scale-3bfm)
+- [The System Learns to Read Without Obeying](https://dev.to/kato_masato_c5593c81af5c6/the-system-learns-to-read-without-obeying-4lc0)
+- [Punchline, or Gut-Punch?](https://dev.to/leonadato/punchline-or-gut-punch-4ngc)
+- [There is no such thing as a good fraud score threshold](https://dev.to/layercall/there-is-no-such-thing-as-a-good-fraud-score-threshold-2jgg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
