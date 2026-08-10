@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Renewing Tailscale HTTPS Certificates on PiKVM](https://dev.to/vast-cow/automatically-renewing-tailscale-https-certificates-on-pikvm-58e9)
-- [Three public HTTP APIs I read daily without registering for a key](https://dev.to/morinaga/three-public-http-apis-i-read-daily-without-registering-for-a-key-1aid)
-- [Notable this week: WeatherNext, Oracle OpenJDK AI ban, DeepMind reshuffle, Shieldstral](https://dev.to/morinaga/notable-this-week-weathernext-oracle-openjdk-ai-ban-deepmind-reshuffle-shieldstral-57o6)
-- [How We Built an Evidence-Backed Directory for AI Email Assistants](https://dev.to/elie222/how-we-built-an-evidence-backed-directory-for-ai-email-assistants-376k)
-- [Native HTTP Engine for Node: Performance Benchmarks Against uWS, Bun, Fastify, and Hono](https://dev.to/raiyanu/native-http-engine-for-node-performance-benchmarks-against-uws-bun-fastify-and-hono-ne8)
+- [MCP tool discovery eats 10,000 tokens. I got it down to 350.](https://dev.to/mcptokensaver/mcp-tool-discovery-eats-10000-tokens-i-got-it-down-to-350-3lif)
+- [Build vs Buy: VAT Validation via VIES or an API](https://dev.to/iurii_rogulia/build-vs-buy-vat-validation-via-vies-or-an-api-53k)
+- [My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲🍡](https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk)
+- [Giving an AI Coding Agent a Job Without Giving It Your Credentials](https://dev.to/gitlab_3188/giving-an-ai-coding-agent-a-job-without-giving-it-your-credentials-10a4)
+- [Why 24/7 Markets Need 24/7 Infrastructure](https://dev.to/axionaeu/why-247-markets-need-247-infrastructure-18ek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
