@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I listed my MCP on the official MCP Registery and how you can do yours too ?](https://dev.to/jay_elsheikh_59b14ad67922/how-i-listed-my-mcp-on-the-official-mcp-registery-and-how-you-can-do-yours-too--1lp)
-- [Custom Promise in JS](https://dev.to/sai_swaroopbijinapalli_5/custom-promise-in-js-80)
-- [SQLite FTS5 is faster than Whoosh. So why would you ever use a pure-Python search engine?](https://dev.to/priyasundaram/sqlite-fts5-is-faster-than-whoosh-so-why-would-you-ever-use-a-pure-python-search-engine-3o6g)
-- [I Stopped Trusting My Gut on New Open Models. A 30-Minute Scoring Loop Replaced It.](https://dev.to/datacpp_8185/i-stopped-trusting-my-gut-on-new-open-models-a-30-minute-scoring-loop-replaced-it-5dba)
-- [I built an MCP server that gives AI agents exact, high-precision finance math](https://dev.to/datanestdigital/i-built-an-mcp-server-that-gives-ai-agents-exact-high-precision-finance-math-40pl)
+- [Distilling Kimi Into Qwen Doesn&#39;t Give You Kimi. It Gives You Qwen With Kimi&#39;s Handwriting](https://dev.to/p0rt/distilling-kimi-into-qwen-doesnt-give-you-kimi-it-gives-you-qwen-with-kimis-handwriting-284p)
+- [想自己跟著養一隻會操盤的 AI?從安裝 DuDuClaw 桌面版開始](https://dev.to/_2ab71a79dd36101e6be89/xiang-zi-ji-gen-zhu-yang-zhi-hui-cao-pan-de-aicong-an-zhuang-duduclaw-zhuo-mian-ban-kai-shi-557l)
+- [怎麼用一套開源系統，把 LLM 逼近世界模型（實驗技術篇）](https://dev.to/_2ab71a79dd36101e6be89/zen-mo-yong-tao-kai-yuan-xi-tong-ba-llm-bi-jin-shi-jie-mo-xing-shi-yan-ji-shu-pian--2856)
+- [I Backtested a Macro Scenario Classifier. The Signal Was Backwards.](https://dev.to/473185670/i-backtested-a-macro-scenario-classifier-the-signal-was-backwards-2pb)
+- [I Built My First AI Tool Site in 17 Days: From MVP to Payments and SEO](https://dev.to/lily-builds/i-built-my-first-ai-tool-site-in-17-days-from-mvp-to-payments-and-seo-15mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
