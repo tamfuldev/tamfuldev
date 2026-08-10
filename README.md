@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Growth Hacking Skills for AI Agents Surfaces on GitHub](https://dev.to/dd8888/growth-hacking-skills-for-ai-agents-surfaces-on-github-4lfp)
-- [OpenAI Daybreak Extends AI Cyber Defense From Vulnerability Discovery to Remediation](https://dev.to/alifar/openai-daybreak-extends-ai-cyber-defense-from-vulnerability-discovery-to-remediation-4nfp)
-- [Hello DEV: Building Safer, Smarter Battery Systems](https://dev.to/mohammadrezwankhan/hello-dev-building-safer-smarter-battery-systems-b73)
-- [When Agents Can Run Anywhere, Where Should Organizational Judgment Live?](https://dev.to/kikashy/when-agents-can-run-anywhere-where-should-organizational-judgment-live-161c)
-- [DevLog 2 :Finishing Network Layer of the GUI framework.](https://dev.to/himansa/devlog-2-finishing-network-layer-of-the-gui-framework-3mbd)
+- [I Built an AI That Tells You How Much Water It Just Drank](https://dev.to/joannamarrie/i-built-an-ai-that-tells-you-how-much-water-it-just-drank-48b1)
+- [Tutorial Overlay Fix](https://dev.to/weirdcodesofficial/gyroscope-tilt-steering-mobile-41j6)
+- [best trading app india 2026](https://dev.to/shaktitiwari/best-trading-app-india-2026-2b96)
+- [You can&#39;t set a status in Jira](https://dev.to/keparlak/you-cant-set-a-status-in-jira-4d7p)
+- [Building Guardrails for Autonomous Agents: Mastering EU AI Act Compliance in TypeScript](https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
