@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to make Claude Code a trustworthy data scientist](https://dev.to/norman_niemer_7f327e153b9/how-to-make-claude-code-a-trustworthy-data-scientist-58of)
-- [The AI Margin Chain Is Upside Down](https://dev.to/deanlee/the-ai-margin-chain-is-upside-down-6l9)
-- [RapidFort points its hardened open-source business at what actually runs in production](https://dev.to/leobaniak/rapidfort-points-its-hardened-open-source-business-at-what-actually-runs-in-production-1bpm)
-- [Best AI Coding Tools in 2026 &lpar;Tested by Developers&rpar;](https://dev.to/ramdai_bista/best-ai-coding-tools-in-2026-tested-by-developers-30m6)
-- [AI Coding Tools Pricing Comparison 2026: All 11 Tools Side by Side](https://dev.to/ramdai_bista/ai-coding-tools-pricing-comparison-2026-all-11-tools-side-by-side-nl7)
+- [Build A Calculator Using Python](https://dev.to/faith_ondiege_6e7c59f9ac3/build-a-calculator-using-python-2f57)
+- [AI Security Training for Defense Industrial Base Companies](https://dev.to/cgivre/ai-security-training-for-defense-industrial-base-companies-281a)
+- [LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI](https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a)
+- [Dynamic Programming: The Avengers Assemble](https://dev.to/timevolt/dynamic-programming-the-avengers-assemble-2e77)
+- [Finally not shadow-banned anymore 😇](https://dev.to/developaaah/finally-not-shadow-banned-anymore-5368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
