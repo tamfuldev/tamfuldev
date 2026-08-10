@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Messaging Architecture Is Probably Being Driven by Habit, Not Requirements](https://dev.to/turboline_ai_/your-messaging-architecture-is-probably-being-driven-by-habit-not-requirements-953)
-- [Stop Giving AI Agents Your API Keys: Introducing Trust Gateway &lpar;WIP&rpar;](https://dev.to/fcn06/stop-giving-ai-agents-your-api-keys-introducing-trust-gateway-wip-1c8f)
-- [Building an AI translator that lives everywhere on macOS, iOS and Chrome](https://dev.to/supafast-tech/building-an-ai-translator-that-lives-everywhere-on-macos-ios-and-chrome-36jf)
-- [Why Economists Might Actually Make Better Data Scientists](https://dev.to/mustapha8484/why-economists-might-actually-make-better-data-scientists-5a0p)
-- [How I track whether ChatGPT, Claude and Perplexity recommend my product](https://dev.to/supafast-tech/how-i-track-whether-chatgpt-claude-and-perplexity-recommend-my-product-4969)
+- [How to make Claude Code a trustworthy data scientist](https://dev.to/norman_niemer_7f327e153b9/how-to-make-claude-code-a-trustworthy-data-scientist-58of)
+- [The AI Margin Chain Is Upside Down](https://dev.to/deanlee/the-ai-margin-chain-is-upside-down-6l9)
+- [RapidFort points its hardened open-source business at what actually runs in production](https://dev.to/leobaniak/rapidfort-points-its-hardened-open-source-business-at-what-actually-runs-in-production-1bpm)
+- [Best AI Coding Tools in 2026 &lpar;Tested by Developers&rpar;](https://dev.to/ramdai_bista/best-ai-coding-tools-in-2026-tested-by-developers-30m6)
+- [AI Coding Tools Pricing Comparison 2026: All 11 Tools Side by Side](https://dev.to/ramdai_bista/ai-coding-tools-pricing-comparison-2026-all-11-tools-side-by-side-nl7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
