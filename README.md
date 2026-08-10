@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Tells You How Much Water It Just Drank](https://dev.to/joannamarrie/i-built-an-ai-that-tells-you-how-much-water-it-just-drank-48b1)
-- [Tutorial Overlay Fix](https://dev.to/weirdcodesofficial/gyroscope-tilt-steering-mobile-41j6)
-- [best trading app india 2026](https://dev.to/shaktitiwari/best-trading-app-india-2026-2b96)
-- [You can&#39;t set a status in Jira](https://dev.to/keparlak/you-cant-set-a-status-in-jira-4d7p)
-- [Building Guardrails for Autonomous Agents: Mastering EU AI Act Compliance in TypeScript](https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl)
+- [Your terragrunt &lpar;or terraform&rpar; plan is 4,000 lines. Only two of them matter.](https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8)
+- [AI Search Budgets Are Rising, but SEO Revenue Still Demands a Measured Strategy](https://dev.to/alifar/ai-search-budgets-are-rising-but-seo-revenue-still-demands-a-measured-strategy-48gi)
+- [Everyone is racing to generate a website in 30 seconds. The work is in the next three months.](https://dev.to/webkio/everyone-is-racing-to-generate-a-website-in-30-seconds-the-work-is-in-the-next-three-months-35e2)
+- [Vector Search Fundamentals for RAG Design: ANN &lpar;HNSW&rpar;, Distance Metrics, Metadata Filtering, and BM25](https://dev.to/hiroki-kameyama/vector-search-fundamentals-for-rag-design-ann-hnsw-distance-metrics-metadata-filtering-and-34p5)
+- [6 Best Stock Market MCP Servers in 2026: Real-Time &amp; SEC Data](https://dev.to/daniel_oliveira_4bd55d35d/6-best-stock-market-mcp-servers-in-2026-real-time-sec-data-je9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
