@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Proving a proof-of-work solve happened, at a specific time, without trusting the server&#39;s logs](https://dev.to/zekebuilds/proving-a-proof-of-work-solve-happened-at-a-specific-time-without-trusting-the-servers-logs-51mh)
-- [How in 20 seconds, HPE takes you from siloed data to one connected platform with video storytelling | Explained by Advids](https://dev.to/advidsco/how-in-20-seconds-hpe-takes-you-from-siloed-data-to-one-connected-platform-with-video-storytelling-529j)
-- [Can you run a GNN without anyone seeing the data? Journal of our experiments on privacy-preserving GNN inference on microcontrollers](https://dev.to/skondho_kata/can-you-run-a-gnn-without-anyone-seeing-the-data-journal-of-our-experiments-on-privacy-preserving-l14)
-- [Can you steal a robot&#39;s next move by watching its clock? Journal of our experiments on timing side channels in multi agent RL](https://dev.to/skondho_kata/can-you-steal-a-robots-next-move-by-watching-its-clock-journal-of-our-experiments-on-timing-side-1k5f)
-- [I turned a drawer of old Android phones into screen-off security cameras](https://dev.to/superfunicular/i-turned-a-drawer-of-old-android-phones-into-screen-off-security-cameras-5bj5)
+- [Don&#39;t Just Be a Coder. Be a Street-Smart Coder Instead](https://dev.to/canro91/dont-just-be-a-coder-be-a-street-smart-coder-instead-plg)
+- [6 Claude Code Skills You Should Actually Install &lpar;2026 Edition&rpar;](https://dev.to/_02121fbe984480fd65fc/6-claude-code-skills-you-should-actually-install-2026-edition-4k24)
+- [TCP vs UDP Explained Simply: Why Video Calls Glitch and Downloads Don&#39;t](https://dev.to/syed_anzar/tcp-vs-udp-explained-simply-why-video-calls-glitch-and-downloads-dont-2ko4)
+- [Content Delivery Networks](https://dev.to/aditya_d_sharma/content-delivery-networks-1f51)
+- [Why Good Developers Can Still Deliver Bad Projects](https://dev.to/tech_tales_daa8a7eab515b3/why-good-developers-can-still-deliver-bad-projects-48jl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
