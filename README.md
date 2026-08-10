@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Slouching! Build a Real-Time Spine Posture Monitor using MediaPipe and Python](https://dev.to/beck_moulton/stop-slouching-build-a-real-time-spine-posture-monitor-using-mediapipe-and-python-41h0)
-- [Stop googling cron syntax. Read it in plain English instead](https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-5712)
-- [Three ways my grouped train/test split leaked anyway...](https://dev.to/cayllahuapedro/three-ways-my-grouped-traintest-split-leaked-anyway-3bf9)
-- [Why Spark Couldn&#39;t Read from Kafka: A Real Debugging Journey Across PySpark, Hadoop, Docker, and Kafka](https://dev.to/lee_yao_cfeb14fb9b141b8c5/why-spark-couldnt-read-from-kafka-a-real-debugging-journey-across-pyspark-hadoop-docker-and-6fg)
-- [I checked a dozen startup directories for real backlinks. Most free tiers give you nothing.](https://dev.to/autocomp/i-checked-a-dozen-startup-directories-for-real-backlinks-most-free-tiers-give-you-nothing-4bag)
+- [Proving a proof-of-work solve happened, at a specific time, without trusting the server&#39;s logs](https://dev.to/zekebuilds/proving-a-proof-of-work-solve-happened-at-a-specific-time-without-trusting-the-servers-logs-51mh)
+- [How in 20 seconds, HPE takes you from siloed data to one connected platform with video storytelling | Explained by Advids](https://dev.to/advidsco/how-in-20-seconds-hpe-takes-you-from-siloed-data-to-one-connected-platform-with-video-storytelling-529j)
+- [Can you run a GNN without anyone seeing the data? Journal of our experiments on privacy-preserving GNN inference on microcontrollers](https://dev.to/skondho_kata/can-you-run-a-gnn-without-anyone-seeing-the-data-journal-of-our-experiments-on-privacy-preserving-l14)
+- [Can you steal a robot&#39;s next move by watching its clock? Journal of our experiments on timing side channels in multi agent RL](https://dev.to/skondho_kata/can-you-steal-a-robots-next-move-by-watching-its-clock-journal-of-our-experiments-on-timing-side-1k5f)
+- [I turned a drawer of old Android phones into screen-off security cameras](https://dev.to/superfunicular/i-turned-a-drawer-of-old-android-phones-into-screen-off-security-cameras-5bj5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
