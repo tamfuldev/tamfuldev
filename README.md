@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AgentStack MCP: one deterministic reasoning stack for AI agents &lpar;simulate + decide + compute&rpar;](https://dev.to/datanestdigital/agentstack-mcp-one-deterministic-reasoning-stack-for-ai-agents-simulate-decide-compute-597p)
-- [I Showed My CISO Kiro Crew: Here&#39;s the Security Model That Got It Approved](https://dev.to/aws-builders/i-showed-my-ciso-kiro-crew-heres-the-security-model-that-got-it-approved-423j)
-- [Integrasi LLM pada Pipeline Data Real-Time vs Batch: Analisis Efisiensi](https://dev.to/ibramedia/integrasi-llm-pada-pipeline-data-real-time-vs-batch-analisis-efisiensi-4ff7)
-- [TabForge AI: a complete platform for building Java Web + AI apps](https://dev.to/java_freepascal_dev/tabforge-ai-a-complete-platform-for-building-java-web-ai-apps-4ian)
-- [Donut Panic 🍩 — Building an Interactive CSS-Only Donut](https://dev.to/kushang_tailor/donut-panic-building-an-interactive-css-only-donut-586d)
+- [Build multi-tenant auth in Go with Limen](https://dev.to/thecodearcher/build-multi-tenant-auth-in-go-with-limen-2cp6)
+- [A Digital Toolbox for Seven Locations &lpar;and Every Truck&rpar;](https://dev.to/scott_steinmetz/a-digital-toolbox-for-seven-locations-and-every-truck-1141)
+- [Beyond the Chatbot: How I’m Engineering an Agentic AI Assistant for Android](https://dev.to/dj2313/beyond-the-chatbot-how-im-engineering-an-agentic-ai-assistant-for-android-2j6e)
+- [Ignition: Flashing 2,300 conference badges with Temporal](https://dev.to/temporalio/ignition-flashing-2300-conference-badges-with-temporal-575m)
+- [My quality gate wasn&#39;t strict. It was dead.](https://dev.to/mk023/my-quality-gate-wasnt-strict-it-was-dead-14lk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
