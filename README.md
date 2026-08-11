@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apple quietly shipped everything you need to build a real-time translator — so I built one](https://dev.to/toffy/apple-quietly-shipped-everything-you-need-to-build-a-real-time-translator-so-i-built-one-9ce)
-- [The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.](https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm)
-- [Why Marketing AI Assistants Need a Governed Client Context Layer to Work Reliably](https://dev.to/alifar/why-marketing-ai-assistants-need-a-governed-client-context-layer-to-work-reliably-333h)
-- [Automate your job search: a daily LinkedIn jobs pipeline in Python](https://dev.to/data_pool/automate-your-job-search-a-daily-linkedin-jobs-pipeline-in-python-4248)
-- [How I Built a No-App Photo Sharing Platform Using Just QR Codes and Browser Cameras](https://dev.to/morpheus1537/how-i-built-a-no-app-photo-sharing-platform-using-just-qr-codes-and-browser-cameras-2obn)
+- [Should I Raise Venture Capital or Bootstrap?](https://dev.to/ido_barkan/should-i-raise-venture-capital-or-bootstrap-2clo)
+- [Google Expands Gemini 3.5 With Flash, Omni and Spark Across Apps and Enterprise Tools](https://dev.to/alifar/google-expands-gemini-35-with-flash-omni-and-spark-across-apps-and-enterprise-tools-47oc)
+- [The Celery Lifecycle: How a Task Gets Registered, Queued, and Run](https://dev.to/engrmark/the-celery-lifecycle-how-a-task-gets-registered-queued-and-run-5gjb)
+- [Grok Bot Just Dropped and I Had to Try It](https://dev.to/debs_obrien/grok-bot-just-dropped-and-i-had-to-try-it-2bnf)
+- [My AI Agent Captured the Flag. Then the Platform Refused to Accept It.](https://dev.to/xenocoregiger31/my-ai-agent-captured-the-flag-then-the-platform-refused-to-accept-it-1d7b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
