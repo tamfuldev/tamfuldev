@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent grades its own homework](https://dev.to/salmanahsan/your-ai-agent-grades-its-own-homework-2ekm)
-- [How to Build a Fast and SEO-Friendly Website with React](https://dev.to/ayush9300/how-to-build-a-fast-and-seo-friendly-website-with-react-15ia)
-- [Rust SIMD Just Came to the GPU — and It Changes How We Think About Parallel Programming](https://dev.to/trismegistus/rust-simd-just-came-to-the-gpu-and-it-changes-how-we-think-about-parallel-programming-44n)
-- [Cline After 5 Months: The Free VS Code AI Agent That Isn&#39;t Actually Free](https://dev.to/ramdai_bista/cline-after-5-months-the-free-vs-code-ai-agent-that-isnt-actually-free-54gh)
-- [Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked](https://dev.to/avyuktsoni0731/porting-a-python-peg-parser-to-rust-in-72-hours-and-actually-proving-it-worked-3jl2)
+- [Deploy ReplicaSet in Kubernetes Cluster](https://dev.to/janak0ff/deploy-replicaset-in-kubernetes-cluster-2n07)
+- [Adrak Chai &amp; Samosa — Comfort Food Edition &lpar;Corporate Tech Office Tea Break&rpar;](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)
+- [Union-Find: The Fellowship of the Sets](https://dev.to/timevolt/union-find-the-fellowship-of-the-sets-10dd)
+- [AI Is Making Financial Tools Feel Less Complicated](https://dev.to/julia0811/ai-is-making-financial-tools-feel-less-complicated-10h8)
+- [Build a JSON-RPC 2.0 API in Symfony in 15 minutes: from composer require to OpenAPI](https://dev.to/otezvikentiy/build-a-json-rpc-20-api-in-symfony-in-15-minutes-from-composer-require-to-openapi-5bpk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
