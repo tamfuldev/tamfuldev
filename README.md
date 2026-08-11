@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built GitX to turn messy AI-generated changes into clean Git history](https://dev.to/musoyangrigor/i-built-gitx-to-turn-messy-ai-generated-changes-into-clean-git-history-1408)
-- [The unofficial TPU migration guide: Cloud TPU API to Compute Engine](https://dev.to/gde/the-unofficial-tpu-migration-guide-cloud-tpu-api-to-compute-engine-2co7)
-- [FC Bayern Names Gemini Its Official AI Partner in Long-Term Google Deal](https://dev.to/alifar/fc-bayern-names-gemini-its-official-ai-partner-in-long-term-google-deal-1f65)
-- [Deixei o Kiro Crew cuidar do pior &quot;servidor&quot; do mundo!](https://dev.to/aws-builders/deixei-o-kiro-crew-cuidar-do-pior-servidor-do-mundo-2deg)
-- [Best Frontend Generators in 2026: Top AI Tools for Developers](https://dev.to/arsalanmee/best-frontend-generators-in-2026-top-ai-tools-for-developers-3n0a)
+- [Apple quietly shipped everything you need to build a real-time translator — so I built one](https://dev.to/toffy/apple-quietly-shipped-everything-you-need-to-build-a-real-time-translator-so-i-built-one-9ce)
+- [The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.](https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm)
+- [Why Marketing AI Assistants Need a Governed Client Context Layer to Work Reliably](https://dev.to/alifar/why-marketing-ai-assistants-need-a-governed-client-context-layer-to-work-reliably-333h)
+- [Automate your job search: a daily LinkedIn jobs pipeline in Python](https://dev.to/data_pool/automate-your-job-search-a-daily-linkedin-jobs-pipeline-in-python-4248)
+- [How I Built a No-App Photo Sharing Platform Using Just QR Codes and Browser Cameras](https://dev.to/morpheus1537/how-i-built-a-no-app-photo-sharing-platform-using-just-qr-codes-and-browser-cameras-2obn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
