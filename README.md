@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 Python Design Patterns to Streamline Your Python Development Projects](https://dev.to/sahil_khurana_486f374ecf2/10-python-design-patterns-to-streamline-your-python-development-projects-3fbi)
-- [How I Built GiftHive: An AI Gift Finder That Actually Picks Gifts People Want](https://dev.to/hao764/how-i-built-gifthive-an-ai-gift-finder-that-actually-picks-gifts-people-want-26bh)
-- [AI Agent Workspace Architecture: Give Agents Files, Tools, and Limits](https://dev.to/jackm-singularity/ai-agent-workspace-architecture-give-agents-files-tools-and-limits-1g87)
-- [Compilation vs Interpretation](https://dev.to/polyvexr/compilation-vs-interpretation-59fp)
-- [I built a portable keyword spotting engine — started with Chinese, now supporting English](https://dev.to/buguatec/i-built-a-portable-keyword-spotting-engine-started-with-chinese-now-supporting-english-d10)
+- [Your AI agent grades its own homework](https://dev.to/salmanahsan/your-ai-agent-grades-its-own-homework-2ekm)
+- [How to Build a Fast and SEO-Friendly Website with React](https://dev.to/ayush9300/how-to-build-a-fast-and-seo-friendly-website-with-react-15ia)
+- [Rust SIMD Just Came to the GPU — and It Changes How We Think About Parallel Programming](https://dev.to/trismegistus/rust-simd-just-came-to-the-gpu-and-it-changes-how-we-think-about-parallel-programming-44n)
+- [Cline After 5 Months: The Free VS Code AI Agent That Isn&#39;t Actually Free](https://dev.to/ramdai_bista/cline-after-5-months-the-free-vs-code-ai-agent-that-isnt-actually-free-54gh)
+- [Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked](https://dev.to/avyuktsoni0731/porting-a-python-peg-parser-to-rust-in-72-hours-and-actually-proving-it-worked-3jl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
