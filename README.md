@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying to Cloudflare Pages from pure Python — no Node, no wrangler](https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1)
-- [I Built a PreToolUse Hook to Require Confirmation for Selected Commands—even in Claude Code&#39;s Auto Mode](https://dev.to/miura/i-built-a-pretooluse-hook-to-require-confirmation-for-selected-commands-even-in-claude-codes-auto-2bcn)
-- [A path-traversal guard for MCP file tools that actually survives symlinks](https://dev.to/mcpsecnotes/a-path-traversal-guard-for-mcp-file-tools-that-actually-survives-symlinks-2654)
-- [Por qué toda hoja de estilos grande termina siendo impredecible](https://dev.to/ortizfranklindev/por-que-toda-hoja-de-estilos-grande-termina-siendo-impredecible-e3h)
-- [Why Every Large Stylesheet Eventually Becomes Unpredictable](https://dev.to/ortizfranklindev/why-every-large-stylesheet-eventually-becomes-unpredictable-4cah)
+- [AgentStack MCP: one deterministic reasoning stack for AI agents &lpar;simulate + decide + compute&rpar;](https://dev.to/datanestdigital/agentstack-mcp-one-deterministic-reasoning-stack-for-ai-agents-simulate-decide-compute-597p)
+- [I Showed My CISO Kiro Crew: Here&#39;s the Security Model That Got It Approved](https://dev.to/aws-builders/i-showed-my-ciso-kiro-crew-heres-the-security-model-that-got-it-approved-423j)
+- [Integrasi LLM pada Pipeline Data Real-Time vs Batch: Analisis Efisiensi](https://dev.to/ibramedia/integrasi-llm-pada-pipeline-data-real-time-vs-batch-analisis-efisiensi-4ff7)
+- [TabForge AI: a complete platform for building Java Web + AI apps](https://dev.to/java_freepascal_dev/tabforge-ai-a-complete-platform-for-building-java-web-ai-apps-4ian)
+- [Donut Panic 🍩 — Building an Interactive CSS-Only Donut](https://dev.to/kushang_tailor/donut-panic-building-an-interactive-css-only-donut-586d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
