@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Retry Counter Said 7, The Config Said 3](https://dev.to/hannune/the-retry-counter-said-7-the-config-said-3-383l)
-- [🦋 What If One Small Change Rewrote 1,000 Years of History?](https://dev.to/alirezaai/what-if-one-small-change-rewrote-1000-years-of-history-281n)
-- [React useMount Hook: Run an Effect Once on Mount &lpar;2026&rpar;](https://dev.to/childrentime/react-usemount-hook-run-an-effect-once-on-mount-2026-15g5)
-- [Two sites asked my automation to prove it was human. I stopped both times, and I want to argue that was correct](https://dev.to/blueticks/two-sites-asked-my-automation-to-prove-it-was-human-i-stopped-both-times-and-i-want-to-argue-that-3b6l)
-- [What are AI Agents? The Practitioner&#39;s Guide to Autonomous Systems](https://dev.to/mryadavgulshan/what-are-ai-agents-the-practitioners-guide-to-autonomous-systems-4kml)
+- [10 Python Design Patterns to Streamline Your Python Development Projects](https://dev.to/sahil_khurana_486f374ecf2/10-python-design-patterns-to-streamline-your-python-development-projects-3fbi)
+- [How I Built GiftHive: An AI Gift Finder That Actually Picks Gifts People Want](https://dev.to/hao764/how-i-built-gifthive-an-ai-gift-finder-that-actually-picks-gifts-people-want-26bh)
+- [AI Agent Workspace Architecture: Give Agents Files, Tools, and Limits](https://dev.to/jackm-singularity/ai-agent-workspace-architecture-give-agents-files-tools-and-limits-1g87)
+- [Compilation vs Interpretation](https://dev.to/polyvexr/compilation-vs-interpretation-59fp)
+- [I built a portable keyword spotting engine — started with Chinese, now supporting English](https://dev.to/buguatec/i-built-a-portable-keyword-spotting-engine-started-with-chinese-now-supporting-english-d10)
 <!-- BLOG-POST-LIST:END -->
 
 ---
