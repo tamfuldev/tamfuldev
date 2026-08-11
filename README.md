@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy ReplicaSet in Kubernetes Cluster](https://dev.to/janak0ff/deploy-replicaset-in-kubernetes-cluster-2n07)
-- [Adrak Chai &amp; Samosa — Comfort Food Edition &lpar;Corporate Tech Office Tea Break&rpar;](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)
-- [Union-Find: The Fellowship of the Sets](https://dev.to/timevolt/union-find-the-fellowship-of-the-sets-10dd)
-- [AI Is Making Financial Tools Feel Less Complicated](https://dev.to/julia0811/ai-is-making-financial-tools-feel-less-complicated-10h8)
-- [Build a JSON-RPC 2.0 API in Symfony in 15 minutes: from composer require to OpenAPI](https://dev.to/otezvikentiy/build-a-json-rpc-20-api-in-symfony-in-15-minutes-from-composer-require-to-openapi-5bpk)
+- [Old CMS excavation site: buried JavaScript patterns](https://dev.to/samgeven/old-cms-excavation-site-buried-javascript-patterns-oli)
+- [Designing an Interface Around a Single Binary Input &lpar;What Morse Code Taught Me About Constraints&rpar;](https://dev.to/wali0007/designing-an-interface-around-a-single-binary-input-what-morse-code-taught-me-about-constraints-3d4h)
+- [Rannaghar ~ a Bengali comfort-food landing page with scroll-driven CSS and :has&lpar;&rpar; tabs](https://dev.to/aniruddha_adak/rannaghar-a-bengali-comfort-food-landing-page-with-scroll-driven-css-and-has-tabs-354n)
+- [Feed Your AI Agents Clean Data](https://dev.to/seredasv/feed-your-ai-agents-clean-data-50ii)
+- [Designing a Dead-Letter Queue for Webhook Processing: Architecture, Alerting, and Manual Replay](https://dev.to/instawebhook/designing-a-dead-letter-queue-for-webhook-processing-architecture-alerting-and-manual-replay-4mdm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
