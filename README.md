@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Moving Half of Our AI Development to Local LLMs — by Splitting Work by Role, Not by Picking the Biggest Model](https://dev.to/uehara/moving-half-of-our-ai-development-to-local-llms-by-splitting-work-by-role-not-by-picking-the-cnb)
-- [Your FHIR Sandbox Looks the Part. Nobody in It Has Aged.](https://dev.to/mockhealth/your-fhir-sandbox-looks-the-part-nobody-in-it-has-aged-3g02)
-- [I put Gopher on Nostr. Now every npub is a gopherhole](https://dev.to/thecryptodonkey/i-put-gopher-on-nostr-now-every-npub-is-a-gopherhole-ahh)
-- [I built a validator that passed every broken skill and failed every good one](https://dev.to/anvilandcode/i-built-a-validator-that-passed-every-broken-skill-and-failed-every-good-one-33fd)
-- [Agentic AI in German: The Words, the Law, the Numbers](https://dev.to/studiomeyer_io/agentic-ai-in-german-the-words-the-law-the-numbers-33bf)
+- [Secure Boot&#39;s October 2026 Deadline: Two Years&#39; Notice Wasn&#39;t Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)
+- [Global Hack Week: Agents, Challenge 2](https://dev.to/ik_8a78062fd65be769dd835/global-hack-week-agents-challenge-2-kbc)
+- [Download Multiple Files as a ZIP in React — Including Multi-GB Archives](https://dev.to/ryan_e200dd10ede43c8fc2e4/download-multiple-files-as-a-zip-in-react-including-multi-gb-archives-24al)
+- [Tennis Players Can Now Improve Strokes Without Coaches Using AI-Powered Feedback Technology](https://dev.to/tonnydarel/tennis-players-can-now-improve-strokes-without-coaches-using-ai-powered-feedback-technology-482b)
+- [The AI Coding Team Working Agreement](https://dev.to/_3ffb5be7950c3a975b5d/the-ai-coding-team-working-agreement-3ffb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
