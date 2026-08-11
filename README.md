@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Boot&#39;s October 2026 Deadline: Two Years&#39; Notice Wasn&#39;t Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)
-- [Global Hack Week: Agents, Challenge 2](https://dev.to/ik_8a78062fd65be769dd835/global-hack-week-agents-challenge-2-kbc)
-- [Download Multiple Files as a ZIP in React — Including Multi-GB Archives](https://dev.to/ryan_e200dd10ede43c8fc2e4/download-multiple-files-as-a-zip-in-react-including-multi-gb-archives-24al)
-- [Tennis Players Can Now Improve Strokes Without Coaches Using AI-Powered Feedback Technology](https://dev.to/tonnydarel/tennis-players-can-now-improve-strokes-without-coaches-using-ai-powered-feedback-technology-482b)
-- [The AI Coding Team Working Agreement](https://dev.to/_3ffb5be7950c3a975b5d/the-ai-coding-team-working-agreement-3ffb)
+- [The Retry Counter Said 7, The Config Said 3](https://dev.to/hannune/the-retry-counter-said-7-the-config-said-3-383l)
+- [🦋 What If One Small Change Rewrote 1,000 Years of History?](https://dev.to/alirezaai/what-if-one-small-change-rewrote-1000-years-of-history-281n)
+- [React useMount Hook: Run an Effect Once on Mount &lpar;2026&rpar;](https://dev.to/childrentime/react-usemount-hook-run-an-effect-once-on-mount-2026-15g5)
+- [Two sites asked my automation to prove it was human. I stopped both times, and I want to argue that was correct](https://dev.to/blueticks/two-sites-asked-my-automation-to-prove-it-was-human-i-stopped-both-times-and-i-want-to-argue-that-3b6l)
+- [What are AI Agents? The Practitioner&#39;s Guide to Autonomous Systems](https://dev.to/mryadavgulshan/what-are-ai-agents-the-practitioners-guide-to-autonomous-systems-4kml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
