@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build multi-tenant auth in Go with Limen](https://dev.to/thecodearcher/build-multi-tenant-auth-in-go-with-limen-2cp6)
-- [A Digital Toolbox for Seven Locations &lpar;and Every Truck&rpar;](https://dev.to/scott_steinmetz/a-digital-toolbox-for-seven-locations-and-every-truck-1141)
-- [Beyond the Chatbot: How I’m Engineering an Agentic AI Assistant for Android](https://dev.to/dj2313/beyond-the-chatbot-how-im-engineering-an-agentic-ai-assistant-for-android-2j6e)
-- [Ignition: Flashing 2,300 conference badges with Temporal](https://dev.to/temporalio/ignition-flashing-2300-conference-badges-with-temporal-575m)
-- [My quality gate wasn&#39;t strict. It was dead.](https://dev.to/mk023/my-quality-gate-wasnt-strict-it-was-dead-14lk)
+- [TRON’s USDT Growth Is Changing What Developers Build Around](https://dev.to/azaleakuts/trons-usdt-growth-is-changing-what-developers-build-around-4afl)
+- [Monotonic Stack: The Matrix of Array Problems](https://dev.to/timevolt/monotonic-stack-the-matrix-of-array-problems-4bmg)
+- [Processes vs Threads](https://dev.to/vahid_aghajani_60ce9dbec9/processes-vs-threads-5fde)
+- [Budoucnost](https://dev.to/martinneznamiit/budoucnost-59d3)
+- [I Benchmarked Two Local LLMs on Real Dev Work — Qwopus 27B vs Muse Glimmer 30B](https://dev.to/chpomob/i-benchmarked-two-local-llms-on-real-dev-work-qwopus-27b-vs-muse-glimmer-30b-36ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
