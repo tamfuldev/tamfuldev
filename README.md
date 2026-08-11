@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Old CMS excavation site: buried JavaScript patterns](https://dev.to/samgeven/old-cms-excavation-site-buried-javascript-patterns-oli)
-- [Designing an Interface Around a Single Binary Input &lpar;What Morse Code Taught Me About Constraints&rpar;](https://dev.to/wali0007/designing-an-interface-around-a-single-binary-input-what-morse-code-taught-me-about-constraints-3d4h)
-- [Rannaghar ~ a Bengali comfort-food landing page with scroll-driven CSS and :has&lpar;&rpar; tabs](https://dev.to/aniruddha_adak/rannaghar-a-bengali-comfort-food-landing-page-with-scroll-driven-css-and-has-tabs-354n)
-- [Feed Your AI Agents Clean Data](https://dev.to/seredasv/feed-your-ai-agents-clean-data-50ii)
-- [Designing a Dead-Letter Queue for Webhook Processing: Architecture, Alerting, and Manual Replay](https://dev.to/instawebhook/designing-a-dead-letter-queue-for-webhook-processing-architecture-alerting-and-manual-replay-4mdm)
+- [phi – the 12 MB alternative to Pi: no Ts, any model, hashline edit](https://dev.to/libinops/phi-the-12-mb-alternative-to-pi-no-ts-any-model-hashline-edit-1p0h)
+- [Ski - A voice for your coding agent](https://dev.to/sandra_pb_f75d3471c65747/ski-a-voice-for-your-coding-agent-4n5i)
+- [How to audit a free AI visibility score with six manual checks](https://dev.to/alex-isa/how-to-audit-a-free-ai-visibility-score-with-six-manual-checks-1ab9)
+- [Why a live payment is not a release test](https://dev.to/enochchan/why-a-live-payment-is-not-a-release-test-c4c)
+- [I Built a Cinematic Developer Portfolio Instead of a Traditional One — Here’s What I Learned](https://dev.to/pavansai20052004hue/i-built-a-cinematic-developer-portfolio-instead-of-a-traditional-one-heres-what-i-learned-25h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
