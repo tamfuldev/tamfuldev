@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Third Time in Two Weeks: Meta&#39;s AI Also &#39;Hacked&#39; Someone Else&#39;s System - And I Noticed a Pattern No One&#39;s Talking About](https://dev.to/judy_miranttie/third-time-in-two-weeks-metas-ai-also-hacked-someone-elses-system-and-i-noticed-a-pattern-no-27e9)
-- [My AI assistant deleted my working files because I said &quot;I can&#39;t tell which ones are current&quot;](https://dev.to/locoprowrestling/my-ai-assistant-deleted-my-working-files-because-i-said-i-cant-tell-which-ones-are-current-22b3)
-- [Why Isn&#39;t the AWS Blocks Agent Built on AgentCore? What the Repository Reveals About What&#39;s Next](https://dev.to/aws-builders/why-isnt-the-aws-blocks-agent-built-on-agentcore-what-the-repository-reveals-about-whats-next-4512)
-- [Test your Supabase RLS before you ship: a free red/green fixture and the 9 SQL checks a linter cannot run](https://dev.to/cekuu35/test-your-supabase-rls-before-you-ship-a-free-redgreen-fixture-and-the-9-sql-checks-a-linter-388d)
-- [Mistral AI Third-Party Model Claim Raises Key Questions for Enterprise AI Teams](https://dev.to/alifar/mistral-ai-third-party-model-claim-raises-key-questions-for-enterprise-ai-teams-29fi)
+- [Ad-Hoc distribution vs TestFlight in React Native — a practical comparison](https://dev.to/hameedurrehman/ad-hoc-distribution-vs-testflight-in-react-native-a-practical-comparison-1nid)
+- [Choosing a Root Filesystem Format for Embedded Linux](https://dev.to/raghu_bharadwaj_404e60eb0c/choosing-a-root-filesystem-format-for-embedded-linux-3gnm)
+- [开源项目从 0 到 1：我用 2 周业余时间搭建了多平台发布系统](https://dev.to/wxfwxf911/kai-yuan-xiang-mu-cong-0-dao-1wo-yong-2-zhou-ye-yu-shi-jian-da-jian-liao-duo-ping-tai-fa-bu-xi-tong-2p4f)
+- [Ask-Docs Architecture: Semantic Embeddings or Keyword Search for a SaaS Help Center?](https://dev.to/silhouette72591483/ask-docs-architecture-semantic-embeddings-or-keyword-search-for-a-saas-help-center-1lp4)
+- [Writing Takes 40 Minutes, Publishing Takes 30 — How I Automated Multi-Platform Content Distribution](https://dev.to/wxfwxf911/writing-takes-40-minutes-publishing-takes-30-how-i-automated-multi-platform-content-distribution-3n55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
