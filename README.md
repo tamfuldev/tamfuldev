@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Filipino Cooking App That Recommends Food Based on the Weather](https://dev.to/justpres/i-built-a-filipino-cooking-app-that-recommends-food-based-on-the-weather-2e3f)
-- [System Design: A popular cache key expires and 40,000 requests hit your database. How do you fix it?](https://dev.to/gaurav_sharma_c2ef5dd7646/system-design-a-popular-cache-key-expires-and-40000-requests-hit-your-database-how-do-you-fix-it-i3l)
-- [Adding Low-Noise Error Alerts to an Express API with Wotchi](https://dev.to/ivan_kabar_83410b5992cece/adding-low-noise-error-alerts-to-an-express-api-with-wotchi-56o5)
-- [ChatGPT SaaS Citation Studies: What the Evidence Suggests About AI Source Selection](https://dev.to/alifar/chatgpt-saas-citation-studies-what-the-evidence-suggests-about-ai-source-selection-4h26)
-- [5 n8n Workflow Design Patterns That Prevent Silent Failures in Production](https://dev.to/isaias_perez_intelia/5-n8n-workflow-design-patterns-that-prevent-silent-failures-in-production-1a3)
+- [AI Prompt Data Provenance: A Governance Framework for Community Sources](https://dev.to/alifar/ai-prompt-data-provenance-a-governance-framework-for-community-sources-9jc)
+- [Contract engineer vs. full-time hire: the real cost math](https://dev.to/zephico/contract-engineer-vs-full-time-hire-the-real-cost-math-4pdm)
+- [Medallion architecture on Databricks: what actually matters](https://dev.to/zephico/medallion-architecture-on-databricks-what-actually-matters-2nom)
+- [Deploy Grafana to Azure with Azure CLI : From Local Docker to Durable Dashboards](https://dev.to/khanh_nguyen_04b1205f5a91/deploy-grafana-to-azure-with-azure-cli-from-local-docker-to-durable-dashboards-5f0l)
+- [Treat Every `.gitlab-ci.yml` Edit as a Graph Change, Not a Text Diff](https://dev.to/gitlab_3188/treat-every-gitlab-ciyml-edit-as-a-graph-change-not-a-text-diff-4j7f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
