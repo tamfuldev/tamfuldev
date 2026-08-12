@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering: What Still Works in 2026](https://dev.to/multigrid/prompt-engineering-what-still-works-in-2026-5840)
-- [Criando uma IA particular](https://dev.to/celsonery/criando-uma-ia-particular-4jcd)
-- [Prompt Engineer: Is It a Real Job?](https://dev.to/multigrid/prompt-engineer-is-it-a-real-job-1h89)
-- [The client asked me to run their repo. I read it instead.](https://dev.to/automate_ai/the-client-asked-me-to-run-their-repo-i-read-it-instead-126)
-- [A green pipeline isn&#39;t the same thing as a safe deploy](https://dev.to/cybertechnology_sh/a-green-pipeline-isnt-the-same-thing-as-a-safe-deploy-204)
+- [Ticketmaster Brings Real-Time Event Discovery and Checkout Paths to Google Gemini](https://dev.to/alifar/ticketmaster-brings-real-time-event-discovery-and-checkout-paths-to-google-gemini-p5)
+- [Backtracking: A Sudoku Quest Inspired by Inception](https://dev.to/timevolt/backtracking-a-sudoku-quest-inspired-by-inception-2jpf)
+- [A System Prompt You Can Actually Reuse](https://dev.to/multigrid/a-system-prompt-you-can-actually-reuse-4bck)
+- [System Prompt Extraction: Assume It&#39;s Public](https://dev.to/multigrid/system-prompt-extraction-assume-its-public-2p59)
+- [The Model Ignores Part of a Long System Prompt](https://dev.to/multigrid/the-model-ignores-part-of-a-long-system-prompt-o7p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
