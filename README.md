@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
-- [Your model benchmark measures everything except the bill](https://dev.to/altrouter/your-model-benchmark-measures-everything-except-the-bill-4i8o)
-- [I hand-scoped 2,768 CSS demos. Here&#39;s the convention that made it survivable.](https://dev.to/codefronts/scoping-css-at-scale-what-shipping-2684-demos-taught-us-3jg1)
-- [Understanding Azure Data Factory Pipelines: From Source Systems to Production](https://dev.to/msnmongare/understanding-azure-data-factory-pipelines-from-source-systems-to-production-20g3)
-- [AIUC-1: what the first AI agent standard means before you ship assistant access](https://dev.to/apogeewatcher/aiuc-1-what-the-first-ai-agent-standard-means-before-you-ship-assistant-access-59aa)
+- [I built an AI that answers calls and WhatsApp messages for your business](https://dev.to/fredy/i-built-an-ai-that-answers-calls-and-whatsapp-messages-for-your-business-156l)
+- [There&#39;s an Entity for That](https://dev.to/iceonfire/theres-an-entity-for-that-4ifm)
+- [How to Batch Convert 500 Images to WebP Locally in the Browser With Zero Server Uploads](https://dev.to/zoe_christopher/how-to-batch-convert-500-images-to-webp-locally-in-the-browser-with-zero-server-uploads-4fbi)
+- [I ran my AI agent 1,200 times. The bill was $1.20.](https://dev.to/shipsitself/i-ran-my-ai-agent-1200-times-the-bill-was-120-2bof)
+- [Code-Graph-RAG, เปลี่ยน Codebase ทั้งหมดให้เป็น Knowledge Graph ให้ AI เข้าใจโค้ดของคุณอย่างแท้จริง](https://dev.to/sarantoon/code-graph-rag-epliiyn-codebase-thanghmdaihepn-knowledge-graph-aih-ai-ekhaaaicchokhdkhngkhunyaangaethcchring-5bee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
