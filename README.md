@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI that answers calls and WhatsApp messages for your business](https://dev.to/fredy/i-built-an-ai-that-answers-calls-and-whatsapp-messages-for-your-business-156l)
-- [There&#39;s an Entity for That](https://dev.to/iceonfire/theres-an-entity-for-that-4ifm)
-- [How to Batch Convert 500 Images to WebP Locally in the Browser With Zero Server Uploads](https://dev.to/zoe_christopher/how-to-batch-convert-500-images-to-webp-locally-in-the-browser-with-zero-server-uploads-4fbi)
-- [I ran my AI agent 1,200 times. The bill was $1.20.](https://dev.to/shipsitself/i-ran-my-ai-agent-1200-times-the-bill-was-120-2bof)
-- [Code-Graph-RAG, เปลี่ยน Codebase ทั้งหมดให้เป็น Knowledge Graph ให้ AI เข้าใจโค้ดของคุณอย่างแท้จริง](https://dev.to/sarantoon/code-graph-rag-epliiyn-codebase-thanghmdaihepn-knowledge-graph-aih-ai-ekhaaaicchokhdkhngkhunyaangaethcchring-5bee)
+- [Does Aiden Store Your Data? A Straight Answer on Privacy and Self-Hosting](https://dev.to/nataiden/does-aiden-store-your-data-a-straight-answer-on-privacy-and-self-hosting-4okn)
+- [Bir web sitesini yapay zekâya teslim ettim: kafa1milyon&#39;un otonom yayın mimarisi &lpar;Bölüm 1&rpar;](https://dev.to/gurayta/bir-web-sitesini-yapay-zekaya-teslim-ettim-kafa1milyonun-otonom-yayin-mimarisi-bolum-1-1klc)
+- [Build a fresh trucking-insurance lead feed: every new US carrier with phone + email, updated weekly](https://dev.to/cblu2005/build-a-fresh-trucking-insurance-lead-feed-every-new-us-carrier-with-phone-email-updated-weekly-27je)
+- [Your Agent Queue Is Full. What Happens to the Work That Was Already Running?](https://dev.to/zira125/your-agent-queue-is-full-what-happens-to-the-work-that-was-already-running-1blp)
+- [Should a customer&#39;s AI assistant be allowed to sign up for them?](https://dev.to/layercall/should-a-customers-ai-assistant-be-allowed-to-sign-up-for-them-1aek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
