@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Case of When the Hunter Becomes the Hunted](https://dev.to/ugo_njubigbo/a-case-of-when-the-hunter-becomes-the-hunted-11c2)
-- [Keyboard Accessibility in Custom Components: Implementing and Debugging Focus Management](https://dev.to/mspk97/keyboard-accessibility-in-custom-components-implementing-and-debugging-focus-management-23j)
-- [AI Memory Is Becoming Portable. Continuity Still Isn&#39;t.](https://dev.to/badjoke-lab/ai-memory-is-becoming-portable-continuity-still-isnt-1bk6)
-- [Karpathy-Style Knowledge Stack, วิธีสร้างสมองที่สองด้วย Obsidian + Hermes + MiniMax M3](https://dev.to/sarantoon/karpathy-style-knowledge-stack-withiisraangsmngthiisngdwy-obsidian-hermes-minimax-m3-12hk)
-- [OpenAI buying Astral means uv now answers to a model company](https://dev.to/adioof/openai-buying-astral-means-uv-now-answers-to-a-model-company-20lc)
+- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
+- [Your model benchmark measures everything except the bill](https://dev.to/altrouter/your-model-benchmark-measures-everything-except-the-bill-4i8o)
+- [I hand-scoped 2,768 CSS demos. Here&#39;s the convention that made it survivable.](https://dev.to/codefronts/scoping-css-at-scale-what-shipping-2684-demos-taught-us-3jg1)
+- [Understanding Azure Data Factory Pipelines: From Source Systems to Production](https://dev.to/msnmongare/understanding-azure-data-factory-pipelines-from-source-systems-to-production-20g3)
+- [AIUC-1: what the first AI agent standard means before you ship assistant access](https://dev.to/apogeewatcher/aiuc-1-what-the-first-ai-agent-standard-means-before-you-ship-assistant-access-59aa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
