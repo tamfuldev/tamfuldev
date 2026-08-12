@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ad-Hoc distribution vs TestFlight in React Native — a practical comparison](https://dev.to/hameedurrehman/ad-hoc-distribution-vs-testflight-in-react-native-a-practical-comparison-1nid)
-- [Choosing a Root Filesystem Format for Embedded Linux](https://dev.to/raghu_bharadwaj_404e60eb0c/choosing-a-root-filesystem-format-for-embedded-linux-3gnm)
-- [开源项目从 0 到 1：我用 2 周业余时间搭建了多平台发布系统](https://dev.to/wxfwxf911/kai-yuan-xiang-mu-cong-0-dao-1wo-yong-2-zhou-ye-yu-shi-jian-da-jian-liao-duo-ping-tai-fa-bu-xi-tong-2p4f)
-- [Ask-Docs Architecture: Semantic Embeddings or Keyword Search for a SaaS Help Center?](https://dev.to/silhouette72591483/ask-docs-architecture-semantic-embeddings-or-keyword-search-for-a-saas-help-center-1lp4)
-- [Writing Takes 40 Minutes, Publishing Takes 30 — How I Automated Multi-Platform Content Distribution](https://dev.to/wxfwxf911/writing-takes-40-minutes-publishing-takes-30-how-i-automated-multi-platform-content-distribution-3n55)
+- [Self-Hosted LLM on a $5 VPS in 2026: What Actually Works](https://dev.to/hostingsift/self-hosted-llm-on-a-5-vps-in-2026-what-actually-works-5d83)
+- [Under the Hood: Building an Interactive CSS Cubic Bezier Curve Designer](https://dev.to/kandz/under-the-hood-building-an-interactive-css-cubic-bezier-curve-designer-5bhj)
+- [# What Actually Happens When You Type a URL Into Your Browser?](https://dev.to/yathartsalil/-what-actually-happens-when-you-type-a-url-into-your-browser-5epk)
+- [Draft vs High: The OCR Quality Parameter Nobody Reads the Docs For](https://dev.to/pdf4me/draft-vs-high-the-ocr-quality-parameter-nobody-reads-the-docs-for-199f)
+- [A payment QR code is just twelve lines of text](https://dev.to/koraykoylu/a-payment-qr-code-is-just-twelve-lines-of-text-1bg4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
