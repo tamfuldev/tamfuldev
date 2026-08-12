@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Origin — What We Actually Know About Cursor’s New Git Hosting](https://dev.to/olucasleitedev/cursor-origin-what-we-actually-know-about-cursors-new-git-hosting-1g9c)
-- [Why adding a hub site won&#39;t fix cross-team search in Microsoft 365](https://dev.to/ikuki_k/why-adding-a-hub-site-wont-fix-cross-team-search-in-microsoft-365-4d24)
-- [edfcore - Parsing EDF EEG files in TypeScript](https://dev.to/sarthak_06679714d79dc1cf7/edfcore-parsing-edf-eeg-files-in-typescript-4p0j)
-- [Vector Databases: Types, Architecture, and Why They Power Modern Apps](https://dev.to/sameer_saleem/vector-databases-types-architecture-and-why-they-power-modern-apps-35m7)
-- [React Email Checks Need Abortable State](https://dev.to/ryanlee91/react-email-checks-need-abortable-state-36f2)
+- [A Case of When the Hunter Becomes the Hunted](https://dev.to/ugo_njubigbo/a-case-of-when-the-hunter-becomes-the-hunted-11c2)
+- [Keyboard Accessibility in Custom Components: Implementing and Debugging Focus Management](https://dev.to/mspk97/keyboard-accessibility-in-custom-components-implementing-and-debugging-focus-management-23j)
+- [AI Memory Is Becoming Portable. Continuity Still Isn&#39;t.](https://dev.to/badjoke-lab/ai-memory-is-becoming-portable-continuity-still-isnt-1bk6)
+- [Karpathy-Style Knowledge Stack, วิธีสร้างสมองที่สองด้วย Obsidian + Hermes + MiniMax M3](https://dev.to/sarantoon/karpathy-style-knowledge-stack-withiisraangsmngthiisngdwy-obsidian-hermes-minimax-m3-12hk)
+- [OpenAI buying Astral means uv now answers to a model company](https://dev.to/adioof/openai-buying-astral-means-uv-now-answers-to-a-model-company-20lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
