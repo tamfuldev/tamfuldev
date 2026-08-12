@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted LLM on a $5 VPS in 2026: What Actually Works](https://dev.to/hostingsift/self-hosted-llm-on-a-5-vps-in-2026-what-actually-works-5d83)
-- [Under the Hood: Building an Interactive CSS Cubic Bezier Curve Designer](https://dev.to/kandz/under-the-hood-building-an-interactive-css-cubic-bezier-curve-designer-5bhj)
-- [# What Actually Happens When You Type a URL Into Your Browser?](https://dev.to/yathartsalil/-what-actually-happens-when-you-type-a-url-into-your-browser-5epk)
-- [Draft vs High: The OCR Quality Parameter Nobody Reads the Docs For](https://dev.to/pdf4me/draft-vs-high-the-ocr-quality-parameter-nobody-reads-the-docs-for-199f)
-- [A payment QR code is just twelve lines of text](https://dev.to/koraykoylu/a-payment-qr-code-is-just-twelve-lines-of-text-1bg4)
+- [React useEventSource Hook: Server-Sent Events with Auto-Reconnect &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm)
+- [Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp)
+- [How I detected deleted YouTube videos using JSONL history diffing](https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc)
+- [API الخاص بك يزيل بيانات C2PA الوصفية: كيفية كشف ذلك بالاختبار](https://dev.to/yusuf_khalidd/api-lkhs-bk-yzyl-bynt-c2pa-lwsfy-kyfy-kshf-dhlk-blkhtbr-4cc8)
+- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 3](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-3-hcm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
