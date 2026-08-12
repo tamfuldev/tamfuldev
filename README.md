@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React useEventSource Hook: Server-Sent Events with Auto-Reconnect &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm)
-- [Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp)
-- [How I detected deleted YouTube videos using JSONL history diffing](https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc)
-- [API الخاص بك يزيل بيانات C2PA الوصفية: كيفية كشف ذلك بالاختبار](https://dev.to/yusuf_khalidd/api-lkhs-bk-yzyl-bynt-c2pa-lwsfy-kyfy-kshf-dhlk-blkhtbr-4cc8)
-- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 3](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-3-hcm)
+- [Cursor Origin — What We Actually Know About Cursor’s New Git Hosting](https://dev.to/olucasleitedev/cursor-origin-what-we-actually-know-about-cursors-new-git-hosting-1g9c)
+- [Why adding a hub site won&#39;t fix cross-team search in Microsoft 365](https://dev.to/ikuki_k/why-adding-a-hub-site-wont-fix-cross-team-search-in-microsoft-365-4d24)
+- [edfcore - Parsing EDF EEG files in TypeScript](https://dev.to/sarthak_06679714d79dc1cf7/edfcore-parsing-edf-eeg-files-in-typescript-4p0j)
+- [Vector Databases: Types, Architecture, and Why They Power Modern Apps](https://dev.to/sameer_saleem/vector-databases-types-architecture-and-why-they-power-modern-apps-35m7)
+- [React Email Checks Need Abortable State](https://dev.to/ryanlee91/react-email-checks-need-abortable-state-36f2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
