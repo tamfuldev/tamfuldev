@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ticketmaster Brings Real-Time Event Discovery and Checkout Paths to Google Gemini](https://dev.to/alifar/ticketmaster-brings-real-time-event-discovery-and-checkout-paths-to-google-gemini-p5)
-- [Backtracking: A Sudoku Quest Inspired by Inception](https://dev.to/timevolt/backtracking-a-sudoku-quest-inspired-by-inception-2jpf)
-- [A System Prompt You Can Actually Reuse](https://dev.to/multigrid/a-system-prompt-you-can-actually-reuse-4bck)
-- [System Prompt Extraction: Assume It&#39;s Public](https://dev.to/multigrid/system-prompt-extraction-assume-its-public-2p59)
-- [The Model Ignores Part of a Long System Prompt](https://dev.to/multigrid/the-model-ignores-part-of-a-long-system-prompt-o7p)
+- [Gemini and GetYourGuide: What a Potential Travel Booking Integration Would Require](https://dev.to/alifar/gemini-and-getyourguide-what-a-potential-travel-booking-integration-would-require-4nij)
+- [Your AI agent writes migrations that look safe. Here&#39;s what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7)
+- [Pandora Adds Gemini Voice Control for Music Playback Across Supported Devices](https://dev.to/alifar/pandora-adds-gemini-voice-control-for-music-playback-across-supported-devices-23np)
+- [Fever’s Event Catalog Shows What AI-Powered Experience Discovery Could Require](https://dev.to/alifar/fevers-event-catalog-shows-what-ai-powered-experience-discovery-could-require-4jcc)
+- [Detecting Drift in Infrastructure as Code](https://dev.to/vprachi360/detecting-drift-in-infrastructure-as-code-1ke5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
