@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Prompt Data Provenance: A Governance Framework for Community Sources](https://dev.to/alifar/ai-prompt-data-provenance-a-governance-framework-for-community-sources-9jc)
-- [Contract engineer vs. full-time hire: the real cost math](https://dev.to/zephico/contract-engineer-vs-full-time-hire-the-real-cost-math-4pdm)
-- [Medallion architecture on Databricks: what actually matters](https://dev.to/zephico/medallion-architecture-on-databricks-what-actually-matters-2nom)
-- [Deploy Grafana to Azure with Azure CLI : From Local Docker to Durable Dashboards](https://dev.to/khanh_nguyen_04b1205f5a91/deploy-grafana-to-azure-with-azure-cli-from-local-docker-to-durable-dashboards-5f0l)
-- [Treat Every `.gitlab-ci.yml` Edit as a Graph Change, Not a Text Diff](https://dev.to/gitlab_3188/treat-every-gitlab-ciyml-edit-as-a-graph-change-not-a-text-diff-4j7f)
+- [GitLab CE Comes Without a Runner: Why Nothing Executes Your Pipelines](https://dev.to/sepcy/gitlab-ce-comes-without-a-runner-why-nothing-executes-your-pipelines-17mp)
+- [Your AI Coding Agent Has Amnesia. Somehow You Became the Memory.](https://dev.to/vishesh_yadav_1dd30a79ab5/your-ai-coding-agent-has-amnesia-somehow-you-became-the-memory-2n5n)
+- [How I Built a Deal-Flow Signal From Public GitHub Data &lpar;219 Fundraises Backtested&rpar;](https://dev.to/maryan_k_bef6cf83fa64e809/how-i-built-a-deal-flow-signal-from-public-github-data-219-fundraises-backtested-467o)
+- [Auditing Token Budget Assumptions Baked Into Chunking Logic](https://dev.to/multigrid/auditing-token-budget-assumptions-baked-into-chunking-logic-1aif)
+- [Audio Tagging Models: Multi-Label Sound Classification Explained](https://dev.to/multigrid/audio-tagging-models-multi-label-sound-classification-explained-53mf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
