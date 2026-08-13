@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber Resilience Act: What Changes for Firmware and IoT](https://dev.to/pezzullo/cyber-resilience-act-what-changes-for-firmware-and-iot-1jl8)
-- [The Tragedy of the Clean-Handed Auditor](https://dev.to/linkbenjamin/the-tragedy-of-the-clean-handed-auditor-1253)
-- [El CSS no necesita más poder — necesita mejores límites](https://dev.to/ortizfranklindev/el-css-no-necesita-mas-poder-necesita-mejores-limites-6fm)
-- [CSS Doesn&#39;t Need More Power — It Needs Better Boundaries](https://dev.to/ortizfranklindev/css-doesnt-need-more-power-it-needs-better-boundaries-5c95)
-- [We built an all-in-one WordPress image toolkit. Here&#39;s the architecture behind it](https://dev.to/softminal/we-built-an-all-in-one-wordpress-image-toolkit-heres-the-architecture-behind-it-cl)
+- [Persisting Claude CLI Login Between Container Builds](https://dev.to/sukkergris/persisting-claude-cli-login-between-container-builds-55cl)
+- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
+- [You know what&#39;s worse than not being able to log in?](https://dev.to/ujja/you-know-whats-worse-than-not-being-able-to-log-in-5379)
+- [I built a free, no-signup AI text toolkit - here&#39;s the stack and why](https://dev.to/texttoolsai/i-built-a-free-no-signup-ai-text-toolkit-heres-the-stack-and-why-3dhk)
+- [Reclaiming Terabytes: How to Cut a Managed Database Bill Without Downtime](https://dev.to/muskan_bandta/reclaiming-terabytes-how-to-cut-a-managed-database-bill-without-downtime-3p56)
 <!-- BLOG-POST-LIST:END -->
 
 ---
