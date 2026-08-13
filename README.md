@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [73% of the Software Versions We Track Are Already End of Life](https://dev.to/endoflifeorg/73-of-the-software-versions-we-track-are-already-end-of-life-2e2o)
-- [Testing APIs without a cloud account: a local-first workflow](https://dev.to/usuario_rest/testing-apis-without-a-cloud-account-a-local-first-workflow-3bab)
-- [Demystifying JavaScript&#39;s Secret Weapon: The Event Loop Explained Simply](https://dev.to/saurav_tb_pandey/demystifying-javascripts-secret-weapon-the-event-loop-explained-simply-2pen)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4gk5)
-- [What a Simple Counter App Taught Me About JavaScript and Cloudflare Deployment](https://dev.to/yashmorefrontend/what-a-simple-counter-app-taught-me-about-javascript-and-cloudflare-deployment-303n)
+- [Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan)
+- [An AI agent read 13 invoices and blocked $1,411.25 in bad payments](https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi)
+- [From Idea to Deployed Bot in One Weekend: A No-Code-to-Python Journey](https://dev.to/aimigo_57e64d6aeaf6a67a02/from-idea-to-deployed-bot-in-one-weekend-a-no-code-to-python-journey-1dcc)
+- [Why a tumbling dice animation has to know the result before it ever starts spinning](https://dev.to/begoodtool/why-a-tumbling-dice-animation-has-to-know-the-result-before-it-ever-starts-spinning-2bk2)
+- [Your rate limiter is broken behind a tunnel — the X-Forwarded-For problem](https://dev.to/gokulnh/your-rate-limiter-is-broken-behind-a-tunnel-the-x-forwarded-for-problem-3923)
 <!-- BLOG-POST-LIST:END -->
 
 ---
