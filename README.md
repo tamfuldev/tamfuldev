@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tailscale&#39;s 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams](https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf)
-- [Building a Zero-Allocation, Nanosecond Distributed Rate Limiter in Go](https://dev.to/balramadan31/building-a-zero-allocation-nanosecond-distributed-rate-limiter-in-go-312)
-- [DNS Propagation Explained: Why DNS Changes Take Time and What Actually Happens Behind the Scenes](https://dev.to/anik_sikder_313/dns-propagation-explained-why-dns-changes-take-time-and-what-actually-happens-behind-the-scenes-1koj)
-- [From Intel Mac to Apple Silicon: How I Built Universal Third-Party Libraries for a Qt macOS Application](https://dev.to/nehachauhan18/from-intel-mac-to-apple-silicon-how-i-built-universal-third-party-libraries-for-a-qt-macos-1moo)
-- [Hybrid Retrieval v2: Qwen Embeddings, BM25, and RRF with a FastEmbed Reranker](https://dev.to/futhgar/hybrid-retrieval-v2-qwen-embeddings-bm25-and-rrf-with-a-fastembed-reranker-1702)
+- [How Should You Structure a Local Business Website for AI Search, Local SEO, and Usability?](https://dev.to/oleksandrkoliesnikov/how-should-you-structure-a-local-business-website-for-ai-search-local-seo-and-usability-47lm)
+- [GEO is the new SEO — and most sites are failing at it](https://dev.to/krutika_galvankar/geo-is-the-new-seo-and-most-sites-are-failing-at-it-1bmp)
+- [Verify AI Token Cost Cuts with MgntUtils Stacktrace Filtering on your own data — Before You Touch Production](https://dev.to/mgantman/verify-ai-token-cost-cuts-with-mgntutils-stacktrace-filtering-on-your-own-data-before-you-touch-k96)
+- [Google AI Overviews Are Changing SEO KPIs as Clicks Decline in Search](https://dev.to/alifar/google-ai-overviews-are-changing-seo-kpis-as-clicks-decline-in-search-448f)
+- [Building a Multi-Agent AI Pipeline That Ships: LangGraph, RAG, and Evals That Matter](https://dev.to/manasviboineypally/building-a-multi-agent-ai-pipeline-that-ships-langgraph-rag-and-evals-that-matter-32db)
 <!-- BLOG-POST-LIST:END -->
 
 ---
