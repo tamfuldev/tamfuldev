@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan)
-- [An AI agent read 13 invoices and blocked $1,411.25 in bad payments](https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi)
-- [From Idea to Deployed Bot in One Weekend: A No-Code-to-Python Journey](https://dev.to/aimigo_57e64d6aeaf6a67a02/from-idea-to-deployed-bot-in-one-weekend-a-no-code-to-python-journey-1dcc)
-- [Why a tumbling dice animation has to know the result before it ever starts spinning](https://dev.to/begoodtool/why-a-tumbling-dice-animation-has-to-know-the-result-before-it-ever-starts-spinning-2bk2)
-- [Your rate limiter is broken behind a tunnel — the X-Forwarded-For problem](https://dev.to/gokulnh/your-rate-limiter-is-broken-behind-a-tunnel-the-x-forwarded-for-problem-3923)
+- [Greedy Algorithms: Choosing Your Path Like Neo in The Matrix](https://dev.to/timevolt/greedy-algorithms-choosing-your-path-like-neo-in-the-matrix-2a40)
+- [Как устроена информационная система: проектируем простую систему учета заявок](https://dev.to/dmitrii_2223/kak-ustroiena-informatsionnaia-sistiema-proiektiruiem-prostuiu-sistiemu-uchieta-zaiavok-5hhf)
+- [&quot;Do Not Duplicate the Character&quot; Duplicated the Character](https://dev.to/guaiss/do-not-duplicate-the-character-3egb)
+- [Your Reader Cannot Be Stricter Than Your Schema](https://dev.to/iqtechsolutions/your-reader-cannot-be-stricter-than-your-schema-3edp)
+- [I said my tool supported multiple instances. A stranger running 15 of them filed three bugs. All three were right.](https://dev.to/achiya-automation/i-said-my-tool-supported-multiple-instances-a-stranger-running-15-of-them-filed-three-bugs-all-3egi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
