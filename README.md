@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Should You Structure a Local Business Website for AI Search, Local SEO, and Usability?](https://dev.to/oleksandrkoliesnikov/how-should-you-structure-a-local-business-website-for-ai-search-local-seo-and-usability-47lm)
-- [GEO is the new SEO — and most sites are failing at it](https://dev.to/krutika_galvankar/geo-is-the-new-seo-and-most-sites-are-failing-at-it-1bmp)
-- [Verify AI Token Cost Cuts with MgntUtils Stacktrace Filtering on your own data — Before You Touch Production](https://dev.to/mgantman/verify-ai-token-cost-cuts-with-mgntutils-stacktrace-filtering-on-your-own-data-before-you-touch-k96)
-- [Google AI Overviews Are Changing SEO KPIs as Clicks Decline in Search](https://dev.to/alifar/google-ai-overviews-are-changing-seo-kpis-as-clicks-decline-in-search-448f)
-- [Building a Multi-Agent AI Pipeline That Ships: LangGraph, RAG, and Evals That Matter](https://dev.to/manasviboineypally/building-a-multi-agent-ai-pipeline-that-ships-langgraph-rag-and-evals-that-matter-32db)
+- [To keep the AI from breaking my design, it only writes JSON. I built that out for real, and the JSON turned into code](https://dev.to/mxhlix/to-keep-the-ai-from-breaking-my-design-it-only-writes-json-i-built-that-out-for-real-and-the-318h)
+- [I built TraceMotive: a local-first debugger for AI agent execution](https://dev.to/ruca_ai/i-built-tracemotive-a-local-first-debugger-for-ai-agent-execution-2bh1)
+- [OpenAI and Cerebras Bring GPT-5.6 Sol Ultrafast to Enterprise Inference](https://dev.to/alifar/openai-and-cerebras-bring-gpt-56-sol-ultrafast-to-enterprise-inference-190p)
+- [Common Web Application Technologies](https://dev.to/zeroprotocol-sec/common-web-application-technologies-2cn5)
+- [Holehe Alternative in 2026: Modern OSINT Email &amp; Username Intelligence with user-scanner](https://dev.to/the_king89/holehe-alternative-in-2026-modern-osint-email-username-intelligence-with-user-scanner-4m1o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
