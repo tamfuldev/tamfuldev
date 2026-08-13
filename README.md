@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Comparing AI Coding Tools by Autocomplete Quality](https://dev.to/ugliai/stop-comparing-ai-coding-tools-by-autocomplete-quality-2f8a)
-- [My MCP Tool&#39;s Empty-Payload Guard Checks Whether You Passed a Field. It Never Checked Whether the Field Would Actually Change Anything.](https://dev.to/enjoy_kumawat/my-mcp-tools-empty-payload-guard-checks-whether-you-passed-a-field-it-never-checked-whether-the-1fi2)
-- [Route by Task, Not by Hype: A Budget-Aware Harness for Trying New Coding Models](https://dev.to/apppro_4800/route-by-task-not-by-hype-a-budget-aware-harness-for-trying-new-coding-models-409n)
-- [The Case of the Lying Clock: 5 Vue Mysteries Solved](https://dev.to/kickbuttowski80/the-case-of-the-lying-clock-5-vue-mysteries-solved-1e99)
-- [I Can&#39;t Really Code. I Built an Indexing Monitor With Claude Anyway.](https://dev.to/articlefeed/i-cant-really-code-i-built-an-indexing-monitor-with-claude-anyway-ffn)
+- [73% of the Software Versions We Track Are Already End of Life](https://dev.to/endoflifeorg/73-of-the-software-versions-we-track-are-already-end-of-life-2e2o)
+- [Testing APIs without a cloud account: a local-first workflow](https://dev.to/usuario_rest/testing-apis-without-a-cloud-account-a-local-first-workflow-3bab)
+- [Demystifying JavaScript&#39;s Secret Weapon: The Event Loop Explained Simply](https://dev.to/saurav_tb_pandey/demystifying-javascripts-secret-weapon-the-event-loop-explained-simply-2pen)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4gk5)
+- [What a Simple Counter App Taught Me About JavaScript and Cloudflare Deployment](https://dev.to/yashmorefrontend/what-a-simple-counter-app-taught-me-about-javascript-and-cloudflare-deployment-303n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
