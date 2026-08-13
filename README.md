@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Grapple Dojo](https://dev.to/theodore_p_9749548f7dd03/grapple-dojo-26a)
-- [Classify an IP by ASN Type: Hosting, Business, ISP](https://dev.to/abdullah_afzal/classify-an-ip-by-asn-type-hosting-business-isp-1c8m)
-- [What Is the Role of the `@SpringBootApplication` Annotation?](https://dev.to/realnamehidden1_61/what-is-the-role-of-the-springbootapplication-annotation-e49)
-- [Laravel Eloquent ORM &lpar;Object-Relational Mapper&rpar; Relationships](https://dev.to/mohamed_fakhr_eldin/laravel-eloquent-orm-object-relational-mapper-relationships-2aea)
-- [Building Netra: an edge-AI camera that tracks you on its own](https://dev.to/dev-into-space/building-netra-an-edge-ai-camera-that-tracks-you-on-its-own-2khb)
+- [Cyber Resilience Act: What Changes for Firmware and IoT](https://dev.to/pezzullo/cyber-resilience-act-what-changes-for-firmware-and-iot-1jl8)
+- [The Tragedy of the Clean-Handed Auditor](https://dev.to/linkbenjamin/the-tragedy-of-the-clean-handed-auditor-1253)
+- [El CSS no necesita más poder — necesita mejores límites](https://dev.to/ortizfranklindev/el-css-no-necesita-mas-poder-necesita-mejores-limites-6fm)
+- [CSS Doesn&#39;t Need More Power — It Needs Better Boundaries](https://dev.to/ortizfranklindev/css-doesnt-need-more-power-it-needs-better-boundaries-5c95)
+- [We built an all-in-one WordPress image toolkit. Here&#39;s the architecture behind it](https://dev.to/softminal/we-built-an-all-in-one-wordpress-image-toolkit-heres-the-architecture-behind-it-cl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
