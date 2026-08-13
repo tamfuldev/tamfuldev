@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Direct Providers vs Portable Contracts — Ask-Your-Docs Semantic Search for SaaS RAG](https://dev.to/irvincole5861/direct-providers-vs-portable-contracts-ask-your-docs-semantic-search-for-saas-rag-1n3d)
-- [Path Traversal](https://dev.to/hoax3/path-traversal-388p)
-- [Why I Chose PDF RAG Chunking and Metadata for Catalog Semantic Search](https://dev.to/zylahmorn61835/why-i-chose-pdf-rag-chunking-and-metadata-for-catalog-semantic-search-4f90)
-- [SPF, DKIM, and DMARC together — why the missing DMARC record was blocking registration emails](https://dev.to/susumun/spf-dkim-and-dmarc-together-why-the-missing-dmarc-record-was-blocking-registration-emails-3a49)
-- [Docker no dia a dia - comandos essenciais e primeiros containers reais](https://dev.to/apsis-cc/docker-no-dia-a-dia-comandos-essenciais-e-primeiros-containers-reais-5cd9)
+- [Stop Comparing AI Coding Tools by Autocomplete Quality](https://dev.to/ugliai/stop-comparing-ai-coding-tools-by-autocomplete-quality-2f8a)
+- [My MCP Tool&#39;s Empty-Payload Guard Checks Whether You Passed a Field. It Never Checked Whether the Field Would Actually Change Anything.](https://dev.to/enjoy_kumawat/my-mcp-tools-empty-payload-guard-checks-whether-you-passed-a-field-it-never-checked-whether-the-1fi2)
+- [Route by Task, Not by Hype: A Budget-Aware Harness for Trying New Coding Models](https://dev.to/apppro_4800/route-by-task-not-by-hype-a-budget-aware-harness-for-trying-new-coding-models-409n)
+- [The Case of the Lying Clock: 5 Vue Mysteries Solved](https://dev.to/kickbuttowski80/the-case-of-the-lying-clock-5-vue-mysteries-solved-1e99)
+- [I Can&#39;t Really Code. I Built an Indexing Monitor With Claude Anyway.](https://dev.to/articlefeed/i-cant-really-code-i-built-an-indexing-monitor-with-claude-anyway-ffn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
