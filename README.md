@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Two-Model Regression Harness for Evaluating a New Low-Cost Model Release](https://dev.to/apppro_5726/a-two-model-regression-harness-for-evaluating-a-new-low-cost-model-release-47ga)
-- [Our checker did not catch the wrong number. It enforced it.](https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7)
-- [A course generator with a quality gate: five ADK agents on Cloud Run](https://dev.to/tommy_leonhardsen_81d1f4e/a-course-generator-with-a-quality-gate-five-adk-agents-on-cloud-run-hnm)
-- [A No-Cost Harness for Comparing Free Coding-Agent Models and Runtimes](https://dev.to/applab_743/a-no-cost-harness-for-comparing-free-coding-agent-models-and-runtimes-1ec0)
-- [React Email Checks Need One Source of Truth](https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn)
+- [How to Give AI Better Evidence: Lessons From a Security Investigation That Almost Failed](https://dev.to/vn_tunl_09a36fcbda701/how-to-give-ai-better-evidence-lessons-from-a-security-investigation-that-almost-failed-50ke)
+- [Notes to Self: The Interview Between an Issue and a Spec](https://dev.to/virorum/notes-to-self-the-interview-between-an-issue-and-a-spec-4phc)
+- [My Job Hasn&#39;t Changed. My Day Has.](https://dev.to/jensreynderstech/my-job-hasnt-changed-my-day-has-1ci3)
+- [One Ciphertext, Two Valid Plaintexts: Why AEAD Needs Key Commitment](https://dev.to/havenmessenger/one-ciphertext-two-valid-plaintexts-why-aead-needs-key-commitment-l8k)
+- [Before You Merge AI-Generated Code, Ask These 12 Questions](https://dev.to/codzee_io/before-you-merge-ai-generated-code-ask-these-12-questions-14p3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
