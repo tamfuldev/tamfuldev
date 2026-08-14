@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Give AI Better Evidence: Lessons From a Security Investigation That Almost Failed](https://dev.to/vn_tunl_09a36fcbda701/how-to-give-ai-better-evidence-lessons-from-a-security-investigation-that-almost-failed-50ke)
-- [Notes to Self: The Interview Between an Issue and a Spec](https://dev.to/virorum/notes-to-self-the-interview-between-an-issue-and-a-spec-4phc)
-- [My Job Hasn&#39;t Changed. My Day Has.](https://dev.to/jensreynderstech/my-job-hasnt-changed-my-day-has-1ci3)
-- [One Ciphertext, Two Valid Plaintexts: Why AEAD Needs Key Commitment](https://dev.to/havenmessenger/one-ciphertext-two-valid-plaintexts-why-aead-needs-key-commitment-l8k)
-- [Before You Merge AI-Generated Code, Ask These 12 Questions](https://dev.to/codzee_io/before-you-merge-ai-generated-code-ask-these-12-questions-14p3)
+- [Looker&#39;s Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8)
+- [Your false positives never complain. So how do you find them?](https://dev.to/layercall/your-false-positives-never-complain-so-how-do-you-find-them-111n)
+- [CrawlForge v5.0.0: Security, Correctness, MCP Spec](https://dev.to/simon_crawlforge_dev/crawlforge-v500-security-correctness-mcp-spec-3i0c)
+- [I ship an Ed25519 public key in my JavaScript bundle and call it a licence](https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h)
+- [Tô construindo um sistema de telemetria offline pra colheitadeira ficar &quot;esperta&quot; mesmo sem internet no campo — feedback é bem-vindo](https://dev.to/paola_machado_82a5bea2b01/to-construindo-um-sistema-de-telemetria-offline-pra-colheitadeira-ficar-esperta-mesmo-sem-1h0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
