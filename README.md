@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows](https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp)
-- [A Line of Documentation Was Acting as a Global Config Flag](https://dev.to/lexosi/a-line-of-documentation-was-acting-as-a-global-config-flag-3635)
-- [Interesting article](https://dev.to/anthonymax/interesting-article-5641)
-- [Implied vs Realized Volatility: Reading the Gap](https://dev.to/shaktitiwari/implied-vs-realized-volatility-reading-the-gap-3ngi)
-- [La Abuela — Comfort Food from Madrid](https://dev.to/migbolivar/la-abuela-comfort-food-from-madrid-4h6f)
+- [Google Gemini Expands AI Content Verification With SynthID Video Checks](https://dev.to/alifar/google-gemini-expands-ai-content-verification-with-synthid-video-checks-lb2)
+- [Building an AI WhatsApp Lead Assistant for Real Estate: What I Learned](https://dev.to/vaxyro/building-an-ai-whatsapp-lead-assistant-for-real-estate-what-i-learned-3oc1)
+- [Your coding agent can read git log. It can&#39;t read the four things you tried that didn&#39;t work.](https://dev.to/yaminbakoh4/your-coding-agent-can-read-git-log-it-cant-read-the-four-things-you-tried-that-didnt-work-1bkm)
+- [Building a Custom AI PDF Reader in Python: From a Jupyter Prototype to Tested Modules](https://dev.to/kavindu_kp/building-a-custom-ai-pdf-reader-in-python-from-a-jupyter-prototype-to-tested-modules-58ld)
+- [Progress Update: I Turned My Python PDF Prototype into a Desktop Research Reader](https://dev.to/kavindu_kp/progress-update-i-turned-my-python-pdf-prototype-into-a-desktop-research-reader-1off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
