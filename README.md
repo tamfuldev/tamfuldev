@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Resuming email verification after the app is closed — the pending_email state that prevents re-sending](https://dev.to/susumun/resuming-email-verification-after-the-app-is-closed-the-pendingemail-state-that-prevents-55g8)
-- [What It Really Takes to Get YouTube Live and TikTok Publishing Approved](https://dev.to/robert_saylor_c9db74549e2/what-it-really-takes-to-get-youtube-live-and-tiktok-publishing-approved-en)
-- [Why SaaS AI Visibility May Depend on Community Signals, Citations, and Governance](https://dev.to/alifar/why-saas-ai-visibility-may-depend-on-community-signals-citations-and-governance-1n03)
-- [I Built My First Machine Learning API — Here&#39;s Everything I Learned](https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7)
-- [How I Actually Use Claude as a Backend Engineer 🤖](https://dev.to/gerale30/how-i-actually-use-claude-as-a-backend-engineer-24fe)
+- [I filled my agent&#39;s wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple)
+- [loveyourclanker.org](https://dev.to/javascriptmick/loveyourclankerorg-4ap4)
+- [Moving Scheduled LLM Curation from Cloud APIs to Local Models](https://dev.to/futhgar/moving-scheduled-llm-curation-from-cloud-apis-to-local-models-4i69)
+- [A Floor Beneath Every Person: Design Choices in the First Social Resource Floor Blueprint](https://dev.to/dobybaxter127/a-floor-beneath-every-person-design-choices-in-the-first-social-resource-floor-blueprint-2hb5)
+- [Upload Moderation: Node.js NSFW, Violence, Hate-Symbol Classification + JSON Fallback](https://dev.to/rivenor85/upload-moderation-nodejs-nsfw-violence-hate-symbol-classification-json-fallback-2fga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
