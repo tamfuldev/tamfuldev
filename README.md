@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Workflow Orchestration: How AI Agents Can Work Like Your Engineering Team](https://dev.to/jps27cse/ai-workflow-orchestration-how-ai-agents-can-work-like-your-engineering-team-286n)
-- [Breach monitoring from cron: no API key, no signup, just curl and jq](https://dev.to/devaonbreaches/breach-monitoring-from-cron-no-api-key-no-signup-just-curl-and-jq-2jh1)
-- [Even With The Figma MCP, AI Eyeballs Your Design and Ships Pixel-Wrong UI](https://dev.to/borisgri/even-with-the-figma-mcp-ai-eyeballs-your-design-and-ships-pixel-wrong-ui-5164)
-- [We Automated RCAs. The Real Value Was the Big Picture.](https://dev.to/borisgri/we-made-bug-tickets-write-their-own-root-cause-analysis-the-value-wasnt-the-rcas-it-was-what-5341)
-- [My workstation was faking sleep: how a $15 meter caught 163 watts of waste](https://dev.to/vinodgorla/my-workstation-was-faking-sleep-how-a-15-meter-caught-163-watts-of-waste-4edh)
+- [Three ETL failure patterns I now write into the output file, not just the logs](https://dev.to/morinaga/three-etl-failure-patterns-i-now-write-into-the-output-file-not-just-the-logs-4in0)
+- [What I learned about repeat-and-vote sampling for non-deterministic search results](https://dev.to/morinaga/what-i-learned-about-repeat-and-vote-sampling-for-non-deterministic-search-results-18d7)
+- [Rate Limiting in Laravel and PHP — How to Stop Brute Force Before It Starts](https://dev.to/kriosa/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-4241)
+- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 4](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-4-367e)
+- [200 OK Is Not Enough: Why Bot-Protected Sites Still Return Bad Data](https://dev.to/promptcloud_services/200-ok-is-not-enough-why-bot-protected-sites-still-return-bad-data-4bdk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
