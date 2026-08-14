@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini Expands AI Content Verification With SynthID Video Checks](https://dev.to/alifar/google-gemini-expands-ai-content-verification-with-synthid-video-checks-lb2)
-- [Building an AI WhatsApp Lead Assistant for Real Estate: What I Learned](https://dev.to/vaxyro/building-an-ai-whatsapp-lead-assistant-for-real-estate-what-i-learned-3oc1)
-- [Your coding agent can read git log. It can&#39;t read the four things you tried that didn&#39;t work.](https://dev.to/yaminbakoh4/your-coding-agent-can-read-git-log-it-cant-read-the-four-things-you-tried-that-didnt-work-1bkm)
-- [Building a Custom AI PDF Reader in Python: From a Jupyter Prototype to Tested Modules](https://dev.to/kavindu_kp/building-a-custom-ai-pdf-reader-in-python-from-a-jupyter-prototype-to-tested-modules-58ld)
-- [Progress Update: I Turned My Python PDF Prototype into a Desktop Research Reader](https://dev.to/kavindu_kp/progress-update-i-turned-my-python-pdf-prototype-into-a-desktop-research-reader-1off)
+- [[Boost]](https://dev.to/anthonymax/-2f2j)
+- [Why GPT-5.6 Luna High Is My Default for Agentic Engineering](https://dev.to/ahmed_nafies_3a55c907115c/why-gpt-56-luna-high-is-my-default-for-agentic-engineering-4e04)
+- [Using RLM Cut&#39;s Token Costs by 96% for LLM](https://dev.to/rmohitjoe/using-rlm-cuts-token-costs-by-96-for-llm-29j0)
+- [🤖 The Day My First AI Agent Got Stuck &lpar;And How I Refactored It&rpar;](https://dev.to/anmolpawar_/the-day-my-first-ai-agent-got-stuck-and-how-i-refactored-it-44e2)
+- [保护 API Key 和其他应用密钥](https://dev.to/yo1995/bao-hu-api-key-he-qi-ta-ying-yong-mi-yao-45hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
