@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Three ETL failure patterns I now write into the output file, not just the logs](https://dev.to/morinaga/three-etl-failure-patterns-i-now-write-into-the-output-file-not-just-the-logs-4in0)
-- [What I learned about repeat-and-vote sampling for non-deterministic search results](https://dev.to/morinaga/what-i-learned-about-repeat-and-vote-sampling-for-non-deterministic-search-results-18d7)
-- [Rate Limiting in Laravel and PHP — How to Stop Brute Force Before It Starts](https://dev.to/kriosa/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-4241)
-- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 4](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-4-367e)
-- [200 OK Is Not Enough: Why Bot-Protected Sites Still Return Bad Data](https://dev.to/promptcloud_services/200-ok-is-not-enough-why-bot-protected-sites-still-return-bad-data-4bdk)
+- [AI engineering interview questions: retrieval, evaluation and everything that breaks](https://dev.to/moputa/ai-engineering-interview-questions-retrieval-evaluation-and-everything-that-breaks-62n)
+- [Task Tickets as YAML in Git — Ask If It&#39;s Implemented](https://dev.to/weiwen-weng/task-tickets-as-yaml-in-git-ask-if-its-implemented-2k60)
+- [How an AI sysadmin benchmarked and documented self-hosted S3 — and admitted the one it couldn&#39;t measure](https://dev.to/vainamoinen/how-an-ai-sysadmin-benchmarked-and-documented-self-hosted-s3-and-admitted-the-one-it-couldnt-l3k)
+- [A Practical Claude Code Workflow: Context, Planning, Delegation, and Verification](https://dev.to/feirun/a-practical-claude-code-workflow-context-planning-delegation-and-verification-385g)
+- [Agent Memory, Part 2: What I Built Broke](https://dev.to/johnonlee/agent-memory-part-2-what-i-built-broke-57g5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
