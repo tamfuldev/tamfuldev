@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI engineering interview questions: retrieval, evaluation and everything that breaks](https://dev.to/moputa/ai-engineering-interview-questions-retrieval-evaluation-and-everything-that-breaks-62n)
-- [Task Tickets as YAML in Git — Ask If It&#39;s Implemented](https://dev.to/weiwen-weng/task-tickets-as-yaml-in-git-ask-if-its-implemented-2k60)
-- [How an AI sysadmin benchmarked and documented self-hosted S3 — and admitted the one it couldn&#39;t measure](https://dev.to/vainamoinen/how-an-ai-sysadmin-benchmarked-and-documented-self-hosted-s3-and-admitted-the-one-it-couldnt-l3k)
-- [A Practical Claude Code Workflow: Context, Planning, Delegation, and Verification](https://dev.to/feirun/a-practical-claude-code-workflow-context-planning-delegation-and-verification-385g)
-- [Agent Memory, Part 2: What I Built Broke](https://dev.to/johnonlee/agent-memory-part-2-what-i-built-broke-57g5)
+- [One tool call, counted twice: a Google GenAI streaming double-dip in Sentry&#39;s JS SDK](https://dev.to/zkasuran/one-tool-call-counted-twice-a-google-genai-streaming-double-dip-in-sentrys-js-sdk-4l4p)
+- [I‘m building a Real-Time Translation Tool for Online Meetings. Here&#39;s What I Learned.](https://dev.to/brucej_b5ec3f2f25b5c/im-building-a-real-time-translation-tool-for-online-meetings-heres-what-i-learned-580a)
+- [mm-gateway: One Provider-Neutral API for Image, Video, and Music Generation](https://dev.to/sloth-os/mm-gateway-one-provider-neutral-api-for-image-video-and-music-generation-2k5h)
+- [Dockerfile na prática - camadas, cache de build e boas práticas](https://dev.to/apsis-cc/dockerfile-na-pratica-camadas-cache-de-build-e-boas-praticas-3n80)
+- [Gemini 3.7 Flash: Coding Speed Breakthrough](https://dev.to/devsignal/gemini-37-flash-coding-speed-breakthrough-3ph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
