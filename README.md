@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [interlace.sh: Why We Built a Unified Abstraction](https://dev.to/5c4989ca297ed/interlacesh-why-we-built-a-unified-abstraction-c66)
-- [Why console.log Isn&#39;t Enough When Building AI Agents](https://dev.to/raju_dandigam/why-consolelog-isnt-enough-when-building-ai-agents-17o5)
-- [How to Automatically Secure Your Livewire 4 Components From Client-Side Tampering](https://dev.to/janecodelife/how-to-automatically-secure-your-livewire-4-components-from-client-side-tampering-5c77)
-- [Why Making AI Answer Faster Is Worth $1.5 Billion](https://dev.to/alexanderkopylkov/why-making-ai-answer-faster-is-worth-15-billion-1ph9)
-- [SkipLink: A Python Tool That Bypasses Ad-Driven URL Shorteners in One Click](https://dev.to/akashmark8cloud/skiplink-a-python-tool-that-bypasses-ad-driven-url-shorteners-in-one-click-111f)
+- [Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13](https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7)
+- [I Reverse-Engineered a Restaurant ERP With No Documentation. Here&#39;s What It Taught Me About Being a Self-Taught Developer.](https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e)
+- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh)
+- [Building a Zero-Cloud Android Service: Privacy by Architecture](https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml)
+- [The Fix Was Committed. The Old Value Kept Running.](https://dev.to/hexisteme/the-fix-was-committed-the-old-value-kept-running-36bf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
