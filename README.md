@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [You added an MCP server to your AI assistant. Did you check what it can touch?](https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399)
-- [The IR Is a sqlglot AST](https://dev.to/5c4989ca297ed/the-ir-is-a-sqlglot-ast-e40)
-- [Beyond the Demo: Building Production-Ready AI Agents — A Guide to Benchmarking, Cost Optimization, and Tooling in 2026](https://dev.to/tamizuddin/beyond-the-demo-building-production-ready-ai-agents-a-guide-to-benchmarking-cost-optimization-47le)
-- [May the STAR Be With You: Mastering Behavioural Interviews](https://dev.to/timevolt/may-the-star-be-with-you-mastering-behavioural-interviews-3m3k)
-- [Building NEONPLUS: My Journey Through the 10 Days of AI Voice Agents Challenge](https://dev.to/sushant_kumarlucky_ffbcb/building-neonplus-my-journey-through-the-10-days-of-ai-voice-agents-challenge-50lh)
+- [A Python Model Is Just a Function](https://dev.to/5c4989ca297ed/a-python-model-is-just-a-function-4gk8)
+- [8051 What does SDCC do part 3 ?](https://dev.to/ddupard/8051-what-does-sdcc-do-part-3--3111)
+- [OpenAI Expands ChatGPT Ads With CPC Bidding and Contextual Targeting](https://dev.to/alifar/openai-expands-chatgpt-ads-with-cpc-bidding-and-contextual-targeting-3e2l)
+- [Amazon Q Developer Is Closed to New Signups. Our Review Didn&#39;t Say So.](https://dev.to/ramdai_bista/amazon-q-developer-is-closed-to-new-signups-our-review-didnt-say-so-m4h)
+- [Shiksha AI &amp; Mitra AI: Real-Time Spoken English &amp; Roleplay Voice Agent for Bharat](https://dev.to/ilhan_mansij_jidda/shiksha-ai-mitra-ai-real-time-spoken-english-roleplay-voice-agent-for-bharat-4n6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
