@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem](https://dev.to/gouranga-das-khulna/cap-theorem-539k)
-- [Your Phone Number Can Be Stolen Without Anyone Touching Your Phone](https://dev.to/shortlivedage/your-phone-number-can-be-stolen-without-anyone-touching-your-phone-1fb7)
-- [I Almost Used AI to Classify User Input. Simple Rules Worked Better](https://dev.to/warrenshi/i-almost-used-ai-to-classify-user-input-simple-rules-worked-better-40c1)
-- [Production Experiment Cost Attribution with Feature Flags and Incident Rollback](https://dev.to/jasperflint6947/production-experiment-cost-attribution-with-feature-flags-and-incident-rollback-1k6m)
-- [Meu primeiro perfil no GitHub](https://dev.to/cecilia_/meu-primeiro-perfil-no-github-55ko)
+- [Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳](https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6)
+- [Stop Wasting Free Model Calls on Trivial Diffs: A Three-Tier Escalation Ladder](https://dev.to/gitlab_3188/stop-wasting-free-model-calls-on-trivial-diffs-a-three-tier-escalation-ladder-5132)
+- [Rasa — Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
+- [Rasa — Designing a Landing Page That Feels Like Opening a Food Journal](https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9)
+- [Terraform: The Future of Cloud Infrastructure Automation ☁️🚀](https://dev.to/yash_sonawane25/terraform-the-future-of-cloud-infrastructure-automation-mbj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
