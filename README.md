@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes](https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60)
-- [Demlik — a Turkish Tea House Landing Page](https://dev.to/melik_bynk/demlik-a-turkish-tea-house-landing-page-g6a)
-- [LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search](https://dev.to/ultrontheai/liorandb-typescript-series-5-cursors-query-shaping-and-full-text-search-57pk)
-- [LioranDB TypeScript Series #4: Type-Safe CRUD with Databases and Collections](https://dev.to/ultrontheai/liorandb-typescript-series-4-type-safe-crud-with-databases-and-collections-562f)
-- [LioranDB TypeScript Series #3: Connection Strings, Transports and Client Lifecycle](https://dev.to/ultrontheai/liorandb-typescript-series-3-connection-strings-transports-and-client-lifecycle-cjf)
+- [🍬 Candy Logger v2.1.0 - The Correctness Release](https://dev.to/shehari007/candy-logger-v210-the-correctness-release-kbn)
+- [Adding Speech Therapy to a Live Directory: The Read-Path Allowlist Pattern at Special Needs Care Network](https://dev.to/member_5432fd74/adding-speech-therapy-to-a-live-directory-the-read-path-allowlist-pattern-at-special-needs-care-56o6)
+- [Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites](https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113)
+- [How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B &amp; EU AI Act Cryptographic Attestations](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
+- [A rebrand is not feature work](https://dev.to/tony-rowan/a-rebrand-is-not-feature-work-1162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
