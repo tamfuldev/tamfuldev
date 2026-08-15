@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Midnight Providers: What They Are, Where They Live, and Why We Use Them](https://dev.to/midnight-aliit/midnight-providers-what-they-are-where-they-live-and-why-we-use-them-2nli)
-- [Discord Giveaway Bot](https://dev.to/musiker15/discord-giveaway-bot-kbd)
-- [Discord Ticket Bot](https://dev.to/musiker15/discord-ticket-bot-4ean)
-- [Kubernetes for Beginners: From Local to Production – May the Pods Be With You](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-may-the-pods-be-with-you-4i4n)
-- [My evidence pipeline was saving Cloudflare block pages as evidence](https://dev.to/renga154/my-evidence-pipeline-was-saving-cloudflare-block-pages-as-evidence-25ml)
+- [How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents](https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd)
+- [Why logrotate silently does nothing and how to actually debug it](https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd)
+- [The AI Crawler Checklist: Why the Model Never Even Read Your Page](https://dev.to/stefan_vasile_1ad9799e929/the-ai-crawler-checklist-why-the-model-never-even-read-your-page-5en5)
+- [Exporting ANTHROPIC_BASE_URL does not reach the Claude Code panel in VSCode](https://dev.to/vinhnguyenthanhdn/exporting-anthropicbaseurl-does-not-reach-the-claude-code-panel-in-vscode-49n9)
+- [Building MoneyBuddy: From a Simple Voice Agent to a Multi-Agent AI System in 10 Days](https://dev.to/gowtham_m_2c7f2a0ed2a274b/building-moneybuddy-from-a-simple-voice-agent-to-a-multi-agent-ai-system-in-10-days-2044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
