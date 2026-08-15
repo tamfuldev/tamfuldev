@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13](https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7)
-- [I Reverse-Engineered a Restaurant ERP With No Documentation. Here&#39;s What It Taught Me About Being a Self-Taught Developer.](https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e)
-- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh)
-- [Building a Zero-Cloud Android Service: Privacy by Architecture](https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml)
-- [The Fix Was Committed. The Old Value Kept Running.](https://dev.to/hexisteme/the-fix-was-committed-the-old-value-kept-running-36bf)
+- [CAP Theorem](https://dev.to/gouranga-das-khulna/cap-theorem-539k)
+- [Your Phone Number Can Be Stolen Without Anyone Touching Your Phone](https://dev.to/shortlivedage/your-phone-number-can-be-stolen-without-anyone-touching-your-phone-1fb7)
+- [I Almost Used AI to Classify User Input. Simple Rules Worked Better](https://dev.to/warrenshi/i-almost-used-ai-to-classify-user-input-simple-rules-worked-better-40c1)
+- [Production Experiment Cost Attribution with Feature Flags and Incident Rollback](https://dev.to/jasperflint6947/production-experiment-cost-attribution-with-feature-flags-and-incident-rollback-1k6m)
+- [Meu primeiro perfil no GitHub](https://dev.to/cecilia_/meu-primeiro-perfil-no-github-55ko)
 <!-- BLOG-POST-LIST:END -->
 
 ---
