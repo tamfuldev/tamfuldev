@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5gl9)
-- [Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs](https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02)
-- [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
-- [How PDF &amp; Document Parsers Actually Work Under the Hood](https://dev.to/tony_stark_h/how-pdf-document-parsers-actually-work-under-the-hood-16mp)
+- [Your Links Look Broken When Shared — Here&#39;s the 5-Minute Fix](https://dev.to/sameermoin21/your-links-look-broken-when-shared-heres-the-5-minute-fix-2n6h)
+- [The Schema.org Markup Every Client Site Should Ship With](https://dev.to/richardlemon/the-schemaorg-markup-every-client-site-should-ship-with-4fl3)
+- [CSS Container Queries In Production: Where They Shine And Where Media Queries Still Win](https://dev.to/richardlemon/css-container-queries-in-production-where-they-shine-and-where-media-queries-still-win-448d)
+- [Okazu : Keeping people healthy before getting ill](https://dev.to/yuwtennis/okazu-keeping-people-healthy-before-getting-ill-5bbl)
+- [I scanned 55 public Lovable apps — all 55 had a GDPR or security finding](https://dev.to/hdevv/i-scanned-55-public-lovable-apps-all-55-had-a-gdpr-or-security-finding-p1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
