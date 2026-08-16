@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an offline CAD tool that can also turn photos into 3D meshes](https://dev.to/rx290/building-an-offline-cad-tool-that-can-also-turn-photos-into-3d-meshes-181p)
-- [The Pokédex Is 2.4MB. My Users Never Download It.](https://dev.to/yyj/the-pokedex-is-24mb-my-users-never-download-it-57g5)
-- [Modeling Recurring vs One-Off Events in a Bilingual City Guide](https://dev.to/member_5432fd74/modeling-recurring-vs-one-off-events-in-a-bilingual-city-guide-m5g)
-- [Semantic Cache in AI Tokenomics](https://dev.to/gde/semantic-cache-in-ai-tokenomics-2l5i)
-- [&quot;Power Query Error: Formula.Firewall and Privacy Level Errors&quot;](https://dev.to/pbidocs/power-query-error-formulafirewall-and-privacy-level-errors-3oo3)
+- [5 Things I Check First When a Linux Server Goes Down](https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i)
+- [Your Small Business Agent Does Not Need Every Tool](https://dev.to/sphillips1337/your-small-business-agent-does-not-need-every-tool-5fc6)
+- [The Safest First MCP Workflow Is a Draft Queue, Not an Autonomous Agent](https://dev.to/sphillips1337/the-safest-first-mcp-workflow-is-a-draft-queue-not-an-autonomous-agent-1jbf)
+- [Supercharging Test Automation with Custom AI Agents and Secure GPT](https://dev.to/shell_qa/supercharging-test-automation-with-custom-ai-agents-and-sgpt-30jb)
+- [Scaling Infrastructure &amp; the FinOps Governance That Actually Catches the Bill](https://dev.to/shoaibalimir/scaling-infrastructure-the-finops-governance-that-actually-catches-the-bill-364b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
