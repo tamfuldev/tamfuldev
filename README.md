@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why BlocSignal Doesn&#39;t Need Provider &lpar;And Why Classic BLoC Always Did&rpar;](https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g)
-- [PawArt | Letting a Dog Help Create Its Own Portrait](https://dev.to/mirshah12/pawart-letting-a-dog-help-create-its-own-portrait-18j3)
-- [Building an Enterprise Data Validation Framework: From Architecture to Version Control](https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57)
-- [Don&#39;t Start With RAG: Lessons From Building an Automotive AI Pipeline](https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc)
-- [RAG Retrieval Architectures: When Better Embeddings Stop Helping](https://dev.to/arvid_andersson_0a598fa45/rag-retrieval-architectures-when-better-embeddings-stop-helping-3ejm)
+- [I&#39;ve decided to take back control of my brain in the era of ai](https://dev.to/zeejers/ive-decided-to-take-back-control-of-my-brain-in-the-era-of-ai-1inj)
+- [What I log from AI workflows before I trust the automation](https://dev.to/rkrisa/what-i-log-from-ai-workflows-before-i-trust-the-automation-3pdf)
+- [A Beginner&#39;s Guide to Performance Testing with Apache JMeter](https://dev.to/shell_qa/a-beginners-guide-to-performance-testing-with-apache-jmeter-3on9)
+- [I normalised 51 million property transactions from 16 government registries — here&#39;s the bug that nearly ruined it](https://dev.to/tianninglab/i-normalised-51-million-property-transactions-from-16-government-registries-heres-the-bug-that-5e0c)
+- [FetchQuest: Spec-Driven Dog Battling on Solana Devnet](https://dev.to/ikdev103/fetchquest-spec-driven-dog-battling-on-solana-devnet-4b4f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
