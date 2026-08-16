@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve decided to take back control of my brain in the era of ai](https://dev.to/zeejers/ive-decided-to-take-back-control-of-my-brain-in-the-era-of-ai-1inj)
-- [What I log from AI workflows before I trust the automation](https://dev.to/rkrisa/what-i-log-from-ai-workflows-before-i-trust-the-automation-3pdf)
-- [A Beginner&#39;s Guide to Performance Testing with Apache JMeter](https://dev.to/shell_qa/a-beginners-guide-to-performance-testing-with-apache-jmeter-3on9)
-- [I normalised 51 million property transactions from 16 government registries — here&#39;s the bug that nearly ruined it](https://dev.to/tianninglab/i-normalised-51-million-property-transactions-from-16-government-registries-heres-the-bug-that-5e0c)
-- [FetchQuest: Spec-Driven Dog Battling on Solana Devnet](https://dev.to/ikdev103/fetchquest-spec-driven-dog-battling-on-solana-devnet-4b4f)
+- [Same Request Sent Twice: How Idempotency Prevents Duplicate Payments](https://dev.to/suyash_dhakal/same-request-sent-twice-how-idempotency-prevents-duplicate-payments-3g8i)
+- [Why a static Three.js scene still cooks your phone, and the dirty-flag fix](https://dev.to/dheerajakula/why-a-static-threejs-scene-still-cooks-your-phone-and-the-dirty-flag-fix-3a6h)
+- [Why programmatic inserts don&#39;t wrap on iOS multiline TextInput, and the one-line native fix](https://dev.to/dheerajakula/why-programmatic-inserts-dont-wrap-on-ios-multiline-textinput-and-the-one-line-native-fix-3di1)
+- [Why a two-user Convex chat app read tens of MB a day](https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k)
+- [OrioleDB Multi-Version Concurrency Control](https://dev.to/franckpachot/orioledb-multi-version-concurrency-control-43d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
