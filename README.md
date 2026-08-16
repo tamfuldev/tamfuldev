@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Links Look Broken When Shared — Here&#39;s the 5-Minute Fix](https://dev.to/sameermoin21/your-links-look-broken-when-shared-heres-the-5-minute-fix-2n6h)
-- [The Schema.org Markup Every Client Site Should Ship With](https://dev.to/richardlemon/the-schemaorg-markup-every-client-site-should-ship-with-4fl3)
-- [CSS Container Queries In Production: Where They Shine And Where Media Queries Still Win](https://dev.to/richardlemon/css-container-queries-in-production-where-they-shine-and-where-media-queries-still-win-448d)
-- [Okazu : Keeping people healthy before getting ill](https://dev.to/yuwtennis/okazu-keeping-people-healthy-before-getting-ill-5bbl)
-- [I scanned 55 public Lovable apps — all 55 had a GDPR or security finding](https://dev.to/hdevv/i-scanned-55-public-lovable-apps-all-55-had-a-gdpr-or-security-finding-p1h)
+- [Backblaze B2 vs Self-Hosted S3: Which Saves More Money?](https://dev.to/ethan-carter/backblaze-b2-vs-self-hosted-s3-which-saves-more-money-4gp8)
+- [Common Programming Concepts - Part 2 &lpar;Data Types&rpar;](https://dev.to/aditya_verma_22/common-programming-concepts-part-2-data-types-f5c)
+- [A Litigant Hid White-Text Prompt Injection in a Court Filing. A Human Caught It, Not an AI.](https://dev.to/coridev/a-litigant-hid-white-text-prompt-injection-in-a-court-filing-a-human-caught-it-not-an-ai-31gp)
+- [Dev log #17 From 16-bit TUIs to p2p Hardening: A 227-Commit Week](https://dev.to/yashksaini/dev-log-17-from-16-bit-tuis-to-p2p-hardening-a-227-commit-week-1cbg)
+- [Dual-Graph Drift Detection for Solo Devs: What Happens When Your Docs and Your Code Start Talking to Each Other](https://dev.to/dexterlung/dual-graph-drift-detection-for-solo-devs-what-happens-when-your-docs-and-your-code-start-talking-522h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
