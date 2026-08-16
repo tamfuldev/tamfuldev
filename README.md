@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Same Request Sent Twice: How Idempotency Prevents Duplicate Payments](https://dev.to/suyash_dhakal/same-request-sent-twice-how-idempotency-prevents-duplicate-payments-3g8i)
-- [Why a static Three.js scene still cooks your phone, and the dirty-flag fix](https://dev.to/dheerajakula/why-a-static-threejs-scene-still-cooks-your-phone-and-the-dirty-flag-fix-3a6h)
-- [Why programmatic inserts don&#39;t wrap on iOS multiline TextInput, and the one-line native fix](https://dev.to/dheerajakula/why-programmatic-inserts-dont-wrap-on-ios-multiline-textinput-and-the-one-line-native-fix-3di1)
-- [Why a two-user Convex chat app read tens of MB a day](https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k)
-- [OrioleDB Multi-Version Concurrency Control](https://dev.to/franckpachot/orioledb-multi-version-concurrency-control-43d)
+- [Balan Coffee &amp; Roastery — A Slow-Drip Vietnamese Coffee Landing Page](https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep)
+- [Graph Engineering Explained: The Missing Fifth Layer of AI Agent Architecture](https://dev.to/shakti_mishra_308e9f36b5d/graph-engineering-explained-the-missing-fifth-layer-of-ai-agent-architecture-5ab)
+- [Escape the Algorithm and Save Time: Build Your Own Feed with AI Automation](https://dev.to/dev_amrwael/escape-the-algorithm-and-save-time-build-your-own-feed-with-ai-automation-11h1)
+- [ZCPE: PHP 8.4 Certification Practice Tests](https://dev.to/walternascimentobarroso/zcpe-php-84-certification-practice-tests-40lo)
+- [Why Google Doesn&#39;t Index Some WordPress Pages: A Practical SEO Checklist](https://dev.to/mohamedmouatassim/why-google-doesnt-index-some-wordpress-pages-a-practical-seo-checklist-1m48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
