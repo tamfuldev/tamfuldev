@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Check First When a Linux Server Goes Down](https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i)
-- [Your Small Business Agent Does Not Need Every Tool](https://dev.to/sphillips1337/your-small-business-agent-does-not-need-every-tool-5fc6)
-- [The Safest First MCP Workflow Is a Draft Queue, Not an Autonomous Agent](https://dev.to/sphillips1337/the-safest-first-mcp-workflow-is-a-draft-queue-not-an-autonomous-agent-1jbf)
-- [Supercharging Test Automation with Custom AI Agents and Secure GPT](https://dev.to/shell_qa/supercharging-test-automation-with-custom-ai-agents-and-sgpt-30jb)
-- [Scaling Infrastructure &amp; the FinOps Governance That Actually Catches the Bill](https://dev.to/shoaibalimir/scaling-infrastructure-the-finops-governance-that-actually-catches-the-bill-364b)
+- [Why BlocSignal Doesn&#39;t Need Provider &lpar;And Why Classic BLoC Always Did&rpar;](https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g)
+- [PawArt | Letting a Dog Help Create Its Own Portrait](https://dev.to/mirshah12/pawart-letting-a-dog-help-create-its-own-portrait-18j3)
+- [Building an Enterprise Data Validation Framework: From Architecture to Version Control](https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57)
+- [Don&#39;t Start With RAG: Lessons From Building an Automotive AI Pipeline](https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc)
+- [RAG Retrieval Architectures: When Better Embeddings Stop Helping](https://dev.to/arvid_andersson_0a598fa45/rag-retrieval-architectures-when-better-embeddings-stop-helping-3ejm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
