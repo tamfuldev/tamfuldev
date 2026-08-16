@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Balan Coffee &amp; Roastery — A Slow-Drip Vietnamese Coffee Landing Page](https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep)
-- [Graph Engineering Explained: The Missing Fifth Layer of AI Agent Architecture](https://dev.to/shakti_mishra_308e9f36b5d/graph-engineering-explained-the-missing-fifth-layer-of-ai-agent-architecture-5ab)
-- [Escape the Algorithm and Save Time: Build Your Own Feed with AI Automation](https://dev.to/dev_amrwael/escape-the-algorithm-and-save-time-build-your-own-feed-with-ai-automation-11h1)
-- [ZCPE: PHP 8.4 Certification Practice Tests](https://dev.to/walternascimentobarroso/zcpe-php-84-certification-practice-tests-40lo)
-- [Why Google Doesn&#39;t Index Some WordPress Pages: A Practical SEO Checklist](https://dev.to/mohamedmouatassim/why-google-doesnt-index-some-wordpress-pages-a-practical-seo-checklist-1m48)
+- [Reverse Audio at Scale: A Debugging Playbook for Engineers Who Hate Surprise Sibilance](https://dev.to/lizely/reverse-audio-at-scale-a-debugging-playbook-for-engineers-who-hate-surprise-sibilance-47h9)
+- [Building a Customer Service AI Agent That Executes Workflows &lpar;Not Just Answers Questions&rpar; - Full Architecture](https://dev.to/dextralabs/building-a-customer-service-ai-agent-that-executes-workflows-not-just-answers-questions-full-4dd3)
+- [What are you working on? #01](https://dev.to/timhilehin1/what-are-you-working-on-01-3k4a)
+- [The pipeline that writes this blog](https://dev.to/jonesrussell/the-pipeline-that-writes-this-blog-5h9j)
+- [cannot index parallel arrays, the MongoDB error that improves your schema](https://dev.to/saqibameen86/cannot-index-parallel-arrays-the-mongodb-error-that-improves-your-schema-4pp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
