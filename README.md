@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?](https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0)
-- [Event-driven AI agents: Build multi-agent workflows that survive production failures](https://dev.to/jayakumar_ramalingam/event-driven-ai-agents-build-multi-agent-workflows-that-survive-production-failures-3gb7)
-- [How I Built a Browser-Only Bubble Text Generator with SVG and Canvas](https://dev.to/luhw/how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas-i65)
-- [Pet-Wallet: Building an Angular 20 Pet Management App with Gemini AI](https://dev.to/griffonknox/pet-wallet-building-an-angular-20-pet-management-app-with-gemini-ai-14j8)
-- [Plaid Alternatives in Europe - What Actually Changes When You Switch](https://dev.to/johnfrandsen/plaid-alternatives-in-europe-what-actually-changes-when-you-switch-5058)
+- [People Liked My Product. They Just Didn&#39;t Need It.](https://dev.to/puneetkumar2010/people-liked-my-product-they-just-didnt-need-it-3oic)
+- [AI Agent Data Deletion Pipeline: Remove Prompts, Traces, and Memory for Real](https://dev.to/jackm-singularity/ai-agent-data-deletion-pipeline-remove-prompts-traces-and-memory-for-real-7nh)
+- [web page hosting](https://dev.to/abimanyu_p_9e75124634d2a4/web-page-hosting-28bi)
+- [I found code in my repo I&#39;d never seen. All 82 tests passed. I quarantined it for three days anyway.](https://dev.to/achiya-automation/i-found-code-in-my-repo-id-never-seen-all-82-tests-passed-i-quarantined-it-for-three-days-anyway-33go)
+- [Template Ownership for Multi-Tenant SaaS Welcome Emails and Domain Management](https://dev.to/hadleyfox8439/template-ownership-for-multi-tenant-saas-welcome-emails-and-domain-management-59jc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
