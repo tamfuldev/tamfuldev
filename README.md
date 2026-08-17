@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stop AI Hallucinations: 6 Prompt Tactics That Reduce Made-Up Answers](https://dev.to/sungwoo_lee_e0f26be4a29fd/how-to-stop-ai-hallucinations-6-prompt-tactics-that-reduce-made-up-answers-23lb)
-- [Few-Shot Prompting Explained: Teach AI With Examples &lpar;With Templates&rpar;](https://dev.to/sungwoo_lee_e0f26be4a29fd/few-shot-prompting-explained-teach-ai-with-examples-with-templates-367c)
-- [St-core.fscss Multi-Line Chart Pure CSS](https://dev.to/fscss/st-corefscss-multi-line-chart-pure-css-npa)
-- [What I Learned Turning a Side Project Into a Sellable Dev Tool](https://dev.to/gerale30/what-i-learned-turning-a-side-project-into-a-sellable-dev-tool-35ie)
-- [Real Ephemeris Math, Graceful AI Degradation, and a Rebuild Gotcha: Building an Astrology SaaS on Cloudflare Workers](https://dev.to/amritanshu_gaurav_8c70b9e/real-ephemeris-math-graceful-ai-degradation-and-a-rebuild-gotcha-building-an-astrology-saas-on-308i)
+- [Seu log tem 40 mil linhas e nenhuma resposta](https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632)
+- [ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure](https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga)
+- [Anyone need an installer?](https://dev.to/unitbuilds/anyone-need-an-installer-5c8b)
+- [analogous&lpar;-1&rpar;: how a default hid a heap-exhaustion bug for fifteen years](https://dev.to/bigachiever/analogous-1-how-a-default-hid-a-heap-exhaustion-bug-for-fifteen-years-380e)
+- [Grokbot Honest Review: Is xAI and Cursor&#39;s Computer-Use Agent Worth $200 a Month?](https://dev.to/aditi_gupta_8d81622a592aa/grokbot-honest-review-is-xai-and-cursors-computer-use-agent-worth-200-a-month-2924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
