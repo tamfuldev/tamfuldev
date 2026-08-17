@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [When Everyone Has AI Agents, Who Knows What They’re Doing?](https://dev.to/zhan1234/when-everyone-has-ai-agents-who-knows-what-theyre-doing-33mj)
-- [How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09)
-- [🐾 PawSafe: An AI-Powered Food Safety Checker for Dogs](https://dev.to/paul_emmanuel/pawsafe-an-ai-powered-food-safety-checker-for-dogs-53o8)
-- [Stop Guessing Calories: Build a Multimodal Food Estimation Pipeline with GPT-4o &amp; SAM](https://dev.to/beck_moulton/stop-guessing-calories-build-a-multimodal-food-estimation-pipeline-with-gpt-4o-sam-1ohb)
-- [I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here&#39;s the stack.](https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf)
+- [Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?](https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0)
+- [Event-driven AI agents: Build multi-agent workflows that survive production failures](https://dev.to/jayakumar_ramalingam/event-driven-ai-agents-build-multi-agent-workflows-that-survive-production-failures-3gb7)
+- [How I Built a Browser-Only Bubble Text Generator with SVG and Canvas](https://dev.to/luhw/how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas-i65)
+- [Pet-Wallet: Building an Angular 20 Pet Management App with Gemini AI](https://dev.to/griffonknox/pet-wallet-building-an-angular-20-pet-management-app-with-gemini-ai-14j8)
+- [Plaid Alternatives in Europe - What Actually Changes When You Switch](https://dev.to/johnfrandsen/plaid-alternatives-in-europe-what-actually-changes-when-you-switch-5058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
