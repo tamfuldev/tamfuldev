@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Python Scope, First-Class Functions, *args,**kwargs &amp; Mutable Default Arguments](https://dev.to/deepika_pusala/python-scope-first-class-functions-argskwargs-mutable-default-arguments-1dbc)
-- [Skills Sprawl: When Too Much of a Good Thing Confuses Your AI Agent](https://dev.to/gde/skills-sprawl-when-too-much-of-a-good-thing-confuses-your-ai-agent-4nij)
-- [Accelerating UI Tests with Session Management and Login Bypass in Playwright](https://dev.to/shell_qa/accelerating-ui-tests-with-session-management-and-login-bypass-in-playwright-5gmh)
-- [Recent grad on an AWS backend team — how do I actually get good, fast?](https://dev.to/kumaresan02/recent-grad-on-an-aws-backend-team-how-do-i-actually-get-good-fast-3ak8)
-- [I built a system to catch unreliable AI agents. In my own evaluation, it missed the worst one.](https://dev.to/alizahidraja/i-built-a-system-to-catch-unreliable-ai-agents-in-my-own-evaluation-it-missed-the-worst-one-k48)
+- [What Happens When You Create a Pod in Kubernetes?](https://dev.to/naveens16/what-happens-when-you-create-a-pod-in-kubernetes-5p8)
+- [[Boost]](https://dev.to/diadal/-35cl)
+- [IA Predice Crisis de Ansiedad en Autismo: Guía](https://dev.to/niklauss_quintero_1360ce7/ia-predice-crisis-de-ansiedad-en-autismo-guia-233j)
+- [Linear Algebra Done Right: A fundamental perspective!](https://dev.to/mgobea/linear-algebra-done-right-a-fundamental-perspective-dbh)
+- [Building Structured Inter-Agent Communication: A Practical Guide](https://dev.to/albert_zhang_f468830cf0e6/building-structured-inter-agent-communication-a-practical-guide-26i7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
