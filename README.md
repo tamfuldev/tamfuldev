@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [QUERY_HISTORY has no PARENT_QUERY_ID. Here&#39;s how I traced which statement inside a Snowflake procedure regressed anyway.](https://dev.to/tracepointdata/queryhistory-has-no-parentqueryid-heres-how-i-traced-which-statement-inside-a-snowflake-el7)
-- [A threshold that filters CVEs is only half a design until zero has two meanings](https://dev.to/takahiro_hashito_a1f3f0dc/a-threshold-that-filters-cves-is-only-half-a-design-until-zero-has-two-meanings-f24)
-- [Creating a Docker Image for Beginners: A Complete Guide](https://dev.to/riteshkokam/creating-a-docker-image-for-beginners-a-complete-guide-2h20)
-- [Rate Limiting a Crawler Across Node Cluster Workers](https://dev.to/megapixel99/rate-limiting-a-crawler-across-node-cluster-workers-3fg6)
-- [The `doRegister is not defined` Bug: How a Live-Count Feature Broke Registration](https://dev.to/minia2a/the-doregister-is-not-defined-bug-how-a-live-count-feature-broke-registration-3239)
+- [Network Devices Explained — The Foundation Every Cloud &amp; DevOps Engineer Needs](https://dev.to/tejas_shinkar/network-devices-explained-the-foundation-every-cloud-devops-engineer-needs-218a)
+- [Why I left Warehouse out of our Fabric deployment scope](https://dev.to/vedaforge_eng/why-i-left-warehouse-out-of-our-fabric-deployment-scope-2jca)
+- [The Day I Realized I Wasn&#39;t Building Apps](https://dev.to/ashb4/the-day-i-realized-i-wasnt-building-apps-14fm)
+- [Why Your Generated Tone Clicks, and How an Envelope Fixes It](https://dev.to/mwiginton/why-your-generated-tone-clicks-and-how-an-envelope-fixes-it-1p89)
+- [Faire tourner Qwen 3.8–27B en local avec Unsloth et DeepSeek Harness sur une RTX 3090 &lpar;24 Go&rpar; sous Windows 11.](https://dev.to/jacquesgariepy/faire-tourner-qwen-38-27b-en-local-avec-unsloth-et-deepseek-harness-sur-une-rtx-3090-24-go-sous-5144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
