@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The pipeline was green. The product was underspecified](https://dev.to/michaeltruong/the-pipeline-was-green-the-product-was-underspecified-1fnj)
-- [A Free 16-Week Cloud and DevOps Syllabus for Karachi &lpar;2026&rpar;](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
-- [How AI Is Making Mobile Accessibility Easier Than Ever](https://dev.to/hugo_rus_630dd942fcf7cc62/how-ai-is-making-mobile-accessibility-easier-than-ever-20n3)
-- [Stripe Bought the Routing Layer](https://dev.to/peremptory/stripe-bought-the-routing-layer-3053)
-- [Models retire faster than operating systems](https://dev.to/goodbarber/models-retire-faster-than-operating-systems-275p)
+- [Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds](https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm)
+- [When a Provider Retires Your LLM Model: Two Products, the Root Cause, and Preventing Recurrence](https://dev.to/uehara/when-a-provider-retires-your-llm-model-two-products-the-root-cause-and-preventing-recurrence-4lc2)
+- [Structuring a Playwright BDD Automation Framework: Core Architecture &amp; Directory Guide](https://dev.to/shell_qa/structuring-a-playwright-bdd-automation-framework-core-architecture-directory-guide-5hne)
+- [The Importance of a Risk Framework in Corporate Cybersecurity](https://dev.to/marco_altomare_0e7674642c/the-importance-of-a-risk-framework-in-corporate-cybersecurity-3ki0)
+- [Wiring an AI Voicebot to Your CRM Without Adding Latency: A FreeSWITCH ESL Deep Dive](https://dev.to/ecosmob_technologies/wiring-an-ai-voicebot-to-your-crm-without-adding-latency-a-freeswitch-esl-deep-dive-5lp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
