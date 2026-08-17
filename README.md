@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
-- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
-- [Spring proxies: JDK dynamic vs CGLIB](https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1)
-- [&quot;I built a lying MCP server on purpose — here&#39;s how you catch it&quot;](https://dev.to/wolfejam/i-built-a-lying-mcp-server-on-purpose-heres-how-you-catch-it-102g)
-- [Next.js project scope: what to define before you write a line of code](https://dev.to/nayankyada/nextjs-project-scope-what-to-define-before-you-write-a-line-of-code-id2)
+- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28)
+- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8)
+- [Is UI Overdraw Killing Your WebGL Performance?](https://dev.to/alok_krishali/is-ui-overdraw-killing-your-webgl-performance-2o92)
+- [Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish](https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1)
+- [How to Standardize Line Endings in Git Without Committing `.gitattributes`](https://dev.to/vast-cow/how-to-standardize-line-endings-in-git-without-committing-gitattributes-1k29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
