@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [微软 Agent Governance Toolkit 详解：AI Agent 安全治理的操作系统级方案](https://dev.to/sanyaduan/wei-ruan-agent-governance-toolkit-xiang-jie-ai-agent-an-quan-zhi-li-de-cao-zuo-xi-tong-ji-fang-an-52c6)
-- [How to Improve Playwright Test Coverage Using Agent Context](https://dev.to/entire/how-to-improve-playwright-test-coverage-using-agent-context-14l9)
-- [Directus Basics Part 2 — Understanding Relationships &lpar;M2O, O2M, M2M&rpar;](https://dev.to/wadethomastt/directus-basics-part-2-understanding-relationships-m2o-o2m-m2m-1lom)
-- [CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant](https://dev.to/magopredator/crosssessionmemoryguard-vigilando-la-exfiltracion-de-memoria-cross-session-en-agentes-multi-tenant-1g14)
-- [Stop manually babysitting your automation flows](https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8)
+- [React scrollIntoView with useRef: Scroll to an Element &lpar;2026&rpar;](https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4)
+- [A Generated SQL Query Got Faster by Returning Fewer Rows. Test That Before You Merge It](https://dev.to/codepy_1473/a-generated-sql-query-got-faster-by-returning-fewer-rows-test-that-before-you-merge-it-h50)
+- [A Free Model vs 30 Security Advisory Records: An Accuracy Test You Can Rerun](https://dev.to/gitlab_3188/a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun-67h)
+- [DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect&#39;s Take](https://dev.to/bolddeck/deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take-278m)
+- [An ambiguity gate for AI coding agents: measure the request before writing code](https://dev.to/q00/an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code-4n75)
 <!-- BLOG-POST-LIST:END -->
 
 ---
