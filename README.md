@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does Every AI Agent Still Look Like `while &lpar;true&rpar; { ... }`?](https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a)
-- [I Tried Every Dark Theme in Codex Skin Studio. Here Is What Actually Works.](https://dev.to/ahmed_isam_752b775a50fd90/i-tried-every-dark-theme-in-codex-skin-studio-here-is-what-actually-works-21hd)
-- [Why AI Coding Agents Silently Break Full-Stack Apps &lpar;And How We Solved It in 0.75ms&rpar;](https://dev.to/zainulabideen02/why-ai-coding-agents-silently-break-full-stack-apps-and-how-we-solved-it-in-075ms-2haa)
-- [Building a Video Thumbnail Generator Service with Go and FFmpeg Workers](https://dev.to/ahmet_gedik778845/building-a-video-thumbnail-generator-service-with-go-and-ffmpeg-workers-h52)
-- [Your AI agent shouldn’t flinch at every tiny change, but it also shouldn’t treat a career switch like background noise. This post asks what happens when you treat “experience” as leftover surprise: the part of reality your model did not already see coming.](https://dev.to/rouche01/your-ai-agent-shouldnt-flinch-at-every-tiny-change-but-it-also-shouldnt-treat-a-career-switch-5ao)
+- [tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)
+- [How I Cracked LeetCode Like a Jedi: The Ultimate Beginner&#39;s Study Plan](https://dev.to/timevolt/how-i-cracked-leetcode-like-a-jedi-the-ultimate-beginners-study-plan-4mfg)
+- [Il primo utente: bootstrap sicuro senza seed di default](https://dev.to/dev_iadicola/il-primo-utente-bootstrap-sicuro-senza-seed-di-default-3okh)
+- [DynamoDB Now Does Vector Search](https://dev.to/aws-builders/dynamodb-now-does-vector-search-4hld)
+- [When AI Agents Become the Attack Surface: Architecting Against Self-Propagating Threats](https://dev.to/alifunk/when-ai-agents-become-the-attack-surface-architecting-against-self-propagating-threats-4olp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
