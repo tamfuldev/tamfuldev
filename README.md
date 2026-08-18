@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Android Chrome Browser Logs from a Windows Laptop](https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib)
-- [Hashing across architectures](https://dev.to/geauxvirtual/hashing-across-architectures-3fb4)
-- [&quot;It works on my machine&quot;](https://dev.to/geauxvirtual/it-works-on-my-machine-741)
-- [# The Part About Linked Lists Being O&lpar;1&rpar; That Confused Me](https://dev.to/sylvia_uwa/-the-part-about-linked-lists-being-o1-that-confused-me-1d39)
-- [OmniMem, IDE RAM monitor :&rpar;](https://dev.to/sergiosuarezgil/omnimem-mi-extension-para-ide-4npe)
+- [微软 Agent Governance Toolkit 详解：AI Agent 安全治理的操作系统级方案](https://dev.to/sanyaduan/wei-ruan-agent-governance-toolkit-xiang-jie-ai-agent-an-quan-zhi-li-de-cao-zuo-xi-tong-ji-fang-an-52c6)
+- [How to Improve Playwright Test Coverage Using Agent Context](https://dev.to/entire/how-to-improve-playwright-test-coverage-using-agent-context-14l9)
+- [Directus Basics Part 2 — Understanding Relationships &lpar;M2O, O2M, M2M&rpar;](https://dev.to/wadethomastt/directus-basics-part-2-understanding-relationships-m2o-o2m-m2m-1lom)
+- [CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant](https://dev.to/magopredator/crosssessionmemoryguard-vigilando-la-exfiltracion-de-memoria-cross-session-en-agentes-multi-tenant-1g14)
+- [Stop manually babysitting your automation flows](https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
