@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek Harness &lpar;`dsh`&rpar; 插件开发教程](https://dev.to/henry_lin_3ac6363747f45b4/deepseek-harness-dsh-cha-jian-kai-fa-jiao-cheng-4h6j)
-- [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
-- [Loop Engineering 101](https://dev.to/aairom/loop-engineering-101-83o)
-- [Building a 10-Band Equalizer with the Web Audio API](https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4)
-- [SSH keys on your phone: generate, import, and use them without leaking the private key](https://dev.to/chen_zong_43c81f1a65b1a54/ssh-keys-on-your-phone-generate-import-and-use-them-without-leaking-the-private-key-5d89)
+- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
+- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
+- [n8n Adds an AI Stock-Analysis Template With Automated Buy, Hold, or Sell Reports](https://dev.to/alifar/n8n-adds-an-ai-stock-analysis-template-with-automated-buy-hold-or-sell-reports-peg)
+- [How to Configure Full Parallel Execution in a Hybrid &lpar;Data &amp; Keyword-Driven&rpar; Framework](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-a-hybrid-data-keyword-driven-framework-3dch)
+- [Mobile Gameplay Performance Optimization](https://dev.to/weirdcodesofficial/mobile-gameplay-performance-optimization-3bo8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
