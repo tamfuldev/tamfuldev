@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Cost-Aware AI Model Router for SaaS Workflows](https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06)
-- [Your coding agent bills per task, not per token](https://dev.to/tokenlat/your-coding-agent-bills-per-task-not-per-token-40ai)
-- [Tired of Subscriptions, So I Built My Own Server](https://dev.to/ashusosuke/tired-of-subscriptions-so-i-built-my-own-server-14m)
-- [Why Some Companies Are Pulling Back on AI Coding](https://dev.to/techytcm/why-some-companies-are-pulling-back-on-ai-coding-184p)
-- [Why &quot;Humanize My Writing&quot; Tools Don&#39;t Work](https://dev.to/ashwinsathian/why-humanize-my-writing-tools-dont-work-3l76)
+- [DeepSeek Harness &lpar;`dsh`&rpar; 插件开发教程](https://dev.to/henry_lin_3ac6363747f45b4/deepseek-harness-dsh-cha-jian-kai-fa-jiao-cheng-4h6j)
+- [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
+- [Loop Engineering 101](https://dev.to/aairom/loop-engineering-101-83o)
+- [Building a 10-Band Equalizer with the Web Audio API](https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4)
+- [SSH keys on your phone: generate, import, and use them without leaking the private key](https://dev.to/chen_zong_43c81f1a65b1a54/ssh-keys-on-your-phone-generate-import-and-use-them-without-leaking-the-private-key-5d89)
 <!-- BLOG-POST-LIST:END -->
 
 ---
