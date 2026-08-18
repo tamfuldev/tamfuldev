@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
-- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
-- [Build a Tiny Tool-Result Gatekeeper Before You Trust an Agent&#39;s &#39;Done&#39;](https://dev.to/magickong/build-a-tiny-tool-result-gatekeeper-before-you-trust-an-agents-done-1p2i)
-- [A Free Model Returned Markdown That NVDA Read as One Endless Sentence: Normalizing LLM Output Before It Reaches the Live Region](https://dev.to/babycat/a-free-model-returned-markdown-that-nvda-read-as-one-endless-sentence-normalizing-llm-output-457p)
-- [How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)
+- [Kimi K2 API Integration: A No-Fluff Getting Started](https://dev.to/zhangjj1988/kimi-k2-api-integration-a-no-fluff-getting-started-5361)
+- [UPI Autopay and Recurring Payments in Flutter](https://dev.to/mryadavgulshan/upi-autopay-and-recurring-payments-in-flutter-gjf)
+- [One MCP server, eight AI clients: Apple Health setup that works everywhere](https://dev.to/philipad/one-mcp-server-eight-ai-clients-apple-health-setup-that-works-everywhere-4lcp)
+- [5 Cognitive Distortions That Kill Developer Productivity &lpar;And How to Catch Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-catch-them-3p0m)
+- [NGB Platform v2.0: Document Actions + Work Center](https://dev.to/ngbplatform/ngb-platform-v20-document-actions-work-center-1l9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
