@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React scrollIntoView with useRef: Scroll to an Element &lpar;2026&rpar;](https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4)
-- [A Generated SQL Query Got Faster by Returning Fewer Rows. Test That Before You Merge It](https://dev.to/codepy_1473/a-generated-sql-query-got-faster-by-returning-fewer-rows-test-that-before-you-merge-it-h50)
-- [A Free Model vs 30 Security Advisory Records: An Accuracy Test You Can Rerun](https://dev.to/gitlab_3188/a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun-67h)
-- [DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect&#39;s Take](https://dev.to/bolddeck/deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take-278m)
-- [An ambiguity gate for AI coding agents: measure the request before writing code](https://dev.to/q00/an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code-4n75)
+- [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
+- [🚀 30 React.js Interview Questions You Should Know Before Your Next Frontend Interview ⚛️](https://dev.to/rashmi_roy_447a69fec6d340/30-reactjs-interview-questions-you-should-know-before-your-next-frontend-interview-1l8l)
+- [Building OopsCalorie: When Your AI Thinks Dinuguan Is Champorado 😂](https://dev.to/chimkennuggyszdev/building-oopscalorie-when-your-ai-thinks-dinuguan-is-champorado-4961)
+- [🤖 AI agents are becoming “digital employees”](https://dev.to/ashutosh_maurya/ai-agents-are-becoming-digital-employees-3p74)
+- [Docker Compose Isn&#39;t What I Thought It Was](https://dev.to/sreekanth_kuruba_91721e5d/docker-compose-isnt-what-i-thought-it-was-1pjg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
