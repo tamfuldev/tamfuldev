@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We had 45 subscribers and had sent them zero emails](https://dev.to/petteri_pucilowski_7ec755/we-had-45-subscribers-and-had-sent-them-zero-emails-25jk)
-- [Building a Kubernetes Security Audit Tool with Go](https://dev.to/ayinedjimi-consultants/building-a-kubernetes-security-audit-tool-with-go-4dnm)
-- [WebSocket Real-Time Apps: Building Chat Like It&#39;s the Matrix](https://dev.to/timevolt/websocket-real-time-apps-building-chat-like-its-the-matrix-5ha0)
-- [Observability for AI Infrastructure: What to Monitor Beyond CPU and Memory](https://dev.to/sushyam_nagallapati/observability-for-ai-infrastructure-what-to-monitor-beyond-cpu-and-memory-2o4j)
-- [We Locked Ourselves Out of Production](https://dev.to/epilot/we-locked-ourselves-out-of-production-1n22)
+- [Three Ways to Monitor Prepaid API Balances &lpar;Excel, Python + Cron, Power Automate&rpar;](https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja)
+- [The Art of Code Formatting](https://dev.to/sukkergris/the-art-of-code-formatting-16gj)
+- [HackCanton Season 2 Recap: From 75+ Teams to $10K + 100K CC in Rewards](https://dev.to/noders/hackcanton-season-2-recap-from-75-teams-to-10k-100k-cc-in-rewards-262i)
+- [Predicting CPU Spikes](https://dev.to/shashi_bsavarn_03038d7d7/predicting-cpu-spikes-2355)
+- [🔒 I Built ATLOCK v4 Because I Wanted Windows Security to Feel Simpler](https://dev.to/akhourianmolkumar/i-built-atlock-v4-because-i-wanted-windows-security-to-feel-simpler-4o99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
