@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Three Ways to Monitor Prepaid API Balances &lpar;Excel, Python + Cron, Power Automate&rpar;](https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja)
-- [The Art of Code Formatting](https://dev.to/sukkergris/the-art-of-code-formatting-16gj)
-- [HackCanton Season 2 Recap: From 75+ Teams to $10K + 100K CC in Rewards](https://dev.to/noders/hackcanton-season-2-recap-from-75-teams-to-10k-100k-cc-in-rewards-262i)
-- [Predicting CPU Spikes](https://dev.to/shashi_bsavarn_03038d7d7/predicting-cpu-spikes-2355)
-- [🔒 I Built ATLOCK v4 Because I Wanted Windows Security to Feel Simpler](https://dev.to/akhourianmolkumar/i-built-atlock-v4-because-i-wanted-windows-security-to-feel-simpler-4o99)
+- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
+- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
+- [Build a Tiny Tool-Result Gatekeeper Before You Trust an Agent&#39;s &#39;Done&#39;](https://dev.to/magickong/build-a-tiny-tool-result-gatekeeper-before-you-trust-an-agents-done-1p2i)
+- [A Free Model Returned Markdown That NVDA Read as One Endless Sentence: Normalizing LLM Output Before It Reaches the Live Region](https://dev.to/babycat/a-free-model-returned-markdown-that-nvda-read-as-one-endless-sentence-normalizing-llm-output-457p)
+- [How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
