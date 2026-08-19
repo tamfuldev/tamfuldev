@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Make the AI Wait: Build Explicit Floor Control for a Tencent RTC Voice Companion](https://dev.to/susiewang/make-the-ai-wait-build-explicit-floor-control-for-a-tencent-rtc-voice-companion-467d)
-- [Big-O Notation: Stop Guessing, Start Calculating — A Jedi&#39;s Guide](https://dev.to/timevolt/big-o-notation-stop-guessing-start-calculating-a-jedis-guide-2l2o)
-- [FullTrailer as a real GUI + monad app, live over HTTP and WS through netget](https://dev.to/suign/fulltrailer-as-a-real-gui-monad-app-live-over-http-and-ws-through-netget-4d8c)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6)
-- [Media Password Reset Template Explained: 6 Controls for Localized HTML Email Delivery](https://dev.to/jamesanderson3589/media-password-reset-template-explained-6-controls-for-localized-html-email-delivery-2bbc)
+- [Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent](https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl)
+- [We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.](https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73)
+- [Replayable Node.js Content Moderation Contracts for JSON Chat Completions](https://dev.to/briarvoss47291/replayable-nodejs-content-moderation-contracts-for-json-chat-completions-4ch0)
+- [What Happens If Your Password Manager’s Master Password Is Compromised?](https://dev.to/mahavault/what-happens-if-your-password-managers-master-password-is-compromised-3k3h)
+- [Your sysctl says one thing, the kernel says another](https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
