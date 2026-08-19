@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse &lpar;CSV, JSON, Parquet&rpar;](https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk)
-- [Cloud Cost Per Customer: Unit Economics Without Rebuilding Your Data Warehouse](https://dev.to/zop_8abedcc7e12/cloud-cost-per-customer-unit-economics-without-rebuilding-your-data-warehouse-5do0)
-- [Kubernetes Networking [Level-8: kube-proxy / iptables / IPVS / eBPF]](https://dev.to/iadiraj/kubernetes-networking-level-8-kube-proxy-iptables-ipvs-ebpf-4alm)
-- [Why Your AI Agent Breaks Under Scrutiny — Lessons from Production Agent Frameworks, Self-Correction Prompts, and Real Bug Reports](https://dev.to/tamizuddin/why-your-ai-agent-breaks-under-scrutiny-lessons-from-production-agent-frameworks-self-correction-5fb5)
-- [MCP vs. API: Why Traditional APIs Aren&#39;t Enough for AI Agents](https://dev.to/cpathirage/mcp-vs-api-why-traditional-apis-arent-enough-for-ai-agents-go2)
+- [Migrating my portfolio from Next.js + Sanity to Astro 5](https://dev.to/atakee/migrating-my-portfolio-from-nextjs-sanity-to-astro-5-475m)
+- [Hello World 👋 I&#39;m Eugine Weks — Full-Stack Engineer &amp; Founder](https://dev.to/eugineweks/hello-world-im-eugine-weks-full-stack-engineer-founder-3fbj)
+- [Your AI governance dashboard is probably lying to you. Mine was too.](https://dev.to/jothimani_rajendran/your-ai-governance-dashboard-is-probably-lying-to-you-mine-was-too-2kpc)
+- [Building for the Real World: What Winning an International Ideathon Taught Me](https://dev.to/casperday11/building-for-the-real-world-what-winning-an-international-ideathon-taught-me-4p6f)
+- [GitGuardian Power for Amazon Kiro: Secrets Detection Built Into the Agent](https://dev.to/gitguardian/gitguardian-power-for-amazon-kiro-secrets-detection-built-into-the-agent-4fp6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
