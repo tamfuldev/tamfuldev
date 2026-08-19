@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Truncated JSON from a streaming model: 21 parsers, 25 truncated cases, 12 score 0/25](https://dev.to/toolkitlabs/truncated-json-from-a-streaming-model-21-parsers-25-truncated-cases-12-score-025-4hfm)
-- [Agentic AI Vocabulary for DevOps: 12 Terms You Already Operate Under Another Name](https://dev.to/devopsdaily/agentic-ai-vocabulary-for-devops-12-terms-you-already-operate-under-another-name-4la7)
-- [I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.](https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0)
-- [When My Laravel Queue Kept Stopping, the Queue Wasn&#39;t the Real Problem](https://dev.to/meera9/when-my-laravel-queue-kept-stopping-the-queue-wasnt-the-real-problem-561b)
-- [Deploying SigNoz in 2026: A Survival Guide to ClickHouse v25+ and OTel Gotchas](https://dev.to/zhukmax/deploying-signoz-in-2026-a-survival-guide-to-clickhouse-v25-and-otel-gotchas-3pec)
+- [Beyond the Chat Box: OpenAI&#39;s OS-level Agent and Its Plaintext Problem](https://dev.to/albertomontagnese/beyond-the-chat-box-openais-os-level-agent-and-its-plaintext-problem-3aek)
+- [Debugging Like a Jedi: Finding the Bug in the Force](https://dev.to/timevolt/debugging-like-a-jedi-finding-the-bug-in-the-force-3h77)
+- [GrapheneOS in 2027 available on high-end Motorola phones](https://dev.to/technoblogger14o3/grapheneos-in-2027-available-on-high-end-motorola-phones-3i3l)
+- [I Replaced kube-proxy with eBPF in Production &lpar;And Why My Monitoring Went Blind for 6 Hours&rpar;](https://dev.to/le_beltagy/i-replaced-kube-proxy-with-ebpf-in-production-and-why-my-monitoring-went-blind-for-6-hours-1lkb)
+- [Build a Niche Newsletter Empire With AI: How I Automated $2,400/Month in Recurring Revenue](https://dev.to/sinan_koak_4a6dea677278a/build-a-niche-newsletter-empire-with-ai-how-i-automated-2400month-in-recurring-revenue-55n4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
