@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation](https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak)
-- [Prompt injection: your customer-facing AI is an attack surface](https://dev.to/fetchply/prompt-injection-your-customer-facing-ai-is-an-attack-surface-g34)
-- [The Model Did Not Change: The Test Was Comparing Strings, Not Behavior](https://dev.to/codepy_1473/the-model-did-not-change-the-test-was-comparing-strings-not-behavior-4ahd)
-- [White Label ICT Software Vendors Inherit Every Reseller&#39;s AI Mistake](https://dev.to/tahiralmas/white-label-ict-software-vendors-inherit-every-resellers-ai-mistake-5cm9)
-- [Navigating AWS Solution Architecture: Real-World Lessons and Key Exam Insights](https://dev.to/itzaustinreed/navigating-aws-solution-architecture-real-world-lessons-and-key-exam-insights-4nil)
+- [Make the AI Wait: Build Explicit Floor Control for a Tencent RTC Voice Companion](https://dev.to/susiewang/make-the-ai-wait-build-explicit-floor-control-for-a-tencent-rtc-voice-companion-467d)
+- [Big-O Notation: Stop Guessing, Start Calculating — A Jedi&#39;s Guide](https://dev.to/timevolt/big-o-notation-stop-guessing-start-calculating-a-jedis-guide-2l2o)
+- [FullTrailer as a real GUI + monad app, live over HTTP and WS through netget](https://dev.to/suign/fulltrailer-as-a-real-gui-monad-app-live-over-http-and-ws-through-netget-4d8c)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6)
+- [Media Password Reset Template Explained: 6 Controls for Localized HTML Email Delivery](https://dev.to/jamesanderson3589/media-password-reset-template-explained-6-controls-for-localized-html-email-delivery-2bbc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
