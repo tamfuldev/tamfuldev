@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess](https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5)
-- [Anthropic Expands Scientist Access to Frontier Models Through a Staged Biology Program](https://dev.to/alifar/anthropic-expands-scientist-access-to-frontier-models-through-a-staged-biology-program-3e4h)
-- [A safer starting point for exploring DeepSeek Harness plugins](https://dev.to/nicedayup/a-safer-starting-point-for-exploring-deepseek-harness-plugins-2a0b)
-- [Claude Enters Live Life Sciences Workflows With Early Lab Results From Anthropic](https://dev.to/alifar/claude-enters-live-life-sciences-workflows-with-early-lab-results-from-anthropic-b4d)
-- [A Dead PID Held My Lock for 2 Hours: One Missing Line, Zero Output, exit 0 Every Time](https://dev.to/bokuwalily/a-dead-pid-held-my-lock-for-2-hours-one-missing-line-zero-output-exit-0-every-time-370c)
+- [MiniMax H3 Beyond Basic Generation: R2V, Video Editing, Voice Cloning, and Agent-Written Prompts](https://dev.to/gridport/minimax-h3-beyond-basic-generation-r2v-video-editing-voice-cloning-and-agent-written-prompts-3j8m)
+- [Recover a Bricked Framework 13 with a DIY USB Flash](https://dev.to/robust_true_try/recover-a-bricked-framework-13-with-a-diy-usb-flash-9li)
+- [The AI Review Trap: Why 9 Out of 10 Models Just Parrot Your Docs](https://dev.to/insight105/the-ai-review-trap-why-9-out-of-10-models-just-parrot-your-docs-d67)
+- [Circular Foreign Keys: Why the First Row Cannot Be Inserted](https://dev.to/tbson87/circular-foreign-keys-why-the-first-row-cannot-be-inserted-30h5)
+- [PostgreSQL timestamp vs timestamptz: Which to Use and How to Find the Wrong Ones](https://dev.to/tbson87/postgresql-timestamp-vs-timestamptz-which-to-use-and-how-to-find-the-wrong-ones-57cf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
