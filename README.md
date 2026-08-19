@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating my portfolio from Next.js + Sanity to Astro 5](https://dev.to/atakee/migrating-my-portfolio-from-nextjs-sanity-to-astro-5-475m)
-- [Hello World 👋 I&#39;m Eugine Weks — Full-Stack Engineer &amp; Founder](https://dev.to/eugineweks/hello-world-im-eugine-weks-full-stack-engineer-founder-3fbj)
-- [Your AI governance dashboard is probably lying to you. Mine was too.](https://dev.to/jothimani_rajendran/your-ai-governance-dashboard-is-probably-lying-to-you-mine-was-too-2kpc)
-- [Building for the Real World: What Winning an International Ideathon Taught Me](https://dev.to/casperday11/building-for-the-real-world-what-winning-an-international-ideathon-taught-me-4p6f)
-- [GitGuardian Power for Amazon Kiro: Secrets Detection Built Into the Agent](https://dev.to/gitguardian/gitguardian-power-for-amazon-kiro-secrets-detection-built-into-the-agent-4fp6)
+- [Truncated JSON from a streaming model: 21 parsers, 25 truncated cases, 12 score 0/25](https://dev.to/toolkitlabs/truncated-json-from-a-streaming-model-21-parsers-25-truncated-cases-12-score-025-4hfm)
+- [Agentic AI Vocabulary for DevOps: 12 Terms You Already Operate Under Another Name](https://dev.to/devopsdaily/agentic-ai-vocabulary-for-devops-12-terms-you-already-operate-under-another-name-4la7)
+- [I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.](https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0)
+- [When My Laravel Queue Kept Stopping, the Queue Wasn&#39;t the Real Problem](https://dev.to/meera9/when-my-laravel-queue-kept-stopping-the-queue-wasnt-the-real-problem-561b)
+- [Deploying SigNoz in 2026: A Survival Guide to ClickHouse v25+ and OTel Gotchas](https://dev.to/zhukmax/deploying-signoz-in-2026-a-survival-guide-to-clickhouse-v25-and-otel-gotchas-3pec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
