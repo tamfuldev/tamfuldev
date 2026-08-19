@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#39;importe quel cours](https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3)
-- [My static Nuxt blog publishes itself: drafts, scheduled &quot;drip&quot;, and auto-rebuilds](https://dev.to/dibodev/my-static-nuxt-blog-publishes-itself-drafts-scheduled-drip-and-auto-rebuilds-4hmi)
-- [Mapping Art Styles with Multimodal Models Using Scott McCloud’s Big Triangle](https://dev.to/punchhlineintheface/mapping-art-styles-with-multimodal-models-using-scott-mcclouds-big-triangle-48im)
-- [Nodum.md - An Open-Source Alternative to Obsidian.md](https://dev.to/maqboolthoufeeq/nodummd-an-open-source-alternative-to-obsidianmd-4fdk)
-- [I Could Hack My Own Rails App With One Hidden Input](https://dev.to/gjhewitt/i-could-hack-my-own-rails-app-with-one-hidden-input-3ca1)
+- [Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess](https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5)
+- [Anthropic Expands Scientist Access to Frontier Models Through a Staged Biology Program](https://dev.to/alifar/anthropic-expands-scientist-access-to-frontier-models-through-a-staged-biology-program-3e4h)
+- [A safer starting point for exploring DeepSeek Harness plugins](https://dev.to/nicedayup/a-safer-starting-point-for-exploring-deepseek-harness-plugins-2a0b)
+- [Claude Enters Live Life Sciences Workflows With Early Lab Results From Anthropic](https://dev.to/alifar/claude-enters-live-life-sciences-workflows-with-early-lab-results-from-anthropic-b4d)
+- [A Dead PID Held My Lock for 2 Hours: One Missing Line, Zero Output, exit 0 Every Time](https://dev.to/bokuwalily/a-dead-pid-held-my-lock-for-2-hours-one-missing-line-zero-output-exit-0-every-time-370c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
