@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [React Portals: How They Work and When to Use Them for Modals and Tooltips](https://dev.to/mspk97/react-portals-how-they-work-and-when-to-use-them-for-modals-and-tooltips-32o4)
-- [I Built a Drag-and-Drop Kanban Board with Vanilla JavaScript](https://dev.to/praise-04-dev/i-built-a-drag-and-drop-kanban-board-with-vanilla-javascript-j31)
-- [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk)
-- [Free, Unrestricted, and Almost as Easy: Reading SEC Filings with a Prompt](https://dev.to/jaroslav_marda_9f25d4d9c/free-unrestricted-and-almost-as-easy-reading-sec-filings-with-a-prompt-44ai)
-- [🔥 I’m Done Building ATLOCK Just to “Make It Work.”](https://dev.to/akhourianmolkumar/im-done-building-atlock-just-to-make-it-work-30mk)
+- [Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse &lpar;CSV, JSON, Parquet&rpar;](https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk)
+- [Cloud Cost Per Customer: Unit Economics Without Rebuilding Your Data Warehouse](https://dev.to/zop_8abedcc7e12/cloud-cost-per-customer-unit-economics-without-rebuilding-your-data-warehouse-5do0)
+- [Kubernetes Networking [Level-8: kube-proxy / iptables / IPVS / eBPF]](https://dev.to/iadiraj/kubernetes-networking-level-8-kube-proxy-iptables-ipvs-ebpf-4alm)
+- [Why Your AI Agent Breaks Under Scrutiny — Lessons from Production Agent Frameworks, Self-Correction Prompts, and Real Bug Reports](https://dev.to/tamizuddin/why-your-ai-agent-breaks-under-scrutiny-lessons-from-production-agent-frameworks-self-correction-5fb5)
+- [MCP vs. API: Why Traditional APIs Aren&#39;t Enough for AI Agents](https://dev.to/cpathirage/mcp-vs-api-why-traditional-apis-arent-enough-for-ai-agents-go2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
