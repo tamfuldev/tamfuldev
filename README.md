@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Chat Box: OpenAI&#39;s OS-level Agent and Its Plaintext Problem](https://dev.to/albertomontagnese/beyond-the-chat-box-openais-os-level-agent-and-its-plaintext-problem-3aek)
-- [Debugging Like a Jedi: Finding the Bug in the Force](https://dev.to/timevolt/debugging-like-a-jedi-finding-the-bug-in-the-force-3h77)
-- [GrapheneOS in 2027 available on high-end Motorola phones](https://dev.to/technoblogger14o3/grapheneos-in-2027-available-on-high-end-motorola-phones-3i3l)
-- [I Replaced kube-proxy with eBPF in Production &lpar;And Why My Monitoring Went Blind for 6 Hours&rpar;](https://dev.to/le_beltagy/i-replaced-kube-proxy-with-ebpf-in-production-and-why-my-monitoring-went-blind-for-6-hours-1lkb)
-- [Build a Niche Newsletter Empire With AI: How I Automated $2,400/Month in Recurring Revenue](https://dev.to/sinan_koak_4a6dea677278a/build-a-niche-newsletter-empire-with-ai-how-i-automated-2400month-in-recurring-revenue-55n4)
+- [AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8)
+- [Quantum Computing: A Complete Learning Path](https://dev.to/malcolmlow/quantum-computing-a-complete-learning-path-3c67)
+- [Building an AI-Powered Security TUI with Rust and MCP](https://dev.to/owaspblt/building-an-ai-powered-security-tui-with-rust-and-mcp-oj9)
+- [# Build Log #1: Processing my first Sentinel-2 pass in 48 hours](https://dev.to/ptzivras/-build-log-1-processing-my-first-sentinel-2-pass-in-48-hours-8p9)
+- [Point-in-Time Fundamentals for Numerai Signals: Killing Lookahead in Your Feature Join](https://dev.to/tradevodata/point-in-time-fundamentals-for-numerai-signals-killing-lookahead-in-your-feature-join-1h54)
 <!-- BLOG-POST-LIST:END -->
 
 ---
