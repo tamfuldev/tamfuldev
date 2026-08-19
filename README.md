@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MiniMax H3 Beyond Basic Generation: R2V, Video Editing, Voice Cloning, and Agent-Written Prompts](https://dev.to/gridport/minimax-h3-beyond-basic-generation-r2v-video-editing-voice-cloning-and-agent-written-prompts-3j8m)
-- [Recover a Bricked Framework 13 with a DIY USB Flash](https://dev.to/robust_true_try/recover-a-bricked-framework-13-with-a-diy-usb-flash-9li)
-- [The AI Review Trap: Why 9 Out of 10 Models Just Parrot Your Docs](https://dev.to/insight105/the-ai-review-trap-why-9-out-of-10-models-just-parrot-your-docs-d67)
-- [Circular Foreign Keys: Why the First Row Cannot Be Inserted](https://dev.to/tbson87/circular-foreign-keys-why-the-first-row-cannot-be-inserted-30h5)
-- [PostgreSQL timestamp vs timestamptz: Which to Use and How to Find the Wrong Ones](https://dev.to/tbson87/postgresql-timestamp-vs-timestamptz-which-to-use-and-how-to-find-the-wrong-ones-57cf)
+- [open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation](https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak)
+- [Prompt injection: your customer-facing AI is an attack surface](https://dev.to/fetchply/prompt-injection-your-customer-facing-ai-is-an-attack-surface-g34)
+- [The Model Did Not Change: The Test Was Comparing Strings, Not Behavior](https://dev.to/codepy_1473/the-model-did-not-change-the-test-was-comparing-strings-not-behavior-4ahd)
+- [White Label ICT Software Vendors Inherit Every Reseller&#39;s AI Mistake](https://dev.to/tahiralmas/white-label-ict-software-vendors-inherit-every-resellers-ai-mistake-5cm9)
+- [Navigating AWS Solution Architecture: Real-World Lessons and Key Exam Insights](https://dev.to/itzaustinreed/navigating-aws-solution-architecture-real-world-lessons-and-key-exam-insights-4nil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
