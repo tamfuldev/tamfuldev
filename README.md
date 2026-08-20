@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Strands on AgentCore, Answering Two Other Clouds: The Contract, the Header, and the microVM](https://dev.to/aws-builders/strands-on-agentcore-answering-two-other-clouds-the-contract-the-header-and-the-microvm-4j6a)
-- [ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9)
-- [Understanding Chatbots and API Integration: Building a Better Support Experience](https://dev.to/muthushivani_a3e9694edaa0/understanding-chatbots-and-api-integration-building-a-better-support-experience-2j5l)
-- [Introducing Quero](https://dev.to/aceyash/introducing-quero-4mgf)
-- [DEPENDENCY INVERSION PRINCIPLE](https://dev.to/victorlisbronzo/dependency-inversion-principle-5a99)
+- [7 Security Checks Before Installing a New Developer Tool](https://dev.to/mostafatech/7-security-checks-before-installing-a-new-developer-tool-5e44)
+- [From Python to Go: rewriting a CrewAI workflow in pure stdlib](https://dev.to/rhgs/from-python-to-go-rewriting-a-crewai-workflow-in-pure-stdlib-47nm)
+- [A Slow Task Runner Is Not a Dead Task Runner](https://dev.to/lucioliu/a-slow-task-runner-is-not-a-dead-task-runner-1hb7)
+- [The Reasoning Ledger: Remembering Decisions, Not Just Data](https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm)
+- [Looking for 100 technical testers: SecondGate &lpar;WordPress security &amp; passkeys, no cloud dependency&rpar;](https://dev.to/secondgatewp/looking-for-100-technical-testers-secondgate-wordpress-security-passkeys-no-cloud-dependency-5b3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
