@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Buying a phone number is a distributed transaction](https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/first_name_alice/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-1cp0)
-- [Clean code isn&#39;t what I thought it was](https://dev.to/alekswritescode/clean-code-isnt-what-i-thought-it-was-2akk)
-- [Building an interactive WebGL water hero in React — and the four bugs it cost me](https://dev.to/melissuki/building-an-interactive-webgl-water-hero-in-react-and-the-four-bugs-it-cost-me-4n7f)
-- [What Is a Vulnerability, Really? Source, Sink, and Taint](https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75)
+- [The Serverless Equation: Conquering the Cold Start in Real-Time AI Inference](https://dev.to/informatiqs1/the-serverless-equation-conquering-the-cold-start-in-real-time-ai-inference-4bfd)
+- [Beyond the Vector: Why Graph Neural Networks are the Strategic Choice for Enterprise Generative AI on GCP](https://dev.to/informatiqs1/beyond-the-vector-why-graph-neural-networks-are-the-strategic-choice-for-enterprise-generative-ai-4n92)
+- [OpenAI Is Testing a Button to Reset ChatGPT’s Limits — For $8](https://dev.to/theaidownside/openai-is-testing-a-button-to-reset-chatgpts-limits-for-8-20pf)
+- [The Active Flag Trap: unvalidated-but-logged-in in CakeDC/Users](https://dev.to/viniciusbig/the-active-flag-trap-unvalidated-but-logged-in-in-cakedcusers-c8a)
+- [Show DEV: Strata – Inspect your coding agent sessions](https://dev.to/stele/show-dev-strata-inspect-your-coding-agent-sessions-278b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
