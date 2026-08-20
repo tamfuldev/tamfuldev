@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué es la criptografía post-cuántica y por qué deberías migrar ya?](https://dev.to/isazajuancarlos/que-es-la-criptografia-post-cuantica-y-por-que-deberias-migrar-ya-1l45)
-- [Opinion: Repo Tests Are a Compromised Oracle for AI Patches — Probe the Contract the Model Never Saw](https://dev.to/github_7727/opinion-repo-tests-are-a-compromised-oracle-for-ai-patches-probe-the-contract-the-model-never-saw-5d5i)
-- [Building Enterprise Storage, Backups &amp; Cosign Image Security in Go &amp; Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
-- [Twitter API Guide: Search Tweets, Scrape Data, and Automate](https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn)
-- [The 2026 AI Agent Stack: From Local Execution to Governance Layer](https://dev.to/tamizuddin/the-2026-ai-agent-stack-from-local-execution-to-governance-layer-2dc9)
+- [FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New FFmpeg, FFprobe &amp; FFplay Features for Flutter and React Native](https://dev.to/akashskypatel/ffmpeg-kit-extended-upgraded-to-ffmpeg-901-new-ffmpeg-ffprobe-ffplay-features-for-flutter-and-1fgg)
+- [A leveled map of 149 GenAI tools — sorted by concept depth, not hype](https://dev.to/maneesh_thakur_d16c2852fa/a-leveled-map-of-149-genai-tools-sorted-by-concept-depth-not-hype-18ch)
+- [What If AI Is Just Telling You What You Want to Hear?](https://dev.to/dev_hajare_d11ce990734a91/what-if-ai-is-just-telling-you-what-you-want-to-hear-o81)
+- [Infrastructure requirements for running agents in production · TokenGO](https://dev.to/bingusbongo/infrastructure-requirements-for-running-agents-in-productionaug-14-2026-tokengo-35ng)
+- [npm v12 silently skips install scripts — here&#39;s how to check if that breaks you](https://dev.to/tixy/npm-v12-silently-skips-install-scripts-heres-how-to-check-if-that-breaks-you-5hmj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
