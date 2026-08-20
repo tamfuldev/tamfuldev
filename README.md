@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WebMCP Agentic Web: Debugging 2‑Second Latency Spikes](https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a)
-- [How to Convert PDF to Word in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co)
-- [Trust Scores for Agents: How a Trust Rating Actually Gets Computed](https://dev.to/dzhc/trust-scores-for-agents-how-a-trust-rating-actually-gets-computed-13l8)
-- [Conectando Strava ao Claude através de MCP](https://dev.to/junior_carvalho/conectando-strava-no-claude-atraves-de-mcp-3ddf)
-- [I got tired of writing boilerplate imports, so I built Block: Run Python, JS, and Lua in a single file](https://dev.to/o-o1112/i-got-tired-of-writing-boilerplate-imports-so-i-built-block-run-python-js-and-lua-in-a-single-gph)
+- [Strands on AgentCore, Answering Two Other Clouds: The Contract, the Header, and the microVM](https://dev.to/aws-builders/strands-on-agentcore-answering-two-other-clouds-the-contract-the-header-and-the-microvm-4j6a)
+- [ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9)
+- [Understanding Chatbots and API Integration: Building a Better Support Experience](https://dev.to/muthushivani_a3e9694edaa0/understanding-chatbots-and-api-integration-building-a-better-support-experience-2j5l)
+- [Introducing Quero](https://dev.to/aceyash/introducing-quero-4mgf)
+- [DEPENDENCY INVERSION PRINCIPLE](https://dev.to/victorlisbronzo/dependency-inversion-principle-5a99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
