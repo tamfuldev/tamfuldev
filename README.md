@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My AI-Written Test Suite Hit 94% Coverage. Then I Mutated the Code.](https://dev.to/magickong/my-ai-written-test-suite-hit-94-coverage-then-i-mutated-the-code-3k1a)
-- [Setting up an IPv6 only VM](https://dev.to/laurencet/setting-up-an-ipv6-only-vm-2dcl)
-- [Running LM Studio Locally Doesn&#39;t Mean It Never Connects Out](https://dev.to/k-wada/running-lm-studio-locally-doesnt-mean-it-never-connects-out-keb)
-- [Building Real-Time Analytics for a WhatsApp Native CRM](https://dev.to/indra_gunanda_62bce13f91e/building-real-time-analytics-for-a-whatsapp-native-crm-4d0h)
-- [Stop Selling AI‑Sell The Outcome: Monetization Lessons For Indie Builders](https://dev.to/buildpilots/stop-selling-ai-sell-the-outcome-monetization-lessons-for-indie-builders-30co)
+- [Claude Code Context Usage: Diagnose Unnecessary Tokens](https://dev.to/bettertoken_ai/claude-code-context-usage-diagnose-unnecessary-tokens-476e)
+- [Production-Grade CI/CD for Databricks: The Gatekeeping Strategy Real Teams Use](https://dev.to/anshul_02/production-grade-cicd-for-databricks-the-gatekeeping-strategy-real-teams-use-2c7a)
+- [Understanding Longest Common Prefix with a Simple Approach](https://dev.to/sonamittal7/understanding-longest-common-prefix-with-a-simple-approach-jp8)
+- [Testing Next.js App Router API Routes Without Leaving Your Editor](https://dev.to/saurowankhade/testing-nextjs-app-router-api-routes-without-leaving-your-editor-372n)
+- [Invoked, not executed](https://dev.to/thekilteddev/invoked-not-executed-1cg8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
