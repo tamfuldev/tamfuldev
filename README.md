@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Serverless Equation: Conquering the Cold Start in Real-Time AI Inference](https://dev.to/informatiqs1/the-serverless-equation-conquering-the-cold-start-in-real-time-ai-inference-4bfd)
-- [Beyond the Vector: Why Graph Neural Networks are the Strategic Choice for Enterprise Generative AI on GCP](https://dev.to/informatiqs1/beyond-the-vector-why-graph-neural-networks-are-the-strategic-choice-for-enterprise-generative-ai-4n92)
-- [OpenAI Is Testing a Button to Reset ChatGPT’s Limits — For $8](https://dev.to/theaidownside/openai-is-testing-a-button-to-reset-chatgpts-limits-for-8-20pf)
-- [The Active Flag Trap: unvalidated-but-logged-in in CakeDC/Users](https://dev.to/viniciusbig/the-active-flag-trap-unvalidated-but-logged-in-in-cakedcusers-c8a)
-- [Show DEV: Strata – Inspect your coding agent sessions](https://dev.to/stele/show-dev-strata-inspect-your-coding-agent-sessions-278b)
+- [I Brought IdentityServer Back to Life as Open Source &lpar;.NET 8&rpar;](https://dev.to/richard_vquezprez_c356/i-brought-identityserver-back-to-life-as-open-source-net-8-3374)
+- [Two YubiKeys, One Prompt Too Many](https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78)
+- [My Wi-Fi networks](https://dev.to/glenw/my-wi-fi-networks-3ee8)
+- [Adding Semantic Search to an Existing DynamoDB Table with Vector Indexes](https://dev.to/aws-builders/adding-semantic-search-to-an-existing-dynamodb-table-with-vector-indexes-4icj)
+- [I Rebuilt My Laboratory System Into a Hospital Management Platform — And Learned That Bigger Isn&#39;t Always Better](https://dev.to/mangi_lerinelasliejr_96/i-rebuilt-my-laboratory-system-into-a-hospital-management-platform-and-learned-that-bigger-isnt-k2f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
