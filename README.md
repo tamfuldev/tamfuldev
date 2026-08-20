@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Context Usage: Diagnose Unnecessary Tokens](https://dev.to/bettertoken_ai/claude-code-context-usage-diagnose-unnecessary-tokens-476e)
-- [Production-Grade CI/CD for Databricks: The Gatekeeping Strategy Real Teams Use](https://dev.to/anshul_02/production-grade-cicd-for-databricks-the-gatekeeping-strategy-real-teams-use-2c7a)
-- [Understanding Longest Common Prefix with a Simple Approach](https://dev.to/sonamittal7/understanding-longest-common-prefix-with-a-simple-approach-jp8)
-- [Testing Next.js App Router API Routes Without Leaving Your Editor](https://dev.to/saurowankhade/testing-nextjs-app-router-api-routes-without-leaving-your-editor-372n)
-- [Invoked, not executed](https://dev.to/thekilteddev/invoked-not-executed-1cg8)
+- [Driving DaVinci Resolve&#39;s Free Edition with Claude, From Inside the App](https://dev.to/_leesam_ded8ba7b9a7e/driving-davinci-resolves-free-edition-with-claude-from-inside-the-app-4h19)
+- [The Smallest Fix With The Biggest Impact [Skips VS Technology Edition]](https://dev.to/joycefosterr/the-smallest-fix-with-the-biggest-impactskips-vs-technology-edition-2id6)
+- [AI-Generated Code Vulnerability Exploited by Autonomous Agent in Snowflake](https://dev.to/davekurian/ai-generated-code-vulnerability-exploited-by-autonomous-agent-in-snowflake-3ihd)
+- [I built an MCP memory server for one user &lpar;me, for six weeks&rpar;](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)
+- [Understanding PHP-FPM&#39;s process manager &lpar;by actually watching it&rpar;](https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
