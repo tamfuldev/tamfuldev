@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)
-- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
-- [What&#39;s New in Go 1.27: A Developer&#39;s Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622)
-- [How to Track AI Code Assistant Spend Across Every Vendor &lpar;2026 Guide&rpar;](https://dev.to/rebeca_vb/how-to-track-ai-code-assistant-spend-across-every-vendor-2026-guide-1kp8)
-- [The loading screen that took down every browser I opened](https://dev.to/carlosjcastrog/the-loading-screen-that-took-down-every-browser-i-opened-3pe8)
+- [Why I Tell My AI Coding Agent: &quot;Prefer Dart Over Python&quot;](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
+- [🧠 SnapMind is Back! A Long-Overdue Update](https://dev.to/louis7/snapmind-is-back-a-long-overdue-update-3lp6)
+- [DeepSeek Harness “Everything Is a Plugin”: choose the right Cordis extension seam](https://dev.to/ahab_indieseek/deepseek-harness-everything-is-a-plugin-choose-the-right-cordis-extension-seam-4773)
+- [LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6](https://dev.to/anoymask/lshiy-large-scale-password-spraying-abusing-ropc-and-ipv6-26cb)
+- [One hard question is a better database acceptance test than ten easy ones](https://dev.to/mads_hansen_27b33ebfee4c9/one-hard-question-is-a-better-database-acceptance-test-than-ten-easy-ones-4lnm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
