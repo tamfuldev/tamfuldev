@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
-- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
-- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/go-127s-simd-ties-with-numpy-until-the-data-fits-in-cache-2bm8)
-- [Sessioni sicure: flash data, timeout e protezione anti-fixation](https://dev.to/dev_iadicola/sessioni-sicure-flash-data-timeout-e-protezione-anti-fixation-1lai)
-- [COSS Weekly: Databricks acquires Electric, Stripe reportedly acquires OpenRouter, Temporal in talks for $500M, and more](https://dev.to/sabirchinstrap/coss-weekly-databricks-acquires-electric-stripe-reportedly-acquires-openrouter-temporal-in-talks-17d6)
+- [¿Qué es la criptografía post-cuántica y por qué deberías migrar ya?](https://dev.to/isazajuancarlos/que-es-la-criptografia-post-cuantica-y-por-que-deberias-migrar-ya-1l45)
+- [Opinion: Repo Tests Are a Compromised Oracle for AI Patches — Probe the Contract the Model Never Saw](https://dev.to/github_7727/opinion-repo-tests-are-a-compromised-oracle-for-ai-patches-probe-the-contract-the-model-never-saw-5d5i)
+- [Building Enterprise Storage, Backups &amp; Cosign Image Security in Go &amp; Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+- [Twitter API Guide: Search Tweets, Scrape Data, and Automate](https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn)
+- [The 2026 AI Agent Stack: From Local Execution to Governance Layer](https://dev.to/tamizuddin/the-2026-ai-agent-stack-from-local-execution-to-governance-layer-2dc9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
