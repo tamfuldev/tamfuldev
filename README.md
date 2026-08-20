@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Driving DaVinci Resolve&#39;s Free Edition with Claude, From Inside the App](https://dev.to/_leesam_ded8ba7b9a7e/driving-davinci-resolves-free-edition-with-claude-from-inside-the-app-4h19)
-- [The Smallest Fix With The Biggest Impact [Skips VS Technology Edition]](https://dev.to/joycefosterr/the-smallest-fix-with-the-biggest-impactskips-vs-technology-edition-2id6)
-- [AI-Generated Code Vulnerability Exploited by Autonomous Agent in Snowflake](https://dev.to/davekurian/ai-generated-code-vulnerability-exploited-by-autonomous-agent-in-snowflake-3ihd)
-- [I built an MCP memory server for one user &lpar;me, for six weeks&rpar;](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)
-- [Understanding PHP-FPM&#39;s process manager &lpar;by actually watching it&rpar;](https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g)
+- [So... Vercel doesn&#39;t have built-in email?](https://dev.to/pablodevrel/how-to-set-up-email-on-vercel-with-amelu-free-tier-34oe)
+- [How Does a Database Actually Store Your Data?](https://dev.to/jishnusaha89/how-does-a-database-actually-store-your-data-17f1)
+- [Beta‑testing API Gateway for Chinese‑origin LLMs — Free Test Quota for Feedback](https://dev.to/zephyr2026/beta-testing-api-gateway-for-chinese-origin-llms-free-test-quota-for-feedback-19oi)
+- [I built flutter_auditor — a zero-config CLI tool to audit Flutter apps for permissions, dead assets, security risks, and package hygiene](https://dev.to/dt14/i-built-flutterauditor-a-zero-config-cli-tool-to-audit-flutter-apps-for-permissions-dead-149n)
+- [Hands-on: dedicated Lumpcode daemon](https://dev.to/dyod/hands-on-dedicated-lumpcode-daemon-5c38)
 <!-- BLOG-POST-LIST:END -->
 
 ---
