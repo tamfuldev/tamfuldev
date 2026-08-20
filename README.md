@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Critical Content Should Not Depend on Client-Side Rendering](https://dev.to/alifar/why-critical-content-should-not-depend-on-client-side-rendering-1p4a)
-- [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
-- [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
-- [How we expose a full project tracker over MCP &lpar;so agents can file and close issues&rpar;](https://dev.to/omarharis/how-we-expose-a-full-project-tracker-over-mcp-so-agents-can-file-and-close-issues-3dn5)
-- [Google Expands Gemini Student Access Globally, Raising Governance Questions for Education](https://dev.to/alifar/google-expands-gemini-student-access-globally-raising-governance-questions-for-education-k43)
+- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)
+- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
+- [What&#39;s New in Go 1.27: A Developer&#39;s Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622)
+- [How to Track AI Code Assistant Spend Across Every Vendor &lpar;2026 Guide&rpar;](https://dev.to/rebeca_vb/how-to-track-ai-code-assistant-spend-across-every-vendor-2026-guide-1kp8)
+- [The loading screen that took down every browser I opened](https://dev.to/carlosjcastrog/the-loading-screen-that-took-down-every-browser-i-opened-3pe8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
