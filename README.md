@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [So... Vercel doesn&#39;t have built-in email?](https://dev.to/pablodevrel/how-to-set-up-email-on-vercel-with-amelu-free-tier-34oe)
-- [How Does a Database Actually Store Your Data?](https://dev.to/jishnusaha89/how-does-a-database-actually-store-your-data-17f1)
-- [Beta‑testing API Gateway for Chinese‑origin LLMs — Free Test Quota for Feedback](https://dev.to/zephyr2026/beta-testing-api-gateway-for-chinese-origin-llms-free-test-quota-for-feedback-19oi)
-- [I built flutter_auditor — a zero-config CLI tool to audit Flutter apps for permissions, dead assets, security risks, and package hygiene](https://dev.to/dt14/i-built-flutterauditor-a-zero-config-cli-tool-to-audit-flutter-apps-for-permissions-dead-149n)
-- [Hands-on: dedicated Lumpcode daemon](https://dev.to/dyod/hands-on-dedicated-lumpcode-daemon-5c38)
+- [The Design Workflow That Makes an Expo Template Stop Looking Like an Expo Template](https://dev.to/chris_fa_8fca9f4ba09d963/the-design-workflow-that-makes-an-expo-template-stop-looking-like-an-expo-template-1f08)
+- [WHY YOUR REACT APP RE-RENDERS TOO MUCH &lpar;AND WHAT ACTUALLY FIXES IT&rpar;](https://dev.to/qodors/why-your-react-app-re-renders-too-much-and-what-actually-fixes-it-3ofj)
+- [Your Claude Code Hooks Are Costing You Minutes a Day — Here&#39;s How I Measured It](https://dev.to/bokuwalily/your-claude-code-hooks-are-costing-you-minutes-a-day-heres-how-i-measured-it-4im4)
+- [Authentication at Scale: Sessions, JWT, Tokens, OAuth &amp; Distributed Auth](https://dev.to/tanu_priya/authentication-at-scale-sessions-jwt-tokens-oauth-distributed-auth-4aef)
+- [Stop Over-Engineering Your Indie Project](https://dev.to/ntty/stop-over-engineering-your-indie-project-3j0h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
