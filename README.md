@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How We Handle Client-Side CSV Merging Without Server Processing](https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8)
-- [OpenAI Rolls Out Flexible Codex Pricing for Business and Enterprise Teams](https://dev.to/alifar/openai-rolls-out-flexible-codex-pricing-for-business-and-enterprise-teams-1p3f)
-- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
-- [OpenAI GPT-5.6 Pricing Update Cuts Terra and Luna Costs, Leaves Sol Unchanged](https://dev.to/alifar/openai-gpt-56-pricing-update-cuts-terra-and-luna-costs-leaves-sol-unchanged-4ac7)
-- [What I Learned Contributing to Prefect, dbt, and Airflow &lpar;An Honest OSS Retrospective&rpar;](https://dev.to/bobby_ray_581732c715283b2/what-i-learned-contributing-to-prefect-dbt-and-airflow-an-honest-oss-retrospective-1ki8)
+- [My First UWA Widget for Netvibes and iGoogle &lpar;2009&rpar;](https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln)
+- [GreaseMonkey, or How to Enhance Your Web Experience &lpar;2008&rpar;](https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003)
+- [Hacking My Nabaztag: Reading MSN Messages Out Loud With a Talking Rabbit &lpar;2008&rpar;](https://dev.to/hamdi_laadhari/hacking-my-nabaztag-reading-msn-messages-out-loud-with-a-talking-rabbit-2008-4ifj)
+- [Fixing a Snapcraft Build that had been Broken for Two Years](https://dev.to/professortom/fixing-a-snapcraft-build-that-had-been-broken-for-two-years-1140)
+- [You don&#39;t search for the key, you search for English: how cipher auto-solvers actually work](https://dev.to/textmachine/you-dont-search-for-the-key-you-search-for-english-how-cipher-auto-solvers-actually-work-42lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
