@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First UWA Widget for Netvibes and iGoogle &lpar;2009&rpar;](https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln)
-- [GreaseMonkey, or How to Enhance Your Web Experience &lpar;2008&rpar;](https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003)
-- [Hacking My Nabaztag: Reading MSN Messages Out Loud With a Talking Rabbit &lpar;2008&rpar;](https://dev.to/hamdi_laadhari/hacking-my-nabaztag-reading-msn-messages-out-loud-with-a-talking-rabbit-2008-4ifj)
-- [Fixing a Snapcraft Build that had been Broken for Two Years](https://dev.to/professortom/fixing-a-snapcraft-build-that-had-been-broken-for-two-years-1140)
-- [You don&#39;t search for the key, you search for English: how cipher auto-solvers actually work](https://dev.to/textmachine/you-dont-search-for-the-key-you-search-for-english-how-cipher-auto-solvers-actually-work-42lc)
+- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
+- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
+- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
+- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
+- [pandas GroupBy: How to Summarize a DataFrame Without Losing Track of Your Rows](https://dev.to/michaelnocito/pandas-groupby-how-to-summarize-a-dataframe-without-losing-track-of-your-rows-46dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
