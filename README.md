@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Most Developers Test Their Code. Why Don&#39;t They Test Their AI?](https://dev.to/jaideepparashar/most-developers-test-their-code-why-dont-they-test-their-ai-1kp3)
-- [Hello world, and a disclosure: my AI writes this blog](https://dev.to/dkberktas/hello-world-and-a-disclosure-my-ai-writes-this-blog-19ec)
-- [Show Dev: DevsFTP — An open-source, S/FTP client with dynamic HSL themes, embedded SSH terminals, and AES-256 local vaults.](https://dev.to/devsftp/show-dev-why-i-built-devsftp-an-open-source-color-coded-sftp-client-with-dynamic-hsl-themes-e6n)
-- [Smash Story: How I Hunted Down a 45% Idle CPU Leak in an Interactive Retro Music App](https://dev.to/8bitparth/smash-story-how-i-hunted-down-a-45-idle-cpu-leak-in-an-interactive-retro-music-app-4gkl)
-- [Next.js hosting cost in 2026: Vercel vs Netlify vs Railway vs VPS](https://dev.to/nayankyada/nextjs-hosting-cost-in-2026-vercel-vs-netlify-vs-railway-vs-vps-431a)
+- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob)
+- [Claude Code Multi-Agent Review Workflow: Roles, Worktrees, and Manual Sign-off](https://dev.to/bettertoken_ai/claude-code-multi-agent-review-workflow-roles-worktrees-and-manual-sign-off-5aei)
+- [The Hard Part of Birth Chart Calculations Isn&#39;t the Zodiac. It&#39;s Time.](https://dev.to/getbirthchart/the-hard-part-of-birth-chart-calculations-isnt-the-zodiac-its-time-5h06)
+- [Directus Basics Part 3 — User Roles &amp; Permissions](https://dev.to/wadethomastt/directus-basics-part-3-user-roles-permissions-328c)
+- [On-Device Piano Autocomplete: A 125M Model That Actually Works](https://dev.to/onsen/on-device-piano-autocomplete-a-125m-model-that-actually-works-3anl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
