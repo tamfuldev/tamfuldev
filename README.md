@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smashing eBPF Buffer Leaks: Achieving Zero-Drop Telemetry with Python &amp; Google AI Studio](https://dev.to/solomon1029/smashing-ebpf-buffer-leaks-achieving-zero-drop-telemetry-with-rust-google-ai-studio-14e5)
-- [If You Can&#39;t Build AGI, Then Why Should We Hire You?](https://dev.to/wiseai/if-you-cant-build-agi-then-why-should-we-hire-you-b87)
-- [Give your AI sub-agent a budget, not your keys](https://dev.to/grantor/give-your-ai-sub-agent-a-budget-not-your-keys-2e7h)
-- [I Told My LLM Critic to Be Adversarial. It Started Blocking Plans for Being &#39;Not Thorough Enough.&#39;](https://dev.to/debashish_ghosal/i-told-my-llm-critic-to-be-adversarial-it-started-blocking-plans-for-being-not-thorough-enough-172)
-- [The Ghost in the Graph: Catching Unbounded Recursion &amp; Taint Drift with Gemini 1.5 Pro](https://dev.to/solomon1029/the-ghost-in-the-graph-catching-unbounded-recursion-taint-drift-with-gemini-15-pro-4bbb)
+- [Outputting Data: Why Sofya Beats Python in Simplicity](https://dev.to/simple_code/outputting-data-why-sofya-beats-python-in-simplicity-47pk)
+- [Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.](https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm)
+- [How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks](https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k)
+- [Migrating an Express Backend to Vercel Functions Without Downtime](https://dev.to/gabbs279/migrating-an-express-backend-to-vercel-functions-without-downtime-3kal)
+- [Why Not to Use Monday.com](https://dev.to/brainbrutalism/why-not-to-use-mondaycom-2eb6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
