@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wait, Square Brackets Aren&#39;t Just for Arrays? — A Controlled Component Gotcha](https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m)
-- [System Design Fundamentals I Wish I Had Learned Earlier](https://dev.to/anoop_kumar_63925e275ea06/system-design-fundamentals-i-wish-i-had-learned-earlier-2o8h)
-- [I built a fully serverless AWS learning platform with Claude — here&#39;s how it went](https://dev.to/tomascody-web333/i-built-a-fully-serverless-aws-learning-platform-with-claude-heres-how-it-went-2gjd)
-- [I Solved Double-Booking Without Locks — Using One PostgreSQL Constraint](https://dev.to/akincskn/i-solved-double-booking-without-locks-using-one-postgresql-constraint-160)
-- [Why Scroll-First Date Pickers Work Better on Mobile](https://dev.to/rolldate/why-scroll-first-date-pickers-work-better-on-mobile-29al)
+- [Adding evidence of innocence made our sessions look more like bots](https://dev.to/oleh_tsyupa_bdb40da1bbe8a/adding-evidence-of-innocence-made-our-sessions-look-more-like-bots-16c2)
+- [Context Is Part of an Agent&#39;s Authority](https://dev.to/mspro3210/context-is-part-of-an-agents-authority-35f6)
+- [LTX-2.5: How a Diffusion-Based Video Decoder Changes the Open-Weights Video Generation Stack](https://dev.to/prabhakar_chaudhary_7afe4/ltx-25-how-a-diffusion-based-video-decoder-changes-the-open-weights-video-generation-stack-4808)
+- [I Built an AI Memory App That Lets You See, Edit, and Control Everything It Remembers](https://dev.to/effessdev/i-built-an-ai-memory-app-that-lets-you-see-edit-and-control-everything-it-remembers-404d)
+- [Designing a HIPAA Telehealth MVP Stack: 7 Architecture Decisions Developers Must Make](https://dev.to/kajol_shah/designing-a-hipaa-telehealth-mvp-stack-7-architecture-decisions-developers-must-make-en2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
