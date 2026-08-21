@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adding evidence of innocence made our sessions look more like bots](https://dev.to/oleh_tsyupa_bdb40da1bbe8a/adding-evidence-of-innocence-made-our-sessions-look-more-like-bots-16c2)
-- [Context Is Part of an Agent&#39;s Authority](https://dev.to/mspro3210/context-is-part-of-an-agents-authority-35f6)
-- [LTX-2.5: How a Diffusion-Based Video Decoder Changes the Open-Weights Video Generation Stack](https://dev.to/prabhakar_chaudhary_7afe4/ltx-25-how-a-diffusion-based-video-decoder-changes-the-open-weights-video-generation-stack-4808)
-- [I Built an AI Memory App That Lets You See, Edit, and Control Everything It Remembers](https://dev.to/effessdev/i-built-an-ai-memory-app-that-lets-you-see-edit-and-control-everything-it-remembers-404d)
-- [Designing a HIPAA Telehealth MVP Stack: 7 Architecture Decisions Developers Must Make](https://dev.to/kajol_shah/designing-a-hipaa-telehealth-mvp-stack-7-architecture-decisions-developers-must-make-en2)
+- [I Built a Full-Stack Flutter Expense Splitting App — Here&#39;s What I Learned](https://dev.to/mtahir27/i-built-a-full-stack-flutter-expense-splitting-app-heres-what-i-learned-5gn3)
+- [Smart MCP Proxy — Hot-Swap MCP Aggregation + AI Concierge](https://dev.to/milkyway008/smart-mcp-proxy-hot-swap-mcp-aggregation-ai-concierge-59fj)
+- [Kubernetes for Beginners: From Local to Production – A Quest Worth the Ring &lpar;Lord of the Rings&rpar;](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-worth-the-ring-lord-of-the-rings-18hi)
+- [Docker for Developers: 10 Practical Things You Should Know Before Deploying an App](https://dev.to/arthur_luca/docker-for-developers-10-practical-things-you-should-know-before-deploying-an-app-53n8)
+- [Why I am Switching To UV and why you should too!](https://dev.to/gracenimimi/why-i-am-switching-to-uv-and-why-you-should-too-4b84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
