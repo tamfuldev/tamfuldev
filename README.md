@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Brought IdentityServer Back to Life as Open Source &lpar;.NET 8&rpar;](https://dev.to/richard_vquezprez_c356/i-brought-identityserver-back-to-life-as-open-source-net-8-3374)
-- [Two YubiKeys, One Prompt Too Many](https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78)
-- [My Wi-Fi networks](https://dev.to/glenw/my-wi-fi-networks-3ee8)
-- [Adding Semantic Search to an Existing DynamoDB Table with Vector Indexes](https://dev.to/aws-builders/adding-semantic-search-to-an-existing-dynamodb-table-with-vector-indexes-4icj)
-- [I Rebuilt My Laboratory System Into a Hospital Management Platform — And Learned That Bigger Isn&#39;t Always Better](https://dev.to/mangi_lerinelasliejr_96/i-rebuilt-my-laboratory-system-into-a-hospital-management-platform-and-learned-that-bigger-isnt-k2f)
+- [Debugging a Windows Desktop App That Opens to a Blank Screen](https://dev.to/wangwang_huang/debugging-a-windows-desktop-app-that-opens-to-a-blank-screen-12ai)
+- [The Principle of Least Privilege: Why File Permissions Like 600/644/755 Exist](https://dev.to/susumun/the-principle-of-least-privilege-why-file-permissions-like-600644755-exist-2a5o)
+- [What&#39;s an event loop anyways?](https://dev.to/johnrushwrs/whats-an-event-loop-anyways-1n6o)
+- [iCloud Silently Evicted 69 Article Files and Killed 4 Days of Publishing: EDEADLK and a read_text_resilient Design](https://dev.to/bokuwalily/icloud-silently-evicted-69-article-files-and-killed-4-days-of-publishing-edeadlk-and-a-1n6i)
+- [From kanban to harness: when the tracking tool becomes the orchestrator](https://dev.to/ekioo/from-kanban-to-harness-when-the-tracking-tool-becomes-the-orchestrator-34id)
 <!-- BLOG-POST-LIST:END -->
 
 ---
