@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h)
-- [Running Terraform Enterprise Active-Active on OpenShift: Lessons Learned](https://dev.to/methridge/running-terraform-enterprise-active-active-on-openshift-lessons-learned-53o8)
-- [How I Structure a Terraform Module](https://dev.to/methridge/how-i-structure-a-terraform-module-2gl2)
-- [As Engineers, LLMs should pay us for tokens usage.](https://dev.to/wiseai/as-engineers-llms-should-pay-us-for-tokens-usage-11ic)
-- [UniSin - LinkdIn Post Scheduler](https://dev.to/sameermistrii/unisin-linkdin-post-scheduler-10jh)
+- [Smashing eBPF Buffer Leaks: Achieving Zero-Drop Telemetry with Python &amp; Google AI Studio](https://dev.to/solomon1029/smashing-ebpf-buffer-leaks-achieving-zero-drop-telemetry-with-rust-google-ai-studio-14e5)
+- [If You Can&#39;t Build AGI, Then Why Should We Hire You?](https://dev.to/wiseai/if-you-cant-build-agi-then-why-should-we-hire-you-b87)
+- [Give your AI sub-agent a budget, not your keys](https://dev.to/grantor/give-your-ai-sub-agent-a-budget-not-your-keys-2e7h)
+- [I Told My LLM Critic to Be Adversarial. It Started Blocking Plans for Being &#39;Not Thorough Enough.&#39;](https://dev.to/debashish_ghosal/i-told-my-llm-critic-to-be-adversarial-it-started-blocking-plans-for-being-not-thorough-enough-172)
+- [The Ghost in the Graph: Catching Unbounded Recursion &amp; Taint Drift with Gemini 1.5 Pro](https://dev.to/solomon1029/the-ghost-in-the-graph-catching-unbounded-recursion-taint-drift-with-gemini-15-pro-4bbb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
