@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full-Stack Flutter Expense Splitting App — Here&#39;s What I Learned](https://dev.to/mtahir27/i-built-a-full-stack-flutter-expense-splitting-app-heres-what-i-learned-5gn3)
-- [Smart MCP Proxy — Hot-Swap MCP Aggregation + AI Concierge](https://dev.to/milkyway008/smart-mcp-proxy-hot-swap-mcp-aggregation-ai-concierge-59fj)
-- [Kubernetes for Beginners: From Local to Production – A Quest Worth the Ring &lpar;Lord of the Rings&rpar;](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-worth-the-ring-lord-of-the-rings-18hi)
-- [Docker for Developers: 10 Practical Things You Should Know Before Deploying an App](https://dev.to/arthur_luca/docker-for-developers-10-practical-things-you-should-know-before-deploying-an-app-53n8)
-- [Why I am Switching To UV and why you should too!](https://dev.to/gracenimimi/why-i-am-switching-to-uv-and-why-you-should-too-4b84)
+- [Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h)
+- [Running Terraform Enterprise Active-Active on OpenShift: Lessons Learned](https://dev.to/methridge/running-terraform-enterprise-active-active-on-openshift-lessons-learned-53o8)
+- [How I Structure a Terraform Module](https://dev.to/methridge/how-i-structure-a-terraform-module-2gl2)
+- [As Engineers, LLMs should pay us for tokens usage.](https://dev.to/wiseai/as-engineers-llms-should-pay-us-for-tokens-usage-11ic)
+- [UniSin - LinkdIn Post Scheduler](https://dev.to/sameermistrii/unisin-linkdin-post-scheduler-10jh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
