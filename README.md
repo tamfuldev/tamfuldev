@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop chasing fads. Operate Claude like a startup founder.](https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b)
-- [Building a Custom REST API in WordPress the Right Way](https://dev.to/kai01916/building-a-custom-rest-api-in-wordpress-the-right-way-164m)
-- [Ruby Pathname Moved to Core, Documentation Upgraded](https://dev.to/burdettelamar/ruby-pathname-moved-to-core-documentation-upgraded-3d00)
-- [How I turned Linear into a customer-facing roadmap without adding client seats](https://dev.to/l_dragssinel_b6c789f3c4b/how-i-turned-linear-into-a-customer-facing-roadmap-without-adding-client-seats-3od0)
-- [.NET 10 JSON Console Logging: Stop Parsing State.Message](https://dev.to/ssukhpinder/net-10-json-console-logging-stop-parsing-statemessage-6p5)
+- [WordPress or Custom Development? The Decision Framework I Use With Clients](https://dev.to/ijaz_khan_afea4eeecd14f86/wordpress-or-custom-development-the-decision-framework-i-use-with-clients-2324)
+- [Oh-My-Pi&#39;s Hash-Anchored Edits: How a Terminal Agent Avoids the \\\\\\\&quot;Replace Entire File\\\\\\\&quot; Trap](https://dev.to/mech_app_ai/oh-my-pis-hash-anchored-edits-how-a-terminal-agent-avoids-the-replace-entire-file-3089)
+- [Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast](https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65)
+- [Coding Is Getting Easier. But System Design Still Matters.](https://dev.to/raiyan_memon/coding-is-getting-easier-but-system-design-still-matters-97j)
+- [Node.js Healthtech Text Summarization SaaS — 4 Chat Completions API Trade-offs](https://dev.to/mortimernilsson7694/nodejs-healthtech-text-summarization-saas-4-chat-completions-api-trade-offs-2j92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
