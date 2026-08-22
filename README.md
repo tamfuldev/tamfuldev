@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
-- [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
-- [field-cage: a local-first alternative for GitHub Actions egress control](https://dev.to/takihito/field-cage-a-local-first-alternative-for-github-actions-egress-control-3agl)
-- [In-Tree vs Out-of-Tree Driver: Where Your Code Should Live](https://dev.to/raghu_bharadwaj_404e60eb0c/in-tree-vs-out-of-tree-driver-where-your-code-should-live-4920)
-- [Comparing INT4 and NVFP4 Palettes on Real Gradient Tensors](https://dev.to/megapixel99/comparing-int4-and-nvfp4-palettes-on-real-gradient-tensors-g99)
+- [My First GitHub Project: From a Local Folder to GitHub using Git and SSH](https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc)
+- [👋 Introducing Myself to the Community](https://dev.to/amanijordandev45/introducing-myself-to-the-community-2ll5)
+- [Your PRs Deserve a Second Reviewer That Costs Nothing: A Webhook Architecture](https://dev.to/hackjs_7468/your-prs-deserve-a-second-reviewer-that-costs-nothing-a-webhook-architecture-45af)
+- [DNS, HTTP/1.1, HTTP/2, HTTP/3, CORS — A Beginner&#39;s Deep Dive](https://dev.to/dharam_in/dns-http11-http2-http3-cors-a-beginners-deep-dive-28h6)
+- [The ₹18 LPA that quietly became ₹1.1L a month](https://dev.to/adiadarsh/the-18-lpa-that-quietly-became-11l-a-month-k69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
