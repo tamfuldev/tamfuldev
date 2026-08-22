@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Problem Engineering: Why Defining the Problem Matters More Than Your Prompt](https://dev.to/billahdotdev/problem-engineering-why-defining-the-problem-matters-more-than-your-prompt-5696)
-- [My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.](https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j)
-- [Correlation Is Pairwise. Multicollinearity Isn&#39;t.](https://dev.to/mohit_modi_e86a932fb11e61/correlation-is-pairwise-multicollinearity-isnt-2970)
-- [How I plan and ship web apps for startups: discovery to launch](https://dev.to/nayankyada/how-i-plan-and-ship-web-apps-for-startups-discovery-to-launch-24cb)
-- [19 Chrome DevTools Tricks Every Developer Should Know](https://dev.to/devshefali/19-chrome-devtools-tricks-every-developer-should-know-3o6f)
+- [Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking](https://dev.to/futhgar/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking-18la)
+- [I Ran 300K Company API Lookups. 40K Hit Military Bases.](https://dev.to/onizuka/i-ran-300k-company-api-lookups-40k-hit-military-bases-3p1b)
+- [note taking app with auto sync leetcode and local llm model integration](https://dev.to/cyberhoax/note-taking-app-with-auto-sync-leetcode-and-local-llm-model-integration-2m5e)
+- [The Observability Crisis: Why OTel Alone Fails for AI and How to Build a Resilient Pipeline](https://dev.to/tamizuddin/the-observability-crisis-why-otel-alone-fails-for-ai-and-how-to-build-a-resilient-pipeline-5cl1)
+- [ChatGPT vs Gemini vs Claude: Which AI is Best in 2026?](https://dev.to/mecanik-dev/chatgpt-vs-gemini-vs-claude-which-ai-is-best-in-2026-3n3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
