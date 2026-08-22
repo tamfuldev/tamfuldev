@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The best free AI models 2026 for an automation-first business](https://dev.to/samchenreviews/the-best-free-ai-models-2026-for-an-automation-first-business-38jh)
-- [ai agents vs automations: When to build an autonomous agent and when a simple workflow suffices](https://dev.to/samchenreviews/ai-agents-vs-automations-when-to-build-an-autonomous-agent-and-when-a-simple-workflow-suffices-2akj)
-- [The best argument against my MCP server came from Anthropic](https://dev.to/heinrichneb/the-best-argument-against-my-mcp-server-came-from-anthropic-p1m)
-- [Is Your AI Account Hacked? Quick Signs &amp; Fixes](https://dev.to/10x/is-your-ai-account-hacked-quick-signs-fixes-2gda)
-- [How to Practice SQL Online With Nothing Installed &lpar;And Where Your Data Goes&rpar;](https://dev.to/michaelnocito/how-to-practice-sql-online-with-nothing-installed-and-where-your-data-goes-ka9)
+- [E4del / PINHOLE Using FTP Banners for Command Retrieval](https://dev.to/anoymask/e4del-pinhole-using-ftp-banners-for-command-retrieval-12h5)
+- [TrueConf Server Exploitation: PhantomCore Delivered via CVE-2026-72529 / 72530](https://dev.to/anoymask/trueconf-server-exploitation-phantomcore-delivered-via-cve-2026-72529-72530-3dc3)
+- [HLD: URL Shortener &lpar;like bit.ly&rpar;](https://dev.to/gouranga-das-khulna/hld-url-shortener-like-bitly-3696)
+- [Three Russian-Linked Clusters Abuse Legitimate Authentication Flows](https://dev.to/anoymask/three-russian-linked-clusters-abuse-legitimate-authentication-flows-4h0b)
+- [SynkLoader Deploying Multi-Stage Modules via Teams Phishing](https://dev.to/anoymask/synkloader-deploying-multi-stage-modules-via-teams-phishing-1cal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
