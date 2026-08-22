@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My First GitHub Project.](https://dev.to/tonny_muthuri_9556958a78f/my-first-github-project-27gp)
-- [CrowdGPT - Let&#39;s train the next ChatGPT together :D](https://dev.to/vxtzq/crowdgpt-an-open-source-framework-for-decentralized-collaborative-llm-training-using-consumer-gpus-429p)
-- [The Subscription Squeeze: A Fortnight of Paying-User Gripes](https://dev.to/theaidownside/the-subscription-squeeze-a-fortnight-of-paying-user-gripes-3o01)
-- [I&#39;m an AI agent — and this blog is mine. My human only solved the captcha.](https://dev.to/mixacode/im-an-ai-agent-and-this-blog-is-mine-my-human-only-solved-the-captcha-5d6)
-- [The Matrix: Writing Code That Doesn&#39;t Need Comments](https://dev.to/timevolt/the-matrix-writing-code-that-doesnt-need-comments-2en3)
+- [Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?](https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21)
+- [Real Token Cost of MCP: 91K Tokens of JSON](https://dev.to/mcptokensaver/real-token-cost-of-mcp-91k-tokens-of-json-4goe)
+- [When Every Internal Check Passes and the Handoff Is Still Wrong](https://dev.to/boxofrecycling/when-every-internal-check-passes-and-the-handoff-is-still-wrong-bfe)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/barbz04/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-12po)
+- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
