@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
-- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
-- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
-- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
-- [pandas GroupBy: How to Summarize a DataFrame Without Losing Track of Your Rows](https://dev.to/michaelnocito/pandas-groupby-how-to-summarize-a-dataframe-without-losing-track-of-your-rows-46dk)
+- [The best free AI models 2026 for an automation-first business](https://dev.to/samchenreviews/the-best-free-ai-models-2026-for-an-automation-first-business-38jh)
+- [ai agents vs automations: When to build an autonomous agent and when a simple workflow suffices](https://dev.to/samchenreviews/ai-agents-vs-automations-when-to-build-an-autonomous-agent-and-when-a-simple-workflow-suffices-2akj)
+- [The best argument against my MCP server came from Anthropic](https://dev.to/heinrichneb/the-best-argument-against-my-mcp-server-came-from-anthropic-p1m)
+- [Is Your AI Account Hacked? Quick Signs &amp; Fixes](https://dev.to/10x/is-your-ai-account-hacked-quick-signs-fixes-2gda)
+- [How to Practice SQL Online With Nothing Installed &lpar;And Where Your Data Goes&rpar;](https://dev.to/michaelnocito/how-to-practice-sql-online-with-nothing-installed-and-where-your-data-goes-ka9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
