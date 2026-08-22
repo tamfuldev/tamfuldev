@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Technical SEO Checks I Run Before Writing More Content](https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h)
-- [I used JSON files instead of a database for 1,699 records. Here&#39;s what actually broke.](https://dev.to/rajan_nishad/i-used-json-files-instead-of-a-database-for-1699-records-heres-what-actually-broke-4f1c)
-- [Agentic AI That Survives the Enterprise, Part 5: Humans in the Loop Without Burning Out Humans](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-5-humans-in-the-loop-without-burning-out-humans-1mlf)
-- [Agentic AI That Survives the Enterprise, Part 4: Boring Engineering Wins](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-4-boring-engineering-wins-4p44)
-- [What Coding Agents Say When They Talk to Each Other](https://dev.to/javieraguilarai/what-coding-agents-say-when-they-talk-to-each-other-377l)
+- [@StandardException](https://dev.to/mattmurr/standardexception-4edl)
+- [Implementing Zero-Trust Network Access &lpar;ZTNA&rpar; Concepts in Code](https://dev.to/ayinedjimi-consultants/implementing-zero-trust-network-access-ztna-concepts-in-code-2cbf)
+- [I built 45+ free tools that process files entirely in the browser — here&#39;s the architecture](https://dev.to/trytoolhub/i-built-45-free-tools-that-process-files-entirely-in-the-browser-heres-the-architecture-58kh)
+- [Building MyMangaList: Exploring AI Assisted manga translation](https://dev.to/mymangalist/building-mymangalist-exploring-ai-assisted-manga-translation-1kh7)
+- [AWS Portfolio Projects That Actually Teach Real Infrastructure](https://dev.to/krembo_vitman_50c3eac5aa6/aws-portfolio-projects-that-actually-teach-real-infrastructure-n2d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
