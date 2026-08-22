@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deep-Dive Write-up by Huynh Kien Minh: CVE-2026-13736 — NewPath WildApricotPress Member Directory PII Disclosure](https://dev.to/minhhk68/deep-dive-write-up-by-huynh-kien-minh-cve-2026-13736-newpath-wildapricotpress-member-directory-174d)
-- [AI Model Routing: The Missing Infrastructure Layer for Multi-Model AI Applications](https://dev.to/wolffy-good/ai-model-routing-the-missing-infrastructure-layer-for-multi-model-ai-applications-32cf)
-- [You can now clip video from inside your AI agent: the state of MCP for video in 2026](https://dev.to/anthony_builds/you-can-now-clip-video-from-inside-your-ai-agent-the-state-of-mcp-for-video-in-2026-2jek)
-- [Fix Lambda S3 Trigger Error Handling Before It Loses Events](https://dev.to/oleksandr_kuryzhev_42873f/fix-lambda-s3-trigger-error-handling-before-it-loses-events-58b4)
-- [Invite an AI to Look Upon Your Figma Designs](https://dev.to/planetabhi_/invite-an-ai-to-look-upon-your-figma-designs-4930)
+- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript &lpar;Without Losing Your Sanity&rpar;](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
+- [How to record Google Meet and Zoom calls with dual audio using the HTML5 MediaRecorder API](https://dev.to/puspaksahu17/how-to-record-google-meet-and-zoom-calls-with-dual-audio-using-the-html5-mediarecorder-api-611)
+- [My screener recommended every job it could not read](https://dev.to/aiq_labs/my-screener-recommended-every-job-it-could-not-read-3ean)
+- [How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)
+- [Automatic HTTPS on Kestrel in 2026, now that LettuceEncrypt is archived](https://dev.to/jhenderson1992/automatic-https-on-kestrel-in-2026-now-that-lettuceencrypt-is-archived-1m3k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
