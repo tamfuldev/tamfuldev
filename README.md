@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript &lpar;Without Losing Your Sanity&rpar;](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
-- [How to record Google Meet and Zoom calls with dual audio using the HTML5 MediaRecorder API](https://dev.to/puspaksahu17/how-to-record-google-meet-and-zoom-calls-with-dual-audio-using-the-html5-mediarecorder-api-611)
-- [My screener recommended every job it could not read](https://dev.to/aiq_labs/my-screener-recommended-every-job-it-could-not-read-3ean)
-- [How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)
-- [Automatic HTTPS on Kestrel in 2026, now that LettuceEncrypt is archived](https://dev.to/jhenderson1992/automatic-https-on-kestrel-in-2026-now-that-lettuceencrypt-is-archived-1m3k)
+- [Technical SEO Checks I Run Before Writing More Content](https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h)
+- [I used JSON files instead of a database for 1,699 records. Here&#39;s what actually broke.](https://dev.to/rajan_nishad/i-used-json-files-instead-of-a-database-for-1699-records-heres-what-actually-broke-4f1c)
+- [Agentic AI That Survives the Enterprise, Part 5: Humans in the Loop Without Burning Out Humans](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-5-humans-in-the-loop-without-burning-out-humans-1mlf)
+- [Agentic AI That Survives the Enterprise, Part 4: Boring Engineering Wins](https://dev.to/ankk98/agentic-ai-that-survives-the-enterprise-part-4-boring-engineering-wins-4p44)
+- [What Coding Agents Say When They Talk to Each Other](https://dev.to/javieraguilarai/what-coding-agents-say-when-they-talk-to-each-other-377l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
