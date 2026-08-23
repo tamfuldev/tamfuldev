@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [INP Bukan Masalah Hosting: Cara Mengaudit dan Menjinakkan Script Pihak Ketiga di Situs Bisnis](https://dev.to/mightyblue/inp-bukan-masalah-hosting-cara-mengaudit-dan-menjinakkan-script-pihak-ketiga-di-situs-bisnis-5d8e)
-- [The Runaway Diff: A Token-Budget Postmortem for Coding Agents](https://dev.to/devio_3007/the-runaway-diff-a-token-budget-postmortem-for-coding-agents-p1l)
-- [Build a Token-Budgeted LLM Service on a Free Server: A Step-by-Step Tutorial](https://dev.to/apprs_6334/build-a-token-budgeted-llm-service-on-a-free-server-a-step-by-step-tutorial-1oo9)
-- [Free Tokens Are Better Spent Fuzzing Your Own Code Than Benchmarking Someone Else&#39;s](https://dev.to/webx_2736/free-tokens-are-better-spent-fuzzing-your-own-code-than-benchmarking-someone-elses-4ml4)
-- [Is Claude Getting Dumber? You May Be Looking at the Wrong Part](https://dev.to/socialawy/is-claude-getting-dumber-you-may-be-looking-at-the-wrong-part-f6e)
+- [The Semantic Cache That Made a Free LLM Quota Feel Infinite](https://dev.to/codehub_1304/the-semantic-cache-that-made-a-free-llm-quota-feel-infinite-4lp0)
+- [Windows 11 KB5077181 Causing Boot Loops? Here&#39;s How to Fix It](https://dev.to/darkssel/windows-11-kb5077181-causing-boot-loops-heres-how-to-fix-it-497h)
+- [The AI Agent Reality Check: Why MCP Backdoors Fail in Production](https://dev.to/tamizuddin/the-ai-agent-reality-check-why-mcp-backdoors-fail-in-production-2d9b)
+- [I gave my AI a supervisor. It built a bureaucracy.](https://dev.to/martinschenk/i-gave-my-ai-a-supervisor-it-built-a-bureaucracy-56go)
+- [I Built an AI Agent Fleet That Fights Your Insurance Company for You](https://dev.to/sodiqjimoh/i-built-an-ai-agent-fleet-that-fights-your-insurance-company-for-you-ldj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
