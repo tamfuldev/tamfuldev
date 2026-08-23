@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Auditing an Existing Subnet Plan Before a Cloud Migration](https://dev.to/lizely/auditing-an-existing-subnet-plan-before-a-cloud-migration-2f6g)
-- [Ditch the Cloud: Building a Real-Time In-Browser Video Editor with WebCodecs, WebGPU, and Canvas](https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6)
-- [The Bug That Passed Every Test — And Still Took Production Down](https://dev.to/antfarm-tech/the-bug-that-passed-every-test-and-still-took-production-down-3n1p)
-- [Mix and Match: Serving a Bedrock Agent to Google and Azure](https://dev.to/aws-builders/mix-and-match-serving-a-bedrock-agent-to-google-and-azure-4kg8)
-- [A Windows Service is Down. Now What?](https://dev.to/prateek_srivastava_6a5661/a-windows-service-is-down-now-what-2gh9)
+- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
+- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
+- [Understanding Git Workflow from Working Directory, Staging, Commit, and Push.](https://dev.to/expertwriter/understanding-git-workflow-from-working-directory-staging-commit-and-push-4kdi)
+- [Model Cascade: making LLM classification cheaper](https://dev.to/boris9027/model-cascade-making-llm-classification-cheaper-2kii)
+- [How I Built a Zero-Knowledge 2FA Authenticator Using Rust, Tauri, and React](https://dev.to/euromoscow/how-i-built-a-zero-knowledge-2fa-authenticator-using-rust-tauri-and-react-1co6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
