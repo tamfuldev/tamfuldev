@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jesus Was Right. You Are God and Infinite.](https://dev.to/wiseai/jesus-was-right-you-are-god-and-infinite-6cc)
-- [Rate Limits Cost Me a Whole Night of Work — Here&#39;s the 46-Line Script That Fixed It](https://dev.to/bokuwalily/rate-limits-cost-me-a-whole-night-of-work-heres-the-46-line-script-that-fixed-it-7o3)
-- [How I recorded my first product demo in 54 seconds &lpar;OBS, ffmpeg, openai.fm&rpar;](https://dev.to/serhii_kalyna_730b636889c/how-i-recorded-my-first-product-demo-in-54-seconds-obs-ffmpeg-openaifm-50eg)
-- [My First Github Project:From a Local Folder to GitHub Using Git and SSH](https://dev.to/siele/my-first-github-projectfrom-a-local-folder-to-github-using-git-and-ssh-79g)
-- [Kubernetes Explained: Why Every Cloud &amp; DevOps Engineer Should Learn It 🚀](https://dev.to/yash_sonawane25/kubernetes-explained-why-every-cloud-devops-engineer-should-learn-it-3kgg)
+- [This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2)
+- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7)
+- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel)
+- [A Developer&#39;s Checklist for Every RAG Lifecycle &lpar;Beyond Chunk-Embed-Search&rpar;](https://dev.to/tanmay_bhurkunde/a-developers-checklist-for-every-rag-lifecycle-beyond-chunk-embed-search-5ab9)
+- [Understanding the Git Workflow: Working Directory, Staging, Commit, and Push](https://dev.to/sam_manox/understanding-the-git-workflow-working-directory-staging-commit-and-push-14c9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
