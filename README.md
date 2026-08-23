@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
-- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
-- [从 Demo 到生产：那些真正让 AI Agent 敢上线的护栏](https://dev.to/sunny_1024k/cong-demo-dao-sheng-chan-na-xie-zhen-zheng-rang-ai-agent-gan-shang-xian-de-hu-lan-3p6e)
-- [From Demo to Production: The Guardrails That Make an AI Agent Safe to Ship](https://dev.to/sunny_1024k/from-demo-to-production-the-guardrails-that-make-an-ai-agent-safe-to-ship-d2o)
-- [App-like UX in Next.js 16.3](https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh)
+- [INP Bukan Masalah Hosting: Cara Mengaudit dan Menjinakkan Script Pihak Ketiga di Situs Bisnis](https://dev.to/mightyblue/inp-bukan-masalah-hosting-cara-mengaudit-dan-menjinakkan-script-pihak-ketiga-di-situs-bisnis-5d8e)
+- [The Runaway Diff: A Token-Budget Postmortem for Coding Agents](https://dev.to/devio_3007/the-runaway-diff-a-token-budget-postmortem-for-coding-agents-p1l)
+- [Build a Token-Budgeted LLM Service on a Free Server: A Step-by-Step Tutorial](https://dev.to/apprs_6334/build-a-token-budgeted-llm-service-on-a-free-server-a-step-by-step-tutorial-1oo9)
+- [Free Tokens Are Better Spent Fuzzing Your Own Code Than Benchmarking Someone Else&#39;s](https://dev.to/webx_2736/free-tokens-are-better-spent-fuzzing-your-own-code-than-benchmarking-someone-elses-4ml4)
+- [Is Claude Getting Dumber? You May Be Looking at the Wrong Part](https://dev.to/socialawy/is-claude-getting-dumber-you-may-be-looking-at-the-wrong-part-f6e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
