@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I built an FVG trading bot for OKX and made 99% of its signals useless on purpose](https://dev.to/xbs950812/how-i-built-an-fvg-trading-bot-for-okx-and-made-99-of-its-signals-useless-on-purpose-590b)
-- [why some people use neovim](https://dev.to/black0rca/why-some-people-use-neovim-881)
-- [483 tests passed, but Vestibule RAG framework wasn&#39;t installable — lessons from building with AI agents](https://dev.to/vk032503/483-tests-passed-but-vestibule-rag-framework-wasnt-installable-lessons-from-building-with-ai-b81)
-- [Creating Bluesky starter packs from code: three AT Protocol records and one non-idempotency trap](https://dev.to/rulestack/creating-bluesky-starter-packs-from-code-three-at-protocol-records-and-one-non-idempotency-trap-3b98)
-- [Kubernetes Architecture](https://dev.to/tejas_kp/kubernetes-architecture-32c9)
+- [I Built a Chrome DevTools Extension to Mock APIs Without Leaving the Browser](https://dev.to/xpdev99/i-built-a-chrome-devtools-extension-to-mock-apis-without-leaving-the-browser-1klf)
+- [GitHub Project :Understanding git work flow](https://dev.to/frank_hahanyu_254/github-project-understanding-git-work-flow-1bga)
+- [JOAN experimental alpha: seeking 3 independent agent evaluators](https://dev.to/yoan_v_107a45e0a84d5196e3/joan-experimental-alpha-seeking-3-independent-agent-evaluators-45co)
+- [Building an HTTP Server From Scratch using TCP.](https://dev.to/devxdh/building-an-http-server-from-scratch-using-tcp-5ehb)
+- [Why Static Export Wins Over Serverless APIs for Web Utility Tools](https://dev.to/sir_lu_62bd118924537f9510/why-static-export-wins-over-serverless-apis-for-web-utility-tools-2gel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
