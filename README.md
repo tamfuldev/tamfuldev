@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Three Russian Clusters Are Phishing Auth Flows, Not Passwords: OAuth, App Passwords, and WhatsApp Device Linking](https://dev.to/etairos/three-russian-clusters-are-phishing-auth-flows-not-passwords-oauth-app-passwords-and-whatsapp-mi5)
-- [How a Dedup Pass Deleted My Training Curriculum](https://dev.to/megapixel99/how-a-dedup-pass-deleted-my-training-curriculum-kdf)
-- [Unicode Text in JavaScript: How Fancy Text Generators Actually Work](https://dev.to/textstylr/unicode-text-in-javascript-how-fancy-text-generators-actually-work-1p8o)
-- [I Ran 3 AI Labs Through the Company Info API. 1 Stood Out.](https://dev.to/onizuka/i-ran-3-ai-labs-through-the-company-info-api-1-stood-out-1e6g)
-- [Protected nothing](https://dev.to/thekilteddev/protected-nothing-2fgc)
+- [[pt-BR] Clean Code passado a limpo - Parte 1](https://dev.to/pbalduino/pt-br-clean-code-passado-a-limpo-2n4h)
+- [BrunnerCTF 2026 - Welcome Aboard &lpar;Web&rpar;](https://dev.to/exploitnotes/brunnerctf-2026-welcome-aboard-web-391d)
+- [Building CUBELANDS for Steam: an early alpha generated from cubes](https://dev.to/mario_jgoestarosso_5c91/building-cubelands-for-steam-an-early-alpha-generated-from-cubes-2m9d)
+- [22 tests passing, and my solver still told you to click a mine](https://dev.to/dylanhuang/22-tests-passing-and-my-solver-still-told-you-to-click-a-mine-46d8)
+- [Let Your AI Agent Use Slack: One CLI, No Slack App Needed](https://dev.to/shaharia/let-your-ai-agent-use-slack-one-cli-no-slack-app-needed-1279)
 <!-- BLOG-POST-LIST:END -->
 
 ---
