@@ -6,11 +6,16 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I copied a &quot;minimal&quot; coding agent. Then I read it — and minimal didn&#39;t mean what I thought.](https://dev.to/wenyu_zhang/i-copied-a-minimal-coding-agent-then-i-read-it-and-minimal-didnt-mean-what-i-thought-55g4)
-- [Finally a real-world proof that developers can do FinOps. Take a look.](https://dev.to/spidgorny/finally-a-real-world-proof-that-developers-can-do-finops-take-a-look-3pmi)
-- [Why Your AI Agent Can&#39;t Execute Its Own Plan: Bridging the Gap Between Local LLM Intelligence and Real-World Software Reliability](https://dev.to/tamizuddin/why-your-ai-agent-cant-execute-its-own-plan-bridging-the-gap-between-local-llm-intelligence-and-45pc)
-- [Actuator Endpoints in Spring Boot: Allowlist, Don&#39;t Just Disable the Obvious Ones](https://dev.to/jtorchia/actuator-endpoints-in-spring-boot-allowlist-dont-just-disable-the-obvious-ones-2kpf)
-- [Actuator endpoints en Spring Boot: allowlist, no deshabilitar lo obvio](https://dev.to/jtorchia/actuator-endpoints-en-spring-boot-allowlist-no-deshabilitar-lo-obvio-4m0k)
+- [A Supply-Chain Worm Wrote Itself Into Claude Code&#39;s Hook Files to Survive Credential Rotation](https://dev.to/ramdai_bista/a-supply-chain-worm-wrote-itself-into-claude-codes-hook-files-to-survive-credential-rotation-5ce4)
+- [From brute force to optimal: leveling up like a Jedi](https://dev.to/timevolt/from-brute-force-to-optimal-leveling-up-like-a-jedi-2be2)
+- [How to Block Disposable Email Signups Without SMTP Verification](https://dev.to/nproejct/how-to-block-disposable-email-signups-without-smtp-verification-1lk8)
+- [No LeetCode. No club leadership. No internship on my resume.
+Still got the offer.
+
+I wrote about how that happened — and honestly, the path was nowhere near what I expected.
+
+What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-1f18)
+- [Automating the Overhead: Building a Multi-Tool Developer Assistant with Python and Gemini](https://dev.to/yugeshwaran-gm/automating-the-overhead-building-a-multi-tool-developer-assistant-with-python-and-gemini-264m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
