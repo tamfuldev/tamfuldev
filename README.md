@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2)
-- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7)
-- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel)
-- [A Developer&#39;s Checklist for Every RAG Lifecycle &lpar;Beyond Chunk-Embed-Search&rpar;](https://dev.to/tanmay_bhurkunde/a-developers-checklist-for-every-rag-lifecycle-beyond-chunk-embed-search-5ab9)
-- [Understanding the Git Workflow: Working Directory, Staging, Commit, and Push](https://dev.to/sam_manox/understanding-the-git-workflow-working-directory-staging-commit-and-push-14c9)
+- [What 166K Clicks Taught Me About Using AI for SEO](https://dev.to/iammofidul/what-166k-clicks-taught-me-about-using-ai-for-seo-1pe6)
+- [From MKDIR to GIT PUSH: What Actually Happens to a Project?](https://dev.to/esther_njihia/from-mkdir-to-git-push-what-actually-happens-to-a-project-1ang)
+- [MCP Security: Threat Model &amp; Hardening Guide &lpar;2026&rpar;](https://dev.to/prabhu_kalyansamal_f743d/-mcp-security-threat-model-hardening-guide-2026--3enn)
+- [Seedance 2.5 Prompting: A Practical Guide to Better AI Videos](https://dev.to/jeanine_huang_1030/seedance-25-prompting-a-practical-guide-to-better-ai-videos-2p0c)
+- [One version bump, 40 files to edit. Import maps fix that.](https://dev.to/parsajiravand/one-version-bump-40-files-to-edit-import-maps-fix-that-188b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
