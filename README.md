@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[pt-BR] Clean Code passado a limpo - Parte 1](https://dev.to/pbalduino/pt-br-clean-code-passado-a-limpo-2n4h)
-- [BrunnerCTF 2026 - Welcome Aboard &lpar;Web&rpar;](https://dev.to/exploitnotes/brunnerctf-2026-welcome-aboard-web-391d)
-- [Building CUBELANDS for Steam: an early alpha generated from cubes](https://dev.to/mario_jgoestarosso_5c91/building-cubelands-for-steam-an-early-alpha-generated-from-cubes-2m9d)
-- [22 tests passing, and my solver still told you to click a mine](https://dev.to/dylanhuang/22-tests-passing-and-my-solver-still-told-you-to-click-a-mine-46d8)
-- [Let Your AI Agent Use Slack: One CLI, No Slack App Needed](https://dev.to/shaharia/let-your-ai-agent-use-slack-one-cli-no-slack-app-needed-1279)
+- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
+- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
+- [从 Demo 到生产：那些真正让 AI Agent 敢上线的护栏](https://dev.to/sunny_1024k/cong-demo-dao-sheng-chan-na-xie-zhen-zheng-rang-ai-agent-gan-shang-xian-de-hu-lan-3p6e)
+- [From Demo to Production: The Guardrails That Make an AI Agent Safe to Ship](https://dev.to/sunny_1024k/from-demo-to-production-the-guardrails-that-make-an-ai-agent-safe-to-ship-d2o)
+- [App-like UX in Next.js 16.3](https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
