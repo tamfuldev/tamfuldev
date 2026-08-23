@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Old Iron Earns More: A Technical Look at RustChain Proof-of-Antiquity](https://dev.to/shamylbm/old-iron-earns-more-a-technical-look-at-rustchain-proof-of-antiquity-1dkf)
-- [Your Automation Dies Quietly: A Weekly Revenue Gate That Caught One Line Dropping From 14 Files to 0](https://dev.to/bokuwalily/your-automation-dies-quietly-a-weekly-revenue-gate-that-caught-one-line-dropping-from-14-files-to-0-ma4)
-- [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
-- [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://dev.to/rosgluk/pi-coding-agent-review-minimal-hackable-ai-coding-cli-4ge8)
-- [# I Didn’t Plan to Build a 4,000-Page Site](https://dev.to/_4131c5ac4bbd76f422b8c6/-i-didnt-plan-to-build-a-4000-page-site-3nd9)
+- [I copied a &quot;minimal&quot; coding agent. Then I read it — and minimal didn&#39;t mean what I thought.](https://dev.to/wenyu_zhang/i-copied-a-minimal-coding-agent-then-i-read-it-and-minimal-didnt-mean-what-i-thought-55g4)
+- [Finally a real-world proof that developers can do FinOps. Take a look.](https://dev.to/spidgorny/finally-a-real-world-proof-that-developers-can-do-finops-take-a-look-3pmi)
+- [Why Your AI Agent Can&#39;t Execute Its Own Plan: Bridging the Gap Between Local LLM Intelligence and Real-World Software Reliability](https://dev.to/tamizuddin/why-your-ai-agent-cant-execute-its-own-plan-bridging-the-gap-between-local-llm-intelligence-and-45pc)
+- [Actuator Endpoints in Spring Boot: Allowlist, Don&#39;t Just Disable the Obvious Ones](https://dev.to/jtorchia/actuator-endpoints-in-spring-boot-allowlist-dont-just-disable-the-obvious-ones-2kpf)
+- [Actuator endpoints en Spring Boot: allowlist, no deshabilitar lo obvio](https://dev.to/jtorchia/actuator-endpoints-en-spring-boot-allowlist-no-deshabilitar-lo-obvio-4m0k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
