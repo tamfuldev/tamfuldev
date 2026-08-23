@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
-- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
-- [Understanding Git Workflow from Working Directory, Staging, Commit, and Push.](https://dev.to/expertwriter/understanding-git-workflow-from-working-directory-staging-commit-and-push-4kdi)
-- [Model Cascade: making LLM classification cheaper](https://dev.to/boris9027/model-cascade-making-llm-classification-cheaper-2kii)
-- [How I Built a Zero-Knowledge 2FA Authenticator Using Rust, Tauri, and React](https://dev.to/euromoscow/how-i-built-a-zero-knowledge-2fa-authenticator-using-rust-tauri-and-react-1co6)
+- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
+- [My agents kept overwriting each other, so I gave them claims](https://dev.to/alkisyuv/my-agents-kept-overwriting-each-other-so-i-gave-them-claims-2h8k)
+- [I built an AI that writes like me, and I&#39;m measuring how much it fails](https://dev.to/alkisyuv/i-built-an-ai-that-writes-like-me-and-im-measuring-how-much-it-fails-4o0)
+- [What my agents are allowed to remember](https://dev.to/alkisyuv/what-my-agents-are-allowed-to-remember-46fd)
+- [Every hole in the gate is signed](https://dev.to/alkisyuv/every-hole-in-the-gate-is-signed-3a43)
 <!-- BLOG-POST-LIST:END -->
 
 ---
