@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [剖析AI漏洞：从私有 LLM API 窃取推理轨迹](https://dev.to/cognitalk/stealing-reasoning-traces-from-proprietary-llm-apis-22g1)
-- [Embed Charts in Markdown Without Chart.js: SVG, Data URIs, and What Actually Works](https://dev.to/provchart/embed-charts-in-markdown-without-chartjs-svg-data-uris-and-what-actually-works-39pi)
-- [Controllers vs Minimal APIs: Stop Picking a Winner](https://dev.to/kazemmdev/controllers-vs-minimal-apis-stop-picking-a-winner-452g)
-- [I Was Burning $1.20 a Night on Nothing: A Claude Code Skill Library That Harvests and Curates Itself](https://dev.to/bokuwalily/i-was-burning-120-a-night-on-nothing-a-claude-code-skill-library-that-harvests-and-curates-itself-2l4i)
-- [Vibecoding: Why Flow State is the New Syntax](https://dev.to/ntty/vibecoding-why-flow-state-is-the-new-syntax-2ajf)
+- [One View Per Layer: Four Sharp Edges I Found in My Own Code](https://dev.to/srdjan_poppovic/one-view-per-layer-four-sharp-edges-i-found-in-my-own-code-23e8)
+- [A Signed AI Agent Receipt Can Still Be Wrong](https://dev.to/dengyier/a-signed-ai-agent-receipt-can-still-be-wrong-4jd3)
+- [I Almost Shipped a RAG Assistant That Lied About APIs That Don&#39;t Exist](https://dev.to/dannwaneri/i-almost-shipped-a-rag-assistant-that-lied-about-apis-that-dont-exist-3426)
+- [n8n MCP Server Expands Agent Automation From Prompts to Governed Workflows](https://dev.to/alifar/n8n-mcp-server-expands-agent-automation-from-prompts-to-governed-workflows-2cgo)
+- [Working Software Isn&#39;t the Same as Maintainable Software](https://dev.to/revanza_firdaus_ffda57e15/working-software-isnt-the-same-as-maintainable-software-m72)
 <!-- BLOG-POST-LIST:END -->
 
 ---
