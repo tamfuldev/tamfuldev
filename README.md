@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Particle Effects Improve Game Feel in HTML5 Games](https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n)
-- [Evolution of Web Forms Part-1](https://dev.to/karthikreddy/evolution-of-web-forms-part-1-13g)
-- [Why my biggest embarrassment was also one of my greatest learning experiences in Programming!](https://dev.to/fm/why-my-biggest-embarrassment-was-also-one-of-my-greatest-learning-experiences-in-programming-3o0c)
-- [DeepSeek Harness: What Happens When the Agent Runtime Becomes the Product](https://dev.to/pramod_sahu_d5bd2e6de82d1/deepseek-harness-what-happens-when-the-agent-runtime-becomes-the-product-1012)
-- [I measured what 12 ATS APIs actually return, across 1.5M job postings](https://dev.to/hwangbyeongseon/i-measured-what-12-ats-apis-actually-return-across-15m-job-postings-33l9)
+- [What MCP Doesn&#39;t Solve](https://dev.to/coryntas/what-mcp-doesnt-solve-1ahe)
+- [What Spring Data Tests Can Miss: Testing Beyond Hibernate’s Persistence Context &lpar;Chapter 7&rpar;](https://dev.to/kamenivanov/what-spring-data-tests-can-miss-testing-beyond-hibernates-persistence-context-chapter-7-5d7k)
+- [Evaluating the Practical Need for a 10GB Network in Home Labs: Balancing Performance and Cost](https://dev.to/elenbit/evaluating-the-practical-need-for-a-10gb-network-in-home-labs-balancing-performance-and-cost-1a57)
+- [Rerun and Continue in SolonCode Web — Two Buttons, Two Semantics](https://dev.to/solonjava/rerun-and-continue-in-soloncode-web-two-buttons-two-semantics-8c1)
+- [I Built My Own Python Package Manager. Three Bugs Taught Us More Than the Design Did.](https://dev.to/divyanshusinha136/i-built-my-own-python-package-manager-three-bugs-taught-us-more-than-the-design-did-4khk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
