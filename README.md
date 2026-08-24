@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Fair A/B Audio Preview for AI Processing](https://dev.to/yidao_713c5eeea4f16821823/how-to-build-a-fair-ab-audio-preview-for-ai-processing-52ne)
-- [Log bem feito na era dos agentes](https://dev.to/asouza/a-importancia-do-log-bem-feito-na-era-dos-agentes-2o9j)
-- [Fzf - o que é, como instalar e onde usar no dia a dia](https://dev.to/apsis-cc/fzf-o-que-e-como-instalar-e-onde-usar-no-dia-a-dia-36oi)
-- [One Missing Parameter Cost Me Six Hours &lpar;PortSwigger Lab&rpar;](https://dev.to/david_essien/one-missing-parameter-cost-me-six-hours-portswigger-lab-1b17)
-- [Auto Subtitles Are Drafts: Why 99% Accuracy Isn’t the Finish Line](https://dev.to/woshiliyana/auto-subtitles-are-drafts-why-99-accuracy-isnt-the-finish-line-394o)
+- [Your job title is worth €45,000. We surveyed 106 design engineers to find out.](https://dev.to/arturs_hymera/your-job-title-is-worth-eu45000-we-surveyed-106-design-engineers-to-find-out-1l47)
+- [Warping an image across a deformable mesh in plain Canvas 2D &lpar;no WebGL&rpar;](https://dev.to/janvai/warping-an-image-across-a-deformable-mesh-in-plain-canvas-2d-no-webgl-44j9)
+- [How to Build Your First AI, GenAI &amp; Agentic AI Project](https://dev.to/gurharsh_ghuman_006/how-to-build-your-first-ai-genai-agentic-ai-project-nj8)
+- [What does your AI assistant remember from yesterday?](https://dev.to/heinrichneb/what-does-your-ai-assistant-remember-from-yesterday-17b8)
+- [20-50x Faster Shipping: What One Engineer&#39;s AI Workflow Reveals About Editor-Free Agent Orchestration](https://dev.to/mech_app_ai/20-50x-faster-shipping-what-one-engineers-ai-workflow-reveals-about-editor-free-agent-1g27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
