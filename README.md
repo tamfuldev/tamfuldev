@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your job title is worth €45,000. We surveyed 106 design engineers to find out.](https://dev.to/arturs_hymera/your-job-title-is-worth-eu45000-we-surveyed-106-design-engineers-to-find-out-1l47)
-- [Warping an image across a deformable mesh in plain Canvas 2D &lpar;no WebGL&rpar;](https://dev.to/janvai/warping-an-image-across-a-deformable-mesh-in-plain-canvas-2d-no-webgl-44j9)
-- [How to Build Your First AI, GenAI &amp; Agentic AI Project](https://dev.to/gurharsh_ghuman_006/how-to-build-your-first-ai-genai-agentic-ai-project-nj8)
-- [What does your AI assistant remember from yesterday?](https://dev.to/heinrichneb/what-does-your-ai-assistant-remember-from-yesterday-17b8)
-- [20-50x Faster Shipping: What One Engineer&#39;s AI Workflow Reveals About Editor-Free Agent Orchestration](https://dev.to/mech_app_ai/20-50x-faster-shipping-what-one-engineers-ai-workflow-reveals-about-editor-free-agent-1g27)
+- [剖析AI漏洞：从私有 LLM API 窃取推理轨迹](https://dev.to/cognitalk/stealing-reasoning-traces-from-proprietary-llm-apis-22g1)
+- [Embed Charts in Markdown Without Chart.js: SVG, Data URIs, and What Actually Works](https://dev.to/provchart/embed-charts-in-markdown-without-chartjs-svg-data-uris-and-what-actually-works-39pi)
+- [Controllers vs Minimal APIs: Stop Picking a Winner](https://dev.to/kazemmdev/controllers-vs-minimal-apis-stop-picking-a-winner-452g)
+- [I Was Burning $1.20 a Night on Nothing: A Claude Code Skill Library That Harvests and Curates Itself](https://dev.to/bokuwalily/i-was-burning-120-a-night-on-nothing-a-claude-code-skill-library-that-harvests-and-curates-itself-2l4i)
+- [Vibecoding: Why Flow State is the New Syntax](https://dev.to/ntty/vibecoding-why-flow-state-is-the-new-syntax-2ajf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
