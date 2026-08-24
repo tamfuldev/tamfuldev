@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Trusted AI Agent Transactions, Part 5: End-to-End Proof](https://dev.to/darkedges/trusted-ai-agent-transactions-part-5-end-to-end-proof-44b5)
-- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
-- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
-- [Trusted AI Agent Transactions, Part 2: PingFederate Token Exchange](https://dev.to/darkedges/trusted-ai-agent-transactions-part-2-pingfederate-token-exchange-35pn)
-- [Trusted AI Agent Transactions, Part 1: The Identity Problem](https://dev.to/darkedges/trusted-ai-agent-transactions-part-1-the-identity-problem-17aa)
+- [test](https://dev.to/nickytonline/test-1dm4)
+- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
+- [Architectural Breakdown: We fixed the eval platform we&#39;re competing on: a TypeError that crashed thr](https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg)
+- [OzBrain&#39;s Shared Memory Architecture: How Multi-Agent Teams Avoid Re-Explaining Context Across Sessions](https://dev.to/mech_app_ai/ozbrains-shared-memory-architecture-how-multi-agent-teams-avoid-re-explaining-context-across-1c19)
+- [Architecting a background-service-based sound manager that survives Android&#39;s Doze mode](https://dev.to/haseebthedev0/architecting-a-background-service-based-sound-manager-that-survives-androids-doze-mode-1o1e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
