@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable, HIPAA‑Compliant Healthcare Document Processing Pipeline in .NET &amp; Azure](https://dev.to/amitesh0512/building-a-scalable-hipaa-compliant-healthcare-document-processing-pipeline-in-net-azure-38g7)
-- [Credits, plans and quotas in Laravel with Larameter](https://dev.to/edulazaro/credits-plans-and-quotas-in-laravel-with-larameter-534c)
-- [Generating 50+ SEO Landing Pages from a Static Site Build Script](https://dev.to/xiaolu/generating-50-seo-landing-pages-from-a-static-site-build-script-5731)
-- [A beginner&#39;s guide to the Vibevoice model by Microsoft on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vibevoice-model-by-microsoft-on-replicate-296a)
-- [A beginner&#39;s guide to the Beat_this model by Xavriley on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-beatthis-model-by-xavriley-on-replicate-4g44)
+- [The Software Craftsman’s Day One: Why My First Week of Startup Life Had No Business Logic](https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g)
+- [How to Build Bulletproof AI Agents with Autonomous Multi-Model Fallbacks](https://dev.to/osamatech786/how-to-build-bulletproof-ai-agents-with-autonomous-multi-model-fallbacks-1d7l)
+- [What will happen if Cloud database becomes too expensive ???](https://dev.to/kingusd/what-will-happen-if-cloud-database-becomes-too-expensive--jia)
+- [I built a full image editor that never uploads your photo — here&#39;s how the on-device AI parts actually work](https://dev.to/akhourianmolkumar/i-built-a-full-image-editor-that-never-uploads-your-photo-heres-how-the-on-device-ai-parts-1i03)
+- [The Translate Button Is Declarative; the Community Workflow Is Not](https://dev.to/susiewang/the-translate-button-is-declarative-the-community-workflow-is-not-5cc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
