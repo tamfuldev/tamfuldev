@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Parse TOML in the Browser Without a Backend](https://dev.to/ggwork/how-to-parse-toml-in-the-browser-without-a-backend-1ckb)
-- [Stop Comparing GPU Clouds Only by $/hour](https://dev.to/highreso/stop-comparing-gpu-clouds-only-by-hour-4kbc)
-- [Prompt injection defense: why you can&#39;t prompt your way out of it](https://dev.to/weston_carnes_d580b505e0c/prompt-injection-defense-why-you-cant-prompt-your-way-out-of-it-j7g)
-- [One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents](https://dev.to/seasonkoh/one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents-4fme)
-- [Shopify just gave millions of stores WebMCP tools for free — here&#39;s what it does, and what it doesn&#39;t](https://dev.to/r0bertini/shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-1cln)
+- [Building a Scalable, HIPAA‑Compliant Healthcare Document Processing Pipeline in .NET &amp; Azure](https://dev.to/amitesh0512/building-a-scalable-hipaa-compliant-healthcare-document-processing-pipeline-in-net-azure-38g7)
+- [Credits, plans and quotas in Laravel with Larameter](https://dev.to/edulazaro/credits-plans-and-quotas-in-laravel-with-larameter-534c)
+- [Generating 50+ SEO Landing Pages from a Static Site Build Script](https://dev.to/xiaolu/generating-50-seo-landing-pages-from-a-static-site-build-script-5731)
+- [A beginner&#39;s guide to the Vibevoice model by Microsoft on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vibevoice-model-by-microsoft-on-replicate-296a)
+- [A beginner&#39;s guide to the Beat_this model by Xavriley on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-beatthis-model-by-xavriley-on-replicate-4g44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
