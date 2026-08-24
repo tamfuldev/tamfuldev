@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js: Is Pushing Web Performance Toward &quot;Instant&quot; Navigation Without Giving Up Server Components](https://dev.to/ashutosh_maurya/nextjs-is-pushing-web-performance-toward-instant-navigation-without-giving-up-server-components-3598)
-- [OpenAI Just Paused Its Own Model for Being Too Good at Finding Zero-Days. Read That Again.](https://dev.to/muskan_bandta/openai-just-paused-its-own-model-for-being-too-good-at-finding-zero-days-read-that-again-3ejp)
-- [ChatGPT and Gemini Both Crossed a Billion Users. The Infrastructure Story Is the One Nobody&#39;s Telling](https://dev.to/muskan_bandta/chatgpt-and-gemini-both-crossed-a-billion-users-the-infrastructure-story-is-the-one-nobodys-25k7)
-- [Publicly Accessible RDS and Unrestricted Security Groups: The Cost Side of Risky Cloud Config](https://dev.to/zop_8abedcc7e12/publicly-accessible-rds-and-unrestricted-security-groups-the-cost-side-of-risky-cloud-config-4379)
-- [Vibe Coding in the New Era: How to Build Real Applications with AI](https://dev.to/darun_karasabir_b79602fd/vibe-coding-in-the-new-era-how-to-build-real-applications-with-ai-1dn)
+- [How Particle Effects Improve Game Feel in HTML5 Games](https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n)
+- [Evolution of Web Forms Part-1](https://dev.to/karthikreddy/evolution-of-web-forms-part-1-13g)
+- [Why my biggest embarrassment was also one of my greatest learning experiences in Programming!](https://dev.to/fm/why-my-biggest-embarrassment-was-also-one-of-my-greatest-learning-experiences-in-programming-3o0c)
+- [DeepSeek Harness: What Happens When the Agent Runtime Becomes the Product](https://dev.to/pramod_sahu_d5bd2e6de82d1/deepseek-harness-what-happens-when-the-agent-runtime-becomes-the-product-1012)
+- [I measured what 12 ATS APIs actually return, across 1.5M job postings](https://dev.to/hwangbyeongseon/i-measured-what-12-ats-apis-actually-return-across-15m-job-postings-33l9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
