@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What MCP Doesn&#39;t Solve](https://dev.to/coryntas/what-mcp-doesnt-solve-1ahe)
-- [What Spring Data Tests Can Miss: Testing Beyond Hibernate’s Persistence Context &lpar;Chapter 7&rpar;](https://dev.to/kamenivanov/what-spring-data-tests-can-miss-testing-beyond-hibernates-persistence-context-chapter-7-5d7k)
-- [Evaluating the Practical Need for a 10GB Network in Home Labs: Balancing Performance and Cost](https://dev.to/elenbit/evaluating-the-practical-need-for-a-10gb-network-in-home-labs-balancing-performance-and-cost-1a57)
-- [Rerun and Continue in SolonCode Web — Two Buttons, Two Semantics](https://dev.to/solonjava/rerun-and-continue-in-soloncode-web-two-buttons-two-semantics-8c1)
-- [I Built My Own Python Package Manager. Three Bugs Taught Us More Than the Design Did.](https://dev.to/divyanshusinha136/i-built-my-own-python-package-manager-three-bugs-taught-us-more-than-the-design-did-4khk)
+- [Which Markdown editor to choose](https://dev.to/anetrebskii/which-markdown-editor-to-choose-5h3i)
+- [I’m building an app to fight phone addiction called &quot;Dopamine Jail&quot;. It&#39;s in the early stages, and I want you to help me shape its future.](https://dev.to/lunsy/im-building-an-app-to-fight-phone-addiction-called-dopamine-jail-its-in-the-early-stages-and-2pm9)
+- [Matter over Thread Bulbs in 2026: 5 Tested from $8 IKEA to $500 Nanoleaf Skylight](https://dev.to/lamp_nex_8cbfdfb5b5aa6b50/matter-over-thread-bulbs-in-2026-5-tested-from-8-ikea-to-500-nanoleaf-skylight-2njf)
+- [How to Squash Past Commits with Git Rebase](https://dev.to/vast-cow/how-to-squash-past-commits-with-git-rebase-52dh)
+- [Anthropic&#39;s Claude Is Designing Proteins That Work](https://dev.to/peremptory/anthropics-claude-is-designing-proteins-that-work-1lei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
