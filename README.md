@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
-- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
-- [How treating my job search like a product problem helped me see what’s really making software engineering recruitment hard in 2026](https://dev.to/oldmanbelton/how-treating-my-job-search-like-a-product-problem-helped-me-see-whats-really-making-software-26pn)
-- [Swaraj&#39;s High Rise in Computers! | Nagpur Post | 23 May 2023](https://dev.to/ultrontheai/swarajs-high-rise-in-computers-nagpur-post-23-may-2023-4cj2)
-- [How to Rename a Django Application Safely](https://dev.to/achraf_benhamou/how-to-rename-a-django-application-safely-3mpo)
+- [Your MCP Server Connects but Shows No Tools](https://dev.to/merlonix/your-mcp-server-connects-but-shows-no-tools-1fo6)
+- [Google Expands Arsenal Partnership With Gemini and Pixel Across Five Football Clubs](https://dev.to/alifar/google-expands-arsenal-partnership-with-gemini-and-pixel-across-five-football-clubs-3mbh)
+- [Scarcity Never Dies. It Climbs.](https://dev.to/pich/scarcity-never-dies-it-climbs-4nh7)
+- [I Gave Claude Code a Brain. This Time I Let the Tests Judge It.](https://dev.to/gde03/i-gave-claude-code-a-brain-this-time-i-let-the-tests-judge-it-5h0p)
+- [Your codex exec is wasting ~900 ms per turn. I measured where.](https://dev.to/praveenvijayan/your-codex-exec-is-wasting-900-ms-per-turn-i-measured-where-1iip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
