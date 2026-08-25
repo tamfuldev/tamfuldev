@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My agent inflated its own state file to 49MB. Every check passed for three days.](https://dev.to/wisplu/my-agent-inflated-its-own-state-file-to-49mb-every-check-passed-for-three-days-2ah8)
-- [Every Enterprise Will Have Its Own AI Harness](https://dev.to/mickymultani/every-enterprise-will-have-its-own-ai-harness-1gfi)
-- [Google Rewrites Meta Descriptions Often: What SMBs Should Do to Protect CTR](https://dev.to/alifar/google-rewrites-meta-descriptions-often-what-smbs-should-do-to-protect-ctr-57ao)
-- [Building a Countdown Timer Without External Dependencies: A Vanilla JS Journey](https://dev.to/ggwork/building-a-countdown-timer-without-external-dependencies-a-vanilla-js-journey-25m7)
-- [Transforme PowerPoint em Vídeo IA em 20s: Guia WAN‑3.0](https://dev.to/leojulieta/transforme-powerpoint-em-video-ia-em-20s-guia-wan-30-3d75)
+- [DeepSeek&#39;s Vision Lineage: From DeepSeek-VL to Vision-Exp](https://dev.to/forestlioooooo/deepseeks-vision-lineage-from-deepseek-vl-to-vision-exp-45ki)
+- [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9)
+- [Your coding agent shouldn&#39;t run pytest](https://dev.to/dgotlieb/your-coding-agent-shouldnt-run-pytest-4ak1)
+- [My Validation Layer Was Correctly Deleting 16% of My Good Data](https://dev.to/bedvibe_studios/my-validation-layer-was-correctly-deleting-16-of-my-good-data-1fpj)
+- [Your TTS Model Sounds Great — Until It Says &quot;GPUB&quot;](https://dev.to/bedvibe_studios/your-tts-model-sounds-great-until-it-says-gpub-1d77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
