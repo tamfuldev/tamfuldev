@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Convert JSON to MD for your agents](https://dev.to/rajnandan1/convert-json-to-md-for-your-agents-2j4k)
-- [My Local LLM Was Running at 1.6% of Its Context. Here&#39;s the Setting That Fixed It](https://dev.to/devlog/my-local-llm-was-running-at-16-of-its-context-heres-the-setting-that-fixed-it-3i4j)
-- [How to Calculate ROI on an AI Agent Before You Build It](https://dev.to/pykero/how-to-calculate-roi-on-an-ai-agent-before-you-build-it-42ja)
-- [Magento 2 Performance Regression Testing: Catch Slowdowns in CI](https://dev.to/magevanta/magento-2-performance-regression-testing-catch-slowdowns-in-ci-32h2)
-- [Polymarket Trading Bot Position Sizing: A Practical Guide](https://dev.to/xniiinx/polymarket-trading-bot-position-sizing-a-practical-guide-59jj)
+- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
+- [Building a 12-language AI product search on the edge: what actually broke](https://dev.to/ohadfarkash/building-a-12-language-ai-product-search-on-the-edge-what-actually-broke-45kb)
+- [MAGA: Less Framework, More Platform](https://dev.to/aura-ui/maga-less-framework-more-platform-gfg)
+- [I Turned 200+ Chinese Character Confusions Into a Structured Dataset](https://dev.to/1121_harris/i-turned-200-chinese-character-confusions-into-structured-data-heres-what-i-learned-20l7)
+- [Claude Code Surpasses GitHub Copilot: 90% of Developers Adopt AI Coding](https://dev.to/tidiane_stano_c6b88f8b685/claude-code-surpasses-github-copilot-90-of-developers-adopt-ai-coding-4ck2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
