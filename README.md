@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek&#39;s Vision Lineage: From DeepSeek-VL to Vision-Exp](https://dev.to/forestlioooooo/deepseeks-vision-lineage-from-deepseek-vl-to-vision-exp-45ki)
-- [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9)
-- [Your coding agent shouldn&#39;t run pytest](https://dev.to/dgotlieb/your-coding-agent-shouldnt-run-pytest-4ak1)
-- [My Validation Layer Was Correctly Deleting 16% of My Good Data](https://dev.to/bedvibe_studios/my-validation-layer-was-correctly-deleting-16-of-my-good-data-1fpj)
-- [Your TTS Model Sounds Great — Until It Says &quot;GPUB&quot;](https://dev.to/bedvibe_studios/your-tts-model-sounds-great-until-it-says-gpub-1d77)
+- [Why real-time restock alerts are harder than they look](https://dev.to/restockd/why-real-time-restock-alerts-are-harder-than-they-look-3n73)
+- [Not all skills are for AI.](https://dev.to/zawoj/not-all-skills-are-for-ai-2cbp)
+- [I Built an MCP Memory Server Where Code, Not the Model, Decides What Gets Stored](https://dev.to/starksood/i-built-an-mcp-memory-server-where-code-not-the-model-decides-what-gets-stored-497j)
+- [I built an image toolbox that keeps common processing inside the browser](https://dev.to/fgghyyfk/i-built-an-image-toolbox-that-keeps-common-processing-inside-the-browser-oob)
+- [290+ AI Developer Tools: A Practical Guide to Finding the Right Tool](https://dev.to/jian_rongguo_f8d2190fb9c/290-ai-developer-tools-a-practical-guide-to-finding-the-right-tool-57fm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
