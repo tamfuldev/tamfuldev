@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Malware that runs the moment you open the project](https://dev.to/avioflagos/malware-that-runs-the-moment-you-open-the-project-1j5e)
-- [[Boost]](https://dev.to/sirkelvin/-1n6k)
-- [Serverless BigQuery MCP Agent with Gemini&quot; published: true tags: googlecloud, gemini, ai, python](https://dev.to/mohammed_faizanmomin_61e/building-a-serverless-bigquery-mcp-agent-with-gemini-google-adk-58j)
-- [What is a developer community?](https://dev.to/mishmanners/what-is-a-developer-community-3p0k)
-- [An AI pentest agent that structurally can&#39;t hallucinate a vulnerability — and runs offline](https://dev.to/__1b223f7/an-ai-pentest-agent-that-structurally-cant-hallucinate-a-vulnerability-and-runs-offline-25mk)
+- [The Local Dev Setup Cheat Sheet I Wish I Had When I Started 🐍⚡](https://dev.to/briankipchirchir77/the-local-dev-setup-cheat-sheet-i-wish-i-had-when-i-started-2of6)
+- [White-label is a subtraction job](https://dev.to/goodbarber/white-label-is-a-subtraction-job-53mf)
+- [Free AI Pull Request Reviews: A 20-Minute Setup](https://dev.to/devio_4040/free-ai-pull-request-reviews-a-20-minute-setup-3fc6)
+- [The Agent Crash-Looped on a Truncated Line: A Ledger Debugging Retrospective](https://dev.to/robinzzz/the-agent-crash-looped-on-a-truncated-line-a-ledger-debugging-retrospective-3706)
+- [How I Automated a 3-Tier Application CI/CD Pipeline with Docker, Azure &amp; GitHub Actions](https://dev.to/henryigwe/how-i-automated-a-3-tier-application-cicd-pipeline-with-docker-azure-github-actions-1cmg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
