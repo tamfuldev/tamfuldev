@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
-- [Building a 12-language AI product search on the edge: what actually broke](https://dev.to/ohadfarkash/building-a-12-language-ai-product-search-on-the-edge-what-actually-broke-45kb)
-- [MAGA: Less Framework, More Platform](https://dev.to/aura-ui/maga-less-framework-more-platform-gfg)
-- [I Turned 200+ Chinese Character Confusions Into a Structured Dataset](https://dev.to/1121_harris/i-turned-200-chinese-character-confusions-into-structured-data-heres-what-i-learned-20l7)
-- [Claude Code Surpasses GitHub Copilot: 90% of Developers Adopt AI Coding](https://dev.to/tidiane_stano_c6b88f8b685/claude-code-surpasses-github-copilot-90-of-developers-adopt-ai-coding-4ck2)
+- [How Developers and Testers Can Run an Ad Hoc Testing Session](https://dev.to/testeracdemy/how-developers-and-testers-can-run-an-ad-hoc-testing-session-p50)
+- [I&#39;ve Built RAG Infrastructure Several Times. Last Week Was the First Time I Actually Benchmarked It.](https://dev.to/amoydavid/ive-built-rag-infrastructure-several-times-last-week-was-the-first-time-i-actually-benchmarked-it-1fi2)
+- [A Blank Dashboard and a Fake 2.5M-Token Reading: Building a Token Fuel Gauge for Claude Code](https://dev.to/bokuwalily/a-blank-dashboard-and-a-fake-25m-token-reading-building-a-token-fuel-gauge-for-claude-code-36m6)
+- [The Vulnerable Moment](https://dev.to/rawveg/the-vulnerable-moment-1poi)
+- [How to Reduce Nginx 502 and 504 Gateway Errors](https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
