@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js OpenAI Chatbot: Responses API in 6 Steps](https://dev.to/gateofai/nextjs-openai-chatbot-responses-api-in-6-steps-5g38)
-- [RAG Knowledge Bases: Precision vs Breadth](https://dev.to/gateofai/rag-knowledge-bases-precision-vs-breadth-1k2h)
-- [Automatizaciones para pymes: las cinco que siempre piden, ordenadas por lo que cuesta mantenerlas](https://dev.to/gonzalo_terrones_7737b137/automatizaciones-para-pymes-las-cinco-que-siempre-piden-ordenadas-por-lo-que-cuesta-mantenerlas-peo)
-- [How We Keep a Trunk-Based Pipeline From Being Reckless](https://dev.to/sohammondal/how-we-keep-a-trunk-based-pipeline-from-being-reckless-250j)
-- [Introducing BermudoGreen.js: A Free, Zero-Dependency Excel Spreadsheet &amp; Formula Engine for Vanilla JS](https://dev.to/alexjrb0226a11y/introducing-bermudogreenjs-a-free-zero-dependency-excel-spreadsheet-formula-engine-for-vanilla-47c)
+- [Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript](https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd)
+- [Flyway for Freeloaders — Rollback without Teams](https://dev.to/aconcan/flyway-for-freeloaders-rollback-without-teams-aif)
+- [Say Goodbye to YAML Hell: Introducing Infra Lang v0.5.1](https://dev.to/tuvidev/say-goodbye-to-yaml-hell-introducing-infra-lang-v051-1ge2)
+- [Your Documents, Chunked and Searchable: The Knowledge Base in ByteChef](https://dev.to/bytechef/your-documents-chunked-and-searchable-the-knowledge-base-in-bytechef-h9d)
+- [Driving an Undocumented 3nm ASIC with an ESP32: Inside the First Sub-10 J/TH Open-Source Bitcoin Miner](https://dev.to/solosatoshi/driving-an-undocumented-3nm-asic-with-an-esp32-inside-the-first-sub-10-jth-open-source-bitcoin-8kh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
