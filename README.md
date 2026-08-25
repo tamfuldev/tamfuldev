@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reusing A Prompt System Across Clients Without Turning It Into A One Size Fits All Failure](https://dev.to/faraz_farhan_83ed23a154a2/reusing-a-prompt-system-across-clients-without-turning-it-into-a-one-size-fits-all-failure-1ml0)
-- [How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It](https://dev.to/respect17/how-to-write-a-developer-cv-that-survives-ats-and-still-reads-like-a-human-wrote-it-4ilb)
-- [Architectural Analysis of Modern Clinical Trial Management Systems](https://dev.to/chrismakaynes/architectural-analysis-of-modern-clinical-trial-management-systems-37g1)
-- [The Remote Job Search Playbook for Developers Outside the US/EU](https://dev.to/respect17/the-remote-job-search-playbook-for-developers-outside-the-useu-3njb)
-- [Breaking Into Full-Stack Development Without a CS Degree: What Actually Worked for Me](https://dev.to/respect17/breaking-into-full-stack-development-without-a-cs-degree-what-actually-worked-for-me-59g7)
+- [Malware that runs the moment you open the project](https://dev.to/avioflagos/malware-that-runs-the-moment-you-open-the-project-1j5e)
+- [[Boost]](https://dev.to/sirkelvin/-1n6k)
+- [Serverless BigQuery MCP Agent with Gemini&quot; published: true tags: googlecloud, gemini, ai, python](https://dev.to/mohammed_faizanmomin_61e/building-a-serverless-bigquery-mcp-agent-with-gemini-google-adk-58j)
+- [What is a developer community?](https://dev.to/mishmanners/what-is-a-developer-community-3p0k)
+- [An AI pentest agent that structurally can&#39;t hallucinate a vulnerability — and runs offline](https://dev.to/__1b223f7/an-ai-pentest-agent-that-structurally-cant-hallucinate-a-vulnerability-and-runs-offline-25mk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
