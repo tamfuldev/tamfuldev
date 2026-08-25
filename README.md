@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Web Performance on a Budget: Bundle Size, API Limits, and Database Indexes](https://dev.to/apeder/web-performance-on-a-budget-bundle-size-api-limits-and-database-indexes-44c6)
-- [Token Forensics: A Self-Hosted Observatory for Every Model Call](https://dev.to/airs_6907/token-forensics-a-self-hosted-observatory-for-every-model-call-7hd)
-- [Debugging a Flaky LLM Pipeline: Timeouts, Truncation, and a 40-Line Probe](https://dev.to/datago_8008/debugging-a-flaky-llm-pipeline-timeouts-truncation-and-a-40-line-probe-12pm)
-- [Headless CMS setup: when it makes sense and when it doesn&#39;t](https://dev.to/nayankyada/headless-cms-setup-when-it-makes-sense-and-when-it-doesnt-1k5d)
-- [Your Scraper Didn’t Fail. It Just Started Lying. So I Built Molt.](https://dev.to/prince_panchani_f971a20ec/your-scraper-didnt-fail-it-just-started-lying-so-i-built-molt-9kd)
+- [Reusing A Prompt System Across Clients Without Turning It Into A One Size Fits All Failure](https://dev.to/faraz_farhan_83ed23a154a2/reusing-a-prompt-system-across-clients-without-turning-it-into-a-one-size-fits-all-failure-1ml0)
+- [How to Write a Developer CV That Survives ATS and Still Reads Like a Human Wrote It](https://dev.to/respect17/how-to-write-a-developer-cv-that-survives-ats-and-still-reads-like-a-human-wrote-it-4ilb)
+- [Architectural Analysis of Modern Clinical Trial Management Systems](https://dev.to/chrismakaynes/architectural-analysis-of-modern-clinical-trial-management-systems-37g1)
+- [The Remote Job Search Playbook for Developers Outside the US/EU](https://dev.to/respect17/the-remote-job-search-playbook-for-developers-outside-the-useu-3njb)
+- [Breaking Into Full-Stack Development Without a CS Degree: What Actually Worked for Me](https://dev.to/respect17/breaking-into-full-stack-development-without-a-cs-degree-what-actually-worked-for-me-59g7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
