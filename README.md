@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A paywall where the trim is the product](https://dev.to/gexlive/a-paywall-where-the-trim-is-the-product-27bo)
-- [The Portability Trap: When &#39;It Loads&#39; Doesn&#39;t Mean &#39;It Works&#39;](https://dev.to/buildloops/the-portability-trap-when-it-loads-doesnt-mean-it-works-3a21)
-- [REST vs GraphQL in Practice](https://dev.to/stackhorizon/rest-vs-graphql-in-practice-17k7)
-- [I Spent Months Looking for a Job. Then I Said No to One.](https://dev.to/patterueldev/i-spent-months-looking-for-a-job-then-i-said-no-to-one-2i14)
-- [Release notes are not release documentation: a reader-task coverage method](https://dev.to/hdd_igh_5e3c0bdaa0f7a2ef5/release-notes-are-not-release-documentation-a-reader-task-coverage-method-475d)
+- [How I Built a Bulk Image Converter That Runs Entirely in Your Browser](https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0)
+- [OpenAI’s Jalapeño Inference Chip Could Reshape the Economics of Serving AI](https://dev.to/alifar/openais-jalapeno-inference-chip-could-reshape-the-economics-of-serving-ai-n6k)
+- [NFSFU234 Open Source Day: Three Tools, One Scope](https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e)
+- [I built agent-inspect to debug TypeScript AI agent trajectories](https://dev.to/raju_dandigam/i-built-agent-inspect-to-debug-typescript-ai-agent-trajectories-2jg6)
+- [That Time Client Retries Turned a Recovery Into a 7-Hour Outage](https://dev.to/schiff_heimlich/that-time-client-retries-turned-a-recovery-into-a-7-hour-outage-51e2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
