@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TPM Requirements for Post-Quantum Cryptography Readiness](https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj)
-- [Should a SaaS Password Recovery Flow Use Email API or SMS OTP?](https://dev.to/holdenfox8476/should-a-saas-password-recovery-flow-use-email-api-or-sms-otp-4h42)
-- [40001 is not a query error](https://dev.to/mohamedaboelmagd/40001-is-not-a-query-error-2497)
-- [I&#39;m using GPT Sol and Claude Opus for free — pi-coding-agent + OmniRoute](https://dev.to/ahmed_nafies_3a55c907115c/im-using-gpt-sol-and-claude-opus-for-free-pi-coding-agent-omniroute-36m8)
-- [Testing OmniRoute locally: verify your AI gateway actually works before you trust it](https://dev.to/ahmed_nafies_3a55c907115c/testing-omniroute-locally-verify-your-ai-gateway-actually-works-before-you-trust-it-1pde)
+- [Next.js OpenAI Chatbot: Responses API in 6 Steps](https://dev.to/gateofai/nextjs-openai-chatbot-responses-api-in-6-steps-5g38)
+- [RAG Knowledge Bases: Precision vs Breadth](https://dev.to/gateofai/rag-knowledge-bases-precision-vs-breadth-1k2h)
+- [Automatizaciones para pymes: las cinco que siempre piden, ordenadas por lo que cuesta mantenerlas](https://dev.to/gonzalo_terrones_7737b137/automatizaciones-para-pymes-las-cinco-que-siempre-piden-ordenadas-por-lo-que-cuesta-mantenerlas-peo)
+- [How We Keep a Trunk-Based Pipeline From Being Reckless](https://dev.to/sohammondal/how-we-keep-a-trunk-based-pipeline-from-being-reckless-250j)
+- [Introducing BermudoGreen.js: A Free, Zero-Dependency Excel Spreadsheet &amp; Formula Engine for Vanilla JS](https://dev.to/alexjrb0226a11y/introducing-bermudogreenjs-a-free-zero-dependency-excel-spreadsheet-formula-engine-for-vanilla-47c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
