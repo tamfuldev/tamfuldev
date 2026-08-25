@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Postman Without an Account: What Still Works in 2026](https://dev.to/akdombrowski/postman-without-an-account-what-still-works-in-2026-49aa)
-- [Building a TypeScript Code Radar: What an AST Reveals That Text Search Misses](https://dev.to/akamabe/building-a-typescript-code-radar-what-an-ast-reveals-that-text-search-misses-231d)
-- [I built a dependency-driven scheduling engine entirely in Excel/VBA](https://dev.to/tmailletfr/i-built-a-dependency-driven-scheduling-engine-entirely-in-excelvba-4hbf)
-- [Wrought - For stopping your over-engineered codebases.](https://dev.to/proportanilityconstant/wrought-for-stopping-your-over-engineered-codebases-729)
-- [HD-101 — The first pull request](https://dev.to/nazmur96/hd-101-the-first-pull-request-2fep)
+- [Technical Strategy: Thinking Beyond the Current Sprint](https://dev.to/namanvashistha/technical-strategy-thinking-beyond-the-current-sprint-1o24)
+- [Checkpoints vs Micromanagement](https://dev.to/namanvashistha/checkpoints-vs-micromanagement-4daa)
+- [Hermes Agent Bot Mode vs Kanban: When to Use Each &lpar;and Why I Use Both&rpar;](https://dev.to/vivek_shetye/hermes-agent-bot-mode-vs-kanban-when-to-use-each-and-why-i-use-both-2che)
+- [When Should You Retrain Your ML Model? A New Study Says Most Teams Are Solving the Wrong Problem](https://dev.to/egepakten/when-should-you-retrain-your-ml-model-a-new-study-says-most-teams-are-solving-the-wrong-problem-2chk)
+- [Architecting for Reliability: The Role of Message Brokers in Multi-Agent AI](https://dev.to/ayas_tech_2b0560ee159e661/architecting-for-reliability-the-role-of-message-brokers-in-multi-agent-ai-5d5l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
