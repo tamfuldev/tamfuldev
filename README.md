@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript](https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd)
-- [Flyway for Freeloaders — Rollback without Teams](https://dev.to/aconcan/flyway-for-freeloaders-rollback-without-teams-aif)
-- [Say Goodbye to YAML Hell: Introducing Infra Lang v0.5.1](https://dev.to/tuvidev/say-goodbye-to-yaml-hell-introducing-infra-lang-v051-1ge2)
-- [Your Documents, Chunked and Searchable: The Knowledge Base in ByteChef](https://dev.to/bytechef/your-documents-chunked-and-searchable-the-knowledge-base-in-bytechef-h9d)
-- [Driving an Undocumented 3nm ASIC with an ESP32: Inside the First Sub-10 J/TH Open-Source Bitcoin Miner](https://dev.to/solosatoshi/driving-an-undocumented-3nm-asic-with-an-esp32-inside-the-first-sub-10-jth-open-source-bitcoin-8kh)
+- [mcp-tool-sanitizer v0.1.0: Making the MCP approval-view match the bytes the model gets](https://dev.to/magopredator/mcp-tool-sanitizer-v010-making-the-mcp-approval-view-match-the-bytes-the-model-gets-17i5)
+- [Auto-Seed Admin Controls: Building Governance for an AI Training Pipeline](https://dev.to/humzakt/auto-seed-admin-controls-building-governance-for-an-ai-training-pipeline-22c4)
+- [One Source of Truth for Aspect Ratio: Retrofitting 16:9 Into a Portrait-Only Pipeline](https://dev.to/humzakt/one-source-of-truth-for-aspect-ratio-retrofitting-169-into-a-portrait-only-pipeline-5bh3)
+- [Authenticated Isn’t Authorized: The AI Code Review Bug That Looks Secure](https://dev.to/raithlin/authenticated-isnt-authorized-the-ai-code-review-bug-that-looks-secure-507m)
+- [The Critic Panel: Teaching an AI Pipeline to Check Its Own Work](https://dev.to/humzakt/the-critic-panel-teaching-an-ai-pipeline-to-check-its-own-work-24n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
