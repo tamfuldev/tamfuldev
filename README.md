@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers and Testers Can Run an Ad Hoc Testing Session](https://dev.to/testeracdemy/how-developers-and-testers-can-run-an-ad-hoc-testing-session-p50)
-- [I&#39;ve Built RAG Infrastructure Several Times. Last Week Was the First Time I Actually Benchmarked It.](https://dev.to/amoydavid/ive-built-rag-infrastructure-several-times-last-week-was-the-first-time-i-actually-benchmarked-it-1fi2)
-- [A Blank Dashboard and a Fake 2.5M-Token Reading: Building a Token Fuel Gauge for Claude Code](https://dev.to/bokuwalily/a-blank-dashboard-and-a-fake-25m-token-reading-building-a-token-fuel-gauge-for-claude-code-36m6)
-- [The Vulnerable Moment](https://dev.to/rawveg/the-vulnerable-moment-1poi)
-- [How to Reduce Nginx 502 and 504 Gateway Errors](https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i)
+- [AI Coding Tip 033 - Protect Yourself Against AI Cheating](https://dev.to/mcsee/ai-coding-tip-033-protect-yourself-against-ai-cheating-1pn1)
+- [I removed the LLM call and replaced it with 200 lines of template code](https://dev.to/thedolceway/i-removed-the-llm-call-and-replaced-it-with-200-lines-of-template-code-2lh0)
+- [Chega de git stash: como trabalhar em múltiplas features em paralelo com git worktree](https://dev.to/brduarte/chega-de-git-stash-como-trabalhar-em-multiplas-features-em-paralelo-com-git-worktree-171b)
+- [A $60/Month VM Running an LLM Agent Now Does Autonomous Security Work](https://dev.to/gptbrunch/a-60month-vm-running-an-llm-agent-now-does-autonomous-security-work-4bii)
+- [The SPF redirect trap: why -all can make redirect= useless](https://dev.to/petr_michal_178dc4f87ad91/the-spf-redirect-trap-why-all-can-make-redirect-useless-3h0f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
