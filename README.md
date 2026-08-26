@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Audit&#39;s Blind Spot: I Weighed the Build, Not the Page](https://dev.to/gabbs279/the-audits-blind-spot-i-weighed-the-build-not-the-page-37p4)
-- [Writing QUIC in Pure Java](https://dev.to/cpkb/writing-quic-in-pure-java-2536)
-- [Docker in Production: What Changes When Containers Meet Reality?](https://dev.to/sreekanth_kuruba_91721e5d/docker-in-production-what-changes-when-containers-meet-reality-1bmm)
-- [AWS Serverless Weather Data Pipeline](https://dev.to/aws-builders/aws-serverless-weather-data-pipeline-2nh3)
-- [Linus Trovalds ~ Founder of Linus and GIT](https://dev.to/heyabdullahbruh/linus-trovalds-founder-of-linus-and-git-3e4)
+- [ARIA Role Inheritance and Override: How Browsers Resolve Conflicting Semantics](https://dev.to/mspk97/aria-role-inheritance-and-override-how-browsers-resolve-conflicting-semantics-25oi)
+- [I put my cost router on a neutral benchmark. It ranked near the bottom, and that&#39;s the interesting part](https://dev.to/fortitudeomnis/i-put-my-cost-router-on-a-neutral-benchmark-it-ranked-near-the-bottom-and-thats-the-interesting-6bc)
+- [The Graph That Learns: Building Self-Improving Agent Loops](https://dev.to/bobbyhalljr/the-graph-that-learns-building-self-improving-agent-loops-1nf7)
+- [Flutter Push Notifications with FCM — Complete 2026 Walkthrough](https://dev.to/mryadavgulshan/flutter-push-notifications-with-fcm-complete-2026-walkthrough-d5d)
+- [The server got hit and I only knew because a file quietly changed itself](https://dev.to/syed_masoodshah_1984/the-server-got-hit-and-i-only-knew-because-a-file-quietly-changed-itself-4b50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
