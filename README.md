@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Data Sniffing: Threats to Business and 5 Ways to Defend](https://dev.to/octowatch/data-sniffing-threats-to-business-and-5-ways-to-defend-22k6)
-- [Using Multiple GitHub Accounts: Automatically Select the Correct `gh` PAT Based on Repo Owner](https://dev.to/vast-cow/using-multiple-github-accounts-automatically-select-the-correct-gh-pat-based-on-repo-owner-4l3g)
-- [Stop manual dice rolling: Giving LLMs a proper tabletop math engine via MCP](https://dev.to/renato_marinho/stop-manual-dice-rolling-giving-llms-a-proper-tabletop-math-engine-via-mcp-32i2)
-- [A Confirm Button Is Not a Coding-Agent Security Boundary](https://dev.to/hefty_69a4c2d631c9dd70724/a-confirm-button-is-not-a-coding-agent-security-boundary-5700)
-- [Wireshark for Beginners:How to Capture and Analyze Network Traffic](https://dev.to/rithanya_angappan_11988c0/wireshark-for-beginnershow-to-capture-and-analyze-network-traffic-2pia)
+- [Caltech&#39;s Physics AI Ditches Transformers for Neural Operators](https://dev.to/peremptory/caltechs-physics-ai-ditches-transformers-for-neural-operators-3hl2)
+- [SQLazy: Search for Adjacent Records at a Specified Offset Within Groups](https://dev.to/esproc_spl/sqlazy-search-for-adjacent-records-at-a-specified-offset-within-groups-2m3i)
+- [No signup. No card. Free GPT &amp; Claude.](https://dev.to/joodi/no-signup-no-card-free-gpt-claude-5aek)
+- [OpenAI&#39;s first custom chip just benchmarked past NVIDIA. Jalapeño changes the inference equation.](https://dev.to/thegatewayguy/openais-first-custom-chip-just-benchmarked-past-nvidia-jalapeno-changes-the-inference-equation-4ige)
+- [MCP just went stateless. Here&#39;s what the new roadmap builds next.](https://dev.to/thegatewayguy/mcp-just-went-stateless-heres-what-the-new-roadmap-builds-next-2jdp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
