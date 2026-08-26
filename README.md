@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Future Always Looks Like It Has More Time](https://dev.to/sumit0rn/why-the-future-always-looks-like-it-has-more-time-3340)
-- [I built a Chrome extension that grades stocks with deterministic rules; here&#39;s the privacy architecture](https://dev.to/tridibbanik17/i-built-a-chrome-extension-that-grades-stocks-with-deterministic-rules-heres-the-privacy-2lm8)
-- [The Missing Role in Healthcare AI: Forward-Deployed Engineers](https://dev.to/alireza_minagar_99f01ecb6/the-missing-role-in-healthcare-ai-forward-deployed-engineers-3ip4)
-- [systemd vs BusyBox init: Which Init System Fits Your Device?](https://dev.to/raghu_bharadwaj_404e60eb0c/systemd-vs-busybox-init-which-init-system-fits-your-device-17ie)
-- [Why My Nightly Ingest Stalled for 3 Days — and How Splitting One Task Into Sub-Steps Fixed It](https://dev.to/bokuwalily/why-my-nightly-ingest-stalled-for-3-days-and-how-splitting-one-task-into-sub-steps-fixed-it-4f62)
+- [Oscar Awowari CEO: Designing a Geospatial Search Layer for a City Discovery Platform](https://dev.to/lee_x/oscar-awowari-ceo-designing-a-geospatial-search-layer-for-a-city-discovery-platform-2b23)
+- [I built a zero-dependency CLI to audit hreflang &lpar;international SEO&rpar;](https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-to-audit-hreflang-international-seo-47bm)
+- [Designing a Zero-Trust Authorization Layer for Collection Actions](https://dev.to/matt_rose_9d0fe88d3533a4f/designing-a-zero-trust-authorization-layer-for-collection-actions-599f)
+- [Configurar Graphify para usarlo con Claude cli](https://dev.to/oskar_calvo_1615a9b3b293f/configurar-graphify-para-usarlo-con-claude-cli-k86)
+- [Deploying an Independence Day Web Game with Tencent EdgeOne Makers: A Developer’s Guide](https://dev.to/poundra/deploying-an-independence-day-web-game-with-tencent-edgeone-makers-a-developers-guide-3c61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
