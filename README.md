@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Caltech&#39;s Physics AI Ditches Transformers for Neural Operators](https://dev.to/peremptory/caltechs-physics-ai-ditches-transformers-for-neural-operators-3hl2)
-- [SQLazy: Search for Adjacent Records at a Specified Offset Within Groups](https://dev.to/esproc_spl/sqlazy-search-for-adjacent-records-at-a-specified-offset-within-groups-2m3i)
-- [No signup. No card. Free GPT &amp; Claude.](https://dev.to/joodi/no-signup-no-card-free-gpt-claude-5aek)
-- [OpenAI&#39;s first custom chip just benchmarked past NVIDIA. Jalapeño changes the inference equation.](https://dev.to/thegatewayguy/openais-first-custom-chip-just-benchmarked-past-nvidia-jalapeno-changes-the-inference-equation-4ige)
-- [MCP just went stateless. Here&#39;s what the new roadmap builds next.](https://dev.to/thegatewayguy/mcp-just-went-stateless-heres-what-the-new-roadmap-builds-next-2jdp)
+- [NET Framework Essentials: Web Development Simplified](https://dev.to/sahil_khurana_486f374ecf2/net-framework-essentials-web-development-simplified-5gn1)
+- [The State Pattern Trap: Why GoF Is Not Always the Best Choice](https://dev.to/bibekkakati/the-state-pattern-trap-why-gof-is-not-always-the-best-choice-487k)
+- [AI Real Estate Business Assistant: Reimagining How Real Estate Professionals Work in India](https://dev.to/vansh_chauhan_eeadac3209d/ai-real-estate-business-assistant-reimagining-how-real-estate-professionals-work-in-india-lo3)
+- [AI wave](https://dev.to/michele-9e58e27dac99451/ai-wave-h75)
+- [I Treated Agent Sessions as Portable Cache and Moved Control to a Policy Plane: Vendor Lock-In Became Manageable](https://dev.to/jangwook_kim_e31e7291ad98/i-treated-agent-sessions-as-portable-cache-and-moved-control-to-a-policy-plane-vendor-lock-in-15j4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
