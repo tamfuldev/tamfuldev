@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NET Framework Essentials: Web Development Simplified](https://dev.to/sahil_khurana_486f374ecf2/net-framework-essentials-web-development-simplified-5gn1)
-- [The State Pattern Trap: Why GoF Is Not Always the Best Choice](https://dev.to/bibekkakati/the-state-pattern-trap-why-gof-is-not-always-the-best-choice-487k)
-- [AI Real Estate Business Assistant: Reimagining How Real Estate Professionals Work in India](https://dev.to/vansh_chauhan_eeadac3209d/ai-real-estate-business-assistant-reimagining-how-real-estate-professionals-work-in-india-lo3)
-- [AI wave](https://dev.to/michele-9e58e27dac99451/ai-wave-h75)
-- [I Treated Agent Sessions as Portable Cache and Moved Control to a Policy Plane: Vendor Lock-In Became Manageable](https://dev.to/jangwook_kim_e31e7291ad98/i-treated-agent-sessions-as-portable-cache-and-moved-control-to-a-policy-plane-vendor-lock-in-15j4)
+- [How Many Builds Can Run at Once on One VPS](https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6)
+- [A Real Deployment Exposed Two Contract Defects Before I Froze the Contract](https://dev.to/shikiyusuke/a-real-deployment-exposed-two-contract-defects-before-i-froze-the-contract-2pao)
+- [How to build a developer community](https://dev.to/mishmanners/how-to-build-a-developer-community-4alb)
+- [LLM Evaluation for Software Engineers Without an ML Background: the 90+ Checks We Actually Run](https://dev.to/jula-markova/llm-evaluation-for-software-engineers-without-an-ml-background-the-90-checks-we-actually-run-5fp9)
+- [Agentic AI Security: Sandboxing LLM Tool Calls in Production](https://dev.to/ayinedjimi-consultants/agentic-ai-security-sandboxing-llm-tool-calls-in-production-2odk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
