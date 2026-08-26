@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD for Azure Logic Apps Standard on a Private &lpar;ILB&rpar; ASE — Without a VNet Agent](https://dev.to/vicky_acedia/cicd-for-azure-logic-apps-standard-on-a-private-ilb-ase-without-a-vnet-agent-1j2e)
-- [Email API Demystified: Own Welcome Templates, Suppression List, Report Files](https://dev.to/magnusnilsson2124/email-api-demystified-own-welcome-templates-suppression-list-report-files-3gm8)
-- [Solution to Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/solution-to-challenge-4-accessibility-testing-3ggn)
-- [How to Explain a Technical Issue in English: Conclusion, Reason, Example](https://dev.to/cherryengkr/how-to-explain-a-technical-issue-in-english-conclusion-reason-example-2167)
-- [Figma published 10 skills](https://dev.to/zawoj/figma-published-10-skills-5fic)
+- [Why the Future Always Looks Like It Has More Time](https://dev.to/sumit0rn/why-the-future-always-looks-like-it-has-more-time-3340)
+- [I built a Chrome extension that grades stocks with deterministic rules; here&#39;s the privacy architecture](https://dev.to/tridibbanik17/i-built-a-chrome-extension-that-grades-stocks-with-deterministic-rules-heres-the-privacy-2lm8)
+- [The Missing Role in Healthcare AI: Forward-Deployed Engineers](https://dev.to/alireza_minagar_99f01ecb6/the-missing-role-in-healthcare-ai-forward-deployed-engineers-3ip4)
+- [systemd vs BusyBox init: Which Init System Fits Your Device?](https://dev.to/raghu_bharadwaj_404e60eb0c/systemd-vs-busybox-init-which-init-system-fits-your-device-17ie)
+- [Why My Nightly Ingest Stalled for 3 Days — and How Splitting One Task Into Sub-Steps Fixed It](https://dev.to/bokuwalily/why-my-nightly-ingest-stalled-for-3-days-and-how-splitting-one-task-into-sub-steps-fixed-it-4f62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
