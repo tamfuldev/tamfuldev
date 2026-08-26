@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DevsFTP s/FTP Client for Windows &amp; Linux](https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl)
-- [Introducing Crypts and Commits](https://dev.to/thebraindonor/introducing-crypts-and-commits-3igo)
-- [AI-Driven Discovery &amp; Quantum ESPRESSO DFT Validation for 0 GPa Room-Temp Superconductor Candidate &lpar;C2H2B6Be&rpar;](https://dev.to/tsagi/ai-driven-discovery-quantum-espresso-dft-validation-for-0-gpa-room-temp-superconductor-candidate-5hjn)
-- [Your Proxy Is in Germany. The Rest of Your Client Isn&#39;t.](https://dev.to/roamproxy/your-proxy-is-in-germany-the-rest-of-your-client-isnt-208b)
-- [Your AI image is 1024px. The canvas is 4 feet wide. Here&#39;s the math that saved me.](https://dev.to/erich_mayne_a9cab13715b29/your-ai-image-is-1024px-the-canvas-is-4-feet-wide-heres-the-math-that-saved-me-1cc1)
+- [A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works](https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4)
+- [Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison](https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e)
+- [Loops vs Graphs: Why Agent Architecture Needs Both &lpar;and a Compiler Between Them&rpar;](https://dev.to/bozoinc/loops-vs-graphs-why-agent-architecture-needs-both-and-a-compiler-between-them-14n0)
+- [What Actually Breaks When You Put AI Agents In Front Of Real Customers](https://dev.to/codexomation/what-actually-breaks-when-you-put-ai-agents-in-front-of-real-customers-5b2j)
+- [Your agent&#39;s &#39;secure&#39; network policy was off unless you did four steps — so it was off](https://dev.to/wartzarbee/your-agents-secure-network-policy-was-off-unless-you-did-four-steps-so-it-was-off-409k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
