@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works](https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4)
-- [Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison](https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e)
-- [Loops vs Graphs: Why Agent Architecture Needs Both &lpar;and a Compiler Between Them&rpar;](https://dev.to/bozoinc/loops-vs-graphs-why-agent-architecture-needs-both-and-a-compiler-between-them-14n0)
-- [What Actually Breaks When You Put AI Agents In Front Of Real Customers](https://dev.to/codexomation/what-actually-breaks-when-you-put-ai-agents-in-front-of-real-customers-5b2j)
-- [Your agent&#39;s &#39;secure&#39; network policy was off unless you did four steps — so it was off](https://dev.to/wartzarbee/your-agents-secure-network-policy-was-off-unless-you-did-four-steps-so-it-was-off-409k)
+- [Hello DEV Community! 👋 | Software Developer](https://dev.to/dylandtuan9899/hello-dev-community-software-developer-1c9k)
+- [Python Generators and Iterators: Process Large Data Without Blowing Up Memory](https://dev.to/davis_mark_4114bbd22f732f/python-generators-and-iterators-process-large-data-without-blowing-up-memory-2h3n)
+- [An AI blog pipeline with a human editor: how this post was made](https://dev.to/gatapia/an-ai-blog-pipeline-with-a-human-editor-how-this-post-was-made-5bmf)
+- [Android APK XopProtector加固原理（一）：Native Shell 如何隐藏和恢复 DEX](https://dev.to/321_9c44271a2935c05f097/android-apk-xopprotectorjia-gu-yuan-li-native-shell-ru-he-yin-cang-he-hui-fu-dex-1ena)
+- [The AI Exam Author Was Never Wrong. I Still Can&#39;t Use Its Exam.](https://dev.to/ramses203/the-ai-exam-author-was-never-wrong-i-still-cant-use-its-exam-3h2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
