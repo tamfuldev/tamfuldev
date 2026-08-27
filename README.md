@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-Skill: An Open-Source Cybersecurity Router Pack for AI Coding Agents](https://dev.to/terminalchai/reverse-skill-an-open-source-cybersecurity-router-pack-for-ai-coding-agents-145i)
-- [The Bug Class AI Coding Agents Keep Introducing &lpar;and How We Started Catching It in CI&rpar;](https://dev.to/momcilo_savic_f347191005c/the-bug-class-ai-coding-agents-keep-introducing-and-how-we-started-catching-it-in-ci-1np7)
-- [Excited to see how this feature rolls out and evolves over time](https://dev.to/heyitsjem/-3iaa)
-- [[Boost]](https://dev.to/jonmarkgo/-hf3)
-- [OpenAI’s Hugging Face Incident Report Shows Where AI Agent Safeguards Failed](https://dev.to/alifar/openais-hugging-face-incident-report-shows-where-ai-agent-safeguards-failed-3oc6)
+- [Building a Client-Side Binary to Decimal Converter with Interactive Mathematical Breakdown](https://dev.to/hoangvibecode/building-a-client-side-binary-to-decimal-converter-with-interactive-mathematical-breakdown-5g6e)
+- [Use Prototypes to Plan Production Software with AI](https://dev.to/bguiz/use-prototypes-to-plan-production-software-with-ai-45b5)
+- [How Can You and Use Google Workspace CLI](https://dev.to/preecha/how-can-you-and-use-google-workspace-cli-1fm1)
+- [Beyond CSS-in-JS: From Element Styles To Component Themes](https://dev.to/omnidev/beyond-css-in-js-from-element-styles-to-component-themes-eaj)
+- [Nyreth v1.0](https://dev.to/presence_factor_659d4be17/nyreth-v10-2anp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
