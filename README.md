@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Strapi v5 form with React without using a hosted widget](https://dev.to/bardiya/build-a-strapi-v5-form-with-react-without-using-a-hosted-widget-2a8f)
-- [This week: payments in the framework, nine brands migrated in an hour, and the start of a video pipeline](https://dev.to/ianwieds/this-week-payments-in-the-framework-nine-brands-migrated-in-an-hour-and-the-start-of-a-video-3a6p)
-- [Four Java Bugs That Bad Indentation Hides in Plain Sight](https://dev.to/li_5408/four-java-bugs-that-bad-indentation-hides-in-plain-sight-4jng)
-- [Attacks on Water OT: Over 100 Internet-Exposed Systems Targeted in July](https://dev.to/anoymask/attacks-on-water-ot-over-100-internet-exposed-systems-targeted-in-july-30di)
-- [The most interesting number in my hackathon project is one I found by accident](https://dev.to/blank242/the-most-interesting-number-in-my-hackathon-project-is-one-i-found-by-accident-5ci2)
+- [The art of the prompt: core principles](https://dev.to/fj_palacios/the-art-of-the-prompt-core-principles-2ja2)
+- [Why I Built an Ultra-Lightweight Rust &amp; Tauri Desktop Command Center for Developers](https://dev.to/kingupe/why-i-built-an-ultra-lightweight-rust-tauri-desktop-command-center-for-developers-4ijp)
+- [Catching Risky Doctrine Migrations Before Production](https://dev.to/alkin/catching-risky-doctrine-migrations-before-production-dc)
+- [How I Built a Zero-Install, Multi-Gigabyte P2P File Transfer Engine in the Browser with WebRTC &amp; File System Access API](https://dev.to/kingupe/how-i-built-a-zero-install-multi-gigabyte-p2p-file-transfer-engine-in-the-browser-with-webrtc--1doe)
+- [¿Y si eliminamos todas las matemáticas de SHA-256? Mi experimento con Tablas de Búsqueda &lpar;LUT&rpar;](https://dev.to/uacprogrammer/y-si-eliminamos-todas-las-matematicas-de-sha-256-mi-experimento-con-tablas-de-busqueda-lut-5c7h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
