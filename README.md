@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The art of the prompt: core principles](https://dev.to/fj_palacios/the-art-of-the-prompt-core-principles-2ja2)
-- [Why I Built an Ultra-Lightweight Rust &amp; Tauri Desktop Command Center for Developers](https://dev.to/kingupe/why-i-built-an-ultra-lightweight-rust-tauri-desktop-command-center-for-developers-4ijp)
-- [Catching Risky Doctrine Migrations Before Production](https://dev.to/alkin/catching-risky-doctrine-migrations-before-production-dc)
-- [How I Built a Zero-Install, Multi-Gigabyte P2P File Transfer Engine in the Browser with WebRTC &amp; File System Access API](https://dev.to/kingupe/how-i-built-a-zero-install-multi-gigabyte-p2p-file-transfer-engine-in-the-browser-with-webrtc--1doe)
-- [¿Y si eliminamos todas las matemáticas de SHA-256? Mi experimento con Tablas de Búsqueda &lpar;LUT&rpar;](https://dev.to/uacprogrammer/y-si-eliminamos-todas-las-matematicas-de-sha-256-mi-experimento-con-tablas-de-busqueda-lut-5c7h)
+- [AI Coding Assistants Malware Vulnerability Stats &amp; Risks 2026](https://dev.to/nlocoding/ai-coding-assistants-malware-vulnerability-stats-risks-2026-1872)
+- [Are AI Coding Assistants Getting Worse in 2026? Data &amp; Analysis](https://dev.to/nlocoding/are-ai-coding-assistants-getting-worse-in-2026-data-analysis-2l3e)
+- [Connecting CSS to JS&lpar;CSS basics part 4/60&rpar;](https://dev.to/beey12345/connecting-css-to-jscss-basics-part-460-2nik)
+- [Google Search Console Now Shows Which Queries Drive Traffic to Social Content](https://dev.to/alifar/google-search-console-now-shows-which-queries-drive-traffic-to-social-content-5ag2)
+- [Codex Skill Adds Guardrails to AI Presenter Video Workflows](https://dev.to/dd8888/codex-skill-adds-guardrails-to-ai-presenter-video-workflows-4jk2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
