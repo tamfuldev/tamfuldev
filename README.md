@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GiveWP CVE-2026-82222: RCE Chain from Unauthenticated Registration to PHP Object Injection](https://dev.to/anoymask/givewp-cve-2026-82222-rce-chain-from-unauthenticated-registration-to-php-object-injection-16j2)
-- [PaperCut Authentication Bypass and Dynamic Class Loading: Pre-authentication RCE Chain Actively Exploited](https://dev.to/anoymask/papercut-authentication-bypass-and-dynamic-class-loading-pre-authentication-rce-chain-actively-1629)
-- [Zabbix agent CVE-2026-59781: Privilege Escalation via DLL Loading During Installation](https://dev.to/anoymask/zabbix-agent-cve-2026-59781-privilege-escalation-via-dll-loading-during-installation-58c0)
-- [RAG Evaluation: How to Know Your Retrieval Isn&#39;t Broken](https://dev.to/mryadavgulshan/rag-evaluation-how-to-know-your-retrieval-isnt-broken-5d81)
-- [Building AI-Powered Data Analytics with Snowflake Cortex](https://dev.to/abineshm/building-ai-powered-data-analytics-with-snowflake-cortex-1g2n)
+- [Cisco ACE load balancer-i idarə edərkən nəyə baxmaq lazımdır?](https://dev.to/camal1o/cisco-ace-load-balancer-i-idar-edrkn-ny-baxmaq-lazimdir-4i57)
+- [🚀 MyZubster Dev Update — Building the Zorgax Monetization Layer](https://dev.to/danielioni/myzubster-dev-update-building-the-zorgax-monetization-layer-15am)
+- [I built a HEIC to PDF converter that never uploads your file. Here&#39;s what that cost.](https://dev.to/nadiakesslerdev/i-built-a-heic-to-pdf-converter-that-never-uploads-your-file-heres-what-that-cost-mj5)
+- [Find the cheapest day to fly with a Google Flights price tracker &lpar;Python + n8n&rpar;](https://dev.to/tedj_meabiou_542473606184/find-the-cheapest-day-to-fly-with-a-google-flights-price-tracker-python-n8n-44eg)
+- [Introducing MCPGrade: Securing Model Context Protocol Servers in 2026](https://dev.to/syed_zada_abrar/introducing-mcpgrade-securing-model-context-protocol-servers-in-2026-36dh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
