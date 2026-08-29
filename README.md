@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [200 OK Does Not Mean Your Service Works](https://dev.to/thesaurabhk/200-ok-does-not-mean-your-service-works-167c)
-- [Running multiple claude code accounts on Linux](https://dev.to/sakibullah2006/running-multiple-claude-code-accounts-on-linux-opj)
-- [The Whale Metaphor: How OOP&#39;s Four Pillars Actually Work in WordPress](https://dev.to/adovgun/the-whale-metaphor-how-oops-four-pillars-actually-work-in-wordpress-21cd)
-- [I Built a System to Run My Job Search Like a Pipeline](https://dev.to/michael_inghilterra/i-built-a-system-to-run-my-job-search-like-a-pipeline-54k6)
-- [I built browser-to-browser remote file access with WebRTC – no app required](https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b)
+- [I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa)
+- [Microsoft Strips Copilot&#39;s Free Features — and Puts Deep Research Behind a Subscription](https://dev.to/theaidownside/microsoft-strips-copilots-free-features-and-puts-deep-research-behind-a-subscription-6g6)
+- [Why Workflow Automation Fails When Nobody Owns the Handoff](https://dev.to/nexus-alpha2452/why-workflow-automation-fails-when-nobody-owns-the-handoff-905)
+- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
+- [Two Projects, One Problem — What PlannerCritic and AdversarialDebate Each Got Wrong](https://dev.to/debashish_ghosal/two-projects-one-problem-what-plannercritic-and-adversarialdebate-each-got-wrong-2gc6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
