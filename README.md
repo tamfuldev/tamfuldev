@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cisco ACE load balancer-i idarə edərkən nəyə baxmaq lazımdır?](https://dev.to/camal1o/cisco-ace-load-balancer-i-idar-edrkn-ny-baxmaq-lazimdir-4i57)
-- [🚀 MyZubster Dev Update — Building the Zorgax Monetization Layer](https://dev.to/danielioni/myzubster-dev-update-building-the-zorgax-monetization-layer-15am)
-- [I built a HEIC to PDF converter that never uploads your file. Here&#39;s what that cost.](https://dev.to/nadiakesslerdev/i-built-a-heic-to-pdf-converter-that-never-uploads-your-file-heres-what-that-cost-mj5)
-- [Find the cheapest day to fly with a Google Flights price tracker &lpar;Python + n8n&rpar;](https://dev.to/tedj_meabiou_542473606184/find-the-cheapest-day-to-fly-with-a-google-flights-price-tracker-python-n8n-44eg)
-- [Introducing MCPGrade: Securing Model Context Protocol Servers in 2026](https://dev.to/syed_zada_abrar/introducing-mcpgrade-securing-model-context-protocol-servers-in-2026-36dh)
+- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Lido](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-lido-1d21)
+- [C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough](https://dev.to/manoharij/c-api-crud-done-wrong-then-done-right-a-complete-bad-practices-vs-best-practices-walkthrough-4fkk)
+- [Good Architecture Starts with Trust](https://dev.to/mgmaster24/good-architecture-starts-with-trust-414l)
+- [The page and the encoder are different clocks](https://dev.to/kenyalba/-the-page-and-the-encoder-are-different-clocks-ge2)
+- [The attention tax: what nobody tells you about 24/7 AI agents](https://dev.to/oroborolabs/the-attention-tax-what-nobody-tells-you-about-247-ai-agents-19gk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
