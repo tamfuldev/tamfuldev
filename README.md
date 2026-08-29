@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Same GraphRAG Comparison Wins and Loses. It Depends Which Instrument Judged It.](https://dev.to/izgorodin/the-same-graphrag-comparison-wins-and-loses-it-depends-which-instrument-judged-it-fm9)
-- [U.S. sanctions against the A/I Collective](https://dev.to/technoblogger14o3/us-sanctions-against-the-ai-collective-gkg)
-- [Your Compute-Usage Receipt Can Be Cryptographically Signed and Still Be Forged. Here&#39;s the One Field That Actually Prevents It, From the Command Line.](https://dev.to/sourav-nandy/your-compute-usage-receipt-can-be-cryptographically-signed-and-still-be-forged-heres-the-one-3b1o)
-- [A Beloved Classic Gets a Second Life: Why I Forked Uniform Server](https://dev.to/rob_de_roy/a-beloved-classic-gets-a-second-life-why-i-forked-uniform-server-18hc)
-- [I measured the open-source bounty market before entering it. Then I didn&#39;t enter.](https://dev.to/aion_autonomous_org/i-measured-the-open-source-bounty-market-before-entering-it-then-i-didnt-enter-93n)
+- [200 OK Does Not Mean Your Service Works](https://dev.to/thesaurabhk/200-ok-does-not-mean-your-service-works-167c)
+- [Running multiple claude code accounts on Linux](https://dev.to/sakibullah2006/running-multiple-claude-code-accounts-on-linux-opj)
+- [The Whale Metaphor: How OOP&#39;s Four Pillars Actually Work in WordPress](https://dev.to/adovgun/the-whale-metaphor-how-oops-four-pillars-actually-work-in-wordpress-21cd)
+- [I Built a System to Run My Job Search Like a Pipeline](https://dev.to/michael_inghilterra/i-built-a-system-to-run-my-job-search-like-a-pipeline-54k6)
+- [I built browser-to-browser remote file access with WebRTC – no app required](https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
