@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Lido](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-lido-1d21)
-- [C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough](https://dev.to/manoharij/c-api-crud-done-wrong-then-done-right-a-complete-bad-practices-vs-best-practices-walkthrough-4fkk)
-- [Good Architecture Starts with Trust](https://dev.to/mgmaster24/good-architecture-starts-with-trust-414l)
-- [The page and the encoder are different clocks](https://dev.to/kenyalba/-the-page-and-the-encoder-are-different-clocks-ge2)
-- [The attention tax: what nobody tells you about 24/7 AI agents](https://dev.to/oroborolabs/the-attention-tax-what-nobody-tells-you-about-247-ai-agents-19gk)
+- [The Same GraphRAG Comparison Wins and Loses. It Depends Which Instrument Judged It.](https://dev.to/izgorodin/the-same-graphrag-comparison-wins-and-loses-it-depends-which-instrument-judged-it-fm9)
+- [U.S. sanctions against the A/I Collective](https://dev.to/technoblogger14o3/us-sanctions-against-the-ai-collective-gkg)
+- [Your Compute-Usage Receipt Can Be Cryptographically Signed and Still Be Forged. Here&#39;s the One Field That Actually Prevents It, From the Command Line.](https://dev.to/sourav-nandy/your-compute-usage-receipt-can-be-cryptographically-signed-and-still-be-forged-heres-the-one-3b1o)
+- [A Beloved Classic Gets a Second Life: Why I Forked Uniform Server](https://dev.to/rob_de_roy/a-beloved-classic-gets-a-second-life-why-i-forked-uniform-server-18hc)
+- [I measured the open-source bounty market before entering it. Then I didn&#39;t enter.](https://dev.to/aion_autonomous_org/i-measured-the-open-source-bounty-market-before-entering-it-then-i-didnt-enter-93n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
