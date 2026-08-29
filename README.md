@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Assistants Malware Vulnerability Stats &amp; Risks 2026](https://dev.to/nlocoding/ai-coding-assistants-malware-vulnerability-stats-risks-2026-1872)
-- [Are AI Coding Assistants Getting Worse in 2026? Data &amp; Analysis](https://dev.to/nlocoding/are-ai-coding-assistants-getting-worse-in-2026-data-analysis-2l3e)
-- [Connecting CSS to JS&lpar;CSS basics part 4/60&rpar;](https://dev.to/beey12345/connecting-css-to-jscss-basics-part-460-2nik)
-- [Google Search Console Now Shows Which Queries Drive Traffic to Social Content](https://dev.to/alifar/google-search-console-now-shows-which-queries-drive-traffic-to-social-content-5ag2)
-- [Codex Skill Adds Guardrails to AI Presenter Video Workflows](https://dev.to/dd8888/codex-skill-adds-guardrails-to-ai-presenter-video-workflows-4jk2)
+- [GiveWP CVE-2026-82222: RCE Chain from Unauthenticated Registration to PHP Object Injection](https://dev.to/anoymask/givewp-cve-2026-82222-rce-chain-from-unauthenticated-registration-to-php-object-injection-16j2)
+- [PaperCut Authentication Bypass and Dynamic Class Loading: Pre-authentication RCE Chain Actively Exploited](https://dev.to/anoymask/papercut-authentication-bypass-and-dynamic-class-loading-pre-authentication-rce-chain-actively-1629)
+- [Zabbix agent CVE-2026-59781: Privilege Escalation via DLL Loading During Installation](https://dev.to/anoymask/zabbix-agent-cve-2026-59781-privilege-escalation-via-dll-loading-during-installation-58c0)
+- [RAG Evaluation: How to Know Your Retrieval Isn&#39;t Broken](https://dev.to/mryadavgulshan/rag-evaluation-how-to-know-your-retrieval-isnt-broken-5d81)
+- [Building AI-Powered Data Analytics with Snowflake Cortex](https://dev.to/abineshm/building-ai-powered-data-analytics-with-snowflake-cortex-1g2n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
