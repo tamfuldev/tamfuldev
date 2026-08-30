@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [2026 Trends: AI-Driven Software Testing Stats, Tools &amp; ROI](https://dev.to/nlocoding/2026-trends-ai-driven-software-testing-stats-tools-roi-52af)
-- [Raku: a language that counts to infinity &lpar;Part 2&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-2-3ph7)
-- [How to Build an SEO-Friendly XML Sitemap System in Laravel](https://dev.to/ghulam_muhammad_7533e32e3/how-to-build-an-seo-friendly-xml-sitemap-system-in-laravel-4fl9)
-- [Four bugs in one paragraph: what I learned building an autonomous loop that chases people who don&#39;t answer](https://dev.to/blockintel/four-bugs-in-one-paragraph-what-i-learned-building-an-autonomous-loop-that-chases-people-who-dont-4hdl)
-- [Help wanted: validate a React retention and records review SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-react-retention-and-records-review-spfx-sample-5hd5)
+- [Running Coding Agents in Parallel with Git Worktrees](https://dev.to/servatj/running-coding-agents-in-parallel-with-git-worktrees-507i)
+- [I love gaming and past few months I’ve been working on a laravel project 😇 for gamers a social network designed for gamers to share , discuss and discover gaming related content would love feedback and honest opinions so far https://norespawn.space](https://dev.to/kda809/i-love-gaming-and-past-few-months-ive-been-working-on-a-laravel-project-for-gamers-a-social-38kp)
+- [When HTTP Retries Become Dangerous: Idempotency in Symfony Without the Fairy Tales](https://dev.to/alkin/when-http-retries-become-dangerous-idempotency-in-symfony-without-the-fairy-tales-10l5)
+- [Ponytail: An Open-Source &quot;Lazy Senior Dev&quot; Skill Pack for AI Coding Agents](https://dev.to/terminalchai/ponytail-an-open-source-lazy-senior-dev-skill-pack-for-ai-coding-agents-2d17)
+- [Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal](https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
