@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerfile CMD Explained: Build-Time vs Runtime and How CMD Override Works](https://dev.to/ragibcs/dockerfile-cmd-explained-build-time-vs-runtime-and-how-cmd-override-works-l4h)
-- [pdf-lib is silently deleting characters from your users&#39; data](https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld)
-- [Email Is Not a Web Page](https://dev.to/iqtechsolutions/email-is-not-a-web-page-2bfn)
-- [Oracle Manipulation Risk Report: Hyperliquid Bridge](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-hyperliquid-bridge-504k)
-- [I got tired of slow, ad-heavy text utilities, so I built 100+ free browser-based tools 🚀](https://dev.to/harshraj/i-got-tired-of-slow-ad-heavy-text-utilities-so-i-built-100-free-browser-based-tools-1g9a)
+- [Your Code Knows What Changed. But Does It Know Why?](https://dev.to/bobbyhalljr/your-code-knows-what-changed-but-does-it-know-why-3mi0)
+- [GPT-5.6 Luna on Foundry: PTU Sizing, PayGo vs. PTU + Spillover Pricing](https://dev.to/mburakunuvar/gpt-56-luna-on-foundry-ptu-sizing-paygo-vs-ptu-spillover-pricing-55dk)
+- [Flutter Provider vs Riverpod vs Bloc — Which Should You Learn?](https://dev.to/mryadavgulshan/flutter-provider-vs-riverpod-vs-bloc-which-should-you-learn-944)
+- [Personal Gemini Journal: A Secure AI Reflection App](https://dev.to/jidnya_26/personal-gemini-journal-a-secure-ai-reflection-app-28hp)
+- [Security Audit Report: Reentrancy &amp; Access Control Review: Poloniex](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-poloniex-288k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
