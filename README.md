@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Code Knows What Changed. But Does It Know Why?](https://dev.to/bobbyhalljr/your-code-knows-what-changed-but-does-it-know-why-3mi0)
-- [GPT-5.6 Luna on Foundry: PTU Sizing, PayGo vs. PTU + Spillover Pricing](https://dev.to/mburakunuvar/gpt-56-luna-on-foundry-ptu-sizing-paygo-vs-ptu-spillover-pricing-55dk)
-- [Flutter Provider vs Riverpod vs Bloc — Which Should You Learn?](https://dev.to/mryadavgulshan/flutter-provider-vs-riverpod-vs-bloc-which-should-you-learn-944)
-- [Personal Gemini Journal: A Secure AI Reflection App](https://dev.to/jidnya_26/personal-gemini-journal-a-secure-ai-reflection-app-28hp)
-- [Security Audit Report: Reentrancy &amp; Access Control Review: Poloniex](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-poloniex-288k)
+- [2026 Trends: AI-Driven Software Testing Stats, Tools &amp; ROI](https://dev.to/nlocoding/2026-trends-ai-driven-software-testing-stats-tools-roi-52af)
+- [Raku: a language that counts to infinity &lpar;Part 2&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-2-3ph7)
+- [How to Build an SEO-Friendly XML Sitemap System in Laravel](https://dev.to/ghulam_muhammad_7533e32e3/how-to-build-an-seo-friendly-xml-sitemap-system-in-laravel-4fl9)
+- [Four bugs in one paragraph: what I learned building an autonomous loop that chases people who don&#39;t answer](https://dev.to/blockintel/four-bugs-in-one-paragraph-what-i-learned-building-an-autonomous-loop-that-chases-people-who-dont-4hdl)
+- [Help wanted: validate a React retention and records review SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-react-retention-and-records-review-spfx-sample-5hd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
