@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa)
-- [Microsoft Strips Copilot&#39;s Free Features — and Puts Deep Research Behind a Subscription](https://dev.to/theaidownside/microsoft-strips-copilots-free-features-and-puts-deep-research-behind-a-subscription-6g6)
-- [Why Workflow Automation Fails When Nobody Owns the Handoff](https://dev.to/nexus-alpha2452/why-workflow-automation-fails-when-nobody-owns-the-handoff-905)
-- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
-- [Two Projects, One Problem — What PlannerCritic and AdversarialDebate Each Got Wrong](https://dev.to/debashish_ghosal/two-projects-one-problem-what-plannercritic-and-adversarialdebate-each-got-wrong-2gc6)
+- [HLD: Twitter / X](https://dev.to/gouranga-das-khulna/hld-twitter-x-41kc)
+- [Four reviewers told me the one thing I couldn&#39;t fix by myself](https://dev.to/giulianiregspec/four-reviewers-told-me-the-one-thing-i-couldnt-fix-by-myself-4p08)
+- [Git Said It Succeeded. The State Said Otherwise.](https://dev.to/kenielzep97/git-said-it-succeeded-the-state-said-otherwise-34ka)
+- [20 years of IT operations, and why my side projects have no build step](https://dev.to/fonoro/20-years-of-it-operations-and-why-my-side-projects-have-no-build-step-npd)
+- [Caveman Ultra Mode: Make Your Coding Agent Say Less, Not Think Less](https://dev.to/shubham399/caveman-ultra-mode-make-your-coding-agent-say-less-not-think-less-bh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
