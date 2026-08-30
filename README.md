@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HLD: Twitter / X](https://dev.to/gouranga-das-khulna/hld-twitter-x-41kc)
-- [Four reviewers told me the one thing I couldn&#39;t fix by myself](https://dev.to/giulianiregspec/four-reviewers-told-me-the-one-thing-i-couldnt-fix-by-myself-4p08)
-- [Git Said It Succeeded. The State Said Otherwise.](https://dev.to/kenielzep97/git-said-it-succeeded-the-state-said-otherwise-34ka)
-- [20 years of IT operations, and why my side projects have no build step](https://dev.to/fonoro/20-years-of-it-operations-and-why-my-side-projects-have-no-build-step-npd)
-- [Caveman Ultra Mode: Make Your Coding Agent Say Less, Not Think Less](https://dev.to/shubham399/caveman-ultra-mode-make-your-coding-agent-say-less-not-think-less-bh3)
+- [Dockerfile CMD Explained: Build-Time vs Runtime and How CMD Override Works](https://dev.to/ragibcs/dockerfile-cmd-explained-build-time-vs-runtime-and-how-cmd-override-works-l4h)
+- [pdf-lib is silently deleting characters from your users&#39; data](https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld)
+- [Email Is Not a Web Page](https://dev.to/iqtechsolutions/email-is-not-a-web-page-2bfn)
+- [Oracle Manipulation Risk Report: Hyperliquid Bridge](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-hyperliquid-bridge-504k)
+- [I got tired of slow, ad-heavy text utilities, so I built 100+ free browser-based tools 🚀](https://dev.to/harshraj/i-got-tired-of-slow-ad-heavy-text-utilities-so-i-built-100-free-browser-based-tools-1g9a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
