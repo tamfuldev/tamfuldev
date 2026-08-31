@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Generating test cases is the easy part](https://dev.to/2sdtechnologiesdotcom/generating-test-cases-is-the-easy-part-2l3a)
-- [The Schema Was Valid. The Translation Was in Chinese](https://dev.to/den0011/the-schema-was-valid-the-translation-was-in-chinese-3cfa)
-- [Flash Loan Attack Vector Analysis: SparkLend](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-sparklend-4ok7)
-- [Drawing Probability Trees by Hand Is Annoying, So I Built This](https://dev.to/ajiaxi/drawing-probability-trees-by-hand-is-annoying-so-i-built-this-hpo)
-- [TF-IDF: A matemática dos anos 70 que expõe a farsa do seu RAG de milhões](https://dev.to/matheuscamarques/tf-idf-a-matematica-dos-anos-70-que-expoe-a-farsa-do-seu-rag-de-milhoes-p06)
+- [Why I Stopped Writing Regex by Hand](https://dev.to/karthik_siva_07d3cf4c8443/why-i-stopped-writing-regex-by-hand-3gen)
+- [L&#39;autocomplétion zsh avec Composer et Symfony console](https://dev.to/gromnan/lautocompletion-zsh-avec-composer-et-symfony-console-5cg)
+- [Task state is a call stack for agent work](https://dev.to/likhan/task-state-is-a-call-stack-for-agent-work-a22)
+- [How I Fixed Flutter Web’s Annoying Page Reload Problem](https://dev.to/muhammad_omar_0f70d9ecf59/how-i-fixed-flutter-webs-annoying-page-reload-problem-3h6b)
+- [Next.js AI Task Copilot: Build With Evidence](https://dev.to/gateofai/nextjs-ai-task-copilot-build-with-evidence-3d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
