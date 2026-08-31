@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why your transactional email needs a queue, not a try/catch](https://dev.to/greg_pabijanmorawski/why-your-transactional-email-needs-a-queue-not-a-trycatch-4di4)
-- [Enforcing Modular Monolith Boundaries in .NET: NDepend, Parallel Pipelines, and the Architecture That Holds](https://dev.to/aloknecessary/enforcing-modular-monolith-boundaries-in-net-ndepend-parallel-pipelines-and-the-architecture-37e1)
-- [Building My First Web App: A Feature-Packed Offline PWA Calculator](https://dev.to/red_mad_zone/building-my-first-web-app-a-feature-packed-offline-pwa-calculator-4djk)
-- [Why My Agent Refused 96 Times Before Getting It Right: Lessons From the New Wave of AI Developer Tools](https://dev.to/tamizuddin/why-my-agent-refused-96-times-before-getting-it-right-lessons-from-the-new-wave-of-ai-developer-3b27)
-- [Autoregressive vs Diffusion LLMs: How the Next Generation of Language Models Actually Writes Text](https://dev.to/jamilxt/autoregressive-vs-diffusion-llms-how-the-next-generation-of-language-models-actually-writes-text-224l)
+- [Generating test cases is the easy part](https://dev.to/2sdtechnologiesdotcom/generating-test-cases-is-the-easy-part-2l3a)
+- [The Schema Was Valid. The Translation Was in Chinese](https://dev.to/den0011/the-schema-was-valid-the-translation-was-in-chinese-3cfa)
+- [Flash Loan Attack Vector Analysis: SparkLend](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-sparklend-4ok7)
+- [Drawing Probability Trees by Hand Is Annoying, So I Built This](https://dev.to/ajiaxi/drawing-probability-trees-by-hand-is-annoying-so-i-built-this-hpo)
+- [TF-IDF: A matemática dos anos 70 que expõe a farsa do seu RAG de milhões](https://dev.to/matheuscamarques/tf-idf-a-matematica-dos-anos-70-que-expoe-a-farsa-do-seu-rag-de-milhoes-p06)
 <!-- BLOG-POST-LIST:END -->
 
 ---
