@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Get Your Data Out of an AI Tool? The Right Exists on Paper, the Button Usually Doesn&#39;t](https://dev.to/theaidownside/can-you-get-your-data-out-of-an-ai-tool-the-right-exists-on-paper-the-button-usually-doesnt-23mk)
-- [Sampling rate is a correctness property, not a performance knob](https://dev.to/edycutjong/sampling-rate-is-a-correctness-property-not-a-performance-knob-47p7)
-- [Why Senior Developers Burn Out Faster Than Junior Devs](https://dev.to/nemynai/why-senior-developers-burn-out-faster-than-junior-devs-38if)
-- [Superior: Crypto and Credential Theft via Browser Extension Acquisition and Malicious Updates](https://dev.to/anoymask/superior-crypto-and-credential-theft-via-browser-extension-acquisition-and-malicious-updates-1g3o)
-- [Why Android Apps Drain Battery in the Background](https://dev.to/alexvukovic/why-android-apps-drain-battery-in-the-background-28c8)
+- [Why your transactional email needs a queue, not a try/catch](https://dev.to/greg_pabijanmorawski/why-your-transactional-email-needs-a-queue-not-a-trycatch-4di4)
+- [Enforcing Modular Monolith Boundaries in .NET: NDepend, Parallel Pipelines, and the Architecture That Holds](https://dev.to/aloknecessary/enforcing-modular-monolith-boundaries-in-net-ndepend-parallel-pipelines-and-the-architecture-37e1)
+- [Building My First Web App: A Feature-Packed Offline PWA Calculator](https://dev.to/red_mad_zone/building-my-first-web-app-a-feature-packed-offline-pwa-calculator-4djk)
+- [Why My Agent Refused 96 Times Before Getting It Right: Lessons From the New Wave of AI Developer Tools](https://dev.to/tamizuddin/why-my-agent-refused-96-times-before-getting-it-right-lessons-from-the-new-wave-of-ai-developer-3b27)
+- [Autoregressive vs Diffusion LLMs: How the Next Generation of Language Models Actually Writes Text](https://dev.to/jamilxt/autoregressive-vs-diffusion-llms-how-the-next-generation-of-language-models-actually-writes-text-224l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
