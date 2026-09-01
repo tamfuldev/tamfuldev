@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Property Moderation Router: Compare 3 Startup API Token Costs with One Key](https://dev.to/rivenpulse5812/property-moderation-router-compare-3-startup-api-token-costs-with-one-key-18he)
-- [ChatGPT Connects to Health Records, Bringing AI Closer to Clinical Workflows](https://dev.to/alifar/chatgpt-connects-to-health-records-bringing-ai-closer-to-clinical-workflows-23k2)
-- [Google Business Profile Continuity Planning: How to Protect Local Lead Flow](https://dev.to/alifar/google-business-profile-continuity-planning-how-to-protect-local-lead-flow-479l)
-- [Inside `OpenWhispr/openwhispr`: A Privacy-First Voice-to-Text Workflow](https://dev.to/power_zhong/inside-openwhispropenwhispr-a-privacy-first-voice-to-text-workflow-h62)
-- [Title: My CI Caught a Bug My Local Environment Never Would](https://dev.to/saraivas/title-my-ci-caught-a-bug-my-local-environment-never-would-55hp)
+- [Facebook temp email en revisiones de riesgo](https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn)
+- [The Security Fix That Would Have Silently Broken My Feature](https://dev.to/a-abdellatif98/the-security-fix-that-would-have-silently-broken-my-feature-43lm)
+- [ChatGPT Ads Arrive in Europe, Starting With the Free Tier](https://dev.to/theaidownside/chatgpt-ads-arrive-in-europe-starting-with-the-free-tier-58cp)
+- [One public view, six private ones: shipping a board game where the TV knows less than the phones](https://dev.to/crimedigital/one-public-view-six-private-ones-shipping-a-board-game-where-the-tv-knows-less-than-the-phones-24de)
+- [Generic methods ใน Go 1.27: ฟีเจอร์ที่เคยถูกบอกว่า &quot;ไม่มีทาง&quot; แต่ community ผลักดันจนสำเร็จ](https://dev.to/gophernment/generic-methods-ain-go-127-fiiecchrthiiekhythuukbkwaa-aimmiithaang-aet-community-phlakdancchnsamercch-omp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
