@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What a seller-side HTTP 402 + MCP paywall looks like](https://dev.to/kevin2003050666coder/what-a-seller-side-http-402-mcp-paywall-looks-like-36n)
-- [A 47-Point Discussion That Is Not a Tool—and Why That Matters](https://dev.to/jamse_bao/a-47-point-discussion-that-is-not-a-tool-and-why-that-matters-332h)
-- [An offline edit queue that can undo itself: rollback payloads, a lock, and the rule we had to delete](https://dev.to/xneuronal/an-offline-edit-queue-that-can-undo-itself-rollback-payloads-a-lock-and-the-rule-we-had-to-delete-51cf)
-- [I Built Kafka From Scratch to Understand how it actually works](https://dev.to/sandesh_upadhayay/i-built-kafka-from-scratch-to-understand-how-it-actually-works-2g6l)
-- [How to Build a Rust Raid Calculator That Players Can Actually Use](https://dev.to/rustassistapp/how-to-build-a-rust-raid-calculator-that-players-can-actually-use-47mb)
+- [The Brave Wanderer: I made Claude play a Pokémon it never read a guide for](https://dev.to/qingze_hu_c4c251c1b353ede/the-brave-wanderer-i-made-claude-play-a-pokemon-it-never-read-a-guide-for-2o71)
+- [From 3:00 AM Panic to Confidence: How I Use AI During On-Call Incidents](https://dev.to/qainsights/from-300-am-panic-to-confidence-how-i-use-ai-during-on-call-incidents-2nk4)
+- [Mozaik Hackathon 2026: Compete for $1,000 in Cash Prizes](https://dev.to/hadil/mozaik-hackathon-2026-compete-for-1000-in-cash-prizes-3jhj)
+- [I raced six models against each other on DigitalOcean Inference. The cheapest one won.](https://dev.to/remdore/i-raced-six-models-against-each-other-on-digitalocean-inference-the-cheapest-one-won-4lga)
+- [An Em Dash Took Down My Entire Automation Stack for Five Days](https://dev.to/whoffagents/an-em-dash-took-down-my-entire-automation-stack-for-five-days-18c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
