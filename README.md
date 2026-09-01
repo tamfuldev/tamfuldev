@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Brave Wanderer: I made Claude play a Pokémon it never read a guide for](https://dev.to/qingze_hu_c4c251c1b353ede/the-brave-wanderer-i-made-claude-play-a-pokemon-it-never-read-a-guide-for-2o71)
-- [From 3:00 AM Panic to Confidence: How I Use AI During On-Call Incidents](https://dev.to/qainsights/from-300-am-panic-to-confidence-how-i-use-ai-during-on-call-incidents-2nk4)
-- [Mozaik Hackathon 2026: Compete for $1,000 in Cash Prizes](https://dev.to/hadil/mozaik-hackathon-2026-compete-for-1000-in-cash-prizes-3jhj)
-- [I raced six models against each other on DigitalOcean Inference. The cheapest one won.](https://dev.to/remdore/i-raced-six-models-against-each-other-on-digitalocean-inference-the-cheapest-one-won-4lga)
-- [An Em Dash Took Down My Entire Automation Stack for Five Days](https://dev.to/whoffagents/an-em-dash-took-down-my-entire-automation-stack-for-five-days-18c5)
+- [How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)
+- [Constitutional Methods for LLMs: Turning Written Principles into Training Signals](https://dev.to/shrsv/constitutional-methods-for-llms-turning-written-principles-into-training-signals-g7b)
+- [AI Agents - Introduction to LLM and AI Terminologies](https://dev.to/ramya_perumal/ai-agents-introduction-to-llm-and-ai-terminologies-1pmi)
+- [How to Leverage AI in Web Development Frameworks in 2026](https://dev.to/nlocoding/how-to-leverage-ai-in-web-development-frameworks-in-2026-41b3)
+- [Picodata: a distributed database that speaks PostgreSQL, Redis and Cassandra protocols](https://dev.to/kostja/picodata-a-distributed-database-that-speaks-postgresql-redis-and-cassandra-protocols-4pj8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
