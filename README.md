@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Breakdown: I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling](https://dev.to/agenticstack/architectural-breakdown-i-tried-to-beat-peter-norvig-and-accidentally-became-ryan-gosling-2cdh)
-- [How I Built My First Crypto Trading Bot — A Neo&#39;s Journey into the Matrix](https://dev.to/timevolt/how-i-built-my-first-crypto-trading-bot-a-neos-journey-into-the-matrix-4ndc)
-- [Why Your AI Agent Passed Every Test but Still Failed in Production — Lessons from the 2026 Agent Reliability Crisis](https://dev.to/tamizuddin/why-your-ai-agent-passed-every-test-but-still-failed-in-production-lessons-from-the-2026-agent-4e27)
-- [The Morning My cron Jobs Went Silent: A 97-Line Script That Migrated Everything to launchd](https://dev.to/bokuwalily/the-morning-my-cron-jobs-went-silent-a-97-line-script-that-migrated-everything-to-launchd-4aia)
-- [Rust Cheminformatics: Porting RDKit Source Semantics to Rust](https://dev.to/cosmol-studio/rust-cheminformatics-porting-rdkit-source-semantics-to-rust-16je)
+- [Fixing npm Global Command Not Found on Windows](https://dev.to/devlog/fixing-npm-global-command-not-found-on-windows-50e1)
+- [One Go binary between your engineers and production: how we broker SSH, kubectl, psql and RDP — and what it costs](https://dev.to/alektoreef/one-go-binary-between-your-engineers-and-production-how-we-broker-ssh-kubectl-psql-and-rdp-and-563i)
+- [I counted how many startup credit programs a machine can actually check](https://dev.to/codeboosttr/i-counted-how-many-startup-credit-programs-a-machine-can-actually-check-56mj)
+- [What Is LLM Actually Doing? A Fellow Engineer&#39;s Take on Vectors, Next-Token Prediction, and Fail-back Routing](https://dev.to/dev_next4i/what-is-llm-actually-doing-a-fellow-engineers-take-on-vectors-next-token-prediction-and-bb5)
+- [Bigger Context Windows Aren&#39;t Making Your AI Smarter &lpar;And Here&#39;s Why&rpar;](https://dev.to/priyanshu_valiya/bigger-context-windows-arent-making-your-ai-smarter-and-heres-why-2b53)
 <!-- BLOG-POST-LIST:END -->
 
 ---
