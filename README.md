@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)
-- [Constitutional Methods for LLMs: Turning Written Principles into Training Signals](https://dev.to/shrsv/constitutional-methods-for-llms-turning-written-principles-into-training-signals-g7b)
-- [AI Agents - Introduction to LLM and AI Terminologies](https://dev.to/ramya_perumal/ai-agents-introduction-to-llm-and-ai-terminologies-1pmi)
-- [How to Leverage AI in Web Development Frameworks in 2026](https://dev.to/nlocoding/how-to-leverage-ai-in-web-development-frameworks-in-2026-41b3)
-- [Picodata: a distributed database that speaks PostgreSQL, Redis and Cassandra protocols](https://dev.to/kostja/picodata-a-distributed-database-that-speaks-postgresql-redis-and-cassandra-protocols-4pj8)
+- [Property Moderation Router: Compare 3 Startup API Token Costs with One Key](https://dev.to/rivenpulse5812/property-moderation-router-compare-3-startup-api-token-costs-with-one-key-18he)
+- [ChatGPT Connects to Health Records, Bringing AI Closer to Clinical Workflows](https://dev.to/alifar/chatgpt-connects-to-health-records-bringing-ai-closer-to-clinical-workflows-23k2)
+- [Google Business Profile Continuity Planning: How to Protect Local Lead Flow](https://dev.to/alifar/google-business-profile-continuity-planning-how-to-protect-local-lead-flow-479l)
+- [Inside `OpenWhispr/openwhispr`: A Privacy-First Voice-to-Text Workflow](https://dev.to/power_zhong/inside-openwhispropenwhispr-a-privacy-first-voice-to-text-workflow-h62)
+- [Title: My CI Caught a Bug My Local Environment Never Would](https://dev.to/saraivas/title-my-ci-caught-a-bug-my-local-environment-never-would-55hp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
