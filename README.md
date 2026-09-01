@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing npm Global Command Not Found on Windows](https://dev.to/devlog/fixing-npm-global-command-not-found-on-windows-50e1)
-- [One Go binary between your engineers and production: how we broker SSH, kubectl, psql and RDP — and what it costs](https://dev.to/alektoreef/one-go-binary-between-your-engineers-and-production-how-we-broker-ssh-kubectl-psql-and-rdp-and-563i)
-- [I counted how many startup credit programs a machine can actually check](https://dev.to/codeboosttr/i-counted-how-many-startup-credit-programs-a-machine-can-actually-check-56mj)
-- [What Is LLM Actually Doing? A Fellow Engineer&#39;s Take on Vectors, Next-Token Prediction, and Fail-back Routing](https://dev.to/dev_next4i/what-is-llm-actually-doing-a-fellow-engineers-take-on-vectors-next-token-prediction-and-bb5)
-- [Bigger Context Windows Aren&#39;t Making Your AI Smarter &lpar;And Here&#39;s Why&rpar;](https://dev.to/priyanshu_valiya/bigger-context-windows-arent-making-your-ai-smarter-and-heres-why-2b53)
+- [What a seller-side HTTP 402 + MCP paywall looks like](https://dev.to/kevin2003050666coder/what-a-seller-side-http-402-mcp-paywall-looks-like-36n)
+- [A 47-Point Discussion That Is Not a Tool—and Why That Matters](https://dev.to/jamse_bao/a-47-point-discussion-that-is-not-a-tool-and-why-that-matters-332h)
+- [An offline edit queue that can undo itself: rollback payloads, a lock, and the rule we had to delete](https://dev.to/xneuronal/an-offline-edit-queue-that-can-undo-itself-rollback-payloads-a-lock-and-the-rule-we-had-to-delete-51cf)
+- [I Built Kafka From Scratch to Understand how it actually works](https://dev.to/sandesh_upadhayay/i-built-kafka-from-scratch-to-understand-how-it-actually-works-2g6l)
+- [How to Build a Rust Raid Calculator That Players Can Actually Use](https://dev.to/rustassistapp/how-to-build-a-rust-raid-calculator-that-players-can-actually-use-47mb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
