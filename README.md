@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Writing Regex by Hand](https://dev.to/karthik_siva_07d3cf4c8443/why-i-stopped-writing-regex-by-hand-3gen)
-- [L&#39;autocomplétion zsh avec Composer et Symfony console](https://dev.to/gromnan/lautocompletion-zsh-avec-composer-et-symfony-console-5cg)
-- [Task state is a call stack for agent work](https://dev.to/likhan/task-state-is-a-call-stack-for-agent-work-a22)
-- [How I Fixed Flutter Web’s Annoying Page Reload Problem](https://dev.to/muhammad_omar_0f70d9ecf59/how-i-fixed-flutter-webs-annoying-page-reload-problem-3h6b)
-- [Next.js AI Task Copilot: Build With Evidence](https://dev.to/gateofai/nextjs-ai-task-copilot-build-with-evidence-3d1)
+- [Architectural Breakdown: I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling](https://dev.to/agenticstack/architectural-breakdown-i-tried-to-beat-peter-norvig-and-accidentally-became-ryan-gosling-2cdh)
+- [How I Built My First Crypto Trading Bot — A Neo&#39;s Journey into the Matrix](https://dev.to/timevolt/how-i-built-my-first-crypto-trading-bot-a-neos-journey-into-the-matrix-4ndc)
+- [Why Your AI Agent Passed Every Test but Still Failed in Production — Lessons from the 2026 Agent Reliability Crisis](https://dev.to/tamizuddin/why-your-ai-agent-passed-every-test-but-still-failed-in-production-lessons-from-the-2026-agent-4e27)
+- [The Morning My cron Jobs Went Silent: A 97-Line Script That Migrated Everything to launchd](https://dev.to/bokuwalily/the-morning-my-cron-jobs-went-silent-a-97-line-script-that-migrated-everything-to-launchd-4aia)
+- [Rust Cheminformatics: Porting RDKit Source Semantics to Rust](https://dev.to/cosmol-studio/rust-cheminformatics-porting-rdkit-source-semantics-to-rust-16je)
 <!-- BLOG-POST-LIST:END -->
 
 ---
