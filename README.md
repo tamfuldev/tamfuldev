@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook temp email en revisiones de riesgo](https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn)
-- [The Security Fix That Would Have Silently Broken My Feature](https://dev.to/a-abdellatif98/the-security-fix-that-would-have-silently-broken-my-feature-43lm)
-- [ChatGPT Ads Arrive in Europe, Starting With the Free Tier](https://dev.to/theaidownside/chatgpt-ads-arrive-in-europe-starting-with-the-free-tier-58cp)
-- [One public view, six private ones: shipping a board game where the TV knows less than the phones](https://dev.to/crimedigital/one-public-view-six-private-ones-shipping-a-board-game-where-the-tv-knows-less-than-the-phones-24de)
-- [Generic methods ใน Go 1.27: ฟีเจอร์ที่เคยถูกบอกว่า &quot;ไม่มีทาง&quot; แต่ community ผลักดันจนสำเร็จ](https://dev.to/gophernment/generic-methods-ain-go-127-fiiecchrthiiekhythuukbkwaa-aimmiithaang-aet-community-phlakdancchnsamercch-omp)
+- [Phone Login Admin Operations — Exact Lookup, Profile Updates, and Controlled Deletion](https://dev.to/aidensterling3417/phone-login-admin-operations-exact-lookup-profile-updates-and-controlled-deletion-259d)
+- [Hearing the Mountain&#39;s Roar: How Antigravity CLI&#39;s AI Agents &amp; IoT Data Track Volcanic Shockwaves](https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp)
+- [How &#39;Shōshō&#39; Became &#39;Shomo&#39; — Permission Character List Was Trimming Japanese](https://dev.to/orca_forge/how-shosho-became-shomo-permission-character-list-was-trimming-japanese-10bi)
+- [DeepSeek Harness: el harness abierto que hace lo que Claude Code no te deja tocar](https://dev.to/macorreag/deepseek-harness-el-harness-abierto-que-hace-lo-que-claude-code-no-te-deja-tocar-2df4)
+- [GEO is not the new SEO. It is a licensing decision with a formatting problem attached.](https://dev.to/413x/geo-is-not-the-new-seo-it-is-a-licensing-decision-with-a-formatting-problem-attached-56c2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
