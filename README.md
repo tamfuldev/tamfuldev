@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A aplicação estava saudável. O negócio estava parado.](https://dev.to/scussel/a-aplicacao-estava-saudavel-o-negocio-estava-parado-1b6f)
-- [How to stop your AI from finding new errors on every review](https://dev.to/ikrame-ih/how-to-stop-your-ai-from-finding-new-errors-on-every-review-4d7g)
-- [Ask your assistant what you decided yesterday. Mine couldn&#39;t answer either.](https://dev.to/vinnj/ask-your-assistant-what-you-decided-yesterday-mine-couldnt-answer-either-2nle)
-- [Understanding Apache Airflow 3.3: Key Improvements, Features Every Data Engineer Should Know, and Real-World Use Cases](https://dev.to/adev3loper/understanding-apache-airflow-33-key-improvements-features-every-data-engineer-should-know-and-32b2)
-- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning.](https://dev.to/janet_kangogo_83663d93af4/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-hii)
+- [Adding a UUID Primary Key to My Rust Framework Forced Me to Actually Test It](https://dev.to/seballiot/adding-a-uuid-primary-key-to-my-rust-framework-forced-me-to-actually-test-it-kem)
+- [The Hidden Cost of Copy-Pasting Code You Don&#39;t Understand](https://dev.to/lakshya_parashar/the-hidden-cost-of-copy-pasting-code-you-dont-understand-2bc4)
+- [Making three years of a Telegram group chat queryable](https://dev.to/mikhkonkov/making-three-years-of-a-telegram-group-chat-queryable-54j2)
+- [I Made a Tiny Bookmark Launcher Because I Don&#39;t Need a Whole Bookmark Manager](https://dev.to/sizzlebop/i-made-a-tiny-bookmark-launcher-because-i-dont-need-a-whole-bookmark-manager-40aj)
+- [What shipping a hosted MCP server taught me about agent memory](https://dev.to/jonathanmberg/what-shipping-a-hosted-mcp-server-taught-me-about-agent-memory-ll0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
