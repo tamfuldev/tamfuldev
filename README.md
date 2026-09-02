@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Apps in Amazon Quick vs. App Studio vs. a custom build](https://dev.to/fernando_azevedo_6844e930/apps-in-amazon-quick-vs-app-studio-vs-a-custom-build-bh8)
-- [The Accessibility Features Players Actually Use First](https://dev.to/paulcrinigan/the-accessibility-features-players-actually-use-first-46hn)
-- [GLM-5.3-Flash: A Geopolitical Disruptor Hiding in an Ultra-Cheap Model](https://dev.to/mario_mignemi/glm-53-flash-a-geopolitical-disruptor-hiding-in-an-ultra-cheap-model-3plk)
-- [The Skill That Never Fired: How to Test Whether Claude Actually Picks Your Skill](https://dev.to/harryfloyd/the-skill-that-never-fired-how-to-test-whether-claude-actually-picks-your-skill-fae)
-- [How to build a Pons Family Token Bundler Bot on Robinhood Chain](https://dev.to/benjamin_cup/how-to-build-a-pons-family-token-bundler-bot-on-robinhood-chain-5e1)
+- [Your Local Agent Session Should Be a Source, Not Hidden Memory](https://dev.to/chenxiachan/your-local-agent-session-should-be-a-source-not-hidden-memory-l0m)
+- [Get a LinkedIn creator&#39;s playbook, ICP, and lead list with the Apify MCP server](https://dev.to/apify/get-a-linkedin-creators-playbook-icp-and-lead-list-with-the-apify-mcp-server-2kdb)
+- [I Measured What Self-Hosted Chatwoot Actually Uses. 348,703 Messages, 1.8 GB of RAM.](https://dev.to/achiya-automation/i-measured-what-self-hosted-chatwoot-actually-uses-348703-messages-18-gb-of-ram-4cp1)
+- [A Security Scanner Is Easy. Building One You Can Actually Trust Is Not.](https://dev.to/danish_ahmad_bd75f47f787f/a-security-scanner-is-easy-building-one-you-can-actually-trust-is-not-2m)
+- [I pointed my website audit tool at its own website. It lied to me.](https://dev.to/thisisismayill/i-pointed-my-website-audit-tool-at-its-own-website-it-lied-to-me-4842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
