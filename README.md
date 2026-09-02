@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Phone Login Admin Operations — Exact Lookup, Profile Updates, and Controlled Deletion](https://dev.to/aidensterling3417/phone-login-admin-operations-exact-lookup-profile-updates-and-controlled-deletion-259d)
-- [Hearing the Mountain&#39;s Roar: How Antigravity CLI&#39;s AI Agents &amp; IoT Data Track Volcanic Shockwaves](https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp)
-- [How &#39;Shōshō&#39; Became &#39;Shomo&#39; — Permission Character List Was Trimming Japanese](https://dev.to/orca_forge/how-shosho-became-shomo-permission-character-list-was-trimming-japanese-10bi)
-- [DeepSeek Harness: el harness abierto que hace lo que Claude Code no te deja tocar](https://dev.to/macorreag/deepseek-harness-el-harness-abierto-que-hace-lo-que-claude-code-no-te-deja-tocar-2df4)
-- [GEO is not the new SEO. It is a licensing decision with a formatting problem attached.](https://dev.to/413x/geo-is-not-the-new-seo-it-is-a-licensing-decision-with-a-formatting-problem-attached-56c2)
+- [AI Act, souveraineté et AWS European Sovereign Cloud — Le cloud comme pièce de conformité](https://dev.to/aws-builders/ai-act-souverainete-et-aws-european-sovereign-cloud-le-cloud-comme-piece-de-conformite-3ifb)
+- [Rho the next cli agent](https://dev.to/casonadams/rho-the-next-cli-agent-oho)
+- [Understanding Kubernetes: part 63 – Kubernetes 1.37 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-63-kubernetes-137-changelog-713)
+- [How to Build an AI Coding Assistant with Amazon Bedrock Claude Function Calling in Node.js](https://dev.to/dineshgowtham/how-to-build-an-ai-coding-assistant-with-amazon-bedrock-claude-function-calling-in-nodejs-5hlg)
+- [A Practical GEO Checklist: Make Your Site Crawlable and Citable by AI Assistants](https://dev.to/yue_wang_4c0315f2e8a02ea6/a-practical-geo-checklist-make-your-site-crawlable-and-citable-by-ai-assistants-4jnd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
