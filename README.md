@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Local Agent Session Should Be a Source, Not Hidden Memory](https://dev.to/chenxiachan/your-local-agent-session-should-be-a-source-not-hidden-memory-l0m)
-- [Get a LinkedIn creator&#39;s playbook, ICP, and lead list with the Apify MCP server](https://dev.to/apify/get-a-linkedin-creators-playbook-icp-and-lead-list-with-the-apify-mcp-server-2kdb)
-- [I Measured What Self-Hosted Chatwoot Actually Uses. 348,703 Messages, 1.8 GB of RAM.](https://dev.to/achiya-automation/i-measured-what-self-hosted-chatwoot-actually-uses-348703-messages-18-gb-of-ram-4cp1)
-- [A Security Scanner Is Easy. Building One You Can Actually Trust Is Not.](https://dev.to/danish_ahmad_bd75f47f787f/a-security-scanner-is-easy-building-one-you-can-actually-trust-is-not-2m)
-- [I pointed my website audit tool at its own website. It lied to me.](https://dev.to/thisisismayill/i-pointed-my-website-audit-tool-at-its-own-website-it-lied-to-me-4842)
+- [A aplicação estava saudável. O negócio estava parado.](https://dev.to/scussel/a-aplicacao-estava-saudavel-o-negocio-estava-parado-1b6f)
+- [How to stop your AI from finding new errors on every review](https://dev.to/ikrame-ih/how-to-stop-your-ai-from-finding-new-errors-on-every-review-4d7g)
+- [Ask your assistant what you decided yesterday. Mine couldn&#39;t answer either.](https://dev.to/vinnj/ask-your-assistant-what-you-decided-yesterday-mine-couldnt-answer-either-2nle)
+- [Understanding Apache Airflow 3.3: Key Improvements, Features Every Data Engineer Should Know, and Real-World Use Cases](https://dev.to/adev3loper/understanding-apache-airflow-33-key-improvements-features-every-data-engineer-should-know-and-32b2)
+- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning.](https://dev.to/janet_kangogo_83663d93af4/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-hii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
