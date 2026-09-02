@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Act, souveraineté et AWS European Sovereign Cloud — Le cloud comme pièce de conformité](https://dev.to/aws-builders/ai-act-souverainete-et-aws-european-sovereign-cloud-le-cloud-comme-piece-de-conformite-3ifb)
-- [Rho the next cli agent](https://dev.to/casonadams/rho-the-next-cli-agent-oho)
-- [Understanding Kubernetes: part 63 – Kubernetes 1.37 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-63-kubernetes-137-changelog-713)
-- [How to Build an AI Coding Assistant with Amazon Bedrock Claude Function Calling in Node.js](https://dev.to/dineshgowtham/how-to-build-an-ai-coding-assistant-with-amazon-bedrock-claude-function-calling-in-nodejs-5hlg)
-- [A Practical GEO Checklist: Make Your Site Crawlable and Citable by AI Assistants](https://dev.to/yue_wang_4c0315f2e8a02ea6/a-practical-geo-checklist-make-your-site-crawlable-and-citable-by-ai-assistants-4jnd)
+- [Apps in Amazon Quick vs. App Studio vs. a custom build](https://dev.to/fernando_azevedo_6844e930/apps-in-amazon-quick-vs-app-studio-vs-a-custom-build-bh8)
+- [The Accessibility Features Players Actually Use First](https://dev.to/paulcrinigan/the-accessibility-features-players-actually-use-first-46hn)
+- [GLM-5.3-Flash: A Geopolitical Disruptor Hiding in an Ultra-Cheap Model](https://dev.to/mario_mignemi/glm-53-flash-a-geopolitical-disruptor-hiding-in-an-ultra-cheap-model-3plk)
+- [The Skill That Never Fired: How to Test Whether Claude Actually Picks Your Skill](https://dev.to/harryfloyd/the-skill-that-never-fired-how-to-test-whether-claude-actually-picks-your-skill-fae)
+- [How to build a Pons Family Token Bundler Bot on Robinhood Chain](https://dev.to/benjamin_cup/how-to-build-a-pons-family-token-bundler-bot-on-robinhood-chain-5e1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
