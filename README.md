@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [TimesFM: Google&#39;s Foundation Model for Time Series, Explained for Developers](https://dev.to/arshtechpro/timesfm-googles-foundation-model-for-time-series-explained-for-developers-3jf9)
-- [Memory Is Not Talent: Talent Is Pattern Recognition and Connection](https://dev.to/sumit0rn/memory-is-not-talent-talent-is-pattern-recognition-and-connection-3bea)
-- [I Upscaled 550 Yearbook Scans for a School Archive. Total Cost: $0.](https://dev.to/photoupscaler/i-upscaled-550-yearbook-scans-for-a-school-archive-total-cost-0-30i9)
-- [I built a QR code phishing scanner for our free API — and ended up writing a PNG decoder from scratch to make it work.](https://dev.to/presend/i-built-a-qr-code-phishing-scanner-for-our-free-api-and-ended-up-writing-a-png-decoder-from-3ffd)
-- [Context Engineering: o ativo que a maioria ainda trata como prompt](https://dev.to/aspepper/context-engineering-o-ativo-que-a-maioria-ainda-trata-como-prompt-230n)
+- [My Go tests never executed a line of the JavaScript they were testing](https://dev.to/ikeshavvarshney/my-go-tests-never-executed-a-line-of-the-javascript-they-were-testing-4m0m)
+- [Lumify: a sports intelligence API your coding agent can call](https://dev.to/lumify/lumify-a-sports-intelligence-api-your-coding-agent-can-call-56lk)
+- [Swagger and OpenAPI: The Docs That Write Themselves](https://dev.to/manoharij/swagger-and-openapi-the-docs-that-write-themselves-2hp4)
+- [# How I Found 12 Critical Security Bugs in AI-Generated Code in 24 Hours](https://dev.to/turingrtss/-how-i-found-12-critical-security-bugs-in-ai-generated-code-in-24-hours-2mkp)
+- [Harness Engineering: The Engineering Discipline Behind Reliable AI Agents](https://dev.to/vnayak_hejib/harness-engineering-the-engineering-discipline-behind-reliable-ai-agents-kap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
