@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Go tests never executed a line of the JavaScript they were testing](https://dev.to/ikeshavvarshney/my-go-tests-never-executed-a-line-of-the-javascript-they-were-testing-4m0m)
-- [Lumify: a sports intelligence API your coding agent can call](https://dev.to/lumify/lumify-a-sports-intelligence-api-your-coding-agent-can-call-56lk)
-- [Swagger and OpenAPI: The Docs That Write Themselves](https://dev.to/manoharij/swagger-and-openapi-the-docs-that-write-themselves-2hp4)
-- [# How I Found 12 Critical Security Bugs in AI-Generated Code in 24 Hours](https://dev.to/turingrtss/-how-i-found-12-critical-security-bugs-in-ai-generated-code-in-24-hours-2mkp)
-- [Harness Engineering: The Engineering Discipline Behind Reliable AI Agents](https://dev.to/vnayak_hejib/harness-engineering-the-engineering-discipline-behind-reliable-ai-agents-kap)
+- [AArch64 Register Conventions: What Survives a Function Call—and Why](https://dev.to/danielpetrovic/aarch64-register-conventions-what-survives-a-function-call-and-why-ag3)
+- [Proxmox: LXC oder KVM? Der ultimative Guide zur richtigen Wahl](https://dev.to/uhltak/proxmox-lxc-oder-kvm-der-ultimative-guide-zur-richtigen-wahl-3dnb)
+- [Agents That Break, Not Just Think: Why Containment, Control, and Debugging Are the Real Bottlenecks in Production AI](https://dev.to/tamizuddin/agents-that-break-not-just-think-why-containment-control-and-debugging-are-the-real-bottlenecks-576f)
+- [Google’s August 2026 Spam Update Brought Unusually Sharp Ranking Volatility](https://dev.to/alifar/googles-august-2026-spam-update-brought-unusually-sharp-ranking-volatility-5bkn)
+- [Claude AI for Code Review - A Developer&#39;s Guide for 2026](https://dev.to/mecanik-dev/claude-ai-for-code-review-a-developers-guide-for-2026-31p1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
