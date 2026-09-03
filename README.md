@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a UUID Primary Key to My Rust Framework Forced Me to Actually Test It](https://dev.to/seballiot/adding-a-uuid-primary-key-to-my-rust-framework-forced-me-to-actually-test-it-kem)
-- [The Hidden Cost of Copy-Pasting Code You Don&#39;t Understand](https://dev.to/lakshya_parashar/the-hidden-cost-of-copy-pasting-code-you-dont-understand-2bc4)
-- [Making three years of a Telegram group chat queryable](https://dev.to/mikhkonkov/making-three-years-of-a-telegram-group-chat-queryable-54j2)
-- [I Made a Tiny Bookmark Launcher Because I Don&#39;t Need a Whole Bookmark Manager](https://dev.to/sizzlebop/i-made-a-tiny-bookmark-launcher-because-i-dont-need-a-whole-bookmark-manager-40aj)
-- [What shipping a hosted MCP server taught me about agent memory](https://dev.to/jonathanmberg/what-shipping-a-hosted-mcp-server-taught-me-about-agent-memory-ll0)
+- [I Thought the Model Drifted. My Cache Key Was Serving Tuesday.](https://dev.to/codepy_1473/i-thought-the-model-drifted-my-cache-key-was-serving-tuesday-4ce5)
+- [Don&#39;t Golden-File an Agent Patch. Golden-File the Relation.](https://dev.to/datacpp_8185/dont-golden-file-an-agent-patch-golden-file-the-relation-48m3)
+- [Is a blank cell signal, or just missing?](https://dev.to/younes_tahraoui_36f70daa3/is-a-blank-cell-signal-or-just-missing-54mh)
+- [Immediate Access Shutdown for Profile Updates and Global Session Revocation &lpar;3 Rules&rpar;](https://dev.to/suttonhawkins6723/immediate-access-shutdown-for-profile-updates-and-global-session-revocation-3-rules-1f7o)
+- [Why End-to-End Crawler Testing Matters Beyond robots.txt for Website Visibility](https://dev.to/alifar/why-end-to-end-crawler-testing-matters-beyond-robotstxt-for-website-visibility-42b8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
