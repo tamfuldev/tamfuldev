@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [eBay&#39;s Browse API Doesn&#39;t Return Sold Listings. Here Is a Node.js Alternative](https://dev.to/itsmarcandrew/ebays-browse-api-doesnt-return-sold-listings-here-is-a-nodejs-alternative-4mg1)
-- [OpenAI Rated Its Own Model &#39;Critical&#39; for Cyber Risk. Gate Your Agent.](https://dev.to/gabrielanhaia/openai-rated-its-own-model-critical-for-cyber-risk-gate-your-agent-169a)
-- [fetch-sentinel v0.1-alpha: guardian en tiempo de fetch para agentes, con KI abiertos declarados](https://dev.to/magopredator/fetch-sentinel-v01-alpha-guardian-en-tiempo-de-fetch-para-agentes-con-ki-abiertos-declarados-4mic)
-- [CanvasKit Layout Traps: The Unbounded Constraint Bug That Only Blanks Release Builds](https://dev.to/devshakib/canvaskit-layout-traps-the-unbounded-constraint-bug-that-only-blanks-release-builds-44eb)
-- [Subagents design @ zerostack](https://dev.to/gi-dellav/subagents-design-zerostack-16e7)
+- [How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS](https://dev.to/manvitha_potluri_edbd8b9b/how-to-build-an-enterprise-grade-automated-mlops-pipeline-on-aws-1cj9)
+- [How to translate MDN web docs to spanish.](https://dev.to/ifeanyichima/how-to-translate-mdn-web-docs-to-spanish-2p0f)
+- [The AI Video Squeeze: Credit Traps, Silent Refusals and Disposable Tools](https://dev.to/theaidownside/the-ai-video-squeeze-credit-traps-silent-refusals-and-disposable-tools-3oh3)
+- [Google Keeps AdX as Court Favors Behavioral Remedies Over an Ad Tech Breakup](https://dev.to/alifar/google-keeps-adx-as-court-favors-behavioral-remedies-over-an-ad-tech-breakup-5fo6)
+- [Generative Modeling: Learning the Distribution Behind the Data](https://dev.to/zeromathai/generative-modeling-learning-the-distribution-behind-the-data-3j4p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
