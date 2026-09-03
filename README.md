@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought the Model Drifted. My Cache Key Was Serving Tuesday.](https://dev.to/codepy_1473/i-thought-the-model-drifted-my-cache-key-was-serving-tuesday-4ce5)
-- [Don&#39;t Golden-File an Agent Patch. Golden-File the Relation.](https://dev.to/datacpp_8185/dont-golden-file-an-agent-patch-golden-file-the-relation-48m3)
-- [Is a blank cell signal, or just missing?](https://dev.to/younes_tahraoui_36f70daa3/is-a-blank-cell-signal-or-just-missing-54mh)
-- [Immediate Access Shutdown for Profile Updates and Global Session Revocation &lpar;3 Rules&rpar;](https://dev.to/suttonhawkins6723/immediate-access-shutdown-for-profile-updates-and-global-session-revocation-3-rules-1f7o)
-- [Why End-to-End Crawler Testing Matters Beyond robots.txt for Website Visibility](https://dev.to/alifar/why-end-to-end-crawler-testing-matters-beyond-robotstxt-for-website-visibility-42b8)
+- [I stopped writing prompts. I write the repo.](https://dev.to/indiecoredev/i-stopped-writing-prompts-i-write-the-repo-o6)
+- [I built an AIOps platform that auto-heals Docker services as a student](https://dev.to/ayush_walunjkar_371918303/i-built-an-aiops-platform-that-auto-heals-docker-services-as-a-student-1km2)
+- [🌟Turn Markdown into Narrated Videos with a New AI Skill](https://dev.to/attentionisalluneed/turn-markdown-into-narrated-videos-with-a-new-ai-skill-1i31)
+- [Agentic AI vs Generative AI: Key Differences Explained](https://dev.to/misterankit/agentic-ai-vs-generative-ai-key-differences-explained-kmk)
+- [NestJS Recipes](https://dev.to/signor_p/nestjs-recipes-3pp0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
