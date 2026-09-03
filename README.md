@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped writing prompts. I write the repo.](https://dev.to/indiecoredev/i-stopped-writing-prompts-i-write-the-repo-o6)
-- [I built an AIOps platform that auto-heals Docker services as a student](https://dev.to/ayush_walunjkar_371918303/i-built-an-aiops-platform-that-auto-heals-docker-services-as-a-student-1km2)
-- [🌟Turn Markdown into Narrated Videos with a New AI Skill](https://dev.to/attentionisalluneed/turn-markdown-into-narrated-videos-with-a-new-ai-skill-1i31)
-- [Agentic AI vs Generative AI: Key Differences Explained](https://dev.to/misterankit/agentic-ai-vs-generative-ai-key-differences-explained-kmk)
-- [NestJS Recipes](https://dev.to/signor_p/nestjs-recipes-3pp0)
+- [TimesFM: Google&#39;s Foundation Model for Time Series, Explained for Developers](https://dev.to/arshtechpro/timesfm-googles-foundation-model-for-time-series-explained-for-developers-3jf9)
+- [Memory Is Not Talent: Talent Is Pattern Recognition and Connection](https://dev.to/sumit0rn/memory-is-not-talent-talent-is-pattern-recognition-and-connection-3bea)
+- [I Upscaled 550 Yearbook Scans for a School Archive. Total Cost: $0.](https://dev.to/photoupscaler/i-upscaled-550-yearbook-scans-for-a-school-archive-total-cost-0-30i9)
+- [I built a QR code phishing scanner for our free API — and ended up writing a PNG decoder from scratch to make it work.](https://dev.to/presend/i-built-a-qr-code-phishing-scanner-for-our-free-api-and-ended-up-writing-a-png-decoder-from-3ffd)
+- [Context Engineering: o ativo que a maioria ainda trata como prompt](https://dev.to/aspepper/context-engineering-o-ativo-que-a-maioria-ainda-trata-como-prompt-230n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
