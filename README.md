@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AArch64 Register Conventions: What Survives a Function Call—and Why](https://dev.to/danielpetrovic/aarch64-register-conventions-what-survives-a-function-call-and-why-ag3)
-- [Proxmox: LXC oder KVM? Der ultimative Guide zur richtigen Wahl](https://dev.to/uhltak/proxmox-lxc-oder-kvm-der-ultimative-guide-zur-richtigen-wahl-3dnb)
-- [Agents That Break, Not Just Think: Why Containment, Control, and Debugging Are the Real Bottlenecks in Production AI](https://dev.to/tamizuddin/agents-that-break-not-just-think-why-containment-control-and-debugging-are-the-real-bottlenecks-576f)
-- [Google’s August 2026 Spam Update Brought Unusually Sharp Ranking Volatility](https://dev.to/alifar/googles-august-2026-spam-update-brought-unusually-sharp-ranking-volatility-5bkn)
-- [Claude AI for Code Review - A Developer&#39;s Guide for 2026](https://dev.to/mecanik-dev/claude-ai-for-code-review-a-developers-guide-for-2026-31p1)
+- [eBay&#39;s Browse API Doesn&#39;t Return Sold Listings. Here Is a Node.js Alternative](https://dev.to/itsmarcandrew/ebays-browse-api-doesnt-return-sold-listings-here-is-a-nodejs-alternative-4mg1)
+- [OpenAI Rated Its Own Model &#39;Critical&#39; for Cyber Risk. Gate Your Agent.](https://dev.to/gabrielanhaia/openai-rated-its-own-model-critical-for-cyber-risk-gate-your-agent-169a)
+- [fetch-sentinel v0.1-alpha: guardian en tiempo de fetch para agentes, con KI abiertos declarados](https://dev.to/magopredator/fetch-sentinel-v01-alpha-guardian-en-tiempo-de-fetch-para-agentes-con-ki-abiertos-declarados-4mic)
+- [CanvasKit Layout Traps: The Unbounded Constraint Bug That Only Blanks Release Builds](https://dev.to/devshakib/canvaskit-layout-traps-the-unbounded-constraint-bug-that-only-blanks-release-builds-44eb)
+- [Subagents design @ zerostack](https://dev.to/gi-dellav/subagents-design-zerostack-16e7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
