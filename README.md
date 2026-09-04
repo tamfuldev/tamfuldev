@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Customer Onboarding with AI Agents: A Step-by-Step Blueprint](https://dev.to/samchenreviews/how-to-automate-customer-onboarding-with-ai-agents-a-step-by-step-blueprint-4ckd)
-- [TypeScript Without Node.js in Production: What You Gain, What You Give Up](https://dev.to/_wangcch/typescript-without-nodejs-in-production-what-you-gain-what-you-give-up-156f)
-- [Building a receipt-scanning budget tracker with Amazon Bedrock, Lambda, and DynamoDB](https://dev.to/limani/building-a-receipt-scanning-budget-tracker-with-amazon-bedrock-lambda-and-dynamodb-4fg8)
-- [Four filters returned nothing and I read all four as nothing being there](https://dev.to/mahirhir/four-filters-returned-nothing-and-i-read-all-four-as-nothing-being-there-2j49)
-- [I built a tool to catch empty scans read as passes, and shipped it with an empty scan read as a pass](https://dev.to/mahirhir/i-built-a-tool-to-catch-empty-scans-read-as-passes-and-shipped-it-with-an-empty-scan-read-as-a-pass-2p3d)
+- [GitHub Copilot vs Cursor vs Claude Code](https://dev.to/respect17/github-copilot-vs-cursor-vs-claude-code-3hk)
+- [I Built an Image to 3D Model App using LangGraph](https://dev.to/neeraj_ciju/building-an-image-to-3d-model-pipeline-with-langgraph-1nak)
+- [CHAPTER 43 AI AGENTS, PLANNING, TOOL CALLING, TASK STATE, PERMISSION BOUNDARIES, HUMAN APPROVAL &amp; SAFE AUTONOMOUS EXECUTION](https://dev.to/black_shadow_team/chapter-43-ai-agents-planning-tool-calling-task-state-permission-boundaries-human-approval--pfc)
+- [How to Show Engineering Ownership When the Repositories Are Private](https://dev.to/efe_genc/how-to-show-engineering-ownership-when-the-repositories-are-private-3fon)
+- [The Spec Is the Fast Path](https://dev.to/efe_genc/the-spec-is-the-fast-path-3m2l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
