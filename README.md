@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every deploy said green. The scheduler was two weeks behind.](https://dev.to/aghassis/every-deploy-said-green-the-scheduler-was-two-weeks-behind-17db)
-- [How We Built Sub-Microsecond OS Gating and CoW Rollbacks](https://dev.to/ivegotahunnitonit/how-we-built-sub-microsecond-os-gating-and-cow-rollbacks-3l56)
-- [We let an AI write SQL against customer databases. Here is every guardrail, and why prompting is not one.](https://dev.to/chattermate/we-let-an-ai-write-sql-against-customer-databases-here-is-every-guardrail-and-why-prompting-is-3k9a)
-- [Shapezo in a Game Engine Pipeline: Context, Level Design, and Production Handoffs](https://dev.to/geogenius/shapezo-in-a-game-engine-pipeline-context-level-design-and-production-handoffs-25e3)
-- [Your React app unmounts when a reader turns on Chrome translate](https://dev.to/davlat_aliev_392c20ec5c92/your-react-app-unmounts-when-a-reader-turns-on-chrome-translate-2hn3)
+- [Google Locked Its AI Vulnerability Hunter Behind 650 Seats. Build Your Own for Under a Cent per File](https://dev.to/jamilxt/google-locked-its-ai-vulnerability-hunter-behind-650-seats-build-your-own-for-under-a-cent-per-file-4ehg)
+- [The True Cost of Game Development Outsourcing](https://dev.to/oceanviewgames/the-true-cost-of-game-development-outsourcing-35p0)
+- [OB1 Feels Surprisingly Clean, Until Docker Networking Enters the Conversation](https://dev.to/james_lin/ob1-feels-surprisingly-clean-until-docker-networking-enters-the-conversation-47eh)
+- [Advanced Server-Side Caching Patterns in Next.js: Boosting Performance with Redis, ISR, and Revalidation](https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-boosting-performance-with-redis-isr-and-164a)
+- [Artificial Scarcity: Why I Cap My AI Token Usage Below the Free Limit](https://dev.to/gitgo_1900/artificial-scarcity-why-i-cap-my-ai-token-usage-below-the-free-limit-3iji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
