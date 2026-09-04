@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS](https://dev.to/manvitha_potluri_edbd8b9b/how-to-build-an-enterprise-grade-automated-mlops-pipeline-on-aws-1cj9)
-- [How to translate MDN web docs to spanish.](https://dev.to/ifeanyichima/how-to-translate-mdn-web-docs-to-spanish-2p0f)
-- [The AI Video Squeeze: Credit Traps, Silent Refusals and Disposable Tools](https://dev.to/theaidownside/the-ai-video-squeeze-credit-traps-silent-refusals-and-disposable-tools-3oh3)
-- [Google Keeps AdX as Court Favors Behavioral Remedies Over an Ad Tech Breakup](https://dev.to/alifar/google-keeps-adx-as-court-favors-behavioral-remedies-over-an-ad-tech-breakup-5fo6)
-- [Generative Modeling: Learning the Distribution Behind the Data](https://dev.to/zeromathai/generative-modeling-learning-the-distribution-behind-the-data-3j4p)
+- [Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en)
+- [Trying VLA &lpar;Part 5&rpar;: Setting Up and Testing a SpaceMouse](https://dev.to/takeofuture/trying-vla-part-5-setting-up-and-testing-a-spacemouse-eio)
+- [Please Define Your Jargon](https://dev.to/extralongdivision/please-define-your-jargon-48bp)
+- [Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI&lpar;Agent Platform&rpar;](https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o)
+- [The Probe Returned 200. The Worker Had Never Bound a Port.](https://dev.to/codepy_1473/the-probe-returned-200-the-worker-had-never-bound-a-port-231e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
