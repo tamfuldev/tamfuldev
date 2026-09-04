@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot vs Cursor vs Claude Code](https://dev.to/respect17/github-copilot-vs-cursor-vs-claude-code-3hk)
-- [I Built an Image to 3D Model App using LangGraph](https://dev.to/neeraj_ciju/building-an-image-to-3d-model-pipeline-with-langgraph-1nak)
-- [CHAPTER 43 AI AGENTS, PLANNING, TOOL CALLING, TASK STATE, PERMISSION BOUNDARIES, HUMAN APPROVAL &amp; SAFE AUTONOMOUS EXECUTION](https://dev.to/black_shadow_team/chapter-43-ai-agents-planning-tool-calling-task-state-permission-boundaries-human-approval--pfc)
-- [How to Show Engineering Ownership When the Repositories Are Private](https://dev.to/efe_genc/how-to-show-engineering-ownership-when-the-repositories-are-private-3fon)
-- [The Spec Is the Fast Path](https://dev.to/efe_genc/the-spec-is-the-fast-path-3m2l)
+- [OpenBSD Upgrade 7.8 to 7.9](https://dev.to/nabbisen/openbsd-upgrade-78-to-79-1agm)
+- [Google Regionalizes Site Reputation Policy Enforcement, Changing EEA SEO Monitoring](https://dev.to/alifar/google-regionalizes-site-reputation-policy-enforcement-changing-eea-seo-monitoring-1bkb)
+- [Why &quot;why did our infra costs jump in Q2?&quot; doesn&#39;t fit a graph](https://dev.to/bzdvdn/why-why-did-our-infra-costs-jump-in-q2-doesnt-fit-a-graph-1nmk)
+- [I Found a Better Way to Build Websites with Claude AI](https://dev.to/_shakeworld/i-found-a-better-way-to-build-websites-with-claude-ai-4aen)
+- [C# Concurrent Collections: A Practical Guide](https://dev.to/steponeit/c-concurrent-collections-a-practical-guide-1k44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
