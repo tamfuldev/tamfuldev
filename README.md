@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en)
-- [Trying VLA &lpar;Part 5&rpar;: Setting Up and Testing a SpaceMouse](https://dev.to/takeofuture/trying-vla-part-5-setting-up-and-testing-a-spacemouse-eio)
-- [Please Define Your Jargon](https://dev.to/extralongdivision/please-define-your-jargon-48bp)
-- [Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI&lpar;Agent Platform&rpar;](https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o)
-- [The Probe Returned 200. The Worker Had Never Bound a Port.](https://dev.to/codepy_1473/the-probe-returned-200-the-worker-had-never-bound-a-port-231e)
+- [Every deploy said green. The scheduler was two weeks behind.](https://dev.to/aghassis/every-deploy-said-green-the-scheduler-was-two-weeks-behind-17db)
+- [How We Built Sub-Microsecond OS Gating and CoW Rollbacks](https://dev.to/ivegotahunnitonit/how-we-built-sub-microsecond-os-gating-and-cow-rollbacks-3l56)
+- [We let an AI write SQL against customer databases. Here is every guardrail, and why prompting is not one.](https://dev.to/chattermate/we-let-an-ai-write-sql-against-customer-databases-here-is-every-guardrail-and-why-prompting-is-3k9a)
+- [Shapezo in a Game Engine Pipeline: Context, Level Design, and Production Handoffs](https://dev.to/geogenius/shapezo-in-a-game-engine-pipeline-context-level-design-and-production-handoffs-25e3)
+- [Your React app unmounts when a reader turns on Chrome translate](https://dev.to/davlat_aliev_392c20ec5c92/your-react-app-unmounts-when-a-reader-turns-on-chrome-translate-2hn3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
