@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Locked Its AI Vulnerability Hunter Behind 650 Seats. Build Your Own for Under a Cent per File](https://dev.to/jamilxt/google-locked-its-ai-vulnerability-hunter-behind-650-seats-build-your-own-for-under-a-cent-per-file-4ehg)
-- [The True Cost of Game Development Outsourcing](https://dev.to/oceanviewgames/the-true-cost-of-game-development-outsourcing-35p0)
-- [OB1 Feels Surprisingly Clean, Until Docker Networking Enters the Conversation](https://dev.to/james_lin/ob1-feels-surprisingly-clean-until-docker-networking-enters-the-conversation-47eh)
-- [Advanced Server-Side Caching Patterns in Next.js: Boosting Performance with Redis, ISR, and Revalidation](https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-boosting-performance-with-redis-isr-and-164a)
-- [Artificial Scarcity: Why I Cap My AI Token Usage Below the Free Limit](https://dev.to/gitgo_1900/artificial-scarcity-why-i-cap-my-ai-token-usage-below-the-free-limit-3iji)
+- [How to Automate Customer Onboarding with AI Agents: A Step-by-Step Blueprint](https://dev.to/samchenreviews/how-to-automate-customer-onboarding-with-ai-agents-a-step-by-step-blueprint-4ckd)
+- [TypeScript Without Node.js in Production: What You Gain, What You Give Up](https://dev.to/_wangcch/typescript-without-nodejs-in-production-what-you-gain-what-you-give-up-156f)
+- [Building a receipt-scanning budget tracker with Amazon Bedrock, Lambda, and DynamoDB](https://dev.to/limani/building-a-receipt-scanning-budget-tracker-with-amazon-bedrock-lambda-and-dynamodb-4fg8)
+- [Four filters returned nothing and I read all four as nothing being there](https://dev.to/mahirhir/four-filters-returned-nothing-and-i-read-all-four-as-nothing-being-there-2j49)
+- [I built a tool to catch empty scans read as passes, and shipped it with an empty scan read as a pass](https://dev.to/mahirhir/i-built-a-tool-to-catch-empty-scans-read-as-passes-and-shipped-it-with-an-empty-scan-read-as-a-pass-2p3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
