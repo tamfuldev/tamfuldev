@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBSD Upgrade 7.8 to 7.9](https://dev.to/nabbisen/openbsd-upgrade-78-to-79-1agm)
-- [Google Regionalizes Site Reputation Policy Enforcement, Changing EEA SEO Monitoring](https://dev.to/alifar/google-regionalizes-site-reputation-policy-enforcement-changing-eea-seo-monitoring-1bkb)
-- [Why &quot;why did our infra costs jump in Q2?&quot; doesn&#39;t fit a graph](https://dev.to/bzdvdn/why-why-did-our-infra-costs-jump-in-q2-doesnt-fit-a-graph-1nmk)
-- [I Found a Better Way to Build Websites with Claude AI](https://dev.to/_shakeworld/i-found-a-better-way-to-build-websites-with-claude-ai-4aen)
-- [C# Concurrent Collections: A Practical Guide](https://dev.to/steponeit/c-concurrent-collections-a-practical-guide-1k44)
+- [tmux: เปลี่ยน terminal จอเดียวให้เป็นหลายจอ งานยาว ๆ ก็ไม่หายเมื่อ SSH หลุด](https://dev.to/gophernment/tmux-epliiyn-terminal-cchediiywaihepnhlaaycch-ngaanyaaw-kaimhaayemuue-ssh-hlud-1e4p)
+- [ThinkVertex: the organization that took it from the 2026 by 12 year old](https://dev.to/adamsdevelops000/thinkvertex-the-organization-that-took-it-from-the-2026-by-12-year-old-1p5i)
+- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-1e37)
+- [Postman for API Work: Collections, Environment Variables, Secrets, Auth, and Tests](https://dev.to/manoharij/postman-for-api-work-collections-environment-variables-secrets-auth-and-tests-23ob)
+- [Claude Keeps Going Down, and Anthropic&#39;s Own Status Page Says So](https://dev.to/theaidownside/claude-keeps-going-down-and-anthropics-own-status-page-says-so-29mc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
