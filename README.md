@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP 200 doesn&#39;t mean your LLM request succeeded](https://dev.to/nooreeman2004/http-200-doesnt-mean-your-llm-request-succeeded-oka)
-- [EU Cyberbullying Resolution Signals Stronger Platform Responsibility, Not a New Law](https://dev.to/alifar/eu-cyberbullying-resolution-signals-stronger-platform-responsibility-not-a-new-law-30lb)
-- [Interpretability Built an Instrument to Prove a Signal Is Actually Used. Agent Memory Has Nothing Like It.](https://dev.to/izgorodin/interpretability-built-an-instrument-to-prove-a-signal-is-actually-used-agent-memory-has-nothing-2mnf)
-- [Your API will be called twice. Here&#39;s how to make it run once.](https://dev.to/numb_code_07/your-api-will-be-called-twice-heres-how-to-make-it-run-once-14g2)
-- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products](https://dev.to/wendy_ochieng/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-14oh)
+- [Your Image Converter Probably Doesn&#39;t Need Your Image on a Server](https://dev.to/muhayminbinmehmood/your-image-converter-probably-doesnt-need-your-image-on-a-server-4415)
+- [Fine-tuning a 1.7B model at 3.2 GB VRAM — building FineTune Studio](https://dev.to/pranjulrathour/fine-tuning-a-17b-model-at-32-gb-vram-building-finetune-studio-9mh)
+- [Gemini 3.8 Flash: Benchmarks, Price, Cyber - Proje Defteri](https://dev.to/projedefteri/gemini-38-flash-benchmarks-price-cyber-proje-defteri-41i9)
+- [I Watched Our Interns Play Valorant for Three Hours. Put Your Rank on the Resume.](https://dev.to/jon_at_backboardio/i-watched-our-interns-play-valorant-for-three-hours-put-your-rank-on-the-resume-8jd)
+- [Why Early Metrics Matter More Than You Think](https://dev.to/ravindrachitla/why-early-metrics-matter-more-than-you-think-36jd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
