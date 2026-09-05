@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 12. My Code Jam got zero submissions. So I built a platform for it.](https://dev.to/koda2026/im-12-my-code-jam-got-zero-submissions-so-i-built-a-platform-for-it-4php)
-- [I Tested Q4_K_M vs MXFP4 on the Same Laptop — The Supposedly-Faster New Format Lost](https://dev.to/pitambarmahato/i-tested-q4km-vs-mxfp4-on-the-same-laptop-the-supposedly-faster-new-format-lost-3ej1)
-- [BREEZE COMET: Breaching Financial Systems and Executing Fraudulent Transfers Using mTLS Credentials](https://dev.to/anoymask/breeze-comet-breaching-financial-systems-and-executing-fraudulent-transfers-using-mtls-credentials-3993)
-- [Elementor Pro CVE-2026-32475: Active Exploitation of PHP Web Shell via Array Validation Bypass](https://dev.to/anoymask/elementor-pro-cve-2026-32475-active-exploitation-of-php-web-shell-via-array-validation-bypass-581k)
-- [Coder Registry Compromise: Malicious Server Added to Cloudflare Pool to Distribute Malicious Terraform Modules](https://dev.to/anoymask/coder-registry-compromise-malicious-server-added-to-cloudflare-pool-to-distribute-malicious-4604)
+- [OpenViking’s Filesystem View of Agent Context Is a Welcome Escape from RAG Glue Code](https://dev.to/yan_cheng/openvikings-filesystem-view-of-agent-context-is-a-welcome-escape-from-rag-glue-code-1a4a)
+- [Apigee X Eval Org Stuck at 502? Check These 2 Things First](https://dev.to/sunnyjayaraju/apigee-x-eval-org-stuck-at-502-check-these-2-things-first-50mm)
+- [I Kept Deleting Logs for 48 Hours. The Inodes Were Already Gone.](https://dev.to/codepy_1473/i-kept-deleting-logs-for-48-hours-the-inodes-were-already-gone-3dbf)
+- [Text to SQL Without Sending Data to OpenAI &lpar;Local DuckDB &amp; Ollama Setup&rpar;](https://dev.to/veilanalytics/text-to-sql-without-sending-data-to-openai-local-duckdb-ollama-setup-1mn7)
+- [Six agents were running and I could not tell you what any of them did](https://dev.to/devsomesh/six-agents-were-running-and-i-could-not-tell-you-what-any-of-them-did-1a47)
 <!-- BLOG-POST-LIST:END -->
 
 ---
