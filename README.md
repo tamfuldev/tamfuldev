@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Image Converter Probably Doesn&#39;t Need Your Image on a Server](https://dev.to/muhayminbinmehmood/your-image-converter-probably-doesnt-need-your-image-on-a-server-4415)
-- [Fine-tuning a 1.7B model at 3.2 GB VRAM — building FineTune Studio](https://dev.to/pranjulrathour/fine-tuning-a-17b-model-at-32-gb-vram-building-finetune-studio-9mh)
-- [Gemini 3.8 Flash: Benchmarks, Price, Cyber - Proje Defteri](https://dev.to/projedefteri/gemini-38-flash-benchmarks-price-cyber-proje-defteri-41i9)
-- [I Watched Our Interns Play Valorant for Three Hours. Put Your Rank on the Resume.](https://dev.to/jon_at_backboardio/i-watched-our-interns-play-valorant-for-three-hours-put-your-rank-on-the-resume-8jd)
-- [Why Early Metrics Matter More Than You Think](https://dev.to/ravindrachitla/why-early-metrics-matter-more-than-you-think-36jd)
+- [Fill Existing PDF Forms from n8n Without Rebuilding the Template](https://dev.to/maciej_nieyski_1a71389/fill-existing-pdf-forms-from-n8n-without-rebuilding-the-template-4khb)
+- [myjs](https://dev.to/michael_b581c5c68faa9de1d/myjs-54b9)
+- [IND-TECH WEEKLY #2: Jio&#39;s IPO Gets a Festive-Season Window, Slice Takes a ~70% Haircut, and the Jobs Watch Section 🇮🇳](https://dev.to/dj29/ind-tech-weekly-2-jios-ipo-gets-a-festive-season-window-slice-takes-a-70-haircut-and-the-3dlg)
+- [OpenAI Rolls Out GPT-6 Astra Across ChatGPT, API, Azure and AWS Bedrock](https://dev.to/alifar/openai-rolls-out-gpt-6-astra-across-chatgpt-api-azure-and-aws-bedrock-98c)
+- [Ramen - A Quality Development Environment for QA Testers](https://dev.to/owenburns/ramen-a-qde-1bi2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
