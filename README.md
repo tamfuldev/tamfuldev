@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [tmux: เปลี่ยน terminal จอเดียวให้เป็นหลายจอ งานยาว ๆ ก็ไม่หายเมื่อ SSH หลุด](https://dev.to/gophernment/tmux-epliiyn-terminal-cchediiywaihepnhlaaycch-ngaanyaaw-kaimhaayemuue-ssh-hlud-1e4p)
-- [ThinkVertex: the organization that took it from the 2026 by 12 year old](https://dev.to/adamsdevelops000/thinkvertex-the-organization-that-took-it-from-the-2026-by-12-year-old-1p5i)
-- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-1e37)
-- [Postman for API Work: Collections, Environment Variables, Secrets, Auth, and Tests](https://dev.to/manoharij/postman-for-api-work-collections-environment-variables-secrets-auth-and-tests-23ob)
-- [Claude Keeps Going Down, and Anthropic&#39;s Own Status Page Says So](https://dev.to/theaidownside/claude-keeps-going-down-and-anthropics-own-status-page-says-so-29mc)
+- [I&#39;m 12. My Code Jam got zero submissions. So I built a platform for it.](https://dev.to/koda2026/im-12-my-code-jam-got-zero-submissions-so-i-built-a-platform-for-it-4php)
+- [I Tested Q4_K_M vs MXFP4 on the Same Laptop — The Supposedly-Faster New Format Lost](https://dev.to/pitambarmahato/i-tested-q4km-vs-mxfp4-on-the-same-laptop-the-supposedly-faster-new-format-lost-3ej1)
+- [BREEZE COMET: Breaching Financial Systems and Executing Fraudulent Transfers Using mTLS Credentials](https://dev.to/anoymask/breeze-comet-breaching-financial-systems-and-executing-fraudulent-transfers-using-mtls-credentials-3993)
+- [Elementor Pro CVE-2026-32475: Active Exploitation of PHP Web Shell via Array Validation Bypass](https://dev.to/anoymask/elementor-pro-cve-2026-32475-active-exploitation-of-php-web-shell-via-array-validation-bypass-581k)
+- [Coder Registry Compromise: Malicious Server Added to Cloudflare Pool to Distribute Malicious Terraform Modules](https://dev.to/anoymask/coder-registry-compromise-malicious-server-added-to-cloudflare-pool-to-distribute-malicious-4604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
