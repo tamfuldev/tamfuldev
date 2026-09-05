@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I let my own 31B model take over development of the thing running it](https://dev.to/natuworkguy/i-let-my-own-31b-model-take-over-development-of-the-thing-running-it-551b)
-- [When Should an AI Suggestion Become a Financial Record?](https://dev.to/hakkiyuvanc/when-should-an-ai-suggestion-become-a-financial-record-3523)
-- [HookAudit: Building a Supply-Chain Security Scanner Without a Supply Chain](https://dev.to/bappadala_rohithkumarna/hookaudit-building-a-supply-chain-security-scanner-without-a-supply-chain-1aec)
-- [Agentic AI Is Mostly Marketing. Memory Is the Part That&#39;s Real.](https://dev.to/mukesh_13/agentic-ai-is-mostly-marketing-memory-is-the-part-thats-real-4b03)
-- [A source map is a claim, and nothing checks whether it is true](https://dev.to/tamerkalla/a-source-map-is-a-claim-and-nothing-checks-whether-it-is-true-9f0)
+- [From Prompt Engineering to AI Engineering](https://dev.to/ikilic/from-prompt-engineering-to-ai-engineering-3onh)
+- [Looking at what we are Building](https://dev.to/kasir-barati/looking-at-what-we-are-building-1flf)
+- [What actually happens in a database index &lpar;and why half of them do nothing&rpar;](https://dev.to/vladut02/what-actually-happens-in-a-database-index-and-why-half-of-them-do-nothing-3mh6)
+- [Liar Liar Pants on Fire](https://dev.to/alexiskroberson/liar-liar-pants-on-fire-56ki)
+- [Save Our Developers and Engineers — AI Is Stealing Our Jobs](https://dev.to/opaul/save-our-developers-and-engineers-ai-is-stealing-our-jobs-4hff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
