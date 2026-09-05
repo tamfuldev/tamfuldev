@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fill Existing PDF Forms from n8n Without Rebuilding the Template](https://dev.to/maciej_nieyski_1a71389/fill-existing-pdf-forms-from-n8n-without-rebuilding-the-template-4khb)
-- [myjs](https://dev.to/michael_b581c5c68faa9de1d/myjs-54b9)
-- [IND-TECH WEEKLY #2: Jio&#39;s IPO Gets a Festive-Season Window, Slice Takes a ~70% Haircut, and the Jobs Watch Section 🇮🇳](https://dev.to/dj29/ind-tech-weekly-2-jios-ipo-gets-a-festive-season-window-slice-takes-a-70-haircut-and-the-3dlg)
-- [OpenAI Rolls Out GPT-6 Astra Across ChatGPT, API, Azure and AWS Bedrock](https://dev.to/alifar/openai-rolls-out-gpt-6-astra-across-chatgpt-api-azure-and-aws-bedrock-98c)
-- [Ramen - A Quality Development Environment for QA Testers](https://dev.to/owenburns/ramen-a-qde-1bi2)
+- [I let my own 31B model take over development of the thing running it](https://dev.to/natuworkguy/i-let-my-own-31b-model-take-over-development-of-the-thing-running-it-551b)
+- [When Should an AI Suggestion Become a Financial Record?](https://dev.to/hakkiyuvanc/when-should-an-ai-suggestion-become-a-financial-record-3523)
+- [HookAudit: Building a Supply-Chain Security Scanner Without a Supply Chain](https://dev.to/bappadala_rohithkumarna/hookaudit-building-a-supply-chain-security-scanner-without-a-supply-chain-1aec)
+- [Agentic AI Is Mostly Marketing. Memory Is the Part That&#39;s Real.](https://dev.to/mukesh_13/agentic-ai-is-mostly-marketing-memory-is-the-part-thats-real-4b03)
+- [A source map is a claim, and nothing checks whether it is true](https://dev.to/tamerkalla/a-source-map-is-a-claim-and-nothing-checks-whether-it-is-true-9f0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
