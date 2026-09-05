@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompt Engineering to AI Engineering](https://dev.to/ikilic/from-prompt-engineering-to-ai-engineering-3onh)
-- [Looking at what we are Building](https://dev.to/kasir-barati/looking-at-what-we-are-building-1flf)
-- [What actually happens in a database index &lpar;and why half of them do nothing&rpar;](https://dev.to/vladut02/what-actually-happens-in-a-database-index-and-why-half-of-them-do-nothing-3mh6)
-- [Liar Liar Pants on Fire](https://dev.to/alexiskroberson/liar-liar-pants-on-fire-56ki)
-- [Save Our Developers and Engineers — AI Is Stealing Our Jobs](https://dev.to/opaul/save-our-developers-and-engineers-ai-is-stealing-our-jobs-4hff)
+- [Talking to Native: FFI, Pigeon, and Knowing Which One You Need](https://dev.to/devshakib/talking-to-native-ffi-pigeon-and-knowing-which-one-you-need-37pj)
+- [Msaada: Turning Community needs into Practical Support](https://dev.to/mutethiaglitch/msaada-turning-community-needs-into-practical-support-d39)
+- [Give Your Coding Agent Eyes](https://dev.to/zeflq/give-your-coding-agent-eyes-4mmj)
+- [What Actually Happens When You Round an RGB Triplet to a HEX Code](https://dev.to/lizely/what-actually-happens-when-you-round-an-rgb-triplet-to-a-hex-code-180p)
+- [Backtest 63.7%, production AUC 0.51 - a postmortem](https://dev.to/khavel/backtest-637-production-auc-051-a-postmortem-2alc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
