@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Talking to Native: FFI, Pigeon, and Knowing Which One You Need](https://dev.to/devshakib/talking-to-native-ffi-pigeon-and-knowing-which-one-you-need-37pj)
-- [Msaada: Turning Community needs into Practical Support](https://dev.to/mutethiaglitch/msaada-turning-community-needs-into-practical-support-d39)
-- [Give Your Coding Agent Eyes](https://dev.to/zeflq/give-your-coding-agent-eyes-4mmj)
-- [What Actually Happens When You Round an RGB Triplet to a HEX Code](https://dev.to/lizely/what-actually-happens-when-you-round-an-rgb-triplet-to-a-hex-code-180p)
-- [Backtest 63.7%, production AUC 0.51 - a postmortem](https://dev.to/khavel/backtest-637-production-auc-051-a-postmortem-2alc)
+- [Axiom: Stop Fighting Your Project Before You Even Run It](https://dev.to/the1of1matt/axiom-stop-fighting-your-project-before-you-even-run-it-30o2)
+- [Capturing exact DOM elements in a Chrome MV3 extension: DPR, sticky elements, and redaction before pixels exist](https://dev.to/mustafa_bahaa/capturing-exact-dom-elements-in-a-chrome-mv3-extension-dpr-sticky-elements-and-redaction-before-1hgd)
+- [Why I Built a Real SOC in My Basement](https://dev.to/bryant_at_bxbtech/why-i-built-a-real-soc-in-my-basement-1a0e)
+- [984 Requests Said They Were Perplexity. None Could Prove It.](https://dev.to/roadleon/984-requests-said-they-were-perplexity-none-could-prove-it-33nm)
+- [Building Beyond CRUD with Claude and Codex: How we Created an Interactive Digital Museum](https://dev.to/levi_ackerman00_69cc17b2c/building-beyond-crud-with-claude-and-codex-how-i-created-an-interactive-digital-museum-8n8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
