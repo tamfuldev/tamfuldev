@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Handover: small charities know what hurts, not what skill they are missing](https://dev.to/ndcodes/handover-small-charities-know-what-hurts-not-what-skill-they-are-missing-4jpf)
-- [Local Embeddings vs. API Embeddings — Why I Chose sentence-transformers](https://dev.to/pgmpofu/local-embeddings-vs-api-embeddings-why-i-chose-sentence-transformers-21jc)
-- [Karibu Give; USSD Micro-Philanthropy for the Next Billion Givers](https://dev.to/ruita_wachira/karibu-give-ussd-micro-philanthropy-for-the-next-billion-givers-46a3)
-- [Your prompt system has no tests, and that is why you cannot tell it is broken](https://dev.to/latifox/your-prompt-system-has-no-tests-and-that-is-why-you-cannot-tell-it-is-broken-10bh)
-- [The Overhead Ratio Is Lying to You — I Built an AI Tool to Prove It](https://dev.to/hassan_shah_733ea1eb37c88/the-overhead-ratio-is-lying-to-you-i-built-an-ai-tool-to-prove-it-2684)
+- [Somebody asked for help. Nobody came.](https://dev.to/yannvr/somebody-asked-for-help-nobody-came-5c7i)
+- [Building Adaptive AI Agents](https://dev.to/biomathcode/building-adaptive-ai-agents-495m)
+- [‘Comet Has Been Gutted’: A Week of Paid AI Features Quietly Disappearing](https://dev.to/theaidownside/comet-has-been-gutted-a-week-of-paid-ai-features-quietly-disappearing-4oin)
+- [Where Need Meets Nothing: finding Florida&#39;s aid deserts with Snowflake](https://dev.to/saif-uk/where-need-meets-nothing-finding-floridas-aid-deserts-with-snowflake-44p2)
+- [I checked dozens of UK local business websites by hand. Here&#39;s what actually breaks, and the tool I built to do it for me](https://dev.to/leaddrive/i-checked-dozens-of-uk-local-business-websites-by-hand-heres-what-actually-breaks-and-the-tool-i-6jm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
