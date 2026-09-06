@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Axiom: Stop Fighting Your Project Before You Even Run It](https://dev.to/the1of1matt/axiom-stop-fighting-your-project-before-you-even-run-it-30o2)
-- [Capturing exact DOM elements in a Chrome MV3 extension: DPR, sticky elements, and redaction before pixels exist](https://dev.to/mustafa_bahaa/capturing-exact-dom-elements-in-a-chrome-mv3-extension-dpr-sticky-elements-and-redaction-before-1hgd)
-- [Why I Built a Real SOC in My Basement](https://dev.to/bryant_at_bxbtech/why-i-built-a-real-soc-in-my-basement-1a0e)
-- [984 Requests Said They Were Perplexity. None Could Prove It.](https://dev.to/roadleon/984-requests-said-they-were-perplexity-none-could-prove-it-33nm)
-- [Building Beyond CRUD with Claude and Codex: How we Created an Interactive Digital Museum](https://dev.to/levi_ackerman00_69cc17b2c/building-beyond-crud-with-claude-and-codex-how-i-created-an-interactive-digital-museum-8n8)
+- [Filtered should never mean deleted](https://dev.to/darkpandawarrior/filtered-should-never-mean-deleted-5081)
+- [Rufus vs Ventoy: Why I Started Using Ventoy for Bootable USBs](https://dev.to/sunilpradhan/rufus-vs-ventoy-why-i-started-using-ventoy-for-bootable-usbs-22ad)
+- [How to Pass the Amazon SQL Interview &lpar;A Practical Guide&rpar;](https://dev.to/rahmanfrr/how-to-pass-the-amazon-sql-interview-a-practical-guide-3ie5)
+- [I Built a Mobile Terminal Around My herdr + Codex Workflow](https://dev.to/termish_d3ae4dedd5e7b2195/i-built-a-mobile-terminal-around-my-herdr-codex-workflow-132i)
+- [Upscaling guest photos with a local model instead of an API](https://dev.to/theill/upscaling-guest-photos-with-a-local-model-instead-of-an-api-17a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
