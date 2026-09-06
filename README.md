@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Filtered should never mean deleted](https://dev.to/darkpandawarrior/filtered-should-never-mean-deleted-5081)
-- [Rufus vs Ventoy: Why I Started Using Ventoy for Bootable USBs](https://dev.to/sunilpradhan/rufus-vs-ventoy-why-i-started-using-ventoy-for-bootable-usbs-22ad)
-- [How to Pass the Amazon SQL Interview &lpar;A Practical Guide&rpar;](https://dev.to/rahmanfrr/how-to-pass-the-amazon-sql-interview-a-practical-guide-3ie5)
-- [I Built a Mobile Terminal Around My herdr + Codex Workflow](https://dev.to/termish_d3ae4dedd5e7b2195/i-built-a-mobile-terminal-around-my-herdr-codex-workflow-132i)
-- [Upscaling guest photos with a local model instead of an API](https://dev.to/theill/upscaling-guest-photos-with-a-local-model-instead-of-an-api-17a6)
+- [DESIGN.mdとは？AIと進めるUIデザインの共有ガイド](https://dev.to/lateen-sail/designmdtohaaitojin-meruuidezainnogong-you-gaido-144c)
+- [How to Turn Any Photo Into a Cross Stitch Pattern](https://dev.to/vshandev/how-to-turn-any-photo-into-a-cross-stitch-pattern-1mld)
+- [Building DevLog: What Happens When You Tell an AI to Think Like a Security Engineer First](https://dev.to/sa_a_334b500fa1f/building-devlog-what-happens-when-you-tell-an-ai-to-think-like-a-security-engineer-first-5b1b)
+- [A Roblox LiveOps rollout needs a rollback plan before the first event](https://dev.to/nimbliquestudio/a-roblox-liveops-rollout-needs-a-rollback-plan-before-the-first-event-44n)
+- [I built an AI website builder for Webround. Then I killed it.](https://dev.to/luca_at_webround/i-built-an-ai-website-builder-for-webround-then-i-killed-it-4na)
 <!-- BLOG-POST-LIST:END -->
 
 ---
