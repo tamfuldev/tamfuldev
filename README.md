@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built Rewind: A zero-dependency TIME-TRAVEL DEBUGGER with live in-browser hot-patching &lpar;Open for Contributions&rpar;](https://dev.to/hrinkar/i-built-rewind-a-zero-dependency-time-travel-debugger-with-live-in-browser-hot-patching-open-for-3imp)
-- [Inside the Memory Decision Loop: How AI Agents Decide What to Remember, Update, or Forget](https://dev.to/mukesh_13/inside-the-memory-decision-loop-how-ai-agents-decide-what-to-remember-update-or-forget-1mfl)
-- [Remembering Why We Code: Dropping AI for Fundamental Learning](https://dev.to/annavi11arrea1/remembering-why-we-code-dropping-ai-for-fundamental-learning-4868)
-- [Decompiling activetheory.net: Zero-GC Memory Management &amp; GPGPU Particle Systems](https://dev.to/ddw-x/decompiling-activetheorynet-zero-gc-memory-management-gpgpu-particle-systems-11da)
-- [OpenAI’s Third Phase Plan Sets a 2028 Goal for an Automated AI Researcher](https://dev.to/alifar/openais-third-phase-plan-sets-a-2028-goal-for-an-automated-ai-researcher-16i5)
+- [Handover: small charities know what hurts, not what skill they are missing](https://dev.to/ndcodes/handover-small-charities-know-what-hurts-not-what-skill-they-are-missing-4jpf)
+- [Local Embeddings vs. API Embeddings — Why I Chose sentence-transformers](https://dev.to/pgmpofu/local-embeddings-vs-api-embeddings-why-i-chose-sentence-transformers-21jc)
+- [Karibu Give; USSD Micro-Philanthropy for the Next Billion Givers](https://dev.to/ruita_wachira/karibu-give-ussd-micro-philanthropy-for-the-next-billion-givers-46a3)
+- [Your prompt system has no tests, and that is why you cannot tell it is broken](https://dev.to/latifox/your-prompt-system-has-no-tests-and-that-is-why-you-cannot-tell-it-is-broken-10bh)
+- [The Overhead Ratio Is Lying to You — I Built an AI Tool to Prove It](https://dev.to/hassan_shah_733ea1eb37c88/the-overhead-ratio-is-lying-to-you-i-built-an-ai-tool-to-prove-it-2684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
