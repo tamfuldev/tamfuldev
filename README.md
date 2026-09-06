@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Make Your Code Review Agent Write Down How the Bug Actually Happens](https://dev.to/shupf/make-your-code-review-agent-write-down-how-the-bug-actually-happens-1g1)
-- [ASCII Smuggling Just Graduated From AI Attacks to Your Inbox](https://dev.to/coridev/ascii-smuggling-just-graduated-from-ai-attacks-to-your-inbox-40gg)
-- [WordPress for Enterprise: What Changes When a Website Has to Handle Scale, Security, and Multiple Teams?](https://dev.to/toyaab/wordpress-for-enterprise-what-changes-when-a-website-has-to-handle-scale-security-and-multiple-3o48)
-- [AutoHttps: a zero-dependency automatic HTTPS library for ASP.NET Core / Kestrel](https://dev.to/jhenderson1992/autohttps-a-zero-dependency-automatic-https-library-for-aspnet-core-kestrel-382j)
-- [You write one kind sentence. I donate a dime. A blockchain makes sure I do.](https://dev.to/nazar-boyko/you-write-one-kind-sentence-i-donate-a-dime-a-blockchain-makes-sure-i-do-f5o)
+- [I Wrote a Security Policy, Then Made Myself Break It](https://dev.to/0xkikiola/i-wrote-a-security-policy-then-made-myself-break-it-4ho3)
+- [The Clean Server Passed. My Laptop Was Loading sitecustomize.py First.](https://dev.to/codepy_1473/the-clean-server-passed-my-laptop-was-loading-sitecustomizepy-first-537l)
+- [Mentoring first-year students: what works and what wastes their time](https://dev.to/pranjulrathour/mentoring-first-year-students-what-works-and-what-wastes-their-time-52n1)
+- [K8s: Node Maintenance &amp; Eviction](https://dev.to/thegm26/k8s-node-maintenance-eviction-1mkm)
+- [The questions judges ask in hackathon Q&amp;A, and how to answer them](https://dev.to/pranjulrathour/the-questions-judges-ask-in-hackathon-qa-and-how-to-answer-them-50oh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
