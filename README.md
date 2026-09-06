@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DESIGN.mdとは？AIと進めるUIデザインの共有ガイド](https://dev.to/lateen-sail/designmdtohaaitojin-meruuidezainnogong-you-gaido-144c)
-- [How to Turn Any Photo Into a Cross Stitch Pattern](https://dev.to/vshandev/how-to-turn-any-photo-into-a-cross-stitch-pattern-1mld)
-- [Building DevLog: What Happens When You Tell an AI to Think Like a Security Engineer First](https://dev.to/sa_a_334b500fa1f/building-devlog-what-happens-when-you-tell-an-ai-to-think-like-a-security-engineer-first-5b1b)
-- [A Roblox LiveOps rollout needs a rollback plan before the first event](https://dev.to/nimbliquestudio/a-roblox-liveops-rollout-needs-a-rollback-plan-before-the-first-event-44n)
-- [I built an AI website builder for Webround. Then I killed it.](https://dev.to/luca_at_webround/i-built-an-ai-website-builder-for-webround-then-i-killed-it-4na)
+- [Make Your Code Review Agent Write Down How the Bug Actually Happens](https://dev.to/shupf/make-your-code-review-agent-write-down-how-the-bug-actually-happens-1g1)
+- [ASCII Smuggling Just Graduated From AI Attacks to Your Inbox](https://dev.to/coridev/ascii-smuggling-just-graduated-from-ai-attacks-to-your-inbox-40gg)
+- [WordPress for Enterprise: What Changes When a Website Has to Handle Scale, Security, and Multiple Teams?](https://dev.to/toyaab/wordpress-for-enterprise-what-changes-when-a-website-has-to-handle-scale-security-and-multiple-3o48)
+- [AutoHttps: a zero-dependency automatic HTTPS library for ASP.NET Core / Kestrel](https://dev.to/jhenderson1992/autohttps-a-zero-dependency-automatic-https-library-for-aspnet-core-kestrel-382j)
+- [You write one kind sentence. I donate a dime. A blockchain makes sure I do.](https://dev.to/nazar-boyko/you-write-one-kind-sentence-i-donate-a-dime-a-blockchain-makes-sure-i-do-f5o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
