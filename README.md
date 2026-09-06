@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote a Security Policy, Then Made Myself Break It](https://dev.to/0xkikiola/i-wrote-a-security-policy-then-made-myself-break-it-4ho3)
-- [The Clean Server Passed. My Laptop Was Loading sitecustomize.py First.](https://dev.to/codepy_1473/the-clean-server-passed-my-laptop-was-loading-sitecustomizepy-first-537l)
-- [Mentoring first-year students: what works and what wastes their time](https://dev.to/pranjulrathour/mentoring-first-year-students-what-works-and-what-wastes-their-time-52n1)
-- [K8s: Node Maintenance &amp; Eviction](https://dev.to/thegm26/k8s-node-maintenance-eviction-1mkm)
-- [The questions judges ask in hackathon Q&amp;A, and how to answer them](https://dev.to/pranjulrathour/the-questions-judges-ask-in-hackathon-qa-and-how-to-answer-them-50oh)
+- [I built Rewind: A zero-dependency TIME-TRAVEL DEBUGGER with live in-browser hot-patching &lpar;Open for Contributions&rpar;](https://dev.to/hrinkar/i-built-rewind-a-zero-dependency-time-travel-debugger-with-live-in-browser-hot-patching-open-for-3imp)
+- [Inside the Memory Decision Loop: How AI Agents Decide What to Remember, Update, or Forget](https://dev.to/mukesh_13/inside-the-memory-decision-loop-how-ai-agents-decide-what-to-remember-update-or-forget-1mfl)
+- [Remembering Why We Code: Dropping AI for Fundamental Learning](https://dev.to/annavi11arrea1/remembering-why-we-code-dropping-ai-for-fundamental-learning-4868)
+- [Decompiling activetheory.net: Zero-GC Memory Management &amp; GPGPU Particle Systems](https://dev.to/ddw-x/decompiling-activetheorynet-zero-gc-memory-management-gpgpu-particle-systems-11da)
+- [OpenAI’s Third Phase Plan Sets a 2028 Goal for an Automated AI Researcher](https://dev.to/alifar/openais-third-phase-plan-sets-a-2028-goal-for-an-automated-ai-researcher-16i5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
