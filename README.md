@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Somebody asked for help. Nobody came.](https://dev.to/yannvr/somebody-asked-for-help-nobody-came-5c7i)
-- [Building Adaptive AI Agents](https://dev.to/biomathcode/building-adaptive-ai-agents-495m)
-- [‘Comet Has Been Gutted’: A Week of Paid AI Features Quietly Disappearing](https://dev.to/theaidownside/comet-has-been-gutted-a-week-of-paid-ai-features-quietly-disappearing-4oin)
-- [Where Need Meets Nothing: finding Florida&#39;s aid deserts with Snowflake](https://dev.to/saif-uk/where-need-meets-nothing-finding-floridas-aid-deserts-with-snowflake-44p2)
-- [I checked dozens of UK local business websites by hand. Here&#39;s what actually breaks, and the tool I built to do it for me](https://dev.to/leaddrive/i-checked-dozens-of-uk-local-business-websites-by-hand-heres-what-actually-breaks-and-the-tool-i-6jm)
+- [Kindy: A friendly voice companion that helps you find ways to give back](https://dev.to/bv_niteesh_be2c0eccc9a5fd/kindy-a-friendly-voice-companion-that-helps-you-find-ways-to-give-back-294j)
+- [We Shipped an Optimization Our Own Benchmark Said Not To](https://dev.to/conqueror_queen/we-shipped-an-optimization-our-own-benchmark-said-not-to-3883)
+- [Three things that surprised me shipping a 200-line npm package](https://dev.to/mengyuxuan/three-things-that-surprised-me-shipping-a-200-line-npm-package-56a9)
+- [Testing HttpClient the Right Way: Mock Handlers, Not Interfaces](https://dev.to/homolibere/testing-httpclient-the-right-way-mock-handlers-not-interfaces-lbk)
+- [Safe AI Bug Fixes That Preserve Working Code](https://dev.to/xiaobei/safe-ai-bug-fixes-that-preserve-working-code-4pi9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
