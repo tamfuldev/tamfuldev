@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GiveNext: Find a need. Offer what you have. Make an impact.](https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om)
-- [BoonFest: The Anti-Sloth Game Where Generosity Means Survival!](https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8)
-- [🔥 HotRulez just passed 1,000 downloads](https://dev.to/lezli01/hotrulez-just-passed-1000-downloads-308d)
-- [I built a compiler so I could stop writing custom element boilerplate](https://dev.to/abdolian/i-built-a-compiler-so-i-could-stop-writing-custom-element-boilerplate-383h)
-- [TruffleHog vs Gitleaks vs GitHub Secret Scanning: Why Most CI Scanners Fail &lpar;2026&rpar;](https://dev.to/chintanshah35/trufflehog-vs-gitleaks-vs-github-secret-scanning-why-most-ci-scanners-fail-2026-1372)
+- [NETO: Chat P2P local para equipos dev — sin nube, sin excusas](https://dev.to/dasilvaba/neto-chat-p2p-local-para-equipos-dev-sin-nube-sin-excusas-31bh)
+- [My AI Content Got Flagged as Templated. The Fix Was N-gram Math.](https://dev.to/toolkitcreators/my-ai-content-got-flagged-as-templated-the-fix-was-n-gram-math-1fei)
+- [LIKE in SQL, Explained for Beginners](https://dev.to/michaelnocito/like-in-sql-explained-for-beginners-24gh)
+- [Net Present Value &lpar;NPV&rpar;: How to Discount Cash Flows and Read the Answer](https://dev.to/michaelnocito/net-present-value-npv-how-to-discount-cash-flows-and-read-the-answer-2p60)
+- [Current Ratio vs Quick Ratio, and Debt to Equity](https://dev.to/michaelnocito/current-ratio-vs-quick-ratio-and-debt-to-equity-28en)
 <!-- BLOG-POST-LIST:END -->
 
 ---
