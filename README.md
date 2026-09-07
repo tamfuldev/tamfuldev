@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kindy: A friendly voice companion that helps you find ways to give back](https://dev.to/bv_niteesh_be2c0eccc9a5fd/kindy-a-friendly-voice-companion-that-helps-you-find-ways-to-give-back-294j)
-- [We Shipped an Optimization Our Own Benchmark Said Not To](https://dev.to/conqueror_queen/we-shipped-an-optimization-our-own-benchmark-said-not-to-3883)
-- [Three things that surprised me shipping a 200-line npm package](https://dev.to/mengyuxuan/three-things-that-surprised-me-shipping-a-200-line-npm-package-56a9)
-- [Testing HttpClient the Right Way: Mock Handlers, Not Interfaces](https://dev.to/homolibere/testing-httpclient-the-right-way-mock-handlers-not-interfaces-lbk)
-- [Safe AI Bug Fixes That Preserve Working Code](https://dev.to/xiaobei/safe-ai-bug-fixes-that-preserve-working-code-4pi9)
+- [GiveNext: Find a need. Offer what you have. Make an impact.](https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om)
+- [BoonFest: The Anti-Sloth Game Where Generosity Means Survival!](https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8)
+- [🔥 HotRulez just passed 1,000 downloads](https://dev.to/lezli01/hotrulez-just-passed-1000-downloads-308d)
+- [I built a compiler so I could stop writing custom element boilerplate](https://dev.to/abdolian/i-built-a-compiler-so-i-could-stop-writing-custom-element-boilerplate-383h)
+- [TruffleHog vs Gitleaks vs GitHub Secret Scanning: Why Most CI Scanners Fail &lpar;2026&rpar;](https://dev.to/chintanshah35/trufflehog-vs-gitleaks-vs-github-secret-scanning-why-most-ci-scanners-fail-2026-1372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
