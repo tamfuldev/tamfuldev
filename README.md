@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NETO: Chat P2P local para equipos dev — sin nube, sin excusas](https://dev.to/dasilvaba/neto-chat-p2p-local-para-equipos-dev-sin-nube-sin-excusas-31bh)
-- [My AI Content Got Flagged as Templated. The Fix Was N-gram Math.](https://dev.to/toolkitcreators/my-ai-content-got-flagged-as-templated-the-fix-was-n-gram-math-1fei)
-- [LIKE in SQL, Explained for Beginners](https://dev.to/michaelnocito/like-in-sql-explained-for-beginners-24gh)
-- [Net Present Value &lpar;NPV&rpar;: How to Discount Cash Flows and Read the Answer](https://dev.to/michaelnocito/net-present-value-npv-how-to-discount-cash-flows-and-read-the-answer-2p60)
-- [Current Ratio vs Quick Ratio, and Debt to Equity](https://dev.to/michaelnocito/current-ratio-vs-quick-ratio-and-debt-to-equity-28en)
+- [AI Tools for Niche Software Development in 2026: Real Stats &amp; Tools](https://dev.to/nlocoding/ai-tools-for-niche-software-development-in-2026-real-stats-tools-358i)
+- [AI Search Traffic Is Concentrated and Volatile, Previsible’s 6.77M-Session Study Finds](https://dev.to/alifar/ai-search-traffic-is-concentrated-and-volatile-previsibles-677m-session-study-finds-4iec)
+- [AI Coding Assistants List 2026: Top Tools, Prices &amp; Guide](https://dev.to/nlocoding/ai-coding-assistants-list-2026-top-tools-prices-guide-162h)
+- [My AI audit tool was merging Claude and Cursor sessions. The bug was one UNIQUE constraint.](https://dev.to/sirinivask/my-ai-audit-tool-was-merging-claude-and-cursor-sessions-the-bug-was-one-unique-constraint-5amc)
+- [Introducing KDM-cli: Monitor Kubernetes &amp; Docker from your Terminal](https://dev.to/utkarsh232005/introducing-kdm-cli-monitor-kubernetes-docker-from-your-terminal-465n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
