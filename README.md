@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools for Niche Software Development in 2026: Real Stats &amp; Tools](https://dev.to/nlocoding/ai-tools-for-niche-software-development-in-2026-real-stats-tools-358i)
-- [AI Search Traffic Is Concentrated and Volatile, Previsible’s 6.77M-Session Study Finds](https://dev.to/alifar/ai-search-traffic-is-concentrated-and-volatile-previsibles-677m-session-study-finds-4iec)
-- [AI Coding Assistants List 2026: Top Tools, Prices &amp; Guide](https://dev.to/nlocoding/ai-coding-assistants-list-2026-top-tools-prices-guide-162h)
-- [My AI audit tool was merging Claude and Cursor sessions. The bug was one UNIQUE constraint.](https://dev.to/sirinivask/my-ai-audit-tool-was-merging-claude-and-cursor-sessions-the-bug-was-one-unique-constraint-5amc)
-- [Introducing KDM-cli: Monitor Kubernetes &amp; Docker from your Terminal](https://dev.to/utkarsh232005/introducing-kdm-cli-monitor-kubernetes-docker-from-your-terminal-465n)
+- [Your AI Agent Has an OAuth Token. Does It Have an Identity?](https://dev.to/fathin_dosunmu/your-ai-agent-has-an-oauth-token-does-it-have-an-identity-a9h)
+- [From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms](https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-57fh)
+- [Networking Foundations for Modern Edge &amp; IoT Systems](https://dev.to/josemariaosuorah/networking-foundations-for-modern-edge-iot-systems-43n9)
+- [Introducing Flame IDE 🔥: Multiple Projects, Parallel Branches, and AI Agents in One Workspace](https://dev.to/daniel_amenou/introducing-flame-ide-multiple-projects-parallel-branches-and-ai-agents-in-one-workspace-58oc)
+- [SQL for Beginners: Window Functions vs GROUP BY](https://dev.to/mysticg/sql-for-beginners-window-functions-vs-group-by-1pc2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
