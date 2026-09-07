@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Has an OAuth Token. Does It Have an Identity?](https://dev.to/fathin_dosunmu/your-ai-agent-has-an-oauth-token-does-it-have-an-identity-a9h)
-- [From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms](https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-57fh)
-- [Networking Foundations for Modern Edge &amp; IoT Systems](https://dev.to/josemariaosuorah/networking-foundations-for-modern-edge-iot-systems-43n9)
-- [Introducing Flame IDE 🔥: Multiple Projects, Parallel Branches, and AI Agents in One Workspace](https://dev.to/daniel_amenou/introducing-flame-ide-multiple-projects-parallel-branches-and-ai-agents-in-one-workspace-58oc)
-- [SQL for Beginners: Window Functions vs GROUP BY](https://dev.to/mysticg/sql-for-beginners-window-functions-vs-group-by-1pc2)
+- [Permission Withdrawal: Auditable Data Consent and Active Session Access](https://dev.to/leopoldholm3736/permission-withdrawal-auditable-data-consent-and-active-session-access-lg0)
+- [The Sneaky Coordinator Leak in UIViewRepresentable](https://dev.to/suprie_32/the-sneaky-coordinator-leak-in-uiviewrepresentable-h0p)
+- [Gemini Often Won&#39;t Search the Web — and Won&#39;t Tell You It Didn&#39;t](https://dev.to/theaidownside/gemini-often-wont-search-the-web-and-wont-tell-you-it-didnt-4nkj)
+- [I built a free image preprocessor to get better OCR results &lpar;PrepOCR&rpar;](https://dev.to/aranadedoros/i-built-a-free-image-preprocessor-to-get-better-ocr-results-prepocr-52do)
+- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
