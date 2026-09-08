@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Anne OS Kids: A Small Operating System with a Big Inspiration](https://dev.to/ulyssonfn/anne-os-kids-a-small-operating-system-with-a-big-inspiration-17hd)
-- [Build a local call-review panel with Python](https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh)
-- [After the Sprint: A 72-Hour Build Retrospective - Spoiler: It Wasn&#39;t Secure](https://dev.to/earlgreyhot1701d/after-the-sprint-a-72-hour-build-retrospective-surprise-it-wasnt-secure-4bd)
-- [Beyond the Monolithic Skill: Architecting Hierarchical Sub-Agents with Mixed Model Tiers](https://dev.to/julianbrown/beyond-the-monolithic-skill-architecting-hierarchical-sub-agents-with-mixed-model-tiers-3fl4)
-- [CI/CD Pipelines That Don’t Slow You Down &lpar;A Practical Guide&rpar;](https://dev.to/webmatrixlabnz/cicd-pipelines-that-dont-slow-you-down-a-practical-guide-1dnf)
+- [The HTTP client with no timeout that took down four services](https://dev.to/sergey_shinder_ab2d943365/the-http-client-with-no-timeout-that-took-down-four-services-3ia9)
+- [Running DynamoDB vector search locally](https://dev.to/martinhicks/running-dynamodb-vector-search-locally-203o)
+- [The &quot;Abandoned Plugin&quot; Audit: Tracking Deprecated Software Before It Gets Hacked](https://dev.to/instarenewal/the-abandoned-plugin-audit-tracking-deprecated-software-before-it-gets-hacked-369n)
+- [I Made Claude Code Prove Billing End-to-End Before I Let It Ship](https://dev.to/indierob_/i-made-claude-code-prove-billing-end-to-end-before-i-let-it-ship-2h9d)
+- [GPT-6 Astra: A Developer&#39;s First Look at OpenAI&#39;s Most Capable Model Yet](https://dev.to/shresthapandey/gpt-6-astra-a-developers-first-look-at-openais-most-capable-model-yet-2l5d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
