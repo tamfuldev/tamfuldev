@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Permission Withdrawal: Auditable Data Consent and Active Session Access](https://dev.to/leopoldholm3736/permission-withdrawal-auditable-data-consent-and-active-session-access-lg0)
-- [The Sneaky Coordinator Leak in UIViewRepresentable](https://dev.to/suprie_32/the-sneaky-coordinator-leak-in-uiviewrepresentable-h0p)
-- [Gemini Often Won&#39;t Search the Web — and Won&#39;t Tell You It Didn&#39;t](https://dev.to/theaidownside/gemini-often-wont-search-the-web-and-wont-tell-you-it-didnt-4nkj)
-- [I built a free image preprocessor to get better OCR results &lpar;PrepOCR&rpar;](https://dev.to/aranadedoros/i-built-a-free-image-preprocessor-to-get-better-ocr-results-prepocr-52do)
-- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
+- [Anne OS Kids: A Small Operating System with a Big Inspiration](https://dev.to/ulyssonfn/anne-os-kids-a-small-operating-system-with-a-big-inspiration-17hd)
+- [Build a local call-review panel with Python](https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh)
+- [After the Sprint: A 72-Hour Build Retrospective - Spoiler: It Wasn&#39;t Secure](https://dev.to/earlgreyhot1701d/after-the-sprint-a-72-hour-build-retrospective-surprise-it-wasnt-secure-4bd)
+- [Beyond the Monolithic Skill: Architecting Hierarchical Sub-Agents with Mixed Model Tiers](https://dev.to/julianbrown/beyond-the-monolithic-skill-architecting-hierarchical-sub-agents-with-mixed-model-tiers-3fl4)
+- [CI/CD Pipelines That Don’t Slow You Down &lpar;A Practical Guide&rpar;](https://dev.to/webmatrixlabnz/cicd-pipelines-that-dont-slow-you-down-a-practical-guide-1dnf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
