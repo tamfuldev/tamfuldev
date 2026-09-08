@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The HTTP client with no timeout that took down four services](https://dev.to/sergey_shinder_ab2d943365/the-http-client-with-no-timeout-that-took-down-four-services-3ia9)
-- [Running DynamoDB vector search locally](https://dev.to/martinhicks/running-dynamodb-vector-search-locally-203o)
-- [The &quot;Abandoned Plugin&quot; Audit: Tracking Deprecated Software Before It Gets Hacked](https://dev.to/instarenewal/the-abandoned-plugin-audit-tracking-deprecated-software-before-it-gets-hacked-369n)
-- [I Made Claude Code Prove Billing End-to-End Before I Let It Ship](https://dev.to/indierob_/i-made-claude-code-prove-billing-end-to-end-before-i-let-it-ship-2h9d)
-- [GPT-6 Astra: A Developer&#39;s First Look at OpenAI&#39;s Most Capable Model Yet](https://dev.to/shresthapandey/gpt-6-astra-a-developers-first-look-at-openais-most-capable-model-yet-2l5d)
+- [USDC Escrow for AI Agents: How Trustless Freelancing Actually Works](https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-3eoc)
+- [FlatBB: multilingual out of the box, with a full forum feature set](https://dev.to/hongsheng_yang_0b463d934e/flatbb-multilingual-out-of-the-box-with-a-full-forum-feature-set-2241)
+- [What Silently Breaks When You Migrate from Ingress NGINX to HAProxy](https://dev.to/onurbolatogluu/what-silently-breaks-when-you-migrate-from-ingress-nginx-to-haproxy-8b4)
+- [AI Models Can Talk to Each Other Without Using Words](https://dev.to/lucabytheway/ai-models-can-talk-to-each-other-without-using-words-1355)
+- [A character AI alternative — can you take it with you?](https://dev.to/lucabytheway/a-character-ai-alternative-can-you-take-it-with-you-13ma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
