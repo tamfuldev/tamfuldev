@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond APIs: Building a Privacy-First Drug Interaction Tool with WebGPU and WebLLM](https://dev.to/beck_moulton/beyond-apis-building-a-privacy-first-drug-interaction-tool-with-webgpu-and-webllm-28fo)
-- [Why Amazon Deprecated MOBI for Kindle and How In-Browser EPUB Conversion Works](https://dev.to/momahdideveloper/why-amazon-deprecated-mobi-for-kindle-and-how-in-browser-epub-conversion-works-30m0)
-- [How to Deploy a Web Project with Tencent EdgeOne Makers Using GitHub](https://dev.to/fleetsaltedbutter/how-to-deploy-a-web-project-with-tencent-edgeone-makers-using-github-52k0)
-- [The state axis: why agent benchmarks keep measuring amnesiac models](https://dev.to/cole_halton_42f71d71b809b/the-state-axis-why-agent-benchmarks-keep-measuring-amnesiac-models-39f4)
-- [How to Actually Evaluate an AI Code Review Tool](https://dev.to/cole_halton_42f71d71b809b/how-to-actually-evaluate-an-ai-code-review-tool-4gbo)
+- [Finding SaaS Waste Without an Agent: The Four Checks That Actually Work](https://dev.to/toolkitcreators/finding-saas-waste-without-an-agent-the-four-checks-that-actually-work-330m)
+- [Before You Grant an AI Agent Access: A Practical OAuth Scope Audit](https://dev.to/toolkitcreators/before-you-grant-an-ai-agent-access-a-practical-oauth-scope-audit-26id)
+- [Nextpage – the missing next-page button for AI chat](https://dev.to/oleg_galkin_f152e8165e9c4/nextpage-the-missing-next-page-button-for-ai-chat-7op)
+- [OpenAI’s 16-Plugin ChatGPT Collection Brings Business Tools Closer to Daily Work](https://dev.to/alifar/openais-16-plugin-chatgpt-collection-brings-business-tools-closer-to-daily-work-23oi)
+- [How to Catch and Replay Production Agent Failures: Trace-Native CI/CD in Practice](https://dev.to/priyeshdave6/how-to-catch-and-replay-production-agent-failures-trace-native-cicd-in-practice-335k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
