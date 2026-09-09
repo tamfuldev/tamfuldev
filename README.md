@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We Wrote a JSON Parser from Scratch in 72 Hours to Prove We Still Could](https://dev.to/devanshkant/we-wrote-a-json-parser-from-scratch-in-72-hours-to-prove-we-still-could-29on)
-- [I Hid a Rule in CLAUDE.md. Only One Reviewer Could Prove It Read It.](https://dev.to/dannwaneri/i-hid-a-rule-in-claudemd-only-one-reviewer-could-prove-it-read-it-4ik9)
-- [FAQ: Five Myths That Confuse the Model With the Box](https://dev.to/gitlab_3188/faq-five-myths-that-confuse-the-model-with-the-box-3b0m)
-- [From &quot;twenty minutes per caption&quot; to a real launch: the CAPTD story so far](https://dev.to/captd/from-twenty-minutes-per-caption-to-a-real-launch-the-captd-story-so-far-mm1)
-- [The Modular Monolith: The Java Architecture Most Teams Should Be Using](https://dev.to/avaneeshyadav/the-modular-monolith-the-java-architecture-most-teams-should-be-using-4hid)
+- [The Grilling Pattern: Clarify Requirements Before They Become Code](https://dev.to/cherware/the-grilling-pattern-clarify-requirements-before-they-become-code-3e4e)
+- [WireGuard Mesh VPN: Vollvermaschung einfach automatisieren](https://dev.to/uhltak/wireguard-mesh-vpn-vollvermaschung-einfach-automatisieren-4a69)
+- [Moving Off OpenAI: What an Open-Weight Switch Costs](https://dev.to/mecanik-dev/moving-off-openai-what-an-open-weight-switch-costs-1329)
+- [Building a Carrom Game in Unity: Physics, Turn Logic &amp; Mobile Optimization](https://dev.to/unitysourcecode/building-a-carrom-game-in-unity-physics-turn-logic-mobile-optimization-47dm)
+- [How I Would Design an n8n AI System That Can Recover From Its Own Failures](https://dev.to/hosseinhezami/how-i-would-design-an-n8n-ai-system-that-can-recover-from-its-own-failures-2b3g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
