@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Grilling Pattern: Clarify Requirements Before They Become Code](https://dev.to/cherware/the-grilling-pattern-clarify-requirements-before-they-become-code-3e4e)
-- [WireGuard Mesh VPN: Vollvermaschung einfach automatisieren](https://dev.to/uhltak/wireguard-mesh-vpn-vollvermaschung-einfach-automatisieren-4a69)
-- [Moving Off OpenAI: What an Open-Weight Switch Costs](https://dev.to/mecanik-dev/moving-off-openai-what-an-open-weight-switch-costs-1329)
-- [Building a Carrom Game in Unity: Physics, Turn Logic &amp; Mobile Optimization](https://dev.to/unitysourcecode/building-a-carrom-game-in-unity-physics-turn-logic-mobile-optimization-47dm)
-- [How I Would Design an n8n AI System That Can Recover From Its Own Failures](https://dev.to/hosseinhezami/how-i-would-design-an-n8n-ai-system-that-can-recover-from-its-own-failures-2b3g)
+- [iPhone Duo for iOS Developers: What Actually Changes in Your Swift Code](https://dev.to/arshtechpro/iphone-duo-for-ios-developers-what-actually-changes-in-your-swift-code-5gc5)
+- [nginx silently rejects the new HTTP QUERY method](https://dev.to/alexgeorgiev17/nginxs-limitexcept-block-silently-rejects-the-new-http-query-method-1gcg)
+- [The Card](https://dev.to/davidevlops/the-card-a20)
+- [Building Presibo: The Technology Behind Continuous Healthcare](https://dev.to/jerrynwobodo/building-presibo-the-technology-behind-continuous-healthcare-n22)
+- [ChatGPT Reaches 900 Million Weekly Users as OpenAI Expands AI at Global Scale](https://dev.to/alifar/chatgpt-reaches-900-million-weekly-users-as-openai-expands-ai-at-global-scale-3m2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
