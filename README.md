@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Finding SaaS Waste Without an Agent: The Four Checks That Actually Work](https://dev.to/toolkitcreators/finding-saas-waste-without-an-agent-the-four-checks-that-actually-work-330m)
-- [Before You Grant an AI Agent Access: A Practical OAuth Scope Audit](https://dev.to/toolkitcreators/before-you-grant-an-ai-agent-access-a-practical-oauth-scope-audit-26id)
-- [Nextpage – the missing next-page button for AI chat](https://dev.to/oleg_galkin_f152e8165e9c4/nextpage-the-missing-next-page-button-for-ai-chat-7op)
-- [OpenAI’s 16-Plugin ChatGPT Collection Brings Business Tools Closer to Daily Work](https://dev.to/alifar/openais-16-plugin-chatgpt-collection-brings-business-tools-closer-to-daily-work-23oi)
-- [How to Catch and Replay Production Agent Failures: Trace-Native CI/CD in Practice](https://dev.to/priyeshdave6/how-to-catch-and-replay-production-agent-failures-trace-native-cicd-in-practice-335k)
+- [One diagram for enterprise AI adoption: five stages from identity to governance](https://dev.to/williamchiu/one-diagram-for-enterprise-ai-adoption-five-stages-from-identity-to-governance-17k1)
+- [You probably don&#39;t need git filter-branch OR git-filter-repo](https://dev.to/zaphoddev/you-probably-dont-need-git-filter-branch-or-git-filter-repo-1pi4)
+- [Supercharging Microsoft Copilot: Building an IDE-Grade Productivity Layer](https://dev.to/version89_30326e48/supercharging-microsoft-copilot-building-an-ide-grade-productivity-layer-14op)
+- [Build an AI Agent Error Triage Pipeline with n8n, Gemini &amp; Slack](https://dev.to/mateo_ruiz_6992b1fce47843/build-an-ai-agent-error-triage-pipeline-with-n8n-gemini-slack-3kh5)
+- [Building a Vector Search Engine from Scratch with HNSW in Python](https://dev.to/ayinedjimi-consultants/building-a-vector-search-engine-from-scratch-with-hnsw-in-python-18hj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
