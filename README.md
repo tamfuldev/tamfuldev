@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [One diagram for enterprise AI adoption: five stages from identity to governance](https://dev.to/williamchiu/one-diagram-for-enterprise-ai-adoption-five-stages-from-identity-to-governance-17k1)
-- [You probably don&#39;t need git filter-branch OR git-filter-repo](https://dev.to/zaphoddev/you-probably-dont-need-git-filter-branch-or-git-filter-repo-1pi4)
-- [Supercharging Microsoft Copilot: Building an IDE-Grade Productivity Layer](https://dev.to/version89_30326e48/supercharging-microsoft-copilot-building-an-ide-grade-productivity-layer-14op)
-- [Build an AI Agent Error Triage Pipeline with n8n, Gemini &amp; Slack](https://dev.to/mateo_ruiz_6992b1fce47843/build-an-ai-agent-error-triage-pipeline-with-n8n-gemini-slack-3kh5)
-- [Building a Vector Search Engine from Scratch with HNSW in Python](https://dev.to/ayinedjimi-consultants/building-a-vector-search-engine-from-scratch-with-hnsw-in-python-18hj)
+- [We Wrote a JSON Parser from Scratch in 72 Hours to Prove We Still Could](https://dev.to/devanshkant/we-wrote-a-json-parser-from-scratch-in-72-hours-to-prove-we-still-could-29on)
+- [I Hid a Rule in CLAUDE.md. Only One Reviewer Could Prove It Read It.](https://dev.to/dannwaneri/i-hid-a-rule-in-claudemd-only-one-reviewer-could-prove-it-read-it-4ik9)
+- [FAQ: Five Myths That Confuse the Model With the Box](https://dev.to/gitlab_3188/faq-five-myths-that-confuse-the-model-with-the-box-3b0m)
+- [From &quot;twenty minutes per caption&quot; to a real launch: the CAPTD story so far](https://dev.to/captd/from-twenty-minutes-per-caption-to-a-real-launch-the-captd-story-so-far-mm1)
+- [The Modular Monolith: The Java Architecture Most Teams Should Be Using](https://dev.to/avaneeshyadav/the-modular-monolith-the-java-architecture-most-teams-should-be-using-4hid)
 <!-- BLOG-POST-LIST:END -->
 
 ---
