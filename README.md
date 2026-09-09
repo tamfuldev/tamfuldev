@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone Duo for iOS Developers: What Actually Changes in Your Swift Code](https://dev.to/arshtechpro/iphone-duo-for-ios-developers-what-actually-changes-in-your-swift-code-5gc5)
-- [nginx silently rejects the new HTTP QUERY method](https://dev.to/alexgeorgiev17/nginxs-limitexcept-block-silently-rejects-the-new-http-query-method-1gcg)
-- [The Card](https://dev.to/davidevlops/the-card-a20)
-- [Building Presibo: The Technology Behind Continuous Healthcare](https://dev.to/jerrynwobodo/building-presibo-the-technology-behind-continuous-healthcare-n22)
-- [ChatGPT Reaches 900 Million Weekly Users as OpenAI Expands AI at Global Scale](https://dev.to/alifar/chatgpt-reaches-900-million-weekly-users-as-openai-expands-ai-at-global-scale-3m2)
+- [Signup Abuse Defense: When CAPTCHA Gates Creation and Risk Signals Catch Up](https://dev.to/ingramcole6479/signup-abuse-defense-when-captcha-gates-creation-and-risk-signals-catch-up-2a9j)
+- [Your Git History Is a Story. I Wrote the Algorithm That Finds It.](https://dev.to/ahmad_rrrtx/your-git-history-is-a-story-i-wrote-the-algorithm-that-finds-it-1734)
+- [Google Logged Six Search Ranking Updates in 2026: What Website Owners Should Watch](https://dev.to/alifar/google-logged-six-search-ranking-updates-in-2026-what-website-owners-should-watch-5jj)
+- [Address the row, not the line: when the checker is the first reader in disguise](https://dev.to/pm25coder/address-the-row-not-the-line-when-the-checker-is-the-first-reader-in-disguise-4c4m)
+- [‘It Answers in Poetry Now’: A Week of Users Saying Their AI Got Wordier and Worse](https://dev.to/theaidownside/it-answers-in-poetry-now-a-week-of-users-saying-their-ai-got-wordier-and-worse-3aol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
