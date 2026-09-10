@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Server: How It Differs from a VPS and When to Choose the Cloud](https://dev.to/aeza__net/cloud-server-how-it-differs-from-a-vps-and-when-to-choose-the-cloud-4i5l)
-- [MyZubster’s Next Step: Institutional AI Dialogue, Real Blockchain Evidence and Circular Pilots](https://dev.to/danielioni/myzubsters-next-step-institutional-ai-dialogue-real-blockchain-evidence-and-circular-pilots-2hfj)
-- [Building a Radio Player with Ruby &amp; WebForms Core](https://dev.to/elanatframework/building-a-radio-player-with-ruby-webforms-core-54eh)
-- [DDL &amp; DML: The Two Halves of SQL](https://dev.to/fidel_okumu/ddl-dml-the-two-halves-of-sql-571h)
-- [My number-to-words converter was lying about big numbers. Here&#39;s the fix &lpar;36 digits, no floats&rpar;](https://dev.to/farcrak/my-number-to-words-converter-was-lying-about-big-numbers-heres-the-fix-36-digits-no-floats-42io)
+- [HNSW ef_search: Why Your Vector Search Misses the Right Chunk](https://dev.to/ji_ai/hnsw-efsearch-why-your-vector-search-misses-the-right-chunk-19a4)
+- [Building Process Mind: A Deterministic Operating System Algorithm Simulator](https://dev.to/jitheshpoojari/building-process-mind-a-deterministic-operating-system-algorithm-simulator-4dbi)
+- [How Do Tokenized Stocks Actually Work? A Breakdown of On-Chain Equity Exposure](https://dev.to/zayd_ahmed/how-do-tokenized-stocks-actually-work-a-breakdown-of-on-chain-equity-exposure-1624)
+- [Vicidial amd.conf Settings: the Values That Matter in Production](https://dev.to/amdy/vicidial-amdconf-settings-the-values-that-matter-in-production-529p)
+- [The Internship That Taught Me to Read Between the Lines of a Job Offer](https://dev.to/dj29/the-internship-that-taught-me-to-read-between-the-lines-of-a-job-offer-50ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
