@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bitemporal CIEDE2000 Calibration: Event-Sourced PostgreSQL Queues and Low-Latency SSE Telemetry for Shadow’s 24fps Multimodal Synthesis Core](https://dev.to/biffer_rowley_4cdbf203087/bitemporal-ciede2000-calibration-event-sourced-postgresql-queues-and-low-latency-sse-telemetry-for-50fk)
-- [Generalizing Transactions in NestJS: A Domain Port over TypeORM and MongoDB](https://dev.to/josec_gc/generalizing-transactions-in-nestjs-a-domain-port-over-typeorm-and-mongodb-4gmj)
-- [Multi-stage Docker builds: ship the artifact, not the build shop](https://dev.to/amitshuklabag/multi-stage-docker-builds-ship-the-artifact-not-the-build-shop-3o6l)
-- [text-box-trim is the best CSS feature in years and nobody&#39;s using it yet](https://dev.to/adioof/text-box-trim-is-the-best-css-feature-in-years-and-nobodys-using-it-yet-5c8m)
-- [I tested DeepSeek Harness for a week. I left with a shipped plugin and $0 in API costs](https://dev.to/vitas/i-tested-deepseek-harness-for-a-week-i-left-with-a-shipped-plugin-and-0-in-api-costs-3d8j)
+- [Connecting Power BI to SQL Databases.](https://dev.to/elizabeth_njoroge_7c850b9/-connecting-power-bi-to-sql-databases-3k7l)
+- [Beyond LLMs: How World Models Are Changing Generative Media](https://dev.to/blackgirlbytes/beyond-llms-how-world-models-are-changing-generative-media-1f4)
+- [SMS vs Email OTP Template Ownership for US/EU SaaS Login](https://dev.to/ethanbrooks1647/sms-vs-email-otp-template-ownership-for-useu-saas-login-4beh)
+- [Activity Monitor For Your AI Agents - Corral](https://dev.to/hkulekci/activity-monitor-for-your-ai-agents-corral-23jg)
+- [Social cards in pure Rust: no headless Chrome](https://dev.to/jorelfermin/social-cards-in-pure-rust-no-headless-chrome-2ok2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
