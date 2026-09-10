@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HNSW ef_search: Why Your Vector Search Misses the Right Chunk](https://dev.to/ji_ai/hnsw-efsearch-why-your-vector-search-misses-the-right-chunk-19a4)
-- [Building Process Mind: A Deterministic Operating System Algorithm Simulator](https://dev.to/jitheshpoojari/building-process-mind-a-deterministic-operating-system-algorithm-simulator-4dbi)
-- [How Do Tokenized Stocks Actually Work? A Breakdown of On-Chain Equity Exposure](https://dev.to/zayd_ahmed/how-do-tokenized-stocks-actually-work-a-breakdown-of-on-chain-equity-exposure-1624)
-- [Vicidial amd.conf Settings: the Values That Matter in Production](https://dev.to/amdy/vicidial-amdconf-settings-the-values-that-matter-in-production-529p)
-- [The Internship That Taught Me to Read Between the Lines of a Job Offer](https://dev.to/dj29/the-internship-that-taught-me-to-read-between-the-lines-of-a-job-offer-50ef)
+- [Bitemporal CIEDE2000 Calibration: Event-Sourced PostgreSQL Queues and Low-Latency SSE Telemetry for Shadow’s 24fps Multimodal Synthesis Core](https://dev.to/biffer_rowley_4cdbf203087/bitemporal-ciede2000-calibration-event-sourced-postgresql-queues-and-low-latency-sse-telemetry-for-50fk)
+- [Generalizing Transactions in NestJS: A Domain Port over TypeORM and MongoDB](https://dev.to/josec_gc/generalizing-transactions-in-nestjs-a-domain-port-over-typeorm-and-mongodb-4gmj)
+- [Multi-stage Docker builds: ship the artifact, not the build shop](https://dev.to/amitshuklabag/multi-stage-docker-builds-ship-the-artifact-not-the-build-shop-3o6l)
+- [text-box-trim is the best CSS feature in years and nobody&#39;s using it yet](https://dev.to/adioof/text-box-trim-is-the-best-css-feature-in-years-and-nobodys-using-it-yet-5c8m)
+- [I tested DeepSeek Harness for a week. I left with a shipped plugin and $0 in API costs](https://dev.to/vitas/i-tested-deepseek-harness-for-a-week-i-left-with-a-shipped-plugin-and-0-in-api-costs-3d8j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
