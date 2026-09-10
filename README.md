@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI scaled my work. But not my brain.](https://dev.to/nikita_mkrv/ai-scaled-my-work-but-not-my-brain-6hd)
-- [AI Is Already Better at Coding Than Most Software Developers](https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno)
-- [Your HTML Is an API Surface: 7 Patterns That Make Web Apps Easier to Automate](https://dev.to/jim_smith_2acac60d656d462/your-html-is-an-api-surface-7-patterns-that-make-web-apps-easier-to-automate-11p2)
-- [What Happens When an AI Agent Runs Longer Than Your HTTP Request?](https://dev.to/hosseinhezami/what-happens-when-an-ai-agent-runs-longer-than-your-http-request-288o)
-- [Vue 3 SaaS starter kits in 2026: Nuxt kits, Vue on another backend, and one Go binary](https://dev.to/benjy33000/vue-3-saas-starter-kits-in-2026-nuxt-kits-vue-on-another-backend-and-one-go-binary-1h26)
+- [Cloud Server: How It Differs from a VPS and When to Choose the Cloud](https://dev.to/aeza__net/cloud-server-how-it-differs-from-a-vps-and-when-to-choose-the-cloud-4i5l)
+- [MyZubster’s Next Step: Institutional AI Dialogue, Real Blockchain Evidence and Circular Pilots](https://dev.to/danielioni/myzubsters-next-step-institutional-ai-dialogue-real-blockchain-evidence-and-circular-pilots-2hfj)
+- [Building a Radio Player with Ruby &amp; WebForms Core](https://dev.to/elanatframework/building-a-radio-player-with-ruby-webforms-core-54eh)
+- [DDL &amp; DML: The Two Halves of SQL](https://dev.to/fidel_okumu/ddl-dml-the-two-halves-of-sql-571h)
+- [My number-to-words converter was lying about big numbers. Here&#39;s the fix &lpar;36 digits, no floats&rpar;](https://dev.to/farcrak/my-number-to-words-converter-was-lying-about-big-numbers-heres-the-fix-36-digits-no-floats-42io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
