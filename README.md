@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Someone Spammed My DEV Post. I Traced It to a Wombat.](https://dev.to/copyleftdev/someone-spammed-my-dev-post-i-traced-it-to-a-wombat-176a)
-- [My Journey Into Learning About ML and Implementing a MLP From Scratch](https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37)
-- [I Put a Setting in My Project Config and It Did Nothing](https://dev.to/quintetkit/i-put-a-setting-in-my-project-config-and-it-did-nothing-2id2)
-- [When Managing AI Conversations Becomes More Work Than Using AI](https://dev.to/_7c87328014db81bcfa2c8/when-managing-ai-conversations-becomes-more-work-than-using-ai-3meg)
-- [I Shipped a Fix That Fixed Nothing. Here&#39;s Why I Kept It.](https://dev.to/debashish_ghosal/i-shipped-a-fix-that-fixed-nothing-heres-why-i-kept-it-2f73)
+- [AI scaled my work. But not my brain.](https://dev.to/nikita_mkrv/ai-scaled-my-work-but-not-my-brain-6hd)
+- [AI Is Already Better at Coding Than Most Software Developers](https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno)
+- [Your HTML Is an API Surface: 7 Patterns That Make Web Apps Easier to Automate](https://dev.to/jim_smith_2acac60d656d462/your-html-is-an-api-surface-7-patterns-that-make-web-apps-easier-to-automate-11p2)
+- [What Happens When an AI Agent Runs Longer Than Your HTTP Request?](https://dev.to/hosseinhezami/what-happens-when-an-ai-agent-runs-longer-than-your-http-request-288o)
+- [Vue 3 SaaS starter kits in 2026: Nuxt kits, Vue on another backend, and one Go binary](https://dev.to/benjy33000/vue-3-saas-starter-kits-in-2026-nuxt-kits-vue-on-another-backend-and-one-go-binary-1h26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
