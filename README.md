@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Signup Abuse Defense: When CAPTCHA Gates Creation and Risk Signals Catch Up](https://dev.to/ingramcole6479/signup-abuse-defense-when-captcha-gates-creation-and-risk-signals-catch-up-2a9j)
-- [Your Git History Is a Story. I Wrote the Algorithm That Finds It.](https://dev.to/ahmad_rrrtx/your-git-history-is-a-story-i-wrote-the-algorithm-that-finds-it-1734)
-- [Google Logged Six Search Ranking Updates in 2026: What Website Owners Should Watch](https://dev.to/alifar/google-logged-six-search-ranking-updates-in-2026-what-website-owners-should-watch-5jj)
-- [Address the row, not the line: when the checker is the first reader in disguise](https://dev.to/pm25coder/address-the-row-not-the-line-when-the-checker-is-the-first-reader-in-disguise-4c4m)
-- [‘It Answers in Poetry Now’: A Week of Users Saying Their AI Got Wordier and Worse](https://dev.to/theaidownside/it-answers-in-poetry-now-a-week-of-users-saying-their-ai-got-wordier-and-worse-3aol)
+- [Someone Spammed My DEV Post. I Traced It to a Wombat.](https://dev.to/copyleftdev/someone-spammed-my-dev-post-i-traced-it-to-a-wombat-176a)
+- [My Journey Into Learning About ML and Implementing a MLP From Scratch](https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37)
+- [I Put a Setting in My Project Config and It Did Nothing](https://dev.to/quintetkit/i-put-a-setting-in-my-project-config-and-it-did-nothing-2id2)
+- [When Managing AI Conversations Becomes More Work Than Using AI](https://dev.to/_7c87328014db81bcfa2c8/when-managing-ai-conversations-becomes-more-work-than-using-ai-3meg)
+- [I Shipped a Fix That Fixed Nothing. Here&#39;s Why I Kept It.](https://dev.to/debashish_ghosal/i-shipped-a-fix-that-fixed-nothing-heres-why-i-kept-it-2f73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
