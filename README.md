@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Future Friday: The AI Panic of 2030 — Why We’re Still the Drivers](https://dev.to/javaskr/future-friday-the-ai-panic-of-2030-why-were-still-the-drivers-2mhd)
-- [AZURE HIERARCHY &amp; MICROSOFT EXTRA ID](https://dev.to/oladipo_ogunleye_4277b289/azure-hierarchy-microsoft-extra-id-3pap)
-- [Got roasted by senior engineers for my framework&#39;s security, so I completely rebuilt the core engine](https://dev.to/yass1n/got-roasted-by-senior-engineers-for-my-frameworks-security-so-i-completely-rebuilt-the-core-engine-166b)
-- [Designing a Telemetry Pipeline for CIDS: Turning Raw Activity Into Security Signals](https://dev.to/cybermoranda/designing-a-telemetry-pipeline-for-cids-turning-raw-activity-into-security-signals-119d)
-- [Freeze the Error Contract Before One except Change](https://dev.to/hackrs_6393/freeze-the-error-contract-before-one-except-change-4b8b)
+- [Building a Pi-hole Home Lab From an Old PC : Why](https://dev.to/ghchattaouibit/building-a-pi-hole-home-lab-from-an-old-pc-why-29h2)
+- [Great News for the Rust Community: A New Server-Driven UI Technology in Rust](https://dev.to/elanatframework/great-news-for-the-rust-community-a-new-server-driven-ui-technology-in-rust-4eo8)
+- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
+- [I Spent 3 Months Testing Every AI Automation Framework](https://dev.to/gabriel_omarbergmann_786/i-spent-3-months-testing-every-ai-automation-framework-ep7)
+- [AICOM is the factory. AIMarket is the economy it ships into.](https://dev.to/alexar76/aicom-is-the-factory-aimarket-is-the-economy-it-ships-into-1fgf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
