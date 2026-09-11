@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey: From Zero to Frontend Developer](https://dev.to/salmantahir/my-journey-from-zero-to-frontend-developer-2hch)
-- [The PAOVR Loop: The Real Agent Loop That Actually Finishes Jobs](https://dev.to/edo911/the-paovr-loop-the-real-agent-loop-that-actually-finishes-jobs-1j7k)
-- [Hybrid Cloud Networking: Challenges, Architecture &amp; Best Practices](https://dev.to/ronak_sharma_913570f6e215/hybrid-cloud-networking-challenges-architecture-best-practices-2mbd)
-- [100 LLM Agents Running a Town Economy for 26 Weeks: What Breaks When Agents Set Prices and Earn Wages](https://dev.to/mech_app_ai/100-llm-agents-running-a-town-economy-for-26-weeks-what-breaks-when-agents-set-prices-and-earn-590k)
-- [Cursor Plugins: What a Plugin Manifest Reveals About Agent Tool Boundaries and Orchestration](https://dev.to/mech_app_ai/cursor-plugins-what-a-plugin-manifest-reveals-about-agent-tool-boundaries-and-orchestration-4bbm)
+- [KiwisIoT: An Indian IoT Platform Built for Students, Makers &amp; Engineering Colleges](https://dev.to/sudharsan_a_0dc117452980f/kiwisiot-an-indian-iot-platform-built-for-students-makers-engineering-colleges-4316)
+- [From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms](https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-3gga)
+- [How I Built an Autonomous AI Agent That Earns USDC While I Sleep](https://dev.to/nikhilranka23/how-i-built-an-autonomous-ai-agent-that-earns-usdc-while-i-sleep-5925)
+- [I built a browser-based multiplayer fantasy game with realtime chat, AI parties, tank duels, tower-smashing monsters, and island strategy](https://dev.to/michael_yang_a9925b515901/i-built-a-browser-based-multiplayer-fantasy-game-with-realtime-chat-ai-parties-tank-duels-2j93)
+- [How I Run 4 Claude Code Agents in Parallel on One Repo Without Chaos](https://dev.to/yureki_lab/how-i-run-4-claude-code-agents-in-parallel-on-one-repo-without-chaos-5ejc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
