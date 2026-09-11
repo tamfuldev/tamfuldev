@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Pi-hole Home Lab From an Old PC : Why](https://dev.to/ghchattaouibit/building-a-pi-hole-home-lab-from-an-old-pc-why-29h2)
-- [Great News for the Rust Community: A New Server-Driven UI Technology in Rust](https://dev.to/elanatframework/great-news-for-the-rust-community-a-new-server-driven-ui-technology-in-rust-4eo8)
-- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
-- [I Spent 3 Months Testing Every AI Automation Framework](https://dev.to/gabriel_omarbergmann_786/i-spent-3-months-testing-every-ai-automation-framework-ep7)
-- [AICOM is the factory. AIMarket is the economy it ships into.](https://dev.to/alexar76/aicom-is-the-factory-aimarket-is-the-economy-it-ships-into-1fgf)
+- [🏗️ Backend for Frontend &lpar;BFF&rpar; – o padrão que salvou meus microsserviços &lpar;e minha sanidade&rpar;](https://dev.to/fabiothomazrocha/backend-for-frontend-bff-o-padrao-que-salvou-meus-microsservicos-e-minha-sanidade-555p)
+- [Docker Bake in Practice — Part 1: From Bash Scripts to Declarative Builds](https://dev.to/gde/docker-bake-in-practice-part-1-from-bash-scripts-to-declarative-builds-3pak)
+- [GPT-5.6 Sol Runs Quantum Chip Calibration at MIT Through Codex](https://dev.to/alifar/gpt-56-sol-runs-quantum-chip-calibration-at-mit-through-codex-4e0e)
+- [From 9 Seconds of Voice AI Latency to 1.5 Seconds: Building an In-House Voice AI System](https://dev.to/mehar_aziz/from-9-seconds-of-voice-ai-latency-to-15-seconds-building-an-in-house-voice-ai-system-bal)
+- [Claude CRO Audit Workflow: Faster Data Triage With Human Evidence Validation](https://dev.to/alifar/claude-cro-audit-workflow-faster-data-triage-with-human-evidence-validation-3jfk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
