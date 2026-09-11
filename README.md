@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Jira client for VS Code that stays signed in &lpar;free tier, $19 one-time for Pro&rpar;](https://dev.to/gearyworks/i-built-a-jira-client-for-vs-code-that-stays-signed-in-free-tier-19-one-time-for-pro-5f5l)
-- [What are PyInstaller &quot;hidden imports&quot; — and why do only dynamic imports break?](https://dev.to/susumun/what-are-pyinstaller-hidden-imports-and-why-do-only-dynamic-imports-break-gid)
-- [Freeze returncode, Streams, and TimeoutExpired Before One Wrapper Extract](https://dev.to/hackrs_6393/freeze-returncode-streams-and-timeoutexpired-before-one-wrapper-extract-36a1)
-- [How a Single CLAUDE.md File Went Viral And What It Quietly Teaches Every Branding Agency in California About AI Discipline](https://dev.to/mollie_nelsonwompusstom/how-a-single-claudemd-file-went-viral-and-what-it-quietly-teaches-every-branding-agency-in-45pk)
-- [2026 SEO Survey: Search Intent Leads, but Relevant Backlinks Still Matter](https://dev.to/alifar/2026-seo-survey-search-intent-leads-but-relevant-backlinks-still-matter-2ok5)
+- [Can Qwen 3.8 running on your laptop really replace Claude Opus for Agentic coding?](https://dev.to/deepu105/can-qwen-38-running-on-your-laptop-really-replace-claude-opus-for-agentic-coding-51gk)
+- [How to add country icons to a Vue 3 app](https://dev.to/rushan123/how-to-add-country-icons-to-a-vue-3-app-13db)
+- [I Asked My AI Assistant to Automate Our Dev Marketing. Here Are the Mistakes It Made.](https://dev.to/w8explorer/i-asked-my-ai-assistant-to-automate-our-dev-marketing-here-are-the-mistakes-it-made-347k)
+- [I made my Apify Actor an AI agent tool, then read every byte it sent back](https://dev.to/nikita_iakovlev_415524c19/i-made-my-apify-actor-an-ai-agent-tool-then-read-every-byte-it-sent-back-1nbj)
+- [47GB of Compressed Memory and No Permission to Kill It: Handing a Monitoring Script Exactly One Root Command](https://dev.to/bokuwalily/47gb-of-compressed-memory-and-no-permission-to-kill-it-handing-a-monitoring-script-exactly-one-2hkg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
