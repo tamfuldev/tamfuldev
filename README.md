@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4)
-- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)
-- [An Attacker&#39;s Multi-Agent Framework Stole Thousands of Credentials in Under Six Hours](https://dev.to/aditya_soni_e5b9d5213e544/an-attackers-multi-agent-framework-stole-thousands-of-credentials-in-under-six-hours-4kgh)
-- [I tested my sandbox against Deno and plain Python on 63 AI-written scripts](https://dev.to/gowrishankar-dev/i-tested-my-sandbox-against-deno-and-plain-python-on-63-ai-written-scripts-1llp)
-- [🚀 Getting Back Into Building Mode](https://dev.to/chand_chandini/getting-back-into-building-mode-4p5g)
+- [Why Image Flipping Doesn&#39;t Need a Server](https://dev.to/luguanhuang/why-image-flipping-doesnt-need-a-server-22g2)
+- [Why Round-Robin Load Balancing Breaks WebSockets at Scale](https://dev.to/nainikmehta/why-round-robin-load-balancing-breaks-websockets-at-scale-2g71)
+- [Beyond the Outage: Lessons from the GitHub Actions Incident for Your Software Planning Process](https://dev.to/devactivity/beyond-the-outage-lessons-from-the-github-actions-incident-for-your-software-planning-process-38ji)
+- [GitHub Billing Incident: A Wake-Up Call for Software Engineering Productivity](https://dev.to/devactivity/github-billing-incident-a-wake-up-call-for-software-engineering-productivity-423)
+- [Dijkstra, Knuth, Kernighan: 10 Quotes That Predicted the AI Coding Debate](https://dev.to/kenimo49/dijkstra-knuth-kernighan-10-quotes-that-predicted-the-ai-coding-debate-2mpb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
