@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [zvec-grep &lpar;zg&rpar;: A Local-First Hybrid Search Engine for Humans and AI Agents](https://dev.to/terminalchai/zvec-grep-zg-a-local-first-hybrid-search-engine-for-humans-and-ai-agents-2dkf)
-- [Show DEV: Boniatillo - La red social cubana que permite monetizar tu contenido &lpar;construida en PHP&rpar;](https://dev.to/frankcollado/show-dev-boniatillo-la-red-social-cubana-que-paga-por-publicar-construida-en-php-56f7)
-- [PicoCTF Easy1 Writeup — Recover an XOR Key with Crib Dragging](https://dev.to/ctfdojo/picoctf-easy1-writeup-recover-an-xor-key-with-crib-dragging-3p8o)
-- [I Finally Built My Developer Portfolio](https://dev.to/faridteymouri/i-finally-built-my-developer-portfolio-5g5f)
-- [RAG Without Vectors? Meet Vectorless RAG](https://dev.to/rijultp/rag-without-vectors-meet-vectorless-rag-4ikb)
+- [Milestone Reached: YINI Syntax Highlighting Is Now on the VS Code Marketplace](https://dev.to/marko_kseppnen_6250a7f/milestone-reached-yini-syntax-highlighting-is-now-on-the-vs-code-marketplace-18mb)
+- [Building a Freelance Rate Calculator for Mexico with Plain HTML and JavaScript](https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4)
+- [I built a chat where every word costs money — on TON, solo, no legal entity](https://dev.to/__e3096294/i-built-a-chat-where-every-word-costs-money-on-ton-solo-no-legal-entity-1f3f)
+- [‘I Just Feel Ripped Off’: A Week of Users Asking What They Pay For](https://dev.to/theaidownside/i-just-feel-ripped-off-a-week-of-users-asking-what-they-pay-for-5em6)
+- [I built an hourly newspaper for e-ink &lpar;and turned the pipeline into an MCP server&rpar;](https://dev.to/jshelley/i-built-an-hourly-newspaper-for-e-ink-and-turned-the-pipeline-into-an-mcp-server-1ebg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
