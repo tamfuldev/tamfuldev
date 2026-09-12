@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What if you could send your AI agent to school?](https://dev.to/mackein/what-if-you-could-send-your-ai-agent-to-school-16k7)
-- [How to Build RAG Chatbot with Pinecone - A Full-Stack Walkthrough](https://dev.to/samchenreviews/how-to-build-rag-chatbot-with-pinecone-a-full-stack-walkthrough-emb)
-- [Build a rag legal research assistant that drafts briefs in under 10 minutes](https://dev.to/samchenreviews/build-a-rag-legal-research-assistant-that-drafts-briefs-in-under-10-minutes-1ja4)
-- [How I built a CIAM triage agent that catches the failures that Auth0 logs as success](https://dev.to/ayushi_agarwal_9996/how-i-built-a-ciam-triage-agent-that-catches-the-failures-that-auth0-logs-as-success-1ipg)
-- [Google Custom Search Shuts Down in 2027 — I Replaced It with Amazon Bedrock AgentCore Web Search](https://dev.to/aws-builders/google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj)
+- [Hold Shared Sandbox Work Behind a Promotion Lane](https://dev.to/techlab_7968/hold-shared-sandbox-work-behind-a-promotion-lane-21m2)
+- [Ship fewer JS threads — a React Native interaction budget](https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n)
+- [Day 0 of a Linux Challenge and the Prompt I Almost Got Wrong](https://dev.to/jas_dev/day-0-of-a-linux-challenge-and-the-prompt-i-almost-got-wrong-2m36)
+- [BeeEngine JS](https://dev.to/antonioprosperi2svg/beeengine-js-l2)
+- [Having Fun with claude tokens.](https://dev.to/pyjamagirl/having-fun-with-claude-tokens-570i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
