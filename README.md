@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Image Flipping Doesn&#39;t Need a Server](https://dev.to/luguanhuang/why-image-flipping-doesnt-need-a-server-22g2)
-- [Why Round-Robin Load Balancing Breaks WebSockets at Scale](https://dev.to/nainikmehta/why-round-robin-load-balancing-breaks-websockets-at-scale-2g71)
-- [Beyond the Outage: Lessons from the GitHub Actions Incident for Your Software Planning Process](https://dev.to/devactivity/beyond-the-outage-lessons-from-the-github-actions-incident-for-your-software-planning-process-38ji)
-- [GitHub Billing Incident: A Wake-Up Call for Software Engineering Productivity](https://dev.to/devactivity/github-billing-incident-a-wake-up-call-for-software-engineering-productivity-423)
-- [Dijkstra, Knuth, Kernighan: 10 Quotes That Predicted the AI Coding Debate](https://dev.to/kenimo49/dijkstra-knuth-kernighan-10-quotes-that-predicted-the-ai-coding-debate-2mpb)
+- [What if you could send your AI agent to school?](https://dev.to/mackein/what-if-you-could-send-your-ai-agent-to-school-16k7)
+- [How to Build RAG Chatbot with Pinecone - A Full-Stack Walkthrough](https://dev.to/samchenreviews/how-to-build-rag-chatbot-with-pinecone-a-full-stack-walkthrough-emb)
+- [Build a rag legal research assistant that drafts briefs in under 10 minutes](https://dev.to/samchenreviews/build-a-rag-legal-research-assistant-that-drafts-briefs-in-under-10-minutes-1ja4)
+- [How I built a CIAM triage agent that catches the failures that Auth0 logs as success](https://dev.to/ayushi_agarwal_9996/how-i-built-a-ciam-triage-agent-that-catches-the-failures-that-auth0-logs-as-success-1ipg)
+- [Google Custom Search Shuts Down in 2027 — I Replaced It with Amazon Bedrock AgentCore Web Search](https://dev.to/aws-builders/google-custom-search-shuts-down-in-2027-i-replaced-it-with-amazon-bedrock-agentcore-web-search-1ffj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
