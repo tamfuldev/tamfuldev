@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Backyard Endurance OS: Designing Zero-Loss Telemetry Ingestion for Athletes and Distributed Systems](https://dev.to/ranasmukminov/backyard-endurance-os-designing-zero-loss-telemetry-ingestion-for-athletes-and-distributed-systems-15fn)
-- [One icon, three signals](https://dev.to/heylittlepan/one-icon-three-signals-59ad)
-- [Three PRs to Rowboat in 24 Hours, One of Them Taught Me More Than the Others](https://dev.to/kielltampubolon/three-prs-to-rowboat-in-24-hours-one-of-them-taught-me-more-than-the-others-48cb)
-- [8x Cheaper, 2 Points Behind: The Economics Changing How We Pick AI Models](https://dev.to/sarantoon/8x-cheaper-2-points-behind-the-economics-changing-how-we-pick-ai-models-1jp9)
-- [ถูกกว่า 8 เท่า ได้คะแนนน้อยกว่า 2 จุด, เศรษฐศาสตร์เปลี่ยนวิธีเลือกโมเดล](https://dev.to/sarantoon/thuukkwaa-8-ethaa-aidkhaaennnykwaa-2-cchud-esrsthsaastrepliiynwithiieluuekomedl-kej)
+- [Building per-app dictation on macOS: focus, profiles, and optional send](https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4)
+- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)
+- [An Attacker&#39;s Multi-Agent Framework Stole Thousands of Credentials in Under Six Hours](https://dev.to/aditya_soni_e5b9d5213e544/an-attackers-multi-agent-framework-stole-thousands-of-credentials-in-under-six-hours-4kgh)
+- [I tested my sandbox against Deno and plain Python on 63 AI-written scripts](https://dev.to/gowrishankar-dev/i-tested-my-sandbox-against-deno-and-plain-python-on-63-ai-written-scripts-1llp)
+- [🚀 Getting Back Into Building Mode](https://dev.to/chand_chandini/getting-back-into-building-mode-4p5g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
