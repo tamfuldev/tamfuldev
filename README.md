@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hold Shared Sandbox Work Behind a Promotion Lane](https://dev.to/techlab_7968/hold-shared-sandbox-work-behind-a-promotion-lane-21m2)
-- [Ship fewer JS threads — a React Native interaction budget](https://dev.to/itsashis4u/ship-fewer-js-threads-a-react-native-interaction-budget-105n)
-- [Day 0 of a Linux Challenge and the Prompt I Almost Got Wrong](https://dev.to/jas_dev/day-0-of-a-linux-challenge-and-the-prompt-i-almost-got-wrong-2m36)
-- [BeeEngine JS](https://dev.to/antonioprosperi2svg/beeengine-js-l2)
-- [Having Fun with claude tokens.](https://dev.to/pyjamagirl/having-fun-with-claude-tokens-570i)
+- [zvec-grep &lpar;zg&rpar;: A Local-First Hybrid Search Engine for Humans and AI Agents](https://dev.to/terminalchai/zvec-grep-zg-a-local-first-hybrid-search-engine-for-humans-and-ai-agents-2dkf)
+- [Show DEV: Boniatillo - La red social cubana que permite monetizar tu contenido &lpar;construida en PHP&rpar;](https://dev.to/frankcollado/show-dev-boniatillo-la-red-social-cubana-que-paga-por-publicar-construida-en-php-56f7)
+- [PicoCTF Easy1 Writeup — Recover an XOR Key with Crib Dragging](https://dev.to/ctfdojo/picoctf-easy1-writeup-recover-an-xor-key-with-crib-dragging-3p8o)
+- [I Finally Built My Developer Portfolio](https://dev.to/faridteymouri/i-finally-built-my-developer-portfolio-5g5f)
+- [RAG Without Vectors? Meet Vectorless RAG](https://dev.to/rijultp/rag-without-vectors-meet-vectorless-rag-4ikb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
