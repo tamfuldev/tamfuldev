@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fixed Is Not Repaired](https://dev.to/cortia/fixed-is-not-repaired-b6l)
-- [LingoGeek: translating whole documents offline with CTranslate2 and a Python desktop app](https://dev.to/techygeeks1/lingogeek-translating-whole-documents-offline-with-ctranslate2-and-a-python-desktop-app-22b5)
-- [The idea survives the walk and dies in the editor](https://dev.to/uridovoicenote/the-idea-survives-the-walk-and-dies-in-the-editor-294n)
-- [What Is Visual Regression Testing? How Screenshot Diffing Catches Layout Breaks](https://dev.to/susumun/what-is-visual-regression-testing-how-screenshot-diffing-catches-layout-breaks-1fmi)
-- [Building a random chat where language doesn&#39;t matter: WebRTC, relay as a condition, and live translated captions](https://dev.to/vasiliy_shkitin/building-a-random-chat-where-language-doesnt-matter-webrtc-relay-as-a-condition-and-live-315g)
+- [Backyard Endurance OS: Designing Zero-Loss Telemetry Ingestion for Athletes and Distributed Systems](https://dev.to/ranasmukminov/backyard-endurance-os-designing-zero-loss-telemetry-ingestion-for-athletes-and-distributed-systems-15fn)
+- [One icon, three signals](https://dev.to/heylittlepan/one-icon-three-signals-59ad)
+- [Three PRs to Rowboat in 24 Hours, One of Them Taught Me More Than the Others](https://dev.to/kielltampubolon/three-prs-to-rowboat-in-24-hours-one-of-them-taught-me-more-than-the-others-48cb)
+- [8x Cheaper, 2 Points Behind: The Economics Changing How We Pick AI Models](https://dev.to/sarantoon/8x-cheaper-2-points-behind-the-economics-changing-how-we-pick-ai-models-1jp9)
+- [ถูกกว่า 8 เท่า ได้คะแนนน้อยกว่า 2 จุด, เศรษฐศาสตร์เปลี่ยนวิธีเลือกโมเดล](https://dev.to/sarantoon/thuukkwaa-8-ethaa-aidkhaaennnykwaa-2-cchud-esrsthsaastrepliiynwithiieluuekomedl-kej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
