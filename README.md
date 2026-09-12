@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ Backend for Frontend &lpar;BFF&rpar; – o padrão que salvou meus microsserviços &lpar;e minha sanidade&rpar;](https://dev.to/fabiothomazrocha/backend-for-frontend-bff-o-padrao-que-salvou-meus-microsservicos-e-minha-sanidade-555p)
-- [Docker Bake in Practice — Part 1: From Bash Scripts to Declarative Builds](https://dev.to/gde/docker-bake-in-practice-part-1-from-bash-scripts-to-declarative-builds-3pak)
-- [GPT-5.6 Sol Runs Quantum Chip Calibration at MIT Through Codex](https://dev.to/alifar/gpt-56-sol-runs-quantum-chip-calibration-at-mit-through-codex-4e0e)
-- [From 9 Seconds of Voice AI Latency to 1.5 Seconds: Building an In-House Voice AI System](https://dev.to/mehar_aziz/from-9-seconds-of-voice-ai-latency-to-15-seconds-building-an-in-house-voice-ai-system-bal)
-- [Claude CRO Audit Workflow: Faster Data Triage With Human Evidence Validation](https://dev.to/alifar/claude-cro-audit-workflow-faster-data-triage-with-human-evidence-validation-3jfk)
+- [Fixed Is Not Repaired](https://dev.to/cortia/fixed-is-not-repaired-b6l)
+- [LingoGeek: translating whole documents offline with CTranslate2 and a Python desktop app](https://dev.to/techygeeks1/lingogeek-translating-whole-documents-offline-with-ctranslate2-and-a-python-desktop-app-22b5)
+- [The idea survives the walk and dies in the editor](https://dev.to/uridovoicenote/the-idea-survives-the-walk-and-dies-in-the-editor-294n)
+- [What Is Visual Regression Testing? How Screenshot Diffing Catches Layout Breaks](https://dev.to/susumun/what-is-visual-regression-testing-how-screenshot-diffing-catches-layout-breaks-1fmi)
+- [Building a random chat where language doesn&#39;t matter: WebRTC, relay as a condition, and live translated captions](https://dev.to/vasiliy_shkitin/building-a-random-chat-where-language-doesnt-matter-webrtc-relay-as-a-condition-and-live-315g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
