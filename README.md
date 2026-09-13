@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrency LLD: Build a Custom BlockingQueue From Scratch](https://dev.to/machinecodingmaster/java-concurrency-lld-build-a-custom-blockingqueue-from-scratch-25dg)
-- [WCAG 2.2 CSS Lint - Focus &amp; Target Size](https://dev.to/readystacktools/wcag-22-css-lint-focus-target-size-115n)
-- [The Like Button Might Be Holding Back Global Learning Content](https://dev.to/sumit0rn/the-like-button-might-be-holding-back-global-learning-content-4m0f)
-- [Add AI search to existing application](https://dev.to/codegino/add-ai-search-to-existing-application-225f)
-- [Reviactyl - New Generation Game Hosting Panel](https://dev.to/bijjuxd/reviactyl-new-generation-game-hosting-panel-pm6)
+- [Deduplicating a constant did not stop it drifting](https://dev.to/daniel_pertu/deduplicating-a-constant-did-not-stop-it-drifting-p2b)
+- [68,495 Entries. Zero Restarts. I Still Refused to Sign It Off.](https://dev.to/dariusz_newecki_e35b0924c/68495-entries-zero-restarts-i-still-refused-to-sign-it-off-3h0b)
+- [Europe’s First Five-Car Autonomous Race at Imola Shows the Demands of Real-Time AI](https://dev.to/alifar/europes-first-five-car-autonomous-race-at-imola-shows-the-demands-of-real-time-ai-3bji)
+- [Power BI Data Modelling Explained !](https://dev.to/ayam_abuga_93093d63764982/power-bi-data-modelling-explained--24k2)
+- [Your AI Agent Isn’t the Problem: Your Documents Are Still Unusable](https://dev.to/claix_ai/your-ai-agent-isnt-the-problem-your-documents-are-still-unusable-eb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
