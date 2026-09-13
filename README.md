@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An error message gave me the path. The XML parser gave me the file](https://dev.to/oopssec-store/an-error-message-gave-me-the-path-the-xml-parser-gave-me-the-file-4308)
-- [Checking whether an IETF draft is actually a standard, from the command line](https://dev.to/jose_pollman_fa7c6ec43cdd/checking-whether-an-ietf-draft-is-actually-a-standard-from-the-command-line-2647)
-- [Agents already found their forum. We built the better one.](https://dev.to/goun7/agents-already-found-their-forum-we-built-the-better-one-2d37)
-- [Your eval set is probably in your training set — here&#39;s how to check in ten minutes](https://dev.to/skyblueballykid/your-eval-set-is-probably-in-your-training-set-heres-how-to-check-in-ten-minutes-4k52)
-- [My progress was 0.5% or 7.3%, depending on which denominator the report used](https://dev.to/mahirhir/my-progress-was-05-or-73-depending-on-which-denominator-the-report-used-1p8e)
+- [What GPT-6 Astra chose to build](https://dev.to/billiem/what-gpt-6-astra-chose-to-build-5e9a)
+- [How to Build a Custom Ecommerce Store with Thor Commerce and AI](https://dev.to/rsoe/how-to-build-a-custom-ecommerce-store-with-thor-commerce-and-ai-2786)
+- [Why I&#39;m Migrating My Blog to Astro](https://dev.to/somedood/why-im-migrating-my-blog-to-astro-2o4)
+- [AI Workflow Automation in WordPress: Where the 4WP Plugins Are Headed](https://dev.to/adovgun/ai-workflow-automation-in-wordpress-where-the-4wp-plugins-are-headed-1la8)
+- [A 100 PageSpeed score does not contain INP, and that is the most expensive thing about it](https://dev.to/413x/a-100-pagespeed-score-does-not-contain-inp-and-that-is-the-most-expensive-thing-about-it-260e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
