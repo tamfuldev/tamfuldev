@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What GPT-6 Astra chose to build](https://dev.to/billiem/what-gpt-6-astra-chose-to-build-5e9a)
-- [How to Build a Custom Ecommerce Store with Thor Commerce and AI](https://dev.to/rsoe/how-to-build-a-custom-ecommerce-store-with-thor-commerce-and-ai-2786)
-- [Why I&#39;m Migrating My Blog to Astro](https://dev.to/somedood/why-im-migrating-my-blog-to-astro-2o4)
-- [AI Workflow Automation in WordPress: Where the 4WP Plugins Are Headed](https://dev.to/adovgun/ai-workflow-automation-in-wordpress-where-the-4wp-plugins-are-headed-1la8)
-- [A 100 PageSpeed score does not contain INP, and that is the most expensive thing about it](https://dev.to/413x/a-100-pagespeed-score-does-not-contain-inp-and-that-is-the-most-expensive-thing-about-it-260e)
+- [ทำไม KV cache ถึงกลายเป็นหัวใจเศรษฐศาสตร์ของ AI agent ในปี 2026](https://dev.to/sarantoon/thamaim-kv-cache-thuengklaayepnhawaicchesrsthsaastrkhng-ai-agent-ainpii-2026-22mf)
+- [Self-hosted PaaS in 2026: Coolify vs Dokku vs CapRover vs Ownkube](https://dev.to/abhijais1/self-hosted-paas-in-2026-coolify-vs-dokku-vs-caprover-vs-ownkube-126m)
+- [Your AWS NAT gateway is costing you $1,800+ a month. Here&#39;s why and how to fix it.](https://dev.to/abhijais1/your-aws-nat-gateway-is-costing-you-1800-a-month-heres-why-and-how-to-fix-it-3e34)
+- [AI Avatar v20, Cursor Avatar, Notification Avatar &lpar;Voxel Avatar&rpar;🧊](https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2)
+- [Grok Bot and the Rise of AI Teammates](https://dev.to/javaskr/grok-bot-and-the-rise-of-ai-teammates-3ib7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
