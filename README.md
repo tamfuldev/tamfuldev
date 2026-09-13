@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Deduplicating a constant did not stop it drifting](https://dev.to/daniel_pertu/deduplicating-a-constant-did-not-stop-it-drifting-p2b)
-- [68,495 Entries. Zero Restarts. I Still Refused to Sign It Off.](https://dev.to/dariusz_newecki_e35b0924c/68495-entries-zero-restarts-i-still-refused-to-sign-it-off-3h0b)
-- [Europe’s First Five-Car Autonomous Race at Imola Shows the Demands of Real-Time AI](https://dev.to/alifar/europes-first-five-car-autonomous-race-at-imola-shows-the-demands-of-real-time-ai-3bji)
-- [Power BI Data Modelling Explained !](https://dev.to/ayam_abuga_93093d63764982/power-bi-data-modelling-explained--24k2)
-- [Your AI Agent Isn’t the Problem: Your Documents Are Still Unusable](https://dev.to/claix_ai/your-ai-agent-isnt-the-problem-your-documents-are-still-unusable-eb5)
+- [Prompts Are Code. Genkit Makes the Runtime Reviewable.](https://dev.to/raju_dandigam/prompts-are-code-genkit-makes-the-runtime-reviewable-gh3)
+- [Netcalc - Educational Defensive Security Tool](https://dev.to/layerbyte/netcalc-educational-defensive-security-tool-51ho)
+- [Fileprobe - Educational Defensive Security Tool](https://dev.to/layerbyte/fileprobe-educational-defensive-security-tool-26ok)
+- [Entropyx - Educational Defensive Security Tool](https://dev.to/layerbyte/entropyx-educational-defensive-security-tool-3hfk)
+- [DeepSeek MLA Architecture: How Multi-Head Latent Attention Cuts KV Cache by 93%](https://dev.to/abhishek_raajmishra_b2f2/deepseek-mla-architecture-how-multi-head-latent-attention-cuts-kv-cache-by-93-454l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
