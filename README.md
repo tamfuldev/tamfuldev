@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I banned Claude from saying &#39;looks reasonable&#39; and it started finding my blind spots](https://dev.to/jun_uen0/i-banned-claude-from-saying-looks-reasonable-and-it-started-finding-my-blind-spots-491l)
-- [Syncing your Obsidian](https://dev.to/lcmartinsfilho/syncing-your-obsidian-2o2)
-- [How to Bulk Download Images: From URL Lists to a ZIP File](https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph)
-- [JavaScript is &lpar;too&rpar; liberal](https://dev.to/lcmartinsfilho/javascript-is-too-liberal-2e6l)
-- [Why Tarot Birth Card Calculators Disagree — and How I Made the Math Visible](https://dev.to/christopher_shen_590282f0/why-tarot-birth-card-calculators-disagree-and-how-i-made-the-math-visible-1dna)
+- [Java Concurrency LLD: Build a Custom BlockingQueue From Scratch](https://dev.to/machinecodingmaster/java-concurrency-lld-build-a-custom-blockingqueue-from-scratch-25dg)
+- [WCAG 2.2 CSS Lint - Focus &amp; Target Size](https://dev.to/readystacktools/wcag-22-css-lint-focus-target-size-115n)
+- [The Like Button Might Be Holding Back Global Learning Content](https://dev.to/sumit0rn/the-like-button-might-be-holding-back-global-learning-content-4m0f)
+- [Add AI search to existing application](https://dev.to/codegino/add-ai-search-to-existing-application-225f)
+- [Reviactyl - New Generation Game Hosting Panel](https://dev.to/bijjuxd/reviactyl-new-generation-game-hosting-panel-pm6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
