@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Prompts Are Code. Genkit Makes the Runtime Reviewable.](https://dev.to/raju_dandigam/prompts-are-code-genkit-makes-the-runtime-reviewable-gh3)
-- [Netcalc - Educational Defensive Security Tool](https://dev.to/layerbyte/netcalc-educational-defensive-security-tool-51ho)
-- [Fileprobe - Educational Defensive Security Tool](https://dev.to/layerbyte/fileprobe-educational-defensive-security-tool-26ok)
-- [Entropyx - Educational Defensive Security Tool](https://dev.to/layerbyte/entropyx-educational-defensive-security-tool-3hfk)
-- [DeepSeek MLA Architecture: How Multi-Head Latent Attention Cuts KV Cache by 93%](https://dev.to/abhishek_raajmishra_b2f2/deepseek-mla-architecture-how-multi-head-latent-attention-cuts-kv-cache-by-93-454l)
+- [An error message gave me the path. The XML parser gave me the file](https://dev.to/oopssec-store/an-error-message-gave-me-the-path-the-xml-parser-gave-me-the-file-4308)
+- [Checking whether an IETF draft is actually a standard, from the command line](https://dev.to/jose_pollman_fa7c6ec43cdd/checking-whether-an-ietf-draft-is-actually-a-standard-from-the-command-line-2647)
+- [Agents already found their forum. We built the better one.](https://dev.to/goun7/agents-already-found-their-forum-we-built-the-better-one-2d37)
+- [Your eval set is probably in your training set — here&#39;s how to check in ten minutes](https://dev.to/skyblueballykid/your-eval-set-is-probably-in-your-training-set-heres-how-to-check-in-ten-minutes-4k52)
+- [My progress was 0.5% or 7.3%, depending on which denominator the report used](https://dev.to/mahirhir/my-progress-was-05-or-73-depending-on-which-denominator-the-report-used-1p8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
