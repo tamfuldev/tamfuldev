@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Milestone Reached: YINI Syntax Highlighting Is Now on the VS Code Marketplace](https://dev.to/marko_kseppnen_6250a7f/milestone-reached-yini-syntax-highlighting-is-now-on-the-vs-code-marketplace-18mb)
-- [Building a Freelance Rate Calculator for Mexico with Plain HTML and JavaScript](https://dev.to/franciscopadillamx/building-a-privacy-first-freelance-rate-calculator-with-plain-html-and-javascript-15k4)
-- [I built a chat where every word costs money — on TON, solo, no legal entity](https://dev.to/__e3096294/i-built-a-chat-where-every-word-costs-money-on-ton-solo-no-legal-entity-1f3f)
-- [‘I Just Feel Ripped Off’: A Week of Users Asking What They Pay For](https://dev.to/theaidownside/i-just-feel-ripped-off-a-week-of-users-asking-what-they-pay-for-5em6)
-- [I built an hourly newspaper for e-ink &lpar;and turned the pipeline into an MCP server&rpar;](https://dev.to/jshelley/i-built-an-hourly-newspaper-for-e-ink-and-turned-the-pipeline-into-an-mcp-server-1ebg)
+- [I banned Claude from saying &#39;looks reasonable&#39; and it started finding my blind spots](https://dev.to/jun_uen0/i-banned-claude-from-saying-looks-reasonable-and-it-started-finding-my-blind-spots-491l)
+- [Syncing your Obsidian](https://dev.to/lcmartinsfilho/syncing-your-obsidian-2o2)
+- [How to Bulk Download Images: From URL Lists to a ZIP File](https://dev.to/jadeydi/how-to-bulk-download-images-from-url-lists-to-a-zip-file-3fph)
+- [JavaScript is &lpar;too&rpar; liberal](https://dev.to/lcmartinsfilho/javascript-is-too-liberal-2e6l)
+- [Why Tarot Birth Card Calculators Disagree — and How I Made the Math Visible](https://dev.to/christopher_shen_590282f0/why-tarot-birth-card-calculators-disagree-and-how-i-made-the-math-visible-1dna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
