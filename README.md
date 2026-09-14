@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Visual Website Builder with React: The Architecture Behind Webruno’s Page Editor](https://dev.to/idehweb/building-a-visual-website-builder-with-react-the-architecture-behind-webrunos-page-editor-3mdd)
-- [Building a browser-based room planner with Codex: what I learned](https://dev.to/fulenn/building-a-browser-based-room-planner-with-codex-what-i-learned-lli)
-- [I co-engineered a macOS Soundcore headphone controller with Claude over a weekend](https://dev.to/dmj_jones_8ec54a3564709a8/i-co-engineered-a-macos-soundcore-headphone-controller-with-claude-over-a-weekend-216g)
-- [Generation and Operations Are One Thing](https://dev.to/anton_brilliantov/generation-and-operations-are-one-thing-ei9)
-- [Deploy Is a Consequence of the Manifest](https://dev.to/anton_brilliantov/deploy-is-a-consequence-of-the-manifest-54i5)
+- [Stop Thinking in Rows: GListModel and the Modern List Mindset](https://dev.to/fromthearchitect/stop-thinking-in-rows-glistmodel-and-the-modern-list-mindset-2cb3)
+- [I built Craftfolio — I&#39;d like some honest feedback](https://dev.to/mustytj/i-built-craftfolio-id-like-some-honest-feedback-3k2f)
+- [Why are you still debugging Spark on your host machine?](https://dev.to/aniketsoni/why-are-you-still-debugging-spark-on-your-host-machine-141e)
+- [Grid workspace for the COSMIC compositor](https://dev.to/shaarkymoo/grid-workspace-for-the-cosmic-compositor-4g5f)
+- [Simulating 30 Million microbes in Browser](https://dev.to/gigafloppa/simulating-30-million-microbes-in-browser-3n86)
 <!-- BLOG-POST-LIST:END -->
 
 ---
