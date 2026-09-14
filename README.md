@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Migrated Up, Then Back](https://dev.to/jeromefromhk/migrated-up-then-back-3j10)
-- [Controlling AI API Spend in a Next.js 15 Micro-SaaS with Cordis](https://dev.to/power_zhong/controlling-ai-api-spend-in-a-nextjs-15-micro-saas-with-cordis-4aac)
-- [12% of our posts had an image. The fix: a commit gate, a sha256, and one directory](https://dev.to/rulestack/12-of-our-posts-had-an-image-the-fix-a-commit-gate-a-sha256-and-one-directory-31n9)
-- [How Image Tinting Works: Blend Modes, Explained with Code](https://dev.to/_a4ce306f0a3e42a7d5751/how-image-tinting-works-blend-modes-explained-with-code-38fj)
-- [My Harness Used One Label for Three Different Failures.](https://dev.to/kenielzep97/my-harness-used-one-label-for-three-different-failures-2gc3)
+- [I tracked 400+ LLM API prices every day for a month. Here&#39;s what actually changed.](https://dev.to/zoe_wu_e9541be3f10ed00b5c/i-tracked-400-llm-api-prices-every-day-for-a-month-heres-what-actually-changed-4041)
+- [Oracle Deep Data Security in Oracle AI Database 26ai: End Users and Data Roles](https://dev.to/vahidusefzadeh/oracle-deep-data-security-in-oracle-ai-database-26ai-end-users-and-data-roles-h30)
+- [A Practical AI Architecture Review Pipeline for US Building Permits](https://dev.to/shapezo/a-practical-ai-architecture-review-pipeline-for-us-building-permits-5gkn)
+- [Hardware Timestamping and Jitter Reduction Techniques for Reliable Clocks](https://dev.to/beefedai/hardware-timestamping-and-jitter-reduction-techniques-for-reliable-clocks-4p94)
+- [I built a headless Spotify CLI that sequences better playlists than the app — and survives Spotify renaming its API mid-flight](https://dev.to/c1-anderson/i-built-a-headless-spotify-cli-that-sequences-better-playlists-than-the-app-and-survives-spotify-13lb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
