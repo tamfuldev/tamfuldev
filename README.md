@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ทำไม KV cache ถึงกลายเป็นหัวใจเศรษฐศาสตร์ของ AI agent ในปี 2026](https://dev.to/sarantoon/thamaim-kv-cache-thuengklaayepnhawaicchesrsthsaastrkhng-ai-agent-ainpii-2026-22mf)
-- [Self-hosted PaaS in 2026: Coolify vs Dokku vs CapRover vs Ownkube](https://dev.to/abhijais1/self-hosted-paas-in-2026-coolify-vs-dokku-vs-caprover-vs-ownkube-126m)
-- [Your AWS NAT gateway is costing you $1,800+ a month. Here&#39;s why and how to fix it.](https://dev.to/abhijais1/your-aws-nat-gateway-is-costing-you-1800-a-month-heres-why-and-how-to-fix-it-3e34)
-- [AI Avatar v20, Cursor Avatar, Notification Avatar &lpar;Voxel Avatar&rpar;🧊](https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2)
-- [Grok Bot and the Rise of AI Teammates](https://dev.to/javaskr/grok-bot-and-the-rise-of-ai-teammates-3ib7)
+- [Migrated Up, Then Back](https://dev.to/jeromefromhk/migrated-up-then-back-3j10)
+- [Controlling AI API Spend in a Next.js 15 Micro-SaaS with Cordis](https://dev.to/power_zhong/controlling-ai-api-spend-in-a-nextjs-15-micro-saas-with-cordis-4aac)
+- [12% of our posts had an image. The fix: a commit gate, a sha256, and one directory](https://dev.to/rulestack/12-of-our-posts-had-an-image-the-fix-a-commit-gate-a-sha256-and-one-directory-31n9)
+- [How Image Tinting Works: Blend Modes, Explained with Code](https://dev.to/_a4ce306f0a3e42a7d5751/how-image-tinting-works-blend-modes-explained-with-code-38fj)
+- [My Harness Used One Label for Three Different Failures.](https://dev.to/kenielzep97/my-harness-used-one-label-for-three-different-failures-2gc3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
