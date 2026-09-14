@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I tracked 400+ LLM API prices every day for a month. Here&#39;s what actually changed.](https://dev.to/zoe_wu_e9541be3f10ed00b5c/i-tracked-400-llm-api-prices-every-day-for-a-month-heres-what-actually-changed-4041)
-- [Oracle Deep Data Security in Oracle AI Database 26ai: End Users and Data Roles](https://dev.to/vahidusefzadeh/oracle-deep-data-security-in-oracle-ai-database-26ai-end-users-and-data-roles-h30)
-- [A Practical AI Architecture Review Pipeline for US Building Permits](https://dev.to/shapezo/a-practical-ai-architecture-review-pipeline-for-us-building-permits-5gkn)
-- [Hardware Timestamping and Jitter Reduction Techniques for Reliable Clocks](https://dev.to/beefedai/hardware-timestamping-and-jitter-reduction-techniques-for-reliable-clocks-4p94)
-- [I built a headless Spotify CLI that sequences better playlists than the app — and survives Spotify renaming its API mid-flight](https://dev.to/c1-anderson/i-built-a-headless-spotify-cli-that-sequences-better-playlists-than-the-app-and-survives-spotify-13lb)
+- [I built a chat app that forgets 🔥](https://dev.to/saadahmad/i-built-a-chat-app-that-forgets-4fal)
+- [Code Hosting vs CI/CD: GitHub Actions, GitLab CI, Jenkins, CircleCI, Argo Workflows and More — What Actually Fits Your Stack?](https://dev.to/taher_el_mehdi/code-hosting-vs-cicd-github-actions-gitlab-ci-jenkins-circleci-argo-workflows-and-more-what-a6o)
+- [Post Apache Ossie, what distinguishes semantic layers?](https://dev.to/motley/post-apache-ossie-what-distinguishes-semantic-layers-45m2)
+- [When should a QWidget animation stop its timer?](https://dev.to/xiangxin_huang_82e9237e5/when-should-a-qwidget-animation-stop-its-timer-17pk)
+- [Custom AI Chatbot Development Explained: Timelines, Risks, and How to Choose a Vendor](https://dev.to/aasiya_perween_01/custom-ai-chatbot-development-explained-timelines-risks-and-how-to-choose-a-vendor-2o46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
