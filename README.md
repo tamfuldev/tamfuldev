@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a chat app that forgets 🔥](https://dev.to/saadahmad/i-built-a-chat-app-that-forgets-4fal)
-- [Code Hosting vs CI/CD: GitHub Actions, GitLab CI, Jenkins, CircleCI, Argo Workflows and More — What Actually Fits Your Stack?](https://dev.to/taher_el_mehdi/code-hosting-vs-cicd-github-actions-gitlab-ci-jenkins-circleci-argo-workflows-and-more-what-a6o)
-- [Post Apache Ossie, what distinguishes semantic layers?](https://dev.to/motley/post-apache-ossie-what-distinguishes-semantic-layers-45m2)
-- [When should a QWidget animation stop its timer?](https://dev.to/xiangxin_huang_82e9237e5/when-should-a-qwidget-animation-stop-its-timer-17pk)
-- [Custom AI Chatbot Development Explained: Timelines, Risks, and How to Choose a Vendor](https://dev.to/aasiya_perween_01/custom-ai-chatbot-development-explained-timelines-risks-and-how-to-choose-a-vendor-2o46)
+- [Building a Visual Website Builder with React: The Architecture Behind Webruno’s Page Editor](https://dev.to/idehweb/building-a-visual-website-builder-with-react-the-architecture-behind-webrunos-page-editor-3mdd)
+- [Building a browser-based room planner with Codex: what I learned](https://dev.to/fulenn/building-a-browser-based-room-planner-with-codex-what-i-learned-lli)
+- [I co-engineered a macOS Soundcore headphone controller with Claude over a weekend](https://dev.to/dmj_jones_8ec54a3564709a8/i-co-engineered-a-macos-soundcore-headphone-controller-with-claude-over-a-weekend-216g)
+- [Generation and Operations Are One Thing](https://dev.to/anton_brilliantov/generation-and-operations-are-one-thing-ei9)
+- [Deploy Is a Consequence of the Manifest](https://dev.to/anton_brilliantov/deploy-is-a-consequence-of-the-manifest-54i5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
