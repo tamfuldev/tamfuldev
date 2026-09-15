@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Thinking in Rows: GListModel and the Modern List Mindset](https://dev.to/fromthearchitect/stop-thinking-in-rows-glistmodel-and-the-modern-list-mindset-2cb3)
-- [I built Craftfolio — I&#39;d like some honest feedback](https://dev.to/mustytj/i-built-craftfolio-id-like-some-honest-feedback-3k2f)
-- [Why are you still debugging Spark on your host machine?](https://dev.to/aniketsoni/why-are-you-still-debugging-spark-on-your-host-machine-141e)
-- [Grid workspace for the COSMIC compositor](https://dev.to/shaarkymoo/grid-workspace-for-the-cosmic-compositor-4g5f)
-- [Simulating 30 Million microbes in Browser](https://dev.to/gigafloppa/simulating-30-million-microbes-in-browser-3n86)
+- [How to auto-install the Intune Company Portal on ADE iPhones with VPP](https://dev.to/ky3095/how-to-auto-install-the-intune-company-portal-on-ade-iphones-with-vpp-56eh)
+- [Fresh at the label, stale at the post: our 3-day news check was reading the wrong clock](https://dev.to/rulestack/fresh-at-the-label-stale-at-the-post-our-3-day-news-check-was-reading-the-wrong-clock-3fe1)
+- [Google Maps Signal Leak Shifts Local SEO Focus Beyond Business Profile Fields](https://dev.to/alifar/google-maps-signal-leak-shifts-local-seo-focus-beyond-business-profile-fields-3jc9)
+- [From 3ms to 0ms: The Hidden Memory Trap in C++ Maps](https://dev.to/jeet_0474/from-3ms-to-0ms-the-hidden-memory-trap-in-c-maps-4m3h)
+- [T-Mem: Memory That Anticipates, Not Archives - Tencent&#39;s Breakthrough in AI Long-Term Memory](https://dev.to/ryan_zhao/t-mem-memory-that-anticipates-not-archives-tencents-breakthrough-in-ai-long-term-memory-2dle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
