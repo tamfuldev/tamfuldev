@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A background-swapped MP4 came out twice the size of its input, and what else I check before delivery](https://dev.to/shu_jing_915fa287b22539ad/a-background-swapped-mp4-came-out-twice-the-size-of-its-input-and-what-else-i-check-before-delivery-4o1d)
-- [We Built an Arcade for Our Own Game Engine](https://dev.to/desire_george_434_ai/we-built-an-arcade-for-our-own-game-engine-a83)
-- [Browser video background removal held up on a talking head and fell apart in a street crowd](https://dev.to/yue_shu_c621a4a637f22396f/browser-video-background-removal-held-up-on-a-talking-head-and-fell-apart-in-a-street-crowd-2fgm)
-- [Making POST Requests Safe to Retry with Idempotency Keys](https://dev.to/lukman-ss/making-post-requests-safe-to-retry-with-idempotency-keys-3ip0)
-- [Pannonico 0.6: how a personal side project is becoming a professional tool](https://dev.to/vlasterx/pannonico-06-how-a-personal-side-project-is-becoming-a-professional-tool-f9i)
+- [How I Choose a Library Before Adding It to a Project](https://dev.to/sashadudkina5/how-i-choose-a-library-before-adding-it-to-a-project-291j)
+- [It is really hard to write good software in Javascript](https://dev.to/aleksander_mako_1d1cd1320/it-is-really-hard-to-write-good-software-in-javascript-44c4)
+- [Performance no front só é Staff se a conversão sobe](https://dev.to/tiagovilasboas/performance-no-front-so-e-staff-se-a-conversao-sobe-56p2)
+- [Building a Dark-Mode Automotive Telemetry &amp; Chronic Fault Matrix with React + Gemini API](https://dev.to/hasan_serhanoktay_756b59/building-a-dark-mode-automotive-telemetry-chronic-fault-matrix-with-react-gemini-api-1ee2)
+- [What Is an LLM? The Foundation Every AI Backend Engineer Needs](https://dev.to/shamprakash2000/what-is-an-llm-the-foundation-every-ai-backend-engineer-needs-50jj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
