@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How I Choose a Library Before Adding It to a Project](https://dev.to/sashadudkina5/how-i-choose-a-library-before-adding-it-to-a-project-291j)
-- [It is really hard to write good software in Javascript](https://dev.to/aleksander_mako_1d1cd1320/it-is-really-hard-to-write-good-software-in-javascript-44c4)
-- [Performance no front só é Staff se a conversão sobe](https://dev.to/tiagovilasboas/performance-no-front-so-e-staff-se-a-conversao-sobe-56p2)
-- [Building a Dark-Mode Automotive Telemetry &amp; Chronic Fault Matrix with React + Gemini API](https://dev.to/hasan_serhanoktay_756b59/building-a-dark-mode-automotive-telemetry-chronic-fault-matrix-with-react-gemini-api-1ee2)
-- [What Is an LLM? The Foundation Every AI Backend Engineer Needs](https://dev.to/shamprakash2000/what-is-an-llm-the-foundation-every-ai-backend-engineer-needs-50jj)
+- [I Built Fantasy Football for Big Brother — Snake Drafts, Weekly Scoring, and Trades That Don’t Rewrite History](https://dev.to/uribejr/i-built-fantasy-football-for-big-brother-snake-drafts-weekly-scoring-and-trades-that-dont-2opm)
+- [Added a BFF layer before reaching for GraphQL. What happened next?](https://dev.to/ninawekunal3/added-a-bff-layer-before-reaching-for-graphql-what-happened-next-c0f)
+- [MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits](https://dev.to/lovestaco/mvc-mvp-mvvm-mvvm-c-viper-one-pattern-wearing-five-outfits-3b73)
+- [What is Web Security? A Simple Guide for Developers](https://dev.to/venkatesh_j6fe71a/what-is-web-security-a-simple-guide-for-developers-35ml)
+- [We Stopped Waiting for Platform Changes to Find Us](https://dev.to/codenameone/we-stopped-waiting-for-platform-changes-to-find-us-4f15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
