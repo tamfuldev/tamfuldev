@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to auto-install the Intune Company Portal on ADE iPhones with VPP](https://dev.to/ky3095/how-to-auto-install-the-intune-company-portal-on-ade-iphones-with-vpp-56eh)
-- [Fresh at the label, stale at the post: our 3-day news check was reading the wrong clock](https://dev.to/rulestack/fresh-at-the-label-stale-at-the-post-our-3-day-news-check-was-reading-the-wrong-clock-3fe1)
-- [Google Maps Signal Leak Shifts Local SEO Focus Beyond Business Profile Fields](https://dev.to/alifar/google-maps-signal-leak-shifts-local-seo-focus-beyond-business-profile-fields-3jc9)
-- [From 3ms to 0ms: The Hidden Memory Trap in C++ Maps](https://dev.to/jeet_0474/from-3ms-to-0ms-the-hidden-memory-trap-in-c-maps-4m3h)
-- [T-Mem: Memory That Anticipates, Not Archives - Tencent&#39;s Breakthrough in AI Long-Term Memory](https://dev.to/ryan_zhao/t-mem-memory-that-anticipates-not-archives-tencents-breakthrough-in-ai-long-term-memory-2dle)
+- [A background-swapped MP4 came out twice the size of its input, and what else I check before delivery](https://dev.to/shu_jing_915fa287b22539ad/a-background-swapped-mp4-came-out-twice-the-size-of-its-input-and-what-else-i-check-before-delivery-4o1d)
+- [We Built an Arcade for Our Own Game Engine](https://dev.to/desire_george_434_ai/we-built-an-arcade-for-our-own-game-engine-a83)
+- [Browser video background removal held up on a talking head and fell apart in a street crowd](https://dev.to/yue_shu_c621a4a637f22396f/browser-video-background-removal-held-up-on-a-talking-head-and-fell-apart-in-a-street-crowd-2fgm)
+- [Making POST Requests Safe to Retry with Idempotency Keys](https://dev.to/lukman-ss/making-post-requests-safe-to-retry-with-idempotency-keys-3ip0)
+- [Pannonico 0.6: how a personal side project is becoming a professional tool](https://dev.to/vlasterx/pannonico-06-how-a-personal-side-project-is-becoming-a-professional-tool-f9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
