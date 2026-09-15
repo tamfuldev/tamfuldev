@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Fantasy Football for Big Brother — Snake Drafts, Weekly Scoring, and Trades That Don’t Rewrite History](https://dev.to/uribejr/i-built-fantasy-football-for-big-brother-snake-drafts-weekly-scoring-and-trades-that-dont-2opm)
-- [Added a BFF layer before reaching for GraphQL. What happened next?](https://dev.to/ninawekunal3/added-a-bff-layer-before-reaching-for-graphql-what-happened-next-c0f)
-- [MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits](https://dev.to/lovestaco/mvc-mvp-mvvm-mvvm-c-viper-one-pattern-wearing-five-outfits-3b73)
-- [What is Web Security? A Simple Guide for Developers](https://dev.to/venkatesh_j6fe71a/what-is-web-security-a-simple-guide-for-developers-35ml)
-- [We Stopped Waiting for Platform Changes to Find Us](https://dev.to/codenameone/we-stopped-waiting-for-platform-changes-to-find-us-4f15)
+- [What Happens If You Give a Fruit Fly Brain External Memory?](https://dev.to/constant_itis/what-happens-if-you-give-a-fruit-fly-brain-external-memory-1gcm)
+- [Linux plans to remove 247k lines of old ARM code](https://dev.to/techaiwire/linux-plans-to-remove-247k-lines-of-old-arm-code-2o34)
+- [Google Search Console Platform Properties Bring Social and Video Data Into Search Reporting](https://dev.to/alifar/google-search-console-platform-properties-bring-social-and-video-data-into-search-reporting-350f)
+- [We scheduled a question for an hour when nobody could answer it](https://dev.to/unmannedops/we-scheduled-a-question-for-an-hour-when-nobody-could-answer-it-22oj)
+- [I expected hexagonal architecture to help my coding agent. It didn&#39;t.](https://dev.to/kstoyanovai/i-expected-hexagonal-architecture-to-help-my-coding-agent-it-didnt-3blg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
