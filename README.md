@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Examining the &quot;Boolean-Switch&quot; in Java \_&lpar;ツ&rpar;_/](https://dev.to/annavi11arrea1/examining-the-boolean-switch-in-java-tu--39j4)
-- [Conceptual Contours](https://dev.to/mckeondev/conceptual-contours-dc6)
-- [Why we built recall-first search on PostgreSQL](https://dev.to/puneet-chandna/why-we-built-recall-first-search-on-postgresql-4ga4)
-- [I built three tools for Quantinuum&#39;s guppy stack. Along the way I found six real bugs.](https://dev.to/kkoci/i-built-three-tools-for-quantinuums-guppy-stack-along-the-way-i-found-six-real-bugs-2cp4)
-- [Why You Don&#39;t Have To Learn The Terminal](https://dev.to/mohammedeshan/why-you-dont-have-to-learn-the-terminal-3m7i)
+- [Google Business Profile’s Collected Info Tab Gives Owners More Control Over Automated Data](https://dev.to/alifar/google-business-profiles-collected-info-tab-gives-owners-more-control-over-automated-data-38lb)
+- [Reviewing AI-generated code on GitLab and Azure DevOps: what actually exists](https://dev.to/emilreiter/reviewing-ai-generated-code-on-gitlab-and-azure-devops-what-actually-exists-3mi8)
+- [Deleting a secret from your Docker image doesn&#39;t delete it from your build history](https://dev.to/cole_halton_42f71d71b809b/deleting-a-secret-from-your-docker-image-doesnt-delete-it-from-your-build-history-498m)
+- [Yokhash Meets VPC: Exploring Amazon Virtual Private Cloud ☁️](https://dev.to/47jp_yokhash_d9d45c50b/yokhash-meets-vpc-exploring-amazon-virtual-private-cloud-16pd)
+- [OpenJAI-v1.0-14B โมเดลไทยจากทีมเดียวกับ JaiTTS ที่เปิดฟรี](https://dev.to/sarantoon/openjai-v10-14b-omedlaithycchaakthiimediiywkab-jaitts-thiiepidfrii-281n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
