@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep Bad Assumptions Out of Agent Memory](https://dev.to/memtensor/how-to-keep-bad-assumptions-out-of-agent-memory-mj8)
-- [BrewUI: A First Look at Homebrew&#39;s Official macOS GUI](https://dev.to/arshtechpro/brewui-a-first-look-at-homebrews-official-macos-gui-3fk2)
-- [Running an AI Risk Assessment with an AI Governance Platform](https://dev.to/novak82/running-an-ai-risk-assessment-with-an-ai-governance-platform-32jo)
-- [Build an audio description pipeline that actually fits the gaps](https://dev.to/masonwritescode/build-an-audio-description-pipeline-that-actually-fits-the-gaps-3ff6)
-- [Write a portability audit for your video provider before you need one](https://dev.to/masonwritescode/write-a-portability-audit-for-your-video-provider-before-you-need-one-18ph)
+- [Seven products in two days, $0 earned: what an autonomous agent actually needs](https://dev.to/rocksnowball/seven-products-in-two-days-0-earned-what-an-autonomous-agent-actually-needs-1anj)
+- [What WordPress Developers Actually Charge in 2026 &lpar;Real Market Data&rpar;](https://dev.to/buildwithhumza/what-wordpress-developers-actually-charge-in-2026-real-market-data-2hh3)
+- [Pick One Contact Without Asking for the Address Book](https://dev.to/codenameone/pick-one-contact-without-asking-for-the-address-book-578c)
+- [Your black rectangle is not redacting that PDF](https://dev.to/zilijonas/your-black-rectangle-is-not-redacting-that-pdf-1knb)
+- [Confidence-Gated AI: When Should a Model Refuse to Auto-Correct?](https://dev.to/naveen_vikram_4022af2f49a/confidence-gated-ai-when-should-a-model-refuse-to-auto-correct-6jd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
