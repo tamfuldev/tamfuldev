@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I turned GitHub profiles into roastable RPG characters](https://dev.to/dswwfg/i-turned-github-profiles-into-roastable-rpg-characters-4lm5)
-- [Stateful vs. Stateless Frontends: Designing a Food Delivery App One State at a Time](https://dev.to/leopold2/stateful-vs-stateless-frontends-designing-a-food-delivery-app-one-state-at-a-time-569n)
-- [Password Strength + Crack Time Estimators](https://dev.to/nexttechworld/password-strength-crack-time-estimators-49ih)
-- [The debug copy of our service was taking one request in three](https://dev.to/sergey_shinder_ab2d943365/the-debug-copy-of-our-service-was-taking-one-request-in-three-3hh7)
-- [Somebody Wrote It Down Properly and You Never Looked](https://dev.to/asael_shinder_9f53bdca840/somebody-wrote-it-down-properly-and-you-never-looked-2ij4)
+- [How to Keep Bad Assumptions Out of Agent Memory](https://dev.to/memtensor/how-to-keep-bad-assumptions-out-of-agent-memory-mj8)
+- [BrewUI: A First Look at Homebrew&#39;s Official macOS GUI](https://dev.to/arshtechpro/brewui-a-first-look-at-homebrews-official-macos-gui-3fk2)
+- [Running an AI Risk Assessment with an AI Governance Platform](https://dev.to/novak82/running-an-ai-risk-assessment-with-an-ai-governance-platform-32jo)
+- [Build an audio description pipeline that actually fits the gaps](https://dev.to/masonwritescode/build-an-audio-description-pipeline-that-actually-fits-the-gaps-3ff6)
+- [Write a portability audit for your video provider before you need one](https://dev.to/masonwritescode/write-a-portability-audit-for-your-video-provider-before-you-need-one-18ph)
 <!-- BLOG-POST-LIST:END -->
 
 ---
