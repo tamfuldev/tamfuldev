@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Business Profile’s Collected Info Tab Gives Owners More Control Over Automated Data](https://dev.to/alifar/google-business-profiles-collected-info-tab-gives-owners-more-control-over-automated-data-38lb)
-- [Reviewing AI-generated code on GitLab and Azure DevOps: what actually exists](https://dev.to/emilreiter/reviewing-ai-generated-code-on-gitlab-and-azure-devops-what-actually-exists-3mi8)
-- [Deleting a secret from your Docker image doesn&#39;t delete it from your build history](https://dev.to/cole_halton_42f71d71b809b/deleting-a-secret-from-your-docker-image-doesnt-delete-it-from-your-build-history-498m)
-- [Yokhash Meets VPC: Exploring Amazon Virtual Private Cloud ☁️](https://dev.to/47jp_yokhash_d9d45c50b/yokhash-meets-vpc-exploring-amazon-virtual-private-cloud-16pd)
-- [OpenJAI-v1.0-14B โมเดลไทยจากทีมเดียวกับ JaiTTS ที่เปิดฟรี](https://dev.to/sarantoon/openjai-v10-14b-omedlaithycchaakthiimediiywkab-jaitts-thiiepidfrii-281n)
+- [I turned GitHub profiles into roastable RPG characters](https://dev.to/dswwfg/i-turned-github-profiles-into-roastable-rpg-characters-4lm5)
+- [Stateful vs. Stateless Frontends: Designing a Food Delivery App One State at a Time](https://dev.to/leopold2/stateful-vs-stateless-frontends-designing-a-food-delivery-app-one-state-at-a-time-569n)
+- [Password Strength + Crack Time Estimators](https://dev.to/nexttechworld/password-strength-crack-time-estimators-49ih)
+- [The debug copy of our service was taking one request in three](https://dev.to/sergey_shinder_ab2d943365/the-debug-copy-of-our-service-was-taking-one-request-in-three-3hh7)
+- [Somebody Wrote It Down Properly and You Never Looked](https://dev.to/asael_shinder_9f53bdca840/somebody-wrote-it-down-properly-and-you-never-looked-2ij4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
