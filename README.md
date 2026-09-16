@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Seven products in two days, $0 earned: what an autonomous agent actually needs](https://dev.to/rocksnowball/seven-products-in-two-days-0-earned-what-an-autonomous-agent-actually-needs-1anj)
-- [What WordPress Developers Actually Charge in 2026 &lpar;Real Market Data&rpar;](https://dev.to/buildwithhumza/what-wordpress-developers-actually-charge-in-2026-real-market-data-2hh3)
-- [Pick One Contact Without Asking for the Address Book](https://dev.to/codenameone/pick-one-contact-without-asking-for-the-address-book-578c)
-- [Your black rectangle is not redacting that PDF](https://dev.to/zilijonas/your-black-rectangle-is-not-redacting-that-pdf-1knb)
-- [Confidence-Gated AI: When Should a Model Refuse to Auto-Correct?](https://dev.to/naveen_vikram_4022af2f49a/confidence-gated-ai-when-should-a-model-refuse-to-auto-correct-6jd)
+- [I tried giving a 26 MB Burp Suite dump to an LLM. It didn&#39;t work. So I built BurpSqueezer.](https://dev.to/vaginskii/i-tried-giving-a-26-mb-burp-suite-dump-to-an-llm-it-didnt-work-so-i-built-burpsqueezer-29i4)
+- [The AI Slowdown Nobody&#39;s Actually Slowing Down For](https://dev.to/jason_gunnells/the-ai-slowdown-nobodys-actually-slowing-down-for-4i62)
+- [What Actually Goes In an llms.txt](https://dev.to/lucasfernandezdiaz/what-actually-goes-in-an-llmstxt-2me5)
+- [Putting Apple&#39;s Virtualization framework under a Flutter app](https://dev.to/bostrot/putting-apples-virtualization-framework-under-a-flutter-app-3d13)
+- [A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4](https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
