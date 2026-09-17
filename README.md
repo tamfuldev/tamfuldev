@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Messaging Systems: MQTT vs AMQP vs RabbitMQ vs Kafka vs NATS vs Apache Pulsar](https://dev.to/rai_shiv/messaging-systems-mqtt-vs-amqp-vs-rabbitmq-vs-kafka-vs-nats-vs-apache-pulsar-5elk)
-- [I caught my AI agent lying to me](https://dev.to/syedrafinaqvi/i-caught-my-ai-agent-lying-to-me-5h0e)
-- [I Built a Headless Browser Toolkit With Chrome DevTools Protocol](https://dev.to/tinycoder-studio/i-built-a-headless-browser-toolkit-with-chrome-devtools-protocol-58m)
-- [AI made the cheap part of my job free](https://dev.to/ashish_jat_2beb475bfd1c0d/ai-made-the-cheap-part-of-my-job-free-27c0)
-- [When You Know Something&#39;s Wrong But Can&#39;t Say Why Yet - Jesse Pinkman Energy](https://dev.to/tejas_shinkar/when-you-know-somethings-wrong-but-cant-say-why-yet-jesse-pinkman-energy-1966)
+- [WINDOW FUNCTIONS](https://dev.to/super_b8c82b4153dee9fab1c/window-functions-im4)
+- [I Rebuilt This Dashboard From a Screenshot using Hope AI. Here&#39;s the Live App and Everything It Took.](https://dev.to/joshk2/i-rebuilt-this-dashboard-from-a-screenshot-heres-the-live-app-and-everything-it-took-171b)
+- [Junior Developers Are Learning to Build in Public Before They&#39;ve Built Anything Private](https://dev.to/web_dev-usman/junior-developers-are-learning-to-build-in-public-before-theyve-built-anything-private-10fh)
+- [Lens: screenshots and click-by-click guides, with no account and no server](https://dev.to/open-post/lens-screenshots-and-click-by-click-guides-with-no-account-and-no-server-5hbi)
+- [Your AI Agent&#39;s Summary Is Lying to You. Here&#39;s What to Do About It.](https://dev.to/xxxn3m3s1sxxx/your-ai-agents-summary-is-lying-to-you-heres-what-to-do-about-it-4p3h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
