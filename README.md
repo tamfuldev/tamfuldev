@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an Alternative to the Play Store for APK Distribution](https://dev.to/veber_by_signal/why-i-built-an-alternative-to-the-play-store-for-apk-distribution-2ep5)
-- [Was bash the wrong language for my agent?](https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l)
-- [I never fully understood Python for loops until I grasped the range function. Here is what I learnt](https://dev.to/chidambaram_manivannan/i-never-fully-understood-python-for-loops-until-i-grasped-the-range-function-here-is-what-i-learnt-312)
-- [Anthropic Opens Its Life Sciences Verification Program for Gated Mythos Access](https://dev.to/alifar/anthropic-opens-its-life-sciences-verification-program-for-gated-mythos-access-1h6g)
-- [Full Stack HQ: A Permission-First AI Engineering Stack for Claude Code, Antigravity, and Codex](https://dev.to/sabahattink/full-stack-hq-a-permission-first-ai-engineering-stack-for-claude-code-antigravity-and-codex-1o1n)
+- [Anthropic’s AI R&amp;D Measurements Point to a Broader Transparency Model](https://dev.to/alifar/anthropics-ai-rd-measurements-point-to-a-broader-transparency-model-39m4)
+- [Manage Internal DNS Hostnames from Infrastructure Code in 4 Deploy Steps](https://dev.to/judsonrhodes1569/manage-internal-dns-hostnames-from-infrastructure-code-in-4-deploy-steps-43fd)
+- [Building a Real Android Development Loop on an ARM64 Phone with Ternux + ADT](https://dev.to/soobujmiah/building-an-arm64-android-development-environment-adt-ternux-4bi1)
+- [Stop Asking Which Agentic Coding Methodology to Use](https://dev.to/dmitryame/stop-asking-which-agentic-coding-methodology-to-use-1bij)
+- [OpenAI Astra for Law Brings GPT-6 Astra to Legal Research and Workflow Building](https://dev.to/alifar/openai-astra-for-law-brings-gpt-6-astra-to-legal-research-and-workflow-building-4no6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
