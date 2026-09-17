@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Does your WebMCP actually save time and tokens? Run an ON/OFF experiment](https://dev.to/jo32/does-your-webmcp-actually-save-time-and-tokens-run-an-onoff-experiment-3n9l)
-- [Keep ChatGPT UI observations out of your API denominator](https://dev.to/bobb_kim_fcbcd2b6567f5dce/keep-chatgpt-ui-observations-out-of-your-api-denominator-4gdd)
-- [Why Multi-Tenant Architecture Is the Real Bottleneck in Enterprise SaaS Scaling](https://dev.to/itnetbyimbibetech/why-multi-tenant-architecture-is-the-real-bottleneck-in-enterprise-saas-scaling-3b02)
-- [Regular Expressions Without the Fear](https://dev.to/binaryjournal/regular-expressions-without-the-fear-45db)
-- [-preset slow bought 0.16%. Ten ffmpeg settings measured on two ARM cores.](https://dev.to/obole/-preset-slow-bought-016-ten-ffmpeg-settings-measured-on-two-arm-cores-40hh)
+- [Messaging Systems: MQTT vs AMQP vs RabbitMQ vs Kafka vs NATS vs Apache Pulsar](https://dev.to/rai_shiv/messaging-systems-mqtt-vs-amqp-vs-rabbitmq-vs-kafka-vs-nats-vs-apache-pulsar-5elk)
+- [I caught my AI agent lying to me](https://dev.to/syedrafinaqvi/i-caught-my-ai-agent-lying-to-me-5h0e)
+- [I Built a Headless Browser Toolkit With Chrome DevTools Protocol](https://dev.to/tinycoder-studio/i-built-a-headless-browser-toolkit-with-chrome-devtools-protocol-58m)
+- [AI made the cheap part of my job free](https://dev.to/ashish_jat_2beb475bfd1c0d/ai-made-the-cheap-part-of-my-job-free-27c0)
+- [When You Know Something&#39;s Wrong But Can&#39;t Say Why Yet - Jesse Pinkman Energy](https://dev.to/tejas_shinkar/when-you-know-somethings-wrong-but-cant-say-why-yet-jesse-pinkman-energy-1966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
