@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Shipped 4 Real AI-Agent Payment APIs on Base Mainnet. They Made $0.](https://dev.to/novalyth/i-shipped-4-real-ai-agent-payment-apis-on-base-mainnet-they-made-0-5f24)
-- [I measured whether my coding agent follows its rules](https://dev.to/_41cda9e439997374d9a9f/i-measured-whether-my-coding-agent-follows-its-rules-3chi)
-- [I Deployed My First AgentCore Harness and Asked It About Production](https://dev.to/lbagga/i-deployed-my-first-agentcore-harness-and-asked-it-about-production-41mi)
-- [The Twenty-Day Window: Pricing the Policy Residual](https://dev.to/fengyugbt/the-twenty-day-window-pricing-the-policy-residual-4h7n)
-- [1.8 Million Reachable MongoDB Services: Reading Exposure Numbers Without Overreading Them](https://dev.to/kozhevniko/18-million-reachable-mongodb-services-reading-exposure-numbers-without-overreading-them-28di)
+- [Does your WebMCP actually save time and tokens? Run an ON/OFF experiment](https://dev.to/jo32/does-your-webmcp-actually-save-time-and-tokens-run-an-onoff-experiment-3n9l)
+- [Keep ChatGPT UI observations out of your API denominator](https://dev.to/bobb_kim_fcbcd2b6567f5dce/keep-chatgpt-ui-observations-out-of-your-api-denominator-4gdd)
+- [Why Multi-Tenant Architecture Is the Real Bottleneck in Enterprise SaaS Scaling](https://dev.to/itnetbyimbibetech/why-multi-tenant-architecture-is-the-real-bottleneck-in-enterprise-saas-scaling-3b02)
+- [Regular Expressions Without the Fear](https://dev.to/binaryjournal/regular-expressions-without-the-fear-45db)
+- [-preset slow bought 0.16%. Ten ffmpeg settings measured on two ARM cores.](https://dev.to/obole/-preset-slow-bought-016-ten-ffmpeg-settings-measured-on-two-arm-cores-40hh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
