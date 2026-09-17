@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WINDOW FUNCTIONS](https://dev.to/super_b8c82b4153dee9fab1c/window-functions-im4)
-- [I Rebuilt This Dashboard From a Screenshot using Hope AI. Here&#39;s the Live App and Everything It Took.](https://dev.to/joshk2/i-rebuilt-this-dashboard-from-a-screenshot-heres-the-live-app-and-everything-it-took-171b)
-- [Junior Developers Are Learning to Build in Public Before They&#39;ve Built Anything Private](https://dev.to/web_dev-usman/junior-developers-are-learning-to-build-in-public-before-theyve-built-anything-private-10fh)
-- [Lens: screenshots and click-by-click guides, with no account and no server](https://dev.to/open-post/lens-screenshots-and-click-by-click-guides-with-no-account-and-no-server-5hbi)
-- [Your AI Agent&#39;s Summary Is Lying to You. Here&#39;s What to Do About It.](https://dev.to/xxxn3m3s1sxxx/your-ai-agents-summary-is-lying-to-you-heres-what-to-do-about-it-4p3h)
+- [Why I Built an Alternative to the Play Store for APK Distribution](https://dev.to/veber_by_signal/why-i-built-an-alternative-to-the-play-store-for-apk-distribution-2ep5)
+- [Was bash the wrong language for my agent?](https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l)
+- [I never fully understood Python for loops until I grasped the range function. Here is what I learnt](https://dev.to/chidambaram_manivannan/i-never-fully-understood-python-for-loops-until-i-grasped-the-range-function-here-is-what-i-learnt-312)
+- [Anthropic Opens Its Life Sciences Verification Program for Gated Mythos Access](https://dev.to/alifar/anthropic-opens-its-life-sciences-verification-program-for-gated-mythos-access-1h6g)
+- [Full Stack HQ: A Permission-First AI Engineering Stack for Claude Code, Antigravity, and Codex](https://dev.to/sabahattink/full-stack-hq-a-permission-first-ai-engineering-stack-for-claude-code-antigravity-and-codex-1o1n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
