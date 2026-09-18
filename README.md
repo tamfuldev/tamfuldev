@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford&#39;s Code in Place X, and Dev3Pack Hackathon](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm)
-- [SSH Permission Denied &lpar;publickey&rpar;: The Real Fix](https://dev.to/mrsaynothing/ssh-permission-denied-publickey-the-real-fix-22p1)
-- [WebAssembly Beyond the Browser: Building a Sandboxed Plugin System in Node.js &amp; Go](https://dev.to/mindinu/webassembly-beyond-the-browser-building-a-sandboxed-plugin-system-in-nodejs-go-eo0)
-- [Anatomy of a scam campaign, from the point of view of a link shortener](https://dev.to/caspii/anatomy-of-a-scam-campaign-from-the-point-of-view-of-a-link-shortener-297j)
-- [JSON.parse throws on every token your LLM streams. Here&#39;s a 425-byte fix.](https://dev.to/acegikmo135/jsonparse-throws-on-every-token-your-llm-streams-heres-a-425-byte-fix-1cne)
+- [A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback](https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj)
+- [How Claude Can Speed Up CRO Audits Without Replacing Human Validation](https://dev.to/alifar/how-claude-can-speed-up-cro-audits-without-replacing-human-validation-3511)
+- [Why You Should Not Commit Your Specs](https://dev.to/carstenbehrens/why-you-should-not-commit-your-specs-440g)
+- [How I Built 30 Privacy-First Dev Tools with Blazor WebAssembly &lpar;and Why Nothing Leaves Your Browser&rpar;](https://dev.to/sarfaraznaushad/how-i-built-30-privacy-first-dev-tools-with-blazor-webassembly-and-why-nothing-leaves-your-browser-4jio)
+- [Building a Modern Crash Debugger](https://dev.to/loren_sl/building-a-modern-crash-debugger-1col)
 <!-- BLOG-POST-LIST:END -->
 
 ---
