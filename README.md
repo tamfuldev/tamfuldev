@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Machine That finally Wake Up](https://dev.to/akashholycowprojects/the-machine-that-finally-wake-up-en2)
-- [CVE-2026-76423: The Cisco ISE REST API Flaw That Hands Out Admin Without a Password](https://dev.to/kozhevniko/cve-2026-76423-the-cisco-ise-rest-api-flaw-that-hands-out-admin-without-a-password-4fe1)
-- [R8 Is Not an Android App Protector: What Developers Should Know About XopProtector](https://dev.to/_02872163a196e011/r8-is-not-an-android-app-protector-what-developers-should-know-about-xopprotector-19k4)
-- [✨ AI Workflow for Identifying and Updating Liquidation Cascade Criteria](https://dev.to/tripolskypetr/ai-workflow-for-identifying-and-updating-liquidation-cascade-criteria-1l1n)
-- [Benefits of Penetration Testing as a Service&lpar;PTaaS&rpar;](https://dev.to/whotarusharora/benefits-of-penetration-testing-as-a-serviceptaas-37ca)
+- [[Boost]](https://dev.to/techwithsam/-3i4j)
+- [AI Trends 2025 - The Enterprise Reality Check Nobody&#39;s Talking About](https://dev.to/alden_menzalji/ai-trends-2025-the-enterprise-reality-check-nobodys-talking-about-14c9)
+- [AI Agent Skills: Everything You Need to Know](https://dev.to/techwithsam/ai-agent-skills-everything-you-need-to-know-44pi)
+- [Conversor Brasil - Ferramenta de conversão](https://dev.to/antonio_luis_rossi/conversor-brasil-ferramenta-de-conversao-2nmp)
+- [A one-page brief gives an AI agent enough context to stay useful](https://dev.to/xiaobei/a-one-page-brief-gives-an-ai-agent-enough-context-to-stay-useful-4e23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
