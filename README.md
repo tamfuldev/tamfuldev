@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic’s AI R&amp;D Measurements Point to a Broader Transparency Model](https://dev.to/alifar/anthropics-ai-rd-measurements-point-to-a-broader-transparency-model-39m4)
-- [Manage Internal DNS Hostnames from Infrastructure Code in 4 Deploy Steps](https://dev.to/judsonrhodes1569/manage-internal-dns-hostnames-from-infrastructure-code-in-4-deploy-steps-43fd)
-- [Building a Real Android Development Loop on an ARM64 Phone with Ternux + ADT](https://dev.to/soobujmiah/building-an-arm64-android-development-environment-adt-ternux-4bi1)
-- [Stop Asking Which Agentic Coding Methodology to Use](https://dev.to/dmitryame/stop-asking-which-agentic-coding-methodology-to-use-1bij)
-- [OpenAI Astra for Law Brings GPT-6 Astra to Legal Research and Workflow Building](https://dev.to/alifar/openai-astra-for-law-brings-gpt-6-astra-to-legal-research-and-workflow-building-4no6)
+- [GitHub AI Repos ประจำสัปดาห์: สกิลจัดรูปแบบชนะเฟรมเวิร์ก &lpar;16 ก.ย. 2026&rpar;](https://dev.to/sarantoon/github-ai-repos-pracchamsapdaah-skilcchadruupaebbchnaefrmewirk-16-ky-2026-545f)
+- [Testing webhook retries deterministically: a fault sequence per Idempotency-Key](https://dev.to/emma_teelylabs/testing-webhook-retries-deterministically-a-fault-sequence-per-idempotency-key-1k19)
+- [🎮 Neon Caverns: A Platformer Built with Limn Engine — Play It Now](https://dev.to/kehinde_owolabi_e2e54567a/neon-caverns-a-platformer-built-with-limn-engine-play-it-now-1alc)
+- [Pin urlencode doseq and quote_via Before One Query Extract](https://dev.to/hackrs_6393/pin-urlencode-doseq-and-quotevia-before-one-query-extract-44pm)
+- [A 200 response can still break your API integration](https://dev.to/ymousanon924/a-200-response-can-still-break-your-api-integration-5eki)
 <!-- BLOG-POST-LIST:END -->
 
 ---
