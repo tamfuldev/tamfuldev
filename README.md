@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub AI Repos ประจำสัปดาห์: สกิลจัดรูปแบบชนะเฟรมเวิร์ก &lpar;16 ก.ย. 2026&rpar;](https://dev.to/sarantoon/github-ai-repos-pracchamsapdaah-skilcchadruupaebbchnaefrmewirk-16-ky-2026-545f)
-- [Testing webhook retries deterministically: a fault sequence per Idempotency-Key](https://dev.to/emma_teelylabs/testing-webhook-retries-deterministically-a-fault-sequence-per-idempotency-key-1k19)
-- [🎮 Neon Caverns: A Platformer Built with Limn Engine — Play It Now](https://dev.to/kehinde_owolabi_e2e54567a/neon-caverns-a-platformer-built-with-limn-engine-play-it-now-1alc)
-- [Pin urlencode doseq and quote_via Before One Query Extract](https://dev.to/hackrs_6393/pin-urlencode-doseq-and-quotevia-before-one-query-extract-44pm)
-- [A 200 response can still break your API integration](https://dev.to/ymousanon924/a-200-response-can-still-break-your-api-integration-5eki)
+- [The Machine That finally Wake Up](https://dev.to/akashholycowprojects/the-machine-that-finally-wake-up-en2)
+- [CVE-2026-76423: The Cisco ISE REST API Flaw That Hands Out Admin Without a Password](https://dev.to/kozhevniko/cve-2026-76423-the-cisco-ise-rest-api-flaw-that-hands-out-admin-without-a-password-4fe1)
+- [R8 Is Not an Android App Protector: What Developers Should Know About XopProtector](https://dev.to/_02872163a196e011/r8-is-not-an-android-app-protector-what-developers-should-know-about-xopprotector-19k4)
+- [✨ AI Workflow for Identifying and Updating Liquidation Cascade Criteria](https://dev.to/tripolskypetr/ai-workflow-for-identifying-and-updating-liquidation-cascade-criteria-1l1n)
+- [Benefits of Penetration Testing as a Service&lpar;PTaaS&rpar;](https://dev.to/whotarusharora/benefits-of-penetration-testing-as-a-serviceptaas-37ca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
