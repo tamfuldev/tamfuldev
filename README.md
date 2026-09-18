@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/techwithsam/-3i4j)
-- [AI Trends 2025 - The Enterprise Reality Check Nobody&#39;s Talking About](https://dev.to/alden_menzalji/ai-trends-2025-the-enterprise-reality-check-nobodys-talking-about-14c9)
-- [AI Agent Skills: Everything You Need to Know](https://dev.to/techwithsam/ai-agent-skills-everything-you-need-to-know-44pi)
-- [Conversor Brasil - Ferramenta de conversão](https://dev.to/antonio_luis_rossi/conversor-brasil-ferramenta-de-conversao-2nmp)
-- [A one-page brief gives an AI agent enough context to stay useful](https://dev.to/xiaobei/a-one-page-brief-gives-an-ai-agent-enough-context-to-stay-useful-4e23)
+- [Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford&#39;s Code in Place X, and Dev3Pack Hackathon](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm)
+- [SSH Permission Denied &lpar;publickey&rpar;: The Real Fix](https://dev.to/mrsaynothing/ssh-permission-denied-publickey-the-real-fix-22p1)
+- [WebAssembly Beyond the Browser: Building a Sandboxed Plugin System in Node.js &amp; Go](https://dev.to/mindinu/webassembly-beyond-the-browser-building-a-sandboxed-plugin-system-in-nodejs-go-eo0)
+- [Anatomy of a scam campaign, from the point of view of a link shortener](https://dev.to/caspii/anatomy-of-a-scam-campaign-from-the-point-of-view-of-a-link-shortener-297j)
+- [JSON.parse throws on every token your LLM streams. Here&#39;s a 425-byte fix.](https://dev.to/acegikmo135/jsonparse-throws-on-every-token-your-llm-streams-heres-a-425-byte-fix-1cne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
