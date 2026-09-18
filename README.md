@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback](https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj)
-- [How Claude Can Speed Up CRO Audits Without Replacing Human Validation](https://dev.to/alifar/how-claude-can-speed-up-cro-audits-without-replacing-human-validation-3511)
-- [Why You Should Not Commit Your Specs](https://dev.to/carstenbehrens/why-you-should-not-commit-your-specs-440g)
-- [How I Built 30 Privacy-First Dev Tools with Blazor WebAssembly &lpar;and Why Nothing Leaves Your Browser&rpar;](https://dev.to/sarfaraznaushad/how-i-built-30-privacy-first-dev-tools-with-blazor-webassembly-and-why-nothing-leaves-your-browser-4jio)
-- [Building a Modern Crash Debugger](https://dev.to/loren_sl/building-a-modern-crash-debugger-1col)
+- [Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4)
+- [WEEKEND HOMEWORK — Restaurant Company CI](https://dev.to/jumptotech/weekend-homework-restaurant-company-ci-484j)
+- [It&#39;s Got What Content Craves: Sanity, Built for the People of Idiocracy](https://dev.to/xbill/its-got-what-content-craves-sanity-built-for-the-people-of-idiocracy-4k84)
+- [Win at WFH: How to be remote, visible, and sane all at once 🧑‍💻](https://dev.to/sonika_onboardedhq/win-at-wfh-how-to-be-remote-visible-and-sane-all-at-once-9nf)
+- [How I Turned a 10-Year-Old Galaxy Note 4 into a 1.2W Linux Server for Marine Safety](https://dev.to/keremkalyoncu/how-i-turned-a-10-year-old-galaxy-note-4-into-a-12w-linux-server-for-marine-safety-1lb5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
