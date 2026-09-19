@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4)
-- [WEEKEND HOMEWORK — Restaurant Company CI](https://dev.to/jumptotech/weekend-homework-restaurant-company-ci-484j)
-- [It&#39;s Got What Content Craves: Sanity, Built for the People of Idiocracy](https://dev.to/xbill/its-got-what-content-craves-sanity-built-for-the-people-of-idiocracy-4k84)
-- [Win at WFH: How to be remote, visible, and sane all at once 🧑‍💻](https://dev.to/sonika_onboardedhq/win-at-wfh-how-to-be-remote-visible-and-sane-all-at-once-9nf)
-- [How I Turned a 10-Year-Old Galaxy Note 4 into a 1.2W Linux Server for Marine Safety](https://dev.to/keremkalyoncu/how-i-turned-a-10-year-old-galaxy-note-4-into-a-12w-linux-server-for-marine-safety-1lb5)
+- [Why I Chose Node.js Transactional Email API — Password Reset Templates That Deliver](https://dev.to/jasperflint6947/why-i-chose-nodejs-transactional-email-api-password-reset-templates-that-deliver-528m)
+- [The 2026 Pragmatic Stack: Mengapa PostgreSQL dan Go Menang Melawan Stack Sprawl](https://dev.to/hellogung/the-2026-pragmatic-stack-mengapa-postgresql-dan-go-menang-melawan-stack-sprawl-1900)
+- [Integrity-OS: Promise Proof](https://dev.to/jedser/integrity-os-promise-proof-5eki)
+- [Building a Temporary Message Sharing API with NestJS, PostgreSQL, Prisma &amp; Redis](https://dev.to/vedant48/building-a-temporary-message-sharing-api-with-nestjs-postgresql-prisma-redis-8el)
+- [AI, Financial Market Analysis, and the Search for an Edge](https://dev.to/agdal/ai-financial-market-analysis-and-the-search-for-an-edge-5f9k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
