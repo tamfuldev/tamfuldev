@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Node.js Transactional Email API — Password Reset Templates That Deliver](https://dev.to/jasperflint6947/why-i-chose-nodejs-transactional-email-api-password-reset-templates-that-deliver-528m)
-- [The 2026 Pragmatic Stack: Mengapa PostgreSQL dan Go Menang Melawan Stack Sprawl](https://dev.to/hellogung/the-2026-pragmatic-stack-mengapa-postgresql-dan-go-menang-melawan-stack-sprawl-1900)
-- [Integrity-OS: Promise Proof](https://dev.to/jedser/integrity-os-promise-proof-5eki)
-- [Building a Temporary Message Sharing API with NestJS, PostgreSQL, Prisma &amp; Redis](https://dev.to/vedant48/building-a-temporary-message-sharing-api-with-nestjs-postgresql-prisma-redis-8el)
-- [AI, Financial Market Analysis, and the Search for an Edge](https://dev.to/agdal/ai-financial-market-analysis-and-the-search-for-an-edge-5f9k)
+- [How to Verify Self-Hosted LLM Tool Specs Before Building](https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d)
+- [VIGÍA ML: Gas-Well Predictive Monitoring That Runs Entirely in the Browser &lpar;TensorFlow.js + React&rpar;](https://dev.to/edison_flores_6d2cd381b13/vigia-ml-gas-well-predictive-monitoring-that-runs-entirely-in-the-browser-tensorflowjs-react-2coa)
+- [Model Truth Desk: constraint-checked model decisions from primary sources](https://dev.to/wraith1337/model-truth-desk-constraint-checked-model-decisions-from-primary-sources-1pcg)
+- [3 Weeks of Silent Failure: How One Missing `--model` Flag Drained My Interactive Quota Across 4 Jobs](https://dev.to/bokuwalily/3-weeks-of-silent-failure-how-one-missing-model-flag-drained-my-interactive-quota-across-4-jobs-1gp2)
+- [Why OpenAI Safety Incidents Keep Happening &lpar;And How to Guardrail Your LLM Pipeline&rpar;](https://dev.to/hamza_dev_talks/why-openai-safety-incidents-keep-happening-and-how-to-guardrail-your-llm-pipeline-4c1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
