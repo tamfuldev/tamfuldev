@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dumping Every User&#39;s Plaintext Password Without Touching the Database](https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob)
-- [Token-Efficient Agentic Development — Part 1: What Are You Actually Paying For?](https://dev.to/marxon/token-efficient-agentic-development-part-1-what-are-you-actually-paying-for-4kma)
-- [The model is the easy part. What building Dantiva taught me](https://dev.to/ilinmaks/the-model-is-the-easy-part-what-building-dantiva-taught-me-57e4)
-- [Claude Code Session Compaction in 2026: How Context Summarization Works and What Your Agent Forgets](https://dev.to/jsmanifest/claude-code-session-compaction-in-2026-how-context-summarization-works-and-what-your-agent-forgets-am0)
-- [How I Built an Offline AI-Powered HTML to WordPress Theme Generator](https://dev.to/kiani_e55ae9c94c3f8e86abf/how-i-built-an-offline-ai-powered-html-to-wordpress-theme-generator-1ld)
+- [AMD Local LLM Setup on Windows/Linux: ROCm Overrides &amp; Vulkan vs. HIP Benchmarking](https://dev.to/xanpavle/amd-local-llm-setup-on-windowslinux-rocm-overrides-vulkan-vs-hip-benchmarking-15p2)
+- [[Boost]](https://dev.to/anthonymax/-5c8d)
+- [How Many MikroTik Devices Are Actually Reachable From the Internet?](https://dev.to/bianliang/how-many-mikrotik-devices-are-actually-reachable-from-the-internet-1h76)
+- [Linux desktop icons are dull, so I drew a better set and made it free](https://dev.to/thissayantan/linux-desktop-icons-are-dull-so-i-drew-a-better-set-and-made-it-free-5af0)
+- [The fake job interview that installs malware](https://dev.to/fourleaf/the-fake-job-interview-that-installs-malware-2n1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
