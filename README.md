@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Make an LLM Do the Grunt Work? After Jev, Who Should Handle an Agent’s Tool Work?](https://dev.to/momolandnacy2del/why-make-an-llm-do-the-grunt-work-after-jev-who-should-handle-an-agents-tool-work-3nm3)
-- [Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent](https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6)
-- [The Contract Is a .proto File](https://dev.to/anton_brilliantov/the-contract-is-a-proto-file-48g9)
-- [Brilliant 11 years old](https://dev.to/devmarchistar/brilliant-11-years-old-2cjd)
-- [Turn chats into Skills, Skills into scripts](https://dev.to/0xandrewshu/turn-chats-into-skills-skills-into-scripts-2ndg)
+- [Dumping Every User&#39;s Plaintext Password Without Touching the Database](https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob)
+- [Token-Efficient Agentic Development — Part 1: What Are You Actually Paying For?](https://dev.to/marxon/token-efficient-agentic-development-part-1-what-are-you-actually-paying-for-4kma)
+- [The model is the easy part. What building Dantiva taught me](https://dev.to/ilinmaks/the-model-is-the-easy-part-what-building-dantiva-taught-me-57e4)
+- [Claude Code Session Compaction in 2026: How Context Summarization Works and What Your Agent Forgets](https://dev.to/jsmanifest/claude-code-session-compaction-in-2026-how-context-summarization-works-and-what-your-agent-forgets-am0)
+- [How I Built an Offline AI-Powered HTML to WordPress Theme Generator](https://dev.to/kiani_e55ae9c94c3f8e86abf/how-i-built-an-offline-ai-powered-html-to-wordpress-theme-generator-1ld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
