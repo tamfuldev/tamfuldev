@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Verify Self-Hosted LLM Tool Specs Before Building](https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d)
-- [VIGÍA ML: Gas-Well Predictive Monitoring That Runs Entirely in the Browser &lpar;TensorFlow.js + React&rpar;](https://dev.to/edison_flores_6d2cd381b13/vigia-ml-gas-well-predictive-monitoring-that-runs-entirely-in-the-browser-tensorflowjs-react-2coa)
-- [Model Truth Desk: constraint-checked model decisions from primary sources](https://dev.to/wraith1337/model-truth-desk-constraint-checked-model-decisions-from-primary-sources-1pcg)
-- [3 Weeks of Silent Failure: How One Missing `--model` Flag Drained My Interactive Quota Across 4 Jobs](https://dev.to/bokuwalily/3-weeks-of-silent-failure-how-one-missing-model-flag-drained-my-interactive-quota-across-4-jobs-1gp2)
-- [Why OpenAI Safety Incidents Keep Happening &lpar;And How to Guardrail Your LLM Pipeline&rpar;](https://dev.to/hamza_dev_talks/why-openai-safety-incidents-keep-happening-and-how-to-guardrail-your-llm-pipeline-4c1c)
+- [Jev Does Not Replace the LLM. It Changes Who Owns the Decision](https://dev.to/miruky/jev-does-not-replace-the-llm-it-changes-who-owns-the-decision-3n6)
+- [6 คอนเทนเนอร์ Docker แทน Google และราคาที่ต้องจ่ายจริง](https://dev.to/sarantoon/6-khnethnenr-docker-aethn-google-aelaraakhaathiitngcchaaycchring-2d9b)
+- [Time in Queue Is Not Free](https://dev.to/hackrs_3352/time-in-queue-is-not-free-3fo0)
+- [Linux Permissions made easy](https://dev.to/iabdsam/linux-permissions-made-easy-2i58)
+- [Every Prompt Is an Egress Event](https://dev.to/codepro_4664/every-prompt-is-an-egress-event-4g39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
