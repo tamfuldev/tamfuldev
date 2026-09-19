@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jev Does Not Replace the LLM. It Changes Who Owns the Decision](https://dev.to/miruky/jev-does-not-replace-the-llm-it-changes-who-owns-the-decision-3n6)
-- [6 คอนเทนเนอร์ Docker แทน Google และราคาที่ต้องจ่ายจริง](https://dev.to/sarantoon/6-khnethnenr-docker-aethn-google-aelaraakhaathiitngcchaaycchring-2d9b)
-- [Time in Queue Is Not Free](https://dev.to/hackrs_3352/time-in-queue-is-not-free-3fo0)
-- [Linux Permissions made easy](https://dev.to/iabdsam/linux-permissions-made-easy-2i58)
-- [Every Prompt Is an Egress Event](https://dev.to/codepro_4664/every-prompt-is-an-egress-event-4g39)
+- [CVE-2026-63349: CVE-2026-63349: Privilege Dropping Bypass and Denial of Service in AnyIO Subprocess Module](https://dev.to/cverports/cve-2026-63349-cve-2026-63349-privilege-dropping-bypass-and-denial-of-service-in-anyio-subprocess-2ojb)
+- [Pull the tenant from the auth context, not the request body](https://dev.to/authbyexample1/pull-the-tenant-from-the-auth-context-not-the-request-body-dag)
+- [Microsoft Exec&#39;s Warning: AI Scraping, &#39;The Largest Theft of Labor in Human History&#39;](https://dev.to/toshit_jain_06808a35619d1/microsoft-execs-warning-ai-scraping-the-largest-theft-of-labor-in-human-history-382j)
+- [Hello DEV Community! 👋 Building Web Apps &amp; Sharing My Journey](https://dev.to/moeez_irshad_dev/hello-dev-community-building-web-apps-sharing-my-journey-33jd)
+- [We scanned 1,939 repositories. 95% of projects publishing an OpenAPI spec have no compatibility gate.](https://dev.to/deepaksatyam/we-scanned-1939-repositories-95-of-projects-publishing-an-openapi-spec-have-no-compatibility-51of)
 <!-- BLOG-POST-LIST:END -->
 
 ---
