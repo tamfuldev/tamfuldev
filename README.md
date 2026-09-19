@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-63349: CVE-2026-63349: Privilege Dropping Bypass and Denial of Service in AnyIO Subprocess Module](https://dev.to/cverports/cve-2026-63349-cve-2026-63349-privilege-dropping-bypass-and-denial-of-service-in-anyio-subprocess-2ojb)
-- [Pull the tenant from the auth context, not the request body](https://dev.to/authbyexample1/pull-the-tenant-from-the-auth-context-not-the-request-body-dag)
-- [Microsoft Exec&#39;s Warning: AI Scraping, &#39;The Largest Theft of Labor in Human History&#39;](https://dev.to/toshit_jain_06808a35619d1/microsoft-execs-warning-ai-scraping-the-largest-theft-of-labor-in-human-history-382j)
-- [Hello DEV Community! 👋 Building Web Apps &amp; Sharing My Journey](https://dev.to/moeez_irshad_dev/hello-dev-community-building-web-apps-sharing-my-journey-33jd)
-- [We scanned 1,939 repositories. 95% of projects publishing an OpenAPI spec have no compatibility gate.](https://dev.to/deepaksatyam/we-scanned-1939-repositories-95-of-projects-publishing-an-openapi-spec-have-no-compatibility-51of)
+- [Why Make an LLM Do the Grunt Work? After Jev, Who Should Handle an Agent’s Tool Work?](https://dev.to/momolandnacy2del/why-make-an-llm-do-the-grunt-work-after-jev-who-should-handle-an-agents-tool-work-3nm3)
+- [Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent](https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6)
+- [The Contract Is a .proto File](https://dev.to/anton_brilliantov/the-contract-is-a-proto-file-48g9)
+- [Brilliant 11 years old](https://dev.to/devmarchistar/brilliant-11-years-old-2cjd)
+- [Turn chats into Skills, Skills into scripts](https://dev.to/0xandrewshu/turn-chats-into-skills-skills-into-scripts-2ndg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
