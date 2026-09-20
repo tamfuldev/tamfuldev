@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built ASOShot: A Free App Store Screenshot Editor](https://dev.to/chnkc41/why-i-built-asoshot-a-free-app-store-screenshot-editor-5apf)
-- [I turned a real OpenAPI into an MCP server in 5 min &lpar;without losing custom code on regen&rpar;](https://dev.to/christopherdond/i-turned-a-real-openapi-into-an-mcp-server-in-5-min-without-losing-custom-code-on-regen-2j2k)
-- [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif)
-- [How OpenAI agents attacked HuggingFace](https://dev.to/anshu_agrawal/how-openai-agents-attacked-huggingface-3a9j)
-- [CSS Box Model](https://dev.to/mvarshith/css-box-model-1cd6)
+- [Every AI Feature Has an Energy Cost](https://dev.to/dvblog/every-ai-feature-has-an-energy-cost-1mp5)
+- [The Tracker Is the Spine](https://dev.to/anton_brilliantov/the-tracker-is-the-spine-b3h)
+- [Security Telemetry on a Budget: Building a Practical Elastic Baseline for a Growing Product Team](https://dev.to/bulwark-advisory/security-telemetry-on-a-budget-building-a-practical-elastic-baseline-for-a-growing-product-team-lgb)
+- [178 reports in one afternoon: what a publish burst does to an LLM pipeline](https://dev.to/cornelcroi/178-reports-in-one-afternoon-what-a-publish-burst-does-to-an-llm-pipeline-4jj9)
+- [Teaching our on-device assistant to say &quot;I don&#39;t know&quot;](https://dev.to/familia_sync/teaching-our-on-device-assistant-to-say-i-dont-know-66m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
