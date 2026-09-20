@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why software supply-chain management matters more in the AI era](https://dev.to/adriano_ferreira_88541434/why-software-supply-chain-management-matters-more-in-the-ai-era-3ia0)
-- [Incident Context: tracing production failures without guessing](https://dev.to/anilloutombam/incident-context-tracing-production-failures-without-guessing-5b6i)
-- [How I Debugged a KV-Cache Offloading Bug in vLLM](https://dev.to/debasish87/how-i-debugged-a-kv-cache-offloading-bug-in-vllm-52lj)
-- [Field Notes from an Agent-Run Site #1: The Machine Ships. I Approve.](https://dev.to/mrsaynothing/field-notes-from-an-agent-run-site-1-the-machine-ships-i-approve-46ng)
-- [Faster Maps: Chasing Swiss Speed](https://dev.to/codenameone/faster-maps-chasing-swiss-speed-pl7)
+- [Why I Built ASOShot: A Free App Store Screenshot Editor](https://dev.to/chnkc41/why-i-built-asoshot-a-free-app-store-screenshot-editor-5apf)
+- [I turned a real OpenAPI into an MCP server in 5 min &lpar;without losing custom code on regen&rpar;](https://dev.to/christopherdond/i-turned-a-real-openapi-into-an-mcp-server-in-5-min-without-losing-custom-code-on-regen-2j2k)
+- [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif)
+- [How OpenAI agents attacked HuggingFace](https://dev.to/anshu_agrawal/how-openai-agents-attacked-huggingface-3a9j)
+- [CSS Box Model](https://dev.to/mvarshith/css-box-model-1cd6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
