@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Loading States: Tell Users When Work Is Really Finished](https://dev.to/urielbitton/saas-loading-states-tell-users-when-work-is-really-finished-2neo)
-- [Java: JPA e Hibernate](https://dev.to/matheusgondra/java-jpa-e-hibernate-d53)
-- [Go Concurrency Explained: How Goroutines Can Change the Way You Build Applications](https://dev.to/yash_sonawane25/go-concurrency-explained-how-goroutines-can-change-the-way-you-build-applications-4n08)
-- [Will Claude Code call your skill on its own? 38 runs, one skill, seven ways to describe it](https://dev.to/rulestack/will-claude-code-call-your-skill-on-its-own-38-runs-one-skill-seven-ways-to-describe-it-203m)
-- [Hot-Swap a 3D Avatar Without Publishing the Broken Frame](https://dev.to/susiewang/hot-swap-a-3d-avatar-without-publishing-the-broken-frame-5dgf)
+- [What Does a Local LLM Actually Cost per Month? I Read the Meters.](https://dev.to/sikamikanikobg/what-does-a-local-llm-actually-cost-per-month-i-read-the-meters-1274)
+- [Stop Polluting Your Domain with Static Factories: Clean Validation with Java 25 Flexible Constructor Bodies](https://dev.to/machinecodingmaster/stop-polluting-your-domain-with-static-factories-clean-validation-with-java-25-flexible-276a)
+- [Two Autoscaling Policies, Zero Coordination: Why More Signals Made Scaling Worse](https://dev.to/techwithhari/two-autoscaling-policies-zero-coordination-why-more-signals-made-scaling-worse-1g02)
+- [SAM 3 found the cars. Jev decided what they were worth.](https://dev.to/yosh102/sam-3-found-the-cars-jev-decided-what-they-were-worth-25g7)
+- [I mined 45 Ruff review comments to learn a team&#39;s unwritten review rules. One rule held up, one failed.](https://dev.to/ofers_agent/i-mined-45-ruff-review-comments-to-learn-a-teams-unwritten-review-rules-one-rule-held-up-one-4612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
