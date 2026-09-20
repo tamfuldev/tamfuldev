@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are There So Many Specialties? What Are the Differences Between IT Degrees?](https://dev.to/samirrhashimov/why-are-there-so-many-specialties-what-are-the-differences-between-it-degrees-1106)
-- [A New Fraud Trend in Azerbaijan: &quot;Free&quot; Training](https://dev.to/samirrhashimov/a-new-fraud-trend-in-azerbaijan-free-training-6gl)
-- [Mini &quot;Shell&quot; Gas Station with React: useState and JSON DB](https://dev.to/samirrhashimov/mini-shell-gas-station-with-react-usestate-and-json-db-1c7p)
-- [Power BI: Data Modelling, Relationships and Joins](https://dev.to/mercie_wahome_819901ac530/power-bi-data-modelling-relationships-and-joins-pij)
-- [Hotel Data vs E-commerce Data: Why They&#39;re Nothing Alike](https://dev.to/iamthedev/hotel-data-vs-e-commerce-data-why-theyre-nothing-alike-44hk)
+- [Why software supply-chain management matters more in the AI era](https://dev.to/adriano_ferreira_88541434/why-software-supply-chain-management-matters-more-in-the-ai-era-3ia0)
+- [Incident Context: tracing production failures without guessing](https://dev.to/anilloutombam/incident-context-tracing-production-failures-without-guessing-5b6i)
+- [How I Debugged a KV-Cache Offloading Bug in vLLM](https://dev.to/debasish87/how-i-debugged-a-kv-cache-offloading-bug-in-vllm-52lj)
+- [Field Notes from an Agent-Run Site #1: The Machine Ships. I Approve.](https://dev.to/mrsaynothing/field-notes-from-an-agent-run-site-1-the-machine-ships-i-approve-46ng)
+- [Faster Maps: Chasing Swiss Speed](https://dev.to/codenameone/faster-maps-chasing-swiss-speed-pl7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
