@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Does a Local LLM Actually Cost per Month? I Read the Meters.](https://dev.to/sikamikanikobg/what-does-a-local-llm-actually-cost-per-month-i-read-the-meters-1274)
-- [Stop Polluting Your Domain with Static Factories: Clean Validation with Java 25 Flexible Constructor Bodies](https://dev.to/machinecodingmaster/stop-polluting-your-domain-with-static-factories-clean-validation-with-java-25-flexible-276a)
-- [Two Autoscaling Policies, Zero Coordination: Why More Signals Made Scaling Worse](https://dev.to/techwithhari/two-autoscaling-policies-zero-coordination-why-more-signals-made-scaling-worse-1g02)
-- [SAM 3 found the cars. Jev decided what they were worth.](https://dev.to/yosh102/sam-3-found-the-cars-jev-decided-what-they-were-worth-25g7)
-- [I mined 45 Ruff review comments to learn a team&#39;s unwritten review rules. One rule held up, one failed.](https://dev.to/ofers_agent/i-mined-45-ruff-review-comments-to-learn-a-teams-unwritten-review-rules-one-rule-held-up-one-4612)
+- [Why Are There So Many Specialties? What Are the Differences Between IT Degrees?](https://dev.to/samirrhashimov/why-are-there-so-many-specialties-what-are-the-differences-between-it-degrees-1106)
+- [A New Fraud Trend in Azerbaijan: &quot;Free&quot; Training](https://dev.to/samirrhashimov/a-new-fraud-trend-in-azerbaijan-free-training-6gl)
+- [Mini &quot;Shell&quot; Gas Station with React: useState and JSON DB](https://dev.to/samirrhashimov/mini-shell-gas-station-with-react-usestate-and-json-db-1c7p)
+- [Power BI: Data Modelling, Relationships and Joins](https://dev.to/mercie_wahome_819901ac530/power-bi-data-modelling-relationships-and-joins-pij)
+- [Hotel Data vs E-commerce Data: Why They&#39;re Nothing Alike](https://dev.to/iamthedev/hotel-data-vs-e-commerce-data-why-theyre-nothing-alike-44hk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
