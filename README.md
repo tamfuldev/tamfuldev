@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hard Gate for AI Agents: How kern Maps Code Repositories Without Network Latency or Cost](https://dev.to/jayveer_prajapati_514b38d/building-a-hard-gate-for-ai-agents-how-kern-maps-code-repositories-without-network-latency-or-cost-2fjh)
-- [How to Build an AI-Ready Web Data Pipeline Using Bright Data and Node.js](https://dev.to/codewithshahan/how-to-build-an-ai-ready-web-data-pipeline-using-bright-data-and-nodejs-gc3)
-- [A New Take on Raw SQL in Python](https://dev.to/doekman/a-new-take-on-raw-sql-in-python-13ne)
-- [CBN Regulatory Sandbox Cohort 2 — Technical Guide for Nigerian Fintech Builders](https://dev.to/zikarelhub/cbn-regulatory-sandbox-cohort-2-technical-guide-for-nigerian-fintech-builders-59fa)
-- [Read how monday.com is testing AI agents!](https://dev.to/rinkiyakedad/read-how-mondaycom-is-testing-ai-agents-38mj)
+- [FinOps Meets Architecture: Tiering ClickHouse from EBS to S3 Without Touching a Query](https://dev.to/shadowsaurus/finops-meets-architecture-tiering-clickhouse-from-ebs-to-s3-without-touching-a-query-21d9)
+- [We burned 40 billion tokens &lpar;~$20k&rpar; building a harness. Am I crazy?](https://dev.to/istin/we-burned-40-billion-tokens-20k-building-a-harness-am-i-crazy-2gbk)
+- [[quick-revisit]: Event Loop - Browser vs. Node.js](https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307)
+- [CSS properties I learned today:](https://dev.to/sathish_kumar_967/css-properties-i-learned-today-2i4f)
+- [Google Maps’ 72 Ranking Signals Reveal a More Complex Model of Local Visibility](https://dev.to/alifar/google-maps-72-ranking-signals-reveal-a-more-complex-model-of-local-visibility-3jjc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
