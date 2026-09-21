@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de Prompts: de Zero-shot a Retrieval Augmented Generation](https://dev.to/luiscruzcwb/engenharia-de-prompts-de-zero-shot-a-retrieval-augmented-generation-44aj)
-- [Overpatch and Heapjack: Two Techniques for Bypassing Codex&#39;s Write Restrictions and Escaping Its Read-Only Sandbox](https://dev.to/anoymask/overpatch-and-heapjack-two-techniques-for-bypassing-codexs-write-restrictions-and-escaping-its-48of)
-- [indexed-btree: npm Supply Chain Malware Executes at Runtime and Uses a Smart Contract on Ethereum Sepolia for C2](https://dev.to/anoymask/indexed-btree-npm-supply-chain-malware-executes-at-runtime-and-uses-a-smart-contract-on-ethereum-d83)
-- [Architectural Breakdown: i built a green blob that lives on my desktop. now it has feelings.](https://dev.to/agenticstack/architectural-breakdown-i-built-a-green-blob-that-lives-on-my-desktop-now-it-has-feelings-3ehc)
-- [Unreal C++ Course Chapter 109](https://dev.to/liquefier/unreal-c-course-chapter-109-81g)
+- [Governance Attack Surface Review: OKX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-okx-5gke)
+- [Mass segfaults on a ZFS host: not bad RAM, an unsigned underflow in zfs_fillpage&lpar;&rpar;](https://dev.to/bitpage/mass-segfaults-on-a-zfs-host-not-bad-ram-an-unsigned-underflow-in-zfsfillpage-1mgf)
+- [Building a Laravel Marketplace with PostgreSQL While Debugging React State](https://dev.to/zahidhasantonmoy/building-a-laravel-marketplace-with-postgresql-while-debugging-react-state-108e)
+- [React Native Environment Setup: Managing Dev, Prod, and Staging Builds with Android Flavors and iOS Schemes](https://dev.to/prabhasg56/react-native-environment-setup-managing-dev-prod-and-staging-builds-with-android-flavors-and-ios-5hel)
+- [npm publish Ignores .gitignore: The .npmignore Override Rule](https://dev.to/ji_ai/npm-publish-ignores-gitignore-the-npmignore-override-rule-1pjg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
