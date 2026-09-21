@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every AI Feature Has an Energy Cost](https://dev.to/dvblog/every-ai-feature-has-an-energy-cost-1mp5)
-- [The Tracker Is the Spine](https://dev.to/anton_brilliantov/the-tracker-is-the-spine-b3h)
-- [Security Telemetry on a Budget: Building a Practical Elastic Baseline for a Growing Product Team](https://dev.to/bulwark-advisory/security-telemetry-on-a-budget-building-a-practical-elastic-baseline-for-a-growing-product-team-lgb)
-- [178 reports in one afternoon: what a publish burst does to an LLM pipeline](https://dev.to/cornelcroi/178-reports-in-one-afternoon-what-a-publish-burst-does-to-an-llm-pipeline-4jj9)
-- [Teaching our on-device assistant to say &quot;I don&#39;t know&quot;](https://dev.to/familia_sync/teaching-our-on-device-assistant-to-say-i-dont-know-66m)
+- [Engenharia de Prompts: de Zero-shot a Retrieval Augmented Generation](https://dev.to/luiscruzcwb/engenharia-de-prompts-de-zero-shot-a-retrieval-augmented-generation-44aj)
+- [Overpatch and Heapjack: Two Techniques for Bypassing Codex&#39;s Write Restrictions and Escaping Its Read-Only Sandbox](https://dev.to/anoymask/overpatch-and-heapjack-two-techniques-for-bypassing-codexs-write-restrictions-and-escaping-its-48of)
+- [indexed-btree: npm Supply Chain Malware Executes at Runtime and Uses a Smart Contract on Ethereum Sepolia for C2](https://dev.to/anoymask/indexed-btree-npm-supply-chain-malware-executes-at-runtime-and-uses-a-smart-contract-on-ethereum-d83)
+- [Architectural Breakdown: i built a green blob that lives on my desktop. now it has feelings.](https://dev.to/agenticstack/architectural-breakdown-i-built-a-green-blob-that-lives-on-my-desktop-now-it-has-feelings-3ehc)
+- [Unreal C++ Course Chapter 109](https://dev.to/liquefier/unreal-c-course-chapter-109-81g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
