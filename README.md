@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FinOps Meets Architecture: Tiering ClickHouse from EBS to S3 Without Touching a Query](https://dev.to/shadowsaurus/finops-meets-architecture-tiering-clickhouse-from-ebs-to-s3-without-touching-a-query-21d9)
-- [We burned 40 billion tokens &lpar;~$20k&rpar; building a harness. Am I crazy?](https://dev.to/istin/we-burned-40-billion-tokens-20k-building-a-harness-am-i-crazy-2gbk)
-- [[quick-revisit]: Event Loop - Browser vs. Node.js](https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307)
-- [CSS properties I learned today:](https://dev.to/sathish_kumar_967/css-properties-i-learned-today-2i4f)
-- [Google Maps’ 72 Ranking Signals Reveal a More Complex Model of Local Visibility](https://dev.to/alifar/google-maps-72-ranking-signals-reveal-a-more-complex-model-of-local-visibility-3jjc)
+- [AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4)
+- [Google Gemini Notebook Brings Interactive Learning Overviews to All Users](https://dev.to/alifar/google-gemini-notebook-brings-interactive-learning-overviews-to-all-users-1j7)
+- [Why AI coding assistants write clean-looking CSS that breaks in production &lpar;and how to fix it&rpar;](https://dev.to/devpreflight/why-ai-coding-assistants-write-clean-looking-css-that-breaks-in-production-and-how-to-fix-it-4mk1)
+- [Five results: I spent time proving splines don&#39;t help trajectory databases](https://dev.to/artsensiva/five-results-i-spent-time-proving-splines-dont-help-trajectory-databases-2194)
+- [Semrush AI Visibility Index Shows Why Authority Depends on the Query and Sources](https://dev.to/alifar/semrush-ai-visibility-index-shows-why-authority-depends-on-the-query-and-sources-5eh3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
