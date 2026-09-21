@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Governance Attack Surface Review: OKX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-okx-5gke)
-- [Mass segfaults on a ZFS host: not bad RAM, an unsigned underflow in zfs_fillpage&lpar;&rpar;](https://dev.to/bitpage/mass-segfaults-on-a-zfs-host-not-bad-ram-an-unsigned-underflow-in-zfsfillpage-1mgf)
-- [Building a Laravel Marketplace with PostgreSQL While Debugging React State](https://dev.to/zahidhasantonmoy/building-a-laravel-marketplace-with-postgresql-while-debugging-react-state-108e)
-- [React Native Environment Setup: Managing Dev, Prod, and Staging Builds with Android Flavors and iOS Schemes](https://dev.to/prabhasg56/react-native-environment-setup-managing-dev-prod-and-staging-builds-with-android-flavors-and-ios-5hel)
-- [npm publish Ignores .gitignore: The .npmignore Override Rule](https://dev.to/ji_ai/npm-publish-ignores-gitignore-the-npmignore-override-rule-1pjg)
+- [Building a Hard Gate for AI Agents: How kern Maps Code Repositories Without Network Latency or Cost](https://dev.to/jayveer_prajapati_514b38d/building-a-hard-gate-for-ai-agents-how-kern-maps-code-repositories-without-network-latency-or-cost-2fjh)
+- [How to Build an AI-Ready Web Data Pipeline Using Bright Data and Node.js](https://dev.to/codewithshahan/how-to-build-an-ai-ready-web-data-pipeline-using-bright-data-and-nodejs-gc3)
+- [A New Take on Raw SQL in Python](https://dev.to/doekman/a-new-take-on-raw-sql-in-python-13ne)
+- [CBN Regulatory Sandbox Cohort 2 — Technical Guide for Nigerian Fintech Builders](https://dev.to/zikarelhub/cbn-regulatory-sandbox-cohort-2-technical-guide-for-nigerian-fintech-builders-59fa)
+- [Read how monday.com is testing AI agents!](https://dev.to/rinkiyakedad/read-how-mondaycom-is-testing-ai-agents-38mj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
