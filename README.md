@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4)
-- [Google Gemini Notebook Brings Interactive Learning Overviews to All Users](https://dev.to/alifar/google-gemini-notebook-brings-interactive-learning-overviews-to-all-users-1j7)
-- [Why AI coding assistants write clean-looking CSS that breaks in production &lpar;and how to fix it&rpar;](https://dev.to/devpreflight/why-ai-coding-assistants-write-clean-looking-css-that-breaks-in-production-and-how-to-fix-it-4mk1)
-- [Five results: I spent time proving splines don&#39;t help trajectory databases](https://dev.to/artsensiva/five-results-i-spent-time-proving-splines-dont-help-trajectory-databases-2194)
-- [Semrush AI Visibility Index Shows Why Authority Depends on the Query and Sources](https://dev.to/alifar/semrush-ai-visibility-index-shows-why-authority-depends-on-the-query-and-sources-5eh3)
+- [Domain Verification vs Email Confirmation for Workspace Joining — Control in 2026](https://dev.to/oskarholm4968/domain-verification-vs-email-confirmation-for-workspace-joining-control-in-2026-30o2)
+- [MCP Debate: Token Tax, Context Bloat, and What Devs Can Do](https://dev.to/cogumellum/mcp-debate-token-tax-context-bloat-and-what-devs-can-do-2npo)
+- [06 — Chat Works. Does the Agent Actually Retrieve Memory?](https://dev.to/liuyuyan6100/06-chat-works-does-the-agent-actually-retrieve-memory-21hf)
+- [05 - After Wiring Up TencentDB Agent Memory, Why I&#39;m Still Reading About Mnemosyne OS](https://dev.to/liuyuyan6100/05-after-wiring-up-tencentdb-agent-memory-why-im-still-reading-about-mnemosyne-os-11a2)
+- [Media Encryption &amp; Port Protection Deep Dive: USB Control, Encryption &amp; Device Authorization](https://dev.to/jorgeluiznim/media-encryption-port-protection-deep-dive-usb-control-encryption-device-authorization-3oml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
