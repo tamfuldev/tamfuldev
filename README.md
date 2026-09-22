@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-AZ Is Not a Recoverability Boundary](https://dev.to/ntctech/multi-az-is-not-a-recoverability-boundary-446f)
-- [ai-memory: Persistent Cross-Agent Long-Term Memory for Coding CLIs](https://dev.to/terminalchai/ai-memory-persistent-cross-agent-long-term-memory-for-coding-clis-3c40)
-- [打造全自动代码门禁：基于 OpenAI Codex 与 GitHub Actions 的生产级 PR 智能审查流水线](https://dev.to/gretchenweimannrh111/da-zao-quan-zi-dong-dai-ma-men-jin-ji-yu-openai-codex-yu-github-actions-de-sheng-chan-ji-pr-zhi-neng-shen-cha-liu-shui-xian-1apf)
-- [My Stripe Webhooks Were Failing 96% of the Time](https://dev.to/marcoblch/my-stripe-webhooks-were-failing-96-of-the-time-2pdo)
-- [Debugging a Compound Interest Calculation: A Coder&#39;s Field Guide to Finding the Off-by-One-Period Bug](https://dev.to/lizely/debugging-a-compound-interest-calculation-a-coders-field-guide-to-finding-the-off-by-one-period-p73)
+- [Automating Android Play Store Releases, Part 3: The Storage-Quota Wall](https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663)
+- [Do You Really Need Python to Build AI Agents and Test Their Security?](https://dev.to/wasa-confidence/do-you-really-need-python-to-build-ai-agents-and-test-their-security-4kn6)
+- [I Built a Virtual Machine Inside the Xbox Sandbox. Then I Let AI Agents Build on Top of It.](https://dev.to/danielecangi/i-built-a-virtual-machine-inside-the-xbox-sandbox-then-i-let-ai-agents-build-on-top-of-it-ef0)
+- [Send Order Shipped Event Email and SMS Reports &lpar;With Actionable Delivery Alerts&rpar;](https://dev.to/alariccross6851/send-order-shipped-event-email-and-sms-reports-with-actionable-delivery-alerts-j5o)
+- [IA, transformação digital e engenharia de software](https://dev.to/ojoaothe/ia-transformacao-digital-e-engenharia-de-software-5gp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
