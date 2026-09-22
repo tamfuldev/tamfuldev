@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Verification vs Email Confirmation for Workspace Joining — Control in 2026](https://dev.to/oskarholm4968/domain-verification-vs-email-confirmation-for-workspace-joining-control-in-2026-30o2)
-- [MCP Debate: Token Tax, Context Bloat, and What Devs Can Do](https://dev.to/cogumellum/mcp-debate-token-tax-context-bloat-and-what-devs-can-do-2npo)
-- [06 — Chat Works. Does the Agent Actually Retrieve Memory?](https://dev.to/liuyuyan6100/06-chat-works-does-the-agent-actually-retrieve-memory-21hf)
-- [05 - After Wiring Up TencentDB Agent Memory, Why I&#39;m Still Reading About Mnemosyne OS](https://dev.to/liuyuyan6100/05-after-wiring-up-tencentdb-agent-memory-why-im-still-reading-about-mnemosyne-os-11a2)
-- [Media Encryption &amp; Port Protection Deep Dive: USB Control, Encryption &amp; Device Authorization](https://dev.to/jorgeluiznim/media-encryption-port-protection-deep-dive-usb-control-encryption-device-authorization-3oml)
+- [Never Use a Display Name for Authorization: Secure Anonymous Editing](https://dev.to/janarthanan_soundararajan/never-use-a-display-name-for-authorization-secure-anonymous-editing-1gn7)
+- [The Linux process that even SIGKILL can&#39;t kill](https://dev.to/aytidadev/the-linux-process-that-even-sigkill-cant-kill-418d)
+- [Stochastic Parrot or Alien Mind? What Really Is An LLM?](https://dev.to/marcobblk/stochastic-parrot-or-alien-mind-what-really-is-an-llm-4kjj)
+- [Resisting Mode Gravity: Why Bigger LLMs Produce Mediocre Output](https://dev.to/guobug/resisting-mode-gravity-why-bigger-llms-produce-mediocre-output-4if2)
+- [Yield Strategy Optimization Report: USDD](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-usdd-3g9p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
