@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping credentials out of your coding agent’s model context](https://dev.to/danielsc/keeping-credentials-out-of-your-coding-agents-model-context-482l)
-- [A Transaction Hash Is Not an Audit Trail for Onchain Automation](https://dev.to/imokokok/a-transaction-hash-is-not-an-audit-trail-for-onchain-automation-pgm)
-- [Monitoring YouTube without the Data API &lpar;and without the quota headache&rpar;](https://dev.to/xixisuperman/monitoring-youtube-without-the-data-api-and-without-the-quota-headache-567a)
-- [I built ChibiRigKit: turning a single character image into an animated 2D rig](https://dev.to/milkc0de/i-built-chibirigkit-turning-a-single-character-image-into-an-animated-2d-rig-2j36)
-- [The Snowflake Iceberg Pivot: Why Your Data Warehouse Should Be a Storage Engine](https://dev.to/aniketsoni/the-snowflake-iceberg-pivot-why-your-data-warehouse-should-be-a-storage-engine-18kn)
+- [Engineering Data Protection for AI Chatbots: A WordPress Case Study](https://dev.to/yuvalcohen/engineering-data-protection-for-ai-chatbots-a-wordpress-case-study-2j9h)
+- [Sponsored Fees and Reserves — Performance Test Report](https://dev.to/ripplexdev/sponsored-fees-and-reserves-performance-test-report-10da)
+- [Making Claude Code concise without making it dumber: the engineering behind two open-source plugins](https://dev.to/nguyen_jesse_8602dc05abd6/making-claude-code-concise-without-making-it-dumber-the-engineering-behind-two-open-source-plugins-3ll9)
+- [Polymarket TWAP Market Maker: Building a Time-Aware Quote Engine](https://dev.to/nagi777/polymarket-twap-market-maker-building-a-time-aware-quote-engine-1nmo)
+- [Customizable Select: The &lt;select&gt; dropdown FINALLY catches up with CSS](https://dev.to/olivierleplus/customizable-select-the-dropdown-finally-catches-up-with-css-1c60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
