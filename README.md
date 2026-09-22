@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Data Protection for AI Chatbots: A WordPress Case Study](https://dev.to/yuvalcohen/engineering-data-protection-for-ai-chatbots-a-wordpress-case-study-2j9h)
-- [Sponsored Fees and Reserves — Performance Test Report](https://dev.to/ripplexdev/sponsored-fees-and-reserves-performance-test-report-10da)
-- [Making Claude Code concise without making it dumber: the engineering behind two open-source plugins](https://dev.to/nguyen_jesse_8602dc05abd6/making-claude-code-concise-without-making-it-dumber-the-engineering-behind-two-open-source-plugins-3ll9)
-- [Polymarket TWAP Market Maker: Building a Time-Aware Quote Engine](https://dev.to/nagi777/polymarket-twap-market-maker-building-a-time-aware-quote-engine-1nmo)
-- [Customizable Select: The &lt;select&gt; dropdown FINALLY catches up with CSS](https://dev.to/olivierleplus/customizable-select-the-dropdown-finally-catches-up-with-css-1c60)
+- [Multi-AZ Is Not a Recoverability Boundary](https://dev.to/ntctech/multi-az-is-not-a-recoverability-boundary-446f)
+- [ai-memory: Persistent Cross-Agent Long-Term Memory for Coding CLIs](https://dev.to/terminalchai/ai-memory-persistent-cross-agent-long-term-memory-for-coding-clis-3c40)
+- [打造全自动代码门禁：基于 OpenAI Codex 与 GitHub Actions 的生产级 PR 智能审查流水线](https://dev.to/gretchenweimannrh111/da-zao-quan-zi-dong-dai-ma-men-jin-ji-yu-openai-codex-yu-github-actions-de-sheng-chan-ji-pr-zhi-neng-shen-cha-liu-shui-xian-1apf)
+- [My Stripe Webhooks Were Failing 96% of the Time](https://dev.to/marcoblch/my-stripe-webhooks-were-failing-96-of-the-time-2pdo)
+- [Debugging a Compound Interest Calculation: A Coder&#39;s Field Guide to Finding the Off-by-One-Period Bug](https://dev.to/lizely/debugging-a-compound-interest-calculation-a-coders-field-guide-to-finding-the-off-by-one-period-p73)
 <!-- BLOG-POST-LIST:END -->
 
 ---
