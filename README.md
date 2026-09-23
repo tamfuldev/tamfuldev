@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I shipped my first iOS app solo — App Store Connect was harder than the app](https://dev.to/wayknow123/i-shipped-my-first-ios-app-solo-app-store-connect-was-harder-than-the-app-3cnk)
-- [ChromaPanel vs Other React Color Pickers: Features, Bundle Size, Accessibility, and More](https://dev.to/re-sohail/chromapanel-vs-other-react-color-pickers-features-bundle-size-accessibility-and-more-2ooc)
-- [A Metric Dropped. What Charts Help Find the Root Cause?](https://dev.to/andreykh/a-metric-dropped-what-charts-help-find-the-root-cause-55h3)
-- [Security Audit Report: Reentrancy &amp; Access Control Review: Hyperliquid Bridge](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-hyperliquid-bridge-4p9n)
-- [Claude Code MCP setup and usage rules](https://dev.to/devlog/claude-code-mcp-setup-and-usage-rules-2l93)
+- [SubScale vs Rocket Money vs Bobby: Which Subscription Tracker Actually Protects Your Privacy?](https://dev.to/jigar_shah_8cfe7cc328966f/subscale-vs-rocket-money-vs-bobby-which-subscription-tracker-actually-protects-your-privacy-192p)
+- [Technical Training on Common Red Team Attack Scenarios During Major Event Security Assurance](https://dev.to/excalibra/technical-training-on-common-red-team-attack-scenarios-during-major-event-security-assurance-268)
+- [HealthAuditor — Website Health &amp; SEO Audit Tool](https://dev.to/mukesh_gurrala_dfe0714b29/healthauditor-website-health-seo-audit-tool-370i)
+- [AI Tools Used in Modern Software Development](https://dev.to/niladri_prasadpadhy_ccee/ai-tools-used-in-modern-software-development-339)
+- [DevOps agentique : Et si le LLM ne devait pas tout décider ?](https://dev.to/gilles_stenger_4edfc766fd/devops-agentique-et-si-le-llm-ne-devait-pas-tout-decider--mci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
