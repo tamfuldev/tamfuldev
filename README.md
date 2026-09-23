@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SubScale vs Rocket Money vs Bobby: Which Subscription Tracker Actually Protects Your Privacy?](https://dev.to/jigar_shah_8cfe7cc328966f/subscale-vs-rocket-money-vs-bobby-which-subscription-tracker-actually-protects-your-privacy-192p)
-- [Technical Training on Common Red Team Attack Scenarios During Major Event Security Assurance](https://dev.to/excalibra/technical-training-on-common-red-team-attack-scenarios-during-major-event-security-assurance-268)
-- [HealthAuditor — Website Health &amp; SEO Audit Tool](https://dev.to/mukesh_gurrala_dfe0714b29/healthauditor-website-health-seo-audit-tool-370i)
-- [AI Tools Used in Modern Software Development](https://dev.to/niladri_prasadpadhy_ccee/ai-tools-used-in-modern-software-development-339)
-- [DevOps agentique : Et si le LLM ne devait pas tout décider ?](https://dev.to/gilles_stenger_4edfc766fd/devops-agentique-et-si-le-llm-ne-devait-pas-tout-decider--mci)
+- [Log in page:](https://dev.to/sathish_kumar_967/log-in-page-1a6h)
+- [KNX Thermostat Preset Modes in Home Assistant](https://dev.to/cloudapp_dev/knx-thermostat-preset-modes-in-home-assistant-3co8)
+- [How to Evaluate Retail Media Networks With a Five-Dimension Framework](https://dev.to/alifar/how-to-evaluate-retail-media-networks-with-a-five-dimension-framework-196g)
+- [Credential Security: What Endpoint Protection Really Means for Secrets](https://dev.to/gitguardian/credential-security-what-endpoint-protection-really-means-for-secrets-4j5c)
+- [Offline GPS Tracking and Haversine Distance](https://dev.to/niladri_prasadpadhy_ccee/offline-gps-tracking-and-haversine-distance-1ba9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
