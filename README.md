@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Lab Notes] Kubernetes the Hard Way, For Real This Time &lpar;Step 08&rpar;](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-08-3m60)
-- [It agreed with the reference 100% of the time. It was right 75% of the time.](https://dev.to/maazkazi/it-agreed-with-the-reference-100-of-the-time-it-was-right-75-of-the-time-5c8k)
-- [Anthropic’s Bay Area Biology Lab Brings Claude Into Wet-Lab Research](https://dev.to/alifar/anthropics-bay-area-biology-lab-brings-claude-into-wet-lab-research-10o4)
-- [Combined Serilog and EF Core Logging to the Same File in ASP .NET Core](https://dev.to/karenpayneoregon/combined-serilog-and-ef-core-logging-to-the-same-file-in-asp-net-core-1cl6)
-- [Pytest in Practice](https://dev.to/nyakio/pytest-in-practice-4oda)
+- [NIGHTCELL 7: When the Ravens Lied, a second Þrøngva album made in code](https://dev.to/chovy/nightcell-7-when-the-ravens-lied-a-second-throngva-album-made-in-code-5597)
+- [ChatGPT Reaches 1 Billion Weekly Users: What Mass AI Adoption Means for Businesses](https://dev.to/alifar/chatgpt-reaches-1-billion-weekly-users-what-mass-ai-adoption-means-for-businesses-2lj5)
+- [What two Contentful builds taught us about content models and publishing boundaries](https://dev.to/madebymonogram/what-two-contentful-builds-taught-us-about-content-models-and-publishing-boundaries-1in0)
+- [Build a Local Automation Enviroment: Self-Hosted n8n + Node.js API with Docker Compose 🐳](https://dev.to/whoismarce/build-a-local-automation-enviroment-self-hosted-n8n-nodejs-api-with-docker-compose-cim)
+- [Building a TWAP Distance-Based Polymarket Trading Strategy](https://dev.to/soulcrancerdev/building-a-twap-distance-based-polymarket-trading-strategy-5ei)
 <!-- BLOG-POST-LIST:END -->
 
 ---
