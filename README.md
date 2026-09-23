@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Log in page:](https://dev.to/sathish_kumar_967/log-in-page-1a6h)
-- [KNX Thermostat Preset Modes in Home Assistant](https://dev.to/cloudapp_dev/knx-thermostat-preset-modes-in-home-assistant-3co8)
-- [How to Evaluate Retail Media Networks With a Five-Dimension Framework](https://dev.to/alifar/how-to-evaluate-retail-media-networks-with-a-five-dimension-framework-196g)
-- [Credential Security: What Endpoint Protection Really Means for Secrets](https://dev.to/gitguardian/credential-security-what-endpoint-protection-really-means-for-secrets-4j5c)
-- [Offline GPS Tracking and Haversine Distance](https://dev.to/niladri_prasadpadhy_ccee/offline-gps-tracking-and-haversine-distance-1ba9)
+- [[Lab Notes] Kubernetes the Hard Way, For Real This Time &lpar;Step 08&rpar;](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-08-3m60)
+- [It agreed with the reference 100% of the time. It was right 75% of the time.](https://dev.to/maazkazi/it-agreed-with-the-reference-100-of-the-time-it-was-right-75-of-the-time-5c8k)
+- [Anthropic’s Bay Area Biology Lab Brings Claude Into Wet-Lab Research](https://dev.to/alifar/anthropics-bay-area-biology-lab-brings-claude-into-wet-lab-research-10o4)
+- [Combined Serilog and EF Core Logging to the Same File in ASP .NET Core](https://dev.to/karenpayneoregon/combined-serilog-and-ef-core-logging-to-the-same-file-in-asp-net-core-1cl6)
+- [Pytest in Practice](https://dev.to/nyakio/pytest-in-practice-4oda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
