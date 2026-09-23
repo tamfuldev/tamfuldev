@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Android Play Store Releases, Part 3: The Storage-Quota Wall](https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663)
-- [Do You Really Need Python to Build AI Agents and Test Their Security?](https://dev.to/wasa-confidence/do-you-really-need-python-to-build-ai-agents-and-test-their-security-4kn6)
-- [I Built a Virtual Machine Inside the Xbox Sandbox. Then I Let AI Agents Build on Top of It.](https://dev.to/danielecangi/i-built-a-virtual-machine-inside-the-xbox-sandbox-then-i-let-ai-agents-build-on-top-of-it-ef0)
-- [Send Order Shipped Event Email and SMS Reports &lpar;With Actionable Delivery Alerts&rpar;](https://dev.to/alariccross6851/send-order-shipped-event-email-and-sms-reports-with-actionable-delivery-alerts-j5o)
-- [IA, transformação digital e engenharia de software](https://dev.to/ojoaothe/ia-transformacao-digital-e-engenharia-de-software-5gp)
+- [What Is intent.md in Claude Code? A Practical Guide with an Example](https://dev.to/naelawadallah/what-is-intentmd-in-claude-code-a-practical-guide-with-an-example-506d)
+- [5 Things I Learned From Bad AI Video Generations](https://dev.to/lee_xiaoyuan_a97212d2f33b/5-things-i-learned-from-bad-ai-video-generations-3d58)
+- [I optimized an API for AI agents instead of humans. Here&#39;s what one week of data looked like.](https://dev.to/wonderfulian/i-optimized-an-api-for-ai-agents-instead-of-humans-heres-what-one-week-of-data-looked-like-ec6)
+- [I Built Fast API, but for Flutter/Dart &amp; AI](https://dev.to/dylanscottmickelson/i-built-fast-api-but-for-flutterdart-ai-57c)
+- [The Hidden Cost of Testing Third-Party Webhooks &lpar;And How I Bypassed It&rpar;](https://dev.to/naelawadallah/the-hidden-cost-of-testing-third-party-webhooks-and-how-i-bypassed-it-3h65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
