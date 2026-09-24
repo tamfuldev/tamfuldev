@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Stream Retry Needs a Fresh Announcement, Not a Rewritten Transcript](https://dev.to/babycat/a-stream-retry-needs-a-fresh-announcement-not-a-rewritten-transcript-3p75)
-- [DocumentDB 0.116: $group distinct scan](https://dev.to/franckpachot/documentdb-0116-group-distinct-scan-4f8d)
-- [DocumentDB 0.113: $group covering index](https://dev.to/franckpachot/documentdb-0113-group-covering-index-i2h)
-- [Why Sending Schemas to Cloud LLMs is a Privacy Risk: Generating Synthetic Data Locally with Ollama](https://dev.to/burak_yldz_aef1be5e5088/why-sending-schemas-to-cloud-llms-is-a-privacy-risk-generating-synthetic-data-locally-with-ollama-36k6)
-- [I tracked 2.86 billion AI coding tokens. Here&#39;s what a commit actually costs.](https://dev.to/centrail/i-tracked-286-billion-ai-coding-tokens-heres-what-a-commit-actually-costs-3745)
+- [What If Your AI Agent Never Left the Browser?](https://dev.to/adado_2e958757fa4dbf/6-free-public-apis-every-developer-should-know-38d3)
+- [43% of the visits go to ten apps: what the indie long tail looks like](https://dev.to/dzuamaafk/43-of-the-visits-go-to-ten-apps-what-the-indie-long-tail-looks-like-3bb1)
+- [How We Run 4 Services From One Go Monorepo](https://dev.to/towami/how-we-run-4-services-from-one-go-monorepo-5dlm)
+- [Case Study: A License Inventory Endpoint That Fails Closed on Unknown Obligations](https://dev.to/devrs_9381/case-study-a-license-inventory-endpoint-that-fails-closed-on-unknown-obligations-4ipp)
+- [Indie makers build Productivity apps. The visits go to Food &amp; Drink and Finance.](https://dev.to/dzuamaafk/indie-makers-build-productivity-apps-the-visits-go-to-food-drink-and-finance-3mbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
