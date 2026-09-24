@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The portal said &quot;Live.&quot; For a few hours the page kept saying the connector didn&#39;t exist.](https://dev.to/eugeniya_ivanova_4a58eadc/the-portal-said-live-for-a-few-hours-the-page-kept-saying-the-connector-didnt-exist-m11)
-- [This week on one Mac mini: Polars 2.0 beats the cache trick 25 , uv 0.12.11 re-run, and what GPT-6 got right about our videos](https://dev.to/devlog/this-week-on-one-mac-mini-polars-20-beats-the-cache-trick-25x-uv-01211-re-run-and-what-gpt-6-44g4)
-- [Generate 3D Meshes &lpar;GLB, OBJ, STL&rpar; Directly From the Terminal and AI Agents](https://dev.to/mit9/generate-3d-meshes-glb-obj-stl-directly-from-the-terminal-and-ai-agents-4fd4)
-- [Page-Based-Solution &lpar;Free-List Allocator&rpar;](https://dev.to/gazel-create/paging-solution-free-list-allocator-lfn)
-- [Reject, Undecided, or Review: A Lane Verdict for Agent Patches](https://dev.to/datacpp_8185/reject-undecided-or-review-a-lane-verdict-for-agent-patches-27l6)
+- [unattended-upgrades: automatic security updates for Debian](https://dev.to/serverkueche/unattended-upgrades-automatic-security-updates-for-debian-52l9)
+- [A 200 OK response does not prove a secret leak](https://dev.to/webbaluca/a-200-ok-response-does-not-prove-a-secret-leak-1gfo)
+- [Setting up Traefik: reverse proxy with automatic HTTPS](https://dev.to/serverkueche/setting-up-traefik-reverse-proxy-with-automatic-https-18cg)
+- [A Day Is Not 86400 Seconds: The DST Bug in Your Date Math](https://dev.to/zhihu_wu_dea1d82af01a04d7/a-day-is-not-86400-seconds-the-dst-bug-in-your-date-math-3bc0)
+- [Streaming Materialized Views for Live Read Models &lpar;2026&rpar;](https://dev.to/nainikmehta/streaming-materialized-views-for-live-read-models-2026-3hcm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
