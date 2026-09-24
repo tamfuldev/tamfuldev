@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier](https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln)
-- [Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice](https://dev.to/aws-builders/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-3ao6)
-- [Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice](https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6)
-- [TDD for Requirements](https://dev.to/anton_brilliantov/tdd-for-requirements-2plg)
-- [Gemma 4 โมเดล open ของ Google 5 ขนาด จากมือถือถึงเวิร์กสเตชัน](https://dev.to/sarantoon/gemma-4-omedl-open-khng-google-5-khnaad-cchaakmuuethuuethuengewirksetchan-509k)
+- [The portal said &quot;Live.&quot; For a few hours the page kept saying the connector didn&#39;t exist.](https://dev.to/eugeniya_ivanova_4a58eadc/the-portal-said-live-for-a-few-hours-the-page-kept-saying-the-connector-didnt-exist-m11)
+- [This week on one Mac mini: Polars 2.0 beats the cache trick 25 , uv 0.12.11 re-run, and what GPT-6 got right about our videos](https://dev.to/devlog/this-week-on-one-mac-mini-polars-20-beats-the-cache-trick-25x-uv-01211-re-run-and-what-gpt-6-44g4)
+- [Generate 3D Meshes &lpar;GLB, OBJ, STL&rpar; Directly From the Terminal and AI Agents](https://dev.to/mit9/generate-3d-meshes-glb-obj-stl-directly-from-the-terminal-and-ai-agents-4fd4)
+- [Page-Based-Solution &lpar;Free-List Allocator&rpar;](https://dev.to/gazel-create/paging-solution-free-list-allocator-lfn)
+- [Reject, Undecided, or Review: A Lane Verdict for Agent Patches](https://dev.to/datacpp_8185/reject-undecided-or-review-a-lane-verdict-for-agent-patches-27l6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
