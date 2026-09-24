@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NIGHTCELL 7: When the Ravens Lied, a second Þrøngva album made in code](https://dev.to/chovy/nightcell-7-when-the-ravens-lied-a-second-throngva-album-made-in-code-5597)
-- [ChatGPT Reaches 1 Billion Weekly Users: What Mass AI Adoption Means for Businesses](https://dev.to/alifar/chatgpt-reaches-1-billion-weekly-users-what-mass-ai-adoption-means-for-businesses-2lj5)
-- [What two Contentful builds taught us about content models and publishing boundaries](https://dev.to/madebymonogram/what-two-contentful-builds-taught-us-about-content-models-and-publishing-boundaries-1in0)
-- [Build a Local Automation Enviroment: Self-Hosted n8n + Node.js API with Docker Compose 🐳](https://dev.to/whoismarce/build-a-local-automation-enviroment-self-hosted-n8n-nodejs-api-with-docker-compose-cim)
-- [Building a TWAP Distance-Based Polymarket Trading Strategy](https://dev.to/soulcrancerdev/building-a-twap-distance-based-polymarket-trading-strategy-5ei)
+- [Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier](https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln)
+- [Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice](https://dev.to/aws-builders/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-3ao6)
+- [Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice](https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6)
+- [TDD for Requirements](https://dev.to/anton_brilliantov/tdd-for-requirements-2plg)
+- [Gemma 4 โมเดล open ของ Google 5 ขนาด จากมือถือถึงเวิร์กสเตชัน](https://dev.to/sarantoon/gemma-4-omedl-open-khng-google-5-khnaad-cchaakmuuethuuethuengewirksetchan-509k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
