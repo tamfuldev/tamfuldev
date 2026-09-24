@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [unattended-upgrades: automatic security updates for Debian](https://dev.to/serverkueche/unattended-upgrades-automatic-security-updates-for-debian-52l9)
-- [A 200 OK response does not prove a secret leak](https://dev.to/webbaluca/a-200-ok-response-does-not-prove-a-secret-leak-1gfo)
-- [Setting up Traefik: reverse proxy with automatic HTTPS](https://dev.to/serverkueche/setting-up-traefik-reverse-proxy-with-automatic-https-18cg)
-- [A Day Is Not 86400 Seconds: The DST Bug in Your Date Math](https://dev.to/zhihu_wu_dea1d82af01a04d7/a-day-is-not-86400-seconds-the-dst-bug-in-your-date-math-3bc0)
-- [Streaming Materialized Views for Live Read Models &lpar;2026&rpar;](https://dev.to/nainikmehta/streaming-materialized-views-for-live-read-models-2026-3hcm)
+- [A Stream Retry Needs a Fresh Announcement, Not a Rewritten Transcript](https://dev.to/babycat/a-stream-retry-needs-a-fresh-announcement-not-a-rewritten-transcript-3p75)
+- [DocumentDB 0.116: $group distinct scan](https://dev.to/franckpachot/documentdb-0116-group-distinct-scan-4f8d)
+- [DocumentDB 0.113: $group covering index](https://dev.to/franckpachot/documentdb-0113-group-covering-index-i2h)
+- [Why Sending Schemas to Cloud LLMs is a Privacy Risk: Generating Synthetic Data Locally with Ollama](https://dev.to/burak_yldz_aef1be5e5088/why-sending-schemas-to-cloud-llms-is-a-privacy-risk-generating-synthetic-data-locally-with-ollama-36k6)
+- [I tracked 2.86 billion AI coding tokens. Here&#39;s what a commit actually costs.](https://dev.to/centrail/i-tracked-286-billion-ai-coding-tokens-heres-what-a-commit-actually-costs-3745)
 <!-- BLOG-POST-LIST:END -->
 
 ---
