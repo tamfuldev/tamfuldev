@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ask ten questions, read the text once: making a decision model 6.7x faster](https://dev.to/_tomek7667/ask-ten-questions-read-the-text-once-making-a-decision-model-67x-faster-k0e)
-- [AI Made Me Faster at Building—But It Also Gave Me More to Supervise](https://dev.to/mottych/ai-made-me-faster-at-building-but-it-also-gave-me-more-to-supervise-l22)
-- [Beyond Promise&lt;any&gt;: Designing a Type-Safe Modal API](https://dev.to/alexey79/beyond-promise-designing-a-type-safe-modal-api-1248)
-- [I wrote five agents to cheat my own benchmark. They found three holes. Three more found me.](https://dev.to/jigonyoo/i-wrote-five-agents-to-cheat-my-own-benchmark-they-found-three-holes-three-more-found-me-4bk0)
-- [I Built an Encrypted Text Sharing Tool With Zero npm Dependencies — Here&#39;s the Architecture](https://dev.to/md_hidayatullahsheikh_ef/i-built-an-encrypted-text-sharing-tool-with-zero-npm-dependencies-heres-the-architecture-3704)
+- [The One-Computer Illusion: Rethinking Distributed Computing](https://dev.to/aaroophan/the-one-computer-illusion-rethinking-distributed-computing-58bp)
+- [We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.](https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i)
+- [Agentic AI PCs reduce token costs](https://dev.to/vpodk/agentic-ai-pcs-reduce-token-costs-1682)
+- [Infleqtion Neutral-Atom Qubits Advance](https://dev.to/vpodk/infleqtion-neutral-atom-qubits-advance-49lp)
+- [Starting My Journey Seriously as a Developer](https://dev.to/foysaliio/starting-my-journey-seriously-as-a-developer-2cke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
