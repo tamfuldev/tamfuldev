@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What If Your AI Agent Never Left the Browser?](https://dev.to/adado_2e958757fa4dbf/6-free-public-apis-every-developer-should-know-38d3)
-- [43% of the visits go to ten apps: what the indie long tail looks like](https://dev.to/dzuamaafk/43-of-the-visits-go-to-ten-apps-what-the-indie-long-tail-looks-like-3bb1)
-- [How We Run 4 Services From One Go Monorepo](https://dev.to/towami/how-we-run-4-services-from-one-go-monorepo-5dlm)
-- [Case Study: A License Inventory Endpoint That Fails Closed on Unknown Obligations](https://dev.to/devrs_9381/case-study-a-license-inventory-endpoint-that-fails-closed-on-unknown-obligations-4ipp)
-- [Indie makers build Productivity apps. The visits go to Food &amp; Drink and Finance.](https://dev.to/dzuamaafk/indie-makers-build-productivity-apps-the-visits-go-to-food-drink-and-finance-3mbm)
+- [Vowel estimation accuracy varies by pronunciation order and duration: Creating TTS evaluation data and two measurement pitfalls](https://dev.to/orca_forge/vowel-estimation-accuracy-varies-by-pronunciation-order-and-duration-creating-tts-evaluation-data-4h2b)
+- [Architectural Breakdown: I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expe](https://dev.to/agenticstack/architectural-breakdown-i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expe-1e88)
+- [How to track Google Hotels prices with Python &lpar;no browser, no API key&rpar;](https://dev.to/rel8ble/how-to-track-google-hotels-prices-with-python-no-browser-no-api-key-590g)
+- [Why your pages are crawled but not indexed](https://dev.to/nooralto1/why-your-pages-are-crawled-but-not-indexed-4lfa)
+- [Internal linking as a data structure](https://dev.to/nooralto1/internal-linking-as-a-data-structure-16ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
