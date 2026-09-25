@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vowel estimation accuracy varies by pronunciation order and duration: Creating TTS evaluation data and two measurement pitfalls](https://dev.to/orca_forge/vowel-estimation-accuracy-varies-by-pronunciation-order-and-duration-creating-tts-evaluation-data-4h2b)
-- [Architectural Breakdown: I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expe](https://dev.to/agenticstack/architectural-breakdown-i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expe-1e88)
-- [How to track Google Hotels prices with Python &lpar;no browser, no API key&rpar;](https://dev.to/rel8ble/how-to-track-google-hotels-prices-with-python-no-browser-no-api-key-590g)
-- [Why your pages are crawled but not indexed](https://dev.to/nooralto1/why-your-pages-are-crawled-but-not-indexed-4lfa)
-- [Internal linking as a data structure](https://dev.to/nooralto1/internal-linking-as-a-data-structure-16ej)
+- [Inside a Japanese Engineering Team: Meetings, Reviews, Overtime and the Pay Trap](https://dev.to/maru_honnedev_39f51f07cc/inside-a-japanese-engineering-team-meetings-reviews-overtime-and-the-pay-trap-4mhe)
+- [KV cache cut by ~45% with near‑same accuracy](https://dev.to/olaughter/kv-cache-cut-by-45-with-near-same-accuracy-2b95)
+- [The calibration bug that taught our fraud agent to wave fraud through](https://dev.to/prayant_mohanty_77d03552f/the-calibration-bug-that-taught-our-fraud-agent-to-wave-fraud-through-onc)
+- [Lessons Learned from Building In-Browser Utilities with WebAssembly &amp; Web Workers](https://dev.to/utilvo/lessons-learned-from-building-in-browser-utilities-with-webassembly-web-workers-2g8o)
+- [Don&#39;t trust the randomness API: verify drand beacons in your agent in 30 lines](https://dev.to/kepler_ops/dont-trust-the-randomness-api-verify-drand-beacons-in-your-agent-in-30-lines-4l65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
