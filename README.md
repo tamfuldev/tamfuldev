@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The One-Computer Illusion: Rethinking Distributed Computing](https://dev.to/aaroophan/the-one-computer-illusion-rethinking-distributed-computing-58bp)
-- [We shipped a proxy extension for Firefox and Edge. Both browsers quietly reuse the old proxy tunnel, and that almost broke it.](https://dev.to/roamproxy/we-shipped-a-proxy-extension-for-firefox-and-edge-both-browsers-quietly-reuse-the-old-proxy-1g1i)
-- [Agentic AI PCs reduce token costs](https://dev.to/vpodk/agentic-ai-pcs-reduce-token-costs-1682)
-- [Infleqtion Neutral-Atom Qubits Advance](https://dev.to/vpodk/infleqtion-neutral-atom-qubits-advance-49lp)
-- [Starting My Journey Seriously as a Developer](https://dev.to/foysaliio/starting-my-journey-seriously-as-a-developer-2cke)
+- [Multi-Reward Reinforcement Learning for LLM Agents: Comparing PPO, GRPO, DAPO, and GDPO](https://dev.to/g_factor/multi-reward-reinforcement-learning-for-llm-agents-comparing-ppo-grpo-dapo-and-gdpo-jaf)
+- [I spent a week teaching my Mac app to remember what I meant last Tuesday](https://dev.to/maddy30445r/i-spent-a-week-teaching-my-mac-app-to-remember-what-i-meant-last-tuesday-369c)
+- [I switched my nine broken RimWorld mods back on to see if an agent could find them](https://dev.to/booyaka101/i-switched-my-nine-broken-rimworld-mods-back-on-to-see-if-an-agent-could-find-them-4o69)
+- [Automated Competitor Keyword Research Without Losing Your Weekend](https://dev.to/jan_inteldo/automated-competitor-keyword-research-without-losing-your-weekend-3ki4)
+- [Translating a content app into 46 languages without a translation API bill](https://dev.to/dizijpg/translating-a-content-app-into-46-languages-without-a-translation-api-bill-34a1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
