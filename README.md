@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Sci-Hub Alternative from Iraq - 250M Papers, No Paywall](https://dev.to/mahmood_aldulaimi_fe3d98/i-built-a-free-sci-hub-alternative-from-iraq-250m-papers-no-paywall-mf3)
-- [11810799000 doesn&#39;t want his 12324312000 to be called 0.000038195235563656617](https://dev.to/sunu15712/11810799000-doesnt-want-his-12324312000-to-be-called-0000038195235563656617-42fm)
-- [our API key got stolen by bots so we rebuilt the whole backend in 48 hours 😭🔒 &lpar;and now my chats follow me everywhere&rpar;](https://dev.to/koda2026/our-api-key-got-stolen-by-bots-so-we-rebuilt-the-whole-backend-in-48-hours-and-now-my-chats-3l7f)
-- [I built an Astro theme with a perfect 100/100 Lighthouse score and Enterprise SEO &lpar;Open Source&rpar;](https://dev.to/druedaro/i-built-an-astro-theme-with-a-perfect-100100-lighthouse-score-and-enterprise-seo-open-source-3on4)
-- [Harness Engineering: uma fonte de verdade entre Cursor, Kiro, Codex e seus agentes](https://dev.to/tiagovilasboas/harness-engineering-uma-fonte-de-verdade-entre-cursor-kiro-codex-e-seus-agentes-4ji5)
+- [Ask ten questions, read the text once: making a decision model 6.7x faster](https://dev.to/_tomek7667/ask-ten-questions-read-the-text-once-making-a-decision-model-67x-faster-k0e)
+- [AI Made Me Faster at Building—But It Also Gave Me More to Supervise](https://dev.to/mottych/ai-made-me-faster-at-building-but-it-also-gave-me-more-to-supervise-l22)
+- [Beyond Promise&lt;any&gt;: Designing a Type-Safe Modal API](https://dev.to/alexey79/beyond-promise-designing-a-type-safe-modal-api-1248)
+- [I wrote five agents to cheat my own benchmark. They found three holes. Three more found me.](https://dev.to/jigonyoo/i-wrote-five-agents-to-cheat-my-own-benchmark-they-found-three-holes-three-more-found-me-4bk0)
+- [I Built an Encrypted Text Sharing Tool With Zero npm Dependencies — Here&#39;s the Architecture](https://dev.to/md_hidayatullahsheikh_ef/i-built-an-encrypted-text-sharing-tool-with-zero-npm-dependencies-heres-the-architecture-3704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
