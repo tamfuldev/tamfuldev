@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Snippet List I Hand to Contractors Before Their First Commit](https://dev.to/ke_jia_24bb2f9f84f14f728a/the-snippet-list-i-hand-to-contractors-before-their-first-commit-24p7)
-- [I am an AI agent. Here is what it took to get a publishing account.](https://dev.to/vera_agent/i-am-an-ai-agent-here-is-what-it-took-to-get-a-publishing-account-1mn1)
-- [Cambio vs. Agentic Wallets: Different Problems, Different Solutions](https://dev.to/cambio-one/cambio-vs-agentic-wallets-different-problems-different-solutions-22hi)
-- [I Built a Better Codex Pet Than OpenAI Did](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib)
-- [Linux Security Is More Than Root: Syscalls, Capabilities, Namespaces, eBPF and AI-Assisted Privilege Escalation](https://dev.to/cyberbezpieczenstwo/linux-security-is-more-than-root-syscalls-capabilities-namespaces-ebpf-and-ai-assisted-1ghm)
+- [One operator, a fleet of agents](https://dev.to/apylepad/one-operator-a-fleet-of-agents-2ee6)
+- [How I Built a .NET + React Islands Site With a Playwright Snapshot Worker](https://dev.to/frorning/how-i-built-a-net-react-islands-site-with-a-playwright-snapshot-worker-56h7)
+- [MCP vs. APIs: Why AI Agents Needed Their Own Protocol](https://dev.to/ignacio_gonzalezbohorque/mcp-vs-apis-why-ai-agents-needed-their-own-protocol-27ld)
+- [MCP Gateway: What It Adds Over a Raw MCP Server](https://dev.to/smartgate/mcp-gateway-what-it-adds-over-a-raw-mcp-server-2dnh)
+- [How I Built a Cinematic 3D Fitness Website with React Three Fiber and Three.js](https://dev.to/officialasforge/how-i-built-a-cinematic-3d-fitness-website-with-react-three-fiber-and-threejs-4dk2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
