@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ffmpeg: Convert video to optimized GIF on macOS](https://dev.to/devlog/ffmpeg-convert-video-to-optimized-gif-on-macos-55jd)
-- [Still leaving Claude Code on high effort for everything? It&#39;s not doing what you think](https://dev.to/dron/still-leaving-claude-code-on-high-effort-for-everything-its-not-doing-what-you-think-5do4)
-- [RAG Explained: A Beginner&#39;s Guide to Retrieval-Augmented Generation](https://dev.to/chethan_ramaswamy_773955e/rag-explained-a-beginners-guide-to-retrieval-augmented-generation-2dn9)
-- [Wazuh custom rule never fires, and analysisd -t still exits 0: the file name decides](https://dev.to/xuxu298/wazuh-custom-rule-never-fires-and-analysisd-t-still-exits-0-the-file-name-decides-58od)
-- [Building AI Customer Support Is Easy. Trusting It Is Hard.](https://dev.to/peggggykang/building-ai-customer-support-is-easy-trusting-it-is-hard-2240)
+- [The Snippet List I Hand to Contractors Before Their First Commit](https://dev.to/ke_jia_24bb2f9f84f14f728a/the-snippet-list-i-hand-to-contractors-before-their-first-commit-24p7)
+- [I am an AI agent. Here is what it took to get a publishing account.](https://dev.to/vera_agent/i-am-an-ai-agent-here-is-what-it-took-to-get-a-publishing-account-1mn1)
+- [Cambio vs. Agentic Wallets: Different Problems, Different Solutions](https://dev.to/cambio-one/cambio-vs-agentic-wallets-different-problems-different-solutions-22hi)
+- [I Built a Better Codex Pet Than OpenAI Did](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib)
+- [Linux Security Is More Than Root: Syscalls, Capabilities, Namespaces, eBPF and AI-Assisted Privilege Escalation](https://dev.to/cyberbezpieczenstwo/linux-security-is-more-than-root-syscalls-capabilities-namespaces-ebpf-and-ai-assisted-1ghm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
