@@ -6,14 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Interactive System Design Simulator — Learn by Breaking Things](https://dev.to/saurabhd01/i-built-an-interactive-system-design-simulator-learn-by-breaking-things-4d06)
-- [I built a persistent context system for Claude Code using Obsidian.](https://dev.to/seestack/i-built-a-persistent-context-system-for-claude-code-using-obsidian-2e99)
-- [I built a persistent context system for Claude Code using Obsidian.
-
-Repo: https://github.com/seestack-dev/claude-obsidian-memory/
-I also made a full walkthrough showing the setup and a session-recovery test: https://youtu.be/gf8Bg71121c](https://dev.to/seestack/i-built-a-persistent-context-system-for-claude-code-using-obsidian-repo-48de)
-- [Your Search Query Is a Program: Composing Role-Based SQL With the Strategy Pattern](https://dev.to/purbano/your-search-query-is-a-program-composing-role-based-sql-with-the-strategy-pattern-3o3a)
-- [🔍 My Next.js Portfolio Was Invisible to Google &amp; ChatGPT — Here&#39;s How I Fixed It](https://dev.to/dhruv_15_11/my-nextjs-portfolio-was-invisible-to-google-chatgpt-heres-how-i-fixed-it-1eg0)
+- [Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System](https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn)
+- [How to get access to DOM from Service Worker?](https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3)
+- [I built FreshDeploy to verify web deployments after release](https://dev.to/devdvgs/i-built-freshdeploy-to-verify-web-deployments-after-release-3p64)
+- [I Missed @Service in Node.js, So I Built It with Express](https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m)
+- [Devlog 2 Life of Alex - Illumination Systems](https://dev.to/mtindiedev_2/devlog-2-life-of-alex-illumination-systems-2l9b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
