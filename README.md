@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unknown&quot; was the right third value. It is not enough on its own.](https://dev.to/vereos/unknown-was-the-right-third-value-it-is-not-enough-on-its-own-pnl)
-- [Your AI Vendor Just Became a Supply-Chain Risk](https://dev.to/goodpa/your-ai-vendor-just-became-a-supply-chain-risk-21c1)
-- [Building FoxyInvoice — Chapter 11: Reach — SEO, AI crawlers, and being the machine-readable answer](https://dev.to/seolith/building-foxyinvoice-chapter-11-reach-seo-ai-crawlers-and-being-the-machine-readable-answer-24on)
-- [Walk West’s AI Campaign Build Highlights Faster Marketing Production Workflows](https://dev.to/alifar/walk-wests-ai-campaign-build-highlights-faster-marketing-production-workflows-5cd)
-- [Dockerizing a Node App &amp; Shipping It to Azure: Build, Break, Fix &amp; Ship &lpar;3 Errors, Zero Regrets&rpar; 🐳](https://dev.to/4thman/-catching-container-vibes-dockerizing-a-node-app-shipping-it-to-azure-3-errors-zero-regrets-p02)
+- [ffmpeg: Convert video to optimized GIF on macOS](https://dev.to/devlog/ffmpeg-convert-video-to-optimized-gif-on-macos-55jd)
+- [Still leaving Claude Code on high effort for everything? It&#39;s not doing what you think](https://dev.to/dron/still-leaving-claude-code-on-high-effort-for-everything-its-not-doing-what-you-think-5do4)
+- [RAG Explained: A Beginner&#39;s Guide to Retrieval-Augmented Generation](https://dev.to/chethan_ramaswamy_773955e/rag-explained-a-beginners-guide-to-retrieval-augmented-generation-2dn9)
+- [Wazuh custom rule never fires, and analysisd -t still exits 0: the file name decides](https://dev.to/xuxu298/wazuh-custom-rule-never-fires-and-analysisd-t-still-exits-0-the-file-name-decides-58od)
+- [Building AI Customer Support Is Easy. Trusting It Is Hard.](https://dev.to/peggggykang/building-ai-customer-support-is-easy-trusting-it-is-hard-2240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
