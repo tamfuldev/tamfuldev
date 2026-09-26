@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Reward Reinforcement Learning for LLM Agents: Comparing PPO, GRPO, DAPO, and GDPO](https://dev.to/g_factor/multi-reward-reinforcement-learning-for-llm-agents-comparing-ppo-grpo-dapo-and-gdpo-jaf)
-- [I spent a week teaching my Mac app to remember what I meant last Tuesday](https://dev.to/maddy30445r/i-spent-a-week-teaching-my-mac-app-to-remember-what-i-meant-last-tuesday-369c)
-- [I switched my nine broken RimWorld mods back on to see if an agent could find them](https://dev.to/booyaka101/i-switched-my-nine-broken-rimworld-mods-back-on-to-see-if-an-agent-could-find-them-4o69)
-- [Automated Competitor Keyword Research Without Losing Your Weekend](https://dev.to/jan_inteldo/automated-competitor-keyword-research-without-losing-your-weekend-3ki4)
-- [Translating a content app into 46 languages without a translation API bill](https://dev.to/dizijpg/translating-a-content-app-into-46-languages-without-a-translation-api-bill-34a1)
+- [&quot;Unknown&quot; was the right third value. It is not enough on its own.](https://dev.to/vereos/unknown-was-the-right-third-value-it-is-not-enough-on-its-own-pnl)
+- [Your AI Vendor Just Became a Supply-Chain Risk](https://dev.to/goodpa/your-ai-vendor-just-became-a-supply-chain-risk-21c1)
+- [Building FoxyInvoice — Chapter 11: Reach — SEO, AI crawlers, and being the machine-readable answer](https://dev.to/seolith/building-foxyinvoice-chapter-11-reach-seo-ai-crawlers-and-being-the-machine-readable-answer-24on)
+- [Walk West’s AI Campaign Build Highlights Faster Marketing Production Workflows](https://dev.to/alifar/walk-wests-ai-campaign-build-highlights-faster-marketing-production-workflows-5cd)
+- [Dockerizing a Node App &amp; Shipping It to Azure: Build, Break, Fix &amp; Ship &lpar;3 Errors, Zero Regrets&rpar; 🐳](https://dev.to/4thman/-catching-container-vibes-dockerizing-a-node-app-shipping-it-to-azure-3-errors-zero-regrets-p02)
 <!-- BLOG-POST-LIST:END -->
 
 ---
