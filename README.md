@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [App economy 2026: why new apps get 3% of subscription revenue](https://dev.to/axrisi/app-economy-2026-why-new-apps-get-3-of-subscription-revenue-3cj8)
-- [Cron jobs: the tiny line that runs half your backend](https://dev.to/4thwithme/cron-jobs-the-tiny-line-that-runs-half-your-backend-3o8a)
-- [Moving off Event Tickets Plus: what your WooCommerce ticket data looks like](https://dev.to/jeffreyinman/moving-off-event-tickets-plus-what-your-woocommerce-ticket-data-looks-like-2akm)
-- [Sign in to a remote MCP server in Claude Code: /mcp and claude mcp login](https://dev.to/aicoding-guide/sign-in-to-a-remote-mcp-server-in-claude-code-mcp-and-claude-mcp-login-43i7)
-- [The A2UI Contract: A Deep Dive into Agent-to-UI Architecture](https://dev.to/akashpal/the-a2ui-contract-a-deep-dive-into-agent-to-ui-architecture-4i00)
+- [Building a Chrome extension that reads Hanifi Rohingya webpages in Latin script](https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1)
+- [I built an open-source AI coworker that logs in with 2FA without the model ever seeing your passwords](https://dev.to/danielehrhardt/i-built-an-open-source-ai-coworker-that-logs-in-with-2fa-without-the-model-ever-seeing-your-48ep)
+- [I Vibe Coded a GitHub Action — Then Turned It Into a Real Product](https://dev.to/hamzatopo/i-vibe-coded-a-github-action-then-turned-it-into-a-real-product-4ml9)
+- [When the Tool-Makers decides what skills should become obsolete](https://dev.to/estheticallybawo/when-the-tool-makers-decides-what-skills-should-become-obsolete-42o1)
+- [Laya: replace your LLM-as-a-judge with a 322M-parameter decision engine](https://dev.to/aifrontierpost/laya-replace-your-llm-as-a-judge-with-a-322m-parameter-decision-engine-2bdf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
