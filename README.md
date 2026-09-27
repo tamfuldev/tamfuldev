@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CaseMap: Source-Grounded Legal Case Reports You Can Actually Cite](https://dev.to/vasim_ahmedshaikh_d83400/casemap-source-grounded-legal-case-reports-you-can-actually-cite-4nj8)
-- [One news bot for Bluesky and X, and why X gets only five posts a day](https://dev.to/apitube/one-news-bot-for-bluesky-and-x-and-why-x-gets-only-five-posts-a-day-30gc)
-- [Hermeneutic turns your AI corrections into context for the next task](https://dev.to/hermeslabsai/hermeneutic-turns-your-ai-corrections-into-context-for-the-next-task-2o8o)
-- [The Screen Is Correct. Can the Purchase Still Happen Twice?](https://dev.to/civicdataforge/the-screen-is-correct-can-the-purchase-still-happen-twice-b8p)
-- [I built a password manager because I’m picky about the apps I use](https://dev.to/dortanes/i-built-a-password-manager-because-im-picky-about-the-apps-i-use-5028)
+- [Bisakah Model 64 Juta Parameter Belajar Bernalar? - Membangun Model Bahasa 64M Parameter dari Nol](https://dev.to/jahirrrr/bisakah-model-64-juta-parameter-belajar-bernalar-membangun-model-bahasa-64m-parameter-dari-nol-kn)
+- [Bringing Laya onto an iPhone: a local decision-model experiment](https://dev.to/yang9527/bringing-laya-onto-an-iphone-a-local-decision-model-experiment-4af0)
+- [Un “Jev” personale con 5$: fine-tuning di un LLM per fare classificazione in meno di un secondo](https://dev.to/frontendfacile/un-jev-personale-con-5-fine-tuning-di-un-llm-per-fare-classificazione-in-meno-di-un-secondo-ca0)
+- [I run my whole company through a coordinated team of Claude Code sessions](https://dev.to/tomerbarm/i-run-my-whole-company-through-a-coordinated-team-of-claude-code-sessions-5ff0)
+- [Agency Patch Workflows for CVE-2026-96365: Coordinating 16 Module Updates Across Client Sites](https://dev.to/stark_zhuang_df5076f35c68/agency-patch-workflows-for-cve-2026-96365-coordinating-16-module-updates-across-client-sites-17bm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
