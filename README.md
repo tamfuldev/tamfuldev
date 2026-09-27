@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Permission Slip: my AI agents need a signed slip before they do anything public](https://dev.to/anur4ag/permission-slip-my-ai-agents-need-a-signed-slip-before-they-do-anything-public-5dc0)
-- [Prop Continuity Desk: the parcel cannot be in two places](https://dev.to/lecsetsuna16/prop-continuity-desk-the-parcel-cannot-be-in-two-places-1gfe)
-- [I built a chat that spins up Oracle Cloud sandboxes and deletes them when you&#39;re done](https://dev.to/ashish_sinha_5241c7673d93/i-built-a-chat-that-spins-up-oracle-cloud-sandboxes-and-deletes-them-when-youre-done-4jgl)
-- [Proof Without Sharing Source Code: SJV, SJP, and the Trust Boundary](https://dev.to/jupitersoft/proof-without-sharing-source-code-sjv-sjp-and-the-trust-boundary-12p6)
-- [upgrading and recovering my self-hosted openclaw agent + telegram bot](https://dev.to/emalia/upgrading-and-recovering-my-self-hosted-openclaw-agent-telegram-bot-oj)
+- [CaseMap: Source-Grounded Legal Case Reports You Can Actually Cite](https://dev.to/vasim_ahmedshaikh_d83400/casemap-source-grounded-legal-case-reports-you-can-actually-cite-4nj8)
+- [One news bot for Bluesky and X, and why X gets only five posts a day](https://dev.to/apitube/one-news-bot-for-bluesky-and-x-and-why-x-gets-only-five-posts-a-day-30gc)
+- [Hermeneutic turns your AI corrections into context for the next task](https://dev.to/hermeslabsai/hermeneutic-turns-your-ai-corrections-into-context-for-the-next-task-2o8o)
+- [The Screen Is Correct. Can the Purchase Still Happen Twice?](https://dev.to/civicdataforge/the-screen-is-correct-can-the-purchase-still-happen-twice-b8p)
+- [I built a password manager because I’m picky about the apps I use](https://dev.to/dortanes/i-built-a-password-manager-because-im-picky-about-the-apps-i-use-5028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
