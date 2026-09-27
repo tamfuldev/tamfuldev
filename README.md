@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bisakah Model 64 Juta Parameter Belajar Bernalar? - Membangun Model Bahasa 64M Parameter dari Nol](https://dev.to/jahirrrr/bisakah-model-64-juta-parameter-belajar-bernalar-membangun-model-bahasa-64m-parameter-dari-nol-kn)
-- [Bringing Laya onto an iPhone: a local decision-model experiment](https://dev.to/yang9527/bringing-laya-onto-an-iphone-a-local-decision-model-experiment-4af0)
-- [Un “Jev” personale con 5$: fine-tuning di un LLM per fare classificazione in meno di un secondo](https://dev.to/frontendfacile/un-jev-personale-con-5-fine-tuning-di-un-llm-per-fare-classificazione-in-meno-di-un-secondo-ca0)
-- [I run my whole company through a coordinated team of Claude Code sessions](https://dev.to/tomerbarm/i-run-my-whole-company-through-a-coordinated-team-of-claude-code-sessions-5ff0)
-- [Agency Patch Workflows for CVE-2026-96365: Coordinating 16 Module Updates Across Client Sites](https://dev.to/stark_zhuang_df5076f35c68/agency-patch-workflows-for-cve-2026-96365-coordinating-16-module-updates-across-client-sites-17bm)
+- [Out with AI-900, In with AI-901: Microsoft&#39;s Upgraded AI Certification Guide](https://dev.to/toobaanalytics/out-with-ai-900-in-with-ai-901-microsofts-upgraded-ai-certification-guide-3o51)
+- [How to Fill 7 PDF Form Fields Without Silent Failures &lpar;and Preserve Fidelity&rpar;](https://dev.to/finnmorgan226/how-to-fill-7-pdf-form-fields-without-silent-failures-and-preserve-fidelity-2ckl)
+- [Plugin4Shell Hit 26,000 Agents Before Anyone Noticed. Your Coding Agent’s Plugin Store Is the New npm.](https://dev.to/numbpill3d/plugin4shell-hit-26000-agents-before-anyone-noticed-your-coding-agents-plugin-store-is-the-new-5hlg)
+- [GPT-6 Astra shipped; OpenAI&#39;s chief scientist now asks for a slowdown](https://dev.to/axrisi/gpt-6-astra-shipped-openais-chief-scientist-now-asks-for-a-slowdown-2fjm)
+- [I built an AI agent that snapshots every edit and runs your tests before it says &quot;done&quot;](https://dev.to/qweezyy/i-built-an-ai-agent-that-snapshots-every-edit-and-runs-your-tests-before-it-says-done-l17)
 <!-- BLOG-POST-LIST:END -->
 
 ---
