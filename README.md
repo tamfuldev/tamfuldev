@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Out with AI-900, In with AI-901: Microsoft&#39;s Upgraded AI Certification Guide](https://dev.to/toobaanalytics/out-with-ai-900-in-with-ai-901-microsofts-upgraded-ai-certification-guide-3o51)
-- [How to Fill 7 PDF Form Fields Without Silent Failures &lpar;and Preserve Fidelity&rpar;](https://dev.to/finnmorgan226/how-to-fill-7-pdf-form-fields-without-silent-failures-and-preserve-fidelity-2ckl)
-- [Plugin4Shell Hit 26,000 Agents Before Anyone Noticed. Your Coding Agent’s Plugin Store Is the New npm.](https://dev.to/numbpill3d/plugin4shell-hit-26000-agents-before-anyone-noticed-your-coding-agents-plugin-store-is-the-new-5hlg)
-- [GPT-6 Astra shipped; OpenAI&#39;s chief scientist now asks for a slowdown](https://dev.to/axrisi/gpt-6-astra-shipped-openais-chief-scientist-now-asks-for-a-slowdown-2fjm)
-- [I built an AI agent that snapshots every edit and runs your tests before it says &quot;done&quot;](https://dev.to/qweezyy/i-built-an-ai-agent-that-snapshots-every-edit-and-runs-your-tests-before-it-says-done-l17)
+- [App economy 2026: why new apps get 3% of subscription revenue](https://dev.to/axrisi/app-economy-2026-why-new-apps-get-3-of-subscription-revenue-3cj8)
+- [Cron jobs: the tiny line that runs half your backend](https://dev.to/4thwithme/cron-jobs-the-tiny-line-that-runs-half-your-backend-3o8a)
+- [Moving off Event Tickets Plus: what your WooCommerce ticket data looks like](https://dev.to/jeffreyinman/moving-off-event-tickets-plus-what-your-woocommerce-ticket-data-looks-like-2akm)
+- [Sign in to a remote MCP server in Claude Code: /mcp and claude mcp login](https://dev.to/aicoding-guide/sign-in-to-a-remote-mcp-server-in-claude-code-mcp-and-claude-mcp-login-43i7)
+- [The A2UI Contract: A Deep Dive into Agent-to-UI Architecture](https://dev.to/akashpal/the-a2ui-contract-a-deep-dive-into-agent-to-ui-architecture-4i00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
