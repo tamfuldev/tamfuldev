@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System](https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn)
-- [How to get access to DOM from Service Worker?](https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3)
-- [I built FreshDeploy to verify web deployments after release](https://dev.to/devdvgs/i-built-freshdeploy-to-verify-web-deployments-after-release-3p64)
-- [I Missed @Service in Node.js, So I Built It with Express](https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m)
-- [Devlog 2 Life of Alex - Illumination Systems](https://dev.to/mtindiedev_2/devlog-2-life-of-alex-illumination-systems-2l9b)
+- [Permission Slip: my AI agents need a signed slip before they do anything public](https://dev.to/anur4ag/permission-slip-my-ai-agents-need-a-signed-slip-before-they-do-anything-public-5dc0)
+- [Prop Continuity Desk: the parcel cannot be in two places](https://dev.to/lecsetsuna16/prop-continuity-desk-the-parcel-cannot-be-in-two-places-1gfe)
+- [I built a chat that spins up Oracle Cloud sandboxes and deletes them when you&#39;re done](https://dev.to/ashish_sinha_5241c7673d93/i-built-a-chat-that-spins-up-oracle-cloud-sandboxes-and-deletes-them-when-youre-done-4jgl)
+- [Proof Without Sharing Source Code: SJV, SJP, and the Trust Boundary](https://dev.to/jupitersoft/proof-without-sharing-source-code-sjv-sjp-and-the-trust-boundary-12p6)
+- [upgrading and recovering my self-hosted openclaw agent + telegram bot](https://dev.to/emalia/upgrading-and-recovering-my-self-hosted-openclaw-agent-telegram-bot-oj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
