@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Re-Explaining My Project to AI With Hindsight](https://dev.to/pokuri_lahari_c9a5f9f053d/i-stopped-re-explaining-my-project-to-ai-with-hindsight-39cc)
-- [RepoMind: A Self-Evolving Code Review Agent That Remembers How Your Team Builds Software](https://dev.to/k_pradeep_3b3896bfd2c581b/repomind-a-self-evolving-code-review-agent-that-remembers-how-your-team-builds-software-j11)
-- [Building IncidentMind: An AI Incident Investigation Assistant That Learns From the Past](https://dev.to/mrajeshwarireddy/building-incidentmind-an-ai-incident-investigation-assistant-that-learns-from-the-past-39cd)
-- [Context Compression for Coding Agents Compresses the Wrong Side of the Prompt](https://dev.to/reidmarlow/context-compression-for-coding-agents-compresses-the-wrong-side-of-the-prompt-hio)
-- [How I connected an AI agent to GitHub with Nango and MCP &lpar;without touching a single OAuth token&rpar; published: false tags: ai, mcp, python, tutorial](https://dev.to/sravya_dangeti/how-i-connected-an-ai-agent-to-github-with-nango-and-mcp-without-touching-a-single-oauth-token-14j1)
+- [Como medir GEO de forma reproduzível: banco fixo, N por pergunta e denominador explícito](https://dev.to/alexandrebrt14sys/como-medir-geo-de-forma-reproduzivel-banco-fixo-n-por-pergunta-e-denominador-explicito-l92)
+- [GEONMI-MEMS VLEO: How We Reduced Satellite Launch Weight by 40% Using Aero-Ionic Energy Harvesting and Deterministic C++17](https://dev.to/kadritalal38/geonmi-mems-vleo-how-we-reduced-satellite-launch-weight-by-40-using-aero-ionic-energy-harvesting-2jgj)
+- [Three-Model Jury: The Price of Consensus](https://dev.to/maref/three-model-jury-the-price-of-consensus-25pn)
+- [I rebuilt my 28-year-old IRC network from scratch in Go and WebAssembly](https://dev.to/yudumnet/i-rebuilt-my-28-year-old-irc-network-from-scratch-in-go-and-webassembly-2hdp)
+- [My Google AI API 500 errors stopped being scary when I stopped retrying the whole workflow](https://dev.to/lars_winstand/my-google-ai-api-500-errors-stopped-being-scary-when-i-stopped-retrying-the-whole-workflow-ko1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
