@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chrome extension that reads Hanifi Rohingya webpages in Latin script](https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1)
-- [I built an open-source AI coworker that logs in with 2FA without the model ever seeing your passwords](https://dev.to/danielehrhardt/i-built-an-open-source-ai-coworker-that-logs-in-with-2fa-without-the-model-ever-seeing-your-48ep)
-- [I Vibe Coded a GitHub Action — Then Turned It Into a Real Product](https://dev.to/hamzatopo/i-vibe-coded-a-github-action-then-turned-it-into-a-real-product-4ml9)
-- [When the Tool-Makers decides what skills should become obsolete](https://dev.to/estheticallybawo/when-the-tool-makers-decides-what-skills-should-become-obsolete-42o1)
-- [Laya: replace your LLM-as-a-judge with a 322M-parameter decision engine](https://dev.to/aifrontierpost/laya-replace-your-llm-as-a-judge-with-a-322m-parameter-decision-engine-2bdf)
+- [Every line of my recovery code was correct. It failed every single time.&quot;](https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72)
+- [C# Singleton basics](https://dev.to/karenpayneoregon/c-singleton-basics-1o9i)
+- [There Are No &#39;Rogue&#39; AI Agents](https://dev.to/goodpa/there-are-no-rogue-ai-agents-1ki3)
+- [Wild beats mold linking Rust 20 times out of 20, and in release the linker is no longer the bottleneck](https://dev.to/efraingaray/wild-beats-mold-linking-rust-20-times-out-of-20-and-in-release-the-linker-is-no-longer-the-113n)
+- [TabPFN and TabICL against tuned XGBoost: the model that does not train won on fourteen tables out of fourteen](https://dev.to/efraingaray/tabpfn-and-tabicl-against-tuned-xgboost-the-model-that-does-not-train-won-on-fourteen-tables-out-58bk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
