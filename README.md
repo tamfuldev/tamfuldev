@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every line of my recovery code was correct. It failed every single time.&quot;](https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72)
-- [C# Singleton basics](https://dev.to/karenpayneoregon/c-singleton-basics-1o9i)
-- [There Are No &#39;Rogue&#39; AI Agents](https://dev.to/goodpa/there-are-no-rogue-ai-agents-1ki3)
-- [Wild beats mold linking Rust 20 times out of 20, and in release the linker is no longer the bottleneck](https://dev.to/efraingaray/wild-beats-mold-linking-rust-20-times-out-of-20-and-in-release-the-linker-is-no-longer-the-113n)
-- [TabPFN and TabICL against tuned XGBoost: the model that does not train won on fourteen tables out of fourteen](https://dev.to/efraingaray/tabpfn-and-tabicl-against-tuned-xgboost-the-model-that-does-not-train-won-on-fourteen-tables-out-58bk)
+- [Building a flight search that checks multiple airports at once](https://dev.to/caelvo_dc41a83175/building-a-flight-search-that-checks-multiple-airports-at-once-4m7p)
+- [Two spreadsheet parsers, and only the richer one is kept](https://dev.to/emrahg/two-spreadsheet-parsers-and-only-the-richer-one-is-kept-2254)
+- [Railway database deleted by an AI agent: the PocketOS postmortem](https://dev.to/axrisi/railway-database-deleted-by-an-ai-agent-the-pocketos-postmortem-2p7p)
+- [Scraping YouTube transcripts at scale for RAG &lpar;and the 3 things that break it&rpar;](https://dev.to/casaucao/scraping-youtube-transcripts-at-scale-for-rag-and-the-3-things-that-break-it-2hdf)
+- [RecallOps: Using Hindsight to Recall Past Production Incidents](https://dev.to/alekhya_allatipalli_f21a1/recallops-using-hindsight-to-recall-past-production-incidents-3je2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
