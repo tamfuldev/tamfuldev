@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a flight search that checks multiple airports at once](https://dev.to/caelvo_dc41a83175/building-a-flight-search-that-checks-multiple-airports-at-once-4m7p)
-- [Two spreadsheet parsers, and only the richer one is kept](https://dev.to/emrahg/two-spreadsheet-parsers-and-only-the-richer-one-is-kept-2254)
-- [Railway database deleted by an AI agent: the PocketOS postmortem](https://dev.to/axrisi/railway-database-deleted-by-an-ai-agent-the-pocketos-postmortem-2p7p)
-- [Scraping YouTube transcripts at scale for RAG &lpar;and the 3 things that break it&rpar;](https://dev.to/casaucao/scraping-youtube-transcripts-at-scale-for-rag-and-the-3-things-that-break-it-2hdf)
-- [RecallOps: Using Hindsight to Recall Past Production Incidents](https://dev.to/alekhya_allatipalli_f21a1/recallops-using-hindsight-to-recall-past-production-incidents-3je2)
+- [I Stopped Re-Explaining My Project to AI With Hindsight](https://dev.to/pokuri_lahari_c9a5f9f053d/i-stopped-re-explaining-my-project-to-ai-with-hindsight-39cc)
+- [RepoMind: A Self-Evolving Code Review Agent That Remembers How Your Team Builds Software](https://dev.to/k_pradeep_3b3896bfd2c581b/repomind-a-self-evolving-code-review-agent-that-remembers-how-your-team-builds-software-j11)
+- [Building IncidentMind: An AI Incident Investigation Assistant That Learns From the Past](https://dev.to/mrajeshwarireddy/building-incidentmind-an-ai-incident-investigation-assistant-that-learns-from-the-past-39cd)
+- [Context Compression for Coding Agents Compresses the Wrong Side of the Prompt](https://dev.to/reidmarlow/context-compression-for-coding-agents-compresses-the-wrong-side-of-the-prompt-hio)
+- [How I connected an AI agent to GitHub with Nango and MCP &lpar;without touching a single OAuth token&rpar; published: false tags: ai, mcp, python, tutorial](https://dev.to/sravya_dangeti/how-i-connected-an-ai-agent-to-github-with-nango-and-mcp-without-touching-a-single-oauth-token-14j1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
