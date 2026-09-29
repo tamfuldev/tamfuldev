@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Como medir GEO de forma reproduzível: banco fixo, N por pergunta e denominador explícito](https://dev.to/alexandrebrt14sys/como-medir-geo-de-forma-reproduzivel-banco-fixo-n-por-pergunta-e-denominador-explicito-l92)
-- [GEONMI-MEMS VLEO: How We Reduced Satellite Launch Weight by 40% Using Aero-Ionic Energy Harvesting and Deterministic C++17](https://dev.to/kadritalal38/geonmi-mems-vleo-how-we-reduced-satellite-launch-weight-by-40-using-aero-ionic-energy-harvesting-2jgj)
-- [Three-Model Jury: The Price of Consensus](https://dev.to/maref/three-model-jury-the-price-of-consensus-25pn)
-- [I rebuilt my 28-year-old IRC network from scratch in Go and WebAssembly](https://dev.to/yudumnet/i-rebuilt-my-28-year-old-irc-network-from-scratch-in-go-and-webassembly-2hdp)
-- [My Google AI API 500 errors stopped being scary when I stopped retrying the whole workflow](https://dev.to/lars_winstand/my-google-ai-api-500-errors-stopped-being-scary-when-i-stopped-retrying-the-whole-workflow-ko1)
+- [Why AI Coding Agents Need Project Memory, Not Just Bigger Context Windows](https://dev.to/ps_shanker_2ff296161abc/why-ai-coding-agents-need-project-memory-not-just-bigger-context-windows-35c7)
+- [A Claude Code subagent wrote 25 posts into our working tree. The parent&#39;s git rebase --skip erased all 25](https://dev.to/rulestack/a-claude-code-subagent-wrote-25-posts-into-our-working-tree-the-parents-git-rebase-skip-erased-37a7)
+- [Gray-Scale Degradation of Borderline Signals: From Binary Execution to Dynamic Risk Budgeting](https://dev.to/kestrelquant/gray-scale-degradation-of-borderline-signals-from-binary-execution-to-dynamic-risk-budgeting-2m91)
+- [5 Practical AI Coding Tricks Learned from Top GitHub Trending Agents](https://dev.to/vidfoil/5-practical-ai-coding-tricks-learned-from-top-github-trending-agents-3506)
+- [Compress PDF on Ingest and Report Size Savings in 2026 &lpar;Signed Invoices&rpar;](https://dev.to/iversonblake8417/compress-pdf-on-ingest-and-report-size-savings-in-2026-signed-invoices-1j7k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
