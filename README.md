@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Route Handlers: GET Stopped Caching in 15 — How to Cache in 16](https://dev.to/parsajiravand/nextjs-route-handlers-get-stopped-caching-in-15-how-to-cache-in-16-56nb)
-- [Stop wrestling with broken JSON from your LLM](https://dev.to/shumai/stop-wrestling-with-broken-json-from-your-llm-3a4h)
-- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products](https://dev.to/aymarganinasys/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-1kcc)
-- [Test your video pipeline in CI for free: synthetic fixtures, ffprobe goldens, and webhook replay with pytest](https://dev.to/masonwritescode/test-your-video-pipeline-in-ci-for-free-synthetic-fixtures-ffprobe-goldens-and-webhook-replay-3h9d)
-- [Build a three-stage video dedup worker: SHA-256, perceptual hash, then FFmpeg&#39;s MPEG-7 signature](https://dev.to/masonwritescode/build-a-three-stage-video-dedup-worker-sha-256-perceptual-hash-then-ffmpegs-mpeg-7-signature-578l)
+- [We recompute TypeSafe&#39;s 444x claim — here&#39;s what we found](https://dev.to/chunxiaoxx/we-recompute-typesafes-444x-claim-heres-what-we-found-4fgo)
+- [Designing an Incident Response Agent with FastAPI and Persistent Memory](https://dev.to/zmics_f24df2ad2607d33ad6b/designing-an-incident-response-agent-with-fastapi-and-persistent-memory-dop)
+- [Your Metric Is Not Your State](https://dev.to/kenwalger/your-metric-is-not-your-state-2lfl)
+- [Ditch Oh-My-Zsh Bloat: How I Built zload for Sub-Millisecond Terminal Startup](https://dev.to/casonadams/ditch-oh-my-zsh-bloat-how-i-built-zload-for-sub-millisecond-terminal-startup-5h1i)
+- [Java 25&#39;s Compact Object Headers: I Measured the Real Savings So You Don&#39;t Have To](https://dev.to/avaneeshyadav/java-25s-compact-object-headers-i-measured-the-real-savings-so-you-dont-have-to-4fhm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
