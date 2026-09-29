@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We recompute TypeSafe&#39;s 444x claim — here&#39;s what we found](https://dev.to/chunxiaoxx/we-recompute-typesafes-444x-claim-heres-what-we-found-4fgo)
-- [Designing an Incident Response Agent with FastAPI and Persistent Memory](https://dev.to/zmics_f24df2ad2607d33ad6b/designing-an-incident-response-agent-with-fastapi-and-persistent-memory-dop)
-- [Your Metric Is Not Your State](https://dev.to/kenwalger/your-metric-is-not-your-state-2lfl)
-- [Ditch Oh-My-Zsh Bloat: How I Built zload for Sub-Millisecond Terminal Startup](https://dev.to/casonadams/ditch-oh-my-zsh-bloat-how-i-built-zload-for-sub-millisecond-terminal-startup-5h1i)
-- [Java 25&#39;s Compact Object Headers: I Measured the Real Savings So You Don&#39;t Have To](https://dev.to/avaneeshyadav/java-25s-compact-object-headers-i-measured-the-real-savings-so-you-dont-have-to-4fhm)
+- [Como testar Sistemas multiagentes com ADK](https://dev.to/vongrossi/como-testar-sistemas-multiagentes-com-adk-39ne)
+- [Major Companies Neglect Web Client Quality: Strategies to Enhance User Experience and Functionality](https://dev.to/maxgeris/major-companies-neglect-web-client-quality-strategies-to-enhance-user-experience-and-functionality-58pg)
+- [Does AI Really Make Developers 10x More Productive?](https://dev.to/bernardwiesner/does-ai-really-make-developers-10x-more-productive-1e4k)
+- [I Built ReleaseReady — A GitHub Repository Scanner for Release Readiness 🚀](https://dev.to/vijay736121bstar/i-built-releaseready-a-github-repository-scanner-for-release-readiness-4pcn)
+- [Google Search Console Adds Generative AI Reports for AI Overviews and AI Mode](https://dev.to/alifar/google-search-console-adds-generative-ai-reports-for-ai-overviews-and-ai-mode-3m84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
