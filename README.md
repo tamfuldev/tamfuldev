@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Coding Agents Need Project Memory, Not Just Bigger Context Windows](https://dev.to/ps_shanker_2ff296161abc/why-ai-coding-agents-need-project-memory-not-just-bigger-context-windows-35c7)
-- [A Claude Code subagent wrote 25 posts into our working tree. The parent&#39;s git rebase --skip erased all 25](https://dev.to/rulestack/a-claude-code-subagent-wrote-25-posts-into-our-working-tree-the-parents-git-rebase-skip-erased-37a7)
-- [Gray-Scale Degradation of Borderline Signals: From Binary Execution to Dynamic Risk Budgeting](https://dev.to/kestrelquant/gray-scale-degradation-of-borderline-signals-from-binary-execution-to-dynamic-risk-budgeting-2m91)
-- [5 Practical AI Coding Tricks Learned from Top GitHub Trending Agents](https://dev.to/vidfoil/5-practical-ai-coding-tricks-learned-from-top-github-trending-agents-3506)
-- [Compress PDF on Ingest and Report Size Savings in 2026 &lpar;Signed Invoices&rpar;](https://dev.to/iversonblake8417/compress-pdf-on-ingest-and-report-size-savings-in-2026-signed-invoices-1j7k)
+- [Next.js Route Handlers: GET Stopped Caching in 15 — How to Cache in 16](https://dev.to/parsajiravand/nextjs-route-handlers-get-stopped-caching-in-15-how-to-cache-in-16-56nb)
+- [Stop wrestling with broken JSON from your LLM](https://dev.to/shumai/stop-wrestling-with-broken-json-from-your-llm-3a4h)
+- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products](https://dev.to/aymarganinasys/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-1kcc)
+- [Test your video pipeline in CI for free: synthetic fixtures, ffprobe goldens, and webhook replay with pytest](https://dev.to/masonwritescode/test-your-video-pipeline-in-ci-for-free-synthetic-fixtures-ffprobe-goldens-and-webhook-replay-3h9d)
+- [Build a three-stage video dedup worker: SHA-256, perceptual hash, then FFmpeg&#39;s MPEG-7 signature](https://dev.to/masonwritescode/build-a-three-stage-video-dedup-worker-sha-256-perceptual-hash-then-ffmpegs-mpeg-7-signature-578l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
