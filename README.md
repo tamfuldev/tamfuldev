@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous AI Agents Develop Unpredictable Behaviors in Simulated Environments: New Safety Measures Needed](https://dev.to/natcher/autonomous-ai-agents-develop-unpredictable-behaviors-in-simulated-environments-new-safety-measures-5bae)
-- [How I Choose a Chart for a Small Spreadsheet](https://dev.to/selahsco/how-i-choose-a-chart-for-a-small-spreadsheet-4h4a)
-- [I built a 34-agent AI swarm on my phone — here&#39;s how](https://dev.to/sam_hiotis_117598dbfa3ac2/i-built-a-34-agent-ai-swarm-on-my-phone-heres-how-3l47)
-- [Prometheus Alternative for Small SaaS Custom Metrics &lpar;Incident Reconstruction First&rpar;](https://dev.to/holdenfox8476/prometheus-alternative-for-small-saas-custom-metrics-incident-reconstruction-first-507a)
-- [I built a React Link component that prefetches before you click](https://dev.to/psrockstar098/i-built-a-react-link-component-that-prefetches-before-you-click-28bj)
+- [AI Coding Tips I Actually Use Every Day &lpar;Cursor + Angular&rpar;](https://dev.to/brianmtreese/ai-coding-tips-i-actually-use-every-day-cursor-angular-1dkl)
+- [Why Stripe Webhook Signature Verification Fails on Replays &lpar;and How to Fix It&rpar;](https://dev.to/pkdoddamani/why-stripe-webhook-signature-verification-fails-on-replays-and-how-to-fix-it-7f9)
+- [MCP vs Apify vs Custom Agents: When to Use Each](https://dev.to/marekcziba/mcp-vs-apify-vs-custom-agents-when-to-use-each-4pl0)
+- [This rating is better aligned with results i actually get on real codebases than others.](https://dev.to/tomerbendavid/this-rating-is-better-aligned-with-results-i-actually-get-on-real-codebases-than-others-426p)
+- [How to Practice Python Without Installing Anything &lpar;And Actually Get Better&rpar;](https://dev.to/tathagata_sharma_18869e5f/how-to-practice-python-without-installing-anything-and-actually-get-better-6nm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
