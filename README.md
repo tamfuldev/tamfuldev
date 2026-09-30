@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Tips I Actually Use Every Day &lpar;Cursor + Angular&rpar;](https://dev.to/brianmtreese/ai-coding-tips-i-actually-use-every-day-cursor-angular-1dkl)
-- [Why Stripe Webhook Signature Verification Fails on Replays &lpar;and How to Fix It&rpar;](https://dev.to/pkdoddamani/why-stripe-webhook-signature-verification-fails-on-replays-and-how-to-fix-it-7f9)
-- [MCP vs Apify vs Custom Agents: When to Use Each](https://dev.to/marekcziba/mcp-vs-apify-vs-custom-agents-when-to-use-each-4pl0)
-- [This rating is better aligned with results i actually get on real codebases than others.](https://dev.to/tomerbendavid/this-rating-is-better-aligned-with-results-i-actually-get-on-real-codebases-than-others-426p)
-- [How to Practice Python Without Installing Anything &lpar;And Actually Get Better&rpar;](https://dev.to/tathagata_sharma_18869e5f/how-to-practice-python-without-installing-anything-and-actually-get-better-6nm)
+- [How to Prevent Duplicate Social Posts in an Airtable Make Workflow](https://dev.to/workflowguides/how-to-prevent-duplicate-social-posts-in-an-airtable-make-workflow-hpd)
+- [Technical Mentoring: The Art of Seeing The Whole Person](https://dev.to/danllach/technical-mentoring-the-art-of-seeing-the-whole-person-45gm)
+- [Accessibility in Mobile Apps](https://dev.to/godofgeeks/accessibility-in-mobile-apps-53gm)
+- [TableTop Arbiter: Zero-Hallucination Tournament Judge for Sanity Challenge](https://dev.to/ayush_gupta_17/tabletop-arbiter-zero-hallucination-tournament-judge-for-sanity-challenge-4fom)
+- [Paid plans are live, three days before launch — what happened since last week](https://dev.to/captd/paid-plans-are-live-three-days-before-launch-what-happened-since-last-week-3pb3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
