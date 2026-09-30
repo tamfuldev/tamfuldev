@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Duplicate Social Posts in an Airtable Make Workflow](https://dev.to/workflowguides/how-to-prevent-duplicate-social-posts-in-an-airtable-make-workflow-hpd)
-- [Technical Mentoring: The Art of Seeing The Whole Person](https://dev.to/danllach/technical-mentoring-the-art-of-seeing-the-whole-person-45gm)
-- [Accessibility in Mobile Apps](https://dev.to/godofgeeks/accessibility-in-mobile-apps-53gm)
-- [TableTop Arbiter: Zero-Hallucination Tournament Judge for Sanity Challenge](https://dev.to/ayush_gupta_17/tabletop-arbiter-zero-hallucination-tournament-judge-for-sanity-challenge-4fom)
-- [Paid plans are live, three days before launch — what happened since last week](https://dev.to/captd/paid-plans-are-live-three-days-before-launch-what-happened-since-last-week-3pb3)
+- [Firma electrónica y firma digital no son lo mismo](https://dev.to/isazajuancarlos/firma-electronica-y-firma-digital-no-son-lo-mismo-42og)
+- [Your Uptime Monitor Says 200 OK and Your Site Is Still Broken](https://dev.to/paulcrinigan/your-uptime-monitor-says-200-ok-and-your-site-is-still-broken-28l0)
+- [Image Search Captions vs Pixels: What Is Actually Available for Clinical Cropping](https://dev.to/godfreysterling9226/image-search-captions-vs-pixels-what-is-actually-available-for-clinical-cropping-j8n)
+- [How Did We Get Here? A Decade of Building on Qlik](https://dev.to/etso/how-did-we-get-here-a-decade-of-building-on-qlik-3hio)
+- [Where to get your vendors&#39; SOC 2 reports &lpar;AWS, Vercel, Supabase, GitHub, Stripe and 25 more&rpar;](https://dev.to/__56bc6913b1c85e11/where-to-get-your-vendors-soc-2-reports-aws-vercel-supabase-github-stripe-and-25-more-4jg4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
