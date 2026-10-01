@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [remove.bg shuts down Dec 1 — I built a free, no-signup alternative that runs 100% in the browser](https://dev.to/humanist_25d4126fcf86b6f1/removebg-shuts-down-dec-1-i-built-a-free-no-signup-alternative-that-runs-100-in-the-browser-5d86)
-- [What Tessvia Is — One Scenario, Four Deliverables](https://dev.to/uehara/what-tessvia-is-one-scenario-four-deliverables-5am5)
-- [How to Prevent LLM Hallucinations with Guardrails &lpar;2026&rpar;](https://dev.to/artifilog/how-to-prevent-llm-hallucinations-with-guardrails-2026-48an)
-- [From Windows to Fedora, Cursor to Zed, Opera to Zen — how my stack got quieter and more intentional](https://dev.to/bubu13gu/from-windows-to-fedora-cursor-to-zed-opera-to-zen-how-my-stack-got-quieter-and-more-intentional-4cac)
-- [What I&#39;ve Learned from Pitching 7 Companies &lpar;And Getting 0 Replies&rpar;](https://dev.to/sameerqaisar17/what-ive-learned-from-pitching-7-companies-and-getting-0-replies-a8l)
+- [Scaling a React &amp; Vite Prerendered Toolkit to 24 Live Calculators for Max SEO Impressions](https://dev.to/muhammad_ahmed_6631d2cc13/scaling-a-react-vite-prerendered-toolkit-to-24-live-calculators-for-max-seo-impressions-2mpb)
+- [OpenAI lawsuit: Microsoft&#39;s &#39;theft of labor&#39; memo in the NYT case](https://dev.to/axrisi/openai-lawsuit-microsofts-theft-of-labor-memo-in-the-nyt-case-bp)
+- [Adding RAG to an Existing ASP.NET Core App: SQL Server Chunks, Embeddings and Hybrid Ranking](https://dev.to/rahmatafridi/adding-rag-to-an-existing-aspnet-core-app-sql-server-chunks-embeddings-and-hybrid-ranking-4f81)
+- [The Energy Industry Doesn&#39;t Have an AI Problem. It Has a Data Interoperability Problem!!!](https://dev.to/alirezaai/the-energy-industry-doesnt-have-an-ai-problem-it-has-a-data-interoperability-problem-1e6j)
+- [What Actually Happens When You Call spark.read? One Line of Python, a Thousand Tasks](https://dev.to/anikethsdeshpande/what-actually-happens-when-you-call-sparkread-one-line-of-python-a-thousand-tasks-4am7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
