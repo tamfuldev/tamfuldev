@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling a React &amp; Vite Prerendered Toolkit to 24 Live Calculators for Max SEO Impressions](https://dev.to/muhammad_ahmed_6631d2cc13/scaling-a-react-vite-prerendered-toolkit-to-24-live-calculators-for-max-seo-impressions-2mpb)
-- [OpenAI lawsuit: Microsoft&#39;s &#39;theft of labor&#39; memo in the NYT case](https://dev.to/axrisi/openai-lawsuit-microsofts-theft-of-labor-memo-in-the-nyt-case-bp)
-- [Adding RAG to an Existing ASP.NET Core App: SQL Server Chunks, Embeddings and Hybrid Ranking](https://dev.to/rahmatafridi/adding-rag-to-an-existing-aspnet-core-app-sql-server-chunks-embeddings-and-hybrid-ranking-4f81)
-- [The Energy Industry Doesn&#39;t Have an AI Problem. It Has a Data Interoperability Problem!!!](https://dev.to/alirezaai/the-energy-industry-doesnt-have-an-ai-problem-it-has-a-data-interoperability-problem-1e6j)
-- [What Actually Happens When You Call spark.read? One Line of Python, a Thousand Tasks](https://dev.to/anikethsdeshpande/what-actually-happens-when-you-call-sparkread-one-line-of-python-a-thousand-tasks-4am7)
+- [Does This CVE Affect Me? I Built an AI Agent That Shows Its Evidence](https://dev.to/romil_patel_542899705cd26/does-this-cve-affect-me-i-built-an-ai-agent-that-shows-its-evidence-56b8)
+- [Beginner SaaS Rollbacks: App Logs, Error Tracking, and Metrics Compared](https://dev.to/xaviorcross6845/beginner-saas-rollbacks-app-logs-error-tracking-and-metrics-compared-1lo2)
+- [What I Learned from Climate Change AI Virtual Summer School 2026](https://dev.to/ngtduc693/what-i-learned-from-climate-change-ai-virtual-summer-school-2026-5h3k)
+- [SPF, DKIM and DMARC Explained Without the Migraine](https://dev.to/damrg/spf-dkim-and-dmarc-explained-without-the-migraine-236c)
+- [What to fix first when everything is critical](https://dev.to/wilson-draugr/what-to-fix-first-when-everything-is-critical-2fh0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
