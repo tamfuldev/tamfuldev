@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-12227 — How a Validate-Then-Mutate Bug Turns Into Unauthenticated LFI in Visual Composer](https://dev.to/guidance_white/cve-2026-12227-how-a-validate-then-mutate-bug-turns-into-unauthenticated-lfi-in-visual-composer-1aec)
-- [🚨 The &quot;Always-On&quot; Agent is Here: OpenAI Just Launched &#39;Dots&#39; &lpar;And It Changes How We Code&rpar;](https://dev.to/siddhesh_surve/the-always-on-agent-is-here-openai-just-launched-dots-and-it-changes-how-we-code-5779)
-- [The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle | AI革命能否成功，取决于开发者的心理安全感——与Erin Doyle的访谈](https://dev.to/cognitalk/the-ai-revolution-fails-without-psychological-safety-for-developers-a-conversation-with-erin-doyle-38dd)
-- [How Volumetric Multi-Color 3MF Segmentation Solves the Bambu Lab AMS Layer-Bleed Problem](https://dev.to/jim_l_efc70c3a738e9f4baa7/how-volumetric-multi-color-3mf-segmentation-solves-the-bambu-lab-ams-layer-bleed-problem-j6g)
-- [I asked an AI to make my career-switch video. It took 9 versions, 666 frames and no video editor](https://dev.to/hamdi_laadhari/i-asked-an-ai-to-make-my-career-switch-video-it-took-9-versions-666-frames-and-no-video-editor-3ebf)
+- [remove.bg shuts down Dec 1 — I built a free, no-signup alternative that runs 100% in the browser](https://dev.to/humanist_25d4126fcf86b6f1/removebg-shuts-down-dec-1-i-built-a-free-no-signup-alternative-that-runs-100-in-the-browser-5d86)
+- [What Tessvia Is — One Scenario, Four Deliverables](https://dev.to/uehara/what-tessvia-is-one-scenario-four-deliverables-5am5)
+- [How to Prevent LLM Hallucinations with Guardrails &lpar;2026&rpar;](https://dev.to/artifilog/how-to-prevent-llm-hallucinations-with-guardrails-2026-48an)
+- [From Windows to Fedora, Cursor to Zed, Opera to Zen — how my stack got quieter and more intentional](https://dev.to/bubu13gu/from-windows-to-fedora-cursor-to-zed-opera-to-zen-how-my-stack-got-quieter-and-more-intentional-4cac)
+- [What I&#39;ve Learned from Pitching 7 Companies &lpar;And Getting 0 Replies&rpar;](https://dev.to/sameerqaisar17/what-ive-learned-from-pitching-7-companies-and-getting-0-replies-a8l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
