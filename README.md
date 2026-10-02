@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal AI Breaks at the Tokenizer, Not the Model](https://dev.to/aiexplore369zoho/multimodal-ai-breaks-at-the-tokenizer-not-the-model-170g)
-- [OfferProof: an offline job-scam checker for my fresher friends](https://dev.to/jx777/offerproof-an-offline-job-scam-checker-for-my-fresher-friends-1eh7)
-- [Your Agent Said &quot;Done&quot;. The Filesystem Disagrees.](https://dev.to/hazeoska/your-agent-said-done-the-filesystem-disagrees-1cb4)
-- [How to know when a dependency changes your day](https://dev.to/ittsel_ali_b50b461494246d/how-to-know-when-a-dependency-changes-your-day-3m21)
-- [PGSimCity](https://dev.to/akaranjkar08/pgsimcity-130h)
+- [[Boost]](https://dev.to/emboldtyler/-p90)
+- [Continuous Native iOS Widget Animation in Pure SwiftUI: Architecture &amp; App Store Review](https://dev.to/limooonik/continuous-native-ios-widget-animation-in-pure-swiftui-architecture-app-store-review-4fek)
+- [Transactional Welcome Email: Node.js Favors Resend over SES for Suppression Lists](https://dev.to/trkfpn392751/transactional-welcome-email-nodejs-favors-resend-over-ses-for-suppression-lists-1ba8)
+- [Kubernetes Pods stuck in Pending — 8 causes and exact fixes](https://dev.to/aiunplugged/kubernetes-pods-stuck-in-pending-8-causes-and-exact-fixes-23cg)
+- [I said no and Apple said yes](https://dev.to/ashish_624379625242c5d263/i-said-no-and-apple-said-yes-4lo7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
