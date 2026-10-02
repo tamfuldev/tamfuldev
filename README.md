@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Sixteen days in Shopify&#39;s app review, written down as it happened](https://dev.to/bananafestdestiny/sixteen-days-in-shopifys-app-review-written-down-as-it-happened-2mho)
-- [Storm-3068: How SSPR Abuse Turns One Azure AD Account Into Kubernetes Credential Theft](https://dev.to/iamdevbox/storm-3068-how-sspr-abuse-turns-one-azure-ad-account-into-kubernetes-credential-theft-41h0)
-- [Why Hiring a Developer Is Still Hard When There Are Thousands Available](https://dev.to/ioan_flaviuzsoldos_a3bf4/why-hiring-a-developer-is-still-hard-when-there-are-thousands-available-2l3d)
-- [Node.js Stored PDF Template vs Repository HTML &lpar;Who Signs Off&rpar;](https://dev.to/judsonrhodes1569/nodejs-stored-pdf-template-vs-repository-html-who-signs-off-3de9)
-- [Governance Attack Surface Review: HTX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-htx-54eo)
+- [I Built a Cross-Client Memory Hub for AI Agents — Here&#39;s What I Learned](https://dev.to/lanbass869cell/i-built-a-cross-client-memory-hub-for-ai-agents-heres-what-i-learned-418l)
+- [I built a zero-dependency CLI to pause deploys when L2 gas spikes](https://dev.to/psicossz29netizen/i-built-a-zero-dependency-cli-to-pause-deploys-when-l2-gas-spikes-288j)
+- [I built a native macOS menu bar companion for Portless](https://dev.to/akshitkrnagpal/i-built-a-native-macos-menu-bar-companion-for-portless-50gp)
+- [What Click2Shell Teaches About Reporting a Parser Discrepancy](https://dev.to/jeffreyciend/what-click2shell-teaches-about-reporting-a-parser-discrepancy-e6h)
+- [Hunting Memory Leaks in JavaScript: Notes on V8 Mechanics &amp; Chrome DevTools](https://dev.to/mittens420/hunting-memory-leaks-in-javascript-notes-on-v8-mechanics-chrome-devtools-n7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
