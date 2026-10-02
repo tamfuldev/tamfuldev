@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cross-Client Memory Hub for AI Agents — Here&#39;s What I Learned](https://dev.to/lanbass869cell/i-built-a-cross-client-memory-hub-for-ai-agents-heres-what-i-learned-418l)
-- [I built a zero-dependency CLI to pause deploys when L2 gas spikes](https://dev.to/psicossz29netizen/i-built-a-zero-dependency-cli-to-pause-deploys-when-l2-gas-spikes-288j)
-- [I built a native macOS menu bar companion for Portless](https://dev.to/akshitkrnagpal/i-built-a-native-macos-menu-bar-companion-for-portless-50gp)
-- [What Click2Shell Teaches About Reporting a Parser Discrepancy](https://dev.to/jeffreyciend/what-click2shell-teaches-about-reporting-a-parser-discrepancy-e6h)
-- [Hunting Memory Leaks in JavaScript: Notes on V8 Mechanics &amp; Chrome DevTools](https://dev.to/mittens420/hunting-memory-leaks-in-javascript-notes-on-v8-mechanics-chrome-devtools-n7e)
+- [Multimodal AI Breaks at the Tokenizer, Not the Model](https://dev.to/aiexplore369zoho/multimodal-ai-breaks-at-the-tokenizer-not-the-model-170g)
+- [OfferProof: an offline job-scam checker for my fresher friends](https://dev.to/jx777/offerproof-an-offline-job-scam-checker-for-my-fresher-friends-1eh7)
+- [Your Agent Said &quot;Done&quot;. The Filesystem Disagrees.](https://dev.to/hazeoska/your-agent-said-done-the-filesystem-disagrees-1cb4)
+- [How to know when a dependency changes your day](https://dev.to/ittsel_ali_b50b461494246d/how-to-know-when-a-dependency-changes-your-day-3m21)
+- [PGSimCity](https://dev.to/akaranjkar08/pgsimcity-130h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
