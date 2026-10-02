@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/emboldtyler/-p90)
-- [Continuous Native iOS Widget Animation in Pure SwiftUI: Architecture &amp; App Store Review](https://dev.to/limooonik/continuous-native-ios-widget-animation-in-pure-swiftui-architecture-app-store-review-4fek)
-- [Transactional Welcome Email: Node.js Favors Resend over SES for Suppression Lists](https://dev.to/trkfpn392751/transactional-welcome-email-nodejs-favors-resend-over-ses-for-suppression-lists-1ba8)
-- [Kubernetes Pods stuck in Pending — 8 causes and exact fixes](https://dev.to/aiunplugged/kubernetes-pods-stuck-in-pending-8-causes-and-exact-fixes-23cg)
-- [I said no and Apple said yes](https://dev.to/ashish_624379625242c5d263/i-said-no-and-apple-said-yes-4lo7)
+- [My Server Files Its Own Tickets, Then Waits for My Signature to Heal Itself](https://dev.to/bencoy09/my-server-files-its-own-tickets-then-waits-for-my-signature-to-heal-itself-2dhf)
+- [Telegram-бот с ИИ для заявок: архитектура без лишнего](https://dev.to/omdigital_ru/telegram-bot-s-ii-dlia-zaiavok-arkhitiektura-biez-lishniegho-3j3e)
+- [Notification Cost Attribution: Structured JSON API Logs for Small SaaS](https://dev.to/yukikobayashi880/notification-cost-attribution-structured-json-api-logs-for-small-saas-42pl)
+- [SaaS App Health Monitoring: Forensic Evidence for Silent Node Cron Jobs](https://dev.to/erasmuspierce7981/saas-app-health-monitoring-forensic-evidence-for-silent-node-cron-jobs-6f0)
+- [Why the OpenTelemetry browser SDK wouldn&#39;t start on Safari 17](https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
