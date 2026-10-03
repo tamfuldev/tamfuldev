@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Using Third-Party Models as Subagents Alongside Claude in Claude Code](https://dev.to/maple/using-third-party-models-as-subagents-alongside-claude-in-claude-code-4i38)
-- [Three AI judges, one dirty sink](https://dev.to/abjt01/my-flat-argues-about-dishes-and-missing-milk-so-i-built-it-a-court-with-three-ai-judges-2knf)
-- [How to turn an OpenAPI spec into an MCP server &lpar;2026 step-by-step&rpar;](https://dev.to/jeff_pdc/how-to-turn-an-openapi-spec-into-an-mcp-server-2026-step-by-step-4m4h)
-- [Building Dice Atelier: a 3D dice roller with 20 themed tables, built by two AIs and one director](https://dev.to/penguinwearingahat/building-dice-atelier-a-3d-dice-roller-with-20-themed-tables-built-by-two-ais-and-one-director-1cml)
-- [One Command to Hedera: An AI Agent Passport You Can Scaffold in an Afternoon](https://dev.to/spread2009/one-command-to-hedera-an-ai-agent-passport-you-can-scaffold-in-an-afternoon-49bj)
+- [E-commerce Metrics API Query Alerting with Lambda Webhooks for Node.js Explained](https://dev.to/ethanbrooks1647/e-commerce-metrics-api-query-alerting-with-lambda-webhooks-for-nodejs-explained-2mmk)
+- [Anti-Peeping AI Shield: How We Are Fixing Mobile Privacy with Messagram](https://dev.to/_b3dc335cee235aa0a0/anti-peeping-ai-shield-how-we-are-fixing-mobile-privacy-with-messagram-3ek7)
+- [How to test WebSocket APIs: handshakes, auth, reconnection, and repeatable scenarios](https://dev.to/jeff_pdc/how-to-test-websocket-apis-handshakes-auth-reconnection-and-repeatable-scenarios-557p)
+- [I converted 126 tree models to ONNX by following the docs. Here is what changed.](https://dev.to/milivoje_simonovi_ddc92b/i-converted-126-tree-models-to-onnx-by-following-the-docs-here-is-what-changed-3a3j)
+- [GitOps Explained: How Kubernetes Deployments Become Fully Automated](https://dev.to/yash_sonawane25/gitops-explained-how-kubernetes-deployments-become-fully-automated-4kp2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
