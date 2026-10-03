@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Descriptive vs Inferential Statistics: A Practical Guide with Real-World Examples....](https://dev.to/rakeshkumar_nayak_d4795a8/descriptive-vs-inferential-statistics-a-practical-guide-with-real-world-examples-3j38)
-- [Why we publish our horse racing model&#39;s track record — wins, losses and all](https://dev.to/mystiqueracing/why-we-publish-our-horse-racing-models-track-record-wins-losses-and-all-2533)
-- [MAX&lpar;&rpar;+1: The Invoice Number That Showed Up Twice](https://dev.to/hossam_assadallah_842151a/max1-the-invoice-number-that-showed-up-twice-3lb1)
-- [Count the cognitive tasks](https://dev.to/marcosomma/count-the-cognitive-tasks-45e1)
-- [The DPPA Protects DMV Records—Not Every Byte Your Car Creates](https://dev.to/joseph_sides/the-dppa-protects-dmv-records-not-every-byte-your-car-creates-3lkn)
+- [Using Third-Party Models as Subagents Alongside Claude in Claude Code](https://dev.to/maple/using-third-party-models-as-subagents-alongside-claude-in-claude-code-4i38)
+- [Three AI judges, one dirty sink](https://dev.to/abjt01/my-flat-argues-about-dishes-and-missing-milk-so-i-built-it-a-court-with-three-ai-judges-2knf)
+- [How to turn an OpenAPI spec into an MCP server &lpar;2026 step-by-step&rpar;](https://dev.to/jeff_pdc/how-to-turn-an-openapi-spec-into-an-mcp-server-2026-step-by-step-4m4h)
+- [Building Dice Atelier: a 3D dice roller with 20 themed tables, built by two AIs and one director](https://dev.to/penguinwearingahat/building-dice-atelier-a-3d-dice-roller-with-20-themed-tables-built-by-two-ais-and-one-director-1cml)
+- [One Command to Hedera: An AI Agent Passport You Can Scaffold in an Afternoon](https://dev.to/spread2009/one-command-to-hedera-an-ai-agent-passport-you-can-scaffold-in-an-afternoon-49bj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
