@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce Metrics API Query Alerting with Lambda Webhooks for Node.js Explained](https://dev.to/ethanbrooks1647/e-commerce-metrics-api-query-alerting-with-lambda-webhooks-for-nodejs-explained-2mmk)
-- [Anti-Peeping AI Shield: How We Are Fixing Mobile Privacy with Messagram](https://dev.to/_b3dc335cee235aa0a0/anti-peeping-ai-shield-how-we-are-fixing-mobile-privacy-with-messagram-3ek7)
-- [How to test WebSocket APIs: handshakes, auth, reconnection, and repeatable scenarios](https://dev.to/jeff_pdc/how-to-test-websocket-apis-handshakes-auth-reconnection-and-repeatable-scenarios-557p)
-- [I converted 126 tree models to ONNX by following the docs. Here is what changed.](https://dev.to/milivoje_simonovi_ddc92b/i-converted-126-tree-models-to-onnx-by-following-the-docs-here-is-what-changed-3a3j)
-- [GitOps Explained: How Kubernetes Deployments Become Fully Automated](https://dev.to/yash_sonawane25/gitops-explained-how-kubernetes-deployments-become-fully-automated-4kp2)
+- [How to Get Around AI Chat App Boundaries &lpar;and prevent it from happening&rpar;](https://dev.to/robinwinters/how-to-get-around-ai-chat-app-boundaries-and-prevent-it-from-happening-4hgf)
+- [PaidYet: for the friend who says “kal bhej dunga”](https://dev.to/prateek11rai/paidyet-for-the-friend-who-says-kal-bhej-dunga-p5l)
+- [The “Any Given Tuesday” Theory of AI Startups](https://dev.to/robinwinters/the-any-given-tuesday-theory-of-ai-startups-1341)
+- [What if Myspace Had It Right?](https://dev.to/robinwinters/what-if-myspace-had-it-right-30oh)
+- [Marigold: Hacktoberfest Weekend Challenge](https://dev.to/humayounbaig/marigold-hacktoberfest-weekend-challenge-1d7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
