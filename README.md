@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Keeps Making the Same Extraction Mistake. Here&#39;s How to Make It Learn.](https://dev.to/avneet_bansal_a65b3f31fc4/your-llm-keeps-making-the-same-extraction-mistake-heres-how-to-make-it-learn-5bjb)
-- [Elixir Enchiridium — Tomo II: A Máquina parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-3-2ae0)
-- [Elixir Enchiridium — Tomo II: A Máquina parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-2-d4k)
-- [Elixir Enchiridium — Tomo II: A Máquina](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-3757)
-- [How to Open a PSD File Without Photoshop &lpar;Free, Right in Your Browser&rpar;](https://dev.to/freeps/how-to-open-a-psd-file-without-photoshop-free-right-in-your-browser-38d6)
+- [I Built an Internet Court. Now I&#39;m Trying to Find Out If Anyone Actually Wants It.](https://dev.to/sohail_khan_db35e29ac67bd/i-built-an-internet-court-now-im-trying-to-find-out-if-anyone-actually-wants-it-558h)
+- [Jev AI: Silent Winner, Investors&#39; Darling. Why?](https://dev.to/gp-ia-blog/jev-ai-silent-winner-investors-darling-why-p1d)
+- [Checking a Pandas pipeline before moving it to Polars](https://dev.to/arthur031221/checking-a-pandas-pipeline-before-moving-it-to-polars-1j46)
+- [Odoo Community Self-Hosted vs Odoo Online: Is a Private Cloud ERP Worth It for a Family of Four?](https://dev.to/john_182319291/odoo-community-self-hosted-vs-odoo-online-is-a-private-cloud-erp-worth-it-for-a-family-of-four-35ml)
+- [COOLOSJ SHIELD](https://dev.to/coolosj_studios/coolosj-shield-58eh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
