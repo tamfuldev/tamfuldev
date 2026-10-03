@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Server Files Its Own Tickets, Then Waits for My Signature to Heal Itself](https://dev.to/bencoy09/my-server-files-its-own-tickets-then-waits-for-my-signature-to-heal-itself-2dhf)
-- [Telegram-бот с ИИ для заявок: архитектура без лишнего](https://dev.to/omdigital_ru/telegram-bot-s-ii-dlia-zaiavok-arkhitiektura-biez-lishniegho-3j3e)
-- [Notification Cost Attribution: Structured JSON API Logs for Small SaaS](https://dev.to/yukikobayashi880/notification-cost-attribution-structured-json-api-logs-for-small-saas-42pl)
-- [SaaS App Health Monitoring: Forensic Evidence for Silent Node Cron Jobs](https://dev.to/erasmuspierce7981/saas-app-health-monitoring-forensic-evidence-for-silent-node-cron-jobs-6f0)
-- [Why the OpenTelemetry browser SDK wouldn&#39;t start on Safari 17](https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5)
+- [Your LLM Keeps Making the Same Extraction Mistake. Here&#39;s How to Make It Learn.](https://dev.to/avneet_bansal_a65b3f31fc4/your-llm-keeps-making-the-same-extraction-mistake-heres-how-to-make-it-learn-5bjb)
+- [Elixir Enchiridium — Tomo II: A Máquina parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-3-2ae0)
+- [Elixir Enchiridium — Tomo II: A Máquina parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-2-d4k)
+- [Elixir Enchiridium — Tomo II: A Máquina](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-3757)
+- [How to Open a PSD File Without Photoshop &lpar;Free, Right in Your Browser&rpar;](https://dev.to/freeps/how-to-open-a-psd-file-without-photoshop-free-right-in-your-browser-38d6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
