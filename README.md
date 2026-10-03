@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Internet Court. Now I&#39;m Trying to Find Out If Anyone Actually Wants It.](https://dev.to/sohail_khan_db35e29ac67bd/i-built-an-internet-court-now-im-trying-to-find-out-if-anyone-actually-wants-it-558h)
-- [Jev AI: Silent Winner, Investors&#39; Darling. Why?](https://dev.to/gp-ia-blog/jev-ai-silent-winner-investors-darling-why-p1d)
-- [Checking a Pandas pipeline before moving it to Polars](https://dev.to/arthur031221/checking-a-pandas-pipeline-before-moving-it-to-polars-1j46)
-- [Odoo Community Self-Hosted vs Odoo Online: Is a Private Cloud ERP Worth It for a Family of Four?](https://dev.to/john_182319291/odoo-community-self-hosted-vs-odoo-online-is-a-private-cloud-erp-worth-it-for-a-family-of-four-35ml)
-- [COOLOSJ SHIELD](https://dev.to/coolosj_studios/coolosj-shield-58eh)
+- [Descriptive vs Inferential Statistics: A Practical Guide with Real-World Examples....](https://dev.to/rakeshkumar_nayak_d4795a8/descriptive-vs-inferential-statistics-a-practical-guide-with-real-world-examples-3j38)
+- [Why we publish our horse racing model&#39;s track record — wins, losses and all](https://dev.to/mystiqueracing/why-we-publish-our-horse-racing-models-track-record-wins-losses-and-all-2533)
+- [MAX&lpar;&rpar;+1: The Invoice Number That Showed Up Twice](https://dev.to/hossam_assadallah_842151a/max1-the-invoice-number-that-showed-up-twice-3lb1)
+- [Count the cognitive tasks](https://dev.to/marcosomma/count-the-cognitive-tasks-45e1)
+- [The DPPA Protects DMV Records—Not Every Byte Your Car Creates](https://dev.to/joseph_sides/the-dppa-protects-dmv-records-not-every-byte-your-car-creates-3lkn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
