@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI workout coach in SwiftUI: one-tap logging during the set, GPT-4o analysis after](https://dev.to/shurinbergo_5451b6dad08f8/building-an-ai-workout-coach-in-swiftui-one-tap-logging-during-the-set-gpt-4o-analysis-after-3126)
-- [A RAG consultant for an immigration law firm: what it answers and what it hands to the lawyer](https://dev.to/shurinbergo_5451b6dad08f8/a-rag-consultant-for-an-immigration-law-firm-what-it-answers-and-what-it-hands-to-the-lawyer-1cdk)
-- [Don&#39;t ask what changes. Ask what you need to save.](https://dev.to/danielecangi/dont-ask-what-changes-ask-what-you-need-to-save-423h)
-- [FastAPI Request/Response Logging for AI Feature Attribution: Tracking Which Claude Call Cost Which Tenant](https://dev.to/uaslimcreate/fastapi-requestresponse-logging-for-ai-feature-attribution-tracking-which-claude-call-cost-which-pna)
-- [How AI Is Making Restaurant Menus Easier to Navigate](https://dev.to/albert_nahas_cdc8469a6ae8/how-ai-is-making-restaurant-menus-easier-to-navigate-o18)
+- [Packaging a Python ML Sidecar Inside a Signed Mac App: 9 Traps from Production](https://dev.to/chongwang/packaging-a-python-ml-sidecar-inside-a-signed-mac-app-9-traps-from-production-3cjk)
+- [External Secrets Operator + CSI Driver: The Setup That Survived Our SOC 2 Audit](https://dev.to/scsoi/external-secrets-operator-csi-driver-the-setup-that-survived-our-soc-2-audit-4bf5)
+- [llms.txt best practices: facts, canonical URLs, what to leave out](https://dev.to/500wango/llmstxt-best-practices-facts-canonical-urls-what-to-leave-out-1dn2)
+- [How Algorithms Discover Structure](https://dev.to/derekmwale/how-algorithms-discover-structure-33e2)
+- [Table Topics Champion Buddy](https://dev.to/viveknshah/table-topics-champion-buddy-ece)
 <!-- BLOG-POST-LIST:END -->
 
 ---
