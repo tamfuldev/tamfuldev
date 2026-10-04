@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Un export de 44 secondes : mesurer avant de chercher](https://dev.to/amineaffif/un-export-de-44-secondes-mesurer-avant-de-chercher-37ip)
-- [The Java Collections Framework: Choosing Your Weapon Like a Jedi](https://dev.to/timevolt/the-java-collections-framework-choosing-your-weapon-like-a-jedi-3bbc)
-- [Microsoft Titan flaw exposed 17.3 trillion rows to a teen](https://dev.to/techaiwire/microsoft-titan-flaw-exposed-173-trillion-rows-to-a-teen-39ga)
-- [The number nobody posts](https://dev.to/sam_ilands/the-number-nobody-posts-f7j)
-- [Troubleshooting an SSH Server on Windows: Check Each Layer](https://dev.to/__3381495fd2b/troubleshooting-an-ssh-server-on-windows-check-each-layer-944)
+- [Jev Ultrafast: The Sub-10-Second Web Agent Architecture](https://dev.to/terminalchai/jev-ultrafast-the-sub-10-second-web-agent-architecture-1728)
+- [358 pull requests that changed tests: agents rarely weakened them. They bent the code instead.](https://dev.to/cherven/358-pull-requests-that-changed-tests-agents-rarely-weakened-them-they-bent-the-code-instead-3ld)
+- [10th K AI: I Built an AI Tutor for My Sister Who Was Stuck on Textbook Questions](https://dev.to/aditi_shetty_caaab207ff98/10th-k-ai-i-built-an-ai-tutor-for-my-sister-who-was-stuck-on-textbook-questions-40eb)
+- [DEV Challenge 1 Complete - StudyMate](https://dev.to/shourya_shinde_20/dev-challenge-1-complete-studymate-4al)
+- [Triage Order After a Credential-Exposure Advisory: What to Fix First on Fortinet Edge Devices](https://dev.to/kozhevniko/triage-order-after-a-credential-exposure-advisory-what-to-fix-first-on-fortinet-edge-devices-49li)
 <!-- BLOG-POST-LIST:END -->
 
 ---
