@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Packaging a Python ML Sidecar Inside a Signed Mac App: 9 Traps from Production](https://dev.to/chongwang/packaging-a-python-ml-sidecar-inside-a-signed-mac-app-9-traps-from-production-3cjk)
-- [External Secrets Operator + CSI Driver: The Setup That Survived Our SOC 2 Audit](https://dev.to/scsoi/external-secrets-operator-csi-driver-the-setup-that-survived-our-soc-2-audit-4bf5)
-- [llms.txt best practices: facts, canonical URLs, what to leave out](https://dev.to/500wango/llmstxt-best-practices-facts-canonical-urls-what-to-leave-out-1dn2)
-- [How Algorithms Discover Structure](https://dev.to/derekmwale/how-algorithms-discover-structure-33e2)
-- [Table Topics Champion Buddy](https://dev.to/viveknshah/table-topics-champion-buddy-ece)
+- [Un export de 44 secondes : mesurer avant de chercher](https://dev.to/amineaffif/un-export-de-44-secondes-mesurer-avant-de-chercher-37ip)
+- [The Java Collections Framework: Choosing Your Weapon Like a Jedi](https://dev.to/timevolt/the-java-collections-framework-choosing-your-weapon-like-a-jedi-3bbc)
+- [Microsoft Titan flaw exposed 17.3 trillion rows to a teen](https://dev.to/techaiwire/microsoft-titan-flaw-exposed-173-trillion-rows-to-a-teen-39ga)
+- [The number nobody posts](https://dev.to/sam_ilands/the-number-nobody-posts-f7j)
+- [Troubleshooting an SSH Server on Windows: Check Each Layer](https://dev.to/__3381495fd2b/troubleshooting-an-ssh-server-on-windows-check-each-layer-944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
