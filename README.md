@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Management was never a promotion](https://dev.to/phpboyscout/management-was-never-a-promotion-1deh)
-- [Designing a 99.999% IoT Platform](https://dev.to/beefedai/designing-a-99999-iot-platform-1lf3)
-- [I Traced CrewAI&#39;s Sandbox CVE: 9 Names Missed the Runtime](https://dev.to/kielltampubolon/i-traced-crewais-sandbox-cve-9-names-missed-the-runtime-35im)
-- [Detection and verification limits for CVE-2026-96364 on a live Drupal estate](https://dev.to/jeffreyciend/detection-and-verification-limits-for-cve-2026-96364-on-a-live-drupal-estate-4582)
-- [레고 CAD를 AI가 만든다 – 1인 개발자가 저예산으로 바로 써볼 수 있을까](https://dev.to/justjinoit/rego-cadreul-aiga-mandeunda-1in-gaebaljaga-jeoyesaneuro-baro-sseobol-su-isseulgga-151b)
+- [Building an AI workout coach in SwiftUI: one-tap logging during the set, GPT-4o analysis after](https://dev.to/shurinbergo_5451b6dad08f8/building-an-ai-workout-coach-in-swiftui-one-tap-logging-during-the-set-gpt-4o-analysis-after-3126)
+- [A RAG consultant for an immigration law firm: what it answers and what it hands to the lawyer](https://dev.to/shurinbergo_5451b6dad08f8/a-rag-consultant-for-an-immigration-law-firm-what-it-answers-and-what-it-hands-to-the-lawyer-1cdk)
+- [Don&#39;t ask what changes. Ask what you need to save.](https://dev.to/danielecangi/dont-ask-what-changes-ask-what-you-need-to-save-423h)
+- [FastAPI Request/Response Logging for AI Feature Attribution: Tracking Which Claude Call Cost Which Tenant](https://dev.to/uaslimcreate/fastapi-requestresponse-logging-for-ai-feature-attribution-tracking-which-claude-call-cost-which-pna)
+- [How AI Is Making Restaurant Menus Easier to Navigate](https://dev.to/albert_nahas_cdc8469a6ae8/how-ai-is-making-restaurant-menus-easier-to-navigate-o18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
