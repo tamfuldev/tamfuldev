@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I gave my text-to-SQL agent a business glossary. One version helped a lot, one did nothing.](https://dev.to/ashish_sinha_5241c7673d93/i-gave-my-text-to-sql-agent-a-business-glossary-one-version-helped-a-lot-one-did-nothing-2c9o)
-- [Research Reports Your Agent Writes Need Sources Before Sentences](https://dev.to/alapha888/research-reports-your-agent-writes-need-sources-before-sentences-2kp4)
-- [Study Buddy: a retro AI study companion built for a friend](https://dev.to/someshcoding/study-buddy-a-retro-ai-study-companion-built-for-a-friend-5dpa)
-- [I Built My Friend a Voice-First AI for Unfinished Thoughts](https://dev.to/kaustubh_05/i-built-my-friend-a-voice-first-ai-for-unfinished-thoughts-2dbn)
-- [How to Write an Effective Software Project Brief for Kerala Developers and Remote Clients](https://dev.to/abinschandran/how-to-write-an-effective-software-project-brief-for-kerala-developers-and-remote-clients-4m3j)
+- [VG sprites with an &lt;img&gt; tag: a different approach
+
+I built an SVG sprite generator that lets you combine multiple images in one SVG file and display each one through a regular &lt;img&gt; tag](https://dev.to/ingozoell/vg-sprites-with-an-tag-a-different-approach-i-built-an-svg-sprite-generator-that-lets-you-cbf)
+- [# StudyForge AI: A Gemma-Powered Student Workspace Built for a Friend](https://dev.to/ashutoshranjan/-studyforge-ai-a-gemma-powered-student-workspace-built-for-a-friend-1noc)
+- [Hack The Box — Hercules Write-up | Advanced Active Directory &amp; AD CS](https://dev.to/rafidths/hack-the-box-hercules-write-up-advanced-active-directory-ad-cs-45l9)
+- [AI Meeting Assistant Without a Bot: The 2026 Buyer&#39;s Guide](https://dev.to/luciesavoir/ai-meeting-assistant-without-a-bot-the-2026-buyers-guide-32ek)
+- [I built a strict local AI for my friend so he could actually learn to code](https://dev.to/lohanmahima/i-built-a-strict-local-ai-for-my-friend-so-he-could-actually-learn-to-code-22gk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
