@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a safety mod that crashes on purpose. Claude Code ran the command anyway.](https://dev.to/aidiveyt/i-wrote-a-safety-mod-that-crashes-on-purpose-claude-code-ran-the-command-anyway-323b)
-- [How to transcribe audio and video files to text with one API call &lpar;MP3, MP4, Google Drive, Dropbox&rpar;](https://dev.to/clem616/how-to-transcribe-audio-and-video-files-to-text-with-one-api-call-mp3-mp4-google-drive-dropbox-4dml)
-- [Nightly Pipeline Errors: Express API Production Logs for Tenant Run Reconstruction](https://dev.to/sladebarrett9642/nightly-pipeline-errors-express-api-production-logs-for-tenant-run-reconstruction-m3h)
-- [A Practical Holdout Pattern for Coupon Extension Rules](https://dev.to/dougwithseismic/a-practical-holdout-pattern-for-coupon-extension-rules-2kbd)
-- [In-App Chatbot API: Nodejs Context Windows and JSON Portability](https://dev.to/engelbertpierce7942/in-app-chatbot-api-nodejs-context-windows-and-json-portability-9k1)
+- [Five Stop Conditions Every Production Claude Tool Loop Needs](https://dev.to/poorna_reddy/five-stop-conditions-every-production-claude-tool-loop-needs-213o)
+- [Field Break: an open-weight AI that tells you to close the screen](https://dev.to/unfire/field-break-an-open-weight-ai-that-tells-you-to-close-the-screen-35j9)
+- [Claude Message Batches: What to Do With Each Result State](https://dev.to/poorna_reddy/claude-message-batches-what-to-do-with-each-result-state-ll2)
+- [PreToolUse or PostToolUse? Where to Put a Check in the Claude Agent SDK](https://dev.to/poorna_reddy/pretooluse-or-posttooluse-where-to-put-a-check-in-the-claude-agent-sdk-36fh)
+- [5 Reasons Claude Code Seems to Ignore Your CLAUDE.md](https://dev.to/poorna_reddy/5-reasons-claude-code-seems-to-ignore-your-claudemd-oe6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
