@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VG sprites with an &lt;img&gt; tag: a different approach
-
-I built an SVG sprite generator that lets you combine multiple images in one SVG file and display each one through a regular &lt;img&gt; tag](https://dev.to/ingozoell/vg-sprites-with-an-tag-a-different-approach-i-built-an-svg-sprite-generator-that-lets-you-cbf)
-- [# StudyForge AI: A Gemma-Powered Student Workspace Built for a Friend](https://dev.to/ashutoshranjan/-studyforge-ai-a-gemma-powered-student-workspace-built-for-a-friend-1noc)
-- [Hack The Box — Hercules Write-up | Advanced Active Directory &amp; AD CS](https://dev.to/rafidths/hack-the-box-hercules-write-up-advanced-active-directory-ad-cs-45l9)
-- [AI Meeting Assistant Without a Bot: The 2026 Buyer&#39;s Guide](https://dev.to/luciesavoir/ai-meeting-assistant-without-a-bot-the-2026-buyers-guide-32ek)
-- [I built a strict local AI for my friend so he could actually learn to code](https://dev.to/lohanmahima/i-built-a-strict-local-ai-for-my-friend-so-he-could-actually-learn-to-code-22gk)
+- [I wrote a safety mod that crashes on purpose. Claude Code ran the command anyway.](https://dev.to/aidiveyt/i-wrote-a-safety-mod-that-crashes-on-purpose-claude-code-ran-the-command-anyway-323b)
+- [How to transcribe audio and video files to text with one API call &lpar;MP3, MP4, Google Drive, Dropbox&rpar;](https://dev.to/clem616/how-to-transcribe-audio-and-video-files-to-text-with-one-api-call-mp3-mp4-google-drive-dropbox-4dml)
+- [Nightly Pipeline Errors: Express API Production Logs for Tenant Run Reconstruction](https://dev.to/sladebarrett9642/nightly-pipeline-errors-express-api-production-logs-for-tenant-run-reconstruction-m3h)
+- [A Practical Holdout Pattern for Coupon Extension Rules](https://dev.to/dougwithseismic/a-practical-holdout-pattern-for-coupon-extension-rules-2kbd)
+- [In-App Chatbot API: Nodejs Context Windows and JSON Portability](https://dev.to/engelbertpierce7942/in-app-chatbot-api-nodejs-context-windows-and-json-portability-9k1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
