@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Five Stop Conditions Every Production Claude Tool Loop Needs](https://dev.to/poorna_reddy/five-stop-conditions-every-production-claude-tool-loop-needs-213o)
-- [Field Break: an open-weight AI that tells you to close the screen](https://dev.to/unfire/field-break-an-open-weight-ai-that-tells-you-to-close-the-screen-35j9)
-- [Claude Message Batches: What to Do With Each Result State](https://dev.to/poorna_reddy/claude-message-batches-what-to-do-with-each-result-state-ll2)
-- [PreToolUse or PostToolUse? Where to Put a Check in the Claude Agent SDK](https://dev.to/poorna_reddy/pretooluse-or-posttooluse-where-to-put-a-check-in-the-claude-agent-sdk-36fh)
-- [5 Reasons Claude Code Seems to Ignore Your CLAUDE.md](https://dev.to/poorna_reddy/5-reasons-claude-code-seems-to-ignore-your-claudemd-oe6)
+- [Vanam by Mahaveer Varma](https://dev.to/mahaveervarmavegiraju/vanam-by-mahaveer-varma-b1d)
+- [Citrix NetScaler CVE-2026-88771 and CVE-2026-88772: two edge RCE flaws attacked before a fix existed](https://dev.to/jeffreyciend/citrix-netscaler-cve-2026-88771-and-cve-2026-88772-two-edge-rce-flaws-attacked-before-a-fix-existed-1og6)
+- [OpenCode Model Router: per-agent model fallback chains with a local web UI](https://dev.to/sertdisk/opencode-model-router-per-agent-model-fallback-chains-with-a-local-web-ui-4n23)
+- [Como funciona a memória de um agente de IA &lpar;e o que acontece quando ela esquece do jeito errado&rpar;](https://dev.to/devtheusp/como-funciona-a-memoria-de-um-agente-de-ia-e-o-que-acontece-quando-ela-esquece-do-jeito-errado-1hp)
+- [Log Collector &amp; Dashboard for Elixir.](https://dev.to/manhvanvu/log-collector-dashboard-for-elixir-4c8e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
