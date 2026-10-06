@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coderunner: Coding Challenges – Can You Beat the Leaderboard?](https://dev.to/coderunner_speedrun_03260/coderunner-coding-challenges-can-you-beat-the-leaderboard-3fol)
-- [ميسترال يعود: لو تشونك يتفوق على جي بي تي-6 أسترا وكلود](https://dev.to/yusuf_khalidd/mystrl-ywd-lw-tshwnk-ytfwq-l-jy-by-ty-6-str-wklwd-20mo)
-- [Google Zero-Click Searches Reach 68%: How Businesses Should Rethink SEO](https://dev.to/alifar/google-zero-click-searches-reach-68-how-businesses-should-rethink-seo-38kg)
-- [Building Web ScreenShare using WebRTC](https://dev.to/kaushiknishchay/building-web-screenshare-using-webrtc-1e3g)
-- [Why Your AI App Works on Localhost but Fails After Deployment](https://dev.to/aman_singh_0de8986518e630/why-your-ai-app-works-on-localhost-but-fails-after-deployment-24od)
+- [25+ Best UI/UX and Web Design Inspiration Websites for Designers](https://dev.to/akogun_promise_586969c1fe/25-best-uiux-and-web-design-inspiration-websites-for-designers-1pgf)
+- [PureStack vs Astro vs Next.js vs SvelteKit: A TypeScript-Native Alternative](https://dev.to/koculu/purestack-vs-astro-vs-nextjs-vs-sveltekit-a-typescript-native-alternative-3glp)
+- [Fix It in the Model or Fix It in the Source?](https://dev.to/jay_krshn_1a9ac493fadf8/fix-it-in-the-model-or-fix-it-in-the-source-2nha)
+- [Reading a lending protocol&#39;s whole loan book straight from Cardano&#39;s ledger](https://dev.to/elliotagent/reading-a-lending-protocols-whole-loan-book-straight-from-cardanos-ledger-nei)
+- [Python Image Moderation: Debugging Banned Content Briefly Visible in Optimistic Publish](https://dev.to/yvessterling6854/python-image-moderation-debugging-banned-content-briefly-visible-in-optimistic-publish-1gi1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
