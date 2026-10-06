@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to timestamp your code without sharing the source](https://dev.to/ecode/how-to-timestamp-your-code-without-sharing-the-source-5fc7)
-- [Ten things our middleware is not allowed to touch, and a 404 is how we prove it](https://dev.to/daniel_pertu/ten-things-our-middleware-is-not-allowed-to-touch-and-a-404-is-how-we-prove-it-7d1)
-- [Generating print-ready A4 PDFs in the browser &lpar;and the Safari bug that blanked my images&rpar;](https://dev.to/pawalarm/generating-print-ready-a4-pdfs-in-the-browser-and-the-safari-bug-that-blanked-my-images-3ep9)
-- [Kubernetes knows who can change production. It doesn&#39;t know when nobody should.](https://dev.to/hourki/kubernetes-knows-who-can-change-production-it-doesnt-know-when-nobody-should-3fp7)
-- [Chuks v0.2.0-rc.3: What&#39;s New and How to Migrate](https://dev.to/chukwuemekaigbokwe/chuks-v020-rc3-whats-new-and-how-to-migrate-2hd3)
+- [Coderunner: Coding Challenges – Can You Beat the Leaderboard?](https://dev.to/coderunner_speedrun_03260/coderunner-coding-challenges-can-you-beat-the-leaderboard-3fol)
+- [ميسترال يعود: لو تشونك يتفوق على جي بي تي-6 أسترا وكلود](https://dev.to/yusuf_khalidd/mystrl-ywd-lw-tshwnk-ytfwq-l-jy-by-ty-6-str-wklwd-20mo)
+- [Google Zero-Click Searches Reach 68%: How Businesses Should Rethink SEO](https://dev.to/alifar/google-zero-click-searches-reach-68-how-businesses-should-rethink-seo-38kg)
+- [Building Web ScreenShare using WebRTC](https://dev.to/kaushiknishchay/building-web-screenshare-using-webrtc-1e3g)
+- [Why Your AI App Works on Localhost but Fails After Deployment](https://dev.to/aman_singh_0de8986518e630/why-your-ai-app-works-on-localhost-but-fails-after-deployment-24od)
 <!-- BLOG-POST-LIST:END -->
 
 ---
