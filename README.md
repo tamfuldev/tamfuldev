@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vanam by Mahaveer Varma](https://dev.to/mahaveervarmavegiraju/vanam-by-mahaveer-varma-b1d)
-- [Citrix NetScaler CVE-2026-88771 and CVE-2026-88772: two edge RCE flaws attacked before a fix existed](https://dev.to/jeffreyciend/citrix-netscaler-cve-2026-88771-and-cve-2026-88772-two-edge-rce-flaws-attacked-before-a-fix-existed-1og6)
-- [OpenCode Model Router: per-agent model fallback chains with a local web UI](https://dev.to/sertdisk/opencode-model-router-per-agent-model-fallback-chains-with-a-local-web-ui-4n23)
-- [Como funciona a memória de um agente de IA &lpar;e o que acontece quando ela esquece do jeito errado&rpar;](https://dev.to/devtheusp/como-funciona-a-memoria-de-um-agente-de-ia-e-o-que-acontece-quando-ela-esquece-do-jeito-errado-1hp)
-- [Log Collector &amp; Dashboard for Elixir.](https://dev.to/manhvanvu/log-collector-dashboard-for-elixir-4c8e)
+- [How to timestamp your code without sharing the source](https://dev.to/ecode/how-to-timestamp-your-code-without-sharing-the-source-5fc7)
+- [Ten things our middleware is not allowed to touch, and a 404 is how we prove it](https://dev.to/daniel_pertu/ten-things-our-middleware-is-not-allowed-to-touch-and-a-404-is-how-we-prove-it-7d1)
+- [Generating print-ready A4 PDFs in the browser &lpar;and the Safari bug that blanked my images&rpar;](https://dev.to/pawalarm/generating-print-ready-a4-pdfs-in-the-browser-and-the-safari-bug-that-blanked-my-images-3ep9)
+- [Kubernetes knows who can change production. It doesn&#39;t know when nobody should.](https://dev.to/hourki/kubernetes-knows-who-can-change-production-it-doesnt-know-when-nobody-should-3fp7)
+- [Chuks v0.2.0-rc.3: What&#39;s New and How to Migrate](https://dev.to/chukwuemekaigbokwe/chuks-v020-rc3-whats-new-and-how-to-migrate-2hd3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
