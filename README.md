@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Your LangGraph Logs Miss When a Node Fails](https://dev.to/priyansh_singhal_5975e7d3/what-your-langgraph-logs-miss-when-a-node-fails-3l97)
-- [Retry, Backoff, and Jitter for NHTSA DecodeVinValues Without Thundering Herds](https://dev.to/vin_lookup_8dbd4710f77e9e/retry-backoff-and-jitter-for-nhtsa-decodevinvalues-without-thundering-herds-29n1)
-- [I Linted 14 Public AI SDK Repos. 12 Ship a Call With No Token Ceiling.](https://dev.to/ofri-peretz/i-linted-14-public-ai-sdk-repos-12-ship-a-call-with-no-token-ceiling-2349)
-- [RepoDNA v1.2.2](https://dev.to/sanskarin/repodna-v122-41af)
-- [The Cache Stampede Problem: Why a Popular Cache Key Can Take Down Your Backend](https://dev.to/delehq/the-cache-stampede-problem-why-a-popular-cache-key-can-take-down-your-backend-1jol)
+- [Nodejs Queue Publish for Offline Users: 12-Minute Live Poll Notifications](https://dev.to/thalion51/nodejs-queue-publish-for-offline-users-12-minute-live-poll-notifications-4nac)
+- [MLIT Japan Property Prices — Free Data for AI Agents &amp; Real Estate Investors](https://dev.to/atu_ino_ed473db24d76d234a/mlit-japan-property-prices-free-data-for-ai-agents-real-estate-investors-doo)
+- [I benchmarked seven hotel price APIs on the same Rome room, and the prices were 16% apart because of tax](https://dev.to/matanrabi/i-benchmarked-seven-hotel-price-apis-on-the-same-rome-room-and-the-prices-were-16-apart-because-3480)
+- [Sitecore Search API Key Authorization - How We* Tackled It](https://dev.to/kmac23va/sitecore-search-api-key-authorization-how-we-tackled-it-lon)
+- [Theo Ported TypeScript to Rust with AI and Never Read the Code](https://dev.to/dishant0406/theo-ported-typescript-to-rust-with-ai-and-never-read-the-code-i37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
