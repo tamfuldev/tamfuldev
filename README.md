@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Data Layer: What You Don&#39;t Own Can Testify Against You](https://dev.to/goodpa/the-data-layer-what-you-dont-own-can-testify-against-you-34en)
-- [Getting Started with Seedance MCP in Cursor](https://dev.to/germey/getting-started-with-seedance-mcp-in-cursor-25c1)
-- [Sovereign Runtime: The Model You Can Actually Run Is the Model You Own](https://dev.to/goodpa/sovereign-runtime-the-model-you-can-actually-run-is-the-model-you-own-2n1i)
-- [Claude Code vs Codex CLI vs Cursor: An Honest Field Guide for Working Developers](https://dev.to/ezrazhao/claude-code-vs-codex-cli-vs-cursor-an-honest-field-guide-for-working-developers-pm3)
-- [The Meter Is the New Lock — Your Agent Needs a Ceiling Before It Needs a Brain](https://dev.to/goodpa/the-meter-is-the-new-lock-your-agent-needs-a-ceiling-before-it-needs-a-brain-dec)
+- [What Your LangGraph Logs Miss When a Node Fails](https://dev.to/priyansh_singhal_5975e7d3/what-your-langgraph-logs-miss-when-a-node-fails-3l97)
+- [Retry, Backoff, and Jitter for NHTSA DecodeVinValues Without Thundering Herds](https://dev.to/vin_lookup_8dbd4710f77e9e/retry-backoff-and-jitter-for-nhtsa-decodevinvalues-without-thundering-herds-29n1)
+- [I Linted 14 Public AI SDK Repos. 12 Ship a Call With No Token Ceiling.](https://dev.to/ofri-peretz/i-linted-14-public-ai-sdk-repos-12-ship-a-call-with-no-token-ceiling-2349)
+- [RepoDNA v1.2.2](https://dev.to/sanskarin/repodna-v122-41af)
+- [The Cache Stampede Problem: Why a Popular Cache Key Can Take Down Your Backend](https://dev.to/delehq/the-cache-stampede-problem-why-a-popular-cache-key-can-take-down-your-backend-1jol)
 <!-- BLOG-POST-LIST:END -->
 
 ---
