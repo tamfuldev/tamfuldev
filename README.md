@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nodejs Queue Publish for Offline Users: 12-Minute Live Poll Notifications](https://dev.to/thalion51/nodejs-queue-publish-for-offline-users-12-minute-live-poll-notifications-4nac)
-- [MLIT Japan Property Prices — Free Data for AI Agents &amp; Real Estate Investors](https://dev.to/atu_ino_ed473db24d76d234a/mlit-japan-property-prices-free-data-for-ai-agents-real-estate-investors-doo)
-- [I benchmarked seven hotel price APIs on the same Rome room, and the prices were 16% apart because of tax](https://dev.to/matanrabi/i-benchmarked-seven-hotel-price-apis-on-the-same-rome-room-and-the-prices-were-16-apart-because-3480)
-- [Sitecore Search API Key Authorization - How We* Tackled It](https://dev.to/kmac23va/sitecore-search-api-key-authorization-how-we-tackled-it-lon)
-- [Theo Ported TypeScript to Rust with AI and Never Read the Code](https://dev.to/dishant0406/theo-ported-typescript-to-rust-with-ai-and-never-read-the-code-i37)
+- [What should I migrate to now that Google&#39;s Custom Search JSON API is retiring?](https://dev.to/rbatista19/what-should-i-migrate-to-now-that-googles-custom-search-json-api-is-retiring-3hgk)
+- [Check a Password Against a Breach List Without Sending the Password](https://dev.to/neulketing/check-a-password-against-a-breach-list-without-sending-the-password-4edf)
+- [OpsPilot AI: Building RAG and Agents Without Giving the LLM Authority](https://dev.to/marcelotaparelli/opspilot-ai-building-rag-and-agents-without-giving-the-llm-authority-57jc)
+- [Gardener of the AI Era: a monsoon garden helper for people who will never see a frost](https://dev.to/abishethvarman/gardener-of-the-ai-era-a-monsoon-garden-helper-for-people-who-will-never-see-a-frost-l5k)
+- [Zero GPU, zero dollars: a Linux rookie&#39;s crew of free AIs](https://dev.to/rabbidraccoon/zero-gpu-zero-dollars-a-linux-rookies-crew-of-free-ais-2nne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
