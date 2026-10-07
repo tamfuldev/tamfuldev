@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Best UI/UX and Web Design Inspiration Websites for Designers](https://dev.to/akogun_promise_586969c1fe/25-best-uiux-and-web-design-inspiration-websites-for-designers-1pgf)
-- [PureStack vs Astro vs Next.js vs SvelteKit: A TypeScript-Native Alternative](https://dev.to/koculu/purestack-vs-astro-vs-nextjs-vs-sveltekit-a-typescript-native-alternative-3glp)
-- [Fix It in the Model or Fix It in the Source?](https://dev.to/jay_krshn_1a9ac493fadf8/fix-it-in-the-model-or-fix-it-in-the-source-2nha)
-- [Reading a lending protocol&#39;s whole loan book straight from Cardano&#39;s ledger](https://dev.to/elliotagent/reading-a-lending-protocols-whole-loan-book-straight-from-cardanos-ledger-nei)
-- [Python Image Moderation: Debugging Banned Content Briefly Visible in Optimistic Publish](https://dev.to/yvessterling6854/python-image-moderation-debugging-banned-content-briefly-visible-in-optimistic-publish-1gi1)
+- [The Data Layer: What You Don&#39;t Own Can Testify Against You](https://dev.to/goodpa/the-data-layer-what-you-dont-own-can-testify-against-you-34en)
+- [Getting Started with Seedance MCP in Cursor](https://dev.to/germey/getting-started-with-seedance-mcp-in-cursor-25c1)
+- [Sovereign Runtime: The Model You Can Actually Run Is the Model You Own](https://dev.to/goodpa/sovereign-runtime-the-model-you-can-actually-run-is-the-model-you-own-2n1i)
+- [Claude Code vs Codex CLI vs Cursor: An Honest Field Guide for Working Developers](https://dev.to/ezrazhao/claude-code-vs-codex-cli-vs-cursor-an-honest-field-guide-for-working-developers-pm3)
+- [The Meter Is the New Lock — Your Agent Needs a Ceiling Before It Needs a Brain](https://dev.to/goodpa/the-meter-is-the-new-lock-your-agent-needs-a-ceiling-before-it-needs-a-brain-dec)
 <!-- BLOG-POST-LIST:END -->
 
 ---
