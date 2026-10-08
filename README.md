@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Starting My Hacktoberfest 2026 Journey](https://dev.to/anish_01747/starting-my-hacktoberfest-2026-journey-30ib)
-- [48-Hour Field Notes: The Diff Looked Right. The Import Still Hit the Old Wheel.](https://dev.to/codepy_1473/48-hour-field-notes-the-diff-looked-right-the-import-still-hit-the-old-wheel-4jn)
-- [End the Demo on Purpose](https://dev.to/devgo_5325/end-the-demo-on-purpose-2cja)
-- [I built a budget app with no backend — everything lives in localStorage](https://dev.to/cyl08/i-built-a-budget-app-with-no-backend-everything-lives-in-localstorage-4lbb)
-- [Python Magic Methods and Dunder Methods: How Python Objects Really Work](https://dev.to/shalinivemuri/python-magic-methods-and-dunder-methods-how-python-objects-really-work-577a)
+- [Countering Developer Burnout with Agentic Test Execution](https://dev.to/yorchperaza/countering-developer-burnout-with-agentic-test-execution-4kfn)
+- [Python Loops at the Nairobi Animal Orphanage](https://dev.to/david_mwandairo/python-loops-at-the-nairobi-animal-orphanage-1fkn)
+- [Teaching AI Security: Hands-On LLM Hardening with Docker Desktop and Security Gateways](https://dev.to/sixfivemil/teaching-ai-security-hands-on-llm-hardening-with-docker-desktop-and-security-gateways-1oo9)
+- [Excel Turned a 20% Discount Into 19.999999999999998%. That Hid $2,325.](https://dev.to/keenenwilkins/excel-turned-a-20-discount-into-19999999999999998-that-hid-2325-28i6)
+- [Quick Notes in Memos with noteSS: Minimalism in Pure C and GTK 4](https://dev.to/traliran/quick-notes-in-memos-with-notess-minimalism-in-pure-c-and-gtk-4-mmi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
