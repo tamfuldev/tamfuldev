@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What should I migrate to now that Google&#39;s Custom Search JSON API is retiring?](https://dev.to/rbatista19/what-should-i-migrate-to-now-that-googles-custom-search-json-api-is-retiring-3hgk)
-- [Check a Password Against a Breach List Without Sending the Password](https://dev.to/neulketing/check-a-password-against-a-breach-list-without-sending-the-password-4edf)
-- [OpsPilot AI: Building RAG and Agents Without Giving the LLM Authority](https://dev.to/marcelotaparelli/opspilot-ai-building-rag-and-agents-without-giving-the-llm-authority-57jc)
-- [Gardener of the AI Era: a monsoon garden helper for people who will never see a frost](https://dev.to/abishethvarman/gardener-of-the-ai-era-a-monsoon-garden-helper-for-people-who-will-never-see-a-frost-l5k)
-- [Zero GPU, zero dollars: a Linux rookie&#39;s crew of free AIs](https://dev.to/rabbidraccoon/zero-gpu-zero-dollars-a-linux-rookies-crew-of-free-ais-2nne)
+- [PoeLLM: Compromising Public AI Servers for Cryptomining and Further Reconnaissance](https://dev.to/anoymask/poellm-compromising-public-ai-servers-for-cryptomining-and-further-reconnaissance-14fl)
+- [Menavigasi Tech Stack Modern di Tahun 2026: Antara Efisiensi dan Hype](https://dev.to/hellogung/menavigasi-tech-stack-modern-di-tahun-2026-antara-efisiensi-dan-hype-h5i)
+- [How to Prepare for a QA Interview in 2026: 5 Questions You Will Be Asked](https://dev.to/automationdatacamp/how-to-prepare-for-a-qa-interview-in-2026-5-questions-you-will-be-asked-2oh8)
+- [ptop: Pate&#39;s top, a copy of vtop in Rust](https://dev.to/patebryant/ptop-pates-top-a-copy-of-vtop-in-rust-e5o)
+- [ARTEX: LLM-Integrated Penetration Testing Tool Used to Target South Korean Financial Institutions and Exfiltrate Data](https://dev.to/anoymask/artex-llm-integrated-penetration-testing-tool-used-to-target-south-korean-financial-institutions-52n6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
