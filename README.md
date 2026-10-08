@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Countering Developer Burnout with Agentic Test Execution](https://dev.to/yorchperaza/countering-developer-burnout-with-agentic-test-execution-4kfn)
-- [Python Loops at the Nairobi Animal Orphanage](https://dev.to/david_mwandairo/python-loops-at-the-nairobi-animal-orphanage-1fkn)
-- [Teaching AI Security: Hands-On LLM Hardening with Docker Desktop and Security Gateways](https://dev.to/sixfivemil/teaching-ai-security-hands-on-llm-hardening-with-docker-desktop-and-security-gateways-1oo9)
-- [Excel Turned a 20% Discount Into 19.999999999999998%. That Hid $2,325.](https://dev.to/keenenwilkins/excel-turned-a-20-discount-into-19999999999999998-that-hid-2325-28i6)
-- [Quick Notes in Memos with noteSS: Minimalism in Pure C and GTK 4](https://dev.to/traliran/quick-notes-in-memos-with-notess-minimalism-in-pure-c-and-gtk-4-mmi)
+- [An offline trail planner built with Llama 3.2, Ollama, and Streamlit for the Hacktoberfest Open-Source AI Challenge.](https://dev.to/mrunalikolte/an-offline-trail-planner-built-with-llama-32-ollama-and-streamlit-for-the-hacktoberfest-24gn)
+- [Automating Multi‑Channel Blog Publishing with a Content‑Automation Repo](https://dev.to/zaerohell/automating-multi-channel-blog-publishing-with-a-content-automation-repo-3p4j)
+- [The Visible Test Suite Is the Ceiling on What the Next Agent Can Deliver](https://dev.to/tmfrisinger/the-visible-test-suite-is-the-ceiling-on-what-the-next-agent-can-deliver-3ga0)
+- [OpenAI Told Its Investors the Number Was $70 Billion. The Real One Is $20 Billion Smaller. When It Said So Out Loud, the Market Flinched.](https://dev.to/markorocko/openai-told-its-investors-the-number-was-70-billion-the-real-one-is-20-billion-smaller-when-it-1lkd)
+- [Google September 2026 Spam Update: Rollout Timeline, Volatility Windows, and SEO Actions](https://dev.to/alifar/google-september-2026-spam-update-rollout-timeline-volatility-windows-and-seo-actions-186n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
