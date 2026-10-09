@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The First 60 Seconds Decide Your System Design Interview. Here Is the Script.](https://dev.to/nurrehman/the-first-60-seconds-decide-your-system-design-interview-here-is-the-script-85h)
-- [My AWS Bill Tells a Story. I Built a Pipeline to Understand It.](https://dev.to/aws-builders/my-aws-bill-tells-a-story-i-built-a-pipeline-to-understand-it-521l)
-- [Self-Healing Pipelines: Using AI to Triage Incidents](https://dev.to/vaishnavprabhu/self-healing-pipelines-using-ai-to-triage-incidents-54hc)
-- [Your Website Is Live, but Is It Search-Ready? A Practical Audit](https://dev.to/searchnestdigital/your-website-is-live-but-is-it-search-ready-a-practical-audit-3gdm)
-- [# NestJS Fundamentals: Modules, Controllers, Services, Dependency Injection &amp; Request Lifecycle](https://dev.to/koushikmaya/-nestjs-fundamentals-modules-controllers-services-dependency-injection-request-lifecycle-12md)
+- [Top 5 Tools to Monitor LLM Provider Uptime and Outages in 2026](https://dev.to/kuldeep_paul/top-5-tools-to-monitor-llm-provider-uptime-and-outages-in-2026-5b99)
+- [No daemon, on purpose](https://dev.to/vzn-vx/no-daemon-on-purpose-pah)
+- [From Scraps to Structure: Reliably Extracting Actions with My GPT for Asana](https://dev.to/nexus_labs_eaac0473959e4d/from-scraps-to-structure-reliably-extracting-actions-with-my-gpt-for-asana-19m9)
+- [Redis: 142 Product Matches Beside 4.9 Million Answers on Port 6379](https://dev.to/jeffreyciend/redis-142-product-matches-beside-49-million-answers-on-port-6379-27hk)
+- [The Predicate the Remote Parser Dropped](https://dev.to/devpro_9167/the-predicate-the-remote-parser-dropped-4lfi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
