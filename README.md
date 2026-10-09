@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [An offline trail planner built with Llama 3.2, Ollama, and Streamlit for the Hacktoberfest Open-Source AI Challenge.](https://dev.to/mrunalikolte/an-offline-trail-planner-built-with-llama-32-ollama-and-streamlit-for-the-hacktoberfest-24gn)
-- [Automating Multi‑Channel Blog Publishing with a Content‑Automation Repo](https://dev.to/zaerohell/automating-multi-channel-blog-publishing-with-a-content-automation-repo-3p4j)
-- [The Visible Test Suite Is the Ceiling on What the Next Agent Can Deliver](https://dev.to/tmfrisinger/the-visible-test-suite-is-the-ceiling-on-what-the-next-agent-can-deliver-3ga0)
-- [OpenAI Told Its Investors the Number Was $70 Billion. The Real One Is $20 Billion Smaller. When It Said So Out Loud, the Market Flinched.](https://dev.to/markorocko/openai-told-its-investors-the-number-was-70-billion-the-real-one-is-20-billion-smaller-when-it-1lkd)
-- [Google September 2026 Spam Update: Rollout Timeline, Volatility Windows, and SEO Actions](https://dev.to/alifar/google-september-2026-spam-update-rollout-timeline-volatility-windows-and-seo-actions-186n)
+- [Office to PDF API: Word, Excel and PowerPoint to PDF, pay per call](https://dev.to/tanod/office-to-pdf-api-word-excel-and-powerpoint-to-pdf-pay-per-call-5adl)
+- [SNMP Ports 161 and 162: Follow the Traffic, Not Just the Numbers](https://dev.to/__3381495fd2b/snmp-ports-161-and-162-follow-the-traffic-not-just-the-numbers-30o4)
+- [I Spent My National Day Holiday Building an AI Tesla Wrap Generator](https://dev.to/lynseaye/i-spent-my-national-day-holiday-building-an-ai-tesla-wrap-generator-5934)
+- [Online Course Tutor Retrieval Architecture — Tuning Relevance Without Index Waste](https://dev.to/harrisonford3572/online-course-tutor-retrieval-architecture-tuning-relevance-without-index-waste-n54)
+- [Touch Grass: the best hours to be outside, forecast on your own laptop with TabPFN](https://dev.to/yvoolab/touch-grass-the-best-hours-to-be-outside-forecast-on-your-own-laptop-with-tabpfn-57n7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
