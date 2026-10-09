@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Tools to Monitor LLM Provider Uptime and Outages in 2026](https://dev.to/kuldeep_paul/top-5-tools-to-monitor-llm-provider-uptime-and-outages-in-2026-5b99)
-- [No daemon, on purpose](https://dev.to/vzn-vx/no-daemon-on-purpose-pah)
-- [From Scraps to Structure: Reliably Extracting Actions with My GPT for Asana](https://dev.to/nexus_labs_eaac0473959e4d/from-scraps-to-structure-reliably-extracting-actions-with-my-gpt-for-asana-19m9)
-- [Redis: 142 Product Matches Beside 4.9 Million Answers on Port 6379](https://dev.to/jeffreyciend/redis-142-product-matches-beside-49-million-answers-on-port-6379-27hk)
-- [The Predicate the Remote Parser Dropped](https://dev.to/devpro_9167/the-predicate-the-remote-parser-dropped-4lfi)
+- [Kavro — Visual Dear ImGui Designer](https://dev.to/kavropro/kavro-visual-dear-imgui-designer-4pao)
+- [Automating Multi‑Channel Publishing with GitHub Actions + Sentry – Fixing Margin Errors and Cancelled‑Run Noise](https://dev.to/zaerohell/automating-multi-channel-publishing-with-github-actions-sentry-fixing-margin-errors-and-17hj)
+- [WIRED: At least three of the five largest US publishing houses use artificial intelligence](https://dev.to/hacksgr/wired-at-least-three-of-the-five-largest-us-publishing-houses-use-artificial-intelligence-1bd6)
+- [Walking Challenge AI: An Open-Source AI That Sends You Outside 🚶](https://dev.to/tamim_ts1_b6d3a53cc13a148/walking-challenge-ai-an-open-source-ai-that-sends-you-outside-2ddi)
+- [Moving to vx from Nx: keep the graph, drop the platform](https://dev.to/vzn-vx/moving-to-vx-from-nx-keep-the-graph-drop-the-platform-j2n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
