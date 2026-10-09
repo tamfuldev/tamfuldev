@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Office to PDF API: Word, Excel and PowerPoint to PDF, pay per call](https://dev.to/tanod/office-to-pdf-api-word-excel-and-powerpoint-to-pdf-pay-per-call-5adl)
-- [SNMP Ports 161 and 162: Follow the Traffic, Not Just the Numbers](https://dev.to/__3381495fd2b/snmp-ports-161-and-162-follow-the-traffic-not-just-the-numbers-30o4)
-- [I Spent My National Day Holiday Building an AI Tesla Wrap Generator](https://dev.to/lynseaye/i-spent-my-national-day-holiday-building-an-ai-tesla-wrap-generator-5934)
-- [Online Course Tutor Retrieval Architecture — Tuning Relevance Without Index Waste](https://dev.to/harrisonford3572/online-course-tutor-retrieval-architecture-tuning-relevance-without-index-waste-n54)
-- [Touch Grass: the best hours to be outside, forecast on your own laptop with TabPFN](https://dev.to/yvoolab/touch-grass-the-best-hours-to-be-outside-forecast-on-your-own-laptop-with-tabpfn-57n7)
+- [The First 60 Seconds Decide Your System Design Interview. Here Is the Script.](https://dev.to/nurrehman/the-first-60-seconds-decide-your-system-design-interview-here-is-the-script-85h)
+- [My AWS Bill Tells a Story. I Built a Pipeline to Understand It.](https://dev.to/aws-builders/my-aws-bill-tells-a-story-i-built-a-pipeline-to-understand-it-521l)
+- [Self-Healing Pipelines: Using AI to Triage Incidents](https://dev.to/vaishnavprabhu/self-healing-pipelines-using-ai-to-triage-incidents-54hc)
+- [Your Website Is Live, but Is It Search-Ready? A Practical Audit](https://dev.to/searchnestdigital/your-website-is-live-but-is-it-search-ready-a-practical-audit-3gdm)
+- [# NestJS Fundamentals: Modules, Controllers, Services, Dependency Injection &amp; Request Lifecycle](https://dev.to/koushikmaya/-nestjs-fundamentals-modules-controllers-services-dependency-injection-request-lifecycle-12md)
 <!-- BLOG-POST-LIST:END -->
 
 ---
