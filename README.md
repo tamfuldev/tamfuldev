@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kavro — Visual Dear ImGui Designer](https://dev.to/kavropro/kavro-visual-dear-imgui-designer-4pao)
-- [Automating Multi‑Channel Publishing with GitHub Actions + Sentry – Fixing Margin Errors and Cancelled‑Run Noise](https://dev.to/zaerohell/automating-multi-channel-publishing-with-github-actions-sentry-fixing-margin-errors-and-17hj)
-- [WIRED: At least three of the five largest US publishing houses use artificial intelligence](https://dev.to/hacksgr/wired-at-least-three-of-the-five-largest-us-publishing-houses-use-artificial-intelligence-1bd6)
-- [Walking Challenge AI: An Open-Source AI That Sends You Outside 🚶](https://dev.to/tamim_ts1_b6d3a53cc13a148/walking-challenge-ai-an-open-source-ai-that-sends-you-outside-2ddi)
-- [Moving to vx from Nx: keep the graph, drop the platform](https://dev.to/vzn-vx/moving-to-vx-from-nx-keep-the-graph-drop-the-platform-j2n)
+- [Who at your target accounts used to work at your customers? A warm-path map for 40 accounts, built in an afternoon for about $2](https://dev.to/kevin_hall/who-at-your-target-accounts-used-to-work-at-your-customers-a-warm-path-map-for-40-accounts-built-2g1a)
+- [TRAIL TUTOR](https://dev.to/rajab_baig_a3929cefc3758b/trail-tutor-el7)
+- [Auditable agents: turn the answer into a claim you can check](https://dev.to/bzdvdn/auditable-agents-turn-the-answer-into-a-claim-you-can-check-33i0)
+- [Your AI agent re-sends the email on retry: an outbox for side effects](https://dev.to/bzdvdn/your-ai-agent-re-sends-the-email-on-retry-an-outbox-for-side-effects-13id)
+- [I Built a Durable Insurance Verification Caller with Telnyx Edge](https://dev.to/botoclock/i-built-a-durable-insurance-verification-caller-with-telnyx-edge-187j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
