@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who at your target accounts used to work at your customers? A warm-path map for 40 accounts, built in an afternoon for about $2](https://dev.to/kevin_hall/who-at-your-target-accounts-used-to-work-at-your-customers-a-warm-path-map-for-40-accounts-built-2g1a)
-- [TRAIL TUTOR](https://dev.to/rajab_baig_a3929cefc3758b/trail-tutor-el7)
-- [Auditable agents: turn the answer into a claim you can check](https://dev.to/bzdvdn/auditable-agents-turn-the-answer-into-a-claim-you-can-check-33i0)
-- [Your AI agent re-sends the email on retry: an outbox for side effects](https://dev.to/bzdvdn/your-ai-agent-re-sends-the-email-on-retry-an-outbox-for-side-effects-13id)
-- [I Built a Durable Insurance Verification Caller with Telnyx Edge](https://dev.to/botoclock/i-built-a-durable-insurance-verification-caller-with-telnyx-edge-187j)
+- [full stack deployment](https://dev.to/dakshkumawat07/full-stack-deployment-53oe)
+- [AI Monitor: an ESP32 touchscreen companion for Codex, Claude and more](https://dev.to/cato_rendal_ce185d1604cd5/ai-monitor-an-esp32-touchscreen-companion-for-codex-claude-and-more-27oj)
+- [I built an app that translates WhatsApp voice notes and lets you reply by voice in their language](https://dev.to/john_khore5911_585a2c0c4/i-built-an-app-that-translates-whatsapp-voice-notes-and-lets-you-reply-by-voice-in-their-language-3hbc)
+- [AI-Generated Images and Trypophobia: Unraveling the Connection](https://dev.to/natcher/ai-generated-images-and-trypophobia-unraveling-the-connection-3pca)
+- [I fixed the type check. The crash was still in the arithmetic.](https://dev.to/pm25coder/i-fixed-the-type-check-the-crash-was-still-in-the-arithmetic-493n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
