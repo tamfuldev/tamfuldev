@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/devdavidejesus/-21p0)
-- [Tripo AI Skull Review 2026: 1,157 Sliver Faces From Fake Wood Grain](https://dev.to/selinionescu/tripo-ai-skull-review-2026-1157-sliver-faces-from-fake-wood-grain-46np)
-- [How to Build a Competitive Intelligence Agent for Public Companies](https://dev.to/valyuai/how-to-build-a-competitive-intelligence-agent-for-public-companies-op6)
-- [EcoVault](https://dev.to/sanchit_ed4ffcffb62607dc4/ecovault-3nhb)
-- [clearnight: a stargazing planner that tells you which nights are worth going outside](https://dev.to/devbrewery/clearnight-a-stargazing-planner-that-tells-you-which-nights-are-worth-going-outside-6ni)
+- [40,059 Keycloak Servers: Where the Identity Provider Is the Asset](https://dev.to/onaeiuspkz/40059-keycloak-servers-where-the-identity-provider-is-the-asset-1d57)
+- [Freshness-Aware Retrieval Architecture for News Monitoring Metadata Filters in Production](https://dev.to/holdenfox8476/freshness-aware-retrieval-architecture-for-news-monitoring-metadata-filters-in-production-9ci)
+- [Week2 Challenge&lpar;Touch_grass&rpar;](https://dev.to/rathnams089/week2-challengetouchgrass-4am7)
+- [AFTERWORLD: Every Place Has a Past. Every Place Has a Possible Future.](https://dev.to/mritunjai/afterworld-every-place-has-a-past-every-place-has-a-possible-future-5dhn)
+- [roadbean: say it in the car, get it in the ledger](https://dev.to/minchinweb/roadbean-say-it-in-the-car-get-it-in-the-ledger-pf5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
