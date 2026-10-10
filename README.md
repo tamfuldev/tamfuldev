@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Every change our AI app builder makes gets a second model’s review. A timeout is never a pass.](https://dev.to/spoe/every-change-our-ai-app-builder-makes-gets-a-second-models-review-a-timeout-is-never-a-pass-17na)
-- [Seventeen numbers are the only fees our app is allowed to suggest, in any of 23 currencies](https://dev.to/daniel_pertu/seventeen-numbers-are-the-only-fees-our-app-is-allowed-to-suggest-in-any-of-23-currencies-pan)
-- [Web Workers — Stop Freezing the UI With This Practical Guide](https://dev.to/ytlow/web-workers-stop-freezing-the-ui-with-this-practical-guide-4n1m)
-- [CloudSea: a sunrise forecast for Nandi Hills that the people at the top grade every morning](https://dev.to/vineetjk/cloudsea-a-sunrise-forecast-for-nandi-hills-that-the-people-at-the-top-grade-every-morning-3b89)
-- [Can Claude Opus 5.5 design an app UI?](https://dev.to/usman_basheers/can-claude-opus-55-design-an-app-ui-43i)
+- [[Boost]](https://dev.to/devdavidejesus/-21p0)
+- [Tripo AI Skull Review 2026: 1,157 Sliver Faces From Fake Wood Grain](https://dev.to/selinionescu/tripo-ai-skull-review-2026-1157-sliver-faces-from-fake-wood-grain-46np)
+- [How to Build a Competitive Intelligence Agent for Public Companies](https://dev.to/valyuai/how-to-build-a-competitive-intelligence-agent-for-public-companies-op6)
+- [EcoVault](https://dev.to/sanchit_ed4ffcffb62607dc4/ecovault-3nhb)
+- [clearnight: a stargazing planner that tells you which nights are worth going outside](https://dev.to/devbrewery/clearnight-a-stargazing-planner-that-tells-you-which-nights-are-worth-going-outside-6ni)
 <!-- BLOG-POST-LIST:END -->
 
 ---
