@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [full stack deployment](https://dev.to/dakshkumawat07/full-stack-deployment-53oe)
-- [AI Monitor: an ESP32 touchscreen companion for Codex, Claude and more](https://dev.to/cato_rendal_ce185d1604cd5/ai-monitor-an-esp32-touchscreen-companion-for-codex-claude-and-more-27oj)
-- [I built an app that translates WhatsApp voice notes and lets you reply by voice in their language](https://dev.to/john_khore5911_585a2c0c4/i-built-an-app-that-translates-whatsapp-voice-notes-and-lets-you-reply-by-voice-in-their-language-3hbc)
-- [AI-Generated Images and Trypophobia: Unraveling the Connection](https://dev.to/natcher/ai-generated-images-and-trypophobia-unraveling-the-connection-3pca)
-- [I fixed the type check. The crash was still in the arithmetic.](https://dev.to/pm25coder/i-fixed-the-type-check-the-crash-was-still-in-the-arithmetic-493n)
+- [Every change our AI app builder makes gets a second model’s review. A timeout is never a pass.](https://dev.to/spoe/every-change-our-ai-app-builder-makes-gets-a-second-models-review-a-timeout-is-never-a-pass-17na)
+- [Seventeen numbers are the only fees our app is allowed to suggest, in any of 23 currencies](https://dev.to/daniel_pertu/seventeen-numbers-are-the-only-fees-our-app-is-allowed-to-suggest-in-any-of-23-currencies-pan)
+- [Web Workers — Stop Freezing the UI With This Practical Guide](https://dev.to/ytlow/web-workers-stop-freezing-the-ui-with-this-practical-guide-4n1m)
+- [CloudSea: a sunrise forecast for Nandi Hills that the people at the top grade every morning](https://dev.to/vineetjk/cloudsea-a-sunrise-forecast-for-nandi-hills-that-the-people-at-the-top-grade-every-morning-3b89)
+- [Can Claude Opus 5.5 design an app UI?](https://dev.to/usman_basheers/can-claude-opus-55-design-an-app-ui-43i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
