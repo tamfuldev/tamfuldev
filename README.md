@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [40,059 Keycloak Servers: Where the Identity Provider Is the Asset](https://dev.to/onaeiuspkz/40059-keycloak-servers-where-the-identity-provider-is-the-asset-1d57)
-- [Freshness-Aware Retrieval Architecture for News Monitoring Metadata Filters in Production](https://dev.to/holdenfox8476/freshness-aware-retrieval-architecture-for-news-monitoring-metadata-filters-in-production-9ci)
-- [Week2 Challenge&lpar;Touch_grass&rpar;](https://dev.to/rathnams089/week2-challengetouchgrass-4am7)
-- [AFTERWORLD: Every Place Has a Past. Every Place Has a Possible Future.](https://dev.to/mritunjai/afterworld-every-place-has-a-past-every-place-has-a-possible-future-5dhn)
-- [roadbean: say it in the car, get it in the ledger](https://dev.to/minchinweb/roadbean-say-it-in-the-car-get-it-in-the-ledger-pf5)
+- [The Tools the Enterprise Actually Lets Me Run: My SRE Stack](https://dev.to/rohan_roots/the-tools-the-enterprise-actually-lets-me-run-my-sre-stack-4no3)
+- [External Uptime Monitor and Internal Health Explained — Reconstructing Game Notification Failures](https://dev.to/jaxmonroe3187/external-uptime-monitor-and-internal-health-explained-reconstructing-game-notification-failures-1f26)
+- [Building KaizenSQL - My Dev Journey](https://dev.to/jhuanaco/building-kaizensql-my-dev-journey-4fi8)
+- [Seven-Node Incident Response Dashboards and Realtime Duplicate Event Suppression](https://dev.to/abernathycross6857/seven-node-incident-response-dashboards-and-realtime-duplicate-event-suppression-2c82)
+- [LLM-Qualia-Benchmark: Analyzing the Limits of LLMs in Qualia and Epistemology](https://dev.to/joziellucas/llm-qualia-benchmark-analyzing-the-limits-of-llms-in-qualia-and-epistemology-15l2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
