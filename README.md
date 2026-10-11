@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Coder answered 15 fingerprints: development environments that hold repository and cloud credentials](https://dev.to/jeffreyciend/coder-answered-15-fingerprints-development-environments-that-hold-repository-and-cloud-credentials-8m7)
-- [GEO is the second layer of SEO: why your brand is missing from AI answers](https://dev.to/shangxun-media/geo-is-the-second-layer-of-seo-why-your-brand-is-missing-from-ai-answers-22hn)
-- [TouchGrass AI — a little less scrolling, a little more living](https://dev.to/arkendu_kundu_ff38c8b6c04/touchgrass-ai-a-little-less-scrolling-a-little-more-living-b32)
-- [One stats endpoint, four numbers: designing dashboard metrics your frontend actually wants](https://dev.to/kamrankhandev/one-stats-endpoint-four-numbers-designing-dashboard-metrics-your-frontend-actually-wants-120p)
-- [Little&#39;s Law: The One Formula That Tells You When Your System Will Break](https://dev.to/hammad_ali_8f1cc382f29ca2/littles-law-the-one-formula-that-tells-you-when-your-system-will-break-3a3n)
+- [Building a Polymarket Perps Trading Bot: Architecture Guide &lpar;October 2026&rpar;](https://dev.to/ahmedtrade/building-a-polymarket-perps-trading-bot-architecture-guide-october-2026-b5h)
+- [Kagaz: An Offline AI That Prints a Nature Scavenger Hunt So Kids Go Touch Grass](https://dev.to/ashutoshranjan/kagaz-an-offline-ai-that-prints-a-nature-scavenger-hunt-so-kids-go-touch-grass-400a)
+- [# BreakTrail: Less Scrolling, More Outside 🌿](https://dev.to/anushka_sharma_df05737b55/-breaktrail-less-scrolling-more-outside-2j47)
+- [How to darken a canvas-based editor without changing the document](https://dev.to/tjmanoj/how-to-darken-a-canvas-based-editor-without-changing-the-document-57ej)
+- [Your Kubernetes node is smaller than you think: 3 reservation traps in EKS, GKE and AKS](https://dev.to/kalikys/your-kubernetes-node-is-smaller-than-you-think-3-reservation-traps-in-eks-gke-and-aks-3mca)
 <!-- BLOG-POST-LIST:END -->
 
 ---
