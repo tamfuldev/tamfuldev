@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Access Appliances at Scale: 2,163,654 OpenVPN, 1,225,643 Ivanti Connect Secure and 445,720 pfSense Fingerprints](https://dev.to/onaeiuspkz/remote-access-appliances-at-scale-2163654-openvpn-1225643-ivanti-connect-secure-and-445720-182i)
-- [10 Retrieval Design Practices for Customer-Support Knowledge Base Privacy](https://dev.to/echof76/10-retrieval-design-practices-for-customer-support-knowledge-base-privacy-4ap4)
-- [GreenQuest AI: I Built an AI That Tells You to Put Your Phone Away](https://dev.to/atharvk979/greenquest-ai-i-built-an-ai-that-tells-you-to-put-your-phone-away-5611)
-- [NatureBuddy AI 🌿: An Open-Source AI Companion That Gets You Outside](https://dev.to/neomondev/naturebuddy-ai-an-open-source-ai-companion-that-gets-you-outside-54c7)
-- [PlantCare AI: &quot;Less Scrolling. More Growing.&quot;](https://dev.to/yashbora18/plantcare-ai-less-scrolling-more-growing-hen)
+- [Classify the Environment Before the Walkthrough Is Drafted](https://dev.to/datago_7777/classify-the-environment-before-the-walkthrough-is-drafted-2126)
+- [I asked Gemma to turn “I&#39;m too tired” into “glad I went out” 🚶‍♀️](https://dev.to/antoniahp/i-asked-gemma-to-turn-im-too-tired-into-glad-i-went-out-fi1)
+- [Require an Empty Fixture Diff Before Extracting a Batch Loop](https://dev.to/webx_2736/require-an-empty-fixture-diff-before-extracting-a-batch-loop-72f)
+- [Ideas die in the doc because the doc never argues with you. So I built one that does.](https://dev.to/micheal_builds/ideas-die-in-the-doc-because-the-doc-never-argues-with-you-so-i-built-one-that-does-2ib7)
+- [Fine-tuning gpt-oss-20b with Unsloth and running it in Ollama](https://dev.to/khadimhussain/fine-tuning-gpt-oss-20b-with-unsloth-and-running-it-in-ollama-1nfh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
