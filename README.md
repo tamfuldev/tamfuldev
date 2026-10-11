@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Polymarket Perps Trading Bot: Architecture Guide &lpar;October 2026&rpar;](https://dev.to/ahmedtrade/building-a-polymarket-perps-trading-bot-architecture-guide-october-2026-b5h)
-- [Kagaz: An Offline AI That Prints a Nature Scavenger Hunt So Kids Go Touch Grass](https://dev.to/ashutoshranjan/kagaz-an-offline-ai-that-prints-a-nature-scavenger-hunt-so-kids-go-touch-grass-400a)
-- [# BreakTrail: Less Scrolling, More Outside 🌿](https://dev.to/anushka_sharma_df05737b55/-breaktrail-less-scrolling-more-outside-2j47)
-- [How to darken a canvas-based editor without changing the document](https://dev.to/tjmanoj/how-to-darken-a-canvas-based-editor-without-changing-the-document-57ej)
-- [Your Kubernetes node is smaller than you think: 3 reservation traps in EKS, GKE and AKS](https://dev.to/kalikys/your-kubernetes-node-is-smaller-than-you-think-3-reservation-traps-in-eks-gke-and-aks-3mca)
+- [Remote Access Appliances at Scale: 2,163,654 OpenVPN, 1,225,643 Ivanti Connect Secure and 445,720 pfSense Fingerprints](https://dev.to/onaeiuspkz/remote-access-appliances-at-scale-2163654-openvpn-1225643-ivanti-connect-secure-and-445720-182i)
+- [10 Retrieval Design Practices for Customer-Support Knowledge Base Privacy](https://dev.to/echof76/10-retrieval-design-practices-for-customer-support-knowledge-base-privacy-4ap4)
+- [GreenQuest AI: I Built an AI That Tells You to Put Your Phone Away](https://dev.to/atharvk979/greenquest-ai-i-built-an-ai-that-tells-you-to-put-your-phone-away-5611)
+- [NatureBuddy AI 🌿: An Open-Source AI Companion That Gets You Outside](https://dev.to/neomondev/naturebuddy-ai-an-open-source-ai-companion-that-gets-you-outside-54c7)
+- [PlantCare AI: &quot;Less Scrolling. More Growing.&quot;](https://dev.to/yashbora18/plantcare-ai-less-scrolling-more-growing-hen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
