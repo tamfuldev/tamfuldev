@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Tools the Enterprise Actually Lets Me Run: My SRE Stack](https://dev.to/rohan_roots/the-tools-the-enterprise-actually-lets-me-run-my-sre-stack-4no3)
-- [External Uptime Monitor and Internal Health Explained — Reconstructing Game Notification Failures](https://dev.to/jaxmonroe3187/external-uptime-monitor-and-internal-health-explained-reconstructing-game-notification-failures-1f26)
-- [Building KaizenSQL - My Dev Journey](https://dev.to/jhuanaco/building-kaizensql-my-dev-journey-4fi8)
-- [Seven-Node Incident Response Dashboards and Realtime Duplicate Event Suppression](https://dev.to/abernathycross6857/seven-node-incident-response-dashboards-and-realtime-duplicate-event-suppression-2c82)
-- [LLM-Qualia-Benchmark: Analyzing the Limits of LLMs in Qualia and Epistemology](https://dev.to/joziellucas/llm-qualia-benchmark-analyzing-the-limits-of-llms-in-qualia-and-epistemology-15l2)
+- [Coder answered 15 fingerprints: development environments that hold repository and cloud credentials](https://dev.to/jeffreyciend/coder-answered-15-fingerprints-development-environments-that-hold-repository-and-cloud-credentials-8m7)
+- [GEO is the second layer of SEO: why your brand is missing from AI answers](https://dev.to/shangxun-media/geo-is-the-second-layer-of-seo-why-your-brand-is-missing-from-ai-answers-22hn)
+- [TouchGrass AI — a little less scrolling, a little more living](https://dev.to/arkendu_kundu_ff38c8b6c04/touchgrass-ai-a-little-less-scrolling-a-little-more-living-b32)
+- [One stats endpoint, four numbers: designing dashboard metrics your frontend actually wants](https://dev.to/kamrankhandev/one-stats-endpoint-four-numbers-designing-dashboard-metrics-your-frontend-actually-wants-120p)
+- [Little&#39;s Law: The One Formula That Tells You When Your System Will Break](https://dev.to/hammad_ali_8f1cc382f29ca2/littles-law-the-one-formula-that-tells-you-when-your-system-will-break-3a3n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
