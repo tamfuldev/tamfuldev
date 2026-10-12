@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word](https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go)
-- [Top 5 Open-Source Dev Tools to Explore This Week &lpar;October 2026&rpar;](https://dev.to/karleeov/top-5-open-source-dev-tools-to-explore-this-week-october-2026-31k7)
-- [Node.js SaaS SMS Alerts API: Auditable Transactional Password Reset Evidence](https://dev.to/horatiofox1281/nodejs-saas-sms-alerts-api-auditable-transactional-password-reset-evidence-51f7)
-- [Your LLM Evaluation Suite Is Lying To You](https://dev.to/robust_true_try/your-llm-evaluation-suite-is-lying-to-you-5g71)
-- [Build link previews in Python &lpar;and don&#39;t open an SSRF hole&rpar;](https://dev.to/brindlewavedata/build-link-previews-in-python-and-dont-open-an-ssrf-hole-1od0)
+- [Your Mentee&#39;s Review Came Back Lower Than They Expected](https://dev.to/asael_shinder_9f53bdca840/your-mentees-review-came-back-lower-than-they-expected-4fk9)
+- [What Actually Changes an LLM’s Hiring Decision?](https://dev.to/thylinao/what-actually-changes-an-llms-hiring-decision-36oi)
+- [Android Development Challenges in 2026: Android 17, Adaptive UI, AI, Security &amp; Play Policy](https://dev.to/gargpadmakar/android-development-challenges-in-2026-android-17-adaptive-ui-ai-security-play-policy-nng)
+- [How to secure a Java client application with OpenID Connect &lpar;using Spring Boot&rpar;](https://dev.to/jleleu/how-to-secure-a-java-client-application-with-openid-connect-using-spring-boot-1nih)
+- [I want to compare AI models, not manage another stack of tools](https://dev.to/katsudo/i-want-to-compare-ai-models-not-manage-another-stack-of-tools-21g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
