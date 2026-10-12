@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your Mentee&#39;s Review Came Back Lower Than They Expected](https://dev.to/asael_shinder_9f53bdca840/your-mentees-review-came-back-lower-than-they-expected-4fk9)
-- [What Actually Changes an LLM’s Hiring Decision?](https://dev.to/thylinao/what-actually-changes-an-llms-hiring-decision-36oi)
-- [Android Development Challenges in 2026: Android 17, Adaptive UI, AI, Security &amp; Play Policy](https://dev.to/gargpadmakar/android-development-challenges-in-2026-android-17-adaptive-ui-ai-security-play-policy-nng)
-- [How to secure a Java client application with OpenID Connect &lpar;using Spring Boot&rpar;](https://dev.to/jleleu/how-to-secure-a-java-client-application-with-openid-connect-using-spring-boot-1nih)
-- [I want to compare AI models, not manage another stack of tools](https://dev.to/katsudo/i-want-to-compare-ai-models-not-manage-another-stack-of-tools-21g)
+- [What Is an ATS Score, and What Does It Actually Measure?](https://dev.to/mshykov/what-is-an-ats-score-and-what-does-it-actually-measure-dhi)
+- [OCR in the browser with Tesseract.js: no server, no CDN](https://dev.to/thattoolsite/ocr-in-the-browser-with-tesseractjs-no-server-no-cdn-3goe)
+- [Tailscale Exit Node Logic: Why Auto-Select Fails for Security and How to Fix It](https://dev.to/futhgar/tailscale-exit-node-logic-why-auto-select-fails-for-security-and-how-to-fix-it-4da2)
+- [Deploying the Jarvis Mark 52 Project on Netlify: A Class 9 Developer&#39;s Journey](https://dev.to/madhu_01a88ee43799e4c0bd9/deploying-the-jarvis-mark-52-project-on-netlify-a-class-9-developers-journey-4268)
+- [Darwa vs Railway, Render, Vercel, Heroku, and Fly.io: Which Is Best for AI Apps?](https://dev.to/darwa_4dee344cd0344de9fc1/darwa-vs-railway-render-vercel-heroku-and-flyio-which-is-best-for-ai-apps-16nn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
