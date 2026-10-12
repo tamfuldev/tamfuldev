@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is an ATS Score, and What Does It Actually Measure?](https://dev.to/mshykov/what-is-an-ats-score-and-what-does-it-actually-measure-dhi)
-- [OCR in the browser with Tesseract.js: no server, no CDN](https://dev.to/thattoolsite/ocr-in-the-browser-with-tesseractjs-no-server-no-cdn-3goe)
-- [Tailscale Exit Node Logic: Why Auto-Select Fails for Security and How to Fix It](https://dev.to/futhgar/tailscale-exit-node-logic-why-auto-select-fails-for-security-and-how-to-fix-it-4da2)
-- [Deploying the Jarvis Mark 52 Project on Netlify: A Class 9 Developer&#39;s Journey](https://dev.to/madhu_01a88ee43799e4c0bd9/deploying-the-jarvis-mark-52-project-on-netlify-a-class-9-developers-journey-4268)
-- [Darwa vs Railway, Render, Vercel, Heroku, and Fly.io: Which Is Best for AI Apps?](https://dev.to/darwa_4dee344cd0344de9fc1/darwa-vs-railway-render-vercel-heroku-and-flyio-which-is-best-for-ai-apps-16nn)
+- [Architecting a Low-Power Geofencing Engine: Lessons from the Android Location API](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-the-android-location-api-3lop)
+- [Node.js Feature Flag Rollouts for Gaming SaaS &lpar;With Backend Guardrails&rpar;](https://dev.to/suttonhawkins6723/nodejs-feature-flag-rollouts-for-gaming-saas-with-backend-guardrails-5fa4)
+- [AI Writes More Code Now, But Code Reviews Are Still the Bottleneck](https://dev.to/richard_smith_154156d471ef/ai-writes-more-code-now-but-code-reviews-are-still-the-bottleneck-4o57)
+- [Your MCP server&#39;s tool descriptions are the product: a 40-line Node script to dump and review them](https://dev.to/renev3408/your-mcp-servers-tool-descriptions-are-the-product-a-40-line-node-script-to-dump-and-review-them-4ki2)
+- [Serverless Timeout Polling for Error Tracking API Failures in 2026](https://dev.to/jaxmonroe3187/serverless-timeout-polling-for-error-tracking-api-failures-in-2026-44kc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
