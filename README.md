@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Classify the Environment Before the Walkthrough Is Drafted](https://dev.to/datago_7777/classify-the-environment-before-the-walkthrough-is-drafted-2126)
-- [I asked Gemma to turn “I&#39;m too tired” into “glad I went out” 🚶‍♀️](https://dev.to/antoniahp/i-asked-gemma-to-turn-im-too-tired-into-glad-i-went-out-fi1)
-- [Require an Empty Fixture Diff Before Extracting a Batch Loop](https://dev.to/webx_2736/require-an-empty-fixture-diff-before-extracting-a-batch-loop-72f)
-- [Ideas die in the doc because the doc never argues with you. So I built one that does.](https://dev.to/micheal_builds/ideas-die-in-the-doc-because-the-doc-never-argues-with-you-so-i-built-one-that-does-2ib7)
-- [Fine-tuning gpt-oss-20b with Unsloth and running it in Ollama](https://dev.to/khadimhussain/fine-tuning-gpt-oss-20b-with-unsloth-and-running-it-in-ollama-1nfh)
+- [THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word](https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go)
+- [Top 5 Open-Source Dev Tools to Explore This Week &lpar;October 2026&rpar;](https://dev.to/karleeov/top-5-open-source-dev-tools-to-explore-this-week-october-2026-31k7)
+- [Node.js SaaS SMS Alerts API: Auditable Transactional Password Reset Evidence](https://dev.to/horatiofox1281/nodejs-saas-sms-alerts-api-auditable-transactional-password-reset-evidence-51f7)
+- [Your LLM Evaluation Suite Is Lying To You](https://dev.to/robust_true_try/your-llm-evaluation-suite-is-lying-to-you-5g71)
+- [Build link previews in Python &lpar;and don&#39;t open an SSRF hole&rpar;](https://dev.to/brindlewavedata/build-link-previews-in-python-and-dont-open-an-ssrf-hole-1od0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
