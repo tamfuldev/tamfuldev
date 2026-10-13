@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting a Low-Power Geofencing Engine: Lessons from the Android Location API](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-the-android-location-api-3lop)
-- [Node.js Feature Flag Rollouts for Gaming SaaS &lpar;With Backend Guardrails&rpar;](https://dev.to/suttonhawkins6723/nodejs-feature-flag-rollouts-for-gaming-saas-with-backend-guardrails-5fa4)
-- [AI Writes More Code Now, But Code Reviews Are Still the Bottleneck](https://dev.to/richard_smith_154156d471ef/ai-writes-more-code-now-but-code-reviews-are-still-the-bottleneck-4o57)
-- [Your MCP server&#39;s tool descriptions are the product: a 40-line Node script to dump and review them](https://dev.to/renev3408/your-mcp-servers-tool-descriptions-are-the-product-a-40-line-node-script-to-dump-and-review-them-4ki2)
-- [Serverless Timeout Polling for Error Tracking API Failures in 2026](https://dev.to/jaxmonroe3187/serverless-timeout-polling-for-error-tracking-api-failures-in-2026-44kc)
+- [slashing cold‑start latency of Supabase edge functions with Rust‑WASM](https://dev.to/cpkxwdev/slashing-cold-start-latency-of-supabase-edge-functions-with-rust-wasm-2d2m)
+- [vLLM&#39;s --api-key leaves /invocations, /tokenize and /pause open. Lock it down with an allowlist proxy](https://dev.to/munimv2/vllms-api-key-leaves-invocations-tokenize-and-pause-open-lock-it-down-with-an-allowlist-4jlf)
+- [Adding a rule to a project that already breaks it](https://dev.to/idlecultivation/adding-a-rule-to-a-project-that-already-breaks-it-2lpg)
+- [HTTP Status Codes Cheatsheet: What 200, 301, 404, 500 and the Rest Mean](https://dev.to/pulkitgovrani/http-status-codes-cheatsheet-what-200-301-404-500-and-the-rest-mean-2l4m)
+- [The CLAUDE.md That Finally Made Claude Code Stop Guessing &lpar;Free Template&rpar;](https://dev.to/zezhang_dev/the-claudemd-that-finally-made-claude-code-stop-guessing-free-template-2p27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
