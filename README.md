@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [slashing cold‑start latency of Supabase edge functions with Rust‑WASM](https://dev.to/cpkxwdev/slashing-cold-start-latency-of-supabase-edge-functions-with-rust-wasm-2d2m)
-- [vLLM&#39;s --api-key leaves /invocations, /tokenize and /pause open. Lock it down with an allowlist proxy](https://dev.to/munimv2/vllms-api-key-leaves-invocations-tokenize-and-pause-open-lock-it-down-with-an-allowlist-4jlf)
-- [Adding a rule to a project that already breaks it](https://dev.to/idlecultivation/adding-a-rule-to-a-project-that-already-breaks-it-2lpg)
-- [HTTP Status Codes Cheatsheet: What 200, 301, 404, 500 and the Rest Mean](https://dev.to/pulkitgovrani/http-status-codes-cheatsheet-what-200-301-404-500-and-the-rest-mean-2l4m)
-- [The CLAUDE.md That Finally Made Claude Code Stop Guessing &lpar;Free Template&rpar;](https://dev.to/zezhang_dev/the-claudemd-that-finally-made-claude-code-stop-guessing-free-template-2p27)
+- [Is the LinkedIn API free? Pricing and posting access in 2026](https://dev.to/frandeveloper/is-the-linkedin-api-free-pricing-and-posting-access-in-2026-4im9)
+- [What Is Event Loop Lag in Node.js? How to Measure It &lpar;Part 1&rpar;](https://dev.to/manas2297/what-is-event-loop-lag-in-nodejs-how-to-measure-it-part-1-399g)
+- [DeVledger](https://dev.to/nandi_harshini/devledger-4lb3)
+- [Fuzzing Smarter: 20 ffuf Commands for Web Content Discovery](https://dev.to/abhinavsingwal/fuzzing-smarter-20-ffuf-commands-for-web-content-discovery-1966)
+- [Em 2024 vi o corpo humano em 3D num manequim. Em setembro fiz um portal abrir numa carta](https://dev.to/matheus_depaularibeiro_/em-2024-vi-o-corpo-humano-em-3d-num-manequim-em-setembro-fiz-um-portal-abrir-numa-carta-4a5p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
