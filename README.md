@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is the LinkedIn API free? Pricing and posting access in 2026](https://dev.to/frandeveloper/is-the-linkedin-api-free-pricing-and-posting-access-in-2026-4im9)
-- [What Is Event Loop Lag in Node.js? How to Measure It &lpar;Part 1&rpar;](https://dev.to/manas2297/what-is-event-loop-lag-in-nodejs-how-to-measure-it-part-1-399g)
-- [DeVledger](https://dev.to/nandi_harshini/devledger-4lb3)
-- [Fuzzing Smarter: 20 ffuf Commands for Web Content Discovery](https://dev.to/abhinavsingwal/fuzzing-smarter-20-ffuf-commands-for-web-content-discovery-1966)
-- [Em 2024 vi o corpo humano em 3D num manequim. Em setembro fiz um portal abrir numa carta](https://dev.to/matheus_depaularibeiro_/em-2024-vi-o-corpo-humano-em-3d-num-manequim-em-setembro-fiz-um-portal-abrir-numa-carta-4a5p)
+- [How GroundingPI Slashes Robot Vision Latency to 5 ms – The Future of Physical Intelligence](https://dev.to/amrithesh_dev/how-groundingpi-slashes-robot-vision-latency-to-5-ms-the-future-of-physical-intelligence-22l0)
+- [Mastering Git: From Basics to Pro Tips for Everyday Developers](https://dev.to/ukasha_mahir_84eeb71db239/mastering-git-from-basics-to-pro-tips-for-everyday-developers-2ekh)
+- [0-Day Exploitation Speed: Hours to Compromise Before Patching](https://dev.to/satyam_rastogi/0-day-exploitation-speed-hours-to-compromise-before-patching-166j)
+- [Kokoro read &#39;Chapter IV&#39; as &#39;Chapter Roman Four&#39;. So I gave it a proofreader with ears.](https://dev.to/vanshaj/kokoro-read-chapter-iv-as-chapter-roman-four-so-i-gave-it-a-proofreader-with-ears-9id)
+- [I Built DukaanDraft: A Local AI Content Studio for Small Businesses](https://dev.to/shikha_shukla_2469c41a94e/i-built-dukaandraft-a-local-ai-content-studio-for-small-businesses-5b63)
 <!-- BLOG-POST-LIST:END -->
 
 ---
