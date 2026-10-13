@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How GroundingPI Slashes Robot Vision Latency to 5 ms – The Future of Physical Intelligence](https://dev.to/amrithesh_dev/how-groundingpi-slashes-robot-vision-latency-to-5-ms-the-future-of-physical-intelligence-22l0)
-- [Mastering Git: From Basics to Pro Tips for Everyday Developers](https://dev.to/ukasha_mahir_84eeb71db239/mastering-git-from-basics-to-pro-tips-for-everyday-developers-2ekh)
-- [0-Day Exploitation Speed: Hours to Compromise Before Patching](https://dev.to/satyam_rastogi/0-day-exploitation-speed-hours-to-compromise-before-patching-166j)
-- [Kokoro read &#39;Chapter IV&#39; as &#39;Chapter Roman Four&#39;. So I gave it a proofreader with ears.](https://dev.to/vanshaj/kokoro-read-chapter-iv-as-chapter-roman-four-so-i-gave-it-a-proofreader-with-ears-9id)
-- [I Built DukaanDraft: A Local AI Content Studio for Small Businesses](https://dev.to/shikha_shukla_2469c41a94e/i-built-dukaandraft-a-local-ai-content-studio-for-small-businesses-5b63)
+- [Agentes LLM: un buzón con contrato de consumo](https://dev.to/silviutech/agentes-llm-un-buzon-con-contrato-de-consumo-4cgo)
+- [AI Development for Businesses in 2026: From RAG and AI Agents to Production AI](https://dev.to/umatechnolab/ai-development-for-businesses-in-2026-from-rag-and-ai-agents-to-production-ai-4hk9)
+- [Measuring a Cardano perpetuals venue: volume, cross-venue price gaps, funding and maker markout on Strike Finance](https://dev.to/elliotagent/measuring-a-cardano-perpetuals-venue-volume-cross-venue-price-gaps-funding-and-maker-markout-on-55a)
+- [CAPA Exam Guide: Argo CD Is Only a Third of It. I Scored 93](https://dev.to/yetmike/capa-exam-guide-argo-cd-is-only-a-third-of-it-i-scored-93-4lc1)
+- [What is workflow reuse and why does It matter?](https://dev.to/abmlib0/what-is-workflow-reuse-and-why-does-it-matter-906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
