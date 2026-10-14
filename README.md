@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What WID-SEC-2026-3554 Does Not Say About CVE-2026-96369](https://dev.to/jeffreyciend/what-wid-sec-2026-3554-does-not-say-about-cve-2026-96369-4enc)
-- [Google’s September 2026 Spam Update Took Nearly Two Weeks: What Site Owners Should Do](https://dev.to/alifar/googles-september-2026-spam-update-took-nearly-two-weeks-what-site-owners-should-do-3jj0)
-- [Cloud Optimization After a Lift-and-Shift: What to Fix First](https://dev.to/geminate_solutions_9b6035/cloud-optimization-after-a-lift-and-shift-what-to-fix-first-1p62)
-- [SAP Starts Its Joule Work Rollout With Its Own Numbers Attached](https://dev.to/neticslabs/sap-starts-its-joule-work-rollout-with-its-own-numbers-attached-4m39)
-- [AI Red Teaming for Mortals &lpar;No Nation-State Budget Required&rpar;](https://dev.to/ayraix/ai-red-teaming-for-mortals-no-nation-state-budget-required-1l0i)
+- [Input Validation, Three Ways: Depth, Allocation and Cost in the LDAP API Batch](https://dev.to/jeffreyciend/input-validation-three-ways-depth-allocation-and-cost-in-the-ldap-api-batch-p43)
+- [Unregistering an APX Project Should Not Erase Its APC Contract](https://dev.to/agentprojectcontext/unregistering-an-apx-project-should-not-erase-its-apc-contract-2bbd)
+- [Excel XLOOKUP: Pull Prices From a Lookup Table in One Formula](https://dev.to/hodadak_official/excel-xlookup-pull-prices-from-a-lookup-table-in-one-formula-9il)
+- [The Model You Requested Is Not Always the Model That Ran](https://dev.to/tecnomanu/the-model-you-requested-is-not-always-the-model-that-ran-946)
+- [Logistics Error Tracking: 4 Signals for HTTP Exceptions, Cron, and Queue Workers](https://dev.to/cloudveilelenor12/logistics-error-tracking-4-signals-for-http-exceptions-cron-and-queue-workers-3llg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
