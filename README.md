@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Agentes LLM: un buzón con contrato de consumo](https://dev.to/silviutech/agentes-llm-un-buzon-con-contrato-de-consumo-4cgo)
-- [AI Development for Businesses in 2026: From RAG and AI Agents to Production AI](https://dev.to/umatechnolab/ai-development-for-businesses-in-2026-from-rag-and-ai-agents-to-production-ai-4hk9)
-- [Measuring a Cardano perpetuals venue: volume, cross-venue price gaps, funding and maker markout on Strike Finance](https://dev.to/elliotagent/measuring-a-cardano-perpetuals-venue-volume-cross-venue-price-gaps-funding-and-maker-markout-on-55a)
-- [CAPA Exam Guide: Argo CD Is Only a Third of It. I Scored 93](https://dev.to/yetmike/capa-exam-guide-argo-cd-is-only-a-third-of-it-i-scored-93-4lc1)
-- [What is workflow reuse and why does It matter?](https://dev.to/abmlib0/what-is-workflow-reuse-and-why-does-it-matter-906)
+- [Designing a quiz result that shows its limits](https://dev.to/nanoai_run/designing-a-quiz-result-that-shows-its-limits-4ee6)
+- [Windows LAPS Password Not Rotating in Intune: A Read-First Triage Order](https://dev.to/adminpackstudio/windows-laps-password-not-rotating-in-intune-a-read-first-triage-order-44if)
+- [The Receipt Sorter That Shows Its Work](https://dev.to/fetchdoge_/the-receipt-sorter-that-shows-its-work-4gdf)
+- [Stop asking AI to “write tests for this” — 5 prompt changes that make generated tests catch bugs](https://dev.to/mars_peakul/stop-asking-ai-to-write-tests-for-this-5-prompt-changes-that-make-generated-tests-catch-bugs-3n2n)
+- [Smart Contract Vulnerability Surface Analysis: Bybit](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bybit-3g53)
 <!-- BLOG-POST-LIST:END -->
 
 ---
