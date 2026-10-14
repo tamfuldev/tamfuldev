@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Wiring Android&#39;s NNAPI to a Quantized On-Device LLM for Real-Time Function Calling](https://dev.to/software_mvp-factory/wiring-androids-nnapi-to-a-quantized-on-device-llm-for-real-time-function-calling-38f5)
-- [A good application doesn&#39;t start with code](https://dev.to/meledjearmel/a-good-application-doesnt-start-with-code-1d1b)
-- [A simple application for the user can be complex behind](https://dev.to/meledjearmel/a-simple-application-for-the-user-can-be-complex-behind-k44)
-- [Client-Side PDF Tools in JavaScript: Merge, Compress and Convert Without Uploading tags: javascript, webdev, pdf, privacy](https://dev.to/frank_32f82b4e249028949b9/client-side-pdf-tools-in-javascript-merge-compress-and-convert-without-uploading-tags-2d32)
-- [Your AI can give a wrong answer confidently. 🤖](https://dev.to/tushar_yadav_ai/your-ai-can-give-a-wrong-answer-confidently-3eai)
+- [Ledger Finds LTE Seed-Stealing Implant in Wallets Sold by CryptoBilis, $86M Drained](https://dev.to/etairos/ledger-finds-lte-seed-stealing-implant-in-wallets-sold-by-cryptobilis-86m-drained-2jd2)
+- [Test your agent&#39;s payment loop on a testnet before it goes live](https://dev.to/openclawcash/test-your-agents-payment-loop-on-a-testnet-before-it-goes-live-3n0a)
+- [I Built a Zero-Config Google Maps Lead Scraper with Playwright &lpar;No Docker, No Python, No API Keys&rpar;](https://dev.to/md_aquil_ztl/i-built-a-zero-config-google-maps-lead-scraper-with-playwright-no-docker-no-python-no-api-keys-303c)
+- [The KV-Cache Thrashing Trap: Why Multi-Tenant vLLM Suffers Spikes](https://dev.to/asifmiqbal/the-kv-cache-thrashing-trap-why-multi-tenant-vllm-suffers-spikes-4d89)
+- [2026 Frontier MoE VRAM Sizing &amp; Bare-Metal GPU Repatriation Math &lpar;DeepSeek-V4.1-Flash, Kimi K2.5, GLM-5.3&rpar;](https://dev.to/asifmiqbal/2026-frontier-moe-vram-sizing-bare-metal-gpu-repatriation-math-deepseek-v41-flash-kimi-k25-h9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
