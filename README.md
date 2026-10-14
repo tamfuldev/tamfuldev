@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a quiz result that shows its limits](https://dev.to/nanoai_run/designing-a-quiz-result-that-shows-its-limits-4ee6)
-- [Windows LAPS Password Not Rotating in Intune: A Read-First Triage Order](https://dev.to/adminpackstudio/windows-laps-password-not-rotating-in-intune-a-read-first-triage-order-44if)
-- [The Receipt Sorter That Shows Its Work](https://dev.to/fetchdoge_/the-receipt-sorter-that-shows-its-work-4gdf)
-- [Stop asking AI to “write tests for this” — 5 prompt changes that make generated tests catch bugs](https://dev.to/mars_peakul/stop-asking-ai-to-write-tests-for-this-5-prompt-changes-that-make-generated-tests-catch-bugs-3n2n)
-- [Smart Contract Vulnerability Surface Analysis: Bybit](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bybit-3g53)
+- [Wiring Android&#39;s NNAPI to a Quantized On-Device LLM for Real-Time Function Calling](https://dev.to/software_mvp-factory/wiring-androids-nnapi-to-a-quantized-on-device-llm-for-real-time-function-calling-38f5)
+- [A good application doesn&#39;t start with code](https://dev.to/meledjearmel/a-good-application-doesnt-start-with-code-1d1b)
+- [A simple application for the user can be complex behind](https://dev.to/meledjearmel/a-simple-application-for-the-user-can-be-complex-behind-k44)
+- [Client-Side PDF Tools in JavaScript: Merge, Compress and Convert Without Uploading tags: javascript, webdev, pdf, privacy](https://dev.to/frank_32f82b4e249028949b9/client-side-pdf-tools-in-javascript-merge-compress-and-convert-without-uploading-tags-2d32)
+- [Your AI can give a wrong answer confidently. 🤖](https://dev.to/tushar_yadav_ai/your-ai-can-give-a-wrong-answer-confidently-3eai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
