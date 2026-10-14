@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ledger Finds LTE Seed-Stealing Implant in Wallets Sold by CryptoBilis, $86M Drained](https://dev.to/etairos/ledger-finds-lte-seed-stealing-implant-in-wallets-sold-by-cryptobilis-86m-drained-2jd2)
-- [Test your agent&#39;s payment loop on a testnet before it goes live](https://dev.to/openclawcash/test-your-agents-payment-loop-on-a-testnet-before-it-goes-live-3n0a)
-- [I Built a Zero-Config Google Maps Lead Scraper with Playwright &lpar;No Docker, No Python, No API Keys&rpar;](https://dev.to/md_aquil_ztl/i-built-a-zero-config-google-maps-lead-scraper-with-playwright-no-docker-no-python-no-api-keys-303c)
-- [The KV-Cache Thrashing Trap: Why Multi-Tenant vLLM Suffers Spikes](https://dev.to/asifmiqbal/the-kv-cache-thrashing-trap-why-multi-tenant-vllm-suffers-spikes-4d89)
-- [2026 Frontier MoE VRAM Sizing &amp; Bare-Metal GPU Repatriation Math &lpar;DeepSeek-V4.1-Flash, Kimi K2.5, GLM-5.3&rpar;](https://dev.to/asifmiqbal/2026-frontier-moe-vram-sizing-bare-metal-gpu-repatriation-math-deepseek-v41-flash-kimi-k25-h9m)
+- [What WID-SEC-2026-3554 Does Not Say About CVE-2026-96369](https://dev.to/jeffreyciend/what-wid-sec-2026-3554-does-not-say-about-cve-2026-96369-4enc)
+- [Google’s September 2026 Spam Update Took Nearly Two Weeks: What Site Owners Should Do](https://dev.to/alifar/googles-september-2026-spam-update-took-nearly-two-weeks-what-site-owners-should-do-3jj0)
+- [Cloud Optimization After a Lift-and-Shift: What to Fix First](https://dev.to/geminate_solutions_9b6035/cloud-optimization-after-a-lift-and-shift-what-to-fix-first-1p62)
+- [SAP Starts Its Joule Work Rollout With Its Own Numbers Attached](https://dev.to/neticslabs/sap-starts-its-joule-work-rollout-with-its-own-numbers-attached-4m39)
+- [AI Red Teaming for Mortals &lpar;No Nation-State Budget Required&rpar;](https://dev.to/ayraix/ai-red-teaming-for-mortals-no-nation-state-budget-required-1l0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
