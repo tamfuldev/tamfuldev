@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Chain Bridge Risk Assessment: MEXC](https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-mexc-ang)
-- [WebRTC Delivery Guarantees for Realtime Bidder Alerts &lpar;Auction Privacy Contracts&rpar;](https://dev.to/apexz69/webrtc-delivery-guarantees-for-realtime-bidder-alerts-auction-privacy-contracts-3khe)
-- [Krea 3 dice ser 4 veces más rápido que Nano Banana Pro](https://dev.to/lu1tr0n/krea-3-dice-ser-4-veces-mas-rapido-que-nano-banana-pro-2mbj)
-- [Context Engineering Can Stop AI Workflows From Quietly Degrading Over Time](https://dev.to/alifar/context-engineering-can-stop-ai-workflows-from-quietly-degrading-over-time-1909)
-- [Draft the file your agent loads at every session start](https://dev.to/conorbronsdon/draft-the-file-your-agent-loads-at-every-session-start-3g76)
+- [Rate Limiting Like Gandalf: Building a Distributed Cache with Redis](https://dev.to/timevolt/rate-limiting-like-gandalf-building-a-distributed-cache-with-redis-4a28)
+- [Listing Writer: a 270M Gemma in your browser that writes eBay listings that sell](https://dev.to/qife422/listing-writer-a-270m-gemma-in-your-browser-that-writes-ebay-listings-that-sell-3n08)
+- [AI Weekly — 2026-10-09 to 2026-10-16 | Silicon, safety, and the cost floor](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-2026-10-09-to-2026-10-16-silicon-safety-and-the-cost-floor-1e6i)
+- [Red-Teaming a Kids&#39; AI Tutor: How a One-Word Variant Slipped Past Our Prompt-Injection Filter](https://dev.to/rafianajam/red-teaming-a-kids-ai-tutor-how-a-one-word-variant-slipped-past-our-prompt-injection-filter-3ad1)
+- [$50–$200 in Claude API credits, and Google&#39;s Antigravity](https://dev.to/faliye/50-200-in-claude-api-credits-and-googles-antigravity-2jom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
