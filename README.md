@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Input Validation, Three Ways: Depth, Allocation and Cost in the LDAP API Batch](https://dev.to/jeffreyciend/input-validation-three-ways-depth-allocation-and-cost-in-the-ldap-api-batch-p43)
-- [Unregistering an APX Project Should Not Erase Its APC Contract](https://dev.to/agentprojectcontext/unregistering-an-apx-project-should-not-erase-its-apc-contract-2bbd)
-- [Excel XLOOKUP: Pull Prices From a Lookup Table in One Formula](https://dev.to/hodadak_official/excel-xlookup-pull-prices-from-a-lookup-table-in-one-formula-9il)
-- [The Model You Requested Is Not Always the Model That Ran](https://dev.to/tecnomanu/the-model-you-requested-is-not-always-the-model-that-ran-946)
-- [Logistics Error Tracking: 4 Signals for HTTP Exceptions, Cron, and Queue Workers](https://dev.to/cloudveilelenor12/logistics-error-tracking-4-signals-for-http-exceptions-cron-and-queue-workers-3llg)
+- [Grok Voice 3.0 Took Over grok-voice-latest on October 14. Pin Your Voice Agent&#39;s Model](https://dev.to/gabrielanhaia/grok-voice-30-took-over-grok-voice-latest-on-october-14-pin-your-voice-agents-model-435)
+- [Timezone-Safe Daily Report Email Delivery: UTC Cron Patterns for US and EU SaaS](https://dev.to/tatefletcher6754/timezone-safe-daily-report-email-delivery-utc-cron-patterns-for-us-and-eu-saas-113f)
+- [The route is computed on-chain, inside the swap transaction: how BlazePhoenix quotes DEX trades](https://dev.to/blazephoenix_0bfac717a952/the-route-is-computed-on-chain-inside-the-swap-transaction-how-blazephoenix-quotes-dex-trades-29fp)
+- [oh-my-agent: oma-security replaces deepsec, one global home](https://dev.to/gracefullight/oh-my-agent-oma-security-replaces-deepsec-one-global-home-13de)
+- [P4 Search shipped a default service token: inside CVE-2026-100103](https://dev.to/facilishz/p4-search-shipped-a-default-service-token-inside-cve-2026-100103-24c1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
