@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The one line in your SKILL.md that decides whether your skill ever fires](https://dev.to/skill123/the-one-line-in-your-skillmd-that-decides-whether-your-skill-ever-fires-4dhp)
-- [The Matrix of List Comprehensions: Unlocking Python&#39;s Hidden Powers](https://dev.to/timevolt/the-matrix-of-list-comprehensions-unlocking-pythons-hidden-powers-101i)
-- [Kubernetes: un presupuesto para emails de prueba](https://dev.to/alexcarteruk/kubernetes-un-presupuesto-para-emails-de-prueba-3e96)
-- [Citrix NetScaler CVE-2026-19490 and CVE-2026-19489: Audit Evidence for a Perimeter Patch](https://dev.to/bianliang/citrix-netscaler-cve-2026-19490-and-cve-2026-19489-audit-evidence-for-a-perimeter-patch-o3i)
-- [Your AI-built app works in the demo. But did the signup event actually reach GA4?](https://dev.to/quc_cngphm_8ed4b1290/your-ai-built-app-works-in-the-demo-but-did-the-signup-event-actually-reach-ga4-3g96)
+- [Cross-Chain Bridge Risk Assessment: MEXC](https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-mexc-ang)
+- [WebRTC Delivery Guarantees for Realtime Bidder Alerts &lpar;Auction Privacy Contracts&rpar;](https://dev.to/apexz69/webrtc-delivery-guarantees-for-realtime-bidder-alerts-auction-privacy-contracts-3khe)
+- [Krea 3 dice ser 4 veces más rápido que Nano Banana Pro](https://dev.to/lu1tr0n/krea-3-dice-ser-4-veces-mas-rapido-que-nano-banana-pro-2mbj)
+- [Context Engineering Can Stop AI Workflows From Quietly Degrading Over Time](https://dev.to/alifar/context-engineering-can-stop-ai-workflows-from-quietly-degrading-over-time-1909)
+- [Draft the file your agent loads at every session start](https://dev.to/conorbronsdon/draft-the-file-your-agent-loads-at-every-session-start-3g76)
 <!-- BLOG-POST-LIST:END -->
 
 ---
