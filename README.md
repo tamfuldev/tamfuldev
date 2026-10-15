@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your WhatsApp AI Agent Works in a Demo. Here&#39;s What Breaks in Production.](https://dev.to/wapgrowai_org/your-whatsapp-ai-agent-works-in-a-demo-heres-what-breaks-in-production-45nn)
-- [Scaling Actors and Workers With HPA In Agent Substrate](https://dev.to/thenjdevopsguy/scaling-actors-and-workers-with-hpa-in-agent-substrate-1gfj)
-- [slopsieve: a diff linter for the AI slop era](https://dev.to/princejain756/slopsieve-a-diff-linter-for-the-ai-slop-era-1a73)
-- [newsy a free to use zero hastle newsletter platform for your static sites powered by github.](https://dev.to/pratyay360/newsy-a-free-to-use-zero-hastle-newsletter-platform-for-your-static-sites-powered-by-github-5e0o)
-- [The Hidden Cost of Unoptimized REST API Payloads in Node.js](https://dev.to/abhishek-tiwari-dev/the-hidden-cost-of-unoptimized-rest-api-payloads-in-nodejs-8dn)
+- [The one line in your SKILL.md that decides whether your skill ever fires](https://dev.to/skill123/the-one-line-in-your-skillmd-that-decides-whether-your-skill-ever-fires-4dhp)
+- [The Matrix of List Comprehensions: Unlocking Python&#39;s Hidden Powers](https://dev.to/timevolt/the-matrix-of-list-comprehensions-unlocking-pythons-hidden-powers-101i)
+- [Kubernetes: un presupuesto para emails de prueba](https://dev.to/alexcarteruk/kubernetes-un-presupuesto-para-emails-de-prueba-3e96)
+- [Citrix NetScaler CVE-2026-19490 and CVE-2026-19489: Audit Evidence for a Perimeter Patch](https://dev.to/bianliang/citrix-netscaler-cve-2026-19490-and-cve-2026-19489-audit-evidence-for-a-perimeter-patch-o3i)
+- [Your AI-built app works in the demo. But did the signup event actually reach GA4?](https://dev.to/quc_cngphm_8ed4b1290/your-ai-built-app-works-in-the-demo-but-did-the-signup-event-actually-reach-ga4-3g96)
 <!-- BLOG-POST-LIST:END -->
 
 ---
