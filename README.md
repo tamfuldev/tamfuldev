@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Grok Voice 3.0 Took Over grok-voice-latest on October 14. Pin Your Voice Agent&#39;s Model](https://dev.to/gabrielanhaia/grok-voice-30-took-over-grok-voice-latest-on-october-14-pin-your-voice-agents-model-435)
-- [Timezone-Safe Daily Report Email Delivery: UTC Cron Patterns for US and EU SaaS](https://dev.to/tatefletcher6754/timezone-safe-daily-report-email-delivery-utc-cron-patterns-for-us-and-eu-saas-113f)
-- [The route is computed on-chain, inside the swap transaction: how BlazePhoenix quotes DEX trades](https://dev.to/blazephoenix_0bfac717a952/the-route-is-computed-on-chain-inside-the-swap-transaction-how-blazephoenix-quotes-dex-trades-29fp)
-- [oh-my-agent: oma-security replaces deepsec, one global home](https://dev.to/gracefullight/oh-my-agent-oma-security-replaces-deepsec-one-global-home-13de)
-- [P4 Search shipped a default service token: inside CVE-2026-100103](https://dev.to/facilishz/p4-search-shipped-a-default-service-token-inside-cve-2026-100103-24c1)
+- [Review a level-tool script through a safe fixture](https://dev.to/hiroshi_takamura_c851fe71/review-a-level-tool-script-through-a-safe-fixture-12j0)
+- [From Two Photos to a 15-Second Zombie Story: How an AI Photo-to-Video Pipeline Works &lpar;Halloween 2026 Creative Coding&rpar;](https://dev.to/eason_zombiehug/from-two-photos-to-a-15-second-zombie-story-how-an-ai-photo-to-video-pipeline-works-halloween-3ofd)
+- [What ~490 Google Ads clicks taught a tiny eSIM shop](https://dev.to/gosimch/what-490-google-ads-clicks-taught-a-tiny-esim-shop-215l)
+- [Chat with client In -&gt; Invoice Out](https://dev.to/0shuvo0/chat-with-client-in-invoice-out-4odg)
+- [React Form Handling Techniques: Validation, State, and Submission](https://dev.to/ansh_sheladiya/react-form-handling-techniques-validation-state-and-submission-4f2o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
