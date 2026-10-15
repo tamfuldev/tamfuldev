@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Review a level-tool script through a safe fixture](https://dev.to/hiroshi_takamura_c851fe71/review-a-level-tool-script-through-a-safe-fixture-12j0)
-- [From Two Photos to a 15-Second Zombie Story: How an AI Photo-to-Video Pipeline Works &lpar;Halloween 2026 Creative Coding&rpar;](https://dev.to/eason_zombiehug/from-two-photos-to-a-15-second-zombie-story-how-an-ai-photo-to-video-pipeline-works-halloween-3ofd)
-- [What ~490 Google Ads clicks taught a tiny eSIM shop](https://dev.to/gosimch/what-490-google-ads-clicks-taught-a-tiny-esim-shop-215l)
-- [Chat with client In -&gt; Invoice Out](https://dev.to/0shuvo0/chat-with-client-in-invoice-out-4odg)
-- [React Form Handling Techniques: Validation, State, and Submission](https://dev.to/ansh_sheladiya/react-form-handling-techniques-validation-state-and-submission-4f2o)
+- [Your WhatsApp AI Agent Works in a Demo. Here&#39;s What Breaks in Production.](https://dev.to/wapgrowai_org/your-whatsapp-ai-agent-works-in-a-demo-heres-what-breaks-in-production-45nn)
+- [Scaling Actors and Workers With HPA In Agent Substrate](https://dev.to/thenjdevopsguy/scaling-actors-and-workers-with-hpa-in-agent-substrate-1gfj)
+- [slopsieve: a diff linter for the AI slop era](https://dev.to/princejain756/slopsieve-a-diff-linter-for-the-ai-slop-era-1a73)
+- [newsy a free to use zero hastle newsletter platform for your static sites powered by github.](https://dev.to/pratyay360/newsy-a-free-to-use-zero-hastle-newsletter-platform-for-your-static-sites-powered-by-github-5e0o)
+- [The Hidden Cost of Unoptimized REST API Payloads in Node.js](https://dev.to/abhishek-tiwari-dev/the-hidden-cost-of-unoptimized-rest-api-payloads-in-nodejs-8dn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
