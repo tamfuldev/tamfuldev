@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Guest Progress Safe: A Resumable Local-to-Account Import Pattern](https://dev.to/ptrgiang/keep-guest-progress-safe-a-resumable-local-to-account-import-pattern-2dpg)
-- [Our skill-description test passed at 2,304 of 10,000 characters while Claude Code&#39;s listing sat at 94% of its budget](https://dev.to/rulestack/our-skill-description-test-passed-at-2304-of-10000-characters-while-claude-codes-listing-sat-at-2bp6)
-- [I read a CUDA inference engine&#39;s symbols with Ghidra, then made it 12% faster on my 3090](https://dev.to/prodbymarcu/i-read-a-cuda-inference-engines-symbols-with-ghidra-then-made-it-12-faster-on-my-3090-2c3l)
-- [Laravel API Pagination, Filtering and Sorting Done Right](https://dev.to/devtalk94/laravel-api-pagination-filtering-and-sorting-done-right-c08)
-- [The Bug Lives at the Seam, Not in the Logic](https://dev.to/debashish_ghosal/the-bug-lives-at-the-seam-not-in-the-logic-48j4)
+- [Dify with Claude and GPT: every field of the OpenAI-API-compatible plugin, explained](https://dev.to/mupromax/dify-with-claude-and-gpt-every-field-of-the-openai-api-compatible-plugin-explained-4995)
+- [Shapezo vs. InfraWorks: Engineering a Two-Layer Visualization Pipeline Without Losing Geospatial Truth](https://dev.to/maptomodel/shapezo-vs-infraworks-engineering-a-two-layer-visualization-pipeline-without-losing-geospatial-1523)
+- [Honest question: at this price and performance, would you use this memory API?](https://dev.to/woochan/honest-question-at-this-price-and-performance-would-you-use-this-memory-api-2bll)
+- [Completo, incremental y PITR en PostgreSQL 17: guía práctica con restauración verificada](https://dev.to/keylalopezz/completo-incremental-y-pitr-en-postgresql-17-guia-practica-con-restauracion-verificada-37pl)
+- [How do you get the first stranger to play your tiny web game?](https://dev.to/snowstorm-fox/how-do-you-get-the-first-stranger-to-play-your-tiny-web-game-2ma5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
