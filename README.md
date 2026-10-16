@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Rate Limiting Like Gandalf: Building a Distributed Cache with Redis](https://dev.to/timevolt/rate-limiting-like-gandalf-building-a-distributed-cache-with-redis-4a28)
-- [Listing Writer: a 270M Gemma in your browser that writes eBay listings that sell](https://dev.to/qife422/listing-writer-a-270m-gemma-in-your-browser-that-writes-ebay-listings-that-sell-3n08)
-- [AI Weekly — 2026-10-09 to 2026-10-16 | Silicon, safety, and the cost floor](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-2026-10-09-to-2026-10-16-silicon-safety-and-the-cost-floor-1e6i)
-- [Red-Teaming a Kids&#39; AI Tutor: How a One-Word Variant Slipped Past Our Prompt-Injection Filter](https://dev.to/rafianajam/red-teaming-a-kids-ai-tutor-how-a-one-word-variant-slipped-past-our-prompt-injection-filter-3ad1)
-- [$50–$200 in Claude API credits, and Google&#39;s Antigravity](https://dev.to/faliye/50-200-in-claude-api-credits-and-googles-antigravity-2jom)
+- [Keep Guest Progress Safe: A Resumable Local-to-Account Import Pattern](https://dev.to/ptrgiang/keep-guest-progress-safe-a-resumable-local-to-account-import-pattern-2dpg)
+- [Our skill-description test passed at 2,304 of 10,000 characters while Claude Code&#39;s listing sat at 94% of its budget](https://dev.to/rulestack/our-skill-description-test-passed-at-2304-of-10000-characters-while-claude-codes-listing-sat-at-2bp6)
+- [I read a CUDA inference engine&#39;s symbols with Ghidra, then made it 12% faster on my 3090](https://dev.to/prodbymarcu/i-read-a-cuda-inference-engines-symbols-with-ghidra-then-made-it-12-faster-on-my-3090-2c3l)
+- [Laravel API Pagination, Filtering and Sorting Done Right](https://dev.to/devtalk94/laravel-api-pagination-filtering-and-sorting-done-right-c08)
+- [The Bug Lives at the Seam, Not in the Logic](https://dev.to/debashish_ghosal/the-bug-lives-at-the-seam-not-in-the-logic-48j4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
