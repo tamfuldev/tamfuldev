@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Spec an AI App Builder Can Actually Build From](https://dev.to/famitha_ma_b9c13ab1d324e/how-to-write-a-spec-an-ai-app-builder-can-actually-build-from-35f6)
-- [History API for SPAs: pushState, popstate, Scroll Restoration, URLSearchParams, and Nginx Config](https://dev.to/weatherclockdash/history-api-for-spas-pushstate-popstate-scroll-restoration-urlsearchparams-and-nginx-config-1f9f)
-- [MutationObserver: Watching DOM Changes, SPA Navigation, Extension Scripts, and ResizeObserver](https://dev.to/weatherclockdash/mutationobserver-watching-dom-changes-spa-navigation-extension-scripts-and-resizeobserver-45hb)
-- [Introducing JointJS for React: Production-grade diagramming for React applications](https://dev.to/jointjs/introducing-jointjs-for-react-production-grade-diagramming-for-react-applications-3bpj)
-- [One Prompt Took Over Every Agent in the Account: The Default Role Is the Blast Radius](https://dev.to/anusha_mukka/one-prompt-took-over-every-agent-in-the-account-the-default-role-is-the-blast-radius-2h4l)
+- [How AI Agents Sharing a Sandbox Leak Each Other&#39;s Data](https://dev.to/webofmike/how-ai-agents-sharing-a-sandbox-leak-each-others-data-1id2)
+- [Docker Stop Signals Reach PID 1, Not Every Process in the Container](https://dev.to/pbxqdown/docker-stop-signals-reach-pid-1-not-every-process-in-the-container-39e0)
+- [Realtime Room Admission Control Through Token Scope and Client Trust Signals](https://dev.to/viggoknight2318/realtime-room-admission-control-through-token-scope-and-client-trust-signals-1d4n)
+- [Building and Optimizing a Competitive AI Coding Agent](https://dev.to/leonardo_weber_52e12e8ea6/building-and-optimizing-a-competitive-ai-coding-agent-59l9)
+- [190,000 Star Systems and a Million Planets: How I&#39;m Building GalaxyAtlas with AI Agents](https://dev.to/yaroslav_klochnyk/190000-star-systems-and-a-million-planets-how-im-building-galaxyatlas-with-ai-agents-161n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
