@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Dify with Claude and GPT: every field of the OpenAI-API-compatible plugin, explained](https://dev.to/mupromax/dify-with-claude-and-gpt-every-field-of-the-openai-api-compatible-plugin-explained-4995)
-- [Shapezo vs. InfraWorks: Engineering a Two-Layer Visualization Pipeline Without Losing Geospatial Truth](https://dev.to/maptomodel/shapezo-vs-infraworks-engineering-a-two-layer-visualization-pipeline-without-losing-geospatial-1523)
-- [Honest question: at this price and performance, would you use this memory API?](https://dev.to/woochan/honest-question-at-this-price-and-performance-would-you-use-this-memory-api-2bll)
-- [Completo, incremental y PITR en PostgreSQL 17: guía práctica con restauración verificada](https://dev.to/keylalopezz/completo-incremental-y-pitr-en-postgresql-17-guia-practica-con-restauracion-verificada-37pl)
-- [How do you get the first stranger to play your tiny web game?](https://dev.to/snowstorm-fox/how-do-you-get-the-first-stranger-to-play-your-tiny-web-game-2ma5)
+- [How to Write a Spec an AI App Builder Can Actually Build From](https://dev.to/famitha_ma_b9c13ab1d324e/how-to-write-a-spec-an-ai-app-builder-can-actually-build-from-35f6)
+- [History API for SPAs: pushState, popstate, Scroll Restoration, URLSearchParams, and Nginx Config](https://dev.to/weatherclockdash/history-api-for-spas-pushstate-popstate-scroll-restoration-urlsearchparams-and-nginx-config-1f9f)
+- [MutationObserver: Watching DOM Changes, SPA Navigation, Extension Scripts, and ResizeObserver](https://dev.to/weatherclockdash/mutationobserver-watching-dom-changes-spa-navigation-extension-scripts-and-resizeobserver-45hb)
+- [Introducing JointJS for React: Production-grade diagramming for React applications](https://dev.to/jointjs/introducing-jointjs-for-react-production-grade-diagramming-for-react-applications-3bpj)
+- [One Prompt Took Over Every Agent in the Account: The Default Role Is the Blast Radius](https://dev.to/anusha_mukka/one-prompt-took-over-every-agent-in-the-account-the-default-role-is-the-blast-radius-2h4l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
