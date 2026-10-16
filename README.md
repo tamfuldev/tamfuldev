@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stoke Money&#39;s Cash Flow Forecast Engine: How Real-Time Financial Projections Replace Static Budget Categories](https://dev.to/mech_app_ai/stoke-moneys-cash-flow-forecast-engine-how-real-time-financial-projections-replace-static-budget-2bbg)
-- [Verdikta : le juge de travail décentralisé qui paie selon des règles connues](https://dev.to/reggiebro/verdikta-le-juge-de-travail-decentralise-qui-paie-selon-des-regles-connues-h2d)
-- [Why Hollow Knight Bet on Unity and PlayMaker: The Visual-Scripting Shortcut Behind a 15-Million-Copy Metroidvania](https://dev.to/wlz/why-hollow-knight-bet-on-unity-and-playmaker-the-visual-scripting-shortcut-behind-a-2me1)
-- [A Simple SEO Audit You Can Run on Your Own Site in an Afternoon](https://dev.to/freetierkits/a-simple-seo-audit-you-can-run-on-your-own-site-in-an-afternoon-56o1)
-- [AOMEI Backupper Update Servers Served a Backdoor in Windows of Five to Ten Minutes](https://dev.to/etairos/aomei-backupper-update-servers-served-a-backdoor-in-windows-of-five-to-ten-minutes-hg3)
+- [UK tender alerts after Brexit: Contracts Finder vs Find a Tender](https://dev.to/agentica/uk-tender-alerts-after-brexit-contracts-finder-vs-find-a-tender-319l)
+- [CVE-2026-87902 Under Active Exploitation: 64 Honeypot Attempts and a GitHub-Hosted Webshell](https://dev.to/jeffreyciend/cve-2026-87902-under-active-exploitation-64-honeypot-attempts-and-a-github-hosted-webshell-1ap5)
+- [AI Overview Traffic May Be Hiding in Direct: What 51,200 Referral Events Show](https://dev.to/alifar/ai-overview-traffic-may-be-hiding-in-direct-what-51200-referral-events-show-3gge)
+- [Building a Personal AI Brain: Qdrant, Embeddings, and the Illusion of Memory](https://dev.to/ayraix/building-a-personal-ai-brain-qdrant-embeddings-and-the-illusion-of-memory-103c)
+- [Prompt Injection: How to Protect Your AI Automations](https://dev.to/procwire/prompt-injection-how-to-protect-your-ai-automations-2jlh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
