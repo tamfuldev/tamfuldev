@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Agents Sharing a Sandbox Leak Each Other&#39;s Data](https://dev.to/webofmike/how-ai-agents-sharing-a-sandbox-leak-each-others-data-1id2)
-- [Docker Stop Signals Reach PID 1, Not Every Process in the Container](https://dev.to/pbxqdown/docker-stop-signals-reach-pid-1-not-every-process-in-the-container-39e0)
-- [Realtime Room Admission Control Through Token Scope and Client Trust Signals](https://dev.to/viggoknight2318/realtime-room-admission-control-through-token-scope-and-client-trust-signals-1d4n)
-- [Building and Optimizing a Competitive AI Coding Agent](https://dev.to/leonardo_weber_52e12e8ea6/building-and-optimizing-a-competitive-ai-coding-agent-59l9)
-- [190,000 Star Systems and a Million Planets: How I&#39;m Building GalaxyAtlas with AI Agents](https://dev.to/yaroslav_klochnyk/190000-star-systems-and-a-million-planets-how-im-building-galaxyatlas-with-ai-agents-161n)
+- [Stoke Money&#39;s Cash Flow Forecast Engine: How Real-Time Financial Projections Replace Static Budget Categories](https://dev.to/mech_app_ai/stoke-moneys-cash-flow-forecast-engine-how-real-time-financial-projections-replace-static-budget-2bbg)
+- [Verdikta : le juge de travail décentralisé qui paie selon des règles connues](https://dev.to/reggiebro/verdikta-le-juge-de-travail-decentralise-qui-paie-selon-des-regles-connues-h2d)
+- [Why Hollow Knight Bet on Unity and PlayMaker: The Visual-Scripting Shortcut Behind a 15-Million-Copy Metroidvania](https://dev.to/wlz/why-hollow-knight-bet-on-unity-and-playmaker-the-visual-scripting-shortcut-behind-a-2me1)
+- [A Simple SEO Audit You Can Run on Your Own Site in an Afternoon](https://dev.to/freetierkits/a-simple-seo-audit-you-can-run-on-your-own-site-in-an-afternoon-56o1)
+- [AOMEI Backupper Update Servers Served a Backdoor in Windows of Five to Ten Minutes](https://dev.to/etairos/aomei-backupper-update-servers-served-a-backdoor-in-windows-of-five-to-ten-minutes-hg3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
