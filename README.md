@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Emergency Protocols: Moving Beyond Static Documentation via MCP](https://dev.to/renato_marinho/hardening-emergency-protocols-moving-beyond-static-documentation-via-mcp-3cea)
-- [Security Audit Report: Reentrancy &amp; Access Control Review: ether.fi Stake](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-etherfi-stake-1dnk)
-- [I Lost a Working n8n Workflow to a Bad Edit — Now Git Versions Every Deploy](https://dev.to/haopengai/i-lost-a-working-n8n-workflow-to-a-bad-edit-now-git-versions-every-deploy-4k84)
-- [Optimizing Frontend Performance and SEO for Local Trade Services Web Apps](https://dev.to/zicoding/optimizing-frontend-performance-and-seo-for-local-trade-services-web-apps-4pk2)
-- [How to Generate a Secure Password You&#39;ll Actually Remember](https://dev.to/tinali7564eng/how-to-generate-a-secure-password-youll-actually-remember-13dl)
+- [5 AI Travel Product Failure Cases: They All Died in the Same Place](https://dev.to/iamthedev/5-ai-travel-product-failure-cases-they-all-died-in-the-same-place-39ok)
+- [Google Dorking: 20 Queries That Expose What Search Engines Index](https://dev.to/abhinavsingwal/google-dorking-20-queries-that-expose-what-search-engines-index-b60)
+- [Localizing Open-Source ERP: How Odoo 19 is Adapted for Solar Hijri, Complex Tax, and RTL](https://dev.to/mohammad_mostafazadeh_f0a/localizing-open-source-erp-how-odoo-19-is-adapted-for-solar-hijri-complex-tax-and-rtl-4m9i)
+- [Claude is stuck on a question. Answer it from Discord.](https://dev.to/shashank_chakraborty_6362/claude-is-stuck-on-a-question-answer-it-from-discord-3hf5)
+- [I Built an Open-Weight Tarot Reader — Then Found My Backup Model Was Doing the Work](https://dev.to/jrpasolini/i-built-an-open-weight-tarot-reader-then-found-my-backup-model-was-doing-the-work-2c6l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
