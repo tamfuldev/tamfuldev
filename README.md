@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A renamed JSON field made my validator lie for six weeks](https://dev.to/angeo/a-renamed-json-field-made-my-validator-lie-for-six-weeks-1njc)
-- [Getting the &quot;Verify Claim&quot; Exercise to Work on My Own Computer](https://dev.to/ifeanyichima/getting-the-verify-claim-exercise-to-work-on-my-own-computer-4o95)
-- [I built a private automation marketplace. Now I need 100 signups to make it public.](https://dev.to/magistral/i-built-a-private-automation-marketplace-now-i-need-100-signups-to-make-it-public-20p1)
-- [I Added a Fourth Shard in Python and 75% of the Keys Moved](https://dev.to/realdev9868/i-added-a-fourth-shard-in-python-and-75-of-the-keys-moved-2b7o)
-- [Claude de Anthropic y semillas del NIST: misterio resuelto](https://dev.to/henryramireztech/claude-de-anthropic-y-semillas-del-nist-misterio-resuelto-cno)
+- [My $79 Fixed-Price n8n Builds Are One Config File: How I Ship Custom Workflows Without Rewriting Them](https://dev.to/haopengai/my-79-fixed-price-n8n-builds-are-one-config-file-how-i-ship-custom-workflows-without-rewriting-3cmh)
+- [I built a pay-to-rank leaderboard where every paid spot ships an auto-made promo video](https://dev.to/alibinzulfiqar683/i-built-a-pay-to-rank-leaderboard-where-every-paid-spot-ships-an-auto-made-promo-video-5a9n)
+- [How to build a web scraper: A beginner&#39;s guide](https://dev.to/serpapi/how-to-build-a-web-scraper-a-beginners-guide-18c0)
+- [What was that hotel? Asking my laptop about yesterday](https://dev.to/phantom8420/what-was-that-hotel-asking-my-laptop-about-yesterday-3h0i)
+- [Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review](https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
