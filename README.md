@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write an ATS-Friendly Resume &lpar;2026&rpar;: Summary, Achievement Bullets, Skills and a Tailored Version](https://dev.to/agentworkshop/how-to-write-an-ats-friendly-resume-2026-summary-achievement-bullets-skills-and-a-tailored-242d)
-- [Living Specs in SpecKit](https://dev.to/alfredoperez/living-specs-in-speckit-3a3j)
-- [CVE-2026-15748 Explained: How One Pipe Character Broke an &quot;Exact Match&quot; Blocklist](https://dev.to/guidance_white/cve-2026-15748-explained-how-one-pipe-character-broke-an-exact-match-blocklist-4jfl)
-- [48-Hour Field Notes: It Passed Locally and Died Remotely — Eight Environment Facts I Now Diff First](https://dev.to/codepy_1473/48-hour-field-notes-it-passed-locally-and-died-remotely-eight-environment-facts-i-now-diff-first-52c5)
-- [How to get Aqar.fm property listings into Google Sheets &lpar;Riyadh, Jeddah, any Saudi city&rpar;](https://dev.to/s3nafps/how-to-get-aqarfm-property-listings-into-google-sheets-riyadh-jeddah-any-saudi-city-2bpi)
+- [Building a Dichoptic Vision-Training Game in Unity for Meta Quest: Lessons from AmblyoPunch](https://dev.to/ashish_624379625242c5d263/building-a-dichoptic-vision-training-game-in-unity-for-meta-quest-lessons-from-amblyopunch-1ef5)
+- [OpenJev and keyword rules tied on 18 issues. The labels needed a closer look.](https://dev.to/panditshivam/openjev-and-keyword-rules-tied-on-18-issues-the-labels-needed-a-closer-look-an)
+- [agentcheck: your CLAUDE.md is an instruction file nobody reviews. Scan it.](https://dev.to/dhanushnehru/agentcheck-your-claudemd-is-an-instruction-file-nobody-reviews-scan-it-3j3h)
+- [Day 5: what 6 strangers found in my 20-line parser](https://dev.to/98dkcc488bglitch/day-5-what-6-strangers-found-in-my-20-line-parser-43j7)
+- [Which USDT Network Is Cheapest for Business Payments: TRC20, BEP20 or ERC20?](https://dev.to/faradpay/which-usdt-network-is-cheapest-for-business-payments-trc20-bep20-or-erc20-48c5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
