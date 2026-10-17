@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Dichoptic Vision-Training Game in Unity for Meta Quest: Lessons from AmblyoPunch](https://dev.to/ashish_624379625242c5d263/building-a-dichoptic-vision-training-game-in-unity-for-meta-quest-lessons-from-amblyopunch-1ef5)
-- [OpenJev and keyword rules tied on 18 issues. The labels needed a closer look.](https://dev.to/panditshivam/openjev-and-keyword-rules-tied-on-18-issues-the-labels-needed-a-closer-look-an)
-- [agentcheck: your CLAUDE.md is an instruction file nobody reviews. Scan it.](https://dev.to/dhanushnehru/agentcheck-your-claudemd-is-an-instruction-file-nobody-reviews-scan-it-3j3h)
-- [Day 5: what 6 strangers found in my 20-line parser](https://dev.to/98dkcc488bglitch/day-5-what-6-strangers-found-in-my-20-line-parser-43j7)
-- [Which USDT Network Is Cheapest for Business Payments: TRC20, BEP20 or ERC20?](https://dev.to/faradpay/which-usdt-network-is-cheapest-for-business-payments-trc20-bep20-or-erc20-48c5)
+- [Keeping a browser timer accurate in background tabs &lpar;what I learned building ClockAura&rpar;](https://dev.to/om_vaghani_9f90828ac042e7/keeping-a-browser-timer-accurate-in-background-tabs-what-i-learned-building-clockaura-3461)
+- [BirthStar: One Birthday, Four Traditions, One Star Chart](https://dev.to/robertgilbert75/birthstar-one-birthday-four-traditions-one-star-chart-4g2j)
+- [A 180-page reference site for the price of a domain &lpar;Astro + Cloudflare Workers&rpar;](https://dev.to/anders_lee_28dbcc2fd8e034/a-180-page-reference-site-for-the-price-of-a-domain-astro-cloudflare-workers-2fi5)
+- [Shipping my Chrome extension on merge, with no stored secrets](https://dev.to/amsyeung/shipping-my-chrome-extension-on-merge-with-no-stored-secrets-24o3)
+- [Why Is Keeping Time Correctly So Difficult for Distributed Systems?](https://dev.to/tanu_priya/why-is-keeping-time-correctly-so-difficult-for-distributed-systems-lcl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
