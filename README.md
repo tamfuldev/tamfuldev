@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solid Glass Adds an AI UI Theme to shadcn/ui Projects](https://dev.to/dd8888/solid-glass-adds-an-ai-ui-theme-to-shadcnui-projects-hj3)
-- [Cloudflare&#39;s Bot Trust Update: Five Tests for an AI-Built Crawler in 2026](https://dev.to/marcusykim/cloudflares-bot-trust-update-five-tests-for-an-ai-built-crawler-in-2026-4mpl)
-- [CVE-2026-89069: cross-site scripting in the MOVEit Transfer Ad Hoc module](https://dev.to/onaeiuspkz/cve-2026-89069-cross-site-scripting-in-the-moveit-transfer-ad-hoc-module-5eo8)
-- [I built a clothesline for screenshots and notes on Windows](https://dev.to/revanapriyandi/i-built-a-clothesline-for-screenshots-and-notes-on-windows-2k85)
-- [AVIF, WebP or JPEG: Picking an Image Format in 2026](https://dev.to/raxxostudios/avif-webp-or-jpeg-picking-an-image-format-in-2026-2925)
+- [Hardening Emergency Protocols: Moving Beyond Static Documentation via MCP](https://dev.to/renato_marinho/hardening-emergency-protocols-moving-beyond-static-documentation-via-mcp-3cea)
+- [Security Audit Report: Reentrancy &amp; Access Control Review: ether.fi Stake](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-etherfi-stake-1dnk)
+- [I Lost a Working n8n Workflow to a Bad Edit — Now Git Versions Every Deploy](https://dev.to/haopengai/i-lost-a-working-n8n-workflow-to-a-bad-edit-now-git-versions-every-deploy-4k84)
+- [Optimizing Frontend Performance and SEO for Local Trade Services Web Apps](https://dev.to/zicoding/optimizing-frontend-performance-and-seo-for-local-trade-services-web-apps-4pk2)
+- [How to Generate a Secure Password You&#39;ll Actually Remember](https://dev.to/tinali7564eng/how-to-generate-a-secure-password-youll-actually-remember-13dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
