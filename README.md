@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping a browser timer accurate in background tabs &lpar;what I learned building ClockAura&rpar;](https://dev.to/om_vaghani_9f90828ac042e7/keeping-a-browser-timer-accurate-in-background-tabs-what-i-learned-building-clockaura-3461)
-- [BirthStar: One Birthday, Four Traditions, One Star Chart](https://dev.to/robertgilbert75/birthstar-one-birthday-four-traditions-one-star-chart-4g2j)
-- [A 180-page reference site for the price of a domain &lpar;Astro + Cloudflare Workers&rpar;](https://dev.to/anders_lee_28dbcc2fd8e034/a-180-page-reference-site-for-the-price-of-a-domain-astro-cloudflare-workers-2fi5)
-- [Shipping my Chrome extension on merge, with no stored secrets](https://dev.to/amsyeung/shipping-my-chrome-extension-on-merge-with-no-stored-secrets-24o3)
-- [Why Is Keeping Time Correctly So Difficult for Distributed Systems?](https://dev.to/tanu_priya/why-is-keeping-time-correctly-so-difficult-for-distributed-systems-lcl)
+- [A renamed JSON field made my validator lie for six weeks](https://dev.to/angeo/a-renamed-json-field-made-my-validator-lie-for-six-weeks-1njc)
+- [Getting the &quot;Verify Claim&quot; Exercise to Work on My Own Computer](https://dev.to/ifeanyichima/getting-the-verify-claim-exercise-to-work-on-my-own-computer-4o95)
+- [I built a private automation marketplace. Now I need 100 signups to make it public.](https://dev.to/magistral/i-built-a-private-automation-marketplace-now-i-need-100-signups-to-make-it-public-20p1)
+- [I Added a Fourth Shard in Python and 75% of the Keys Moved](https://dev.to/realdev9868/i-added-a-fourth-shard-in-python-and-75-of-the-keys-moved-2b7o)
+- [Claude de Anthropic y semillas del NIST: misterio resuelto](https://dev.to/henryramireztech/claude-de-anthropic-y-semillas-del-nist-misterio-resuelto-cno)
 <!-- BLOG-POST-LIST:END -->
 
 ---
