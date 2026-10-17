@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My $79 Fixed-Price n8n Builds Are One Config File: How I Ship Custom Workflows Without Rewriting Them](https://dev.to/haopengai/my-79-fixed-price-n8n-builds-are-one-config-file-how-i-ship-custom-workflows-without-rewriting-3cmh)
-- [I built a pay-to-rank leaderboard where every paid spot ships an auto-made promo video](https://dev.to/alibinzulfiqar683/i-built-a-pay-to-rank-leaderboard-where-every-paid-spot-ships-an-auto-made-promo-video-5a9n)
-- [How to build a web scraper: A beginner&#39;s guide](https://dev.to/serpapi/how-to-build-a-web-scraper-a-beginners-guide-18c0)
-- [What was that hotel? Asking my laptop about yesterday](https://dev.to/phantom8420/what-was-that-hotel-asking-my-laptop-about-yesterday-3h0i)
-- [Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review](https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i)
+- [Solid Glass Adds an AI UI Theme to shadcn/ui Projects](https://dev.to/dd8888/solid-glass-adds-an-ai-ui-theme-to-shadcnui-projects-hj3)
+- [Cloudflare&#39;s Bot Trust Update: Five Tests for an AI-Built Crawler in 2026](https://dev.to/marcusykim/cloudflares-bot-trust-update-five-tests-for-an-ai-built-crawler-in-2026-4mpl)
+- [CVE-2026-89069: cross-site scripting in the MOVEit Transfer Ad Hoc module](https://dev.to/onaeiuspkz/cve-2026-89069-cross-site-scripting-in-the-moveit-transfer-ad-hoc-module-5eo8)
+- [I built a clothesline for screenshots and notes on Windows](https://dev.to/revanapriyandi/i-built-a-clothesline-for-screenshots-and-notes-on-windows-2k85)
+- [AVIF, WebP or JPEG: Picking an Image Format in 2026](https://dev.to/raxxostudios/avif-webp-or-jpeg-picking-an-image-format-in-2026-2925)
 <!-- BLOG-POST-LIST:END -->
 
 ---
