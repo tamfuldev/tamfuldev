@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [UK tender alerts after Brexit: Contracts Finder vs Find a Tender](https://dev.to/agentica/uk-tender-alerts-after-brexit-contracts-finder-vs-find-a-tender-319l)
-- [CVE-2026-87902 Under Active Exploitation: 64 Honeypot Attempts and a GitHub-Hosted Webshell](https://dev.to/jeffreyciend/cve-2026-87902-under-active-exploitation-64-honeypot-attempts-and-a-github-hosted-webshell-1ap5)
-- [AI Overview Traffic May Be Hiding in Direct: What 51,200 Referral Events Show](https://dev.to/alifar/ai-overview-traffic-may-be-hiding-in-direct-what-51200-referral-events-show-3gge)
-- [Building a Personal AI Brain: Qdrant, Embeddings, and the Illusion of Memory](https://dev.to/ayraix/building-a-personal-ai-brain-qdrant-embeddings-and-the-illusion-of-memory-103c)
-- [Prompt Injection: How to Protect Your AI Automations](https://dev.to/procwire/prompt-injection-how-to-protect-your-ai-automations-2jlh)
+- [How to Write an ATS-Friendly Resume &lpar;2026&rpar;: Summary, Achievement Bullets, Skills and a Tailored Version](https://dev.to/agentworkshop/how-to-write-an-ats-friendly-resume-2026-summary-achievement-bullets-skills-and-a-tailored-242d)
+- [Living Specs in SpecKit](https://dev.to/alfredoperez/living-specs-in-speckit-3a3j)
+- [CVE-2026-15748 Explained: How One Pipe Character Broke an &quot;Exact Match&quot; Blocklist](https://dev.to/guidance_white/cve-2026-15748-explained-how-one-pipe-character-broke-an-exact-match-blocklist-4jfl)
+- [48-Hour Field Notes: It Passed Locally and Died Remotely — Eight Environment Facts I Now Diff First](https://dev.to/codepy_1473/48-hour-field-notes-it-passed-locally-and-died-remotely-eight-environment-facts-i-now-diff-first-52c5)
+- [How to get Aqar.fm property listings into Google Sheets &lpar;Riyadh, Jeddah, any Saudi city&rpar;](https://dev.to/s3nafps/how-to-get-aqarfm-property-listings-into-google-sheets-riyadh-jeddah-any-saudi-city-2bpi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
