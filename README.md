@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Variables in a Laravel Blade Template](https://dev.to/faizan050/how-to-set-variables-in-a-laravel-blade-template-2oag)
-- [Why Our AI Desktop Assistant Never Stores Model API Keys on Your Computer](https://dev.to/cernalo/why-our-ai-desktop-assistant-never-stores-model-api-keys-on-your-computer-5h79)
-- [Exit Criteria for a Free Model Tier](https://dev.to/aiio_6471/exit-criteria-for-a-free-model-tier-4ic3)
-- [LocalBiz AI 🛍️ LocalBiz AI is a small AI-powered prototype that helps small businesses generate product descriptions.](https://dev.to/dhanushdev/localbiz-ai-localbiz-ai-is-a-small-ai-powered-prototype-that-helps-small-businesses-generate-2b8c)
-- [A One-Page SOP for a Shared Free AI Bench](https://dev.to/techlab_7968/a-one-page-sop-for-a-shared-free-ai-bench-4a2e)
+- [calablAPAccugGapQL](https://dev.to/kevin_jang_200b10826b3a5d/calablapaccuggapql-4cob)
+- [End-to-end tests that read real email, without a disposable-inbox service](https://dev.to/oscdev/end-to-end-tests-that-read-real-email-without-a-disposable-inbox-service-1378)
+- [Building AegisMesh: Autonomous Security Operations &amp; Zero-Trust Mesh for Linux in Python 🛡️⚡](https://dev.to/engjodev/building-aegismesh-autonomous-security-operations-zero-trust-mesh-for-linux-in-python-4fb9)
+- [Street Fighter 6 Data Fetch Issue: Automating Session ID Updates to Eliminate Manual URL Adjustments](https://dev.to/denlava/street-fighter-6-data-fetch-issue-automating-session-id-updates-to-eliminate-manual-url-adjustments-5cmg)
+- [Rust-Powered Developer Tooling: Why Modern Package Managers and Data Frameworks are Moving to Rust](https://dev.to/tamizuddin/rust-powered-developer-tooling-why-modern-package-managers-and-data-frameworks-are-moving-to-rust-2m55)
 <!-- BLOG-POST-LIST:END -->
 
 ---
