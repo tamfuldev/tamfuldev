@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Before AI Reorders Inventory, Build This Stock-Decision Ledger](https://dev.to/isabelle_dubuis_d858453d7/before-ai-reorders-inventory-build-this-stock-decision-ledger-3nna)
-- [Getting paid in USD as an Indian developer: the part nobody explains](https://dev.to/chenningdev/getting-paid-in-usd-as-an-indian-developer-the-part-nobody-explains-468e)
-- [When a Piano Tab Goes Quiet, Keep the Score Position](https://dev.to/ptrgiang/when-a-piano-tab-goes-quiet-keep-the-score-position-3kde)
-- [Upgrading from 4.10 to 4.11: Migrating After the Built-in Runners Were Removed](https://dev.to/rockchinq/upgrading-from-410-to-411-migrating-after-the-built-in-runners-were-removed-40jj)
-- [mmWave Radar vs. a Camera: What Each One Actually Measures](https://dev.to/249263431/mmwave-radar-vs-a-camera-what-each-one-actually-measures-dhj)
+- [How to Set Variables in a Laravel Blade Template](https://dev.to/faizan050/how-to-set-variables-in-a-laravel-blade-template-2oag)
+- [Why Our AI Desktop Assistant Never Stores Model API Keys on Your Computer](https://dev.to/cernalo/why-our-ai-desktop-assistant-never-stores-model-api-keys-on-your-computer-5h79)
+- [Exit Criteria for a Free Model Tier](https://dev.to/aiio_6471/exit-criteria-for-a-free-model-tier-4ic3)
+- [LocalBiz AI 🛍️ LocalBiz AI is a small AI-powered prototype that helps small businesses generate product descriptions.](https://dev.to/dhanushdev/localbiz-ai-localbiz-ai-is-a-small-ai-powered-prototype-that-helps-small-businesses-generate-2b8c)
+- [A One-Page SOP for a Shared Free AI Bench](https://dev.to/techlab_7968/a-one-page-sop-for-a-shared-free-ai-bench-4a2e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
