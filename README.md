@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ComfyUI vs Forge on a 16 GB GPU: a tie on SDXL, ComfyUI twice as fast when the model does not fit](https://dev.to/efraingaray/comfyui-vs-forge-on-a-16-gb-gpu-a-tie-on-sdxl-comfyui-twice-as-fast-when-the-model-does-not-fit-5emf)
-- [TempoDesk: I turned lesson scribbles into private practice plans with local Gemma](https://dev.to/shaikhubaidahmed/tempodesk-i-turned-lesson-scribbles-into-private-practice-plans-with-local-gemma-l7)
-- [Side Hustle: A Private, Open-Source AI Copywriter for E-commerce Sellers](https://dev.to/_sakshi_68gi/side-hustle-a-private-open-source-ai-copywriter-for-e-commerce-sellers-3pl4)
-- [How to Preview Markdown Online: Tables, Mermaid and Math](https://dev.to/thattoolsite/how-to-preview-markdown-online-tables-mermaid-and-math-43oi)
-- [CogniFlow AI: An Open-Source Executive Dysfunction Copilot Powered by Google Gemma 2](https://dev.to/divyansh_57/cogniflow-ai-an-open-source-executive-dysfunction-copilot-powered-by-google-gemma-2-13d1)
+- [Distribution Is the Product: Why a Perfect Store Sells Nothing](https://dev.to/revanzart/distribution-is-the-product-why-a-perfect-store-sells-nothing-4mh8)
+- [FreelanceCanvas: Gemma Writes My Client Proposals Locally, From Brief to Bid in One Canvas](https://dev.to/tejasrawool186/freelancecanvas-gemma-writes-my-client-proposals-locally-from-brief-to-bid-in-one-canvas-554a)
+- [23 projects in 74 minutes: what the MCP supply chain looks like from the inside](https://dev.to/bianliang/23-projects-in-74-minutes-what-the-mcp-supply-chain-looks-like-from-the-inside-4h6m)
+- [My short-link TTL taught me that expiry is a feature you ship, not a cron you bolt on](https://dev.to/imapphelp/my-short-link-ttl-taught-me-that-expiry-is-a-feature-you-ship-not-a-cron-you-bolt-on-1h36)
+- [ConfiDict: A Private AI Vocabulary Coach](https://dev.to/masterfloppa/confidict-a-private-ai-vocabulary-coach-5911)
 <!-- BLOG-POST-LIST:END -->
 
 ---
