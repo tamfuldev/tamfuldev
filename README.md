@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Distribution Is the Product: Why a Perfect Store Sells Nothing](https://dev.to/revanzart/distribution-is-the-product-why-a-perfect-store-sells-nothing-4mh8)
-- [FreelanceCanvas: Gemma Writes My Client Proposals Locally, From Brief to Bid in One Canvas](https://dev.to/tejasrawool186/freelancecanvas-gemma-writes-my-client-proposals-locally-from-brief-to-bid-in-one-canvas-554a)
-- [23 projects in 74 minutes: what the MCP supply chain looks like from the inside](https://dev.to/bianliang/23-projects-in-74-minutes-what-the-mcp-supply-chain-looks-like-from-the-inside-4h6m)
-- [My short-link TTL taught me that expiry is a feature you ship, not a cron you bolt on](https://dev.to/imapphelp/my-short-link-ttl-taught-me-that-expiry-is-a-feature-you-ship-not-a-cron-you-bolt-on-1h36)
-- [ConfiDict: A Private AI Vocabulary Coach](https://dev.to/masterfloppa/confidict-a-private-ai-vocabulary-coach-5911)
+- [AI and the Art of Redefinition](https://dev.to/mba_2023/ai-and-the-art-of-redefinition-4jkk)
+- [Why Coding Agents Turn a CRLF File Into a Whole-File Diff, and What Codex 0.162 Changed](https://dev.to/gabrielanhaia/why-coding-agents-turn-a-crlf-file-into-a-whole-file-diff-and-what-codex-0162-changed-ng5)
+- [Building GraphGuard: How a Graph Database Transformed Cybersecurity Investigation](https://dev.to/krishnakapoor612/building-graphguard-how-a-graph-database-transformed-cybersecurity-investigation-d49)
+- [Session Auditing on a Remote-Support Appliance: What Survives a Rebuild](https://dev.to/facilishz/session-auditing-on-a-remote-support-appliance-what-survives-a-rebuild-8h1)
+- [Web Image Formats: History, Technical Features, and SEO Impact 2 - BMP](https://dev.to/nurullah2006/web-image-formats-history-technical-features-and-seo-impact-1-4o6k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
