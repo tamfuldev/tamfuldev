@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Travel Product Failure Cases: They All Died in the Same Place](https://dev.to/iamthedev/5-ai-travel-product-failure-cases-they-all-died-in-the-same-place-39ok)
-- [Google Dorking: 20 Queries That Expose What Search Engines Index](https://dev.to/abhinavsingwal/google-dorking-20-queries-that-expose-what-search-engines-index-b60)
-- [Localizing Open-Source ERP: How Odoo 19 is Adapted for Solar Hijri, Complex Tax, and RTL](https://dev.to/mohammad_mostafazadeh_f0a/localizing-open-source-erp-how-odoo-19-is-adapted-for-solar-hijri-complex-tax-and-rtl-4m9i)
-- [Claude is stuck on a question. Answer it from Discord.](https://dev.to/shashank_chakraborty_6362/claude-is-stuck-on-a-question-answer-it-from-discord-3hf5)
-- [I Built an Open-Weight Tarot Reader — Then Found My Backup Model Was Doing the Work](https://dev.to/jrpasolini/i-built-an-open-weight-tarot-reader-then-found-my-backup-model-was-doing-the-work-2c6l)
+- [Before AI Reorders Inventory, Build This Stock-Decision Ledger](https://dev.to/isabelle_dubuis_d858453d7/before-ai-reorders-inventory-build-this-stock-decision-ledger-3nna)
+- [Getting paid in USD as an Indian developer: the part nobody explains](https://dev.to/chenningdev/getting-paid-in-usd-as-an-indian-developer-the-part-nobody-explains-468e)
+- [When a Piano Tab Goes Quiet, Keep the Score Position](https://dev.to/ptrgiang/when-a-piano-tab-goes-quiet-keep-the-score-position-3kde)
+- [Upgrading from 4.10 to 4.11: Migrating After the Built-in Runners Were Removed](https://dev.to/rockchinq/upgrading-from-410-to-411-migrating-after-the-built-in-runners-were-removed-40jj)
+- [mmWave Radar vs. a Camera: What Each One Actually Measures](https://dev.to/249263431/mmwave-radar-vs-a-camera-what-each-one-actually-measures-dhj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
