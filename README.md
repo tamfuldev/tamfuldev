@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [calablAPAccugGapQL](https://dev.to/kevin_jang_200b10826b3a5d/calablapaccuggapql-4cob)
-- [End-to-end tests that read real email, without a disposable-inbox service](https://dev.to/oscdev/end-to-end-tests-that-read-real-email-without-a-disposable-inbox-service-1378)
-- [Building AegisMesh: Autonomous Security Operations &amp; Zero-Trust Mesh for Linux in Python 🛡️⚡](https://dev.to/engjodev/building-aegismesh-autonomous-security-operations-zero-trust-mesh-for-linux-in-python-4fb9)
-- [Street Fighter 6 Data Fetch Issue: Automating Session ID Updates to Eliminate Manual URL Adjustments](https://dev.to/denlava/street-fighter-6-data-fetch-issue-automating-session-id-updates-to-eliminate-manual-url-adjustments-5cmg)
-- [Rust-Powered Developer Tooling: Why Modern Package Managers and Data Frameworks are Moving to Rust](https://dev.to/tamizuddin/rust-powered-developer-tooling-why-modern-package-managers-and-data-frameworks-are-moving-to-rust-2m55)
+- [ComfyUI vs Forge on a 16 GB GPU: a tie on SDXL, ComfyUI twice as fast when the model does not fit](https://dev.to/efraingaray/comfyui-vs-forge-on-a-16-gb-gpu-a-tie-on-sdxl-comfyui-twice-as-fast-when-the-model-does-not-fit-5emf)
+- [TempoDesk: I turned lesson scribbles into private practice plans with local Gemma](https://dev.to/shaikhubaidahmed/tempodesk-i-turned-lesson-scribbles-into-private-practice-plans-with-local-gemma-l7)
+- [Side Hustle: A Private, Open-Source AI Copywriter for E-commerce Sellers](https://dev.to/_sakshi_68gi/side-hustle-a-private-open-source-ai-copywriter-for-e-commerce-sellers-3pl4)
+- [How to Preview Markdown Online: Tables, Mermaid and Math](https://dev.to/thattoolsite/how-to-preview-markdown-online-tables-mermaid-and-math-43oi)
+- [CogniFlow AI: An Open-Source Executive Dysfunction Copilot Powered by Google Gemma 2](https://dev.to/divyansh_57/cogniflow-ai-an-open-source-executive-dysfunction-copilot-powered-by-google-gemma-2-13d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
