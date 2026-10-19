@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Una cuenta de AWS, varios entornos y los tags como único mapa](https://dev.to/karinapp/una-cuenta-de-aws-varios-entornos-y-los-tags-como-unico-mapa-1ia)
-- [49 cloud and AI deadlines before the end of 2026 &lpar;with what to do for each&rpar;](https://dev.to/yuryatrashkevich/49-cloud-and-ai-deadlines-before-the-end-of-2026-with-what-to-do-for-each-17mj)
-- [Rebase prices to 100 in Python without hiding missing data](https://dev.to/siftingio/rebase-prices-to-100-in-python-without-hiding-missing-data-4bje)
-- [How to document error responses in FastAPI](https://dev.to/nimaxin/how-to-document-error-responses-in-fastapi-48a7)
-- [Window Functions, Joins, CTEs and Subqueries](https://dev.to/victoria_fa8/window-functions-joins-ctes-and-subqueries-59n9)
+- [The Best interviewing.io Alternatives in 2026, Sorted by Budget &lpar;Prices Checked&rpar;](https://dev.to/hamzaibrahim49/the-best-interviewingio-alternatives-in-2026-sorted-by-budget-prices-checked-4mnh)
+- [Deterministic Replay: Giving AI Agents Time-Travel APIs to Fix Distributed Bugs](https://dev.to/rammehta1899/deterministic-replay-giving-ai-agents-time-travel-apis-to-fix-distributed-bugs-31a4)
+- [An iPhone agent in Safari, with an ESP32 as its Bluetooth hands](https://dev.to/_14956125ac497ae131f60/an-iphone-agent-in-safari-with-an-esp32-as-its-bluetooth-hands-a8d)
+- [How to Scrape Quora Data for Content and Market Research](https://dev.to/sergiiklius/how-to-scrape-quora-data-for-content-and-market-research-24ia)
+- [Why Proprietary Assets May Help Websites Withstand Google Core Updates in 2026](https://dev.to/alifar/why-proprietary-assets-may-help-websites-withstand-google-core-updates-in-2026-9bn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
