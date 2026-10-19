@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Best interviewing.io Alternatives in 2026, Sorted by Budget &lpar;Prices Checked&rpar;](https://dev.to/hamzaibrahim49/the-best-interviewingio-alternatives-in-2026-sorted-by-budget-prices-checked-4mnh)
-- [Deterministic Replay: Giving AI Agents Time-Travel APIs to Fix Distributed Bugs](https://dev.to/rammehta1899/deterministic-replay-giving-ai-agents-time-travel-apis-to-fix-distributed-bugs-31a4)
-- [An iPhone agent in Safari, with an ESP32 as its Bluetooth hands](https://dev.to/_14956125ac497ae131f60/an-iphone-agent-in-safari-with-an-esp32-as-its-bluetooth-hands-a8d)
-- [How to Scrape Quora Data for Content and Market Research](https://dev.to/sergiiklius/how-to-scrape-quora-data-for-content-and-market-research-24ia)
-- [Why Proprietary Assets May Help Websites Withstand Google Core Updates in 2026](https://dev.to/alifar/why-proprietary-assets-may-help-websites-withstand-google-core-updates-in-2026-9bn)
+- [Accuracy Lied to Me: Precision, Recall, ROC AUC and Cross-Validation in ML Zoomcamp Module 4](https://dev.to/marcosnieves24/accuracy-lied-to-me-precision-recall-roc-auc-and-cross-validation-in-ml-zoomcamp-module-4-47n6)
+- [Realtime Delivery Event Retention Rules for Recovering Missed Map Updates](https://dev.to/demetriusreed2163/realtime-delivery-event-retention-rules-for-recovering-missed-map-updates-3ol3)
+- [The code survives the session. The reasoning should too.](https://dev.to/alex_malafeev_bb0b5f59827/the-code-survives-the-session-the-reasoning-should-too-45bl)
+- [The CRA reporting clock is running. Generating an SBOM was never the hard part.](https://dev.to/roshcompanylabs/the-cra-reporting-clock-is-running-generating-an-sbom-was-never-the-hard-part-5d28)
+- [LazyFlow AI — Let AI Handle the Busywork](https://dev.to/akshaygupta26/lazyflow-ai-let-ai-handle-the-busywork-all)
 <!-- BLOG-POST-LIST:END -->
 
 ---
