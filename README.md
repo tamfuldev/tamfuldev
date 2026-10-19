@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FixFlow: Small Spaces. Clear Requests.](https://dev.to/pranitha_prakash_6c8f7ad7/fixflow-small-spaces-clear-requests-321k)
-- [Gnosk — Know what your code knows](https://dev.to/vinksgoyal/gnosk-know-what-your-code-knows-cgd)
-- [I built a free HTML test reporter for Playwright, Jest, Vitest and Cucumber.js that automatically captures API calls, screenshots and retries](https://dev.to/harshad_lambate/i-built-a-free-html-test-reporter-for-playwright-jest-vitest-and-cucumberjs-that-automatically-228p)
-- [What If You Could Boost or Ban Specific Tokens in an LLM?](https://dev.to/rijultp/what-if-you-could-boost-or-ban-specific-tokens-in-an-llm-106l)
-- [OAuth Test Users Need a Privacy Budget](https://dev.to/sophiax99/oauth-test-users-need-a-privacy-budget-3nei)
+- [Una cuenta de AWS, varios entornos y los tags como único mapa](https://dev.to/karinapp/una-cuenta-de-aws-varios-entornos-y-los-tags-como-unico-mapa-1ia)
+- [49 cloud and AI deadlines before the end of 2026 &lpar;with what to do for each&rpar;](https://dev.to/yuryatrashkevich/49-cloud-and-ai-deadlines-before-the-end-of-2026-with-what-to-do-for-each-17mj)
+- [Rebase prices to 100 in Python without hiding missing data](https://dev.to/siftingio/rebase-prices-to-100-in-python-without-hiding-missing-data-4bje)
+- [How to document error responses in FastAPI](https://dev.to/nimaxin/how-to-document-error-responses-in-fastapi-48a7)
+- [Window Functions, Joins, CTEs and Subqueries](https://dev.to/victoria_fa8/window-functions-joins-ctes-and-subqueries-59n9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
