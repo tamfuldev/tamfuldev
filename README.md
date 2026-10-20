@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Secure php database](https://dev.to/idarpe/secure-php-database-2nc)
-- [A Triple Is Not a Trace](https://dev.to/zxpmail/a-triple-is-not-a-trace-pnl)
-- [Build Event-Driven Applications in NestJS in 5 Minutes](https://dev.to/sebastian_iwanczyszyn/build-event-driven-applications-in-nestjs-in-5-minutes-3o1c)
-- [lazy-files](https://dev.to/shanaldo7/lazy-files-3f10)
-- [Your Website Works—Until the Cache Serves Yesterday’s JavaScript](https://dev.to/logixer_creatives/your-website-works-until-the-cache-serves-yesterdays-javascript-2kg0)
+- [🦥 LazyDesk AI: Let AI Handle the Reading While You Focus on What Matters](https://dev.to/nijel20/lazydesk-ai-let-ai-handle-the-reading-while-you-focus-on-what-matters-170f)
+- [9 Product Hunt Alternatives for Indie Makers in 2026](https://dev.to/radarmakers/9-product-hunt-alternatives-for-indie-makers-in-2026-19a6)
+- [Rank Math PRO puerta trasera: malware en la actualización](https://dev.to/henryramireztech/rank-math-pro-puerta-trasera-malware-en-la-actualizacion-2079)
+- [Property Browser Upload Pipeline for Original Images and Backend Thumbnail Workers](https://dev.to/solacew31/property-browser-upload-pipeline-for-original-images-and-backend-thumbnail-workers-1j8b)
+- [Where to get H100 GPUs without long-term a commitment](https://dev.to/digitalocean_staff/where-to-get-h100-gpus-without-long-term-a-commitment-353)
 <!-- BLOG-POST-LIST:END -->
 
 ---
