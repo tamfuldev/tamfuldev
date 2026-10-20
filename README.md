@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Accuracy Lied to Me: Precision, Recall, ROC AUC and Cross-Validation in ML Zoomcamp Module 4](https://dev.to/marcosnieves24/accuracy-lied-to-me-precision-recall-roc-auc-and-cross-validation-in-ml-zoomcamp-module-4-47n6)
-- [Realtime Delivery Event Retention Rules for Recovering Missed Map Updates](https://dev.to/demetriusreed2163/realtime-delivery-event-retention-rules-for-recovering-missed-map-updates-3ol3)
-- [The code survives the session. The reasoning should too.](https://dev.to/alex_malafeev_bb0b5f59827/the-code-survives-the-session-the-reasoning-should-too-45bl)
-- [The CRA reporting clock is running. Generating an SBOM was never the hard part.](https://dev.to/roshcompanylabs/the-cra-reporting-clock-is-running-generating-an-sbom-was-never-the-hard-part-5d28)
-- [LazyFlow AI — Let AI Handle the Busywork](https://dev.to/akshaygupta26/lazyflow-ai-let-ai-handle-the-busywork-all)
+- [HACKAVPI](https://dev.to/pastek/hackavpi-dp8)
+- [Top 5 Developer Tools and Tutorials You Need to Know in October 2026](https://dev.to/karleeov/top-5-developer-tools-and-tutorials-you-need-to-know-in-october-2026-5h4f)
+- [Generating Natural-Sounding Text Without an LLM: A Report Comment Generator in Plain JavaScript](https://dev.to/craig_george_4cd7d46650e4/generating-natural-sounding-text-without-an-llm-a-report-comment-generator-in-plain-javascript-g13)
+- [I built a CO laser game in the browser, with WebGPU and ASMR](https://dev.to/kyu_lee_5d2df49ef0688eee1/i-built-a-co2-laser-game-in-the-browser-with-webgpu-and-asmr-2g7i)
+- [Your Time-Series Forecast Breaks When You Ignore Context](https://dev.to/robust_true_try/your-time-series-forecast-breaks-when-you-ignore-context-2eik)
 <!-- BLOG-POST-LIST:END -->
 
 ---
