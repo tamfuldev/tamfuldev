@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [🦥 LazyDesk AI: Let AI Handle the Reading While You Focus on What Matters](https://dev.to/nijel20/lazydesk-ai-let-ai-handle-the-reading-while-you-focus-on-what-matters-170f)
-- [9 Product Hunt Alternatives for Indie Makers in 2026](https://dev.to/radarmakers/9-product-hunt-alternatives-for-indie-makers-in-2026-19a6)
-- [Rank Math PRO puerta trasera: malware en la actualización](https://dev.to/henryramireztech/rank-math-pro-puerta-trasera-malware-en-la-actualizacion-2079)
-- [Property Browser Upload Pipeline for Original Images and Backend Thumbnail Workers](https://dev.to/solacew31/property-browser-upload-pipeline-for-original-images-and-backend-thumbnail-workers-1j8b)
-- [Where to get H100 GPUs without long-term a commitment](https://dev.to/digitalocean_staff/where-to-get-h100-gpus-without-long-term-a-commitment-353)
+- [What Happens When Developers Make Incorrect Assumptions About Defaults](https://dev.to/nwajichukwu_goodness_audit/what-happens-when-developers-make-incorrect-assumptions-about-defaults-32km)
+- [🦥 SlothAI: Work Less, Automate More, Stay Slow](https://dev.to/soumyadeep1217/slothai-work-less-automate-more-stay-slow-43j8)
+- [Give your coding agent a GPU, and a budget: the Runcrate MCP server in Claude Code, Codex and Cursor](https://dev.to/runcrate/give-your-coding-agent-a-gpu-and-a-budget-the-runcrate-mcp-server-in-claude-code-codex-and-cursor-8ic)
+- [Hibernate Under the Hood. Part 1: Hibernate Architecture and Key Components: SessionFactory and Session](https://dev.to/silver_dev/hibernate-under-the-hood-part-1-hibernate-architecture-and-key-components-sessionfactory-and-3ip6)
+- [How to assess AI data readiness for one business workflow](https://dev.to/openlock/how-to-assess-ai-data-readiness-for-one-business-workflow-3o2p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
