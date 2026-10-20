@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SlothMate: The Slow &amp; Steady Open-Source AI Agent Harness That Rewards Pure Laziness](https://dev.to/tummuri_sairam/slothmate-the-slow-steady-open-source-ai-agent-harness-that-rewards-pure-laziness-9e)
-- [Is there a free, open-source GEO tool?](https://dev.to/fangxai/is-there-a-free-open-source-geo-tool-c2m)
-- [DevFest Cartagena 2026:](https://dev.to/giulloa/devfest-cartagena-2026-303i)
-- [FastAPI: idempotencia en emails de prueba](https://dev.to/oliviachen7/fastapi-idempotencia-en-emails-de-prueba-5858)
-- [I&#39;m 12. I Built an Ephemeral Cloud Platform on a $150 Phone &lpar;And Fought 10 Bugs to Win&rpar;](https://dev.to/koda2026/im-12-i-built-an-ephemeral-cloud-platform-on-a-150-phone-and-fought-10-bugs-to-win-1337)
+- [Secure php database](https://dev.to/idarpe/secure-php-database-2nc)
+- [A Triple Is Not a Trace](https://dev.to/zxpmail/a-triple-is-not-a-trace-pnl)
+- [Build Event-Driven Applications in NestJS in 5 Minutes](https://dev.to/sebastian_iwanczyszyn/build-event-driven-applications-in-nestjs-in-5-minutes-3o1c)
+- [lazy-files](https://dev.to/shanaldo7/lazy-files-3f10)
+- [Your Website Works—Until the Cache Serves Yesterday’s JavaScript](https://dev.to/logixer_creatives/your-website-works-until-the-cache-serves-yesterdays-javascript-2kg0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
