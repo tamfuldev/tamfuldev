@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Developers Make Incorrect Assumptions About Defaults](https://dev.to/nwajichukwu_goodness_audit/what-happens-when-developers-make-incorrect-assumptions-about-defaults-32km)
-- [🦥 SlothAI: Work Less, Automate More, Stay Slow](https://dev.to/soumyadeep1217/slothai-work-less-automate-more-stay-slow-43j8)
-- [Give your coding agent a GPU, and a budget: the Runcrate MCP server in Claude Code, Codex and Cursor](https://dev.to/runcrate/give-your-coding-agent-a-gpu-and-a-budget-the-runcrate-mcp-server-in-claude-code-codex-and-cursor-8ic)
-- [Hibernate Under the Hood. Part 1: Hibernate Architecture and Key Components: SessionFactory and Session](https://dev.to/silver_dev/hibernate-under-the-hood-part-1-hibernate-architecture-and-key-components-sessionfactory-and-3ip6)
-- [How to assess AI data readiness for one business workflow](https://dev.to/openlock/how-to-assess-ai-data-readiness-for-one-business-workflow-3o2p)
+- [10 TypeScript files, 5 SDK artefacts: typed in Node and Deno](https://dev.to/panthpatel/10-typescript-files-5-sdk-artefacts-typed-in-node-and-deno-2j6d)
+- [llama-server&#39;s Responses API marks truncated replies and tool calls as completed](https://dev.to/homelabpm/llama-servers-responses-api-marks-truncated-replies-and-tool-calls-as-completed-153n)
+- [45 Million SMTP Services, 3,932 FortiMail Assets: Separating Protocol Exposure From Product Exposure](https://dev.to/bianliang/45-million-smtp-services-3932-fortimail-assets-separating-protocol-exposure-from-product-exposure-h7j)
+- [COPY --chown with a missing user builds fine and leaves the files owned by root](https://dev.to/homelabpm/copy-chown-with-a-missing-user-builds-fine-and-leaves-the-files-owned-by-root-7pe)
+- [Excel row numbers that stay in order after deleting rows: =ROW&lpar;&rpar;-1](https://dev.to/hodadak_official/excel-row-numbers-that-stay-in-order-after-deleting-rows-row-1-3aan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
