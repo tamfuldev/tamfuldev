@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [HACKAVPI](https://dev.to/pastek/hackavpi-dp8)
-- [Top 5 Developer Tools and Tutorials You Need to Know in October 2026](https://dev.to/karleeov/top-5-developer-tools-and-tutorials-you-need-to-know-in-october-2026-5h4f)
-- [Generating Natural-Sounding Text Without an LLM: A Report Comment Generator in Plain JavaScript](https://dev.to/craig_george_4cd7d46650e4/generating-natural-sounding-text-without-an-llm-a-report-comment-generator-in-plain-javascript-g13)
-- [I built a CO laser game in the browser, with WebGPU and ASMR](https://dev.to/kyu_lee_5d2df49ef0688eee1/i-built-a-co2-laser-game-in-the-browser-with-webgpu-and-asmr-2g7i)
-- [Your Time-Series Forecast Breaks When You Ignore Context](https://dev.to/robust_true_try/your-time-series-forecast-breaks-when-you-ignore-context-2eik)
+- [SlothMate: The Slow &amp; Steady Open-Source AI Agent Harness That Rewards Pure Laziness](https://dev.to/tummuri_sairam/slothmate-the-slow-steady-open-source-ai-agent-harness-that-rewards-pure-laziness-9e)
+- [Is there a free, open-source GEO tool?](https://dev.to/fangxai/is-there-a-free-open-source-geo-tool-c2m)
+- [DevFest Cartagena 2026:](https://dev.to/giulloa/devfest-cartagena-2026-303i)
+- [FastAPI: idempotencia en emails de prueba](https://dev.to/oliviachen7/fastapi-idempotencia-en-emails-de-prueba-5858)
+- [I&#39;m 12. I Built an Ephemeral Cloud Platform on a $150 Phone &lpar;And Fought 10 Bugs to Win&rpar;](https://dev.to/koda2026/im-12-i-built-an-ephemeral-cloud-platform-on-a-150-phone-and-fought-10-bugs-to-win-1337)
 <!-- BLOG-POST-LIST:END -->
 
 ---
