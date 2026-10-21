@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [VOX: I asked for two support replies. Then I turned the server off.](https://dev.to/himanshu_748/vox-i-asked-for-two-support-replies-then-i-turned-the-server-off-54l0)
-- [Count Before You Automate: Tallying Repeated Request Types From an Inbox Export in Python](https://dev.to/ujjwal_dubey_9/count-before-you-automate-tallying-repeated-request-types-from-an-inbox-export-in-python-1mdn)
-- [I built a gas cost splitter. The formula was the easy part.](https://dev.to/hemi_edsel_001cdb14eff89f/i-built-a-gas-cost-splitter-the-formula-was-the-easy-part-po5)
-- [Hiring signals: get a Slack alert when target companies post new jobs &lpar;n8n&rpar;](https://dev.to/fast_data_asap/hiring-signals-get-a-slack-alert-when-target-companies-post-new-jobs-n8n-4e32)
-- [Voice Typing on Linux: How to Dictate Into Any App on X11 and Wayland](https://dev.to/alaminik/voice-typing-on-linux-how-to-dictate-into-any-app-on-x11-and-wayland-3hgd)
+- [Product vs service: two different questions HIVE is exploring](https://dev.to/usehive/product-vs-service-two-different-questions-hive-is-exploring-4j5d)
+- [How to Review AI-Generated Playwright Tests &lpar;Before They Break in CI&rpar;](https://dev.to/2unde/how-to-review-ai-generated-playwright-tests-before-they-break-in-ci-4g5m)
+- [The self-annealing loop: make every AI agent failure leave a test behind](https://dev.to/skibuff/the-self-annealing-loop-make-every-ai-agent-failure-leave-a-test-behind-4joh)
+- [I was pasting 4KB of JSON into every prompt. So I built a key-folder that shrinks it — reversibly.](https://dev.to/techdevfun/i-was-pasting-4kb-of-json-into-every-prompt-so-i-built-a-key-folder-that-shrinks-it-reversibly-4nbp)
+- [Mainframe Modernization: Why It Matters and the Strategies Enterprises Should Know](https://dev.to/vrnexgen/mainframe-modernization-why-it-matters-and-the-strategies-enterprises-should-know-44c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
