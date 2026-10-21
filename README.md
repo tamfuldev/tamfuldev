@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Product vs service: two different questions HIVE is exploring](https://dev.to/usehive/product-vs-service-two-different-questions-hive-is-exploring-4j5d)
-- [How to Review AI-Generated Playwright Tests &lpar;Before They Break in CI&rpar;](https://dev.to/2unde/how-to-review-ai-generated-playwright-tests-before-they-break-in-ci-4g5m)
-- [The self-annealing loop: make every AI agent failure leave a test behind](https://dev.to/skibuff/the-self-annealing-loop-make-every-ai-agent-failure-leave-a-test-behind-4joh)
-- [I was pasting 4KB of JSON into every prompt. So I built a key-folder that shrinks it — reversibly.](https://dev.to/techdevfun/i-was-pasting-4kb-of-json-into-every-prompt-so-i-built-a-key-folder-that-shrinks-it-reversibly-4nbp)
-- [Mainframe Modernization: Why It Matters and the Strategies Enterprises Should Know](https://dev.to/vrnexgen/mainframe-modernization-why-it-matters-and-the-strategies-enterprises-should-know-44c)
+- [Vision Assistant v2.0](https://dev.to/chhavigupta783/vision-assistant-v20-3mmb)
+- [Every Step Runs Inside poll&lpar;&rpar;: The Kafka Consumer Flow, End to End](https://dev.to/charanrachumalla/every-step-runs-inside-poll-the-kafka-consumer-flow-end-to-end-2kin)
+- [Evening the Terrain &amp; the construction of Road Infrastructure | UE5 Devlog](https://dev.to/mt_indiedev/evening-the-terrain-the-construction-of-road-infrastructure-ue5-devlog-4a6b)
+- [Dynamic Multi-Level Loading in GDevelop &lpar;Without Duplicating Scenes&rpar;](https://dev.to/katanaworks/dynamic-multi-level-loading-in-gdevelop-without-duplicating-scenes-1jd0)
+- [4-Stage Evaluation Sets for Grounded News Monitoring Retrieval](https://dev.to/kiernanberg3867/4-stage-evaluation-sets-for-grounded-news-monitoring-retrieval-3o7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
