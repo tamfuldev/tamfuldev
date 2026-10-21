@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [10 TypeScript files, 5 SDK artefacts: typed in Node and Deno](https://dev.to/panthpatel/10-typescript-files-5-sdk-artefacts-typed-in-node-and-deno-2j6d)
-- [llama-server&#39;s Responses API marks truncated replies and tool calls as completed](https://dev.to/homelabpm/llama-servers-responses-api-marks-truncated-replies-and-tool-calls-as-completed-153n)
-- [45 Million SMTP Services, 3,932 FortiMail Assets: Separating Protocol Exposure From Product Exposure](https://dev.to/bianliang/45-million-smtp-services-3932-fortimail-assets-separating-protocol-exposure-from-product-exposure-h7j)
-- [COPY --chown with a missing user builds fine and leaves the files owned by root](https://dev.to/homelabpm/copy-chown-with-a-missing-user-builds-fine-and-leaves-the-files-owned-by-root-7pe)
-- [Excel row numbers that stay in order after deleting rows: =ROW&lpar;&rpar;-1](https://dev.to/hodadak_official/excel-row-numbers-that-stay-in-order-after-deleting-rows-row-1-3aan)
+- [Three CSV rows can mean one company: check the row unit before deduplicating](https://dev.to/earn2exist/three-csv-rows-can-mean-one-company-check-the-row-unit-before-deduplicating-51cf)
+- [Why Great Scrum Masters Stop Facilitating &lpar;And When You Should Too&rpar;](https://dev.to/aiflowpm/why-great-scrum-masters-stop-facilitating-and-when-you-should-too-21al)
+- [Free Domain Options in 2026: From eu.org to DigitalPlat dpdns.org](https://dev.to/mattleeee/free-domain-options-in-2026-from-euorg-to-digitalplat-dpdnsorg-3k3o)
+- [How to Run OpenClaw &lpar;Moltbot/Clawdbot&rpar; with Local AI Models Like Ollama](https://dev.to/preecha/how-to-run-openclaw-moltbotclawdbot-with-local-ai-models-like-ollama-51ok)
+- [Insurance Cash Reconciliation Agent Blueprint](https://dev.to/tridaai/insurance-cash-reconciliation-agent-blueprint-2a7c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
