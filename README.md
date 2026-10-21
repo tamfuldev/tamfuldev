@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Three CSV rows can mean one company: check the row unit before deduplicating](https://dev.to/earn2exist/three-csv-rows-can-mean-one-company-check-the-row-unit-before-deduplicating-51cf)
-- [Why Great Scrum Masters Stop Facilitating &lpar;And When You Should Too&rpar;](https://dev.to/aiflowpm/why-great-scrum-masters-stop-facilitating-and-when-you-should-too-21al)
-- [Free Domain Options in 2026: From eu.org to DigitalPlat dpdns.org](https://dev.to/mattleeee/free-domain-options-in-2026-from-euorg-to-digitalplat-dpdnsorg-3k3o)
-- [How to Run OpenClaw &lpar;Moltbot/Clawdbot&rpar; with Local AI Models Like Ollama](https://dev.to/preecha/how-to-run-openclaw-moltbotclawdbot-with-local-ai-models-like-ollama-51ok)
-- [Insurance Cash Reconciliation Agent Blueprint](https://dev.to/tridaai/insurance-cash-reconciliation-agent-blueprint-2a7c)
+- [VOX: I asked for two support replies. Then I turned the server off.](https://dev.to/himanshu_748/vox-i-asked-for-two-support-replies-then-i-turned-the-server-off-54l0)
+- [Count Before You Automate: Tallying Repeated Request Types From an Inbox Export in Python](https://dev.to/ujjwal_dubey_9/count-before-you-automate-tallying-repeated-request-types-from-an-inbox-export-in-python-1mdn)
+- [I built a gas cost splitter. The formula was the easy part.](https://dev.to/hemi_edsel_001cdb14eff89f/i-built-a-gas-cost-splitter-the-formula-was-the-easy-part-po5)
+- [Hiring signals: get a Slack alert when target companies post new jobs &lpar;n8n&rpar;](https://dev.to/fast_data_asap/hiring-signals-get-a-slack-alert-when-target-companies-post-new-jobs-n8n-4e32)
+- [Voice Typing on Linux: How to Dictate Into Any App on X11 and Wayland](https://dev.to/alaminik/voice-typing-on-linux-how-to-dictate-into-any-app-on-x11-and-wayland-3hgd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
