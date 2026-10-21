@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vision Assistant v2.0](https://dev.to/chhavigupta783/vision-assistant-v20-3mmb)
-- [Every Step Runs Inside poll&lpar;&rpar;: The Kafka Consumer Flow, End to End](https://dev.to/charanrachumalla/every-step-runs-inside-poll-the-kafka-consumer-flow-end-to-end-2kin)
-- [Evening the Terrain &amp; the construction of Road Infrastructure | UE5 Devlog](https://dev.to/mt_indiedev/evening-the-terrain-the-construction-of-road-infrastructure-ue5-devlog-4a6b)
-- [Dynamic Multi-Level Loading in GDevelop &lpar;Without Duplicating Scenes&rpar;](https://dev.to/katanaworks/dynamic-multi-level-loading-in-gdevelop-without-duplicating-scenes-1jd0)
-- [4-Stage Evaluation Sets for Grounded News Monitoring Retrieval](https://dev.to/kiernanberg3867/4-stage-evaluation-sets-for-grounded-news-monitoring-retrieval-3o7)
+- [writing sample-accurate audio dsp without juce in modern c++](https://dev.to/n1m21n/writing-sample-accurate-audio-dsp-without-juce-in-modern-c-37bj)
+- [I got tired of Alt-Tabbing to X/Twitter so I put it side by side in my terminal.](https://dev.to/jasper_black/i-got-tired-of-alt-tabbing-to-xtwitter-so-i-put-it-side-by-side-in-my-terminal-5bge)
+- [# Tools and Development Environment in Software Engineering: A Beginner&#39;s Guide 💻](https://dev.to/maryaamah/-tools-and-development-environment-in-software-engineering-a-beginners-guide-eig)
+- [Scheduled Jobs and Time Zones: The Midnight Bug I Keep Seeing](https://dev.to/raxxostudios/scheduled-jobs-and-time-zones-the-midnight-bug-i-keep-seeing-1hgg)
+- [Career &amp; Productivity](https://dev.to/mawuli_blissful/career-productivity-ocb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
