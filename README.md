@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [SlothMate AI: An Open-Source, Local-First AI Study Assistant for Smarter and Effortless Learning](https://dev.to/ayush_singh_bb598bb4fecad/slothmate-ai-an-open-source-local-first-ai-study-assistant-for-smarter-and-effortless-learning-2e97)
-- [No More Clicking: Moving My AWS Architecture to Terraform](https://dev.to/knirl/no-more-clicking-moving-my-aws-architecture-to-terraform-1aek)
-- [ENISA’s 2025 Threat Data Puts Phishing and EU Cyber Resilience in Focus](https://dev.to/alifar/enisas-2025-threat-data-puts-phishing-and-eu-cyber-resilience-in-focus-chh)
-- [What changed in MCP 2026-07-28 for server authors: stateless requests and server/discover](https://dev.to/sbhorus/what-changed-in-mcp-2026-07-28-for-server-authors-stateless-requests-and-serverdiscover-57j3)
-- [Why Signal Forms Matter in Angular: The Subtle Traps and How to Avoid Them](https://dev.to/mspk97/why-signal-forms-matter-in-angular-the-subtle-traps-and-how-to-avoid-them-5be2)
+- [Bareship: an offline-first React Native template for teams and AI agents](https://dev.to/praveensingh/bareship-an-offline-first-react-native-template-for-teams-and-ai-agents-3ihi)
+- [Before you type: who can see your AI chats, and the setting that keeps them out of training](https://dev.to/penloom_studio_829b7817d3/before-you-type-who-can-see-your-ai-chats-and-the-setting-that-keeps-them-out-of-training-43fg)
+- [Your FiveM resource won&#39;t load? Check these fxmanifest.lua fields first](https://dev.to/rpscripts/your-fivem-resource-wont-load-check-these-fxmanifestlua-fields-first-5dmf)
+- [Cleaning a messy contacts CSV in 5 steps &lpar;with a short pandas script&rpar;](https://dev.to/trilliumcompany/cleaning-a-messy-contacts-csv-in-5-steps-with-a-short-pandas-script-3p9h)
+- [The AI-written shell script that ran from the wrong folder and exited 0: `set -euo pipefail`, and where it still won&#39;t save you](https://dev.to/penloom_studio_829b7817d3/the-ai-written-shell-script-that-ran-from-the-wrong-folder-and-exited-0-set-euo-pipefail-and-349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
