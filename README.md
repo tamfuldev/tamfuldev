@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Five Senses of Artificial Intelligence](https://dev.to/massigenta/the-five-senses-of-artificial-intelligence-31n8)
-- [Docker Publishing with GitHub Actions: A Practical End-to-End Setup](https://dev.to/rakeshranderia/docker-publishing-with-github-actions-a-practical-end-to-end-setup-39g4)
-- [Five questions to ask before you use an AI answer](https://dev.to/toritic/five-questions-to-ask-before-you-use-an-ai-answer-29d3)
-- [요청 거절도 상태 설계가 필요하다: 대안 발송과 진행 합의를 분리하기](https://dev.to/officialmailkr/yoceong-geojeoldo-sangtae-seolgyega-pilyohada-daean-balsonggwa-jinhaeng-habyireul-bunrihagi-17m2)
-- [What counts as a deep fake under Article 50&lpar;4&rpar;? Examples for marketing teams](https://dev.to/mdodeja/what-counts-as-a-deep-fake-under-article-504-examples-for-marketing-teams-4a9i)
+- [Caching Is Easy. Cache Invalidation Is Where Systems Break: A Practical Guide](https://dev.to/k0wsh1k_0x/caching-is-easy-cache-invalidation-is-where-systems-break-a-practical-guide-1maj)
+- [Why I Practice Coding Interviews Out Loud](https://dev.to/simran_singh/why-i-practice-coding-interviews-out-loud-1e4f)
+- [How to Run a Brainstorming Session That Actually Works](https://dev.to/mahmudhasan/how-to-run-a-brainstorming-session-that-actually-works-4o14)
+- [Dirty flash vs clean flash: when your Galaxy actually needs a full wipe](https://dev.to/samfware/dirty-flash-vs-clean-flash-when-your-galaxy-actually-needs-a-full-wipe-53an)
+- [Hey DEV Community! 👋 I&#39;m building Whylong, a free URL shortener 🚀](https://dev.to/devkartikeya/hey-dev-community-im-building-whylong-a-free-url-shortener-31l4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
