@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bareship: an offline-first React Native template for teams and AI agents](https://dev.to/praveensingh/bareship-an-offline-first-react-native-template-for-teams-and-ai-agents-3ihi)
-- [Before you type: who can see your AI chats, and the setting that keeps them out of training](https://dev.to/penloom_studio_829b7817d3/before-you-type-who-can-see-your-ai-chats-and-the-setting-that-keeps-them-out-of-training-43fg)
-- [Your FiveM resource won&#39;t load? Check these fxmanifest.lua fields first](https://dev.to/rpscripts/your-fivem-resource-wont-load-check-these-fxmanifestlua-fields-first-5dmf)
-- [Cleaning a messy contacts CSV in 5 steps &lpar;with a short pandas script&rpar;](https://dev.to/trilliumcompany/cleaning-a-messy-contacts-csv-in-5-steps-with-a-short-pandas-script-3p9h)
-- [The AI-written shell script that ran from the wrong folder and exited 0: `set -euo pipefail`, and where it still won&#39;t save you](https://dev.to/penloom_studio_829b7817d3/the-ai-written-shell-script-that-ran-from-the-wrong-folder-and-exited-0-set-euo-pipefail-and-349)
+- [Image size cheat sheet for 2026 &lpar;social, shops, email, visa photos&rpar;](https://dev.to/bananafast/image-size-cheat-sheet-for-2026-social-shops-email-visa-photos-3jpb)
+- [¿Cuánto cuesta comprar vivienda en 20 de Julio? Mediana de 276,5 millones de pesos — estudio](https://dev.to/aptologia/cuanto-cuesta-comprar-vivienda-en-20-de-julio-mediana-de-2765-millones-de-pesos-estudio-2ph1)
+- [Floating-point money math: getting compound interest right in the browser](https://dev.to/farbodf/floating-point-money-math-getting-compound-interest-right-in-the-browser-5663)
+- [&quot;Tell Me About a Time You Failed — Why the Dodge Always Backfires&quot;](https://dev.to/rushdi_hameed_7996818a2be/tell-me-about-a-time-you-failed-why-the-dodge-always-backfires-2o0o)
+- [AirSketch](https://dev.to/lenin_goud_809af2a4a25dc0/airsketch-2pb9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
