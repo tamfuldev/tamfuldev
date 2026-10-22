@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [writing sample-accurate audio dsp without juce in modern c++](https://dev.to/n1m21n/writing-sample-accurate-audio-dsp-without-juce-in-modern-c-37bj)
-- [I got tired of Alt-Tabbing to X/Twitter so I put it side by side in my terminal.](https://dev.to/jasper_black/i-got-tired-of-alt-tabbing-to-xtwitter-so-i-put-it-side-by-side-in-my-terminal-5bge)
-- [# Tools and Development Environment in Software Engineering: A Beginner&#39;s Guide 💻](https://dev.to/maryaamah/-tools-and-development-environment-in-software-engineering-a-beginners-guide-eig)
-- [Scheduled Jobs and Time Zones: The Midnight Bug I Keep Seeing](https://dev.to/raxxostudios/scheduled-jobs-and-time-zones-the-midnight-bug-i-keep-seeing-1hgg)
-- [Career &amp; Productivity](https://dev.to/mawuli_blissful/career-productivity-ocb)
+- [The Five Senses of Artificial Intelligence](https://dev.to/massigenta/the-five-senses-of-artificial-intelligence-31n8)
+- [Docker Publishing with GitHub Actions: A Practical End-to-End Setup](https://dev.to/rakeshranderia/docker-publishing-with-github-actions-a-practical-end-to-end-setup-39g4)
+- [Five questions to ask before you use an AI answer](https://dev.to/toritic/five-questions-to-ask-before-you-use-an-ai-answer-29d3)
+- [요청 거절도 상태 설계가 필요하다: 대안 발송과 진행 합의를 분리하기](https://dev.to/officialmailkr/yoceong-geojeoldo-sangtae-seolgyega-pilyohada-daean-balsonggwa-jinhaeng-habyireul-bunrihagi-17m2)
+- [What counts as a deep fake under Article 50&lpar;4&rpar;? Examples for marketing teams](https://dev.to/mdodeja/what-counts-as-a-deep-fake-under-article-504-examples-for-marketing-teams-4a9i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
