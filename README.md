@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Caching Is Easy. Cache Invalidation Is Where Systems Break: A Practical Guide](https://dev.to/k0wsh1k_0x/caching-is-easy-cache-invalidation-is-where-systems-break-a-practical-guide-1maj)
-- [Why I Practice Coding Interviews Out Loud](https://dev.to/simran_singh/why-i-practice-coding-interviews-out-loud-1e4f)
-- [How to Run a Brainstorming Session That Actually Works](https://dev.to/mahmudhasan/how-to-run-a-brainstorming-session-that-actually-works-4o14)
-- [Dirty flash vs clean flash: when your Galaxy actually needs a full wipe](https://dev.to/samfware/dirty-flash-vs-clean-flash-when-your-galaxy-actually-needs-a-full-wipe-53an)
-- [Hey DEV Community! 👋 I&#39;m building Whylong, a free URL shortener 🚀](https://dev.to/devkartikeya/hey-dev-community-im-building-whylong-a-free-url-shortener-31l4)
+- [SlothMate AI: An Open-Source, Local-First AI Study Assistant for Smarter and Effortless Learning](https://dev.to/ayush_singh_bb598bb4fecad/slothmate-ai-an-open-source-local-first-ai-study-assistant-for-smarter-and-effortless-learning-2e97)
+- [No More Clicking: Moving My AWS Architecture to Terraform](https://dev.to/knirl/no-more-clicking-moving-my-aws-architecture-to-terraform-1aek)
+- [ENISA’s 2025 Threat Data Puts Phishing and EU Cyber Resilience in Focus](https://dev.to/alifar/enisas-2025-threat-data-puts-phishing-and-eu-cyber-resilience-in-focus-chh)
+- [What changed in MCP 2026-07-28 for server authors: stateless requests and server/discover](https://dev.to/sbhorus/what-changed-in-mcp-2026-07-28-for-server-authors-stateless-requests-and-serverdiscover-57j3)
+- [Why Signal Forms Matter in Angular: The Subtle Traps and How to Avoid Them](https://dev.to/mspk97/why-signal-forms-matter-in-angular-the-subtle-traps-and-how-to-avoid-them-5be2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
