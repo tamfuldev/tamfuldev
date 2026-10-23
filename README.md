@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Run records and missed-run checks for scheduled scripts](https://dev.to/lastmileops/run-records-and-missed-run-checks-for-scheduled-scripts-3cg)
-- [I kept forgetting about my cactus…](https://dev.to/gurinayat_kaurmangat_27d/i-kept-forgetting-about-my-cactus-1866)
-- [TidyMind AI: A Local AI Productivity Assistant | Hacktoberfest Week 3](https://dev.to/arya10/tidymind-ai-a-local-ai-productivity-assistant-hacktoberfest-week-3-1b21)
-- [3644. Maximum K to Sort a Permutation](https://dev.to/mdarifulhaque/3644-maximum-k-to-sort-a-permutation-4cmn)
-- [EDINET API v2: XBRL filings as CSV without the pain](https://dev.to/ikkun1222/edinet-api-v2-xbrl-filings-as-csv-without-the-pain-1pkk)
+- [I built syncSCP, a WinSCP-style file manager and SSH terminal for macOS](https://dev.to/oguzhankrcb/i-built-syncscp-a-winscp-style-file-manager-and-ssh-terminal-for-macos-39if)
+- [How to extract all URLs from a sitemap &lpar;and export them to CSV&rpar;](https://dev.to/swillz/how-to-extract-all-urls-from-a-sitemap-and-export-them-to-csv-3458)
+- [The AI test that passes because it copied the code&#39;s assumption](https://dev.to/jeff_pdc/the-ai-test-that-passes-because-it-copied-the-codes-assumption-2g3i)
+- [Later Line: a local model may shorten the task, and a lying line is thrown away](https://dev.to/akshaygoel7/later-line-a-local-model-may-shorten-the-task-and-a-lying-line-is-thrown-away-5c1l)
+- [Security Audit Report: Reentrancy &amp; Access Control Review: Gemini](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-gemini-48fc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
