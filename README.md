@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tolerant Decoding, Strict Release Gates](https://dev.to/ivan_rossouw_63dff0f4084e/tolerant-decoding-strict-release-gates-28e)
-- [What I Learned Building a Repeat-Customer System for a 42-Year-Old Fabric Shop in Lajpat Nagar](https://dev.to/kanak_couture_9c353d8e7c9/what-i-learned-building-a-repeat-customer-system-for-a-42-year-old-fabric-shop-in-lajpat-nagar-kk8)
-- [Add formal verification to your code review guidelines](https://dev.to/tomerbendavid/add-formal-verification-to-your-code-review-guidelines-1ak)
-- [I replaced my 137MB Electron menu-bar app with a 693KB native build](https://dev.to/xm-yang/i-replaced-my-137mb-electron-menu-bar-app-with-a-693kb-native-build-33ol)
-- [Why Scaling AIoT Businesses Is Harder Than Building the Technology](https://dev.to/sizandigital12/why-scaling-aiot-businesses-is-harder-than-building-the-technology-fhk)
+- [Claude Solves a 25-Year ECDSA Mystery: Is Bitcoin Security at Risk?](https://dev.to/vinu_digital/claude-solves-a-25-year-ecdsa-mystery-is-bitcoin-security-at-risk-58h)
+- [What I Learned From Building Small Projects Instead of Waiting for the Perfect Idea](https://dev.to/sam000/what-i-learned-from-building-small-projects-instead-of-waiting-for-the-perfect-idea-433n)
+- [What Is a Forward Deployed Engineer &lpar;FDE&rpar;? Origins, Business Models, and How AI Labs and Japanese IT Firms Are Using It](https://dev.to/moruku36/what-is-a-forward-deployed-engineer-fde-origins-business-models-and-how-ai-labs-and-japanese-eli)
+- [When Should You NOT Use an AI Agent in n8n?](https://dev.to/crzy_undefinedundefined/when-should-you-not-use-an-ai-agent-in-n8n-30fm)
+- [I open-sourced the architecture of my Discord ticket bot. One dependency, zero database, files as modules](https://dev.to/pixelforge/i-open-sourced-the-architecture-of-my-discord-ticket-bot-one-dependency-zero-database-files-as-1jf2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
