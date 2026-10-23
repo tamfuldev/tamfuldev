@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Turtle Trading Rules Explained: N, Units, Breakouts, Stops](https://dev.to/moonthetrain/turtle-trading-rules-explained-n-units-breakouts-stops-25hg)
-- [A duration is only a duration if it has two ends](https://dev.to/ilya_mozerov_867dbdd91feb/a-duration-is-only-a-duration-if-it-has-two-ends-364l)
-- [Where most memory tools help your agent remember more, mnemoa helps it forget what no longer belongs.](https://dev.to/affan_shaik/where-most-memory-tools-help-your-agent-remember-more-mnemoa-helps-it-forget-what-no-longer-43jc)
-- [What Would Jerry Say? How to Build Trust as a Manager: What Strong Leaders Do &lpar;and Don’t&rpar;](https://dev.to/jerryervin415/what-would-jerry-say-how-to-build-trust-as-a-manager-what-strong-leaders-do-and-dont-p1h)
-- [Keycloak Step-Up Authentication: ACR, LoA Flows and the Cookie Bypass Gap](https://dev.to/iamdevbox/keycloak-step-up-authentication-acr-loa-flows-and-the-cookie-bypass-gap-15hg)
+- [Tolerant Decoding, Strict Release Gates](https://dev.to/ivan_rossouw_63dff0f4084e/tolerant-decoding-strict-release-gates-28e)
+- [What I Learned Building a Repeat-Customer System for a 42-Year-Old Fabric Shop in Lajpat Nagar](https://dev.to/kanak_couture_9c353d8e7c9/what-i-learned-building-a-repeat-customer-system-for-a-42-year-old-fabric-shop-in-lajpat-nagar-kk8)
+- [Add formal verification to your code review guidelines](https://dev.to/tomerbendavid/add-formal-verification-to-your-code-review-guidelines-1ak)
+- [I replaced my 137MB Electron menu-bar app with a 693KB native build](https://dev.to/xm-yang/i-replaced-my-137mb-electron-menu-bar-app-with-a-693kb-native-build-33ol)
+- [Why Scaling AIoT Businesses Is Harder Than Building the Technology](https://dev.to/sizandigital12/why-scaling-aiot-businesses-is-harder-than-building-the-technology-fhk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
