@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Solves a 25-Year ECDSA Mystery: Is Bitcoin Security at Risk?](https://dev.to/vinu_digital/claude-solves-a-25-year-ecdsa-mystery-is-bitcoin-security-at-risk-58h)
-- [What I Learned From Building Small Projects Instead of Waiting for the Perfect Idea](https://dev.to/sam000/what-i-learned-from-building-small-projects-instead-of-waiting-for-the-perfect-idea-433n)
-- [What Is a Forward Deployed Engineer &lpar;FDE&rpar;? Origins, Business Models, and How AI Labs and Japanese IT Firms Are Using It](https://dev.to/moruku36/what-is-a-forward-deployed-engineer-fde-origins-business-models-and-how-ai-labs-and-japanese-eli)
-- [When Should You NOT Use an AI Agent in n8n?](https://dev.to/crzy_undefinedundefined/when-should-you-not-use-an-ai-agent-in-n8n-30fm)
-- [I open-sourced the architecture of my Discord ticket bot. One dependency, zero database, files as modules](https://dev.to/pixelforge/i-open-sourced-the-architecture-of-my-discord-ticket-bot-one-dependency-zero-database-files-as-1jf2)
+- [Run records and missed-run checks for scheduled scripts](https://dev.to/lastmileops/run-records-and-missed-run-checks-for-scheduled-scripts-3cg)
+- [I kept forgetting about my cactus…](https://dev.to/gurinayat_kaurmangat_27d/i-kept-forgetting-about-my-cactus-1866)
+- [TidyMind AI: A Local AI Productivity Assistant | Hacktoberfest Week 3](https://dev.to/arya10/tidymind-ai-a-local-ai-productivity-assistant-hacktoberfest-week-3-1b21)
+- [3644. Maximum K to Sort a Permutation](https://dev.to/mdarifulhaque/3644-maximum-k-to-sort-a-permutation-4cmn)
+- [EDINET API v2: XBRL filings as CSV without the pain](https://dev.to/ikkun1222/edinet-api-v2-xbrl-filings-as-csv-without-the-pain-1pkk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
