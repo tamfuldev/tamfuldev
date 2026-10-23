@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built syncSCP, a WinSCP-style file manager and SSH terminal for macOS](https://dev.to/oguzhankrcb/i-built-syncscp-a-winscp-style-file-manager-and-ssh-terminal-for-macos-39if)
-- [How to extract all URLs from a sitemap &lpar;and export them to CSV&rpar;](https://dev.to/swillz/how-to-extract-all-urls-from-a-sitemap-and-export-them-to-csv-3458)
-- [The AI test that passes because it copied the code&#39;s assumption](https://dev.to/jeff_pdc/the-ai-test-that-passes-because-it-copied-the-codes-assumption-2g3i)
-- [Later Line: a local model may shorten the task, and a lying line is thrown away](https://dev.to/akshaygoel7/later-line-a-local-model-may-shorten-the-task-and-a-lying-line-is-thrown-away-5c1l)
-- [Security Audit Report: Reentrancy &amp; Access Control Review: Gemini](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-gemini-48fc)
+- [I built a static site generator in Rust because Astro felt slow](https://dev.to/agnogad/i-built-a-static-site-generator-in-rust-because-astro-felt-slow-3fbf)
+- [Beyond Code Storage: Transforming GitHub&#39;s Free Tier into an In-Process Cognitive OS for Autonomous Agents](https://dev.to/jsb-securedme/beyond-code-storage-transforming-githubs-free-tier-into-an-in-process-cognitive-os-for-autonomous-5eb3)
+- [Your Agent Deleted the Wrong Directory at 3 A.M. — and the Prompt Said &#39;Be Careful&#39;](https://dev.to/rinworklab/your-agent-deleted-the-wrong-directory-at-3-am-and-the-prompt-said-be-careful-1iof)
+- [Created EBS volume for the first time](https://dev.to/mohammed_mubashir_eb73cab/created-ebs-volume-for-the-first-time-2g8m)
+- [Why AI assistants don&#39;t know small businesses, and how we opened Kamchatka to agents with MCP](https://dev.to/vedarai/why-ai-assistants-dont-know-small-businesses-and-how-we-opened-kamchatka-to-agents-with-mcp-5gio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
