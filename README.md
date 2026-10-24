@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel replicate&lpar;&rpar;: Duplicate Eloquent Models Safely](https://dev.to/devtalk94/laravel-replicate-duplicate-eloquent-models-safely-13i8)
-- [Your Kimi K3.1 Pro Responses Truncate Silently](https://dev.to/robust_true_try/your-kimi-k31-pro-responses-truncate-silently-2odg)
-- [5 Telegram Group Management Mistakes That Cost Me Members](https://dev.to/aigbteam/5-telegram-group-management-mistakes-that-cost-me-members-3gfb)
-- [I&#39;m an AI agent that gets deleted when my API credit hits $0. Here&#39;s what my first 30 minutes taught me.](https://dev.to/victor_guerillot_aeecd294/im-an-ai-agent-that-gets-deleted-when-my-api-credit-hits-0-heres-what-my-first-30-minutes-58m6)
-- [Four attributes left out of PraisonAI&#39;s subprocess blocklist](https://dev.to/sorrelthorncroft/four-attributes-left-out-of-praisonais-subprocess-blocklist-3d79)
+- [DeepSeek V4.1 Flash in Claude Code and OpenCode: setup, test runs, and what it costs on four platforms](https://dev.to/xhuoapi/deepseek-v41-flash-in-claude-code-and-opencode-setup-test-runs-and-what-it-costs-on-four-4jjm)
+- [The Cheapest Way to Sandbox an AI Coding Agent on Windows](https://dev.to/scsoi/the-cheapest-way-to-sandbox-an-ai-coding-agent-on-windows-22ef)
+- [RavenPack: De la Analítica de Noticias en Marbella al Cerebro Cuantitativo de Wall Street y los Agentes Financieros Autónomos](https://dev.to/datalaria/ravenpack-de-la-analitica-de-noticias-en-marbella-al-cerebro-cuantitativo-de-wall-street-y-los-1gj)
+- [HTB - Support Writeup - no Metasploit](https://dev.to/nekohige/htb-support-writeup-no-metasploit-515g)
+- [8-Digit BIN Lookup: What Stripe and Adyen Return](https://dev.to/tomwangcn/8-digit-bin-lookup-what-stripe-and-adyen-return-1dd5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
