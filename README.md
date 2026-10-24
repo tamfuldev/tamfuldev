@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V4.1 Flash in Claude Code and OpenCode: setup, test runs, and what it costs on four platforms](https://dev.to/xhuoapi/deepseek-v41-flash-in-claude-code-and-opencode-setup-test-runs-and-what-it-costs-on-four-4jjm)
-- [The Cheapest Way to Sandbox an AI Coding Agent on Windows](https://dev.to/scsoi/the-cheapest-way-to-sandbox-an-ai-coding-agent-on-windows-22ef)
-- [RavenPack: De la Analítica de Noticias en Marbella al Cerebro Cuantitativo de Wall Street y los Agentes Financieros Autónomos](https://dev.to/datalaria/ravenpack-de-la-analitica-de-noticias-en-marbella-al-cerebro-cuantitativo-de-wall-street-y-los-1gj)
-- [HTB - Support Writeup - no Metasploit](https://dev.to/nekohige/htb-support-writeup-no-metasploit-515g)
-- [8-Digit BIN Lookup: What Stripe and Adyen Return](https://dev.to/tomwangcn/8-digit-bin-lookup-what-stripe-and-adyen-return-1dd5)
+- [🪶 DevRelief — Make Work Feel Lighter](https://dev.to/devdesagar/devrelief-make-work-feel-lighter-2d2m)
+- [A Paused Rollout Is a Queue With a Release Date](https://dev.to/ntctech/a-paused-rollout-is-a-queue-with-a-release-date-3813)
+- [A browser story game needs visible consequences, not just more choices](https://dev.to/threshingdaygame/a-browser-story-game-needs-visible-consequences-not-just-more-choices-1m0b)
+- [OpenShift Pod Running, but the Application Is Unreachable? Check the Service Port](https://dev.to/ramatechofficial/openshift-pod-running-but-the-application-is-unreachable-check-the-service-port-477k)
+- [I installed 7 plugins in DeepSeek Harness. Then I built a control hub for them.](https://dev.to/charles950311/i-installed-7-plugins-in-deepseek-harness-then-i-built-a-control-hub-for-them-1bf4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
