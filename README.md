@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluating RAG — retrieval + generation metrics that matter](https://dev.to/aiunplugged/evaluating-rag-retrieval-generation-metrics-that-matter-2ffp)
-- [AWS Won&#39;t Patch a CVSS 9.8 Bug in Multi Model Server. Its Management API Has No Login](https://dev.to/gabrielanhaia/aws-wont-patch-a-cvss-98-bug-in-multi-model-server-its-management-api-has-no-login-2e71)
-- [LogSloth — Lazy Developer&#39;s Error Detective](https://dev.to/yash_6189/logsloth-lazy-developers-error-detective-3g8n)
-- [ApplyMate: An AI-Powered Job Application Assistant 🚀](https://dev.to/prachimanchandapm_20_c76a/applymate-an-ai-powered-job-application-assistant-3n05)
-- [I Use Xano, React and Full-Code. I Don’t Think You Have to Pick a Side](https://dev.to/abdelmoula_bilel/i-use-xano-react-and-full-code-i-dont-think-you-have-to-pick-a-side-43eg)
+- [Two npm Bugs, One Lesson: Upgrading the Runtime Is Not Upgrading the Dependencies](https://dev.to/jeffreyciend/two-npm-bugs-one-lesson-upgrading-the-runtime-is-not-upgrading-the-dependencies-39k8)
+- [How to Humanize AI Text in Python: A Linter for Robotic Phrases + the Top 5 Free Tools &lpar;2026&rpar;](https://dev.to/unaimytext_app/how-to-humanize-ai-text-in-python-a-linter-for-robotic-phrases-the-top-5-free-tools-2026-35ia)
+- [Your Terminal Spots Password Prompts From Two TTY Bits. sudo&#39;s 2025 Fix Breaks the Check](https://dev.to/gabrielanhaia/your-terminal-spots-password-prompts-from-two-tty-bits-sudos-2025-fix-breaks-the-check-4nf3)
+- [Your Agent Is a Guest: Egress Policy for Agent Fleets](https://dev.to/dima_kruglov_608741d9a416/your-agent-is-a-guest-egress-policy-for-agent-fleets-2baa)
+- [Affinity MCP vs code: why I make my thumbnails with a script](https://dev.to/argbetech/affinity-mcp-vs-code-why-i-make-my-thumbnails-with-a-script-2dom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
