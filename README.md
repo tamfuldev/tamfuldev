@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [If You Manage Someone Else&#39;s Firewalls, You Manage Their Attack Surface Too](https://dev.to/stark_zhuang_df5076f35c68/if-you-manage-someone-elses-firewalls-you-manage-their-attack-surface-too-a0a)
-- [Store and Retrieve AI-Generated Images with Metadata in Node: Explained &lpar;and Why Boundaries Matter&rpar;](https://dev.to/wilhelmknight8435/store-and-retrieve-ai-generated-images-with-metadata-in-node-explained-and-why-boundaries-matter-19bk)
-- [MCP Tasks: the retry bug hiding behind a successful job](https://dev.to/panditshivam/mcp-tasks-the-retry-bug-hiding-behind-a-successful-job-1hnh)
-- [LogSloth: A Local-First AI Log Analysis Tool Built for Hacktoberfest](https://dev.to/shauryamalhotra957wq/logsloth-a-local-first-ai-log-analysis-tool-built-for-hacktoberfest-33bi)
-- [Large-File Avatar Uploads with Presigned Storage and Explicit Deletion Deadlines](https://dev.to/rhettmurray8263/large-file-avatar-uploads-with-presigned-storage-and-explicit-deletion-deadlines-256g)
+- [Evaluating RAG — retrieval + generation metrics that matter](https://dev.to/aiunplugged/evaluating-rag-retrieval-generation-metrics-that-matter-2ffp)
+- [AWS Won&#39;t Patch a CVSS 9.8 Bug in Multi Model Server. Its Management API Has No Login](https://dev.to/gabrielanhaia/aws-wont-patch-a-cvss-98-bug-in-multi-model-server-its-management-api-has-no-login-2e71)
+- [LogSloth — Lazy Developer&#39;s Error Detective](https://dev.to/yash_6189/logsloth-lazy-developers-error-detective-3g8n)
+- [ApplyMate: An AI-Powered Job Application Assistant 🚀](https://dev.to/prachimanchandapm_20_c76a/applymate-an-ai-powered-job-application-assistant-3n05)
+- [I Use Xano, React and Full-Code. I Don’t Think You Have to Pick a Side](https://dev.to/abdelmoula_bilel/i-use-xano-react-and-full-code-i-dont-think-you-have-to-pick-a-side-43eg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
