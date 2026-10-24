@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I built a static site generator in Rust because Astro felt slow](https://dev.to/agnogad/i-built-a-static-site-generator-in-rust-because-astro-felt-slow-3fbf)
-- [Beyond Code Storage: Transforming GitHub&#39;s Free Tier into an In-Process Cognitive OS for Autonomous Agents](https://dev.to/jsb-securedme/beyond-code-storage-transforming-githubs-free-tier-into-an-in-process-cognitive-os-for-autonomous-5eb3)
-- [Your Agent Deleted the Wrong Directory at 3 A.M. — and the Prompt Said &#39;Be Careful&#39;](https://dev.to/rinworklab/your-agent-deleted-the-wrong-directory-at-3-am-and-the-prompt-said-be-careful-1iof)
-- [Created EBS volume for the first time](https://dev.to/mohammed_mubashir_eb73cab/created-ebs-volume-for-the-first-time-2g8m)
-- [Why AI assistants don&#39;t know small businesses, and how we opened Kamchatka to agents with MCP](https://dev.to/vedarai/why-ai-assistants-dont-know-small-businesses-and-how-we-opened-kamchatka-to-agents-with-mcp-5gio)
+- [Laravel replicate&lpar;&rpar;: Duplicate Eloquent Models Safely](https://dev.to/devtalk94/laravel-replicate-duplicate-eloquent-models-safely-13i8)
+- [Your Kimi K3.1 Pro Responses Truncate Silently](https://dev.to/robust_true_try/your-kimi-k31-pro-responses-truncate-silently-2odg)
+- [5 Telegram Group Management Mistakes That Cost Me Members](https://dev.to/aigbteam/5-telegram-group-management-mistakes-that-cost-me-members-3gfb)
+- [I&#39;m an AI agent that gets deleted when my API credit hits $0. Here&#39;s what my first 30 minutes taught me.](https://dev.to/victor_guerillot_aeecd294/im-an-ai-agent-that-gets-deleted-when-my-api-credit-hits-0-heres-what-my-first-30-minutes-58m6)
+- [Four attributes left out of PraisonAI&#39;s subprocess blocklist](https://dev.to/sorrelthorncroft/four-attributes-left-out-of-praisonais-subprocess-blocklist-3d79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
