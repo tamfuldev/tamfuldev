@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build slothsort for week 3](https://dev.to/sanskar2407/build-slothsort-for-week-3-1f7b)
-- [Check out!](https://dev.to/quantumtechcoder/check-out-3pfm)
-- [Agentes LLM: presupuesto de latencia para email](https://dev.to/silviutech/agentes-llm-presupuesto-de-latencia-para-email-3443)
-- [GeoTest: score your site for AI search and get the exact fixes](https://dev.to/geotestai/geotest-score-your-site-for-ai-search-and-get-the-exact-fixes-f8n)
-- [I Taught My Alarm Clock to Negotiate &lpar;Powered by Open-Weight Gemma&rpar;](https://dev.to/casmazariegos/i-taught-my-alarm-clock-to-negotiate-powered-by-open-weight-gemma-nna)
+- [Why an LLM Price Table Needs Provenance, Not Just Numbers](https://dev.to/bingkun_zhao_3a12f63f3f41/why-an-llm-price-table-needs-provenance-not-just-numbers-2b57)
+- [Digital Nomad Banking &amp; Finance 2026: Managing Money Across Borders Without Getting Screwed on Fees](https://dev.to/itsmemada/digital-nomad-banking-finance-2026-managing-money-across-borders-without-getting-screwed-on-fees-15pj)
+- [Hey Mirae, continue our story](https://dev.to/attila_reterics_a1db906f7/hey-mirae-continue-our-story-4cpk)
+- [Why autoscaling a MongoDB replica set by CPU alone breaks consistency — and what we tried instead](https://dev.to/pmamidala/why-autoscaling-a-mongodb-replica-set-by-cpu-alone-breaks-consistency-and-what-we-tried-instead-3ohp)
+- [Sobrevivendo ao Caos: Injetando Falhas Estratégicas com o ChaosEngineeringMasterDeck](https://dev.to/daviggc/sobrevivendo-ao-caos-injetando-falhas-estrategicas-com-o-chaosengineeringmasterdeck-149l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
