@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [FlowEase AI — Intelligent Productivity Assistant](https://dev.to/jigyasha_singh_ec011b1aba/flowease-ai-intelligent-productivity-assistant-2fab)
-- [Genetec Security Center: Tuning and Performance](https://dev.to/hansstudy/genetec-security-center-tuning-and-performance-47o5)
-- [How Building an AI Pitch Deck App Made Me Realize How Much I Need Voice Dictation](https://dev.to/notadim2/how-building-an-ai-pitch-deck-app-made-me-realize-how-much-i-need-voice-dictation-2doh)
-- [We should be more ambitious with the software we build](https://dev.to/technoblogger14o3/we-should-be-more-ambitious-with-the-software-we-build-2beh)
-- [My Journey Into Tech: Learning, Building, and Exploring AI 🚀](https://dev.to/michelle_anene_25a46454e3/my-journey-into-tech-learning-building-and-exploring-ai-g25)
+- [Build slothsort for week 3](https://dev.to/sanskar2407/build-slothsort-for-week-3-1f7b)
+- [Check out!](https://dev.to/quantumtechcoder/check-out-3pfm)
+- [Agentes LLM: presupuesto de latencia para email](https://dev.to/silviutech/agentes-llm-presupuesto-de-latencia-para-email-3443)
+- [GeoTest: score your site for AI search and get the exact fixes](https://dev.to/geotestai/geotest-score-your-site-for-ai-search-and-get-the-exact-fixes-f8n)
+- [I Taught My Alarm Clock to Negotiate &lpar;Powered by Open-Weight Gemma&rpar;](https://dev.to/casmazariegos/i-taught-my-alarm-clock-to-negotiate-powered-by-open-weight-gemma-nna)
 <!-- BLOG-POST-LIST:END -->
 
 ---
