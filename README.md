@@ -6,11 +6,12 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Uniswap V4 Security Guide: Hooks, Pools, and New Attack Vectors You Need to Know Before Deploying](https://dev.to/ninjafromqueens/uniswap-v4-security-guide-hooks-pools-and-new-attack-vectors-you-need-to-know-before-deploying-5ip)
-- [How Much Mobile Data Do You Actually Use When Travelling?](https://dev.to/nxtlsim/how-much-mobile-data-do-you-actually-use-when-travelling-2lmp)
-- [用 MCP 把俄罗斯一个地区的小旅行社接入 AI 智能体：22 个工具的实践](https://dev.to/vedarai/yong-mcp-ba-e-luo-si-ge-di-qu-de-xiao-lu-xing-she-jie-ru-ai-zhi-neng-ti-22-ge-gong-ju-de-shi-jian-1f8o)
-- [After Effects, but inside a browser tab &lpar;free, no install&rpar;](https://dev.to/atomcut/after-effects-but-inside-a-browser-tab-free-no-install-3o0h)
-- [Go Runtime Choices for AI Models and Better Linguistic Nuance in EU Support Chatbots](https://dev.to/trkfpn392751/go-runtime-choices-for-ai-models-and-better-linguistic-nuance-in-eu-support-chatbots-pjm)
+- [What if your AI didn&#39;t have to start over every morning?](https://dev.to/skitchy/what-if-your-ai-didnt-have-to-start-over-every-morning-32)
+- [Making PayPal refuse the wrong charge: a scooter deposit as one authorization](https://dev.to/edycutjong/making-paypal-refuse-the-wrong-charge-a-scooter-deposit-as-one-authorization-5629)
+- [BT ve Yazılım Ekipleri İçin ISO 27001 Denetiminde Nesnel Kanıt Toplama Rehberi &lpar;ISO 19011&rpar;](https://dev.to/burak_eki_68434e5478e2d8/bt-ve-yazilim-ekipleri-icin-iso-27001-denetiminde-nesnel-kanit-toplama-rehberi-iso-19011-h3o)
+- [Loved working with the guys on our first Hackathon.
+#devchallenge #hackathon #mlhacks #ai](https://dev.to/dhrub_78321/loved-working-with-the-guys-on-our-first-hackathondevchallenge-hackathon-mlhacks-ai-4on9)
+- [Do popular PyPI packages flag non-English languages more? No — the long tail does &lpar;7.7% vs 2.4% of declarers&rpar;](https://dev.to/munimv2/do-popular-pypi-packages-flag-non-english-languages-more-no-the-long-tail-does-77-vs-24-of-4nbi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
