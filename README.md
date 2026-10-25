@@ -6,12 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What if your AI didn&#39;t have to start over every morning?](https://dev.to/skitchy/what-if-your-ai-didnt-have-to-start-over-every-morning-32)
-- [Making PayPal refuse the wrong charge: a scooter deposit as one authorization](https://dev.to/edycutjong/making-paypal-refuse-the-wrong-charge-a-scooter-deposit-as-one-authorization-5629)
-- [BT ve Yazılım Ekipleri İçin ISO 27001 Denetiminde Nesnel Kanıt Toplama Rehberi &lpar;ISO 19011&rpar;](https://dev.to/burak_eki_68434e5478e2d8/bt-ve-yazilim-ekipleri-icin-iso-27001-denetiminde-nesnel-kanit-toplama-rehberi-iso-19011-h3o)
-- [Loved working with the guys on our first Hackathon.
-#devchallenge #hackathon #mlhacks #ai](https://dev.to/dhrub_78321/loved-working-with-the-guys-on-our-first-hackathondevchallenge-hackathon-mlhacks-ai-4on9)
-- [Do popular PyPI packages flag non-English languages more? No — the long tail does &lpar;7.7% vs 2.4% of declarers&rpar;](https://dev.to/munimv2/do-popular-pypi-packages-flag-non-english-languages-more-no-the-long-tail-does-77-vs-24-of-4nbi)
+- [A Conversation, Then the Work](https://dev.to/savinduthathsara/a-conversation-then-the-work-2o8g)
+- [Building UtilityFlow.in: 20 Privacy-First Browser Utilities in a Single Zero-Server App](https://dev.to/santarana5/building-utilityflowin-20-privacy-first-browser-utilities-in-a-single-zero-server-app-544)
+- [Cat Break Agent: Because Doomscrolling Cats Is Productivity, Actually 🦥🐱](https://dev.to/volatile/cat-break-agent-because-doomscrolling-cats-is-productivity-actually-l3g)
+- [Building a TCG price API solo: asking price is not sold price](https://dev.to/flipzi/building-a-tcg-price-api-solo-asking-price-is-not-sold-price-22n5)
+- [security-audit-skill: a Chinese translation of Cloudflare&#39;s coding-agent audit skill](https://dev.to/sun_young_517829fc09d0c05/security-audit-skill-a-chinese-translation-of-cloudflares-coding-agent-audit-skill-3b7g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
