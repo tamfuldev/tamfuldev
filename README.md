@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your spend ceiling has to be a 403, not a dashboard](https://dev.to/o96a/your-spend-ceiling-has-to-be-a-403-not-a-dashboard-55gb)
-- [AI Glasses May Soon Replace Traditional Headphones, Engadget Says](https://dev.to/madhavsharma99/ai-glasses-may-soon-replace-traditional-headphones-engadget-says-1nf0)
-- [Looking into Recent Agentic Development](https://dev.to/shoyataguchi/looking-into-recent-agentic-development-157o)
-- [Codecanyon Install Checklist: From Download to Live in 90 Minutes](https://dev.to/mshariqq/codecanyon-install-checklist-from-download-to-live-in-90-minutes-4p2n)
-- [title: CouchPilot: Autonomous Repository Housekeeping with Guaranteed AST Equivalence](https://dev.to/rish_d76880aa4159dc8eba11/title-couchpilot-autonomous-repository-housekeeping-with-guaranteed-ast-equivalence-cli)
+- [FlowEase AI — Intelligent Productivity Assistant](https://dev.to/jigyasha_singh_ec011b1aba/flowease-ai-intelligent-productivity-assistant-2fab)
+- [Genetec Security Center: Tuning and Performance](https://dev.to/hansstudy/genetec-security-center-tuning-and-performance-47o5)
+- [How Building an AI Pitch Deck App Made Me Realize How Much I Need Voice Dictation](https://dev.to/notadim2/how-building-an-ai-pitch-deck-app-made-me-realize-how-much-i-need-voice-dictation-2doh)
+- [We should be more ambitious with the software we build](https://dev.to/technoblogger14o3/we-should-be-more-ambitious-with-the-software-we-build-2beh)
+- [My Journey Into Tech: Learning, Building, and Exploring AI 🚀](https://dev.to/michelle_anene_25a46454e3/my-journey-into-tech-learning-building-and-exploring-ai-g25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
