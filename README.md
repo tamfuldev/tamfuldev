@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Blind Signing? How Unreadable Transactions Drain Crypto Wallets](https://dev.to/basisdesk/what-is-blind-signing-how-unreadable-transactions-drain-crypto-wallets-4dhe)
-- [No WARN Notice Filed? What Workers Can Do When a Layoff Comes Without Warning](https://dev.to/layoffatlas/no-warn-notice-filed-what-workers-can-do-when-a-layoff-comes-without-warning-32m5)
-- [alchi: I let a 1B model write my standups, and taught it not to lie](https://dev.to/gadalsandesh123/alchi-i-let-a-1b-model-write-my-standups-and-taught-it-not-to-lie-35fm)
-- [Ciphera Bunny: Second Place in HopStart Cohort #3](https://dev.to/ciphera/ciphera-x-bunny-second-place-in-hopstart-cohort-3-3739)
-- [JasperReports: 664 page titles against 27,652 body matches, and the reports behind both numbers](https://dev.to/onaeiuspkz/jasperreports-664-page-titles-against-27652-body-matches-and-the-reports-behind-both-numbers-42ae)
+- [Request Limits vs Token Limits: Which Flat-Rate LLM API Pricing Is Cheaper for Your Workload?](https://dev.to/amankumar_apiclaw/request-limits-vs-token-limits-which-flat-rate-llm-api-pricing-is-cheaper-for-your-workload-e9b)
+- [Hugging Face libraries now run natively on TPUs via TorchTPU](https://dev.to/mikefluff/hugging-face-libraries-now-run-natively-on-tpus-via-torchtpu-4fb0)
+- [I Had 5,000 Screenshots and Couldn’t Find Any, So I Built: SnapRecall-Type What You Remember, Find the Screenshot](https://dev.to/amyy22/i-had-5000-screenshots-and-couldnt-find-any-so-i-built-snaprecall-type-what-you-remember-find-268c)
+- [Week 3&#39;s DEV challenge](https://dev.to/daralord/week-3s-dev-challenge-57jb)
+- [LazyMorning — Your Overnight Life Assistant](https://dev.to/abhinavnayak21/lazymorning-your-overnight-life-assistant-5978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
