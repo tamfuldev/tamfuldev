@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch at read time: why on-demand artifacts beat stored ones](https://dev.to/dutiful_dev/fetch-at-read-time-why-on-demand-artifacts-beat-stored-ones-1pk3)
-- [We asked 5 AIs the same CRM question 50 times. Here is who got named.](https://dev.to/len_kelsey_7df6899a13a3d5/we-asked-5-ais-the-same-crm-question-50-times-here-is-who-got-named-38e1)
-- [Entity resolution is the hard part of company data APIs](https://dev.to/dutiful_dev/entity-resolution-is-the-hard-part-of-company-data-apis-4ggg)
-- [Task Bar, Then Queue: Two Trials That Decide Free Tier vs Paid vs Self-Hosted](https://dev.to/datago_8008/task-bar-then-queue-two-trials-that-decide-free-tier-vs-paid-vs-self-hosted-43ml)
-- [Stop Counting Calls, Start Counting Accepted Outputs: A Five-Stage Token Ledger Tutorial](https://dev.to/aiio_8140/stop-counting-calls-start-counting-accepted-outputs-a-five-stage-token-ledger-tutorial-5gi6)
+- [useDebouncedCallback: Debounce Without the Stale Closure](https://dev.to/saiful7778/usedebouncedcallback-debounce-without-the-stale-closure-2o1)
+- [Modern Strategies for Making Enterprise APIs Agent Ready](https://dev.to/vpodk/modern-strategies-for-making-enterprise-apis-agent-ready-i6)
+- [Anthropic sets aside five percent of shares for public trust](https://dev.to/vpodk/anthropic-sets-aside-five-percent-of-shares-for-public-trust-imj)
+- [The Difference Between an API That Is Available and an Integration That Is Production-Ready](https://dev.to/nwajichukwu_goodness_audit/the-difference-between-an-api-that-is-available-and-an-integration-that-is-production-ready-4njl)
+- [read and learn, use better ereactnative for your app](https://dev.to/devunionx/read-and-learn-use-better-ereactnative-for-your-app-4jg5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
