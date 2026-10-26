@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why an LLM Price Table Needs Provenance, Not Just Numbers](https://dev.to/bingkun_zhao_3a12f63f3f41/why-an-llm-price-table-needs-provenance-not-just-numbers-2b57)
-- [Digital Nomad Banking &amp; Finance 2026: Managing Money Across Borders Without Getting Screwed on Fees](https://dev.to/itsmemada/digital-nomad-banking-finance-2026-managing-money-across-borders-without-getting-screwed-on-fees-15pj)
-- [Hey Mirae, continue our story](https://dev.to/attila_reterics_a1db906f7/hey-mirae-continue-our-story-4cpk)
-- [Why autoscaling a MongoDB replica set by CPU alone breaks consistency — and what we tried instead](https://dev.to/pmamidala/why-autoscaling-a-mongodb-replica-set-by-cpu-alone-breaks-consistency-and-what-we-tried-instead-3ohp)
-- [Sobrevivendo ao Caos: Injetando Falhas Estratégicas com o ChaosEngineeringMasterDeck](https://dev.to/daviggc/sobrevivendo-ao-caos-injetando-falhas-estrategicas-com-o-chaosengineeringmasterdeck-149l)
+- [What Is Blind Signing? How Unreadable Transactions Drain Crypto Wallets](https://dev.to/basisdesk/what-is-blind-signing-how-unreadable-transactions-drain-crypto-wallets-4dhe)
+- [No WARN Notice Filed? What Workers Can Do When a Layoff Comes Without Warning](https://dev.to/layoffatlas/no-warn-notice-filed-what-workers-can-do-when-a-layoff-comes-without-warning-32m5)
+- [alchi: I let a 1B model write my standups, and taught it not to lie](https://dev.to/gadalsandesh123/alchi-i-let-a-1b-model-write-my-standups-and-taught-it-not-to-lie-35fm)
+- [Ciphera Bunny: Second Place in HopStart Cohort #3](https://dev.to/ciphera/ciphera-x-bunny-second-place-in-hopstart-cohort-3-3739)
+- [JasperReports: 664 page titles against 27,652 body matches, and the reports behind both numbers](https://dev.to/onaeiuspkz/jasperreports-664-page-titles-against-27652-body-matches-and-the-reports-behind-both-numbers-42ae)
 <!-- BLOG-POST-LIST:END -->
 
 ---
