@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Request Limits vs Token Limits: Which Flat-Rate LLM API Pricing Is Cheaper for Your Workload?](https://dev.to/amankumar_apiclaw/request-limits-vs-token-limits-which-flat-rate-llm-api-pricing-is-cheaper-for-your-workload-e9b)
-- [Hugging Face libraries now run natively on TPUs via TorchTPU](https://dev.to/mikefluff/hugging-face-libraries-now-run-natively-on-tpus-via-torchtpu-4fb0)
-- [I Had 5,000 Screenshots and Couldn’t Find Any, So I Built: SnapRecall-Type What You Remember, Find the Screenshot](https://dev.to/amyy22/i-had-5000-screenshots-and-couldnt-find-any-so-i-built-snaprecall-type-what-you-remember-find-268c)
-- [Week 3&#39;s DEV challenge](https://dev.to/daralord/week-3s-dev-challenge-57jb)
-- [LazyMorning — Your Overnight Life Assistant](https://dev.to/abhinavnayak21/lazymorning-your-overnight-life-assistant-5978)
+- [Fetch at read time: why on-demand artifacts beat stored ones](https://dev.to/dutiful_dev/fetch-at-read-time-why-on-demand-artifacts-beat-stored-ones-1pk3)
+- [We asked 5 AIs the same CRM question 50 times. Here is who got named.](https://dev.to/len_kelsey_7df6899a13a3d5/we-asked-5-ais-the-same-crm-question-50-times-here-is-who-got-named-38e1)
+- [Entity resolution is the hard part of company data APIs](https://dev.to/dutiful_dev/entity-resolution-is-the-hard-part-of-company-data-apis-4ggg)
+- [Task Bar, Then Queue: Two Trials That Decide Free Tier vs Paid vs Self-Hosted](https://dev.to/datago_8008/task-bar-then-queue-two-trials-that-decide-free-tier-vs-paid-vs-self-hosted-43ml)
+- [Stop Counting Calls, Start Counting Accepted Outputs: A Five-Stage Token Ledger Tutorial](https://dev.to/aiio_8140/stop-counting-calls-start-counting-accepted-outputs-a-five-stage-token-ledger-tutorial-5gi6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
