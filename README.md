@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [useDebouncedCallback: Debounce Without the Stale Closure](https://dev.to/saiful7778/usedebouncedcallback-debounce-without-the-stale-closure-2o1)
-- [Modern Strategies for Making Enterprise APIs Agent Ready](https://dev.to/vpodk/modern-strategies-for-making-enterprise-apis-agent-ready-i6)
-- [Anthropic sets aside five percent of shares for public trust](https://dev.to/vpodk/anthropic-sets-aside-five-percent-of-shares-for-public-trust-imj)
-- [The Difference Between an API That Is Available and an Integration That Is Production-Ready](https://dev.to/nwajichukwu_goodness_audit/the-difference-between-an-api-that-is-available-and-an-integration-that-is-production-ready-4njl)
-- [read and learn, use better ereactnative for your app](https://dev.to/devunionx/read-and-learn-use-better-ereactnative-for-your-app-4jg5)
+- [The Ever Changing Profession of Software Engineering](https://dev.to/ruarfff/the-ever-changing-profession-of-software-engineering-2fhb)
+- [Production Next.js Dockerfile: Multi-Stage, Standalone and Non-Root](https://dev.to/fabwaseem/production-nextjs-dockerfile-multi-stage-standalone-and-non-root-e2j)
+- [How I finally understood the Liskov Substitution Principle](https://dev.to/chrisvasqm/how-i-finally-understood-the-liskov-substitution-principle-19ek)
+- [A Backup Isn&#39;t a Recovery Plan: Building a Docker-Based MySQL Restore Verifier](https://dev.to/xetera1/a-backup-isnt-a-recovery-plan-building-a-docker-based-mysql-restore-verifier-2kic)
+- [I built an Android app for remembering the little things about people you love &lpar;no AI, no internet permission&rpar;](https://dev.to/riding/i-built-an-android-app-for-remembering-the-little-things-about-people-you-love-no-ai-no-internet-8d1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
