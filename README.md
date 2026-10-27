@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode #1 — Two Sum | Python Explained](https://dev.to/smarika_a76a646d9cca0d772/leetcode-1-two-sum-python-explained-2hm1)
-- [Claude Code Plan Mode: How It Works, How to Use It, and When to Skip It](https://dev.to/alexcloudstar/claude-code-plan-mode-how-it-works-how-to-use-it-and-when-to-skip-it-57l)
-- [Svelte Explained: The Framework That Disappears](https://dev.to/practicaldevblog/svelte-explained-the-framework-that-disappears-4bfg)
-- [Why Your Laptop Still Loses Battery Through a USB-C Hub](https://dev.to/xingliao/why-your-laptop-still-loses-battery-through-a-usb-c-hub-12ck)
-- [Building a Niche Website: The Web Development Lessons Behind MenudBros.com](https://dev.to/hamzarana/building-a-niche-website-the-web-development-lessons-behind-menudbroscom-e1c)
+- [GMO breach shows why zero-trust architecture matters for cloud APIs now more than ever](https://dev.to/chandan_kumar_1afaffcf991/gmo-breach-shows-why-zero-trust-architecture-matters-for-cloud-apis-now-more-than-ever-5gkd)
+- [Find Fragile Cases With a Cross-Model Pass Matrix](https://dev.to/byteio_3726/find-fragile-cases-with-a-cross-model-pass-matrix-4kbf)
+- [Verifying a VMmanager patch when no CVE was published](https://dev.to/facilishz/verifying-a-vmmanager-patch-when-no-cve-was-published-3pgn)
+- [One .env file, three answers: measuring how dotenv readers disagree](https://dev.to/ajitkumar/one-env-file-three-answers-measuring-how-dotenv-readers-disagree-2oph)
+- [Apache Kafka Retry Patterns vs AWS SQS: Choose Jobs for Property Updates](https://dev.to/abernathycross6857/apache-kafka-retry-patterns-vs-aws-sqs-choose-jobs-for-property-updates-d8i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
