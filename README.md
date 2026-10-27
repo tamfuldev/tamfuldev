@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 27.2&#39;s expanded ATT prompt is mandatory in five EU countries — what actually changes for your app](https://dev.to/devinios/ios-272s-expanded-att-prompt-is-mandatory-in-five-eu-countries-what-actually-changes-for-your-nkm)
-- [IT Offboarding Checklist Template for Microsoft 365 and Google Workspace &lpar;Same-Day Steps&rpar;](https://dev.to/runbookfoundry/it-offboarding-checklist-template-for-microsoft-365-and-google-workspace-same-day-steps-582n)
-- [How Taocarts Turns a Storefront Order Into an Automated 1688 Purchase](https://dev.to/taocarts/how-taocarts-turns-a-storefront-order-into-an-automated-1688-purchase-3p25)
-- [Crea tu propia guía de certificación para exámenes de AWS con IA y Notion](https://dev.to/vania_dev/crea-tu-propia-guia-de-certificacion-para-examenes-de-aws-con-ia-y-notion-4iga)
-- [엑셀 정기비용표: 월평균과 지급월 금액 나누기](https://dev.to/charos_j/egsel-jeonggibiyongpyo-weolpyeonggyungwa-jigeubweol-geumaeg-nanugi-5bgc)
+- [LeetCode #1 — Two Sum | Python Explained](https://dev.to/smarika_a76a646d9cca0d772/leetcode-1-two-sum-python-explained-2hm1)
+- [Claude Code Plan Mode: How It Works, How to Use It, and When to Skip It](https://dev.to/alexcloudstar/claude-code-plan-mode-how-it-works-how-to-use-it-and-when-to-skip-it-57l)
+- [Svelte Explained: The Framework That Disappears](https://dev.to/practicaldevblog/svelte-explained-the-framework-that-disappears-4bfg)
+- [Why Your Laptop Still Loses Battery Through a USB-C Hub](https://dev.to/xingliao/why-your-laptop-still-loses-battery-through-a-usb-c-hub-12ck)
+- [Building a Niche Website: The Web Development Lessons Behind MenudBros.com](https://dev.to/hamzarana/building-a-niche-website-the-web-development-lessons-behind-menudbroscom-e1c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
