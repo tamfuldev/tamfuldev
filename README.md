@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Ever Changing Profession of Software Engineering](https://dev.to/ruarfff/the-ever-changing-profession-of-software-engineering-2fhb)
-- [Production Next.js Dockerfile: Multi-Stage, Standalone and Non-Root](https://dev.to/fabwaseem/production-nextjs-dockerfile-multi-stage-standalone-and-non-root-e2j)
-- [How I finally understood the Liskov Substitution Principle](https://dev.to/chrisvasqm/how-i-finally-understood-the-liskov-substitution-principle-19ek)
-- [A Backup Isn&#39;t a Recovery Plan: Building a Docker-Based MySQL Restore Verifier](https://dev.to/xetera1/a-backup-isnt-a-recovery-plan-building-a-docker-based-mysql-restore-verifier-2kic)
-- [I built an Android app for remembering the little things about people you love &lpar;no AI, no internet permission&rpar;](https://dev.to/riding/i-built-an-android-app-for-remembering-the-little-things-about-people-you-love-no-ai-no-internet-8d1)
+- [iOS 27.2&#39;s expanded ATT prompt is mandatory in five EU countries — what actually changes for your app](https://dev.to/devinios/ios-272s-expanded-att-prompt-is-mandatory-in-five-eu-countries-what-actually-changes-for-your-nkm)
+- [IT Offboarding Checklist Template for Microsoft 365 and Google Workspace &lpar;Same-Day Steps&rpar;](https://dev.to/runbookfoundry/it-offboarding-checklist-template-for-microsoft-365-and-google-workspace-same-day-steps-582n)
+- [How Taocarts Turns a Storefront Order Into an Automated 1688 Purchase](https://dev.to/taocarts/how-taocarts-turns-a-storefront-order-into-an-automated-1688-purchase-3p25)
+- [Crea tu propia guía de certificación para exámenes de AWS con IA y Notion](https://dev.to/vania_dev/crea-tu-propia-guia-de-certificacion-para-examenes-de-aws-con-ia-y-notion-4iga)
+- [엑셀 정기비용표: 월평균과 지급월 금액 나누기](https://dev.to/charos_j/egsel-jeonggibiyongpyo-weolpyeonggyungwa-jigeubweol-geumaeg-nanugi-5bgc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
