@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GMO breach shows why zero-trust architecture matters for cloud APIs now more than ever](https://dev.to/chandan_kumar_1afaffcf991/gmo-breach-shows-why-zero-trust-architecture-matters-for-cloud-apis-now-more-than-ever-5gkd)
-- [Find Fragile Cases With a Cross-Model Pass Matrix](https://dev.to/byteio_3726/find-fragile-cases-with-a-cross-model-pass-matrix-4kbf)
-- [Verifying a VMmanager patch when no CVE was published](https://dev.to/facilishz/verifying-a-vmmanager-patch-when-no-cve-was-published-3pgn)
-- [One .env file, three answers: measuring how dotenv readers disagree](https://dev.to/ajitkumar/one-env-file-three-answers-measuring-how-dotenv-readers-disagree-2oph)
-- [Apache Kafka Retry Patterns vs AWS SQS: Choose Jobs for Property Updates](https://dev.to/abernathycross6857/apache-kafka-retry-patterns-vs-aws-sqs-choose-jobs-for-property-updates-d8i)
+- [Practical Checklist: Adding AIoT to an Existing Industrial Monitoring Setup](https://dev.to/ethan_walker_898fd4a5ba36/practical-checklist-adding-aiot-to-an-existing-industrial-monitoring-setup-4fbe)
+- [Your Refactor Copies a List. The Caller Still Holds the Old One.](https://dev.to/hackrs_6393/your-refactor-copies-a-list-the-caller-still-holds-the-old-one-42d1)
+- [Gitea at 117,523 and n8n at 420,452: The Self-Hosted Layer That Holds Your Credentials](https://dev.to/kozhevniko/gitea-at-117523-and-n8n-at-420452-the-self-hosted-layer-that-holds-your-credentials-588)
+- [Technical Debt in the AI Era: We Write Code Faster, QA Takes 300% Longer](https://dev.to/antunesleo/technical-debt-in-the-ai-era-we-write-code-faster-qa-takes-300-longer-5093)
+- [Node.js Bundled a Decoder That Wrote Past Its Eight-Byte Buffer](https://dev.to/neticslabs/nodejs-bundled-a-decoder-that-wrote-past-its-eight-byte-buffer-457d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
