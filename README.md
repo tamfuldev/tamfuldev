@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Checklist: Adding AIoT to an Existing Industrial Monitoring Setup](https://dev.to/ethan_walker_898fd4a5ba36/practical-checklist-adding-aiot-to-an-existing-industrial-monitoring-setup-4fbe)
-- [Your Refactor Copies a List. The Caller Still Holds the Old One.](https://dev.to/hackrs_6393/your-refactor-copies-a-list-the-caller-still-holds-the-old-one-42d1)
-- [Gitea at 117,523 and n8n at 420,452: The Self-Hosted Layer That Holds Your Credentials](https://dev.to/kozhevniko/gitea-at-117523-and-n8n-at-420452-the-self-hosted-layer-that-holds-your-credentials-588)
-- [Technical Debt in the AI Era: We Write Code Faster, QA Takes 300% Longer](https://dev.to/antunesleo/technical-debt-in-the-ai-era-we-write-code-faster-qa-takes-300-longer-5093)
-- [Node.js Bundled a Decoder That Wrote Past Its Eight-Byte Buffer](https://dev.to/neticslabs/nodejs-bundled-a-decoder-that-wrote-past-its-eight-byte-buffer-457d)
+- [How to monitor Türkiye&#39;s Official Gazette &lpar;Resmî Gazete&rpar; automatically](https://dev.to/muhammedsaidckr/how-to-monitor-turkiyes-official-gazette-resmi-gazete-automatically-mp9)
+- [Serious security issue in startup software for professional systems worldwide](https://dev.to/hacksgr/serious-security-issue-in-startup-software-for-professional-systems-worldwide-4l2e)
+- [From `python -m venv` to First Product: Auditing the Onboarding Moment in a No-Framework Toolchain**](https://dev.to/revanzart/from-python-m-venv-to-first-product-auditing-the-onboarding-moment-in-a-no-framework-toolchain-44c2)
+- [My requirements.txt Has Two Lines. Here&#39;s Why That Sold 39 Products to Strangers.&quot;**](https://dev.to/revanzart/my-requirementstxt-has-two-lines-heres-why-that-sold-39-products-to-strangers-3j4p)
+- [Introducing tobira: Every Database, One Terminal, and One MCP Server for Your Agents](https://dev.to/xavidop/introducing-tobira-every-database-one-terminal-and-one-mcp-server-for-your-agents-53jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
