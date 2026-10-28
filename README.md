@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Route app errors to the right Slack channel](https://dev.to/mumuzhang/route-app-errors-to-the-right-slack-channel-2fc5)
-- [I built a gateway that retries LLM refusals until I get a real answer](https://dev.to/dixxxzao01/i-built-a-gateway-that-retries-llm-refusals-until-i-get-a-real-answer-3d3d)
-- [How we&#39;re testing AI app builders: database isolation, auth, usage and source export](https://dev.to/uvilno/how-were-testing-ai-app-builders-database-isolation-auth-usage-and-source-export-ngp)
-- [How I Built a Free Chrome Extension to Analyze Amazon Products in 30 Seconds](https://dev.to/sellerscope_2682e8a5/how-i-built-a-free-chrome-extension-to-analyze-amazon-products-in-30-seconds-41ma)
-- [Local property prices in France, from recorded sales, in one command](https://dev.to/robinberaud/local-property-prices-in-france-from-recorded-sales-in-one-command-97m)
+- [Model soups failed until we fixed one line: our 26M grammar tagger from 11% to 1.9% false fixes](https://dev.to/kharlampiiev/model-soups-failed-until-we-fixed-one-line-our-26m-grammar-tagger-from-11-to-19-false-fixes-219f)
+- [Document parsing for AI agents with MCP](https://dev.to/felipe_anyformat/document-parsing-for-ai-agents-with-mcp-4hnn)
+- [IA para Devs 01: O que significa engenharia de prompt na prática?](https://dev.to/paula-figueiredo/ia-para-devs-01-o-que-significa-engenharia-de-prompt-na-pratica-4a62)
+- [Use JSON Schema for Structured Summarization in Node.js Explained](https://dev.to/seraphinalyn7139/use-json-schema-for-structured-summarization-in-nodejs-explained-1kp0)
+- [# Generative AI Is Creating New IP Risks for Indian Employers](https://dev.to/lawvexa2292/-generative-ai-is-creating-new-ip-risks-for-indian-employers-20lc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
