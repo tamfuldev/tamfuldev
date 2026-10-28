@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Model soups failed until we fixed one line: our 26M grammar tagger from 11% to 1.9% false fixes](https://dev.to/kharlampiiev/model-soups-failed-until-we-fixed-one-line-our-26m-grammar-tagger-from-11-to-19-false-fixes-219f)
-- [Document parsing for AI agents with MCP](https://dev.to/felipe_anyformat/document-parsing-for-ai-agents-with-mcp-4hnn)
-- [IA para Devs 01: O que significa engenharia de prompt na prática?](https://dev.to/paula-figueiredo/ia-para-devs-01-o-que-significa-engenharia-de-prompt-na-pratica-4a62)
-- [Use JSON Schema for Structured Summarization in Node.js Explained](https://dev.to/seraphinalyn7139/use-json-schema-for-structured-summarization-in-nodejs-explained-1kp0)
-- [# Generative AI Is Creating New IP Risks for Indian Employers](https://dev.to/lawvexa2292/-generative-ai-is-creating-new-ip-risks-for-indian-employers-20lc)
+- [Ceph dashboard discovery is not an object-storage authorization test](https://dev.to/facilishz/ceph-dashboard-discovery-is-not-an-object-storage-authorization-test-k1m)
+- [Replacing an ERP interface? Define API contracts, keep business rules and permissions on the server](https://dev.to/oleksandr_sainchuk/replacing-an-erp-interface-define-api-contracts-keep-business-rules-and-permissions-on-the-server-hf9)
+- [Oops, Apple&#39;s Website Just Hinted at iPad Mini 8](https://dev.to/ashish_624379625242c5d263/oops-apples-website-just-hinted-at-ipad-mini-8-ajo)
+- [JumpToTech DevOps/SRE Bootcamp Production Incident Response Lab — Banking Application on AWS EKS](https://dev.to/jumptotech/jumptotech-devopssre-bootcampproduction-incident-response-lab-banking-application-on-aws-eks-26l6)
+- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Deribit](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-deribit-4g7e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
