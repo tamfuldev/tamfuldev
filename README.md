@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Game Wiki Hub: The Content Model Is the Hard Part](https://dev.to/lyyluca/building-a-game-wiki-hub-the-content-model-is-the-hard-part-3jj0)
-- [Echoes AI: A Private, Local-First Memory Journal &amp; Story Sanctuary](https://dev.to/mayurponly/echoes-ai-a-private-local-first-memory-journal-story-sanctuary-102b)
-- [Why We Check Twice Before a Risky Action: Defense-in-Depth in an Android AI Agent](https://dev.to/starebrain/why-we-check-twice-before-a-risky-action-defense-in-depth-in-an-android-ai-agent-4o4m)
-- [SillyTavern remote access security checklist: 11 CVEs in 2026, the Node Brotli fix &lpar;CVE-2026-111497&rpar;, 6 config.yaml keys](https://dev.to/ilan_kim/sillytavern-remote-access-security-checklist-11-cves-in-2026-the-node-brotli-fix-11l8)
-- [ComfyUI MCP servers compared: comfyui-mcp, comfy-mcp and comfyui-mcp-secure in Claude Code, measured for ports, paths, tokens](https://dev.to/ilan_kim/comfyui-mcp-servers-compared-comfyui-mcp-comfy-mcp-and-comfyui-mcp-secure-in-claude-code-2a99)
+- [Route app errors to the right Slack channel](https://dev.to/mumuzhang/route-app-errors-to-the-right-slack-channel-2fc5)
+- [I built a gateway that retries LLM refusals until I get a real answer](https://dev.to/dixxxzao01/i-built-a-gateway-that-retries-llm-refusals-until-i-get-a-real-answer-3d3d)
+- [How we&#39;re testing AI app builders: database isolation, auth, usage and source export](https://dev.to/uvilno/how-were-testing-ai-app-builders-database-isolation-auth-usage-and-source-export-ngp)
+- [How I Built a Free Chrome Extension to Analyze Amazon Products in 30 Seconds](https://dev.to/sellerscope_2682e8a5/how-i-built-a-free-chrome-extension-to-analyze-amazon-products-in-30-seconds-41ma)
+- [Local property prices in France, from recorded sales, in one command](https://dev.to/robinberaud/local-property-prices-in-france-from-recorded-sales-in-one-command-97m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
