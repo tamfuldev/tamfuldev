@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to monitor Türkiye&#39;s Official Gazette &lpar;Resmî Gazete&rpar; automatically](https://dev.to/muhammedsaidckr/how-to-monitor-turkiyes-official-gazette-resmi-gazete-automatically-mp9)
-- [Serious security issue in startup software for professional systems worldwide](https://dev.to/hacksgr/serious-security-issue-in-startup-software-for-professional-systems-worldwide-4l2e)
-- [From `python -m venv` to First Product: Auditing the Onboarding Moment in a No-Framework Toolchain**](https://dev.to/revanzart/from-python-m-venv-to-first-product-auditing-the-onboarding-moment-in-a-no-framework-toolchain-44c2)
-- [My requirements.txt Has Two Lines. Here&#39;s Why That Sold 39 Products to Strangers.&quot;**](https://dev.to/revanzart/my-requirementstxt-has-two-lines-heres-why-that-sold-39-products-to-strangers-3j4p)
-- [Introducing tobira: Every Database, One Terminal, and One MCP Server for Your Agents](https://dev.to/xavidop/introducing-tobira-every-database-one-terminal-and-one-mcp-server-for-your-agents-53jk)
+- [Building a Game Wiki Hub: The Content Model Is the Hard Part](https://dev.to/lyyluca/building-a-game-wiki-hub-the-content-model-is-the-hard-part-3jj0)
+- [Echoes AI: A Private, Local-First Memory Journal &amp; Story Sanctuary](https://dev.to/mayurponly/echoes-ai-a-private-local-first-memory-journal-story-sanctuary-102b)
+- [Why We Check Twice Before a Risky Action: Defense-in-Depth in an Android AI Agent](https://dev.to/starebrain/why-we-check-twice-before-a-risky-action-defense-in-depth-in-an-android-ai-agent-4o4m)
+- [SillyTavern remote access security checklist: 11 CVEs in 2026, the Node Brotli fix &lpar;CVE-2026-111497&rpar;, 6 config.yaml keys](https://dev.to/ilan_kim/sillytavern-remote-access-security-checklist-11-cves-in-2026-the-node-brotli-fix-11l8)
+- [ComfyUI MCP servers compared: comfyui-mcp, comfy-mcp and comfyui-mcp-secure in Claude Code, measured for ports, paths, tokens](https://dev.to/ilan_kim/comfyui-mcp-servers-compared-comfyui-mcp-comfy-mcp-and-comfyui-mcp-secure-in-claude-code-2a99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
