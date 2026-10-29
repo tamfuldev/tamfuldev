@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Pasting Prompts: How We Built a 3+1 Multi-Agent Pipeline &amp; Automated 21k Words in 5 Days](https://dev.to/rich_ng_a34aaf594b3c4fe53/stop-pasting-prompts-how-we-built-a-31-multi-agent-pipeline-automated-21k-words-in-5-days-4nbp)
-- [What a Photo Reveals: Image URLs &amp; EXIF Privacy](https://dev.to/damon_0b020d3d5ba9cb/what-a-photo-reveals-image-urls-exif-privacy-5c0h)
-- [&quot;The Night-Before Interview Checklist — What Actually Matters&quot;](https://dev.to/rushdi_hameed_7996818a2be/the-night-before-interview-checklist-what-actually-matters-4jph)
-- [Containers and managed MariaDB services need CVE-2026-85745 provenance checks](https://dev.to/bianliang/containers-and-managed-mariadb-services-need-cve-2026-85745-provenance-checks-15f1)
-- [Why Non-ASCII Input Breaks over SSH: Locales, SendEnv and the `env` Request](https://dev.to/c-wind/why-non-ascii-input-breaks-over-ssh-locales-sendenv-and-the-env-request-506p)
+- [Moving Native BTC to Base: Can BOB Gateway Do It Directly?](https://dev.to/0xnewbiewhermes/moving-native-btc-to-base-can-bob-gateway-do-it-directly-26o4)
+- [Preload just before visibility with rootMargin, thresholds, and a stability check](https://dev.to/chriserodriguez/preload-just-before-visibility-with-rootmargin-thresholds-and-a-stability-check-46pb)
+- [Seven small scripts I no longer write](https://dev.to/salihcantekin/seven-small-scripts-i-no-longer-write-5fh3)
+- [Rotary Position Embeddings: How Rotating Queries and Keys Encodes Relative Position](https://dev.to/umeshtharukaofficial/rotary-position-embeddings-how-rotating-queries-and-keys-encodes-relative-position-26d9)
+- [What Each Test Layer Proves When Code Moves Funds](https://dev.to/tradevodata/what-each-test-layer-proves-when-code-moves-funds-16p4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
