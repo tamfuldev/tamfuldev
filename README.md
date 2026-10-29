@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Moving Native BTC to Base: Can BOB Gateway Do It Directly?](https://dev.to/0xnewbiewhermes/moving-native-btc-to-base-can-bob-gateway-do-it-directly-26o4)
-- [Preload just before visibility with rootMargin, thresholds, and a stability check](https://dev.to/chriserodriguez/preload-just-before-visibility-with-rootmargin-thresholds-and-a-stability-check-46pb)
-- [Seven small scripts I no longer write](https://dev.to/salihcantekin/seven-small-scripts-i-no-longer-write-5fh3)
-- [Rotary Position Embeddings: How Rotating Queries and Keys Encodes Relative Position](https://dev.to/umeshtharukaofficial/rotary-position-embeddings-how-rotating-queries-and-keys-encodes-relative-position-26d9)
-- [What Each Test Layer Proves When Code Moves Funds](https://dev.to/tradevodata/what-each-test-layer-proves-when-code-moves-funds-16p4)
+- [The Connect Page Is the Revenue Page](https://dev.to/swipe-again/the-connect-page-is-the-revenue-page-1hf3)
+- [Most RFCs are never replaced, and errata held for a document update mostly stay held: two pre-registered studies](https://dev.to/munimv2/most-rfcs-are-never-replaced-and-errata-held-for-a-document-update-mostly-stay-held-two-2n80)
+- [Continue.dev vs Cursor: Open-Source Local Privacy vs Proprietary Indexing](https://dev.to/grfdsasdvef/continuedev-vs-cursor-open-source-local-privacy-vs-proprietary-indexing-48lb)
+- [Configure Shipment Queues for Rate-Limiting Webhook Processing in HTTP-Based Cron Tasks](https://dev.to/wadesterling3125/configure-shipment-queues-for-rate-limiting-webhook-processing-in-http-based-cron-tasks-5c1i)
+- [Decline Codes Are a Taxonomy, Not a List](https://dev.to/swipe-again/decline-codes-are-a-taxonomy-not-a-list-a44)
 <!-- BLOG-POST-LIST:END -->
 
 ---
