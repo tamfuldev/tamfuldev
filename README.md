@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Ceph dashboard discovery is not an object-storage authorization test](https://dev.to/facilishz/ceph-dashboard-discovery-is-not-an-object-storage-authorization-test-k1m)
-- [Replacing an ERP interface? Define API contracts, keep business rules and permissions on the server](https://dev.to/oleksandr_sainchuk/replacing-an-erp-interface-define-api-contracts-keep-business-rules-and-permissions-on-the-server-hf9)
-- [Oops, Apple&#39;s Website Just Hinted at iPad Mini 8](https://dev.to/ashish_624379625242c5d263/oops-apples-website-just-hinted-at-ipad-mini-8-ajo)
-- [JumpToTech DevOps/SRE Bootcamp Production Incident Response Lab — Banking Application on AWS EKS](https://dev.to/jumptotech/jumptotech-devopssre-bootcampproduction-incident-response-lab-banking-application-on-aws-eks-26l6)
-- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Deribit](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-deribit-4g7e)
+- [Windmill discovery must follow workspace tokens into execution authority](https://dev.to/onaeiuspkz/windmill-discovery-must-follow-workspace-tokens-into-execution-authority-14jp)
+- [Finding What Keeps Locking Out an Active Directory Account](https://dev.to/et-ducky/finding-what-keeps-locking-out-an-active-directory-account-1ehd)
+- [What the AI Engineer World&#39;s Fair got right about agents &lpar;and what I&#39;m still skeptical about&rpar;](https://dev.to/camerondev/what-the-ai-engineer-worlds-fair-got-right-about-agents-and-what-im-still-skeptical-about-4dk2)
+- [Notes from the AI Engineer World&#39;s Fair: evals, agents, and what I&#39;d copy](https://dev.to/drewworks/notes-from-the-ai-engineer-worlds-fair-evals-agents-and-what-id-copy-2723)
+- [Moving a side project to Cloud Run: the deploy pipeline I ended up with](https://dev.to/wired_fisher/moving-a-side-project-to-cloud-run-the-deploy-pipeline-i-ended-up-with-3b0g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
