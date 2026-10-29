@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Windmill discovery must follow workspace tokens into execution authority](https://dev.to/onaeiuspkz/windmill-discovery-must-follow-workspace-tokens-into-execution-authority-14jp)
-- [Finding What Keeps Locking Out an Active Directory Account](https://dev.to/et-ducky/finding-what-keeps-locking-out-an-active-directory-account-1ehd)
-- [What the AI Engineer World&#39;s Fair got right about agents &lpar;and what I&#39;m still skeptical about&rpar;](https://dev.to/camerondev/what-the-ai-engineer-worlds-fair-got-right-about-agents-and-what-im-still-skeptical-about-4dk2)
-- [Notes from the AI Engineer World&#39;s Fair: evals, agents, and what I&#39;d copy](https://dev.to/drewworks/notes-from-the-ai-engineer-worlds-fair-evals-agents-and-what-id-copy-2723)
-- [Moving a side project to Cloud Run: the deploy pipeline I ended up with](https://dev.to/wired_fisher/moving-a-side-project-to-cloud-run-the-deploy-pipeline-i-ended-up-with-3b0g)
+- [Kiểm tra AI crawler có đọc được site không: robots.txt, HTML ban đầu và log server](https://dev.to/manhdigital68/kiem-tra-ai-crawler-co-doc-duoc-site-khong-robotstxt-html-ban-dau-va-log-server-3cc6)
+- [Moving Data Between Shopify Stores Is More Complicated Than It Should Be](https://dev.to/tarun_narwariya_a88f13137/moving-data-between-shopify-stores-is-more-complicated-than-it-should-be-4aa5)
+- [How to test your Shopify checkout in 5 minutes &lpar;and what automated checks miss&rpar;](https://dev.to/jayraj0975/how-to-test-your-shopify-checkout-in-5-minutes-and-what-automated-checks-miss-2chd)
+- [Scaling DevOps with AI: MCP, AI Agents &amp; Platform Engineering](https://dev.to/naveedkumbhar/scaling-devops-with-ai-mcp-ai-agents-platform-engineering-410g)
+- [Paperless-ngx reverse-proxy identity needs header discipline](https://dev.to/onaeiuspkz/paperless-ngx-reverse-proxy-identity-needs-header-discipline-36k2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
