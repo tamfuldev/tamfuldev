@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Kiểm tra AI crawler có đọc được site không: robots.txt, HTML ban đầu và log server](https://dev.to/manhdigital68/kiem-tra-ai-crawler-co-doc-duoc-site-khong-robotstxt-html-ban-dau-va-log-server-3cc6)
-- [Moving Data Between Shopify Stores Is More Complicated Than It Should Be](https://dev.to/tarun_narwariya_a88f13137/moving-data-between-shopify-stores-is-more-complicated-than-it-should-be-4aa5)
-- [How to test your Shopify checkout in 5 minutes &lpar;and what automated checks miss&rpar;](https://dev.to/jayraj0975/how-to-test-your-shopify-checkout-in-5-minutes-and-what-automated-checks-miss-2chd)
-- [Scaling DevOps with AI: MCP, AI Agents &amp; Platform Engineering](https://dev.to/naveedkumbhar/scaling-devops-with-ai-mcp-ai-agents-platform-engineering-410g)
-- [Paperless-ngx reverse-proxy identity needs header discipline](https://dev.to/onaeiuspkz/paperless-ngx-reverse-proxy-identity-needs-header-discipline-36k2)
+- [Stop Pasting Prompts: How We Built a 3+1 Multi-Agent Pipeline &amp; Automated 21k Words in 5 Days](https://dev.to/rich_ng_a34aaf594b3c4fe53/stop-pasting-prompts-how-we-built-a-31-multi-agent-pipeline-automated-21k-words-in-5-days-4nbp)
+- [What a Photo Reveals: Image URLs &amp; EXIF Privacy](https://dev.to/damon_0b020d3d5ba9cb/what-a-photo-reveals-image-urls-exif-privacy-5c0h)
+- [&quot;The Night-Before Interview Checklist — What Actually Matters&quot;](https://dev.to/rushdi_hameed_7996818a2be/the-night-before-interview-checklist-what-actually-matters-4jph)
+- [Containers and managed MariaDB services need CVE-2026-85745 provenance checks](https://dev.to/bianliang/containers-and-managed-mariadb-services-need-cve-2026-85745-provenance-checks-15f1)
+- [Why Non-ASCII Input Breaks over SSH: Locales, SendEnv and the `env` Request](https://dev.to/c-wind/why-non-ascii-input-breaks-over-ssh-locales-sendenv-and-the-env-request-506p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
