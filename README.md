@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Connect Page Is the Revenue Page](https://dev.to/swipe-again/the-connect-page-is-the-revenue-page-1hf3)
-- [Most RFCs are never replaced, and errata held for a document update mostly stay held: two pre-registered studies](https://dev.to/munimv2/most-rfcs-are-never-replaced-and-errata-held-for-a-document-update-mostly-stay-held-two-2n80)
-- [Continue.dev vs Cursor: Open-Source Local Privacy vs Proprietary Indexing](https://dev.to/grfdsasdvef/continuedev-vs-cursor-open-source-local-privacy-vs-proprietary-indexing-48lb)
-- [Configure Shipment Queues for Rate-Limiting Webhook Processing in HTTP-Based Cron Tasks](https://dev.to/wadesterling3125/configure-shipment-queues-for-rate-limiting-webhook-processing-in-http-based-cron-tasks-5c1i)
-- [Decline Codes Are a Taxonomy, Not a List](https://dev.to/swipe-again/decline-codes-are-a-taxonomy-not-a-list-a44)
+- [I turned a viral X joke into a working app in one evening &lpar;Next.js 15 + Stripe + Supabase&rpar;](https://dev.to/mariache/i-turned-a-viral-x-joke-into-a-working-app-in-one-evening-nextjs-15-stripe-supabase-l0p)
+- [Website Contact Form Not Sending Email: What Broke in 150 Real Cases](https://dev.to/tusharbhendarkar/website-contact-form-not-sending-email-what-broke-in-150-real-cases-305)
+- [My debugging routine, written down so I stop skipping steps](https://dev.to/suraj_nandan/my-debugging-routine-written-down-so-i-stop-skipping-steps-14a7)
+- [Building Browser-Based Transcription: Workers, Cancellation, and Honest Progress](https://dev.to/flowpick/building-browser-based-transcription-workers-cancellation-and-honest-progress-4b3o)
+- [Git Séance: the deleted files that still haunt your repo](https://dev.to/ishika_mahadar_d922f1e46d/git-seance-the-deleted-files-that-still-haunt-your-repo-29k9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
