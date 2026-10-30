@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Solving AI Agent Amnesia: Building a Self-Hosted Shared Memory Mesh for Coding LLMs](https://dev.to/ahwai_zhang_cebee099d65cb/solving-ai-agent-amnesia-building-a-self-hosted-shared-memory-mesh-for-coding-llms-4f78)
-- [How Organizational Structure Dictates Software Design: Understanding Conway&#39;s Law](https://dev.to/saurav_tb_pandey/how-organizational-structure-dictates-software-design-understanding-conways-law-3c7b)
-- [Building a JTL ERP Integration for Your SaaS: JTL Cloud App or API Sync?](https://dev.to/jtl-softwareeng/building-a-jtl-erp-integration-for-your-saas-jtl-cloud-app-or-api-sync-2l9k)
-- [CVV Dashboard: Bring ClasseViva into Home Assistant](https://dev.to/sythos/cvv-dashboard-bring-classeviva-into-home-assistant-1ln6)
-- [Closing our window does not quit our app, and the line that makes that true is an empty event handler](https://dev.to/daniel_pertu/closing-our-window-does-not-quit-our-app-and-the-line-that-makes-that-true-is-an-empty-event-540e)
+- [What a ZoomEye match for Go does not say about CVE-2026-111943](https://dev.to/andreagomez/what-a-zoomeye-match-for-go-does-not-say-about-cve-2026-111943-3ok)
+- [A 12-step security checklist for vibe-coded apps on Supabase &lpar;2026&rpar;](https://dev.to/patchandship/a-12-step-security-checklist-for-vibe-coded-apps-on-supabase-2026-2nl8)
+- [How Morlix CMS Connects a Website, Blog Module, and External Services](https://dev.to/morlixcms/how-morlix-cms-connects-a-website-blog-module-and-external-services-3obc)
+- [ClaudeArena Usage Guide](https://dev.to/firstprimal/claudearena-usage-guide-4b84)
+- [Current Cost-Effective Alternatives: Managed vs Self-Hosted Python Text-to-Image APIs](https://dev.to/fluxh91/current-cost-effective-alternatives-managed-vs-self-hosted-python-text-to-image-apis-424l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
