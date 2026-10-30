@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [I turned a viral X joke into a working app in one evening &lpar;Next.js 15 + Stripe + Supabase&rpar;](https://dev.to/mariache/i-turned-a-viral-x-joke-into-a-working-app-in-one-evening-nextjs-15-stripe-supabase-l0p)
-- [Website Contact Form Not Sending Email: What Broke in 150 Real Cases](https://dev.to/tusharbhendarkar/website-contact-form-not-sending-email-what-broke-in-150-real-cases-305)
-- [My debugging routine, written down so I stop skipping steps](https://dev.to/suraj_nandan/my-debugging-routine-written-down-so-i-stop-skipping-steps-14a7)
-- [Building Browser-Based Transcription: Workers, Cancellation, and Honest Progress](https://dev.to/flowpick/building-browser-based-transcription-workers-cancellation-and-honest-progress-4b3o)
-- [Git Séance: the deleted files that still haunt your repo](https://dev.to/ishika_mahadar_d922f1e46d/git-seance-the-deleted-files-that-still-haunt-your-repo-29k9)
+- [Solving AI Agent Amnesia: Building a Self-Hosted Shared Memory Mesh for Coding LLMs](https://dev.to/ahwai_zhang_cebee099d65cb/solving-ai-agent-amnesia-building-a-self-hosted-shared-memory-mesh-for-coding-llms-4f78)
+- [How Organizational Structure Dictates Software Design: Understanding Conway&#39;s Law](https://dev.to/saurav_tb_pandey/how-organizational-structure-dictates-software-design-understanding-conways-law-3c7b)
+- [Building a JTL ERP Integration for Your SaaS: JTL Cloud App or API Sync?](https://dev.to/jtl-softwareeng/building-a-jtl-erp-integration-for-your-saas-jtl-cloud-app-or-api-sync-2l9k)
+- [CVV Dashboard: Bring ClasseViva into Home Assistant](https://dev.to/sythos/cvv-dashboard-bring-classeviva-into-home-assistant-1ln6)
+- [Closing our window does not quit our app, and the line that makes that true is an empty event handler](https://dev.to/daniel_pertu/closing-our-window-does-not-quit-our-app-and-the-line-that-makes-that-true-is-an-empty-event-540e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
