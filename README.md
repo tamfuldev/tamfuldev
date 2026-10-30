@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What a ZoomEye match for Go does not say about CVE-2026-111943](https://dev.to/andreagomez/what-a-zoomeye-match-for-go-does-not-say-about-cve-2026-111943-3ok)
-- [A 12-step security checklist for vibe-coded apps on Supabase &lpar;2026&rpar;](https://dev.to/patchandship/a-12-step-security-checklist-for-vibe-coded-apps-on-supabase-2026-2nl8)
-- [How Morlix CMS Connects a Website, Blog Module, and External Services](https://dev.to/morlixcms/how-morlix-cms-connects-a-website-blog-module-and-external-services-3obc)
-- [ClaudeArena Usage Guide](https://dev.to/firstprimal/claudearena-usage-guide-4b84)
-- [Current Cost-Effective Alternatives: Managed vs Self-Hosted Python Text-to-Image APIs](https://dev.to/fluxh91/current-cost-effective-alternatives-managed-vs-self-hosted-python-text-to-image-apis-424l)
+- [Two Seminyak Villas Went Fully Booked on the Same Day. It Was Day 180](https://dev.to/matveyg/two-seminyak-villas-went-fully-booked-on-the-same-day-it-was-day-180-2pen)
+- [We Obtained Free Will By Force: Killing God!](https://dev.to/wiseai/we-obtained-free-will-by-force-killing-god-89o)
+- [Giving AI Coding Agents a Memory That Argues Back](https://dev.to/dcoferraz/giving-ai-coding-agents-a-memory-that-argues-back-26g3)
+- [How I Made Yet Another Project During a Global Teen Hackathon with Prizes](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc)
+- [Squado - Your engineering org on one live canvas](https://dev.to/dropa/squado-your-engineering-org-on-one-live-canvas-o3b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
