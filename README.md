@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Two Seminyak Villas Went Fully Booked on the Same Day. It Was Day 180](https://dev.to/matveyg/two-seminyak-villas-went-fully-booked-on-the-same-day-it-was-day-180-2pen)
-- [We Obtained Free Will By Force: Killing God!](https://dev.to/wiseai/we-obtained-free-will-by-force-killing-god-89o)
-- [Giving AI Coding Agents a Memory That Argues Back](https://dev.to/dcoferraz/giving-ai-coding-agents-a-memory-that-argues-back-26g3)
-- [How I Made Yet Another Project During a Global Teen Hackathon with Prizes](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc)
-- [Squado - Your engineering org on one live canvas](https://dev.to/dropa/squado-your-engineering-org-on-one-live-canvas-o3b)
+- [Halloween Dev Horror: 5 micro stories with protective charms](https://dev.to/dongfutong/halloween-dev-horror-5-micro-stories-with-protective-charms-2p8i)
+- [Find companies that just raised money, straight from SEC Form D filings](https://dev.to/paopaostudio/find-companies-that-just-raised-money-straight-from-sec-form-d-filings-14l2)
+- [Track hiring changes at target companies on Greenhouse, Lever and Ashby &lpar;with a hiring signal score&rpar;](https://dev.to/paopaostudio/track-hiring-changes-at-target-companies-on-greenhouse-lever-and-ashby-with-a-hiring-signal-score-3agn)
+- [Stories We Keep: Carrying Amharic and English Family Memories Forward](https://dev.to/lilymercy/stories-we-keep-carrying-amharic-and-english-family-memories-forward-21p4)
+- [your github repositories are fish now. sorry.](https://dev.to/yupthatscole/your-github-repositories-are-fish-now-sorry-455i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
