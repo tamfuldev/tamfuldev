@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Halloween Dev Horror: 5 micro stories with protective charms](https://dev.to/dongfutong/halloween-dev-horror-5-micro-stories-with-protective-charms-2p8i)
-- [Find companies that just raised money, straight from SEC Form D filings](https://dev.to/paopaostudio/find-companies-that-just-raised-money-straight-from-sec-form-d-filings-14l2)
-- [Track hiring changes at target companies on Greenhouse, Lever and Ashby &lpar;with a hiring signal score&rpar;](https://dev.to/paopaostudio/track-hiring-changes-at-target-companies-on-greenhouse-lever-and-ashby-with-a-hiring-signal-score-3agn)
-- [Stories We Keep: Carrying Amharic and English Family Memories Forward](https://dev.to/lilymercy/stories-we-keep-carrying-amharic-and-english-family-memories-forward-21p4)
-- [your github repositories are fish now. sorry.](https://dev.to/yupthatscole/your-github-repositories-are-fish-now-sorry-455i)
+- [Before You Burn GPU Hours, Smoke-Test One Task on a Cheap CPU Runtime](https://dev.to/koheip/before-you-burn-gpu-hours-smoke-test-one-task-on-a-cheap-cpu-runtime-h8h)
+- [Summarize Kaggle Notebook Status and Logs in ~7 Lines with the Kaggle CLI &lpar;Goodbye, .bat + Notepad&rpar;](https://dev.to/koheip/summarize-kaggle-notebook-status-and-logs-in-7-lines-with-the-kaggle-cli-goodbye-bat-notepad-32o2)
+- [One hotel API vs ten supplier integrations: what we learned](https://dev.to/travelexe_edge91_b08eec3f/one-hotel-api-vs-ten-supplier-integrations-what-we-learned-3dc9)
+- [HAQ](https://dev.to/tabiqzargar/haq-589a)
+- [# 🛡️ Building an Enterprise AML/CFT Risk Intelligence Platform with Gemma 4](https://dev.to/t_asrinivas_518e5dd5ed1a/-building-an-enterprise-amlcft-risk-intelligence-platform-with-gemma-4-145i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
