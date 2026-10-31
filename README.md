@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Before You Burn GPU Hours, Smoke-Test One Task on a Cheap CPU Runtime](https://dev.to/koheip/before-you-burn-gpu-hours-smoke-test-one-task-on-a-cheap-cpu-runtime-h8h)
-- [Summarize Kaggle Notebook Status and Logs in ~7 Lines with the Kaggle CLI &lpar;Goodbye, .bat + Notepad&rpar;](https://dev.to/koheip/summarize-kaggle-notebook-status-and-logs-in-7-lines-with-the-kaggle-cli-goodbye-bat-notepad-32o2)
-- [One hotel API vs ten supplier integrations: what we learned](https://dev.to/travelexe_edge91_b08eec3f/one-hotel-api-vs-ten-supplier-integrations-what-we-learned-3dc9)
-- [HAQ](https://dev.to/tabiqzargar/haq-589a)
-- [# 🛡️ Building an Enterprise AML/CFT Risk Intelligence Platform with Gemma 4](https://dev.to/t_asrinivas_518e5dd5ed1a/-building-an-enterprise-amlcft-risk-intelligence-platform-with-gemma-4-145i)
+- [Source code leakage through AI coding assistants: 5 paths and the control for each](https://dev.to/momin_aziz_1/source-code-leakage-through-ai-coding-assistants-5-paths-and-the-control-for-each-37c7)
+- [Search a YouTube channel&#39;s transcripts and get alerts for new uploads &lpar;Apify, no code&rpar;](https://dev.to/fuloxdev/search-a-youtube-channels-transcripts-and-get-alerts-for-new-uploads-apify-no-code-2ao7)
+- [Read a TLS certificate expiry check without turning every failure into expired](https://dev.to/pki-channnel/read-a-tls-certificate-expiry-check-without-turning-every-failure-into-expired-1kfm)
+- [Introducing NHI-Blast v0.2.0 Beta 🔐](https://dev.to/dinesh_karthick_b/introducing-nhi-blast-v020-beta-1llk)
+- [Airlock: a veto window for your POT, built on Portaldot&#39;s Proxy pallet](https://dev.to/edycutjong/airlock-a-veto-window-for-your-pot-built-on-portaldots-proxy-pallet-390k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
