@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Source code leakage through AI coding assistants: 5 paths and the control for each](https://dev.to/momin_aziz_1/source-code-leakage-through-ai-coding-assistants-5-paths-and-the-control-for-each-37c7)
-- [Search a YouTube channel&#39;s transcripts and get alerts for new uploads &lpar;Apify, no code&rpar;](https://dev.to/fuloxdev/search-a-youtube-channels-transcripts-and-get-alerts-for-new-uploads-apify-no-code-2ao7)
-- [Read a TLS certificate expiry check without turning every failure into expired](https://dev.to/pki-channnel/read-a-tls-certificate-expiry-check-without-turning-every-failure-into-expired-1kfm)
-- [Introducing NHI-Blast v0.2.0 Beta 🔐](https://dev.to/dinesh_karthick_b/introducing-nhi-blast-v020-beta-1llk)
-- [Airlock: a veto window for your POT, built on Portaldot&#39;s Proxy pallet](https://dev.to/edycutjong/airlock-a-veto-window-for-your-pot-built-on-portaldots-proxy-pallet-390k)
+- [How to read passport data with NFC in a Capacitor app](https://dev.to/muzychenka/i-built-a-capacitor-plugin-for-scanning-passports-and-id-cards-with-nfc-27ko)
+- [Building QuantGuard: A Cloud-Native Financial Risk API with DevSecOps &amp; FinOps on Azure](https://dev.to/blessing_a/building-quantguard-a-cloud-native-financial-risk-api-with-devsecops-finops-on-azure-1hci)
+- [A project very close to my heart](https://dev.to/aaliya_khan_d2ba2f07c5f03/a-project-very-close-to-my-heart-6n0)
+- [The perceptron: the 1958 machine that learned from its mistakes](https://dev.to/logitsolutionsai/the-perceptron-the-1958-machine-that-learned-from-its-mistakes-2eoc)
+- [How to stop Cursor and Claude Code breaking your project: a free AGENTS.md starter](https://dev.to/theodorecreatesco/how-to-stop-cursor-and-claude-code-breaking-your-project-a-free-agentsmd-starter-2273)
 <!-- BLOG-POST-LIST:END -->
 
 ---
