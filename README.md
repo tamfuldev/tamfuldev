@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Leafy Goose: A Human-Led AI Assistant for Maintainers’ Community Work](https://dev.to/anajsana95/leafy-goose-a-human-led-ai-assistant-for-maintainers-community-work-64f)
-- [Building Zero-Dependency Python + SQLite Business Apps &lpar;Plus 5 Free Scripts&rpar;](https://dev.to/antigravitydev/building-zero-dependency-python-sqlite-business-apps-plus-5-free-scripts-1ljo)
-- [Exorcist: a local Gemma that hunts ghosts in your node_modules](https://dev.to/youngbari/exorcist-a-local-gemma-that-hunts-ghosts-in-your-nodemodules-1bao)
-- [How to deploy a Next.js app on Ownkube](https://dev.to/abhijais1/how-to-deploy-a-nextjs-app-on-ownkube-2h5b)
-- [The browser title was correct. The Open Graph title wasn’t.](https://dev.to/stackendbox/the-browser-title-was-correct-the-open-graph-title-wasnt-9i1)
+- [An agent that remembers who burned it](https://dev.to/swiftbotlab/an-agent-that-remembers-who-burned-it-4gdl)
+- [Votre cron est mort depuis trois semaines et personne ne vous a rien dit](https://dev.to/devdusud/votre-cron-est-mort-depuis-trois-semaines-et-personne-ne-vous-a-rien-dit-1fpc)
+- [How to Get Your GitLab Merge Requests Reviewed &amp; Merged: A Practical Guide](https://dev.to/hrlpavan/how-to-get-your-gitlab-merge-requests-reviewed-merged-a-practical-guide-866)
+- [OpenAI&#39;s Daybreak Red: GPT-5.6 Cyber for vulnerability research now on Amazon Bedrock in AWS GovCloud &lpar;US-East&rpar;](https://dev.to/pklavc/openais-daybreak-red-gpt-56-cyber-for-vulnerability-research-now-on-amazon-bedrock-in-aws-3k0e)
+- [Getting My App Ready for iPhone Duo](https://dev.to/mdkaifansari04/getting-my-app-ready-for-iphone-duo-1bji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
