@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The Webhook Arrived Twice: Deduplicating Webhook Deliveries in n8n](https://dev.to/haopengai/the-webhook-arrived-twice-deduplicating-webhook-deliveries-in-n8n-49jm)
-- [Huobidex - a curated directory for finding tools worth your time](https://dev.to/benjscott/huobidex-a-curated-directory-for-finding-tools-worth-your-time-2ccf)
-- [[Boost]](https://dev.to/knictrace24/-4faf)
-- [Witching Hour: even a ghost has to cite its sources](https://dev.to/jenniferevangelistade/witching-hour-even-a-ghost-has-to-cite-its-sources-4kf9)
-- [Pull a Bluesky profile and recent posts with the public API &lpar;no login, no key&rpar;](https://dev.to/northgrid-data/pull-a-bluesky-profile-and-recent-posts-with-the-public-api-no-login-no-key-f89)
+- [Bygga eller köpa? AI-kundtjänst inhouse vs. partner vs. SaaS](https://dev.to/rickardcollander/bygga-eller-kopa-ai-kundtjanst-inhouse-vs-partner-vs-saas-nhm)
+- [I got tired of copying text back and forth to translate it. Building the Mac workflow was the harder part.](https://dev.to/yousurm/i-got-tired-of-copying-text-back-and-forth-to-translate-it-building-the-mac-workflow-was-the-57cl)
+- [Your premium preview audit may be measuring a probe cap](https://dev.to/dataspryva/your-premium-preview-audit-may-be-measuring-a-probe-cap-10lc)
+- [My Read of Four Datasets: Native-Only Looks Like the Weakest Mobile Bet in 2026](https://dev.to/5uper0/my-read-of-four-datasets-native-only-looks-like-the-weakest-mobile-bet-in-2026-4pe9)
+- [Why Does My Phone Security Camera Only Show a Reflection at Night? Recording Through a Window, Double Glazing and Mosquito Mesh](https://dev.to/superfunicular/why-does-my-phone-security-camera-only-show-a-reflection-at-night-recording-through-a-window-2jd9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
