@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Bygga eller köpa? AI-kundtjänst inhouse vs. partner vs. SaaS](https://dev.to/rickardcollander/bygga-eller-kopa-ai-kundtjanst-inhouse-vs-partner-vs-saas-nhm)
-- [I got tired of copying text back and forth to translate it. Building the Mac workflow was the harder part.](https://dev.to/yousurm/i-got-tired-of-copying-text-back-and-forth-to-translate-it-building-the-mac-workflow-was-the-57cl)
-- [Your premium preview audit may be measuring a probe cap](https://dev.to/dataspryva/your-premium-preview-audit-may-be-measuring-a-probe-cap-10lc)
-- [My Read of Four Datasets: Native-Only Looks Like the Weakest Mobile Bet in 2026](https://dev.to/5uper0/my-read-of-four-datasets-native-only-looks-like-the-weakest-mobile-bet-in-2026-4pe9)
-- [Why Does My Phone Security Camera Only Show a Reflection at Night? Recording Through a Window, Double Glazing and Mosquito Mesh](https://dev.to/superfunicular/why-does-my-phone-security-camera-only-show-a-reflection-at-night-recording-through-a-window-2jd9)
+- [Leafy Goose: A Human-Led AI Assistant for Maintainers’ Community Work](https://dev.to/anajsana95/leafy-goose-a-human-led-ai-assistant-for-maintainers-community-work-64f)
+- [Building Zero-Dependency Python + SQLite Business Apps &lpar;Plus 5 Free Scripts&rpar;](https://dev.to/antigravitydev/building-zero-dependency-python-sqlite-business-apps-plus-5-free-scripts-1ljo)
+- [Exorcist: a local Gemma that hunts ghosts in your node_modules](https://dev.to/youngbari/exorcist-a-local-gemma-that-hunts-ghosts-in-your-nodemodules-1bao)
+- [How to deploy a Next.js app on Ownkube](https://dev.to/abhijais1/how-to-deploy-a-nextjs-app-on-ownkube-2h5b)
+- [The browser title was correct. The Open Graph title wasn’t.](https://dev.to/stackendbox/the-browser-title-was-correct-the-open-graph-title-wasnt-9i1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
