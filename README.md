@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [7 real cases where ChatGPT and Claude got datasheet values wrong &lpar;and how to check them&rpar;](https://dev.to/_30b2d57c3ad69af356f64/7-real-cases-where-chatgpt-and-claude-got-datasheet-values-wrong-and-how-to-check-them-55bm)
-- [AI agents write almost all my code; a review counts for one exact commit](https://dev.to/yussieik/ai-agents-write-almost-all-my-code-a-review-counts-for-one-exact-commit-4b0m)
-- [Gauge Chart for the Composite Credit Score](https://dev.to/paohaijiao/gauge-chart-for-the-composite-credit-score-39d4)
-- [Python Profiling Tools: Analyzing the Impact of Tachyon and Free-Threading on Current Solutions](https://dev.to/romdevin/python-profiling-tools-analyzing-the-impact-of-tachyon-and-free-threading-on-current-solutions-moe)
-- [Single-Turn and Multi-Turn Interactions in Frontier Generative AI Models: State, cost, reliability, security, and governance](https://dev.to/aridiosilva/single-turn-and-multi-turn-interactions-in-frontier-generative-ai-models-state-cost-reliability-1e8k)
+- [Drupal Confirms Active Exploitation of Commerce Core Access-Control Flaw](https://dev.to/tmgsvn/drupal-confirms-active-exploitation-of-commerce-core-access-control-flaw-1ad1)
+- [When an MCP Tool Returns Too Much: Pagination and Truncation](https://dev.to/jeff_pdc/when-an-mcp-tool-returns-too-much-pagination-and-truncation-1458)
+- [Tests That Depend on the Current Date: Freezing the Clock Instead of Hoping](https://dev.to/jeff_pdc/tests-that-depend-on-the-current-date-freezing-the-clock-instead-of-hoping-f1d)
+- [Designing a Medication Administration Record for NDIS Support: Fields, Dose Outcomes and the Checks That Matter &lpar;2026&rpar;](https://dev.to/rostery/designing-a-medication-administration-record-for-ndis-support-fields-dose-outcomes-and-the-checks-3mbh)
+- [2/11](https://dev.to/learner666/211-387n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
