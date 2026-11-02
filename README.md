@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Drupal Confirms Active Exploitation of Commerce Core Access-Control Flaw](https://dev.to/tmgsvn/drupal-confirms-active-exploitation-of-commerce-core-access-control-flaw-1ad1)
-- [When an MCP Tool Returns Too Much: Pagination and Truncation](https://dev.to/jeff_pdc/when-an-mcp-tool-returns-too-much-pagination-and-truncation-1458)
-- [Tests That Depend on the Current Date: Freezing the Clock Instead of Hoping](https://dev.to/jeff_pdc/tests-that-depend-on-the-current-date-freezing-the-clock-instead-of-hoping-f1d)
-- [Designing a Medication Administration Record for NDIS Support: Fields, Dose Outcomes and the Checks That Matter &lpar;2026&rpar;](https://dev.to/rostery/designing-a-medication-administration-record-for-ndis-support-fields-dose-outcomes-and-the-checks-3mbh)
-- [2/11](https://dev.to/learner666/211-387n)
+- [Hydration Pitfalls in Modern Frameworks: What Really Happens When the Client Reconciles Server HTML](https://dev.to/mspk97/hydration-pitfalls-in-modern-frameworks-what-really-happens-when-the-client-reconciles-server-html-2k9m)
+- [Slang Is a Dial: Training a 125M Language Model From Scratch on Free GPUs](https://dev.to/ravikishan/slang-is-a-dial-training-a-125m-language-model-from-scratch-on-free-gpus-2g3k)
+- [How AI Chatbots Work: Frontend, Backend, Tokens &amp; Context Explained](https://dev.to/anjaliguptatechverse/how-ai-chatbots-work-frontend-backend-tokens-context-explained-50i8)
+- [Why Employee Inventions Are Becoming a Strategic Business Issue](https://dev.to/grelvoryn_legal123/why-employee-inventions-are-becoming-a-strategic-business-issue-56ol)
+- [Designing a Scalable AI-Powered Serverless Text-to-Speech System with AWS Polly](https://dev.to/usman_tahir/designing-a-scalable-ai-powered-serverless-text-to-speech-system-with-aws-polly-299d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
