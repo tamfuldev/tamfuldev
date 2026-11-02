@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hydration Pitfalls in Modern Frameworks: What Really Happens When the Client Reconciles Server HTML](https://dev.to/mspk97/hydration-pitfalls-in-modern-frameworks-what-really-happens-when-the-client-reconciles-server-html-2k9m)
-- [Slang Is a Dial: Training a 125M Language Model From Scratch on Free GPUs](https://dev.to/ravikishan/slang-is-a-dial-training-a-125m-language-model-from-scratch-on-free-gpus-2g3k)
-- [How AI Chatbots Work: Frontend, Backend, Tokens &amp; Context Explained](https://dev.to/anjaliguptatechverse/how-ai-chatbots-work-frontend-backend-tokens-context-explained-50i8)
-- [Why Employee Inventions Are Becoming a Strategic Business Issue](https://dev.to/grelvoryn_legal123/why-employee-inventions-are-becoming-a-strategic-business-issue-56ol)
-- [Designing a Scalable AI-Powered Serverless Text-to-Speech System with AWS Polly](https://dev.to/usman_tahir/designing-a-scalable-ai-powered-serverless-text-to-speech-system-with-aws-polly-299d)
+- [Why UI Tests Break Every Sprint &lpar;and What an AI Testing Agent Changes&rpar;](https://dev.to/vivek_1122/why-ui-tests-break-every-sprint-and-what-an-ai-testing-agent-changes-4cea)
+- [Word.LineFormat lost 8 documented properties in Office.js 16.0.20619](https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85)
+- [Find Duplicate Files in the Browser: SHA-256 Groups, Not Uploads](https://dev.to/onepassapps/find-duplicate-files-in-the-browser-sha-256-groups-not-uploads-1fd)
+- [Agents Make Trunk-Based Development Cheap: One Task, One Branch, Landed Same Day](https://dev.to/gabrielanhaia/agents-make-trunk-based-development-cheap-one-task-one-branch-landed-same-day-56h6)
+- [Free vs Paid Next.js SaaS Boilerplates &lpar;2026&rpar;: What You Actually Get](https://dev.to/jakemcdonald/free-vs-paid-nextjs-saas-boilerplates-2026-what-you-actually-get-5dm7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
