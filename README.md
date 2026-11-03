@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple News Aggregator in Python Using RSS Feeds](https://dev.to/seo_work_7f13fe403ee395d5/build-a-simple-news-aggregator-in-python-using-rss-feeds-1lb0)
-- [Buy Was Always Right — Which Is Why the Bug Survived 383 Trades](https://dev.to/samhartley_dev/buy-was-always-right-which-is-why-the-bug-survived-383-trades-1n9i)
-- [The AI endpoint that charges you money when somebody abuses it](https://dev.to/lawaloyinlola/the-ai-endpoint-that-charges-you-money-when-somebody-abuses-it-43j0)
-- [TypeScript Email Fixtures That Fail Clearly](https://dev.to/ryanlee91/typescript-email-fixtures-that-fail-clearly-3mfo)
-- [Someone asked for an encrypted clipboard. We built it with one prompt and 5 rounds of feedback.](https://dev.to/spareteam/someone-asked-for-an-encrypted-clipboard-we-built-it-with-one-prompt-and-5-rounds-of-feedback-2djp)
+- [AI Hiring in a Live Company: The Agent Filled the Funnel. The AI Interview&#39;s Labels Did Not Line Up With Who Is Still Working](https://dev.to/arsentev/ai-hiring-in-a-live-company-the-agent-filled-the-funnel-the-ai-interviews-labels-did-not-line-up-54ef)
+- [Built a Sovereign AI to Fight FinTech Chargebacks &lpar;Zero SDKs, Zero Hallucinations&rpar;](https://dev.to/ursarthak_11/built-a-sovereign-ai-to-fight-fintech-chargebacks-zero-sdks-zero-hallucinations-1h58)
+- [[Boost]](https://dev.to/sudodevesh/-23p0)
+- [Postman installed itself into Codex and Claude](https://dev.to/frankchu/postman-installed-itself-into-codex-and-claude-e38)
+- [The Speed Dilemma: Why AI Coding Agents Are Outpacing Your Test Suites](https://dev.to/tamizuddin/the-speed-dilemma-why-ai-coding-agents-are-outpacing-your-test-suites-1ke1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
