@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why UI Tests Break Every Sprint &lpar;and What an AI Testing Agent Changes&rpar;](https://dev.to/vivek_1122/why-ui-tests-break-every-sprint-and-what-an-ai-testing-agent-changes-4cea)
-- [Word.LineFormat lost 8 documented properties in Office.js 16.0.20619](https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85)
-- [Find Duplicate Files in the Browser: SHA-256 Groups, Not Uploads](https://dev.to/onepassapps/find-duplicate-files-in-the-browser-sha-256-groups-not-uploads-1fd)
-- [Agents Make Trunk-Based Development Cheap: One Task, One Branch, Landed Same Day](https://dev.to/gabrielanhaia/agents-make-trunk-based-development-cheap-one-task-one-branch-landed-same-day-56h6)
-- [Free vs Paid Next.js SaaS Boilerplates &lpar;2026&rpar;: What You Actually Get](https://dev.to/jakemcdonald/free-vs-paid-nextjs-saas-boilerplates-2026-what-you-actually-get-5dm7)
+- [MCP server managers for Claude Code, Codex and Gemini CLI &lpar;2026&rpar;](https://dev.to/agentverateam/mcp-server-managers-for-claude-code-codex-and-gemini-cli-2026-162)
+- [How Does External Traffic Reach Your Pods? Kubernetes Ingress Explained](https://dev.to/sreekanth_kuruba_91721e5d/how-does-external-traffic-reach-your-pods-kubernetes-ingress-explained-4ab)
+- [Trust, but Verify: Setting Boundaries for AI in Your Dev Workflow](https://dev.to/dythonai_info_ca83b5413b8/trust-but-verify-setting-boundaries-for-ai-in-your-dev-workflow-22f8)
+- [Embedded GUI Design: A Practical Integration Checklist for Firmware Engineers](https://dev.to/stone_module/embedded-gui-design-a-practical-integration-checklist-for-firmware-engineers-4kbm)
+- [Percent Change, Explained: The Math Behind Increases, Decreases, and the 10% Trap](https://dev.to/calcrio/percent-change-explained-the-math-behind-increases-decreases-and-the-10-trap-4n1h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
