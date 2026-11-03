@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [MCP server managers for Claude Code, Codex and Gemini CLI &lpar;2026&rpar;](https://dev.to/agentverateam/mcp-server-managers-for-claude-code-codex-and-gemini-cli-2026-162)
-- [How Does External Traffic Reach Your Pods? Kubernetes Ingress Explained](https://dev.to/sreekanth_kuruba_91721e5d/how-does-external-traffic-reach-your-pods-kubernetes-ingress-explained-4ab)
-- [Trust, but Verify: Setting Boundaries for AI in Your Dev Workflow](https://dev.to/dythonai_info_ca83b5413b8/trust-but-verify-setting-boundaries-for-ai-in-your-dev-workflow-22f8)
-- [Embedded GUI Design: A Practical Integration Checklist for Firmware Engineers](https://dev.to/stone_module/embedded-gui-design-a-practical-integration-checklist-for-firmware-engineers-4kbm)
-- [Percent Change, Explained: The Math Behind Increases, Decreases, and the 10% Trap](https://dev.to/calcrio/percent-change-explained-the-math-behind-increases-decreases-and-the-10-trap-4n1h)
+- [Build a Simple News Aggregator in Python Using RSS Feeds](https://dev.to/seo_work_7f13fe403ee395d5/build-a-simple-news-aggregator-in-python-using-rss-feeds-1lb0)
+- [Buy Was Always Right — Which Is Why the Bug Survived 383 Trades](https://dev.to/samhartley_dev/buy-was-always-right-which-is-why-the-bug-survived-383-trades-1n9i)
+- [The AI endpoint that charges you money when somebody abuses it](https://dev.to/lawaloyinlola/the-ai-endpoint-that-charges-you-money-when-somebody-abuses-it-43j0)
+- [TypeScript Email Fixtures That Fail Clearly](https://dev.to/ryanlee91/typescript-email-fixtures-that-fail-clearly-3mfo)
+- [Someone asked for an encrypted clipboard. We built it with one prompt and 5 rounds of feedback.](https://dev.to/spareteam/someone-asked-for-an-encrypted-clipboard-we-built-it-with-one-prompt-and-5-rounds-of-feedback-2djp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
