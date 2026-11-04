@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Remember What You Learn From Stack Overflow &lpar;Without Bookmarking Forever&rpar;](https://dev.to/spartanrich430/how-to-remember-what-you-learn-from-stack-overflow-without-bookmarking-forever-313a)
-- [We Checked 61 Official MCP Servers Against the Auth Spec](https://dev.to/x1y1co/we-checked-61-official-mcp-servers-against-the-auth-spec-48i4)
-- [This implant can restore sight for patients with macular degeneration](https://dev.to/ashish_624379625242c5d263/this-implant-can-restore-sight-for-patients-with-macular-degeneration-23ne)
-- [My scheduled task didn&#39;t run, and the AI guessed the Mac was asleep without checking the logs](https://dev.to/waitlab/my-scheduled-task-didnt-run-and-the-ai-guessed-the-mac-was-asleep-without-checking-the-logs-5p4)
-- [Asymmetrical State Drift: Why 5-Layer Notion Workspaces Collapse on Tuesday at 3 PM](https://dev.to/portalkinetic/asymmetrical-state-drift-why-5-layer-notion-workspaces-collapse-on-tuesday-at-3-pm-2kaj)
+- [More Than a Code Assistant: Building Your Custom Toolchain with Claude Code Plugins &lpar;1/4&rpar;](https://dev.to/robinmin/more-than-a-code-assistant-building-your-custom-toolchain-with-claude-code-plugins-14-3gi0)
+- [Proton enttäuscht mit KI-Vorstoß – Amblyopie-Training: VR statt Pflaster?](https://dev.to/ashish_624379625242c5d263/proton-enttauscht-mit-ki-vorstoss-amblyopie-training-vr-statt-pflaster-33gp)
+- [AWS S3 Bucket Versioning: Protect Your Data from Accidental Deletes and Overwrites](https://dev.to/vishal_patil_aws/aws-s3-bucket-versioning-protect-your-data-from-accidental-deletes-and-overwrites-2bld)
+- [Compare how a keyword is doing on TikTok, YouTube and X in Python](https://dev.to/qovia/compare-how-a-keyword-is-doing-on-tiktok-youtube-and-x-in-python-4nc3)
+- [PageSift 1.0: the Rust web content engine is feature-complete](https://dev.to/yolow92/pagesift-10-the-rust-web-content-engine-is-feature-complete-51m7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
