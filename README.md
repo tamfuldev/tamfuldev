@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Moonshot AI&#39;s Kimi 3D Make Builds a Two-Arm Robot Workcell From a Single Prompt](https://dev.to/gptbrunch/moonshot-ais-kimi-3d-make-builds-a-two-arm-robot-workcell-from-a-single-prompt-6d6)
-- [I built an open-source Notion alternative that runs in a single Docker container](https://dev.to/yannics/i-built-an-open-source-notion-alternative-that-runs-in-a-single-docker-container-5bdn)
-- [🚀 New React Challenge: Collaborative Editor](https://dev.to/reactchallenges/new-react-challenge-collaborative-editor-1kdk)
-- [Mitigating WebSocket Retry Storms: Preventing Server-Side Thread and Event-Loop Starvation](https://dev.to/toai/mitigating-websocket-retry-storms-preventing-server-side-thread-and-event-loop-starvation-5dca)
-- [Fixing Git Push Fatal Errors: How to Soft Reset, Find Bloated Files Over 50MB, and Push Successfully](https://dev.to/abdulsalamamtech/fixing-git-push-fatal-errors-how-to-soft-reset-find-bloated-files-over-50mb-and-push-successfully-4m6m)
+- [Beyond the Chatbot: 5 Mind-Blowing AI Breakthroughs Reshaping Tech Right Now](https://dev.to/vectoralai/beyond-the-chatbot-5-mind-blowing-ai-breakthroughs-reshaping-tech-right-now-2c0o)
+- [A Practical Data Contract for CTV Campaign Measurement](https://dev.to/daviddacruz/a-practical-data-contract-for-ctv-campaign-measurement-3n1p)
+- [UET Taxila Closing Merit 2025: Cycle II Closed Up to 19 Points Higher](https://dev.to/devhms/uet-taxila-closing-merit-2025-cycle-ii-closed-up-to-19-points-higher-59ao)
+- [My Invite Gate Held. The Database Had a Side Door.](https://dev.to/marcoblch/my-invite-gate-held-the-database-had-a-side-door-448b)
+- [Our AI companion&#39;s memory search was upside down for four months, and nothing looked broken](https://dev.to/siyajk_e58bfe4ebd656d1885/our-ai-companions-memory-search-was-upside-down-for-four-months-and-nothing-looked-broken-1073)
 <!-- BLOG-POST-LIST:END -->
 
 ---
