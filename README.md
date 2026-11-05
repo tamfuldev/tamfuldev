@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Chatbot: 5 Mind-Blowing AI Breakthroughs Reshaping Tech Right Now](https://dev.to/vectoralai/beyond-the-chatbot-5-mind-blowing-ai-breakthroughs-reshaping-tech-right-now-2c0o)
-- [A Practical Data Contract for CTV Campaign Measurement](https://dev.to/daviddacruz/a-practical-data-contract-for-ctv-campaign-measurement-3n1p)
-- [UET Taxila Closing Merit 2025: Cycle II Closed Up to 19 Points Higher](https://dev.to/devhms/uet-taxila-closing-merit-2025-cycle-ii-closed-up-to-19-points-higher-59ao)
-- [My Invite Gate Held. The Database Had a Side Door.](https://dev.to/marcoblch/my-invite-gate-held-the-database-had-a-side-door-448b)
-- [Our AI companion&#39;s memory search was upside down for four months, and nothing looked broken](https://dev.to/siyajk_e58bfe4ebd656d1885/our-ai-companions-memory-search-was-upside-down-for-four-months-and-nothing-looked-broken-1073)
+- [Qwen Still Takes Half of Open-LLM Downloads: What Changed in the Hugging Face Top 300 Since September](https://dev.to/ai_openfree_b23025ef075cf/qwen-still-takes-half-of-open-llm-downloads-what-changed-in-the-hugging-face-top-300-since-1gbn)
+- [SWE-bench Verified on Hugging Face: 9 Self-Reported Rows Top the Official Table&#39;s Best, and 6 Repos Fill 16 of 78 Rows](https://dev.to/ward_ed_6b5e6aa8ded94a987/swe-bench-verified-on-hugging-face-9-self-reported-rows-top-the-official-tables-best-and-6-repos-3173)
+- [NIKKE PC launcher hack: was my PC infected? k2f_chan in debug.log, 4 traces to check, accounts to rotate &lpar;2026-11-04&rpar;](https://dev.to/ilan_kim/nikke-pc-launcher-hack-was-my-pc-infected-k2fchan-in-debuglog-4-traces-to-check-accounts-to-21bn)
+- [How to Crop a Video With FFmpeg &lpar;16:9 to 9:16, One Window per Shot&rpar;](https://dev.to/voorai/how-to-crop-a-video-with-ffmpeg-169-to-916-one-window-per-shot-1794)
+- [MycoBot: Growing Gourmet Mushrooms With Elixir &amp; Nerves](https://dev.to/jonlunsford/mycobot-growing-gourmet-mushrooms-with-elixir-nerves-lpn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
