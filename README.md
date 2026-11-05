@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Human in the loop AI: testing if a prep note moves the forecast](https://dev.to/kimolsen/human-in-the-loop-ai-testing-if-a-prep-note-moves-the-forecast-14ji)
-- [Why Rust Web Development Sucked for Web Developers &lpar;Until Now&rpar;](https://dev.to/somens_8dworld_53ba0a92/why-rust-web-development-sucked-for-web-developers-until-now-g0f)
-- [Choosing an Agent Memory Tool: Test Concurrent Corrections](https://dev.to/plur9/choosing-an-agent-memory-tool-test-concurrent-corrections-jeb)
-- [MLH Dev Hackathon Hacktoberfest 2026](https://dev.to/brishti_karmakar_c919ac06/mlh-x-dev-hackathon-x-hacktoberfest-2026-2lf5)
-- [58% of the workday is work about work. Which tool actually fixes that?](https://dev.to/dusky_memom3103/58-of-the-workday-is-work-about-work-which-tool-actually-fixes-that-bc8)
+- [The Real Cost of CMMC Was Never the Certification](https://dev.to/larry_downard_cyberneza/the-real-cost-of-cmmc-was-never-the-certification-l61)
+- [I made a simple screen-wide lightbar overlay for Linux](https://dev.to/praxham/i-made-a-simple-screen-wide-lightbar-overlay-for-linux-3kp9)
+- [Wie finde ich das kostenlose Volltext-PDF einer Studie anhand ihrer DOI?](https://dev.to/bestaitools-de/wie-finde-ich-das-kostenlose-volltext-pdf-einer-studie-anhand-ihrer-doi-3b7d)
+- [AI helped you ship faster. Can your users keep up?](https://dev.to/cueston/ai-helped-you-ship-faster-can-your-users-keep-up-1a7m)
+- [16,000 databases, and the four ways row-level security silently fails](https://dev.to/verdantstack/16000-databases-and-the-four-ways-row-level-security-silently-fails-4p4h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
