@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen Still Takes Half of Open-LLM Downloads: What Changed in the Hugging Face Top 300 Since September](https://dev.to/ai_openfree_b23025ef075cf/qwen-still-takes-half-of-open-llm-downloads-what-changed-in-the-hugging-face-top-300-since-1gbn)
-- [SWE-bench Verified on Hugging Face: 9 Self-Reported Rows Top the Official Table&#39;s Best, and 6 Repos Fill 16 of 78 Rows](https://dev.to/ward_ed_6b5e6aa8ded94a987/swe-bench-verified-on-hugging-face-9-self-reported-rows-top-the-official-tables-best-and-6-repos-3173)
-- [NIKKE PC launcher hack: was my PC infected? k2f_chan in debug.log, 4 traces to check, accounts to rotate &lpar;2026-11-04&rpar;](https://dev.to/ilan_kim/nikke-pc-launcher-hack-was-my-pc-infected-k2fchan-in-debuglog-4-traces-to-check-accounts-to-21bn)
-- [How to Crop a Video With FFmpeg &lpar;16:9 to 9:16, One Window per Shot&rpar;](https://dev.to/voorai/how-to-crop-a-video-with-ffmpeg-169-to-916-one-window-per-shot-1794)
-- [MycoBot: Growing Gourmet Mushrooms With Elixir &amp; Nerves](https://dev.to/jonlunsford/mycobot-growing-gourmet-mushrooms-with-elixir-nerves-lpn)
+- [Human in the loop AI: testing if a prep note moves the forecast](https://dev.to/kimolsen/human-in-the-loop-ai-testing-if-a-prep-note-moves-the-forecast-14ji)
+- [Why Rust Web Development Sucked for Web Developers &lpar;Until Now&rpar;](https://dev.to/somens_8dworld_53ba0a92/why-rust-web-development-sucked-for-web-developers-until-now-g0f)
+- [Choosing an Agent Memory Tool: Test Concurrent Corrections](https://dev.to/plur9/choosing-an-agent-memory-tool-test-concurrent-corrections-jeb)
+- [MLH Dev Hackathon Hacktoberfest 2026](https://dev.to/brishti_karmakar_c919ac06/mlh-x-dev-hackathon-x-hacktoberfest-2026-2lf5)
+- [58% of the workday is work about work. Which tool actually fixes that?](https://dev.to/dusky_memom3103/58-of-the-workday-is-work-about-work-which-tool-actually-fixes-that-bc8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
