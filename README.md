@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Antigravity Remote Agents mean the agent works while you sleep - here&#39;s what that actually changes](https://dev.to/mayabrennan/googles-antigravity-remote-agents-mean-the-agent-works-while-you-sleep-heres-what-that-actually-n3h)
-- [Budget the Free Tokens Like Cash: One Wallet per Feature](https://dev.to/rivera123/budget-the-free-tokens-like-cash-one-wallet-per-feature-452j)
-- [Cara Code, IDE, dan Wiki di osFoundry menjaga pekerjaan beberapa agen AI paralel tetap mudah di-review](https://dev.to/tauchi-id/cara-code-ide-dan-wiki-di-osfoundry-menjaga-pekerjaan-beberapa-agen-ai-paralel-tetap-mudah-54gg)
-- [Judge a Free AI Tier by Its Exit Cost, Not Its Entry Price](https://dev.to/kongkong1/judge-a-free-ai-tier-by-its-exit-cost-not-its-entry-price-1782)
-- [When a robot misses the stack, which model needs fixing?](https://dev.to/panditshivam/when-a-robot-misses-the-stack-which-model-needs-fixing-59i4)
+- [Give parallel browser jobs an account-level budget](https://dev.to/browser_act_e2505dbdf454a/give-parallel-browser-jobs-an-account-level-budget-37e)
+- [Qué hace Agent team en osFoundry y cuándo basta con un solo agente](https://dev.to/tauchi-es/que-hace-agent-team-en-osfoundry-y-cuando-basta-con-un-solo-agente-1a8)
+- [AWS Web Answer Turns One MCP Call Into a Cited Answer — Here&#39;s What It Costs and Where It Stops](https://dev.to/paullovelace/aws-web-answer-turns-one-mcp-call-into-a-cited-answer-heres-what-it-costs-and-where-it-stops-4c47)
+- [48-Hour Field Notes: My Resume Saved a Position Instead of a Record, and Nine Inputs Went Missing](https://dev.to/codepy_1473/48-hour-field-notes-my-resume-saved-a-position-instead-of-a-record-and-nine-inputs-went-missing-a2m)
+- [DSCR for a Rental Loan File: Rent PITIA, With the Formula Shown](https://dev.to/statementready-hq/dscr-for-a-rental-loan-file-rent-pitia-with-the-formula-shown-1k5j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
