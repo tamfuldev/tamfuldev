@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Physical Android Devices Remotely from Android Studio &lpar;Without VPNs&rpar;](https://dev.to/wider_dev/how-to-debug-physical-android-devices-remotely-from-android-studio-without-vpns-5ca2)
-- [How to Say No to a Client Without Losing the Project](https://dev.to/abyzgenic/how-to-say-no-to-a-client-without-losing-the-project-4gbl)
-- [What Makes Dunning Software &quot;Subscription&quot; Software](https://dev.to/swipeagain/what-makes-dunning-software-subscription-software-124c)
-- [MDX Components in Docs: Portability and Lock-In vs Plain Markdown](https://dev.to/jeff_pdc/mdx-components-in-docs-portability-and-lock-in-vs-plain-markdown-c73)
-- [Variable Scope and Precedence: Request, Environment, and Global Values in Insomnia](https://dev.to/jeff_pdc/variable-scope-and-precedence-request-environment-and-global-values-in-insomnia-336m)
+- [Google&#39;s Antigravity Remote Agents mean the agent works while you sleep - here&#39;s what that actually changes](https://dev.to/mayabrennan/googles-antigravity-remote-agents-mean-the-agent-works-while-you-sleep-heres-what-that-actually-n3h)
+- [Budget the Free Tokens Like Cash: One Wallet per Feature](https://dev.to/rivera123/budget-the-free-tokens-like-cash-one-wallet-per-feature-452j)
+- [Cara Code, IDE, dan Wiki di osFoundry menjaga pekerjaan beberapa agen AI paralel tetap mudah di-review](https://dev.to/tauchi-id/cara-code-ide-dan-wiki-di-osfoundry-menjaga-pekerjaan-beberapa-agen-ai-paralel-tetap-mudah-54gg)
+- [Judge a Free AI Tier by Its Exit Cost, Not Its Entry Price](https://dev.to/kongkong1/judge-a-free-ai-tier-by-its-exit-cost-not-its-entry-price-1782)
+- [When a robot misses the stack, which model needs fixing?](https://dev.to/panditshivam/when-a-robot-misses-the-stack-which-model-needs-fixing-59i4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
