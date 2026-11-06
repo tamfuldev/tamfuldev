@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Browser-Based Jigsaw Puzzle Game with JavaScript and HTML5 Canvas](https://dev.to/cliffwang/how-to-build-a-browser-based-jigsaw-puzzle-game-with-javascript-and-html5-canvas-33gm)
-- [AI Financial Reporting: A 14-Case Release Gate for Close Narratives](https://dev.to/isabelle_dubuis_d858453d7/ai-financial-reporting-a-14-case-release-gate-for-close-narratives-4dgh)
-- [Demystifying the MCP Protocol for Open Source AI](https://dev.to/tercelyi/demystifying-the-mcp-protocol-for-open-source-ai-39da)
-- [Open models vs Claude: Kimi K3, GLM 5.3 and DeepSeek V4 Pro against Sonnet 5.5 and Opus 5.5](https://dev.to/xiun_xiao_6eae2df5c108c5f/open-models-vs-claude-kimi-k3-glm-53-and-deepseek-v4-pro-against-sonnet-55-and-opus-55-3f1d)
-- [Inkling 2 Small Is Here — the Weights Aren&#39;t. What to Do Now](https://dev.to/paullovelace/inkling-2-small-is-here-the-weights-arent-what-to-do-now-3292)
+- [How to Debug Physical Android Devices Remotely from Android Studio &lpar;Without VPNs&rpar;](https://dev.to/wider_dev/how-to-debug-physical-android-devices-remotely-from-android-studio-without-vpns-5ca2)
+- [How to Say No to a Client Without Losing the Project](https://dev.to/abyzgenic/how-to-say-no-to-a-client-without-losing-the-project-4gbl)
+- [What Makes Dunning Software &quot;Subscription&quot; Software](https://dev.to/swipeagain/what-makes-dunning-software-subscription-software-124c)
+- [MDX Components in Docs: Portability and Lock-In vs Plain Markdown](https://dev.to/jeff_pdc/mdx-components-in-docs-portability-and-lock-in-vs-plain-markdown-c73)
+- [Variable Scope and Precedence: Request, Environment, and Global Values in Insomnia](https://dev.to/jeff_pdc/variable-scope-and-precedence-request-environment-and-global-values-in-insomnia-336m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
