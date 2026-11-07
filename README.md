@@ -6,11 +6,12 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Give parallel browser jobs an account-level budget](https://dev.to/browser_act_e2505dbdf454a/give-parallel-browser-jobs-an-account-level-budget-37e)
-- [Qué hace Agent team en osFoundry y cuándo basta con un solo agente](https://dev.to/tauchi-es/que-hace-agent-team-en-osfoundry-y-cuando-basta-con-un-solo-agente-1a8)
-- [AWS Web Answer Turns One MCP Call Into a Cited Answer — Here&#39;s What It Costs and Where It Stops](https://dev.to/paullovelace/aws-web-answer-turns-one-mcp-call-into-a-cited-answer-heres-what-it-costs-and-where-it-stops-4c47)
-- [48-Hour Field Notes: My Resume Saved a Position Instead of a Record, and Nine Inputs Went Missing](https://dev.to/codepy_1473/48-hour-field-notes-my-resume-saved-a-position-instead-of-a-record-and-nine-inputs-went-missing-a2m)
-- [DSCR for a Rental Loan File: Rent PITIA, With the Formula Shown](https://dev.to/statementready-hq/dscr-for-a-rental-loan-file-rent-pitia-with-the-formula-shown-1k5j)
+- [Got tired of typing random dictionary words, so I built SyntaxMonkey 🐒. It&#39;s a typing test specifically for developers to practice syntax in Python, JS, C++ &amp; more. Track your WPM &amp; accuracy on real code! 
+Try it out: www.syntaxmonkey.online](https://dev.to/surajdev3290/got-tired-of-typing-random-dictionary-words-so-i-built-syntaxmonkey-its-a-typing-test-572b)
+- [Hitobito OAuth tokens inherit the full role set of their user](https://dev.to/facilishz/hitobito-oauth-tokens-inherit-the-full-role-set-of-their-user-o52)
+- [“어디서 틀렸는지 모르겠습니다.” — 예치금 정합성 배치를 주문 1건 단위로 다시 설계한 이야기](https://dev.to/park_suhyun_44708616b3a00/eodiseo-teulryeossneunji-moreugessseubnida-yecigeum-jeonghabseong-baecireul-jumun-1geon-danwiro-dasi-seolgyehan-iyagi-4h87)
+- [Stop typing random words. I built a typing test specifically for developers. 🐒](https://dev.to/surajdev3290/stop-typing-random-words-i-built-a-typing-test-specifically-for-developers-39k6)
+- [Bluetooth Mesh Battery Devices: Why Can They Report Promptly but Not Receive Control Immediately?](https://dev.to/weiyi/bluetooth-mesh-battery-devices-why-can-they-report-promptly-but-not-receive-control-immediately-4mih)
 <!-- BLOG-POST-LIST:END -->
 
 ---
