@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Tabs in One：Chromeのタブを1列にまとめてメモリを解放する](https://dev.to/tabsinone/tabs-in-onechromenotabuwo1lie-nimatometememoriwojie-fang-suru-1jpb)
-- [Shan Shen Bu cat meme: 5 ways to make your own pet do the flash step](https://dev.to/yining_lin_5ee8680314309e/shan-shen-bu-cat-meme-5-ways-to-make-your-own-pet-do-the-flash-step-3b2j)
-- [Where can you get NVIDIA B300 GPUs by the hour?](https://dev.to/viswaretas_kotra/where-can-you-get-nvidia-b300-gpus-by-the-hour-55c2)
-- [osFoundry 如何在磁碟上找到你的 Claude Code 和 Codex 工作階段，用 Python 重做一遍](https://dev.to/bbt-zh/osfoundry-ru-he-zai-ci-die-shang-zhao-dao-ni-de-claude-code-he-codex-gong-zuo-jie-duan-yong-python-zhong-zuo-bian-578a)
-- [The Connected Vessel](https://dev.to/don_moskaluk_be46b51f5778/the-connected-vessel-5bed)
+- [Wie du eine alte Claude Code-Session in osFoundry findest und fortsetzt](https://dev.to/bbt-de/wie-du-eine-alte-claude-code-session-in-osfoundry-findest-und-fortsetzt-167o)
+- [Keplr Web3Auth Breach: Social Login Keys Exposed](https://dev.to/pandasecurity/keplr-web3auth-breach-social-login-keys-exposed-58gh)
+- [Isometric and hexagon grids for print: three line families, one lattice and a 3 that bites](https://dev.to/anders_lee_28dbcc2fd8e034/isometric-and-hexagon-grids-for-print-three-line-families-one-lattice-and-a-3-that-bites-406a)
+- [Usare Codex CLI come worker di osFoundry](https://dev.to/bbt-it/usare-codex-cli-come-worker-di-osfoundry-1g06)
+- [Your Free Server Forgets Everything: Five Ephemeral-Deployment Myths and a State Probe](https://dev.to/gitlab_3188/your-free-server-forgets-everything-five-ephemeral-deployment-myths-and-a-state-probe-3hdn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
