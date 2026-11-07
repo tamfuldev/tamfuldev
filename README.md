@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own Hermes AI Hacking Agent: A Complete Setup Guide](https://dev.to/denoroy737/building-your-own-hermes-ai-hacking-agent-a-complete-setup-guide-4337)
-- [How We Keep a Chat Widget to 4 KB on Every Page Load](https://dev.to/rutvik_patel_05b3a7219ebb/how-we-keep-a-chat-widget-to-4-kb-on-every-page-load-29h9)
-- [Database Schema Planning: Operational Best Practices](https://dev.to/leena_deore_400371c043837/database-schema-planning-operational-best-practices-5hlo)
-- [Searching for a job in the AI era, part 1: the setup and the first 16 days](https://dev.to/asdmaster/searching-for-a-job-in-the-ai-era-part-1-the-setup-and-the-first-16-days-3pj7)
-- [Reduce Lambda Cold Starts: A TypeScript Guide](https://dev.to/sascha-ms/reduce-lambda-cold-starts-a-typescript-guide-55km)
+- [API CaseTracker: Eliminating API Support Rediscovery with Customer-Partitioned Persistent Memory](https://dev.to/santhoshr_chess_eb857674/api-casetracker-eliminating-api-support-rediscovery-with-customer-partitioned-persistent-memory-ch1)
+- [How Generative AI Is Turning Solo Devs Into AAA Studios](https://dev.to/leojulieta/how-generative-ai-is-turning-solo-devs-into-aaa-studios-4cg6)
+- [Cómo osFoundry encuentra tus sesiones de Claude Code y Codex en disco, recreado en Python](https://dev.to/bbt-es/como-osfoundry-encuentra-tus-sesiones-de-claude-code-y-codex-en-disco-recreado-en-python-17in)
+- [Incident response for a trusted Java CA key: CVE-2026-91403](https://dev.to/facilishz/incident-response-for-a-trusted-java-ca-key-cve-2026-91403-3o8c)
+- [One cheap-model router on a $5 VPS: use this week&#39;s price drops without rewriting your app](https://dev.to/tokenlean/one-cheap-model-router-on-a-5-vps-use-this-weeks-price-drops-without-rewriting-your-app-3eoo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
