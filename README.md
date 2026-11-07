@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [API CaseTracker: Eliminating API Support Rediscovery with Customer-Partitioned Persistent Memory](https://dev.to/santhoshr_chess_eb857674/api-casetracker-eliminating-api-support-rediscovery-with-customer-partitioned-persistent-memory-ch1)
-- [How Generative AI Is Turning Solo Devs Into AAA Studios](https://dev.to/leojulieta/how-generative-ai-is-turning-solo-devs-into-aaa-studios-4cg6)
-- [Cómo osFoundry encuentra tus sesiones de Claude Code y Codex en disco, recreado en Python](https://dev.to/bbt-es/como-osfoundry-encuentra-tus-sesiones-de-claude-code-y-codex-en-disco-recreado-en-python-17in)
-- [Incident response for a trusted Java CA key: CVE-2026-91403](https://dev.to/facilishz/incident-response-for-a-trusted-java-ca-key-cve-2026-91403-3o8c)
-- [One cheap-model router on a $5 VPS: use this week&#39;s price drops without rewriting your app](https://dev.to/tokenlean/one-cheap-model-router-on-a-5-vps-use-this-weeks-price-drops-without-rewriting-your-app-3eoo)
+- [Tabs in One：Chromeのタブを1列にまとめてメモリを解放する](https://dev.to/tabsinone/tabs-in-onechromenotabuwo1lie-nimatometememoriwojie-fang-suru-1jpb)
+- [Shan Shen Bu cat meme: 5 ways to make your own pet do the flash step](https://dev.to/yining_lin_5ee8680314309e/shan-shen-bu-cat-meme-5-ways-to-make-your-own-pet-do-the-flash-step-3b2j)
+- [Where can you get NVIDIA B300 GPUs by the hour?](https://dev.to/viswaretas_kotra/where-can-you-get-nvidia-b300-gpus-by-the-hour-55c2)
+- [osFoundry 如何在磁碟上找到你的 Claude Code 和 Codex 工作階段，用 Python 重做一遍](https://dev.to/bbt-zh/osfoundry-ru-he-zai-ci-die-shang-zhao-dao-ni-de-claude-code-he-codex-gong-zuo-jie-duan-yong-python-zhong-zuo-bian-578a)
+- [The Connected Vessel](https://dev.to/don_moskaluk_be46b51f5778/the-connected-vessel-5bed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
