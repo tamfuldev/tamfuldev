@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Shipping 1GB Python Containers Running as Root &lpar;Multi-Stage Builds + uv + Trivy&rpar;](https://dev.to/khadievedem/stop-shipping-1gb-python-containers-running-as-root-multi-stage-builds-uv-trivy-58a5)
-- [Flutter + ROS 2 Commands: Low-Latency UI With Explicit Acknowledgements](https://dev.to/vmodal_ai/flutter-ros-2-commands-low-latency-ui-with-explicit-acknowledgements-1cda)
-- [What Actually Makes a Business Website Convert Local Search Traffic](https://dev.to/imocanu/what-actually-makes-a-business-website-convert-local-search-traffic-446p)
-- [When an AI Agent Goes Wrong: A 16-Case First-Hour Response Runbook](https://dev.to/isabelle_dubuis_d858453d7/when-an-ai-agent-goes-wrong-a-16-case-first-hour-response-runbook-4c5m)
-- [&#39;Direct&#39; vs &#39;proxied&#39; download links: what the user actually experiences](https://dev.to/mobeenahmedgondal/direct-vs-proxied-download-links-what-the-user-actually-experiences-2p00)
+- [SteamVR améliore la netteté en streaming : ce que ça change &lpar;vraiment&rpar; pour les yeux qui ne collaborent pas](https://dev.to/ashish_624379625242c5d263/steamvr-ameliore-la-nettete-en-streaming-ce-que-ca-change-vraiment-pour-les-yeux-qui-ne-1elh)
+- [What is IaaS ??](https://dev.to/ann237/what-is-iaas--3355)
+- [The model said yes. The chain said no. An on-chain lock for AI agents with wallets](https://dev.to/muhammadmurtuzahussain/the-model-said-yes-the-chain-said-no-an-on-chain-lock-for-ai-agents-with-wallets-2igp)
+- [GitLab Contributor Work Queue](https://dev.to/hrlpavan/gitlab-contributor-work-queue-460i)
+- [Claude Code&#39;s &quot;Don&#39;t Ask Again&quot; Leaked Developers&#39; Secrets to Public GitHub — Explained Honestly](https://dev.to/paullovelace/claude-codes-dont-ask-again-leaked-developers-secrets-to-public-github-explained-honestly-4dck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
