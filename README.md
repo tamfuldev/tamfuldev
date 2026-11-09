@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [WebTransport: Is WebSocket&#39;s Dominance Coming to an End?](https://dev.to/dawn_carrillo_4d69570459b/webtransport-is-websockets-dominance-coming-to-an-end-o8g)
-- [What are the best Crusoe Cloud alternatives for AI teams?](https://dev.to/viswaretas_kotra/what-are-the-best-crusoe-cloud-alternatives-for-ai-teams-4g71)
-- [如何讓 Claude 根據 osFoundry 知識庫回答，並為每個說法附上出處文章](https://dev.to/bbt-zh/ru-he-rang-claude-gen-ju-osfoundry-zhi-shi-ku-hui-da-bing-wei-mei-ge-shuo-fa-fu-shang-chu-chu-wen-zhang-1eio)
-- [AI Agent Portfolio Review for Executive Leverage](https://dev.to/rausal_bahtiarfadhli_d94/ai-agent-portfolio-review-for-executive-leverage-3gpi)
-- [Meta เปิด design system ที่ใช้มา 8 ปี: Astryx ไม่ใช่แค่ชุดคอมโพเนนต์ แต่ถูกออกแบบให้ AI เขียน UI ได้](https://dev.to/sarantoon/meta-epid-design-system-thiiaichmaa-8-pii-astryx-aimaichaekhchudkhmophennt-aetthuukkaebbaih-ai-ekhiiyn-ui-aid-18d0)
+- [Microsoft&#39;s APM is npm for agent context: one apm.yml, 9 harnesses, byte-exact lockfiles](https://dev.to/piekwerk/microsofts-apm-is-npm-for-agent-context-one-apmyml-9-harnesses-byte-exact-lockfiles-4505)
+- [How a World Model Differs From an LLM, and Why You Want Both](https://dev.to/stepinto/how-a-world-model-differs-from-an-llm-and-why-you-want-both-5768)
+- [AWS Future Builder Connect 2026 in Bengaluru](https://dev.to/gunnerjyo/aws-future-builder-connect-2026-in-bengaluru-47g5)
+- [Atomic Laravel: AQC, Typed Blade, HTMX &amp; jsRibbon](https://dev.to/raheelshan/atomic-laravel-aqc-typed-blade-htmx-jsribbon-19j2)
+- [Designing a weather-powered outfit page that still works when the forecast fails](https://dev.to/weiwei_yang_1ee5c1a479747/designing-a-weather-powered-outfit-page-that-still-works-when-the-forecast-fails-204l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
