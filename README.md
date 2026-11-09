@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Document Uploads to Object Storage in 2026 &lpar;Presigned vs Server-Mediated&rpar;](https://dev.to/ignatiuscole6932/browser-document-uploads-to-object-storage-in-2026-presigned-vs-server-mediated-5933)
-- [Linux Says &quot;No Space Left on Device&quot; - But the Disk Isn&#39;t Full](https://dev.to/verin_is/linux-says-no-space-left-on-device-but-the-disk-isnt-full-3h48)
-- [Meta Learning and Few Shot Adaptation — Ch.09: Experiments and Benchmarks [KR]](https://dev.to/richard_minsoogo/meta-learning-and-few-shot-adaptation-ch09-experiments-and-benchmarks-kr-4j7m)
-- [Meta Learning and Few Shot Adaptation — Ch.08: Engineering and Deployment [KR]](https://dev.to/richard_minsoogo/meta-learning-and-few-shot-adaptation-ch08-engineering-and-deployment-kr-4n7a)
-- [VRが「生理反応」を変える時代に、視覚トレーニングをどう設計するか](https://dev.to/ashish_624379625242c5d263/vrgasheng-li-fan-ying-wobian-erushi-dai-ni-shi-jue-toreninguwodoushe-ji-suruka-16pd)
+- [WebTransport: Is WebSocket&#39;s Dominance Coming to an End?](https://dev.to/dawn_carrillo_4d69570459b/webtransport-is-websockets-dominance-coming-to-an-end-o8g)
+- [What are the best Crusoe Cloud alternatives for AI teams?](https://dev.to/viswaretas_kotra/what-are-the-best-crusoe-cloud-alternatives-for-ai-teams-4g71)
+- [如何讓 Claude 根據 osFoundry 知識庫回答，並為每個說法附上出處文章](https://dev.to/bbt-zh/ru-he-rang-claude-gen-ju-osfoundry-zhi-shi-ku-hui-da-bing-wei-mei-ge-shuo-fa-fu-shang-chu-chu-wen-zhang-1eio)
+- [AI Agent Portfolio Review for Executive Leverage](https://dev.to/rausal_bahtiarfadhli_d94/ai-agent-portfolio-review-for-executive-leverage-3gpi)
+- [Meta เปิด design system ที่ใช้มา 8 ปี: Astryx ไม่ใช่แค่ชุดคอมโพเนนต์ แต่ถูกออกแบบให้ AI เขียน UI ได้](https://dev.to/sarantoon/meta-epid-design-system-thiiaichmaa-8-pii-astryx-aimaichaekhchudkhmophennt-aetthuukkaebbaih-ai-ekhiiyn-ui-aid-18d0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
