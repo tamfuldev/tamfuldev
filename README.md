@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s APM is npm for agent context: one apm.yml, 9 harnesses, byte-exact lockfiles](https://dev.to/piekwerk/microsofts-apm-is-npm-for-agent-context-one-apmyml-9-harnesses-byte-exact-lockfiles-4505)
-- [How a World Model Differs From an LLM, and Why You Want Both](https://dev.to/stepinto/how-a-world-model-differs-from-an-llm-and-why-you-want-both-5768)
-- [AWS Future Builder Connect 2026 in Bengaluru](https://dev.to/gunnerjyo/aws-future-builder-connect-2026-in-bengaluru-47g5)
-- [Atomic Laravel: AQC, Typed Blade, HTMX &amp; jsRibbon](https://dev.to/raheelshan/atomic-laravel-aqc-typed-blade-htmx-jsribbon-19j2)
-- [Designing a weather-powered outfit page that still works when the forecast fails](https://dev.to/weiwei_yang_1ee5c1a479747/designing-a-weather-powered-outfit-page-that-still-works-when-the-forecast-fails-204l)
+- [Is Claude Opus 5.5 Nerfed? Claude Code Ignores Your effortLevel. How to Fix It](https://dev.to/alanwest/is-claude-opus-55-nerfed-claude-code-ignores-your-effortlevel-how-to-fix-it-502b)
+- [The Profiler We Weren&#39;t Allowed to Have: 72 Hours of Zero-Dependency Rust at Speed Demon 2026](https://dev.to/dannyamah/the-profiler-we-werent-allowed-to-have-72-hours-of-zero-dependency-rust-at-speed-demon-2026-5bnk)
+- [We checked robots.txt on 1,069 top websites: who blocks AI crawlers, and who still allows ChatGPT search](https://dev.to/vimal_kumarjain_fffcff86/we-checked-robotstxt-on-1069-top-websites-who-blocks-ai-crawlers-and-who-still-allows-chatgpt-1lh5)
+- [How to Drain Delayed Node.js Cleanup Jobs — Rate-Limited Worker Pool](https://dev.to/rainerbarrett4745/how-to-drain-delayed-nodejs-cleanup-jobs-rate-limited-worker-pool-4ajm)
+- [Outlook.com Is Rejecting Mail From Domains With No DMARC Record: What Actually Changed](https://dev.to/chenyuan20509/outlookcom-is-rejecting-mail-from-domains-with-no-dmarc-record-what-actually-changed-dll)
 <!-- BLOG-POST-LIST:END -->
 
 ---
