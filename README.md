@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Is Claude Opus 5.5 Nerfed? Claude Code Ignores Your effortLevel. How to Fix It](https://dev.to/alanwest/is-claude-opus-55-nerfed-claude-code-ignores-your-effortlevel-how-to-fix-it-502b)
-- [The Profiler We Weren&#39;t Allowed to Have: 72 Hours of Zero-Dependency Rust at Speed Demon 2026](https://dev.to/dannyamah/the-profiler-we-werent-allowed-to-have-72-hours-of-zero-dependency-rust-at-speed-demon-2026-5bnk)
-- [We checked robots.txt on 1,069 top websites: who blocks AI crawlers, and who still allows ChatGPT search](https://dev.to/vimal_kumarjain_fffcff86/we-checked-robotstxt-on-1069-top-websites-who-blocks-ai-crawlers-and-who-still-allows-chatgpt-1lh5)
-- [How to Drain Delayed Node.js Cleanup Jobs — Rate-Limited Worker Pool](https://dev.to/rainerbarrett4745/how-to-drain-delayed-nodejs-cleanup-jobs-rate-limited-worker-pool-4ajm)
-- [Outlook.com Is Rejecting Mail From Domains With No DMARC Record: What Actually Changed](https://dev.to/chenyuan20509/outlookcom-is-rejecting-mail-from-domains-with-no-dmarc-record-what-actually-changed-dll)
+- [How Do You Pick the Cover Frame for a Hit the Road Dude Clip? A Sharpness-and-Exposure Picker With ffmpeg and NumPy](https://dev.to/lpgit/how-do-you-pick-the-cover-frame-for-a-hit-the-road-dude-clip-a-sharpness-and-exposure-picker-with-28of)
+- [Akamai _abck: the cookie that rewrites itself on every response](https://dev.to/seencxy/akamai-abck-the-cookie-that-rewrites-itself-on-every-response-1gep)
+- [What makes a batch file rename safe to undo?](https://dev.to/_561b0eb72d8e57be3f887/what-makes-a-batch-file-rename-safe-to-undo-1cnl)
+- [Turn Your Cursor Rules Into One Root AGENTS.md](https://dev.to/lianzhaofu/turn-your-cursor-rules-into-one-root-agentsmd-10ni)
+- [Debugging Electron Apps: A Practical Guide to Main, Renderer, and Production](https://dev.to/mp3sss31/debugging-electron-apps-a-practical-guide-to-main-renderer-and-production-300b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
