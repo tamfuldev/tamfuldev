@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Pick the Cover Frame for a Hit the Road Dude Clip? A Sharpness-and-Exposure Picker With ffmpeg and NumPy](https://dev.to/lpgit/how-do-you-pick-the-cover-frame-for-a-hit-the-road-dude-clip-a-sharpness-and-exposure-picker-with-28of)
-- [Akamai _abck: the cookie that rewrites itself on every response](https://dev.to/seencxy/akamai-abck-the-cookie-that-rewrites-itself-on-every-response-1gep)
-- [What makes a batch file rename safe to undo?](https://dev.to/_561b0eb72d8e57be3f887/what-makes-a-batch-file-rename-safe-to-undo-1cnl)
-- [Turn Your Cursor Rules Into One Root AGENTS.md](https://dev.to/lianzhaofu/turn-your-cursor-rules-into-one-root-agentsmd-10ni)
-- [Debugging Electron Apps: A Practical Guide to Main, Renderer, and Production](https://dev.to/mp3sss31/debugging-electron-apps-a-practical-guide-to-main-renderer-and-production-300b)
+- [Automation bias: when teams trust AI blindly](https://dev.to/sascha-ms/automation-bias-when-teams-trust-ai-blindly-2kpk)
+- [0/55 three nights in a row: product bug or test bug?](https://dev.to/daniel_garca_a286345a4cb/055-three-nights-in-a-row-product-bug-or-test-bug-585h)
+- [Custom Optimization and Hardware Modifications Enable Sipeed NanoKVM for Demanding Remote Server Maintenance](https://dev.to/elenbit/custom-optimization-and-hardware-modifications-enable-sipeed-nanokvm-for-demanding-remote-server-3k59)
+- [Instagram Clone Backend — Part 5: Performance &amp; Database Optimization &lpar;Pagination, Zero N+1 Queries, Optimistic Locking &amp; Integrity Constraints&rpar;](https://dev.to/deepika_pusala/instagram-clone-backend-part-5-performance-database-optimization-pagination-zero-n1-51o0)
+- [Postgres race conditions live in a window of a few milliseconds](https://dev.to/alt-f6/postgres-race-conditions-live-in-a-window-of-a-few-milliseconds-5dbm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
