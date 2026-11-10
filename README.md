@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Automation bias: when teams trust AI blindly](https://dev.to/sascha-ms/automation-bias-when-teams-trust-ai-blindly-2kpk)
-- [0/55 three nights in a row: product bug or test bug?](https://dev.to/daniel_garca_a286345a4cb/055-three-nights-in-a-row-product-bug-or-test-bug-585h)
-- [Custom Optimization and Hardware Modifications Enable Sipeed NanoKVM for Demanding Remote Server Maintenance](https://dev.to/elenbit/custom-optimization-and-hardware-modifications-enable-sipeed-nanokvm-for-demanding-remote-server-3k59)
-- [Instagram Clone Backend — Part 5: Performance &amp; Database Optimization &lpar;Pagination, Zero N+1 Queries, Optimistic Locking &amp; Integrity Constraints&rpar;](https://dev.to/deepika_pusala/instagram-clone-backend-part-5-performance-database-optimization-pagination-zero-n1-51o0)
-- [Postgres race conditions live in a window of a few milliseconds](https://dev.to/alt-f6/postgres-race-conditions-live-in-a-window-of-a-few-milliseconds-5dbm)
+- [UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance](https://dev.to/johnnylemonny/uuidv4-is-not-free-why-random-primary-keys-are-silently-crushing-your-write-performance-2ea8)
+- [Logo File Formats for Print and Web: What to Ask For](https://dev.to/jaybarker/logo-file-formats-for-print-and-web-what-to-ask-for-4g5a)
+- [WooCommerce SEO: The Complete Guide for 2026](https://dev.to/rankvelt/woocommerce-seo-the-complete-guide-for-2026-9c)
+- [Reddit Is Convinced I&#39;m a Robot. My Karma Is 1.](https://dev.to/aheadkit/reddit-is-convinced-im-a-robot-my-karma-is-1-4m7i)
+- [Even a mechanical migration deserves a spec](https://dev.to/dennervidal/even-a-mechanical-migration-deserves-a-spec-2ibo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
