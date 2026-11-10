@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance](https://dev.to/johnnylemonny/uuidv4-is-not-free-why-random-primary-keys-are-silently-crushing-your-write-performance-2ea8)
-- [Logo File Formats for Print and Web: What to Ask For](https://dev.to/jaybarker/logo-file-formats-for-print-and-web-what-to-ask-for-4g5a)
-- [WooCommerce SEO: The Complete Guide for 2026](https://dev.to/rankvelt/woocommerce-seo-the-complete-guide-for-2026-9c)
-- [Reddit Is Convinced I&#39;m a Robot. My Karma Is 1.](https://dev.to/aheadkit/reddit-is-convinced-im-a-robot-my-karma-is-1-4m7i)
-- [Even a mechanical migration deserves a spec](https://dev.to/dennervidal/even-a-mechanical-migration-deserves-a-spec-2ibo)
+- [Why create-next-app Isn&#39;t Enough: Scaffolding by Product Type, Not Stack](https://dev.to/theyclonedbjorn/why-create-next-app-isnt-enough-scaffolding-by-product-type-not-stack-18mi)
+- [Why I moved a TV app&#39;s source contract into JavaScript plugins on QuickJS](https://dev.to/yonto/why-i-moved-a-tv-apps-source-contract-into-javascript-plugins-on-quickjs-31g9)
+- [Guardrail para advocacia](https://dev.to/beanstechbr/guardrail-para-advocacia-2m7i)
+- [Guardrail para Claude, GPT e próprio](https://dev.to/beanstechbr/guardrail-para-claude-gpt-e-proprio-1km4)
+- [The Death of the Prompt: Why Autonomous Agents Are the Real Paradigm Shift in Python Development](https://dev.to/programmingcentral/the-death-of-the-prompt-why-autonomous-agents-are-the-real-paradigm-shift-in-python-development-8ng)
 <!-- BLOG-POST-LIST:END -->
 
 ---
