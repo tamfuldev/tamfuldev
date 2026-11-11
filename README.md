@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Why create-next-app Isn&#39;t Enough: Scaffolding by Product Type, Not Stack](https://dev.to/theyclonedbjorn/why-create-next-app-isnt-enough-scaffolding-by-product-type-not-stack-18mi)
-- [Why I moved a TV app&#39;s source contract into JavaScript plugins on QuickJS](https://dev.to/yonto/why-i-moved-a-tv-apps-source-contract-into-javascript-plugins-on-quickjs-31g9)
-- [Guardrail para advocacia](https://dev.to/beanstechbr/guardrail-para-advocacia-2m7i)
-- [Guardrail para Claude, GPT e próprio](https://dev.to/beanstechbr/guardrail-para-claude-gpt-e-proprio-1km4)
-- [The Death of the Prompt: Why Autonomous Agents Are the Real Paradigm Shift in Python Development](https://dev.to/programmingcentral/the-death-of-the-prompt-why-autonomous-agents-are-the-real-paradigm-shift-in-python-development-8ng)
+- [Your AI told a customer \&quot;your data has been permanently deleted.\&quot; Nothing was deleted. Regulators read transcripts too.](https://dev.to/chenwengui23/your-ai-told-a-customer-your-data-has-been-permanently-deleted-nothing-was-deleted-regulators-2hfe)
+- [I Built a Simple Top Loading Bar for Svelte 5](https://dev.to/anggaais/i-built-a-simple-top-loading-bar-for-svelte-5-dpj)
+- [What a &quot;song for dad&quot; form taught me about asking users for input](https://dev.to/rakim777/what-a-song-for-dad-form-taught-me-about-asking-users-for-input-556e)
+- [Chrome Web Store Rejection Codes: Fix the Top 4 in a Day](https://dev.to/extensionbooster/chrome-web-store-rejection-codes-fix-the-top-4-in-a-day-4gj7)
+- [The Article Already Had an og:image. Its JSON-LD Didn&#39;t Mention It.](https://dev.to/_172c9b2760d6c5bc1e8966/the-article-already-had-an-ogimage-its-json-ld-didnt-mention-it-4c80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
