@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [NEAR AI was breached through the engine running its agents, not the prompt](https://dev.to/humanbound_ai/near-ai-was-breached-through-the-engine-running-its-agents-not-the-prompt-3le3)
-- [Donut Chart of Enterprise Credit Grade Distribution](https://dev.to/paohaijiao/donut-chart-of-enterprise-credit-grade-distribution-1obi)
-- [Upgrade an Image Workflow Only After Testing Its Weakest Brief](https://dev.to/reeldanceai/upgrade-an-image-workflow-only-after-testing-its-weakest-brief-536l)
-- [Packed vs Holey Arrays in V8: Why new Array&lpar;n&rpar; Makes Spread 4x Slower](https://dev.to/mohsenfallahnjd/packed-vs-holey-arrays-in-v8-why-new-arrayn-makes-spread-4x-slower-5ehn)
-- [Review an AI Image by the Work It Leaves Behind](https://dev.to/reeldanceai/review-an-ai-image-by-the-work-it-leaves-behind-1p39)
+- [Build Buddy, Day 5: my vector search&#39;s best match was a wrong answer](https://dev.to/gabby_gill_23c85a86800564/build-buddy-day-5-my-vector-searchs-best-match-was-a-wrong-answer-i97)
+- [Found a cool repo on GitHub? Swap &quot;hub&quot; for &quot;manual&quot; and get it running](https://dev.to/zainudin_noori_293f1d1c1b/found-a-cool-repo-on-github-swap-hub-for-manual-and-get-it-running-o0h)
+- [I Broke My Own Firestore Rules in Production Once. Now the Emulator Catches It First.](https://dev.to/purvanshbhatt/i-broke-my-own-firestore-rules-in-production-once-now-the-emulator-catches-it-first-3ik6)
+- [Solana Transaction Expired: Blockhash Mechanics Explained](https://dev.to/swapio/solana-transaction-expired-blockhash-mechanics-explained-aen)
+- [I&#39;m Shipping 5 npm Packages to 10,000 Downloads](https://dev.to/parasraju/im-shipping-5-npm-packages-to-10000-downloads-54ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
