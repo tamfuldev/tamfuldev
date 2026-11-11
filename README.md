@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI told a customer \&quot;your data has been permanently deleted.\&quot; Nothing was deleted. Regulators read transcripts too.](https://dev.to/chenwengui23/your-ai-told-a-customer-your-data-has-been-permanently-deleted-nothing-was-deleted-regulators-2hfe)
-- [I Built a Simple Top Loading Bar for Svelte 5](https://dev.to/anggaais/i-built-a-simple-top-loading-bar-for-svelte-5-dpj)
-- [What a &quot;song for dad&quot; form taught me about asking users for input](https://dev.to/rakim777/what-a-song-for-dad-form-taught-me-about-asking-users-for-input-556e)
-- [Chrome Web Store Rejection Codes: Fix the Top 4 in a Day](https://dev.to/extensionbooster/chrome-web-store-rejection-codes-fix-the-top-4-in-a-day-4gj7)
-- [The Article Already Had an og:image. Its JSON-LD Didn&#39;t Mention It.](https://dev.to/_172c9b2760d6c5bc1e8966/the-article-already-had-an-ogimage-its-json-ld-didnt-mention-it-4c80)
+- [NEAR AI was breached through the engine running its agents, not the prompt](https://dev.to/humanbound_ai/near-ai-was-breached-through-the-engine-running-its-agents-not-the-prompt-3le3)
+- [Donut Chart of Enterprise Credit Grade Distribution](https://dev.to/paohaijiao/donut-chart-of-enterprise-credit-grade-distribution-1obi)
+- [Upgrade an Image Workflow Only After Testing Its Weakest Brief](https://dev.to/reeldanceai/upgrade-an-image-workflow-only-after-testing-its-weakest-brief-536l)
+- [Packed vs Holey Arrays in V8: Why new Array&lpar;n&rpar; Makes Spread 4x Slower](https://dev.to/mohsenfallahnjd/packed-vs-holey-arrays-in-v8-why-new-arrayn-makes-spread-4x-slower-5ehn)
+- [Review an AI Image by the Work It Leaves Behind](https://dev.to/reeldanceai/review-an-ai-image-by-the-work-it-leaves-behind-1p39)
 <!-- BLOG-POST-LIST:END -->
 
 ---
