@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [A Colleague Sends You Hi and Then Nothing for Ten Minutes](https://dev.to/asael_shinder_9f53bdca840/a-colleague-sends-you-hi-and-then-nothing-for-ten-minutes-4ff1)
-- [Reading a certificate&#39;s SCT timestamps in Python to see which emSign G1 cutoff applies](https://dev.to/jose_pollman_fa7c6ec43cdd/reading-a-certificates-sct-timestamps-in-python-to-see-which-emsign-g1-cutoff-applies-1oik)
-- [My static site was never indexable: surge.sh free subdomains serve robots.txt Disallow: /](https://dev.to/valorreads/my-static-site-was-never-indexable-surgesh-free-subdomains-serve-robotstxt-disallow--5bn6)
-- [Ingress NGINX Is Retired and Unpatched: A Working Engineer&#39;s Migration Checklist to Gateway API &lpar;2026&rpar;](https://dev.to/softverseadmin/ingress-nginx-is-retired-and-unpatched-a-working-engineers-migration-checklist-to-gateway-api-32pm)
-- [Our images carried an empty commit label for five months because the ARG sat above FROM](https://dev.to/sergey_shinder_ab2d943365/our-images-carried-an-empty-commit-label-for-five-months-because-the-arg-sat-above-from-3647)
+- [Cursor vs Devin Desktop &lpar;Windsurf&rpar;: weekly pools, daily quotas and what happens when you run out](https://dev.to/vibecost/cursor-vs-devin-desktop-windsurf-weekly-pools-daily-quotas-and-what-happens-when-you-run-out-5h57)
+- [I Built TongaLang: An Educational Programming Language Using Tonga-Derived Keywords](https://dev.to/leomabuku/i-built-tongalang-an-educational-programming-language-using-tonga-derived-keywords-45pf)
+- [How to Take Website Screenshots on Vercel and AWS Lambda](https://dev.to/siteshot/how-to-take-website-screenshots-on-vercel-and-aws-lambda-2lif)
+- [A DataStore checklist for Roblox beginners: the 8 mistakes that wipe player data](https://dev.to/kelvaro/a-datastore-checklist-for-roblox-beginners-the-8-mistakes-that-wipe-player-data-1op1)
+- [Flutter + ROS 2: Correlating Traces Across UI, Gateway, and Robot - DEV Community](https://dev.to/vmodal_ai/flutter-ros-2-correlating-traces-across-ui-gateway-and-robot-dev-community-56dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
