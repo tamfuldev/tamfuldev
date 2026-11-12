@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor vs Devin Desktop &lpar;Windsurf&rpar;: weekly pools, daily quotas and what happens when you run out](https://dev.to/vibecost/cursor-vs-devin-desktop-windsurf-weekly-pools-daily-quotas-and-what-happens-when-you-run-out-5h57)
-- [I Built TongaLang: An Educational Programming Language Using Tonga-Derived Keywords](https://dev.to/leomabuku/i-built-tongalang-an-educational-programming-language-using-tonga-derived-keywords-45pf)
-- [How to Take Website Screenshots on Vercel and AWS Lambda](https://dev.to/siteshot/how-to-take-website-screenshots-on-vercel-and-aws-lambda-2lif)
-- [A DataStore checklist for Roblox beginners: the 8 mistakes that wipe player data](https://dev.to/kelvaro/a-datastore-checklist-for-roblox-beginners-the-8-mistakes-that-wipe-player-data-1op1)
-- [Flutter + ROS 2: Correlating Traces Across UI, Gateway, and Robot - DEV Community](https://dev.to/vmodal_ai/flutter-ros-2-correlating-traces-across-ui-gateway-and-robot-dev-community-56dl)
+- [Architecting for Privacy: Why I Chose Local-Only Data Storage over Firebase for Muffle](https://dev.to/haseebthedev0/architecting-for-privacy-why-i-chose-local-only-data-storage-over-firebase-for-muffle-2jbm)
+- [Shopify&#39;s New IP Allowlist Rule Hits Its First Deadline Today](https://dev.to/raxxostudios/shopifys-new-ip-allowlist-rule-hits-its-first-deadline-today-36a7)
+- [Plan your launch date around Google Play&#39;s 14-day closed test](https://dev.to/founder_can/plan-your-launch-date-around-google-plays-14-day-closed-test-4f2d)
+- [Google Maps leads have no emails. Here&#39;s how to get them &lpar;and what I learned scraping 63 small-business sites&rpar;](https://dev.to/md_saquibjawed_b3154145/google-maps-leads-have-no-emails-heres-how-to-get-them-and-what-i-learned-scraping-63-4hk6)
+- [Why Software Engineering Still Matters for Web Apps: The Hidden Dangers of Vibe Coding](https://dev.to/reina_tabien001/why-software-engineering-still-matters-for-web-apps-the-hidden-dangers-of-vibe-coding-m79)
 <!-- BLOG-POST-LIST:END -->
 
 ---
