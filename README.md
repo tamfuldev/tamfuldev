@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Agent Logged 14,800 Successful Writes. SQLite Had Rolled Back 9,240 of Them.](https://dev.to/ulnit/my-agent-logged-14800-successful-writes-sqlite-had-rolled-back-9240-of-them-429l)
-- [Building RunSkeleton: a skeleton that governs its own experiments — and its own build](https://dev.to/zhostev/building-runskeleton-a-skeleton-that-governs-its-own-experiments-and-its-own-build-1h29)
-- [What RAG should search, and what an index should answer](https://dev.to/uehara/what-rag-should-search-and-what-an-index-should-answer-48bg)
-- [The Case for Smart Software](https://dev.to/swyx/the-case-for-smart-software-329f)
-- [Fast multimodal control flow with the Gemini Decisions API](https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b)
+- [A Colleague Sends You Hi and Then Nothing for Ten Minutes](https://dev.to/asael_shinder_9f53bdca840/a-colleague-sends-you-hi-and-then-nothing-for-ten-minutes-4ff1)
+- [Reading a certificate&#39;s SCT timestamps in Python to see which emSign G1 cutoff applies](https://dev.to/jose_pollman_fa7c6ec43cdd/reading-a-certificates-sct-timestamps-in-python-to-see-which-emsign-g1-cutoff-applies-1oik)
+- [My static site was never indexable: surge.sh free subdomains serve robots.txt Disallow: /](https://dev.to/valorreads/my-static-site-was-never-indexable-surgesh-free-subdomains-serve-robotstxt-disallow--5bn6)
+- [Ingress NGINX Is Retired and Unpatched: A Working Engineer&#39;s Migration Checklist to Gateway API &lpar;2026&rpar;](https://dev.to/softverseadmin/ingress-nginx-is-retired-and-unpatched-a-working-engineers-migration-checklist-to-gateway-api-32pm)
+- [Our images carried an empty commit label for five months because the ARG sat above FROM](https://dev.to/sergey_shinder_ab2d943365/our-images-carried-an-empty-commit-label-for-five-months-because-the-arg-sat-above-from-3647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
