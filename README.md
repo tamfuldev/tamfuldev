@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Build Buddy, Day 5: my vector search&#39;s best match was a wrong answer](https://dev.to/gabby_gill_23c85a86800564/build-buddy-day-5-my-vector-searchs-best-match-was-a-wrong-answer-i97)
-- [Found a cool repo on GitHub? Swap &quot;hub&quot; for &quot;manual&quot; and get it running](https://dev.to/zainudin_noori_293f1d1c1b/found-a-cool-repo-on-github-swap-hub-for-manual-and-get-it-running-o0h)
-- [I Broke My Own Firestore Rules in Production Once. Now the Emulator Catches It First.](https://dev.to/purvanshbhatt/i-broke-my-own-firestore-rules-in-production-once-now-the-emulator-catches-it-first-3ik6)
-- [Solana Transaction Expired: Blockhash Mechanics Explained](https://dev.to/swapio/solana-transaction-expired-blockhash-mechanics-explained-aen)
-- [I&#39;m Shipping 5 npm Packages to 10,000 Downloads](https://dev.to/parasraju/im-shipping-5-npm-packages-to-10000-downloads-54ee)
+- [My Agent Logged 14,800 Successful Writes. SQLite Had Rolled Back 9,240 of Them.](https://dev.to/ulnit/my-agent-logged-14800-successful-writes-sqlite-had-rolled-back-9240-of-them-429l)
+- [Building RunSkeleton: a skeleton that governs its own experiments — and its own build](https://dev.to/zhostev/building-runskeleton-a-skeleton-that-governs-its-own-experiments-and-its-own-build-1h29)
+- [What RAG should search, and what an index should answer](https://dev.to/uehara/what-rag-should-search-and-what-an-index-should-answer-48bg)
+- [The Case for Smart Software](https://dev.to/swyx/the-case-for-smart-software-329f)
+- [Fast multimodal control flow with the Gemini Decisions API](https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
