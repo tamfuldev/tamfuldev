@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] Migrating AgentCore runtime from V1 to V2 [AgentCore]](https://dev.to/aws-builders/aws-migrating-agentcore-runtime-from-v1-to-v2-agentcore-7fn)
-- [Offloading Compute to the Edge: Building Zero-Backend File Utilities](https://dev.to/janith_madusanka_49129a13/offloading-compute-to-the-edge-building-zero-backend-file-utilities-3afn)
-- [The First Time My AI Agent Sent an Email to the Wrong Person — And Why I Finished It Anyway](https://dev.to/thekaifansari01/the-first-time-my-ai-agent-sent-an-email-to-the-wrong-person-and-why-i-finished-it-anyway-5gda)
-- [Excel for the Web: Remove Duplicates Before the PivotTable, or Your Top Customer Is Overstated by $2,310](https://dev.to/robert_breen_d96e41ecd765/excel-for-the-web-remove-duplicates-before-the-pivottable-or-your-top-customer-is-overstated-by-5fll)
-- [Vibe Coding the Site Takes a Weekend. The Next 90 Days Are the Job.](https://dev.to/polydraft/vibe-coding-the-site-takes-a-weekend-the-next-90-days-are-the-job-28hf)
+- [Auth0 vs Clerk vs Firebase Auth: Choosing the Right Strategy for Modern Apps](https://dev.to/saurav_tb_pandey/auth0-vs-clerk-vs-firebase-auth-choosing-the-right-strategy-for-modern-apps-3go)
+- [Stop the agent from “cleaning up” unrelated imports in a UI bugfix](https://dev.to/sherotree/stop-the-agent-from-cleaning-up-unrelated-imports-in-a-ui-bugfix-1ead)
+- [One Developer vs. the Bot Internet: Proving Humans Are Real Without Cloud Biometrics](https://dev.to/sebklaey/one-developer-vs-the-bot-internet-proving-humans-are-real-without-cloud-biometrics-2nak)
+- [CVE-2026-128067: CVE-2026-128067: Out-of-Bounds Heap Read and Write in Pillow libtiff Encoder via Geometry Tag Overrides](https://dev.to/cverports/cve-2026-128067-cve-2026-128067-out-of-bounds-heap-read-and-write-in-pillow-libtiff-encoder-via-3m10)
+- [Jenkins Fundamentals - Part 2: Installing Jenkins Controller on AWS EC2](https://dev.to/posibble/jenkins-fundamentals-part-2-installing-jenkins-controller-on-aws-ec2-1cg9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
