@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting for Privacy: Why I Chose Local-Only Data Storage over Firebase for Muffle](https://dev.to/haseebthedev0/architecting-for-privacy-why-i-chose-local-only-data-storage-over-firebase-for-muffle-2jbm)
-- [Shopify&#39;s New IP Allowlist Rule Hits Its First Deadline Today](https://dev.to/raxxostudios/shopifys-new-ip-allowlist-rule-hits-its-first-deadline-today-36a7)
-- [Plan your launch date around Google Play&#39;s 14-day closed test](https://dev.to/founder_can/plan-your-launch-date-around-google-plays-14-day-closed-test-4f2d)
-- [Google Maps leads have no emails. Here&#39;s how to get them &lpar;and what I learned scraping 63 small-business sites&rpar;](https://dev.to/md_saquibjawed_b3154145/google-maps-leads-have-no-emails-heres-how-to-get-them-and-what-i-learned-scraping-63-4hk6)
-- [Why Software Engineering Still Matters for Web Apps: The Hidden Dangers of Vibe Coding](https://dev.to/reina_tabien001/why-software-engineering-still-matters-for-web-apps-the-hidden-dangers-of-vibe-coding-m79)
+- [[AWS] Migrating AgentCore runtime from V1 to V2 [AgentCore]](https://dev.to/aws-builders/aws-migrating-agentcore-runtime-from-v1-to-v2-agentcore-7fn)
+- [Offloading Compute to the Edge: Building Zero-Backend File Utilities](https://dev.to/janith_madusanka_49129a13/offloading-compute-to-the-edge-building-zero-backend-file-utilities-3afn)
+- [The First Time My AI Agent Sent an Email to the Wrong Person — And Why I Finished It Anyway](https://dev.to/thekaifansari01/the-first-time-my-ai-agent-sent-an-email-to-the-wrong-person-and-why-i-finished-it-anyway-5gda)
+- [Excel for the Web: Remove Duplicates Before the PivotTable, or Your Top Customer Is Overstated by $2,310](https://dev.to/robert_breen_d96e41ecd765/excel-for-the-web-remove-duplicates-before-the-pivottable-or-your-top-customer-is-overstated-by-5fll)
+- [Vibe Coding the Site Takes a Weekend. The Next 90 Days Are the Job.](https://dev.to/polydraft/vibe-coding-the-site-takes-a-weekend-the-next-90-days-are-the-job-28hf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
