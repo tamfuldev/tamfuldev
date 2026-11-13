@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Auth0 vs Clerk vs Firebase Auth: Choosing the Right Strategy for Modern Apps](https://dev.to/saurav_tb_pandey/auth0-vs-clerk-vs-firebase-auth-choosing-the-right-strategy-for-modern-apps-3go)
-- [Stop the agent from “cleaning up” unrelated imports in a UI bugfix](https://dev.to/sherotree/stop-the-agent-from-cleaning-up-unrelated-imports-in-a-ui-bugfix-1ead)
-- [One Developer vs. the Bot Internet: Proving Humans Are Real Without Cloud Biometrics](https://dev.to/sebklaey/one-developer-vs-the-bot-internet-proving-humans-are-real-without-cloud-biometrics-2nak)
-- [CVE-2026-128067: CVE-2026-128067: Out-of-Bounds Heap Read and Write in Pillow libtiff Encoder via Geometry Tag Overrides](https://dev.to/cverports/cve-2026-128067-cve-2026-128067-out-of-bounds-heap-read-and-write-in-pillow-libtiff-encoder-via-3m10)
-- [Jenkins Fundamentals - Part 2: Installing Jenkins Controller on AWS EC2](https://dev.to/posibble/jenkins-fundamentals-part-2-installing-jenkins-controller-on-aws-ec2-1cg9)
+- [Hard spend limits for AI agents: a pattern we now consider table stakes](https://dev.to/maqronhq/hard-spend-limits-for-ai-agents-a-pattern-we-now-consider-table-stakes-439o)
+- [TI-84 ERR:SYNTAX — What It Means and the 3 Fixes That Solve Almost Every Case](https://dev.to/freeti84calculator/ti-84-errsyntax-what-it-means-and-the-3-fixes-that-solve-almost-every-case-1b0d)
+- [A Small C++ Detail That Makes APIs Much Better: const](https://dev.to/yummyzzzz/a-small-c-detail-that-makes-apis-much-better-const-4eom)
+- [Small words, big decisions: writing better button and form microcopy](https://dev.to/krishna_kumar_ecc1e764686/small-words-big-decisions-writing-better-button-and-form-microcopy-knl)
+- [The C++ Habit That Prevents So Many Resource Bugs: RAII](https://dev.to/yummyzzzz/the-c-habit-that-prevents-so-many-resource-bugs-raii-3o15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
