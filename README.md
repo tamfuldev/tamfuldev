@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Reject a Stale In-Memory Update with a Revision Check Inside the Lock](https://dev.to/tokenpeakai/reject-a-stale-in-memory-update-with-a-revision-check-inside-the-lock-1741)
-- [Sobrevendido não é sinal de compra: um dia inteiro parado no dólar &lpar;#13&rpar;](https://dev.to/leovbranco/sobrevendido-nao-e-sinal-de-compra-um-dia-inteiro-parado-no-dolar-13-4igp)
-- [Transactional Email Explained — 3 Evidence Checks for Marketplace Receipts](https://dev.to/knoxblackwood2375/transactional-email-explained-3-evidence-checks-for-marketplace-receipts-2bfk)
-- [Architecting Offline Geofencing Without Draining the Battery](https://dev.to/haseebthedev0/architecting-offline-geofencing-without-draining-the-battery-2da4)
-- [You open a new card for the $200 welcome bonus while carrying the $4,100: the bonus costs $385.51](https://dev.to/alapha888/you-open-a-new-card-for-the-200-welcome-bonus-while-carrying-the-4100-the-bonus-costs-38551-209j)
+- [Does a Tiny Desk AI Clip Keep the Reference&#39;s Cuts and Camera Moves? Measuring Shot Timing With NumPy Phase Correlation &lpar;Tested&rpar;](https://dev.to/lpgit/does-a-tiny-desk-ai-clip-keep-the-references-cuts-and-camera-moves-measuring-shot-timing-with-2396)
+- [Secure, Lightweight Secret Management for Node.js Without Heavy External Vaults](https://dev.to/pavkode/secure-lightweight-secret-management-for-nodejs-without-heavy-external-vaults-50k4)
+- [A shop&#39;s price list is a data record, not a design. Render it — and never reprint the QR code.](https://dev.to/maptosite/a-shops-price-list-is-a-data-record-not-a-design-render-it-and-never-reprint-the-qr-code-1cjd)
+- [Sandbox blocking npm install in Claude Code, Cursor and Codex](https://dev.to/eliran_kotzero_e1781dc487/sandbox-blocking-npm-install-in-claude-code-cursor-and-codex-3ef1)
+- [Fix OOM Kills and MEMORY_LIMIT_EXCEEDED on ClickHouse® Servers](https://dev.to/kanishga_subramani_49ad73/fix-oom-kills-and-memorylimitexceeded-on-clickhouser-servers-5i4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
