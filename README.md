@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Does a Tiny Desk AI Clip Keep the Reference&#39;s Cuts and Camera Moves? Measuring Shot Timing With NumPy Phase Correlation &lpar;Tested&rpar;](https://dev.to/lpgit/does-a-tiny-desk-ai-clip-keep-the-references-cuts-and-camera-moves-measuring-shot-timing-with-2396)
-- [Secure, Lightweight Secret Management for Node.js Without Heavy External Vaults](https://dev.to/pavkode/secure-lightweight-secret-management-for-nodejs-without-heavy-external-vaults-50k4)
-- [A shop&#39;s price list is a data record, not a design. Render it — and never reprint the QR code.](https://dev.to/maptosite/a-shops-price-list-is-a-data-record-not-a-design-render-it-and-never-reprint-the-qr-code-1cjd)
-- [Sandbox blocking npm install in Claude Code, Cursor and Codex](https://dev.to/eliran_kotzero_e1781dc487/sandbox-blocking-npm-install-in-claude-code-cursor-and-codex-3ef1)
-- [Fix OOM Kills and MEMORY_LIMIT_EXCEEDED on ClickHouse® Servers](https://dev.to/kanishga_subramani_49ad73/fix-oom-kills-and-memorylimitexceeded-on-clickhouser-servers-5i4)
+- [The checkout page can&#39;t tell your agent from a scraper — and that&#39;s your problem](https://dev.to/o96a/the-checkout-page-cant-tell-your-agent-from-a-scraper-and-thats-your-problem-5d2a)
+- [I Built a 3D Plant Anatomy Simulator So You Can Finally See What&#39;s Inside a Stem](https://dev.to/julianneagu/i-built-a-3d-plant-anatomy-simulator-so-you-can-finally-see-whats-inside-a-stem-4o0o)
+- [Claude&#39;s Agents Are Moving Inside the Firewall](https://dev.to/hassan_devs/claudes-agents-are-moving-inside-the-firewall-2e0d)
+- [Understanding Git Branching and Merging: How Multiple Developers Collaborate on One Project](https://dev.to/tobyjonesdaily/understanding-git-branching-and-merging-how-multiple-developers-collaborate-on-one-project-2i51)
+- [Fabric PII: What Would You Do When Ingesting Sensitive Data?](https://dev.to/geekindata/fabric-pii-what-would-you-do-when-ingesting-sensitive-data-2b64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
