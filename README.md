@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [The checkout page can&#39;t tell your agent from a scraper — and that&#39;s your problem](https://dev.to/o96a/the-checkout-page-cant-tell-your-agent-from-a-scraper-and-thats-your-problem-5d2a)
-- [I Built a 3D Plant Anatomy Simulator So You Can Finally See What&#39;s Inside a Stem](https://dev.to/julianneagu/i-built-a-3d-plant-anatomy-simulator-so-you-can-finally-see-whats-inside-a-stem-4o0o)
-- [Claude&#39;s Agents Are Moving Inside the Firewall](https://dev.to/hassan_devs/claudes-agents-are-moving-inside-the-firewall-2e0d)
-- [Understanding Git Branching and Merging: How Multiple Developers Collaborate on One Project](https://dev.to/tobyjonesdaily/understanding-git-branching-and-merging-how-multiple-developers-collaborate-on-one-project-2i51)
-- [Fabric PII: What Would You Do When Ingesting Sensitive Data?](https://dev.to/geekindata/fabric-pii-what-would-you-do-when-ingesting-sensitive-data-2b64)
+- [Business observability financial services: payments and SLOs](https://dev.to/spanobserver/business-observability-financial-services-payments-and-slos-2ec5)
+- [Copying a Model&#39;s Shutdown Date Into Your Calendar Is a Bug](https://dev.to/nabil_since_dev/copying-a-models-shutdown-date-into-your-calendar-is-a-bug-25hm)
+- [AI-Powered Developer Productivity Software Guide 2026](https://dev.to/nlocoding/ai-powered-developer-productivity-software-guide-2026-3anj)
+- [Logging pipeline runs without noise #st5rg](https://dev.to/devnote2319/logging-pipeline-runs-without-noise-st5rg-2n9a)
+- [How I Run Whisper and Export Captioned MP4s Entirely in the Browser](https://dev.to/parish/how-i-run-whisper-and-export-captioned-mp4s-entirely-in-the-browser-39d8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
