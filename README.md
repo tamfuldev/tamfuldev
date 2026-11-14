@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Hard spend limits for AI agents: a pattern we now consider table stakes](https://dev.to/maqronhq/hard-spend-limits-for-ai-agents-a-pattern-we-now-consider-table-stakes-439o)
-- [TI-84 ERR:SYNTAX — What It Means and the 3 Fixes That Solve Almost Every Case](https://dev.to/freeti84calculator/ti-84-errsyntax-what-it-means-and-the-3-fixes-that-solve-almost-every-case-1b0d)
-- [A Small C++ Detail That Makes APIs Much Better: const](https://dev.to/yummyzzzz/a-small-c-detail-that-makes-apis-much-better-const-4eom)
-- [Small words, big decisions: writing better button and form microcopy](https://dev.to/krishna_kumar_ecc1e764686/small-words-big-decisions-writing-better-button-and-form-microcopy-knl)
-- [The C++ Habit That Prevents So Many Resource Bugs: RAII](https://dev.to/yummyzzzz/the-c-habit-that-prevents-so-many-resource-bugs-raii-3o15)
+- [Reject a Stale In-Memory Update with a Revision Check Inside the Lock](https://dev.to/tokenpeakai/reject-a-stale-in-memory-update-with-a-revision-check-inside-the-lock-1741)
+- [Sobrevendido não é sinal de compra: um dia inteiro parado no dólar &lpar;#13&rpar;](https://dev.to/leovbranco/sobrevendido-nao-e-sinal-de-compra-um-dia-inteiro-parado-no-dolar-13-4igp)
+- [Transactional Email Explained — 3 Evidence Checks for Marketplace Receipts](https://dev.to/knoxblackwood2375/transactional-email-explained-3-evidence-checks-for-marketplace-receipts-2bfk)
+- [Architecting Offline Geofencing Without Draining the Battery](https://dev.to/haseebthedev0/architecting-offline-geofencing-without-draining-the-battery-2da4)
+- [You open a new card for the $200 welcome bonus while carrying the $4,100: the bonus costs $385.51](https://dev.to/alapha888/you-open-a-new-card-for-the-200-welcome-bonus-while-carrying-the-4100-the-bonus-costs-38551-209j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
