@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Business observability financial services: payments and SLOs](https://dev.to/spanobserver/business-observability-financial-services-payments-and-slos-2ec5)
-- [Copying a Model&#39;s Shutdown Date Into Your Calendar Is a Bug](https://dev.to/nabil_since_dev/copying-a-models-shutdown-date-into-your-calendar-is-a-bug-25hm)
-- [AI-Powered Developer Productivity Software Guide 2026](https://dev.to/nlocoding/ai-powered-developer-productivity-software-guide-2026-3anj)
-- [Logging pipeline runs without noise #st5rg](https://dev.to/devnote2319/logging-pipeline-runs-without-noise-st5rg-2n9a)
-- [How I Run Whisper and Export Captioned MP4s Entirely in the Browser](https://dev.to/parish/how-i-run-whisper-and-export-captioned-mp4s-entirely-in-the-browser-39d8)
+- [How a Transliteration Engine Thinks: From &quot;namaste&quot; to Devanagari](https://dev.to/jamescarterwrites/how-a-transliteration-engine-thinks-from-namaste-to-devanagari-49d3)
+- [Day Trading vs Settlement: Same-Day US Stock Trades Do Not Mean T+0 Settlement](https://dev.to/wang_vball_2e41b5cfbc194e/day-trading-vs-settlement-same-day-us-stock-trades-do-not-mean-t0-settlement-13h1)
+- [Your scraper will not throw an error: designing page extraction that fails loudly, one field at a time](https://dev.to/maptosite/your-scraper-will-not-throw-an-error-designing-page-extraction-that-fails-loudly-one-field-at-a-3dop)
+- [How I Built a Todo App with Python - My First Project](https://dev.to/wisdomakpandevweb/how-i-built-a-todo-app-with-python-my-first-project-4le5)
+- [&quot;Never expire&quot; log groups: what survives when you delete a Lambda, and the account-level retention AWS added this week](https://dev.to/gonzalogjuka/never-expire-log-groups-what-survives-when-you-delete-a-lambda-and-the-account-level-retention-5flk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
