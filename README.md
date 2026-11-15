@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Black-Box Prompts: Building an Explainable Multi-Agent Financial Intelligence Platform with FastAPI &amp; React](https://dev.to/khare69/beyond-black-box-prompts-building-an-explainable-multi-agent-financial-intelligence-platform-with-4o03)
-- [I Told My Agent Who Sent the Message. It Mostly Stopped Saying We Were Talking.](https://dev.to/kenielzep97/i-told-my-agent-who-sent-the-message-it-mostly-stopped-saying-we-were-talking-12o8)
-- [Why a Video Link Shouldn&#39;t Always Return a Video](https://dev.to/hzd4502237/why-a-video-link-shouldnt-always-return-a-video-3gk7)
-- [Designing a pill reminder that never says &#39;missed&#39; when it doesn&#39;t know](https://dev.to/honestlittleapps/designing-a-pill-reminder-that-never-says-missed-when-it-doesnt-know-5hnc)
-- [Migrate Bitbucket Pipelines to GitHub Actions](https://dev.to/kalemi/migrate-bitbucket-pipelines-to-github-actions-52ke)
+- [Claude Code OpenTelemetry: Drop user.email, Sum the Deltas](https://dev.to/jeremy_longshore/claude-code-opentelemetry-drop-useremail-sum-the-deltas-3bn6)
+- [Dynatrace OTel Collector: migrating from Contrib safely](https://dev.to/spanobserver/dynatrace-otel-collector-migrating-from-contrib-safely-1hd7)
+- [Add AI agents to your access review in three checks &lpar;owner, scope, stop and evidence&rpar;](https://dev.to/ankush1982/add-ai-agents-to-your-access-review-in-three-checks-owner-scope-stop-and-evidence-hg7)
+- [How to search Greenhouse, Lever and Ashby jobs in one place](https://dev.to/magicnull/how-to-search-greenhouse-lever-and-ashby-jobs-in-one-place-1mk5)
+- [GitHub Actions Path Validation Error caching, on a green job](https://dev.to/kalemi/github-actions-path-validation-error-caching-on-a-green-job-5hm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
