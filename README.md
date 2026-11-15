@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vietnam AI &amp; LLM Daily Briefing &lpar;Nov 16, 2026&rpar;](https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-16-2026-2168)
-- [Realtime Channel Teardown: Idempotent Recovery for Multiplayer Quiz Sessions](https://dev.to/zebedeeholloway9023/realtime-channel-teardown-idempotent-recovery-for-multiplayer-quiz-sessions-446)
-- [&quot;Zero upload&quot; is a claim. Show me the network tab.](https://dev.to/saurav___21db72e04f2f0db3/zero-upload-is-a-claim-show-me-the-network-tab-4a7k)
-- [We Built an AI Game Where You Can Invent &lpar;Almost&rpar; Anything to Survive the Odyssey 🚢✨](https://dev.to/stephanieee_w_c9a56ab3002/we-built-an-ai-game-where-you-can-invent-almost-anything-to-survive-the-odyssey-536k)
-- [Find whitespace and case-variant duplicates in a CSV column with Python &lpar;stdlib only&rpar;](https://dev.to/steven_keil_cb87a560f87f0/find-whitespace-and-case-variant-duplicates-in-a-csv-column-with-python-stdlib-only-24fe)
+- [Can obfuscation hide a connection string? What Nebula protects, and what it cannot](https://dev.to/zero_heartbeat_06a3625d7a/can-obfuscation-hide-a-connection-string-what-nebula-protects-and-what-it-cannot-5bbb)
+- [What I Learned Sending 324 DMs to People Who Asked for Help in Public](https://dev.to/marius_stiuriuc_f65afb31a/what-i-learned-sending-324-dms-to-people-who-asked-for-help-in-public-47eo)
+- [Product Discovery in High-Uncertainty Environments](https://dev.to/ricardo_vano_25ad2fa57d1f/product-discovery-in-high-uncertainty-environments-11ph)
+- [Retry Budgets for AI Agents: What ScraperAPI, Firecrawl and Bright Data Document About 429s, Retries and Charges](https://dev.to/agentstacknotes/retry-budgets-for-ai-agents-what-scraperapi-firecrawl-and-bright-data-document-about-429s-1gfk)
+- [Depot vs Celesto CI: what are you paying for?](https://dev.to/aniketmaurya/depot-vs-celesto-ci-what-are-you-paying-for-4mnb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
