@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code OpenTelemetry: Drop user.email, Sum the Deltas](https://dev.to/jeremy_longshore/claude-code-opentelemetry-drop-useremail-sum-the-deltas-3bn6)
-- [Dynatrace OTel Collector: migrating from Contrib safely](https://dev.to/spanobserver/dynatrace-otel-collector-migrating-from-contrib-safely-1hd7)
-- [Add AI agents to your access review in three checks &lpar;owner, scope, stop and evidence&rpar;](https://dev.to/ankush1982/add-ai-agents-to-your-access-review-in-three-checks-owner-scope-stop-and-evidence-hg7)
-- [How to search Greenhouse, Lever and Ashby jobs in one place](https://dev.to/magicnull/how-to-search-greenhouse-lever-and-ashby-jobs-in-one-place-1mk5)
-- [GitHub Actions Path Validation Error caching, on a green job](https://dev.to/kalemi/github-actions-path-validation-error-caching-on-a-green-job-5hm)
+- [Vietnam AI &amp; LLM Daily Briefing &lpar;Nov 16, 2026&rpar;](https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-16-2026-2168)
+- [Realtime Channel Teardown: Idempotent Recovery for Multiplayer Quiz Sessions](https://dev.to/zebedeeholloway9023/realtime-channel-teardown-idempotent-recovery-for-multiplayer-quiz-sessions-446)
+- [&quot;Zero upload&quot; is a claim. Show me the network tab.](https://dev.to/saurav___21db72e04f2f0db3/zero-upload-is-a-claim-show-me-the-network-tab-4a7k)
+- [We Built an AI Game Where You Can Invent &lpar;Almost&rpar; Anything to Survive the Odyssey 🚢✨](https://dev.to/stephanieee_w_c9a56ab3002/we-built-an-ai-game-where-you-can-invent-almost-anything-to-survive-the-odyssey-536k)
+- [Find whitespace and case-variant duplicates in a CSV column with Python &lpar;stdlib only&rpar;](https://dev.to/steven_keil_cb87a560f87f0/find-whitespace-and-case-variant-duplicates-in-a-csv-column-with-python-stdlib-only-24fe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
