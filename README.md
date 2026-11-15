@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How a Transliteration Engine Thinks: From &quot;namaste&quot; to Devanagari](https://dev.to/jamescarterwrites/how-a-transliteration-engine-thinks-from-namaste-to-devanagari-49d3)
-- [Day Trading vs Settlement: Same-Day US Stock Trades Do Not Mean T+0 Settlement](https://dev.to/wang_vball_2e41b5cfbc194e/day-trading-vs-settlement-same-day-us-stock-trades-do-not-mean-t0-settlement-13h1)
-- [Your scraper will not throw an error: designing page extraction that fails loudly, one field at a time](https://dev.to/maptosite/your-scraper-will-not-throw-an-error-designing-page-extraction-that-fails-loudly-one-field-at-a-3dop)
-- [How I Built a Todo App with Python - My First Project](https://dev.to/wisdomakpandevweb/how-i-built-a-todo-app-with-python-my-first-project-4le5)
-- [&quot;Never expire&quot; log groups: what survives when you delete a Lambda, and the account-level retention AWS added this week](https://dev.to/gonzalogjuka/never-expire-log-groups-what-survives-when-you-delete-a-lambda-and-the-account-level-retention-5flk)
+- [Beyond Black-Box Prompts: Building an Explainable Multi-Agent Financial Intelligence Platform with FastAPI &amp; React](https://dev.to/khare69/beyond-black-box-prompts-building-an-explainable-multi-agent-financial-intelligence-platform-with-4o03)
+- [I Told My Agent Who Sent the Message. It Mostly Stopped Saying We Were Talking.](https://dev.to/kenielzep97/i-told-my-agent-who-sent-the-message-it-mostly-stopped-saying-we-were-talking-12o8)
+- [Why a Video Link Shouldn&#39;t Always Return a Video](https://dev.to/hzd4502237/why-a-video-link-shouldnt-always-return-a-video-3gk7)
+- [Designing a pill reminder that never says &#39;missed&#39; when it doesn&#39;t know](https://dev.to/honestlittleapps/designing-a-pill-reminder-that-never-says-missed-when-it-doesnt-know-5hnc)
+- [Migrate Bitbucket Pipelines to GitHub Actions](https://dev.to/kalemi/migrate-bitbucket-pipelines-to-github-actions-52ke)
 <!-- BLOG-POST-LIST:END -->
 
 ---
