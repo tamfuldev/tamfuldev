@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Who&#39;s hiring software engineers this week: 30 companies, straight from their career pages](https://dev.to/arabinowe/whos-hiring-software-engineers-this-week-30-companies-straight-from-their-career-pages-mc7)
-- [What Is A2P 10DLC? US Business Texting Registration](https://dev.to/piyuzz/what-is-a2p-10dlc-us-business-texting-registration-2mo7)
-- [Building a WhatsApp-First Booking Flow Without a Backend](https://dev.to/navetteforyou/building-a-whatsapp-first-booking-flow-without-a-backend-26jf)
-- [Celery Tasks Running Twice? How to Prevent Duplicate Execution&quot;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/celery-tasks-running-twice-how-to-prevent-duplicate-execution-38g0)
-- [Deploying an 8-Language Astro Site to Vercel: Lessons from 5000+ Static Routes](https://dev.to/navetteforyou/deploying-an-8-language-astro-site-to-vercel-lessons-from-5000-static-routes-3ik0)
+- [Why Passport Photos Fail Online: 6 Image Checks Every Photo Tool Should Perform](https://dev.to/pixpassport/why-passport-photos-fail-online-6-image-checks-every-photo-tool-should-perform-3nop)
+- [The AI Pair Programmer Illusion: How AI Is Eroding Developers’ Core Skills](https://dev.to/omieee_24/the-ai-pair-programmer-illusion-how-ai-is-eroding-developers-core-skills-1b3)
+- [Voice AI Is Easy. Making It Talk to Your Database Is the Actual Job](https://dev.to/vrunda_chauhan_a52cc23b11/voice-ai-is-easy-making-it-talk-to-your-database-is-the-actual-job-2i3i)
+- [Cross-posting service in FastAPI: one request publishes this message...](https://dev.to/vaibhav_porwal_40fb026387/cross-posting-service-in-fastapi-one-request-publishes-this-message-4emi)
+- [Wrapping Demucs in FastAPI: Building a Music Stem Separation Web App](https://dev.to/sanedevs/wrapping-demucs-in-fastapi-building-a-music-stem-separation-web-app-3oc0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
