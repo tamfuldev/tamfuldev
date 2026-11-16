@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Can obfuscation hide a connection string? What Nebula protects, and what it cannot](https://dev.to/zero_heartbeat_06a3625d7a/can-obfuscation-hide-a-connection-string-what-nebula-protects-and-what-it-cannot-5bbb)
-- [What I Learned Sending 324 DMs to People Who Asked for Help in Public](https://dev.to/marius_stiuriuc_f65afb31a/what-i-learned-sending-324-dms-to-people-who-asked-for-help-in-public-47eo)
-- [Product Discovery in High-Uncertainty Environments](https://dev.to/ricardo_vano_25ad2fa57d1f/product-discovery-in-high-uncertainty-environments-11ph)
-- [Retry Budgets for AI Agents: What ScraperAPI, Firecrawl and Bright Data Document About 429s, Retries and Charges](https://dev.to/agentstacknotes/retry-budgets-for-ai-agents-what-scraperapi-firecrawl-and-bright-data-document-about-429s-1gfk)
-- [Depot vs Celesto CI: what are you paying for?](https://dev.to/aniketmaurya/depot-vs-celesto-ci-what-are-you-paying-for-4mnb)
+- [Who&#39;s hiring software engineers this week: 30 companies, straight from their career pages](https://dev.to/arabinowe/whos-hiring-software-engineers-this-week-30-companies-straight-from-their-career-pages-mc7)
+- [What Is A2P 10DLC? US Business Texting Registration](https://dev.to/piyuzz/what-is-a2p-10dlc-us-business-texting-registration-2mo7)
+- [Building a WhatsApp-First Booking Flow Without a Backend](https://dev.to/navetteforyou/building-a-whatsapp-first-booking-flow-without-a-backend-26jf)
+- [Celery Tasks Running Twice? How to Prevent Duplicate Execution&quot;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/celery-tasks-running-twice-how-to-prevent-duplicate-execution-38g0)
+- [Deploying an 8-Language Astro Site to Vercel: Lessons from 5000+ Static Routes](https://dev.to/navetteforyou/deploying-an-8-language-astro-site-to-vercel-lessons-from-5000-static-routes-3ik0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
