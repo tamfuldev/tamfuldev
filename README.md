@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Money Concepts: A Retail Trader&#39;s Reality Check](https://dev.to/quantzee/smart-money-concepts-a-retail-traders-reality-check-2ap4)
-- [Dev News Digest: 17 Nov 2026, 06:00](https://dev.to/magnus_ferm/dev-news-digest-17-nov-2026-0600-2bb3)
-- [Building a ChatGPT/Claude conversation exporter: MV3, dual-target packaging, and offline Pro checks](https://dev.to/alapha888/building-a-chatgptclaude-conversation-exporter-mv3-dual-target-packaging-and-offline-pro-checks-2mc)
-- [Synthetic vs Real Test Cases for LLM Agent Evals](https://dev.to/robat_das_3c6e956212f6408/synthetic-vs-real-test-cases-for-llm-agent-evals-4ilg)
-- [Skip the microphone: turning a script into natural speech in five minutes](https://dev.to/zhiwei_224e5e15600342dc0b/skip-the-microphone-turning-a-script-into-natural-speech-in-five-minutes-53nj)
+- [Spectral vs vacuum &lpar;2026&rpar;: I benchmarked both OpenAPI linters on Stripe and GitHub&#39;s specs](https://dev.to/deepaksatyam/spectral-vs-vacuum-2026-i-benchmarked-both-openapi-linters-on-stripe-and-githubs-specs-48je)
+- [Unfreezing Show My Cursor in RustDesk&#39;s View Only Mode](https://dev.to/prilog/unfreezing-show-my-cursor-in-rustdesks-view-only-mode-1k81)
+- [Returning Joined Columns Under Restricted Access in pREST](https://dev.to/prilog/returning-joined-columns-under-restricted-access-in-prest-18fp)
+- [Restoring Microsoft Teams Notifications in Prefect for New Power Automate URLs](https://dev.to/prilog/restoring-microsoft-teams-notifications-in-prefect-for-new-power-automate-urls-8g2)
+- [A free node subscription is rarely &#39;broken&#39;. Four commands tell you which layer failed.](https://dev.to/dong_liu_359083387a3f9025/a-free-node-subscription-is-rarely-broken-four-commands-tell-you-which-layer-failed-1deo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
