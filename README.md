@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What I&#39;ve learned doing Devpost hackathons solo from Manila](https://dev.to/pinoycoach/what-ive-learned-doing-devpost-hackathons-solo-from-manila-2p8h)
-- [&quot;Why we built Apium Cloud OS: running a multi-protocol gateway without gluing together four different VPN stacks&quot;](https://dev.to/apium_cloud_os/why-we-built-apium-cloud-os-running-a-multi-protocol-gateway-without-gluing-together-four-3p5b)
-- [Beyond the Final Answer: Evaluating the Reliability of Tool-Using AI Agents](https://dev.to/chaitasi_patel_0feef273c0/beyond-the-final-answer-evaluating-the-reliability-of-tool-using-ai-agents-4emc)
-- [How to verify a user&#39;s email and link it to their wallet](https://dev.to/litprotocol/how-to-verify-a-users-email-and-link-it-to-their-wallet-14hk)
-- [Designing Circuit Breaker Fallbacks to Prevent Thread Exhaustion from Slow External APIs](https://dev.to/toai/designing-circuit-breaker-fallbacks-to-prevent-thread-exhaustion-from-slow-external-apis-5d02)
+- [Smart Money Concepts: A Retail Trader&#39;s Reality Check](https://dev.to/quantzee/smart-money-concepts-a-retail-traders-reality-check-2ap4)
+- [Dev News Digest: 17 Nov 2026, 06:00](https://dev.to/magnus_ferm/dev-news-digest-17-nov-2026-0600-2bb3)
+- [Building a ChatGPT/Claude conversation exporter: MV3, dual-target packaging, and offline Pro checks](https://dev.to/alapha888/building-a-chatgptclaude-conversation-exporter-mv3-dual-target-packaging-and-offline-pro-checks-2mc)
+- [Synthetic vs Real Test Cases for LLM Agent Evals](https://dev.to/robat_das_3c6e956212f6408/synthetic-vs-real-test-cases-for-llm-agent-evals-4ilg)
+- [Skip the microphone: turning a script into natural speech in five minutes](https://dev.to/zhiwei_224e5e15600342dc0b/skip-the-microphone-turning-a-script-into-natural-speech-in-five-minutes-53nj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
