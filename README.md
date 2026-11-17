@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Spectral vs vacuum &lpar;2026&rpar;: I benchmarked both OpenAPI linters on Stripe and GitHub&#39;s specs](https://dev.to/deepaksatyam/spectral-vs-vacuum-2026-i-benchmarked-both-openapi-linters-on-stripe-and-githubs-specs-48je)
-- [Unfreezing Show My Cursor in RustDesk&#39;s View Only Mode](https://dev.to/prilog/unfreezing-show-my-cursor-in-rustdesks-view-only-mode-1k81)
-- [Returning Joined Columns Under Restricted Access in pREST](https://dev.to/prilog/returning-joined-columns-under-restricted-access-in-prest-18fp)
-- [Restoring Microsoft Teams Notifications in Prefect for New Power Automate URLs](https://dev.to/prilog/restoring-microsoft-teams-notifications-in-prefect-for-new-power-automate-urls-8g2)
-- [A free node subscription is rarely &#39;broken&#39;. Four commands tell you which layer failed.](https://dev.to/dong_liu_359083387a3f9025/a-free-node-subscription-is-rarely-broken-four-commands-tell-you-which-layer-failed-1deo)
+- [Five public job APIs you can call today: Greenhouse, Lever, Ashby, Breezy HR and Paylocity &lpar;with Python&rpar;](https://dev.to/makerio/five-public-job-apis-you-can-call-today-greenhouse-lever-ashby-breezy-hr-and-paylocity-with-5d96)
+- [5 Cognitive Distortions That Kill Developer Productivity &lpar;And How to Catch Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-catch-them-46ho)
+- [NVIDIA&#39;s DGX Spark Developer Kit Brings Four-Node Scientific Computing to the Desk](https://dev.to/kami_butt_69b922ade8de012/nvidias-dgx-spark-developer-kit-brings-four-node-scientific-computing-to-the-desk-36md)
+- [Your AI Agent Writes the Code. Who Sets the Rules?](https://dev.to/wzohny/your-ai-agent-writes-the-code-who-sets-the-rules-18li)
+- [Streaming SQL Server CDC Changes into ClickHouse for Live Fraud Detection](https://dev.to/striim_inc/streaming-sql-server-cdc-changes-into-clickhouse-for-live-fraud-detection-4cof)
 <!-- BLOG-POST-LIST:END -->
 
 ---
