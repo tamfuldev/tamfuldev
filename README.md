@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Explained: A Practical Workflow for Beginner Developers](https://dev.to/abdulhaseebmari/git-and-github-explained-a-practical-workflow-for-beginner-developers-4fea)
-- [Building an Automated, Zero-AWS Data Engineering Platform with Apache Airflow, dbt, DuckDB/PostgreSQL, and FastAPI](https://dev.to/fabricio_ramos/building-an-automated-zero-aws-data-engineering-platform-with-apache-airflow-dbt-3bc6)
-- [7 Clean Code Practices Every Beginner Developer Should Learn](https://dev.to/abdulhaseebmari/7-clean-code-practices-every-beginner-developer-should-learn-1agc)
-- [Your n8n error alert can crash too: paired items are lost on a Google Sheets error output](https://dev.to/testedautomations/your-n8n-error-alert-can-crash-too-paired-items-are-lost-on-a-google-sheets-error-output-2a69)
-- [Making AI Research Actionable: From Structured Task Briefs to Production-Ready Artifacts](https://dev.to/powe_good_3a671b296031264/making-ai-research-actionable-from-structured-task-briefs-to-production-ready-artifacts-38b9)
+- [Oronode](https://dev.to/harshil_kohli/oronode-3ko6)
+- [Find Which Releases Shipped a Vulnerable Dependency with GitHub Actions](https://dev.to/narendra_sahoo_a2aeff1193/find-which-releases-shipped-a-vulnerable-dependency-with-github-actions-5978)
+- [Oct 9. The biggest build day of the portfolio. About 50 commits](https://dev.to/abdulwasaylodhi/oct-9-the-biggest-build-day-of-the-portfolio-about-50-commits-5e8f)
+- [Catastrophic Forgetting, Measured: I Fine-Tuned a Small LLM on One New Character and Its Old Stories Went From Perplexity 9 to 156](https://dev.to/aiexplore369zoho/catastrophic-forgetting-measured-i-fine-tuned-a-small-llm-on-one-new-character-and-its-old-105k)
+- [API-First Modernization for SaaS: Preparing Your Product for AI Agents and Enterprise Integrations](https://dev.to/quokkalabs/api-first-modernization-for-saas-preparing-your-product-for-ai-agents-and-enterprise-integrations-2793)
 <!-- BLOG-POST-LIST:END -->
 
 ---
