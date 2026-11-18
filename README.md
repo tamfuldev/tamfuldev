@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Oronode](https://dev.to/harshil_kohli/oronode-3ko6)
-- [Find Which Releases Shipped a Vulnerable Dependency with GitHub Actions](https://dev.to/narendra_sahoo_a2aeff1193/find-which-releases-shipped-a-vulnerable-dependency-with-github-actions-5978)
-- [Oct 9. The biggest build day of the portfolio. About 50 commits](https://dev.to/abdulwasaylodhi/oct-9-the-biggest-build-day-of-the-portfolio-about-50-commits-5e8f)
-- [Catastrophic Forgetting, Measured: I Fine-Tuned a Small LLM on One New Character and Its Old Stories Went From Perplexity 9 to 156](https://dev.to/aiexplore369zoho/catastrophic-forgetting-measured-i-fine-tuned-a-small-llm-on-one-new-character-and-its-old-105k)
-- [API-First Modernization for SaaS: Preparing Your Product for AI Agents and Enterprise Integrations](https://dev.to/quokkalabs/api-first-modernization-for-saas-preparing-your-product-for-ai-agents-and-enterprise-integrations-2793)
+- [ShrutiScript Media 2028 Renewals: CurrencyScoop INR Notes &lpar;Fictional Data&rpar;](https://dev.to/1ds22cs119_manish_274b7b2/shrutiscript-media-2028-renewals-currencyscoop-inr-notes-fictional-data-4kp)
+- [Apple Just Made 1080p Video in 120 ms – Here’s How It’s Changing Live‑Streaming](https://dev.to/amrithesh_dev/apple-just-made-1080p-video-in-120-ms-heres-how-its-changing-live-streaming-47l3)
+- [Reciprocal Rank Fusion k=60: My #1 BM25 Match Fell to Position 31](https://dev.to/ji_ai/reciprocal-rank-fusion-k60-my-1-bm25-match-fell-to-position-31-54n5)
+- [Microsoft Agent Framework PyPI Compromise: Credential Theft at Scale](https://dev.to/satyam_rastogi/microsoft-agent-framework-pypi-compromise-credential-theft-at-scale-1olp)
+- [Why does hosting a simple app still require 4 different tabs?](https://dev.to/aliah_meddev/why-does-hosting-a-simple-app-still-require-4-different-tabs-26g6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
