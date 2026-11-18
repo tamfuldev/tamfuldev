@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Five public job APIs you can call today: Greenhouse, Lever, Ashby, Breezy HR and Paylocity &lpar;with Python&rpar;](https://dev.to/makerio/five-public-job-apis-you-can-call-today-greenhouse-lever-ashby-breezy-hr-and-paylocity-with-5d96)
-- [5 Cognitive Distortions That Kill Developer Productivity &lpar;And How to Catch Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-catch-them-46ho)
-- [NVIDIA&#39;s DGX Spark Developer Kit Brings Four-Node Scientific Computing to the Desk](https://dev.to/kami_butt_69b922ade8de012/nvidias-dgx-spark-developer-kit-brings-four-node-scientific-computing-to-the-desk-36md)
-- [Your AI Agent Writes the Code. Who Sets the Rules?](https://dev.to/wzohny/your-ai-agent-writes-the-code-who-sets-the-rules-18li)
-- [Streaming SQL Server CDC Changes into ClickHouse for Live Fraud Detection](https://dev.to/striim_inc/streaming-sql-server-cdc-changes-into-clickhouse-for-live-fraud-detection-4cof)
+- [Git and GitHub Explained: A Practical Workflow for Beginner Developers](https://dev.to/abdulhaseebmari/git-and-github-explained-a-practical-workflow-for-beginner-developers-4fea)
+- [Building an Automated, Zero-AWS Data Engineering Platform with Apache Airflow, dbt, DuckDB/PostgreSQL, and FastAPI](https://dev.to/fabricio_ramos/building-an-automated-zero-aws-data-engineering-platform-with-apache-airflow-dbt-3bc6)
+- [7 Clean Code Practices Every Beginner Developer Should Learn](https://dev.to/abdulhaseebmari/7-clean-code-practices-every-beginner-developer-should-learn-1agc)
+- [Your n8n error alert can crash too: paired items are lost on a Google Sheets error output](https://dev.to/testedautomations/your-n8n-error-alert-can-crash-too-paired-items-are-lost-on-a-google-sheets-error-output-2a69)
+- [Making AI Research Actionable: From Structured Task Briefs to Production-Ready Artifacts](https://dev.to/powe_good_3a671b296031264/making-ai-research-actionable-from-structured-task-briefs-to-production-ready-artifacts-38b9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
