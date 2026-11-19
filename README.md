@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [ShrutiScript Media 2028 Renewals: CurrencyScoop INR Notes &lpar;Fictional Data&rpar;](https://dev.to/1ds22cs119_manish_274b7b2/shrutiscript-media-2028-renewals-currencyscoop-inr-notes-fictional-data-4kp)
-- [Apple Just Made 1080p Video in 120 ms – Here’s How It’s Changing Live‑Streaming](https://dev.to/amrithesh_dev/apple-just-made-1080p-video-in-120-ms-heres-how-its-changing-live-streaming-47l3)
-- [Reciprocal Rank Fusion k=60: My #1 BM25 Match Fell to Position 31](https://dev.to/ji_ai/reciprocal-rank-fusion-k60-my-1-bm25-match-fell-to-position-31-54n5)
-- [Microsoft Agent Framework PyPI Compromise: Credential Theft at Scale](https://dev.to/satyam_rastogi/microsoft-agent-framework-pypi-compromise-credential-theft-at-scale-1olp)
-- [Why does hosting a simple app still require 4 different tabs?](https://dev.to/aliah_meddev/why-does-hosting-a-simple-app-still-require-4-different-tabs-26g6)
+- [We read 684 agency websites to find what Google Ads management costs. 15 printed a price.](https://dev.to/nova_solutions/we-read-684-agency-websites-to-find-what-google-ads-management-costs-15-printed-a-price-586)
+- [THE 900-SECOND SUICIDE PACT: The Agentic Internet Is Running on Cleartext—Why Probabilistic AI Guardrails Are Dead](https://dev.to/awiresearchlab/the-900-second-suicide-pact-the-agentic-internet-is-running-on-cleartext-why-probabilistic-ai-3fjc)
+- [Why We Replaced Our Freelance WordPress Stack With Lovable + Supabase &lpar;6-Month Numbers&rpar;](https://dev.to/oxymoreservices/why-we-replaced-our-freelance-wordpress-stack-with-lovable-supabase-6-month-numbers-1fg9)
+- [P2V Windows Server to VMware 2026: Reliable Conversion Steps](https://dev.to/srvscripts/p2v-windows-server-to-vmware-2026-reliable-conversion-steps-466l)
+- [How to Stop Password Spraying Against an Admin Panel: Public vs Restricted Access](https://dev.to/_eb0609572b9efcf27472066/how-to-stop-password-spraying-against-an-admin-panel-public-vs-restricted-access-54fl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
