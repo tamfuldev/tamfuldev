@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [KingCobra 1.0: a native systems language that feels like a scripting language](https://dev.to/divyanshusinha136/kingcobra-10-a-native-systems-language-that-feels-like-a-scripting-language-4o2m)
-- [Industrial Robot Applications — Ch.09: Port and Logistics Applications [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch09-port-and-logistics-applications-en-15e)
-- [Industrial Robot Applications — Ch.10: Industrial Failure Analysis [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch10-industrial-failure-analysis-en-17c6)
-- [Industrial Robot Applications — Ch.11: Robot Business Model Design [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch11-robot-business-model-design-en-5339)
-- [Industrial Robot Applications — Ch.12: Industrial Application Case Studies [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch12-industrial-application-case-studies-en-15nh)
+- [Google Trends for 1,000 keywords in one run, without getting blocked](https://dev.to/publicrows/google-trends-for-1000-keywords-in-one-run-without-getting-blocked-1oob)
+- [Why AI Agents Fail in Production: 5 Causes and Fixes](https://dev.to/yzh317179958/why-ai-agents-fail-in-production-5-causes-and-fixes-22od)
+- [video-cli 1.3.3 is dead on a plain install: two bugs, two patches](https://dev.to/brittany-fixes/video-cli-133-is-dead-on-a-plain-install-two-bugs-two-patches-4agp)
+- [Design a proximity service: the system design interview walkthrough](https://dev.to/gowthampotureddi/design-a-proximity-service-the-system-design-interview-walkthrough-3n3h)
+- [AI Agent vs Workflow: How to Choose for Real Work](https://dev.to/yzh317179958/ai-agent-vs-workflow-how-to-choose-for-real-work-6i1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
