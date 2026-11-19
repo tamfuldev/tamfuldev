@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [We read 684 agency websites to find what Google Ads management costs. 15 printed a price.](https://dev.to/nova_solutions/we-read-684-agency-websites-to-find-what-google-ads-management-costs-15-printed-a-price-586)
-- [THE 900-SECOND SUICIDE PACT: The Agentic Internet Is Running on Cleartext—Why Probabilistic AI Guardrails Are Dead](https://dev.to/awiresearchlab/the-900-second-suicide-pact-the-agentic-internet-is-running-on-cleartext-why-probabilistic-ai-3fjc)
-- [Why We Replaced Our Freelance WordPress Stack With Lovable + Supabase &lpar;6-Month Numbers&rpar;](https://dev.to/oxymoreservices/why-we-replaced-our-freelance-wordpress-stack-with-lovable-supabase-6-month-numbers-1fg9)
-- [P2V Windows Server to VMware 2026: Reliable Conversion Steps](https://dev.to/srvscripts/p2v-windows-server-to-vmware-2026-reliable-conversion-steps-466l)
-- [How to Stop Password Spraying Against an Admin Panel: Public vs Restricted Access](https://dev.to/_eb0609572b9efcf27472066/how-to-stop-password-spraying-against-an-admin-panel-public-vs-restricted-access-54fl)
+- [KingCobra 1.0: a native systems language that feels like a scripting language](https://dev.to/divyanshusinha136/kingcobra-10-a-native-systems-language-that-feels-like-a-scripting-language-4o2m)
+- [Industrial Robot Applications — Ch.09: Port and Logistics Applications [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch09-port-and-logistics-applications-en-15e)
+- [Industrial Robot Applications — Ch.10: Industrial Failure Analysis [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch10-industrial-failure-analysis-en-17c6)
+- [Industrial Robot Applications — Ch.11: Robot Business Model Design [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch11-robot-business-model-design-en-5339)
+- [Industrial Robot Applications — Ch.12: Industrial Application Case Studies [EN]](https://dev.to/richard_minsoogo/industrial-robot-applications-ch12-industrial-application-case-studies-en-15nh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
