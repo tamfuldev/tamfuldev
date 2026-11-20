@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Google Trends for 1,000 keywords in one run, without getting blocked](https://dev.to/publicrows/google-trends-for-1000-keywords-in-one-run-without-getting-blocked-1oob)
-- [Why AI Agents Fail in Production: 5 Causes and Fixes](https://dev.to/yzh317179958/why-ai-agents-fail-in-production-5-causes-and-fixes-22od)
-- [video-cli 1.3.3 is dead on a plain install: two bugs, two patches](https://dev.to/brittany-fixes/video-cli-133-is-dead-on-a-plain-install-two-bugs-two-patches-4agp)
-- [Design a proximity service: the system design interview walkthrough](https://dev.to/gowthampotureddi/design-a-proximity-service-the-system-design-interview-walkthrough-3n3h)
-- [AI Agent vs Workflow: How to Choose for Real Work](https://dev.to/yzh317179958/ai-agent-vs-workflow-how-to-choose-for-real-work-6i1)
+- [Extracting Files Using Tar in Linux](https://dev.to/vultr/extracting-files-using-tar-in-linux-4fok)
+- [Using the Netstat Command in Linux](https://dev.to/vultr/using-the-netstat-command-in-linux-o8i)
+- [Zipping and Unzipping Files in Linux](https://dev.to/vultr/zipping-and-unzipping-files-in-linux-55l4)
+- [Using the SCP Command in Linux](https://dev.to/vultr/using-the-scp-command-in-linux-gc6)
+- [Row-Level Security for Multi-Tenant Cross-Border Order Data](https://dev.to/taocarts/row-level-security-for-multi-tenant-cross-border-order-data-1bk8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
