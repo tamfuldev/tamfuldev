@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Extracting Files Using Tar in Linux](https://dev.to/vultr/extracting-files-using-tar-in-linux-4fok)
-- [Using the Netstat Command in Linux](https://dev.to/vultr/using-the-netstat-command-in-linux-o8i)
-- [Zipping and Unzipping Files in Linux](https://dev.to/vultr/zipping-and-unzipping-files-in-linux-55l4)
-- [Using the SCP Command in Linux](https://dev.to/vultr/using-the-scp-command-in-linux-gc6)
-- [Row-Level Security for Multi-Tenant Cross-Border Order Data](https://dev.to/taocarts/row-level-security-for-multi-tenant-cross-border-order-data-1bk8)
+- [AI audit: test what your worker writes when the model times out](https://dev.to/matintellect/ai-audit-test-what-your-worker-writes-when-the-model-times-out-2jo9)
+- [How to Close a Deal That Keeps Stalling: A Mutual Action Plan Template and Closing Techniques for Founder-Led Sales](https://dev.to/kulissa/how-to-close-a-deal-that-keeps-stalling-a-mutual-action-plan-template-and-closing-techniques-for-3gc3)
+- [LLM Inference Optimization Interview Questions and Answers](https://dev.to/devopsinterview_cloud/llm-inference-optimization-interview-questions-and-answers-1f4o)
+- [My Journey So Far as a Freshman SWE at YIBS / ISEST](https://dev.to/neba_samuel_fbdb2463376e2/my-journey-so-far-as-a-freshman-swe-at-yibs-isest-1gk6)
+- [From Zero to a Running API in Minutes](https://dev.to/zintrustjs/from-zero-to-a-running-api-in-minutes-2p3c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
