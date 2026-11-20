@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI audit: test what your worker writes when the model times out](https://dev.to/matintellect/ai-audit-test-what-your-worker-writes-when-the-model-times-out-2jo9)
-- [How to Close a Deal That Keeps Stalling: A Mutual Action Plan Template and Closing Techniques for Founder-Led Sales](https://dev.to/kulissa/how-to-close-a-deal-that-keeps-stalling-a-mutual-action-plan-template-and-closing-techniques-for-3gc3)
-- [LLM Inference Optimization Interview Questions and Answers](https://dev.to/devopsinterview_cloud/llm-inference-optimization-interview-questions-and-answers-1f4o)
-- [My Journey So Far as a Freshman SWE at YIBS / ISEST](https://dev.to/neba_samuel_fbdb2463376e2/my-journey-so-far-as-a-freshman-swe-at-yibs-isest-1gk6)
-- [From Zero to a Running API in Minutes](https://dev.to/zintrustjs/from-zero-to-a-running-api-in-minutes-2p3c)
+- [Vietnam AI &amp; LLM Daily Briefing &lpar;Nov 21, 2026&rpar;](https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-21-2026-2oc9)
+- [I Build Custom WordPress Plugins With AI Every Day. Here’s What I Still Don’t Let It Decide.](https://dev.to/areesha_hanif/i-build-custom-wordpress-plugins-with-ai-every-day-heres-what-i-still-dont-let-it-decide-57ik)
+- [How to Analyze GPTBot, ChatGPT-User, and ClaudeBot Requests in Server Logs](https://dev.to/answerenginee/how-to-analyze-gptbot-chatgpt-user-and-claudebot-requests-in-server-logs-a7g)
+- [Designing a city game for people who will only give it three minutes](https://dev.to/samellis/designing-a-city-game-for-people-who-will-only-give-it-three-minutes-1oi8)
+- [How to Prepare a Website Development Brief in 2027: A Practical Guide for Business Owners](https://dev.to/dmytro_cian/how-to-prepare-a-website-development-brief-in-2027-a-practical-guide-for-business-owners-177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
