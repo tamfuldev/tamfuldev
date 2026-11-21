@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Vietnam AI &amp; LLM Daily Briefing &lpar;Nov 21, 2026&rpar;](https://dev.to/vuhung16au/vietnam-ai-llm-daily-briefing-nov-21-2026-2oc9)
-- [I Build Custom WordPress Plugins With AI Every Day. Here’s What I Still Don’t Let It Decide.](https://dev.to/areesha_hanif/i-build-custom-wordpress-plugins-with-ai-every-day-heres-what-i-still-dont-let-it-decide-57ik)
-- [How to Analyze GPTBot, ChatGPT-User, and ClaudeBot Requests in Server Logs](https://dev.to/answerenginee/how-to-analyze-gptbot-chatgpt-user-and-claudebot-requests-in-server-logs-a7g)
-- [Designing a city game for people who will only give it three minutes](https://dev.to/samellis/designing-a-city-game-for-people-who-will-only-give-it-three-minutes-1oi8)
-- [How to Prepare a Website Development Brief in 2027: A Practical Guide for Business Owners](https://dev.to/dmytro_cian/how-to-prepare-a-website-development-brief-in-2027-a-practical-guide-for-business-owners-177)
+- [Node.js PNG Retention: Verifying AI Image Buffers in S3-Compatible Tenant Storage](https://dev.to/nilsberg2187/nodejs-png-retention-verifying-ai-image-buffers-in-s3-compatible-tenant-storage-2gip)
+- [Invoice Template Ownership With Uploaded Scan OCR and Extracted Text Validation](https://dev.to/windwhisperboren33/invoice-template-ownership-with-uploaded-scan-ocr-and-extracted-text-validation-1i8m)
+- [Schema-First Practices for Debugging Malformed JSON Responses in Notification Failure Workflows](https://dev.to/jerichorhodes5847/schema-first-practices-for-debugging-malformed-json-responses-in-notification-failure-workflows-59d6)
+- [4 Intense Product Manager Interview Questions and how to ace them.](https://dev.to/salemevb/4-intense-product-manager-interview-questions-and-how-to-ace-them-3kd0)
+- [Thoughts on “Bias Towards Action”](https://dev.to/salemevb/thoughts-on-bias-towards-action-192g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
