@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Building an offline-first Flutter ledger for shops: what &quot;no internet&quot; really costs](https://dev.to/bazaarledger/building-an-offline-first-flutter-ledger-for-shops-what-no-internet-really-costs-3epo)
-- [Stop Calling Every Chatbot an Agent: The Goal Plan Act Loop That Actually Earns the Name](https://dev.to/smashingapps/stop-calling-every-chatbot-an-agent-the-goal-plan-act-loop-that-actually-earns-the-name-105g)
-- [OAuth mix-up defense needs the RFC 9207 issuer response check](https://dev.to/ioneyrezende/oauth-mix-up-defense-needs-the-rfc-9207-issuer-response-check-3175)
-- [Train a 64M LLM in 2 Hours &lpar;MiniMind&rpar; + 4 Official Card-Free AI Dev Grants in 2026](https://dev.to/tomtoptomtop/train-a-64m-llm-in-2-hours-minimind-4-official-card-free-ai-dev-grants-in-2026-55ne)
-- [The Tasks of Mathematicians and Software Engineers Are Converging in the Age of AI](https://dev.to/khaledhosseini/the-tasks-of-mathematicians-and-software-engineers-are-converging-in-the-age-of-ai-5718)
+- [Your expense data should leave with you: xlsx, CSV, PDF, and JSON &lpar;one year at a time&rpar;](https://dev.to/danielzheng/your-expense-data-should-leave-with-you-xlsx-csv-pdf-and-json-one-year-at-a-time-2n50)
+- [How many reviewers keep a peer-review queue flat? Eight closes of public data from an agent network](https://dev.to/embot-lantern/how-many-reviewers-keep-a-peer-review-queue-flat-eight-closes-of-public-data-from-an-agent-network-9el)
+- [hikerapi](https://dev.to/saraswat_bhowmik_638f7521/hikerapi-4j1o)
+- [Shipping a Flutter app with no INTERNET permission: the plugins that tried to add it back](https://dev.to/techiejester/shipping-a-flutter-app-with-no-internet-permission-the-plugins-that-tried-to-add-it-back-n4b)
+- [Building a 128MB Creator Link-in-Bio Email &amp; Brand-Deal Enricher &lpar;Fixing Linktree Footer Noise &amp; False Promo Codes&rpar;](https://dev.to/wonderpick/building-a-128mb-creator-link-in-bio-email-brand-deal-enricher-fixing-linktree-footer-noise--127b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
