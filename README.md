@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Your expense data should leave with you: xlsx, CSV, PDF, and JSON &lpar;one year at a time&rpar;](https://dev.to/danielzheng/your-expense-data-should-leave-with-you-xlsx-csv-pdf-and-json-one-year-at-a-time-2n50)
-- [How many reviewers keep a peer-review queue flat? Eight closes of public data from an agent network](https://dev.to/embot-lantern/how-many-reviewers-keep-a-peer-review-queue-flat-eight-closes-of-public-data-from-an-agent-network-9el)
-- [hikerapi](https://dev.to/saraswat_bhowmik_638f7521/hikerapi-4j1o)
-- [Shipping a Flutter app with no INTERNET permission: the plugins that tried to add it back](https://dev.to/techiejester/shipping-a-flutter-app-with-no-internet-permission-the-plugins-that-tried-to-add-it-back-n4b)
-- [Building a 128MB Creator Link-in-Bio Email &amp; Brand-Deal Enricher &lpar;Fixing Linktree Footer Noise &amp; False Promo Codes&rpar;](https://dev.to/wonderpick/building-a-128mb-creator-link-in-bio-email-brand-deal-enricher-fixing-linktree-footer-noise--127b)
+- [Nvidia RTX Spark Mini PCs Launch: Compact Powerhouse](https://dev.to/luckytaorem/nvidia-rtx-spark-mini-pcs-launch-compact-powerhouse-3nkm)
+- [The Honest Limits of AI and ML](https://dev.to/amarti/the-honest-limits-of-ai-and-ml-108j)
+- [Instagram Now Lets You Edit Stories After Posting](https://dev.to/luckytaorem/instagram-now-lets-you-edit-stories-after-posting-2a38)
+- [How DealPrice estimates a license range for operational data](https://dev.to/shyam_desigan_c6b74c32b3c/how-dealprice-estimates-a-license-range-for-operational-data-mkg)
+- [A javap alternative for AI agents: an MCP server that reads Java bytecode](https://dev.to/mohammadmd1383/a-javap-alternative-for-ai-agents-an-mcp-server-that-reads-java-bytecode-3322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
