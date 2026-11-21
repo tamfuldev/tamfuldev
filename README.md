@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js PNG Retention: Verifying AI Image Buffers in S3-Compatible Tenant Storage](https://dev.to/nilsberg2187/nodejs-png-retention-verifying-ai-image-buffers-in-s3-compatible-tenant-storage-2gip)
-- [Invoice Template Ownership With Uploaded Scan OCR and Extracted Text Validation](https://dev.to/windwhisperboren33/invoice-template-ownership-with-uploaded-scan-ocr-and-extracted-text-validation-1i8m)
-- [Schema-First Practices for Debugging Malformed JSON Responses in Notification Failure Workflows](https://dev.to/jerichorhodes5847/schema-first-practices-for-debugging-malformed-json-responses-in-notification-failure-workflows-59d6)
-- [4 Intense Product Manager Interview Questions and how to ace them.](https://dev.to/salemevb/4-intense-product-manager-interview-questions-and-how-to-ace-them-3kd0)
-- [Thoughts on “Bias Towards Action”](https://dev.to/salemevb/thoughts-on-bias-towards-action-192g)
+- [Building an offline-first Flutter ledger for shops: what &quot;no internet&quot; really costs](https://dev.to/bazaarledger/building-an-offline-first-flutter-ledger-for-shops-what-no-internet-really-costs-3epo)
+- [Stop Calling Every Chatbot an Agent: The Goal Plan Act Loop That Actually Earns the Name](https://dev.to/smashingapps/stop-calling-every-chatbot-an-agent-the-goal-plan-act-loop-that-actually-earns-the-name-105g)
+- [OAuth mix-up defense needs the RFC 9207 issuer response check](https://dev.to/ioneyrezende/oauth-mix-up-defense-needs-the-rfc-9207-issuer-response-check-3175)
+- [Train a 64M LLM in 2 Hours &lpar;MiniMind&rpar; + 4 Official Card-Free AI Dev Grants in 2026](https://dev.to/tomtoptomtop/train-a-64m-llm-in-2-hours-minimind-4-official-card-free-ai-dev-grants-in-2026-55ne)
+- [The Tasks of Mathematicians and Software Engineers Are Converging in the Age of AI](https://dev.to/khaledhosseini/the-tasks-of-mathematicians-and-software-engineers-are-converging-in-the-age-of-ai-5718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
