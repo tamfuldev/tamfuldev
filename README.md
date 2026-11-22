@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Find files changed in the last 24 hours &lpar;and the -mtime +1 trap&rpar;](https://dev.to/shellprovenai/find-files-changed-in-the-last-24-hours-and-the-mtime-1-trap-m9m)
-- [Building DocuPulse.AI: What I Learned Creating Practical PDF and Document Tools with ASP.NET Core](https://dev.to/raselrana0/building-docupulseai-what-i-learned-creating-practical-pdf-and-document-tools-with-aspnet-core-47i2)
-- [From Agent Hype to Agent Reality: A Three-Bucket Deploy Map for SMBs](https://dev.to/tm_gunderson_9cff63a7ba/from-agent-hype-to-agent-reality-a-three-bucket-deploy-map-for-smbs-3ki2)
-- [NPMplus Let&#39;s Encrypt renewal dead for 5 months: run certbot --dry-run](https://dev.to/iam-tech/npmplus-lets-encrypt-renewal-dead-for-5-months-run-certbot-dry-run-2jao)
-- [ClickFix 2.0: fake &quot;verify you are human&quot; pages, PNG payloads and the road to your domain controller](https://dev.to/coinetic_ai_security/clickfix-20-fake-verify-you-are-human-pages-png-payloads-and-the-road-to-your-domain-controller-3e6h)
+- [From Gemini + Google ADK to AgentOps: Building a Docker-First, Privacy-Safe Healthcare AI Platform](https://dev.to/hjangid/from-gemini-google-adk-to-agentops-building-a-docker-first-privacy-safe-healthcare-ai-platform-264)
+- [My Journey into HTML: Understanding the Foundation of Web Development](https://dev.to/ehtisham_ahmed_d30b74ddf1/my-journey-into-html-understanding-the-foundation-of-web-development-1b98)
+- [Smithery Pricing vs. Self-Hosted Cost for MCP Servers](https://dev.to/jeff_pdc/smithery-pricing-vs-self-hosted-cost-for-mcp-servers-24fo)
+- [Your first 90 days as a team lead: listen, win small, then lead](https://dev.to/sascha-ms/your-first-90-days-as-a-team-lead-listen-win-small-then-lead-3m3i)
+- [Node.js Large AI-Generated Image Uploads with Multipart Storage — Recovery](https://dev.to/rhysfalconer159/nodejs-large-ai-generated-image-uploads-with-multipart-storage-recovery-5e84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
