@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [AI Gateway Performance Comparison &lpar;2026&rpar;: Python vs Go vs Rust vs Envoy, and Why the Benchmarks Disagree](https://dev.to/park89329u7r9023/ai-gateway-performance-comparison-2026-python-vs-go-vs-rust-vs-envoy-and-why-the-benchmarks-2i5m)
-- [Stop Copy-Pasting Prompts: Build a Content Asset Pipeline Instead](https://dev.to/germey/stop-copy-pasting-prompts-build-a-content-asset-pipeline-instead-5234)
-- [Go Chat Authorization with Room Channels &lpar;Logistics Cursors Versus One Filtered Stream&rpar;](https://dev.to/seraphinalyn7139/go-chat-authorization-with-room-channels-logistics-cursors-versus-one-filtered-stream-5ebn)
-- [Routing Workflow with Spring AI: Classify First, Then Answer](https://dev.to/said_olano/routing-workflow-with-spring-ai-classify-first-then-answer-4m4b)
-- [Murf AI Review for Developers: The $0.16/Minute Rate Only Holds If You Use the Hours. Check It From Your Render Log](https://dev.to/jadenvo259/murf-ai-review-for-developers-the-016minute-rate-only-holds-if-you-use-the-hours-check-it-from-3dd3)
+- [Find files changed in the last 24 hours &lpar;and the -mtime +1 trap&rpar;](https://dev.to/shellprovenai/find-files-changed-in-the-last-24-hours-and-the-mtime-1-trap-m9m)
+- [Building DocuPulse.AI: What I Learned Creating Practical PDF and Document Tools with ASP.NET Core](https://dev.to/raselrana0/building-docupulseai-what-i-learned-creating-practical-pdf-and-document-tools-with-aspnet-core-47i2)
+- [From Agent Hype to Agent Reality: A Three-Bucket Deploy Map for SMBs](https://dev.to/tm_gunderson_9cff63a7ba/from-agent-hype-to-agent-reality-a-three-bucket-deploy-map-for-smbs-3ki2)
+- [NPMplus Let&#39;s Encrypt renewal dead for 5 months: run certbot --dry-run](https://dev.to/iam-tech/npmplus-lets-encrypt-renewal-dead-for-5-months-run-certbot-dry-run-2jao)
+- [ClickFix 2.0: fake &quot;verify you are human&quot; pages, PNG payloads and the road to your domain controller](https://dev.to/coinetic_ai_security/clickfix-20-fake-verify-you-are-human-pages-png-payloads-and-the-road-to-your-domain-controller-3e6h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
