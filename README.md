@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [From Gemini + Google ADK to AgentOps: Building a Docker-First, Privacy-Safe Healthcare AI Platform](https://dev.to/hjangid/from-gemini-google-adk-to-agentops-building-a-docker-first-privacy-safe-healthcare-ai-platform-264)
-- [My Journey into HTML: Understanding the Foundation of Web Development](https://dev.to/ehtisham_ahmed_d30b74ddf1/my-journey-into-html-understanding-the-foundation-of-web-development-1b98)
-- [Smithery Pricing vs. Self-Hosted Cost for MCP Servers](https://dev.to/jeff_pdc/smithery-pricing-vs-self-hosted-cost-for-mcp-servers-24fo)
-- [Your first 90 days as a team lead: listen, win small, then lead](https://dev.to/sascha-ms/your-first-90-days-as-a-team-lead-listen-win-small-then-lead-3m3i)
-- [Node.js Large AI-Generated Image Uploads with Multipart Storage — Recovery](https://dev.to/rhysfalconer159/nodejs-large-ai-generated-image-uploads-with-multipart-storage-recovery-5e84)
+- [Figured it was time to start sharing what I&#39;ve been working on...](https://dev.to/ric0c0derlab/figured-it-was-time-to-start-sharing-what-ive-been-working-on-4f58)
+- [API credit would have fixed one of the four faults behind my AI agents&#39; &quot;Try it free&quot; button](https://dev.to/nefayran/api-credit-would-have-fixed-one-of-the-four-faults-behind-my-ai-agents-try-it-free-button-2819)
+- [WARN Act and Your Paid Family Leave — What Happens to Your State Paid Leave After a Layoff Notice](https://dev.to/layoffatlas/warn-act-and-your-paid-family-leave-what-happens-to-your-state-paid-leave-after-a-layoff-notice-3flm)
+- [The Other Arm Is a Memory](https://dev.to/puneet_nanda_dc25d8b489ad/the-other-arm-is-a-memory-f17)
+- [I sorted every ALDI Australia coffee by price per 100 g &lpar;10 lines of Python&rpar;](https://dev.to/harborsift/i-sorted-every-aldi-australia-coffee-by-price-per-100-g-10-lines-of-python-idl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
