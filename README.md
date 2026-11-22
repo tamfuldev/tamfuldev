@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia RTX Spark Mini PCs Launch: Compact Powerhouse](https://dev.to/luckytaorem/nvidia-rtx-spark-mini-pcs-launch-compact-powerhouse-3nkm)
-- [The Honest Limits of AI and ML](https://dev.to/amarti/the-honest-limits-of-ai-and-ml-108j)
-- [Instagram Now Lets You Edit Stories After Posting](https://dev.to/luckytaorem/instagram-now-lets-you-edit-stories-after-posting-2a38)
-- [How DealPrice estimates a license range for operational data](https://dev.to/shyam_desigan_c6b74c32b3c/how-dealprice-estimates-a-license-range-for-operational-data-mkg)
-- [A javap alternative for AI agents: an MCP server that reads Java bytecode](https://dev.to/mohammadmd1383/a-javap-alternative-for-ai-agents-an-mcp-server-that-reads-java-bytecode-3322)
+- [AI Gateway Performance Comparison &lpar;2026&rpar;: Python vs Go vs Rust vs Envoy, and Why the Benchmarks Disagree](https://dev.to/park89329u7r9023/ai-gateway-performance-comparison-2026-python-vs-go-vs-rust-vs-envoy-and-why-the-benchmarks-2i5m)
+- [Stop Copy-Pasting Prompts: Build a Content Asset Pipeline Instead](https://dev.to/germey/stop-copy-pasting-prompts-build-a-content-asset-pipeline-instead-5234)
+- [Go Chat Authorization with Room Channels &lpar;Logistics Cursors Versus One Filtered Stream&rpar;](https://dev.to/seraphinalyn7139/go-chat-authorization-with-room-channels-logistics-cursors-versus-one-filtered-stream-5ebn)
+- [Routing Workflow with Spring AI: Classify First, Then Answer](https://dev.to/said_olano/routing-workflow-with-spring-ai-classify-first-then-answer-4m4b)
+- [Murf AI Review for Developers: The $0.16/Minute Rate Only Holds If You Use the Hours. Check It From Your Render Log](https://dev.to/jadenvo259/murf-ai-review-for-developers-the-016minute-rate-only-holds-if-you-use-the-hours-check-it-from-3dd3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
