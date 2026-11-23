@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [DNS Tunneling, Explained: How Data Hides Inside Ordinary DNS Lookups](https://dev.to/kielltampubolon/dns-tunneling-explained-how-data-hides-inside-ordinary-dns-lookups-m7h)
-- [Hai lần giảm giá liên tiếp trong JavaScript: kiểm thử bằng số nguyên](https://dev.to/gia_ssv_69530693b7ff92c/hai-lan-giam-gia-lien-tiep-trong-javascript-kiem-thu-bang-so-nguyen-1262)
-- [Predicting Injury Counts in Motor Vehicle Collisions](https://dev.to/carlosrambles/predicting-injury-counts-in-motor-vehicle-collisions-4on)
-- [MCP Server Backup and Disaster Recovery: A Practical Plan](https://dev.to/jeff_pdc/mcp-server-backup-and-disaster-recovery-a-practical-plan-3mkh)
-- [2026 Legal Review Workspace Security: Tenant Isolation Before Semantic Search](https://dev.to/wilhelmknight8435/2026-legal-review-workspace-security-tenant-isolation-before-semantic-search-5bcd)
+- [Paying an AI agent for work it hasn&#39;t delivered yet: bonded jobs on Solana, tried locally](https://dev.to/agent402dev/paying-an-ai-agent-for-work-it-hasnt-delivered-yet-bonded-jobs-on-solana-tried-locally-3ljn)
+- [The poison is in the parameters: a labelled test set for MCP tool scanners](https://dev.to/mspro3210/the-poison-is-in-the-parameters-a-labelled-test-set-for-mcp-tool-scanners-25k2)
+- [GitHub Enterprise Server&#39;s Pre-Receive Hook Boundary Broke Under a Crafted Download URL](https://dev.to/stark_zhuang_df5076f35c68/github-enterprise-servers-pre-receive-hook-boundary-broke-under-a-crafted-download-url-21ma)
+- [The hour before a test run that nobody plans for](https://dev.to/mapkari/the-hour-before-a-test-run-that-nobody-plans-for-2m96)
+- [A different perspective on text, information and knowledge](https://dev.to/vrenken/a-different-perspective-on-text-information-and-knowledge-2889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
