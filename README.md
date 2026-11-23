@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Figured it was time to start sharing what I&#39;ve been working on...](https://dev.to/ric0c0derlab/figured-it-was-time-to-start-sharing-what-ive-been-working-on-4f58)
-- [API credit would have fixed one of the four faults behind my AI agents&#39; &quot;Try it free&quot; button](https://dev.to/nefayran/api-credit-would-have-fixed-one-of-the-four-faults-behind-my-ai-agents-try-it-free-button-2819)
-- [WARN Act and Your Paid Family Leave — What Happens to Your State Paid Leave After a Layoff Notice](https://dev.to/layoffatlas/warn-act-and-your-paid-family-leave-what-happens-to-your-state-paid-leave-after-a-layoff-notice-3flm)
-- [The Other Arm Is a Memory](https://dev.to/puneet_nanda_dc25d8b489ad/the-other-arm-is-a-memory-f17)
-- [I sorted every ALDI Australia coffee by price per 100 g &lpar;10 lines of Python&rpar;](https://dev.to/harborsift/i-sorted-every-aldi-australia-coffee-by-price-per-100-g-10-lines-of-python-idl)
+- [DNS Tunneling, Explained: How Data Hides Inside Ordinary DNS Lookups](https://dev.to/kielltampubolon/dns-tunneling-explained-how-data-hides-inside-ordinary-dns-lookups-m7h)
+- [Hai lần giảm giá liên tiếp trong JavaScript: kiểm thử bằng số nguyên](https://dev.to/gia_ssv_69530693b7ff92c/hai-lan-giam-gia-lien-tiep-trong-javascript-kiem-thu-bang-so-nguyen-1262)
+- [Predicting Injury Counts in Motor Vehicle Collisions](https://dev.to/carlosrambles/predicting-injury-counts-in-motor-vehicle-collisions-4on)
+- [MCP Server Backup and Disaster Recovery: A Practical Plan](https://dev.to/jeff_pdc/mcp-server-backup-and-disaster-recovery-a-practical-plan-3mkh)
+- [2026 Legal Review Workspace Security: Tenant Isolation Before Semantic Search](https://dev.to/wilhelmknight8435/2026-legal-review-workspace-security-tenant-isolation-before-semantic-search-5bcd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
