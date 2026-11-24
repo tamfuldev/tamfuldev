@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Paying an AI agent for work it hasn&#39;t delivered yet: bonded jobs on Solana, tried locally](https://dev.to/agent402dev/paying-an-ai-agent-for-work-it-hasnt-delivered-yet-bonded-jobs-on-solana-tried-locally-3ljn)
-- [The poison is in the parameters: a labelled test set for MCP tool scanners](https://dev.to/mspro3210/the-poison-is-in-the-parameters-a-labelled-test-set-for-mcp-tool-scanners-25k2)
-- [GitHub Enterprise Server&#39;s Pre-Receive Hook Boundary Broke Under a Crafted Download URL](https://dev.to/stark_zhuang_df5076f35c68/github-enterprise-servers-pre-receive-hook-boundary-broke-under-a-crafted-download-url-21ma)
-- [The hour before a test run that nobody plans for](https://dev.to/mapkari/the-hour-before-a-test-run-that-nobody-plans-for-2m96)
-- [A different perspective on text, information and knowledge](https://dev.to/vrenken/a-different-perspective-on-text-information-and-knowledge-2889)
+- [A dating or matching app still ships its compatibility scoring in the client](https://dev.to/veilvm/a-dating-or-matching-app-still-ships-its-compatibility-scoring-in-the-client-1aam)
+- [How to Operate Private File Uploads: Signed Downloads with Tenant Isolation](https://dev.to/finnianfox8297/how-to-operate-private-file-uploads-signed-downloads-with-tenant-isolation-2997)
+- [Text vs Binary Export in GBase Database: A Reproducible Performance Comparison](https://dev.to/mmllllzcn/text-vs-binary-export-in-gbase-database-a-reproducible-performance-comparison-2479)
+- [Your Crypto Wallet Has a Memory: Why Blockchain Security Needs More Than Address Blacklists](https://dev.to/tronscan_pro/your-crypto-wallet-has-a-memory-why-blockchain-security-needs-more-than-address-blacklists-j60)
+- [A delivery web app still ships its route-optimizer heuristic to every driver](https://dev.to/veilvm/a-delivery-web-app-still-ships-its-route-optimizer-heuristic-to-every-driver-59p0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
