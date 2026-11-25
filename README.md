@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Postiz Self Host Bluesky Python Client](https://dev.to/apexgridtech/postiz-self-host-bluesky-python-client-542b)
-- [A HubSpot migration in n8n you can stop and resume without duplicates](https://dev.to/syed_ali_automation/a-hubspot-migration-in-n8n-you-can-stop-and-resume-without-duplicates-5bl7)
-- [Twilio&#39;s New 10DLC Rejection Codes &lpar;Dec 2026&rpar;: What Each Means and How to Avoid Paying for a Rejection](https://dev.to/connor_gallic/twilios-new-10dlc-rejection-codes-dec-2026-what-each-means-and-how-to-avoid-paying-for-a-16j9)
-- [TAI o GSI: cuatro preguntas para elegir oposición informática con las bases de 2025](https://dev.to/mapaoposiciones/tai-o-gsi-cuatro-preguntas-para-elegir-oposicion-informatica-con-las-bases-de-2025-125i)
-- [University-Industry Partnerships in Mexico: Campus Activations](https://dev.to/mobil3/university-industry-partnerships-in-mexico-campus-activations-3l8c)
+- [GPU Cluster Troubleshooting Guide for 2027: Isolating Originating Ranks in NCCL Timeouts and NVIDIA Xid Faults](https://dev.to/denpex_engineering/gpu-cluster-troubleshooting-guide-for-2027-isolating-originating-ranks-in-nccl-timeouts-and-nvidia-56ab)
+- [How to Make Images More Likely to Surface in ChatGPT and Google AI Answers](https://dev.to/alifar/how-to-make-images-more-likely-to-surface-in-chatgpt-and-google-ai-answers-10p9)
+- [Why your friend can&#39;t open localhost:8000 &lpar;and the 4 things an AI-built app actually needs before sharing&rpar;](https://dev.to/mike_tofu/why-your-friend-cant-open-localhost8000-and-the-4-things-an-ai-built-app-actually-needs-before-2phe)
+- [Password Recovery Links Versus One Time Codes Across 2 Devices](https://dev.to/garrisonsterling2693/password-recovery-links-versus-one-time-codes-across-2-devices-16nc)
+- [Three people connected our app from Claude&#39;s connector directory, and none of them shipped an app: what we fixed](https://dev.to/mike_tofu/three-people-connected-our-app-from-claudes-connector-directory-and-none-of-them-shipped-an-app-220d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
