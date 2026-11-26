@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [GPU Cluster Troubleshooting Guide for 2027: Isolating Originating Ranks in NCCL Timeouts and NVIDIA Xid Faults](https://dev.to/denpex_engineering/gpu-cluster-troubleshooting-guide-for-2027-isolating-originating-ranks-in-nccl-timeouts-and-nvidia-56ab)
-- [How to Make Images More Likely to Surface in ChatGPT and Google AI Answers](https://dev.to/alifar/how-to-make-images-more-likely-to-surface-in-chatgpt-and-google-ai-answers-10p9)
-- [Why your friend can&#39;t open localhost:8000 &lpar;and the 4 things an AI-built app actually needs before sharing&rpar;](https://dev.to/mike_tofu/why-your-friend-cant-open-localhost8000-and-the-4-things-an-ai-built-app-actually-needs-before-2phe)
-- [Password Recovery Links Versus One Time Codes Across 2 Devices](https://dev.to/garrisonsterling2693/password-recovery-links-versus-one-time-codes-across-2-devices-16nc)
-- [Three people connected our app from Claude&#39;s connector directory, and none of them shipped an app: what we fixed](https://dev.to/mike_tofu/three-people-connected-our-app-from-claudes-connector-directory-and-none-of-them-shipped-an-app-220d)
+- [We repaired the model&#39;s numbers twice](https://dev.to/rlmlabs_founder/we-repaired-the-models-numbers-twice-1d19)
+- [The Empty State Is Where Your Product Tells the Truth](https://dev.to/alexcodebytes/the-empty-state-is-where-your-product-tells-the-truth-3d3g)
+- [How we generate 100,000-line files with exactly the bugs we planted](https://dev.to/dawncommit/how-we-generate-100000-line-files-with-exactly-the-bugs-we-planted-3nn6)
+- [Embed a Product Video Without Hurting Core Web Vitals](https://dev.to/demovexa/embed-a-product-video-without-hurting-core-web-vitals-186k)
+- [PSA: Your Code Has a Carbon Footprint](https://dev.to/fatima_arshad_9a0aa31e814/psa-your-code-has-a-carbon-footprint-2pcl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
