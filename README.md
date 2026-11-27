@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What re-typing data between systems really costs your company](https://dev.to/sergenassar/what-re-typing-data-between-systems-really-costs-your-company-2coa)
-- [Claude-BugHunter: A Bug-Hunting Skill Bundle for Claude Code](https://dev.to/karleeov/claude-bughunter-a-bug-hunting-skill-bundle-for-claude-code-36i6)
-- [Validate EU VAT &amp; LEI Numbers Automatically](https://dev.to/verilineapi/validate-eu-vat-lei-numbers-automatically-2m17)
-- [When the Leadership Report and My Actual Security Work Never Quite Line Up](https://dev.to/nsecsoft_nsecsoft_2ce9dce/when-the-leadership-report-and-my-actual-security-work-never-quite-line-up-4oeb)
-- [Modeling NKBA Kitchen Island Clearances, Seating Overhangs, and Work-Aisle Lock Solvers in Pure TypeScript](https://dev.to/clara_sutton/modeling-nkba-kitchen-island-clearances-seating-overhangs-and-work-aisle-lock-solvers-in-pure-357b)
+- [How You Can Run Massive LLMs Even on Consumer Hardware &lpar;5 Bottlenecks, Simple Fixes &amp; Step-by-Step Code&rpar;](https://dev.to/martianacademy/how-you-can-run-massive-llms-even-on-consumer-hardware-5-bottlenecks-simple-fixes-step-by-step-hh)
+- [Tripo3D or GenAnywhere? What I Learned Splitting a Site From Its Objects](https://dev.to/future_built_ai/tripo3d-or-genanywhere-what-i-learned-splitting-a-site-from-its-objects-i39)
+- [Secure Next.js Server Actions for Remotion-Based AI Video Generation](https://dev.to/elena_rostova/secure-nextjs-server-actions-for-remotion-based-ai-video-generation-415f)
+- [Building a Pure-TypeScript 13x13 Crossword CSP Solver and 100-Page Vector PDF Engine on Cloudflare Workers](https://dev.to/opssd/building-a-pure-typescript-13x13-crossword-csp-solver-and-100-page-vector-pdf-engine-on-cloudflare-2nje)
+- [What Makes Reliable RF Connector Components? A Manufacturing Perspective](https://dev.to/jccasting11/what-makes-reliable-rf-connector-components-a-manufacturing-perspective-35c3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
