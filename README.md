@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How You Can Run Massive LLMs Even on Consumer Hardware &lpar;5 Bottlenecks, Simple Fixes &amp; Step-by-Step Code&rpar;](https://dev.to/martianacademy/how-you-can-run-massive-llms-even-on-consumer-hardware-5-bottlenecks-simple-fixes-step-by-step-hh)
-- [Tripo3D or GenAnywhere? What I Learned Splitting a Site From Its Objects](https://dev.to/future_built_ai/tripo3d-or-genanywhere-what-i-learned-splitting-a-site-from-its-objects-i39)
-- [Secure Next.js Server Actions for Remotion-Based AI Video Generation](https://dev.to/elena_rostova/secure-nextjs-server-actions-for-remotion-based-ai-video-generation-415f)
-- [Building a Pure-TypeScript 13x13 Crossword CSP Solver and 100-Page Vector PDF Engine on Cloudflare Workers](https://dev.to/opssd/building-a-pure-typescript-13x13-crossword-csp-solver-and-100-page-vector-pdf-engine-on-cloudflare-2nje)
-- [What Makes Reliable RF Connector Components? A Manufacturing Perspective](https://dev.to/jccasting11/what-makes-reliable-rf-connector-components-a-manufacturing-perspective-35c3)
+- [Switching an English–French form after a validation error: a local test](https://dev.to/reluniva-team/switching-an-english-french-form-after-a-validation-error-a-local-test-4fac)
+- [All or Nothing: Testing DynamoDB Transaction Atomicity with Tables](https://dev.to/sidharth_bangera/all-or-nothing-testing-dynamodb-transaction-atomicity-with-tables-172a)
+- [Chemical precipitation is a pH window, not a setpoint](https://dev.to/kevinchoi133490/chemical-precipitation-is-a-ph-window-not-a-setpoint-1449)
+- [Keeping High-Risk Incident Runbooks Accurate as Infrastructure Evolves](https://dev.to/maricode/keeping-high-risk-incident-runbooks-accurate-as-infrastructure-evolves-558g)
+- [I Built a Free Google Search Console Analytics Tool That Runs in Your Browser &lpar;No Signup&rpar;](https://dev.to/bellal_hossain_057bfd620a/i-built-a-free-google-search-console-analytics-tool-that-runs-in-your-browser-no-signup-4blo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
