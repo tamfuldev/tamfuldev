@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [What a Thanksgiving-Week Delivery Shift Really Pays After Miles](https://dev.to/vajgrtlabs/what-a-thanksgiving-week-delivery-shift-really-pays-after-miles-2ni6)
-- [Event 4776 NTLM Credential Validation Failed: A Read-First Error Code, Source Workstation, and Account Triage](https://dev.to/adminpackstudio/event-4776-ntlm-credential-validation-failed-a-read-first-error-code-source-workstation-and-5gga)
-- [SSH hardening checklist for a fresh Ubuntu 24.04 or Debian 12 VPS](https://dev.to/phantomvps/ssh-hardening-checklist-for-a-fresh-ubuntu-2404-or-debian-12-vps-4k8k)
-- [Stop copying Box credentials into every AI agent](https://dev.to/postman/stop-copying-box-credentials-into-every-ai-agent-eio)
-- [Kubernetes 1.38 Adds 27 Alpha Features, Raising Operational Complexity for Teams Evaluating Pre-Release Changes](https://dev.to/alitron/kubernetes-138-adds-27-alpha-features-raising-operational-complexity-for-teams-evaluating-2phf)
+- [What re-typing data between systems really costs your company](https://dev.to/sergenassar/what-re-typing-data-between-systems-really-costs-your-company-2coa)
+- [Claude-BugHunter: A Bug-Hunting Skill Bundle for Claude Code](https://dev.to/karleeov/claude-bughunter-a-bug-hunting-skill-bundle-for-claude-code-36i6)
+- [Validate EU VAT &amp; LEI Numbers Automatically](https://dev.to/verilineapi/validate-eu-vat-lei-numbers-automatically-2m17)
+- [When the Leadership Report and My Actual Security Work Never Quite Line Up](https://dev.to/nsecsoft_nsecsoft_2ce9dce/when-the-leadership-report-and-my-actual-security-work-never-quite-line-up-4oeb)
+- [Modeling NKBA Kitchen Island Clearances, Seating Overhangs, and Work-Aisle Lock Solvers in Pure TypeScript](https://dev.to/clara_sutton/modeling-nkba-kitchen-island-clearances-seating-overhangs-and-work-aisle-lock-solvers-in-pure-357b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
