@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Healthtech Supplier PDFs — Decrypt, Process, and Delete 1 Intermediate Copy](https://dev.to/jamesanderson121/nodejs-healthtech-supplier-pdfs-decrypt-process-and-delete-1-intermediate-copy-544f)
-- [Cost-Aware Routing for AI Video: Pick the Right Upstream per Request](https://dev.to/xiao_lin_d3a217fb49d23f1b/cost-aware-routing-for-ai-video-pick-the-right-upstream-per-request-53pl)
-- [Private Document Downloads with Signed URLs — A Practical Provider Comparison](https://dev.to/uriahhawkins5489/private-document-downloads-with-signed-urls-a-practical-provider-comparison-28i5)
-- [Hardening AI Agent Delegation: Approval Integrity, Atomic Budgets and Spawn Gates in RagLeap](https://dev.to/ragleap/hardening-ai-agent-delegation-approval-integrity-atomic-budgets-and-spawn-gates-in-ragleap-18bf)
-- [It Listens While It Talks: InternLM&#39;s Sage-Interaction and the End of Turn-Taking](https://dev.to/ton_thnhthy_ba110cce85/it-listens-while-it-talks-internlms-sage-interaction-and-the-end-of-turn-taking-4ago)
+- [Let Claude or ChatGPT rent your servers: an MCP server with OAuth and a spending cap](https://dev.to/sauberr/let-claude-or-chatgpt-rent-your-servers-an-mcp-server-with-oauth-and-a-spending-cap-26i4)
+- [C# 15 Unpacked: Closed Hierarchies, the Members-Only Club for Your Classes](https://dev.to/georgekobaidze/c-15-unpacked-closed-hierarchies-the-members-only-club-for-your-classes-58dc)
+- [Why My Server&#39;s CPU Would Not Go to Sleep](https://dev.to/robinreinecke/why-my-servers-cpu-would-not-go-to-sleep-50dj)
+- [Stop AI Coding Agents From Deploying Wildcard AWS IAM Roles and Privileged EKS Pods &lpar;&lt;15ms MCP&rpar;](https://dev.to/corenovalabs/stop-ai-coding-agents-from-deploying-wildcard-aws-iam-roles-and-privileged-eks-pods-15ms-mcp-21db)
+- [Three craft formulas that look trivial and aren&#39;t: quilt backing, candle fragrance, soap lye](https://dev.to/akasha_ahmed/three-craft-formulas-that-look-trivial-and-arent-quilt-backing-candle-fragrance-soap-lye-3kpk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
