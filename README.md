@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building m
 
 # Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Switching an English–French form after a validation error: a local test](https://dev.to/reluniva-team/switching-an-english-french-form-after-a-validation-error-a-local-test-4fac)
-- [All or Nothing: Testing DynamoDB Transaction Atomicity with Tables](https://dev.to/sidharth_bangera/all-or-nothing-testing-dynamodb-transaction-atomicity-with-tables-172a)
-- [Chemical precipitation is a pH window, not a setpoint](https://dev.to/kevinchoi133490/chemical-precipitation-is-a-ph-window-not-a-setpoint-1449)
-- [Keeping High-Risk Incident Runbooks Accurate as Infrastructure Evolves](https://dev.to/maricode/keeping-high-risk-incident-runbooks-accurate-as-infrastructure-evolves-558g)
-- [I Built a Free Google Search Console Analytics Tool That Runs in Your Browser &lpar;No Signup&rpar;](https://dev.to/bellal_hossain_057bfd620a/i-built-a-free-google-search-console-analytics-tool-that-runs-in-your-browser-no-signup-4blo)
+- [Node.js Healthtech Supplier PDFs — Decrypt, Process, and Delete 1 Intermediate Copy](https://dev.to/jamesanderson121/nodejs-healthtech-supplier-pdfs-decrypt-process-and-delete-1-intermediate-copy-544f)
+- [Cost-Aware Routing for AI Video: Pick the Right Upstream per Request](https://dev.to/xiao_lin_d3a217fb49d23f1b/cost-aware-routing-for-ai-video-pick-the-right-upstream-per-request-53pl)
+- [Private Document Downloads with Signed URLs — A Practical Provider Comparison](https://dev.to/uriahhawkins5489/private-document-downloads-with-signed-urls-a-practical-provider-comparison-28i5)
+- [Hardening AI Agent Delegation: Approval Integrity, Atomic Budgets and Spawn Gates in RagLeap](https://dev.to/ragleap/hardening-ai-agent-delegation-approval-integrity-atomic-budgets-and-spawn-gates-in-ragleap-18bf)
+- [It Listens While It Talks: InternLM&#39;s Sage-Interaction and the End of Turn-Taking](https://dev.to/ton_thnhthy_ba110cce85/it-listens-while-it-talks-internlms-sage-interaction-and-the-end-of-turn-taking-4ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
